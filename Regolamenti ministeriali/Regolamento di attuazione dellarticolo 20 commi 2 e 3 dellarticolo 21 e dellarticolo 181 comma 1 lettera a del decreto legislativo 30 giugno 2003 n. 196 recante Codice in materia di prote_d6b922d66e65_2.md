@@ -1,36 +1,46 @@
-DECRETO 23 giugno 2004 n. 225
+DECRETO 12 dicembre 2007 n. 277
 
 
-DECRETO 23 giugno 2004 n. 225
-=============================
+DECRETO 12 dicembre 2007 n. 277
+===============================
 
-Regolamento di attuazione dell'articolo 20, commi 2 e 3, dell'articolo 21 e dell'articolo 181, comma 1, lettera a) del decreto legislativo 30 giugno 2003, n. 196, recante «Codice in materia di protezione dei dati personali».
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Regolamento di attuazione dell'articolo 20, commi 2 e 3, dell'articolo 21 e dell'articolo 181, comma 1, lettera a) del decreto legislativo 30 giugno 2003, n. 196, recante: «Codice in materia di protezione dei dati personali».
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Entrata in vigore del provvedimento: 8/9/2004
+Entrata in vigore del provvedimento: 2/4/2008
 
-IL MINISTRO DEGLI AFFARI ESTERI
--------------------------------
-
-Visto il [decreto legislativo 30 giugno 2003, n. 196](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2003-06-30;196), recante il [codice in materia di protezione dei dati personali](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2003-06-30;196) con particolare riferimento agli articoli 20, 21 e 181, comma 1, lettera a);
-
-Visto il [decreto del Presidente della Repubblica 5 gennaio 1967, n. 18](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1967-01-05;18), e successive modificazioni ed integrazioni, recante ordinamento dell'Amministrazione degli affari esteri;
+IL MINISTRO DELLA SALUTE
+------------------------
 
 Visto l'[articolo 17, commi 3](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400~art17-com3) e [4, della legge 23 agosto 1988, n. 400](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400~art17-com4);
 
-Visto il [decreto del Presidente della Repubblica 11 maggio 1999, n. 267](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1999-05-11;267), recante il regolamento concernente l'organizzazione e le funzioni degli uffici di livello dirigenziale generale dell'Amministrazione centrale del Ministero degli affari esteri;
+Visto il [decreto del Presidente della Repubblica 28 marzo 2003, n. 129](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2003-03-28;129), con il quale e' stato emanato il regolamento di organizzazione del Ministero della salute;
 
-Visto il [decreto del Presidente della Repubblica 24 giugno 2002, n. 157](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2002-06-24;157), che reca modifiche ed integrazioni al citato [decreto del Presidente della Repubblica 11 maggio 1999, n. 267](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1999-05-11;267);
+Visto il [decreto legislativo 30 giugno 2003, n. 196](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2003-06-30;196) «[Codice in materia di protezione dei dati personali](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2003-06-30;196)», di seguito denominato Codice;
 
-Visto il provvedimento del Garante per la protezione dei dati personali in data 17 gennaio 2002;
+Considerato che
 
-Ravvisata la necessita' di provvedere ad identificare i tipi di dati sensibili e giudiziari trattati nell'ambito dell'Amministrazione degli affari esteri, le finalita' di interesse pubblico perseguite dal trattamento e le operazione eseguite con gli stessi dati;
+gli articoli 20, comma 2, e l'articolo 21, comma 2 del Codice, stabiliscono che nei casi in cui una disposizione di legge specifichi la finalita' di rilevante interesse pubblico, ma non i tipi di dati sensibili e giudiziari trattabili ed i tipi di operazioni su questi eseguibili, il trattamento e' consentito solo in riferimento a quei tipi di dati e di operazioni identificati e resi pubblici a cura dei soggetti che ne effettuano il trattamento, in relazione alle specifiche finalita' perseguite nei singoli casi;
 
-Sentito il Garante per la protezione dei dati personali ai sensi dell'[articolo 154, comma 1, lettera g), del decreto legislativo 30 giugno 2003, n. 196](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2003-06-30;196~art154-com1-letg);
+ai sensi del citato articolo 20, comma 2, l'identificazione dei tipi di dati e operazioni deve avvenire con atto di natura regolamentare adottato in conformita' al parere espresso dal Garante per la protezione dei dati personali (di seguito denominato Garante ovvero Autorita' Garante), ai sensi dell'articolo 154, comma 1, lettera g);
 
-Udito il parere del Consiglio di Stato espresso dalla sezione consultiva per gli atti normativi nell'adunanza del 15 dicembre 2003, n. 5215/03;
+l'articolo 20, comma 4, del Codice, prevede che l'identificazione di cui all'articolo 20, comma 2, debba essere aggiornata e integrata periodicamente;
 
-Vista la comunicazione al Presidente del Consiglio dei Ministri, a norma dell'articolo 17, comma 3, della citata [legge n. 400 del 1988](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988;400), con nota del 21 maggio 2003, e il relativo nulla osta con nota del 9 giugno 2004;
+l'articolo 22, comma 5, del Codice, prevede che i soggetti pubblici verificano periodicamente l'esattezza e l'aggiornamento dei dati sensibili e giudiziari, nonche' la loro pertinenza, completezza, non eccedenza e indispensabilita' rispetto alle finalita' perseguite nei singoli casi, anche con riferimento ai dati che l'interessato fornisce di propria iniziativa;
+
+Ritenuto che si rende necessaria la redazione di un regolamento per il trattamento dei dati sensibili e giudiziari ex articolo 20, comma 2, e articolo 21, comma 2 del Codice, di cui e' titolare il Ministero della salute;
+
+Ritenuto che nel presente regolamento non sono inseriti i tipi di dati e le operazioni eseguibili concernenti dati non compresi tra quelli sensibili o giudiziari, nonche' i trattamenti effettuati per finalita' di tutela della salute o dell'incolumita' fisica dell'interessato, di un terzo o della collettivita', per i quali si osservano le disposizioni di cui all'articolo 76, comma 1, del Codice;
+
+Vista l'autorizzazione del Garante n. 7, relativa al trattamento di dati giudiziari ai fini dell'applicazione della normativa in materia di comunicazioni e certificazioni antimafia o in materia di prevenzione della delinquenza di tipo mafioso e di altre gravi forme di manifestazione di pericolosita' sociale, che specifica, oltre alle rilevanti finalita' di interesse pubblico, anche le tipologie di dati e le operazioni eseguibili ai sensi dell'articolo 21, comma 1 del Codice;
+
+Considerato che tra le operazioni effettuate dal Ministero della salute che possono spiegare effetti maggiormente significativi per l'interessato, rientrano, in particolare, quelle svolte pressoche' interamente mediante siti web, o volte a definire in forma completamente automatizzata profili o personalita' di interessati, le interconnessioni e i raffronti tra banche di dati gestite da diversi titolari, oppure con altre informazioni sensibili e giudiziarie detenute dal medesimo titolare del trattamento, nonche' il trasferimento di dati all'estero, la comunicazione e la diffusione;
+
+Acquisito il parere del Garante per la protezione dei dati personali, reso ai sensi dell'[articolo 154, comma 1, lettera g), del decreto legislativo 30 giugno 2003, n. 196 in data 28 febbraio 2007](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2007-02-28;196~art154-com1-letg);
+
+Vista la comunicazione al Presidente del Consiglio dei Ministri, a norma dell'articolo 17, comma 3, della citata [legge n. 400 del 1988](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988;400), con nota del 7 novembre 2007 e il relativo nulla osta con nota del 16 novembre 2007;
+
+Udito il parere del Consiglio di Stato espresso dalla Sezione consultiva per gli atti normativi nell'adunanza del 17 settembre 2007;
 
 Adotta
 ------
@@ -40,83 +50,271 @@ il seguente regolamento:
 Art. 1
 ------
 
-1. In relazione ai procedimenti relativi alle assenze per malattia od alla concessione di aspettative o permessi sindacali, sono oggetto di trattazione e di conservazione da parte dei singoli uffici di livello dirigenziale dell'amministrazione centrale del Ministero degli affari esteri, dati attinenti allo stato di salute dei propri dipendenti, come pure informazioni circa l'adesione a sindacati o la partecipazione ad attivita' di carattere sindacale. Da parte degli stessi uffici possono essere altresi' oggetto di trattazione e di conservazione, ancorche' in via eventuale, ulteriori dati sensibili o dati giudiziari che vengono in loro possesso nella gestione dei rapporti di lavoro dei propri dipendenti in relazione alle finalita' di cui all'[articolo 112 del decreto legislativo 30 giugno 2003, n. 196](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2003-06-30;196~art112).
+Oggetto
 
-2. Nella tabella allegata, che costituisce parte integrante del presente regolamento, sono individuati i dati sensibili trattati e conservati dagli uffici di livello dirigenziale generale dell'amministrazione centrale del Ministero degli affari esteri, ulteriori rispetto a quelli identificati nel precedente comma, le finalita' di interesse pubblico perseguite col trattamento, nonche' le specifiche operazioni eseguibili.
+1. Il presente regolamento, in attuazione degli [articoli 20](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2003-06-30;196~art20) e [21 del decreto legislativo 30 giugno 2003, n. 196](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2003-06-30;196~art21), recante il «[codice in materia di protezione dei dati personali](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2003-06-30;196)», identifica i tipi di dati sensibili e giudiziari e le operazioni eseguibili da parte del Ministero della salute nello svolgimento:
 
-3. Gli uffici all'estero di cui al [primo comma dell'articolo 30 del decreto del Presidente della Repubblica 5 gennaio 1967, n. 18](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1967-01-05;18~art30-com1), trattano e conservano gli stessi dati sensibili indicati nei commi 1 e 2 del presente articolo, per lo svolgimento delle funzioni di rispettiva competenza.
+a) delle attivita' istituzionali strumentali al funzionamento e all'organizzazione del Ministero;
+
+b) delle attivita' amministrative correlate alla gestione dell'assistenza sanitaria al personale navigante (SASN);
+
+c) delle attivita' istituzionali del Ministero nell'ambito del Sistema sanitario nazionale.
+
+Avvertenza:  
+Il testo delle note qui pubblicato e' stato redatto dall'amministrazione competente per materia ai sensi dell'art. 10, comma 3, del testo unico delle disposizioni sulla promulgazione delle leggi, sull'emanazione dei decreti del Presidente della Repubblica e sulle pubblicazioni ufficiali della Repubblica italiana, approvato con [D.P.R. 28 dicembre 1985, n. 109](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1985-12-28;109), al solo fine di facilitare la lettura delle disposizioni di legge alle quali e' operato il rinvio. Restano invariati il valore e l'efficacia degli atti legislativi qui trascritti.  
+Note al titolo:  
+- Si riporta il testo degli [articoli 20](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2003-06-30;196~art20) e [21 del decreto legislativo 30 giugno 2003, n. 196](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2003-06-30;196~art21) ([Codice in materia di protezione dei dati personali](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2003-06-30;196)):  
+«Art. 20 (Principi applicabili al trattamento di dati sensibili). - 1. Il trattamento dei dati sensibili da parte di soggetti pubblici e' consentito solo se autorizzato da espressa disposizione di legge nella quale sono specificati i tipi di dati che possono essere trattati e di operazioni eseguibili e le finalita' di rilevante interesse pubblico perseguite.  
+2. Nei casi in cui una disposizione di legge specifica la finalita' di rilevante interesse pubblico, ma non i tipi di dati sensibili e di operazioni eseguibili, il trattamento e' consentito solo in riferimento ai tipi di dati e di operazioni identificati e resi pubblici a cura dei soggetti che ne effettuano il trattamento, in relazione alle specifiche finalita' perseguite nei singoli casi e nel rispetto dei principi di cui all'art. 22, con atto di natura regolamentare adottato in conformita' al parere espresso dal Garante ai sensi dell'art. 154, comma 1, lettera g), anche su schemi tipo.  
+3. Se il trattamento non e' previsto espressamente da una disposizione di legge i soggetti pubblici possono richiedere al Garante l'individuazione delle attivita', tra quelle demandate ai medesimi soggetti dalla legge, che perseguono finalita' di rilevante interesse pubblico e per le quali e' conseguentemente autorizzato, ai sensi dell'art. 26, comma 2, il trattamento dei dati sensibili.  
+Il trattamento e' consentito solo se il soggetto pubblico provvede altresi' a identificare e rendere pubblici i tipi di dati e di operazioni nei modi di cui al comma 2.  
+4. L'identificazione dei tipi di dati e di operazioni di cui ai commi 2 e 3 e' aggiornata e integrata periodicamente.».  
+«Art. 21 (Principi applicabili al trattamento di dati giudiziari). - 1. Il trattamento di dati giudiziari da parte di soggetti pubblici e' consentito solo se autorizzato da espressa disposizione di legge o provvedimento del Garante che specifichino le finalita' di rilevante interesse pubblico del trattamento, i tipi di dati trattati e di operazioni eseguibili.  
+2. Le disposizioni di cui all'art. 20, commi 2 e 4, si applicano anche al trattamento dei dati giudiziari.».  
+- Il [comma 1, lettera a), dell'art. 181 del decreto legislativo 30 giugno 2003, n. 196](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2003-06-30;196~art181-com1-leta) ([Codice in materia di protezione dei dati personali](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2003-06-30;196)) e' il seguente:  
+«Art. 181 (Altre disposizioni transitorie). - 1. Per i trattamenti di dati personali iniziati prima del 1° gennaio 2004, in sede di prima applicazione del presente codice: a) l'identificazione con atto di natura regolamentare dei tipi di dati e di operazioni ai sensi degli articoli 20, commi 2 e 3, e 21, comma 2, e' effettuata, ove mancante, entro il 30 settembre 2004.».  
+Note alle premesse:  
+- I [commi 3](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400~art17-com3) e [4 dell'art. 17 della legge 23 agosto 1988, n. 400](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400~art17-com4) (Disciplina dell'attivita' di Governo e ordinamento della Presidenza del Consiglio dei Ministri) sono i seguenti:  
+«3. Con decreto ministeriale possono essere adottati regolamenti nelle materie di competenza del Ministro o di autorita' sottordinate al Ministro, quando la legge espressamente conferisca tale potere. Tali regolamenti, per materie di competenza di piu' Ministri, possono essere adottati con decreti interministeriali, ferma restando la necessita' di apposita autorizzazione da parte della legge.  
+I regolamenti ministeriali ed interministeriali non possono dettare norme contrarie a quelle dei regolamenti emanati dal Governo. Essi debbono essere comunicati al Presidente del Consiglio dei Ministri prima della loro emanazione.  
+4. I regolamenti di cui al comma 1 ed i regolamenti ministeriali ed interministeriali, che devono recare la denominazione di "regolamento", sono adottati previo parere del Consiglio di Stato, sottoposti al visto ed alla registrazione della Corte dei conti e pubblicati nella Gazzetta Ufficiale.».  
+- Il [decreto del Presidente della Repubblica 28 marzo 2003, n. 129](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2003-03-28;129) (Regolamento di organizzazione del Ministero della salute) e' stato [pubblicato nella Gazzetta Ufficiale n. 129 del 6 giugno 2003](http://www.gazzettaufficiale.it/gazzetta/serie_generale/caricaDettaglio?dataPubblicazioneGazzetta=2003-06-06&numeroGazzetta=129).  
+- Il [comma 5 dell'art. 22 del decreto legislativo 30 giugno 2003, n. 196](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2003-06-30;196~art22-com5) ([Codice in materia di protezione dei dati personali](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2003-06-30;196)) e' il seguente:  
+«Art. 22 (Principi applicabili al trattamento di dati sensibili e giudiziari). - 1.-4. (Omissis).  
+5. In applicazione dell'art. 11, comma 1, lettere c), d) ed e), i soggetti pubblici verificano periodicamente l'esattezza e l'aggiornamento dei dati sensibili e giudiziari, nonche' la loro pertinenza, completezza, non eccedenza e indispensabilita' rispetto alle finalita' perseguite nei singoli casi, anche con riferimento ai dati che l'interessato fornisce di propria iniziativa. Al fine di assicurare che i dati sensibili e giudiziari siano indispensabili rispetto agli obblighi e ai compiti loro attribuiti, i soggetti pubblici valutano specificamente il rapporto tra i dati e gli adempimenti. I dati che, anche a seguito delle verifiche, risultano eccedenti o non pertinenti o non indispensabili non possono essere utilizzati, salvo che per l'eventuale conservazione, a norma di legge, dell'atto o del documento che li contiene. Specifica attenzione e' prestata per la verifica dell'indispensabilita' dei dati sensibili e giudiziari riferiti a soggetti diversi da quelli cui si riferiscono direttamente le prestazioni o gli adempimenti.  
+- Il [comma 1 dell'art. 76 del decreto legislativo 30 giugno 2003, n. 196](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2003-06-30;196~art76-com1) ([Codice in materia di protezione dei dati personali](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2003-06-30;196)) e' il seguente:  
+«Art. 76 (Esercenti professioni sanitarie e organismi sanitari pubblici). - 1. Gli esercenti le professioni sanitarie e gli organismi sanitari pubblici, anche nell'ambito di un'attivita' di rilevante interesse pubblico ai sensi dell'art. 85, trattano i dati personali idonei a rivelare lo stato di salute:  
+a) con il consenso dell'interessato e anche senza l'autorizzazione del Garante, se il trattamento riguarda dati e operazioni indispensabili per perseguire una finalita' di tutela della salute o dell'incolumita' fisica dell'interessato;  
+b) anche senza il consenso dell'interessato e previa autorizzazione del Garante, se la finalita' di cui alla lettera a) riguarda un terzo o la collettivita'.».  
+- Il [comma 1, lettera g), dell'art. 154 del decreto legislativo 30 giugno 2003, n. 196](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2003-06-30;196~art154-com1-letg) - ([Codice in materia di protezione dei dati personali](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2003-06-30;196)) e' il seguente:  
+«Art. 154 (Compiti). - 1. Oltre a quanto previsto da specifiche disposizioni, il Garante, anche avvalendosi dell'Ufficio e in conformita' al presente codice, ha il compito di:  
+a)-f) (omissis);  
+g) esprimere pareri nei casi previsti.».
+
+Art. 2
+------
+
+Disposizioni generali
+
+1. Gli allegati A, B e C, con le schede in essi contenute e riferiti, rispettivamente, ai trattamenti di cui alle lettere a), b) e c) dell'articolo 1, comma 1, che formano parte integrante del presente regolamento, individuano i dati sensibili e giudiziari per i quali e' consentito il relativo trattamento, nonche' le operazioni eseguibili, in riferimento alle specifiche finalita' di rilevante interesse pubblico perseguite.
+
+2. I dati sensibili e giudiziari cosi' raccolti sono trattati, previa verifica della loro pertinenza, completezza ed indispensabilita' rispetto alle finalita' perseguite nei singoli casi, specie quando la raccolta non avviene presso l'interessato.
+
+3. Le operazioni di comunicazione, raffronto e di trasferimento di dati sulla salute all'estero individuate nel presente regolamento sono ammesse soltanto se indispensabili allo svolgimento degli obblighi o compiti di volta in volta indicati, per il perseguimento delle rilevanti finalita' di interesse pubblico specificato e nel rispetto delle disposizioni in materia di protezione dei dati personali, nonche' degli altri limiti stabiliti dalla legge e dai regolamenti.  
+I raffronti effettuati utilizzando banche di dati di diversi titolari del trattamento sono ammessi esclusivamente previa verifica della loro stretta indispensabilita' nei singoli casi e nel rispetto dei limiti e con le modalita' stabiliti dalle disposizioni legislative che le prevedono.
+
+4. Sono inutilizzabili i dati trattati in violazione della disciplina rilevante in materia di trattamento dei dati personali ([articoli 11](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2003-06-30;196~art11) e [22, comma 5, del decreto legislativo 30 giugno 2003, n. 196](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2003-06-30;196~art22-com5)).
+
+Note all'[art. 2](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2003-06-30;196~art2):  
+- L'[art. 11 del decreto legislativo 30 giugno 2003, n. 196](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2003-06-30;196~art11) ([Codice in materia di protezione dei dati personali](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2003-06-30;196)) e' il seguente:  
+«Art. 11 (Modalita' del trattamento e requisiti dei dati). - 1. I dati personali oggetto di trattamento sono:  
+a) trattati in modo lecito e secondo correttezza;  
+b) raccolti e registrati per scopi determinati, espliciti e legittimi, ed utilizzati in altre operazioni del trattamento in termini compatibili con tali scopi;  
+c) esatti e, se necessario, aggiornati;  
+d) pertinenti, completi e non eccedenti rispetto alle finalita' per le quali sono raccolti o successivamente trattati;  
+e) conservati in una forma che consenta l'identificazione dell'interessato per un periodo di tempo non superiore a quello necessario agli scopi per i quali essi sono stati raccolti o successivamente trattati.  
+2. I dati personali trattati in violazione della disciplina rilevante in materia di trattamento dei dati personali non possono essere utilizzati.».  
+- Per il testo dell'[art. 22, comma 5, del decreto legislativo n. 196 del 2003](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2003;196~art22-com5), si veda nelle note alle premesse.
+
+Art. 3
+------
+
+Riferimenti normativi
+
+  
+Al fine di una maggiore semplificazione e leggibilita' del presente regolamento, le disposizioni di legge, citate nella parte descrittiva delle «fonti normative» delle schede, si intendono come recanti le successive modifiche e integrazioni.  
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserito nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Roma, 23 giugno 2004
+### Roma, 12 dicembre 2007
 
-Il Ministro: Frattini
+Il Ministro: Turco
 
-Visto, il Guardasigilli: Castelli Registrato alla Corte dei conti il 6 agosto 2004
+Visto, il Guardasigilli: Scotti Registrato alla Corte dei conti il 18 febbraio 2008 Ufficio di controllo preventivo sui Ministeri dei servizi alla
 
-Ministeri istituzionali, registro n. 9, foglio n. 60
+persona e dei beni culturali, registro n. 1, foglio n. 182
 
-Avvertenza:  
-Il testo delle note qui pubblicato e' stato redatto dall'amministrazione competente per materia, ai sensi dell'art. 10, commi 2 e 3, del testo unico delle disposizioni sulla promulgazione delle leggi, sull'emanazione dei decreti del Presidente della Repubblica e sulle pubblicazioni ufficiali della Repubblica italiana, approvato con [D.P.R. 28 dicembre 1985, n. 1092](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1985-12-28;1092), al solo fine di facilitare la lettura delle disposizioni di legge modificate o alle quali e' operato il rinvio. Restano invariati il valore e l'efficacia degli atti legislativi qui trascritti.  
-Note alle premesse:  
-- Il [decreto legislativo 30 giugno 2003, n. 196](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2003-06-30;196), [pubblicato nella Gazzetta Ufficiale n. 174 del 29 luglio 2003](http://www.gazzettaufficiale.it/gazzetta/serie_generale/caricaDettaglio?dataPubblicazioneGazzetta=2003-07-29&numeroGazzetta=174), S.O. reca: «[Codice in materia di protezione dei dati personali](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2003-06-30;196)».  
-- Si trascrivono i [commi 2](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2003-06-30;196~art20-com2) e [3, dell'art. 20, del decreto legislativo 30 giugno 2003, n. 196](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2003-06-30;196~art20-com3):  
-«2. Nei casi in cui una disposizione di legge specifica la finalita' di rilevante interesse pubblico, ma non i tipi di dati sensibili e di operazioni eseguibili, il trattamento e' consentito solo in riferimento ai tipi di dati e di operazioni identificati e resi pubblici a cura dei soggetti che ne effettuano il trattamento, in relazione alle specifiche finalita' perseguite nei singoli casi e nel rispetto dei principi di cui all'art. 22, con atto di natura regolamentare adottato in conformita' al parere espresso dal Garante ai sensi dell'art. 154, comma 1, lettera g), anche su schemi tipo.  
-«3. Se il trattamento non e' previsto espressamente da una disposizione di legge i soggetti pubblici possono richiedere al Garante l'individuazione delle attivita', tra quelle demandate ai medesimi soggetti dalla legge, che perseguono finalita' di rilevante interesse pubblico e per le quali e' conseguentemente autorizzato, ai sensi dell'art. 26, comma 2, il trattamento dei dati sensibili.  
-Il trattamento e' consentito solo se il soggetto pubblico provvede altresi' a identificare e rendere pubblici i tipi di dati e di operazioni nei modi di cui al comma 2.».  
-- Si trascrive l'[art. 21, comma 2, del decreto legislativo 30 giugno 2003, n. 196](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2003-06-30;196~art21-com2):  
-«2. Le disposizioni di cui all'art. 20, commi 2 e 4, si applicano anche al trattamento dei dati giudiziari.».  
-- Si trascrive l'[art. 181, comma 1, lettera a), del decreto legislativo 30 giugno 2003, n. 196](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2003-06-30;196~art181-com1-leta):  
-«1. Per i trattamenti di dati personali iniziati prima del 1° gennaio 2004, in sede di prima applicazione del presente codice:  
-a) l'identificazione con atto di natura regolamentare dei tipi di dati e di operazioni ai sensi degli articoli 20, commi 2 e 3, e 21, comma 2, e' effettuata, ove mancante, entro il 30 settembre 2004;».  
-- Il [decreto del Presidente della Repubblica 5 gennaio 1967, n. 18, pubblicato nella Gazzetta Ufficiale n. 44 del 18 febbraio 1967](http://www.gazzettaufficiale.it/gazzetta/serie_generale/caricaDettaglio?dataPubblicazioneGazzetta=1967-02-18&numeroGazzetta=44), S.O., reca: «Ordinamento dell'Amministrazione degli affari esteri».  
-- La [legge 23 agosto 1988, n. 400](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400), [pubblicata nella Gazzetta Ufficiale n. 214 del 12 settembre 1988](http://www.gazzettaufficiale.it/gazzetta/serie_generale/caricaDettaglio?dataPubblicazioneGazzetta=1988-09-12&numeroGazzetta=214), S.O., reca: «Disciplina dell'attivita' di Governo e ordinamento della Presidenza del Consiglio dei Ministri».  
-- Si trascrive l'[art. 17, commi 3](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400~art17-com3) e [4, della legge 23 agosto 1988, n. 400](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400~art17-com4):  
-«3. Con decreto ministeriale possono essere adottati regolamenti nelle materie di competenza del Ministro o di autorita' sottordinate al Ministro, quando la legge espressamente conferisca tale potere. Tali regolamenti, per materie di competenza di piu' Ministri, possono essere adottati con decreti interministeriali, ferma restando la necessita' di apposita autorizzazione da parte della legge.  
-I regolamenti ministeriali ed interministeriali non possono dettare norme contrarie a quelle dei regolamenti emanati dal Governo. Essi debbono essere comunicati al Presidente del Consiglio dei Ministri prima della loro emanazione.  
-4. I regolamenti di cui al comma 1 ed i regolamenti ministeriali ed interministeriali, che devono recare la denominazione di «regolamento», sono adottati previo parere del Consiglio di Stato, sottoposti al visto ed alla registrazione della Corte dei conti e pubblicati nella Gazzetta Ufficiale.».  
-- Il [decreto del Presidente della Repubblica 11 maggio 1999, n. 267, pubblicato nella Gazzetta Ufficiale n. 183 del 6 agosto 1999](http://www.gazzettaufficiale.it/gazzetta/serie_generale/caricaDettaglio?dataPubblicazioneGazzetta=1999-08-06&numeroGazzetta=183), S.O., reca: «Regolamento recante norme per l'individuazione degli uffici di livello dirigenziale generale, nonche' delle relative funzioni, dell'Amministrazione centrale del Ministero degli affari esteri.».  
-- Il [decreto del Presidente della Repubblica 24 giugno 2002, n. 157, pubblicato nella Gazzetta Ufficiale n. 176 del 29 luglio 2002](http://www.gazzettaufficiale.it/gazzetta/serie_generale/caricaDettaglio?dataPubblicazioneGazzetta=2002-07-29&numeroGazzetta=176), reca: «Regolamento recante modifiche ed integrazioni al [decreto del Presidente della Repubblica 11 maggio 1999, n. 267](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1999-05-11;267), concernente l'individuazione degli uffici di livello dirigenziale generale, nonche' delle relative funzioni, dell'Amministrazione centrale del Ministero degli affari esteri.».  
-- Il [decreto legislativo 30 giugno 2003, n. 196](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2003-06-30;196), [pubblicato nella Gazzetta Ufficiale n. 174 del 29 luglio 2003](http://www.gazzettaufficiale.it/gazzetta/serie_generale/caricaDettaglio?dataPubblicazioneGazzetta=2003-07-29&numeroGazzetta=174), S.O. reca: «[Codice in materia di protezione dei dati personali](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2003-06-30;196)».  
-- Si trascrive l'art. 154, comma 1, lettera g):  
-«1. Oltre a quanto previsto da specifiche disposizioni, il Garante, anche avvalendosi dell'Ufficio e in conformita' al presente codice, ha il compito di:  
-g) esprimere pareri nei casi previsti;».  
-Note all'art. 1:  
-- Per il riferimento al [decreto legislativo 30 giugno 2003, n. 196](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2003-06-30;196), vedi le note alle premesse.  
-Si trascrive l'[art. 112 del decreto legislativo 30 giugno 2003, n. 196](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2003-06-30;196~art112):  
-«Art. 112 (Finalita' di rilevante interesse pubblico).  
-- 1. Si considerano di rilevante interesse pubblico, ai sensi degli articoli 20 e 21, le finalita' di instaurazione e gestione da parte di soggetti pubblici di rapporti di lavoro di qualunque tipo, dipendente o autonomo, anche non retribuito o onorario o a tempo parziale o temporaneo, e di altre forme di impiego che non comportano la costituzione di un rapporto di lavoro subordinato.  
-2. Tra i trattamenti effettuati per le finalita' di cui al comma 1, si intendono ricompresi, in particolare, quelli effettuati al fine di:  
-a) applicare la normativa in materia di collocamento obbligatorio e assumere personale anche appartenente a categorie protette;  
-b) garantire le pari opportunita';  
-c) accertare il possesso di particolari requisiti previsti per l'accesso a specifici impieghi, anche in materia di tutela delle minoranze linguistiche, ovvero la sussistenza dei presupposti per la sospensione o la cessazione dall'impiego o dal servizio, il trasferimento di sede per incompatibilita' e il conferimento di speciali abilitazioni;  
-d) adempiere ad obblighi connessi alla definizione dello stato giuridico ed economico, ivi compreso il riconoscimento della causa di servizio o dell'equo indennizzo, nonche' ad obblighi retributivi, fiscali o contabili, relativamente al personale in servizio o in quiescenza, ivi compresa la corresponsione di premi e benefici assistenziali;  
-e) adempiere a specifici obblighi o svolgere compiti previsti dalla normativa in materia di igiene e sicurezza del lavoro o di sicurezza o salute della popolazione, nonche' in materia sindacale;  
-f) applicare, anche da parte di enti previdenziali ed assistenziali, la normativa in materia di previdenza ed assistenza ivi compresa quella integrativa, anche in applicazione del [decreto legislativo 29 luglio 1947, n. 804](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1947-07-29;804) del Capo provvisorio dello Stato, riguardo alla comunicazione di dati, anche mediante reti di comunicazione elettronica, agli istituti di patronato e di assistenza sociale, alle associazioni di categoria e agli ordini professionali che abbiano ottenuto il consenso dell'interessato ai sensi dell'art. 23 in relazione a tipi di dati individuati specificamente;  
-g) svolgere attivita' dirette all'accertamento della responsabilita' civile, disciplinare e contabile ed esaminare i ricorsi amministrativi in conformita' alle norme che regolano le rispettive materie;  
-h) comparire in giudizio a mezzo di propri rappresentanti o partecipare alle procedure di arbitrato o di conciliazione nei casi previsti dalla legge o dai contratti collettivi di lavoro;  
-i) salvaguardare la vita o l'incolumita' fisica dell'interessato o di terzi;  
-l) gestire l'anagrafe dei pubblici dipendenti e applicare la normativa in materia di assunzione di incarichi da parte di dipendenti pubblici, collaboratori e consulenti;  
-m) applicare la normativa in materia di incompatibilita' e rapporti di lavoro a tempo parziale;  
-n) svolgere l'attivita' di indagine e ispezione presso soggetti pubblici;  
-o) valutare la qualita' dei servizi resi e dei risultati conseguiti.  
-3. La diffusione dei dati di cui alle lettere m), n) ed o) del comma 2 e' consentita in forma anonima e, comunque, tale da non consentire l'individuazione dell'interessato.  
-Relativamente agli uffici centrali dell'Amministrazione degli affari esteri devono intendersi unita' organizzative responsabili dell'istruttoria e di ogni altro adempimento procedimentale gli uffici delle direzioni generali e dei servizi quali risultano dal decreto organizzativo del Ministero, ai sensi dell'[art. 25 del decreto del Presidente della Repubblica 5 gennaio 1967, n. 18](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1967-01-05;18~art25).».  
-- Per il riferimento al [decreto del Presidente della Repubblica 5 gennaio 1967, n. 18](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1967-01-05;18), vedino le note alle premesse.  
-- Si trascrive l'art. 30:  
-«Art. 30 (Classificazione, istituzione e soppressione).  
-- Gli uffici all'estero comprendono: le rappresentanze diplomatiche, che si distinguono in Ambasciate e Legazioni, denominate negli articoli seguenti Missioni diplomatiche, e in rappresentanze permanenti presso Enti o Organizzazioni internazionali; gli uffici consolari, che si distinguono in uffici consolari di I e di II categoria; gli istituti italiani di cultura.  
-L'istituzione e la soppressione delle rappresentanze diplomatiche sono disposte con decreto del Presidente della Repubblica, previa deliberazione del Consiglio dei Ministri, su proposta del Ministro per gli affari esteri di concerto con il Ministro per il tesoro. Per le rappresentanze permanenti presso Enti o Organizzazioni internazionali il decreto istitutivo specifica la loro equiparazione ad Ambasciata o Legazione.  
-L'istituzione e la soppressione degli uffici consolari di I categoria sono disposte con decreto del Presidente della Repubblica su proposta del Ministro per gli affari esteri, previo parere del Consiglio di amministrazione, di concerto con il Ministro per il tesoro.  
-L'istituzione e la soppressione dei Consolati generali e dei Consolati di II categoria sono disposte con decreto del Presidente della Repubblica su proposta del Ministro per gli affari esteri; l'istituzione e la soppressione dei Vice consolati e delle Agenzie consolari' di II categoria sono disposte con decreto del Ministro per gli affari esteri. In citta' sedi di missione diplomatica non possono essere istituiti uffici consolari di II categoria.  
-I decreti di istituzione e soppressione di rappresentanze diplomatiche e di uffici consolari sono pubblicati nella Gazzetta Ufficiale.  
-Gli istituti italiani di cultura sono istituiti e soppressi in base alla specifica normativa che ne disciplina le attivita' e il funzionamento. Per quanto in questa non espressamente previsto e regolato si applicano le norme del presente decreto, se compatibili con la natura e le finalita' degli istituti stessi.  
-Gli istituti italiani di cultura dipendono dalle Missioni diplomatiche e dagli uffici consolari secondo quanto stabilito dalla legge.».
+Elenco Allegati
 
-Allegato
-
- Allegato (art. 1, comma 2)   
+ Allegati A, B e C   
   
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=004G025600100010110001&dgu=2004-08-24&art.dataPubblicazioneGazzetta=2004-08-24&art.codiceRedazionale=004G0256)
+  
+[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=008G006700100010110001&dgu=2008-03-18&art.dataPubblicazioneGazzetta=2008-03-18&art.codiceRedazionale=008G0067)
+  
+
+Allegato A-01
+
+ Allegato A-01   
+  
+  
+[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=008G006700200010110001&dgu=2008-03-18&art.dataPubblicazioneGazzetta=2008-03-18&art.codiceRedazionale=008G0067)
+  
+
+Allegato A-02
+
+ Allegato A-02   
+  
+  
+[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=008G006700200020110001&dgu=2008-03-18&art.dataPubblicazioneGazzetta=2008-03-18&art.codiceRedazionale=008G0067)
+  
+
+Allegato B-01
+
+ Allegato B-01   
+  
+  
+[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=008G006700300010110001&dgu=2008-03-18&art.dataPubblicazioneGazzetta=2008-03-18&art.codiceRedazionale=008G0067)
+  
+
+Allegato B-02
+
+ Allegato B-02   
+  
+  
+[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=008G006700300020110001&dgu=2008-03-18&art.dataPubblicazioneGazzetta=2008-03-18&art.codiceRedazionale=008G0067)
+  
+
+Allegato B-03
+
+ Allegato B-03   
+  
+  
+[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=008G006700300030110001&dgu=2008-03-18&art.dataPubblicazioneGazzetta=2008-03-18&art.codiceRedazionale=008G0067)
+  
+
+Allegato C-01
+
+ Allegato C-01   
+  
+  
+[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=008G006700400010110001&dgu=2008-03-18&art.dataPubblicazioneGazzetta=2008-03-18&art.codiceRedazionale=008G0067)
+  
+
+Allegato C-02
+
+ Allegato C-02   
+  
+  
+[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=008G006700400020110001&dgu=2008-03-18&art.dataPubblicazioneGazzetta=2008-03-18&art.codiceRedazionale=008G0067)
+  
+
+Allegato C-03
+
+ Allegato C-03   
+  
+  
+[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=008G006700400030110001&dgu=2008-03-18&art.dataPubblicazioneGazzetta=2008-03-18&art.codiceRedazionale=008G0067)
+  
+
+Allegato C-04
+
+ Allegato C-04   
+  
+  
+[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=008G006700400040110001&dgu=2008-03-18&art.dataPubblicazioneGazzetta=2008-03-18&art.codiceRedazionale=008G0067)
+  
+
+Allegato C-05
+
+ Allegato C-05   
+  
+  
+[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=008G006700400050110001&dgu=2008-03-18&art.dataPubblicazioneGazzetta=2008-03-18&art.codiceRedazionale=008G0067)
+  
+
+Allegato C-06
+
+ Allegato C-06   
+  
+  
+[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=008G006700400060110001&dgu=2008-03-18&art.dataPubblicazioneGazzetta=2008-03-18&art.codiceRedazionale=008G0067)
+  
+
+Allegato C-07
+
+ Allegato C-07   
+  
+  
+[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=008G006700400070110001&dgu=2008-03-18&art.dataPubblicazioneGazzetta=2008-03-18&art.codiceRedazionale=008G0067)
+  
+
+Allegato C-08
+
+ Allegato C-08   
+  
+  
+[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=008G006700400080110001&dgu=2008-03-18&art.dataPubblicazioneGazzetta=2008-03-18&art.codiceRedazionale=008G0067)
+  
+
+Allegato C-09
+
+ Allegato C-09   
+  
+  
+[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=008G006700400090110001&dgu=2008-03-18&art.dataPubblicazioneGazzetta=2008-03-18&art.codiceRedazionale=008G0067)
+  
+
+Allegato C-10
+
+ Allegato C-10   
+  
+  
+[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=008G006700400100110001&dgu=2008-03-18&art.dataPubblicazioneGazzetta=2008-03-18&art.codiceRedazionale=008G0067)
+  
+
+Allegato C-11
+
+ Allegato C-11   
+  
+  
+[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=008G006700400110110001&dgu=2008-03-18&art.dataPubblicazioneGazzetta=2008-03-18&art.codiceRedazionale=008G0067)
+  
+
+Allegato C-12
+
+ Allegato C-12   
+  
+  
+[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=008G006700400120110001&dgu=2008-03-18&art.dataPubblicazioneGazzetta=2008-03-18&art.codiceRedazionale=008G0067)
+  
+
+Allegato C-13
+
+ Allegato C-13   
+  
+  
+[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=008G006700400130110001&dgu=2008-03-18&art.dataPubblicazioneGazzetta=2008-03-18&art.codiceRedazionale=008G0067)
+  
+
+Allegato C-14
+
+ Allegato C-14   
+  
+  
+[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=008G006700400140110001&dgu=2008-03-18&art.dataPubblicazioneGazzetta=2008-03-18&art.codiceRedazionale=008G0067)
+  
+
+Allegato C-15
+
+ Allegato C-15   
+  
+  
+[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=008G006700400150110001&dgu=2008-03-18&art.dataPubblicazioneGazzetta=2008-03-18&art.codiceRedazionale=008G0067)
+  
+
+Allegato C-16
+
+ Allegato C-16   
+  
+  
+[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=008G006700400160110001&dgu=2008-03-18&art.dataPubblicazioneGazzetta=2008-03-18&art.codiceRedazionale=008G0067)
+  
+
+Allegato C-17
+
+ Allegato C-17   
+  
+  
+[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=008G006700400170110001&dgu=2008-03-18&art.dataPubblicazioneGazzetta=2008-03-18&art.codiceRedazionale=008G0067)
   

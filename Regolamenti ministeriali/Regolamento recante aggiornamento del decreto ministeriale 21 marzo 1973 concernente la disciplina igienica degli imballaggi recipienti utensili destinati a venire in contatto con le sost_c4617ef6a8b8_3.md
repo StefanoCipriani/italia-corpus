@@ -1,8 +1,8 @@
-DECRETO 17 dicembre 1999 n. 538
+DECRETO 30 maggio 2001 n. 267
 
 
-DECRETO 17 dicembre 1999 n. 538
-===============================
+DECRETO 30 maggio 2001 n. 267
+=============================
 
 Regolamento recante aggiornamento del decreto ministeriale 21 marzo 1973, concernente la disciplina igienica degli imballaggi, recipienti, utensili destinati a venire in contatto con le sostanze alimentari o con sostanze d'uso personale.
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -12,31 +12,21 @@ IL MINISTRO DELLA SANITA'
 
 Visto l'[articolo 3 del decreto del Presidente della Repubblica 23 agosto 1982, n. 777](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1982-08-23;777~art3), modificato dall'[articolo 3 del decreto legislativo 25 gennaio 1992, n. 108](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992-01-25;108~art3);
 
-Visto il [decreto del Ministro della sanita' 21 marzo 1973, pubblicato nel supplemento ordinario alla Gazzetta Ufficiale n. 104 del 20 aprile 1973](http://www.gazzettaufficiale.it/gazzetta/serie_generale/caricaDettaglio?dataPubblicazioneGazzetta=1973-04-20&numeroGazzetta=104), concernente la disciplina igienica degli imballaggi, recipienti, utensili destinati a venire in contatto con le sostanze alimentari o con sostanze d'uso personale, modificato da ultimo con il [decreto del Ministro della sanita' 22 luglio 1998, n. 338](http://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.sanita:decreto:1998-07-22;338);
+Visto il [decreto del Ministro della sanita' 21 marzo 1973, pubblicato nel supplemento ordinario alla Gazzetta Ufficiale n. 104 del 20 aprile 1973](http://www.gazzettaufficiale.it/gazzetta/serie_generale/caricaDettaglio?dataPubblicazioneGazzetta=1973-04-20&numeroGazzetta=104), concernente la disciplina igienica degli imballaggi, recipienti, utensili destinati a venire in contatto con le sostanze alimentari o con sostanze d'uso personale, modificato da ultimo con il [decreto del Ministro della sanita' 1o dicembre 2000, n. 411](http://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.sanita:decreto:2000-12-01;411);
 
-Visto il decreto 8 febbraio 1995 recante recepimento della [direttiva 93/11/CEE della Commissione del 15 marzo 1993](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:31993L0011) concernente la liberazione di N-nitrosammine e di sostanze N-nitrosabili da succhiotti e tettarelle di elastomero o di gomma naturale, [pubblicato nella Gazzetta Ufficiale n 68 del 22 marzo 1995](http://www.gazzettaufficiale.it/gazzetta/serie_generale/caricaDettaglio?dataPubblicazioneGazzetta=1995-03-22&numeroGazzetta=68);
+Vista la richiesta avanzata dalle categorie interessate riguardante l'autorizzazione all'impiego degli imbiancanti ottici nella fabbricazione di carte e cartoni destinati a venire a contatto con le sostanze alimentari;
 
-Vista la [raccomandazione della Commissione dell'Unione europea n. 98/485/CE del 1o luglio 1998](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:31998H0485) relativa agli articoli di puericultura ed ai giocattoli destinati ad essere messi in bocca da parte di bambini di eta' inferiore ai tre anni, fabbricati in PVC morbido contenente determinati ftalati;
-
-Ritenuto di dover limitare, in relazione alle loro caratteristiche tossicologiche, l'impiego degli esteri dell'acido ftalico sia negli articoli di puericultura che nei materiali destinati a venire a contatto con le sostanze alimentari e/o sostanze d'uso personale;
-
-Visto il decreto 1o luglio 1994, n. 556, con il quale sono state recepite le [direttive 93/10/CEE](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:31993L0010) e [93/111/CE](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:31993L0111) concernenti, ed in particolare l'allegato I, parte seconda;
-
-Ritenuto di dover apportare correzione al titolo dell'allegato I, parte seconda, del sopra citato [decreto ministeriale 1o luglio 1994, n. 556](http://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.:decreto:1994-07-01;556), al fine di conformarlo al testo della citata [direttiva 93/10/CEE](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:31993L0010);
-
-Ritenuto di dover provvedere ai predetti fini a modificazioni del citato decreto ministeriale 21 marzo 1973;
+Ritenuto di dover provvedere pertanto a modificazioni ed integrazioni del citato decreto ministeriale 21 marzo 1973;
 
 Visto l'[articolo 17, comma 3, della legge 23 agosto 1988, n. 400](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400~art17-com3);
 
-Sentito il Consiglio superiore di sanita' che si e' espresso nella seduta del 26 maggio 1999;
+Sentito il Consiglio superiore di sanita' che si e' espresso nella seduta del 22 novembre 2000;
 
-Udito il parere del Consiglio di Stato espresso dalla sezione consultiva per gli atti normativi nell'adunanza del 30 agosto 1999;
+Vista la comunicazione alla Commissione dell'Unione europea effettuata in data 4 dicembre 2000 ai sensi della [direttiva 98/34/CE](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:31998L0034);
 
-Ritenuto di aderire alla richiesta del sopra citato Consiglio di Stato di apporre un termine alla commercializzazione di cui all'articolo 1, comma 5;
+Udito il parere del Consiglio di Stato espresso dalla sezione consultiva per gli atti normativi nell'adunanza del 7 maggio 2001;
 
-Vista la comunicazione alla Commissione dell'Unione europea effettuata in data 10 giugno 1999 ai sensi della [direttiva 98/34/CE](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:31998L0034);
-
-Vista la comunicazione al Presidente del Consiglio dei Ministri ai sensi dell'[articolo 17, comma 3, della legge 23 agosto 1988, n. 400](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400~art17-com3), effettuata in data 16 dicembre 1999;
+Vista la comunicazione al Presidente del Consiglio dei Ministri ai sensi dell'[articolo 17, comma 3, della legge 23 agosto 1988, n. 400](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400~art17-com3), effettuata in data 21 maggio 2001;
 
 Adotta
 ------
@@ -46,37 +36,81 @@ il seguente regolamento:
 Art. 1
 ------
 
-1. All'allegato II - sezione 2, parte B - "Additivi per materie plastiche" del decreto ministeriale 21 marzo 1973, sostituito dall'allegato I del [decreto ministeriale 24 settembre 1996, n. 572](http://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.:decreto:1996-09-24;572), e modificata da ultimo con il [decreto ministeriale 6 febbraio 1997, n. 91](http://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.:decreto:1997-02-06;91), le dizioni riportate nella colonna "Restrizioni" relativamente agli esteri dell'acido ftalico, sono sostituite dalle seguenti:
-
-a) "In quantita' non superiore al 5%, come somma di tutti gli ftalati, e non per alimenti per i quali e' previsto l'impiego del simulante D. Non per materie plastiche destinate alla fabbricazione di articoli per la puericultura", limitatamente a "di-isodecile ftalato, di-2-etilesile ftalato, di-isononile ftalato, dibutile ftalato".
-
-b) "In quantita' non superiore al 5%, come somma di tutti gli ftalati, nelle materie plastiche destinate al contatto con gli alimenti, con esclusione degli alimenti per i quali e' previsto l'impiego del simulante D, ed in quelle destinate alla fabbricazione di articoli per la puericultura", limitatamente a "di-isoottile ftalato, dicicloesile ftalato, dietile ftalato, dimetilcicloesile ftalato e dimetossietile ftalato".
-
-c) "Per PVC rigido e non per alimenti per i quali e' previsto l'impiego del simulante D. LMS = 1,5 ppm. In quantita' non superiore al 5%, come somma di tutti gliftalati, nelle materie plastiche destinate alla fabbricazione di articoli per la puericultura", limitatamente a "dicetil/distearil-ftalato".
-
-2. All'allegato II - sezione 2: "Gomme" - Parte B - "Additivi per elastomeri" del decreto ministeriale 21 marzo 1973, le dizioni riguardanti le condizioni, limitazioni e tolleranze d'impiego degli esteri dell'acido ftalico sono sostituite dalle seguenti:
-
-a) "In quantita' non superiore al 5%, come somma di tutti gli ftalati, e non per gli alimenti per i quali e' previsto l'impiego del simulante D. Non per le gomme destinate alla fabbricazione di articoli per la puericultura", limitatamente a "butilbenzile ftalato, di-2-etilesile ftalato, di-isodecile ftalato e dibutile ftalato".
-
-b) "In quantita' non superiore al 5%, come somma di tutti gli ftalati, nelle gomme destinate al contatto con gli alimenti, con esclusione degli alimenti per i quali e' previsto l'impiego del simulante D, ed in quelle destinate alla fabbricazione di articoli per la puericultura", limitatamente a "dietile ftalato e diisoottile ftalato".
-
-3. 
-
-((COMMA ABROGATO DAL DECRETO 31 MAGGIO 2016, N. 142))
-
-.
-
-4. Gli articoli di puericultura sono i prodotti destinati a facilitare il sonno, il rilassamento, l'alimentazione e la suzione dei bambini.
-
-5. Le disposizioni di cui ai commi 1 e 2 non si applicano agli articoli per la puericultura ed ai materiali ed oggetti destinati a venire a contatto con gli alimenti immessi in commercio o etichettati prima dell'entrata in vigore del presente decreto che possono essere commercializzati fino allo smaltimento delle scorte e comunque non oltre dodici mesi dall'entrata in vigore del decreto stesso.
+1. All'[articolo 31 del decreto ministeriale 21 marzo 1973, pubblicato nel supplemento ordinario alla Gazzetta Ufficiale n. 104 del 20 aprile 1973](http://www.gazzettaufficiale.it/gazzetta/serie_generale/caricaDettaglio?dataPubblicazioneGazzetta=1973-04-20&numeroGazzetta=104), e' aggiunto il seguente comma:  
+"E' consentita l'aggiunta degli imbiancanti ottici riportati nell'allegato 1 al presente decreto, che viene inserito come punto "4 Imbiancanti ottici all'allegato II - Sezione 4: carte e cartoni, parte A del decreto ministeriale 21 marzo 1973, modificato da ultimo dal decreto 1o dicembre 2000, n. 411, in quantita' non superiore allo 0,3% p/p, calcolato sul secco, singolarmente o insieme".  
+2. Le carte ed i cartoni ottenuti mediante l'impiego degli imbiancanti ottici di cui all'allegato I non devono cedere, se destinati al contatto con alimenti per i quali sono previste prove di migrazione, tali sostanze secondo il saggio riportato nella norma europea EN648.  
+3. All'articolo 4, lettera E), punto "5.2 Determinazione del contenuto di policlorobifenili (PCB)" al paragrafo "6. Espressione dei risultati" del [decreto ministeriale 18 giugno 1979, pubblicato nella Gazzetta Ufficiale n. 180 del 3 luglio 1979](http://www.gazzettaufficiale.it/gazzetta/serie_generale/caricaDettaglio?dataPubblicazioneGazzetta=1979-07-03&numeroGazzetta=180), l'ultimo capoverso e' sostituito dal seguente:  
+"Al fine della valutazione di idoneita' il contenuto di PCB totali, riferito al peso del campione in esame, deve risultare non superiore a 2 ppm".  
+4. Le disposizioni di cui ai commi 1, 2 e 3 non si applicano alle carte ed ai cartoni destinati a venire in contatto con le sostanze alimentari o con sostanze d'uso personale legalmente prodotti e/o commercializzati in un altro Stato dell'Unione europea e a quelli originari dei Paesi contraenti dell'accordo sullo spazio economico europeo.  
+5. E' abrogato l'articolo 1 del decreto ministeriale 18 giugno 1979.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserito nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Roma, 17 dicembre 1999
+### Roma, 30 maggio 2001
 
-Il Ministro: Bindi
+Il Ministro: Veronesi
 
-Visto, il Guardasigilli: Diliberto Registrato alla Corte dei conti il 24 gennaio 2000
+Visto, il Guardasigilli: Fassino Registrato alla Corte dei conti il 19 giugno 2001 Ufficio di controllo preventivo sui Ministeri dei servizi alla
 
-Registro n. 1 Sanita', foglio n. 15
+persona e dei beni culturali, registro n. 3, foglio n. 354
+
+Avvertenza:  
+Il testo delle note qui pubblicato e' stato redatto dall'amministrazione competente per materia, ai sensi dell'art. 10, conma 3, del testo unico delle disposizioni sulla promulgazione delle leggi, sull'emanazione dei decreti del Presidente della Repubblica e sulle pubblicazioni ufficiali della Repubblica italiana, apportato con [D.P.R. 28 dicembre 1985, n. 1092](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1985-12-28;1092), al solo fine di facilitare la lettura delle disposizioni di legge alle quali e' operato il rinvio. Restano invariati il valore e l'efficacia degli atti legislativi qui trascritti.  
+Note alle premesse:  
+- Il testo dell'[art. 3 del decreto del Presidente della Repubblica 23 agosto 1982, n. 777](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1982-08-23;777~art3) (Attuazione della [direttiva CEE n. 76/893](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:31976L0893) relativa ai materiali ed agli oggetti destinati a venire a contatto con i prodotti alimentari), cosi' come modificato dall'[art. 3 del decreto legislativo 25 gennaio 1992, n. 108](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992-01-25;108~art3) (Attuazione della [direttiva 89/109/CEE](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:31989L0109) concernente i materiali e gli oggetti destinati a venire a contatto con prodotti alimentari), e' il seguente:  
+"Art. 3. - 1. Con i decreti del Ministro della sanita', sentito il Consiglio superiore di sanita', sono indicati per i materiali e gli oggetti, destinati a venire a contatto con le sostanze alimentari, di cui all'allegato I, da soli o in combinazione tra loro, i componenti consentiti nella loro produzione, e, ove occorrano, i requisiti di purezza e le prove di cessione alle quali i materiali e gli oggetti debbono essere sottoposti per determinare l'idoneita' all'uso cui sono destinati nonche' le limitazioni, le tolleranze e le condizioni di impiego sia per i limiti di contaminazione degli alimenti che per gli eventuali pericoli risultanti dal contatto orale.  
+2. Per i materiali e gli oggetti di materia plastica, di gomma, di cellulosa rigenerata, di carta, di cartone, di vetro, di acciaio inossidabile, di banda stagnata, di ceramica e di banda cromata valgono le disposizioni contenute nei decreti ministeriali 21 marzo 1973, 3 agosto 1974, 13 settembre 1975, 18 giugno 1979, 2 dicembre 1980, 25 giugno 1981, 18 febbraio 1984, 4 aprile 1985 e [1o giugno 1988, n. 243](http://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.:decreto:1988-06-01;243).  
+3. Il Ministro della sanita' sentito il Consiglio superiore di sanita', procede all'aggiornamento e alle modifiche da apportare ai decreti di cui ai commi 1 e 2.  
+4. Chiunque impieghi nella produzione matcriali o oggetti destinati, da soli o in combinazione tra loro, a venire a contatto con le sostanze alimentari, in difformita' da quanto stabilito nei decreti di cui ai conmi 1 e 2, e' punito per cio' solo con l'arresto sino a tre mesi o con l'ammenda da lire cinquemilioni a lire quindicimilioni".  
+- Il decreto ministeriale 21 marzo 1973, ha dettato la disciplina igienica degli imballaggi, recipienti, utensili destinati a venire in contatto con le sostanze alimentari o con sostanze d'uso personale per quanto attiene i seguenti materiali:  
+a) materie plastiche;  
+b) gomma;  
+c) cellulosa rigenerata;  
+d) carta e cartone;  
+e) vetro;  
+f) acciaio inossidabile.  
+I decreti ministeriali che hanno modificato ed aggiornato il decreto ministeriale 21 marzo 1973, sono i seguenti:  
+3 agosto 1974, [pubblicato nella Gazzetta Ufficiale n. 227 del 31 agosto 1974](http://www.gazzettaufficiale.it/gazzetta/serie_generale/caricaDettaglio?dataPubblicazioneGazzetta=1974-08-31&numeroGazzetta=227);  
+27 marzo 1975, [pubblicato nella Gazzetta Ufficiale n. 96 del 10 aprile 1975](http://www.gazzettaufficiale.it/gazzetta/serie_generale/caricaDettaglio?dataPubblicazioneGazzetta=1975-04-10&numeroGazzetta=96);  
+13 settembre 1975, [pubblicato nella Gazzetta Ufficiale n. 272 del 13 ottobre 1975](http://www.gazzettaufficiale.it/gazzetta/serie_generale/caricaDettaglio?dataPubblicazioneGazzetta=1975-10-13&numeroGazzetta=272);  
+18 giugno 1979, [pubblicato nella Gazzetta Ufficiale n. 180 del 3 luglio 1979](http://www.gazzettaufficiale.it/gazzetta/serie_generale/caricaDettaglio?dataPubblicazioneGazzetta=1979-07-03&numeroGazzetta=180);  
+2 dicembre 1980, [pubblicato nella Gazzetta Ufficiale n. 347 del 19 dicembre 1980](http://www.gazzettaufficiale.it/gazzetta/serie_generale/caricaDettaglio?dataPubblicazioneGazzetta=1980-12-19&numeroGazzetta=347);  
+25 giugno 1981, [pubblicato nella Gazzetta Ufficiale n. 198 del 21 luglio 1981](http://www.gazzettaufficiale.it/gazzetta/serie_generale/caricaDettaglio?dataPubblicazioneGazzetta=1981-07-21&numeroGazzetta=198);  
+2 giugno 1982, [pubblicato nella Gazzetta Ufficiale n. 200 del 22 luglio 1982](http://www.gazzettaufficiale.it/gazzetta/serie_generale/caricaDettaglio?dataPubblicazioneGazzetta=1982-07-22&numeroGazzetta=200);  
+20 ottobre 1982, [pubblicato nella Gazzetta Ufficiale n. 340 dell'11 dicembre 1982](http://www.gazzettaufficiale.it/gazzetta/serie_generale/caricaDettaglio?dataPubblicazioneGazzetta=1982-12-11&numeroGazzetta=340);  
+4 aprile 1985, [pubblicato nella Gazzetta Ufficiale n. 120 del 23 maggio 1985](http://www.gazzettaufficiale.it/gazzetta/serie_generale/caricaDettaglio?dataPubblicazioneGazzetta=1985-05-23&numeroGazzetta=120);  
+7 agosto 1987, n. 395, [pubblicato nella Gazzetta Ufficiale n. 226 del 28 settembre 1987](http://www.gazzettaufficiale.it/gazzetta/serie_generale/caricaDettaglio?dataPubblicazioneGazzetta=1987-09-28&numeroGazzetta=226);  
+18 gennaio 1991, n. 90, [pubblicato nella Gazzetta Ufficiale n. 67 del 20 marzo 1991](http://www.gazzettaufficiale.it/gazzetta/serie_generale/caricaDettaglio?dataPubblicazioneGazzetta=1991-03-20&numeroGazzetta=67);  
+30 ottobre 1991, n. 408, [pubblicato nella Gazzetta Ufficiale n. 303 del 28 dicembre 1991](http://www.gazzettaufficiale.it/gazzetta/serie_generale/caricaDettaglio?dataPubblicazioneGazzetta=1991-12-28&numeroGazzetta=303);  
+26 aprile 1993, n. 220, [pubblicato nel supplemento ordinario alla Gazzetta Ufficiale n. 162 del 13 luglio 1993](http://www.gazzettaufficiale.it/gazzetta/serie_generale/caricaDettaglio?dataPubblicazioneGazzetta=1993-07-13&numeroGazzetta=162);  
+15 luglio 1993, n. 322, [pubblicato nella Gazzetta Ufficiale n. 199 del 25 agosto 1993](http://www.gazzettaufficiale.it/gazzetta/serie_generale/caricaDettaglio?dataPubblicazioneGazzetta=1993-08-25&numeroGazzetta=199);  
+20 settembre 1993, n. 516, [pubblicato nella Gazzetta Ufficiale n. 292 del 14 dicembre 1993](http://www.gazzettaufficiale.it/gazzetta/serie_generale/caricaDettaglio?dataPubblicazioneGazzetta=1993-12-14&numeroGazzetta=292);  
+3 giugno 1994, n. 511, [pubblicato nella Gazzetta Ufficiale n. 198 del 25 agosto 1994](http://www.gazzettaufficiale.it/gazzetta/serie_generale/caricaDettaglio?dataPubblicazioneGazzetta=1994-08-25&numeroGazzetta=198);  
+1o luglio 1994, n. 556, [pubblicato nel supplemento ordinario alla Gazzetta Ufficiale n. 229 del 30 settembre 1994](http://www.gazzettaufficiale.it/gazzetta/serie_generale/caricaDettaglio?dataPubblicazioneGazzetta=1994-09-30&numeroGazzetta=229);  
+24 febbraio 1995, n. 156, [pubblicato nella Gazzetta Ufficiale n. 103 del 5 maggio 1995](http://www.gazzettaufficiale.it/gazzetta/serie_generale/caricaDettaglio?dataPubblicazioneGazzetta=1995-05-05&numeroGazzetta=103);  
+24 settembre 1996, n. 572, [pubblicato nel supplemento ordinario alla Gazzetta Ufficiale n. 264 dell'11 novembre 1996](http://www.gazzettaufficiale.it/gazzetta/serie_generale/caricaDettaglio?dataPubblicazioneGazzetta=1996-11-11&numeroGazzetta=264);  
+6 febbraio 1997, n. 91, [pubblicato nella Gazzetta Ufficiale n. 77 del 3 aprile 1997](http://www.gazzettaufficiale.it/gazzetta/serie_generale/caricaDettaglio?dataPubblicazioneGazzetta=1997-04-03&numeroGazzetta=77);  
+22 luglio 1998, n. 338, [pubblicato nella Gazzetta Ufficiale n. 228 del 30 settembre 1998](http://www.gazzettaufficiale.it/gazzetta/serie_generale/caricaDettaglio?dataPubblicazioneGazzetta=1998-09-30&numeroGazzetta=228);  
+4 agosto 1999, n. 322, [pubblicato nella Gazzetta Ufficiale n. 218 del 16 settembre 1999](http://www.gazzettaufficiale.it/gazzetta/serie_generale/caricaDettaglio?dataPubblicazioneGazzetta=1999-09-16&numeroGazzetta=218);  
+17 dicembre 1999, n. 538, [pubblicato nella Gazzetta Ufficiale n. 28 del 4 febbraio 2000](http://www.gazzettaufficiale.it/gazzetta/serie_generale/caricaDettaglio?dataPubblicazioneGazzetta=2000-02-04&numeroGazzetta=28);  
+15 giugno 2000, n. 210, [pubblicato nella Gazzetta Ufficiale n. 175 del 28 luglio 2000](http://www.gazzettaufficiale.it/gazzetta/serie_generale/caricaDettaglio?dataPubblicazioneGazzetta=2000-07-28&numeroGazzetta=175);  
+1o dicembre 2000, n. 411, [pubblicato nella Gazzetta Ufficiale n. 11 del 15 gennaio 2001](http://www.gazzettaufficiale.it/gazzetta/serie_generale/caricaDettaglio?dataPubblicazioneGazzetta=2001-01-15&numeroGazzetta=11).  
+- Il testo dell'[art. 17, comma 3, della legge 23 agosto 1988, n. 400](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400~art17-com3) (Disciplina dell'attivita' di Governo e ordinamento della Presidenza del Consiglio dei Ministri) e' il seguente:  
+"3. Con decreto ministeriale possono essere adottati regolamenti nelle materie di competenza del Ministro o di autorita' sottordicate al Ministro, quando la legge espressamente conferisca tale potere. Tali regolamenti, per materie di competenza di piu' Ministri, possono essere adottati con decreti interministeriali, ferma restando la necessita' di apposita autorizzazione da parte della legge.  
+I regolamenti ministeriali ed interministeriali non possono dettare, norme contrarie a quelle dei regolamenti emanati dal Governo. Essi debbono essere comunicati al Presidente del Consiglio dei Ministri prima della loro emanazione".  
+Note all'art. 1, comma 1:  
+- Il testo dell'art. 31 del decreto 21 marzo 1973 (Disciplina igienica degli imballaggi, recipienti, utensili destinati a venire in contatto con sostanze alimentari o con sostanze d'uso personale), come modificato dal decreto 18 giugno 1979 e dal decreto qui pubblicato, e' il seguente:  
+"Art. 31. - Per la colorazione delle carte e dei cartoni e degli imballaggi con essi fabbricati, sono confermate le disposizioni di cui alla sezione C del decreto ministeriale 22 dicembre 1967 sulla "Disciplina dell'impiego e approvazione dell'elenco delle materie coloranti autorizzate nella lavorazione delle sostanze alimentari, delle carte e degli imballaggi delle sostanze alimentari, degli oggetti di uso personale e domestico".  
+Ove la colorazione sia attuata a mezzo stampa, questa non puo' essere effettuata sul lato a contatto con l'alimento.  
+E' consentita l'aggiunta degli imbiancanti ottici riportati nell'allegato I al presente decreto, che viene inserito come punto "4. Imbiancanti ottici" all'allegato II-Sezione 4: Carte e Cartoni, Parte A del decreto ministeriale 21 marzo 1973, modificato da ultimo dal decreto 1o dicembre 2000, n. 411. In quantita' non superiore, allo 0,3% p/p, calcolato sul secco, singolarmente o insieme".  
+- L'allegato II-[Sezione 4: Carte e Cartoni, Parte A, del decreto 21 marzo 1973](https://e-justice.europa.eu/ecli/ECLI::::), modificato da ultimo dal decreto 1o dicembre 2000, n. 411, riporta l'elenco dei "Costituenti delle carte e dei cartoni".  
+Nota all'art. 1, comma 2:  
+- La norma europea EN648 riporta la determinazione della solidita' alla luce della carta e del cartone trattati con imbiancanti fluorescenti.  
+Nota all'art. 1, comma 3:  
+- Il testo dell'art. 4, lettera E, punto 5.2, ultimo capoverso del decreto 18 giugno 1979 e' il seguente: "Al fine della valutazione di idoneita' il contenuto di PCB totali, riferito al peso del campione in esame, deve risultare non superiore a 10 p.p.m.".
+
+all. 1 - art. 1
+
+ ALLEGATO   
+----> [Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=001G032600100010110001&dgu=2001-07-06&art.dataPubblicazioneGazzetta=2001-07-06&art.codiceRedazionale=001G0326) <----

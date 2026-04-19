@@ -1,107 +1,84 @@
-DECRETO 31 gennaio 1992 n. 286
+DECRETO 02 maggio 1990 n. 157
 
 
-DECRETO 31 gennaio 1992 n. 286
-==============================
+DECRETO 02 maggio 1990 n. 157
+=============================
 
 Regolamento recante modificazioni al decreto ministeriale 21 novembre 1987, n. 528, concernente la riformulazione del regolamento interno per l'organizzazione ed il funzionamento dell'Istituto superiore di sanita'.
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Entrata in vigore del decreto: 3/6/1992
+Entrata in vigore della legge: 22/6/1990
 
 IL MINISTRO DELLA SANITA'
 -------------------------
 
-Visto l'[art. 62 della legge 7 agosto 1973, n. 519](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1973-08-07;519~art62), concernente modifiche ai compiti, all'ordinamento ed alle strutture dell'Istituto superiore di sanita';
+Visto l'[art. 62 della legge 7 agosto 1973, n. 519](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1973-08-07;519~art62), recante modifiche ai compiti, all'ordinamento ed alle strutture dell'Istituto superiore di sanita';
 
-Visto il proprio decreto 21 novembre 1987, n. 528, recante la riformulazione del regolamento interno per l'organizzazione ed il funzionamento del predetto Istituto, e successive modificazioni, come modificato dal decreto 27 dicembre 1990, n. 454;
+Visto il proprio decreto 29 aprile 1982, concernente il nuovo regolamento interno per l'organizzazione ed il funzionamento dell'Istituto superiore di sanita' e successive modificazioni;
 
-Visto l'[art. 17 della legge 23 agosto 1988, n. 400](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400~art17);
+Visto il proprio decreto 21 novembre 1987, n. 528, che approva la riformulazione del suddetto regolamento interno;
 
-Vista la direttiva del Consiglio delle Comunita' europee del 24 novembre 1986, n. 86/609/CEE - pubblicata nella "Gazzetta Ufficiale" delle Comunita' europee n. L 358 del 28 dicembre 1986 - concernente il riavvicinamento delle disposizioni legislative, regolamentari ed amministrative degli Stati membri, relative alla protezione degli animali utilizzati a fini sperimentali o ad altri fini scientifici;
+Vista la proposta del comitato amministrativo dell'Istituto medesimo in data 5 luglio 1988 relativamente alla modifica dell'attuale struttura dell'ufficio del consegnatario, da realizzarsi attraverso la suddivisione dello stesso in due distinte unita' strutturali individuate in un ufficio del consegnatario dei servizi amministrativi e del personale e della biblioteca ed in uno dei laboratori e servizi tecnici;
 
-Vista la proposta del comitato scientifico dello stesso Istituto, espressa in occasione della seduta del 12 dicembre 1990, relativa alla istituzione del servizio "Qualita' e sicurezza della sperimentazione animale";
+Sentito il consiglio dei direttori di laboratorio;
 
-Sentito il consiglio dei direttori di laboratorio, che ha espresso il proprio favorevole avviso in proposito, nelle sedute del 23 ottobre e 20 novembre 1990;
+Ritenuto di accogliere la proposta del comitato amministrativo sopra richiamata;
 
-Vista la deliberazione n. 19, allegata al verbale n. 128 del 19 dicembre 1990, del comitato amministrativo del ripetuto Istituto superiore di sanita', concernente la suddetta proposta di istituzione del servizio "Qualita' e sicurezza della sperimentazione animale";
+Udito il parere del Consiglio di Stato reso nell'adunanza generale del 19 ottobre 1989;
 
-Udito il parere del Consiglio di Stato reso nell'adunanza generale del 25 luglio 1991;
+Vista la previa comunicazione al Presidente del Consiglio dei Ministri, effettuata in data 15 dicembre 1989, ai sensi dell'[art. 17 della legge 23 agosto 1988, n. 400](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400~art17);
 
-Vista la comunicazione al Presidente del Consiglio dei Ministri, a norma dell'art. 17, comma 3, della citata [legge n. 400/1988](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988;400) (nota n. 39100/Sap. 20 del 7 novembre 1991);
+Considerata, pertanto, la necessita' di apportare le conseguenti variazioni al citato [decreto ministeriale 21 novembre 1987, n. 528](http://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.:decreto:1987-11-21;528);
 
 A D O T T A il seguente regolamento:
 
 Art. 1
 ------
 
-1. L'art. 28 del proprio decreto 21 novembre 1987, n. 528 - pubblicato nella Gazzetta Ufficiale - serie generale - n. 302 del 29 dicembre 1987 - indicato nelle premesse, e' sostituito dal seguente articolo:  
-"Art. 28 (Servizi tecnici). - 1. I servizi tecnici e le loro attribuzioni sono individuati nei successivi articoli da art. 29 a art. 34- ter".
+ L'art. 26 del proprio [decreto ministeriale 21 novembre 1987, n. 528](http://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.:decreto:1987-11-21;528) - pubblicato nella Gazzetta Ufficiale, serie generale, n. 302 del 29 dicembre 1987 - indicato nelle premesse, e' modificato, limitatamente alla parte concernente l'ufficio del consegnatario - nell'ambito della divisione VIII "Contratti" - come di seguito specificato:  
+Ufficio del consegnatario dei servizi amministrativi e del personale e della biblioteca.  
+Esercita le attribuzioni ad esso demandate dalle disposizioni normative in vigore, in particolare provvedendo, relativamente ai servizi amministrativi e del personale ed alla biblioteca, alle scritture inerenti all'inventario dei beni mobili; alla ricezione ed al controllo delle attrezzature, arredi e materiali forniti per le esigenze dei suddetti settori, nonche' alla conseguente distribuzione nell'ambito degli stessi; alla custodia degli apparecchi e materiali in temporaneo deposito; alla gestione dei magazzini per stampati e cancelleria; alle pratiche per la vendita o cessione dei materiali fuori uso.  
+Provvede, altresi', alla ricezione, al controllo e distribuzione del materiale di cancelleria e stampati, nonche' degli arredi di ufficio e del materiale di consumo igienico sanitario, occorrenti per l'intero Istituto.  
 
-AVVERTENZA:  
-Il testo delle note qui pubblicato e' stato redatto ai sensi dell'art. 10, comma 3, del testo unico delle disposizioni sulla promulgazione delle leggi, sull'emanazione dei decreti del Presidente della Repubblica e sulle pubblicazioni ufficiali della Repubblica italiana, approvato con [D.P.R. 28 dicembre 1985, n. 1092](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1985-12-28;1092), al solo fine di facilitare la lettura delle disposizioni di legge alle quali e' operato il rinvio. Restano invariati il valore e l'efficacia degli atti legislativi qui trascritti.  
+AVVERTENZE:  
+Il testo delle note qui pubblicate e' stato redatto ai sensi dell'art. 10, comma 3, del testo unico approvato con [decreto del Presidente della Repubblica 28 dicembre 1985, n. 1092](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1985-12-28;1092), al solo fine di facilitare la lettura delle disposizioni di legge alle quali e' operato il rinvio.  
+Restano invariati il valore e l'efficacia degli atti legislativi qui trascritti.  
 Note alle premesse:  
-- Si trascrive il testo dell'[art. 62 della legge n. 519/1973](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1973;519~art62) relativamente alla parte in cui disciplina la procedura per l'emanazione del regolamento interno per l'organizzazione e il funzionamento dell'Istituto superiore di sanita' e per i relativi successivi aggiornamenti: "Con decreto del Ministro per la sanita', su proposta del comitato amministrativo e per le materie di cui al punto 4 del quarto comma dell'art. 13, del comitato scientifico, sentito il consiglio dei direttori di laboratorio, viene emanato, entro un anno dall'entrata in vigore della presente legge, il regolamento interno per l'organizzazione ed il funzionamento dell'Istituto: con le stesse modalita' si provvede ai successivi aggiornamenti".  
-- Il [D.M. n. 528/1987](http://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.:decreto:1987;528) e' stato pubblicato nella Gazzetta Ufficiale - serie generale - n. 302 del 29 dicembre 1987.  
-- L'[art. 17, comma 3, della legge n. 400/1988](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988;400~art17-com3) (Disciplina dell'attivita' di Governo ed ordinamento della Presidenza del Consiglio dei Ministri) prevede che con decreto ministeriale possono essere adottati regolamenti nelle materie di competenza del Ministro o di autorita' sottordinate al Ministro, quando la legge espressamente conferisca tale potere. Tali regolamenti, per materie di competenza di piu' Ministeri possono essere adottati con decreti interministeriali, ferma restanto la necessita' di apposita autorizzazione da parte della legge, i regolamenti ministeriali e interministeriali non possono dettare norme contrarie a quelle dei regolamenti emanati dal Governo.  
-Essi debbono essere comunicati al Presidente del Consiglio dei Ministri prima della loro emanazione. Il comma 4 dello stesso articolo stabilisce che gli anzidetti regolamenti debbono recare la denominazione di "regolamento", siano adottati previo parere del Consiglio di Stato, sottoposti al visto ed alla registrazione della Corte dei conti e pubblicati nella Gazzetta Ufficiale.
+- Si trascrive il testo dell'[art. 62 della legge n. 519/1973](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1973;519~art62) ([pubblicata nella Gazzetta Ufficiale n. 219 del 25 agosto 1973](http://www.gazzettaufficiale.it/gazzetta/serie_generale/caricaDettaglio?dataPubblicazioneGazzetta=1973-08-25&numeroGazzetta=219)), relativamente alla parte in cui disciplina la procedura per l'emanazione del regolamento interno per l'organizzazione ed il funzionamento dell'Istituto superiore di sanita' e per i relativi successivi aggiornamenti: "Con decreto del Ministro per la sanita', su proposta del comitato amministrativo e, per le materie di cui al punto 4 del quarto comma dell'art. 13, del comitato scientifico, sentito il consiglio dei direttori di laboratorio, viene emanato, entro un anno dall'entrata in vigore della presente legge, il regolamento interno per l'organizzazione ed il funzionamento dell'Istituto; con le stesse modalita' si provvede ai successivi aggiornamenti".  
+Nell'ambito della procedura in questione, sulla base del rinvio operato all'art. 13, punto 4, della legge sopracitata, il comitato scientifico dell'Istituto formula le proposte di pertinenza, relativamente alle materie che riguardano la struttura scientifica e, in particolare, la costituzione e la soppressione dei laboratori ed eventualmente dei reparti.  
+- Il [D.M. 21 novembre 1987, n. 528](http://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.:decreto:1987-11-21;528), recante "Riformulazione del regolamento interno per l'organizzazione ed il funzionamento dell'Istituto superiore di sanita'" e' stato [pubblicato nella Gazzetta Ufficiale n. 302 del 29 dicembre 1987](http://www.gazzettaufficiale.it/gazzetta/serie_generale/caricaDettaglio?dataPubblicazioneGazzetta=1987-12-29&numeroGazzetta=302).  
+- Il [comma 3 dell'art. 17 della legge n. 400/1988](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988;400~art17-com3) (Disciplina dell'attivita' di Governo e ordinamento della Presidenza del Consiglio dei Ministri) prevede che con decreto ministeriale possano essere adottati regolamenti nelle materie di competenza del Ministro o di autorita' sottordinate al Ministro, quando la legge espressamente conferisca tale potere. Tali regolamenti, per materie di competenza di piu' Ministri, possono essere adottati con decreti interministeriali, ferma restando la necessita' di apposita autorizzazione da parte della legge. I regolamenti ministeriali ed interministeriali non possono dettare norme contrarie a quelle dei regolamenti emanati dal Governo.  
+Essi debbono essere comunicati al Presidente del Consiglio dei Ministri prima della loro emanazione. Il comma 4 dello stesso articolo stabilische che gli anzidetti regolamenti debbano recare la denominazione di "regolamento", siano adottati previo parere del Consiglio di Stato, sottoposti al visto ed alla registrazione della Corte dei conti e pubblicati nella Gazzetta Ufficiale.
 
 Art. 2
 ------
 
- 1. Al predetto decreto 21 novembre 1987, n. 528, indicato nelle premesse, viene aggiunto il seguente articolo:  
-"Art. 34-ter (Servizio qualita' e sicurezza della sperimentazione animale dell'Istituto superiore di sanita').  
-- 1. Attivita' pertinenti alla ottimizzazione della qualita' e del benessere degli animali da laboratorio, con particolare riguardo alla consulenza tecnico-scientifica e alla vigilanza sulla conduzione della sperimentazione relativa alla ricerca e ai controlli di Stato;  
-Fornitura, deposito, quarantena e allevamento degli animali da laboratorio in relazione alle specifiche esigenze tecnico- scientifiche dei laboratori e dei servizi;  
-Gestione delle attivita' logistiche, amministrative, di registrazione e di analisi dei dati pertinenti all'acquisizione, allevamento e impiego degli animali da laboratorio;  
-Formazione del personale addetto alla cura degli animali da laboratorio;  
-Contributo, in cooperazione con i laboratori, all'analisi di fattibilita' sulla utilizzazione dei metodi complementari e/o alternativi atti a limitare l'impiego degli animali da laboratorio;  
-Attivita' pertinenti alla applicazione delle normative nazionali e comunitarie sull'impiego degli animali da laboratorio e contributo alla definizione dei criteri per l'aggiornamento delle normative stesse sotto i profili tecnico-scientifico ed etico.  
-2. Presso il servizio e' istituito un comitato tecnico scientifico con funzioni di consulenza facoltativa in materia di scelte tecniche- operative, di individuazione degli indirizzi generali nel settore della sperimentazione animale, di controllo sull'etica della sperimentazione stessa, di attuazione della direttiva del Consiglio delle Comunita' europee n. 86/609, in data 24 novembre 1986.  
-Il comitato, presieduto dal direttore del servizio in questione, e' costituito da sei membri nominati dal direttore dell'Istituto superiore di sanita', scelti oltre che tra il personale dell'Istituto superiore di sanita' e tra i rappresentanti dell'organo di indirizzo scientifico dello stesso Istituto, tra altre personalita' particolarmente qualificate sul piano sia scientifico che biomedico.  
-Le deliberazioni del comitato non sono valide se non e' presente la maggioranza dei suoi componenti, e se non sono adottate a maggioranza dei presenti.  
-3. Ripartizione ai soli fini delle esigenze di servizio, dei posti stabiliti in organico per le ex carriere tecniche:  
-Dirigenti di ricerca 1  
-Ricercatori 1  
-Ex [legge 8 agosto 1973, n. 519](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1973-08-08;519) Ex [D.P.R. 1 marzo 1988, n. 285](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1988-03-01;285) - -  
-(Assistenti tecnici) Specialisti tecnici E.R. 3 (Segretari tecnici) Specialisti tecnici E.R. 1 (Aiutanti tecnici) Assistenti tecnici 3 (Addetti tecnici) Assistenti tecnici 6
-
-Art. 3
-------
-
- 1. L'art. 19 del sopramenzionato [decreto ministeriale 21 novembre 1987, n. 528](http://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.:decreto:1987-11-21;528), indicato nelle premesse, e' sostituito dal seguente articolo:  
-"Art. 19 (Medicina veterinaria). - 1. Al laboratorio sono assegnate le seguenti attribuzioni:  
-studio dei cicli infettivi e dei meccanismi patogenetici delle malattie virali, batteriche, parassitarie e micotiche degli animali, con particolare riguardo alle zoonosi;  
-elaborazione e standardizzazione di metodi diagnostici per l'identificazione degli agenti eziologici;  
-centri di riferimento per i diversi agenti eziologici;  
-vigilanza limitata all'attivita' di sanita' pubblica sugli istituti zooprofilattici;  
-elaborazione dei criteri per l'impiego ed il controllo degli alimenti, dei farmaci e degli additivi destinati alla alimentazione animale;  
-controllo dei presidi immunizzanti;  
-consulenza nel campo degli interventi di individuazione e profilassi delle malattie infettive e diffusive del bestiame;  
-studi epidemioligici finalizzati soprattutto alla prevenzione e al controllo delle zoonosi;  
-elaborazione dei criteri per il controllo dei residui di anabolizzanti negli alimenti di origine animale;  
-studio degli aspetti morfologici e funzionali delle malattie non infettive degli animali.  
-2. Il laboratorio e' articolato nei seguenti reparti:  
-alimentazione animale;  
-anatomia e istopatologia veterinaria;  
-infezioni batteriche;  
-infezioni parassitarie e micotiche;  
-infezioni virali;  
-malattie non infettive degli animali;  
-residui di anabolizzanti negli alimenti di origine animale.  
-3. Ripartizione ai soli fini delle esigenze di servizio, dei posti stabiliti in organico per il personale delle ex carriere tecniche:  
-Dirigenti di ricerca 5  
-Ricercatori 8  
-Ex [legge 7 agosto 1973, n. 519](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1973-08-07;519) Ex [D.P.R. 1 marzo 1988, n. 285](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1988-03-01;285) - -  
-(Assistenti tecnici) Specialisti tecnici E.R. 9 (Segretari tecnici) Specialisti tecnici E.R. 1 (Aiutanti tecnici) Assistenti tecnici 11 (Addetti tecnici) Assistenti tecnici 9 Il presente decreto, debitamente registrato alla Corte dei conti, sara' pubblicato nella Gazzetta Ufficiale della Repubblica.  
+ L'art. 34 del sopra menzionato [decreto ministeriale 21 novembre 1987, n. 528](http://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.:decreto:1987-11-21;528), indicato nelle premesse, e' sostituito dal seguente:  
+Art. 34 (Ufficio tecnico). - Nell'ambito delle attribuzioni ed attivita' previste dall'[art. 24 della legge 7 agosto 1973, n. 519](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1973-08-07;519~art24), il servizio ufficio tecnico svolge in particolare i seguenti compiti:  
+progetto, direzione e collaudo dei lavori di ristrutturazione e manutenzione ordinaria e straordinaria per il complesso dell'Istituto relativamente a: sistemazioni esterne (viabilita' e verde), edilizia interna; impianti tecnologici (idrici, fognature, termici, condizionamento, frigoriferi, elettrici, illuminazione, telefonici, elevatori, distribuzione gas, antincendio, sterilizzazione, incenerimento rifiuti, demineralizzazione e distillazione acqua); centrali tecniche (elettriche, idriche, termiche, condizionamento, telefonica);  
+manutenzione e piccole riparazioni non specialistiche di apparecchiature tecnico-scientifiche di uso corrente nei laboratori dell'Istituto;  
+lavorazione di vetreria per uso scientifico;  
+gestione degli automezzi dell'Istituto;  
+studi e indagini sui criteri di insediamento nel territorio e sui requisiti funzionali e costruttivi relativamente alle strutture edilizie con particolare interesse igienico sanitario.  
+Ufficio del consegnatario dei laboratori e servizi tecnici.  
+Esercita le attribuzioni ad esso demandate dalle disposizioni normative in vigore, in particolare provvedendo, relativamente ai laboratori e servizi tecnici, alle scritture inerenti all'inventario dei beni mobili; alla ricezione ed al controllo delle attrezzature, arredi di laboratorio e materiali forniti per le esigenze dei settori in questione, nonche' alla conseguente distribuzione nell'ambito degli stessi; alla custodia degli apparecchi e materiali in temporaneo deposito; alla gestione dei magazzini per prodotti chimici, prodotti monouso di plastica per laboratorio, bombole, vetreria ed altro materiale tecnico-scientifico; alle pratiche per la vendita o cessione dei materiali fuori uso.  
+Ripartizione ai soli fini delle esigenze di servizio, dei posti stabiliti in organico per le carriere tecniche:  
+dirigenti di ricerca: 1;  
+ricercatori: 3;  
+assistenti tecnici: 10;  
+segretari tecnici: 1;  
+aiutanti tecnici: 42;  
+addetti tecnici: 33;  
+operai: 26.  
+Il presente decreto - debitamente registrato alla Corte dei conti - sara' pubblicato nella Gazzetta Ufficiale della Repubblica italiana ed entrera' in vigore il giorno successivo a quello della pubblicazione.  
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserito nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Roma, 31 gennaio 1992
+### Roma, 2 maggio 1990
 
 Il Ministro: DE LORENZO
 
-Visto, il Guardasigilli: MARTELLI Registrato alla Corte dei conti il 2 aprile 1992
+Visto, il Guardasigilli: VASSALLI Registrato alla Corte dei conti il 22 maggio 1990
 
-Registro n. 5 Sanita', foglio n. 255
+Registro n. 6 Sanita', foglio n. 388

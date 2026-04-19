@@ -1,45 +1,42 @@
-DECRETO 17 giugno 1993 n. 345
+DECRETO 13 dicembre 1994 n. 772
 
 
-DECRETO 17 giugno 1993 n. 345
-=============================
+DECRETO 13 dicembre 1994 n. 772
+===============================
 
 Regolamento recante modificazioni al regolamento concernente disposizioni di adattamento alla realta' nazionale del regime di aiuti per il ritiro dei seminativi dalla produzione, approvato con decreto ministeriale 19 febbraio 1991, n. 63.
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Entrata in vigore del decreto: 18/9/1993
+Entrata in vigore del decreto: 28/4/1995
 
-IL MINISTRO
------------
+IL MINISTRO DELLE RISORSE
+-------------------------
 
-DELL'AGRICOLTURA E DELLE FORESTE
+AGRICOLE, ALIMENTARI E FORESTALI
 
-Visto il [regolamento CEE del Consiglio n. 2328/91 del 15 luglio 1991](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:31991R2328), che ha modificato il [regolamento n. 797/85](http://www.normattiva.it/uri-res/N2Ls?urn:nir::regolamento:1985;797) e successive modifiche, concernente il miglioramento dell'efficienza delle strutture agrarie;
+Visto il [regolamento CEE del Consiglio n. 2328/91 del 15 luglio 1991](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:31991R2328), che ha modificato il [regolamento 797/85](http://www.normattiva.it/uri-res/N2Ls?urn:nir::regolamento:1985;797) e successive modifiche, concernente il miglioramento dell'efficienza delle strutture agrarie;
 
 Visto il [regolamento CEE della Commissione n. 1272 del 29 aprile 1988](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:31988R1272), che fissa le modalita' di applicazione del regime di aiuti per incoraggiare il ritiro dei seminativi dalla produzione, modificato da ultimo dal [regolamento CEE della Commissione n. 466 del 27 febbraio 1992](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:31992R0466);
 
-Visto il proprio [regolamento n. 63 del 19 febbraio 1991](http://www.normattiva.it/uri-res/N2Ls?urn:nir::regolamento:1991-02-19;63), modificato dal [regolamento n. 281 del 9 aprile 1992](http://www.normattiva.it/uri-res/N2Ls?urn:nir::regolamento:1992-04-09;281), recante disposizioni di adattamento alla realta' nazionale del regime di aiuti per il ritiro dei seminativi dalla produzione;
+Visto il proprio [regolamento n. 63 del 19 febbraio 1991](http://www.normattiva.it/uri-res/N2Ls?urn:nir::regolamento:1991-02-19;63), modificato dal [regolamento n. 345 del 17 giugno 1993](http://www.normattiva.it/uri-res/N2Ls?urn:nir::regolamento:1993-06-17;345), recante disposizioni di adattamento alla realta' nazionale del regime di aiuti per il ritiro dei seminativi dalla produzione;
 
-Vista la [legge 16 aprile 1987, n. 183](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1987-04-16;183), in materia di coordinamento delle politiche riguardanti l'appartenenza dell'Italia alle Comunita' europee ed adeguamento dell'ordinamento interno agli atti normativi comunitari;
+Vista la decisione della Commissione CEE n. C(93)255 del 5 febbraio 1993;
 
-Visto il [decreto del Presidente della Repubblica 29 dicembre 1988, n. 568](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1988-12-29;568), recante il regolamento concernente l'organizzazione e le pro- cedure amministrative del Fondo di rotazione per l'attuazione delle politiche comunitarie;
+Vista la decisione della Commissione CEE n. C(94)35 del 28 gennaio 1994;
 
 Visto l'[art. 17, comma 3, della legge 23 agosto 1988, n. 400](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400~art17-com3);
 
-Udito il parere del Consiglio di Stato espresso nell'adunanza generale del 28 dicembre 1992;
+Udito il parere del Consiglio di Stato espresso nell'adunanza generale del 4 luglio 1994;
 
-Vista la comunicazione al Presidente del Consiglio dei Ministri effettuata con nota n. 10105 del 29 gennaio 1993;
+Vista la comunicazione al Presidente del Consiglio dei Ministri effettuata con nota n. 2191 del 18 ottobre 1994;
 
-ADOTTA
-------
-
-il seguente regolamento:
+A D O T T A il seguente regolamento:
 
 Art. 1
 ------
 
-1. L'[art. 12, comma 4, del decreto ministeriale 19 febbraio 1991, n. 63](http://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.:decreto:1991-02-19;63~art12-com4), modificato dal [decreto ministeriale 9 aprile 1992, n. 281](http://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.:decreto:1992-04-09;281), e' cosi' sostituito:  
-"4. Qualora i controlli in fase istruttoria evidenzino una differenza non inferiore al 2% ed a 20 are e non superiore al 10%, fino ad un massimo di 2 Ha, tra la superficie per la quale e' stato chiesto l'aiuto e quella effettivamente accertata, l'aiuto viene concesso per la sola superficie accertata, diminuita, per tutta la durata dell'impegno, della superficie risultata in eccesso; inoltre, qualora siano gia' stati corrisposti aiuti per le annualita' precedenti, il beneficiario decade parzialmente dal regime per le superfici eccedenti, con gli effetti di cui ai seguenti commi 7, 8 e 9, salvo che provi che la differenza riscontrata non sia stata originata da colpa o dolo".  
+1. L'[art. 12, comma 3, del decreto ministeriale 19 febbraio 1991, n. 63](http://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.:decreto:1991-02-19;63~art12-com3), modificato dal [decreto ministeriale 17 giugno 1993, n. 345](http://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.:decreto:1993-06-17;345), e' cosi' sostituito:  
+" 3. Il mancato rispetto degli obblighi di cui al comma precedente comporta la decadenza dall'aiuto, con gli effetti contemplati ai commi 8 e 9 del presente articolo, salvo che l'inadempienza non sia dipesa da cause di forza maggiore o da altre cause non imputabili alla volonta' del beneficiario.".  
 AVVERTENZA:  
 Il testo delle note qui pubblicato e' stato redatto ai sensi dell'art. 10, comma 3, del testo unico delle disposizioni sulla promulgazione delle leggi, sull'emanazione dei decreti del Presidente della Repubblica e sulle pubblicazioni ufficiali della Repubblica italiana, approvato con [D.P.R. 28 dicembre 1985, n. 1092](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1985-12-28;1092), al solo fine di facilitare la lettura delle disposizioni di legge alle quali e' operato il rinvio. Restano invariati il valore e l'efficacia degli atti legislativi qui trascritti.  
 Note alle premesse:  
@@ -48,9 +45,8 @@ Note alle premesse:
 - Il [regolamento CEE n. 1272 del 29 aprile 1988](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:31988R1272) e' stato pubblicato nella Gazzetta Ufficiale delle Comunita' europee n. L 121 dell'11 maggio 1988.  
 - Il [regolamento CEE n. 466 del 27 febbraio 1992](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:31992R0466) e' stato pubblicato nella Gazzetta Ufficiale delle Comunita' europee n. [L 53/12 del 28 febbraio 1992](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1992-02-28;53).  
 - Il [D.M. n. 63/1991](http://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.:decreto:1991;63) e' stato pubblicato nella Gazzetta Ufficiale della Repubblica italiana n. 52 del 2 marzo 1991.  
-- Il [D.M. n. 281/1992](http://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.:decreto:1992;281) e' stato pubblicato nella Gazzetta Ufficiale della Repubblica italiana n. 111 del 14 maggio 1992.  
-- Le decisioni della Commissione CEE vengono notificate allo Stato membro tramite la rappresentanza permanente d'Italia presso la CEE e non vengono pubblicate.  
-- La [legge n. 183/1987](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1987;183) e' pubblicata nella Gazzetta Ufficiale della Repubblica italiana n. 109 del 13 maggio 1987.  
+- Il [D.M. n. 345/1993](http://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.:decreto:1993;345) e' stato pubblicato nella Gazzetta Ufficiale della Repubblica italiana n. 207 del 3 settembre 1993.  
+- Le decisioni della Commissione CEE vengono notificate allo Stato membro tramite la Rappresentanza permanente d'Italia presso la CEE e non vengono pubblicate.  
 - Il [comma 3 dell'art. 17 della legge n. 400/1988](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988;400~art17-com3) (Disciplina dell'attivita' di Governo e ordinamento della Presidenza del Consiglio dei Ministri) prevede che con decreto ministeriale possano essere adottati regolamenti nelle materie di competenza del Ministro o di autorita' sottordinate al Ministro, quando la legge espressamente conferisca tale potere. Tali regolamenti, per materie di competenza di piu' Ministri, possono essere adottati con decreti interministeriali, ferma restando la necessita' di apposita autorizzazione da parte della legge. I regolamenti ministeriali ed interministeriali non possono dettare norme contrarie a quelle dei regolamenti emanati dal Governo.  
 Essi debbono essere comunicati al Presidente del Consiglio dei Ministri prima della loro emanazione. Il comma 4 dello stesso articolo stabilisce che gli anzidetti regolamenti debbano recare la denominazione di "regolamento", siano adottati previo parere del Consiglio di Stato, sottoposti al visto ed alla registrazione della Corte dei conti e pubblicati nella Gazzetta Ufficiale.
 
@@ -58,53 +54,112 @@ Nota all'articolo 1:
 - Il testo modificato dell'[art. 12 del D.M. n. 63/1991](http://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.:decreto:1991;63~art12) e' il seguente:  
 "Art. 12 (Controlli e sanzioni). - 1. Il Ministero, avvalendosi anche del Corpo forestale dello Stato ed in collaborazione con le regioni e la provincia autonoma di Bolzano, fatta salva ogni altra disposizione di piu' ampia portata prescritta in materia di controlli, effettua ogni anno controlli in loco secondo le modalita' prescritte dall'[art. 14 del regolamento CEE n. 1272/88](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:31988R1272).  
 2. Il beneficiario e' tenuto a consentire l'accesso all'azienda agli agenti incaricati del controllo ed a collaborare, anche attraverso un proprio rappresentante, alle relative operazioni. In particolare, deve accompagnare o far accompagnare i suddetti agenti nell'azienda, provvedendo ad indicare, sotto la propria responsabilita', le particelle sottoposte al regime in conformita' con quanto dichiarato in domanda.  
-3. Il mancato rispetto degli obblighi di cui al comma precedente comporta l'esclusione dall'aiuto, salvo che l'inadempienza non sia dipesa da cause di forza maggiore o da altre cause indipendenti dalla volonta' del beneficiario.  
-4. Qualora i controlli in fase istruttoria evidenzino una differenza non inferiore al 2% ed a 20 are e non superiore al 10%, fino ad un massimo di 2 Ha, tra la superficie per la quale e' stato chiesto l'aiuto e quella effettivamente accertata, l'aiuto viene concesso per la sola superficie accertata, diminuita, per tutta la durata dell'impegno, della superficie risultata in eccesso; inoltre, qualora siano gia' stati corrisposti aiuti per le annualita' precedenti, il beneficiario decade parzialmente dal regime per le superfici eccedenti, con gli effetti di cui ai seguenti commi 7, 8 e 9, salvo che provi che la differenza riscontrata non sia stata originata da colpa o dolo.  
-5. Qualora la differenza di cui sopra oltrepassi i limiti del 10% e dei 2 Ha di cui al comma precedente, non viene concesso alcun aiuto per nessun periodo dell'impegno; in questo caso, qualora siano stati gia' corrisposti aiuti per le annualita' precedenti, il beneficiario decade totalmente dal regime, con gli effetti di cui ai seguenti commi 8 e 9, salvo che possa provare che la differenza riscontrata non sia stata originata da dolo o da colpa.  
+3. Il mancato rispetto degli obblighi di cui al comma precedente comporta la decadenza dall'aiuto, con gli effetti contemplati ai commi 8 e 9 del presente articolo, salvo che l'inadempienza non sia dipesa da cause di forza maggiore o da altre cause non imputabili alla volonta' del beneficiario.  
+4. Qualora, in fase istruttoria, si accerti l'esistenza di una differenza non inferiore al 2% ed a 20 are e non superiore al 10%, fino ad un massimo di 2 ettari, tra la superficie per la quale e' stato chiesto l'aiuto e quella effettivamente riscontrata, l'aiuto viene concesso per la sola superficie esistente, diminuita, per tutto il periodo dell'impegno, della superficie risultata in eccesso.  
+Qualora la discordanza venga verificata nel corso di un controllo successivo al pagamento di una o piu' annualita', fatta salva l'eventuale applicazione della sanzione amministrativa o penale, si procede al recupero del doppio del premio gia' corrisposto per le superfici inesistenti e si riduce il premio ancora da corrispondere per le altre annualita' dell'impegno, calcolandolo sulla base della superficie accertata diminuita della superficie risultata in eccesso.  
+5. Qualora la differenza di cui sopra oltrepassi i limiti del 10% e dei 2 ha di cui al comma precedente, non viene concesso alcun aiuto per nessun periodo dell'impegno; in questo caso, qualora siano stati gia' corrisposti aiuti per le annualita' precedenti, il beneficiario decade totalmente dal regime, con gli effetti di cui ai seguenti commi 8 e 9, salvo che possa provare che la differenza riscontrata non sia stata originata da dolo o da colpa.  
 6. Il beneficiario decade totalmente dall'aiuto nel corso dell'impegno:  
 a) se si accerta che la superficie non poteva essere sottoposta al regime per mancanza dei requisiti soggettivi od oggettivi richiesti dalla normativa comunitaria e nazionale;  
 b) se si accerta che la superficie oggetto del regime non e' stata in realta' ritirata dalla produzione;  
 c) al di fuori del caso che sia stato prescelto lo scopo di cui all'art. 4, comma 1, lettera e), del regolamento di cui al [decreto ministeriale n. 63/1991](http://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.:decreto:1991;63), se si accerta che la superficie ritirata e' stata oggetto di pascolo, salvo che il beneficiario possa provare che il pascolo sia avvenuto in via abusiva, contro la propria volonta';  
-d) nei casi previsti dai commi 5 e 11 del presente articolo.  
-7. Se le condizioni di cui al precedente comma si riferiscono solo a parte della superficie oggetto dell'impegno, che non superi nella sua estensione il 10% della superficie del seminativo aziendale sottoposto al re- gime, con un massimo di due ettari, la decadenza dall'aiuto e' limitata alla sola parte interessata dalle irregolarita'.  
+d) nei casi previsti dai commi 3, 5 e 11 del presente articolo.  
+7. Se le condizioni di cui al precedente comma si riferiscono solo a parte della superficie oggetto dell'impegno, che non superi nella sua estensione il 10% della superficie del seminativo aziendale sottoposto al regime, con un massimo di due ettari, la decadenza dall'aiuto e' limitata alla sola parte interessata dalle irregolarita'.  
 8. La decadenza totale o parziale comporta l'obbligo, a carico del beneficiario, di restituire gli importi eventualmente gia' percepiti per le annualita' precedenti, in relazione alle superfici decadute, secondo le modalita' precisate al seguente comma 9. Nel caso di decadenza parziale, fino all'avvenuta restituzione dei suddetti importi, la corresponsione del premio viene sospesa per tutta la superficie.  
-9. Le somme da restituirsi per effetto delle decadenze devono essere recuperate con la maggiorazione di un importo pari al tasso ufficiale di sconto in vigore nel periodo intercorso tra la data della erogazione e la data del recupero.  
-10. Qualora, in seguito al controllo, si accerti che non e' stato rispettato l'obbligo di mantenere in buone condizioni agronomiche le superfici ritirate, secondo quanto stabiliscono gli [articoli 4](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1988;1272~art4), [5](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1988;1272~art5) e [6 del regolamento CEE n. 1272/88](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:31988R1272), richiamati all'[art. 4, comma 4, del decreto ministeriale n. 63/1991](http://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.:decreto:1991;63~art4-com4), ed i provvedimenti regionali di applicazione eventualmente emanati, l'aiuto dovuto per la superficie irregolare, nella campagna in corso, subira' una riduzione del 15%.  
+9. In tutti i casi, le somme indebitamente percepite devono esseere recuperate maggiorate di un interesse pari al tasso lettera interbancario applicabile l'ultimo giorno lavorativo del mese durante il quale l'importo in questione e' stato versato al beneficiario, maggiorato del 2%.  
+Qualora si debbano recuperare diverse annualita' di premio, il calcolo dev'essere effettuato in relazione a ciascuna annualita'.  
+10. Qualora, in seguito al controllo, si accerti che non e' stato rispettato l'obbligo di mantenere in buone condizioni agronomiche le superfici ritirate, secondo quanto stabiliscono gli [articoli 4](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1988;1272~art4), [5](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1988;1272~art5) e [6 del regolamento CEE 1272/88](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:31988R1272), richiamati all'[art. 4, comma 4, del decreto ministeriale n. 63/1991](http://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.:decreto:1991;63~art4-com4), ed i provvedimenti regionali di applicazione eventualmente emanati, l'aiuto dovuto per la superficie irregolare, nella campagna in corso, subira' una riduzione del 15%.  
 11. Se l'inadempimento di cui al precedente comma venga riscontrato nuovamente nel corso di un ulteriore controllo effettuato dopo almeno venti giorni dal primo, il beneficiario decade dall'aiuto con gli effetti di cui ai commi 6, 7 ed 8 del presente articolo.  
 12. Oltre alle suddette sanzioni, restano comunque applicabili le sanzioni penali o amministrative o entrambe nei casi nei quali ricorrono gli estremi di legge".
 
 Art. 2
 ------
 
-1. L'[art. 12, comma 9, del decreto ministeriale 19 febbraio 1991, n. 63](http://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.:decreto:1991-02-19;63~art12-com9), modificato dal [decreto ministeriale 9 aprile 1992, n. 281](http://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.:decreto:1992-04-09;281), e' cosi' sostituito:  
-"9. Le somme da restituirsi per effetto delle decadenze devono essere recuperate con la maggiorazione di un importo pari al tasso ufficiale di sconto in vigore nel periodo intercorso tra la data della erogazione e la data del recupero".
-
-Il presente decreto, munito del sigillo dello Stato, sara' inserito nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-### Roma, 17 giugno 1993
-
-Il Ministro: DIANA
-
-Visto, il Guardasigilli: CONSO Registrato alla Corte dei conti il 26 agosto 1993
-
-Registro n. 11 Agricoltura, foglio n. 231
+1. L'[art. 12, comma 4, del decreto ministeriale 19 febbraio 1991, n. 63](http://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.:decreto:1991-02-19;63~art12-com4), modificato dal [decreto ministeriale 17 giugno 1993, n. 345](http://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.:decreto:1993-06-17;345), e' cosi' sostituito:  
+" 4. Qualora, in fase istruttoria, si accerti l'esistenza di una differenza non inferiore al 2% ed a 20 are e non superiore al 10% fino ad un massimo di 2 ettari tra la superficie per la quale e' stato chiesto l'aiuto e quella effettivamente riscontrata, l'aiuto viene concesso per la sola superficie esistente diminuita, per tutto il periodo dell'impegno, della superficie risultata in eccesso.  
+Qualora la discordanza venga verificata nel corso di un controllo successivo al pagamento di una o piu' annualita', fatta salva l'eventuale applicazione della sanzione amministrativa o penale, si procede al recupero del doppio del premio gia' corrisposto per le superfici inesistenti e si riduce il premio ancora da corrispondere per le altre annualita' dell'impegno, calcolandolo sulla base della superficie accertata diminuita della superficie risultata in eccesso.".
 
 Nota all'articolo 2:  
 - Il testo modificato dell'[art. 12 del D.M. n. 63/1991](http://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.:decreto:1991;63~art12) e' il seguente:  
 "Art. 12 (Controlli e sanzioni). - 1. Il Ministero, avvalendosi anche del Corpo forestale dello Stato ed in collaborazione con le regioni e la provincia autonoma di Bolzano, fatta salva ogni altra disposizione di piu' ampia portata prescritta in materia di controlli, effettua ogni anno controlli in loco secondo le modalita' prescritte dall'[art. 14 del regolamento CEE n. 1272/88](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:31988R1272).  
 2. Il beneficiario e' tenuto a consentire l'accesso all'azienda agli agenti incaricati del controllo ed a collaborare, anche attraverso un proprio rappresentante, alle relative operazioni. In particolare, deve accompagnare o far accompagnare i suddetti agenti nell'azienda, provvedendo ad indicare, sotto la propria responsabilita', le particelle sottoposte al regime in conformita' con quanto dichiarato in domanda.  
-3. Il mancato rispetto degli obblighi di cui al comma precedente comporta l'esclusione dall'aiuto, salvo che l'inadempienza non sia dipesa da cause di forza maggiore o da altre cause indipendenti dalla volonta' del beneficiario.  
-4. Qualora i controlli in fase istruttoria evidenzino una differenza non inferiore al 2% ed a 20 are e non superiore al 10%, fino ad un massimo di 2 Ha, tra la superficie per la quale e' stato chiesto l'aiuto e quella effettivamente accertata, l'aiuto viene concesso per la sola superficie accertata, diminuita, per tutta la durata dell'impegno, della superficie risultata in eccesso; inoltre, qualora siano gia' stati corrisposti aiuti per le annualita' precedenti, il beneficiario decade parzialmente dal regime per le superfici eccedenti, con gli effetti di cui ai seguenti commi 7, 8 e 9, salvo che provi che la differenza riscontrata non sia stata originata da colpa o dolo.  
-5. Qualora la differenza di cui sopra oltrepassi i limiti del 10% e dei 2 Ha di cui al comma precedente, non viene concesso alcun aiuto per nessun periodo dell'impegno; in questo caso, qualora siano stati gia' corrisposti aiuti per le annualita' precedenti, il beneficiario decade totalmente dal regime, con gli effetti di cui ai seguenti commi 8 e 9, salvo che possa provare che la differenza riscontrata non sia stata originata da dolo o da colpa.  
+3. Il mancato rispetto degli obblighi di cui al comma precedente comporta la decadenza dall'aiuto, con gli effetti contemplati ai commi 8 e 9 del presente articolo, salvo che l'inadempienza non sia dipesa da cause di forza maggiore o da altre cause non imputabili alla volonta' del beneficiario.  
+4. Qualora, in fase istruttoria, si accerti l'esistenza di una differenza non inferiore al 2% ed a 20 are e non superiore al 10%, fino ad un massimo di 2 ettari, tra la superficie per la quale e' stato chiesto l'aiuto e quella effettivamente riscontrata, l'aiuto viene concesso per la sola superficie esistente, diminuita, per tutto il periodo dell'impegno, della superficie risultata in eccesso.  
+Qualora la discordanza venga verificata nel corso di un controllo successivo al pagamento di una o piu' annualita', fatta salva l'eventuale applicazione della sanzione amministrativa o penale, si procede al recupero del doppio del premio gia' corrisposto per le superfici inesistenti e si riduce il premio ancora da corrispondere per le altre annualita' dell'impegno, calcolandolo sulla base della superficie accertata diminuita della superficie risultata in eccesso.  
+5. Qualora la differenza di cui sopra oltrepassi i limiti del 10% e dei 2 ha di cui al comma precedente, non viene concesso alcun aiuto per nessun periodo dell'impegno; in questo caso, qualora siano stati gia' corrisposti aiuti per le annualita' precedenti, il beneficiario decade totalmente dal regime, con gli effetti di cui ai seguenti commi 8 e 9, salvo che possa provare che la differenza riscontrata non sia stata originata da dolo o da colpa.  
 6. Il beneficiario decade totalmente dall'aiuto nel corso dell'impegno:  
 a) se si accerta che la superficie non poteva essere sottoposta al regime per mancanza dei requisiti soggettivi od oggettivi richiesti dalla normativa comunitaria e nazionale;  
 b) se si accerta che la superficie oggetto del regime non e' stata in realta' ritirata dalla produzione;  
 c) al di fuori del caso che sia stato prescelto lo scopo di cui all'art. 4, comma 1, lettera e), del regolamento di cui al [decreto ministeriale n. 63/1991](http://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.:decreto:1991;63), se si accerta che la superficie ritirata e' stata oggetto di pascolo, salvo che il beneficiario possa provare che il pascolo sia avvenuto in via abusiva, contro la propria volonta';  
-d) nei casi previsti dai commi 5 e 11 del presente articolo.  
-7. Se le condizioni di cui al precedente comma si riferiscono solo a parte della superficie oggetto dell'impegno, che non superi nella sua estensione il 10% della superficie del seminativo aziendale sottoposto al re- gime, con un massimo di due ettari, la decadenza dall'aiuto e' limitata alla sola parte interessata dalle irregolarita'.  
+d) nei casi previsti dai commi 3, 5 e 11 del presente articolo.  
+7. Se le condizioni di cui al precedente comma si riferiscono solo a parte della superficie oggetto dell'impegno, che non superi nella sua estensione il 10% della superficie del seminativo aziendale sottoposto al regime, con un massimo di due ettari, la decadenza dall'aiuto e' limitata alla sola parte interessata dalle irregolarita'.  
 8. La decadenza totale o parziale comporta l'obbligo, a carico del beneficiario, di restituire gli importi eventualmente gia' percepiti per le annualita' precedenti, in relazione alle superfici decadute, secondo le modalita' precisate al seguente comma 9. Nel caso di decadenza parziale, fino all'avvenuta restituzione dei suddetti importi, la corresponsione del premio viene sospesa per tutta la superficie.  
-9. Le somme da restituirsi per effetto delle decadenze devono essere recuperate con la maggiorazione di un importo pari al tasso ufficiale di sconto in vigore nel periodo intercorso tra la data della erogazione e la data del recupero.  
-10. Qualora, in seguito al controllo, si accerti che non e' stato rispettato l'obbligo di mantenere in buone condizioni agronomiche le superfici ritirate, secondo quanto stabiliscono gli [articoli 4](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1988;1272~art4), [5](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1988;1272~art5) e [6 del regolamento CEE n. 1272/88](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:31988R1272), richiamati all'[art. 4, comma 4, del decreto ministeriale n. 63/1991](http://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.:decreto:1991;63~art4-com4), ed i provvedimenti regionali di applicazione eventualmente emanati, l'aiuto dovuto per la superficie irregolare, nella campagna in corso, subira' una riduzione del 15%.  
+9. In tutti i casi, le somme indebitamente percepite devono esseere recuperate maggiorate di un interesse pari al tasso lettera interbancario applicabile l'ultimo giorno lavorativo del mese durante il quale l'importo in questione e' stato versato al beneficiario, maggiorato del 2%.  
+Qualora si debbano recuperare diverse annualita' di premio, il calcolo dev'essere effettuato in relazione a ciascuna annualita'.  
+10. Qualora, in seguito al controllo, si accerti che non e' stato rispettato l'obbligo di mantenere in buone condizioni agronomiche le superfici ritirate, secondo quanto stabiliscono gli [articoli 4](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1988;1272~art4), [5](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1988;1272~art5) e [6 del regolamento CEE 1272/88](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:31988R1272), richiamati all'[art. 4, comma 4, del decreto ministeriale n. 63/1991](http://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.:decreto:1991;63~art4-com4), ed i provvedimenti regionali di applicazione eventualmente emanati, l'aiuto dovuto per la superficie irregolare, nella campagna in corso, subira' una riduzione del 15%.  
+11. Se l'inadempimento di cui al precedente comma venga riscontrato nuovamente nel corso di un ulteriore controllo effettuato dopo almeno venti giorni dal primo, il beneficiario decade dall'aiuto con gli effetti di cui ai commi 6, 7 ed 8 del presente articolo.  
+12. Oltre alle suddette sanzioni, restano comunque applicabili le sanzioni penali o amministrative o entrambe nei casi nei quali ricorrono gli estremi di legge".
+
+Art. 3
+------
+
+1. L'[art. 12, comma 6, lettera d), del decreto ministeriale 19 febbraio 1991, n. 63](http://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.:decreto:1991-02-19;63~art12-com6-letd), modificato dal [decreto ministeriale 17 giugno 1993, n. 345](http://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.:decreto:1993-06-17;345), e' cosi' sostituito:  
+" d) nei casi previsti dai commi 3, 5 e 11 del presente articolo.".
+
+Nota all'articolo 3:  
+- Il testo modificato dell'[art. 12 del D.M. n. 63/1991](http://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.:decreto:1991;63~art12) e' il seguente:  
+"Art. 12 (Controlli e sanzioni). - 1. Il Ministero, avvalendosi anche del Corpo forestale dello Stato ed in collaborazione con le regioni e la provincia autonoma di Bolzano, fatta salva ogni altra disposizione di piu' ampia portata prescritta in materia di controlli, effettua ogni anno controlli in loco secondo le modalita' prescritte dall'[art. 14 del regolamento CEE n. 1272/88](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:31988R1272).  
+2. Il beneficiario e' tenuto a consentire l'accesso all'azienda agli agenti incaricati del controllo ed a collaborare, anche attraverso un proprio rappresentante, alle relative operazioni. In particolare, deve accompagnare o far accompagnare i suddetti agenti nell'azienda, provvedendo ad indicare, sotto la propria responsabilita', le particelle sottoposte al regime in conformita' con quanto dichiarato in domanda.  
+3. Il mancato rispetto degli obblighi di cui al comma precedente comporta la decadenza dall'aiuto, con gli effetti contemplati ai commi 8 e 9 del presente articolo, salvo che l'inadempienza non sia dipesa da cause di forza maggiore o da altre cause non imputabili alla volonta' del beneficiario.  
+4. Qualora, in fase istruttoria, si accerti l'esistenza di una differenza non inferiore al 2% ed a 20 are e non superiore al 10%, fino ad un massimo di 2 ettari, tra la superficie per la quale e' stato chiesto l'aiuto e quella effettivamente riscontrata, l'aiuto viene concesso per la sola superficie esistente, diminuita, per tutto il periodo dell'impegno, della superficie risultata in eccesso.  
+Qualora la discordanza venga verificata nel corso di un controllo successivo al pagamento di una o piu' annualita', fatta salva l'eventuale applicazione della sanzione amministrativa o penale, si procede al recupero del doppio del premio gia' corrisposto per le superfici inesistenti e si riduce il premio ancora da corrispondere per le altre annualita' dell'impegno, calcolandolo sulla base della superficie accertata diminuita della superficie risultata in eccesso.  
+5. Qualora la differenza di cui sopra oltrepassi i limiti del 10% e dei 2 ha di cui al comma precedente, non viene concesso alcun aiuto per nessun periodo dell'impegno; in questo caso, qualora siano stati gia' corrisposti aiuti per le annualita' precedenti, il beneficiario decade totalmente dal regime, con gli effetti di cui ai seguenti commi 8 e 9, salvo che possa provare che la differenza riscontrata non sia stata originata da dolo o da colpa.  
+6. Il beneficiario decade totalmente dall'aiuto nel corso dell'impegno:  
+a) se si accerta che la superficie non poteva essere sottoposta al regime per mancanza dei requisiti soggettivi od oggettivi richiesti dalla normativa comunitaria e nazionale;  
+b) se si accerta che la superficie oggetto del regime non e' stata in realta' ritirata dalla produzione;  
+c) al di fuori del caso che sia stato prescelto lo scopo di cui all'art. 4, comma 1, lettera e), del regolamento di cui al [decreto ministeriale n. 63/1991](http://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.:decreto:1991;63), se si accerta che la superficie ritirata e' stata oggetto di pascolo, salvo che il beneficiario possa provare che il pascolo sia avvenuto in via abusiva, contro la propria volonta';  
+d) nei casi previsti dai commi 3, 5 e 11 del presente articolo.  
+7. Se le condizioni di cui al precedente comma si riferiscono solo a parte della superficie oggetto dell'impegno, che non superi nella sua estensione il 10% della superficie del seminativo aziendale sottoposto al regime, con un massimo di due ettari, la decadenza dall'aiuto e' limitata alla sola parte interessata dalle irregolarita'.  
+8. La decadenza totale o parziale comporta l'obbligo, a carico del beneficiario, di restituire gli importi eventualmente gia' percepiti per le annualita' precedenti, in relazione alle superfici decadute, secondo le modalita' precisate al seguente comma 9. Nel caso di decadenza parziale, fino all'avvenuta restituzione dei suddetti importi, la corresponsione del premio viene sospesa per tutta la superficie.  
+9. In tutti i casi, le somme indebitamente percepite devono esseere recuperate maggiorate di un interesse pari al tasso lettera interbancario applicabile l'ultimo giorno lavorativo del mese durante il quale l'importo in questione e' stato versato al beneficiario, maggiorato del 2%.  
+Qualora si debbano recuperare diverse annualita' di premio, il calcolo dev'essere effettuato in relazione a ciascuna annualita'.  
+10. Qualora, in seguito al controllo, si accerti che non e' stato rispettato l'obbligo di mantenere in buone condizioni agronomiche le superfici ritirate, secondo quanto stabiliscono gli [articoli 4](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1988;1272~art4), [5](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1988;1272~art5) e [6 del regolamento CEE 1272/88](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:31988R1272), richiamati all'[art. 4, comma 4, del decreto ministeriale n. 63/1991](http://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.:decreto:1991;63~art4-com4), ed i provvedimenti regionali di applicazione eventualmente emanati, l'aiuto dovuto per la superficie irregolare, nella campagna in corso, subira' una riduzione del 15%.  
+11. Se l'inadempimento di cui al precedente comma venga riscontrato nuovamente nel corso di un ulteriore controllo effettuato dopo almeno venti giorni dal primo, il beneficiario decade dall'aiuto con gli effetti di cui ai commi 6, 7 ed 8 del presente articolo.  
+12. Oltre alle suddette sanzioni, restano comunque applicabili le sanzioni penali o amministrative o entrambe nei casi nei quali ricorrono gli estremi di legge".
+
+Art. 4
+------
+
+1. L'[art. 12, comma 9, del decreto ministeriale 19 febbraio 1991, n. 63](http://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.:decreto:1991-02-19;63~art12-com9), modificato dal [decreto ministeriale 17 giugno 1993, n. 345](http://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.:decreto:1993-06-17;345), e' cosi' sostituito:  
+" 9. In tutti i casi, le somme indebitamente percepite devono essere recuperate maggiorate di un interesse pari al tasso lettera interbancario applicabile l'ultimo giorno lavorativo del mese durante il quale l'importo in questione e' stato versato al beneficiario, maggiorato del 2%. Qualora si debbano recuperare diverse annualita' di premio, il calcolo dev'essere effettuato in relazione a ciascuna annualita'.".
+
+Il presente decreto, munito del sigillo dello Stato, sara' inserito nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+### Roma, 13 dicembre 1994
+
+Il Ministro: POLI BORTONE
+
+Visto, il Guardasigilli: MANCUSO Registrato alla Corte dei conti il 28 febbraio 1995
+
+Registro n. 1 Risorse agricole, foglio n. 48
+
+Nota all'articolo 4:  
+- Il testo modificato dell'[art. 12 del D.M. n. 63/1991](http://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.:decreto:1991;63~art12) e' il seguente:  
+"Art. 12 (Controlli e sanzioni). - 1. Il Ministero, avvalendosi anche del Corpo forestale dello Stato ed in collaborazione con le regioni e la provincia autonoma di Bolzano, fatta salva ogni altra disposizione di piu' ampia portata prescritta in materia di controlli, effettua ogni anno controlli in loco secondo le modalita' prescritte dall'[art. 14 del regolamento CEE n. 1272/88](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:31988R1272).  
+2. Il beneficiario e' tenuto a consentire l'accesso all'azienda agli agenti incaricati del controllo ed a collaborare, anche attraverso un proprio rappresentante, alle relative operazioni. In particolare, deve accompagnare o far accompagnare i suddetti agenti nell'azienda, provvedendo ad indicare, sotto la propria responsabilita', le particelle sottoposte al regime in conformita' con quanto dichiarato in domanda.  
+3. Il mancato rispetto degli obblighi di cui al comma precedente comporta la decadenza dall'aiuto, con gli effetti contemplati ai commi 8 e 9 del presente articolo, salvo che l'inadempienza non sia dipesa da cause di forza maggiore o da altre cause non imputabili alla volonta' del beneficiario.  
+4. Qualora, in fase istruttoria, si accerti l'esistenza di una differenza non inferiore al 2% ed a 20 are e non superiore al 10%, fino ad un massimo di 2 ettari, tra la superficie per la quale e' stato chiesto l'aiuto e quella effettivamente riscontrata, l'aiuto viene concesso per la sola superficie esistente, diminuita, per tutto il periodo dell'impegno, della superficie risultata in eccesso.  
+Qualora la discordanza venga verificata nel corso di un controllo successivo al pagamento di una o piu' annualita', fatta salva l'eventuale applicazione della sanzione amministrativa o penale, si procede al recupero del doppio del premio gia' corrisposto per le superfici inesistenti e si riduce il premio ancora da corrispondere per le altre annualita' dell'impegno, calcolandolo sulla base della superficie accertata diminuita della superficie risultata in eccesso.  
+5. Qualora la differenza di cui sopra oltrepassi i limiti del 10% e dei 2 ha di cui al comma precedente, non viene concesso alcun aiuto per nessun periodo dell'impegno; in questo caso, qualora siano stati gia' corrisposti aiuti per le annualita' precedenti, il beneficiario decade totalmente dal regime, con gli effetti di cui ai seguenti commi 8 e 9, salvo che possa provare che la differenza riscontrata non sia stata originata da dolo o da colpa.  
+6. Il beneficiario decade totalmente dall'aiuto nel corso dell'impegno:  
+a) se si accerta che la superficie non poteva essere sottoposta al regime per mancanza dei requisiti soggettivi od oggettivi richiesti dalla normativa comunitaria e nazionale;  
+b) se si accerta che la superficie oggetto del regime non e' stata in realta' ritirata dalla produzione;  
+c) al di fuori del caso che sia stato prescelto lo scopo di cui all'art. 4, comma 1, lettera e), del regolamento di cui al [decreto ministeriale n. 63/1991](http://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.:decreto:1991;63), se si accerta che la superficie ritirata e' stata oggetto di pascolo, salvo che il beneficiario possa provare che il pascolo sia avvenuto in via abusiva, contro la propria volonta';  
+d) nei casi previsti dai commi 3, 5 e 11 del presente articolo.  
+7. Se le condizioni di cui al precedente comma si riferiscono solo a parte della superficie oggetto dell'impegno, che non superi nella sua estensione il 10% della superficie del seminativo aziendale sottoposto al regime, con un massimo di due ettari, la decadenza dall'aiuto e' limitata alla sola parte interessata dalle irregolarita'.  
+8. La decadenza totale o parziale comporta l'obbligo, a carico del beneficiario, di restituire gli importi eventualmente gia' percepiti per le annualita' precedenti, in relazione alle superfici decadute, secondo le modalita' precisate al seguente comma 9. Nel caso di decadenza parziale, fino all'avvenuta restituzione dei suddetti importi, la corresponsione del premio viene sospesa per tutta la superficie.  
+9. In tutti i casi, le somme indebitamente percepite devono esseere recuperate maggiorate di un interesse pari al tasso lettera interbancario applicabile l'ultimo giorno lavorativo del mese durante il quale l'importo in questione e' stato versato al beneficiario, maggiorato del 2%.  
+Qualora si debbano recuperare diverse annualita' di premio, il calcolo dev'essere effettuato in relazione a ciascuna annualita'.  
+10. Qualora, in seguito al controllo, si accerti che non e' stato rispettato l'obbligo di mantenere in buone condizioni agronomiche le superfici ritirate, secondo quanto stabiliscono gli [articoli 4](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1988;1272~art4), [5](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1988;1272~art5) e [6 del regolamento CEE 1272/88](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:31988R1272), richiamati all'[art. 4, comma 4, del decreto ministeriale n. 63/1991](http://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.:decreto:1991;63~art4-com4), ed i provvedimenti regionali di applicazione eventualmente emanati, l'aiuto dovuto per la superficie irregolare, nella campagna in corso, subira' una riduzione del 15%.  
 11. Se l'inadempimento di cui al precedente comma venga riscontrato nuovamente nel corso di un ulteriore controllo effettuato dopo almeno venti giorni dal primo, il beneficiario decade dall'aiuto con gli effetti di cui ai commi 6, 7 ed 8 del presente articolo.  
 12. Oltre alle suddette sanzioni, restano comunque applicabili le sanzioni penali o amministrative o entrambe nei casi nei quali ricorrono gli estremi di legge".

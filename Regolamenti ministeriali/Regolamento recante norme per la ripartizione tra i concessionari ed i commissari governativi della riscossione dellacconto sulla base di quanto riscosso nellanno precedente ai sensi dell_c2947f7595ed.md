@@ -1,13 +1,13 @@
-DECRETO 14 dicembre 1998 n. 436
+DECRETO 05 dicembre 1997 n. 427
 
 
-DECRETO 14 dicembre 1998 n. 436
+DECRETO 05 dicembre 1997 n. 427
 ===============================
 
 Regolamento recante norme per la ripartizione tra i concessionari ed i commissari governativi della riscossione dell'acconto sulla base di quanto riscosso nell'anno precedente, ai sensi dell'articolo 9 del decreto-legge 28 marzo 1997, n. 79, convertito, con modificazioni, dalla legge 28 maggio 1997, n. 140.
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Entrata in vigore del decreto: 17-12-1998
+Entrata in vigore del decreto: 27-12-1997
 
 IL MINISTRO DELLE FINANZE
 -------------------------
@@ -18,25 +18,27 @@ IL MINISTRO DEL TESORO, DEL BILANCIO
 
 E DELLA PROGRAMMAZIONE ECONOMICA
 
-Visto il [decreto-legge 28 marzo 1997, n. 79](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1997-03-28;79), convertito, con modificazioni, dalla [legge 28 maggio 1997, n. 140, che all'articolo 9, comma 1](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997-05-28;140~art9-com1), prevede l'obbligo per i concessionari della riscossione di versare, entro il 15 dicembre di ogni anno, il 20 per cento delle somme riscosse nell'anno precedente ai sensi del [decreto legislativo 9 luglio 1997, n. 237](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1997-07-09;237), a titolo di acconto sulle riscossioni a decorrere dal 1 gennaio dell'anno successivo;
+Visto il [decreto-legge 28 marzo 1997, n. 79](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1997-03-28;79), convertito in legge, con modificazioni, dalla [legge 28 maggio 1997, n. 140, che all'art. 9, comma 1](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997-05-28;140~art9-com1), prevede l'obbligoper i concessionari della riscossione di versare, entro il 15 dicembre di ogni anno, il 20 per cento delle somme riscosse nell'anno precedente ai sensi del [decreto legislativo 9 luglio 1997, n. 237](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1997-07-09;237), a titolo di acconto sulle riscossioni a decorrere dal primo gennaio dell'anno successivo;
 
-Visto il successivo comma 2, che prescrive che con decreto del Ministro delle finanze, di concerto con il Ministro del tesoro, da emanare annualmente ai sensi dell'[articolo 17, comma 3, della legge 23 agosto 1988, n. 400](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400~art17-com3), vengono stabilite la ripartizione tra i concessionari dell'acconto sulla base di quanto riscosso nell'anno precedente dai servizi autonomi di cassa o dai concessionari nei rispettivi ambiti territoriali, le modalita' di versamento, nonche' ogni altra disposizione attuativa;
+Visto il successivo comma 2, che prescrive che con decreto del Ministro delle finanze, di concerto con il Ministro del tesoro, da emanare annualmente ai sensi dell'[art. 17, comma 3, della legge 23 agosto 1988, n. 400](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400~art17-com3), vengono stabilite la ripartizione tra i concessionari dell'acconto sulla base di quanto riscosso nell'anno precedente dai servizi autonomi di cassa o dai concessionari nei rispettivi ambiti territoriali, le modalita' di versamento, nonche' ogni altra disposizione attuativa;
 
-Visto il comma 4 del suddetto articolo 9 che dispone che per il triennio 1997-1999 l'acconto di cui al comma 1 e' determinato con il decreto di cui al comma 2 in modo che complessivamente garantisca maggiori entrate per il bilancio dello Stato pari a lire 3.000 miliardi per l'anno 1997, lire 1.500 miliardi per l'anno 1998 e lire 1.500 miliardi per l'anno 1999;
+Visto il comma 4 del suddetto articolo 9 che dispone che per il triennio 1997 -1999 l'acconto di cui al comma 1 e' determinato con il decreto di cui al comma 2 inmodo che complessivamente garantisca maggiori entrate per il bilancio dello Stato pari a lire 3000 miliardi per l'anno 1997, lire 1500 miliardi per l'anno 1998 e lire 1500 miliardi per l'anno 1999;
 
-Visto il [decreto legislativo 9 luglio 1997, n. 237](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1997-07-09;237), concernente la modifica della disciplina in materia di servizi autonomi di cassa degli uffici finanziari, che, tra l'altro, agli articoli 2 e 4 prevede le diverse entrate che saranno riscosse dai concessionari del servizio di riscossione a decorrere dal 1 gennaio 1998;
+Visto il [decreto legislativo 9 luglio 1997, n. 237](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1997-07-09;237), concernente la modifica della disciplina in materia di servizi autonomi di cassa degli uffici finanziari, che, tra l'altro, agli articoli 2 e 4 prevede le diverse entrate che saranno riscosse dai concessionari del servizio di riscossione a decorrere dal l gennaio 1998;
 
 Visto il [decreto del Presidente della Repubblica 28 gennaio 1988, n. 43](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1988-01-28;43), istitutivo del servizio di riscossione dei tributi e di altre entrate dello Stato e di altri enti pubblici;
 
-Considerato che la dizione "i concessionari della riscossione" di cui all'articolo 9 del predetto [decreto-legge n. 79 del 1997](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1997;79), va intesa oggettivamente nel senso di "servizio della riscossione nell'ambito territoriale provinciale" a prescindere dalla posizione dell'agente della riscossione, per cui la ripartizione dell'acconto sopra menzionata va effettuata in riferimento ad ipotesi di servizio della riscossione gestito anche sotto forma commissariale;
+Considerato che la dizione "i concessionari della riscossione" di cui all'articolo 9 del predetto [decretolegge, n. 79 del 1997](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1997;79), va intesa oggettivamente nel senso di "servizio della riscossione nell'ambito territoriale provinciale" a prescindere dalla posizione dell'agente della riscossione, per cui la ripartizione dell'acconto sopra menzionata va effettuata in riferimento ad ipotesi di servizio della riscossione gestito anche sotto forma commissariale;
 
-Considerato che la percentuale dell'anticipazione cui sono tenuti i concessionari ed i commissari governativi delegati alla riscossione, e' stata fissata a regime al 20 per cento delle somme riscosse nell'anno precedente, e che per l'anno 1998 l'anticipazione deve garantire complessivamente maggiori entrate per il bilancio dello Stato pari a lire 1.500 miliardi;
+Considerato che la percentuale dell'anticipazione cui sono tenuti i concessionari ed i commissari governativi della riscossione, e' stata fissata a regime al 20% delle somme riscosse nell'anno precedente e che per l'anno 1997 l'anticipazione deve garantire complessivamente maggiori entrate per il bilancio dello Stato pari a lire 3.000 miliardi;
 
-Considerato che la quota parte dell'anticipazione che ogni singolo concessionario e commissario governativo della riscossione deve versare entro il 15 dicembre 1998, va determinata in proporzione all'ammontare incassato dai servizi autonomi di cassa degli uffici finanziari operanti in ciascuna provincia e quello complessivo incassato dai servizi stessi nell'anno 1997 a livello nazionale, tenendo conto dei due vincoli sopra indicati;
+Considerato che la quota parte dell'anticipazione che ogni singolo concessionario e commissario governativo della riscossione deve versare entro il 15 dicembre 1997, va determinata in proporzione all'ammontare incassato dai servizi autonomi di cassa degli uffici finanziari operanti in ciascuna provincia e quello complessivo incassato dai servizi stessi nell'anno 1996 a livello nazionale, tenendo conto dei due vincoli sopra indicati;
 
-Udito il parere del Consiglio di Stato espresso dalla sezione consultiva per gli atti normativi nell'adunanza del 7 dicembre 1998;
+Considerato che la compensazione prevista per i concessionari ed i commissari governativi della riscossione, dall'articolo 3 del presente decreto avviene in piu' soluzioni, ripartite nel tempo, essendo essa correlata ai versamenti dei singoli tributi di cui agli [articoli 2](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1997-07-09;237~art2) e [4 del decreto legislativo 9 luglio 1997, n. 237](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1997-07-09;237~art4), effettuati dai contribuenti e atteso che sulla base dei dati in possesso dell'amministrazione finanziaria relativi ai versamenti eseguiti negli anni precedenti, la compensazione dell'ammontare anticipato dai concessionari e dai commissari governativi del servizio di riscossione dei tributi si raggiunge normalmente nell'arco di tempo compreso tra due e sei mesi.
 
-Vista la nota n. 3-6042 dell'11 dicembre 1998, con la quale e' stata effettuata la comunicazione al Presidente del Consiglio dei Ministri prevista dall'[articolo 17, comma 3, della legge 23 agosto 1988, n. 400](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400~art17-com3);
+Udito il parere del Consiglio di Stato espresso dalla sezione consultiva per gli atti normativi nell'adunanza del 17 novembre 1997;
+
+Vista la nota n. 3-8488 del 4 dicembre 1997 con la quale e' stata effettuata la comunicazione al Presidente del Consiglio dei Ministri prevista dall'[articolo 17, comma 3, della legge 23 agosto 1988, n. 400](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400~art17-com3);
 
 Adotta
 ------
@@ -46,375 +48,285 @@ il seguente regolamento:
 Art. 1
 ------
 
-1. La quota parte dei 4.500 miliardi di lire di cui all'[articolo 9, comma 4, del decreto-legge 28 marzo 1997, n. 79](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1997-03-28;79~art9-com4), convertito, con modificazioni, dalla [legge 28 maggio 1997, n. 140](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997-05-28;140), che i concessionari della riscossione ed i commissari governativi versano entro il 15 dicembre dell'anno 1998, e' determinata sulla base del rapporto tra l'ammontare incassato dai servizi autonomi di cassa dell'Amministrazione finanziaria operanti in ciascuna provincia e quello complessivo incassato dai servizi stessi nell'anno 1997 a livello nazionale, cosi' come risulta dalla tabella A che fa parte integrante del presente decreto.  
+ La quota parte dei 3.000 miliardi di cui [articolo 9, comma 4, del decreto-legge 28 marzo 1997, n. 79](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1997-03-28;79~art9-com4), convertito, con modificazioni, dalla [legge 28 maggio 1997, n. 140](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997-05-28;140), che i concessionari della riscossione ed i commissari governativi versano entro il 15 dicembre dell'anno 1997, e' determinata sulla base del rapporto tra l'ammontare incassato dai servizi autonomi di cassa dell'amministrazione finanziaria operanti in ciascuna provincia e quello complessivo incassato dai servizi stessi nell'anno 1996 a livello nazionale, cosi' come risulta dalla tabella A che fa parte integrante del presente decreto.  
 Avvertenza:  
-Il testo delle note qui pubblicato e' stato redatto ai sensi dell'art. 10, comma 3, del testo unico delle disposizioni sulla promulgazione delle leggi, sull'emanazione dei decreti del Presidente della Repubblica e sulle pubblicazioni ufficiali della Repubblica italiana, approvato con [D.P.R. 28 dicembre 1985, n. 1092](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1985-12-28;1092), al solo fine di facilitare la lettura delle disposizioni di legge alle quali e' operato il rinvio. Restano invariati i valori e l'efficacia degli atti legislativi qui trascritti.
+Il testo delle note qui pubblicato e' stato redatto ai sensi dell'art. 10, comma 3, del testo unico delle disposizioni sulla promulgazione delle leggi, sull'emanazione dei decreti del Presidente delal Repubblica e sulle pubblicazioni ufficiali della Repubblica italiana approvato con [D.P.R. 28 dicembre 1985, n. 1092](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1985-12-28;1092), al solo fine di facilitare la lettura delle disposizioni di legge alle quali e' operato il rinvio.  
+Restano invariati i valori e l'efficacia degli atti legislativi qui trascritti.  
 
 Note alle premesse:  
-- Il [decreto-legge 28 marzo 1997, n. 79](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1997-03-28;79), convertito dalla [legge 28 maggio 1997, n. 140](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997-05-28;140), reca: "Misure urgenti per il riequilibrio della finanza pubblica". Si riporta il testo dell'art. 9:  
-"Art. 9. - 1. I concessionari della riscossione, entro il 15 dicembre di ogni anno, versano il 20 % delle somme riscosse nell'anno precedente per effetto delle disposizioni attuative della delega legislativa prevista dal [comma 138 dell'art. 3 della legge 23 dicembre 1996, n. 662](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1996-12-23;662~art3-com138), intese a modificare la disciplina dei servizi autonomi di cassa degli uffici finanziari, a titolo di acconto sulle riscossioni a decorrere dal primo gennaio dell'anno successivo.  
-2. Con decreto del Ministro delle finanze, di concerto con il Ministro del tesoro, da emanare annualmente ai sensi dell'[art. 17, comma 3, della legge 23 agosto 1988, n. 400](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400~art17-com3), sono stabilite la ripartizione tra i concessionari dell'acconto sulla base di quanto riscosso nell'anno precedente dai servizi autonomi di cassa o dai concessionari nei rispettivi ambiti territoriali, le modalita' di versamento nonche' ogni altra disposizione attuativa del presente articolo.  
-3. In caso di mancato versamento dell'acconto nel termine previsto dal presente articolo, si applicano le disposizioni di cui agli articoli da 56 a 60, relativi all'espropriazione della cauzione, del [decreto del Presidente della Repubblica 28 gennaio 1988, n. 43](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1988-01-28;43).  
-4. Per il triennio 1997-1999 l'acconto di cui al comma 1 e' determinato con il decreto di cui al comma 2 in modo che complessivamente garantisca maggiori entrate per il bilancio dello Stato pari a lire 3.000 miliardi per l'anno 1997 ed ulteriori 1.500 miliardi e 1.500 miliardi, rispettivamente, per gli anni 1998 e 1999".  
-- Il [comma 3 dell'art. 17 della legge n. 400/1988](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988;400~art17-com3) (Disciplina dell'attivita' di Governo e ordinamento della Presidenza del Consiglio dei Ministri), prevede che con decreto ministeriale possano essere adottati regolamenti nelle materie di competenza del Ministro o di autorita' sottordinate al Ministro, quando la legge espressamente conferisca tale potere. Tali regolamenti, per materie di competenza di piu' Ministri, possono essere adottati con decreti interministeriali, ferma restando la necessita' di apposita autorizzazione da parte della legge. I regolamenti ministeriali ed interministeriali non possono dettare norme contrarie a quelle dei regolamenti emanati dal Governo. Essi debbono essere comunicati al Presidente del Consiglio dei Ministri prima della loro emanazione. Il comma 4 dello stesso articolo stabilisce che gli anzidetti regolamenti debbano recare la denominazione di "regolamento", siano adottati previo parere del Consiglio di Stato, sottoposti al visto ed alla registrazione della Corte dei conti e pubblicati nella Gazzetta Ufficiale.  
-- Il [decreto legislativo 9 luglio 1997, n. 237](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1997-07-09;237), riguarda norme che concernono la modifica della disciplina in materia di servizi autonomi di cassa degli uffici finanziari. Si riporta il testo degli articoli 2 e 4:  
-"Art. 2. - 1. Ai soli effetti del presente decreto, per entrate si intendono:  
+- Il [D.L. 28 marzo 1997, n. 79](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1997-03-28;79), convertito dalla [legge 28 maggio 1997, n. 140](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997-05-28;140), reca misure urgenti per il riequilibrio della finanza pubblica.  
+In particolare il comma 1 dell'art. 9 del decreto-legge n. 79 sopra menzionato, prevede l'obbligo per i concessionari della riscossione di versare entro il 15 dicembre di ogni anno il 20% delle somme riscosse nell'anno precedente ai sensi del [decreto legislativo 9 luglio 1997, n. 237](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1997-07-09;237), a titolo di acconto sulle riscossioni a decorrere dal primo gennaio dell'anno successivo.  
+Il successivo comma 2 prescrive che con decreto del Ministro delle finanze di concerto con il Ministro del tesoro, da emanare ai sensi dell'[art. 17, comma 3, della legge 23 agosto 1988, n. 400](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400~art17-com3), vengono stabilite la ripartizione tra i concessionari dell'acconto sulla base di quanto riscosso nell'anno precedente dai servizi autonomi di cassa o dai concessionari nei rispettivi ambiti territoriali, le modalita' di versamento nonche' ogni altra disposizione attuativa del presente articolo.  
+- Il [D.Lgs. 9 luglio 1997, n. 237](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1997-07-09;237), reca norme che concernono la modifica della disciplina in materia di servizi autonomi di cassa degli uffici finanziari.  
+- Per il [comma 4 dell'art. 9 del D.L. 28 marzo 1997, n. 79](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1997-03-28;79~art9-com4), sopra citato, si veda in nota all'art. 1.  
+- Per gli [articoli 2](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1997-07-09;237~art2) e [4 del D.Lgs. 9 luglio 1997, n. 237](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1997-07-09;237~art4), vedasi nota all'art. 3.  
+- Il [comma 3 dell'art. 17 della legge n. 400/1988](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988;400~art17-com3) (Disciplina dell'attivita' di Governo e ordinamento della Presidenza del Consiglio dei Ministri) prevede che con decreto ministeriale possano essere adottati regolamenti nelle materie di competenza del Ministro o di autorita' sottordinate al Ministro, quando la legge espressamente conferisca tale potere. Tali regolamenti, per materie di competenza di piu' Ministri, possono essere adottati con decreti interministeriali, ferma restando la necessita' di apposita autorizzazione da parte della legge. I regolamenti ministeriali ed interministeriali non possono dettare norme contrarie a quelle dei regolamenti emanati dal Governo.  
+Essi debbono essere comunicati al Presidente del Consiglio dei Ministri prima della loro emanazione. Il comma 4 dello stesso articolo stabilisce che gli anzidetti regolamenti debbano recare la denominazione di "regolamento", siano adottati previo parere del Consiglio di Stato, sottoposti al visto ed alla registrazione della Corte dei conti e pubblicati nella Gazzetta Ufficiale.  
+Nota all'art. 1:  
+- Il testo del [comma 4 dell'art. 9 del D.L. n. 79/1997](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1997;79~art9-com4) e' il seguente: "4. Per il triennio 1997/1999 l'acconto di cui al comma 1 e' determinato con il decreto di cui al comma 2 in modo che complessivamente garantisca maggiori entrate per il bilancio dello Stato, pari a lire 3.000 miliardi per l'anno 1997, ed ulteriori 1.500 miliardi e lire 1.500 miliardi, rispettivamente, per gli anni 1998 e 1999".
+
+Art. 2
+------
+
+ Le somme come sopra indicate dovranno essere versate al capitolo 1246 dello stato di previsione dell'entrata per l'anno 1997.  
+
+Art. 3
+------
+
+ A decorrere dal 1 gennaio 1998 i concessionari ed i commissari governativi sono autorizzati ad effettuare la compensazione delle somme versate a titolo di acconto, di cui agli articoli 1 e 2, con i riversamenti in tesoreria provinciale dello Stato relativi alle riscossioni effettuate ai sensi del combinato disposto di cui agli [articoli 2](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1997-07-09;237~art2) e [4 del decreto legislativo 9 luglio 1997, n. 237](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1997-07-09;237~art4).  
+
+Nota all'art. 3:  
+- Il testo degli [articoli 2](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1997;237~art2) e [4 del D.Lgs. n. 237/1997](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1997;237~art4) e' il seguente: "Art. 2. - 1. Ai soli effetti del presente decreto, per entrate si intendono:  
 a) le tasse e imposte indirette e relativi accessori e sanzioni;  
 b) i canoni, proventi e relativi accessori, derivanti dalla utilizzazione di beni del demanio pubblico e del patrimonio indisponibile dello Stato;  
 c) le somme dovute per l'utilizzazione, anche senza titolo, dei beni demaniali e patrimoniali dello Stato;  
 d) le entrate patrimoniali;  
-e) le entrate del Tesoro e delle altre amministrazioni dello Stato per le quali singole disposizioni ne prevedono il versamento ad un ufficio finanziario;  
+e) le entrate del Tesoro e delle altre amministrazioni dello Stato per le quali singole disposizioni ne' prevedono il versamento ad un ufficio finanziario;  
 f) le tasse e le entrate demaniali eventuali e diverse;  
 g) le sanzioni inflitte dalle autorita' giudiziarie ed amministrative;  
-h) le tasse ipotecarie di cui alla tabella A allegata al testo unico delle disposizioni concernenti le imposte ipotecaria e catastale, approvato con [decreto legislativo 31 ottobre 1990, n. 347](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1990-10-31;347), come sostituita dall'[art. 10, comma 12, del decreto-legge 20 giugno 1996, n. 323](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1996-06-20;323~art10-com12), convertito, con modificazioni, dalla [legge 8 agosto 1996, n. 425](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1996-08-08;425);  
+h) le tasse ipotecarie di cui alla tabella A allegata a testo unico delle disposizioni concernenti le imposte ipotecaria e catastale, approvato con [decreto legislativo 31 ottobre 1990, n. 347](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1990-10-31;347), come sostituita dall'[art. 10, comma 12, del decreto-legge 20 giugno 1996, n. 323](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1996-06-20;323~art10-com12), convertito, con modificazioni, dalla [legge 8 agosto 1996, n. 425](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1996-08-08;425);  
 i) i tributi speciali di cui alla tabella A allegata al [decreto del Presidente della Repubblica 26 ottobre 1972, n. 648](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1972-10-26;648), come modificata dal comma 13 dell'art. 10 del citato [decreto-legge n. 323 del 1996](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1996;323);  
 l) tutte le altre somme a qualsiasi titolo riscosse dagli uffici finanziari di cui all'art. 1".  
 "Art. 4. - 1. Le entrate sono riscosse dal concessionario del servizio di riscossione dei tributi nella cui circoscrizione ha sede l'ufficio finanziario competente e dagli istituti di credito secondo le modalita' di cui agli articoli 6, 7 e 8 del regolamento concernente l'istituzione del conto fiscale, emanato con [decreto del Ministro delle finanze 28 dicembre 1993, n. 567](http://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.finanze:decreto:1993-12-28;567). Per i compensi alle aziende di credito si applicano le disposizioni di cui all'art. 10 del citato [regolamento n. 567 del 1993](http://www.normattiva.it/uri-res/N2Ls?urn:nir::regolamento:1993;567) e per i compensi ai concessionari si applicano le disposizioni di cui all'[art. 61, comma 3, lettera a), del decreto del Presidente della Repubblica 28 gennaio 1988, n. 43](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1988-01-28;43~art61-com3-leta).  
 2. A seguito dell'entrata in funzione degli sportelli automatizzati che consentono l'acquisizione in tempo reale dei dati relativi ai pagamenti, il compito di riscuotere le entrate puo' essere affidato anche all'Ente poste italiane con decreto del Ministro delle finanze, di concerto con i Ministri del tesoro e delle poste e delle telecomunicazioni.  
 3. Alla trasmissione dei dati analitici relativi ad ogni singola operazione di incasso effettuata dalle aziende di credito si applicano le disposizioni di cui all'art. 13 del regolamento concernente l'istituzione del conto fiscale emanato con [decreto del Ministro delle finanze 28 dicembre 1993, n. 567](http://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.finanze:decreto:1993-12-28;567).  
 4. I concessionari trasmettono, mensilmente, entro il giorno 20 del mese successivo, i dati relativi a ciascuna operazione di riscossione e di pagamento, i dati analitici relativi a ciascuna operazione di accreditamento effettuata dagli istituti di credito, nonche' ai singoli versamenti effettuati alle sezione di tesoreria provinciale dello Stato ed alle casse degli enti destinatari. I concessionari inoltre trasmettono, mensilmente, entro il giorno 20 del mese successivo, i dati relativi a ciascuna riscossione eseguita mediante conto corrente postale vincolato alle sezioni di tesoreria provinciale dello Stato, nonche' ai singoli postagiro effettuati alle medesime sezioni di tesoreria provinciale ed alle casse degli enti destinatari.  
-5. Con decreto dirigenziale sono determinate le modalita' e le caratteristiche tecniche di trasmissione dei dati".  
-- Il [D.P.R. 28 gennaio 1988, n. 43](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1988-01-28;43), reca: "Istituzione del servizio di riscossione dei tributi e di altre entrate dello Stato e di altri enti pubblici, ai sensi dell'[art. 1, comma 1, della legge 4 ottobre 1986, n. 657](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1986-10-04;657~art1-com1)".  
-Nota all'art. 1:  
-- Per il testo del [comma 4 dell'art. 9 del decreto-legge 28 marzo 1997, n. 79](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1997-03-28;79~art9-com4), convertito dalla [legge 28 maggio 1997, n. 140](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997-05-28;140), si veda nelle note alle premesse.
-
-Art. 2
-------
-
-1. Le somme di cui all'articolo 1 sono versate al capitolo 1246 dello stato di previsione dell'entrata per l'anno 1998.
-
-Art. 3
-------
-
-1. A decorrere dal 1 gennaio 1999 i concessionari della riscossione ed i commissari governativi sono autorizzati ad effettuare la compensazione delle somme versate a titolo di acconto, di cui agli articoli 1 e 2, con i riversamenti in tesoreria provinciale dello Stato relativi alle riscossioni effettuate ai sensi del combinato disposto di cui agli [articoli 2](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1997-07-09;237~art2) e [4 del decreto legislativo 9 luglio 1997, n. 237](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1997-07-09;237~art4).
-
-Nota all'art. 3:  
-- Per il testo degli [articoli 2](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1997;237~art2) e [4 del D.Lgs. n. 237/1997](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1997;237~art4), si veda nelle note alle premesse.
+5. Con decreto dirigenziale sono determinate le modalita' e le caratteristiche tecniche di trasmissione dei dati".
 
 Art. 4
 ------
 
-1. Qualora, a seguito di modifica nella titolarita' della gestione del servizio della riscossione intervenuta nel corso dell'anno 1999, non sia avvenuto, da parte del concessionario della riscossione o commissario governativo cessato, l'integrale recupero dell'acconto ai sensi dell'articolo 3, il soggetto subentrante e' autorizzato ad effettuare la compensazione di cui all'articolo 3 per la parte residua ed e' tenuto, entro il quinto giorno successivo alla compensazione, al riversamento delle somme riscosse in favore del precedente gestore.
-
-Art. 5
-------
-
-1. Il presente decreto entra in vigore il giorno stesso della sua pubblicazione nella Gazzetta Ufficiale della Repubblica italiana.
+ Qualora, a seguito di modifica nella titolarita' della gestione del servizio della riscossione intervenuta nel corso dell'anno 1998, non sia avvenuto, da parte del concessionario o commissario governativo cessato, l'integrale recupero dell'acconto ai sensi del precedente articolo 3, il soggetto subentrante e' autorizzato ad effettuare la compensazione di cui al predetto articolo 3 per la parte residua ed e' tenuto, entro il quinto giorno successivo alla compensazione, al riversamento delle somme riscosse in favore del precedente gestore.  
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserito nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Roma, 14 dicembre 1998
+### Roma, 5 dicembre 1997
 
 Il Ministro delle finanze Visco
 
 Il Ministro del tesoro, del bilancio e della programmazione economica Ciampi
 
-Visto, il Guardasigilli: Diliberto Registrato alla Corte dei conti il 16 dicembre 1998
+Visto, il Guardasigilli: Flick Registrato alla Corte dei conti l'11 dicembre 1997
 
-Registro n. 3 Finanze, foglio n. 62
+Registro n. 2 Finanze, foglio n. 345
 
-Tabella A
+Allegato A
 
- TABELLA A   
+ ALLEGATO A   
+Uffici I.V.A. e Registro   
+Ammontare complessivo delle riscossioni suddivise per provincia   
+Anno 1996   
+  
+
+|  |  |  |  |
+| --- | --- | --- | --- |
+| Provincia | Totale riscos. 1996 | Ambito | Importo dovuto |
+| ALESSANDRIA concessionario del servizio di riscossione per la provincia di Alessandria | 139.072.574.743 | Caralt S.p.A | L. 14.995.884.339 |
+| ASTI concessionario del servizio di riscossione per la provincia di Asti | 52.399.220.047 | B.P.N. S.p.A | L. 5.650.090.571 |
+| BIELLA concessionario del servizio di riscossione per la provincia di Biella | 71.526.957.240 | B.P.N. S.p.A | L. 7.712.591.644 |
+| CUNEO concessionario del servizio di riscossione per la provincia di Cuneo | 190.871 419.509 | G.E.C. S.p.A. | L. 20.581 237.788 |
+| NOVARA concessionario del servizio di riscossione per la provincia di Novara | 136.737.569.063 | B.P.N. S.p A. | L. 14.744.105.904 |
+| TORINO concessionario del servizio di riscossione per la provincia di Torino | 2.814.986.914.399 | Conrit S.p.A. | L. 303.533.735.973 |
+| VERBANIA concessionario del servizio di riscossione per la provincia di Verbania | 50.487.659.005 | B.P.N. S.p.A. | L. 5.443.971.224 |
+| VERCELLI concessionario del servizio di riscossione per la provincia di Vercelli | 150.004 678.342 | B.P.N. S.p.A. | L. 5.391 892.501 |
+| AOSTA concessionario del servizio di riscossione per la provincia di Aosta | 49.165.267.559 | Conrit S.p.A. | L. 5.301.380.715 |
+| GENOVA concessionari del servizio di riscossione per la provincia di Genova | 699.861.395.132 | S.Paolo S.p.A. | L. 75.464.487.185 |
+| IMPERIA concessionario del servizio di riscossione per la provincia di Imperia | 73.661.338.147 | Sestri S.p.A. | L. 8.589.703.724 |
+| LA SPEZIA concess. del servizio di riscossione per la provincia di La Spezia | 79.470.274.859 | C.R.La SpeziaS.p.A | L. 8.569.101.797 |
+| SAVONA concessionario del servizio di riscossione per la la provincia di Savona | 122.600.613.714 | B.P.N. S.p.A. | L. 13.219.749.663 |
+
   
   
-RISCOSSIONI 1997  
-Ambito Concessionario Importo (in lire) %  
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_  
-AGRIGENTO MONTEPASCHI SE.R.I.T. S.p.A. 26.733.459.565 0,096  
-ALESSANDRIA CARALT S.p.A. 140.856.964.043 0,506  
-ANCONA ANCONA TRIBUTI S.p.A. 175.192.992.637 0,629  
-AOSTA CON.RI.T S.p.A. 60.721.707.099 0,218  
-AREZZO BANCA POP. ETRURIA E LAZIO  
-S.p.A. 93.042.244 314 0,334  
-ASCOLI PICENO SERIT PICENA S.p.A. 86.115.377.439 0,309  
-ASTI BANCA POPOLARE DI NOVARA 51.864.638 443 0,186  
-AVELLINO G.E.I. S.p.A. 65.348.024.786 0,235  
-BARI S.ES.I.T. PUGLIA S.p.A. 345.825.528.958 1,242  
-BELLUNO CARIVERONA BANCA S.p.A. 71.171.815.562 0,256  
-BENEVENTO SARI SANNITICA RISCOSSIONI  
-S.p.A. 41.954.366 587 0,151  
-BERGAMO BERGAMO ESATTORIE S.p.A. 338.306.610.777 1,215  
-BIELLA BANCA POPOLARE DI NOVARA 73.682.664.649 0,265  
-BOLOGNA CARISBO S.p.A. 893.976.197.371 3,211  
-BOLZANO CASSA DI RISPARMIO DI  
-BOLZANO S.p.A. 218.932.614.190 0,786  
-BRESCIA ESATRI - ESAZIONE TRIBUTI  
-S.p.A. 422.083.968.943 1,516  
-BRINDISI S.ES.I.T. PUGLIA S.p.A. 55.631.598.707 0,200  
-CAGLIARI BIPIESSE RISCOSSIONI S.p.A. 81.233.321.343 0,292  
-CALTANISSETTA MONTEPASCHI SE.R.I.T.  
-S.p.A. 15.849.080.214 0,057  
-CAMPOBASSO S.E.T. - BPM S.p.A. 43.762.246.541 0,157  
-CASERTA BANCO DI NAPOLI S.p.A.  
-(comm. gov.) 117.975.692.573 0,424  
-CATANIA MONTEPASCHI SE.R.I.T. S.p.A. 62.757.268.419 0,225  
-CATANZARO E.TR. ESAZIONE TRIBUTI  
-S.p.A. (comm. gov.) 61.623.491.165 0,221  
-CHIETI SOGET S.p.A. (comm. gov.) 87.211.456.118 0,313  
-COMO RILENO S.p.A. 179.424.088.400 0,644  
-COSENZA E.TR. ESAZIONE TRIBUTI  
-S.p.A. (comm. gov.) 111.537.654.802 0,401  
-CREMONA LO.SE.RI S.p.A. 103.462.412.747 0,372  
-CROTONE E.TR. ESAZIONE TRIBUTI  
-S.p.A. (comm. gov.) 22.303.174.812 0,080  
-CUNEO G.E.C. GESTIONI ESATTORIE  
-CUNEESI S.p.A. 187.104.166.673 0,672  
-ENNA MONTEPASCHI SE.R.I.T. S.p.A. 14.468.074.258 0,052  
-FERRARA S.I.F.E.R. S.p.A. 129.670.333.040 0,466  
-FIRENZE CASSA DI RISPARMIO DI  
-FIRENZE S.p.A. 808.413.269.106 2,904  
-FOGGIA G.E.M.A. S.p.A. 126.000.044.067 0,453  
-FORLI' CO.RI.T. RIMINI e FORLI' -  
-CESENA S.p.A. 133.203.510.431 0,478  
-FROSINONE BANCA DI ROMA S.p.A. 98.344.401.075 0,353  
-GENOVA SANPAOLO RISCOSSIONI  
-GENOVA S.p.A. 689.101.506.581 2,475  
-GORIZIA CASSA DI RISPARMIO DI  
-GORIZIA S.p.A. 42.802.760.222 0,154  
-GROSSETO BANCA MONTE DEI PASCHI DI  
-SIENA S.p.A. 68.412.947.301 0,246  
-IMPERIA SESTRI S.p.A. 88.426.497.594 0,318  
-ISERNIA S.R.T. S.p.A. 16.915.016.815 0,061  
-LA SPEZIA CASSA DI RISPARMIO DI LA  
-SPEZIA S.p.A. 88.770.931.191 0,319  
-L'AQUILA GERIT S.p.A. 70.983.244.277 0,255  
-LATINA BANCA MONTE DEI PASCHI DI  
-SIENA S.p.A. 89.044.591.021 0,320  
-LECCE SO.BA.RI.T. S.p.A. 138.173.338.753 0,496  
-LECCO RILENO S.p.A. 97.303.793.973 0,349  
-LIVORNO BANCA MONTE DEI PASCHI DI  
-SIENA S.p.A. 116.344.261.229 0,418  
-LODI ESATRI - ESAZIONE TRIBUTI  
-S.p.A. 99.566.271.062 0,358  
-LUCCA CASSA DI RISPARMIO DI  
-LUCCA S.p.A. 143.364.080.240 0,515  
-MACERATA SERIMA S.p.A. 69.862.541.946 0,251  
-MANTOVA CARIVERONA BANCA S.p.A. 126.802.700.900 0,455  
-MASSA C. CASSA DI RISPARMIO DI  
-FIRENZE S.p.A. 60.026.144.868 0,216  
-MATERA RITRIMAT S.p.A. 34.467.377.476 0,124  
-MESSINA MONTEPASCHI SE.R.I.T. S.p.A. 36.659.471.011 0,132  
-MILANO ESATRI - ESAZIONE TRIBUTI  
-S.p.A. 5.459.018.919.168 19,608  
-MODENA GESPRO S.p.A. 252.612.364.125 0,907  
-NAPOLI BANCO DI NAPOLI S.p.A.  
-(comm. gov.) 641.779.067.218 2,305  
-NOVARA BANCA POPOLARE DI NOVARA 159.827.391.614 0,574  
-NUORO BIPESSE RISCOSSIONI S.p.A.  
-- (comm. gov.) 18.839.194.887 0,068  
-ORISTANO BIPIESSE RISCOSSIONI S.p.A.  
-- (comm. gov.) 12.781.995.560 0,046  
-PADOVA CASSA DI RISPARMIO DI  
-PADOVA E ROVIGO S.p.A. 353.658.793.994 1,270  
-PALERMO MONTEPASCHI SE.R.I.T. S.p.A. 82.741.293.508 0,297  
-PARMA SEIT PARMA S.p.A. 196.226.906.928 0,705  
-PAVIA ESATRI - ESAZIONE TRIBUTI  
-S.p.A. 126.757.142.639 0,455  
-PERUGIA SO.RI.T. FOLIGNO S.p.A. 162.510.498.864 0,584  
-PESARO SE.RI.T. S.p.A. 183.812.812.368 0,660  
-PESCARA MONTEPASCHI SE.R.I.T. S.p.A. 74.926.255.426 0,269  
-PIACENZA PADANA RISCOSSIONI S.p.A. 104.469.698.419 0,375  
-PISA SET S.p.A. 143.576.213.101 0,516  
-PISTOIA GET GESTIONE ESATTORIE E  
-TESORERIE S.p.A. 87.752.304.201 0,315  
-PORDENONE ROLO BANCA 1473 S.p.A. 94.996.741.048 0,341  
-POTENZA S.E.M. S.p.A. 60.311.396.289 0,217  
-PRATO SANPAOLO RISCOSSIONI  
-PRATO S.p.A. 145.135.917.228 0,521  
-RAGUSA MONTEPASCHI SE.R.I.T. S.p.A. 20.822.198.240 0,075  
-RAVENNA SO.RI.T. RAVENNA S.p.A. 147.063.696.804 0,528  
-REGGIO C. E.TR. ESAZIONE TRIBUTI  
-S.p.A. (comm. gov.) 71.455.973.609 0,257  
-REGGIO E. CASSA DI RISPARMIO DI  
-REGGIO EMILIA S.p.A. 179.806.076.905 0,646  
-RIETI CARIRI S.p.A. 31.391.557.898 0,113  
-RIMINI CO.RI.T. RIMINI e FORLI'  
-- CESENA S.p.A. 117.958.239.846 0,424  
-ROMA BANCA MONTE DEI PASCHI DI  
-SIENA S.p.A. 4.419.651.778.027 15,875  
-ROVIGO CASSA DI RISPARMIO DI  
-PADOVA E ROVIGO S.p.A. 62.519.645.201 0,225  
-SALERNO E.TR. ESAZIONE TRIBUTI  
-S.p.A. (comm. gov.) 178.794.412.012 0,642  
-SASSARI BIPIESSE RISCOSSIONI S.p.A. 67.520.836.613 0,243  
-SAVONA BANCA POPOLARE DI NOVARA 131.086.293 612 0,471  
-SIENA BANCA MONTE DEI PASCHI DI  
-SIENA S.p.A. 203.588.772.076 0,731  
-SIRACUSA MONTEPASCHI SE.R.I.T. S.p.A. 22.048.441.733 0,079  
-SONDRIO RIPOVAL S.p.A. 87.931.478.512 0,316  
-TARANTO SOGET S.p.A. 94.383.080.483 0,339  
-TERAMO MONTEPASCHI SE.R.I.T. S.p.A. 82.616.181.908 0,297  
-TERNI SERVIZI RISCOSSIONE TRIBUTI  
-S.p.A. 51.185.944.249 0,184  
-TORINO CON.RI.T. S.p.A. 2.623.246.611.426 9,422  
-TRAPANI MONTEPASCHI SE.R.I.T. S.p.A. 26.269.771.236 0,094  
-TRENTO CARITRO S.p.A. 250.371.558.878 0,899  
-TREVISO ESAMARCA S.p.A. 281.697.148.408 1,012  
-TRIESTE CASSA DI RISPARMIO DI  
-TRIESTE - BANCA S.p.A. 1.024.990.042.997 3,682  
-UDINE S.F.E.T. S.p.A. 179.415.173.795 0,644  
-VARESE ESATRI - ESAZIONE TRIBUTI  
-S.p.A. 243.314.104.489 0,874  
-VENEZIA GE.RI.CO S.p.A. 261.874.080.583 0,941  
-VERB-CUS-OSS BANCA POPOLARE DI NOVARA 63.623.351.704 0,229  
-VERCELLI BANCA POPOLARE DI NOVARA 44.655.531 191 0,160  
-VERONA CARIVERONA BANCA S.p.A. 525.410.189.097 1,887  
-VIBO VALENTIA E.TR. ESAZIONE TRIBUTI  
-S.p.A. (comm. gov.) 19.761.974.641 0,071  
-VICENZA CARIVERONA BANCA S.p.A. 270.747.974.365 0,972  
-VITERBO S.E.A.L. S.p.A 71.380.541.306 0,256  
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_  
-Totale 27.841.129.504.743 100  
-segue TABELLA A  
-ACCONTO 1998  
-Ambito Concessionario Importo (in lire)  
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_  
-AGRIGENTO MONTEPASCHI SE.R.I.T. S.p.A. 4.320.965.786  
-ALESSANDRIA CARALT S.p.A. 22.766.904.557  
-ANCONA ANCONA TRIBUTI S.p.A. 28.316.684.017  
-AOSTA CON.RI.T S.p.A. 9.814.532.916  
-AREZZO BANCA POP. ETRURIA E LAZIO  
-S.p.A. 15.038.545.737  
-ASCOLI PICENO SERIT PICENA S.p.A. 13.918.946.730  
-ASTI BANCA POPOLARE DI NOVARA 8.382.952.745  
-AVELLINO G.E.I. S.p.A. 10.562.290.998  
-BARI S.ES.I.T. PUGLIA S.p.A. 55.896.255.216  
-BELLUNO CARIVERONA BANCA S.p.A. 11.503.598.300  
-BENEVENTO SARI SANNITICA RISCOSSIONI  
-S.p.A. 6.781.141.893  
-BERGAMO BERGAMO ESATTORIE S.p.A. 54.680.962.144  
-BIELLA BANCA POPOLARE DI NOVARA 11.909.430.286  
-BOLOGNA CARISBO S.p.A. 144.494.600.605  
-BOLZANO CASSA DI RISPARMIO DI  
-BOLZANO S.p.A. 35.386.379.123  
-BRESCIA ESATRI - ESAZIONE TRIBUTI  
-S.p.A. 68.222.011.608  
-BRINDISI S.ES.I.T. PUGLIA S.p.A. 8.991.811.706  
-CAGLIARI BIPIESSE RISCOSSIONI S.p.A. 13.129.853.298  
-CALTANISSETTA MONTEPASCHI SE.R.I.T.  
-S.p.A. 2.561.708.603  
-CAMPOBASSO S.E.T. - BPM S.p.A. 7.073.352.013  
-CASERTA BANCO DI NAPOLI S.p.A.  
-(comm. gov.) 19.068.573.223  
-CATANIA MONTEPASCHI SE.R.I.T. S.p.A. 10.143.543.488  
-CATANZARO E.TR. ESAZIONE TRIBUTI  
-S.p.A. (comm. gov.) 9.960.289.513  
-CHIETI SOGET S.p.A. (comm. gov.) 14.096.107.432  
-COMO RILENO S.p.A. 29.000.561.836  
-COSENZA E.TR. ESAZIONE TRIBUTI  
-S.p.A. (comm. gov.) 18 027.984.336  
-CREMONA LO.SE.RI S.p.A. 16.722.771.872  
-CROTONE E.TR. ESAZIONE TRIBUTI  
-S.p.A. (comm. gov.) 3.604.892.777  
-CUNEO G.E.C. GESTIONI ESATTORIE  
-CUNEESI S.p.A. 30.241.903.436  
-ENNA MONTEPASCHI SE.R.I.T. S.p.A. 2.338.494.713  
-FERRARA S.I.F.E.R. S.p.A. 20.958.794.024  
-FIRENZE CASSA DI RISPARMIO DI  
-FIRENZE S.p.A. 130.664.946.994  
-FOGGIA G.E.M.A. S.p.A. 20.365.560.176  
-FORLI' CO.RI.T. RIMINI e FORLI' -  
-CESENA S.p.A. 21.529.866.338  
-FROSINONE BANCA DI ROMA S.p.A. 15.895.540.616  
-GENOVA SANPAOLO RISCOSSIONI  
-GENOVA S.p.A. 111.380.422.949  
-GORIZIA CASSA DI RISPARMIO DI  
-GORIZIA S.p.A. 6.918.268.922  
-GROSSETO BANCA MONTE DEI PASCHI DI  
-SIENA S.p.A. 11.057.678.633  
-IMPERIA SESTRI S.p.A. 14.292.496.255  
-ISERNIA S.R.T. S.p.A. 2.733.997400  
-LASPEZIA CASSA DI RISPARMIO DI LA  
-SPEZIA S.p.A. 14.348 167.530  
-L'AQUILA GERIT S.p.A. 11.473.119.264  
-LATINA BANCA MONTE DEI PASCHI DI  
-SIENA S.p.A. 14.392.399.544  
-LECCE SO.BA.RI.T. S.p.A. 22.333.146.516  
-LECCO RILENO S.p.A. 15.727.345.861  
-LIVORNO BANCA MONTE DEI PASCHI DI  
-SIENA S.p.A. 18.804.882.734  
-LODI ESATRI - ESAZIONE TRIBUTI  
-S.p.A. 16.093.033.140  
-LUCCA CASSA DI RISPARMIO DI  
-LUCCA S.p.A. 23.172.133.191  
-MACERATA SERIMA S.p.A. 11.291.978.607  
-MANTOVA CARIVERONA BANCA S.p.A. 20.495.294.702  
-MASSA C. CASSA DI RISPARMIO DI  
-FIRENZE S.p.A. 9.702.108.237  
-MATERA RITRIMAT S.p.A. 5.571.009.560  
-MESSINA MONTEPASCHI SE.R.I.T. S.p.A. 5.925.320.649  
-MILANO ESATRI - ESAZIONE TRIBUTI  
-S.p.A. 882.348.725.545  
-MODENA GESPRO S.p.A. 40.830.083.362  
-NAPOLI BANCO DI NAPOLI S.p.A.  
-(comm. gov.) 103.731.632.080  
-NOVARA BANCA POPOLARE DI NOVARA 25.833.120.820  
-NUORO BIPESSE RISCOSSIONI S.p.A.  
-- (comm. gov.) 3.045.004.944  
-ORISTANO BIPIESSE RISCOSSIONI S.p.A.  
-- (comm. gov.) 2.065.971.498  
-PADOVA CASSA DI RISPARMIO DI  
-PADOVA E ROVIGO S.p.A. 57.162.356.603  
-PALERMO MONTEPASCHI SE.R.I.T. S.p.A. 13.373.588.910  
-PARMA SEIT PARMA S.p.A. 31.716.424.473  
-PAVIA ESATRI - ESAZIONE TRIBUTI  
-S.p.A. 20.487.931.058  
-PERUGIA SO.RI.T. FOLIGNO S.p.A. 26.266.795.130  
-PESARO SE.RI.T. S.p.A. 29.709.917.319  
-PESCARA MONTEPASCHI SE.R.I.T. S.p.A. 12.110.433.571  
-PIACENZA PADANA RISCOSSIONI S.p.A. 16.885.580.838  
-PISA SET S.p.A. 23.206.420.517  
-PISTOIA GET GESTIONE ESATTORIE E  
-TESORERIE S.p.A. 14.183.525.451  
-PORDENONE ROLO BANCA 1473 S.p.A. 15.354.453.728  
-POTENZA S.E.M. S.p.A. 9.748.213.816  
-PRATO SANPAOLO RISCOSSIONI  
-PRATO S.p.A. 23.458.517.637  
-RAGUSA MONTEPASCHI SE.R.I.T. S.p.A. 3.365.520.500  
-RAVENNA SO.RI.T. RAVENNA S.p.A. 23.770.107.298  
-REGGIO C. E.TR. ESAZIONE TRIBUTI  
-S.p.A. (comm. gov.) 11.549.527.155  
-REGGIO E. CASSA DI RISPARMIO DI  
-REGGIO EMILIA S.p.A. 29.062.303.163  
-RIETI CARIRI S.p.A. 5.073.860.618  
-RIMINI CO.RI.T. RIMINI e FORLI'  
-- CESENA S.p.A. 19.065.752.315  
-ROMA BANCA MONTE DEI PASCHI DI  
-SIENA S.p.A. 714.354.387.013  
-ROVIGO CASSA DI RISPARMIO DI  
-PADOVA E ROVIGO S.p.A. 10.105.136.121  
-SALERNO E.TR. ESAZIONE TRIBUTI  
-S.p.A. (comm. gov.) 28.898.786 377  
-SASSARI BIPIESSE RISCOSSIONI S.p.A. 10.913.485.558  
-SAVONA BANCA POPOLARE DI NOVARA 21.187.657.676  
-SIENA BANCA MONTE DEI PASCHI DI  
-SIENA S.p.A. 32 906.332.848  
-SIRACUSA MONTEPASCHI SE.R.I.T. S.p.A. 3.563.719.920  
-SONDRIO RIPOVAL S.p.A. 14.212.485.641  
-TARANTO SOGET S.p.A. 15.255.266.928  
-TERAMO MONTEPASCHI SE.R.I.T. S.p.A. 13.353.366.950  
-TERNI SERVIZI RISCOSSIONE TRIBUTI  
-S.p.A. 8.273.254.470  
-TORINO CON.RI.T. S.p.A. 423.998.952.679  
-TRAPANI MONTEPASCHI SE.R.I.T. S.p.A. 4.246.019.205  
-TRENTO CARITRO S.p.A. 40.467.898.932  
-TREVISO ESAMARCA S.p.A. 45.531.096.992  
-TRIESTE CASSA DI RISPARMIO DI  
-TRIESTE - BANCA S.p.A. 165.670.548.413  
-UDINE S.F.E.T. S.p.A. 28.999.120.957  
-VARESE ESATRI - ESAZIONE TRIBUTI  
-S.p.A. 39.327.192.886  
-VENEZIA GE.RI.CO S.p.A. 42.327.067.313  
-VERB-CUS-OSS BANCA POPOLARE DI NOVARA 10.283.529.719  
-VERCELLI BANCA POPOLARE DI NOVARA 7.217.734.838  
-VERONA CARIVERONA BANCA S.p.A. 84.922.770.484  
-VIBO VALENTIA E.TR. ESAZIONE TRIBUTI  
-S.p.A. (comm. gov.) 3.194.155.103  
-VICENZA CARIVERONA BANCA S.p.A. 43.761.366.953  
-VITERBO S.E.A.L. S.p.A 11.537.334.928  
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_  
-Totale 4.500.000.000.000  
   
   
+  
+Uffici I.V.A. e Registro   
+Ammontare complessivo delle riscossioni suddivise per provincia   
+Anno 1996   
+  
+  
+  
+
+|  |  |  |  |
+| --- | --- | --- | --- |
+| Provincia | Totale riscos. 1996 | Ambito | Importo dovuto |
+| BERGAMO concessionario del servizio di riscossione per la provincia di Bergamo | 354.739.714.127 | BG Esat. S.p.A. | L. 38.250.789.081 |
+| BRESCIA concessionario del servizio di riscossione per la provincia di Brescia | 401.674.205.402 | Esatri S.p.A | L. 43.311.630.184 |
+| COMO concessionario del servizio di riscossione per la provincia di Como | 186.015.743.276 | Rileno S.p.A. | L. 20.057.661.092 |
+| CREMONA concessionario del servizio di riscossione per la provincia di Cremona | 89.720.541.885 | Loseri S.p.A. | L. 9.674.365.139 |
+| LECCO concessionario del servizio di riscossione per la provincia di Lecco | 83.297.001.389 | Rileno S.p.A. | L. 8.981.729.150 |
+| LODI concessionario del servizio di riscossione per la provincia di Lodi | 82.926.253.697 | Esatri S.p.A. | L. 8.941.752.257 |
+| MILANO concessionario del del servizio di riscossione per la provincia di Milano | 5.422.481.432.444 | Esatri S.p.A. | L. 584.694.031.442 |
+| MANTOVA concession. del servizio di riscossione pe la provincia di Mantova | 122.240.345.456 | Cariverona S.p.A. | L. 13.180.902.744 |
+| PAVIA concessionario del servizio di riscossione per la provincia di Pavia | 127.520.907.105 | Esatri S.p.A. | L. 13.750.293.882 |
+| SONDRIO concessionario del servizio di riscossione per la provincia di Sondrio | 83.954.767.839 | Ripoval S.p.A. | L. 9.052.654.634 |
+| VARESE concessionari del servizio di riscossione per la provincia di Varese | 230.644.815.966 | Esatri S.p.A. | L. 24.869.914.071 |
+| BOLZANO concessionario del servizio di riscossione per la provincia di Bolzano | 220.117.089.809 | C.R. BZ S.p.A. | L. 23.734.732.932 |
+| TRENTO concessionario del servizio di riscossione per la provincia di Trento | 264.178.320.196 | Caritro S.p.A. | L. 28.485.756.748 |
+
+  
+  
+  
+  
+  
+  
+Uffici I.V.A. e Registro   
+Ammontare complessivo delle riscossioni suddivise per provincia   
+Anno 1996   
+  
+  
+  
+
+|  |  |  |  |
+| --- | --- | --- | --- |
+| Provincia | Totale riscos. 1996 | Ambito | Importo dovuto |
+| BELLUNO concess. del servizio di riscossione per la provincia di Belluno | 66.003.325.592 | Cariverona S.p.A. | L. 7.116.990.811 |
+| PADOVA S.p.A. concess. del servizio di riscossione per la provincia di Padova | 414.933.767.467 | C.R. PD e RO | L. 44.741.379.072 |
+| ROVIGO S.p.A. concess. del servizio di riscossione per la provincia di Rovigo | 59.515.888.023 | C.R. PD e RO | L. 6.417.464.944 |
+| TREVISO concession. del servizio di riscossione per la provincia di Treviso | 265.331.274.041 | Esamarca S.p.A | L. 28.610.077.179 |
+| VENEZIA concessionario del servizio di riscossione per la provincia di Venezia | 252.502.387.265 | Gerico S.p.A. | L. 27.226.767.043 |
+| VICENZA concession. del servizio di riscossione per la provincia di Vicenza | 270.717.956.900 | Cariverona S.p.A. | L. 29.190.911.131 |
+| VERONA concession. del servizio di riscossione per provincia di Verona | 535.171.169.873 | Cariverona S.p.A. | L. 57.706.308.952 |
+| GORIZIA concessionario del servizio di riscossione per la provincia di Gorizia | 41.679.590.285 | C.R. Go S.p.A. | L. 4.494.216.896 |
+| PORDENONE concession. del servizio di riscossione per la provincia di Pordenone | 93.389.549.946 | Rolo Banca S.p.A. | L. 10.069.986.063 |
+| TRIESTE concessionario del servizio di riscossione per la provincia di Trieste | 1.126.058.350.420 | C.R. TS S.p.A. | L. 121.420.350.581 |
+| UDINE concessionario del servizio di riscossione per la provincia di Udine | 181.962.790.730 | S.F.E.T. S.p.A. | L. 19 620.640.294 |
+| BOLOGNA concessionario del servizio di riscossione per la provincia di Bologna | 910.762.458.982 | Carisbo S p.A. | L. 98.205.476.674 |
+| FERRARA concessionario del servizio di riscossione per la provincia di Ferrara | 129.958.177.646 | Sifer S p.A. | L. 14.013.099.308 |
+
+  
+  
+  
+  
+Uffici I.V.A. e Registro   
+Ammontare complessivo delle riscossioni suddivise per provincia   
+Anno 1996   
+  
+  
+  
+
+|  |  |  |  |
+| --- | --- | --- | --- |
+| Provincia | Totale riscos. 1996 | Ambito | Importo dovuto |
+| FORLI' concessionario del servizio di riscossione per la provincia di Forli' | 131.129.917.929 | Corit S.p.A. | L. 14.139.445.439 |
+| MODENA concessionario del servizio di riscossione per la provincia di Modena | 278.182.988.167 | Gespro S.p.A. | L. 29.995.848.738 |
+| PIACENZA concess. del servizio di riscossione per la provincia di Piacenza | 95.891.981.856 | Padana Risc. S.p.A | L. 10.339.817.693 |
+| PARMA concessionario del servizio di riscossione per la provincia di Parma | 200.703.782.561 | SEIT PR S.p.A. | L. 21.641.439.480 |
+| RAVENNA concessionario del servizio di riscossione per la provincia di Ravenna | 147.012.044.418 | Sorit S.p.A. | L. 15.851.979.577 |
+| REGGIO EMILIA concessionario del servizio di riscossione per la provincia di Reggio Emiiia | 174.370.710.076 | C.R. RE S.p.A. | L. 18.802.003.236 |
+| RIMINI concessionario del servizio di riscossione per la provincia di Rimini | 99.725.021.158 | Corit S.p.A. | L. 10.753.125.738 |
+| ANCONA S.p.A. concess. del servizio di riscossione per la provincia di Ancona | 175.514.880.757 | Ancona Tributi | L. 18.925.376.599 |
+| ASCOLI PICENO concess. del servizio di riscossione per la provincia di Ascoli Piceno | 83.240.375.359 | Serit Picena S.p.A | L. 8.975.623.292 |
+| MACERATA concessionario del servizio di riscossione per la provincia di Macerata | 60.073.486.758 | Serima S.p.A | L. 6.477.589.567 |
+| PESARO concessionario del servizio di riscossione per la provincia di Pesaro | 176.784.434.190 | Serit S.p.A. | L. 19.062.269.703 |
+| AREZZO Lazio conces. del servizio di riscossione per la provincia di Arezzo | 91.214.356.489 | B. Pop. Etruria e | L. 9.835.439.823 |
+| FIRENZE concessionario del servizio di riscossione per la provincia di Firenze | 853.231.337.433 | C.R. FI S.p.A. | L. 92.002.024.654 |
+
+  
+  
+  
+  
+Uffici I.V.A. e Registro   
+Ammontare complessivo delle riscossioni suddivise per provincia   
+Anno 1996   
+  
+
+|  |  |  |  |
+| --- | --- | --- | --- |
+| Provincia | Totale riscos. 1996 | Ambito | Importo dovuto |
+| GROSSETO concess. del servizio di riscossione per la provincia di Grosseto | 63.238.180.863 | Banca MPS S.p.A. | L. 6.818.831.447 |
+| LIVORNO concess. del servizio di riscossione per la provincia di Livorno | 110.639.847.284 | Banca MPS S.p.A. | L. 11.930.047.000 |
+| LUCCA concess. del servizio di riscossione per la provincia di Lucca | 132.784.233.051 | C.R. Lucca S.p.A | L. 14.317.826.534 |
+| MASSA CARRARA concess. del servizio di riscossione per la provincia di Massa Carrara | 52.447.829.749 | C.R. Firenze S.p.A | L. 5.655.332.046 |
+| PISA concessionario del servizio di riscossione per la provincia di Pisa | 147.184.677.092 | Set Pisa S.p.A. | L. 15.870.594.171 |
+| PRATO S.p.A. concess. del servizio di riscossione per la provincia di Prato | 129.849.053.662 | S.Paolo Risc. | L. 14.001.332.713 |
+| PISTOIA concessionario del servizio di riscossione per la provincia di Pistoia | 82.877.583.847 | Get PT S.p.A. | L. 8.936.504.296 |
+| SIENA concess. del servizio di riscossione per la provincia di Siena | 202.128.556.454 | Banca MPS S.p.A. | L. 21.795.069.659 |
+| PERUGIA concessionario del servizio di riscossione per la provincia di Perugia | 161.078.774.104 | Sorit S.p.A. | L. 17.368.763.542 |
+| TERNI S.p.A. concess del servizio di riscossione per la provincia di Terni | 49.765.468.935 | Serv. Risc. Trib. | L. 5.366.099.086 |
+| FROSINONE S.p.A. conces. del servizio di riscossione per la provincia di Frosinone | 91.901.275.041 | Banca di Roma | L. 9.909.508.713 |
+| LATINA concess. del servizio di riscossione per la provincia di Latina | 76.605.185.906 | Banca MPS S.p.A. | L. 8.260.165.670 |
+| RIETI concessionario del servizio div riscossione per la provincia di Rieti | 28.336.739.484 | Cariri S.p.A. | L. 3.055.487.170 |
+
+  
+  
+  
+  
+Uffici I.V.A. e Registro   
+Ammontare complessivo delle riscossioni suddivise per provincia   
+Anno 1996   
+  
+
+|  |  |  |  |
+| --- | --- | --- | --- |
+| Provincia | Totale riscos. 1996 | Ambito | Importo dovuto |
+| ROMA concess. del servizio di riscossione per la provincia di Roma | 4.595.691.803.502 | Banca MPS S.p.A. | L. 495.543.157.008 |
+| VITERBO concessionario del servizio di riscossione per la provincia di Viterbo | 60.329.160.655 | Seal S.p.A. | L. 6.505.158.311 |
+| AVELLINO concessionario del servizio di riscossione per la provincia di Avellino | 58.961.333.948 | G.E.I. S.p.A. | L. 6.357.668.620 |
+| BENEVENTO concessionario del servizio di riscossione per la provincia d Benevento | 32.517.574.977 | SA.RI. S.p.A. | L. 3.506.297.300 |
+| CASERTA Commiss. gover. del servizio di riscossione per la provincia di Caserta | 103.845.635.779 | Banco Napoli | L. 11.197.442.386 |
+| NAPOLI Commiss. gover. del servizio di riscossione per la provincia di Napoli | 559.070.114.332 | Banco Napoli | L. 60.283.278.621 |
+| SALERNO Commiss. gover. del servizio di riscossione per la provincia di Salerno | 147.706.148.092 | E.T.R. S.p.A. | L. 15.926.823.222 |
+| L'AQUILA concessionario del servizio di riscossione per la proincia di L'Aquila | 70.667.588.581 | Gerit S.p.A. | L. 7.619.927.846 |
+| CHIETI Commiss. gover. del servizio di riscossione pe la provincia di Chieti | 79.016.054.461 | Soget. S.p.A. | L. 8.520.124.229 |
+| PESCARA concess. del servizio di riscossione per la provincia di Pescara | 73.866.056.192 | MPS SE.RI.T. S.p.A | L. 7.964.811.447 |
+| TERAMO concessionario del servizio di riscossione per la Provincia di Teramo | 79.343.412.327 | Caralt S.p.A. | L. 8.555.422.494 |
+| CAMPOBASSO concession. del servizio di riscossione per la provincia di Campobasso | 39.511.598.300 | SET BMP S.p.A. | L. 4.260.447.175 |
+| ISERNIA concessionario del servizio di riscossione per la provincia di Isernia | 14.930.669.963 | S.R.T. S.p.A. | L. 1.609.940.711 |
+
+  
+  
+  
+  
+Uffici I.V.A. e Registro   
+Ammontare complessivo delle riscossioni suddivise per provincia   
+Anno 1996   
+  
+
+|  |  |  |  |
+| --- | --- | --- | --- |
+| Provincia | Totale riscos. 1996 | Ambito | Importo dovuto |
+| BARI S.p.A. concess. del servizio di riscossione per la provincia di Bari | 309.498.654.083 | Sesit Puglia | L. 33.372.546.875 |
+| BRINDISI S.p.A. concess. del servizio di riscossione per la provincia di Brindisi | 51.427.201.687 | Sesit Puglia | L. 5.545.280.008 |
+| FOGGIA concessionario del servizio di riscossione per la provincia di Foggia | 112.380.413.782 | Gema S.p.A. | L. 12.117.728.388 |
+| LECCE concessionario del servizio di riscossione per la provincia di Lecce | 114.452.061.677 | Sobarit S.p.A. | L. 12.341.109.542 |
+| TARANTO concessionario del servizio di riscossione per la provincia di Taranto | 54.312.582.898 | Soget S.p.A. | L. 5.856.404.203 |
+| MATERA concessionario del servizio di riscossione per la provincia di Matera | 31.663.579.022 | Ritrimat S.p.A. | L. 3.414.212.828 |
+| POTENZA concessionario del servizio di riscossione per la provincia di Potenza | 54.167.907.648 | SEM S.p.A. | L. 5.840.804.195 |
+| COSENZA Commiss. gover.del servizio di riscossione per la provincia di Cosenza | 93.703.523.953 | E.T.R. S.p.A. | L. 10.103.841.177 |
+| CATANZARO Commiss. gover. del servizio di riscosSione per la provincia di Catanzaro | 55.507.507.863 | E.T.R. S.p.A. | L. 5.985.250.287 |
+| CROTONE Commiss. gover. servizio di riscossione per la provincia di Crotone | 15.400.332.816 | E.T.R. S.p.A. | L. 1.660.583.405 |
+| REGGIO CALABRIA Commiss. gover. servizio di riscossione per la provincia di Reggio Calabria | 56.285.785.461 | E.T.R. S.p.A. | L. 6.069.170.217 |
+| VIBO VALENTIA Commiss. gover. del servizio di riscossione per la provincia di Vibo Valentia | 14.592.230.916 | E.T.R. S.p.A. | L. 1.573.447.586 |
+| AGRIGENTO Com. gov. del servizio di riscossione provincia di Agrigento | 13.672.881.002 | M.P.S. Serit S.p.A | L. 1.474.316.144 |
+
+  
+  
+  
+  
+Uffici I.V.A. e Registro   
+Ammontare complessivo delle riscossioni suddivise per provincia   
+Anno 1996   
+  
+
+|  |  |  |  |
+| --- | --- | --- | --- |
+| Provincia | Totale riscos. 1996 | Ambito | Importo dovuto |
+| CALTANISSETTA S.p.A. Com. gov del servizio di riscossione per la provincia di Caltanissetta | 14.944.188.632 | M.P.S. Serit | L. 1.611.398.399 |
+| CATANIA Com. gov. del sErvizio di riscossione per la provincia di Catania | 38.701.753.878 | M.P.S Serit S.p.A. | L. 4.173.123.46 |
+| ENNA Com. gov. del servizio di riscossione per la provincia di Enna | 5.526.308.130 | M.P.S. Serit S.p.A | L. 595.889.432 |
+| MESSINA Com. gov. del servizio di riscossione Per la provincia di Messina | 26.861.115.873 | M.P.S. Serit S.p.A | L. 2.896.373.980 |
+| PALERMO Com. gov. del servizio di riscossione per la provincia di Palermo | 70.086.884.079 | M.P.S. Serit S.p.A | L. 7.557.311.779 |
+| RAGUSA Com. gov. del servizio di riscossione per la provincia di Ragusa | 17.102.059.502 | M.P.S. Serit S.p.A | L. 1.844.076.783 |
+| SIRACUSA Com. gov. del servizio di riscossione per la provincia di Siracusa | 21.085.456.674 | M.P.S. Serit S.p.A | L. 2.273.597.581 |
+| TRAPANI Com. gov. del servizio di riscossione per la provincia di Trapani | 15.996.281.743 | M.P.S. Serit S.p.A | L. 1.724.843.243 |
+| CAGLIARI S.p.A. conces. del servizio di riscossione per la provincia di Cagliari | 127.036.285.172 | B.P.S. Riscos. | L. 13.698.038.185 |
+| NUORO Com. gov. del servizio di riscossione per la provincia di Nuoro | 21.473.867.191 | B.P.S. Risc. S.p.A | L. 2.315.479.017 |
+| ORISTANO Com. gov. del servizio di riscossione per la provincia di Oristano | 19.113.727.394 | B.P.S. Risc. S.p.A | L. 2.060.990.428 |
+| SASSARI S.p.A. conces. del servizio di riscossione per la provincia di Sassari | 101.442.545.731 | B.P.S. Riscos. | L. 10.938.322.567 |
+
+|  |
+| --- |
+| 3.000.000.000.000 |
+| Totale importo dovuto |
