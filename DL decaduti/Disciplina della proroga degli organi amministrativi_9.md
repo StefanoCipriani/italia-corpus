@@ -1,13 +1,13 @@
-DECRETO-LEGGE 17 settembre 1993 n. 363
+DECRETO-LEGGE 17 gennaio 1994 n. 33
 
 
-DECRETO-LEGGE 17 settembre 1993 n. 363
-======================================
+DECRETO-LEGGE 17 gennaio 1994 n. 33
+===================================
 
 Disciplina della proroga degli organi amministrativi.
 -----------------------------------------------------
 
-Entrata in vigore del decreto: 19/9/1993.Decreto-Legge decaduto per mancata conversione.
+Entrata in vigore del decreto: 19/1/1994.Decreto-Legge decaduto per mancata conversione.
 
 Art. 1
 ------

@@ -1,7 +1,7 @@
-DECRETO-LEGGE 30 maggio 1995 n. 205
+DECRETO-LEGGE 28 luglio 1995 n. 311
 
 
-DECRETO-LEGGE 30 maggio 1995 n. 205
+DECRETO-LEGGE 28 luglio 1995 n. 311
 ===================================
 
 Interventi per il settore dell'autotrasporto di cose per conto di 
@@ -9,7 +9,7 @@ terzi, nonche' per il personale addetto ai pubblici servizi di
 trasporto.
 ---------------------------------------------------------------------------------------------------------------------------------------------
 
-Entrata in vigore del decreto: 30-5-1995.Decreto-Legge decaduto per mancata conversione.
+Entrata in vigore del decreto: 30-07-1995.Decreto-Legge decaduto per mancata conversione.
 
 Art. 1
 ------

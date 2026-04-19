@@ -1,14 +1,14 @@
-DECRETO-LEGGE 29 aprile 1995 n. 135
+DECRETO-LEGGE 28 febbraio 1995 n. 57
 
 
-DECRETO-LEGGE 29 aprile 1995 n. 135
-===================================
+DECRETO-LEGGE 28 febbraio 1995 n. 57
+====================================
 
 Disposizioni urgenti in materia di assistenza farmaceutica e di 
 sanita'.
 -------------------------------------------------------------------------
 
-Entrata in vigore del decreto: 30/4/1995.Decreto-Legge decaduto per mancata conversione.
+Entrata in vigore del decreto: 28/2/1995.Decreto-Legge decaduto per mancata conversione.
 
 Art. 1
 ------

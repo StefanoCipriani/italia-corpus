@@ -1,13 +1,13 @@
-DECRETO-LEGGE 19 ottobre 1993 n. 419
+DECRETO-LEGGE 19 dicembre 1992 n. 484
 
 
-DECRETO-LEGGE 19 ottobre 1993 n. 419
-====================================
+DECRETO-LEGGE 19 dicembre 1992 n. 484
+=====================================
 
 Disposizioni urgenti in materia di lavoro portuale.
 ---------------------------------------------------
 
-Entrata in vigore del decreto: 21/10/1993.Decreto-Legge decaduto per mancata conversione.
+Entrata in vigore del decreto: 19/12/1992.Decreto-Legge decaduto per mancata conversione.
 
 Art. 1
 ------
@@ -58,14 +58,6 @@ DALLA [L. 23 DICEMBRE 1996, N. 647](http://www.normattiva.it/uri-res/N2Ls?urn:ni
   
 
 Art. 7
-------
-
-  
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI   
-DALLA [L. 23 DICEMBRE 1996, N. 647](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1996-12-23;647)
-  
-
-Art. 8
 ------
 
   

@@ -1,13 +1,13 @@
-DECRETO-LEGGE 09 aprile 1994 n. 229
+DECRETO-LEGGE 08 febbraio 1994 n. 96
 
 
-DECRETO-LEGGE 09 aprile 1994 n. 229
-===================================
+DECRETO-LEGGE 08 febbraio 1994 n. 96
+====================================
 
 Disposizioni urgenti per la copertura dei posti vacanti nell'organico del Corpo di polizia penitenziaria.
 ---------------------------------------------------------------------------------------------------------
 
-Entrata in vigore del decreto: 11/4/1994.Decreto-Legge decaduto per mancata conversione.
+Entrata in vigore del decreto: 8/2/1994.Decreto-Legge decaduto per mancata conversione.
 
 Art. 1
 ------

@@ -1,8 +1,8 @@
-DECRETO-LEGGE 24 marzo 1984 n. 37
+DECRETO-LEGGE 25 luglio 1984 n. 372
 
 
-DECRETO-LEGGE 24 marzo 1984 n. 37
-=================================
+DECRETO-LEGGE 25 luglio 1984 n. 372
+===================================
 
 Istituzione del sistema di tesoreria unica per enti ed organismi 
 pubblici.
@@ -13,31 +13,48 @@ Decreto-Legge decaduto per mancata conversione.
 Art. 1
 ------
 
- DECRETO DECADUTO  
+DECRETO DECADUTO;I SUOI EFFETTI SONO STATI FATTI SALVI DALLA  
+[L. 29 OTTOBRE 1984, N. 720](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1984-10-29;720)
+  
 
 Art. 2
 ------
 
- DECRETO DECADUTO  
+DECRETO DECADUTO;I SUOI EFFETTI SONO STATI FATTI SALVI DALLA  
+[L. 29 OTTOBRE 1984, N. 720](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1984-10-29;720)
+  
 
 Art. 3
 ------
 
+DECRETO DECADUTO;I SUOI EFFETTI SONO STATI FATTI SALVI DALLA  
+[L. 29 OTTOBRE 1984, N. 720](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1984-10-29;720)
   
-DECRETO DECADUTO   
 
 Art. 4
 ------
 
+DECRETO DECADUTO;I SUOI EFFETTI SONO STATI FATTI SALVI DALLA  
+[L. 29 OTTOBRE 1984, N. 720](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1984-10-29;720)
   
-DECRETO DECADUTO   
+
+Art. 5
+------
+
+DECRETO DECADUTO;I SUOI EFFETTI SONO STATI FATTI SALVI DALLA  
+[L. 29 OTTOBRE 1984, N. 720](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1984-10-29;720)
+  
 
 Tabella A
 
- Allegato   
-DECRETO DECADUTO   
+ Tabella A   
+DECRETO DECADUTO;I SUOI EFFETTI SONO STATI FATTI SALVI DALLA   
+[L. 29 OTTOBRE 1984, N. 720](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1984-10-29;720)
+  
 
 Tabella B
 
- Allegato   
-DECRETO DECADUTO;   
+ Tabella B   
+DECRETO DECADUTO;I SUOI EFFETTI SONO STATI FATTI SALVI DALLA   
+[L. 29 OTTOBRE 1984, N. 720](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1984-10-29;720)
+  

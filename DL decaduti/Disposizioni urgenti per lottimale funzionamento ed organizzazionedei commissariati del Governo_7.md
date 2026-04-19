@@ -1,14 +1,14 @@
-DECRETO-LEGGE 01 dicembre 1995 n. 512
+DECRETO-LEGGE 10 giugno 1995 n. 225
 
 
-DECRETO-LEGGE 01 dicembre 1995 n. 512
-=====================================
+DECRETO-LEGGE 10 giugno 1995 n. 225
+===================================
 
 Disposizioni urgenti per l'ottimale funzionamento ed organizzazione 
 dei commissariati del Governo.
 ---------------------------------------------------------------------------------------------------
 
-Entrata in vigore del decreto: 3-12-1995.Decreto-Legge decaduto per mancata conversione.
+Entrata in vigore del decreto: 10/6/95.Decreto-Legge decaduto per mancata conversione.
 
 Art. 1
 ------
@@ -25,7 +25,7 @@ Art. 3
 
  DECRETO DECADUTO  
 
-Tabella A
+Tabelle
 
- TABELLA A   
+ ALLEGATO   
 DECRETO DECADUTO   

@@ -1,14 +1,14 @@
-DECRETO-LEGGE 23 dicembre 1995 n. 543
+DECRETO-LEGGE 28 giugno 1995 n. 252
 
 
-DECRETO-LEGGE 23 dicembre 1995 n. 543
-=====================================
+DECRETO-LEGGE 28 giugno 1995 n. 252
+===================================
 
 Disposizioni urgenti per il risanamento ed il riordino della RAI - 
 S.p.a.
 --------------------------------------------------------------------------
 
-Entrata in vigore del decreto: 28/12/1995.Decreto-Legge decaduto per mancata conversione.
+Entrata in vigore del decreto: 29-6-1995.Decreto-Legge decaduto per mancata conversione.
 
 Art. 1
 ------
@@ -70,12 +70,8 @@ Art. 12
 
  DECRETO DECADUTO  
 
-Art. 13
--------
+Tabella
 
- DECRETO DECADUTO  
-
-Tabelle
-
- Tabelle   
+ Tabella   
+  
 DECRETO DECADUTO   

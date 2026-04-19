@@ -1,13 +1,13 @@
-DECRETO-LEGGE 25 luglio 1994 n. 463
+DECRETO-LEGGE 13 gennaio 1994 n. 22
 
 
-DECRETO-LEGGE 25 luglio 1994 n. 463
+DECRETO-LEGGE 13 gennaio 1994 n. 22
 ===================================
 
 Interventi urgenti a sostegno dell'economia.
 --------------------------------------------
 
-Entrata in vigore del decreto: 25/7/1994.Decreto-Legge decaduto per mancata conversione.
+Entrata in vigore del decreto: 16/1/1994.Decreto-Legge decaduto per mancata conversione.
 
 Art. 1
 ------

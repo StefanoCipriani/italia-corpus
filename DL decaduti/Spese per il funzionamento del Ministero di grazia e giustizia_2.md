@@ -1,13 +1,13 @@
-DECRETO-LEGGE 29 gennaio 1992 n. 37
+DECRETO-LEGGE 24 luglio 1992 n. 346
 
 
-DECRETO-LEGGE 29 gennaio 1992 n. 37
+DECRETO-LEGGE 24 luglio 1992 n. 346
 ===================================
 
 Spese per il funzionamento del Ministero di grazia e giustizia.
 ---------------------------------------------------------------
 
-Entrata in vigore del decreto: 31/01/1992.Decreto-Legge decaduto per mancata conversione.
+Entrata in vigore del decreto: 26/7/1992.Decreto-Legge decaduto per mancata conversione.
 
 Art. 1
 ------

@@ -1,8 +1,8 @@
-DECRETO-LEGGE 07 maggio 1980 n. 167
+DECRETO-LEGGE 15 febbraio 1980 n. 27
 
 
-DECRETO-LEGGE 07 maggio 1980 n. 167
-===================================
+DECRETO-LEGGE 15 febbraio 1980 n. 27
+====================================
 
 Interventi urgenti per l'editoria.
 ----------------------------------
@@ -12,7 +12,8 @@ Decreto-Legge decaduto per mancata conversione.
 Art. 1
 ------
 
- DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA  
+  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA   
 [L. 5 AGOSTO 1981, N. 416](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1981-08-05;416)
   
 
@@ -33,7 +34,8 @@ Art. 3
 Art. 4
 ------
 
- DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA  
+  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA   
 [L. 5 AGOSTO 1981, N. 416](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1981-08-05;416)
   
 
@@ -47,7 +49,8 @@ Art. 5
 Art. 6
 ------
 
- DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA  
+  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA   
 [L. 5 AGOSTO 1981, N. 416](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1981-08-05;416)
   
 
@@ -77,23 +80,22 @@ DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA
 Art. 10
 -------
 
- DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA  
+  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA   
 [L. 5 AGOSTO 1981, N. 416](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1981-08-05;416)
   
 
 Art. 11
 -------
 
-  
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA   
+ DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA  
 [L. 5 AGOSTO 1981, N. 416](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1981-08-05;416)
   
 
 Art. 12
 -------
 
-  
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA   
+ DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA  
 [L. 5 AGOSTO 1981, N. 416](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1981-08-05;416)
   
 
@@ -214,27 +216,12 @@ Art. 28
 Art. 29
 -------
 
- DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA  
+  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA   
 [L. 5 AGOSTO 1981, N. 416](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1981-08-05;416)
   
 
 Art. 30
--------
-
-  
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA   
-[L. 5 AGOSTO 1981, N. 416](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1981-08-05;416)
-  
-
-Art. 31
--------
-
-  
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA   
-[L. 5 AGOSTO 1981, N. 416](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1981-08-05;416)
-  
-
-Art. 32
 -------
 
   

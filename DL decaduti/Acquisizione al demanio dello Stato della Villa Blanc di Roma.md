@@ -1,13 +1,13 @@
-DECRETO-LEGGE 22 giugno 1993 n. 201
+DECRETO-LEGGE 21 aprile 1993 n. 115
 
 
-DECRETO-LEGGE 22 giugno 1993 n. 201
+DECRETO-LEGGE 21 aprile 1993 n. 115
 ===================================
 
 Acquisizione al demanio dello Stato della Villa Blanc di Roma.
 --------------------------------------------------------------
 
-Entrata in vigore del decreto: 22/6/93.Decreto-Legge decaduto per mancata conversione.
+Entrata in vigore del decreto: 22/04/1993.Decreto-Legge decaduto per mancata conversione.
 
 Art. 1
 ------

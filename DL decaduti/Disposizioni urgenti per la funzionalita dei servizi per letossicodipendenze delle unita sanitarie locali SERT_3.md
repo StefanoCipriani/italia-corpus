@@ -1,14 +1,14 @@
-DECRETO-LEGGE 18 gennaio 1996 n. 21
+DECRETO-LEGGE 19 marzo 1996 n. 131
 
 
-DECRETO-LEGGE 18 gennaio 1996 n. 21
-===================================
+DECRETO-LEGGE 19 marzo 1996 n. 131
+==================================
 
 Disposizioni urgenti per la funzionalita' dei servizi per le 
 tossicodipendenze delle unita' sanitarie locali (SERT).
 ---------------------------------------------------------------------------------------------------------------------
 
-Entrata in vigore del decreto: 18/1/1996.Decreto-Legge decaduto per mancata conversione.
+Entrata in vigore del decreto: 19-3-1996.Decreto-Legge decaduto per mancata conversione.
 
 Art. 1
 ------

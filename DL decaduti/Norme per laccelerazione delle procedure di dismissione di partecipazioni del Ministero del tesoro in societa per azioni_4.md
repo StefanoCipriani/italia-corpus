@@ -1,13 +1,13 @@
-DECRETO-LEGGE 27 settembre 1993 n. 389
+DECRETO-LEGGE 29 novembre 1993 n. 486
 
 
-DECRETO-LEGGE 27 settembre 1993 n. 389
-======================================
+DECRETO-LEGGE 29 novembre 1993 n. 486
+=====================================
 
 Norme per l'accelerazione delle procedure di dismissione di partecipazioni del Ministero del tesoro in societa' per azioni.
 ---------------------------------------------------------------------------------------------------------------------------
 
-Entrata in vigore del decreto: 02/10/1993.Decreto-Legge decaduto per mancata conversione.
+Entrata in vigore del decreto: 02-12-1993.Decreto-Legge decaduto per mancata conversione.
 
 Art. 1
 ------

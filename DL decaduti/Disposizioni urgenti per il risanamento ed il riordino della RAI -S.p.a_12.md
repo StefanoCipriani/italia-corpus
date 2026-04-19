@@ -1,14 +1,14 @@
-DECRETO-LEGGE 28 febbraio 1995 n. 56
+DECRETO-LEGGE 28 agosto 1995 n. 355
 
 
-DECRETO-LEGGE 28 febbraio 1995 n. 56
-====================================
+DECRETO-LEGGE 28 agosto 1995 n. 355
+===================================
 
 Disposizioni urgenti per il risanamento ed il riordino della RAI - 
 S.p.a.
 --------------------------------------------------------------------------
 
-Entrata in vigore del decreto: 28/2/1995.Decreto-Legge decaduto per mancata conversione.
+Entrata in vigore del decreto: 29-8-1995.Decreto-Legge decaduto per mancata conversione.
 
 Art. 1
 ------
@@ -70,7 +70,7 @@ Art. 12
 
  DECRETO DECADUTO  
 
-Tabella
+Allegato
 
- TABELLA   
+ ALLEGATO   
 DECRETO DECADUTO   

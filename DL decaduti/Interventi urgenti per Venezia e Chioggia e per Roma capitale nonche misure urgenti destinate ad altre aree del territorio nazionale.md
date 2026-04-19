@@ -1,13 +1,13 @@
-DECRETO-LEGGE 11 febbraio 1991 n. 38
+DECRETO-LEGGE 04 dicembre 1990 n. 364
 
 
-DECRETO-LEGGE 11 febbraio 1991 n. 38
-====================================
+DECRETO-LEGGE 04 dicembre 1990 n. 364
+=====================================
 
 Interventi urgenti per Venezia e Chioggia e per Roma capitale, nonche' misure urgenti destinate ad altre aree del territorio nazionale.
 ---------------------------------------------------------------------------------------------------------------------------------------
 
-Entrata in vigore del decreto: 11/2/1991.Decreto-Legge decaduto per mancata conversione.
+Entrata in vigore del decreto: 5/12/1990.Decreto-Legge decaduto per mancata conversione.
 
 Art. 1
 ------
@@ -82,14 +82,6 @@ SONO STATI FATTI SALVI DALLA [L. 8 NOVEMBRE 1991, N. 360](http://www.normattiva.
   
 
 Art. 10
--------
-
-  
-DECRETO DECADUTO; I SUOI EFFETTI   
-SONO STATI FATTI SALVI DALLA [L. 8 NOVEMBRE 1991, N. 360](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1991-11-08;360)
-  
-
-Art. 11
 -------
 
   

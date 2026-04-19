@@ -1,13 +1,13 @@
-DECRETO-LEGGE 02 marzo 1993 n. 46
+DECRETO-LEGGE 28 giugno 1993 n. 210
 
 
-DECRETO-LEGGE 02 marzo 1993 n. 46
-=================================
+DECRETO-LEGGE 28 giugno 1993 n. 210
+===================================
 
 Elargizione a favore dei cittadini vittime di incidenti occorsi durante attivita' operative ed addestrative delle Forze armate.
 -------------------------------------------------------------------------------------------------------------------------------
 
-Entrata in vigore del decreto: 2/3/1993.Decreto-Legge decaduto per mancata conversione.
+Entrata in vigore del decreto: 29/6/93.Decreto-Legge decaduto per mancata conversione.
 
 Art. 1
 ------

@@ -1,13 +1,13 @@
-DECRETO-LEGGE 05 aprile 1993 n. 94
+DECRETO-LEGGE 01 febbraio 1993 n. 24
 
 
-DECRETO-LEGGE 05 aprile 1993 n. 94
-==================================
+DECRETO-LEGGE 01 febbraio 1993 n. 24
+====================================
 
 Interventi in favore dei dipendenti delle imprese di spedizione internazionale, dei magazzini generali e degli spedizionieri doganali.
 --------------------------------------------------------------------------------------------------------------------------------------
 
-Entrata in vigore del decreto: 5-04-1993.Decreto-Legge decaduto per mancata conversione.
+Entrata in vigore del decreto: 2/2/1993.Decreto-Legge decaduto per mancata conversione.
 
 Art. 1
 ------

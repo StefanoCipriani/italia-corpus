@@ -1,13 +1,13 @@
-DECRETO-LEGGE 17 marzo 1994 n. 183
+DECRETO-LEGGE 18 gennaio 1994 n. 39
 
 
-DECRETO-LEGGE 17 marzo 1994 n. 183
-==================================
+DECRETO-LEGGE 18 gennaio 1994 n. 39
+===================================
 
 Disposizioni in materia di fiscalizzazione degli oneri sociali e di sgravi contributivi.
 ----------------------------------------------------------------------------------------
 
-Entrata in vigore del decreto: 21/3/1994.Decreto-Legge decaduto per mancata conversione.
+Entrata in vigore del decreto: 19-1-1994.Decreto-Legge decaduto per mancata conversione.
 
 Art. 1
 ------

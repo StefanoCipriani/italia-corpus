@@ -1,7 +1,7 @@
-DECRETO-LEGGE 09 luglio 1987 n. 263
+DECRETO-LEGGE 08 maggio 1987 n. 177
 
 
-DECRETO-LEGGE 09 luglio 1987 n. 263
+DECRETO-LEGGE 08 maggio 1987 n. 177
 ===================================
 
 Interventi urgenti in materia di opere di difesa del suolo.
@@ -12,7 +12,8 @@ Decreto-Legge decaduto per mancata conversione.
 Art. 1
 ------
 
- DECRETO DECADUTO  
+  
+DECRETO DECADUTO   
 
 Art. 2
 ------
@@ -41,10 +42,10 @@ Art. 6
 
 Tabella A
 
- Allegato   
+ Tabella A   
 DECRETO DECADUTO   
 
-Tabella B
+aTabella B
 
- Allegato   
+ Tabella B   
 DECRETO DECADUTO   

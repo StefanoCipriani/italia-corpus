@@ -1,13 +1,13 @@
-DECRETO-LEGGE 26 marzo 1992 n. 241
+DECRETO-LEGGE 26 maggio 1992 n. 295
 
 
-DECRETO-LEGGE 26 marzo 1992 n. 241
-==================================
+DECRETO-LEGGE 26 maggio 1992 n. 295
+===================================
 
 Spese per il funzionamento del Ministero di grazia e giustizia.
 ---------------------------------------------------------------
 
-Entrata in vigore del decreto: 27/03/1992.Decreto-Legge decaduto per mancata conversione.
+Entrata in vigore del decreto: 26-5-1992.Decreto-Legge decaduto per mancata conversione.
 
 Art. 1
 ------

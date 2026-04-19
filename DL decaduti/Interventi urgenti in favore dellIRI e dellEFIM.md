@@ -1,13 +1,13 @@
-DECRETO-LEGGE 28 febbraio 1992 n. 192
+DECRETO-LEGGE 02 gennaio 1992 n. 2
 
 
-DECRETO-LEGGE 28 febbraio 1992 n. 192
-=====================================
+DECRETO-LEGGE 02 gennaio 1992 n. 2
+==================================
 
 Interventi urgenti in favore dell'IRI e dell'EFIM.
 --------------------------------------------------
 
-Entrata in vigore del decreto: 03/03/1992.Decreto-Legge decaduto per mancata conversione.
+Entrata in vigore del decreto: 03/01/1992.Decreto-Legge decaduto per mancata conversione.
 
 Art. 1
 ------

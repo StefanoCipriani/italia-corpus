@@ -1,13 +1,13 @@
-DECRETO-LEGGE 07 gennaio 1994 n. 6
+DECRETO-LEGGE 04 marzo 1994 n. 163
 
 
-DECRETO-LEGGE 07 gennaio 1994 n. 6
+DECRETO-LEGGE 04 marzo 1994 n. 163
 ==================================
 
 Attuazione degli embarghi deliberati dal Consiglio di sicurezza delle Nazioni Unite nei confronti di Haiti e del movimento UNITA in Angola.
 -------------------------------------------------------------------------------------------------------------------------------------------
 
-Entrata in vigore del decreto: 8/1/1994.Decreto-Legge decaduto per mancata conversione.
+Entrata in vigore del decreto: 10-3-1994.Decreto-Legge decaduto per mancata conversione.
 
 Art. 1
 ------

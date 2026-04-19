@@ -1,8 +1,8 @@
-DECRETO-LEGGE 03 ottobre 1986 n. 627
+DECRETO-LEGGE 05 dicembre 1986 n. 818
 
 
-DECRETO-LEGGE 03 ottobre 1986 n. 627
-====================================
+DECRETO-LEGGE 05 dicembre 1986 n. 818
+=====================================
 
 Disposizioni urgenti in materia di autotrasporto di cose e di 
 sicurezza stradale.
@@ -27,7 +27,8 @@ DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA
 Art. 3
 ------
 
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA  
+  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA   
 [L. 30 MARZO 1987, N. 132](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1987-03-30;132)
   
 
@@ -97,8 +98,7 @@ DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA
 Art. 13
 -------
 
-  
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA   
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA  
 [L. 30 MARZO 1987, N. 132](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1987-03-30;132)
   
 
@@ -119,7 +119,8 @@ DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA
 Art. 16
 -------
 
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA  
+  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA   
 [L. 30 MARZO 1987, N. 132](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1987-03-30;132)
   
 
@@ -131,6 +132,13 @@ DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA
   
 
 Art. 18
+-------
+
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA  
+[L. 30 MARZO 1987, N. 132](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1987-03-30;132)
+  
+
+Art. 19
 -------
 
 DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA  

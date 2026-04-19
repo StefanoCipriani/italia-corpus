@@ -1,13 +1,13 @@
-DECRETO-LEGGE 08 luglio 1994 n. 437
+DECRETO-LEGGE 07 settembre 1994 n. 529
 
 
-DECRETO-LEGGE 08 luglio 1994 n. 437
-===================================
+DECRETO-LEGGE 07 settembre 1994 n. 529
+======================================
 
 Modifiche al decreto del Presidente della Repubblica 17 maggio 1988, n. 175, relativo ai rischi di incidenti rilevanti connessi con determinate attivita' industriali.
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Entrata in vigore del decreto: 10/7/1994.Decreto-Legge decaduto per mancata conversione.
+Entrata in vigore del decreto: 8/9/1994.Decreto-Legge decaduto per mancata conversione.
 
 Art. 1
 ------
@@ -184,9 +184,25 @@ DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI
 DALLA [L. 19 MAGGIO 1997, N. 137](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997-05-19;137)
   
 
-Allegato
+Art. 23
+-------
 
- ALLEGATO   
+  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI   
+DALLA [L. 19 MAGGIO 1997, N. 137](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997-05-19;137)
+  
+
+Art. 24
+-------
+
+  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI   
+DALLA [L. 19 MAGGIO 1997, N. 137](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997-05-19;137)
+  
+
+Allegato A
+
+ ALLEGATO A   
 DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI   
 DALLA [L. 19 MAGGIO 1997, N. 137](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997-05-19;137)
   

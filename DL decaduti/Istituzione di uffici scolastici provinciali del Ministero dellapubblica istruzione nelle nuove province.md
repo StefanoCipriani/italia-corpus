@@ -1,14 +1,14 @@
-DECRETO-LEGGE 18 ottobre 1995 n. 428
+DECRETO-LEGGE 09 agosto 1995 n. 346
 
 
-DECRETO-LEGGE 18 ottobre 1995 n. 428
-====================================
+DECRETO-LEGGE 09 agosto 1995 n. 346
+===================================
 
 Istituzione di uffici scolastici provinciali del Ministero della 
 pubblica istruzione nelle nuove province.
 -----------------------------------------------------------------------------------------------------------
 
-Entrata in vigore del decreto: 19/10/1995.Decreto-Legge decaduto per mancata conversione.
+Entrata in vigore del decreto: 20-8-1995.Decreto-Legge decaduto per mancata conversione.
 
 Art. 1
 ------

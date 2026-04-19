@@ -1,14 +1,14 @@
-DECRETO-LEGGE 25 marzo 1996 n. 165
+DECRETO-LEGGE 26 luglio 1996 n. 395
 
 
-DECRETO-LEGGE 25 marzo 1996 n. 165
-==================================
+DECRETO-LEGGE 26 luglio 1996 n. 395
+===================================
 
 Disposizioni urgenti in materia di prevenzione dell'inquinamento 
 atmosferico da benzene.
 -----------------------------------------------------------------------------------------
 
-Entrata in vigore del decreto: 30-3-1996.Decreto-Legge decaduto per mancata conversione.
+Entrata in vigore del decreto: 28-7-1996.Decreto-Legge decaduto per mancata conversione.
 
 Art. 1
 ------

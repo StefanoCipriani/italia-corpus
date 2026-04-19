@@ -1,13 +1,13 @@
-DECRETO-LEGGE 08 novembre 1993 n. 438
+DECRETO-LEGGE 07 gennaio 1994 n. 8
 
 
-DECRETO-LEGGE 08 novembre 1993 n. 438
-=====================================
+DECRETO-LEGGE 07 gennaio 1994 n. 8
+==================================
 
 Disposizioni urgenti in materia sanitaria.
 ------------------------------------------
 
-Entrata in vigore del decreto: 09-11-1993.Decreto-Legge decaduto per mancata conversione.
+Entrata in vigore del decreto: 8/1/1994.Decreto-Legge decaduto per mancata conversione.
 
 Art. 1
 ------
@@ -64,6 +64,60 @@ Art. 9
 DECRETO DECADUTO   
 
 Art. 10
+-------
+
+  
+DECRETO DECADUTO   
+
+Art. 11
+-------
+
+  
+DECRETO DECADUTO   
+
+Art. 12
+-------
+
+  
+DECRETO DECADUTO   
+
+Art. 13
+-------
+
+  
+DECRETO DECADUTO   
+
+Art. 14
+-------
+
+  
+DECRETO DECADUTO   
+
+Art. 15
+-------
+
+  
+DECRETO DECADUTO   
+
+Art. 16
+-------
+
+  
+DECRETO DECADUTO   
+
+Art. 17
+-------
+
+  
+DECRETO DECADUTO   
+
+Art. 18
+-------
+
+  
+DECRETO DECADUTO   
+
+Art. 19
 -------
 
   

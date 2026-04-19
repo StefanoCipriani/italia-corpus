@@ -1,14 +1,14 @@
-DECRETO-LEGGE 20 febbraio 1996 n. 67
+DECRETO-LEGGE 12 aprile 1996 n. 203
 
 
-DECRETO-LEGGE 20 febbraio 1996 n. 67
-====================================
+DECRETO-LEGGE 12 aprile 1996 n. 203
+===================================
 
 Interventi urgenti per il settore dell'autotrasporto di cose per 
 conto di terzi.
 ---------------------------------------------------------------------------------
 
-Entrata in vigore del decreto: 21/2/1996.Decreto-Legge decaduto per mancata conversione.
+Entrata in vigore del decreto: 19/4/1996.Decreto-Legge decaduto per mancata conversione.
 
 Art. 1
 ------

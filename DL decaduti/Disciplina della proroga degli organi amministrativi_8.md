@@ -1,13 +1,13 @@
-DECRETO-LEGGE 19 marzo 1993 n. 69
+DECRETO-LEGGE 19 luglio 1993 n. 239
 
 
-DECRETO-LEGGE 19 marzo 1993 n. 69
-=================================
+DECRETO-LEGGE 19 luglio 1993 n. 239
+===================================
 
 Disciplina della proroga degli organi amministrativi.
 -----------------------------------------------------
 
-Entrata in vigore del decreto: 21/03/1993.Decreto-Legge decaduto per mancata conversione.
+Entrata in vigore del decreto: 20/7/1993.Decreto-Legge decaduto per mancata conversione.
 
 Art. 1
 ------

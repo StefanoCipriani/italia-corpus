@@ -1,8 +1,8 @@
-DECRETO-LEGGE 29 agosto 1984 n. 521
+DECRETO-LEGGE 24 marzo 1984 n. 37
 
 
-DECRETO-LEGGE 29 agosto 1984 n. 521
-===================================
+DECRETO-LEGGE 24 marzo 1984 n. 37
+=================================
 
 Istituzione del sistema di tesoreria unica per enti ed organismi 
 pubblici.
@@ -23,14 +23,10 @@ Art. 2
 Art. 3
 ------
 
- DECRETO DECADUTO  
+  
+DECRETO DECADUTO   
 
 Art. 4
-------
-
- DECRETO DECADUTO  
-
-Art. 5
 ------
 
   
@@ -44,4 +40,4 @@ DECRETO DECADUTO
 Tabella B
 
  Allegato   
-DECRETO DECADUTO   
+DECRETO DECADUTO;   

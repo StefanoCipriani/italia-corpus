@@ -1,15 +1,15 @@
-DECRETO-LEGGE 08 gennaio 1996 n. 5
+DECRETO-LEGGE 08 luglio 1996 n. 351
 
 
-DECRETO-LEGGE 08 gennaio 1996 n. 5
-==================================
+DECRETO-LEGGE 08 luglio 1996 n. 351
+===================================
 
 Modifiche al decreto del Presidente della Repubblica 17 maggio 
 1988, n. 175, relativo ai rischi di incidenti rilevanti connessi con 
 determinate attivita' industriali.
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Entrata in vigore del decreto: 9/1/1996.Decreto-Legge decaduto per mancata conversione.
+Entrata in vigore del decreto: 8-7-1996.Decreto-Legge decaduto per mancata conversione.
 
 Art. 1
 ------
@@ -122,9 +122,7 @@ DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA [L. 19 MAGGIO 1997
 Art. 19
 -------
 
-  
-DDECRETO DECADUTO; GLI EFFETTI DEL PRESENTE ARTICOLO COMMI 1 E 2 SONO   
-STATI FATTI SALVI DALLA [L. 19 MAGGIO 1997, N. 137](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997-05-19;137)
+DECRETO DECADUTO; GLI EFFETTI DEL PRESENTE ARTICOLO COMMI 1 E 2 SONO STATI FATTI SALVI DALLA [L. 19 MAGGIO 1997, N. 137](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997-05-19;137)
   
 
 Art. 20
@@ -165,7 +163,7 @@ DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA [L. 19 MAGGIO 1997
 
 Allegato A
 
- Allegato A   
+ ALLEGATO A   
 DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI   
 DALLA [L. 19 MAGGIO 1997, N. 137](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997-05-19;137)
   

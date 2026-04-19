@@ -1,13 +1,13 @@
-DECRETO-LEGGE 29 maggio 1989 n. 195
+DECRETO-LEGGE 25 marzo 1989 n. 109
 
 
-DECRETO-LEGGE 29 maggio 1989 n. 195
-===================================
+DECRETO-LEGGE 25 marzo 1989 n. 109
+==================================
 
 Disposizioni urgenti in materia di trasporti ferroviari.
 --------------------------------------------------------
 
-Entrata in vigore del decreto: 29/05/1989.Decreto-Legge decaduto per mancata conversione.
+Entrata in vigore del decreto: 30/03/1989.Decreto-Legge decaduto per mancata conversione.
 
 Art. 1
 ------

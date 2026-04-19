@@ -1,13 +1,13 @@
-DECRETO-LEGGE 27 giugno 1994 n. 409
+DECRETO-LEGGE 18 febbraio 1994 n. 110
 
 
-DECRETO-LEGGE 27 giugno 1994 n. 409
-===================================
+DECRETO-LEGGE 18 febbraio 1994 n. 110
+=====================================
 
 Liquidazione dell'Ente nazionale per la cellulosa e per la carta.
 -----------------------------------------------------------------
 
-Entrata in vigore del decreto: 27/06/1994.Decreto-Legge decaduto per mancata conversione.
+Entrata in vigore del decreto: 19/2/1994.Decreto-Legge decaduto per mancata conversione.
 
 Art. 1
 ------

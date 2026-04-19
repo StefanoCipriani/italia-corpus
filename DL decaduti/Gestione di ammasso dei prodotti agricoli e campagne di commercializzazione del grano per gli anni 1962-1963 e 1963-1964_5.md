@@ -1,13 +1,13 @@
-DECRETO-LEGGE 28 febbraio 1994 n. 142
+DECRETO-LEGGE 30 giugno 1994 n. 423
 
 
-DECRETO-LEGGE 28 febbraio 1994 n. 142
-=====================================
+DECRETO-LEGGE 30 giugno 1994 n. 423
+===================================
 
 Gestione di ammasso dei prodotti agricoli e campagne di commercializzazione del grano per gli anni 1962-1963 e 1963-1964.
 -------------------------------------------------------------------------------------------------------------------------
 
-Entrata in vigore del decreto: 02-03-1994.Decreto-Legge decaduto per mancata conversione.
+Entrata in vigore del decreto: 1-7-1994.Decreto-Legge decaduto per mancata conversione.
 
 Art. 1
 ------

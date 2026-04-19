@@ -1,13 +1,13 @@
-DECRETO-LEGGE 18 novembre 1995 n. 483
+DECRETO-LEGGE 13 luglio 1995 n. 280
 
 
-DECRETO-LEGGE 18 novembre 1995 n. 483
-=====================================
+DECRETO-LEGGE 13 luglio 1995 n. 280
+===================================
 
 Misure urgenti per le universita' e gli enti di ricerca.
 --------------------------------------------------------
 
-Entrata in vigore del decreto: 18-11-1995.Decreto-Legge decaduto per mancata conversione.
+Entrata in vigore del decreto: 18-7-1995.Decreto-Legge decaduto per mancata conversione.
 
 Art. 1
 ------

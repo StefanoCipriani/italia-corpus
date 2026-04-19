@@ -1,13 +1,13 @@
-DECRETO-LEGGE 28 gennaio 1994 n. 69
+DECRETO-LEGGE 23 marzo 1994 n. 194
 
 
-DECRETO-LEGGE 28 gennaio 1994 n. 69
-===================================
+DECRETO-LEGGE 23 marzo 1994 n. 194
+==================================
 
 Misure urgenti per il settore dell'autotrasporto di cose per conto di terzi.
 ----------------------------------------------------------------------------
 
-Entrata in vigore del decreto: 29-1-1994.Decreto-Legge decaduto per mancata conversione.
+Entrata in vigore del decreto: 25/3/1994.Decreto-Legge decaduto per mancata conversione.
 
 Art. 1
 ------

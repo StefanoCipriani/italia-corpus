@@ -1,13 +1,13 @@
-DECRETO-LEGGE 31 marzo 1994 n. 214
+DECRETO-LEGGE 29 novembre 1993 n. 485
 
 
-DECRETO-LEGGE 31 marzo 1994 n. 214
-==================================
+DECRETO-LEGGE 29 novembre 1993 n. 485
+=====================================
 
 Rifinanziamento della legge 28 agosto 1989, n. 302, concernente disciplina del credito peschereccio di esercizio.
 -----------------------------------------------------------------------------------------------------------------
 
-Entrata in vigore del decreto: 2/4/1994.Decreto-Legge decaduto per mancata conversione.
+Entrata in vigore del decreto: 15-12-1993.Decreto-Legge decaduto per mancata conversione.
 
 Art. 1
 ------

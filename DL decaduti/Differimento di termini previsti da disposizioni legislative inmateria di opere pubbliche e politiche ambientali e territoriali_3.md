@@ -1,14 +1,14 @@
-DECRETO-LEGGE 27 ottobre 1995 n. 445
+DECRETO-LEGGE 28 agosto 1995 n. 358
 
 
-DECRETO-LEGGE 27 ottobre 1995 n. 445
-====================================
+DECRETO-LEGGE 28 agosto 1995 n. 358
+===================================
 
 Differimento di termini previsti da disposizioni legislative in 
 materia di opere pubbliche e politiche ambientali e territoriali.
 ----------------------------------------------------------------------------------------------------------------------------------
 
-Entrata in vigore del decreto: 29-10-1995.Decreto-Legge decaduto per mancata conversione.
+Entrata in vigore del decreto: 29-8-1995.Decreto-Legge decaduto per mancata conversione.
 
 Art. 1
 ------

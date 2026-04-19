@@ -1,13 +1,13 @@
-DECRETO-LEGGE 16 maggio 1994 n. 294
+DECRETO-LEGGE 16 luglio 1994 n. 450
 
 
-DECRETO-LEGGE 16 maggio 1994 n. 294
+DECRETO-LEGGE 16 luglio 1994 n. 450
 ===================================
 
 Disposizioni in materia di versamento della quota fissa individuale annua per l'assistenza medica di base e di tariffe per prestazioni sanitarie.
 -------------------------------------------------------------------------------------------------------------------------------------------------
 
-Entrata in vigore del decreto: 18-5-1994.Decreto-Legge decaduto per mancata conversione.
+Entrata in vigore del decreto: 18-7-1994.Decreto-Legge decaduto per mancata conversione.
 
 Art. 1
 ------

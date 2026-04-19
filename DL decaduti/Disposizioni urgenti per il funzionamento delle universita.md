@@ -1,13 +1,13 @@
-DECRETO-LEGGE 22 dicembre 1994 n. 697
+DECRETO-LEGGE 23 giugno 1994 n. 404
 
 
-DECRETO-LEGGE 22 dicembre 1994 n. 697
-=====================================
+DECRETO-LEGGE 23 giugno 1994 n. 404
+===================================
 
 Disposizioni urgenti per il funzionamento delle universita'.
 ------------------------------------------------------------
 
-Entrata in vigore del decreto: 23/12/1994.Decreto-Legge decaduto per mancata conversione.
+Entrata in vigore del decreto: 26/06/1994.Decreto-Legge decaduto per mancata conversione.
 
 Art. 1
 ------
@@ -90,94 +90,6 @@ DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA
   
 
 Art. 11
--------
-
-  
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA   
-[L. 21 GIUGNO 1995, N. 236](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1995-06-21;236)
-  
-
-Art. 12
--------
-
-  
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA   
-[L. 21 GIUGNO 1995, N. 236](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1995-06-21;236)
-  
-
-Art. 13
--------
-
-  
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA   
-[L. 21 GIUGNO 1995, N. 236](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1995-06-21;236)
-  
-
-Art. 14
--------
-
-  
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA   
-[L. 21 GIUGNO 1995, N. 236](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1995-06-21;236)
-  
-
-Art. 15
--------
-
-  
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA   
-[L. 21 GIUGNO 1995, N. 236](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1995-06-21;236)
-  
-
-Art. 16
--------
-
-  
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA   
-[L. 21 GIUGNO 1995, N. 236](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1995-06-21;236)
-  
-
-Art. 17
--------
-
-  
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA   
-[L. 21 GIUGNO 1995, N. 236](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1995-06-21;236)
-  
-
-Art. 18
--------
-
-  
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA   
-[L. 21 GIUGNO 1995, N. 236](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1995-06-21;236)
-  
-
-Art. 19
--------
-
-  
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA   
-[L. 21 GIUGNO 1995, N. 236](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1995-06-21;236)
-  
-
-Art. 20
--------
-
-  
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA   
-[L. 21 GIUGNO 1995, N. 236](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1995-06-21;236)
-  
-
-Art. 21
--------
-
-  
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA   
-[L. 21 GIUGNO 1995, N. 236](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1995-06-21;236)
-  
-
-Art. 22
 -------
 
   

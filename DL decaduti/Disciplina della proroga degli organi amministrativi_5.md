@@ -1,13 +1,13 @@
-DECRETO-LEGGE 19 luglio 1993 n. 239
+DECRETO-LEGGE 18 gennaio 1993 n. 7
 
 
-DECRETO-LEGGE 19 luglio 1993 n. 239
-===================================
+DECRETO-LEGGE 18 gennaio 1993 n. 7
+==================================
 
 Disciplina della proroga degli organi amministrativi.
 -----------------------------------------------------
 
-Entrata in vigore del decreto: 20/7/1993.Decreto-Legge decaduto per mancata conversione.
+Entrata in vigore del decreto: 19/1/1993.Decreto-Legge decaduto per mancata conversione.
 
 Art. 1
 ------

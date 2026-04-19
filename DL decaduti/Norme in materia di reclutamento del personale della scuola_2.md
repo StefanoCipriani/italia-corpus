@@ -1,13 +1,13 @@
-DECRETO-LEGGE 10 luglio 1989 n. 249
+DECRETO-LEGGE 02 settembre 1989 n. 315
 
 
-DECRETO-LEGGE 10 luglio 1989 n. 249
-===================================
+DECRETO-LEGGE 02 settembre 1989 n. 315
+======================================
 
 Norme in materia di reclutamento del personale della scuola.
 ------------------------------------------------------------
 
-Entrata in vigore del decreto: 11/07/1989.Decreto-Legge decaduto per mancata conversione.
+Entrata in vigore del decreto: 09/09/1989.Decreto-Legge decaduto per mancata conversione.
 
 Art. 1
 ------
@@ -47,7 +47,8 @@ Art. 5
 Art. 6
 ------
 
- DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA  
+  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA   
 [L. 27 DICEMBRE 1989, N. 417](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1989-12-27;417)
   
 
@@ -82,7 +83,8 @@ Art. 10
 Art. 11
 -------
 
- DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA  
+  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA   
 [L. 27 DICEMBRE 1989, N. 417](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1989-12-27;417)
   
 
@@ -185,6 +187,20 @@ Art. 25
   
 
 Art. 26
+-------
+
+ DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA  
+[L. 27 DICEMBRE 1989, N. 417](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1989-12-27;417)
+  
+
+Art. 27
+-------
+
+ DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA  
+[L. 27 DICEMBRE 1989, N. 417](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1989-12-27;417)
+  
+
+Art. 28
 -------
 
  DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA  

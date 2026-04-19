@@ -1,25 +1,22 @@
-DECRETO-LEGGE 25 marzo 1996 n. 153
+DECRETO-LEGGE 22 luglio 1996 n. 387
 
 
-DECRETO-LEGGE 25 marzo 1996 n. 153
-==================================
+DECRETO-LEGGE 22 luglio 1996 n. 387
+===================================
 
 Trasformazione in ente di diritto pubblico economico dell'Azienda 
 autonoma di assistenza al volo per il traffico aereo generale.
 ---------------------------------------------------------------------------------------------------------------------------------
 
-Entrata in vigore del decreto: 26-3-1996.Decreto-Legge decaduto per mancata conversione.
+Entrata in vigore del decreto: 25-7-1996.Decreto-Legge decaduto per mancata conversione.
 
-CAPO I CAPO I ENTE NAZIONALE DI ASSISTENZA AL VOLO
+CAPO I Capo I ENTE NAZIONALE DI ASSISTENZA AL VOLO
 --------------------------------------------------
 
 ### Art. 1
 
 DECRETO DECADUTO;I SUOI EFFETTI SONO STATI FATTI SALVI DALLA [L. 21 DICEMBRE 1996, N. 665](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1996-12-21;665)
   
-
-CAPO II Capo I ENTE NAZIONALE DI ASSISTENZA AL VOLO
----------------------------------------------------
 
 ### Art. 2
 
@@ -61,8 +58,8 @@ DECRETO DECADUTO;I SUOI EFFETTI SONO STATI FATTI SALVI DALLA [L. 21 DICEMBRE 199
 DECRETO DECADUTO;I SUOI EFFETTI SONO STATI FATTI SALVI DALLA [L. 21 DICEMBRE 1996, N. 665](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1996-12-21;665)
   
 
-CAPO III Capo II NORME TRANSITORIE
-----------------------------------
+CAPO II Capo II NORME TRANSITORIE
+---------------------------------
 
 ### Art. 10
 

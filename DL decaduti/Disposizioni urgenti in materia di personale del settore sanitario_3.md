@@ -1,13 +1,13 @@
-DECRETO-LEGGE 01 dicembre 1995 n. 511
+DECRETO-LEGGE 02 ottobre 1995 n. 411
 
 
-DECRETO-LEGGE 01 dicembre 1995 n. 511
-=====================================
+DECRETO-LEGGE 02 ottobre 1995 n. 411
+====================================
 
 Disposizioni urgenti in materia di personale del settore sanitario.
 -------------------------------------------------------------------
 
-Entrata in vigore del decreto: 3-12-1995.Decreto-Legge decaduto per mancata conversione.
+Entrata in vigore del decreto: 3-10-1995.Decreto-Legge decaduto per mancata conversione.
 
 Art. 1
 ------

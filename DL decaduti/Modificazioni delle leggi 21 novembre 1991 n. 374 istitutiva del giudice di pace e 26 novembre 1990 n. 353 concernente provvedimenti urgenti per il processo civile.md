@@ -1,13 +1,13 @@
-DECRETO-LEGGE 08 agosto 1994 n. 493
+DECRETO-LEGGE 14 febbraio 1994 n. 105
 
 
-DECRETO-LEGGE 08 agosto 1994 n. 493
-===================================
+DECRETO-LEGGE 14 febbraio 1994 n. 105
+=====================================
 
 Modificazioni delle leggi 21 novembre 1991, n. 374, istitutiva del giudice di pace, e 26 novembre 1990, n. 353, concernente provvedimenti urgenti per il processo civile.
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Entrata in vigore del decreto: 12/8/1994.Decreto-Legge decaduto per mancata conversione.
+Entrata in vigore del decreto: 16-2-1994.Decreto-Legge decaduto per mancata conversione.
 
 Art. 1
 ------
@@ -138,38 +138,6 @@ SONO STATI FATTI SALVI DALLA [L. 6 DICEMBRE 1994, N. 673](http://www.normattiva.
   
 
 Art. 17
--------
-
-  
-DECRETO DECADUTO; I SUOI EFFETTI   
-SONO STATI FATTI SALVI DALLA [L. 6 DICEMBRE 1994, N. 673](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-12-06;673)
-  
-
-Art. 18
--------
-
-  
-DECRETO DECADUTO; I SUOI EFFETTI   
-SONO STATI FATTI SALVI DALLA [L. 6 DICEMBRE 1994, N. 673](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-12-06;673)
-  
-
-Art. 19
--------
-
-  
-DECRETO DECADUTO; I SUOI EFFETTI   
-SONO STATI FATTI SALVI DALLA [L. 6 DICEMBRE 1994, N. 673](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-12-06;673)
-  
-
-Art. 20
--------
-
-  
-DECRETO DECADUTO; I SUOI EFFETTI   
-SONO STATI FATTI SALVI DALLA [L. 6 DICEMBRE 1994, N. 673](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-12-06;673)
-  
-
-Art. 21
 -------
 
   

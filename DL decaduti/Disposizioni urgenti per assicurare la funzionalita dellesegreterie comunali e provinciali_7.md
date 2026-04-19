@@ -1,14 +1,14 @@
-DECRETO-LEGGE 01 settembre 1995 n. 367
+DECRETO-LEGGE 30 giugno 1995 n. 267
 
 
-DECRETO-LEGGE 01 settembre 1995 n. 367
-======================================
+DECRETO-LEGGE 30 giugno 1995 n. 267
+===================================
 
 Disposizioni urgenti per assicurare la funzionalita' delle 
 segreterie comunali e provinciali.
 ----------------------------------------------------------------------------------------------
 
-Entrata in vigore del decreto: 2-9-1995.Decreto-Legge decaduto per mancata conversione.
+Entrata in vigore del decreto: 3/7/1995.Decreto-Legge decaduto per mancata conversione.
 
 Art. 1
 ------

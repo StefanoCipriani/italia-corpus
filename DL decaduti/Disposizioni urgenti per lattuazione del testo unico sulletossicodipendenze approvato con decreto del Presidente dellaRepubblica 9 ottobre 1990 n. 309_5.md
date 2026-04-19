@@ -1,20 +1,21 @@
-DECRETO-LEGGE 17 marzo 1995 n. 82
+DECRETO-LEGGE 19 maggio 1995 n. 181
 
 
-DECRETO-LEGGE 17 marzo 1995 n. 82
-=================================
+DECRETO-LEGGE 19 maggio 1995 n. 181
+===================================
 
 Disposizioni urgenti per l'attuazione del testo unico sulle 
 tossicodipendenze, approvato con decreto del Presidente della 
 Repubblica 9 ottobre 1990, n. 309.
 --------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Entrata in vigore del decreto: 20/3/1995.Decreto-Legge decaduto per mancata conversione.
+Entrata in vigore del decreto: 20-5-1995.Decreto-Legge decaduto per mancata conversione.
 
 Art. 1
 ------
 
- DECRETO DECADUTO  
+DECRETO DECADUTO; GLI EFFETTI DEL PRESENTE ARTICOLO SONO STATI FATTI SALVI DALLA [L. 28 MARZO 1997, N. 86](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997-03-28;86)
+  
 
 Art. 2
 ------

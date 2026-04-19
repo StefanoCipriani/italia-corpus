@@ -1,13 +1,13 @@
-DECRETO-LEGGE 27 settembre 1994 n. 552
+DECRETO-LEGGE 27 luglio 1994 n. 469
 
 
-DECRETO-LEGGE 27 settembre 1994 n. 552
-======================================
+DECRETO-LEGGE 27 luglio 1994 n. 469
+===================================
 
 Misure urgenti in materia di trattamento economico del personale statale e in materia di pubblico impiego.
 ----------------------------------------------------------------------------------------------------------
 
-Entrata in vigore del decreto: 27/9/1994.Decreto-Legge decaduto per mancata conversione.
+Entrata in vigore del decreto: 29/7/1994.Decreto-Legge decaduto per mancata conversione.
 
 Art. 1
 ------

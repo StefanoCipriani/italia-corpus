@@ -1,13 +1,13 @@
-DECRETO-LEGGE 29 agosto 1994 n. 518
+DECRETO-LEGGE 30 giugno 1994 n. 419
 
 
-DECRETO-LEGGE 29 agosto 1994 n. 518
+DECRETO-LEGGE 30 giugno 1994 n. 419
 ===================================
 
 Disposizioni urgenti in materia di assistenza farmaceutica e di sanita'.
 ------------------------------------------------------------------------
 
-Entrata in vigore del decreto: 30/8/1994.Decreto-Legge decaduto per mancata conversione.
+Entrata in vigore del decreto: 1-7-1994.Decreto-Legge decaduto per mancata conversione.
 
 Art. 1
 ------
@@ -82,14 +82,6 @@ DALLA [L. 17 GENNAIO 1997, N. 4](http://www.normattiva.it/uri-res/N2Ls?urn:nir:s
   
 
 Art. 10
--------
-
-  
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI   
-DALLA [L. 17 GENNAIO 1997, N. 4](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997-01-17;4)
-  
-
-Art. 11
 -------
 
   

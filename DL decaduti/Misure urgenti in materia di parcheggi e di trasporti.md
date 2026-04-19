@@ -1,13 +1,13 @@
-DECRETO-LEGGE 31 marzo 1994 n. 220
+DECRETO-LEGGE 04 dicembre 1993 n. 498
 
 
-DECRETO-LEGGE 31 marzo 1994 n. 220
-==================================
+DECRETO-LEGGE 04 dicembre 1993 n. 498
+=====================================
 
 Misure urgenti in materia di parcheggi e di trasporti.
 ------------------------------------------------------
 
-Entrata in vigore del decreto: 2/4/1994.Decreto-Legge decaduto per mancata conversione.
+Entrata in vigore del decreto: 5/12/1993.Decreto-Legge decaduto per mancata conversione.
 
 Art. 1
 ------

@@ -1,13 +1,13 @@
-DECRETO-LEGGE 21 aprile 1995 n. 119
+DECRETO-LEGGE 18 ottobre 1995 n. 433
 
 
-DECRETO-LEGGE 21 aprile 1995 n. 119
-===================================
+DECRETO-LEGGE 18 ottobre 1995 n. 433
+====================================
 
 Interventi urgenti a favore del settore portuale e marittimo.
 -------------------------------------------------------------
 
-Entrata in vigore del decreto: 23/4/1995.Decreto-Legge decaduto per mancata conversione.
+Entrata in vigore del decreto: 22/10/1995.Decreto-Legge decaduto per mancata conversione.
 
 Art. 1
 ------
@@ -143,6 +143,13 @@ Art. 19
   
 
 Art. 20
+-------
+
+ DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA  
+[L. 23 DICEMBRE 1996, N. 647](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1996-12-23;647)
+  
+
+Art. 21
 -------
 
  DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA  

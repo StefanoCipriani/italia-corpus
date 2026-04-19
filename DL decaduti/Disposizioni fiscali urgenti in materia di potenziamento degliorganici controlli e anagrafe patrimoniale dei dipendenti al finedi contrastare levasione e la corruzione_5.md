@@ -1,7 +1,7 @@
-DECRETO-LEGGE 13 luglio 1995 n. 286
+DECRETO-LEGGE 19 maggio 1995 n. 178
 
 
-DECRETO-LEGGE 13 luglio 1995 n. 286
+DECRETO-LEGGE 19 maggio 1995 n. 178
 ===================================
 
 Disposizioni fiscali urgenti in materia di potenziamento degli 
@@ -9,7 +9,7 @@ organici, controlli e anagrafe patrimoniale dei dipendenti, al fine
 di contrastare l'evasione e la corruzione.
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Entrata in vigore del decreto: 20-7-1995.Decreto-Legge decaduto per mancata conversione.
+Entrata in vigore del decreto: 20-5-1995.Decreto-Legge decaduto per mancata conversione.
 
 Art. 1
 ------

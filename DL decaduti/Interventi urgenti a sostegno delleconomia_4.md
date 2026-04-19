@@ -1,13 +1,13 @@
-DECRETO-LEGGE 18 marzo 1994 n. 184
+DECRETO-LEGGE 25 luglio 1994 n. 463
 
 
-DECRETO-LEGGE 18 marzo 1994 n. 184
-==================================
+DECRETO-LEGGE 25 luglio 1994 n. 463
+===================================
 
 Interventi urgenti a sostegno dell'economia.
 --------------------------------------------
 
-Entrata in vigore del decreto: 21/3/1994.Decreto-Legge decaduto per mancata conversione.
+Entrata in vigore del decreto: 25/7/1994.Decreto-Legge decaduto per mancata conversione.
 
 Art. 1
 ------
@@ -75,30 +75,6 @@ DALLA [L. 22 NOVEMBRE 1994, N. 644](http://www.normattiva.it/uri-res/N2Ls?urn:ni
 
 Art. 9
 ------
-
-  
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI   
-DALLA [L. 22 NOVEMBRE 1994, N. 644](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-11-22;644)
-  
-
-Art. 10
--------
-
-  
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI   
-DALLA [L. 22 NOVEMBRE 1994, N. 644](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-11-22;644)
-  
-
-Art. 11
--------
-
-  
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI   
-DALLA [L. 22 NOVEMBRE 1994, N. 644](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-11-22;644)
-  
-
-Art. 12
--------
 
   
 DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI   

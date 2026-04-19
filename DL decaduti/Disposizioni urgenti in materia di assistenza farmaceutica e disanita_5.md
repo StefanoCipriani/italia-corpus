@@ -1,14 +1,14 @@
-DECRETO-LEGGE 29 dicembre 1995 n. 553
+DECRETO-LEGGE 23 dicembre 1994 n. 722
 
 
-DECRETO-LEGGE 29 dicembre 1995 n. 553
+DECRETO-LEGGE 23 dicembre 1994 n. 722
 =====================================
 
 Disposizioni urgenti in materia di assistenza farmaceutica e di 
 sanita'.
 -------------------------------------------------------------------------
 
-Entrata in vigore del decreto: 30-12-1995.Decreto-Legge decaduto per mancata conversione.
+Entrata in vigore del decreto: 29-12-1994.Decreto-Legge decaduto per mancata conversione.
 
 Art. 1
 ------
@@ -69,7 +69,8 @@ DALLA [L. 17 GENNAIO 1997, N. 4](http://www.normattiva.it/uri-res/N2Ls?urn:nir:s
 Art. 9
 ------
 
- DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI  
+  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI   
 DALLA [L. 17 GENNAIO 1997, N. 4](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997-01-17;4)
   
 

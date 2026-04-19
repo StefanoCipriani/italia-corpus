@@ -1,13 +1,13 @@
-DECRETO-LEGGE 04 agosto 1989 n. 278
+DECRETO-LEGGE 14 giugno 1989 n. 229
 
 
-DECRETO-LEGGE 04 agosto 1989 n. 278
+DECRETO-LEGGE 14 giugno 1989 n. 229
 ===================================
 
 Misure urgenti per il miglioramento qualitativo e per la prevenzione dell'inquinamento delle risorse idriche destinate all'approvvigionamento potabile.
 -------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Entrata in vigore del decreto: 8/8/1989.Decreto-Legge decaduto per mancata conversione.
+Entrata in vigore del decreto: 15/6/1989.Decreto-Legge decaduto per mancata conversione.
 
 Art. 1
 ------
@@ -117,8 +117,7 @@ Art. 15
 Art. 16
 -------
 
-  
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA   
+ DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA  
 [L. 5 APRILE 1990, N. 71](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-04-05;71)
   
 
@@ -129,15 +128,16 @@ Art. 17
 [L. 5 APRILE 1990, N. 71](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-04-05;71)
   
 
-Art. 18
--------
+Tabella A
 
- DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA  
+ TABELLA A   
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA   
 [L. 5 APRILE 1990, N. 71](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-04-05;71)
   
 
-Tabelle
+Tabella B
 
- DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA   
+ TABELLA B   
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA   
 [L. 5 APRILE 1990, N. 71](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-04-05;71)
   
