@@ -1,13 +1,13 @@
-DECRETO-LEGGE 27 luglio 1994 n. 469
+DECRETO-LEGGE 27 settembre 1994 n. 552
 
 
-DECRETO-LEGGE 27 luglio 1994 n. 469
-===================================
+DECRETO-LEGGE 27 settembre 1994 n. 552
+======================================
 
 Misure urgenti in materia di trattamento economico del personale statale e in materia di pubblico impiego.
 ----------------------------------------------------------------------------------------------------------
 
-Entrata in vigore del decreto: 29/7/1994.Decreto-Legge decaduto per mancata conversione.
+Entrata in vigore del decreto: 27/9/1994.Decreto-Legge decaduto per mancata conversione.
 
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
@@ -16,11 +16,13 @@ Visti gli [articoli 77](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:cost
 
 Ritenuta la straordinaria necessita' ed urgenza di assicurare l'uniformita' di miglioramento economico per l'anno 1994 tra il personale statale disciplinato ovvero escluso dalle disposizioni sulla contrattazione collettiva di cui al [decreto legislativo 3 febbraio 1993, n. 29](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-02-03;29), e successive modifiche ed integrazioni, e di disciplinare alcuni aspetti indispensabili concernenti la materia del pubblico impiego;
 
-Vista la deliberazione del Consiglio dei Ministri, adottata nella riunione del 22 luglio 1994;
+Vista la deliberazione del Consiglio dei Ministri, adottata nella riunione del 23 settembre 1994;
 
-Sulla proposta del Presidente del Consiglio dei Ministri e del Ministro per la funzione pubblica e gli affari regionali, di concerto con i Ministri dell'interno, delle finanze, di grazia e giustizia, delle risorse agricole, alimentari e forestali, della difesa, del tesoro e del bilancio e della programmazione economica;
+Sulla proposta del Presidente del Consiglio dei Ministri e del Ministro per la funzione pubblica e gli affari regionali, di concerto con i Ministri degli affari esteri, delle finanze, di grazia e giustizia, delle risorse agricole, alimentari e forestali, della difesa, dell'industria, del commercio e dell'artigianato, e dell'universita' e della ricerca scientifica e tecnologica, del tesoro e del bilancio
 
-E M A N A Il seguente decreto-legge:
+e della programmazione economica;
+
+E M A N A il seguente decreto-legge:
 
 Art. 1
 ------
@@ -38,7 +40,7 @@ b) personale militare delle Forze armate fino al grado di tenente colonnello com
 
 c) personale della carriera prefettizia fino alla qualifica di vice prefetto ispettore aggiunto compresa;
 
-d) personale della carriera direttiva di ragioneria dell'Amministrazione civile dell'Interno fino alla qualifica di direttore aggiunto di divisione.
+d) personale della carriera direttiva di ragioneria dell'Amministrazione civile dell'interno fino alla qualifica di direttore aggiunto di divisione.
 
 Art. 3
 ------
@@ -50,14 +52,14 @@ Art. 3
 Art. 4
 ------
 
-1. Per i dirigenti generali delle amministrazioni statali, per i docenti ed i ricercatori universitari, per il personale dirigente della Polizia di Stato e gradi e qualifiche corrispondenti dei Corpi di polizia civili e militari, per i colonnelli e generali delle Forze armate, per il personale dirigente della carriera prefettizia, per il personale dirigente della carriera direttiva di ragioneria dell'Amministrazione civile dell'Interno, nonche' per il personale della carriera diplomatica l'aggiornamento annuale del trattamento economico, previsto dall'[articolo 2, comma 5, della legge 6 marzo 1992, n. 216](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1992-03-06;216~art2-com5), va effettuato a decorrere dal 1 gennaio 1994 e, in sede di prima applicazione, sulla base della media degli incrementi realizzati dall'anno di entrata in vigore della legge stessa. A relativo onere si provvede nell'ambito delle disponibilita' dei pertinenti capitoli del bilancio dello Stato.
+1. Per i dirigenti generali delle amministrazioni statali, per i docenti ed i ricercatori universitari, per il personale dirigente della Polizia di Stato e gradi e qualifiche corrispondenti dei Corpi di polizia civili e militari, per i colonnelli e generali delle Forze armate, per il personale dirigente della carriera prefettizia, per il personale dirigente della carriera direttiva di ragioneria dell'Amministrazione civile dell'interno, nonche' per il personale della carriera diplomatica l'aggiornamento annuale del trattamento economico, previsto dall'[articolo 2, comma 5, della legge 6 marzo 1992, n. 216](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1992-03-06;216~art2-com5), va effettuato a decorrere dal 1 gennaio 1994 e, in sede di prima applicazione, sulla base della media degli incrementi realizzati dall'anno di entrata in vigore della legge stessa. Al relativo onere si provvede nell'ambito delle disponibilita' dei pertinenti capitoli del bilancio dello Stato.
 
 Art. 5
 ------
 
-1. I rapporti di lavoro a tempo determinato di cui all'[articolo 4- bis, comma 1, del decreto-legge 20 maggio 1993, n. 148](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1993-05-20;148~art4bis-com1), convertito, con modificazioni, dalla [legge 19 luglio 1993, n. 236](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-07-19;236), instaurati dalle pubbliche amministrazioni, gia' prorogati ai sensi del comma 5 del medesimo articolo ed ancora in atto alla data di entrata in vigore del presente decreto, possono essere ulteriormente prorogati sino al 31 dicembre 1994. I relativi oneri sono a carico del bilancio delle singole amministrazioni.
+1. I rapporti di lavoro a tempo determinato di cui all'[articolo 4- bis, comma 1, del decreto-legge 20 maggio 1993, n. 148](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1993-05-20;148~art4bis-com1), convertito, con modificazioni, dalla [legge 19 luglio 1993, n. 236](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-07-19;236), instaurati dalle pubbliche amministrazioni, gia' prorogati ai sensi del comma 5 del medesimo articolo, possono essere ulteriormente prorogati sino al 31 dicembre 1994. I relativi oneri sono a carico del bilancio delle singole amministrazioni.
 
-2. Le operazioni di trasformazione dei rapporti di lavoro previste dall'[articolo 4-bis, comma 6, del decreto-legge 20 maggio 1993, n. 148](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1993-05-20;148~art4bis-com6), convertito, con modificazioni, dalla [legge 19 luglio 1993, n. 236](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-07-19;236), devono concludersi entro il 31 dicembre 1994.
+2. Le operazioni di trasformazione dei rapporti di lavoro previste dall'[articolo 4-bis, comma 6, del decretolegge 20 maggio 1993, n. 148](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1993-05-20;148~art4bis-com6), convertito, con modificazioni, dalla [legge 19 luglio 1993, n. 236](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-07-19;236), devono concludersi entro il 31 dicembre 1994.
 
 Art. 6
 ------
@@ -66,24 +68,24 @@ Art. 6
 
 2. In caso di incarico a tempo parziale, il posto di esperto e' impegnato al cinquanta per cento, restando disponibile la frazione rimanente. In tal caso, il compenso da determinarsi, ai sensi dell'[articolo 29, comma 3](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400~art29-com3), o dell'[articolo 32, comma 4, della legge 23 agosto 1988, n. 400](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400~art32-com4), e' pari al cinquanta per cento di quello attribuito agli esperti con incarico a tempo pieno.
 
-3. L'autorizzazione prevista dal comma 1, per le ulteriori venticinque unita', e' concessa dal Ministro per la funzione pubblica, su motivata proposta del Comitato direttivo dell'Agenzia.
+3. L'autorizzazione prevista dal comma 1, per le ulteriori venticinque unita', e' concessa dal Ministro per la funzione pubblica, su motivata proposta del comitato direttivo dell'Agenzia.
 
 Art. 7
 ------
 
-1. La disposizione di cui all'[articolo 2, comma 4, del decreto legislativo 3 febbraio 1993, n. 29](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-02-03;29~art2-com4), nel testo sostituito dall'[articolo 2 del decreto legislativo 23 dicembre 1993, n. 546](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-12-23;546~art2), ricomprende i dipendenti dell'Istituto per la vigilanza sulle assicurazioni private e di interesse collettivo - ISVAP, di cui alla [legge 12 agosto 1982, n. 576](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1982-08-12;576), nonche' il personale della carriera direttiva di ragioneria dell'Amministrazione civile dell'Interno.
+1. La disposizione di cui all'[articolo 2, comma 4, del decreto legislativo 3 febbraio 1993, n. 29](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-02-03;29~art2-com4), nel testo sostituito dall'[articolo 2 del decreto legislativo 23 dicembre 1993, n. 546](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-12-23;546~art2), ricomprende i dipendenti dell'Istituto per la vigilanza sulle assicurazioni private e di interesse collettivo - ISVAP, di cui alla [legge 12 agosto 1982, n. 576](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1982-08-12;576), nonche' il personale della carriera direttiva di ragioneria dell'Amministrazione civile dell'interno.
 
-2. Con effetto dal 1 aprile 1994 al personale della carriera direttiva di ragioneria dell'Amministrazione civile dell'Interno, compreso quello con qualifica dirigenziale, non compete l'indennita' di vacanza contrattuale di cui all'articolo 1.
+2. Con effetto dal 1 aprile 1994 al personale della carriera direttiva di ragioneria dell'Amministrazione civile dell'interno, compreso quello con qualifica dirigenziale, non compete l'indennita' di vacanza contrattuale di cui all'articolo 1.
 
 Art. 8
 ------
 
-1. Il presente decreto entra in vigore il giorno successivo a quello della sua pubblicazione nella Gazzetta Ufficiale della Repubblica italiana e sara' presentato alle Camere per la conversione in legge.
+1. Il presente decreto entra in vigore il giorno stesso della sua pubblicazione nella Gazzetta Ufficiale della Repubblica italiana e sara' presentato alle Camere per la conversione in legge.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserito nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 27 luglio 1994
+### Dato a Roma, addi' 27 settembre 1994
 
 SCALFARO
 
@@ -91,7 +93,7 @@ BERLUSCONI, Presidente del Consiglio dei Ministri
 
 URBANI, Ministro per la funzione pubblica e gli affari regionali
 
-MARONI, Ministro dell'interno
+MARTINO, Ministro degli affari esteri
 
 TREMONTI, Ministro delle finanze
 
@@ -102,6 +104,10 @@ POLI BORTONE, Ministro delle
 risorse agricole, alimentari e forestali
 
 PREVITI, Ministro della difesa
+
+GNUTTI, Ministro dell'industria, del commercio e dell'artigianato
+
+PODESTA', Ministro dell'universita' e della ricerca scientifica e tecnologica
 
 DINI, Ministro del tesoro
 

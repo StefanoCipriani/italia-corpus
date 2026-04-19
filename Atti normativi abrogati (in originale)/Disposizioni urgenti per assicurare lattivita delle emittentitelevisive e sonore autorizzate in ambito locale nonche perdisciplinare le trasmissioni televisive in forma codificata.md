@@ -1,15 +1,15 @@
-DECRETO-LEGGE 23 dicembre 1995 n. 545
+DECRETO-LEGGE 27 ottobre 1995 n. 443
 
 
-DECRETO-LEGGE 23 dicembre 1995 n. 545
-=====================================
+DECRETO-LEGGE 27 ottobre 1995 n. 443
+====================================
 
 Disposizioni urgenti per assicurare l'attivita' delle emittenti 
 televisive e sonore, autorizzate in ambito locale, nonche' per 
 disciplinare le trasmissioni televisive in forma codificata.
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Entrata in vigore del decreto: 28/12/1995.Decreto-Legge decaduto per mancata conversione.
+Entrata in vigore del decreto: 29-10-1995.Decreto-Legge decaduto per mancata conversione.
 
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
@@ -18,9 +18,9 @@ Visti gli [articoli 77](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:cost
 
 Ritenuta la straordinaria necessita' ed urgenza di emanare disposizioni per assicurare l'attivita' delle emittenti televisive e sonore, autorizzate in ambito locale, nonche' per disciplinare le trasmissioni televisive in forma codificata;
 
-Vista la deliberazione del Consiglio dei Ministri, adottata nella riunione del 21 dicembre 1995;
+Vista la deliberazione del Consiglio dei Ministri, adottata nella riunione del 27 ottobre 1995;
 
-Sulla proposta del Presidente del Consiglio dei Ministri e Ministro del tesoro e del Ministro delle poste e delle telecomunicazioni;
+Sulla proposta del Presidente del Consiglio dei Ministri e del Ministro delle poste e delle telecomunicazioni;
 
 E M A N A il seguente decreto-legge:
 
@@ -54,28 +54,21 @@ Trasmissioni in forma codificata
 Art. 3
 ------
 
-Decodificatori per trasmissioni via cavo e da satellite
-
-1. Sono vietate la costruzione, l'importazione, la commercializzazione e la distribuzione di decodificatori per trasmissioni da satellite o via cavo con accesso condizionato non conformi alle norme tecniche nazionali, dell'ETSI (European Telecommunication Standard Institute) e del CE/CENELEC (Comitato europeo di normazione/Comitato europeo di normazione elettrotecnica) in quanto applicabili. Le violazioni sono punite con una sanzione pecuniaria da uno a sessanta milioni, oltre la somma di lire ventimila per ciascuna apparecchiatura.
-
-Art. 4
-------
-
 Abrogazione
 
 1. E' abrogato il [comma 3 dell'articolo 3 del decreto-legge 27 agosto 1993, n. 323](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1993-08-27;323~art3-com3), convertito, con modificazioni, dalla [legge 27 ottobre 1993, n. 422](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-10-27;422).
 
-Art. 5
+Art. 4
 ------
 
 Entrata in vigore
 
-1. Il presente decreto entra in vigore il giorno stesso della sua pubblicazione nella Gazzetta Ufficiale della Repubblica italiana e sara' presentato alle Camere per la conversione in legge.
+1. Il presente decreto entra in vigore il giorno successivo a quello della sua pubblicazione nella Gazzetta Ufficiale della Repubblica italiana e sara' presentato alle Camere per la conversione in legge.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserito nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 23 dicembre 1995
+### Dato a Roma, addi' 27 ottobre 1995
 
 SCALFARO
 

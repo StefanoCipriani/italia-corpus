@@ -1,13 +1,13 @@
-DECRETO-LEGGE 30 novembre 1994 n. 660
+DECRETO-LEGGE 30 settembre 1994 n. 563
 
 
-DECRETO-LEGGE 30 novembre 1994 n. 660
-=====================================
+DECRETO-LEGGE 30 settembre 1994 n. 563
+======================================
 
 Interventi urgenti in materia di trasporti e di parcheggi.
 ----------------------------------------------------------
 
-Entrata in vigore del decreto: 1-12-1994.Decreto-Legge decaduto per mancata conversione.
+Entrata in vigore del decreto: 1/10/1994.Decreto-Legge decaduto per mancata conversione.
 
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
@@ -16,9 +16,9 @@ Visti gli [articoli 77](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:cost
 
 Ritenuta la straordinaria necessita' ed urgenza di emanare disposizioni in materia di trasporti e di parcheggi;
 
-Vista la deliberazione del Consiglio dei Ministri, adottata nella riunione del 29 novembre 1994;
+Vista la deliberazione del Consiglio dei Ministri, adottata nella riunione del 27 settembre 1994;
 
-Sulla proposta del Presidente del Consiglio dei Ministri e dei Ministri dei trasporti e della navigazione e del tesoro, di concerto con i Ministri del bilancio e della programmazione economica, dell'interno, dei lavori pubblici, per la funzione pubblica e gli affari regionali, dell'ambiente, per i beni culturali e ambientali e per la famiglia e la solidarieta' sociale;
+Sulla proposta del Presidente del Consiglio dei Ministri e dei Ministri dei trasporti e della navigazione e del tesoro, di concerto con i Ministri del bilancio e della programmazione economica, dell'interno, dei lavori pubblici, per la funzione pubblica e gli affari regionali, dell'ambiente, e per i beni culturali e ambientali e per la famiglia e la solidarieta' sociale;
 
 E M A N A il seguente decreto-legge:
 
@@ -37,13 +37,13 @@ Il contributo viene erogato agli enti locali e alle aziende aventi diritto trami
 
 4. Ai soli fini dell'attribuzione del contributo di cui al comma 2, i disavanzi di cui al comma 1, risultanti dai conti consuntivi dei servizi pubblici debitamente approvati, ovvero dai bilanci delle imprese private redatti ed approvati ai sensi del libro V, titolo V, capo V, sezione IX, del [codice civile](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262), sono rideterminati in conformita' ai criteri adottati per l'applicazione del [decreto-legge 9 dicembre 1986, n. 833](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1986-12-09;833), convertito, con modificazioni, dalla [legge 6 febbraio 1987, n. 18](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1987-02-06;18), con particolare riferimento a quelli concernenti gli ammortamenti, gli accantonamenti per il trattamento di fine rapporto e lo scorporo, per le aziende miste, dei dati gestionali afferenti a servizi diversi da quelli del trasporto pubblico locale. Per le aziende non dotate per legge di organo di controllo interno, uno o piu' soggetti in possesso dei requisiti per l'iscrizione al registro di cui all'[articolo 1 del decreto legislativo 27 gennaio 1992, n. 88](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992-01-27;88~art1), esprimono un giudizio professionale sull'attendibilita' dei dati cosi' rideterminati e sulla loro capacita' di rappresentare le situazioni patrimoniali, le situazioni finanziarie ed i risultati economici conseguiti dalle aziende.
 
-5. Ai fini dell'assegnazione del contributo di cui al comma 2, le regioni devono trasmettere, entro il termine del 28 febbraio 1995, al Ministero dei trasporti e della navigazione apposita certificazione da cui risulti l'ammontare dei disavanzi di cui al comma 1. Decorso il predetto termine, il contributo viene ripartito tra le sole regioni adempienti. Le modalita' per la struttura, la redazione e la presentazione delle certificazioni, sono stabilite con decreto del Ministro dei trasporti e della navigazione, di concerto con il Ministro del tesoro, da emanare entro il 31 dicembre 1994.
+5. Ai fini dell'assegnazione del contributo di cui al comma 2, le regioni devono trasmettere, entro il termine del 31 dicembre 1994, al Ministero dei trasporti e della navigazione apposita certificazione da cui risulti l'ammontare dei disavanzi di cui al comma 1. Decorso il predetto termine, il contributo viene ripartito tra le sole regioni adempienti. Le modalita' per la struttura, la redazione e la presentazione delle certificazioni, sono stabilite con decreto del Ministro dei trasporti e della navigazione, di concerto con il Ministro del tesoro, da emanare entro il 31 ottobre 1994.
 
 6. Il contributo e' erogato a condizione che il piano di riassorbimento dei disavanzi di cui al comma 1 risulti approvato dalla regione o dall'ente locale secondo le rispettive competenze. In ogni caso, il contributo e' sospeso qualora entro il 31 dicembre 1997 non siano stati effettuati i trasferimenti di competenza delle regioni e degli enti locali relativi ai disavanzi e risultanti dai piani di riassorbimento approvati. A tal fine non possono essere utilizzate plusvalenze che non derivino da effettive alienazioni di cespiti a terzi.
 
-7. Per l'esercizio 1996, l'erogazione del contributo e' sospesa per le aziende di trasporto che entro il 31 dicembre 1995 non abbiano conseguito un miglioramento del rapporto tra i proventi e i costi, rispetto a quello relativo al 1993, di almeno il 20 per cento della differenza percentuale mancante al raggiungimento del 35 per cento.
+7. Per l'esercizio 1996 l'erogazione del contributo e' sospesa per le aziende di trasporto che entro il 31 dicembre 1995 non abbiano conseguito un miglioramento del rapporto tra i proventi e i costi, rispetto a quello relativo al 1993, di almeno il 20 per cento della differenza percentuale mancante al raggiungimento del 35 per cento.
 
-8. La sospensione dell'erogazione del contributo di cui al comma 7 puo' valere per il periodo massimo di due anni. Qualora al termine di detto periodo sia accertato il mancato conseguimento del miglioramento del rapporto tra i proventi e i costi nelle misure previste al medesimo comma 7, viene meno per le aziende il diritto all'erogazione del contributo e il relativo importo e' utilizzato dalle regioni interessate per favorire l'adozione di interventi diretti ad aumentare l'efficienza del trasporto pubblico locale. Il diritto all'erogazione del contributo viene comunque meno qualora alla data del 31 dicembre 1995 il rapporto tra i proventi e i costi sia inferiore al 15 per cento.
+8. La sospensione dell'erogazione del contributo di cui al comma 7 puo' valere per il periodo massimo di due anni. Qualora al termine di detto periodo sia accertato il mancato conseguimento del miglioramento del rapporto tra i proventi e i costi nella misura prevista al medesimo comma 7, viene meno per le aziende il diritto all'erogazione del contributo e il relativo importo e' utilizzato dalle regioni interessate per favorire l'adozione di interventi diretti ad aumentare l'efficienza del trasporto pubblico locale. Il diritto all'erogazione del contributo viene comunque meno qualora alla data del 31 dicembre 1995 il rapporto tra i proventi e i costi sia inferiore al 15 per cento.
 
 9. A decorrere dall'anno 1997 le aziende di cui al comma 7 devono conseguire un miglioramento annuale del rapporto anzidetto di almeno due punti percentuali fino al raggiungimento del livello del 35 per cento.
 
@@ -58,7 +58,7 @@ Misure urgenti in materia di trasporti di competenza statale
 
 2. Sulla base dei piani di cui al comma 1, le aziende esercenti servizi ferroviari in regime di concessione o in gestione governativa, ad esclusione delle Ferrovie dello Stato S.p.a., sono autorizzate a contrarre mutui decennali per la copertura dei disavanzi di esercizio di cui al comma 1. I relativi oneri di ammortamento per capitale ed interessi sono a carico del bilancio dello Stato nel limite complessivo di lire 240 miliardi annue. Con decreto del Ministro del tesoro, da emanare entro il 30 novembre 1994, sono stabiliti le procedure, i criteri e le condizioni per la contrazione dei predetti mutui.
 
-3. I proventi delle aziende esercenti i servizi di cui al comma 1 non possono essere inferiori, nell'anno 1995, al 35 per cento dei costi del trasporto. Le aziende devono comunque conseguire entro il 31 dicembre 1995, un miglioramento del rapporto tra i proventi e i costi del trasporto, rispetto a quello relativo al 1993, di almeno il 20 per cento della differenza percentuale mancante al raggiungimento del 35 per cento.
+3. I proventi delle aziende esercenti i servizi di cui al comma 1 non possono essere inferiori, nell'anno 1995, al 35 per cento dei costi del trasporto. Le aziende devono comunque conseguire entro il 31 dicembre 1993 un miglioramento del rapporto tra i proventi e i costi del trasporto, rispetto a quello relativo al 1993, di almeno il 20 per cento della differenza percentuale mancante al raggiungimento del 35 per cento.
 
 4. Qualora si accerti il mancato conseguimento del miglioramento del rapporto tra i proventi e i costi del trasporto di cui al comma 3, le aziende perdono il diritto alle risorse finanziarie di cui al comma 2.
 
@@ -69,7 +69,7 @@ Art. 3
 
 Interventi urgenti a sostegno del trasporto marittimo pubblico
 
-1. Al fine di consentire il risanamento e un proficuo processo di privatizzazione delle societa' del gruppo Finmare, sono autorizzati gli interventi del Ministro del tesoro di cui al comma 2 diretti a ricapitalizzare le imprese del gruppo Finmare operanti nel settore dei trasporti marittimi su linee merci internazionali. Detti interventi sono preliminari alla definizione, da parte dei Ministri dei trasporti e della navigazione, del tesoro e del bilancio e della programmazione economica, di un piano di riordino delle societa' del gruppo Finmare da trasmettere al Parlamento prima dell'approvazione per l'espressione del parere da parte delle commissioni competenti per materia. Il piano, da sottoporre alla deliberazione del C.I.P.E., deve essere approvato entro il 31 dicembre 1994.
+1. Al fine di consentire il risanamento e un proficuo processo di privatizzazione delle societa' del gruppo Finmare, sono autorizzati gli interventi del Ministro del tesoro di cui al comma 2 diretti a ricapitalizzare le imprese del gruppo Finmare operanti nel settore dei trasporti marittimi su linee merci internazionali. Detti interventi sono preliminari alla definizione, da parte dei Ministri dei trasporti e della navigazione, del tesoro e del bilancio e della programmazione economica, di un piano di riordino delle societa' del gruppo Finmare da trasmettere al Parlamento prima dell'approvazione per l'espressione del parere da parte delle commissioni competenti per materia. Il piano deve essere approvato entro il 31 ottobre 1994.
 
 2. Per le finalita' di cui al comma 1, il Ministro del tesoro assume impegni pluriennali, con effetto dal 1994, corrispondenti alle rate di ammortamento dei mutui unitariamente contratti dal gruppo Finmare per l'acquisizione delle risorse occorrenti alla ricapitalizzazione e che sono corrisposte direttamente agli istituti bancari mutuanti. Per tale scopo sono autorizzati limiti di impegno decennale di lire 5 miliardi per ciascuno degli anni 1994 e 1995, al cui onere si provvede mediante corrispondente riduzione dello stanziamento iscritto, ai fini del bilancio triennale 1994-1996, al capitolo 6856 dello stato di previsione del Ministero del tesoro per l'anno 1994, parzialmente utilizzando l'accantonamento relativo al Ministero del tesoro.
 
@@ -85,11 +85,11 @@ Art. 4
 Parcheggi
 
 1. L'[articolo 9 della legge 24 marzo 1989, n. 122](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1989-03-24;122~art9), e' sostituito dal seguente:   
-"Art. 9. - 1. I proprietari di immobili possono realizzare nel sottosuolo degli stessi ovvero nei locali siti al piano terreno dei fabbricati, nei limiti delle quantita' di cui all'[articolo 41-sexies della legge 17 agosto 1942, n. 1150](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1942-08-17;1150~art41sexies), e successive modificazioni, parcheggi da destinare a pertinenza delle singole unita' immobiliari esistenti, anche in contrasto con gli strumenti urbanistici e con i regolamenti edilizi vigenti o adottati. Restano in ogni caso fermi i vincoli previsti dalla legislazione in materia paesaggistica ed ambientale ed i poteri attribuiti dalla medesima legislazione alle regioni ed ai Ministri dell'ambiente e per i beni culturali e ambientali, da esercitare motivatamente nel termine di novanta giorni.   
+"Art. 9. - 1. I proprietari di immobili possono realizzare nel sottosuolo degli stessi ovvero nei locali siti al piano terreno dei fabbricati, nei limiti delle quantita' di cui all'[articolo 41-sexies della legge 17 agosto 1942, n. 1150](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1942-08-17;1150~art41sexies), e successive modificazioni, parcheggi da destinare a pertinenza delle singole unita' immobiliari esistenti, anche in contrasto con gli strumenti urbanistici e con i regolamenti edilizi vigenti o adottati. Restano in ogni caso fermi i vincoli previsti dalla legislazione in materia paesaggistica ed ambientale ed i poteri attribuiti dalla medesima legislazione alle regioni ed ai Ministri dell'ambiente e per i beni culturali ed ambientali, da esercitare motivatamente nel termine di novanta giorni.   
 2. L'esecuzione delle opere e degli interventi previsti dal comma 1 e' soggetta ad autorizzazione gratuita. Qualora si tratti di interventi conformi agli strumenti urbanistici ed ai regolamenti edilizi vigenti o adottati, l'istanza per l'autorizzazione del sindaco ad eseguire lavori si intende accolta qualora il sindaco stesso non si pronunci nel termine di sessanta giorni dalla data della richiesta. In tal caso il richiedente puo' dar corso ai lavori dando comunicazione al sindaco del loro inizio.   
 3. Le deliberazioni che hanno per oggetto le opere e gli interventi di cui al comma 1 del presente articolo sono approvate dall'assemblea del condominio, in prima o seconda convocazione, con la maggioranza prevista dall'[articolo 1136, secondo comma, del codice civile](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art1136-com2). Resta fermo quanto disposto dagli [articoli 1120, secondo comma](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art1120-com2), e [1121, terzo comma, del codice civile](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art1121-com3).   
 4. Gli atti di trasferimento dei parcheggi possono essere disposti esclusivamente a favore di soggetti residenti o dimoranti nel territorio del comune. Gli atti di cessione a soggetti diversi sono nulli.   
-5. I comuni nell'ambito del programma urbano dei parcheggi possono concedere, previa determinazione dei relativi criteri, il diritto di superficie su aree comunali, purche' non ubicate in zone sottoposte ai vincoli di cui alla [legge 1 giugno 1939, n. 1089](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1939-06-01;1089), e successive modificazioni, per la realizzazione di parcheggi da destinare, fatto salvo quanto previsto dal presente articolo, comma 7, a pertinenza di immobili privati, nei limiti delle quantita' di cui all'[articolo 41-sexies della legge 17 agosto 1942, n. 1150](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1942-08-17;1150~art41sexies), e successive modificazioni. In attuazione di detta facolta' i comuni sono tenuti ad emanare entro il 30 settembre, con cadenza triennale, previo parere del consiglio di circoscrizione, un bando aperto a residenti o dimoranti nel territorio del comune, proprietari e non proprietari, e a societa' anche cooperative appositamente costituite tra gli stessi, secondo quanto previsto dal comma 7 del presente articolo. Nel bando devono essere specificati i criteri di assegnazione delle aree, avendo riguardo al ripristino ambientale; all'arredo urbano e ai collegamenti con la viabilita'; al numero dei mandanti o acquirenti; alle qualita' del progetto proposto; ai tempi di realizzazione; al programma di manutenzione. La domanda di ammissione alla assegnazione di aree per la realizzazione di parcheggi privati deve essere accompagnata da un progetto preliminare elaborato da un professionista iscritto all'albo di appartenenza, contenente schemi grafici ed una relazione concernente le soluzioni per la sicurezza statica in relazione all'indagine geologica; lo spostamento delle reti; i dispositivi di sicurezza; gli elementi conoscitivi e metodologici per la verifica e la tutela dei beni storici ed archeologici. Ai fini dell'assegnazione delle aree devono essere presentate idonee garanzie consistenti in una fidejussione bancaria sul cento per cento dell'importo dei lavori principali ed accessori, nonche' in una polizza assicurativa per danni agli edifici confinanti. In ogni caso, la costituzione del diritto di superficie e' subordinata alla stipula di una convenzione nella quale siano previsti:   
+5. I comuni nell'ambito del programma urbano dei parcheggi possono concedere, previa determinazione dei relativi criteri, il diritto di superficie su aree comunali, purche' non ubicate in zone sottoposte ai vincoli di cui alla [legge 1 giugno 1939, n. 1089](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1939-06-01;1089), e successive modificazioni, per la realizzazione di parcheggi da destinare, fatto salvo quanto previsto dal presente articolo, comma 7, a pertinenza di immobili privati, nei limiti delle quantita' di cui all'[articolo 41-sexies della legge 17 agosto 1942, n. 1150](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1942-08-17;1150~art41sexies), e successive modificazioni. In attuazione di detta facolta' i comuni sono tenuti ad emanare entro il trenta settembre, con cadenza triennale, previo parere del consiglio di circoscrizione, un bando aperto a residenti o dimoranti nel territorio del comune, proprietari e non proprietari, e a societa' anche cooperative appositamente costituite tra gli stessi, secondo quanto previsto dal comma 7 del presente articolo. Nel bando devono essere specificati i criteri di assegnazione delle aree, avendo riguardo al ripristino ambientale; all'arredo urbano e ai collegamenti con la viabilita'; al numero dei mandanti o acquirenti; alle qualita' del progetto proposto; ai tempi di realizzazione; al programma di manutenzione. La domanda di ammissione alla assegnazione di aree per la realizzazione di parcheggi privati deve essere accompagnata da un progetto preliminare elaborato da un professionista iscritto all'albo di appartenenza, contenente schemi grafici ed una relazione concernente le soluzioni per la sicurezza statica in relazione all'indagine geologica; lo spostamento delle reti; i dispositivi di sicurezza; gli elementi conoscitivi e metodologici per la verifica e la tutela dei beni storici ed archeologici. Ai fini dell'assegnazione delle aree devono essere presentate idonee garanzie consistenti in una fidejussione bancaria sul cento per cento dell'importo dei lavori principali ed accessori, nonche' in una polizza assicurativa per danni agli edifici confinanti. In ogni caso, la costituzione del diritto di superficie e' subordinata alla stipula di una convenzione nella quale siano previsti:   
 a) la durata della concessione del diritto di superficie per un periodo non superiore a novantanove anni;   
 b) il dimensionamento dell'opera ed il piano economico finanziario previsto per la sua realizzazione;   
 c) i tempi previsti per la progettazione esecutiva, la messa a disposizione delle aree necessarie e l'esecuzione dei lavori;   
@@ -97,7 +97,7 @@ d) i tempi e le modalita' per la verifica dello stato di attuazione, nonche' le 
 e) il corrispettivo della concessione del diritto di superficie;   
 f) il prezzo massimo di cessione dello spazio di parcheggio e i criteri di revisione di detto prezzo nel tempo.   
 6. Con decreto del Presidente del Consiglio dei Ministri o del Ministro da lui delegato per i problemi delle aree urbane sono determinate le modalita' di riparto delle concessioni tra le categorie degli aventi diritto. Le assegnazioni delle aree devono essere effettuate dalle amministrazioni comunali inderogabilmente entro il 31 dicembre dell'anno di emanazione del bando mediante stipula della convenzione di cui al comma 5.   
-7. Per ciascun intervento il diritto di superficie sul soprasuolo o sul sottosuolo di aree di proprieta' comunale per realizzare parcheggi, eventualmente non assegnato ai residenti o dimoranti proprietari o a societa' anche cooperative appositamente costituite tra gli stessi, puo' essere assegnato a residenti o comunque dimoranti nel territorio del comune non proprietari, anche riuniti in associazioni o cooperative. Qualora a richiedere la costituzione del diritto di superficie siano associazioni o cooperative di residenti o dimoranti non proprietari, i relativi parcheggi possono non essere destinati a pertinenza degli immobili privati. I membri delle predette associazioni o cooperative diventano in tal caso contitolari del diritto di superficie. Nel caso di cessazione del rapporto giuridico in forza del quale il residente o dimorante non proprietario godeva della porzione di fabbricato per il quale sia divenuto contitolare del diritto di superficie sui parcheggi, la quota di contitolarita' deve essere attribuita, nell'ordine, al proprietario della porzione di fabbricato, al nuovo utente a qualsiasi titolo di detta porzione, alla associazione o cooperativa costituita fra non proprietari. Il prezzo di cessione non potra' essere superiore a quello risultante dalla convenzione di cui al comma 5.   
+7. Per ciascun intervento il diritto di superficie sul soprasuolo o sul sottosuolo di aree di proprieta' comunale per realizzare parcheggi, eventualmente non assegnato ai residenti o dimoranti proprietari o a societa' anche cooperative appositamente costituite tra gli stessi, puo' essere assegnato a residenti o comunque dimoranti nel territorio del comune non proprietari, anche riuniti in associazioni o cooperative. Qualora a richiedere la costituzione del diritto di superficie siano associazioni o cooperative di residenti o dimoranti non proprietari, i relativi parcheggi possono non essere destinati a pertinenza degli immobili privati. I membri delle predette associazioni o cooperative diventano in tal caso contitolari del diritto di superficie. Nel caso di cessazione del rapporto giuridico in forza del quale il residente o dimorante non proprietario godeva della porzione di fabbricato per il quale sia divenuto contitolare del diritto di superficie sui parcheggi, la quota di contitolarita' deve essere attribuita, nell'ordine, al proprietario della porzione di fabbricato, al nuovo utente a qualsiasi titolo di detta porzione, alla associazione o cooperativa costituita fra non proprietari. Il prezzo di cessione non potra' essere superiore a quello risultante della convenzione di cui al comma 5.   
 8. Le opere di cui al comma 5 sono soggette ad autorizzazione gratuita.   
 9. I parcheggi realizzati ai sensi del presente articolo non possono subire modificazioni nella destinazione d'uso.   
 10. Le opere e gli interventi di cui ai commi 1 e 5, effettuati da enti o imprese di assicurazione, sono equiparati, ai fini della copertura delle riserve tecniche, ad immobili ai sensi degli [articoli 32](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1986-10-22;742~art32) e [86 della legge 22 ottobre 1986, n. 742](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1986-10-22;742~art86), e successive modificazioni.".
@@ -114,7 +114,7 @@ f) il prezzo massimo di cessione dello spazio di parcheggio e i criteri di revis
 
 7. Nel caso di parcheggi di tipo meccanizzato per i quali i posti auto siano utilizzati in maniera promiscua dai diversi proprietari, allo scopo di definire a livello catastale il rapporto di pertinenzialita' tra il parcheggio e gli immobili, il condominio assegna in modo convenzionale ciascun posto auto ad un determinato proprietario, ferma restando a livello di regolamento la facolta' di uso comune dell'intera struttura.
 
-8. All'[articolo 4, comma 2, della legge 24 marzo 1989, n. 122](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1989-03-24;122~art4-com2), e' aggiunto, in fine, il seguente periodo: "Il contributo di cui al comma 1 resta determinato sulla base degli elementi previsti dall'articolo 3, comma 3, anche nel caso di scostamenti rispetto alle previsioni di entrata indicate nel piano economico finanziario".
+8. All'[articolo 4, comma 2, della legge 24 marzo 1989, n. 122](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1989-03-24;122~art4-com2), e' aggiunto, in fine, il seguente periodo: "Il contributo di cui al comma 1 resta determinato sulla base degli elementi previsti dall'articolo 3, comma 3, anche nel caso di scostamenti rispetto alle previsioni di entrata indicate nel piano economico finanziario.".
 
 Art. 5
 ------
@@ -134,13 +134,13 @@ Trasporti rapidi di massa
 
 1. Il Ministro dei trasporti e della navigazione, con proprio decreto da emanare entro il termine di sessanta giorni dalla data di entrata in vigore del presente decreto, provvede al coordinamento degli interventi di cui all'[articolo 2, comma 3, della legge 22 dicembre 1986, n. 910](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1986-12-22;910~art2-com3), e di quelli di cui alla [legge 26 febbraio 1992, n. 211](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1992-02-26;211), al fine di assicurare l'unitaria definizione dei trasporti rapidi di massa.
 
-2. Al fine di cui al comma 1, il Ministro dei trasporti e della navigazione si avvale di una commissione di alta vigilanza. La commissione e' composta dai seguenti membri, nominati dal Ministro dei trasporti e della navigazione:
+2. Al fine di cui al comma 1, il Ministro dei trasporti e della navigazione si avvale di una commissione di alta vigilanza. La commissione e' composta dai seguenti membri nominati dal Ministro dei trasporti e della navigazione:
 
 a) un avvocato dello Stato;
 
 b) un presidente di sezione del Consiglio superiore dei lavori pubblici;
 
-c) due dirigenti generali del Ministero dei trasporti e della navigazione, uno dei lavori pubblici ed uno del Ministero del bilancio e della programmazione economica;
+c) due dirigenti generali del Ministero dei trasporti e della navigazione ed uno dei lavori pubblici;
 
 d) tre esperti in materia di trasporti;
 
@@ -148,7 +148,7 @@ e) un rappresentante della Conferenza permanente per i rapporti tra lo Stato, le
 
 3. Sono soppresse la commissione costituita con decreto del Ministro dei trasporti del 20 luglio 1989 per la vigilanza sull'esecuzione dei lavori di cui all'[articolo 2, comma 3, della legge 22 dicembre 1986, n. 910](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1986-12-22;910~art2-com3), e la commissione di cui all'[articolo 6 della legge 26 febbraio 1992, n. 211](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1992-02-26;211~art6).
 
-4. Ferma restando l'autorizzazione di cui all'[articolo 1 della legge 23 dicembre 1963, n. 1855](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1963-12-23;1855~art1), e all'[articolo 1, comma 7-ter, del decreto-legge 4 marzo 1989, n. 77](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1989-03-04;77~art1-com7ter), convertito, con modificazioni, dalla [legge 5 maggio 1989, n. 160](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1989-05-05;160), nonche' le disposizioni di cui al [regio decreto-legge 4 giugno 1936, n. 1336](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1936-06-04;1336), convertito dalla [legge 28 dicembre 1936, n. 2424](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-12-28;2424), il Ministro dei trasporti e della navigazione ha facolta' di nominare i commissari e i vice commissari governativi anche tra persone estranee alla Direzione generale della motorizzazione civile e dei trasporti in concessione, di provata capacita' e professionalita'.
+4. Ferma restando l'autorizzazione di cui all'[articolo 1 della legge 23 dicembre 1963, n. 1855](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1963-12-23;1855~art1), e all'[articolo 1, comma 7-ter, del decreto-legge 4 marzo 1989, n. 77](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1989-03-04;77~art1-com7ter), convertito, con modificazioni, dalla [legge 5 maggio 1989, n. 160](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1989-05-05;160), nonche' le disposizioni di cui al [regio decreto-legge 4 giugno 1936, n. 1336](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1936-06-04;1336), convertito dalla [legge 28 dicembre 1936, n. 2424](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-12-28;2424), il Ministro dei trasporti e della navigazione ha facolta' di nominare i commissari e i vice commissari governativi anche tra persone estranee alla Direzione generale della motorizzazione civile e dei trasporti in concessione di provata capacita' e professionalita'.
 
 Art. 7
 ------
@@ -168,7 +168,7 @@ Art. 8
 
 Interporti
 
-1. In attesa dell'adozione del piano quinquennale degli interporti di cui all'[articolo 2 della legge 4 agosto 1990, n. 240](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-08-04;240~art2), come modificato dal comma 3, il Ministro dei trasporti e della navigazione definisce con proprio decreto, da emanare entro sessanta giorni dalla data di entrata in vigore del presente decreto, i tempi e le modalita' per la presentazione delle domande per l'ammissione ai contributi di cui alla citata [legge n. 240 del 1990](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990;240). Ai fini dell'ammissione ai contributi, gli interporti dovranno corrispondere ai seguenti requisiti:
+1. In attesa dell'adozione del piano quinquennale degli interporti di cui all'[articolo 2 della legge 4 agosto 1990, n. 240](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-08-04;240~art2), come modificato dal comma 3, il Ministro dei trasporti e della navigazione definisce, con proprio decreto da emanare entro sessanta giorni dalla data di entrata in vigore del presente decreto, i tempi e le modalita' per la presentazione delle domande per l'ammissione ai contributi di cui alla citata [legge n. 240 del 1990](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990;240). Ai fini dell'ammissione ai contributi, gli interporti dovranno corrispondere ai seguenti requisiti:
 
 a) dovranno dar vita ad una rete che riequilibri la dotazione interportuale nazionale in un contesto di rete logistica che faccia riferimento agli scambi con la rete comunitaria e con Paesi terzi;
 
@@ -223,83 +223,16 @@ Art. 9
 Visite mediche periodiche di accertamento della persistenza   
 dell'idoneita' psico-fisica per i titolari di licenze ed attestati aeronautici.
 
-1. A decorrere dal 1 agosto 1994 le visite mediche di seconda e terza classe intese ad accertare la persistenza dell'idoneita' psico-fisica per i titolari di licenze ed attestati aeronautici possono essere effettuate, oltre che presso uno degli istituti medico legali dell'Aeronautica militare, presso uno degli uffici di sanita' marittima ed aerea del Ministero della sanita' - Servizio assistenza sanitaria al personale navigante, ovvero presso un medico militare dell'Aeronautica militare o un medico specializzato in medicina aeronautica, spaziale o sportiva anche se sprovvisti della prevista autorizzazione ministeriale. In ogni caso le visite dovranno svolgersi in conformita' ai requisiti psico-fisici fissati dall'organizzazione dell'Aviazione civile internazionale (OACI). Gli organi sanitari o i sanitari che hanno proceduto all'accertamento dell'idoneita' psico-fisica rilasciano all'interessato un certificato attestante l'idoneita', ovvero la non idoneita', in duplice copia, una delle quali e' trasmessa dall'interessato, con lettera raccomandata, al Ministero dei trasporti e della navigazione - Direzione generale dell'aviazione civile entro sette giorni dal rilascio. Il certificato e' documento valido ai fini del rinnovo delle licenze e degli attestati.
+1. In attesa della concessione da parte del Ministero della sanita' delle autorizzazioni all'effettuazione delle visite di accertamento per gli aspiranti ed i titolari di licenze ed attestati aeronautici, a decorrere dal 1 agosto 1994 le visite mediche di seconda e terza classe intese ad accertare la persistenza dell'idoneita' psico-fisica per i titolari di licenze ed attestati aeronautici possono essere effettuate, oltre che presso uno degli istituti medico legali dell'Aeronautica militare, presso uno degli uffici di sanita' marittima ed aerea del Ministero della sanita', servizio assistenza sanitaria al personale navigante, ovvero presso un medico militare dell'Aeronautica militare o un medico specializzato in medicina aeronautica o spaziale anche se sprovvisti della prevista autorizzazione ministeriale. In ogni caso le visite dovranno svolgersi in conformita' ai requisiti psico-fisici fissati dall'organizzazione dell'Aviazione civile internazionale (OACI). Gli organi sanitari o i sanitari che hanno proceduto all'accertamento dell'idoneita' psico-fisica rilasciano all'interessato un certificato attestante l'idoneita', ovvero la non idoneita', in duplice copia, una delle quali e' trasmessa dall'interessato, con lettera raccomandata, al Ministero dei trasporti e della navigazione - Direzione generale dell'aviazione civile, entro sette giorni dal rilascio. Il certificato e' documento valido ai fini del rinnovo delle licenze e degli attestati.
 
 Art. 10
 -------
 
-Procedure di approvazione di progetti di opere concernenti reti ferroviarie o di impianti aeroportuali
+Disposizioni in materia di barriere architettoniche sugli impianti di balneazione
 
-1. Il termine di cui all'[articolo 7 della legge 15 dicembre 1990, n. 385](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-12-15;385~art7), e' prorogato fino al 31 dicembre 1994.
+1. Ferme restando le disposizioni di cui all'[articolo 9 del decreto-legge 5 ottobre 1993, n. 400](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1993-10-05;400~art9), convertito, con modificazioni, dalla [legge 4 dicembre 1993, n. 494](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-12-04;494), per gli impianti di balneazione gia' in costruzione alla data di entrata in vigore del presente decreto, le opere dirette ad eliminare le barriere architettoniche di cui all'[articolo 23 della legge 5 febbraio 1992, n. 104](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1992-02-05;104~art23), non sono soggette ad autorizzazione o a concessione edilizia.
 
 Art. 11
--------
-
-Disposizioni particolari in materia di certificati di abilitazione professionale
-
-1. Il termine del 1 luglio 1994 di cui all'[articolo 116, comma 8, del decreto legislativo 30 aprile 1992, n. 285](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992-04-30;285~art116-com8), come integrato dall'[articolo 57, comma 1, lettera d), del decreto legislativo 10 settembre 1993, n. 360](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-09-10;360~art57-com1-letd), concernente il rilascio del certificato del tipo K.E. ai conducenti di veicoli adibiti a servizi di emergenza senza sostenere il relativo esame, e' prorogato al 31 marzo 1995.
-
-Art. 12
--------
-
-Gestione governativa delle ferrovie della Sardegna
-
-1. La gestione governativa delle ferrovie della Serdegna per conto diretto dello Stato, istituita in applicazione dell'[articolo 18 della legge 2 agosto 1952, n. 1221](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1952-08-02;1221~art18), e' prorogata fino all'attuazione delle disposizioni di cui all'[articolo 2 della legge 15 dicembre 1990, n. 385](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-12-15;385~art2).
-
-Art. 13
--------
-
-Modificazione di norme discriminatrici nei confronti di titolari di patente di guida italiana
-
-1. All'[articolo 117 del decreto legislativo 30 aprile 1992, n. 285](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992-04-30;285~art117), cosi' come modificato dal [decreto legislativo 10 settembre 1993, n. 360](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-09-10;360), sono apportate le seguenti modificazioni:
-
-a) il comma 2 e' sostituito dal seguente:   
-" 2. Per i primi tre anni dal conseguimento della patente di categoria B non e' consentito il superamento della velocita' di 100 km/h per le autostrade e di 90 km/h per le strade extraurbane principali.";
-
-b) al comma 4, primo periodo, dopo le parole: "alla guida" sono inserite le seguenti: "e alla velocita'" ed e' soppresso l'ultimo periodo;
-
-c) al comma 5 dopo le parole: "limiti di guida" sono inserite le seguenti: "e di velocita'".
-
-2. All'[articolo 316 del decreto del Presidente della Repubblica 16 dicembre 1992, n. 495](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1992-12-16;495~art316), sono apportate le seguenti modificazioni:
-
-a) e' soppresso l'ultimo periodo del comma 1;
-
-b) al comma 2 sono soppresse le parole: "degli autoveicoli e";
-
-c) e' soppresso il comma 3.
-
-3. Non sono punibili le infrazioni per violazione dell'[articolo 117, comma 4, del decreto legislativo 30 aprile 1992, n. 285](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992-04-30;285~art117-com4), cosi' come modificato dal [decreto legislativo 30 aprile 1993, n. 360](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-04-30;360), vigente prima della data di entrata in vigore della modifica approvata dal presente articolo.
-
-4. I possessori di ciclomotori gia' in circolazione debbono dotarsi entro il 31 marzo 1995 del contrassegno di identificazione di cui all'[articolo 97 del codice della strada](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992-04-30;285~art97), approvato con [decreto legislativo 30 aprile 1992, n. 285](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992-04-30;285), come modificato dal [decreto legislativo 10 settembre 1993, n. 360](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-09-10;360).
-
-Art. 14
--------
-
-Conservazione di somme nel bilancio dello Stato
-
-1. Le somme iscritte nello stato di previsione del Ministero dei trasporti e della navigazione per l'esercizio finanziario 1993 in conto residui e i conto competenza sui capitoli 7501 e 7509, in essere al 31 dicembre del medesimo anno, sono mantenute in bilancio per gli esercizi 1994 e 1995.
-
-2. Le disponibilita' del capitolo 7212 in conto residui del bilancio del Ministero dei trasporti per il 1993, non impegnate entro tale anno possono esserlo nell'anno successivo.
-
-3. Le disponibilita' dei capitoli 1574, 2557 e 7502 del bilancio del Ministero dei trasporti non impegnate entro il 31 dicembre 1993, possono esserlo nell'anno successivo.
-
-Art. 15
--------
-
-Ferrovie dello Stato S.p.a.
-
-1. Ai fini dell'attuazione dell'[articolo 1, comma 43, della legge 24 dicembre 1993, n. 537](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-12-24;537~art1-com43), il trattamento relativo alla cessazione del rapporto di lavoro per i ferrovieri iscritti alla data del 31 maggio 1994 all'Opera di previdenza e assistenza per i ferrovieri dello Stato (OPAFS), e' regolato dalla [legge 14 dicembre 1973, n. 829](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1973-12-14;829). La societa' Ferrovie dello Stato S.p.a. subentra all'OPAFS anche nei rapporti attivi e passivi di cui all'[articolo 5 della legge 29 gennaio 1994, n. 87](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-01-29;87~art5).
-
-Art. 16
--------
-
-Aggiornamento carte circolazione
-
-1. Il termine previsto per l'adempimento dell'obbligo di aggiornamento delle carte di circolazione degli autoveicoli che hanno l'obbligo dell'installazione del limitatore di velocita', come previsto dal [decreto del Ministro dei trasporti e della navigazione in data 30 marzo 1994, pubblicato nel supplemento ordinario alla Gazzetta Ufficiale n. 99 del 30 aprile 1994](http://www.gazzettaufficiale.it/gazzetta/serie_generale/caricaDettaglio?dataPubblicazioneGazzetta=1994-04-30&numeroGazzetta=99), di attuazione della [direttiva 92/6/CEE, del Consiglio del 10 febbraio 1992](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:31992L0006), relativa al montaggio ed all'impiego dei limitatori di velocita' per alcune categorie di veicoli, e' prorogato fino al termine di scadenza della revisione per l'anno 1995 prevista per ciascun autoveicolo.
-
-2. Con decreto del Ministro dei trasporti e della navigazione e' stabilita la certificazione da esibire ai fini del controllo, con riferimento alla proroga del termine di cui al comma 1.
-
-Art. 17
 -------
 
 Entrata in vigore
@@ -309,7 +242,7 @@ Entrata in vigore
 Il presente decreto, munito del sigillo dello Stato, sara' inserito nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 30 novembre 1994
+### Dato a Roma, addi' 30 settembre 1994
 
 SCALFARO
 

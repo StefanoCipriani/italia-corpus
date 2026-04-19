@@ -1,7 +1,7 @@
-DECRETO-LEGGE 21 luglio 1987 n. 296
+DECRETO-LEGGE 22 maggio 1987 n. 200
 
 
-DECRETO-LEGGE 21 luglio 1987 n. 296
+DECRETO-LEGGE 22 maggio 1987 n. 200
 ===================================
 
 Adattamento della capacita' di produzione della flotta peschereccia 
@@ -20,9 +20,9 @@ Visti gli [articoli 77](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:cost
 
 Ritenuta la straordinaria necessita' ed urgenza di adottare immediate misure per l'adattamento della capacita' di produzione della flotta peschereccia italiana alle possibilita' di cattura mediante ritiro definitivo del naviglio e fermo temporaneo delle navi adibite alla pesca marittima, nonche' interventi urgenti in materia di gestione finanziaria degli enti portuali;
 
-Vista la deliberazione del Consiglio dei Ministri, adottata nella riunione del 20 luglio 1987;
+Vista la deliberazione del Consiglio dei Ministri, adottata nella riunione del 22 maggio 1987;
 
-Sulla proposta del Presidente del Consiglio dei Ministri e del Ministro della marina mercantile, di concerto con i Ministri del tesoro e, ad interim, del bilancio e della programmazione economica e delle finanze;
+Sulla proposta del Presidente del Consiglio dei Ministri e del Ministro della marina mercantile, di concerto con i Ministri del tesoro, del bilancio e della programmazione economica e delle finanze;
 
 EMANA
 -----
@@ -63,13 +63,13 @@ Art. 3
 Art. 4
 ------
 
-1. Con decreto del Ministro della marina mercantile, sentito il Comitato nazionale per la conservazione e la gestione delle risorse biologiche del mare, di cui all'[articolo 3 della legge 17 febbraio 1982, n. 41](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1982-02-17;41~art3), sono stabilite le norme di attuazione per il fermo temporaneo previsto dalla [direttiva CEE n. 515 del 4 ottobre 1983](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:31983L0515) e successive norme della Comunita' economica europea e dal presente decreto. In particolare il predetto decreto ministeriale stabilisce:
+1. Con decreto del Ministro della marina mercantile, sentito il Comitato nazionale per la conservazione e la gestione delle risorse biologiche del mare, di cui all'[articolo 3 della legge 17 febbraio 1982, n. 41](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1982-02-17;41~art3), sono stabilite le norme di attuazione per il fermo temporaneo previsto dalla [direttiva CEE n. 515 dei 4 ottobre 1983](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:31983L0515) e successive norme della Comunita' economica europea e dal presente decreto. In particolare il predetto decreto ministeriale stabilisce:
 
 a) i sistemi di pesca che possono operare il fermo temporaneo. A tal fine il Ministero acquisira' anche il parere preventivo del comitato tecnico-scientifico di cui all'[articolo 6 della legge 17 febbraio 1982, n. 41](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1982-02-17;41~art6);
 
 b) l'entita' del premio per il fermo temporaneo nei limiti fissati dalla direttiva comunitaria;
 
-c) i periodi dell'anno nei quali il fermo temporaneo deve essere effettuato. Tali periodi possono essere differenziati per compartimento marittimo ovvero per piu' estese aree di pesca, con eventuale turno di fermo tra le navi che operano nel medesimo compartimento o arca;
+c) i periodi dell'anno nei quali il fermo temporaneo deve essere effettuato. Tali periodi possono essere differenziati per compartimento marittimo ovvero per piu' estese aree di pesca, con eventuale turno di fermo tra le navi che operano nel medesimo compartimento o area;
 
 d) le aree di pesca considerate con priorita' in relazione inversa allo sforzo di pesca che vi viene esercitato;
 
@@ -80,7 +80,7 @@ f) eventuali altre modalita' ed adempimenti necessari per l'attuazione del prese
 Art. 5
 ------
 
-1. Alla determinazione dell'onere di spettanza nazionale relativo all'applicazione dei [regolamenti CEE numeri 355/77](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:31977R0355), [2908/83](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:31983R2908), [2909/83](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:31983R2909), [3722/85](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:31985R3722) e [4028/86](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:31986R4028), concernenti azioni comunitarie per il miglioramento e l'adeguamento delle strutture nel settore della pesca e dell'acquacoltura, si provvede, fino alla data di inizio della operativita' del fondo di rotazione di cui all'[articolo 5 della legge 16 aprile 1987, n. 183](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1987-04-16;183~art5), con decreto del Ministro del tesoro, su proposta del Ministro della marina mercantile.
+1. Alla determinazione dell'onere di spettanza nazionale relativo all'applicazione dei [regolamenti CEE numeri 355/77](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:31977R0355), [2908/83](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:31983R2908), [2909/83](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:31983R2909), [3722/85](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:31985R3722) e [4028/86](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:31986R4028), concernenti azioni comunitarie per il miglioramento e l'adeguamento delle strutture nel settore della pesca e dell'acquacoltura, si provvede, fino alla data di inizio della operativita' del fondo di rotazione di cui all'[articolo 5 della legge 13 maggio 1987, n. 183](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1987-05-13;183~art5), con decreto del Ministro del tesoro, su proposta del Ministro della marina mercantile.
 
 2. Con lo stesso decreto di cui al comma 1 viene disposto il prelievo delle somme occorrenti dal conto corrente infruttifero di cui alla [legge 3 ottobre 1977, n. 863](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1977-10-03;863).
 
@@ -89,12 +89,12 @@ Art. 6
 
 1. Non si fa luogo a quanto previsto dagli articoli 3, terzo comma, rispettivamente delle [leggi 29 novembre 1980, n. 842, 27 aprile 1981, n. 243, e 6 aprile 1982, n. 183](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1982-04-06;183), concernenti la ratifica e l'esecuzione degli scambi di note tra l'Italia e la Jugoslavia per la proroga, rispettivamente al 31 dicembre 1978, al 31 dicembre 1979 e al 31 dicembre 1980, dell'accordo di pesca firmato a Belgrado il 15 giugno 1973.
 
-2. L'onere derivante dall'attuazione del presente articolo e' determinato in lire 434 milioni per l'anno 1987.
+2. L'onere derivante dall'attuazione del presente articolo, e' determinato in lire 434 milioni per l'anno 1987.
 
 Art. 7
 ------
 
-1. Per il potenziamento e lo sviluppo dei programmi di ricerca dell'Istituto centrale per la ricerca scientifica e tecnologica applicata alla pesca marittima il contributo ordinario dello Stato, previsto dall'[articolo 9 della legge 17 febbraio 1982, n. 41](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1982-02-17;41~art9), e' integrato di lire 1.200 milioni per l'anno 1987, di lire 2.200 milioni per l'anno 1988 e di lire 3.200 milioni per l'anno 1989.
+1. Per il potenziamento e lo sviluppo dei programmi di ricerca dell'Istituto centrale di ricerca applicata alla pesca il contributo ordinario dello Stato, previsto dall'[articolo 9 della legge 17 febbraio 1982, n. 41](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1982-02-17;41~art9), e' integrato di lire 1.200 milioni per l'anno 1987, di lire 2.200 milioni per l'anno 1988 e di lire 3.200 milioni per l'anno 1989.
 
 Art. 8
 ------
@@ -104,7 +104,7 @@ Art. 8
 Art. 9
 ------
 
-1. Al complessivo onere di L. 45.000.000.000 per l'anno 1987 derivante dall'applicazione degli articoli 1 e 3 del presente decreto si provvede, quanto a L. 24.350.000.000, a carico dello stanziamento iscritto al capitolo 9001 dello stato di previsione del Ministero del tesoro per l'anno 1986, all'uopo parzialmente utilizzando lo specifico accantonamento, e quanto a L. 20.650.000.000, mediante corrispondente riduzione del medesimo: stanziamento per l'anno finanziario 1987, all'uopo utilizzando parzialmente lo stesso accantonamento.
+1. Al complessivo onere di L. 45.000.000.000 per l'anno 1987 derivante dall'applicazione degli articoli 1 e 3 del presente decreto si provvede, quanto a L. 24.350.000.000, a carico dello stanziamento iscritto al capitolo 9001 dello stato di previsione del Ministero del tesoro per l'anno 1986, all'uopo parzialmente utilizzando lo specifico accantonamento e quanto a L. 20.650.000.000, mediante corrispondente riduzione del medesimo stanziamento per l'anno finanziario 1987, all'uopo utilizzando parzialmente lo stesso accantonamento.
 
 2. All'onere derivante dall'attuazione degli articoli 6 e 7 del presente decreto, determinato in complessive lire 1.634 milioni per l'anno 1987, lire 2.200 milioni per l'anno 1988 e lire 3.200 milioni per l'anno 1989, si provvede mediante corrispondente riduzione dello stanziamento iscritto, ai fini del bilancio triennale 1987-1989, al capitolo 9001 dello stato di previsione del Ministero del tesoro per l'anno 1987, all'uopo parzialmente utilizzando l'accantonamento "Rifinanziamento della [legge n. 41/1982](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1982;41) concernente il piano per la razionalizzazione e lo sviluppo della pesca marittima".
 
@@ -130,9 +130,9 @@ c) Consorzio autonomo del porto di Civitavecchia: lire 500 milioni.
 Art. 11
 -------
 
-1. A decorrere dalla data di entrata in vigore del presente decreto le misure della tassa erariale sulle merci imbarcate e sbarcate nei porti, nelle rade e nelle spiagge dello Stato, istituita dal [primo comma dell'articolo 2 del decreto-legge 28 febbraio 1974, n. 47](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1974-02-28;47~art2-com1), convertito, con modificazioni, dalla [legge 16 aprile 1974, n. 117](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1974-04-16;117), sono aumentate del 50 per cento rispetto a quelle determinate con l'[articolo 6 della legge 1 dicembre 1981, n. 692](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1981-12-01;692~art6), di conversione, con modificazioni, del [decreto-legge 2 ottobre 1981, n. 546](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1981-10-02;546). Tale aumento non si applica nei porti ubicati nel Mezzogiorno e nelle isole, nonche' per il traffico di cabotaggio.
+1. A decorrere dalla data di entrata in vigore del presente decreto le misure della tassa erariale sulle merci imbarcate e sbarcate nei porti, nelle rade e nelle spiagge dello Stato, istituita dal [primo comma dell'articolo 2 del decreto-legge 28 febbraio 1974, n. 47](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1974-02-28;47~art2-com1), convertito, con modificazioni, dalla [legge 16 aprile 1974, n. 117](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1974-04-16;117), sono aumentate del 50 per cento rispetto a quelle determinate con l'[articolo 6 del decreto-legge 2 ottobre 1981, n. 546](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1981-10-02;546~art6), convertito, con modificazioni, dalla [legge 1 dicembre 1981, n. 692](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1981-12-01;692). Tale aumento non si applica nei porti ubicati nel Mezzogiorno e nelle isole, nonche' per il traffico di cabotaggio.
 
-2. Al fine di tener conto del ruolo internazionale del porto franco di Trieste, in attesa della definizione di accordi con gli Stati confinanti in merito alla utilizzazione del porto stesso l'aumento di cui al comma 1 non si applica altresi' detto scalo.
+2. Al fine di tener conto del ruolo internazionale del porto franco di Trieste, in attesa della definizione di accordi con gli Stati confinanti in merito alla utilizzazione del porto stesso, l'aumento di cui al comma 1 non si applica altresi' in detto scalo.
 
 3. Sono esenti dalla tassa erariale e da quella portuale di cui al [primo](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1974-02-28;47~art2-com1) e [secondo comma dell'articolo 2 del decreto-legge 28 febbraio 1974, n. 47](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1974-02-28;47~art2-com2), convertito, con modificazioni, dalla [legge 16 aprile 1974, n. 117](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1974-04-16;117), e successive modificazioni, tutte le merci caricate sui carri ferroviari e sui veicoli che accedono alle navi traghetto adibite ai collegamenti marittimi tra porti nazionali.
 
@@ -145,12 +145,12 @@ Art. 11
 Art. 12
 -------
 
-1. Il presente decreto entra in vigore il giorno successivo a quello della sua pubblicazione nella Gazzetta Ufficiale della Repubblica italiana e sara' presentato alle Camere per la conversione in legge.
+1. Il presente decreto entra in vigore il giorno stesso della sua pubblicazione nella Gazzetta Ufficiale della Repubblica italiana e sara' presentato alle Camere per la conversione in legge.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserito nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 21 luglio 1987
+### Dato a Roma, addi' 22 maggio 1987
 
 COSSIGA
 
@@ -158,7 +158,7 @@ FANFANI, Presidente del Consiglio dei Ministri
 
 DEGAN, Ministro della marina mercantile
 
-GORIA, Ministro del tesoro e, ad
+GORIA, Ministro del tesoro, e ad
 
 interim, del bilancio e della programmazione economica
 
@@ -166,6 +166,6 @@ GUARINO, Ministro delle finanze
 
 Visto, il Guardasigilli: ROGNONI
 
-Registrato alla Corte dei conti, addi' 22 luglio 1987
+Registrato alla Corte dei conti, addi' 23 maggio 1987
 
-Atti di Governo, registro n. 68, foglio n. 14
+Atti di Governo, registro n. 65, foglio n. 26

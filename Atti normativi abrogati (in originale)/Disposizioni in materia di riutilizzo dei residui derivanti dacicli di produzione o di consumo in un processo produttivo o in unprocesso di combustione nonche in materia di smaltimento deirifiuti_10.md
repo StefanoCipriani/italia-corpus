@@ -1,8 +1,8 @@
-DECRETO-LEGGE 08 novembre 1995 n. 463
+DECRETO-LEGGE 03 maggio 1996 n. 246
 
 
-DECRETO-LEGGE 08 novembre 1995 n. 463
-=====================================
+DECRETO-LEGGE 03 maggio 1996 n. 246
+===================================
 
 Disposizioni in materia di riutilizzo dei residui derivanti da 
 cicli di produzione o di consumo in un processo produttivo o in un 
@@ -10,7 +10,7 @@ processo di combustione, nonche' in materia di smaltimento dei
 rifiuti.
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Entrata in vigore del decreto: 9/11/1995.Decreto-Legge decaduto per mancata conversione.
+Entrata in vigore del decreto: 9/5/1996.Decreto-Legge decaduto per mancata conversione.
 
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
@@ -19,9 +19,9 @@ Visti gli [articoli 77](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:cost
 
 Ritenuta la straordinaria necessita' ed urgenza di emanare disposizioni in materia di riutilizzo in un ciclo di produzione o in un ciclo di combustione dei residui derivanti dai cicli di produzione e di consumo;
 
-Vista la deliberazione del Consiglio dei Ministri, adottata nella riunione del 7 novembre 1995;
+Vista la deliberazione del Consiglio dei Ministri, adottata nella riunione del 2 maggio 1996;
 
-Sulla proposta del Presidente del Consiglio dei Ministri e Ministro del tesoro e, ad interim, Ministro di grazia e giustizia e del Ministro dei lavori pubblici e dell'ambiente, di concerto con i Ministri della sanita', delle finanze, per la funzione pubblica e gli affari regionali e dell'industria, del commercio e dell'artigianato e del commercio con l'estero;
+Sulla proposta del Presidente del Consiglio dei Ministri e Ministro del tesoro e del Ministro dei lavori pubblici e dell'ambiente, di concerto con i Ministri di grazia e giustizia, della sanita', delle risorse agricole, alimentari e forestali, per la funzione pubblica e gli affari regionali e dell'industria, del commercio e dell'artigianato e del commercio con l'estero;
 
 E M A N A il seguente decreto-legge:
 
@@ -30,7 +30,7 @@ Art. 1
 
 Campo di applicazione
 
-1. In attesa della completa attuazione delle [direttive 91/156/CEE](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:31991L0156) e [91/689/CEE](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:31991L0689), ed in particolare in attesa che la Commissione dell'Unione europea stabilisca in maniera puntuale i criteri che caratterizzano la nozione di rifiuto quale definita all'articolo 2, comma 1, lettera a), il presente decreto disciplina le attivita' finalizzate al riutilizzo dei residui derivanti dai cicli di produzione o di consumo.
+1. In attesa della completa attuazione delle [direttive 91/156/CEE](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:31991L0156) e [91/689/CEE](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:31991L0689), ed in particolare in attesa che la Commissione dell'Unione europea stabilisca in maniera puntuale i criteri che caratterizzano la nozione di rifiuto quale definita all'articolo 2, comma 1, lettera a) il presente decreto disciplina le attivita' finalizzate al riutilizzo dei residui derivanti dai cicli di produzione o di consumo.
 
 Art. 2
 ------
@@ -51,7 +51,7 @@ c) residui pericolosi: i residui che:
 2) originino dai cicli di cui al punto 1.3 del testo allegato alla delibera in data 27 luglio 1984 del Comitato interministeriale di cui all'[articolo 5 del decreto del Presidente della Repubblica 10 settembre 1982, n. 915](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1982-09-10;915~art5), salvo che il soggetto obbligato dimostri che i residui non sono classificabili "tossici e nocivi" ai sensi del numero 1);  
 3) provengano da contenitori contrassegnati con i simboli "T" e/o "F" e/o "T+" e/o "C" e/o "Xn" e/o "Xi" di cui al [decreto del Ministro della sanita' in data 3 dicembre 1985, pubblicato nel supplemento ordinario alla Gazzetta Ufficiale n. 305 del 30 dicembre 1985](http://www.gazzettaufficiale.it/gazzetta/serie_generale/caricaDettaglio?dataPubblicazioneGazzetta=1985-12-30&numeroGazzetta=305), o comunque utilizzati per sostanze pericolose;
 
-d) raccolta: operazione di cernita e/o/ raggruppamento dei residui;
+d) raccolta: operazione di cernita e/o raggruppamento dei residui;
 
 e) trasporto: operazione di movimentazione dei residui destinati al riutilizzo dal luogo di produzione al luogo di stoccaggio, trattamento e/o riutilizzo;
 
@@ -86,10 +86,7 @@ f) ai residui delle lavorazioni agricole in generale e derivati da processi di l
 
 g) ai residui e le eccedenze derivanti dalle preparazioni nelle cucine di qualsiasi tipo di cibi solidi, cotti e crudi, non entrati nel circuito distributivo di somministrazione, destinati alle strutture di ricovero di animali di affezione di cui alla [legge 14 agosto 1991, n. 281](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1991-08-14;281), e successive modificazioni, nel rispetto della vigente normativa.
 
-2. Sono escluse dal campo di applicazione del presente decreto le attivita' di riutilizzo di residui che danno origine ai fertilizzanti, individuati con riferimento alla tipologia e alle modalita' di impiego ai sensi della [legge 19 ottobre 1984, n. 748](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1984-10-19;748), e successive modifiche ed integrazioni.  
-All'articolo 8, comma 2, secondo capoverso, della [legge n. 748 del 1984](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1984;748), come modificato dall'[articolo 6, comma 1, del decreto legislativo 16 febbraio 1993, n. 161](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-02-16;161~art6-com1), le parole: "di concerto con il Ministro dell'industria, del commercio e dell'artigianato, sentiti il Ministro dell'ambiente e il Ministro della sanita'" sono sostituite dalle seguenti: "di concerto con i Ministri dell'industria, del commercio e dell'artigianato, dell'ambiente e della sanita'".  
-All'articolo 8, comma 3, ultimo capoverso, della medesima [legge n. 748 del 1984](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1984;748), le parole: "di concerto con il Ministro dell'industria, del commercio e dell'artigianato, sentiti il Ministro delle partecipazioni statali e il Ministro della sanita'" sono sostituite dalle seguenti: "di concerto con i Ministri dell'industria, del commercio e dell'artigianato, dell'ambiente e della sanita'".  
-All'articolo 9, comma quinto, della medesima [legge n. 748 del 1984](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1984;748), le parole: "di concerto con il Ministro dell'industria, del commercio e dell'artigianato, sentiti il Ministro delle partecipazioni statali e il Ministro della sanita'" sono sostituite dalle seguenti: "di concerto con i Ministri dell'industria, del commercio e dell'artigianato, dell'ambiente e della sanita'". Per gli insediamenti che producono fertilizzanti anche con l'impiego di residui deve essere effettuata comunicazione alla regione competente.
+2. Sono escluse dal campo di applicazione del presente decreto le attivita' di riutilizzo di residui che danno origine ai fertilizzanti, individuati con riferimento alla tipologia e alle modalita' di impiego ai sensi della [legge 19 ottobre 1984, n. 748](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1984-10-19;748), e successive modifiche ed integrazioni. All'articolo 8, comma 2, secondo capoverso, della [legge n. 748 del 1984](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1984;748), come modificato dall'[articolo 6, comma 1, del decreto legislativo 16 febbraio 1993, n. 161](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-02-16;161~art6-com1), le parole: "di concerto con il Ministro dell'industria, del commercio e dell'artigianato, sentiti il Ministro dell'ambiente e il Ministro della sanita'" sono sostituite dalle seguenti: "di concerto con i Ministri dell'industria, del commercio e dell'artigianato, dell'ambiente e della sanita'". All'articolo 8, comma 3, ultimo capoverso, della medesima [legge n. 748 del 1984](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1984;748), le parole: "di concerto con il Ministro dell'industria, del commercio e dell'artigianato, sentiti il Ministro delle partecipazioni statali e il Ministro della sanita'" sono sostituite dalle seguenti: "di concerto con i Ministri dell'industria, del commercio e dell'artigianato, dell'ambiente e della sanita'". All'articolo 9, comma quinto, della medesima [legge n. 748 del 1984](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1984;748), le parole: "di concerto con il Ministro dell'industria, del commercio e dell'artigianato, sentiti il Ministro delle partecipazioni statali e il Ministro della sanita'" sono sostituite dalle seguenti: "di concerto con i Ministri dell'industria, del commercio e dell'artigianato, dell'ambiente e della sanita'". Per gli insediamenti che producono fertilizzanti anche con l'impiego di residui deve essere effettuata comunicazione alla regione competente.
 
 3. Sono altresi' esclusi dal campo di applicazione del presente decreto i materiali quotati con precise specifiche merceologiche in borse merci o in listini e mercuriali ufficiali istituiti presso le camere di commercio, industria, artigianato e agricoltura, sotto la vigilanza del Ministero dell'industria, del commercio e dell'artigianato, individuati nell'elenco di cui all'allegato 1 al [decreto del Ministro dell'ambiente 5 settembre 1994, pubblicato nel supplemento ordinario alla Gazzetta Ufficiale n. 212 del 10 settembre 1994](http://www.gazzettaufficiale.it/gazzetta/serie_generale/caricaDettaglio?dataPubblicazioneGazzetta=1994-09-10&numeroGazzetta=212).
 
@@ -114,7 +111,7 @@ a) nome ed indirizzo del produttore o detentore;
 
 b) origine, composizione e quantita' del residuo;
 
-c) destinazione con l'indicazione delle operazioni di trattamento, di stoccaggio e di riutilizzo cui e' soggetto il residuo;
+c) destinazione con l'indicazione delle operazioni, di trattamento, di stoccaggio e di riutilizzo cui e' soggetto il residuo;
 
 d) data e percorso del trasporto;
 
@@ -141,7 +138,7 @@ Attivita' di riutilizzo sottoposte a comunicazione
 
 1. Chiunque intende effettuare sul territorio nazionale il trattamento, lo stoccaggio o il riutilizzo dei residui di cui agli allegati 2 e 3 al decreto del Ministro dell'ambiente 5 settembre 1994, pubblicato nel supplemento ordinario n. 126 alla [Gazzetta Ufficiale n. 212 del 10 settembre 1994](http://www.gazzettaufficiale.it/gazzetta/serie_generale/caricaDettaglio?dataPubblicazioneGazzetta=1994-09-10&numeroGazzetta=212), e di cui al decreto del Ministro dell'ambiente 16 gennaio 1995, pubblicato nel supplemento ordinario della Gazzetta Ufficiale del 30 gennaio 1995, n. 24, ad eccezione delle categorie di cui ai punti 21 e 22 dell'allegato 1 al medesimo decreto, e' tenuto a darne annualmente comunicazione, su carta libera, alla sezione regionale dell'Albo nazionale delle imprese esercenti servizi di smaltimento dei rifiuti ed alla regione, alla provincia autonoma o alla provincia delegata, territorialmente competente. La comunicazione e' corredata da una relazione, nella quale sono indicati provenienza, tipi, quantita' e caratteristiche dei residui da trattare, stabilimento e ciclo di trattamento, di produzione o di combustione nel quale i residui stessi sono destinati ad essere riutilizzati, nonche' le caratteristiche merceologiche dei prodotti derivanti dai predetti cicli di riutilizzo. La regione, la provincia autonoma o la provincia delegata puo' chiedere ulteriori dati ed informazioni per verificare il rispetto delle norme vigenti sulla tutela della salute e dell'ambiente e, qualora accerti la mancanza dei presupposti o dei requisiti dalle stesse richiesti, puo' vietare la prosecuzione dell'attivita' ed impone la rimozione degli effetti gia' prodotti. Con decreto del Ministro dell'ambiente, di concerto con i Ministri dell'industria, del commercio e dell'artigianato e della sanita', verranno stabilite le norme tecniche per la regolamentazione delle attivita' finalizzate al riutilizzo ai fini della produzione di energia dei residui bituminosi derivanti da processi di lavorazione del greggio (TAR) e dei residui allo stato solido derivanti dal processo di cokificazione di frazioni pesanti petrolifere (Coke di petrolio).
 
-2. Le sezioni regionali territorialmente competenti dell'Albo nazionale delle imprese esercenti servizi di smaltimenti dei rifiuti redigono l'elenco degli operatori che hanno effettuata la comunicazione ai sensi del presente articolo.
+2. Le sezioni regionali territorialmente competenti dell'Albo nazionale delle imprese esercenti servizi di smaltimenti dei rifiuti redigono l'elenco degli operatori che hanno effettuato la comunicazione ai sensi del presente articolo.
 
 3. Agli oneri per la tenuta degli elenchi di cui al comma 1 si provvede con le entrate derivanti dal diritto di iscrizione annuale, pari a lire cinquantamila a carico delle ditte esercenti le attivita'.
 
@@ -161,7 +158,7 @@ b) sia indicato per ogni tipo di residuo il valore limite di sostanze pericolose
 
 c) siano individuati i tipi di attivita' e le condizioni alle quali l'attivita' e' sottoposta alla disciplina del presente articolo;
 
-d) siano definite, in relazione ai tipi e alle quantita' di sostanze pericolose contenute nei residui ed ai metodi di riutilizzo, le prescrizioni necessarie per assicurare che i residui stessi siano riutilizzati senza pericolo per la salute dell'uomo e senza usare procedimenti o metodi che potrebbero recare pregiudizi all'ambiente.
+d) siano definite, in relazione ai tipi e alle quantita' di sostanze pericolose contenute nei residui ed ai metodi di riutilizzo, le prescrizioni necessane per assicurare che i residui stessi siano riutilizzati senza pericolo per la salute dell'uomo e senza usare procedimenti o metodi che potrebbero recare pregiudizi all'ambiente.
 
 Art. 6
 ------
@@ -215,7 +212,7 @@ Registri di carico e scarico
 
 a) la quantita' (peso o volume, se necessario correlati alla percentuale di umidita');
 
-b) la qualita' (principali caratteristiche chimichefisiche-merceologiche, con la precisazione se trattasi di residuo tossico e nocivo);
+b) la qualita' (principali caratteristiche chimiche-fisiche-merceologiche, con la precisazione se trattasi di residuo tossico e nocivo);
 
 c) la provenienza (identificazione dell'impianto e dell'attivita' produttiva specifica);
 
@@ -233,7 +230,7 @@ g) il modo di trattamento e di riutilizzo.
 
 a) registri di carico e scarico dei rifiuti di cui all'[articolo 3, comma 5, del decreto-legge 9 settembre 1988, n. 397](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1988-09-09;397~art3-com5), convertito, con modificazioni, dalla [legge 9 novembre 1988, n. 475](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-11-09;475);
 
-b) registri IVA di acquisto e vendita;
+b) registri I.V.A. di acquisto e vendita;
 
 c) scrittura ausiliare di magazzino di cui all'[articolo 14 del decreto del Presidente della Repubblica 29 settembre 1973, n. 600](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1973-09-29;600~art14), e successive modificazioni;
 
@@ -272,7 +269,7 @@ Sanzioni e causa di non punibilita'
 
 2. Chiunque, nello svolgimento delle operazioni previste nel presente decreto, relative a residui individuati non osserva le prescrizioni di cui all'articolo 6, commi 2, 3 e 4, ovvero quelle di cui all'allegato 3 al [decreto del Ministro dell'ambiente 5 settembre 1994, pubblicato nel supplemento ordinario alla Gazzetta Ufficiale n. 212 del 10 settembre 1994](http://www.gazzettaufficiale.it/gazzetta/serie_generale/caricaDettaglio?dataPubblicazioneGazzetta=1994-09-10&numeroGazzetta=212), e successive modifiche ed integrazioni, e' punito con l'arresto sino ad un anno o con l'ammenda da lire tre milioni a lire dieci milioni. Le predette sanzioni sono raddoppiate nel caso in cui la non osservanza delle prescrizioni riguardi residui pericolosi. In caso di superamento dei valori limite di emissione, ovvero dei valori limite di qualita' dell'aria, nonche' di riutilizzo in cicli di combustione di residui non conformi alle prescrizioni di cui al [decreto del Ministro dell'ambiente 29 settembre 1994, pubblicato nella Gazzetta Ufficiale n. 245 del 19 ottobre 1994](http://www.gazzettaufficiale.it/gazzetta/serie_generale/caricaDettaglio?dataPubblicazioneGazzetta=1994-10-19&numeroGazzetta=245), e successive modifiche ed integrazioni, si applicano le sanzioni stabilite dal [decreto del Presidente della Repubblica 24 maggio 1988, n. 203](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1988-05-24;203).
 
-3. Chiunque effettua operazioni di traffico illecito delle sostanze o dei materiali elencati negli allegati II, III e IV del [regolamento CEE n. 259/93](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:31993R0259), ai sensi dell'articolo 26 del regolamento medesimo, e' punito con l'ammenda da lire dieci milioni a lire trenta milioni. Se il fatto illecito riguarda il trasporto di materiali o sostanze non corrispondenti a quelle indicate nella notifica, si applica la pena dell'arresto da 3 mesi a 2 anni. Alla condanna consegue la confisca del mezzo di trasporto utilizzato.
+3. Chiunque effettua operazioni di traffico illecito delle sostanze o dei materiali elencati negli allegati Il, III e IV del [regolamento CEE n. 259/93](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:31993R0259), ai sensi dell'articolo 26 del regolamento medesimo, e' punito con l'ammenda da lire dieci milioni a lire trenta milioni. Se il fatto illecito riguarda il trasporto di materiali o sostanze non corrispondenti a quelle indicate nella notifica, si applica la pena dell'arresto da 3 mesi a 2 anni. Alla condanna consegue la confisca del mezzo di trasporto utilizzato.
 
 4. Non e' punibile chiunque, fino al 7 gennaio 1995, ha commesso un fatto previsto come reato dal [decreto del Presidente della Repubblica 10 settembre 1982, n. 915](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1982-09-10;915), e successive modifiche ed integrazioni, nell'esercizio di attivita' qualificate come operazioni di raccolta e trasporto, stoccaggio, trattamento o pretrattamento, recupero o riutilizzo di residui nei modi e nei casi previsti ed in conformita' alle disposizioni del [decreto del Ministro dell'ambiente in data 26 gennaio 1990, pubblicato nella Gazzetta Ufficiale n. 30 del 6 febbraio 1990](http://www.gazzettaufficiale.it/gazzetta/serie_generale/caricaDettaglio?dataPubblicazioneGazzetta=1990-02-06&numeroGazzetta=30), ovvero di norme regionali.
 
@@ -306,7 +303,7 @@ e) deve essere data comunicazione dello stoccaggio dei rifiuti alla regione alme
 
 f) lo stoccaggio dei rifiuti deve essere effettuato nel rispetto delle norme che disciplinano il deposito delle sostanze pericolose in essi contenute, per tipi omogenei e nel rispetto delle norme tecniche previste dalla [delibera in data 27 luglio 1984, pubblicata nel supplemento ordinario alla Gazzetta Ufficiale n. 253 del 13 settembre 1984](http://www.gazzettaufficiale.it/gazzetta/serie_generale/caricaDettaglio?dataPubblicazioneGazzetta=1984-09-13&numeroGazzetta=253), del Comitato interministeriale di cui all'[articolo 5 del decreto del Presidente della Repubblica 10 settembre 1982, n. 915](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1982-09-10;915~art5).
 
-2. La comunicazione di cui alla lettera e) del comma 1, deve essere corredata da una dichiarazione sostitutiva dell'atto di notorieta', resa ai sensi dell'[articolo 4 della legge 4 gennaio 1968, n. 15](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1968-01-04;15~art4), attestante la sussistenza dei requisiti previsti al comma 1, nonche' il rispetto della normativa tecnica vigente di cui alla lettera f) del comma 1 e deve essere rinnovata in caso di modifica delle condizioni richieste; le aziende gia' in possesso dell'autorizzazione di cui agli articoli 6, comma 1, lettera d), e 16 del [decreto del Presidente della Repubblica 10 settembre 1982, n. 915](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1982-09-10;915), sono tenute alla presentazione della suddetta dichiarazione alla scadenza dell'autorizzazione stessa.
+2. La comunicazione di cui alla lettera e) del comma 1 deve essere corredata da una dichiarazione sostitutiva dell'atto di notorieta', resa ai sensi dell'[articolo 4 della legge 4 gennaio 1968, n. 15](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1968-01-04;15~art4), attestante la sussistenza dei requisiti previsti al comma 1, nonche' il rispetto della normativa tecnica vigente di cui alla lettera f) del comma 1 e deve essere rinnovata in caso di modifica delle condizioni richieste; le aziende gia' in possesso dell'autorizzazione di cui agli articoli 6, comma 1, lettera d), e 16 del [decreto del Presidente della Repubblica 10 settembre 1982, n. 915](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1982-09-10;915), sono tenute alla presentazione della suddetta dichiarazione alla scadenza dell'autorizzazione stessa.
 
 3. Chiunque effettua lo stoccaggio di rifiuti tossici e nocivi o qualificati pericolosi nei limiti ed alle condizioni di cui ai commi 1 e 2 e' escluso dall'obbligo di iscrizione all'Albo nazionale delle imprese esercenti servizi di smaltimento dei rifiuti previsto dall'[articolo 10 del decreto-legge 31 agosto 1987, n. 361](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1987-08-31;361~art10), convertito, con modificazioni, dalla [legge 29 ottobre 1987, n. 441](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1987-10-29;441).
 
@@ -354,7 +351,7 @@ Modifiche di disposizioni autorizzative
 
 6. Il [decreto del Presidente della Repubblica 9 maggio 1994, n. 407](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1994-05-09;407), non si applica alle domande di iscrizione all'Albo nazionale delle imprese esercenti servizi di smaltimento dei rifiuti.
 
-7. Con decreto del Ministro dell'ambiente, di concerto con i Ministri del tesoro, dell'industria, del commercio e dell'artigianato, dei trasporti e della navigazione, della sanita' e dell'interno, da emanarsi entro tre mesi dalla data di entrata in vigore del presente decreto, sono ridefinite le modalita' organizzative e di funzionamento dell'Albo nazionale previste dal [decreto del Ministro dell'ambiente 21 giugno 1991, n. 324](http://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.ambiente:decreto:1991-06-21;324), e successive modificazioni.
+7. Con decreto del Ministro dell'ambiente, di concerto con i Ministri del tesoro, dell'industria, del commercio e dell'artigianato, dei trasporti e della navigazione, della sanita' e dell'interno, da emanarsi entro tre mesi dalla data di entrata in vigore del presente decreto, sono ridefinite le modalita' organizzative e di funzionamento dell'Albo nazionale previste dal decreto del Minisro dell'ambiente 21 giugno 1991, n. 324, e successive modificazioni.
 
 8. I diritti di cui agli articoli 4, 5 e 15 sono versati secondo le modalita' stabilite per il versamento dei diritti di iscrizione all'Albo.
 
@@ -371,7 +368,7 @@ per lo smaltimento dei rifiuti solidi urbani
 1. All'[articolo 79 del decreto legislativo 15 novembre 1993, n. 507](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-11-15;507~art79), sono apportate le seguenti modificazioni ed integrazioni:
 
 a) il comma 3 e' sostituito dal seguente:  
-" 3. Fermo quanto disposto dall'[articolo 5, comma 10, del decreto-legge 2 ottobre 1995, n. 415](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1995-10-02;415~art5-com10), le disposizioni modificative, apportate nel 1994 ai regolamenti di cui al comma 2, sono immediatamente applicabili, ad eccezione di quelle previste in attuazione degli articoli 59, comma 2, secondo periodo, 66, commi 3, 4, 5 e 6, 72, commi 4, 5 e 6, che hanno decorrenza dal 1 gennaio 1995, e degli articoli 63, commi 2, 3 e 4, 64, comma 2, secondo periodo, e 66, commi 1 e 2, che hanno decorrenza dal 1 gennaio 1997.";
+" 3. Fermo quanto disposto dall'[articolo 5, comma 10, del decreto-legge 2 ottobre 1995, n. 415](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1995-10-02;415~art5-com10), convertito, con modificazioni, dalla [legge 29 novembre 1995, n. 507](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1995-11-29;507), le disposizioni modificative, apportate nel 1994 ai regolamenti di cui al comma 2, sono immediatamente applicabili, ad eccezione di quelle previste in attuazione degli articoli 59, comma 2, secondo periodo, 66, commi 3, 4, 5 e 6, 72, commi 4, 5 e 6, che hanno decorrenza dal 1 gennaio 1995, e degli articoli 63, commi 2, 3 e 4, 64, comma 2, secondo periodo, e 66, commi 1 e 2, che hanno decorrenza dal 1 gennaio 1997.";
 
 b) al comma 4 e' aggiunto in fine il seguente periodo: "Le tariffe per il 1995 sono deliberate in base ai previgenti criteri di commisurazione ed il predetto potere di riequilibrio tariffario e' esteso fino al 31 ottobre 1996.";
 
@@ -379,16 +376,9 @@ c) il comma 5 e' sostituito dal seguente:
 " 5. Ai fini della determinazione del costo di esercizio di cui all'articolo 61, commi 1 e 2, per ciascuno degli anni 1994 e 1995 e' dedotto dal costo complessivo dei servizi di nettezza urbana gestiti in regime di privativa comunale un importo non inferiore al cinque per cento a titolo di costo dello spazzamento dei rifiuti solidi urbani di cui all'[articolo 2, terzo comma, n. 3), del decreto del Presidente della Repubblica 10 settembre 1982, n. 915](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1982-09-10;915~art2-com3-num3). L'eventuale eccedenza di gettito derivante dalla predetta deduzione e' computata in diminuzione del tributo iscritto a ruolo per l'anno successivo.";
 
 d) il comma 6 e' sostituito dal seguente:  
-" 6. In sede di prima applicazione della nuova disciplina, le denunce originarie e di variazione, di cui all'articolo 70, sono presentate per gli anni 1994, 1995 e 1996, rispettivamente, entro il 30 settembre 1994, il 20 gennaio 1995 e il 20 gennaio 1996 senza l'indicazione delle aree scoperte che costituiscono pertinenza od accessorio dei locali ed aree assoggettabili a tassa, nonche' delle parti comuni del condominio di cui all'[articolo 1117 del codice civile](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art1117) e dei locali in multiproprieta' di uso comune. Le denunce integrative o modificative, anche di quelle gia' prodotte in base al precedente ordinamento del tributo, nonche' l'elenco di cui al comma 4, dell'articolo 63, sono presentati entro il 30 settembre 1996 ed hanno effetto, quanto alla modifica degli elementi imponibili, a decorrere dall'anno 1997. Le richieste di riduzione di cui all'articolo 66, commi 3, 4, 5 e 6, sono presentate per l'anno 1995, entro il 15 ottobre e le relative riduzioni, ove previste dal regolamento della tassa, hanno effetto dal 1 gennaio.".
+" 6. In sede di prima applicazione della nuova disciplina, le denunce originarie e di variazione, di cui all'articolo 70, sono presentate per gli anni 1994, 1995 e 1996, rispettivamente, entro il 30 settembre 1994, il 20 gennaio 1995 e il 20 gennaio 1996 senza l'indicazione delle aree scoperte che costituiscono pertinenza od accessorio dei locali ed aree assoggettabili a tassa, nonche' delle parti comuni del condominio di cui all'[articolo 1117 del codice civile](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art1117) e dei locali in multiproprieta' di uso comune. Le denunce integrative o modificative, anche di quelle gia' prodotte in base al precedente ordinamento del tributo, nonche' l'elenco di cui al comma 4 dell'articolo 63, sono presentati entro il 30 settembre 1996 ed hanno effetto, quanto alla modifica degli elementi imponibili, a decorrere dall'anno 1997. Le richieste di riduzione di cui all'articolo 66, commi 3, 4, 5 e 6, sono presentate per l'anno 1995 entro il 15 ottobre e le relative riduzioni, ove previste dal regolamento della tassa, hanno effetto dal 1 gennaio.".
 
-2. All'[articolo 62 del decreto legislativo 15 novembre 1993, n. 507](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-11-15;507~art62), sono aggiunti, in fine, i seguenti commi:  
-"5-bis. Fino alla data di entrata in vigore della normativa di riordino della materia, i rifiuti di cui all'[articolo 39, comma 1, della legge 22 febbraio 1994, n. 146](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-02-22;146~art39-com1), provenienti da attivita' svolte su una superficie operativa complessiva non superiore a 200 metri quadrati continuano ad essere assimilati ai rifiuti urbani ai fini del conferimento al servizio pubblico e dell'applicazione della relativa tassa.  
-5-ter. Per le superfici superiori a quelle previste nel comma 5- bis gli operatori economici non sono tenuti al conferimento al servizio pubblico ed alla corresponsione della relativa tassa, a condizione che presentino annualmente al comune, nei termini ordinari, apposita dichiarazione resa ai sensi della [legge 4 gennaio 1968, n. 15](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1968-01-04;15), attestante che i rifiuti stessi vengono smaltiti a proprie spese ai sensi della normativa vigente. Ferme le sanzioni previste dall'[articolo 26 della legge 4 gennaio 1968, n. 15](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1968-01-04;15~art26), in caso di accertato illegittimo conferimento al servizio pubblico si applicano le sanzioni di cui all'articolo 76, oltre al pagamento della tassa dovuta.  
-5-quater. Per l'anno 1995, la denuncia relativa alle superfici di cui al comma 5-bis e le dichiarazioni o, in mancanza, le denunce relative alle superfici di cui al comma 5-ter, sono presentate entro il 15 ottobre 1995.".
-
-3. Fino alla data di entrata in vigore del presente decreto, non e' dovuta la tassa per le superfici di cui ai [commi 5-bis](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-11-15;507~art62-com5bis) e [5-ter dell'articolo 62 del decreto legislativo 15 novembre 1993, n. 507](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-11-15;507~art62-com5ter), introdotti dal comma 2, qualora l'operatore fornisca idonea documentazione sull'effettivo smaltimento a proprie spese dei relativi rifiuti.
-
-4. I comuni che deliberano le riduzioni di cui all'[articolo 66, commi 3](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-11-15;507~art66-com3), [4](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-11-15;507~art66-com4), [5](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-11-15;507~art66-com5) e [6, del decreto legislativo 15 novembre 1993, n. 507](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-11-15;507~art66-com6), devono assicurare, limitatamente all'anno 1995, un tasso di copertura del costo del servizio non inferiore a quello previsto per l'anno 1994, senza apportare aumenti, compensativi delle riduzioni, che eccedano il venti per cento rispetto alla tassa dovuta.
+2. I comuni che deliberano le riduzioni di cui all'[articolo 66, commi 3](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-11-15;507~art66-com3), [4](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-11-15;507~art66-com4), [5](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-11-15;507~art66-com5) e [6, del decreto legislativo 15 novembre 1993, n. 507](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-11-15;507~art66-com6), devono assicurare, limitatamente all'anno 1995, un tasso di copertura del costo del servizio non inferiore a quello previsto per l'anno 1994, senza apportare aumenti, compensativi delle riduzioni, che eccedano il venti per cento rispetto alla tassa dovuta.
 
 Art. 18
 -------
@@ -417,11 +407,11 @@ Art. 20
 
 Disposizioni finali e finanziarie
 
-1. E' differito all'8 gennaio 1996 il termine di cui all'[articolo 1 del decreto-legge 11 gennaio 1994, n. 17](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1994-01-11;17~art1), convertito dalla [legge 17 febbraio 1994, n. 150](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-02-17;150), per la proroga del comando del personale dipendente dagli enti pubblici trasformati in societa' di diritto privato, ai sensi della [legge 30 luglio 1990, n. 218, e degli articoli 15](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-07-30;218~art15) e [18](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-07-30;218~art18) del [decreto-legge 11 luglio 1992, n. 333](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1992-07-11;333), convertito, con modificazioni, dalla [legge 8 agosto 1992, n. 359](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1992-08-08;359), nonche' dalle societa' da essi controllate, con oneri a totale carico degli enti o societa' di appartenenza.
+1. E' differito al 31 luglio 1996 il termine di cui all'[articolo 1 del decreto-legge 11 gennaio 1994, n. 17](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1994-01-11;17~art1), convertito dalla [legge 17 febbraio 1994, n. 150](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-02-17;150), per la proroga del comando del personale dipendente dagli enti pubblici trasformati in societa' di diritto privato, ai sensi della [legge 30 luglio 1990, n. 218, e degli articoli 15](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-07-30;218~art15) e [18](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-07-30;218~art18) del [decreto-legge 11 luglio 1992, n. 333](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1992-07-11;333), convertito, con modificazioni, dalla [legge 8 agosto 1992, n. 359](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1992-08-08;359), nonche' dalle societa' da essi controllate, con oneri a totale carico degli enti o societa' di appartenenza.
 
 2. Entro trenta giorni dalla data di entrata in vigore della legge di conversione del presente decreto il Ministro dell'ambiente, di concerto con il Ministro dell'industria, del commercio e dell'artigianato, definisce, con proprio decreto, i moduli da utilizzare per le comunicazioni di cui agli articoli 4, 5 e 15, ed ai successivi aggiornamenti, ai fini dell'acquisizione della rilevazione e della elaborazione dei dati trasmessi secondo criteri omogenei ed uniformi.
 
-3. Per le finalita' previste dall'[articolo 10 della legge 7 agosto 1990, n. 253](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-08-07;253~art10), il Ministero dell'ambiente e' autorizzato ad utilizzare nell'anno 1995, con le modalita' di cui al comma 2 del medesimo articolo, un contingente di personale nel limite massimo di trenta unita'. Al relativo onere, valutato in lire 298 milioni, si provvede mediante riduzione dello stanziamento iscritto al capitolo 6856 dello stato di previsione del Ministero del tesoro per l'anno 1995, utilizzando parzialmente l'accantonamento relativo al Ministero dell'ambiente. Il Ministro del tesoro e' autorizzato ad apportare, con propri decreti, le occorrenti variazioni di bilancio.
+3. Per le finalita' previste dall'[articolo 10 della legge 7 agosto 1990, n. 253](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-08-07;253~art10), il Ministero dell'ambiente e' autorizzato ad utilizzare nell'anno 1995, con le modalita' di cui al comma 2 del medesimo articolo, un contingente di personale nel limite massimo di trenta unita'. Al relativo onere, valutato in lire 298 milioni, si provvede a carico dello stanziamento del capitolo 1029 dello stato di previsione del Ministero dell'ambiente per l'anno 1995.
 
 4. Il termine per la contrazione dei mutui di cui all'[articolo 8, comma 4, del decreto-legge 3 maggio 1991, n. 142](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1991-05-03;142~art8-com4), convertito, con modificazioni, dalla [legge 3 luglio 1991, n. 195](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1991-07-03;195), e' prorogato al 31 dicembre 1996.
 
@@ -429,7 +419,7 @@ Disposizioni finali e finanziarie
 
 6. Nell'assegnazione delle risorse stanziate, ancora disponibili, dal [decreto-legge 31 agosto 1987, n. 361](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1987-08-31;361), convertito, con modificazioni, dalla [legge 29 ottobre 1987, n. 441](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1987-10-29;441), e dal [decreto-legge 26 gennaio 1987, n. 10](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1987-01-26;10), convertito, con modificazioni, dalla [legge 24 marzo 1987, n. 119](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1987-03-24;119), si prescinde, rispettivamente, dalle specificazioni di cui agli articoli 1, 1-bis e 1-ter del citato [decreto-legge 31 agosto 1987, n. 361](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1987-08-31;361), e dalle tipologie impiantistiche ivi indicate.
 
-7. Al [comma 3 dell'articolo 1 del decreto-legge 5 ottobre 1993, n. 398](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1993-10-05;398~art1-com3), convertito, con modificazioni, dalla [legge 4 dicembre 1993, n. 493](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-12-04;493), dopo le parole: "a comuni, province e comunita' montane" sono inserite le seguenti: "e consorzi tra i comuni".
+7. Al [comma 3, dell'articolo 1, del decreto-legge 5 ottobre 1993, n. 398](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1993-10-05;398~art1-com3), convertito, con modificazioni, dalla [legge 4 dicembre 1993, n. 493](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-12-04;493), dopo le parole: "a comuni, province e comunita' montane" sono inserite le seguenti: "e consorzi tra i comuni".
 
 8. All'[articolo 8, comma 2, della legge 28 agosto 1989, n. 305](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1989-08-28;305~art8-com2), dopo le parole: "Liri-Garigliano e Volturno" sono inserite le seguenti: ", nonche' per gli interventi urgenti nei bacini interregionali e regionali dei fiumi che versano nei mari Ionio e Tirreno".
 
@@ -438,43 +428,45 @@ Art. 21
 
 Entrata in vigore
 
-1. Il presente decreto entra in vigore il giorno stesso della sua pubblicazione nella Gazzetta Ufficiale della Repubblica italiana e sara' presentato alle Camere per la conversione in legge.
+1. Il presente decreto entra in vigore il giorno successivo a quello della sua pubblicazione nella Gazzetta Ufficiale della Repubblica italiana e sara' presentato alle Camere per la conversione in legge.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserito nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 8 novembre 1995
+### Dato a Roma, addi' 3 maggio 1996
 
 SCALFARO
 
-DINI, Presidente del Consiglio dei
-
-Ministri e Ministro del tesoro e,
-
-ad interim, Ministro di grazia e giustizia
+DINI, Presidente del Consiglio dei Ministri e Ministro del tesoro
 
 BARATTA, Ministro dei lavori pubblici e dell'ambiente
 
+CAIANIELLO, Ministro di grazia e giustizia
+
 GUZZANTI, Ministro della sanita'
 
-FANTOZZI, Ministro delle finanze
+LUCHETTI, Ministro delle risorse
 
-FRATTINI, Ministro per la funzione pubblica e gli affari regionali
+agricole, alimentari e forestali
+
+MOTZO, Ministro per la funzione pubblica e gli affari regionali
 
 CLO', Ministro dell'industria, del commercio e dell'artigianato e del commercio con l'estero
 
-Visto, il Guardasigilli: DINI
+Visto, il Guardasigilli: CAIANIELLO
 
 Allegato 1
 
  ALLEGATO 1   
 (previsto dall'art. 2, comma 1)   
-Elenco dei rifiuti conformemente all'[articolo 1 a) della direttiva 75/442/CEE del Consiglio](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:31975L0442) relativa ai rifiuti   
+ELENCO DEI RIFIUTI CONFORMEMENTE ALL'ARTICOLO 1, a),   
+DELLA DIRETTIVA 75/442/CEE DEL CONSIGLIO RELATIVA AI RIFIUTI   
 (CATALOGO EUROPEO DEI RIFIUTI)   
 Nota introduttiva   
 1. L'[articolo 1 lettera a) della direttiva 75/442/CEE](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:31975L0442) definisce il termine "rifiuti" nel modo seguente: "qualsiasi sostanza od oggetto che rientri nelle categorie riportate nell'allegato I e di cui il detentore si disfi o abbia deciso o abbia l'obbligo di disfarsi".   
-2. Il secondo capoverso dell'articolo 1 lettera a) stabilisce che la Commissione, conformemente alla procedura di cui all'articolo 18, prepari un elenco dei rifiuti che rientrano nelle categorie di cui all'allegato I. Tale elenco e' noto piu' comunemente come Catalogo europeo dei rifiuti (CER) e si applica a tutti i rifiuti, siano essi destinati allo smaltimento o al recupero. 3.  
-Il catalogo europeo dei rifiuti e' un elenco armonizzato, non esaustivo, di rifiuti e sara' pertanto oggetto di periodica revisione e, se necessario, di modifiche, conformemente alla procedura del comitato.   
+2. Il secondo capoverso dell'articolo 1 lettera a) stabilisce che la Commissione, conformemente alla procedura di cui all'articolo 18, prepari un elenco dei rifiuti che rientrano nelle categorie di cui all'allegato I. Tale elenco e' noto piu' comunemente come Catalogo europeo dei rifiuti (CER) e si applica a tutti rifiuti, siano essi destinati allo smaltimento o al recupero.   
+3. Il catalogo europeo dei rifiuti e' un elenco armonizzato, non   
+esaustivo, di rifiuti e sara' pertanto oggetto di periodica revisione e, se necessario, di modifiche, conformemente alla procedura del comitato.   
 Tuttavia, un materiale figurante nel catalogo non e' in tutte le circostanze un rifiuto, ma solo quando esso soddisfa la definizione di rifiuto.   
 4. I rifiuti figuranti nel CER sono soggetti alle disposizioni della direttiva a meno che si applichi ad essi l'articolo 2 paragrafo 1 lettera b) di detta direttiva.   
 5. Il catalogo vuole essere una nomenclatura di riferimento con una terminologia comune per tutta la Comunita' allo scopo di migliorare tutte le attivita' connesse alla gestione dei rifiuti.  
@@ -483,18 +475,19 @@ A questo riguardo, il catalogo europeo dei rifiuti dovrebbe diventare il riferim
 7. Ciascun codice dei rifiuti figurante nel catalogo deve sempre essere inserito nel contesto a cui si riferisce.   
 8. Il catalogo non pregiudica l'applicazione dell'elenco di "rifiuti pericolosi" disposto dall'[articolo 1, paragrafo 4 della direttiva 91/689/CEE del Consiglio, del 12 dicembre 1991](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:31991L0689), sui rifiuti pericolosi (2).   
   
-(1) GU n. C 122 del 18.5.1990, pag. 2.   
-(2) GU n. L 377 del 31.12.1991, pag. 20.   
+(1) GU n. C 122 del 18. 5. 1990, pag. 2   
+(2) GU n. L 377 del 31. 12. 1991, pag. 20   
 01 00 00 Rifiuti derivanti dalla prospezione, l'estrazione, il   
-trattamento e l'ulteriore lavorazione di minerali e materia   
-di cava   
+trattamento e l'ulteriore lavorazione di minerali e   
+materiali di cava   
 02 00 00 Rifiuti provenienti da produzione, trattamento e   
-preparazione di alimenti in agricoltura, orticoltura, cacci   
-ed acquicoltura   
+preparazione di alimenti in agricoltura, orticoltura,   
+caccia, pesca ed acquicolture   
 03 00 00 Rifiuti della lavorazione del legno e della produzione di   
-carta, polpa, cartone, pannelli e mobili   
+carta, polpa cartone, pannelli e mobili   
 04 00 00 Rifiuti della produzione conciaria e tessile   
-05 00 00 Rifiuti della raffinazione del petrolio, purificazione del gas naturale e trattamento pirolitico del carbone   
+05 00 00 Rifiuti della raffinazione del petrolio, purificazione   
+del gas naturale e trattamento pirolitico del carbone   
 06 00 00 Rifiuti da processi chimici inorganici   
 07 00 00 Rifiuti da processi chimici organici   
 08 00 00 Rifiuti da produzione, formulazione, fornitura ed uso   
@@ -503,7 +496,8 @@ sigillanti, e inchiostri per stampa
 09 00 00 Rifiuti dell'industria fotografica   
 10 00 00 Rifiuti inorganici provenienti da processi termici   
 11 00 00 Rifiuti inorganici contenenti metalli provenienti dal   
-trattamento e ricopertura di metalli; idrometallurgia non f   
+trattamento di ricopertura di metalli; idrometallurgia non   
+ferrosa   
 12 00 00 Rifiuti di lavorazione e di trattamento superficiale di   
 metalli, e plastica   
 13 00 00 Oli esauriti (tranne gli oli commestibili 05 00 00 e   
@@ -516,14 +510,17 @@ indumenti protettivi (non specificati altrimenti)
 17 00 00 Rifiuti di costruzioni e demolizioni (compresa la   
 costruzione di strade)   
 18 00 00 Rifiuti di ricerca medica e veterinaria (tranne i rifiuti   
-di cucina e di ristorazione che non derivino direttamente d   
-di cura)   
-19 00 00 Rifiuti da impianti di trattamento rifiuti, impianti di   
-trattamento acque reflue fuori sito e industrie dell'acqua 20 00 00 Rifiuti solidi urbani ed assimilabili da commercio,   
-industria ed istituzioni inclusi i rifiuti della raccolta differenziata   
+di cucina e di ristorazione che non derivino direttamente   
+da luoghi di cura)   
+19 00 00 Rifiuti da impianti di trattamento rifiuti, impianti   
+di trattamento acque reflue fuori sito e industrie   
+dell'acqua   
+20 00 00 Rifiuti solidi urbani ed assimilabili da commercio,   
+industria ed istituzioni inclusi i rifiuti della raccolta   
+differenziata   
 01 00 00 RIFIUTI DERIVANTI DALLA PROSPEZIONE, L'ESTRAZIONE, IL   
-TRATTAMENTO E L'ULTERIORE LAVORAZIONE DI MINERALI E MATERIA   
-DI CAVA   
+TRATTAMENTO E L'ULTERIORE LAVORAZIONE DI MINERALI E   
+MATERIALI DI CAVA   
 01 01 00 rifiuti di estrazione di minerali   
 01 01 01 rifiuti di estrazione di minerali metalliferi   
 01 01 02 rifiuti di estrazione di minerali non metalliferi   
@@ -531,17 +528,21 @@ DI CAVA
 01 02 01 rifiuti derivanti dal trattamento di minerali metalliferi   
 01 02 02 rifiuti derivanti dal trattamento di minerali non   
 metalliferi   
-01 03 00 rifiuti derivanti da ulteriori trattamenti chimici e fisici di minerali metalliferi   
+01 03 00 rifiuti derivanti da ulteriori trattamenti chimici e   
+fisici di minerali metalliferi   
 01 03 01 colle   
 01 03 02 polveri e rifiuti polverosi   
-01 03 03 funghi rossi dalla produzione di allumina   
+01 03 03 funghi rossi della produzione di allumina   
 01 03 99 rifiuti non specificati altrimenti   
-01 04 00 rifiuti derivanti da ulteriori trattamenti chimici e fisici di minerali non metalliferi   
+01 04 00 rifiuti derivanti da ulteriori trattamenti chimici e   
+fisici di minerali non metalliferi   
 01 04 01 ghiaia e rocce triturate di scarto   
 01 04 02 sabbia e argilla di scarto   
 01 04 03 polveri e rifiuti polverosi   
 01 04 04 rifiuti della produzione di potassa e salgemma   
-01 04 05 rifiuti derivanti dal lavaggio e dalla pulitura di minerali 01 04 06 rifiuti derivanti dalla lavorazione della pietra   
+01 04 05 rifiuti derivanti dal lavaggio e dalla pulitura di   
+minerali   
+01 04 06 rifiuti derivanti dalla lavorazione della pietra   
 01 04 99 rifiuti non specificati altrimenti   
 01 05 00 fanghi di perforazione ed altri rifiuti di perforazione   
 01 05 01 fanghi di perforazione e rifiuti contenenti petrolio   
@@ -550,26 +551,30 @@ metalliferi
 01 05 04 fanghi e rifiuti di perforazione di pozzi per acque dolci   
 01 05 99 rifiuti non specificati altrimenti   
 02 00 00 RIFIUTI PROVENIENTI DA PRODUZIONE, TRATTAMENTO E   
-PREPARAZIONE DI ALIMENTI IN AGRICOLTURA, ORTICOLTURA, CACCI   
-PESCA ED ACQUICOLTURA   
+PREPARAZIONE DI ALIMENTI IN AGRICOLTURA, ORTICOLTURA,   
+CACCIA, PESCA ED ACQUICOLTURA   
 02 01 00 rifiuti delle produzioni primarie   
 02 01 01 fanghi da operazioni di lavaggio e pulizia   
 02 01 02 scarti animali   
 02 01 03 scarti vegetali   
 02 01 04 rifiuti di plastica (esclusi imballaggi)   
 02 01 05 rifiuti agrochimici   
-02 01 06 feci animali, urine e letame (comprese le lettiere usate), effluenti, raccolti separatamente e trattati fuori sito   
+02 01 06 feci animali, urine e letame (comprese le lettiere   
+usate), effluenti, raccolti separatamente e trattati fuori   
+sito   
 02 01 07 rifiuti derivanti dalla silvicoltura   
 02 01 99 rifiuti non specificati altrimenti   
 02 02 00 rifiuti della preparazione e del trattamento di carne,   
-pesce ed altri alimenti di origini animale   
+pesce ed altri alimenti di origine animale   
 02 02 01 fanghi da operazioni di lavaggio e pulizia   
 02 02 02 scarti animali   
 02 02 03 scarti inutilizzabili per il consumo o la trasformazione   
 02 02 04 fanghi dal trattamento sul posto di effluenti   
 02 02 99 rifiuti non specificati altrimenti   
 02 03 00 rifiuti della preparazione e del trattamento di frutta,   
-vegetali, cereali, oli alimentari, cacao, caffe', tabacco; produzione di conserve alimentari; della lavorazione del ta   
+vegetali, cereali, oli alimentari, cacao, caffe', tabacco;   
+della produzione di conserve alimentari; della lavorazione   
+del tabacco   
 02 03 01 fanghi derivanti da operazioni di lavaggio, pulizia,   
 sbucciatura, centrifugazione e separazione di componenti   
 02 03 02 rifiuti dall'impiego di conservanti   
@@ -584,7 +589,7 @@ barbabietole
 02 04 03 fanghi dal trattamento sul posto degli effluenti   
 02 04 99 rifiuti non specificati altrimenti   
 02 05 00 rifiuti dell'industria lattiero-casearia   
-05 05 01 scarti inutilizzabili per il consumo o la trasformazione   
+02 05 01 scarti inutilizzabili per il consumo o la trasformazione   
 02 05 02 fanghi dal trattamento sul posto degli effluenti   
 02 05 99 rifiuti non specificati altrimenti   
 02 06 00 rifiuti della pasta e della panificazione   
@@ -592,7 +597,7 @@ barbabietole
 02 06 02 rifiuti dall'impiego di conservanti   
 02 06 03 fanghi dal trattamento sul posto degli effluenti   
 02 06 99 rifiuti non specificati altrimenti   
-02 07 00 rifiuti dalla produzione di bevande alcoliche ed   
+02 07 00 rifiuti della produzione di bevande alcoliche ed   
 analcoliche (tranne caffe', te' e cacao)   
 02 07 01 rifiuti da operazioni di lavaggio, pulizia e macinazione   
 della materia prima   
@@ -623,20 +628,21 @@ contenenti composti inorganici
 polpa e cartone   
 03 03 01 corteccia   
 03 03 02 fecce e fanghi (recupero dei bagni di macerazione)   
-03 03 03 fanghi derivanti da trattamenti di sbianca con ipocloriti e cloro   
+03 03 03 fanghi derivanti da trattamenti di sbianca con ipocloriti   
+e cloro   
 03 03 04 fanghi derivanti da altri trattamenti di sbianca   
 03 05 05 fanghi derivanti da processi di deinchiostrazione nel   
 riciclaggio della carta   
 03 03 06 fibra e fanghi di carta   
 03 03 07 scarti del riciclaggio della carta e del cartone   
 03 03 99 rifiuti non specificati altrimenti   
-04 00 00 RIFIUTI DELLA PRODUZIONE CONCIARLA E TESSILE   
-04 01 00 rifiuti dell'industria della lavorazione della pelle   
+04 00 00 RIFIUTI DELLA PRODUZIONE CONCIARIA E TESSILE   
+04 01 00 rifiuti dell'industria e della lavorazione della pelle   
 04 01 01 carniccio e frammenti di calce   
 04 01 02 rifiuti di calcinazione   
 04 01 03 bagni di sgrassatura esauriti contenenti solventi senza   
 fase liquida   
-04 01 04 liquido di concia contenente cromo   
+04 01 04 liquido di concia contente cromo   
 04 01 05 liquido di concia non contenente cromo   
 04 01 06 fanghi contenenti cromo   
 04 01 07 fanghi non contenenti cromo   
@@ -650,10 +656,12 @@ finitura
 naturali, principalmente di origine vegetale   
 04 02 02 rifiuti da fibre tessili grezze principalmente di origine   
 animale   
-04 02 03 rifiuti da fibre tessili grezze principalmente artificali o sintetiche   
+04 02 03 rifiuti da fibre tessili grezze principalmente artificiali o sintetiche   
 04 02 04 rifiuti da fibre tessili grezze miste prima della filatura e della tessitura   
-04 02 05 rifiuti da fibre tessili lavorate principalmente di origine vegetale   
-04 02 06 rifiuti da fibre tessili lavorate principalmente di origine animale   
+04 02 05 rifiuti da fibre tessili lavorate principalmente di   
+origine vegetale   
+04 02 06 rifiuti da fibre tessili lavorate principalmente di   
+origine animale   
 04 02 07 rifiuti da fibre tessili lavorate principalmente   
 artificiali o sintetiche   
 04 02 08 rifiuti da fibre tessili lavorate miste   
@@ -728,11 +736,13 @@ manutenzione
 alogenuri   
 06 03 05 sali solidi contenenti cloruri, fluoruri ed altri sali   
 solidi di alogenati   
-06 03 06 soluzioni saline contenenti fosfati e sali solidi collegati 06 03 07 fosfati e sali solidi collegati   
+06 03 06 soluzioni saline contenenti fosfati e sali solidi   
+collegati   
+06 03 07 fosfati e sali solidi collegati   
 06 03 08 soluzioni saline contenenti nitrati e composti collegati   
 06 03 09 sali solidi contenenti nitruri (nitrometalli)   
 06 03 10 sali solidi contenenti ammonio   
-06 03 11 sali e soluzioni contenenti cianuri   
+06 03 11 sali solidi contenenti cianuri   
 06 03 12 sali e soluzioni contenenti composti organici   
 06 03 99 rifiuti non specificati altrimenti   
 06 04 00 rifiuti contenenti metalli   
@@ -762,13 +772,15 @@ silicio
 06 09 99 rifiuti non specificati altrimenti   
 06 10 00 rifiuti da processi chimici dell'azoto e produzione di   
 fertilizzanti   
-06 10 01 rifiuti da processi chimici dell'azoto e produzione di   
+06 10 01 rifiuti da processi dell'azoto e produzione di   
 fertilizzanti   
 06 11 00 rifiuti dalla produzione di pigmenti inorganici ed   
 opacificanti   
 06 11 01 gesso dalla produzione di biossido di titanio   
 06 11 99 rifiuti non specificati altrimenti   
-06 12 00 rifiuti da produzione, uso e rigenerazione di catalizzatori 06 12 01 catalizzatori esauriti contenenti metalli preziosi   
+06 12 00 rifiuti da produzione, uso e rigenerazione di   
+catalizzatori   
+06 12 01 catalizzatori esauriti contenenti metalli preziosi   
 06 12 02 altri catalizzatori esauriti   
 06 13 00 rifiuti da altri processi chimici inorganici   
 06 13 01 pesticidi, biocidi ed agenti conservativi del legno di   
@@ -781,47 +793,55 @@ natura inorganica
 (PFFU) di prodotti chimici organici di base   
 07 01 01 soluzioni acquose di lavaggio ed acque madri   
 07 01 02 fanghi da trattamento sul posto degli effluenti   
-07 01 03 solventi organici alogenati, soluzioni di lavaggio di acque madri   
+07 01 03 solventi organici alogenati, soluzioni di lavaggio di   
+acque madri   
 07 01 04 altri solventi organici, soluzioni di lavaggio ed acque   
 madri   
 07 01 05 catalizzatori esauriti contenenti metalli preziosi   
 07 01 06 altri catalizzatori esauriti   
 07 01 07 fondi di distillazione e residui di reazione alogenati   
 07 01 08 altri fondi di distillazione e residui di reazione   
-07 01 09 residui di filtrazione, assorbenti esauriti contaminati da composti organici alogenati   
+07 01 09 residui di filtrazione, assorbenti esauriti contaminati   
+da composti organici alogenati   
 07 01 10 altri residui di filtrazione e assorbenti esauriti   
 07 01 99 rifiuti non specificati altrimenti   
 07 02 00 rifiuti da PFFU di plastiche, gomme sintetiche e fibre   
 artificiali   
 07 02 01 soluzioni di lavaggio e acque madri   
 07 02 02 fanghi da trattamento sul posto degli effluenti   
-07 02 03 solventi organici alogenati, soluzioni di lavaggio ed acque madri   
+07 02 03 solventi organici alogenati, soluzioni di lavaggio ed   
+acque madri   
 07 02 04 altri solventi organici, soluzioni di lavaggio ed acque   
 madri   
 07 02 05 catalizzatori esauriti contenenti metalli preziosi   
 07 02 06 altri catalizzatori esauriti   
 07 02 07 fondi di distillazione e residui di reazione alogenati   
 07 02 08 altri fondi di distillazione e residui di reazione   
-07 02 09 residui di filtrazione, assorbenti esauriti contaminati da composti organici alogenati   
+07 02 09 residui di filtrazione, assorbenti esauriti contaminati   
+da composti organici alogenati   
 07 02 10 altri residui di filtrazione, assorbenti esauriti   
 07 02 99 rifiuti non specificati altrimenti   
-07 03 00 rifiuti da PFFU di coloranti e pigmenti organici (tranne 06 11 00)   
+07 03 00 rifiuti da PFFU di coloranti e pigmenti organici (tranne   
+06 11 00)   
 07 03 01 soluzioni acquose di lavaggio ed acque madri   
 07 03 02 fanghi da trattamento sul posto di effluenti   
-07 03 03 solventi organici alogenati, soluzioni di lavaggio ed acque madri   
+07 03 03 solventi organici alogenati, soluzioni di lavaggio ed   
+acque madri   
 07 03 04 altri solventi organici, soluzioni di lavaggio ed acque   
 madri   
 07 03 05 catalizzatori esauriti contenenti metalli preziosi   
 07 03 06 altri catalizzatori esauriti   
 07 03 07 fondi di distillazione e residui di reazione alogenati   
 07 03 08 altri fondi di distillazione e residui di reazione   
-07 03 09 residui di filtrazione, assorbenti esauriti contaminati da composti organici alogenati   
+07 03 09 residui di filtrazione, assorbenti esauriti contaminati   
+da composti organici alogenati   
 07 03 10 altri residui di filtrazione, assorbenti esauriti   
 07 03 99 rifiuti non specificati altrimenti   
 07 04 00 rifiuti da PFFU di pesticidi organici (tranne 02 01 05)   
 07 04 01 soluzioni acquose di lavaggio ed acque madri   
-07 04 02 fanghi da trattamento sul posto di effluenti   
-07 04 03 solventi organici alogenati, soluzioni di lavaggio ed acque madri   
+07 04 02 fanghi dal trattamento sul posto di effluenti   
+07 04 03 solventi organici alogenati, soluzioni di lavaggio ed   
+acque madri   
 07 04 04 altri solventi organici, soluzioni di lavaggio ed acque   
 madri   
 07 04 05 catalizzatori esauriti contenenti metalli preziosi   
@@ -834,46 +854,53 @@ madri
 07 05 00 rifiuti da PFFU di prodotti farmaceutici   
 07 05 01 soluzioni acquose di lavaggio ed acque madri   
 07 05 02 fanghi da trattamento sul posto di effluenti   
-07 05 03 solventi organici alogenati, soluzioni di lavaggio ed acque madri   
-07 05 04 altri solventi organici alogenati, soluzioni di lavaggio ed acque madri   
+07 05 03 solventi organici alogenati, soluzioni di lavaggio ed   
+acque madri   
+07 05 04 altri solventi organici alogenati, soluzioni di lavaggio   
+ed acque madri   
 07 05 05 catalizzatori esauriti contenenti metalli preziosi   
 07 05 06 altri catalizzatori esauriti   
 07 05 07 fondi di distillazione e residui di reazione alogenati   
 07 05 08 altri fondi di distillazione e residui di reazione   
-07 05 09 residui di filtrazione, assorbenti esauriti contaminati da composti organici alogenati   
+07 05 09 residui di filtrazione, assorbenti esauriti contaminati   
+da composti organici alogenati   
 07 05 10 altri residui di filtrazione, assorbenti esauriti   
 07 05 99 rifiuti non specificati altrimenti   
-07 06 00 rifiuti da PFFU di cere, grassi, saponi, detergenti,   
-disinfettanti e cosmetici   
+07 06 00 rifiuti da PFFU di cere, grassi, saponi, detergenti e   
+cosmetici   
 07 06 01 soluzioni acquose di lavaggio ed acque madri   
 07 06 02 fanghi da trattamento sul posto di effluenti   
-07 06 03 solventi organici alogenati, soluzioni di lavaggio ed acque madri   
+07 06 03 solventi organici alogenati, soluzioni di lavaggio ed   
+acque madri   
 07 06 04 altri solventi organici, soluzioni di lavaggio ed acque   
 madri   
 07 06 05 catalizzatori esauriti contenenti metalli preziosi   
 07 06 06 altri catalizzatori esauriti   
 07 06 07 fondi di distillazione e residui di reazione alogenati   
 07 06 08 altri fondi di distillazione e residui di reazione   
-07 06 09 residui di filtrazione, assorbenti esauriti contaminati da composti organici alogenati   
+07 06 09 residui di filtrazione, assorbenti esauriti contaminati   
+da composti organici alogenati   
 07 06 10 altri residui di filtrazione, assorbenti esauriti   
 07 06 99 rifiuti non specificati altrimenti   
 07 07 00 rifiuti da PFFU di prodotti della chimica fine e prodotti   
 chimici non specificati altrimenti   
 07 07 01 soluzioni acquose di lavaggio ed acque madri   
 07 07 02 fanghi da trattamento sul posto di effluenti   
-07 07 03 solventi organici alogenati, soluzioni di lavaggio ed acque madri   
+07 07 03 solventi organici alogenati, soluzioni di lavaggio ed   
+acque madri   
 07 07 04 altri solventi organici, soluzioni di lavaggio ed acque   
 madri   
 07 07 05 catalizzatori esauriti contenenti metalli preziosi   
 07 07 06 altri catalizzatori esauriti   
 07 07 07 fondi di distillazione e residui di reazione alogenati   
 07 07 08 altri fondi di distillazione e residui di reazione   
-07 07 09 residui di filtrazione, assorbenti esauriti contaminati da composti organici alogenati   
+07 07 09 residui di filtrazione, assorbenti esauriti da composti   
+organici alogenati   
 07 07 10 altri residui di filtrazione, assorbenti esauriti   
 07 07 99 rifiuti non specificati altrimenti   
 08 00 00 RIFIUTI DA PRODUZIONE, FORMULAZIONE, FORNITURA ED USO   
-(PFFU) DI RIVESTIMENTI (PITTURE, VERNICI E SMALTI VETRATI),   
-SIGILLANTI E INCHIOSTRI PER STAMPA   
+(PFFU) DI RIVESTIMENTI (PITTURE, VERNICI, E SMALTI   
+VETRATI), SIGILLANTI E INCHIOSTRI PER STAMPA   
 08 01 00 rifiuti da PFFU di pitture e vernici   
 08 01 01 pitture e vernici di scarto contenenti solventi organici   
 alogenati   
@@ -943,16 +970,19 @@ composti dell'argento
 10 01 00 rifiuti di centrali termiche ed altri impianti termici   
 (eccetto 19 00 00)   
 10 01 01 ceneri pesanti   
-10 01 02 ceneri leggere   
+10 01 01 ceneri leggere   
 10 01 03 ceneri leggere e torba   
 10 01 04 ceneri leggere di olio   
 10 01 05 rifiuti solidi derivanti da reazioni a base di calcio nei   
 processi di desolforazione dei fumi   
 10 01 06 altri rifiuti solidi derivanti dal trattamento dei fumi   
-10 01 07 fanghi derivanti da reazioni a base di calcio nei processi di desolforazione dei fumi   
+10 01 07 fanghi derivanti da reazioni a base di calcio nei   
+processi di desolforazione dei fumi   
 10 01 08 altri fanghi derivanti dal trattamento dei fumi   
 10 01 09 acido solforico   
-10 01 10 catalizzatori esauriti, ad esempio per la denitrificazione 10 01 11 fanghi acquosi da operazioni di pulizia caldaia   
+10 01 10 catalizzatori esauriti, ad esempio per la   
+denitrificazione   
+10 01 11 fanghi acquosi da operazioni di pulizia caldaia   
 10 01 12 rivestimenti e refrattari inutilizzabili   
 10 01 99 rifiuti non specificati altrimenti   
 10 02 00 rifiuti dell'industria del ferro e dell'acciaio   
@@ -981,7 +1011,7 @@ dall'elettrolisi
 macinazione)   
 10 03 13 rifiuti solidi derivanti dal trattamento fumi   
 10 03 14 fanghi derivanti dal trattamento fumi   
-10 03 99 rifiuti non specificati altrimenti   
+10 02 99 rifiuti non specificati altrimenti   
 10 04 00 rifiuti della metallurgia termica del piombo   
 10 04 01 scorie (di prima e seconda fusione)   
 10 04 02 incrostazioni e loppe (prima e seconda fusione)   
@@ -1003,7 +1033,7 @@ macinazione)
 10 05 99 rifiuti non specificati altrimenti   
 10 06 00 rifiuti della metallurgia termica del rame   
 10 06 01 scorie (prima e seconda fusione)   
-10 06 02 incrostazioni e loppe (prima e seconda fusione)   
+10 06 02 incrostazione e loppe (prima e seconda fusione)   
 10 06 03 polveri dai gas effluenti da camino   
 10 06 04 altre polveri e particolato   
 10 06 05 rifiuti della raffinazione elettrolitica   
@@ -1011,7 +1041,9 @@ macinazione)
 10 06 07 rifiuti dei trattamenti a secco dei fumi   
 10 06 08 rivestimenti e refrattari inutilizzabili   
 10 06 99 rifiuti non specificati altrimenti   
-10 07 00 rifiuti della metallurgia termica di argento, oro e platino 10 07 01 scorie (di prima e seconda fusione)   
+10 07 00 rifiuti della metallurgia termica di argento, oro e   
+platino   
+10 07 01 scorie (di prima e seconda fusione)   
 10 07 02 incrostazioni e loppe (prima e seconda fusione)   
 10 07 03 rifiuti solidi derivanti dal trattamento fumi   
 10 07 04 altre polveri e particolato   
@@ -1053,7 +1085,9 @@ vetro
 10 11 99 rifiuti non specificati altrimenti   
 10 12 00 rifiuti della fabbricazione di prodotti di ceramica,   
 mattoni, mattonelle e materiali da costruzione   
-10 12 01 miscela di preparazione scartata prima del processo termico 10 12 02 polveri dai gas effluenti da camino   
+10 12 01 miscela di preparazione scartata prima del processo   
+termico   
+10 12 02 polveri dai gas effluenti da camino   
 10 12 03 altre polveri e particolato   
 10 12 04 rifiuti solidi derivanti dal trattamento fumi   
 10 12 05 fanghi derivanti dal trattamento fumi   
@@ -1062,19 +1096,24 @@ mattoni, mattonelle e materiali da costruzione
 10 12 99 rifiuti non specificati altrimenti   
 10 13 00 rifiuti della fabbricazione di cemento, calce e gesso e   
 manufatti con questi materiali   
-10 13 01 miscela di preparazione scartata prima del processo termico 10 13 02 rifiuti della fabbricazione di amianto cemento   
-10 13 03 rifiuti della fabbricazione di altri materiali compositi in cemento   
+10 13 01 miscela di preparazione scartata prima del processo   
+termico   
+10 13 02 rifiuti della fabbricazione di amianto cemento   
+10 13 03 rifiuti della fabbricazione di altri materiali compositi   
+in cemento   
 10 13 04 rifiuti della calcinazione e dell'idratazione del calcare   
 10 13 05 rifiuti solidi derivanti dal trattamento fumi   
 10 13 06 altre polveri e particolato   
 10 13 07 fanghi derivanti dal trattamento fumi   
-10 13 08 rivestimento e refrattari inutilizzabili   
+10 13 08 rivestimenti e refrattari inutilizzabili   
 10 13 99 rifiuti non specificati altrimenti   
 11 00 00 RIFIUTI INORGANICI CONTENENTI METALLI PROVENIENTI DAL   
-TRATTAMENTO E RICOPERTURA DI METALLI; IDROMETALLURGIA NON F   
+TRATTAMENTO E RICOPERTURA DI METALLI; IDROMETALLURGIA NON   
+FERROSA   
 11 01 00 rifiuti liquidi e fanghi dal trattamento e ricopertura di   
-metalli (ad esempio, processi galvanici, zincatura, decapag   
-incisione, fosfatazione, sgrassaggio con alcali)   
+metalli (ad esempio, processi galvanici, zincatura,   
+decapaggio, incisione, fosfatazione, sgrassaggio con   
+alcali)   
 11 01 01 soluzioni alcaline da cianuri contenenti metalli pesanti   
 tranne cromo   
 11 01 02 soluzioni alcaline da cianuri non contenenti metalli   
@@ -1088,18 +1127,23 @@ pesanti
 11 02 00 rifiuti e fanghi da processi idrometallurgici di metalli   
 non ferrosi   
 11 02 01 rifiuti da processi idrometallurgici dei rame   
-11 02 02 rifiuti da processi idrometallurgici dello zinco (compresi jarosite, goethite)   
+11 02 02 rifiuti da processi idrometallurgici dello zinco   
+(compresi jarosite, goethite)   
 11 02 03 rifiuti della produzione di anodi per processi   
 elettrolitici acquosi   
 11 02 04 fanghi non specificati altrimenti   
 11 03 00 rifiuti e fanghi da processi di tempra   
 11 03 01 rifiuti contenenti cianuri   
 11 03 02 altri rifiuti   
-11 04 00 altri rifiuti inorganici contenenti metalli non specificati altrimenti   
-11 04 01 altri rifiuti inorganici contenenti metalli non specificati altrimenti   
+11 04 00 altri rifiuti inorganici contenenti metalli non   
+specificati altrimenti   
+11 04 01 altri rifiuti inorganici metalli non specificati   
+altrimenti   
 12 00 00 RIFIUTI DI LAVORAZIONE E DI TRATTAMENTO SUPERFICIALE DI   
 METALLI E PLASTICA   
-12 01 00 rifiuti di lavorazione (forgiatura, saldatura, stampaggio, trafilatura, smussamento, perforazione, taglio, troncatura limatura)   
+12 01 00 rifiuti di lavorazione (forgiatura, saldatura,   
+stampaggio, trafilatura, smussamento, perforazione, taglio,   
+troncatura e limatura)   
 12 01 01 limatura, scaglie e polveri di metalli ferrosi   
 12 01 02 altre particelle di metalli ferrosi   
 12 01 03 limatura, scaglie e polveri di metalli non ferrosi   
@@ -1108,7 +1152,7 @@ METALLI E PLASTICA
 12 01 06 oli esauriti per macchinari contenenti alogeni (non   
 emulsionati)   
 12 01 07 oli esauriti per macchinari non contenenti alogeni (non   
-emulsionati)   
+emulsionati   
 12 01 08 emulsioni esauste per macchinari contenenti alogeni   
 12 01 09 emulsioni esauste per macchinari non contenenti alogeni   
 12 01 10 oli sintetici per macchinari   
@@ -1116,7 +1160,9 @@ emulsionati)
 12 01 12 grassi e cere esauriti   
 12 01 13 rifiuti di saldatura   
 12 01 99 rifiuti non specificati altrimenti   
-12 02 00 rifiuti di trattamento meccanico di superficie (sabbiatura, frantumazione, rettificazione, lappatura, lucidatura)   
+12 02 00 rifiuti di trattamento meccanico di superficie   
+(sabbiatura, frantumazione, rettificazione, lappatura,   
+lucidatura)   
 12 02 01 polvere per sabbiatura esausta   
 12 02 02 fanghi da rettifica, affilatura e lappatura   
 12 02 03 fanghi di lucidatura   
@@ -1129,9 +1175,10 @@ emulsionati)
 12 00 00)   
 13 01 00 oli esauriti da circuiti idraulici e freni   
 13 01 01 oli per circuiti idraulici contenenti PCB e PCT   
-13 01 02 altri oli per circuiti idraulici (non emulsioni) contenenti composti organici clorurati   
-13 01 03 altri oli per circuiti idraulici (non emulsioni) non   
+13 01 02 altri oli per circuiti idraulici (non emulsioni)   
 contenenti composti organici clorurati   
+13 01 03 altri oli per circuiti idraulici (non emulsioni)   
+non contenenti composti organici clorurati   
 13 01 04 emulsioni contenenti composti organici clorurati   
 13 01 05 emulsioni non contenenti composti organici clorurati   
 13 01 06 oli per circuiti idraulici a formulazione esclusivamente   
@@ -1144,29 +1191,31 @@ contenenti composti organici clorurati
 13 02 02 oli esauriti da motori, trasmissioni ed ingranaggi non   
 contenenti composti organici clorurati   
 13 02 03 altri oli da motori, trasmissioni e ingranaggi   
-13 03 00 oli isolanti e di trasmissione di calore esauriti ed altri liquidi   
-13 03 01 oli isolanti e di trasmissione di calore esauriti ed altri liquidi contenenti PCB e PCT   
+13 03 00 oli isolanti e di trasmissione di calore esauriti ed   
+altri liquidi   
+13 03 01 oli isolanti e di trasmissione di calore esauriti ed   
+altri liquidi contenenti PCB e PCT   
 13 03 02 altri oli isolanti e di trasmissione di calore ed altri   
 liquidi contenenti composti organici clorurati   
 13 03 03 oli isolanti e di trasmissione di calore ed altri liquidi   
 non contenenti composti organici clorurati   
-13 03 04 oli isolanti e termoconduttori ed altri liquidi a   
+13 03 04 oli isolanti e termoconduttori ed altri liquidi e   
 formulazione sintetica   
 13 03 05 oli isolanti e termoconduttori a formulazione minerale   
 13 04 00 oli di cala   
-13 04 01 oli di cala da navigazione interna   
+13 04 01 oli di cala di navigazione interna   
 13 04 02 oli di cala derivanti dalle fognature dei moli   
 13 04 03 oli di cala da altre navigazioni   
 13 05 00 prodotti di separazione olio/acqua   
 13 05 01 solidi di separazione olio/acqua   
 13 05 02 fanghi di separazione olio/acqua   
-13 05 03 fanghi da collettori   
+13 05 03 fanghi di collettori   
 13 05 04 fanghi o emulsioni da dissalatori   
 13 05 05 altre emulsioni   
 13 06 00 altri rifiuti oleosi non specificati altrimenti   
 13 06 01 altri rifiuti oleosi non specificati altrimenti   
 14 00 00 RIFIUTI DI SOSTANZE ORGANICHE UTILIZZATE COME SOLVENTI   
-(TRANNE 07 00 00 e 08 00 00)   
+(TRANNE 07 00 00 E 08 00 00)   
 14 01 00 rifiuti di sgrassaggio di metalli e manutenzione di   
 apparecchiatura   
 14 01 01 clorofluorocarburi (CFC)   
@@ -1185,7 +1234,7 @@ solventi alogenati
 14 03 00 rifiuti dell'industria elettronica   
 14 03 01 clorofluorocarburi (CFC)   
 14 03 02 altri solventi alogenati   
-14 03 03 solventi o miscele di solventi non contenenti solventi   
+14 03 03 solventi e miscele di solventi non contenenti solventi   
 alogenati   
 14 03 04 fanghi o rifiuti solidi contenenti solventi alogenati   
 14 03 05 fanghi o rifiuti solidi contenenti altri solventi   
@@ -1225,13 +1274,15 @@ veicoli
 16 01 05 parti leggere provenute dalla demolizione di veicoli   
 16 01 99 rifiuti non specificati altrimenti   
 16 02 00 apparecchiature o parti di apparecchiature fuori uso   
-16 02 01 trasformatori o condensatori contenenti PCB o PCT   
+16 02 01 trasformatori o condensatori contenenti PCB E PCT   
 16 02 02 altro materiale elettronico fuori uso (per esempio:   
 circuiti stampati)   
 16 02 03 apparecchiature contenenti clorofluorocarburi   
 16 02 04 apparecchiature fuori uso contenenti amianto in fibre   
 16 02 05 altre apparecchiature fuori uso   
-16 02 06 rifiuti derivanti dai processi di lavorazione dell'amianto 16 02 07 rifiuti derivanti dall'industria per la produzione di   
+16 02 06 rifiuti derivanti dai processi di lavorazione   
+dell'amianto   
+16 02 07 rifiuti derivanti dall'industria per la produzione di   
 convertitori in plastica   
 16 02 08 rifiuti della demolizione dei veicoli   
 16 03 00 prodotti fuori specifica   
@@ -1243,13 +1294,14 @@ convertitori in plastica
 16 04 03 altri rifiuti esplosivi di scarto   
 16 05 00 gas e sostanze chimiche in contenitori   
 16 05 01 gas industriali contenuti in cilindri ad alta pressione,   
-contenitori LPG e contenitori per aerosol industriali (comp   
-halon)   
+contenitori LPG e contenitori per aerosol industriali   
+(compresi gli halon)   
 16 05 02 altri rifiuti contenenti prodotti chimici inorganici, es.   
-sostanze chimiche di laboratorio non specificate altriment   
-estinguenti   
-16 05 03 altri rifiuti contenenti prodotti chimici organici, es.   
-sostanze chimiche di laboratorio non specificate altriment   
+sostanze chimiche di laboratorio non specificate   
+altrimenti, polveri estinguenti   
+16 05 03 altri rifiuti contenenti prodotti chimici, organici,   
+es. sostanze chimiche di laboratorio non specificate   
+altrimenti   
 16 06 00 batterie ed accumulatori   
 16 06 01 accumulatori al piombo   
 16 06 02 accumulatori al nichel-cadmio   
@@ -1266,8 +1318,10 @@ prodotti chimici
 contenenti oli   
 16 07 04 rifiuti della pulizia di vagoni cisterne ed autocisterne   
 contenenti prodotti chimici   
-16 07 05 rifiuti della pulizia di serbatoi di stoccaggio contenenti prodotti chimici   
-16 07 06 rifiuti della pulizia di serbatoi di stoccaggio contenenti oli   
+16 07 05 rifiuti della pulizia di serbatoi di stoccaggio   
+contenenti prodotti chimici   
+16 07 06 rifiuti della pulizia di serbatoi di stoccaggio   
+contenenti oli   
 16 07 07 rifiuti solidi dalla pulizia di stive di navi   
 16 07 99 rifiuti non specificati altrimenti   
 17 00 00 RIFIUTI DI COSTRUZIONI E DEMOLIZIONI (COMPRESA LA   
@@ -1305,24 +1359,29 @@ gesso
 17 07 00 rifiuti misti di costruzioni e demolizioni   
 17 07 01 rifiuti misti di costruzioni e demolizioni   
 18 00 00 RIFIUTI DI RICERCA MEDICA E VETERINARIA (TRANNE I RIFIUTI   
-DI CUCINA E DI RISTORAZIONE CHE NON DERIVINO DIRETTAMENTE D   
-DI CURA)   
+DI CUCINA E DI RISTORAZIONE CHE NON DERIVINO DIRETTAMENTE   
+DA LUOGHI DI CURA)   
 18 01 00 rifiuti da maternita', diagnosi e prevenzione delle   
 malattie negli uomini   
 18 01 01 oggetti da taglio (bisturi, rasoi)   
-18 01 02 parti anatomiche ed organi incluse le sacche per il plasma e le sostanze per la conservazione del sangue   
+18 01 02 parti anatomiche ed organi incluse le sacche per il   
+plasma e le sostanze per la conversione di sangue   
 18 01 03 altri rifiuti la cui raccolta e smaltimento richiede   
-precauzioni particolari in funzione della prevenzione di in   
+precauzioni particolari in funzione della prevenzione di   
+infezioni   
 18 01 04 rifiuti la cui raccolta e smaltimento non richiede   
-precauzioni particolari in funzione della prevenzione di in   
-(es. abbigliamenti, contenitori ed indumenti monouso)   
+precauzioni in funzione della prevenzione di infezioni (es.   
+abbigliamento, contenitori ed indumenti monouso)   
 18 01 05 sostanze chimiche e medicinali di scarto   
-18 02 00 rifiuti della ricerca, diagnosi, trattamento e prevenzione delle malattie negli animali   
+18 02 00 rifiuti della ricerca, diagnosi, trattamento e   
+prevenzione delle malattie negli animali   
 18 02 01 oggetti da taglio (bisturi, rasoi)   
 18 02 02 altri rifiuti la cui raccolta e smaltimento richiede   
-precauzioni particolari in funzione della prevenzione di in   
+precauzioni particolari in funzione della prevenzione di   
+infezioni   
 18 02 03 rifiuti la cui raccolta e smaltimento non richiede   
-precauzioni particolari in funzione della prevenzione di in   
+precauzioni particolari in funzione della prevenzione di   
+infezioni   
 18 02 04 sostanze chimiche di scarto   
 19 00 00 RIFIUTI DA IMPIANTI DI TRATTAMENTO RIFIUTI, IMPIANTI DI   
 TRATTAMENTO ACQUE REFLUE FUORI SITO E INDUSTRIE DELL'ACQUA 19 01 00 rifiuti da incenerimento o pirolisi di rifiuti urbani ed   
@@ -1333,13 +1392,17 @@ assimilabili da commercio, industrie ed istituzioni
 19 01 04 polveri di caldaia   
 19 01 05 residui di filtrazione prodotti dagli impianti di   
 trattamento dei fumi   
-19 01 06 acque reflue da trattamento dei fumi ed altre acque reflue 19 01 07 rifiuti solidi derivanti dal trattamento fumi   
+19 01 06 acque reflue da trattamento dei fumi ed altre acque   
+reflue   
+19 01 07 rifiuti solidi derivanti dal trattamento fumi   
 19 01 08 rifiuti di pirolisi   
-19 01 09 catalizzatori esauriti, ad esempio per l'abbattimento degli Nox   
+19 01 09 catalizzatori esauriti, ad esempio per l'abbattimento   
+degli Nox   
 19 01 10 carbone attivo esaurito dal trattamento dei fumi   
 19 01 99 rifiuti non specificati altrimenti   
-19 02 00 rifiuti da trattamenti chimico/fisici specifici di rifiuti industriali (ad esempio decromatazione, decianizzazione,   
-neutralizzazione)   
+19 02 00 rifiuti da trattamenti chimico/fisici specifici di   
+rifiuti industriali (ad esempio decromatazione,   
+decianizzazione, neutralizzazione)   
 19 02 01 fanghi di idrossidi di metalli ed altri fanghi da   
 trattamento di precipitazione dei metalli   
 19 02 02 miscele di rifiuti per lo stoccaggio finale   
@@ -1348,7 +1411,7 @@ trattamento di precipitazione dei metalli
 19 03 02 rifiuti stabilizzati/solidificati con leganti organici   
 19 03 03 rifiuti stabilizzati con trattamenti biologici   
 19 04 00 rifiuti vetrificati e rifiuti di vetrificazione   
-19 04 01 rifiuti vetrificati   
+19 04 01 rifiuti verificati   
 19 04 02 ceneri leggere ed altri rifiuti di trattamento dei fumi   
 19 04 03 fase solida non vetrificata   
 19 04 04 rifiuti acquosi dalla tempra di rifiuti vetrificati   
@@ -1358,20 +1421,23 @@ trattamento di precipitazione dei metalli
 19 05 03 composti fuori specifica   
 19 05 99 rifiuti non specificati altrimenti   
 19 06 00 rifiuti dal trattamento anaerobico dei rifiuti   
-19 06 01 fanghi da trattamento anaerobico di rifiuti urbani e simili 19 06 02 fanghi da trattamento anaerobico di rifiuti animali e   
+19 06 01 fanghi da trattamento anaerobico di rifiuti urbani e   
+simili   
+19 06 02 fanghi da trattamento anaerobico di rifiuti animali e   
 vegetali   
 19 06 99 rifiuti non specificati altrimenti   
 19 07 00 percolato di discarica   
 19 07 01 percolato di discariche   
-19 08 00 rifiuti da impianti di trattamento delle acque reflue non   
-specificati altrimenti   
+19 08 00 rifiuti da impianti di trattamento delle acque reflue   
+non specificati altrimenti   
 19 08 01 mondiglia   
 19 08 02 rifiuti di dissabbiamento (filtrazioni acque)   
 19 08 03 grassi ed oli da separatori olio/acqua   
 19 08 04 fanghi dal trattamento delle acque reflue industriali   
 19 08 05 fanghi di trattamento delle acque reflue urbane   
 19 08 06 resine di scambio ionico sature od esauste   
-19 08 07 soluzioni e fanghi di rigenerazione delle resine a scambio ionico   
+19 08 07 soluzioni e fanghi di rigenerazione delle resine a   
+scambio ionico   
 19 08 99 rifiuti non specificati altrimenti   
 19 09 00 rifiuti della preparazione di acqua potabile od acqua per   
 uso commerciale   
@@ -1380,10 +1446,12 @@ uso commerciale
 19 09 03 fanghi di impianti di decarbonatazione delle acque   
 19 09 04 carbone attivo esaurito   
 19 09 05 resine di scambio ionico sature od esauste   
-19 09 06 soluzioni e fanghi di rigenerazione delle resine a scambio ionico   
+19 09 06 soluzioni e fanghi di rigenerazione delle resine a   
+scambio ionico   
 19 09 99 rifiuti non specificati altrimenti   
 20 00 00 RIFIUTI SOLIDI URBANI ED ASSIMILABILI DA COMMERCIO,   
-INDUSTRIA ED ISTITUZIONI INCLUSI I RIFIUTI DELLA RACCOLTA DIFFERENZIATA   
+INDUSTRIA ED ISTITUZIONI INCLUSI I RIFIUTI DELLA RACCOLTA   
+DIFFERENZIATA   
 20 01 00 raccolta differenziata   
 20 01 01 carta e cartone   
 20 01 02 vetro   
@@ -1392,7 +1460,9 @@ INDUSTRIA ED ISTITUZIONI INCLUSI I RIFIUTI DELLA RACCOLTA DIFFERENZIATA
 20 01 05 metallo (piccole dimensioni, es. lattine)   
 20 01 06 altri tipi di metallo   
 20 01 07 legno   
-20 01 08 rifiuti di natura organica utilizzabili per il compostaggio (compresi oli per frittura e rifiuti di mense e ristoranti)   
+20 01 08 rifiuti di natura organica utilizzabili per il   
+compostaggio (compresi oli per frittura e rifiuti di mense   
+e ristoranti)   
 20 01 09 oli e grassi   
 20 01 10 abiti   
 20 01 11 prodotti tessili   
@@ -1409,7 +1479,8 @@ INDUSTRIA ED ISTITUZIONI INCLUSI I RIFIUTI DELLA RACCOLTA DIFFERENZIATA
 20 01 22 aerosol   
 20 01 23 apparecchiature contenenti clorofluorocarburi   
 20 01 24 apparecchiature elettroniche (schede elettroniche)   
-20 02 00 rifiuti di giardini e parchi (inclusi i rifiuti provenienti da cimiteri)   
+20 02 00 rifiuti di giardini e parchi (inclusi i rifiuti   
+provenienti da cimiteri)   
 20 02 01 rifiuti compostabili   
 20 02 02 terreno e rocce   
 20 02 03 altri rifiuti non compostabili   

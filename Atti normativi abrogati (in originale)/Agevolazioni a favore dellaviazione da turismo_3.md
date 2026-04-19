@@ -1,8 +1,8 @@
-LEGGE 29 marzo 1949 n. 162
+LEGGE 02 febbraio 1955 n. 27
 
 
-LEGGE 29 marzo 1949 n. 162
-==========================
+LEGGE 02 febbraio 1955 n. 27
+============================
 
 Agevolazioni a favore dell'aviazione da turismo.
 ------------------------------------------------
@@ -22,14 +22,15 @@ Articolo unico
 
   
   
-L'esenzione dalle tasse di approdo, di partenza e di ricovero, prevista dal [regio decreto-legge 20 luglio 1934, n. 1362](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1934-07-20;1362), convertito nella [legge 4 aprile 1935, n. 806](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1935-04-04;806), e' estesa, per la durata, di due anni dalla data di entrata in vigore della presente legge, agli aeromobili da turismo di tipo e di fabbricazione straniera che, alla data di pubblicazione della presente legge, risultino gia' di proprieta' di cittadini italiani o di societa' italiane regolarmente costituite e siano gia' stati regolarmente immatricolati nel Registro aeronautico nazionale.  
+La durata dell'esenzione dalle tasse di approdo, di partenza e di ricovero, concessa ad aeromobili da turismo di tipo e di fabbricazione straniera con l'articolo unico della [legge 29 marzo 1949, n. 162](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1949-03-29;162), ed elevata a quattro anni con l'articolo unico della [legge 18 dicembre 1952, n. 3088](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1952-12-18;3088), e' ulteriormente elevata ad anni sette.  
+Dalla data di entrata in vigore della presente legge e fino al 18 maggio 1950 la esenzione dalle tasse di cui al comma precedente e' estesa agli aeromobili da turismo di tipo e di fabbricazione straniera di proprieta' di cittadini italiani o di societa' italiane regolarmente costituite, immatricolati nel Registro aeronautico italiano tra il 4 maggio 1949 e il 18 maggio 1953.  
   
 
 La presente legge, munita del sigillo dello Stato, sara' inserta nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarla e di farla osservare come legge dello Stato.
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Data a Roma, addi' 29 marzo 1949
+### Data a Roma, addi' 2 febbraio 1955
 
-EINAUDI DE GASPERI - PACCIARDI - VANONI
+EINAUDI SCELBA - TAVIANI - VANONI - TREMELLONI
 
-Visto, il Guardasigilli: GRASSI
+Visto, il Guardasigilli: DE PIETRO

@@ -1,14 +1,14 @@
-DECRETO-LEGGE 29 aprile 1995 n. 143
+DECRETO-LEGGE 28 agosto 1995 n. 360
 
 
-DECRETO-LEGGE 29 aprile 1995 n. 143
+DECRETO-LEGGE 28 agosto 1995 n. 360
 ===================================
 
 Differimento di termini previsti da disposizioni legislative in 
 materia di interventi in campo economico e sociale.
 --------------------------------------------------------------------------------------------------------------------
 
-Entrata in vigore del decreto: 30/4/1995.Decreto-Legge decaduto per mancata conversione.
+Entrata in vigore del decreto: 29-8-1995.Decreto-Legge decaduto per mancata conversione.
 
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
@@ -17,9 +17,9 @@ Visti gli [articoli 77](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:cost
 
 Ritenuta la straordinaria necessita' ed urgenza di emanare disposizioni concernenti il differimento di termini previsti da disposizioni legislative in materia di interventi in campo economico e sociale;
 
-Vista la deliberazione del Consiglio dei Ministri, adottata nella riunione del 28 aprile 1995;
+Vista la deliberazione del Consiglio dei Ministri, adottata nella riunione del 25 agosto 1995;
 
-Sulla proposta del Presidente del Consiglio dei Ministri e Ministro del tesoro, di concerto con i Ministri dell'universita' e della ricerca scientifica e tecnologica, del lavoro e della previdenza sociale, dell'industria, del commercio e dell'artigianato e del commercio con l'estero, della sanita' e del bilancio e della programmazione economica;
+Sulla proposta del Presidente del Consiglio dei Ministri e Ministro del tesoro, di concerto con i Ministri dell'universita' e della ricerca scientifica e tecnologica, delle risorse agricole, alimentari e forestali, del lavoro e della previdenza sociale, dell'industria, del commercio e dell'artigianato e del commercio con l'estero, della sanita', del bilancio e della programmazione economica e delle poste e delle telecomunicazioni;
 
 E M A N A il seguente decreto-legge:
 
@@ -34,11 +34,18 @@ Interventi nel campo della ricerca
 
 3. Al fine di consentire la prosecuzione delle attivita' scientifiche, di ricerca e di formazione del Centro internazionale di fisica teorica di Trieste (I.C.T.P.), in attesa della ratifica e conseguente entrata in vigore dell'accordo tripartito tra Italia, UNESCO ed AIEA, e' autorizzata la concessione al Centro medesimo di un contributo straordinario di lire 10 miliardi nel biennio 1994-1995, in ragione di lire 6 miliardi per l'anno 1994 e di lire 4 miliardi per l'anno 1995. Al relativo onere si provvede a carico dello stanziamento iscritto sul capitolo 7706 dello stato di previsione del Ministero dell'universita' e della ricerca scientifica e tecnologica per l'anno 1994 e corrispondente capitolo per l'anno successivo.
 
-4. Il termine per la definizione, da parte dei soggetti interessati, dei contenuti dei contratti concernenti la vendita, l'uso o la locazione finanziaria di immobili di cui all'[articolo 3 della legge 23 dicembre 1992, n. 498](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1992-12-23;498~art3), resta fissato al 30 giugno 1995.
+4. Il termine per la definizione, da parte dei soggetti interessati, dei contenuti dei contratti concernenti la vendita, l'uso o la locazione finanziaria di immobili di cui all'[articolo 3 della legge 23 dicembre 1992, n. 498](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1992-12-23;498~art3), resta fissato al 30 ottobre 1995.
 
-5. Il termine previsto dall'[articolo 4, comma secondo, della legge 3 aprile 1979, n. 122](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1979-04-03;122~art4-com2), gia' differito al 18 aprile 1995 dall'[articolo 9, comma 8, della legge 15 dicembre 1990, n. 396](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-12-15;396~art9-com8), e' ulteriormente differito al 30 giugno 1995.
+5. Il termine previsto dall'[articolo 4, comma secondo, della legge 3 aprile 1979, n. 122](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1979-04-03;122~art4-com2), gia' differito al 18 aprile 1995 dall'[articolo 9, comma 8, della legge 15 dicembre 1990, n. 396](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-12-15;396~art9-com8), e' ulteriormente differito al 30 ottobre 1995.
 
 Art. 2
+------
+
+Proroga del termine per la diffusione delle trasmissioni televisive in forma codificata via satellite o via cavo
+
+1. All'articolo 11, comma 2, primo periodo, del [decreto-legge 27 agosto 1993, n. 323](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1993-08-27;323), convertito, con modificazioni, dalla [legge 27 ottobre 1993, n. 422](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-10-27;422), le parole: "per un periodo di due anni dalla data di entrata in vigore del presente decreto" sono sostituite dalle seguenti: "fino al 31 dicembre 1996".
+
+Art. 3
 ------
 
 Interventi nel settore agricolo
@@ -47,7 +54,7 @@ Interventi nel settore agricolo
 
 2. Il termine di cui al [comma 3 dell'articolo 70 della legge 30 dicembre 1991, n. 413](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1991-12-30;413~art70-com3), concernente le agevolazioni tributarie per la formazione e l'arrotondamento della proprieta' contadina, e' prorogato al 31 dicembre 1997. Alle relative minori entrate provvede la Cassa per la piccola proprieta' contadina, mediante versamento, previo accertamento da parte della Amministrazione finanziaria, all'entrata del bilancio dello Stato.
 
-3. Per il primo anno di applicazione della disciplina recata dal [decreto legislativo 11 agosto 1993, n. 375](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-08-11;375), i termini per l'effettuazione degli adempimenti di cui agli articoli 2, 4, 5 e 7 del predetto decreto sono fissati al 30 giugno 1995.
+3. Per il primo anno di applicazione della disciplina recata dal [decreto legislativo 11 agosto 1993, n. 375](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-08-11;375), i termini per l'effettuazione degli adempimenti di cui agli articoli 2, 4, 5 e 7 del predetto decreto sono fissati al 30 ottobre 1995.
 
 4. La disciplina relativa all'autorizzazione sanitaria prevista dal regolamento sulla vigilanza igienica del latte destinato al consumo diretto, approvato con [regio decreto 9 maggio 1929, n. 994](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1929-05-09;994), e successive modificazioni, dalla [legge 30 aprile 1962, n. 283](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1962-04-30;283), e successive modificazioni, e ai decreti ministeriali numeri 184 e [185 del 9 maggio 1991](http://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.:decreto:1991-05-09;185) si intende riferita soltanto alle aziende di produzione (vaccherie) di latte crudo destinato alla produzione di latte alimentare trattato termicamente, nonche' di latte crudo destinato ad essere utilizzato per la produzione di latte fresco pastorizzato di alta qualita'.
 
@@ -57,18 +64,18 @@ Interventi nel settore agricolo
 
 7. Il termine fissato dall'[articolo 14 della legge 4 giugno 1984, n. 194](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1984-06-04;194~art14), da ultimo differito dall'[articolo 3 della legge 7 febbraio 1992, n. 140](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1992-02-07;140~art3), e' ulteriormente differito al 31 dicembre 1995. Per la predetta finalita' e' autorizzata la spesa di lire 2 miliardi per ciascuno degli anni 1994 e 1995. Al relativo onere si provvede a carico dello stanziamento iscritto al capitolo 1140 dello stato di previsione del Ministero delle risorse agricole, alimentari e forestali per l'anno 1994 e corrispondente capitolo per l'anno successivo.
 
-Art. 3
+Art. 4
 ------
 
 Interventi nei settori produttivi
 
-1. Il termine di cui all'[articolo 7, comma 3, della legge 5 marzo 1990, n. 46](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-03-05;46~art7-com3), e' differito al 30 giugno 1995. Il mancato rispetto del termine suindicato comporta l'applicazione, nei confronti del proprietario dell'immobile, dell'amministratore di condominio per le utenze di uso comune o comunque del soggetto incaricato della gestione degli impianti, di una sanzione amministrativa da lire cinquecentomila a lire cinque milioni, secondo le modalita' che saranno determinate con decreto del Ministro dell'industria, del commercio e dell'artigianato, da emanarsi entro sei mesi dalla data di entrata in vigore del presente decreto.
+1. Il termine di cui all'[articolo 7, comma 3, della legge 5 marzo 1990, n. 46](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-03-05;46~art7-com3), e' differito al 30 ottobre 1995. Il mancato rispetto del termine suindicato comporta l'applicazione, nei confronti del proprietario dell'immobile, dell'amministratore di condominio per le utenze di uso comune o comunque del soggetto incaricato della gestione degli impianti, di una sanzione amministrativa da lire cinquecentomila a lire cinque milioni, secondo le modalita' che saranno determinate con decreto del Ministro dell'industria, del commercio e dell'artigianato, da emanarsi entro sei mesi dalla data di entrata in vigore del presente decreto.
 
 2. Il termine previsto dall'[articolo 13, comma 1, della legge 5 febbraio 1992, n. 122](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1992-02-05;122~art13-com1), per l'iscrizione nel registro delle imprese esercenti attivita' di autoriparazione, previsto dall'articolo 2 della stessa legge, e' differito alla data di entrata in vigore del [decreto del Presidente della Repubblica 18 aprile 1994, n. 387](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1994-04-18;387).
 
 3. Il termine previsto dall'[articolo 13, comma 4, della legge 5 febbraio 1992, n. 122](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1992-02-05;122~art13-com4), per la documentazione della sussistenza dei requisiti di cui alle lettere a) e b) del comma 1 dell'articolo 3 della medesima legge, e' differito di due mesi a decorrere dalla data di entrata in vigore del presente decreto.
 
-4. E' differito al 30 giugno 1995 il termine previsto dall'[articolo 16, comma 4, della legge 17 febbraio 1992, n. 166](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1992-02-17;166~art16-com4), relativo alla decorrenza degli effetti della disposizione di cui all'articolo 4 della medesima legge. Gli ammessi a partecipare alla prima prova di idoneita' per l'iscrizione nel ruolo nazionale di cui all'articolo 1 della predetta [legge n. 166 del 1992](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1992;166) possono continuare ad esercitare transitoriamente l'attivita' di perito assicurativo fino alla comunicazione dell'esito della prova.
+4. E' differito al 30 ottobre 1995 il termine previsto dall'[articolo 16, comma 4, della legge 17 febbraio 1992, n. 166](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1992-02-17;166~art16-com4), relativo alla decorrenza degli effetti della disposizione di cui all'articolo 4 della medesima legge. Gli ammessi a partecipare alla prima prova di idoneita' per l'iscrizione nel ruolo nazionale di cui all'articolo 1 della predetta [legge n. 166 del 1992](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1992;166) possono continuare ad esercitare transitoriamente l'attivita' di perito assicurativo fino alla comunicazione dell'esito della prova.
 
 5. In attesa del riordino della Commissione nazionale per i periti assicurativi, prevista dall'[articolo 7 della legge 17 febbraio 1992, n. 166](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1992-02-17;166~art7), le materie e gli argomenti del programma di esame della prova di idoneita' per l'iscrizione nel ruolo di cui al comma 1 sono individuati dal Ministero dell'industria, del commercio e dell'artigianato, che provvede all'accertamento dei requisiti per l'iscrizione e per l'ammissione all'esame, cui possono partecipare i soggetti in possesso di diploma di istruzione secondaria superiore o di laurea.
 
@@ -76,15 +83,15 @@ Interventi nei settori produttivi
 
 7. Le disposizioni di cui all'[articolo 2, comma 3, della legge 28 dicembre 1991, n. 421](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1991-12-28;421~art2-com3), si applicano anche alle somme impegnate per la concessione di contributi a favore delle societa' promotrici di centri commerciali all'ingrosso di cui alla [legge 28 febbraio 1986, n. 41](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1986-02-28;41).
 
-8. Il termine del 31 marzo 1993 previsto dall'[articolo 9-quater, comma 9, del decreto-legge 9 settembre 1988, n. 397](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1988-09-09;397~art9quater-com9), convertito, con modificazioni, dalla [legge 9 novembre 1988, n. 475](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-11-09;475), e' prorogato fino al 30 giugno 1995, nonche' fino all'attuazione da parte dei comuni della raccolta differenziata, che deve avvenire entro il termine del 30 dicembre 1995.
+8. Il termine del 31 marzo 1993 previsto dall'[articolo 9-quater, comma 9, del decreto-legge 9 settembre 1988, n. 397](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1988-09-09;397~art9quater-com9), convertito, con modificazioni, dalla [legge 9 novembre 1988, n. 475](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-11-09;475), e' prorogato fino al 30 ottobre 1995, nonche' fino all'attuazione da parte dei comuni della raccolta differenziata che deve avvenire entro il termine del 30 dicembre 1995.
 
-9. Sono prorogati al 30 giugno 1995 i termini previsti dalla [legge 28 dicembre 1993, n. 549](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-12-28;549), recante misure a tutela dell'ozono stratosferico e dell'ambiente, fatto salvo quanto disposto dal [regolamento CEE n. 594/91](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:31991R0594), come modificato ed integrato dal successivo [regolamento CEE n. 3952/92](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:31992R3952).
+9. Sono prorogati al 30 ottobre 1995 i termini previsti dalla [legge 28 dicembre 1993, n. 549](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-12-28;549), recante misure a tutela dell'ozono stratosferico e dell'ambiente, fatto salvo quanto disposto dal [regolamento CEE n. 594/91](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:31991R0594), come modificato ed integrato dal successivo [regolamento CEE n. 3952/92](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:31992R3952).
 
 10. Il termine del 31 marzo 1995 previsto all'[articolo 1, comma 3, del decreto-legge 20 giugno 1994, n. 396](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1994-06-20;396~art1-com3), convertito, con modificazioni, dalla [legge 3 agosto 1994, n. 481, ed all'articolo 1, comma 1, lettera c)](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-08-03;481~art1-com1-letc), del [decreto del Ministro dell'industria, del commercio e dell'artigianato 12 ottobre 1994, n. 683](http://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.industria.commercio.artigianato:decreto:1994-10-12;683), per la distruzione degli impianti oggetto di incentivazione, e' prorogato al 31 dicembre 1995.
 
-11. Il termine per la presentazione della documentazione integrativa prevista a corredo delle domande di concessione di contributi gia' presentate resta confermato al 31 marzo 1995.
+11. Il termine per la presentazione della documentazione integrativa prevista a corredo delle domande di concessione di contributi gia' presentata resta confermato al 31 marzo 1995.
 
-Art. 4
+Art. 5
 ------
 
 Previdenza e assistenza
@@ -97,7 +104,7 @@ Previdenza e assistenza
 
 4. Sono differiti al 30 giugno 1995 i termini del 1 ottobre 1994 previsti al [comma 5 dell'articolo 9 della legge 11 marzo 1988, n. 67](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-03-11;67~art9-com5), come sostituito dall'[articolo 11, commi 27](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-12-24;537~art11-com27) e [28, della legge 24 dicembre 1993, n. 537](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-12-24;537~art11-com28).
 
-Art. 5
+Art. 6
 ------
 
 Interventi in materia sanitaria
@@ -116,33 +123,31 @@ a) al comma 1, le parole: "entro trenta giorni dalla data di entrata in vigore d
 
 b) al comma 2, le parole: "entro trenta giorni dalla data di entrata in vigore del presente decreto" sono sostituite dalle seguenti: "entro il 28 febbraio 1994".
 
-3. All'[articolo 22, comma 3, del decreto legislativo 30 dicembre 1992, n. 537](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992-12-30;537~art22-com3), le parole: "nel termine di un anno" sono sostituite dalle seguenti: "nel termine di due anni".
+3. I termini di cui al [comma 1 dell'articolo 1 del decreto-legge 27 agosto 1993, n. 324](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1993-08-27;324~art1-com1), convertito, con modificazioni, dalla [legge 27 ottobre 1993, n. 423](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-10-27;423), sono prorogati sino all'entrata in vigore delle leggi regionali attuative dell'[articolo 3 del decreto legislativo 7 dicembre 1993, n. 517](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-12-07;517~art3), e comunque non oltre il 30 giugno 1994. Alla stessa data e' prorogata la durata in carica dei collegi dei revisori delle unita' sanitarie locali, anche in deroga alla disciplina sulla proroga degli organi amministrativi e di controllo.
 
-4. I termini di cui al [comma 1 dell'articolo 1 del decreto-legge 27 agosto 1993, n. 324](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1993-08-27;324~art1-com1), convertito, con modificazioni, dalla [legge 27 ottobre 1993, n. 423](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-10-27;423), sono prorogati sino all'entrata in vigore delle leggi regionali attuative dell'[articolo 3 del decreto legislativo 7 dicembre 1993, n. 517](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-12-07;517~art3), e comunque non oltre il 30 giugno 1994. Alla stessa data e' prorogata la durata in carica dei collegi dei revisori delle unita' sanitarie locali, anche in deroga alla disciplina sulla proroga degli organi amministrativi e di controllo.
+4. Le regioni che abbiano gia' emanato la disciplina, anche parziale, di cui all'[articolo 3, comma 5, del decreto legislativo 30 dicembre 1992, n. 502](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992-12-30;502~art3-com5), come sostituito dall'[articolo 4, comma 1, lettera c), del decreto legislativo 7 dicembre 1993, n. 517](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-12-07;517~art4-com1-letc), o nell'ambito delle quali si verifichino vacanze nell'incarico di amministratore straordinario presso le unita' sanitarie locali, possono procedere alla nomina di commissari straordinari che subentrano nella gestione delle unita' sanitarie locali, sino alla nomina del direttore generale ai sensi dell'[articolo 3 del decreto legislativo 30 dicembre 1992, n. 502](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992-12-30;502~art3), come modificato dall'[articolo 4 del decreto legislativo 7 dicembre 1993, n. 517](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-12-07;517~art4).
 
-5. Le regioni che abbiano gia' emanato la disciplina, anche parziale, di cui all'[articolo 3, comma 5, del decreto legislativo 30 dicembre 1992, n. 502](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992-12-30;502~art3-com5), come sostituito dall'[articolo 4, comma 1, lettera c), del decreto legislativo 7 dicembre 1993, n. 517](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-12-07;517~art4-com1-letc), o nell'ambito delle quali si verifichino vacanze nell'incarico di amministratore straordinario presso le unita' sanitarie locali, possono procedere alla nomina di commissari straordinari che subentrano nella gestione delle unita' sanitarie locali, sino alla nomina del direttore generale ai sensi dell'[articolo 3 del decreto legislativo 30 dicembre 1992, n. 502](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992-12-30;502~art3), come modificato dall'[articolo 4 del decreto legislativo 7 dicembre 1993, n. 517](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-12-07;517~art4).
+5. All'[articolo 3, comma 13, del decreto legislativo 30 dicembre 1992, n. 502](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992-12-30;502~art3-com13), come modificato dall'[articolo 4, comma 1, lettera i), del decreto legislativo 7 dicembre 1993, n. 517](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-12-07;517~art4-com1-leti), sono inserite, dopo le parole: "variazioni ed assestamento", le seguenti: "ed informa il controllo sugli atti ai principi contenuti nell'[articolo 2403 del codice civile](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art2403)".
 
-6. All'[articolo 3, comma 13, del decreto legislativo 30 dicembre 1992, n. 502](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992-12-30;502~art3-com13), come modificato dall'[articolo 4, comma 1, lettera i), del decreto legislativo 7 dicembre 1993, n. 517](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-12-07;517~art4-com1-leti), sono inserite, dopo le parole: "variazioni ed assestamento", le seguenti: "ed informa il controllo sugli atti ai principi contenuti nell'[articolo 2403 del codice civile](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art2403)".
+6. All'[articolo 13, comma 7, del decreto legislativo 30 dicembre 1992, n. 538](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992-12-30;538~art13-com7), dopo le parole: "hanno presentato" sono aggiunte le seguenti: "o presentino entro il 28 febbraio 1994".
 
-7. All'[articolo 13, comma 7, del decreto legislativo 30 dicembre 1992, n. 538](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992-12-30;538~art13-com7), dopo le parole: "hanno presentato" sono aggiunte le seguenti: "o presentino entro il 28 febbraio 1994".
+7. I termini di cui all'[articolo 10, comma 2, del decreto legislativo 30 giugno 1993, n. 266](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-06-30;266~art10-com2), sono differiti al 30 ottobre 1995.
 
-8. I termini di cui all'[articolo 10, comma 2, del decreto legislativo 30 giugno 1993, n. 266](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-06-30;266~art10-com2), sono differiti al 30 giugno 1995.
+8. I termini di cui all'[articolo 10, comma 2, del decreto legislativo 30 giugno 1993, n. 270](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-06-30;270~art10-com2), e' differito fino all'entrata in vigore delle leggi regionali di attuazione dell'articolo 2, comma 5, del predetto decreto legislativo e, comunque, non oltre il 1 gennaio 1996.
 
-9. I termini di cui all'[articolo 10, comma 2, del decreto legislativo 30 giugno 1993, n. 270](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-06-30;270~art10-com2), e' differito fino all'entrata in vigore delle leggi regionali di attuazione dell'articolo 2, comma 5, del predetto decreto legislativo e, comunque, non oltre il 1 gennaio 1996.
+9. La disposizione di cui all'[articolo 3, comma 23, della legge 24 dicembre 1993, n. 537](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-12-24;537~art3-com23), non si applica, limitatamente al numero massimo di venti unita', al personale a contratto il cui utilizzo gradualmente si rende necessario per lo svolgimento dell'attivita' di assistenza sanitaria e medico-legale al personale navigante, marittimo e dell'aviazione civile, assistito dal Ministero della sanita' ai sensi del [decreto del Presidente della Repubblica 31 luglio 1980, n. 620](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-31;620). Lo svolgimento dell'attivita' suddetta non costituisce, in nessun caso, titolo per l'assunzione nei ruoli dell'Amministrazione.
 
-10. La disposizione di cui all'[articolo 3, comma 23, della legge 24 dicembre 1993, n. 537](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-12-24;537~art3-com23), non si applica, limitatamente al numero massimo di venti unita', al personale a contratto il cui utilizzo gradualmente si rende necessario per lo svolgimento dell'attivita' di assistenza sanitaria e medico-legale al personale navigante, marittimo e dell'aviazione civile, assistito dal Ministero della sanita' ai sensi del [decreto del Presidente della Repubblica 31 luglio 1980, n. 620](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-31;620). Lo svolgimento dell'attivita' suddetta non costituisce, in nessun caso, titolo per l'assunzione nei ruoli dell'Amministrazione.
-
-11. L'[articolo 5 del decreto del Presidente della Repubblica 28 marzo 1994, n. 268](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1994-03-28;268~art5), e' sostituito dal seguente:  
+10. L'[articolo 5 del decreto del Presidente della Repubblica 28 marzo 1994, n. 268](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1994-03-28;268~art5), e' sostituito dal seguente:  
 "Art. 5. - 1. Le disposizioni del presente regolamento entrano in vigore il centottantesimo giorno successivo a quello della sua pubblicazione nella Gazzetta Ufficiale.".
 
-12. Ai fini della revisione delle acque minerali, il termine previsto dall'[articolo 21 del decreto legislativo 25 gennaio 1992, n. 105](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992-01-25;105~art21), e' differito al 31 dicembre 1995.
+11. Ai fini della revisione delle acque minerali, il termine previsto dall'[articolo 21 del decreto legislativo 25 gennaio 1992, n. 105](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992-01-25;105~art21), e' differito al 31 dicembre 1995.
 
-13. All'[articolo 4, comma 1, del decreto del Ministro della sanita' 9 maggio 1991, n. 184](http://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.sanita:decreto:1991-05-09;184~art4-com1), la lettera b) e' sostituita dalla seguente:  
+12. All'[articolo 4, comma 1, del decreto del Ministro della sanita' 9 maggio 1991, n. 184](http://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.sanita:decreto:1991-05-09;184~art4-com1), la lettera b) e' sostituita dalla seguente:  
 " b) la provenienza di latte crudo da aziende di produzione e da centri di raccolta conformi alla legislazione nazionale attualmente vigente, fino all'entrata in vigore del decreto legislativo di recepimento della [direttiva 92/46/CEE del Consiglio del 16 giugno 1992](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:31992L0046), che stabilisce le norme sanitarie per la produzione e la commercializzazione di latte crudo, di latte trattato termicamente e di prodotti a base di latte;".
 
-14. L'applicazione delle disposizioni di cui agli [articoli 4](http://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.sanita:decreto:1991-01-25;217~art4) e [5 del decreto del Ministro della sanita' 25 gennaio 1991, n. 217](http://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.sanita:decreto:1991-01-25;217~art5), e, conseguentemente, delle sanzioni di cui all'[articolo 21, comma 4, del decreto del Presidente della Repubblica 24 maggio 1988, n. 236](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1988-05-24;236~art21-com4), decorre, rispettivamente, dal 28 febbraio 1996 e dal 31 dicembre 1995, tranne che per le zone territoriali di cui all'articolo 1 del citato decreto del Ministro della sanita' n. 217.
+13. L'applicazione delle disposizioni di cui agli [articoli 4](http://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.sanita:decreto:1991-01-25;217~art4) e [5 del decreto del Ministro della sanita' 25 gennaio 1991, n. 217](http://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.sanita:decreto:1991-01-25;217~art5), e, conseguentemente, delle sanzioni di cui all'[articolo 21, comma 4, del decreto del Presidente della Repubblica 24 maggio 1988, n. 236](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1988-05-24;236~art21-com4), decorre, rispettivamente, dal 28 febbraio 1996 e dal 31 dicembre 1995, tranne che per le zone territoriali di cui all'articolo 1 del citato decreto del Ministro della sanita' n. 217.
 
-Art. 6
+Art. 7
 ------
 
 Disposizioni in materia di cittadini extracomunitari
@@ -160,7 +165,7 @@ Disposizioni in materia di cittadini extracomunitari
 
 5. Le somme rese disponibili per effetto della revoca del contributo di cui all'[articolo 11, comma 5, del decreto-legge 30 dicembre 1989, n. 416](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1989-12-30;416~art11-com5), convertito, con modificazioni, dalla [legge 28 febbraio 1990, n. 39](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-02-28;39), sono versate dalle regioni interessate ad apposito capitolo dello stato di previsione dell'entrata del bilancio statale per essere riassegnate, con decreto del Ministro del tesoro, ad apposito capitolo dello stato di previsione della Presidenza del Consiglio dei Ministri.
 
-Art. 7
+Art. 8
 ------
 
 Disposizioni in materia di mobilita'  
@@ -170,20 +175,20 @@ e di trattamento di integrazione salariale
 
 2. I periodi massimi di fruizione dei trattamenti di cui all'[articolo 1, comma 3](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1993-06-21;199~art1-com3), e all'[articolo 2, comma 1, del decreto-legge 21 giugno 1993, n. 199](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1993-06-21;199~art2-com1), convertito, con modificazioni, dalla [legge 9 agosto 1993, n. 293](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-08-09;293), possono essere prorogati di un anno, limitatamente alle unita' che fruiscono delle indennita' ivi previste alla data di entrata in vigore del presente decreto e comunque entro il limite di 1.500 unita', fermo restando, relativamente ai lavoratori che percepiscono l'indennita' di cui all'[articolo 1 del decreto-legge 21 giugno 1993, n. 199](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1993-06-21;199~art1), convertito, con modificazioni, dalla [legge 9 agosto 1993, n. 293](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-08-09;293), e per la durata della corresponsione della medesima, l'obbligo del versamento del contributo addizionale pari a quello previsto dall'[articolo 8, comma 1, del decreto-legge 21 marzo 1988, n. 86](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1988-03-21;86~art8-com1), convertito, con modificazioni, dalla [legge 20 maggio 1988, n. 160](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-05-20;160). A decorrere dal 30 dicembre 1993 non sono piu' proponibili le domande di cui all'[articolo 1, comma 2](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1993-06-21;199~art1-com2), e all'[articolo 2, comma 3, del decreto-legge 21 giugno 1993, n. 199](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1993-06-21;199~art2-com3), convertito, con modificazioni, dalla [legge 9 agosto 1993, n. 293](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-08-09;293).
 
-Art. 8
+Art. 9
 ------
 
 Editoria speciale periodica per i non vedenti
 
-1. A decorrere dall'anno 1994 all'editoria speciale periodica per non vedenti, prodotta con caratteri tipografici normali, su nastro magnetico e in Braille, e' riservato un contributo annuo di lire 1.000 milioni ripartito con i criteri e le modalita' di cui al [decreto del Presidente della Repubblica 3 aprile 1990, n. 78](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1990-04-03;78). Al relativo onere si provvede a carico dello stanziamento del capitolo 1383 dello stato di previsione della Presidenza del Consiglio dei Ministri per l'anno 1994 e corrispondenti capitoli per gli anni successivi.
+1. A decorrere dall'anno 1994 all'editoria speciale periodica per non vedenti, prodotta con caratteri tipografici normali, su nastro magnetico e in braille, e' riservato un contributo annuo di lire 1.000 milioni ripartito con i criteri e le modalita' di cui al [decreto del Presidente della Repubblica 3 aprile 1990, n. 78](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1990-04-03;78). Al relativo onere si provvede a carico dello stanziamento del capitolo 1383 dello stato di previsione della Presidenza del Consiglio dei Ministri per l'anno 1994 e corrispondenti capitoli per gli anni successivi.
 
-Art. 9
-------
+Art. 10
+-------
 
 Commissione nazionale per la parita'  
 e pari opportunita' tra uomo e donna
 
-1. Le somme destinate alla realizzazione delle finalita' della Commissione per la parita' e per le pari opportunita' tra uomo e donna, istituita con [legge 22 giugno 1990, n. 164](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-06-22;164), contenute, in ogni caso nell'ambito degli ordinari stanziamenti di bilancio, potranno essere utilizzate anche per riconoscere ai componenti della Commissione e dei gruppi di lavoro istituiti nell'ambito della stessa ed ai segretari, gettoni di presenza per l'attivita' svolta in seno al Collegio, nella misura da determinarsi con decreto del Presidente del Consiglio dei Ministri, di concerto con il Ministro del tesoro, nonche' per fronteggiare ogni altra spesa anche di rappresentanza.
+1. Le somme destinate alla realizzazione delle finalita' della Commissione per la parita' e per le pari opportunita' tra uomo e donna, istituita con [legge 22 giugno 1990, n. 164](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-06-22;164), contenute, in ogni caso nell'ambito degli ordinari stanziamenti di bilancio, potranno essere utilizzate anche per riconoscere ai componenti della Commissione e dei gruppi di lavoro istituiti nell'ambito della stessa ed ai segretari, gettoni di presenza per l'attivita' svolta in seno al collegio, nella misura da determinarsi con decreto del Presidente del Consiglio dei Ministri, di concerto con il Ministro del tesoro, nonche' per fronteggiare ogni altra spesa anche di rappresentanza.
 
 2. All'[articolo 3, comma 1, della legge 22 giugno 1990, n. 164](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-06-22;164~art3-com1), sono apportate le seguenti modificazioni:
 
@@ -193,23 +198,27 @@ a) l'alinea e' sostituito dal seguente:
 b) la lettera c) e' sostituita dalla seguente:  
 " c) quattro, prescelte nell'ambito delle organizzazioni sindacali dei lavoratori maggiormente rappresentantive sul piano nazionale;".
 
-Art. 10
+Art. 11
 -------
 
 Entrata in vigore
 
-1. Il presente decreto entra in vigore il giorno successivo a quello della sua pubblicazione nella Gazzetta Ufficiale della Repubblica italiana e sara' presentato alle Camere per la conversione in legge.
+1. Il presente decreto entra in vigore il giorno stesso della sua pubblicazione nella Gazzetta Ufficiale della Repubblica italiana e sara' presentato alle Camere per la conversione in legge.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserito nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 29 aprile 1995
+### Dato a Roma, addi' 28 agosto 1995
 
 SCALFARO
 
 DINI, Presidente del Consiglio dei Ministri e Ministro del tesoro
 
 SALVINI, Ministro dell'universita' e della ricerca scientifica e tecnologica
+
+LUCHETTI, Ministro delle risorse
+
+agricole, alimentari e forestali
 
 TREU, Ministro del lavoro e della previdenza sociale
 
@@ -218,5 +227,7 @@ CLO', Ministro dell'industria, del commercio e dell'artigianato e del commercio 
 GUZZANTI, Ministro della sanita'
 
 MASERA, Ministro del bilancio e della programmazione economica
+
+GAMBINO, Ministro delle poste e delle telecomunicazioni
 
 Visto, il Guardasigilli: MANCUSO

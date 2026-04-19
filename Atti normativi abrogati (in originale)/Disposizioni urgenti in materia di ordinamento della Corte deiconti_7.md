@@ -1,14 +1,14 @@
-DECRETO-LEGGE 27 ottobre 1995 n. 439
+DECRETO-LEGGE 23 dicembre 1995 n. 541
 
 
-DECRETO-LEGGE 27 ottobre 1995 n. 439
-====================================
+DECRETO-LEGGE 23 dicembre 1995 n. 541
+=====================================
 
 Disposizioni urgenti in materia di ordinamento della Corte dei 
 conti.
 ----------------------------------------------------------------------
 
-Entrata in vigore del decreto: 29-10-1995.Decreto-Legge decaduto per mancata conversione.
+Entrata in vigore del decreto: 28/12/1995.Decreto-Legge decaduto per mancata conversione.
 
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
@@ -17,7 +17,7 @@ Visti gli [articoli 77](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:cost
 
 Ritenuta la straordinaria necessita' ed urgenza di emanare disposizioni in materia di ordinamento della Corte dei conti per garantire, con la necessaria immediatezza, l'esercizio delle funzioni giurisdizionali e di controllo, anche a seguito di talune esigenze emerse nella fase di prima attuazione delle disposizioni dettate dal [decreto-legge 15 novembre 1993, n. 453](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1993-11-15;453), convertito, con modificazioni, dalla [legge 14 gennaio 1994, n. 19](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-01-14;19), e dalla [legge 14 gennaio 1994, n. 20](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-01-14;20);
 
-Vista la deliberazione del Consiglio dei Ministri, adottata nella riunione del 27 ottobre 1995;
+Vista la deliberazione del Consiglio dei Ministri, adottata nella riunione del 21 dicembre 1995;
 
 Sulla proposta del Presidente del Consiglio dei Ministri e Ministro del tesoro;
 
@@ -58,7 +58,7 @@ Azione di responsabilita'
 a) il comma 2 e' sostituito dal seguente:  
 " 2. Il diritto al risarcimento del danno si prescrive in ogni caso in cinque anni, decorrenti dalla data in cui si e' verificato il fatto dannoso, ovvero, in caso di occultamento doloso del danno, dalla data della sua scoperta.";
 
-b) dopo il comma 2-bis, introdotto dall'[articolo 10 del decreto-legge 2 ottobre 1995, n. 414](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1995-10-02;414~art10), sono aggiunti i seguenti:  
+b) dopo il comma 2-bis, introdotto dall'[articolo 12 del decreto-legge 4 dicembre 1995, n. 514](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1995-12-04;514~art12), sono aggiunti i seguenti:  
 "2-ter. Per i fatti verificatisi anteriormente alla data di entrata in vigore della presente legge e per i quali stia decorrendo un termine di prescrizione decennale, la prescrizione si compie entro il 31 dicembre 1998, ovvero nel piu' breve termine dato dal compiersi del decennio.  
 2-quater. La prescrizione e' interrotta dall'avviso di cui all'[articolo 5 del decreto-legge 15 novembre 1993, n. 453](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1993-11-15;453~art5), convertito, con modificazioni, dalla [legge 14 gennaio 1994, n. 19](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-01-14;19), dalla notificazione dell'atto con il quale si inizia il giudizio, dalla sentenza di condanna e, per una sola volta, dagli accertamenti istruttori disposti ai sensi delle vigenti disposizioni.  
 2-quinquies. La prescrizione interrotta comincia nuovamente a decorrere dal giorno dell'interruzione. Se piu' sono gli atti interruttivi, la prescrizione decorre dall'ultimo di essi. In nessun caso il termine puo' essere protratto oltre i dieci anni dall'atto che ha dato inizio al giudizio, fatti salvi i casi di sospensione e interruzione necessaria del processo ai sensi delle vigenti disposizioni. Non si applicano le disposizioni dell'[articolo 2945, commi secondo](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art2945-com2) e [terzo, del codice civile](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art2945-com3).  
@@ -121,12 +121,12 @@ Art. 10
 
 Entrata in vigore
 
-1. Il presente decreto entra in vigore il giorno successivo a quello della sua pubblicazione nella Gazzetta Ufficiale della Repubblica italiana e sara' presentato alle Camere per la conversione in legge.
+1. Il presente decreto entra in vigore il giorno stesso della sua pubblicazione nella Gazzetta Ufficiale della Repubblica italiana e sara' presentato alle Camere per la conversione in legge.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserito nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 27 ottobre 1995
+### Dato a Roma, addi' 23 dicembre 1995
 
 SCALFARO
 

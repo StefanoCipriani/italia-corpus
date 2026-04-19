@@ -1,14 +1,14 @@
-DECRETO-LEGGE 29 aprile 1996 n. 234
+DECRETO-LEGGE 28 febbraio 1996 n. 97
 
 
-DECRETO-LEGGE 29 aprile 1996 n. 234
-===================================
+DECRETO-LEGGE 28 febbraio 1996 n. 97
+====================================
 
 Provvedimenti urgenti per il personale dell'Amministrazione 
 penitenziaria e per il servizio di traduzione dei detenuti.
 ------------------------------------------------------------------------------------------------------------------------
 
-Entrata in vigore del decreto: 2-5-1996.Decreto-Legge decaduto per mancata conversione.
+Entrata in vigore del decreto: 3/3/1996.Decreto-Legge decaduto per mancata conversione.
 
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
@@ -17,7 +17,7 @@ Visti gli [articoli 77](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:cost
 
 Ritenuta la straordinaria necessita' ed urgenza di aumentare l'organico del Corpo di polizia penitenziaria, di istituire mense ed asili nido per i dipendenti dell'Amministrazione penitenziaria e di stabilire modalita' per la graduale cessione del servizio di traduzione dei detenuti;
 
-Vista la deliberazione del Consiglio dei Ministri, adottata nella riunione del 24 aprile 1996;
+Vista la deliberazione del Consiglio dei Ministri, adottata nella riunione del 26 febbraio 1996;
 
 Sulla proposta del Presidente del Consiglio dei Ministri e Ministro del tesoro e del Ministro di grazia e giustizia, di concerto con i Ministri dell'interno, della difesa e del bilancio e della programmazione economica;
 
@@ -38,7 +38,7 @@ Interventi concernenti il Corpo di polizia penitenziaria
 
 5. Alla copertura dei posti disponibili a norma del comma 4 si provvede mediante l'assunzione dei candidati risultati idonei in precedenti concorsi e, se permangono vacanze, mediante assunzione dei volontari delle Forze armate congedati senza demerito, e successivamente mediante assunzione degli ausiliari in congedo dell'Arma dei carabinieri e delle altre Forze di polizia. I periodi di tempo previsti dagli [articoli 6](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992-10-30;443~art6) e [7 del decreto legislativo 30 ottobre 1992, n. 443](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992-10-30;443~art7), sono ridotti ad un quarto fino al 31 dicembre 1997. Sono comunque fatte salve le procedure gia' avviate per il reclutamento di agenti ausiliari del Corpo di polizia penitenziaria, le procedure concorsuali gia' in atto, nonche' le procedure per le riammissioni in servizio ai sensi dell'[articolo 42 del decreto legislativo 30 ottobre 1992, n. 443](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992-10-30;443~art42).
 
-6. Ai fini delle assunzioni a norma dei commi 2, 3 e 5 sono formate distinte graduatorie secondo i criteri stabiliti dal decreto del Ministro di grazia e giustizia in data 19 febbraio 1996, pubblicato nella Gazzetta Ufficiale - 4a serie speciale - n. 27 del 2 aprile 1996. Con il medesimo decreto sono stabilite le modalita' e i termini di presentazione delle domande ed e' costituita presso il Dipartimento dell'amministrazione penitenziaria un'apposita commissione per gli accertamenti psicofisici.
+6. Ai fini delle assunzioni a norma dei commi 2, 3 e 5 sono formate distinte graduatorie secondo i criteri stabiliti da un decreto interministeriale da emanarsi entro il 29 febbraio 1996, d'intesa tra il Ministro di grazia e giustizia, il Ministro dell'interno e il Ministro della difesa. Con il medesimo decreto sono stabilite le modalita' e i termini di presentazione delle domande ed e' costituita presso il Dipartimento dell'amministrazione penitenziaria un'apposita commissione per gli accertamenti psicofisici.
 
 7. Il Ministro di grazia e giustizia, di concerto con il Ministro dell'interno e, rispettivamente, con il Ministro delle finanze o della difesa, puo' disporre, con proprio decreto, che i corsi di formazione previsti dal presente articolo che non possono essere svolti presso le scuole di formazione dell'Amministrazione penitenziaria e dell'Ufficio centrale per la giustizia minorile si svolgano presso strutture di altre Forze di polizia, compatibilmente con le esigenze funzionali e ferme le responsabilita' rispettive di ciascuna amministrazione.
 
@@ -56,7 +56,7 @@ penitenziaria e sulle modalita' di traduzione dei detenuti
 
 1. Nell'[articolo 8, comma 1, lettera d), del decreto legislativo 12 maggio 1995, n. 200](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1995-05-12;200~art8-com1-letd), le parole: "a norma dell'articolo 2," sono sostituite dalle seguenti: "a norma dell'articolo 7,". Nell'[articolo 45, comma 1, del decreto legislativo 30 ottobre 1992, n. 443](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992-10-30;443~art45-com1), le parole: "al comma 6" sono sostituite dalle seguenti: "al comma 5".
 
-2. Le modalita' per la graduale cessione del servizio di traduzioni dei detenuti e degli internati dall'Arma dei carabinieri e dalla Polizia di Stato al Corpo della polizia penitenziaria, da attuarsi progressivamente a decorrere dal 1 aprile 1996, sono stabilite con [decreto del Ministro di grazia e giustizia in data 8 febbraio 1996, pubblicato nella Gazzetta Ufficiale n. 77 del 1 aprile 1996](http://www.gazzettaufficiale.it/gazzetta/serie_generale/caricaDettaglio?dataPubblicazioneGazzetta=1996-04-01&numeroGazzetta=77), e da successivi analoghi decreti da emanarsi, di concerto con i Ministri dell'interno e della difesa, entro il 31 dicembre 1996.
+2. Le modalita' per la graduale cessione del servizio di traduzioni dei detenuti e degli internati dall'Arma dei carabinieri e dalla Polizia di Stato al Corpo della polizia penitenziaria, da attuarsi progressivamente a decorrere dal 1 aprile 1996, sono stabilite con uno o piu' decreti del Ministro di grazia e giustizia, previo concerto con i Ministri dell'interno e della difesa, il primo dei quali da emanarsi entro il mese di febbraio 1996 e l'ultimo entro il 31 dicembre 1996.
 
 Art. 3
 ------
@@ -66,16 +66,16 @@ per l'alloggiamento del personale
 
 1. Per la realizzazione delle opere di ampliamento e ristrutturazione, finalizzata alla predisposizione negli istituti penitenziari delle strutture e relativi servizi necessari ad assicurare l'alloggiamento del personale ed il ricovero degli automezzi adibiti alle traduzioni e piantonamenti dei detenuti, e' autorizzata la spesa di lire 27.000 milioni per ciascuno degli anni 1996, 1997 e 1998, che sara' iscritta nello stato di previsione della spesa del Ministero dei lavori pubblici.
 
-2. Il Ministero di grazia e giustizia, ai fini di assicurare alla competente Direzione generale dell'edilizia statale e servizi speciali presso il Ministero dei lavori pubblici il supporto tecnico nell'attivita' di progettazione ed esecuzione delle opere cui al comma 1, e' autorizzato ad avvalersi del personale tecnico assunto ai sensi dell'[articolo 36 della legge 15 dicembre 1990, n. 395](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-12-15;395~art36), fino al 31 dicembre 1997.
+2. Il Ministero di grazia e giustizia, ai fini di assicurare alla competente Direzione generale dell'edilizia statale e servizi speciali presso il Ministero dei lavori pubblici il supporto tecnico nell'attivita' di progettazione ed esecuzione delle opere di cui al comma 1, e' autorizzato ad avvalersi del personale tecnico assunto ai sensi dell'[articolo 36 della legge 15 dicembre 1990, n. 395](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-12-15;395~art36), fino al 31 dicembre 1997.
 
 Art. 4
 ------
 
 Copertura finanziaria
 
-1. All'onere finanziario derivante dall'attuazione dell'articolo 1, relativamente all'assunzione del personale maschile, valutato in lire 21.391 milioni per l'anno 1995, in lire 55.333 milioni per l'anno 1996, e in lire 54.933 milioni a decorrere dal 1997, si provvede a carico degli stanziamenti iscritti sui seguenti capitoli: Ministero di grazia e giustizia - capitolo 1998 per lire 9.090 milioni per l'anno 1995 e per lire 54.933 milioni annui sui corrispondenti capitoli degli esercizi successivi; capitoli 1999, 2000, 2009 e 2083, rispettivamente, per lire 3.838 milioni, lire 3.340 milioni, lire 1.253 milioni, lire 3.080 milioni per l'anno 1995; capitolo 2086 per lire 400 milioni per l'anno 1996; Ministero dell'interno - capitolo 2585 per lire 790 milioni per l'anno 1995.
+1. All'onere finanziario derivante dall'attuazione dell'articolo 1, relativamente all'assunzione del personale maschile, valutato in lire 21.391 milioni per l'anno 1995, in lire 55.333 milioni per l'anno 1996 e in lire 54.933 milioni a decorrere dal 1997, si provvede a carico degli stanziamenti iscritti sui seguenti capitoli: Ministero di grazia e giustizia - capitolo 1998 per lire 9.090 milioni per l'anno 1995 e per lire 54.933 milioni annui sui corrispondenti capitoli degli esercizi successivi; capitoli 1999, 2000, 2009 e 2083, rispettivamente, per lire 3.838 milioni, lire 3.340 milioni, lire 1.253 milioni, lire 3.080 milioni per l'anno 1995; capitolo 2086 per lire 400 milioni per l'anno 1996; Ministero dell'interno - capitolo 2585 per lire 790 milioni per l'anno 1995.
 
-2. All'onere relativo all'assunzione del personale femminile, valutato in lire 1.794 milioni per l'anno 1996 e in lire 9.548 milioni a decorrere dall'anno 1997, si provvede mediante corrispondente riduzione dello stanziamento iscritto, ai fini del bilancio triennale 1996-1998, al capitolo 6856 dello stato di previsione del Ministero del tesoro per l'anno 1996, all'uopo parzialmente utilizzando l'accantonamento relativo al Ministero di grazia e giustizia.
+2. All'onere relativo all'assunzione del personale femminile, valutato in lire 1.774 milioni per l'anno 1996 e in lire 9.314 milioni a decorrere dall'anno 1997, si provvede mediante corrispondente riduzione dello stanziamento iscritto, ai fini del bilancio triennale 1996-1998, al capitolo 6856 dello stato di previsione del Ministero del tesoro per l'anno 1996, all'uopo parzialmente utilizzando l'accantonamento relativo al Ministero di grazia e giustizia.
 
 3. All'onere relativo all'attuazione degli articoli 1, comma 9, e 3, comma 2, valutato in lire 5.727 milioni per l'anno 1996, in lire 5.995 milioni per l'anno 1997 ed in lire 5.616 milioni annui a decorrere dall'anno 1998, si provvede mediante corrispondente riduzione dello stanziamento iscritto, ai fini del bilancio triennale 1996-1998, al capitolo 6856 dello stato di previsione del Ministero del tesoro per l'anno 1996, all'uopo parzialmente utilizzando l'accantonamento relativo al Ministero di grazia e giustizia.
 
@@ -88,12 +88,12 @@ Art. 5
 
 Entrata in vigore
 
-1. Il presente decreto entra in vigore il giorno stesso della sua pubblicazione nella Gazzetta Ufficiale della Repubblica italiana e sara' presentato alle Camere per la conversione in legge.
+1. Il presente decreto entra in vigore il giorno successivo a quello della sua pubblicazione nella Gazzetta Ufficiale della Repubblica italiana e sara' presentato alle Camere per la conversione in legge.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserito nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 29 aprile 1996
+### Dato a Roma, addi' 28 febbraio 1996
 
 SCALFARO
 

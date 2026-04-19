@@ -1,14 +1,14 @@
-DECRETO-LEGGE 12 marzo 1996 n. 116
+DECRETO-LEGGE 10 luglio 1996 n. 357
 
 
-DECRETO-LEGGE 12 marzo 1996 n. 116
-==================================
+DECRETO-LEGGE 10 luglio 1996 n. 357
+===================================
 
 Disposizioni urgenti per l'attuazione dell'articolo 68 della 
 Costituzione.
 ---------------------------------------------------------------------------
 
-Entrata in vigore del decreto: 12-3-1996.Decreto-Legge decaduto per mancata conversione.
+Entrata in vigore del decreto: 11-7-1996.Decreto-Legge decaduto per mancata conversione.
 
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
@@ -17,9 +17,9 @@ Visti gli [articoli 77](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:cost
 
 Ritenuta la straordinaria necessita' ed urgenza di emanare disposizioni attuative dell'[articolo 68 della Costituzione](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27~art68);
 
-Vista la deliberazione del Consiglio dei Ministri, adottata nella riunione del 7 marzo 1996;
+Vista la deliberazione del Consiglio dei Ministri, adottata nella riunione del 5 luglio 1996;
 
-Sulla proposta del Presidente del Consiglio dei Ministri e Ministro del tesoro e del Ministro di grazia e giustizia;
+Sulla proposta del Presidente del Consiglio dei Ministri e del Ministro di grazia e giustizia;
 
 E M A N A il seguente decreto-legge:
 
@@ -56,7 +56,7 @@ Art. 3
 
 2. L'autorizzazione non e' richiesta se il membro del Parlamento e' colto nell'atto di commettere un delitto per il quale e' previsto l'arresto obbligatorio in flagranza ovvero si tratta di eseguire una sentenza irrevocabile di condanna.
 
-3. L'autorizzazione e' richiesta dall'autorita' che ha emesso il provvedimento da eseguire; in attesa dell'autorizzazione l'esecuzione del provvedimento rimane sospesa.
+3. L'autorizzazione e' richiesta dall'autorita' che ha emesso il provvedimento da eseguire; in attesa della autorizzazione l'esecuzione del provvedimento rimane sospesa.
 
 Art. 4
 ------
@@ -85,17 +85,17 @@ Art. 6
 Art. 7
 ------
 
-1. Il presente decreto entra in vigore il giorno stesso della sua pubblicazione nella Gazzetta Ufficiale della Repubblica italiana e sara' presentato alle Camere per la conversione in legge.
+1. Il presente decreto entra in vigore il giorno successivo a quello della sua pubblicazione nella Gazzetta Ufficiale della Repubblica italiana e sara' presentato alle Camere per la conversione in legge.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserito nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 12 marzo 1996
+### Dato a Roma, addi' 10 luglio 1996
 
 SCALFARO
 
-DINI, Presidente del Consiglio dei Ministri e Ministro del tesoro
+PRODI, Presidente del Consiglio dei Ministri
 
-CAIANIELLO, Ministro di grazia e giustizia
+FLICK, Ministro di grazia e giustizia
 
-Visto, il Guardasigilli: CAIANIELLO
+Visto, il Guardasigilli: FLICK

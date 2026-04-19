@@ -1,14 +1,14 @@
-DECRETO-LEGGE 12 aprile 1996 n. 193
+DECRETO-LEGGE 10 febbraio 1996 n. 56
 
 
-DECRETO-LEGGE 12 aprile 1996 n. 193
-===================================
+DECRETO-LEGGE 10 febbraio 1996 n. 56
+====================================
 
 Modifiche alla legge 28 dicembre 1993, n. 549, recante misure a 
 tutela dell'ozono stratosferico.
 -------------------------------------------------------------------------------------------------
 
-Entrata in vigore del decreto: 13/4/1996.Decreto-Legge decaduto per mancata conversione.
+Entrata in vigore del decreto: 13/2/1996.Decreto-Legge decaduto per mancata conversione.
 
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
@@ -17,9 +17,9 @@ Visti gli [articoli 77](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:cost
 
 Ritenuta la straordinaria necessita' ed urgenza di modificare la [legge 28 dicembre 1993, n. 549](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-12-28;549), in materia di tutela dell'ozono stratosferico e dell'ambiente, al fine di dare attuazione alla sopravvenuta normativa comunitaria;
 
-Vista la deliberazione del Consiglio dei Ministri, adottata nella riunione del 10 aprile 1996;
+Vista la deliberazione del Consiglio dei Ministri, adottata nella riunione del 9 febbraio 1996;
 
-Sulla proposta del Presidente del Consiglio dei Ministri e Ministro del tesoro e del Ministro dei lavori pubblici e dell'ambiente, di concerto con i Ministri di grazia e giustizia, dell'industria, del commercio e dell'artigianato e del commercio con l'estero e del bilancio e della programmazione economica e per il coordinamento delle politiche dell'Unione europea;
+Sulla proposta del Presidente del Consiglio dei Ministri e Ministro del tesoro e, ad interim, Ministro di grazia e giustizia e del Ministro dei lavori pubblici e dell'ambiente, di concerto con i Ministri dell'industria, del commercio e dell'artigianato e del commercio con l'estero e delle finanze e, ad interim, del bilancio e della programmazione economica;
 
 E M A N A il seguente decreto-legge:
 
@@ -29,20 +29,19 @@ Art. 1
 1. All'[articolo 1, comma 1, della legge 28 dicembre 1993, n. 549](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-12-28;549~art1-com1), la lettera c) e' sostituita dalla seguente:  
 " c) al [regolamento (CE) n. 3093/1994 del Consiglio del 15 dicembre 1994](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:31994R3093), sulle sostanze che riducono lo strato di ozono.".
 
-2. All'[articolo 3, commi 1](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-12-28;549~art3-com1) e [2, della legge 28 dicembre 1993, n. 549](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-12-28;549~art3-com2), le parole: "citato [regolamento (CEE) n. 594/1991](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:31991R0594), come modificato ed integrato dal citato [regolamento (CEE) n. 3952/1992](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:31992R3952)" sono sostituite dalle seguenti: "[regolamento (CE) n. 3093/1994](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:31994R3093)" e all'articolo 4, comma 1, le parole: "[regolamento (CEE) n. 594/1991](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:31991R0594)" sono sostituite dalle seguenti: "[regolamento (CE)  
-n. 3093/1994](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:31994R3093).".
+2. All'[articolo 3, commi 1](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-12-28;549~art3-com1) e [2, della legge 28 dicembre 1993, n. 549](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-12-28;549~art3-com2), le parole: "citato [regolamento (CEE) n. 594/1991](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:31991R0594), come modificato ed integrato dal citato [regolamento (CEE) n. 3952/1992](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:31992R3952)" sono sostituite dalle seguenti: "[regolamento (CE) n. 3093/1994](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:31994R3093)" e all'articolo 4, comma 1, le parole: "[regolamento (CEE) n. 594/1991](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:31991R0594)" sono sostituite dalle seguenti: "[regolamento (CE) n. 3093/1994](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:31994R3093).".
 
 Art. 2
 ------
 
 1. I [commi 3](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-12-28;549~art3-com3), [4](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-12-28;549~art3-com4) e [5 dell'articolo 3 della legge 28 dicembre 1993, n. 549](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-12-28;549~art3-com5), sono sostituiti dal seguente:  
-" 3. Entro il 31 marzo 1996, con decreto del Ministro dell'ambiente, di concerto con il Ministro dell'industria, del commercio e dell'artigianato, sono stabiliti, in conformita' alle disposizioni ed ai tempi del programma di eliminazione progressiva del [regolamento (CE) n. 3093/1994](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:31994R3093): la data fino alla quale e' consentito l'utilizzo di sostanze di cui alla tabella A allegata alla presente legge, per la manutenzione e la ricarica di apparecchi e di impianti gia' venduti ed installati alla data di entrata in vigore della presente legge ed i tempi e le modalita' per la cessazione dell'utilizzazione delle sostanze di cui alla tabella B allegata alla presente legge, e sono altresi' individuati gli usi essenziali delle sostanze di cui alla indicata tabella B, relativamente ai quali possono essere concesse deroghe a quanto previsto dal presente comma.".
+" 3. Entro il 31 marzo 1996, con decreto del Ministro dell'ambiente, di concerto con il Ministro dell'industria, del commercio e dell'artigianato, sono stabiliti, in conformita' alle disposizioni ed ai tempi del programma di eliminazione progressiva del [regolamento CE n. 3093/1994](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:31994R3093): la data fino alla quale e' consentito l'utilizzo di sostanze di cui alla tabella A allegata alla presente legge, per la manutenzione e la ricarica di apparecchi e di impianti gia' venduti ed installati alla data di entrata in vigore della presente legge ed i tempi e le modalita' per la cessazione dell'utilizzazione delle sostanze di cui alla tabella B allegata alla presente legge, e sono altresi' individuati gli usi essenziali delle sostanze di cui alla indicata tabella B, relativamente ai quali possono essere concesse deroghe a quanto previsto dal presente comma.".
 
 2. Il [comma 6 dell'articolo 3 della legge 28 dicembre 1993, n. 549](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-12-28;549~art3-com6), e' sostituito dal seguente:  
 " 4. Le imprese che intendono cessare la produzione e l'utilizzazione delle sostanze di cui alla tabella B, allegata alla presente legge, prima dei termini prescritti, possono concludere appositi accordi di programma con i Ministeri dell'industria, del commercio e dell'artigianato e dell'ambiente, al fine di usufruire degli incentivi di cui all'articolo 10, con priorita' correlata all'anticipo dei tempi di dismissione, secondo le modalita' che saranno fissate con decreto del Ministro dell'industria, del commercio e dell'artigianato, d'intesa con il Ministro dell'ambiente.".
 
 3. Il [comma 7 dell'articolo 3 della legge 28 dicembre 1993, n. 549](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-12-28;549~art3-com7), e' sostituito dal seguente:  
-" 5. Chiunque viola le disposizioni di cui al presente articolo e' punito con l'arresto fino a due anni e con l'ammenda fino al triplo del valore delle sostanze utilizzate per fini produttivi, importate o commercializzate. Nei casi piu' gravi alla condanna consegue la revoca dell'autorizzazione o della licenza in base alla quale viene svolta l'attivita' costituente illecito.".
+" 5. Chiunque violi le disposizioni di cui al presente articolo, e' punito con l'arresto fino a due anni e con l'ammenda fino al triplo del valore delle sostanze utilizzate a fini produttivi, importate o commercializzate, e nei casi piu' gravi, con la revoca dell'autorizzazione o della licenza in base alla quale viene svolta l'attivita' costituente illecito.".
 
 Art. 3
 ------
@@ -73,7 +72,7 @@ Art. 6
 
 1. Sono autorizzati con decorrenza dall'anno 1996, la continuazione delle spese relative alle attivita' nazionali previste dalla [legge 28 dicembre 1993, n. 549](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-12-28;549), riguardanti le misure a tutela dell'ozono stratosferico e dell'ambiente, nonche' il finanziamento per la partecipazione ai comitati e gruppi di lavoro e l'apporto del contributo italiano per finanziare le spese amministrative del Segretariato, previsti dal protocollo alla convenzione di Vienna per la protezione dell'ozonosfera, adottato a Montreal il 16 settembre 1987 e ratificato con [legge 23 agosto 1988, n. 393](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;393).
 
-2. E' autorizzata a decorrere dall'anno 1996, la continuazione delle spese connesse alle attivita' previste dalla convenzione quadro delle Nazioni Unite sui cambiamenti climatici, con allegati, fatta a New York il 9 maggio 1992 e ratificata con [legge 15 gennaio 1994, n. 65](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-01-15;65).
+2. E' autorizzata a decorrere dall'anno 1996, la continuazione delle spese connesse alle attivita' previste dalla Convenzione quadro delle Nazioni Unite sui cambiamenti climatici, con allegati, fatta a New York il 9 maggio 1992 e ratificata con [legge 15 gennaio 1994, n. 65](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-01-15;65).
 
 3. All'onere derivante dalla applicazione dei commi 1 e 2, valutato rispettivamente in lire 1.480 milioni annue ed in lire 1.800 milioni annue a decorrere dal 1996, si provvede mediante corrispondente riduzione dello stanziamento iscritto, ai fini del bilancio triennale 1996-1998, al capitolo 6856 dello stato di previsione del Ministero del tesoro per l'anno 1996, allo scopo parzialmente utilizzando l'accantonamento relativo al Ministero dell'ambiente.
 
@@ -82,23 +81,27 @@ Art. 6
 Art. 7
 ------
 
-1. Il presente decreto entra in vigore il giorno stesso della sua pubblicazione nella Gazzetta Ufficiale della Repubblica italiana e sara' presentato alle Camere per la conversione in legge.
+1. Il presente decreto entra in vigore il giorno successivo a quello della sua pubblicazione nella Gazzetta Ufficiale della Repubblica italiana e sara' presentato alle Camere per la conversione in legge.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserito nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 12 aprile 1996
+### Dato a Roma, addi' 10 febbraio 1996
 
 SCALFARO
 
-DINI, Presidente del Consiglio dei Ministri e Ministro del tesoro
+DINI, Presidente del Consiglio dei
+
+Ministri e Ministro del tesoro e,
+
+ad interim, Ministro di grazia e giustizia
 
 BARATTA, Ministro dei lavori pubblici e dell'ambiente
 
-CAIANIELLO, Ministro di grazia e giustizia
-
 CLO', Ministro dell'industria, del commercio e dell'artigianato e del commercio con l'estero
 
-ARCELLI, Ministro del bilancio e della programmazione economica e per il coordinamento delle politiche dell'Unione europea
+FANTOZZI, Ministro delle finanze e,
 
-Visto, il Guardasigilli: CAIANIELLO
+ad interim, Ministro del bilancio e della programmazione economica
+
+Visto, il Guardasigilli: DINI

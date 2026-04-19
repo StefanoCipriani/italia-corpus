@@ -1,15 +1,15 @@
-DECRETO-LEGGE 17 maggio 1996 n. 279
+DECRETO-LEGGE 21 marzo 1996 n. 146
 
 
-DECRETO-LEGGE 17 maggio 1996 n. 279
-===================================
+DECRETO-LEGGE 21 marzo 1996 n. 146
+==================================
 
 Disposizioni urgenti per assicurare taluni collegamenti aerei, 
 nonche' interventi in favore dei settori cantieristico, armatoriale e 
 portuale.
 ------------------------------------------------------------------------------------------------------------------------------------------------
 
-Entrata in vigore del decreto: 22-5-1996.Decreto-Legge decaduto per mancata conversione.
+Entrata in vigore del decreto: 23/3/1996.Decreto-Legge decaduto per mancata conversione.
 
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
@@ -18,11 +18,11 @@ Visti gli [articoli 77](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:cost
 
 Ritenuta la straordinaria necessita' ed urgenza di provvedere in ordine alla copertura delle spese connesse all'imposizione di oneri di servizio pubblico per servizi aerei di linea di particolare rilevanza sociale, ai sensi dell'[articolo 4 del regolamento (CEE) n. 2408 del Consiglio del 23 luglio 1992](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:31992R2408);
 
-Ritenuta, altresi', la straordinaria necessita' ed urgenza di completare gli interventi a favore delle imprese cantieristiche ed armatoriali, al fine di fronteggiare la forte concorrenza dei mercati internazionali, nonche' di emanare ulteriori disposizioni concernenti i lavoratori portuali e i dipendenti dei soppressi enti portuali necessarie al completamento della riforma dell'ordinamento portuale;
+Ritenuta, altresi', la straordinaria necessita' ed urgenza di completare gli interventi a favore delle imprese cantieristiche ed armatoriali, al fine di fronteggiare la forte concorrenza dei mercati internazionali, nonche' di emanare ulteriori disposizioni concernenti i lavoratori portuali e i dipendenti dei soppressi enti portuali necessarie al completamente della riforma dell'ordinamento portuale;
 
-Vista la deliberazione del Consiglio dei Ministri, adottata nella riunione del 17 maggio 1996;
+Vista la deliberazione del Consiglio dei Ministri, adottata nella riunione del 18 marzo 1996;
 
-Sulla proposta del Presidente del Consiglio dei Ministri e Ministro del tesoro e del Ministro dei trasporti e della navigazione, di concerto con i Ministri del lavoro e della previdenza sociale, del bilancio e della programmazione economica, delle finanze, della sanita' e dei lavori pubblici e dell'ambiente;
+Sulla proposta del Presidente del Consiglio dei Ministri e Ministro del tesoro e del Ministro dei trasporti e della navigazione, di concerto con i Ministri del lavoro e della previdenza sociale, delle finanze, della sanita' e dei lavori pubblici e dell'ambiente;
 
 E M A N A il seguente decreto-legge:
 
@@ -33,7 +33,7 @@ Oneri di servizio pubblico per servizi aerei di linea
 
 1. E' autorizzato il rimborso da parte del Ministero dei trasporti e della navigazione delle compensazioni finanziarie conseguenti alla imposizione di oneri di pubblico servizio, ai sensi dell'[articolo 4 del regolamento (CEE) n. 2408, del Consiglio del 23 luglio 1992](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:31992R2408).
 
-2. All'onere derivante dall'attuazione del comma 1, valutato in lire 1.000 milioni per l'anno 1996 e in lire 2.400 milioni annui a decorrere dall'anno 1997, si provvede mediante corrispondente riduzione dello stanziamento iscritto, ai fini del bilancio triennale 1996-1998, sul capitolo 6856 dello stato di previsione del Ministero del tesoro per l'anno finanziario 1996, all'uopo parzialmente utilizzando l'accantonamento relativo al Ministero dei trasporti e della navigazione.
+2. All'onere derivante dall'attuazione del comma 1, valutato in lire 1.000 milioni per l'anno 1996 e in lire 2.400 milioni annui a decorrere dall'anno 1997, si provvede mediante corrispondente riduzione dello stanziamento iscritto, ai fini del bilancio triennale 1996-1998, sul capitolo 6856 dello stato di precisione del Ministero del tesoro per l'anno finanziario 1996, all'uopo parzialmente utilizzando l'accantonamento relativo al Ministero dei trasporti e della navigazione.
 
 3. Il Ministro del tesoro e' autorizzato ad apportare, con propri decreti, le occorrenti variazioni di bilancio.
 
@@ -61,18 +61,18 @@ d) per gli interventi di cui all'[articolo 10 del decreto-legge 24 dicembre 1993
 
 5. Alla copertura del relativo onere pari a lire 150.000 milioni per l'anno 1996, a lire 200.000 milioni per l'anno 1997 ed a lire 280.000 milioni a decorrere dall'anno 1998, si provvede mediante corrispondente riduzione dello stanziamento iscritto, ai fini del bilancio triennale 1996-1998, al capitolo 9001 dello stato di previsione del Ministero del tesoro per l'anno finanziario 1996, all'uopo utilizzando quota parte dell'apposito accantonamento relativo al Ministero dei trasporti e della navigazione.
 
-6. Il Ministro del tesoro e' autorizzato ad apportare, con propri decreti, le occorrenti variazioni di bilancio.
+6. Il Ministro del tesoro e' autorizzato ad apportare con propri decreti le occorrenti variazioni di bilancio.
 
 Art. 3
 ------
 
 Interventi a favore del settore portuale e dell'armamento
 
-1. Al fine di realizzare il pieno equilibrio tra gli organici e le esigenze operative di ciascun porto e favorire la migliore efficienza del settore, il beneficio del pensionamento anticipato di cui all'[articolo 1, comma 1, del decreto-legge 12 aprile 1996, n. 202](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1996-04-12;202~art1-com1), e' integrato di ulteriori 900 unita' relativamente ai lavoratori e dipendenti delle compagnie e gruppi portuali, ivi compresi quelli della Compagnia carenanti del porto di Genova, trasformati in impresa ai sensi dell'[articolo 21 della legge 28 gennaio 1994, n. 84](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-01-28;84~art21), nonche' di ulteriori 150 dipendenti delle autorita' portuali di cui all'articolo 6 della citata [legge n. 84 del 1994](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994;84), intendendosi il termine del 31 dicembre 1995 prorogato al 31 dicembre 1996.
+1. Al fine di realizzare il pieno equilibrio tra gli organici e le esigenze operative di ciascun porto e favorire la migliore efficienza del settore, il beneficio del pensionamento anticipato di cui all'[articolo 1, comma 1, del decreto-legge 16 febbraio 1996, n. 65](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1996-02-16;65~art1-com1), e' integrato di ulteriori 900 unita' relativamente ai lavoratori e dipendenti delle compagnie e gruppi portuali, ivi compresi quelli della Compagnia carenanti del porto di Genova, trasformati in impresa ai sensi dell'[articolo 21 della legge 28 gennaio 1994, n. 84](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-01-28;84~art21), nonche' di ulteriori 150 dipendenti delle autorita' portuali di cui all'articolo 6 della citata [legge n. 84 del 1994](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994;84), intendendosi il termine del 31 dicembre 1995 prorogato al 31 dicembre 1996.
 
 2. Ai fini degli esodi di cui al comma 1, il Ministro dei trasporti e della navigazione, con decreto da emanarsi entro 30 giorni dalla data di entrata in vigore del presente decreto, individua termini, criteri e modalita', riconoscendo priorita', nell'ambito delle eccedenze di ciascuna dotazione organica delle compagnie e gruppi portuali, a coloro che hanno presentato la domanda e maturato i requisiti entro il 31 dicembre 1994. Il Ministro dei trasporti e della navigazione, con proprio decreto, determina altresi' le dotazioni organiche e relative eccedenze strutturali delle compagnie e gruppi portuali, tenuto conto delle professionalita' indispensabili al funzionamento dei servizi e del contingente necessario, nonche' delle esigenze operative di ciascun porto. Ai lavoratori delle compagnie e gruppi portuali che non abbiano maturato i requisiti entro il 31 dicembre 1995, e' consentito il recupero volontario delle marche contributive relative al periodo di lavoro occasionale, senza onere per lo Stato. Possono essere ammessi al pensionamento anticipato i soli dipendenti delle autorita' portuali che risultino in esubero rispetto all'organico della segreteria tecnico-operativa deliberata ai sensi dell'[articolo 9, comma 3, lettera i), della legge 28 gennaio 1994, n. 84](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-01-28;84~art9-com3-leti). E' fatto divieto di procedere ad assunzioni in eccedenza alle dotazioni organiche.
 
-3. Per le finalita' di cui ai commi 1 e 2 si applicano le disposizioni di cui all'[articolo 1, comma 3, del decreto-legge 12 aprile 1996, n. 202](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1996-04-12;202~art1-com3).
+3. Per le finalita' di cui ai commi 1 e 2 si applicano le disposizioni di cui all'[articolo 1, comma 3, del decreto-legge 16 febbraio 1996, n. 65](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1996-02-16;65~art1-com3).
 
 4. Gli oneri derivanti dall'attuazione degli interventi di cui ai commi 1, 2 e 3 sono posti a carico della gestione commissariale del Fondo gestione istituti contrattuali lavoratori portuali in liquidazione, che provvede al rimborso agli istituti previdenziali di competenza sulla base di apposita rendicontazione annuale.
 
@@ -83,7 +83,7 @@ Interventi a favore del settore portuale e dell'armamento
 7. Il commissario liquidatore provvede, altresi', all'intervento, valutato in complessive lire 60.000 milioni, a favore dell'armamento per la concessione di un contributo equivalente all'importo complessivo delle ritenute a titolo di acconto operate nell'anno 1996 nei confronti della gente di mare, ai sensi dell'[articolo 23 del decreto del Presidente della Repubblica 29 settembre 1973, n. 600](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1973-09-29;600~art23).  
 Detto beneficio e' previsto per le imprese armatrici ai sensi ed alle condizioni di cui all'[articolo 1, comma 4, del decreto-legge 13 luglio 1995, n. 287](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1995-07-13;287~art1-com4), convertito dalla [legge 8 agosto 1995, n. 343](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1995-08-08;343).
 
-8. Al fine di favorire l'efficienza ed operativita' del servizio escavazione porti, di cui all'[articolo 26 della legge 28 gennaio 1994, n. 84](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-01-28;84~art26), il commissario liquidatore del Fondo di cui al comma 4 e' autorizzato, anche mediante la contrazione di mutui secondo le modalita' di cui al comma 5, ad effettuare interventi valutati in complessive lire 20.000 milioni, per il potenziamento dei mezzi effossori attraverso l'acquisizione ovvero l'ammodernamento dei detti mezzi, nonche' per la ristrutturazione dei cantieri. Il gettito derivante da convenzioni stipulate con altre amministrazioni statali, con enti pubblici e con i privati, per l'espletamento del servizio di escavazione dei porti marittimi nazionali, nonche' il gettito scaturente dai canoni di autorizzazione per operazioni portuali di cui all'articolo 16 della citata [legge 28 gennaio 1994, n. 84](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-01-28;84), nei porti non sedi di autorita' portuali, affluisce su apposito capitolo di entrata del bilancio dello Stato per essere riassegnato allo stato di previsione del Ministero dei trasporti e della navigazione per il funzionamento del servizio medesimo di escavazione.
+8. Al fine di favorire l'efficienza ed operativita' del servizio escavazione porti, di cui all'[articolo 26 della legge 28 gennaio 1994, n. 84](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-01-28;84~art26), il commissario liquidatore del Fondo di cui al comma 4 e' autorizzato, anche mediante la contrazione di mutui secondo le modalita' di cui al comma 5, ad effettuare internventi valutati in complessive lire 20.000 milioni, per il potenziamento dei mezzi effossori attraverso l'acquisizione ovvero l'ammodernamento dei detti mezzi, nonche' per la ristrutturazione dei cantieri. Il gettito derivante da convenzioni stipulate con altre amministrazioni statali, con enti pubblici e con i privati, per l'espletamento del servizio di escavazione dei porti marittimi nazionali, nonche' il gettito scaturente dai canoni di autorizzazione per operazioni portuali di cui all'articolo 16 della citata [legge 28 gennaio 1994, n. 84](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-01-28;84), nei porti non sedi di autorita' portuali, affluisce su apposito capitolo di entrata del bilancio dello Stato per essere riassegnato allo stato di previsione del Ministero dei trasporti e della navigazione per il funzionamento del servizio medesimo di escavazione.
 
 9. Per l'attuazione dei commi da 1 a 8 sono autorizzati, in favore della gestione commissariale del Fondo di cui al comma 4, ulteriori limiti di impegno decennali di lire 30.000 milioni per ciascuno degli anni 1997 e 1998. Al relativo onere di 30.000 milioni per l'anno 1997 e di lire 60.000 milioni per l'anno 1998, si provvede mediante corrispondente utilizzo delle proiezioni per gli anni medesimi dello stanziamento iscritto ai fini del bilancio triennale 1996-1998 al capitolo 6856 dello stato di previsione del Ministero del tesoro per l'anno 1996, all'uopo utilizzando l'accantonamento relativo al Ministero dei trasporti e della navigazione.
 
@@ -93,16 +93,12 @@ Art. 4
 Modifiche alla legge 28 gennaio 1994, n. 84, recante disposizioni per il riordino della legislazione in materia portuale.
 
 1. La [lettera m) del comma 3 dell'articolo 8 della legge 28 gennaio 1994, n. 84](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-01-28;84~art8-com3-letm), e' sostituita dalla seguente:  
-" m) assicura la navigabilita' nell'ambito portuale e provvede, con l'intervento del Servizio escavazione porti di cui all'articolo 26, e, in via subordinata, con le modalita' di cui all'articolo 6, comma 5, al mantenimento dei fondali sulla base di progetti sottoposti al visto del competente ufficio speciale del genio civile per le opere marittime, nel rispetto della normativa sulla tutela ambientale, anche adottando, nei casi indifferibili di necessita' ed urgenza, provvedimenti di carattere coattivo;".
+" m) assicura la navigabilita' nell'ambito portuale e provvede, con l'intervento del Servizio escavazione porti di cui all'articolo 26, e, in via subordinata, con le modalita' di cui all'articolo 6, comma 5, al mantenimento dei fondali sulla base di progetti sottoposti al visto del competente ufficio speciale del genio civile per le opere marittime, nel rispetto della normativa sulla tutela ambientale anche adottando, nei casi indifferibili di necessita' ed urgenza, provvedimenti di carattere coattivo;".
 
-2. Al [comma 1 dell'articolo 9 della legge 28 gennaio 1994, n. 84](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-01-28;84~art9-com1), dopo la lettera l) e' aggiunta la seguente:  
-"l-bis) un rappresentante delle imprese ferroviarie operante nei porti, nominato dal presidente dell'autorita' portuale.".
+2. L'ultimo periodo del [comma 3 dell'articolo 23 della legge 28 gennaio 1994, n. 84](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-01-28;84~art23-com3), e' sostituito dal seguente: "Tali societa' ed imprese, qualora debbano procedere ad assunzioni, sono obbligate fino al 31 dicembre 1996 ad impiegare con priorita' il personale di cui al presente comma".
 
-3. L'ultimo periodo del [comma 3 dell'articolo 23 della legge 28 gennaio 1994, n. 84](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-01-28;84~art23-com3), e' sostituito dal seguente:  
-"Tali societa' ed imprese, qualora debbano procedere ad assunzioni, sono obbligate fino al 31 dicembre 1996 ad impiegare con priorita' il personale di cui al presente comma.".
-
-4. Il [comma 7 dell'articolo 27 della legge 28 gennaio 1994, n. 84](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-01-28;84~art27-com7), e' sostituito dal seguente:  
-" 7. Entro il 30 settembre 1996 il Governo provvede alla verifica degli esuberi occupazionali, rispetto ai quali proporre provvedimenti in materia di mobilita' e di pensionamento anticipato.".
+3. Al [comma 1 dell'articolo 9 della legge 28 gennaio 1994, n. 84](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-01-28;84~art9-com1), dopo la lettera l) e' aggiunta la seguente:  
+"l-bis) un rappresentante delle imprese ferroviarie operanti nei porti, nominato dal presidente dell'autorita' portuale.".
 
 Art. 5
 ------
@@ -114,7 +110,7 @@ Entrata in vigore
 Il presente decreto, munito del sigillo dello Stato, sara' inserito nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 17 maggio 1996
+### Dato a Roma, addi' 21 marzo 1996
 
 SCALFARO
 
@@ -123,8 +119,6 @@ DINI, Presidente del Consiglio dei Ministri e Ministro del tesoro
 CARAVALE, Ministro dei trasporti e della navigazione
 
 TREU, Ministro del lavoro e della previdenza sociale
-
-ARCELLI, Ministro del bilancio e della programmazione economica
 
 FANTOZZI, Ministro delle finanze
 

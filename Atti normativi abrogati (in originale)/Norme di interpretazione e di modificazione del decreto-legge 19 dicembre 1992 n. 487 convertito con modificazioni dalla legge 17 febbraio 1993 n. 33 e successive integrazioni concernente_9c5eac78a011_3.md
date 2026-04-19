@@ -1,13 +1,13 @@
-DECRETO-LEGGE 21 gennaio 1994 n. 45
+DECRETO-LEGGE 23 marzo 1994 n. 191
 
 
-DECRETO-LEGGE 21 gennaio 1994 n. 45
-===================================
+DECRETO-LEGGE 23 marzo 1994 n. 191
+==================================
 
 Norme di interpretazione e di modificazione del decreto-legge 19 dicembre 1992, n. 487, convertito, con modificazioni, dalla legge 17 febbraio 1993, n. 33, e successive integrazioni, concernente soppressione dell'EFIM.
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Entrata in vigore del decreto: 24/1/1994.Decreto-Legge decaduto per mancata conversione.
+Entrata in vigore del decreto: 25/3/1994.Decreto-Legge decaduto per mancata conversione.
 
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
@@ -16,7 +16,7 @@ Visti gli [articoli 77](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:cost
 
 Ritenuta la straordinaria necessita' ed urgenza di emanare norme di interpretazione e di modificazione del [decreto-legge 19 dicembre 1992, n. 487](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1992-12-19;487), convertito, con modificazioni, dalla [legge 17 febbraio 1993, n. 33](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-02-17;33), e successive integrazioni, concernente la soppressione dell'Ente partecipazioni e finanziamento industria manifatturiera (EFIM);
 
-Vista la deliberazione del Consiglio dei Ministri, adottata nella riunione del 21 gennaio 1994;
+Vista la deliberazione del Consiglio dei Ministri, adottata nella riunione del 23 marzo 1994;
 
 Sulla proposta del Presidente del Consiglio dei Ministri e del Ministro del tesoro, di concerto con i Ministri per la funzione pubblica e del bilancio e della programmazione economica;
 
@@ -29,20 +29,24 @@ Art. 1
 
 2. Allo scopo di assicurare fino alla cessione delle aziende interessate i livelli produttivi, anche minimi, mediante il mantenimento in servizio dei dipendenti, non interessati dal ricorso agli interventi ordinari e straordinari della Cassa integrazione guadagni, ovvero da messa in mobilita' previsti dalla [legge n. 223 del 1991](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1991;223), devono intendersi a carico della gestione liquidatoria i relativi costi retributivi. A tal fine il commissario liquidatore potra' utilizzare le disponibilita' di cui all'articolo 5, comma 3, ultimo periodo, del [decreto-legge 19 dicembre 1992, n. 487](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1992-12-19;487), convertito, con modificazioni, dalla [legge 17 febbraio 1993, n. 33](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-02-17;33).
 
+3. Le misure di cui all'[articolo 3, comma 2-ter, del decreto-legge 19 dicembre 1992, n. 487](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1992-12-19;487~art3-com2ter), convertito, con modificazioni, dalla [legge 17 febbraio 1993, n. 33](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-02-17;33), tra le quali sono ricomprese l'eventuale ricorso al prepensionamento del personale delle societa' controllate dall'EFIM, ad eccezione di quelle operanti nel settore difesa ed aerospaziale, possono essere attuate nei limiti di una spesa complessiva di lire 150 miliardi con onere a carico della gestione liquidatoria.
+
 Art. 2
 ------
 
-1. Le autorizzazioni e licenze rilasciate ai sensi della [legge 9 luglio 1990, n. 185](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-07-09;185), nonche' delle altre leggi sulla produzione e commercio di armi e materiali di armamento, alle societa' di cui all'[articolo 4, comma 2, del decreto-legge 19 dicembre 1992, n. 487](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1992-12-19;487~art4-com2), convertito, con modificazioni, dalla [legge 17 febbraio 1993, n. 33](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-02-17;33), sono estese alle aziende date in affitto o trasferite a norma del predetto articolo a partire dalla data di inizio dell'affitto e fino all'espletamento degli obblighi contrattuali assunti.
+1. Le autorizzazioni e licenze previste dalla [legge 9 luglio 1990, n. 185](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-07-09;185), nonche' dalle altre leggi sulla produzione e commercio di armi e materiali di armamento, sono rilasciate alle societa', fino all'adempimento degli obblighi contrattuali assunti, di cui all'[articolo 4, comma 2, del decreto-legge 19 dicembre 1992, n. 487](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1992-12-19;487~art4-com2), convertito, con modificazioni, dalla [legge 17 febbraio 1993, n. 33](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-02-17;33), e sono estese, fino alla scadenza dei termini dei relativi contratti, alle aziende date in affitto o trasferite a norma del predetto articolo.
 
 2. In caso di trasferimento di aziende o rami di aziende operanti nel settore di cui all'[articolo 4, comma 2, del decreto-legge 19 dicembre 1992, n. 487](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1992-12-19;487~art4-com2), convertito, con modificazioni, dalla [legge 17 febbraio 1993, n. 33](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-02-17;33), i cessionari delle predette aziende e dei predetti rami di aziende succedono nei diritti e nelle attribuzioni di cui le societa' cedenti erano titolari in forza di legge o di provvedimento amministrativo o di contratto con la pubblica amministrazione.
 
-3. Ai fini indicati dai commi 1 e 2, gli organi competenti procedono alla verifica, nei confronti dei soggetti interessati, del possesso dei requisiti richiesti da disposizioni di legge, nonche' dell'assenza dei divieti e dalle decadenze previsti dall'[articolo 10 della legge 31 maggio 1965, n. 575](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1965-05-31;575~art10), e successive modificazioni ed integrazioni; essi procedono, altresi', al trasferimento delle autorizzazioni, licenze o altri provvedimenti occorrenti, salvo che per quelli, in corso di validita', gia' rilasciati per il compimento di specifici affari od operazioni da effettuarsi entro sessanta giorni dalla data di entrata in vigore del presente decreto.
+3. Ai fini indicati dai commi 1 e 2, gli organi competenti procedono alla verifica, nei confronti dei soggetti interessati, del possesso dei requisiti richiesti da disposizioni di legge, nonche' dell'assenza dei divieti e delle decadenze previsti dall'[articolo 10 della legge 31 maggio 1965, n. 575](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1965-05-31;575~art10), e successive modificazioni ed integrazioni; essi procedono, altresi', al trasferimento delle autorizzazioni, licenze o altri provvedimenti occorrenti, salvo che per quelli necessari all'adempimento di contratti o operazioni da parte delle societa' di cui al comma 1, per un periodo di sei mesi dalla data di entrata in vigore del presente decreto.
+
+4. I cessionari di aziende e del complesso di beni strumentali, materiali ed immateriali, delle societa' controllate direttamente o indirettamente dall'EFIM, se in possesso dei requisiti richiesti subentrano nei consorzi di cui le societa' cedenti fanno parte e succedono ad essi nelle iscrizioni all'Albo nazionale costruttori.
 
 Art. 3
 ------
 
-1. Al [comma 3 dell'articolo 4 del decreto-legge 19 dicembre 1992, n. 487](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1992-12-19;487~art4-com3), convertito, con modificazioni, dalla [legge 17 febbraio 1993, n. 33](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-02-17;33), gli ultimi due periodi sono sostituiti dal seguente:   
-"Il commissario liquidatore puo' chiedere prima della scadenza del termine biennale che vengano poste in liquidazione coatta, a norma del titolo V del [regio decreto 16 marzo 1942, n. 267](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-03-16;267), una o piu' societa' controllate di cui all'articolo 2, comma 1. Il provvedimento di liquidazione coatta amministrativa preclude la dichiarazione di fallimento.".
+1. Il [comma 3 dell'articolo 4 del decreto-legge 19 dicembre 1992, n. 487](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1992-12-19;487~art4-com3), convertito, con modificazioni, dalla [legge 17 febbraio 1993, n. 33](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-02-17;33), e' sostituito dal seguente:   
+" 3. Il commissario liquidatore provvede all'attuazione del programma di cui all'articolo 2, comma 2, e dei progetti di cui all'articolo 3, comma 2, ed alla liquidazione dell'ente soppresso entro due anni dalla data dell'appro vazione ministeriale di cui al comma 1. Decorso tale periodo, l'ente soppresso e le societa' che a tale data risultino ancora controllate dallo stesso ente sono assoggettati alla procedura di liquidazione coatta amministrativa, con decreto del Ministro del tesoro. Il commissario liquidatore puo' chiedere prima della scadenza del termine biennale che vengano poste in liquidazione coatta, a norma del titolo V del [regio decreto 16 marzo 1942, n. 267](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-03-16;267), una o piu' societa' controllate di cui all'articolo 2, comma 1. Il provvedimento di liquidazione coatta amministrativa preclude la dichiarazione di fallimento. Per le liquidazioni coatte delle societa' controllate dall'EFIM, i poteri dell'autorita' di vigilanza di cui agli articoli 194 e seguenti del citato regio decreto sono attribuiti al commissario liquidatore dell'EFIM ovvero al commissario che sara' preposto alla liquidazione coatta del soppresso ente, i quali riferiscono al Ministro del tesoro in merito all'andamento delle procedure liquidatorie delle menzionate societa'. Nel caso di liquidazione coatta dell'EFIM i poteri di vigilanza sono esercitati dal Ministro del tesoro.".
 
 Art. 4
 ------
@@ -62,13 +66,13 @@ Art. 6
 ------
 
 1. Dopo il [comma 4 dell'articolo 5 del decreto-legge 19 dicembre 1992, n. 487](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1992-12-19;487~art5-com4), convertito, con modificazioni, dalla [legge 17 febbraio 1993, n. 33](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-02-17;33), e' inserito il seguente:   
-"4-bis. L'elenco dei crediti di cui al comma 4 puo' essere aggiornato per tenere conto di eventuali variazioni di importo determinate dalla maturazione degli interessi e degli altri oneri relativi ai rapporti di cui all'articolo 6, comma 4, ovvero degli eventuali interessi comunque non superiori a quelli legali per i crediti originati da rapporti diversi da quelli di cui all'articolo 6, comma 4, sia delle eventuali variazioni determinate da accordi transattivi, dalla correzione di errori materiali, ovvero da altri fatti o atti sopravvenuti, ivi compresa la messa in liquidazione di altre societa' comprese tra quelle di cui all'articolo 5, comma 1, lettera b). Le predette modifiche ed integrazioni vengono proposte dal commissario liquidatore ed approvate dal Ministro del tesoro conformemente alle modalita' e secondo le procedure di cui al comma 4.".
+"4-bis. L'elenco dei crediti di cui al comma 4 puo' essere aggiornato per tenere conto sia di eventuali variazioni di importo determinate dalla maturazione fino alla data di godimento della prima cedola delle obbligazioni di cui al comma 3, ovvero del pagamento in contanti, degli interessi corrispettivi ai tassi pattuiti e degli altri oneri relativi ai rapporti di cui all'articolo 6, comma 4, ovvero degli interessi corrispettivi comunque non superiori a quelli legali per i crediti originati da rapporti diversi da quelli di cui all'articolo 6, comma 4, sia delle eventuali variazioni determinate da accordi transattivi, dalla correzione di errori materiali, ovvero da altri fatti o atti sopravvenuti, ivi compresa la messa in liquidazione di altre societa' comprese tra quelle di cui al comma 1, lettera b). Le predette modifiche ed integrazioni vengono proposte dal commissario liquidatore ed approvate dal Ministro del tesoro conformemente alle modalita' e secondo le procedure di cui al comma 4.".
 
 Art. 7
 ------
 
 1. Il [comma 7 dell'articolo 5 del decreto-legge 19 dicembre 1992, n. 487](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1992-12-19;487~art5-com7), convertito, con modificazioni, dalla [legge 17 febbraio 1993, n. 33](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-02-17;33), e' sostituito dal seguente:   
-" 7. Gli importi delle anticipazioni concesse dalla Cassa depositi e prestiti al commissario liquidatore, ad esclusione di quelle relative ai pagamenti diretti disposti nei confronti dell'ente soppresso, devono affluire in apposito conto corrente infruttifero aperto presso la Tesoreria centrale dello Stato, intestato all'EFIM in liquidazione. Allo stesso conto corrente devono essere versate tutte le disponibilita' di spettanza dell'ente soppresso e del commissario liquidatore depositate presso il sistema bancario. Con decreto del Ministro del tesoro puo' essere fissato l'importo massimo delle disponibilita' depositate presso il sistema bancario per le piu' urgenti ed improcrastinabili esigenze del commissario liquidatore.".
+" 7. Gli importi delle anticipazioni concesse dalla Cassa depositi e prestiti al commissario liquidatore, ad esclusione di quelle relative ai pagamenti diretti disposti nei confronti dell'ente soppresso, devono affluire in apposito conto corrente infruttifero aperto presso la Tesoreria centrale dello Stato intestato all'EFIM in liquidazione. Allo stesso conto corrente devono essere versate tutte le disponibilita' di spettanza dell'ente soppresso e del commissario liquidatore depositate presso il sistema bancario. Con decreto del Ministro del tesoro puo' essere fissato l'importo massimo delle disponibilita' depositate presso il sistema bancario per le piu' urgenti ed improcrastinabili esigenze del commissario liquidatore.".
 
 Art. 8
 ------
@@ -83,26 +87,25 @@ Art. 9
 Art. 10
 -------
 
-1. Il personale del soppresso EFIM cessa dal rapporto di impiego decorsi centoventi giorni dalla data di entrata in vigore del presente decreto, con diritto al trattamento di fine rapporto ad esso spettante in base all'ordinamento giuridico vigente a tale data.  
-Entro lo stesso termine, il predetto personale ha facolta' di presentare domanda per la riassunzione, con la procedura di cui al comma 2, nelle pubbliche amministrazioni. Tale termine puo' essere prorogato, in relazione alle esigenze di compatibilita' con la gestione commissariale, con decreti della Presidenza del Consiglio dei Ministri - Dipartimento della funzione pubblica, di concerto con il Ministro del tesoro.
+1. Il personale del soppresso EFIM e del Comitato di liquidazione EAGAT, il quale viene soppresso con il presente decreto, cessa dal rapporto di impiego decorsi centoventi giorni dalla data di entrata in vigore del presente decreto, con diritto al trattamento di fine rapporto ad esso spettante in base all'ordinamento giuridico vigente a tale data. Entro lo stesso termine, il predetto personale ha facolta' di presentare domanda per la riassunzione, con la procedura di cui al comma 2, nelle pubbliche amministrazioni.
 
-2. Con decreti della Presidenza del Consiglio dei Ministri - Dipartimento della funzione pubblica, di concerto con il Ministro del tesoro, sono stabiliti i tempi, le condizioni, i requisiti e le modalita' per la riassunzione nei ruoli delle amministrazioni pubbliche, previa determinazione dei carichi di lavoro, nei limiti delle esistenti dotazioni organiche e compatibilmente con le esigenze della liquidazione, del personale di cui al comma 1 cessato dal rapporto di impiego successivamente alla data di entrata in vigore del presente decreto e che risulti in servizio alla stessa data.
+2. Con decreti del Ministro per la funzione pubblica, di concerto con il Ministro del tesoro, sono stabiliti i tempi, le condizioni, i requisiti e le modalita' per la riassunzione nei ruoli delle amministrazioni pubbliche, previa determinazione dei carichi di lavoro, nei limiti delle esistenti dotazioni organiche e compatibilmente con le esigenze della liquidazione del personale di cui al comma 1 cessato dal rapporto di impiego successivamente alla data di entrata in vigore del presente decreto e che risulti in servizio alla stessa data.
 
 3. Al personale riassunto ai sensi del presente articolo si applica, ai fini del trattamento pensionistico, la [legge 7 febbraio 1979, n. 29](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1979-02-07;29).
 
-4. Con i decreti di cui al comma 2 e sulla base delle comunicazioni fornite dal commissario liquidatore, sono determinate le corrispondenze tra le qualifiche e profili vigenti per il personale delle amministrazioni statali.
+4. Con i decreti di cui al comma 2 e sulla base delle comunicazioni fornite dal commissario liquidatore, sono determinate le corrispondenze con le qualifiche e profili vigenti per il personale delle amministrazioni statali.
 
 5. Al personale riassunto compete il trattamento economico comprendente lo stipendio e le indennita' a qualunque titolo spettanti agli appartenenti alla qualifica funzionale in cui ciascun dipendente e' inquadrato.
 
 Art. 11
 -------
 
-1. Il presente decreto entra in vigore il giorno stesso della sua pubblicazione nella Gazzetta Ufficiale della Repubblica italiana e sara' presentato alle Camere per la conversione in legge.
+1. Le disposizioni del presente decreto hanno effetto dal 26 marzo 1994. Il presente decreto entra in vigore il giorno successivo a quello della sua pubblicazione nella Gazzetta Ufficiale della Repubblica italiana e sara' presentato alle Camere per la conversione in legge.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserito nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 21 gennaio 1994
+### Dato a Roma, addi' 23 marzo 1994
 
 SCALFARO
 

@@ -1,13 +1,13 @@
-DECRETO-LEGGE 17 settembre 1993 n. 370
+DECRETO-LEGGE 20 luglio 1993 n. 245
 
 
-DECRETO-LEGGE 17 settembre 1993 n. 370
-======================================
+DECRETO-LEGGE 20 luglio 1993 n. 245
+===================================
 
 Proroga delle disposizioni in materia di sgravi contributivi.
 -------------------------------------------------------------
 
-Entrata in vigore del decreto: 20-09-1993.Decreto-Legge decaduto per mancata conversione.
+Entrata in vigore del decreto: 21/07/1993.Decreto-Legge decaduto per mancata conversione.
 
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
@@ -16,7 +16,7 @@ Visti gli [articoli 77](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:cost
 
 Ritenuta la straordinaria necessita' ed urgenza di emanare disposizioni in materia di fiscalizzazione degli oneri sociali per le aree industriali svantaggiate;
 
-Vista la deliberazione del Consiglio dei Ministri, adottata nella riunione del 15 settembre 1993;
+Vista la deliberazione del Consiglio dei Ministri, adottata nella riunione del 20 luglio 1993;
 
 Sulla proposta del Presidente del Consiglio dei Ministri e del Ministro del lavoro e della previdenza sociale, di concerto con i Ministri del bilancio e della programmazione economica e del tesoro;
 
@@ -29,7 +29,7 @@ Art. 1
 
 2. Per i nuovi assunti dal 1 giugno 1993 al 30 novembre 1993, ad incremento delle unita' effettivamente occupate alla data del 30 novembre 1992, nelle aziende industriali operanti nei settori indicati dal CIPE, lo sgravio contributivo di cui all'articolo 59, comma primo, del testo unico di cui al comma 1 e' concesso in misura totale dei contributi posti a carico dei datori di lavoro, dovuti all'Istituto nazionale della previdenza sociale per un periodo di un anno dalla data di assunzione del singolo lavoratore sulle retribuzioni assoggettate a contribuzioni per il Fondo pensioni lavoratori dipendenti.
 
-3. Per l'attuazione delle disposizioni contenute nei commi 1 e 2 trovano applicazione i [commi 4](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1993-03-22;71~art1-com4) e [8 dell'articolo 1 del decreto-legge 22 marzo 1993, n. 71](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1993-03-22;71~art1-com8), convertito dalla [legge 20 maggio 1993, n. 151](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-05-20;151).
+3. Per l'attuazione delle disposizioni contenute nei commi 1 e 2 trovano applicazione i [commi 4](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1993-03-22;71~com4) e [8 del decreto-legge 22 marzo 1993, n. 71](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1993-03-22;71~com8), convertito dalla [legge 20 maggio 1993, n. 151](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-05-20;151).
 
 4. Entro la data del 31 luglio 1993 i datori di lavoro sono tenuti a provvedere all'adeguamento dei pagamenti dei contributi previdenziali afferenti al mese di giugno 1993 in conseguenza alle disposizioni di cui ai commi 1 e 2.
 
@@ -43,7 +43,7 @@ Art. 2
 Il presente decreto, munito del sigillo dello Stato, sara' inserito nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 17 settembre 1993
+### Dato a Roma, addi' 20 luglio 1993
 
 SCALFARO
 

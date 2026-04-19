@@ -1,13 +1,13 @@
-DECRETO-LEGGE 18 novembre 1993 n. 462
+DECRETO-LEGGE 17 gennaio 1994 n. 32
 
 
-DECRETO-LEGGE 18 novembre 1993 n. 462
-=====================================
+DECRETO-LEGGE 17 gennaio 1994 n. 32
+===================================
 
 Disposizioni in materia di lavori socialmente utili, inserimento professionale dei giovani e contratti di formazione e lavoro.
 ------------------------------------------------------------------------------------------------------------------------------
 
-Entrata in vigore del decreto: 20-11-1993.Decreto-Legge decaduto per mancata conversione.
+Entrata in vigore del decreto: 19-1-1994.Decreto-Legge decaduto per mancata conversione.
 
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
@@ -16,7 +16,7 @@ Visti gli [articoli 77](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:cost
 
 Ritenuta la straordinaria necessita' ed urgenza di emanare disposizioni in materia di lavori socialmente utili, inserimento professionale dei giovani e contratti di formazione e lavoro;
 
-Vista la deliberazione del Consiglio dei Ministri, adottata nella riunione del 5 novembre 1993;
+Vista la deliberazione del Consiglio dei Ministri, adottata nella riunione del 14 gennaio 1994;
 
 Sulla proposta del Presidente del Consiglio dei Ministri e del Ministro del lavoro e della previdenza sociale, di concerto con il Ministro del tesoro;
 
@@ -27,23 +27,22 @@ Art. 1
 
 Lavori socialmente utili
 
-1. Le amministrazioni pubbliche di cui all'[articolo 1 del decreto legislativo 3 febbraio 1993, n. 29](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-02-03;29~art1), con esclusione di quelle in stato di dissesto o che abbiano personale dichiarato eccedente, nonche' le societa' a prevalente partecipazione pubblica e gli altri soggetti individuati con decreto del Ministro del lavoro e della previdenza sociale possono promuovere, nell'ambito delle loro attribuzioni e disponibilita' di cui al comma 7, progetti socialmente utili per il raggiungimento di obiettivi di carattere straordinario non perseguibili con il proprio personale, mediante l'utilizzazione dei soggetti di cui all'[articolo 25, comma 5, della legge 23 luglio 1991, n. 223](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1991-07-23;223~art25-com5), nonche' dei lavoratori sospesi con diritto al trattamento straordinario di integrazione salariale. L'[articolo 1, comma 6, del decreto-legge 20 maggio 1993, n. 148](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1993-05-20;148~art1-com6), convertito, con modificazioni, dalla [legge 19 luglio 1993, n. 236](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-07-19;236), trova applicazione anche per le finalita' di cui al presente articolo.
+1. Le amministrazioni pubbliche di cui all'[articolo 1 del decreto legislativo 3 febbraio 1993, n. 29](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-02-03;29~art1), con esclusione di quelle in stato di dissesto o che abbiano personale dichiarato eccedente, nonche' le societa' a prevalente partecipazione pubblica e gli altri soggetti individuati con decreto del Ministro del lavoro e della previdenza sociale possono promuovere, nell'ambito delle loro attribuzioni e disponibilita' di cui al comma 7, progetti socialmente utili per il raggiungimento di obiettivi di carattere straordinario non perseguibili con il proprio personale, mediante l'utilizzazione dei soggetti di cui all'[articolo 25, comma 5, della legge 23 luglio 1991, n. 223](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1991-07-23;223~art25-com5), nonche' dei lavoratori sospesi con diritto al trattamento straordinario di integrazione salariale. L'[articolo 1, comma 6, del decreto-legge 20 maggio 1993, n. 148](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1993-05-20;148~art1-com6), convertito, con modificazioni, dalla [legge 19 luglio 1993, n. 236](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-07-19;236), trova applicazione anche per le finalita' di cui al presente articolo. Anche le amministrazioni pubbliche interessate possono avvalersi del supporto tecnico- professionale dell'agenzia per l'impiego e predisporre i progetti per l'utilizzo dei lavoratori nelle attivita' di cui al presente comma.
 
 2. L'assegnazione dei lavoratori ai soggetti gestori di progetti socialmente utili avviene a cura delle sezioni circoscrizionali per l'impiego sulla base dei criteri dettati dal Ministro del lavoro e della previdenza sociale. L'utilizzazione dei lavoratori non determina l'instaurazione di un rapporto di lavoro, non implica la perdita del trattamento straordinario di integrazione salariale o dell'indennita' di mobilita' e non comporta la cancellazione dalle liste di collocamento o dalle liste di mobilita'. I progetti, che possono prevedere specifici periodi di formazione, devono indicare idonee forme assicurative a carico del soggetto utilizzatore contro gli infortuni e le malattie professionali connessi allo svolgimento dell'attivita' lavorativa, nonche' per la responsabilita' civile verso terzi.
 
 3. I lavoratori in cassa integrazione o che fruiscono dell'indennita' di mobilita' possono essere utilizzati esclusivamente per periodi non superiori a quelli di godimento del relativo trattamento. Ai lavoratori medesimi compete un importo integrativo di detti trattamenti, solo per le giornate di effettiva esecuzione delle prestazioni. Tale importo non puo' essere inferiore al dieci per cento del trattamento previdenziale in godimento. L'ingiustificato rifiuto dell'assegnazione ai sensi del comma 2 comporta la perdita del trattamento di integrazione salariale o di mobilita' per il periodo corrispondente alla prevista durata dell'assegnazione stessa.   
 Tale perdita e' disposta dall'ufficio provinciale del lavoro e della massima occupazione, su segnalazione della sezione circoscrizionale per l'impiego. Avverso il provvedimento e' ammesso ricorso entro trenta giorni all'ufficio regionale del lavoro e della massima occupazione, che decide con provvedimento definitivo entro venti giorni.
 
-4. I soggetti di cui al comma 1, che non fruiscono di alcun trattamento previdenziale, possono essere impegnati nell'ambito del progetto per non piu' di dodici mesi e per un massimo di ottanta ore mensili, per ognuna delle quali spetta un'indennita' di lire 7.500.
+4. I soggetti di cui al comma 1 che non fruiscono di alcun trattamento previdenziale possono essere impegnati nell'ambito del progetto per non piu' di dodici mesi e per un massimo di ottanta ore mensili, per ognuna delle quali spetta un'indennita' di L. 7.500.
 
-5. I progetti sono redatti secondo i criteri stabiliti dal Ministro del lavoro e della previdenza sociale, di concerto con il Ministro per la funzione pubblica, riguardanti anche il carattere della straordinarieta' previsto dal comma 1. I progetti, corredati dai provvedimenti di approvazione validamente assunti dalle amministrazioni pubbliche competenti, sono presentati al Ministero del lavoro e della previdenza sociale, se ad ambito nazionale o interregionale, e all'ufficio provinciale del lavoro e della massima occupazione e all'agenzia per l'impiego competente per territorio, se ad ambito locale. I progetti dovranno di norma essere predisposti e svolti separatamente per i soggetti di cui al comma 4 e per i restanti soggetti di cui al comma 1.
+5. I progetti sono redatti secondo i criteri stabiliti dal Ministro del lavoro e della previdenza sociale, di concerto con il Ministro per la funzione pubblica, entro sessanta giorni dalla data di entrata in vigore della legge di conversione del presente decreto, riguardanti anche il carattere della straordinarieta' previsto dal comma 1. I progetti, corredati dai provvedimenti di approvazione validamente assunti dalle amministrazioni pubbliche competenti, sono presentati al Ministero del lavoro e della previdenza sociale, se ad ambito nazionale o interregionale, e all'ufficio provinciale del lavoro e della massima occupazione e all'agenzia per l'impiego competente per territorio, se ad ambito locale. I progetti dovranno di norma essere predisposti e svolti separatamente per i soggetti di cui al comma 4 e per i restanti soggetti di cui al comma 1.
 
 6. I progetti ad ambito nazionale o interregionale entro sessanta giorni sono sottoposti, previo parere del nucleo di valutazione di cui al comma 8, all'approvazione da parte della commissione centrale per l'impiego. La medesima commissione e' tenuta a provvedere, anche attraverso apposita sottocommissione, entro trenta giorni, decorsi i quali i progetti stessi sono rimessi ad un dirigente generale che de- cide sulla base del parere del nucleo di valutazione. L'agenzia per l'impiego di cui al comma 5, entro trenta giorni dalla data di ricevimento, sottopone i progetti ad ambito locale all'approvazione della commissione regionale per l'impiego con il proprio parere in ordine alla qualita' del progetto e, per i progetti che richiedano finanziamenti, alle priorita'. La commissione medesima, anche attraverso apposita sottocommissione, e' tenuta a provvedere entro trenta giorni, decorsi i quali i progetti sono rimessi al direttore dell'ufficio regionale del lavoro e della massima occupazione che de- cide sulla base del parere dell'agenzia per l'impiego.
 
-7. I progetti possono essere finanziati dai soggetti proponenti di cui al comma 1 nei limiti delle proprie disponibilita' di bilancio e, per gli anni 1994-1995, dal Fondo di cui all'[articolo 1, comma 7, del decreto-legge 20 maggio 1993, n. 148](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1993-05-20;148~art1-com7), convertito, con modificazioni, dalla [legge 19 luglio 1993, n. 236](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-07-19;236), nei limiti delle risorse finanziarie del medesimo Fondo preordinate allo scopo.
+7. I progetti possono essere finanziati dai soggetti proponenti di cui al comma 1 nei limiti delle proprie disponibilita' di bilancio e, per gli anni 1994-1995, dal fondo di cui all'[articolo 1, comma 7, del decreto-legge 20 maggio 1993, n. 148](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1993-05-20;148~art1-com7), convertito, con modificazioni, dalla [legge 19 luglio 1993, n. 236](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-07-19;236), nei limiti delle risorse finanziarie del medesimo fondo preordinate allo scopo.
 
-8. Con decreto del Ministro del lavoro e della previdenza sociale e' istituito un nucleo di valutazione composto da undici membri, di cui sei interni, e cinque esterni esperti in materia, con il compito di assistere il Ministro nella redazione del decreto di cui al comma 9;   
-di fornire parere in relazione ai progetti nazionali e interregionali; di redigere annualmente un rapporto sull'esperienza applicativa. Con il medesimo decreto viene nominato, tra i componenti il nucleo di valutazione, un presidente. Per i membri del nucleo si applicano le disposizioni di cui all'[articolo 1 della legge 5 giugno 1967, n. 417](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1967-06-05;417~art1).
+8. Con decreto del Ministro del lavoro e della previdenza sociale e' istituito un nucleo di valutazione composto da undici membri, di cui sei interni, e cinque esterni esperti in materia, con il compito di assistere il Ministro nella redazione del decreto di cui al comma 9; di fornire parere in relazione ai progetti nazionali e interregionali; di redigere annualmente un rapporto sull'esperienza applicativa. Con il medesimo decreto viene nominato, tra i componenti il nucleo di valutazione, un presidente. Per i membri del nucleo si applicano le disposizioni di cui all'[articolo 1 della legge 5 giugno 1967, n. 417](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1967-06-05;417~art1).
 
 9. Il Ministro del lavoro e della previdenza sociale, sentita la commissione centrale per l'impiego, determina, periodicamente, con propri decreti:
 
@@ -67,14 +66,14 @@ h) i criteri per la redazione del rapporto di cui al comma 8.
 
 11. Il Ministero del lavoro e della previdenza sociale e il Dipartimento della funzione pubblica verificano ogni anno lo stato di attuazione dei progetti.
 
-12. Per i progetti di lavori socialmente utili in corso di attuazione, ovvero per quelli per i quali alla data di entrata in vigore del presente decreto siano state avviate le relative procedure di approvazione da parte delle commissioni regionali per l'impiego, continua ad operare la normativa previgente. Fino alla determinazione dei criteri previsti dal comma 5, nei confronti dei progetti di lavori socialmente utili sottoposti all'approvazione della commissione regionale per l'impiego successivamente alla data di entrata in vigore del presente decreto, non trova applicazione quanto previsto dai commi 5 e 6.
+12. Per i progetti di lavori socialmente utili in corso di attuazione alla data di entrata in vigore del presente decreto continua ad operare la disciplina previgente. La medesima disciplina, integrata dalle disposizioni di cui al comma 7 e da quelle relative all'ingiustificato rifiuto all'assegnazione di cui al comma 3, continua ad operare per i progetti di lavori socialmente utili le cui procedure di approvazione siano avviate entro novanta giorni dalla data di entrata in vigore del presente decreto. Fino alla determinazione dei criteri previsti dai commi 5 e 9, nei confronti dei progetti di lavori socialmente utili sottoposti all'approvazione successivamente alla scadenza del predetto termine, non trova applicazione quanto previsto dai commi 5 e 6.
 
 Art. 2
 ------
 
 Piani per l'inserimento professionale dei giovani privi di occupazione
 
-1. Nelle aree di cui all'[articolo 1 del decreto-legge 20 maggio 1993, n. 148](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1993-05-20;148~art1), convertito, con modificazioni, dalla [legge 19 luglio 1993, n. 236](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-07-19;236), il Ministero del lavoro e della previdenza sociale, sentite le commissioni regionali per l'impiego e di intesa con le regioni interessate, realizza, per gli anni 1994 e 1995, piani mirati a promuovere l'inserimento professionale dei giovani di eta' compresa tra 19 e 32 anni iscritti nelle liste del collocamento. I piani sono attuati attraverso:
+1. Nelle aree di cui all'[articolo 1 del decreto-legge 20 maggio 1993, n. 148](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1993-05-20;148~art1), convertito, con modificazioni, dalla [legge 19 luglio 1993, n. 236](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-07-19;236), il Ministero del lavoro e della previdenza sociale, sentite le commissioni regionali per l'impiego e di intesa con le regioni interessate, realizza, per gli anni 1994 e 1995, piani mirati a promuovere l'inserimento professionale dei giovani di eta' compresa tra 19 e 32 anni e fino a 35 anni per i disoccupati di lunga durata iscritti nelle liste del collocamento. I piani sono attuati attraverso:
 
 a) progetti che prevedono lo svolgimento di lavori socialmente utili, nonche' la partecipazione ad iniziative formative volte al recupero dell'istruzione di base, alla qualificazione professionale dei soggetti gia' in possesso del diploma di scuola media inferiore, alla formazione di secondo livello per giovani gia' in possesso di diploma di scuola secondaria superiore;
 
@@ -107,11 +106,11 @@ a) contratto di formazione e lavoro mirato alla: 1) acquisizione di professional
 
 b) contratto di formazione e lavoro mirato ad agevolare l'inserimento professionale mediante un'esperienza lavorativa che consenta un adeguamento delle capacita' professionali al contesto produttivo ed organizzativo.
 
-3. I contratti collettivi nazionali di lavoro e gli accordi interconfederali possono prevedere che il lavoratore venga inquadrato a livelli inferiori a quello di destinazione.
+3. I contratti collettivi nazionali di lavoro e gli accordi interconfederali possono prevedere che il lavoratore venga inquadrato a un livello inferiore a quello di destinazione.
 
 4. La durata massima del contratto di formazione e lavoro non puo' superare i ventiquattro mesi per i contratti di cui alla lettera a) del comma 2 e di dodici mesi per i contratti di cui alla lettera b) del medesimo comma.
 
-5. I contratti di cui alla lettera a), numeri 1) e 2), del comma 2 devono prevedere rispettivamente almeno ottanta e centotrenta ore di formazione da effettuarsi in luogo della prestazione lavorativa. Il contratto di cui alla lettera b) del comma 2 deve prevedere una formazione minima di base relativa alla disciplina del rapporto di lavoro, all'organizzazione del lavoro, nonche' alla prevenzione ambientale e antinfortunistica. I contratti collettivi possono prevedere la non retribuibilita' di eventuali ore aggiuntive devolute alla formazione.
+5. I contratti di cui alla lettera a), numeri 1) e 2), del comma 2 devono prevedere rispettivamente almeno ottanta e centotrenta ore di formazione da effettuarsi in luogo della prestazione lavorativa. Il contratto di cui alla lettera b) del comma 2 deve prevedere una formazione minima non inferiore a venti ore di base relativa alla disciplina del rapporto di lavoro, all'organizzazione del lavoro, nonche' alla prevenzione ambientale e antinfortunistica. I contratti collettivi possono prevedere la non retribuibilita' di eventuali ore aggiuntive devolute alla formazione.
 
 6. Per i contratti di cui alla lettera a) del comma 2, continuano a trovare applicazione i benefici contributivi previsti dalle disposizioni vigenti in materia alla data di entrata in vigore del presente decreto. Per i contratti di cui alla lettera b) del predetto comma 2 i medesimi benefici trovano applicazione subordinatamente alla trasformazione del rapporto di lavoro a tempo indeterminato e successivamente ad essa, per una durata pari a quella del contratto di formazione e lavoro cosi' trasformato e in misura correlata al trattamento retributivo corrisposto nel corso del contratto di formazione medesimo.
 
@@ -125,7 +124,11 @@ b) contratto di formazione e lavoro mirato ad agevolare l'inserimento profession
 
 11. Le disposizioni del presente articolo non trovano applicazione nei confronti dei contratti di formazione e lavoro gia' stipulati alla data di entrata in vigore del presente decreto, per i progetti che alla medesima data risultino gia' approvati o presentati, ovvero riconosciuti conformi ai sensi e per gli effetti di cui all'[articolo 3, comma 3, del decreto-legge 30 ottobre 1984, n. 726](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1984-10-30;726~art3-com3), convertito, con modificazioni, dalla [legge 19 dicembre 1984, n. 863](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1984-12-19;863), come modificato dall'[articolo 9, comma 1, del decreto-legge 29 marzo 1991, n. 108](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1991-03-29;108~art9-com1), convertito, con modificazioni, dalla [legge 1 giugno 1991, n. 169](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1991-06-01;169), nonche' per i contratti di formazione e lavoro che vengano stipulati, in attuazione dei predetti progetti, non oltre il 31 gennaio 1994.
 
-12. La disposizione dell'ultimo periodo dell'articolo 3, comma 3, citato al comma 11, continua a trovare applicazione fino all'emanazione dei decreti di cui al comma 7, e comunque non oltre il 30 giugno 1994, per i progetti presentati successivamente alla data di entrata in vigore del presente decreto. Per i relativi contratti di formazione e lavoro stipulati entro il 31 marzo 1994, continua a trovare applicazione la previgente normativa come modificata dai commi 1 e 10.
+12. La disposizione dell'ultimo periodo dell'articolo 3, comma 3, citato al comma 11, continua a trovare applicazione fino all'emanazione dei decreti di cui al comma 7, e comunque non oltre il 30 giugno 1994, per i progetti presentati successivamente alla data di entrata in vigore del presente decreto. Per i relativi contratti di formazione e lavoro stipulati entro il 31 luglio 1994, continua a trovare applicazione la previgente normativa come modificata dai commi 1 e 10.
+
+13. Il [comma 10 dell'articolo 3 del decreto-legge 30 ottobre 1984, n. 726](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1984-10-30;726~art3-com10), convertito, con modificazioni, dalla [legge 19 dicembre 1984, n. 863](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1984-12-19;863), e successive modificazioni, e' soppresso.
+
+14. L'approvazione dei progetti di formazione e lavoro deve essere subordinata ad un equilibrato rapporto uomo/donna nelle assunzioni rispetto al bacino di utenza, in attuazione della [legge 10 aprile 1991, n. 125](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1991-04-10;125).
 
 Art. 4
 ------
@@ -137,7 +140,7 @@ Entrata in vigore
 Il presente decreto, munito del sigillo dello Stato, sara' inserito nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 18 novembre 1993
+### Dato a Roma, addi' 17 gennaio 1994
 
 SCALFARO
 

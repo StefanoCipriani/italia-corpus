@@ -1,7 +1,7 @@
-DECRETO DEL CAPO PROVVISORIO DELLO STATO 05 ottobre 1947 n. 1351
+DECRETO DEL CAPO PROVVISORIO DELLO STATO 04 febbraio 1947 n. 176
 
 
-DECRETO DEL CAPO PROVVISORIO DELLO STATO 05 ottobre 1947 n. 1351
+DECRETO DEL CAPO PROVVISORIO DELLO STATO 04 febbraio 1947 n. 176
 ================================================================
 
 Autorizzazione all'Universita' cattolica del Sacro Cuore di Milano ad accettare un legato.
@@ -12,7 +12,7 @@ Art. 1
 
 N.
 
-1351. Decreto del Capo provvisorio dello Stato 5 ottobre 1947, col quale, sulla proposta del Ministro per la pubblica istruzione, l' Universita' cattolica del Sacro Cuore di Milano viene autorizzata ad accettare il legato disposto in suo favore del sig. Uberto Guarneri, con testamento olografo in data 8 dicembre 1944, consistente in una parte del suo patrimonio, ammontante a L. 163.966.10.  
+176. Decreto del Capo provvisorio dello Stato 4 febbraio 1947, col quale, sulla proposta del Ministro per la pubblica istruzione, l'Universita' cattolica del Sacro Cuore di Milano viene autorizzata ad accettare il legato, disposto in suo favore dalla signora Ferraguti Maria Romola, ved. Bocchi Bianchi, con testamento pubblico del 19 febbraio 1945, del podere Erosa in San Casciano Bagni, con l'onere di versare L. 50.000 all'Istituto delle Missioni salesiane di Torino.  
   
-Visto, il Guardasigilli: GRASSI  
-Registrato alla Corte dei conti, addi' 22 novembre 1947
+Visto, il Guardasigilli: GULLO  
+Registrato alla Corte dei Conti, addi' 26 marzo 1947

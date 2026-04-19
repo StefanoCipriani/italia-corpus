@@ -1,13 +1,13 @@
-DECRETO-LEGGE 07 gennaio 1994 n. 6
+DECRETO-LEGGE 04 marzo 1994 n. 163
 
 
-DECRETO-LEGGE 07 gennaio 1994 n. 6
+DECRETO-LEGGE 04 marzo 1994 n. 163
 ==================================
 
 Attuazione degli embarghi deliberati dal Consiglio di sicurezza delle Nazioni Unite nei confronti di Haiti e del movimento UNITA in Angola.
 -------------------------------------------------------------------------------------------------------------------------------------------
 
-Entrata in vigore del decreto: 8/1/1994.Decreto-Legge decaduto per mancata conversione.
+Entrata in vigore del decreto: 10-3-1994.Decreto-Legge decaduto per mancata conversione.
 
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
@@ -16,11 +16,11 @@ Visti gli [articoli 77](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:cost
 
 Viste le risoluzioni numeri 841, 873, 875 e 864 del Consiglio di sicurezza delle Nazioni Unite, rispettivamente in data 16 giugno 1993, 13 ottobre 1993, 18 ottobre 1993 e 15 settembre 1993, che, in quanto adottate ai sensi del capitolo VII della Carta delle Nazioni Unite, hanno forza obbligatoria per gli Stati membri;
 
-Visti i regolamenti approvati dal Consiglio dei Ministri della CEE del 24 giugno 1993 e del 28 ottobre 1993 sull'embargo nei confronti di Haiti ed il regolamento approvato dallo stesso Consiglio del 25 ottobre 1993 sull'embargo nei confronti del movimento UNITA in Angola;
+Visti i regolamenti approvati dal Consiglio dei Ministri della CEE n. 1608/93 e n. 3028/93 sull'embargo nei confronti di Haiti ed il regolamento approvato dallo stesso Consiglio n. 2967/93 sull'embargo nei confronti del movimento UNITA in Angola;
 
 Ritenuta la straordinaria necessita' ed urgenza di dare esecuzione da parte italiana ai predetti atti;
 
-Vista la deliberazione del Consiglio dei Ministri, adottata nella riunione del 5 gennaio 1994;
+Vista la deliberazione del Consiglio dei Ministri, adottata nella riunione del 2 marzo 1994;
 
 Sulla proposta del Presidente del Consiglio dei Ministri e del Ministro degli affari esteri, di concerto con i Ministri di grazia e giustizia, delle finanze, del tesoro, del commercio con l'estero e dei trasporti e della navigazione;
 
@@ -54,12 +54,12 @@ Art. 3
 Art. 4
 ------
 
-1. Il presente decreto entra in vigore il giorno stesso della sua pubblicazione nella Gazzetta Ufficiale della Repubblica italiana e sara' presentato alle Camere per la conversione in legge.
+1. Il presente decreto entra in vigore il giorno successivo a quello della sua pubblicazione nella Gazzetta Ufficiale della Repubblica italiana e sara' presentato alle Camere per la conversione in legge.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserito nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 7 gennaio 1994
+### Dato a Roma, addi' 4 marzo 1994
 
 SCALFARO
 

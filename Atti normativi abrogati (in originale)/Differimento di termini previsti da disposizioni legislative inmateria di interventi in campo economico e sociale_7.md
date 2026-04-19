@@ -1,14 +1,14 @@
-DECRETO-LEGGE 26 febbraio 1996 n. 78
+DECRETO-LEGGE 26 aprile 1996 n. 214
 
 
-DECRETO-LEGGE 26 febbraio 1996 n. 78
-====================================
+DECRETO-LEGGE 26 aprile 1996 n. 214
+===================================
 
 Differimento di termini previsti da disposizioni legislative in 
 materia di interventi in campo economico e sociale.
 --------------------------------------------------------------------------------------------------------------------
 
-Entrata in vigore del decreto: 27/2/1996.Decreto-Legge decaduto per mancata conversione.
+Entrata in vigore del decreto: 28-4-1996.Decreto-Legge decaduto per mancata conversione.
 
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
@@ -17,7 +17,7 @@ Visti gli [articoli 77](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:cost
 
 Ritenuta la straordinaria necessita' ed urgenza di emanare disposizioni concernenti il differimento di termini previsti da disposizioni legislative in materia di interventi in campo economico e sociale;
 
-Vista la deliberazione del Consiglio dei Ministri, adottata nella riunione del 22 febbraio 1996;
+Vista la deliberazione del Consiglio dei Ministri, adottata nella riunione del 24 aprile 1996;
 
 Sulla proposta del Presidente del Consiglio dei Ministri e Ministro del tesoro, di concerto con i Ministri dell'universita' e della ricerca scientifica e tecnologica, delle risorse agricole, alimentari e forestali, del lavoro e della previdenza sociale, dell'industria, del commercio e dell'artigianato e del commercio con l'estero, della sanita' e del bilancio e della programmazione economica;
 
@@ -34,9 +34,9 @@ Interventi nel campo della ricerca
 
 3. Al fine di consentire la prosecuzione delle attivita' scientifiche, di ricerca e di formazione del Centro internazionale di fisica teorica di Trieste (I.C.T.P.), in attesa della ratifica e conseguente entrata in vigore dell'accordo tripartito tra Italia, UNESCO ed AIEA, e' autorizzata la concessione al Centro medesimo di un contributo straordinario di lire 10 miliardi nel biennio 1994-1995, in ragione di lire 6 miliardi per l'anno 1994 e di lire 4 miliardi per l'anno 1995. Al relativo onere si provvede a carico dello stanziamento iscritto sul capitolo 7706 dello stato di previsione del Ministero dell'universita' e della ricerca scientifica e tecnologica per l'anno 1994 e al medesimo capitolo 7706 per l'anno 1995.
 
-4. Il termine per la definizione, da parte dei soggetti interessati, dei contenuti dei contratti concernenti la vendita, l'uso o la locazione finanziaria di immobili di cui all'[articolo 3 della legge 23 dicembre 1992, n. 498](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1992-12-23;498~art3), resta fissato al 30 aprile 1996.
+4. Il termine per la definizione, da parte dei soggetti interessati, dei contenuti dei contratti concernenti la vendita, l'uso o la locazione finanziaria di immobili di cui all'[articolo 3 della legge 23 dicembre 1992, n. 498](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1992-12-23;498~art3), resta fissato al 30 giugno 1996.
 
-5. Il termine previsto dall'[articolo 4, comma secondo, della legge 3 aprile 1979, n. 122](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1979-04-03;122~art4-com2), gia' differito al 18 aprile 1995 dall'[articolo 9, comma 8, della legge 15 dicembre 1990, n. 396](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-12-15;396~art9-com8), e' ulteriormente differito al 30 aprile 1996.
+5. Il termine previsto dall'[articolo 4, comma secondo, della legge 3 aprile 1979, n. 122](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1979-04-03;122~art4-com2), gia' differito al 18 aprile 1995 dall'[articolo 9, comma 8, della legge 15 dicembre 1990, n. 396](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-12-15;396~art9-com8), e' ulteriormente differito al 30 giugno 1996.
 
 Art. 2
 ------
@@ -47,7 +47,7 @@ Interventi nel settore agricolo
 
 2. Il termine di cui al [comma 3 dell'articolo 70 della legge 30 dicembre 1991, n. 413](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1991-12-30;413~art70-com3), concernente le agevolazioni tributarie per la formazione e l'arrotondamento della proprieta' contadina, e' prorogato al 31 dicembre 1997. Alle relative minori entrate provvede la Cassa per la piccola proprieta' contadina, mediante versamento, previo accertamento da parte della Amministrazione finanziaria, all'entrata del bilancio dello Stato.
 
-3. L'[articolo 4 del decreto legislativo 11 agosto 1993, n. 375](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-08-11;375~art4), trova applicazione a decorrere dal 1 maggio 1996.
+3. L'[articolo 4 del decreto legislativo 11 agosto 1993, n. 375](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-08-11;375~art4), trova applicazione a decorrere dal 1 giugno 1996.
 
 4. La disciplina relativa all'autorizzazione sanitaria prevista dal regolamento sulla vigilanza igienica del latte destinato al consumo diretto, approvato con [regio decreto 9 maggio 1929, n. 994](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1929-05-09;994), e successive modificazioni, e dai [decreti del Ministro della sanita' 9 maggio 1991, numeri 184](http://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.sanita:decreto:1991-05-09;184) e [185](http://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.sanita:decreto:1991-05-09;185), si intende riferita soltanto alle aziende di produzione (vaccherie) di latte crudo destinato alla produzione di latte alimentare trattato termicamente, nonche' di latte crudo destinato ad essere utilizzato per la produzione di latte fresco pastorizzato di alta qualita'. La [legge 30 aprile 1962, n. 283](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1962-04-30;283), e successive modificazioni, non si applica alle aziende di produzione (vaccherie) di latte crudo comunque destinato.
 
@@ -55,7 +55,7 @@ Interventi nel settore agricolo
 
 6. Il [comma 7-bis dell'articolo 33 del decreto-legge 30 agosto 1993, n. 331](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1993-08-30;331~art33-com7bis), convertito, con modificazioni, dalla [legge 29 ottobre 1993, n. 427](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-10-29;427), e' soppresso. Conseguentemente, la somma di lire 8 miliardi accantonata dal CIPE, con delibera del 30 novembre 1993, sui fondi recati dalla [legge 10 luglio 1991, n. 201](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1991-07-10;201), per essere destinata alle iniziative di cui al predetto articolo 33, comma 7-bis, e' assegnata rispettivamente per lire 6,5 miliardi al capitolo 7962 e per lire 1,5 miliardi al capitolo 7283 dello stato di previsione della spesa del Ministero delle risorse agricole, alimentari e forestali per l'anno 1994.
 
-7. Il termine fissato dall'[articolo 14 della legge 4 giugno 1984, n. 194](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1984-06-04;194~art14), da ultimo differito dall'[articolo 3 della legge 7 febbraio 1992, n. 140](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1992-02-07;140~art3), e' ulteriormente differito al 30 aprile 1996. Per la predetta finalita' e' autorizzata la spesa di lire 2 miliardi per ciascuno degli anni 1994 e 1995. Al relativo onere si provvede a carico dello stanziamento iscritto al capitolo 1140 dello stato di previsione del Ministero delle risorse agricole, alimentari e forestali per l'anno 1994 e corrispondente capitolo per l'anno successivo.
+7. Il termine fissato dall'[articolo 14 della legge 4 giugno 1984, n. 194](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1984-06-04;194~art14), da ultimo differito dall'[articolo 3 della legge 7 febbraio 1992, n. 140](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1992-02-07;140~art3), e' ulteriormente differito al 30 giugno 1996. Per la predetta finalita' e' autorizzata la spesa di lire 2 miliardi per ciascuno degli anni 1994 e 1995. Al relativo onere si provvede a carico dello stanziamento iscritto al capitolo 1140 dello stato di previsione del Ministero delle risorse agricole, alimentari e forestali per l'anno 1994 e corrispondente capitolo per l'anno successivo.
 
 8. I termini di cui all'[articolo 32, commi 3](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1992-02-10;164~art32-com3) e [4, della legge 10 febbraio 1992, n. 164](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1992-02-10;164~art32-com4), sono differiti di tre anni a decorrere dalla data di entrata in vigore della legge di conversione del presente decreto.
 
@@ -70,11 +70,9 @@ Interventi nei settori produttivi
 
 3. Il termine del 31 marzo 1993 previsto dall'[articolo 9-quater, comma 9, del decreto-legge 9 settembre 1988, n. 397](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1988-09-09;397~art9quater-com9), convertito, con modificazioni, dalla [legge 9 novembre 1988, n. 475](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-11-09;475), e' prorogato fino all'adozione da parte del Ministro dell'ambiente dei provvedimenti attuativi di sua competenza previsti dal medesimo articolo, da emanarsi entro sessanta giorni dalla data di entrata in vigore della legge di conversione del presente decreto, nonche' fino all'attuazione da parte dei comuni della raccolta differenziata, che deve avvenire entro il termine perentorio di centoventi giorni successivi agli adempimenti del Ministro dell'ambiente.
 
-4. Sono prorogati al 30 aprile 1996 i termini previsti dalla [legge 28 dicembre 1993, n. 549](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-12-28;549), fatto salvo quanto disposto dal [regolamento CEE n. 594/91 del Consiglio, del 4 marzo 1991](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:31991R0594), come modificato ed integrato dal successivo [regolamento CEE n. 3952/92 del Consiglio, del 30 dicembre 1992](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:31992R3952).
+4. Il termine del 31 marzo 1995 previsto all'[articolo 1, comma 3, del decreto-legge 20 giugno 1994, n. 396](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1994-06-20;396~art1-com3), convertito, con modificazioni, dalla [legge 3 agosto 1994, n. 481, ed all'articolo 1, comma 1, lettera c)](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-08-03;481~art1-com1-letc), del [decreto del Ministro dell'industria, del commercio e dell'artigianato 12 ottobre 1994, n. 683](http://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.industria.commercio.artigianato:decreto:1994-10-12;683), per la distruzione degli impianti oggetto di incentivazione, e' prorogato al 30 giugno 1996.
 
-5. Il termine del 31 marzo 1995 previsto all'[articolo 1, comma 3, del decreto-legge 20 giugno 1994, n. 396](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1994-06-20;396~art1-com3), convertito, con modificazioni, dalla [legge 3 agosto 1994, n. 481, ed all'articolo 1, comma 1, lettera c)](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-08-03;481~art1-com1-letc), del decreto del Ministro dell'industria, del commercio e dell'artigia nato 12 ottobre 1994, n. 683, per la distruzione degli impianti oggetto di incentivazione, e' prorogato al 30 aprile 1996.
-
-6. Il termine per la presentazione della documentazione integrativa prevista a corredo delle domande di concessione di contributi gia' presentata resta confermato al 31 marzo 1995.
+5. Il termine per la presentazione della documentazione integrativa prevista a corredo delle domande di concessione di contributi gia' presentata resta confermato al 31 marzo 1995.
 
 Art. 4
 ------
@@ -123,16 +121,16 @@ b) al comma 2, le parole: "entro trenta giorni dalla data di entrata in vigore d
 
 6. All'[articolo 13, comma 7, del decreto legislativo 30 dicembre 1992, n. 538](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992-12-30;538~art13-com7), dopo le parole: "hanno presentato" sono aggiunte le seguenti: "o presentino entro il 28 febbraio 1994".
 
-7. I termini di cui all'[articolo 10, comma 2, del decreto legislativo 30 giugno 1993, n. 266](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-06-30;266~art10-com2), sono differiti al 30 aprile 1996.
+7. I termini di cui all'[articolo 10, comma 2, del decreto legislativo 30 giugno 1993, n. 266](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-06-30;266~art10-com2), sono differiti al 30 giugno 1996.
 
-8. Il termine di cui all'[articolo 10, comma 2, del decreto legislativo 30 giugno 1993, n. 270](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-06-30;270~art10-com2), e' differito fino all'entrata in vigore delle leggi regionali di attuazione dell'articolo 2, comma 5, del predetto decreto legislativo e, comunque, non oltre il 1 maggio 1996.
+8. Il termine di cui all'[articolo 10, comma 2, del decreto legislativo 30 giugno 1993, n. 270](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-06-30;270~art10-com2), e' differito fino all'entrata in vigore delle leggi regionali di attuazione dell'articolo 2, comma 5, del predetto decreto legislativo e, comunque, non oltre il 30 giugno 1996.
 
 9. La disposizione di cui all'[articolo 3, comma 23, della legge 24 dicembre 1993, n. 537](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-12-24;537~art3-com23), non si applica, limitatamente al numero massimo di venti unita', al personale a contratto il cui utilizzo gradualmente si rende necessario per lo svolgimento dell'attivita' di assistenza sanitaria e medico-legale al personale navigante, marittimo e dell'aviazione civile, assistito dal Ministero della sanita' ai sensi del [decreto del Presidente della Repubblica 31 luglio 1980, n. 620](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-31;620). Lo svolgimento dell'attivita' suddetta non costituisce, in nessun caso, titolo per l'assunzione nei ruoli dell'Amministrazione.
 
 10. L'[articolo 5 del decreto del Presidente della Repubblica 28 marzo 1994, n. 268](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1994-03-28;268~art5), e' sostituito dal seguente:  
 "Art. 5. - 1. Le disposizioni del presente regolamento entrano in vigore il centottantesimo giorno successivo a quello della sua pubblicazione nella Gazzetta Ufficiale".
 
-11. Ai fini della revisione delle acque minerali, il termine previsto dall'[articolo 21 del decreto legislativo 25 gennaio 1992, n. 105](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992-01-25;105~art21), e' differito al 30 aprile 1996.
+11. Ai fini della revisione delle acque minerali, il termine previsto dall'[articolo 21 del decreto legislativo 25 gennaio 1992, n. 105](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992-01-25;105~art21), e' differito al 30 giugno 1996.
 
 12. All'[articolo 4, comma 1, del decreto del Ministro della sanita' 9 maggio 1991, n. 184](http://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.sanita:decreto:1991-05-09;184~art4-com1), la lettera b) e' sostituita dalla seguente:  
 " b) la provenienza di latte crudo da aziende di produzione e da centri di raccolta conformi alla legislazione nazionale attualmente vigente, fino all'entrata in vigore del decreto legislativo di recepimento della [direttiva 92/46/CEE del Consiglio del 16 giugno 1992](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:31992L0046), che stabilisce le norme sanitarie per la produzione e la commercializzazione di latte crudo, di latte trattato termicamente e di prodotti a base di latte;".
@@ -160,7 +158,7 @@ Disposizioni in materia di cittadini extracomunitari
 2. Per l'anno 1994 i cittadini extracomunitari, regolarmente residenti in Italia ed iscritti nelle liste di collocamento, sono equiparati ai cittadini italiani non occupati, iscritti nelle liste di collocamento, per quanto attiene all'assistenza sanitaria erogata in Italia dal Servizio sanitario nazionale ed al relativo obbligo contributivo di cui all'[articolo 63 della legge 23 dicembre 1978, n. 833](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-12-23;833~art63), e successive modificazioni ed integrazioni.
 
 3. All'[articolo 3 del decreto-legge 24 luglio 1992, n. 350](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1992-07-24;350~art3), convertito, con modificazioni, dalla [legge 24 settembre 1992, n. 390](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1992-09-24;390), e' aggiunto, in fine, il seguente comma:  
-" 4-bis . Per la prosecuzione nell'anno 1994 degli interventi straordinari di cui all'articolo 1, le somme non impegnate nell'anno 1993 possono esserlo nell'anno successivo".
+"4-bis. Per la prosecuzione nell'anno 1994 degli interventi straordinari di cui all'articolo 1, le somme non impegnate nell'anno 1993 possono esserlo nell'anno successivo".
 
 4. L'[articolo 4 del decreto-legge 24 luglio 1992, n. 350](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1992-07-24;350~art4), convertito, con modificazioni, dalla [legge 24 settembre 1992, n. 390](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1992-09-24;390), e' sostituito dal seguente:  
 "Art. 4 (Ordini di accreditamento). - 1. Per l'attuazione degli interventi connessi con le attivita' indicate nel presente capo, il Presidente del Consiglio dei Ministri ripartisce le disponibilita' di cui all'articolo 3, comma 1, tra le amministrazioni interessate che provvedono alle attivita' di rispettiva competenza a mezzo dei prefetti o di altri funzionari preposti ad uffici della pubblica amministrazione con ordini di accreditamento anche in deroga ai limiti di somma stabiliti dalle norme sulla contabilita' generale dello Stato. Beneficiari degli ordini di pagamento emessi dai prefetti o dagli altri funzionari potranno essere anche gli enti locali, la Croce rossa italiana ed ogni altra istituzione ed organizzazione operante per finalita' umanitarie, previsti dall'articolo 1, comma 4, del presente decreto.  
@@ -207,22 +205,22 @@ Art. 12
 Proroga di termini di entrata in vigore
 
 1. L'[articolo 73 della legge 31 maggio 1995, n. 218](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1995-05-31;218~art73), gia' sostituito dall'[articolo 8, comma 1, del decreto-legge 28 agosto 1995, n. 361](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1995-08-28;361~art8-com1), convertito, con modificazioni, dalla [legge 27 ottobre 1995, n. 437](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1995-10-27;437), e' sostituito dal seguente:  
-"Art. 73 (Abrogazioni). - 1. Sono abrogati gli articoli dal 17 al 31 delle disposizioni sulla legge in generale premesse al [codice civile, nonche' gli articoli 2505](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art2505) e [2509](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art2509) del [codice civile e gli articoli 2](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art2), [3](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art3), [4](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art4) e [37, secondo comma](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art37-com2), del [codice di procedura civile; gli articoli dal 796](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.procedura.civile:1940-10-28;1443~art796) [all'805](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.procedura.civile:1940-10-28;1443~art805) del [codice di procedura civile](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.procedura.civile:1940-10-28;1443) sono abrogati a far data dal 1 giugno 1996.".
+"Art. 73 (Abrogazioni). - 1. Sono abrogati gli articoli dal 17 al 31 delle disposizioni sulla legge in generale premesse al [codice civile, nonche' gli articoli 2505](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art2505) e [2509](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art2509) del [codice civile e gli articoli 2](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art2), [3](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art3), [4](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art4) e [37, secondo comma](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art37-com2), del [codice di procedura civile; gli articoli dal 796](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.procedura.civile:1940-10-28;1443~art796) [all'805](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.procedura.civile:1940-10-28;1443~art805) del [codice di procedura civile](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.procedura.civile:1940-10-28;1443) sono abrogati a far data dal 1 ottobre 1996.".
 
 2. L'[articolo 74 della legge 31 maggio 1995, n. 218](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1995-05-31;218~art74), gia' sostituito dall'[articolo 8, comma 2, del decreto-legge 28 agosto 1995, n. 361](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1995-08-28;361~art8-com2), convertito, con modificazioni, dalla [legge 27 ottobre 1995, n. 437](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1995-10-27;437), e' sostituito dal seguente:  
-"Art. 74 (Entrata in vigore). - 1. La presente legge entra in vigore il 1 settembre 1995; gli articoli dal 64 al 71 entrano in vigore il 1 giugno 1996.".
+"Art. 74 (Entrata in vigore). - 1. La presente legge entra in vigore il 1 settembre 1995; gli articoli dal 64 al 71 entrano in vigore il 1 ottobre 1996.".
 
 Art. 13
 -------
 
 Entrata in vigore
 
-1. Il presente decreto entra in vigore il giorno stesso della sua pubblicazione nella Gazzetta Ufficiale della Repubblica italiana e sara' presentato alle Camere per la conversione in legge.
+1. Il presente decreto entra in vigore il giorno successivo a quello della sua pubblicazione nella Gazzetta Ufficiale della Repubblica italiana e sara' presentato alle Camere per la conversione in legge.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserito nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 26 febbraio 1996
+### Dato a Roma, addi' 26 aprile 1996
 
 SCALFARO
 

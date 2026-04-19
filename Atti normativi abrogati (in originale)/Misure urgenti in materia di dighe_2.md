@@ -1,13 +1,13 @@
-DECRETO-LEGGE 16 dicembre 1993 n. 524
+DECRETO-LEGGE 19 ottobre 1993 n. 417
 
 
-DECRETO-LEGGE 16 dicembre 1993 n. 524
-=====================================
+DECRETO-LEGGE 19 ottobre 1993 n. 417
+====================================
 
 Misure urgenti in materia di dighe.
 -----------------------------------
 
-Entrata in vigore del decreto: 19/12/1993.Decreto-Legge decaduto per mancata conversione.
+Entrata in vigore del decreto: 03/11/1993.Decreto-Legge decaduto per mancata conversione.
 
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
@@ -18,11 +18,14 @@ Considerato che le dighe costruite senza l'approvazione del relativo progetto ed
 
 Ritenuta la straordinaria necessita' ed urgenza di emanare disposizioni per l'istituzione di una procedura di approvazione in sanatoria di quelle tra le dighe suddette che non presentino pericoli per le popolazioni;
 
-Vista la deliberazione del Consiglio dei Ministri, adottata nella riunione del 14 dicembre 1993;
+Vista la deliberazione del Consiglio dei Ministri, adottata nella riunione del 18 ottobre 1993;
 
 Sulla proposta del Presidente del Consiglio dei Ministri, di concerto con i Ministri di grazia e giustizia, del tesoro, del bilancio e della programmazione economica, dei lavori pubblici, dell'ambiente, per la funzione pubblica e per il coordinamento delle politiche comunitarie e gli affari regionali;
 
-E M A N A il seguente decreto-legge:
+EMANA
+-----
+
+il seguente decreto-legge:
 
 Art. 1
 ------
@@ -58,11 +61,13 @@ g) potere di prescrivere interventi di manutenzione e di adeguamento ed altri in
 
 h) presentazione di una periodica perizia tecnica sullo stato di conservazione e di manutenzione delle opere;
 
-i) poteri ispettivi del Servizio nazionale dighe, relativamente all'esecuzione delle opere ed alla conservazione e manutenzione delle dighe e relativi impianti;
+i) poteri ispettivi del Servizio nazionale dighe,   
+relativamente all'esecuzione delle opere ed alla conservazione e manutenzione delle dighe e relativi impianti;
 
 l) caratteristiche geometriche e tipologia di utilizzazione degli impianti ai fini della identificazione, valutazione di fattibilita' tecnico-economica e del controllo dei progetti di massima ed esecutivi da parte del Servizio nazionale dighe.
 
-2. Fino alla data di entrata in vigore del regolamento di cui al comma 1, continuano ad avere applicazione il regolamento approvato con decreto del Presidente della Repubblica 1' novembre 1959, n. 1363, e le disposizioni tecniche ed amministrative emanate sulla base di questo, salve le innovazioni apportate dalla legislazione successiva quanto al riparto di attribuzioni fra gli uffici statali e regionali. Nei casi di minore importanza il Servizio nazionale dighe puo' consentire l'applicazione parziale delle norme suddette.
+2. Fino alla data di entrata in vigore del regolamento di cui al comma 1, continuano ad avere applicazione il regolamento approvato con [decreto del Presidente della Repubblica 1 novembre 1959, n. 1363](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1959-11-01;1363), e le disposizioni tecniche ed amministrative emanate sulla base di questo, salve le innovazioni apportate dalla legislazione successiva quanto al riparto di attribuzioni fra gli uffici statali e regionali.  
+Nei casi di minore importanza il Servizio nazionale dighe puo' consentire l'applicazione parziale delle norme suddette.
 
 Art. 3
 ------
@@ -73,7 +78,7 @@ Art. 3
 
 3. Per le dighe di cui al comma 1, qualora non sia possibile determinare la quota del punto piu' basso della superficie di fondazione, l'altezza della diga puo' essere considerata pari al dislivello tra la quota del piano di coronamento e quella del punto piu' depresso dei paramenti, maggiorato del 5 per cento, e il volume di invaso puo' essere considerato pari alla capacita' del serbatoio compresa tra le quote massima e minima dell'invaso stesso.
 
-4. La domanda di approvazione in sanatoria deve essere presentata o inviata, nei modi previsti dall'articolo 5 del decreto del Presidente della Repubblica 1' novembre 1959, n. 1363, agli uffici periferici competenti per territorio del Servizio nazionale dighe, ovvero, ove questi ultimi non siano stati ancora insediati, agli uffici periferici del Ministero dei lavori pubblici, corredata della seguente documentazione, a firma, per quanto di rispettiva competenza, di ingegneri e geologi iscritti ai relativi albi professionali:
+4. La domanda di approvazione in sanatoria deve essere presentata o inviata, nei modi previsti dall'[articolo 5 del decreto del Presidente della Repubblica 1 novembre 1959, n. 1363](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1959-11-01;1363~art5), agli uffici periferici competenti per territorio del Servizio nazionale dighe, ovvero, ove questi ultimi non siano stati ancora insediati, agli uffici periferici del Ministero dei lavori pubblici, corredata della seguente documentazione, a firma, per quanto di rispettiva competenza, di ingegneri e geologi iscritti ai relativi albi professionali:
 
 a) relazione tecnica generale che riporti: i dati caratteristici della diga, delle opere accessorie e del serbatoio; volume d'invaso e modalita' di valutazione dello stesso; l'indicazione delle vie di accesso; i sistemi di allarme e di comunicazione installati; le fonti di energia per la manovra degli organi di intercettazione degli scarichi; le modalita' di vigilanza e controllo;
 
@@ -122,12 +127,12 @@ Art. 5
 Art. 6
 ------
 
-1. Il presente decreto entra in vigore il giorno successivo a quello della sua pubblicazione nella Gazzetta Ufficiale della Repubblica italiana e sara' presentato alle Camere per la conversione in legge.
+1. Il presente decreto entra in vigore il giorno stesso della sua pubblicazione nella Gazzetta Ufficiale della Repubblica italiana e sara' presentato alle Camere per la conversione in legge.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserito nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 16 dicembre 1993
+### Dato a Roma, addi' 19 ottobre 1993
 
 SCALFARO
 

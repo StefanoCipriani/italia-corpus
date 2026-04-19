@@ -1,8 +1,8 @@
-DECRETO-LEGGE 08 luglio 1996 n. 356
+DECRETO-LEGGE 11 marzo 1996 n. 114
 
 
-DECRETO-LEGGE 08 luglio 1996 n. 356
-===================================
+DECRETO-LEGGE 11 marzo 1996 n. 114
+==================================
 
 Disposizioni per la graduale sostituzione del personale delle Forze 
 armate impiegato in attivita' di controllo del territorio della 
@@ -10,7 +10,7 @@ regione siciliana, nonche' per l'adeguamento di strutture e funzioni
 connesse alla lotta contro la criminalita' organizzata.
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Entrata in vigore del decreto: 11-7-1996.Decreto-Legge decaduto per mancata conversione.
+Entrata in vigore del decreto: 11-3-1996.Decreto-Legge decaduto per mancata conversione.
 
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
@@ -29,18 +29,18 @@ Ritenuta la straordinaria necessita' ed urgenza di proseguire nell'attuazione de
 
 Ravvisata la straordinaria necessita' ed urgenza di disporre di piu' rapidi e agili strumenti di reclutamento del personale, nonche' di rafforzare talune strutture e funzioni, al fine di intensificare la lotta contro la criminalita' organizzata nei settori del controllo del traffico di stupefacenti e di apportare i necessari adeguamenti ai [decreti legislativi 12 maggio 1995, n. 198, e n. 199](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1995-05-12;199), concernenti il riordino delle carriere del personale, rispettivamente, dell'Arma dei carabinieri e della Guardia di finanza;
 
-Ritenuta, altresi', la straordinaria necessita' ed urgenza di emanare disposizioni in favore dei soggetti interessati alla chiamata alle armi residenti nei comuni colpiti da alluvione nel 1994;
+Ritenuta, altresi', la straordinaria necessita' ed urgenza di emanare disposizioni in favore dei soggetti interessati alla chiamata alle armi residenti nei comuni colpiti da alluvione nel 1994, nonche' per il differimento del termine concernente le gestioni fuori bilancio relative alle attivita' di protezione sociale;
 
-Vista la deliberazione del Consiglio dei Ministri, adottata nella riunione del 5 luglio 1996;
+Vista la deliberazione del Consiglio dei Ministri, adottata nella riunione del 7 marzo 1996;
 
-Sulla proposta del Presidente del Consiglio dei Ministri e dei Ministri dell'interno e della difesa, di concerto con i Ministri di grazia e giustizia, delle finanze, del tesoro e del bilancio e della programmazione economica e per la funzione pubblica e gli affari regionali;
+Sulla proposta del Presidente del Consiglio dei Ministri e Ministro del tesoro e dei Ministri dell'interno e della difesa, di concerto con i Ministri di grazia e giustizia, delle finanze, del bilancio e della programmazione economica e per la funzione pubblica e gli affari regionali;
 
 E M A N A il seguente decreto-legge:
 
 Art. 1
 ------
 
-1. Le disposizioni dell'[articolo 1](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1992-07-25;349~art1) e dell'[articolo 3, comma 1, del decreto-legge 25 luglio 1992, n. 349](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1992-07-25;349~art3-com1), convertito, con modificazioni, dalla [legge 23 settembre 1992, n. 386](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1992-09-23;386), continuano ad applicarsi nelle province della Calabria fino al 31 dicembre 1995 e nelle province della Sicilia fino al 10 settembre 1996. I comandi militari di regione, competenti per territorio, provvedono alle spese relative ai compensi dovuti per gli alloggiamenti forniti dai comuni o dai privati al personale militare impiegato, in deroga alle vigenti norme, anche per quanto attiene alle tariffe ed ai limiti temporali di permanenza fuori sede disciplinati dalle predette norme.
+1. Le disposizioni dell'[articolo 1](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1992-07-25;349~art1) e dell'[articolo 3, comma 1, del decreto-legge 25 luglio 1992, n. 349](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1992-07-25;349~art3-com1), convertito, con modificazioni, dalla [legge 23 settembre 1992, n. 386](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1992-09-23;386), continuano ad applicarsi nelle province della Calabria fino al 31 dicembre 1995 e nelle province della Sicilia fino al 30 giugno 1996. I comandi militari di regione, competenti per territorio, provvedono alle spese relative ai compensi dovuti per gli alloggiamenti forniti dai comuni o dai privati al personale militare impiegato, in deroga alle vigenti norme, anche per quanto attiene alle tariffe ed ai limiti temporali di permanenza fuori sede disciplinati dalle predette norme.
 
 2. A decorrere dal 1 novembre 1995, i contingenti delle Forze armate messi a disposizione dei prefetti delle province della Calabria sono sostituiti con personale delle Forze di polizia in modo da pervenire alla loro integrale sostituzione entro il 31 dicembre 1995.
 
@@ -82,7 +82,9 @@ Art. 4
 Art. 5
 ------
 
-1. All'onere derivante dall'attuazione del presente decreto, valutato in lire 240.668 milioni per l'anno 1995 ed in lire 135.291 milioni per l'anno 1996 si provvede, quanto all'anno 1995 a carico dei seguenti capitoli dello stato di previsione del Ministero della difesa: capitolo 1086 per lire 1.948,1 milioni, capitolo 1091 per lire 1.042 milioni, capitolo 1092 per lire 1.948,1 milioni, capitolo 1105 per lire 25.035 milioni, capitolo 1375 per lire 8.554,5 milioni, capitolo 1378 per lire 77.870,5 milioni, capitolo 1385 per lire 27.135 milioni, capitolo 1405 per lire 1.709 milioni, capitolo 1802 per lire 6.150,6 milioni, capitolo 1872 per lire 4.509 milioni, capitolo 1878 per lire 4.509 milioni, capitolo 2000 per lire 2.033,5 milioni, capitolo 2002 per lire 2.000 milioni, capitolo 2102 per lire 26.987 milioni, capitolo 2103 per lire 991,7 milioni, capitolo 2503 per lire 5.650 milioni, capitolo 2802 per lire 19.869 milioni, capitolo 2804 per lire 14.272 milioni, capitolo 3001 per lire 7.324 milioni, capitolo 3204 per lire 1.130 milioni; quanto all'anno 1996, a carico dei pertinenti capitoli dello stesso stato di previsione della Difesa per il medesimo anno.
+1. All'onere derivante dall'attuazione del presente decreto, valutato in lire 240.668 milioni per l'anno 1995 ed in lire 97.004 milioni per l'anno 1996 si provvede, quanto all'anno 1995 a carico dei seguenti capitoli dello stato di previsione del Ministero della difesa: capitolo 1086 per lire 1.948,1 milioni, capitolo 1091 per lire 1.042 milioni, capitolo 1092 per lire 1.948,1 milioni, capitolo 1105 per lire 25.035 milioni, capitolo 1375 per lire 8.554,5 milioni, capitolo 1378 per lire 77.870,5 milioni, capitolo 1385 per lire 27.135 milioni, capitolo 1405 per lire 1.709 milioni, capitolo 1802 per lire 6.150,6 milioni, capitolo 1872 per lire 4.509 milioni, capitolo 1878 per lire 4.509 milioni, capitolo 2000 per lire 2.033,5 milioni, capitolo 2002 per lire 2.000 milioni, capitolo 2102 per lire 26.987 milioni, capitolo 2103 per lire 991,7 milioni, capitolo 2503 per lire 5.650 milioni, capitolo 2802 per lire 19.869 milioni, capitolo 2804 per lire 14.272 milioni, capitolo 3001 per lire 7.324 milioni, capitolo 3204 per lire 1.130 milioni; quanto all'anno 1996, a carico dei pertinenti capitoli dello stesso stato di previsione della Difesa per il medesimo anno.
+
+2. Il Ministro del tesoro e' autorizzato ad apportare, con propri decreti, le occorrenti variazioni di bilancio.
 
 Art. 6
 ------
@@ -92,59 +94,35 @@ Art. 6
 Art. 7
 ------
 
-1. Il presente decreto entra in vigore il giorno successivo a quello della sua pubblicazione nella Gazzetta Ufficiale della Repubblica italiana e sara' presentato alle Camere per la conversione in legge.
+1. Il presente decreto entra in vigore il giorno stesso della sua pubblicazione nella Gazzetta Ufficiale della Repubblica italiana e sara' presentato alle Camere per la conversione in legge.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserito nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 8 luglio 1996
+### Dato a Roma, addi' 11 marzo 1996
 
 SCALFARO
 
-PRODI, Presidente del Consiglio dei Ministri
+DINI, Presidente del Consiglio dei Ministri e Ministro del tesoro
 
-NAPOLITANO, Ministro dell'interno
+CORONAS, Ministro dell'interno
 
-ANDREATTA, Ministro della difesa
+CORCIONE, Ministro della difesa
 
-FLICK, Ministro di grazia e giustizia
+CAIANIELLO, Ministro di grazia e giustizia
 
-VISCO, Ministro delle finanze
+FANTOZZI, Ministro delle finanze
 
-CIAMPI, Ministro del tesoro e del bilancio e della programmazione economica
+ARCELLI, Ministro del bilancio e della programmazione economica
 
-BASSANINI, Ministro per la funzione pubblica e gli affari regionali
+FRATTINI, Ministro per la funzione pubblica e gli affari regionali
 
-Visto, il Guardasigilli: FLICK
+Visto, il Guardasigilli: CAIANIELLO
 
 Allegato
 
- ALLEGATO   
-(previsto dall'art. 2, comma 4)   
-TABELLA C/2   
-(art. 16, comma 1)   
-CONDIZIONI PARTICOLARI PER L'AVANZAMENTO DEI SGTTUFFICIALI IN   
-SERVIZIO PERMANENTE DELLA MARINA RUOLO MARESCIALLI   
+ Allegato   
   
-! \_ \_ ! GRADO \_ PERIODI MINIMI DI IMBARCO (1) \_ ! \_ \_ ! \_ \_ \_ \_ \_ \_ ! \_ \_ \_ \_ \_ \_ ! \_ \_ \_ \_ \_ \_ ! DA \_ A \_ Nocchieri \_ Specialisti \_ Tecnici \_ Elettronici \_ ! \_ \_ e tecnici \_ delle tele \_ di armi \_ \_ ! \_ \_ di macchine\_ comunicazioni\_ \_ \_ ! \_ \_ \_ e scoperta \_ \_ \_ ! \_ \_ \_ \_ \_ \_ ! \_ \_ \_ \_ \_ \_ ! \_ \_ \_ \_ \_ ! AIUTANTI \_ 1 anno \_ 1 anno \_ 1 anno \_ 1 anno \_ ! \_ \_ \_ \_ \_ ! \_ \_ \_ \_ \_ ! \_ \_ \_ \_ \_ ! \_ \_ \_ \_ \_ ! \_ \_ \_ \_ \_ ! \_ \_ \_ \_ \_ ! \_ \_ \_ \_ \_ ! \_ \_ \_ \_ \_ \_ !Capi \_AIUTANTI\_ 8 anni \_ 8 anni \_ 7 anni \_ 7 anni \_ !di 1 \_ \_ \_ \_ \_ \_ !Classe\_ \_ \_ \_ \_ \_ ! \_ \_ \_ \_ \_ \_ ! \_ \_ \_ \_ \_ \_ ! \_ \_ \_ \_ \_ \_ ! \_ \_ \_ \_ \_ \_ ! \_ \_ \_ \_ \_ \_ ! \_ \_ \_ \_ \_ \_ ! \_ \_ \_ \_ \_ \_ ! \_ \_ \_ \_ \_ \_ ! \_ \_ \_ \_ \_ \_ ! \_ \_ \_ \_ \_ \_ ! \_ \_ \_ \_ \_ \_ ! \_ \_ \_ \_ \_ \_ ! \_ \_ \_ \_ \_ \_ ! \_ \_ \_ \_ \_ \_ !Capi \_ Capi \_ 6 anni \_ 6 anni \_ 6 anni \_ 6 anni \_ !di 2 \_ di 1 \_ \_ \_ \_ \_ !Classe\_ classe \_ \_ \_ \_ \_ ! \_ \_ \_ \_ \_ \_ ! \_ \_ \_ \_ \_ \_ !Capi \_ Capi \_ \_ \_ \_ \_ !di 3 \_ di 2 \_ \_ \_ \_ \_ !Classe\_ classe \_ \_ \_ \_ \_ ! \_ \_ \_ \_ \_ \_   
-segue   
   
-!PERIODI MINIMI DI IMBARCO \_Periodi minimi \_ NOTE \_CORSI\_ESAMI\_ ! (1) \_in incarichi di \_ \_ \_ \_ ! \_categoria presso \_ \_ \_ \_ ! \_ \_destinazioni \_ \_ (3) \_ \_ ! \_ \_operative (1) \_ \_ \_ \_ ! \_ \_ \_ \_ \_ \_ ! Specialisti \_ Nocchieri\_ Palombari \_ \_ \_ \_ ! del servizio \_ di Porto \_ Incursori \_ \_ \_ \_ ! amministrativo\_ \_ Fucilieri di \_ \_ \_ \_ ! o logistico \_ \_ Marina, \_ \_ \_ \_ ! \_ \_ Specialisti di \_ \_ \_ \_ ! \_ \_ volo, CNA \_ \_ \_ \_ ! \_ \_ \_ \_ \_ \_ ! \_ \_ \_ \_ \_ \_ ! \_3 anni di \_ 1 anno \_I periodi \_ \_ \_ ! \_titolare \_ \_a fianco \_ \_ \_ ! \_di Ufficio\_ \_indicati \_ \_ \_ ! \_minore \_ \_devono \_ \_ \_ ! \_ \_ \_essere \_ \_ \_ ! \_ \_ \_effettuati\_ \_ \_ ! \_ \_ \_nel grado \_ \_ \_ ! \_ \_ \_ \_ \_ \_ ! \_ \_ \_ \_ \_ \_ ! 4 anni \_ 3 anni \_ 7 anni \_I periodi \_ \_ \_ ! \_ (7) \_ \_indicati \_ \_ \_ ! \_ \_ \_si \_ \_ \_ ! \_ \_ \_intendono \_ \_ \_ ! \_ \_ \_comprensi-\_ \_ \_ ! \_ \_ \_vi degli \_ \_ \_ ! \_ \_ \_anni di \_ \_ \_ ! \_ \_ \_imbarco \_ \_ \_ ! \_ \_ \_effettuati\_ \_ \_ ! \_ \_ \_nei gradi \_ \_ \_ ! \_ \_ \_precedenti\_ \_ \_ ! \_ \_ \_anche in \_ \_ \_ ! \_ \_ \_ruoli \_ \_ \_ ! \_ \_ \_diversi e \_ \_ \_ ! \_ \_ \_in F.B. \_ \_ \_ ! \_ \_ \_ \_ \_ \_ ! \_ \_ \_ \_ \_ \_ ! 3 anni \_ \_ 6 anni \_idem come \_ \_ \_ ! \_ \_ \_sopra \_ \_ \_ ! \_ \_ \_ \_ \_ \_ ! \_ \_ \_ \_ \_ \_ ! \_ \_ \_ \_ \_ \_ ! \_ \_ \_ \_ \_ \_ ! \_ \_ \_ \_ \_ \_ ! \_ \_ \_ \_ \_ \_ ! \_ \_ \_ \_ \_ \_   
-Segue TABELLA C/2   
-CONDIZIONI PARTICOLARI PER L'AVANZAMENTO DEI SGTTUFFICIALI IN   
-SERVIZIO PERMANENTE DELLA MARINA RUOLO SERGENTI   
+[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=096G012700100010110001&dgu=1996-03-11&art.dataPubblicazioneGazzetta=1996-03-11&art.codiceRedazionale=096G0127)
   
-! \_ \_ ! GRADO \_ PERIODI MINIMI DI IMBARCO (1) \_ ! \_ \_ ! \_ \_ \_ \_ \_ ! \_ \_ \_ \_ \_ ! DA A \_ Nocchieri \_ Specialisti \_ Tecnici \_ Elettronici \_ ! \_ e tecnici \_ delle tele \_ di armi \_ \_ ! \_ di macchine\_ comunicazioni\_ \_ \_ ! \_ \_ e scoperta \_ \_ \_ ! \_ \_ \_ \_ \_ ! \_ \_ \_ \_ \_ \_ !2 Capo\_ 2 Capo \_ 10 anni \_ 10 anni \_ 8 anni \_ 8 anni \_ ! \_ \_ \_ \_ \_ \_ ! \_ \_ \_ \_ \_ \_ ! \_ \_ \_ \_ \_ \_ ! \_ \_ \_ \_ \_ \_ ! \_ \_ \_ \_ \_ \_ ! \_ \_ \_ \_ \_ \_ ! \_ \_ \_ \_ \_ \_ ! \_ \_ \_ \_ \_ \_ ! \_ \_ \_ \_ \_ \_ ! \_ \_ \_ \_ \_ \_ ! \_ \_ \_ \_ \_ \_ ! \_ \_ \_ \_ \_ \_ ! \_ \_ \_ \_ \_ \_ ! \_ scelto \_ \_ \_ \_ \_ ! \_ \_ \_ \_ \_ \_ ! \_ \_ \_ \_ \_ !Sergente 2 Capo\_ 7 anni \_ 7 anni \_ 6 anni \_ 6 anni \_ ! \_ \_ \_ \_ \_ ! \_ \_ \_ \_ \_ ! \_ \_ \_ \_ \_   
-segue   
-  
-!PERIODI MINIMI DI IMBARCO \_Periodi minimi \_ NOTE \_CORSI\_ESAMI\_ ! (1) \_in incarichi di \_ \_ \_ \_ ! \_destinazioni \_ \_ \_ \_ ! \_ \_operative (1) \_ \_ (3) \_ \_ ! \_ \_ \_ \_ \_ \_ ! Specialisti \_ Nocchieri\_ Palombari \_ \_ \_ \_ ! del servizio \_ di Porto \_ Incursori \_ \_ \_ \_ ! amministrativo\_ \_ Fucilieri di \_ \_ \_ \_ ! o logistico \_ \_ Marina, \_ \_ \_ \_ ! \_ \_ Specialisti di \_ \_ \_ \_ ! \_ \_ volo, CNA \_ \_ \_ \_ ! \_ \_ \_ \_ \_ \_ ! \_ \_ \_ \_ \_ \_ ! 5 anni \_ 6 anni \_ 8 anni \_I periodi \_ \_ \_ ! \_ \_ \_indicati \_ \_ \_ ! \_ \_ \_si \_ \_ \_ ! \_ \_ \_intendono \_ \_ \_ ! \_ \_ \_comprensi-\_ \_ \_ ! \_ \_ \_vi degli \_ \_ \_ ! \_ \_ \_anni di \_ \_ \_ ! \_ \_ \_imbarco \_ \_ \_ ! \_ \_ \_effettuati\_ \_ \_ ! \_ \_ \_nei gradi \_ \_ \_ ! \_ \_ \_precedenti\_ \_ \_ ! \_ \_ \_anche in \_ \_ \_ ! \_ \_ \_ruoli \_ \_ \_ ! \_ \_ \_diversi e \_ \_ \_ ! \_ (2) \_ \_in F.B. \_ \_ \_ ! \_ \_ \_ \_ \_ \_ ! \_ \_ \_ \_ \_ \_ ! 4 anni \_ 3 anni \_ 6 anni \_ \_ \_ \_ ! \_ \_ \_idem come \_ \_ \_ ! \_ (2) \_ \_sopra \_ \_ \_ ! \_ \_ \_ \_ \_ \_ RUOLO TRUPPA   
-  
-! \_ \_ \_ \_ \_ \_ !Sotto-\_ Sotto- \_ 8 anni \_ 8 anni \_ 7 anni \_ 7 anni \_ !capo \_ capo di\_ \_ \_ \_ \_ !di 1 \_ 1 \_ \_ \_ \_ \_ !classe\_ classe \_ \_ \_ \_ \_ ! \_ scelto \_ \_ \_ \_ \_ ! \_ \_ \_ \_ \_ \_ ! \_ \_ \_ \_ \_ \_ ! \_ \_ \_ \_ \_ \_ !Sotto-\_ Sotto- \_ 6 anni \_ 6 anni \_ 6 anni \_ 6 anni \_ !capo \_ capo di\_ \_ \_ \_ \_ !di 2 \_ 1 \_ \_ \_ \_ \_ !classe\_ classe \_ \_ \_ \_ \_ ! \_ \_ \_ \_ \_ \_ ! \_ \_ \_ \_ \_ \_ ! \_ \_ \_ \_ \_ \_   
-segue   
-  
-! \_ \_ \_ \_ \_ \_ ! 4 anni \_ 3 anni \_ 7 anni \_Idem come \_ \_ \_ ! \_ \_ \_sopra \_ \_ \_ ! \_ \_ \_ \_ \_ \_ ! \_ \_ \_ \_ \_ \_ ! \_ \_ \_ \_ \_ \_ ! \_ \_ \_ \_ \_ \_ ! \_ \_ \_ \_ \_ \_ ! \_ \_ \_ \_ \_ \_ ! 3 anni \_ \_ 6 anni \_Idem come \_ \_ \_ ! \_ \_ \_sopra \_ \_ \_ ! \_ \_ \_ \_ \_ \_ ! \_ \_ \_ \_ \_ \_ ! \_ \_ \_ \_ \_ \_ ! \_ \_ \_ \_ \_ \_ ! \_ \_ \_ \_ \_ \_ NOTE:   
-(1) - a Restano ferme le disposizioni dell'[art. 5 e del secondo](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1965-06-26;813~art5-com2), [terzo](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1965-06-26;813~art5-com3) e [quarto comma](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1965-06-26;813~art5-com4) dell'[art. 6 della Legge 26 Giugno 1965, n. 813](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1965-06-26;813~art6), nonche', in quanto applicabili le disposizioni dell'art. 68 del Testo Unico sull'Ordinamento del CEMM approvato con [Regio decreto del 18 Giugno 1931, n. 914](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1931-06-18;914), e successive modificazioni.   
-b sono esenti dal compiere il periodo minimo di imbarco i   
-musicanti (art. 4 D.M. in data 20 Dicembre 1965).   
-(2) - Per il personale NP appartenente ad abilitazioni tecniche le attribuzioni specifiche, possono essere soddisfatte, in tutto o in parte, con la permanenza presso componenti specialistiche del Corpo (nuclei aerei, sez. elicotteri MRCC/MRSC, stazioni LORAN, VTS/PAC, stazioni COSPAS/ARSAT, nuclei subacquei) pari al tempo necessario per il completamento del periodo richiesto.   
-(3) - Il Ministro della Difesa ha facolta' di Istituire con proprio decreto corsi per acquisire le condizioni per l'avanzamento tenendo conto delle esigenze formative dei Sottufficiali e delle particolari necessita' di servizio.   

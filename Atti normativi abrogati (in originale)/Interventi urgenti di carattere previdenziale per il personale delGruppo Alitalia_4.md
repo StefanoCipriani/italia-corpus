@@ -1,14 +1,14 @@
-DECRETO-LEGGE 26 febbraio 1996 n. 85
+DECRETO-LEGGE 26 aprile 1996 n. 220
 
 
-DECRETO-LEGGE 26 febbraio 1996 n. 85
-====================================
+DECRETO-LEGGE 26 aprile 1996 n. 220
+===================================
 
 Interventi urgenti di carattere previdenziale per il personale del 
 Gruppo Alitalia.
 ------------------------------------------------------------------------------------
 
-Entrata in vigore del decreto: 28-2-1996.Decreto-Legge decaduto per mancata conversione.
+Entrata in vigore del decreto: 29-4-1996.Decreto-Legge decaduto per mancata conversione.
 
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
@@ -17,7 +17,7 @@ Visti gli [articoli 77](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:cost
 
 Ritenuta la straordinaria necessita' ed urgenza di emanare disposizioni per attuare il programma di carattere previdenziale riguardante il personale del Gruppo Alitalia;
 
-Vista la deliberazione del Consiglio dei Ministri, adottata nella riunione del 22 febbraio 1996;
+Vista la deliberazione del Consiglio dei Ministri, adottata nella riunione del 24 aprile 1996;
 
 Sulla proposta del Presidente del Consiglio dei Ministri e Ministro del tesoro e dei Ministri del lavoro e della previdenza sociale e dei trasporti e della navigazione, di concerto con il Ministro del bilancio e della programmazione economica;
 
@@ -36,7 +36,7 @@ b) possono essere altresi' ammessi al beneficio del pensionamento anticipato ris
 
 2. Il piano di cui al comma 1 e' approvato con decreto del Ministro dei trasporti e della navigazione, di concerto con i Ministri del lavoro e della previdenza sociale e del tesoro.
 
-3. L'onere derivante dall'attuazione del presente articolo, valutato in lire 6,4 miliardi per l'anno 1995; in lire 22,8 miliardi per l'anno 1996 ed in lire 27,4 miliardi a decorrere dall'anno 1997, e' rimborsato all'INPS su apposita rendicontazione in relazione all'effettiva attuazione del piano di cui al comma 2.
+3. L'onere derivante dall'attuazione del presente articolo, valutato in lire 6,4 miliardi per l'anno 1995, in lire 22,8 miliardi per l'anno 1996 ed in lire 27,4 miliardi a decorrere dall'anno 1997, e' rimborsato all'INPS su apposita rendicontazione in relazione all'effettiva attuazione del piano di cui al comma 2.
 
 4. All'onere di lire 6,4 miliardi per l'anno 1995, di lire 22,8 miliardi per l'anno 1996 e di lire 27,4 miliardi per l'anno 1997, si provvede a carico del capitolo 3662 dello Stato di previsione del Ministero del lavoro e della previdenza sociale per l'anno 1995 e corrispondenti capitoli per gli anni successivi.
 
@@ -50,7 +50,7 @@ Entrata in vigore
 Il presente decreto, munito del sigillo dello Stato, sara' inserito nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 26 febbraio 1996
+### Dato a Roma, addi' 26 aprile 1996
 
 SCALFARO
 

@@ -1,13 +1,13 @@
-DECRETO-LEGGE 06 dicembre 1989 n. 388
+DECRETO-LEGGE 07 ottobre 1989 n. 335
 
 
-DECRETO-LEGGE 06 dicembre 1989 n. 388
-=====================================
+DECRETO-LEGGE 07 ottobre 1989 n. 335
+====================================
 
 Misure urgenti per il miglioramento qualitativo e per la prevenzione dell'inquinamento delle risorse idriche destinate all'approvvigionamento potabile.
 -------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Entrata in vigore del decreto: 7/12/1989.Decreto-Legge decaduto per mancata conversione.
+Entrata in vigore del decreto: 7/10/1989.Decreto-Legge decaduto per mancata conversione.
 
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
@@ -16,9 +16,9 @@ Visti gli [articoli 77](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:cost
 
 Ritenuta la straordinaria necessita' ed urgenza di adottare misure idonee al miglioramento qualitativo ed alla prevenzione dell'inquinamento delle risorse idriche destinate all'approvvigionamento potabile, anche in attuazione delle direttive comunitarie in materia;
 
-Vista la deliberazione del Consiglio dei Ministri, adottata nella riunione del 5 dicembre 1989;
+Vista la deliberazione del Consiglio dei Ministri, adottata nella riunione del 6 ottobre 1989;
 
-Sulla proposta del Presidente del Consiglio dei Ministri e dei Ministri della sanita' e dell'ambiente, di concerto con i Ministri del bilancio e della programmazione economica, del tesoro, dell'agricoltura e delle foreste, di grazia e giustizia, dei lavori pubblici, per il coordinamento della protezione civile e per gli affari regionali ed i problemi istituzionali;
+Sulla proposta del Presidente del Consiglio dei Ministri e dei Ministri della sanita' e dell'ambiente, di concerto con i Ministri del bilancio e della programmazione economica, del tesoro, dell'agricoltura e delle foreste, di grazia e giustizia, dei lavori pubblici e per gli affari regionali ed i problemi istituzionali;
 
 E M A N A il seguente decreto-legge:
 
@@ -52,9 +52,9 @@ Art. 4
 
 Tutela amministrativa delle acque sotterranee
 
-1. L'[articolo 94 del regio decreto 11 dicembre 1933, n. 1775](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-12-11;1775~art94), e' sostituito dal seguente:  
-"Art. 94. - La ricerca, l'estrazione e l'utilizzazione delle acque sotterranee sono soggette alla tutela della pubblica amministrazione in tutto il territorio nazionale.  
-L'estrazione e l'utilizzazione delle acque sotterranee devono essere compatibili con le capacita' di ricarica dell'acquifero in ciascun bacino.  
+1. L'[articolo 94 del regio decreto 11 dicembre 1933, n. 1775](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-12-11;1775~art94), e' sostituito dal seguente:   
+"Art. 94. - La ricerca, l'estrazione e l'utilizzazione delle acque sotterranee sono soggette alla tutela della pubblica amministrazione in tutto il territorio nazionale.   
+L'estrazione e l'utilizzazione delle acque sotterranee devono essere compatibili con le capacita' di ricarica dell'acquifero in ciascun bacino.   
 Qualora sia accertato l'abbassamento del livello delle falde e nei periodi di siccita', l'amministrazione competente puo' ridurre l'estrazione di acque sotterranee in proporzione ai quantitativi estraibili in base a regolare titolo.".
 
 Art. 5
@@ -71,8 +71,8 @@ Art. 6
 
 Classificazione delle acque
 
-1. Il [primo comma dell'articolo 4 del decreto del Presidente della Repubblica 3 luglio 1982, n. 515](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1982-07-03;515~art4-com1), e' sostituito dai seguenti:  
-"Le acque dolci superficiali per essere utilizzate o destinate alla produzione di acqua potabile devono essere comunque classificate da ciascuna regione nelle categorie A 1, A 2 e A3, entro il 31 dicembre 1989.  
+1. Il [primo comma dell'articolo 4 del decreto del Presidente della Repubblica 3 luglio 1982, n. 515](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1982-07-03;515~art4-com1), e' sostituito dai seguenti:   
+"Le acque dolci superficiali per essere utilizzate o destinate alla produzione di acqua potabile devono essere comunque classificate da ciascuna regione nelle categorie A 1, A 2 e A3, entro il 31 dicembre 1989.   
 Le suddette categorie corrispondono a tre diverse classi di qualita' di acque superficiali, le cui caratteristiche fisiche, chimiche e microbiologiche sono indicate nell'allegato al presente decreto.".
 
 Art. 7
@@ -80,21 +80,26 @@ Art. 7
 
 Scarichi idrici
 
-1. I parametri "pesticidi clorurati" e "pesticidi fosforati" di cui rispettivamente ai numeri 46 e 47 della tabella A ed ai numeri 44 e 45 della tabella C allegate alla [legge 10 maggio 1976, n. 319](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1976-05-10;319), sono sostituiti come segue:  
+1. I parametri "pesticidi clorurati" e "pesticidi fosforati" di cui rispettivamente ai numeri 46 e 47 della tabella A ed ai numeri 44 e 45 della tabella C allegate alla [legge 10 maggio 1976, n. 319](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1976-05-10;319), sono sostituiti come segue:   
+  
 ====================================================================  
+  
 "Parametri Concentrazioni N o t e  
---------------------------------------------------------------------  
-Pesticidi totali (esclusi 0,05 C1 C2 maggiore  
-quelli fosforati, com- --- + --- o  
-presi PCB e PCT) mg/1 L1 L2 minore di 1  
-Pesticidi fosforati mg/1 0,1 Fermo restando che il  
-limite fissato per i  
-due parametri non  
-deve essere superato,  
-la somma dei rapporti  
-tra la concentrazione  
-presente e la relativa concentrazione limite  
-non deve superare il  
+  
+====================================================================  
+  
+Pesticidi totali (esclusi 0,05 C1 C2  
+quelli fosforati, compresi + =1  
+PCB e PCT) mg/l L1 L2  
+  
+  
+Pesticidi fosforati mg/l 0,1 Fermo restando che il limite  
+fissato per i due parametri  
+non deve essere superato,  
+la somma dei rapporti tra  
+la concentrazione presente  
+e la relativa concentrazione  
+limite non deve superare il  
 valore di 1.".
 
 2. Tenuto conto delle nuove conoscenze scientifiche e per migliorare la tutela delle acque, con decreto del Ministro dell'ambiente, di concerto con il Ministro della sanita', sono integrate e modificate le tabelle A e C allegate alla [legge 10 maggio 1976, n. 319](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1976-05-10;319).
@@ -104,57 +109,9 @@ Art. 8
 
 Tassa di concessione governativa sulla produzione di fitofarmaci
 
-1. Al titolo III, Igiene-Sanita', della tariffa annessa al [decreto del Presidente della Repubblica 26 ottobre 1972, n. 641](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1972-10-26;641), dopo il numero 6 e' aggiunto il seguente:  
-====================================================================  
-"Numero Indicazione Ammontare Modo  
-degli atti delle di Note  
-d'ordine soggetti a tasse pagamento  
-tasse  
---------------------------------------------------------------------  
-6-bis 1.Autorizzazione Le tasse di rila-  
-ad attivare uno scio previste  
-stabilimento per dai sottonumeri  
-la produzione di 1 e 2 sono do-  
-presidi sanita- vute anche per  
-tari (art.6 del- ogni variazio-  
-la legge 30 apri- ne delle auto-  
-le 1962,n.283,mo- rizzazioni e  
-dificata dalla delle registra  
-legge 26 febbraio zioni.  
-1963,n.441,ed ar- Le tasse annuali  
-ticoli 6, 7 ed 8 dei sottonumeri  
-del regolamento 1 e 2 sono do-  
-approvato con de- vute entro il  
-creto del Presi- 31 gennaio del-  
-dente della Re- l'anno cui si  
-pubblica 3 ago- riferiscono.  
-sto 1968,n.1255): Il mancato pa-  
-a) tassa di gamento compor  
-rilascio..... 1.500.000 ordinario ta la revoca  
-b) tassa delle autoriz-  
-annuale...... 500.000 ordinario zazioni e regi  
-2.Registrazione di strazioni".  
-presidi sanitari  
-(art.6 della ci-  
-tata [legge n.283  
-del 1962](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1962;283), modifi-  
-cata dalla [legge  
-n.441 del 1963, ed  
-articoli 12](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1963;441~art12),[13](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1963;441~art13) e [14](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1963;441~art14)
+1. Al titolo III, Igiene-Sanita', della tariffa annessa al [decreto del Presidente della Repubblica 26 ottobre 1972, n. 641](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1972-10-26;641), dopo il numero 6 e' aggiunto il seguente:   
   
-del regolamento ap-  
-provato con il cita-  
-to decreto del Pre-  
-sidente della Repub-  
-blica n.1255 del 1968);  
-per ogni tipo di pro-  
-dotto:
-
-a) tassa di  
-rilascio..... 1.000.000 ordinario
-
-b) tassa  
-annuale...... 500.000 ordinario
+[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=089G041200000080110001&dgu=1989-10-07&art.dataPubblicazioneGazzetta=1989-10-07&art.codiceRedazionale=089G0412)
 
 2. Per l'anno in corso le tasse annuali devono essere corrisposte entro sessanta giorni dalla data di entrata in vigore della legge di conversione del presente decreto.
 
@@ -196,8 +153,7 @@ d) realizzazione, nei casi in cui sia necessario, di nuovi acquedotti.
 Art. 12
 -------
 
-Finanziamento dei progetti  
-per il rifornimento idrico alternativo
+Finanziamento dei progetti per il rifornimento idrico alternativo
 
 1. Il fondo per la protezione civile, istituito con l'[articolo 2 del decreto-legge 10 luglio 1982, n. 428](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1982-07-10;428~art2), convertito, con modificazioni, dalla [legge 12 agosto 1982, n. 547](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1982-08-12;547), e' integrato per l'anno 1989 dalla somma di lire 200 miliardi e per l'anno 1990 dalla somma di lire 375 miliardi per far fronte agli urgenti interventi, approvati con la procedura di cui all'articolo 11, diretti ad assicurare la potabilizzazione delle acque ed a superare le situazioni di crisi idrica nelle regioni Emilia-Romagna, Friuli-Venezia Giulia, Lombardia, Marche, Piemonte e Veneto derivanti dalla contaminazione da diserbanti.
 
@@ -208,8 +164,7 @@ per il rifornimento idrico alternativo
 Art. 13
 -------
 
-Potenziamento dei ruoli del personale  
-del Ministero della sanita'
+Potenziamento dei ruoli del personale del Ministero della sanita'
 
 1. Per far fronte alle esigenze dell'area igienico-sanitaria, ai fini del raggiungimento degli obiettivi di cui al presente decreto, le dotazioni organiche dei ruoli dei dirigenti del Ministero della sanita', di cui al decreto del Presidente della Repubblica 30 giugno l972, n. 748, e successive modificazioni ed integrazioni, sono incrementate nelle misure di cui all'allegata tabella A. Sono altresi' incrementate le dotazioni organiche dell'VIII e VII livello funzionale, nelle misure di cui all'allegata tabella B.
 
@@ -222,8 +177,7 @@ del Ministero della sanita'
 Art. 14
 -------
 
-Competenze delle regioni a statuto speciale  
-e province autonome
+Competenze delle regioni a statuto speciale e province autonome
 
 1. Sono fatte salve le competenze delle regioni a statuto speciale e delle province autonome di Trento e Bolzano.
 
@@ -253,7 +207,7 @@ Entrata in vigore
 Il presente decreto, munito del sigillo dello Stato, sara' inserito nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 6 dicembre 1989
+### Dato a Roma, addi' 7 ottobre 1989
 
 COSSIGA
 
@@ -273,85 +227,84 @@ VASSALLI, Ministro di grazia e giustizia
 
 PRANDINI, Ministro dei lavori pubblici
 
-LATTANZIO, Ministro per il coordinamento della protezione civile
-
 MACCANICO, Ministro per gli affari regionali e i problemi istituzionali
 
 Visto, il Guardasigilli: VASSALLI
 
 Tabella A
 
+ TABELLA A   
+(prevista dall'art. 13)   
   
   
-TABELLA A (prevista dall'art. 13)   
 INCREMENTO DELLE DOTAZIONI ORGANICHE DEI  
 RUOLI DIRIGENZIALI DEL MINISTERO DELLA SANITA'  
-====================================================================  
-Livello Posti Posti  
-di funzione Qualifica di qualifica Funzione di funzione  
---------------------------------------------------------------------  
+===================================================================  
+Livello Qualifica Posti Funzione Posti  
+di funzione di qualifica di funzione  
+===================================================================  
+  
 Quadro E - DIRIGENTI CHIMICI  
-D Dirigente 2 Ispettore 2  
-superiore generale o  
-consigliere  
-ministeriale  
-aggiunto  
-E Primo 4 Direttore 4  
-dirigente di divisione  
-o vice consi-  
-sigliere mini-  
-steriale o  
-ispettore capo  
-====================================================================  
-Livello Posti Posti  
-di funzione Qualifica di qualifica Funzione di funzione  
---------------------------------------------------------------------  
+  
+D Dirigente superiore 2 Ispettore generale 2  
+o consigliere  
+ministeriale aggiunto  
+  
+E Primo dirigente 4 Direttore di divisione 4  
+o vice consigliere  
+ministeriale o ispettore  
+capo  
+  
 Quadro F - DIRIGENTI FARMACISTI  
-E Primo 1 Direttore 1  
-dirigente di divisione  
-o vice con-  
-sigliere mini-  
-steriale o  
-ispettore capo  
+  
+E Primo dirigente 1 Direttore di divisione 1  
+o vice consigliere  
+ministeriale o ispettore  
+capo  
+  
 Quadro G - DIRIGENTI INGEGNERI  
-D Dirigente 1 Ispettore 1  
-superiore generale o  
-consigliere  
-ministeriale  
-aggiunto  
-E Primo 1 Direttore 1  
-dirigente di divisione  
-o vice consi-  
-sigliere mini-  
-steriale o  
-ispettore capo  
+  
+D Dirigente superiore 1 Ispettore generale 1  
+o consigliere  
+ministeriale aggiunto  
+  
+E Primo dirigente 1 Direttore di divisione 1  
+o vice consigliere  
+ministeriale o ispettore  
+capo  
+  
 Quadro M - DIRIGENTI ANALISTI  
 DI ORGANIZZAZIONE E METODO  
-E Primo 1 Direttore 1  
-dirigente di divisione  
-o vice consi-  
-sigliere mini-  
-steriale o  
-ispettore capo  
   
-  
+E Primo dirigente 1 Direttore di divisione 1  
+o vice consigliere  
+ministeriale o ispettore  
+capo  
   
 
 Tabella B
 
-  
-  
-TABELLA B  
+ TABELLA B   
 (prevista dall'art. 13)   
-===================================================================  
-Livello Profilo Posti in aumento  
-ANALISTI DI ORGANIZZAZIONE E METODO  
-VIII Analista. . . . . . . . . . . . . . 1  
-CHIMICI  
-VII Chimico . . . . . . . . . . . . . . 5  
-FARMACISTI  
-VII Farmacista . . . . . . . . . . . . . 4  
-INGEGNERI  
-VII Ingegnere. . . . . . . . . . . . . . 2  
   
+  
+=====================================================================  
+Livello Profilo Posti in aumento  
+=====================================================================  
+  
+ANALISTI DI ORGANIZZAZIONE E METODO  
+  
+VIII Analista . . . . . . . . . . . . . .1  
+  
+CHIMICI  
+  
+VII Chimico . . . . . . . . . . . . . . .5  
+  
+FARMACISTI  
+  
+VII Farmacista . . . . . . . . . . . . .4  
+  
+INGEGNERI  
+  
+VII Ingegnere . . . . . . . . . . . . . .2  
   

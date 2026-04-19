@@ -1,14 +1,14 @@
-DECRETO-LEGGE 28 giugno 1995 n. 259
+DECRETO-LEGGE 29 aprile 1995 n. 143
 
 
-DECRETO-LEGGE 28 giugno 1995 n. 259
+DECRETO-LEGGE 29 aprile 1995 n. 143
 ===================================
 
 Differimento di termini previsti da disposizioni legislative in 
 materia di interventi in campo economico e sociale.
 --------------------------------------------------------------------------------------------------------------------
 
-Entrata in vigore del decreto: 29-6-1995.Decreto-Legge decaduto per mancata conversione.
+Entrata in vigore del decreto: 30/4/1995.Decreto-Legge decaduto per mancata conversione.
 
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
@@ -17,9 +17,9 @@ Visti gli [articoli 77](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:cost
 
 Ritenuta la straordinaria necessita' ed urgenza di emanare disposizioni concernenti il differimento di termini previsti da disposizioni legislative in materia di interventi in campo economico e sociale;
 
-Vista la deliberazione del Consiglio dei Ministri, adottata nella riunione del 28 giugno 1995;
+Vista la deliberazione del Consiglio dei Ministri, adottata nella riunione del 28 aprile 1995;
 
-Sulla proposta del Presidente del Consiglio dei Ministri e Ministro del tesoro, di concerto con i Ministri dell'universita' e della ricerca scientifica e tecnologica, delle risorse agricole, alimentari e forestali, del lavoro e della previdenza sociale, dell'industria, del commercio e dell'artigianato e del commercio con l'estero, della sanita' e del bilancio e della programmazione economica;
+Sulla proposta del Presidente del Consiglio dei Ministri e Ministro del tesoro, di concerto con i Ministri dell'universita' e della ricerca scientifica e tecnologica, del lavoro e della previdenza sociale, dell'industria, del commercio e dell'artigianato e del commercio con l'estero, della sanita' e del bilancio e della programmazione economica;
 
 E M A N A il seguente decreto-legge:
 
@@ -34,9 +34,9 @@ Interventi nel campo della ricerca
 
 3. Al fine di consentire la prosecuzione delle attivita' scientifiche, di ricerca e di formazione del Centro internazionale di fisica teorica di Trieste (I.C.T.P.), in attesa della ratifica e conseguente entrata in vigore dell'accordo tripartito tra Italia, UNESCO ed AIEA, e' autorizzata la concessione al Centro medesimo di un contributo straordinario di lire 10 miliardi nel biennio 1994-1995, in ragione di lire 6 miliardi per l'anno 1994 e di lire 4 miliardi per l'anno 1995. Al relativo onere si provvede a carico dello stanziamento iscritto sul capitolo 7706 dello stato di previsione del Ministero dell'universita' e della ricerca scientifica e tecnologica per l'anno 1994 e corrispondente capitolo per l'anno successivo.
 
-4. Il termine per la definizione, da parte dei soggetti interessati, dei contenuti dei contratti concernenti la vendita, l'uso o la locazione finanziaria di immobili di cui all'[articolo 3 della legge 23 dicembre 1992, n. 498](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1992-12-23;498~art3), resta fissato al 30 agosto 1995.
+4. Il termine per la definizione, da parte dei soggetti interessati, dei contenuti dei contratti concernenti la vendita, l'uso o la locazione finanziaria di immobili di cui all'[articolo 3 della legge 23 dicembre 1992, n. 498](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1992-12-23;498~art3), resta fissato al 30 giugno 1995.
 
-5. Il termine previsto dall'[articolo 4, comma secondo, della legge 3 aprile 1979, n. 122](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1979-04-03;122~art4-com2), gia' differito al 18 aprile 1995 dall'[articolo 9, comma 8, della legge 15 dicembre 1990, n. 396](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-12-15;396~art9-com8), e' ulteriormente differito al 30 agosto 1995.
+5. Il termine previsto dall'[articolo 4, comma secondo, della legge 3 aprile 1979, n. 122](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1979-04-03;122~art4-com2), gia' differito al 18 aprile 1995 dall'[articolo 9, comma 8, della legge 15 dicembre 1990, n. 396](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-12-15;396~art9-com8), e' ulteriormente differito al 30 giugno 1995.
 
 Art. 2
 ------
@@ -47,7 +47,7 @@ Interventi nel settore agricolo
 
 2. Il termine di cui al [comma 3 dell'articolo 70 della legge 30 dicembre 1991, n. 413](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1991-12-30;413~art70-com3), concernente le agevolazioni tributarie per la formazione e l'arrotondamento della proprieta' contadina, e' prorogato al 31 dicembre 1997. Alle relative minori entrate provvede la Cassa per la piccola proprieta' contadina, mediante versamento, previo accertamento da parte della Amministrazione finanziaria, all'entrata del bilancio dello Stato.
 
-3. Per il primo anno di applicazione della disciplina recata dal [decreto legislativo 11 agosto 1993, n. 375](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-08-11;375), i termini per l'effettuazione degli adempimenti di cui agli articoli 2, 4, 5 e 7 del predetto decreto sono fissati al 30 agosto 1995.
+3. Per il primo anno di applicazione della disciplina recata dal [decreto legislativo 11 agosto 1993, n. 375](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-08-11;375), i termini per l'effettuazione degli adempimenti di cui agli articoli 2, 4, 5 e 7 del predetto decreto sono fissati al 30 giugno 1995.
 
 4. La disciplina relativa all'autorizzazione sanitaria prevista dal regolamento sulla vigilanza igienica del latte destinato al consumo diretto, approvato con [regio decreto 9 maggio 1929, n. 994](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1929-05-09;994), e successive modificazioni, dalla [legge 30 aprile 1962, n. 283](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1962-04-30;283), e successive modificazioni, e ai decreti ministeriali numeri 184 e [185 del 9 maggio 1991](http://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.:decreto:1991-05-09;185) si intende riferita soltanto alle aziende di produzione (vaccherie) di latte crudo destinato alla produzione di latte alimentare trattato termicamente, nonche' di latte crudo destinato ad essere utilizzato per la produzione di latte fresco pastorizzato di alta qualita'.
 
@@ -62,13 +62,13 @@ Art. 3
 
 Interventi nei settori produttivi
 
-1. Il termine di cui all'[articolo 7, comma 3, della legge 5 marzo 1990, n. 46](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-03-05;46~art7-com3), e' differito al 30 agosto 1995. Il mancato rispetto del termine suindicato comporta l'applicazione, nei confronti del proprietario dell'immobile, dell'amministratore di condominio per le utenze di uso comune o comunque del soggetto incaricato della gestione degli impianti, di una sanzione amministrativa da lire cinquecentomila a lire cinque milioni, secondo le modalita' che saranno determinate con decreto del Ministro dell'industria, del commercio e dell'artigianato, da emanarsi entro sei mesi dalla data di entrata in vigore del presente decreto.
+1. Il termine di cui all'[articolo 7, comma 3, della legge 5 marzo 1990, n. 46](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-03-05;46~art7-com3), e' differito al 30 giugno 1995. Il mancato rispetto del termine suindicato comporta l'applicazione, nei confronti del proprietario dell'immobile, dell'amministratore di condominio per le utenze di uso comune o comunque del soggetto incaricato della gestione degli impianti, di una sanzione amministrativa da lire cinquecentomila a lire cinque milioni, secondo le modalita' che saranno determinate con decreto del Ministro dell'industria, del commercio e dell'artigianato, da emanarsi entro sei mesi dalla data di entrata in vigore del presente decreto.
 
 2. Il termine previsto dall'[articolo 13, comma 1, della legge 5 febbraio 1992, n. 122](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1992-02-05;122~art13-com1), per l'iscrizione nel registro delle imprese esercenti attivita' di autoriparazione, previsto dall'articolo 2 della stessa legge, e' differito alla data di entrata in vigore del [decreto del Presidente della Repubblica 18 aprile 1994, n. 387](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1994-04-18;387).
 
 3. Il termine previsto dall'[articolo 13, comma 4, della legge 5 febbraio 1992, n. 122](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1992-02-05;122~art13-com4), per la documentazione della sussistenza dei requisiti di cui alle lettere a) e b) del comma 1 dell'articolo 3 della medesima legge, e' differito di due mesi a decorrere dalla data di entrata in vigore del presente decreto.
 
-4. E' differito al 30 agosto 1995 il termine previsto dall'[articolo 16, comma 4, della legge 17 febbraio 1992, n. 166](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1992-02-17;166~art16-com4), relativo alla decorrenza degli effetti della disposizione di cui all'articolo 4 della medesima legge. Gli ammessi a partecipare alla prima prova di idoneita' per l'iscrizione nel ruolo nazionale di cui all'articolo 1 della predetta [legge n. 166 del 1992](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1992;166) possono continuare ad esercitare transitoriamente l'attivita' di perito assicurativo fino alla comunicazione dell'esito della prova.
+4. E' differito al 30 giugno 1995 il termine previsto dall'[articolo 16, comma 4, della legge 17 febbraio 1992, n. 166](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1992-02-17;166~art16-com4), relativo alla decorrenza degli effetti della disposizione di cui all'articolo 4 della medesima legge. Gli ammessi a partecipare alla prima prova di idoneita' per l'iscrizione nel ruolo nazionale di cui all'articolo 1 della predetta [legge n. 166 del 1992](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1992;166) possono continuare ad esercitare transitoriamente l'attivita' di perito assicurativo fino alla comunicazione dell'esito della prova.
 
 5. In attesa del riordino della Commissione nazionale per i periti assicurativi, prevista dall'[articolo 7 della legge 17 febbraio 1992, n. 166](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1992-02-17;166~art7), le materie e gli argomenti del programma di esame della prova di idoneita' per l'iscrizione nel ruolo di cui al comma 1 sono individuati dal Ministero dell'industria, del commercio e dell'artigianato, che provvede all'accertamento dei requisiti per l'iscrizione e per l'ammissione all'esame, cui possono partecipare i soggetti in possesso di diploma di istruzione secondaria superiore o di laurea.
 
@@ -76,13 +76,13 @@ Interventi nei settori produttivi
 
 7. Le disposizioni di cui all'[articolo 2, comma 3, della legge 28 dicembre 1991, n. 421](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1991-12-28;421~art2-com3), si applicano anche alle somme impegnate per la concessione di contributi a favore delle societa' promotrici di centri commerciali all'ingrosso di cui alla [legge 28 febbraio 1986, n. 41](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1986-02-28;41).
 
-8. Il termine del 31 marzo 1993 previsto dall'[articolo 9-quater, comma 9, del decreto-legge 9 settembre 1988, n. 397](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1988-09-09;397~art9quater-com9), convertito, con modificazioni, dalla [legge 9 novembre 1988, n. 475](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-11-09;475), e' prorogato fino al 30 agosto 1995, nonche' fino all'attuazione da parte dei comuni della raccolta differenziata, che deve avvenire entro il termine del 30 dicembre 1995.
+8. Il termine del 31 marzo 1993 previsto dall'[articolo 9-quater, comma 9, del decreto-legge 9 settembre 1988, n. 397](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1988-09-09;397~art9quater-com9), convertito, con modificazioni, dalla [legge 9 novembre 1988, n. 475](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-11-09;475), e' prorogato fino al 30 giugno 1995, nonche' fino all'attuazione da parte dei comuni della raccolta differenziata, che deve avvenire entro il termine del 30 dicembre 1995.
 
-9. Sono prorogati al 30 agosto 1995 i termini previsti dalla [legge 28 dicembre 1993, n. 549](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-12-28;549), recante misure a tutela dell'ozono stratosferico e dell'ambiente, fatto salvo quanto disposto dal [regolamento CEE n. 594/91](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:31991R0594), come modificato ed integrato dal successivo [regolamento CEE n. 3952/92](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:31992R3952).
+9. Sono prorogati al 30 giugno 1995 i termini previsti dalla [legge 28 dicembre 1993, n. 549](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-12-28;549), recante misure a tutela dell'ozono stratosferico e dell'ambiente, fatto salvo quanto disposto dal [regolamento CEE n. 594/91](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:31991R0594), come modificato ed integrato dal successivo [regolamento CEE n. 3952/92](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:31992R3952).
 
 10. Il termine del 31 marzo 1995 previsto all'[articolo 1, comma 3, del decreto-legge 20 giugno 1994, n. 396](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1994-06-20;396~art1-com3), convertito, con modificazioni, dalla [legge 3 agosto 1994, n. 481, ed all'articolo 1, comma 1, lettera c)](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-08-03;481~art1-com1-letc), del [decreto del Ministro dell'industria, del commercio e dell'artigianato 12 ottobre 1994, n. 683](http://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.industria.commercio.artigianato:decreto:1994-10-12;683), per la distruzione degli impianti oggetto di incentivazione, e' prorogato al 31 dicembre 1995.
 
-11. Il termine per la presentazione della documentazione integrativa prevista a corredo delle domande di concessione di contributi gia' presentata resta confermato al 31 marzo 1995.
+11. Il termine per la presentazione della documentazione integrativa prevista a corredo delle domande di concessione di contributi gia' presentate resta confermato al 31 marzo 1995.
 
 Art. 4
 ------
@@ -126,7 +126,7 @@ b) al comma 2, le parole: "entro trenta giorni dalla data di entrata in vigore d
 
 7. All'[articolo 13, comma 7, del decreto legislativo 30 dicembre 1992, n. 538](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992-12-30;538~art13-com7), dopo le parole: "hanno presentato" sono aggiunte le seguenti: "o presentino entro il 28 febbraio 1994".
 
-8. I termini di cui all'[articolo 10, comma 2, del decreto legislativo 30 giugno 1993, n. 266](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-06-30;266~art10-com2), sono differiti al 30 agosto 1995.
+8. I termini di cui all'[articolo 10, comma 2, del decreto legislativo 30 giugno 1993, n. 266](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-06-30;266~art10-com2), sono differiti al 30 giugno 1995.
 
 9. I termini di cui all'[articolo 10, comma 2, del decreto legislativo 30 giugno 1993, n. 270](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-06-30;270~art10-com2), e' differito fino all'entrata in vigore delle leggi regionali di attuazione dell'articolo 2, comma 5, del predetto decreto legislativo e, comunque, non oltre il 1 gennaio 1996.
 
@@ -147,7 +147,7 @@ Art. 6
 
 Disposizioni in materia di cittadini extracomunitari
 
-1. Per la prosecuzione nell'anno 1993 degli interventi in materia di ingresso e soggiorno in Italia di cittadini extracomunitari, l'autorizzazione di spesa di cui all'arti colo [11, comma 4, del decreto-legge 30 dicembre 1989, n. 416](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1989-12-30;416~art11-com4), convertito, con modificazioni, dalla [legge 28 febbraio 1990, n. 39](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-02-28;39), e' aumentata di lire 30 miliardi. Al relativo onere si provvede mediante utilizzo delle disponibilita' di cui al capitolo 1222 dello stato di previsione della Presidenza del Consiglio dei Ministri per l'anno 1994.
+1. Per la prosecuzione nell'anno 1993 degli interventi in materia di ingresso e soggiorno in Italia di cittadini extracomunitari, l'autorizzazione di spesa di cui all'[articolo 11, comma 4, del decreto-legge 30 dicembre 1989, n. 416](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1989-12-30;416~art11-com4), convertito, con modificazioni, dalla [legge 28 febbraio 1990, n. 39](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-02-28;39), e' aumentata di lire 30 miliardi. Al relativo onere si provvede mediante utilizzo delle disponibilita' di cui al capitolo 1222 dello stato di previsione della Presidenza del Consiglio dei Ministri per l'anno 1994.
 
 2. Per l'anno 1994 i cittadini extracomunitari, regolarmente residenti in Italia ed iscritti nelle liste di collocamento, sono equiparati ai cittadini italiani non occupati, iscritti nelle liste di collocamento, per quanto attiene all'assistenza sanitaria erogata in Italia dal Servizio sanitario nazionale ed al relativo obbligo contributivo di cui all'[articolo 63 della legge 23 dicembre 1978, n. 833](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-12-23;833~art63), e successive modificazioni ed integrazioni.
 
@@ -175,7 +175,7 @@ Art. 8
 
 Editoria speciale periodica per i non vedenti
 
-1. A decorrere dall'anno 1994 all'editoria speciale periodica per non vedenti, prodotta con caratteri tipografici normali, su nastro magnetico e in braille, e' riservato un contributo annuo di lire 1.000 milioni ripartito con i criteri e le modalita' di cui al [decreto del Presidente della Repubblica 3 aprile 1990, n. 78](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1990-04-03;78). Al relativo onere si provvede a carico dello stanziamento del capitolo 1383 dello stato di previsione della Presidenza del Consiglio dei Ministri per l'anno 1994 e corrispondenti capitoli per gli anni successivi.
+1. A decorrere dall'anno 1994 all'editoria speciale periodica per non vedenti, prodotta con caratteri tipografici normali, su nastro magnetico e in Braille, e' riservato un contributo annuo di lire 1.000 milioni ripartito con i criteri e le modalita' di cui al [decreto del Presidente della Repubblica 3 aprile 1990, n. 78](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1990-04-03;78). Al relativo onere si provvede a carico dello stanziamento del capitolo 1383 dello stato di previsione della Presidenza del Consiglio dei Ministri per l'anno 1994 e corrispondenti capitoli per gli anni successivi.
 
 Art. 9
 ------
@@ -198,24 +198,18 @@ Art. 10
 
 Entrata in vigore
 
-1. Il presente decreto entra in vigore il giorno stesso della sua pubblicazione nella Gazzetta Ufficiale della Repubblica italiana e sara' presentato alle Camere per la conversione in legge.
+1. Il presente decreto entra in vigore il giorno successivo a quello della sua pubblicazione nella Gazzetta Ufficiale della Repubblica italiana e sara' presentato alle Camere per la conversione in legge.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserito nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 28 giugno 1995
+### Dato a Roma, addi' 29 aprile 1995
 
-Il Presidente del Senato della Repubblica nell'esercizio delle
-
-funzioni del Presidente della Repubblica, ai sensi dell'articolo 86 della Costituzione SCOGNAMIGLIO PASINI
+SCALFARO
 
 DINI, Presidente del Consiglio dei Ministri e Ministro del tesoro
 
 SALVINI, Ministro dell'universita' e della ricerca scientifica e tecnologica
-
-LUCHETTI, Ministro delle risorse
-
-agricole, alimentari e forestali
 
 TREU, Ministro del lavoro e della previdenza sociale
 

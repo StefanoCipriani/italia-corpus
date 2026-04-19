@@ -1,13 +1,13 @@
-DECRETO-LEGGE 23 giugno 1994 n. 404
+DECRETO-LEGGE 26 aprile 1994 n. 249
 
 
-DECRETO-LEGGE 23 giugno 1994 n. 404
+DECRETO-LEGGE 26 aprile 1994 n. 249
 ===================================
 
 Disposizioni urgenti per il funzionamento delle universita'.
 ------------------------------------------------------------
 
-Entrata in vigore del decreto: 26/06/1994.Decreto-Legge decaduto per mancata conversione.
+Entrata in vigore del decreto: 26-4-1994.Decreto-Legge decaduto per mancata conversione.
 
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
@@ -16,11 +16,12 @@ Visti gli [articoli 77](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:cost
 
 Ritenuta la straordinaria necessita' ed urgenza di emanare disposizioni per il funzionamento delle universita';
 
-Vista la deliberazione del Consiglio dei Ministri, adottata nella riunione del 23 giugno 1994;
+Vista la deliberazione del Consiglio dei Ministri, adottata nella riunione del 22 aprile 1994;
 
-Sulla proposta del Presidente del Consiglio dei Ministri e del Ministro dell'universita' e della ricerca scientifica e tecnologica, di concerto con i Ministri del tesoro, del bilancio e della programmazione economica e per la funzione pubblica e gli affari regionali;
+Sulla
+-----
 
-E M A N A il seguente decreto-legge:
+proposta del Presidente del Consiglio dei Ministri e del Ministro dell'universita' e della ricerca scientifica e tecnologica, di concerto con i Ministri del tesoro, del bilancio e della programmazione economica e per la funzione pubblica; E M A N A il seguente decreto-legge:
 
 Art. 1
 ------
@@ -62,7 +63,7 @@ Ai titolari dei contratti di cui all'[articolo 28 del decreto del Presidente del
 Art. 6
 ------
 
-1. I cittadini italiani che hanno conseguito all'estero un titolo di studio di scuola secondaria superiore, avendo frequentato il relativo corso di studio presso scuole straniere operanti in Italia e riconosciute o sovvenzionate dai rispettivi Stati esteri, possono ottenere l'ammissione alle universita' italiane con provvedimento del Ministro dell'universita' e della ricerca scientifica e tecnologica, su proposta delle competenti autorita' accademiche.
+1. I cittadini italiani che hanno conseguito all'estero un titolo di studio di scuola secondaria superiore, avendo frequentato il relativo corso di studio presso scuole straniere operanti in Italia e riconosciute o sovvenzionate dai rispettivi Stati esteri, possono ottenere l'ammissione alle universita' italiane per l'anno accademico 1993-1994 con provvedimento del Ministro dell'universita' e della ricerca scientifica e tecnologica, su proposta delle competenti autorita' accademiche.
 
 Art. 7
 ------
@@ -81,13 +82,7 @@ Art. 8
 Art. 9
 ------
 
-1. La composizione dei consigli di amministrazione delle universita' e le modalita' di scelta dei componenti sono stabilite dagli statuti nel rispetto dei seguenti principi:
-
-a) il numero dei componenti non deve essere superiore a quindici;
-
-b) deve essere prevista la presenza di almeno due componenti in rappresentanza degli studenti;
-
-c) in nessun caso il consiglio di amministrazione puo' essere costituito in misura maggioritaria da componenti che ricoprano contemporaneamente cariche in altri organi di governo delle universita'.
+1. La composizione dei consigli di amministrazione delle universita' e' stabilita dagli statuti degli atenei. I membri, in numero non superiore a quindici, sono individuati, ove appartengano al personale dell'ateneo, sulla base della carica od ufficio ricoperti nelle strutture organizzative dell'universita' medesima e secondo modalita' definite dagli stessi statuti.
 
 2. Fino alla definizione degli statuti e comunque non oltre il 31 dicembre 1994, i consigli di amministrazione permangono nella precedente composizione. Sono fatte salve le deliberazioni adottate prima della data di entrata in vigore del presente decreto.
 
@@ -103,23 +98,23 @@ Art. 10
 Art. 11
 -------
 
-1. Il presente decreto entra in vigore il giorno successivo a quello della sua pubblicazione nella Gazzetta Ufficiale della Repubblica italiana e sara' presentato alle Camere per la conversione in legge.
+1. Le disposizioni del presente decreto hanno effetto dal 24 aprile 1994. Il presente decreto entra in vigore il giorno stesso della sua pubblicazione nella Gazzetta Ufficiale della Repubblica italiana e sara' presentato alle Camere per la conversione in legge.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserito nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 23 giugno 1994
+### Dato a Roma, addi' 26 aprile 1994
 
 SCALFARO
 
-BERLUSCONI, Presidente del Consiglio dei Ministri
+CIAMPI, Presidente del Consiglio dei Ministri
 
-PODESTA', Ministro dell'universita' e della ricerca scientifica e tecnologica
+COLOMBO, Ministro dell'universita' e della ricerca scientifica e tecnologica
 
-DINI, Ministro del tesoro
+BARUCCI, Ministro del tesoro
 
-PAGLIARINI, Ministro del bilancio e della programmazione economica
+SPAVENTA, Ministro del bilancio e della programmazione economica
 
-URBANI, Ministro per la funzione pubblica e gli affari regionali
+CASSESE, Ministro per la funzione pubblica
 
-Visto, il Guardasigilli: BIONDI
+Visto, il Guardasigilli: CONSO

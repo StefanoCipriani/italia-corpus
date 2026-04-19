@@ -1,13 +1,13 @@
-DECRETO-LEGGE 08 settembre 1994 n. 535
+DECRETO-LEGGE 16 maggio 1994 n. 291
 
 
-DECRETO-LEGGE 08 settembre 1994 n. 535
-======================================
+DECRETO-LEGGE 16 maggio 1994 n. 291
+===================================
 
 Disposizioni urgenti per l'attuazione dell'articolo 68 della Costituzione.
 --------------------------------------------------------------------------
 
-Entrata in vigore del decreto: 15/9/1994.Decreto-Legge decaduto per mancata conversione.
+Entrata in vigore del decreto: 17-5-1994.Decreto-Legge decaduto per mancata conversione.
 
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
@@ -16,7 +16,7 @@ Visti gli [articoli 77](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:cost
 
 Ritenuta la straordinaria necessita' ed urgenza di emanare disposizioni attuative dell'[articolo 68 della Costituzione](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27~art68);
 
-Vista la deliberazione del Consiglio dei Ministri, adottata nella riunione del 6 settembre 1994;
+Vista la deliberazione del Consiglio dei Ministri, adottata nella riunione del 13 maggio 1994;
 
 Sulla proposta del Presidente del Consiglio dei Ministri e del Ministro di grazia e giustizia;
 
@@ -56,12 +56,12 @@ Art. 5
 Art. 6
 ------
 
-1. Il presente decreto entra in vigore il giorno successivo a quello della sua pubblicazione nella Gazzetta Ufficiale della Repubblica italiana e sara' presentato alle Camere per la conversione in legge.
+1. Il presente decreto entra in vigore il giorno stesso della sua pubblicazione nella Gazzetta Ufficiale della Repubblica italiana e sara' presentato alle Camere per la conversione in legge.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserito nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 8 settembre 1994
+### Dato a Roma, addi' 16 maggio 1994
 
 SCALFARO
 

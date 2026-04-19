@@ -1,7 +1,7 @@
-DECRETO-LEGGE 28 agosto 1987 n. 353
+DECRETO-LEGGE 27 giugno 1987 n. 242
 
 
-DECRETO-LEGGE 28 agosto 1987 n. 353
+DECRETO-LEGGE 27 giugno 1987 n. 242
 ===================================
 
 Proroga dei termini per la regolarizzazione dei lavoratori stranieri 
@@ -21,39 +21,37 @@ Visto il [decreto legislativo 11 febbraio 1948, n. 50](http://www.normattiva.it/
 
 Vista la [legge 30 dicembre 1986, n. 943](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1986-12-30;943), concernente norme in materia di collocamento e di trattamento dei lavoratori extracomunitari immigrati e contro le immigrazioni clandestine;
 
-Considerato che, alla data attuale e nonostante la proroga al 27 settembre 1987 dei termini di regolarizzazione, un limitato numero di lavoratori stranieri presenti nel territorio dello Stato ha fruito della regolarizzazione, si rende necessario confermare la predetta data per la regolarizzazione medesima, al fine di evitare che si perpetuino inammissibili situazioni di clandestinita' e di illegalita' che si risolverebbero, in ultima analisi, a danno degli stessi lavoratori stranieri ancora irregolari;
+Considerato che, alla data attuale e nonostante una prima proroga dei termini di regolarizzazione, un limitato numero di lavoratori stranieri presenti nel territorio dello Stato ha fruito della regolarizzazione, si rende necessario disporre la ulteriore proroga dei termini per la regolarizzazione medesima, al fine di evitare che si perpetuino inammissibili situazioni di clandestinita' e di illegalita' che si risolverebbero, in ultima analisi, a danno degli stessi lavoratori stranieri ancora irregolari;
 
 Ritenuta la straordinaria necessita' ed urgenza di consentire la completa regolarizzazione, ai sensi dell'[articolo 16 della legge 30 dicembre 1986, n. 943](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1986-12-30;943~art16), delle posizioni dei lavoratori stranieri extracomunitari dimoranti in Italia alla data di entrata in vigore della legge medesima;
 
-Vista la deliberazione del Consiglio dei Ministri, adottata nella riunione del 27 agosto 1987;
+Vista la deliberazione del Consiglio dei Ministri, adottata nella riunione del 26 giugno 1987;
 
-Sulla proposta del Presidente del Consiglio dei Ministri e dei Ministri dell'interno e del lavoro e della previdenza sociale;
-
-EMANA
+Sulla
 -----
 
-il seguente decreto:
+proposta del Presidente del Consiglio dei Ministri e dei Ministri dell'interno e del lavoro e della previdenza sociale; il seguente decreto:
 
 Art. 1
 ------
 
-1. I termini previsti dall'[articolo 16 della legge 30 dicembre 1986, n. 943](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1986-12-30;943~art16), sono differiti al 31 dicembre 1987.
+1. I termini previsti dall'[articolo 16 della legge 30 dicembre 1986, n. 943](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1986-12-30;943~art16), sono differiti al 27 settembre 1987.
 
 Art. 2
 ------
 
 1. Il [comma 5 dell'articolo 16 della legge 30 dicembre 1986, n. 943](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1986-12-30;943~art16-com5), e' sostituito dal seguente:  
-"5. Ai fini della regolarizzazione di cui al presente articolo lo straniero e' tenuto a presentare all'autorita' di pubblica sicurezza il passaporto dal quale risulti inequivocabilmente il suo ingresso in Italia in data anteriore al 27 gennaio 1987.".
+"5. Ai fini della regolarizzazione di cui al presente articolo lo straniero e' tenuto a presentare all'autorita' di pubblica sicurezza il passaporto dal quale risulti inequivocabilmente il suo ingresso in Italia in data anteriore al 27 gennaio 1987".
 
 Art. 3
 ------
 
-1. All'[articolo 1, comma 1, della legge 30 dicembre 1986, n. 943](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1986-12-30;943~art1-com1), dopo le parole: "dalla [legge 29 febbraio 1980, n. 33](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1980-02-29;33)," sono aggiunte le seguenti: "con partecipazione alla spesa sanitaria secondo le misure e le modalita' stabilite per i lavoratori italiani disoccupati che risultano iscritti nelle liste di collocamento,".
+1. All'[articolo 1, comma 1, della legge 30 dicembre 1986, n. 943](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1986-12-30;943~art1-com1), dopo le parole: "dalla [legge 29 febbraio 1980, n. 33](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1980-02-29;33)" sono aggiunte le seguenti: "con partecipazione alla spesa sanitaria secondo le misure e le modalita' stabilite per i lavoratori italiani disoccupati che risultano iscritti nelle liste di collocamento,".
 
 Art. 4
 ------
 
-1. All'[articolo 6, comma 2, della legge 30 dicembre 1986, n. 943](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1986-12-30;943~art6-com2), sono aggiunte, in fine, le seguenti parole: ", e comunque non inferiore a 40 ore settimanali.".
+1. All'[articolo 6, comma 2, della legge 30 dicembre 1986, n. 943](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1986-12-30;943~art6-com2), sono aggiunte, in fine, le seguenti parole: ", e comunque non inferiore a 40 ore settimanali".
 
 Art. 5
 ------
@@ -76,28 +74,23 @@ Art. 6
 Art. 7
 ------
 
-1. Le disposizioni del presente decreto hanno effetto dal 27 agosto 1987.
-
-Art. 8
-------
-
-1. Il presente decreto entra in vigore il giorno stesso della sua pubblicazione nella Gazzetta Ufficiale della Repubblica italiana e sara' presentato alle Camere per la conversione in legge.
+1. Il presente decreto entra in vigore il giorno successivo a quello della sua pubblicazione nella Gazzetta Ufficiale della Repubblica italiana e sara' presentato alle Camere per la conversione in legge.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserito nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 28 agosto 1987
+### Dato a Roma, addi' 27 giugno 1987
 
 COSSIGA
 
-GORIA, Presidente del Consiglio dei Ministri
+FANFANI, Presidente del Consiglio dei Ministri
 
-FANFANI, Ministro dell'interno
+SCALFARO, Ministro dell'interno
 
-FORMICA, Ministro del lavoro e della previdenza sociale
+GORRIERI, Ministro del lavoro e della previdenza sociale
 
-Visto, il Guardasigilli: VASSALLI
+Visto, il Guardasigilli: ROGNONI
 
-Registrato alla Corte dei conti, addi' 28 agosto 1987
+Registrato alla Corte dei conti, addi' 27 giugno 1987
 
-Atti di Governo, registro n. 69, foglio n. 5
+Atti di Governo, registro n. 66, foglio n. 18

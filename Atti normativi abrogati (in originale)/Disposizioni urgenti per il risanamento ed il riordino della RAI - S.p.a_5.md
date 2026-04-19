@@ -1,35 +1,35 @@
-DECRETO-LEGGE 28 ottobre 1994 n. 602
+DECRETO-LEGGE 29 agosto 1994 n. 517
 
 
-DECRETO-LEGGE 28 ottobre 1994 n. 602
-====================================
+DECRETO-LEGGE 29 agosto 1994 n. 517
+===================================
 
 Disposizioni urgenti per il risanamento ed il riordino della RAI - S.p.a.
 -------------------------------------------------------------------------
 
-Entrata in vigore del decreto: 30-10-1994.Decreto-Legge decaduto per mancata conversione.
+Entrata in vigore del decreto: 30/8/1994.Decreto-Legge decaduto per mancata conversione.
 
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
 Visti gli [articoli 77](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27~art77) e [87 della Costituzione](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27~art87);
 
-Ritenuta la straordinaria necessita' ed urgenza di attuare il piano di risanamento e di riordino della RAI - Radiotelevisione italiana S.p.a.;
+Ritenuta la straordinaria necessita' ed urgenza di avviare il piano di risanamento e di riordino della RAI - Radiotelevisione italiana S.p.a.;
 
-Vista la deliberazione del Consiglio dei Ministri, adottata nella riunione del 27 ottobre 1994;
+Vista la deliberazione del Consiglio dei Ministri, adottata nella riunione del 26 agosto 1994;
 
-Sulla proposta del Presidente del Consiglio dei Ministri e dei Ministri del tesoro e delle poste e delle telecomunicazioni, di concerto con il Ministro del bilancio e della programmazione economica;
+Sulla proposta del Presidente del Consiglio dei Ministri e dei Ministri del tesoro e delle poste e delle telecomunicazioni, di concerto con i Ministri del bilancio e della programmazione economica e delle finanze;
 
 E M A N A il seguente decreto-legge:
 
 Art. 1
 ------
 
-1. Ai fini del risanamento economico dell'azienda, il consiglio di amministrazione della societa' concessionaria del servizio pubblico radiotelevisivo, entro tre mesi dalla data di entrata in vigore del presente decreto, trasmette al Ministro delle poste e delle telecomunicazioni, che lo approva con decreto adottato di concerto con il Ministro del tesoro, un piano triennale di ristrutturazione aziendale che deve definire in dettaglio gli obiettivi di razionalizzazione attinenti al personale e agli assetti industriali e finanziari. In caso di mancata approvazione del piano triennale, il decreto motivato di reiezione e' comunicato dal Governo ai Presidenti del Senato della Repubblica e della Camera dei deputati per le determinazioni di loro competenza, ivi compresa ai sensi dell'[articolo 2, comma 1, della legge 25 giugno 1993, n. 206](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-06-25;206~art2-com1), come sostituito dall'articolo 7 del presente decreto, la nomina dei nuovi componenti del consiglio di amministrazione.
+1. Ai fini del risanamento economico dell'azienda, il consiglio di amministrazione della societa' concessionaria del servizio pubblico radiotelevisivo, entro tre mesi dalla data di entrata in vigore del presente decreto, trasmette al Ministro delle poste e delle telecomunicazioni, che lo approva con decreto adottato di concerto con il Ministro del tesoro, un piano triennale di ristrutturazione aziendale che deve definire in dettaglio gli obiettivi di razionalizzazione attinenti al personale e agli assetti industriali e finanziari. In caso di mancata approvazione del piano triennale, il decreto motivato di reiezione e' comunicato dal Governo ai Presidenti del Senato della Repubblica e della Camera dei deputati per le determinazioni di loro competenza, ivi compresa, ai sensi dell'[articolo 2, comma 1, della legge 25 giugno 1993, n. 206](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-06-25;206~art2-com1), come sostituito dall'articolo 7 del presente decreto, la nomina dei nuovi componenti del consiglio di amministrazione.
 
-2. L'[articolo 4 della legge 25 giugno 1993, n. 206](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-06-25;206~art4), e' sostituito dal seguente:   
-"Art. 4 (Convenzione) . - 1. Entro il 31 marzo 1994 e' stipulata una convenzione tra la societa' concessionaria del servizio pubblico radiotelevisivo ed il Ministero delle poste e delle telecomunicazioni, anche al fine di adeguare la convenzione stessa alle prescrizioni della [legge 6 agosto 1990, n. 223](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-08-06;223).   
-2. La convenzione disciplina, in attuazione della vigente normativa in materia, i compiti e gli obblighi posti a carico della societa' concessionaria. Essa prevede la stipulazione, ogni tre anni, di un contratto di servizio nel quale per ciascun triennio e' indicato l'ammontare del canone di concessione, proporzionato a quello sostenuto dalle imprese radiotelevisive private, e sono individuati i criteri sulla cui base il Ministero delle poste e delle telecomunicazioni fissa l'adeguamento annuale del sovrapprezzo, dovuto dagli abbonati ordinari alla televisione, del canone di abbonamento speciale per la detenzione fuori dall'ambito familiare di apparecchi radioriceventi o televisivi e del canone complessivo dovuto per l'uso privato di apparecchi radiofonici o televisivi a bordo di automezzi o autoscafi. Tali criteri sono basati su parametri di produttivita', su obiettivi di qualita' del servizio, nonche' su ulteriori indicatori economico-finanziari e di gestione aziendale, e non possono comunque determinare un adeguamento superiore al tasso di inflazione programmato. La convenzione prevede altresi' procedure e modalita' di rinnovo del contratto di servizio, escludendo il rinnovo tacito. Per il contratto di servizio 1994-96 il canone di concessione per gli anni 1995-96 sara' ridefinito secondo le determinazioni delle rispettive leggi finanziarie.   
+2. L'[articolo 4 della legge 25 giugno 1993, n. 206](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-06-25;206~art4), e' sostituito dal seguente:  
+"Art. 4 (Convenzione) . - 1. Entro il 31 marzo 1994 e' stipulata una convenzione tra la societa' concessionaria del servizio pubblico radiotelevisivo ed il Ministero delle poste e delle telecomunicazioni, anche al fine di adeguare la convenzione stessa alle prescrizioni della [legge 6 agosto 1990, n. 223](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-08-06;223).  
+2. La convenzione disciplina, in attuazione della vigente normativa in materia, i compiti e gli obblighi posti a carico della societa' concessionaria. Essa prevede la stipulazione, ogni tre anni, di un contratto di servizio nel quale per ciascun triennio e' indicato l'ammontare del canone di concessione, proporzionato a quello sostenuto dalle imprese radiotelevisive private, e sono individuati i criteri sulla cui base il Ministero delle poste e delle telecomunicazioni fissa l'adeguamento annuale del sovrapprezzo, dovuto dagli abbonati ordinari alla televisione, del canone di abbonamento speciale per la detenzione fuori dall'ambito familiare di apparecchi radioriceventi o televisivi e del canone complessivo dovuto per l'uso privato di apparecchi radiofonici o televisivi a bordo di automezzi o autoscafi. Tali criteri sono basati su parametri di produttivita', su obiettivi di qualita' del servizio, nonche' su ulteriori indicatori economico-finanziari e di gestione aziendale e non possono comunque determinare un adeguamento superiore al tasso di inflazione programmato. La convenzione prevede altresi' procedure e modalita' di rinnovo del contratto di servizio, escludendo il rinnovo tacito. Per il contratto di servizio 1994-96 il canone di concessione per gli anni 1995-96 sara' ridefinito secondo le determinazioni delle rispettive leggi finanziarie.  
 3. Prima che siano resi esecutivi, la convenzione e i contratti di servizio sono trasmessi alla Commissione parlamentare per l'indirizzo generale e la vigilanza dei servizi radiotelevisivi, che esprime il proprio parere entro trenta giorni. La societa' concessionaria riferisce trimestralmente alla Commissione sull'attuazione degli indirizzi.".
 
 3. Per l'anno 1994 il sovrapprezzo dovuto dagli abbonati ordinari alla televisione, il canone di abbonamento speciale per la detenzione fuori dall'ambito familiare di apparecchi radioriceventi o televisivi ed il canone complessivo dovuto per l'uso privato di apparecchi radiofonici o televisivi a bordo di automezzi o autoscafi sono fissati nelle misure indicate nella tabella allegata al presente decreto.
@@ -70,9 +70,8 @@ Art. 6
 Art. 7
 ------
 
-1. Il [comma 1 dell'articolo 2 della legge 25 giugno 1993, n. 206](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-06-25;206~art2-com1), e' sostituito dal seguente:   
-" 1. Fino all'entrata in vigore di una nuova disciplina del servizio pubblico radiotelevisivo, nel quadro di una ridefinizione del sistema radiotelevisivo e dell'editoria nel suo complesso, il consiglio di amministrazione della societa' concessionaria del servizio pubblico radiotelevisivo e' composto di cinque membri, nominati con determinazione adottata d'intesa dai Presidenti del Senato della Repubblica e della Camera dei deputati, scelti tra persone di riconosciuto prestigio professionale e di notoria indipendenza di comportamenti, che si siano distinti in attivita' economiche, scientifiche, giuridiche, della cultura umanistica o della comunicazione sociale, maturandovi significative esperienze manageriali. Essi durano in carica per non piu' di due esercizi sociali. La carica di membro del consiglio di amministrazione e' incompatibile con l'appartenenza al Parlamento europeo, al Parlamento nazionale, ai consigli regionali, provinciali e dei comuni con popolazione superiore a ventimila abitanti, nonche' con la titolarita' di rapporti di interesse o di lavoro con imprese e societa' pubbliche e private interessate all'esercizio della radiodiffusione sonora e televisiva e concorrenti della concessionaria ed altresi' con la titolarita' di cariche nei consigli di amministrazione di societa' controllate dalla concessionaria.  
-Successivamente alla conversione dei crediti in capitale, alle riunioni convocate per la verifica mensile sullo stato di avanzamento del piano triennale di ristrutturazione aziendale e per l'esame dell'andamento economico e finanziario della gestione partecipa il direttore generale della Cassa depositi e prestiti che informa, con apposita relazione, i Presidenti delle Camere e il Presidente del Consiglio dei Ministri. Il consiglio di amministrazione della societa' concessionaria procede, altresi', a verifiche bimestrali sulla attuazione del piano editoriale e ne informa con apposita relazione la Commissione bicamerale, le Commissioni parlamentari competenti e il Ministro delle poste e delle telecomunicazioni. La Commissione bicamerale puo' formulare, con delibera assunta con la maggioranza assoluta dei componenti, motivate proposte al consiglio di amministrazione in ordine al rispetto delle linee e degli obiettivi contenuti nel piano editoriale, nonche' all'adeguamento del piano stesso da parte delle reti e testate nel corso del periodo temporale di validita' del piano.".
+1. Il [comma 1 dell'articolo 2 della legge 25 giugno 1993, n. 206](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-06-25;206~art2-com1), e' sostituito dal seguente:  
+" 1. Fino all'entrata in vigore di una nuova disciplina del servizio pubblico radiotelevisivo, nel quadro di una ridefinizione del sistema radiotelevisivo e dell'editoria nel suo complesso, il consiglio di amministrazione della societa' concessionaria del servizio pubblico radiotelevisivo e' composto di cinque membri, nominati con determinazione adottata d'intesa dai Presidenti del Senato della Repubblica e della Camera dei deputati, scelti tra persone di riconosciuto prestigio professionale e di notoria indipendenza di comportamenti, che si siano distinti in attivita' economiche, scientifiche, giuridiche, della cultura umanistica o della comunicazione sociale, maturandovi significative esperienze manageriali. Essi durano in carica per non piu' di due esercizi sociali. La carica di membro del consiglio di amministrazione e' incompatibile con l'appartenenza al Parlamento europeo, al Parlamento nazionale, ai consigli regionali, provinciali e dei comuni con popolazione superiore a ventimila abitanti, nonche' con la titolarita' di rapporti di interesse o di lavoro con imprese e societa' pubbliche e private interessate all'esercizio della radiodiffusione sonora e televisiva e concorrenti della concessionaria. Successivamente alla conversione dei crediti in capitale, alle riunioni convocate per la verifica mensile sullo stato di avanzamento del piano triennale di ristrutturazione aziendale e per l'esame dell'andamento economico e finanziario della gestione partecipa il direttore generale della Cassa depositi e prestiti, che informa, con apposita relazione, i Presidenti delle Camere e il Presidente del Consiglio dei Ministri.".
 
 2. Il [comma 2 dell'articolo 2 della legge 25 giugno 1993, n. 206](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-06-25;206~art2-com2), e' abrogato.
 
@@ -104,7 +103,7 @@ d) investimenti effettuati nel settore.
 
 4. L'importo da corrispondere alla concessionaria con le modalita' e nei termini previsti dalla convenzione di cui al comma 1 e' pari a lire 10 miliardi annui.
 
-5. Al complessivo onere derivante dall'attuazione del presente articolo, nei limiti di lire 10 miliardi annui, a decorrere dall'anno 1994, si provvede mediante corrispondente riduzione dello stanziamento iscritto, ai fini del bilancio triennale 1994-1996, al capitolo 6856 dello stato di previsione del Ministero del tesoro per l'anno 1994, all'uopo utilizzando parte dell'accantonamento relativo alla Presidenza del Consiglio dei Ministri.
+5. Al complessivo onere derivante dall'attuazione del presente articolo, nei limiti di lire 10 miliardi annui a decorrere dall'anno 1994, si provvede mediante corrispondente riduzione dello stanziamento iscritto, ai fini del bilancio triennale 1994-1996, al capitolo 6856 dello stato di previsione del Ministero del tesoro per l'anno 1994, all'uopo utilizzando parte dell'accantonamento relativo alla Presidenza del Consiglio dei Ministri.
 
 Art. 10
 -------
@@ -120,19 +119,12 @@ Art. 10
 Art. 11
 -------
 
-1. Le imprese che ricevono le richieste e le convalide delle garanzie relative agli apparecchi di radiodiffusione sono tenute a comunicare all'Ufficio del registro abbonamenti radio TV (URAR-TV) le generalita' e il domicilio di coloro che usufruiscono delle garanzie medesime nei termini e con le modalita' da stabilirsi con decreto del Ministro delle finanze. Il predetto obbligo di comunicazione grava direttamente sui commercianti, rappresentanti e agenti di vendita in genere di apparecchi radiotelevisi nell'ipotesi in cui, a seguito di accordi con l'impresa che fornisce l'assistenza in garanzia, la garanzia medesima sia subordinata all'esibizione del solo scontrino fiscale di acquisto dell'apparecchio televisivo.
-
-2. Per ogni omessa o irregolare comunicazione di cui al comma 1, si applicano le sanzioni di cui all'[articolo 9 della legge 12 novembre 1949, n. 996](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1949-11-12;996~art9), e successive integrazioni.
-
-Art. 12
--------
-
-1. Il presente decreto entra in vigore il giorno successivo a quelllo della sua pubblicazione nella Gazzetta Ufficiale della Repubblica italiana e sara' presentato alle Camere per la conversione in legge.
+1. Il presente decreto entra in vigore il giorno stesso della sua pubblicazione nella Gazzetta Ufficiale della Repubblica italiana e sara' presentato alle Camere per la conversione in legge.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserito nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 28 ottobre 1994
+### Dato a Roma, addi' 29 agosto 1994
 
 SCALFARO
 
@@ -144,6 +136,8 @@ TATARELLA, Ministro delle poste e delle telecomunicazioni
 
 PAGLIARINI, Ministro del bilancio e della programmazione economica
 
+TREMONTI, Ministro delle finanze
+
 Visto, il Guardasigilli: BIONDI
 
 Tabella
@@ -153,107 +147,139 @@ Tabella
 1) CANONE DI ABBONAMENTO ALLA TELEVISIONE PER USO PRIVATO   
 Canone Sovrapprezzo Tassa di concessione IVA Totale   
 governativa   
-- - - - -   
+  
 420 142.270 8.000 5.310 156.000   
 2.1) CANONI DI ABBONAMENTO SPECIALE ALLE RADIODIFFUSIONI (RADIOFONIA E TELEVISIONE) PER LA DETENZIONE DELL'APPARECCHIO FUORI DELL'AMBITO FAMILIARE   
 (Escluse tassa di concessione governativa o comunale e IVA)   
 Canone supplementare   
-(dovuto per ogni stanza Canone base o locale escluso il primo)   
-Categorie Radio Televisione Radio Televisione   
-- - - - -   
+(dovuto per ogni   
+Canone base stanza o locale   
+escluso il primo) Categorie Radio Televisione Radio Televisione   
+  
 a) Alberghi con 5   
-stelle lusso, con 5,   
-4, 3 e 2 stelle; pen-   
-sioni con 3 e 2 stelle;   
-residenze turistico-   
-alberghiere con 4,   
-3 e 2 stelle; villag-   
-gi turistici e cam-   
-peggi con 4 e 3 stel-   
-le; esercizi pubblici   
-di lusso, di 1a, 2a e   
-3a categoria; navi di   
-lusso . . . . . . . . . 33.700 427.000 7.500 72.700   
+stelle lusso, con 5, 4, 3   
+e 2 stelle; pensioni con   
+3 e 2 stelle; residenze   
+turistico-alberghiere con   
+4, 3 e 2 stelle; villaggi   
+turistici e campeggi con   
+4 e 3 stelle; esercizi   
+pubblici di lusso, di 1a,   
+2a e 3a categoria; navi   
+di lusso   
+33.700 427.000 7.500 72.700   
 b) Alberghi, pensioni   
 e locande con 1 stella;   
 villaggi turistici con 2   
 stelle; campeggi con 2 e   
-1 stelle; affitta camere,   
+1 stelle; affitta-camere,   
 esercizi pubblici di 4a   
 categoria; altre navi;   
-aerei in servizio pub-   
-blico . . . . . . . . . 26.200 329.000 7.500 72.700   
+aerei in servizio   
+pubblico   
+26.200 329.000 7.500 72.700   
 c) Ospedali, cliniche   
 e case di cura; circoli,   
 associazioni, sedi di   
-partiti politici; istitu-   
-ti religiosi; uffici;   
-studi professionali; bot-   
-teghe, negozi ed assimi-   
-lati; mense aziendali;   
-scuole ed istituti sco-   
-lastici non esenti dal   
-canone in virtu' della   
-[legge 2 dicembre 1951,   
-n. 1571](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1951-12-02;1571), come modifica-   
-ta dalla legge 28 di-   
-cembre 1989, n. 421 . . 22.500 213.000 3.750 36.400   
+partiti politici;   
+istituti religiosi;   
+uffici; studi   
+professionali; botteghe,   
+negozi ed assimilati;   
+mense aziendali; scuole   
+ed istituti scolastici   
+non esenti dal canone in   
+virtu' della [legge 2   
+dicembre 1951, n. 1571](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1951-12-02;1571),   
+come modificata dalla   
+[legge 28 dicembre 1989,   
+n. 421   
+22](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1989-12-28;22).500 213.000 3.750 36.400   
 2.2) CANONI DI ABBONAMENTO SPECIALE ALLE RADIODIFFUSIONI (RADIOFONIA E TELEVISIONE) PER LA DETENZIONE DI APPARECCHI NEI CINEMA, NEI   
 CINEMA-TEATRI E IN LOCALI A QUESTI ASSIMILABILI   
-FAMILIARE   
-(Escluse tassa di concessione governativa o comunale e IVA)   
+(escluse tassa di concessione governativa o comunale e IVA)   
 Canone supplementare   
-Per uso Per   
-di schermo spettacoli   
-Canone base televisione gigante, a pagamento   
-o apparati esclusivamente   
-Fuori della Nella assimilati di   
-sala di sala di Maggio- nella programmi   
-proiezione proiezione razione sala di TV   
-Categorie e e per proiezione   
-spettacolo spettacolo posto e spettacolo   
-- - - - - -   
-Cinema, 427.000 427.000 960 6% dell'incasso 20% dell'incasso cinema- al netto dei al netto dei   
-teatri, diritti era- diritti era-   
-discoteche, riali e di- riali e di-   
-di categoria ritti d'au- ritti d'au-   
-extra tore tore   
-Cinema, 427.000 427.000 720 5% dell'incasso 20% dell'incasso cinema- al netto dei al netto dei   
-teatri, diritti era- diritti era-   
-discoteche, riali e di- riali e di-   
-di 1a cate- ritti d'au- ritti d'au-   
-goria tore tore   
-Cinema, 427.000 427.000 480 4% dell'incasso 20% dell'incasso cinema- al netto dei al netto dei   
-teatri, diritti era- diritti era-   
-discoteche, riali e di- riali e di-   
-di 2a cate- ritti d'au- ritti d'au-   
-goria tore tore   
-Cinema, 427.000 427.000 240 3% dell'incasso 20% dell'incasso cinema- al netto dei al netto dei   
-teatri, diritti era- diritti era-   
-discoteche, riali e di- riali e di-   
-di 3a cate- ritti d'au- ritti d'au-   
-goria tore tore   
-Cinema, 329.000 329.000 120 2% dell'incasso 10% dell'incasso cinema- al netto dei al netto dei   
-teatri, diritti era- diritti era-   
-discoteche, riali e di- riali e di-   
-di 4a e 5a ritti d'au- ritti d'au-   
-categoria; tore tore   
+Per uso di Per spettacoli   
+Canone base schermo a pagamento   
+televisione gigante, esclusivamente   
+Maggio= o apparati di programmi   
+Fuori Nella razione assimilati TV   
+della sala per posto nella sala   
+sala di di proiezio-   
+Categorie di proie- ne e spetta-   
+proie- zione colo   
+zione   
+  
+Cinema,   
+cinema-teatri,   
+discoteche,   
+di categoria   
+extra 427.000 427.000 960 6% dell'incasso 20% dello   
+al netto dei incasso   
+diritti al netto   
+erariali dei dirit-   
+e diritti ti eraria-   
+d'autore li e   
+diritti   
+d'autore Cinema,   
+cinema-teatri,   
+discoteche,   
+di 1a   
+categoria 427.000 427.000 720 5% dell'incasso 20% dello   
+al netto dei incasso   
+diritti al netto   
+erariali dei dirit-   
+e diritti ti eraria-   
+d'autore li e   
+diritti   
+d'autore Cinema,   
+cinema-teatri,   
+discoteche,   
+di 2a   
+categoria 427.000 427.000 480 4% dell'incasso 20% dello   
+al netto dei incasso   
+diritti al netto   
+erariali dei dirit-   
+e diritti ti eraria-   
+d'autore li e   
+diritti   
+d'autore Cinema,   
+cinema-teatri,   
+discoteche,   
+di 3a   
+categoria 427.000 427.000 240 3% dell'incasso 20% dello   
+al netto dei incasso   
+diritti al netto   
+erariali dei dirit-   
+e diritti ti eraria-   
+d'autore li e   
+diritti   
+d'autore Cinema,   
+cinema-teatri,   
+discoteche,   
+di 4a e 5a   
+categoria;   
 teatri-tenda;   
 stadi e piazze   
 (solo canone   
-base per   
-visione   
-gratuita)   
-3) CANONI DI ABBONAMENTO PER APPARECCHI RADIOFONICI INSTALLATI A   
+base per visio-   
+ne gratuita 329.000 329.000 120 2% dell'incasso 10% dello   
+al netto dei incasso   
+diritti al netto   
+erariali dei dirit-   
+e diritti ti eraria-   
+d'autore li e   
+diritti   
+d'autore 3) CANONI DI ABBONAMENTO PER APPARECCHI RADIOFONICI INSTALLATI A   
 BORDO DI AUTOMEZZI O AUTOSCAFI   
 3.1) Con potenza non superiore a 26 CV:   
-Canone Sovrapprezzo Tassa di concessione IVA Totale   
-governativa   
-- - - - -   
+Tassa di concessione   
+Canone Sovrapprezzo governativa IVA Totale   
+  
 420 28.215 2.700 1.065 32.400   
 3.2) Con potenza superiore a 26 CV:   
-Canone Sovrapprezzo Tassa di concessione IVA Totale   
-governativa   
-- - - - -   
+Tassa di concessione   
+Canone Sovrapprezzo governativa IVA Totale   
+  
 420 28.215 30.000 1.065 59.700   
 4) Per l'uso privato di televisori atti a ricevere le diffusioni televisive su autovetture ed autoscafi, gli importi sono quelli indicati al precedente punto 1) ad eccezione della tassa di concessione governativa prevista dal [decreto del Presidente del Consiglio dei Ministri 21 dicembre 1990, pubblicato nella Gazzetta Ufficiale n. 303 del 31 dicembre 1990](http://www.gazzettaufficiale.it/gazzetta/serie_generale/caricaDettaglio?dataPubblicazioneGazzetta=1990-12-31&numeroGazzetta=303).   

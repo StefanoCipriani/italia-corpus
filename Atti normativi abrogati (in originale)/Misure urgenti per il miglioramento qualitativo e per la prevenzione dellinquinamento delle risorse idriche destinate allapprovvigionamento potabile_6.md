@@ -1,13 +1,13 @@
-DECRETO-LEGGE 04 agosto 1989 n. 278
+DECRETO-LEGGE 06 dicembre 1989 n. 388
 
 
-DECRETO-LEGGE 04 agosto 1989 n. 278
-===================================
+DECRETO-LEGGE 06 dicembre 1989 n. 388
+=====================================
 
 Misure urgenti per il miglioramento qualitativo e per la prevenzione dell'inquinamento delle risorse idriche destinate all'approvvigionamento potabile.
 -------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Entrata in vigore del decreto: 8/8/1989.Decreto-Legge decaduto per mancata conversione.
+Entrata in vigore del decreto: 7/12/1989.Decreto-Legge decaduto per mancata conversione.
 
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
@@ -16,11 +16,11 @@ Visti gli [articoli 77](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:cost
 
 Ritenuta la straordinaria necessita' ed urgenza di adottare misure idonee al miglioramento qualitativo ed alla prevenzione dell'inquinamento delle risorse idriche destinate all'approvvigionamento potabile, anche in attuazione delle direttive comunitarie in materia;
 
-Vista la deliberazione del Consiglio dei Ministri, adottata nella riunione del 4 agosto 1989;
+Vista la deliberazione del Consiglio dei Ministri, adottata nella riunione del 5 dicembre 1989;
 
-Sulla proposta del Presidente del Consiglio dei Ministri e dei Ministri della sanita' e dell'ambiente, di concerto con i Ministri del bilancio e della programmazione economica, del tesoro, dell'agricoltura e delle foreste, per gli affari regionali ed i problemi istituzionali, di grazia e giustizia e dei lavori pubblici;
+Sulla proposta del Presidente del Consiglio dei Ministri e dei Ministri della sanita' e dell'ambiente, di concerto con i Ministri del bilancio e della programmazione economica, del tesoro, dell'agricoltura e delle foreste, di grazia e giustizia, dei lavori pubblici, per il coordinamento della protezione civile e per gli affari regionali ed i problemi istituzionali;
 
-E M A N A il seguente decreto:
+E M A N A il seguente decreto-legge:
 
 Art. 1
 ------
@@ -81,24 +81,80 @@ Art. 7
 Scarichi idrici
 
 1. I parametri "pesticidi clorurati" e "pesticidi fosforati" di cui rispettivamente ai numeri 46 e 47 della tabella A ed ai numeri 44 e 45 della tabella C allegate alla [legge 10 maggio 1976, n. 319](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1976-05-10;319), sono sostituiti come segue:  
-  
-----> [Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=089G035800000070110001&dgu=1989-08-07&art.dataPubblicazioneGazzetta=1989-08-07&art.codiceRedazionale=089G0358) <----
+====================================================================  
+"Parametri Concentrazioni N o t e  
+--------------------------------------------------------------------  
+Pesticidi totali (esclusi 0,05 C1 C2 maggiore  
+quelli fosforati, com- --- + --- o  
+presi PCB e PCT) mg/1 L1 L2 minore di 1  
+Pesticidi fosforati mg/1 0,1 Fermo restando che il  
+limite fissato per i  
+due parametri non  
+deve essere superato,  
+la somma dei rapporti  
+tra la concentrazione  
+presente e la relativa concentrazione limite  
+non deve superare il  
+valore di 1.".
 
-2. Tenuto conto delle nuove conoscenze scientifiche e per migliorare la tutela delle acque, con decreto del Ministro dell'ambiente, di  
-concerto con il Ministro della sanita', sono integrate e  
-modificate le tabelle A e C allegate alla [legge 10 maggio 1976, n.  
-319](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1976-05-10;319).
+2. Tenuto conto delle nuove conoscenze scientifiche e per migliorare la tutela delle acque, con decreto del Ministro dell'ambiente, di concerto con il Ministro della sanita', sono integrate e modificate le tabelle A e C allegate alla [legge 10 maggio 1976, n. 319](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1976-05-10;319).
 
 Art. 8
 ------
 
-Tassa di concessione governativa  
-sulla produzione di fitofarmaci
+Tassa di concessione governativa sulla produzione di fitofarmaci
 
 1. Al titolo III, Igiene-Sanita', della tariffa annessa al [decreto del Presidente della Repubblica 26 ottobre 1972, n. 641](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1972-10-26;641), dopo il numero 6 e' aggiunto il seguente:  
+====================================================================  
+"Numero Indicazione Ammontare Modo  
+degli atti delle di Note  
+d'ordine soggetti a tasse pagamento  
+tasse  
+--------------------------------------------------------------------  
+6-bis 1.Autorizzazione Le tasse di rila-  
+ad attivare uno scio previste  
+stabilimento per dai sottonumeri  
+la produzione di 1 e 2 sono do-  
+presidi sanita- vute anche per  
+tari (art.6 del- ogni variazio-  
+la legge 30 apri- ne delle auto-  
+le 1962,n.283,mo- rizzazioni e  
+dificata dalla delle registra  
+legge 26 febbraio zioni.  
+1963,n.441,ed ar- Le tasse annuali  
+ticoli 6, 7 ed 8 dei sottonumeri  
+del regolamento 1 e 2 sono do-  
+approvato con de- vute entro il  
+creto del Presi- 31 gennaio del-  
+dente della Re- l'anno cui si  
+pubblica 3 ago- riferiscono.  
+sto 1968,n.1255): Il mancato pa-  
+a) tassa di gamento compor  
+rilascio..... 1.500.000 ordinario ta la revoca  
+b) tassa delle autoriz-  
+annuale...... 500.000 ordinario zazioni e regi  
+2.Registrazione di strazioni".  
+presidi sanitari  
+(art.6 della ci-  
+tata [legge n.283  
+del 1962](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1962;283), modifi-  
+cata dalla [legge  
+n.441 del 1963, ed  
+articoli 12](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1963;441~art12),[13](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1963;441~art13) e [14](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1963;441~art14)
   
-  
-----> [Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=089G035800000080110001&dgu=1989-08-07&art.dataPubblicazioneGazzetta=1989-08-07&art.codiceRedazionale=089G0358) <----
+del regolamento ap-  
+provato con il cita-  
+to decreto del Pre-  
+sidente della Repub-  
+blica n.1255 del 1968);  
+per ogni tipo di pro-  
+dotto:
+
+a) tassa di  
+rilascio..... 1.000.000 ordinario
+
+b) tassa  
+annuale...... 500.000 ordinario
 
 2. Per l'anno in corso le tasse annuali devono essere corrisposte entro sessanta giorni dalla data di entrata in vigore della legge di conversione del presente decreto.
 
@@ -107,45 +163,35 @@ Art. 9
 
 Mappatura degli impianti di acquedotto
 
-1. Per permettere in sede locale un efficace e puntuale controllo  
-igienico-sanitario sulle acque destinate al consumo umano, i soggetti gestori di impianti di acquedotto, su conformi direttive delle autorita' regionali da emanarsi entro un anno dalla data di entrata in vigore del presente decreto, redigono e trasmettono, entro i successivi due anni, alle unita' sanitarie locali, ai presidi e servizi multizonali di prevenzione, ai comuni ed alle regioni territorialmente interessati la mappatura delle opere di attingimento, di trasporto, di raccolta, di trattamento e di distribuzione dell'acqua fornita all'utenza.
+1. Per permettere in sede locale un efficace e puntuale controllo igienico-sanitario sulle acque destinate al consumo umano, i soggetti gestori di impianti di acquedotto, su conformi direttive delle autorita' regionali da emanarsi entro un anno dalla data di entrata in vigore del presente decreto, redigono e trasmettono, entro i successivi due anni, alle unita' sanitarie locali, ai presidi e servizi multizonali di prevenzione, ai comuni ed alle regioni territorialmente interessati la mappatura delle opere di attingimento, di trasporto, di raccolta, di trattamento e di distribuzione dell'acqua fornita all'utenza.
 
-2. La relativa documentazione e i periodici aggiornamenti sono  
-trasmessi dalle regioni ai Ministeri della sanita', dell'ambiente e dei lavori pubblici.
+2. La relativa documentazione e i periodici aggiornamenti sono trasmessi dalle regioni ai Ministeri della sanita', dell'ambiente e dei lavori pubblici.
 
 Art. 10
 -------
 
 Relazione annuale
 
-1. Le regioni trasmettono ai Ministeri della sanita', dell'ambiente  
-e dei lavori pubblici, entro il 31 gennaio di ogni anno, una dettagliata relazione sullo stato di applicazione delle disposizioni di settore, sulle problematiche d'ordine igienico-sanitario, ambientale ed acquedottistiche evidenziatesi od ipotizzabili a breve, medio e lungo periodo, sulle eventuali carenze emerse e sui rimedi proponibili per eliminarle.
+1. Le regioni trasmettono ai Ministeri della sanita', dell'ambiente e dei lavori pubblici, entro il 31 gennaio di ogni anno, una dettagliata relazione sullo stato di applicazione delle disposizioni di settore, sulle problematiche d'ordine igienico-sanitario, ambientale ed acquedottistiche evidenziatesi od ipotizzabili a breve, medio e lungo periodo, sulle eventuali carenze emerse e sui rimedi proponibili per eliminarle.
 
 Art. 11
 -------
 
 Approvvigionamento idrico alternativo
 
-1. I piani per l'approvvigionamento idrico alternativo ed i  
-relativi progetti di intervento nelle zone interessate dall'inquinamento da diserbanti, proposti dalle regioni ai sensi dell'[articolo 18 del decreto del Presidente della Repubblica 24 maggio 1988, n. 236](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1988-05-24;236~art18), sono approvati dalla Conferenza interregionale permanente per il risanamento e la tutela del bacino idrografico del fiume Po, istituita con [decreto del Presidente del Consiglio dei Ministri in data 28 gennaio 1988, pubblicato nella Gazzetta Ufficiale n. 27 del 3 febbraio 1988](http://www.gazzettaufficiale.it/gazzetta/serie_generale/caricaDettaglio?dataPubblicazioneGazzetta=1988-02-03&numeroGazzetta=27), nei limiti complessivi di spesa di cui all'articolo 12.
+1. I piani per l'approvvigionamento idrico alternativo ed i relativi progetti di intervento nelle zone interessate dall'inquinamento da diserbanti, proposti dalle regioni ai sensi dell'[articolo 18 del decreto del Presidente della Repubblica 24 maggio 1988, n. 236](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1988-05-24;236~art18), sono approvati dalla Conferenza interregionale permanente per il risanamento e la tutela del bacino idrografico del fiume Po, istituita con [decreto del Presidente del Consiglio dei Ministri in data 28 gennaio 1988, pubblicato nella Gazzetta Ufficiale n. 27 del 3 febbraio 1988](http://www.gazzettaufficiale.it/gazzetta/serie_generale/caricaDettaglio?dataPubblicazioneGazzetta=1988-02-03&numeroGazzetta=27), nei limiti complessivi di spesa di cui all'articolo 12.
 
-2. Gli interventi e le opere da finanziare a norma del comma 1  
-debbono perseguire i seguenti obiettivi:
+2. Gli interventi e le opere da finanziare a norma del comma 1 debbono perseguire i seguenti obiettivi:
 
-a) installazione di unita' di potabilizzazione a carboni attivi  
-sugli impianti di acquedotto;
+a) installazione di unita' di potabilizzazione a carboni attivi sugli impianti di acquedotto;
 
-b) interconnessione degli acquedotti eroganti acqua non conforme  
-con acquedotti limitrofi indenni, previa esclusione delle fonti di approvvigionamento maggiormente inquinate;
+b) interconnessione degli acquedotti eroganti acqua non conforme con acquedotti limitrofi indenni, previa esclusione delle fonti di approvvigionamento maggiormente inquinate;
 
-c) ristrutturazione e potenziamento degli acquedotti esistenti  
-mediante perforazione di nuovi pozzi;
+c) ristrutturazione e potenziamento degli acquedotti esistenti mediante perforazione di nuovi pozzi;
 
-d) realizzazione, nei casi in cui sia necessario, di nuovi  
-acquedotti.
+d) realizzazione, nei casi in cui sia necessario, di nuovi acquedotti.
 
-3. La composizione della Conferenza di cui al comma 1 e' integrata,  
-in via permanente, dal Ministro per gli affari regionali ed i problemi istituzionali, nonche', limitatamente alla discussione ed alla deliberazione relative agli interventi di cui al comma 1, dal Ministro per il coordinamento della protezione civile, dal presidente della giunta della regione Friuli-Venezia Giulia e dal presidente della regione Marche; il comitato tecnico della medesima Conferenza e' integrato con i rappresentanti designati dal Ministro per il coordinamento della protezione civile e dalle predette regioni.
+3. La composizione della Conferenza di cui al comma 1 e' integrata, in via permanente, dal Ministro per gli affari regionali ed i problemi istituzionali, nonche', limitatamente alla discussione ed alla deliberazione relative agli interventi di cui al comma 1, dal Ministro per il coordinamento della protezione civile, dal presidente della giunta della regione Friuli-Venezia Giulia e dal presidente della regione Marche; il comitato tecnico della medesima Conferenza e' integrato con i rappresentanti designati dal Ministro per il coordinamento della protezione civile e dalle predette regioni.
 
 Art. 12
 -------
@@ -153,23 +199,11 @@ Art. 12
 Finanziamento dei progetti  
 per il rifornimento idrico alternativo
 
-1. Il fondo per la protezione civile, istituito con l'[articolo 2  
-del decreto-legge 10 luglio 1982, n. 428](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1982-07-10;428~art2), convertito, con modificazioni, dalla [legge 12 agosto 1982, n. 547](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1982-08-12;547), e' integrato per l'anno 1989 dalla somma di lire 200 miliardi e per l'anno 1990 dalla somma di lire 375 miliardi per far fronte agli urgenti interventi, approvati con la procedura di cui all'articolo 11, diretti ad assicurare la potabilizzazione delle acque ed a superare le situazioni di crisi idrica nelle regioni Emilia-Romagna, Friuli-Venezia Giulia, Lombardia, Marche, Piemonte e Veneto derivanti dalla contaminazione da diserbanti.
+1. Il fondo per la protezione civile, istituito con l'[articolo 2 del decreto-legge 10 luglio 1982, n. 428](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1982-07-10;428~art2), convertito, con modificazioni, dalla [legge 12 agosto 1982, n. 547](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1982-08-12;547), e' integrato per l'anno 1989 dalla somma di lire 200 miliardi e per l'anno 1990 dalla somma di lire 375 miliardi per far fronte agli urgenti interventi, approvati con la procedura di cui all'articolo 11, diretti ad assicurare la potabilizzazione delle acque ed a superare le situazioni di crisi idrica nelle regioni Emilia-Romagna, Friuli-Venezia Giulia, Lombardia, Marche, Piemonte e Veneto derivanti dalla contaminazione da diserbanti.
 
-2. Il Ministro per il coordinamento della protezione civile, con i  
-poteri di cui al [secondo comma dell'articolo 1 del decreto-legge 12 novembre 1982, n. 829](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1982-11-12;829~art1-com2), convertito, con modificazioni, dalla [legge 23 dicembre 1982, n. 938](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1982-12-23;938), provvede, con proprie ordinanze, emanate d'intesa con i Ministri dell'ambiente, della sanita' e del tesoro, all'attuazione delle disposizioni di cui al comma 1.
+2. Il Ministro per il coordinamento della protezione civile, con i poteri di cui al [secondo comma dell'articolo 1 del decreto-legge 12 novembre 1982, n. 829](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1982-11-12;829~art1-com2), convertito, con modificazioni, dalla [legge 23 dicembre 1982, n. 938](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1982-12-23;938), provvede, con proprie ordinanze, emanate d'intesa con i Ministri dell'ambiente, della sanita' e del tesoro, all'attuazione delle disposizioni di cui al comma 1.
 
-3. All'onere derivante dall'attuazione del presente articolo, pari  
-a lire 200 miliardi nel 1989 ed a lire 375 miliardi nel 1990, si provvede:
-
-a) quanto a lire 200 miliardi nel 1989, mediante corrispondente  
-riduzione dello stanziamento iscritto al capitolo 7511 dello stato di previsione del Ministero del bilancio e della programmazione economica per il medesimo anno, all'uopo intendendosi corrispondentemente ridotta a lire 1.500 miliardi l'autorizzazione di spesa di cui all'[articolo 17, comma 31, della legge 11 marzo 1988, n. 67](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-03-11;67~art17-com31), e successive modificazioni, ed a lire 665 miliardi la quota di detta autorizzazione riservata agli interventi di tutela ambientale;
-
-b) quanto a lire 375 miliardi nel 1990, mediante utilizzo della  
-proiezione per l'anno medesimo dello stanziamento iscritto, ai fini del bilancio triennale 1989-1991, al capitolo 9001 dello stato di previsione del Ministero del tesoro per l'anno 1989, all'uopo parzialmente utilizzando, quanto a lire 200 miliardi, l'accantonamento "Rifinanziamento progetti FIO e quota ammortamento mutui BEI" e, quanto a lire 175 miliardi, l'accantonamento "Difesa del suolo ivi comprese le opere necessarie alla sistemazione idrogeologica del fiume Arno".
-
-4. Il Ministro del tesoro e' autorizzato ad apportare, con propri  
-decreti, le occorrenti variazioni di bilancio.
+3. All'onere derivante dall'attuazione del presente articolo si provvede a carico del capitolo 7600 dello stato di previsione della Presidenza del Consiglio dei Ministri per l'anno 1989 e corrispondente capitolo per l'anno 1990.
 
 Art. 13
 -------
@@ -177,17 +211,13 @@ Art. 13
 Potenziamento dei ruoli del personale  
 del Ministero della sanita'
 
-1. Per far fronte alle esigenze dell'area igienico-sanitaria, ai  
-fini del raggiungimento degli obiettivi di cui al presente decreto, le dotazioni organiche dei ruoli dei dirigenti del Ministero della sanita', di cui al decreto del Presidente della Repubblica 30 giugno l972, n. 748, e successive modificazioni ed integrazioni, sono incrementate nelle misure di cui all'allegata tabella A. Sono altresi' incrementate le dotazioni organiche dell'VIII e VII livello funzionale, nelle misure di cui all'allegata tabella B.
+1. Per far fronte alle esigenze dell'area igienico-sanitaria, ai fini del raggiungimento degli obiettivi di cui al presente decreto, le dotazioni organiche dei ruoli dei dirigenti del Ministero della sanita', di cui al decreto del Presidente della Repubblica 30 giugno l972, n. 748, e successive modificazioni ed integrazioni, sono incrementate nelle misure di cui all'allegata tabella A. Sono altresi' incrementate le dotazioni organiche dell'VIII e VII livello funzionale, nelle misure di cui all'allegata tabella B.
 
-2. I posti disponibili nelle qualifiche di primo dirigente, alla  
-data di entrata in vigore della legge di conversione del presente decreto, sono conferiti mediante concorso speciale per esami. Si applicano le disposizioni di cui all'[articolo 2 della legge 10 luglio 1984, n. 301](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1984-07-10;301~art2).
+2. I posti disponibili nelle qualifiche di primo dirigente, alla data di entrata in vigore della legge di conversione del presente decreto, sono conferiti mediante concorso speciale per esami. Si applicano le disposizioni di cui all'[articolo 2 della legge 10 luglio 1984, n. 301](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1984-07-10;301~art2).
 
-3. All'onere derivante dall'attuazione del presente articolo,  
-valutato in lire 800 milioni in ragione d'anno, si provvede mediante utilizzo di quota parte delle maggiori entrate derivanti dall'applicazione dell'articolo 8.
+3. All'onere derivante dall'attuazione del presente articolo, valutato in lire 800 milioni in ragione d'anno, si provvede mediante utilizzo di quota parte delle maggiori entrate derivanti dall'applicazione dell'articolo 8.
 
-4. Il Ministro del tesoro e' autorizzato ad apportare, con propri  
-decreti, le occorrenti variazioni di bilancio.
+4. Il Ministro del tesoro e' autorizzato ad apportare, con propri decreti, le occorrenti variazioni di bilancio.
 
 Art. 14
 -------
@@ -195,53 +225,37 @@ Art. 14
 Competenze delle regioni a statuto speciale  
 e province autonome
 
-1. Sono fatte salve le competenze delle regioni a statuto speciale  
-e delle province autonome di Trento e Bolzano.
+1. Sono fatte salve le competenze delle regioni a statuto speciale e delle province autonome di Trento e Bolzano.
 
 Art. 15
 -------
 
 S a n z i o n i
 
-1. Chiunque impiega o vende sostanze attive diserbanti in  
-violazione del divieto di cui all'articolo 1 e' punito con l'arresto fino a tre anni o con l'ammenda da lire duecentocinquantamila fino a cinque milioni.
+1. Chiunque impiega o vende sostanze attive diserbanti in violazione del divieto di cui all'articolo 1 e' punito con l'arresto fino a tre anni o con l'ammenda da lire duecentocinquantamila fino a cinque milioni.
 
 Art. 16
 -------
 
 Aggiornamento del piano regolatore degli acquedotti
 
-1. E' autorizzata la spesa di lire 10 miliardi, di cui lire 5   
-miliardi nell'anno 1989 e lire 5 miliardi nell'anno 1990, per l'aggiornamento e l'adeguamento, da parte del Ministro dei lavori pubblici, di concerto con il Ministro dell'ambiente e sentite le regioni, del piano regolatore generale degli acquedotti. Il relativo programma di studi e indagini e' finalizzato prioritariamente alla individuazione a livello nazionale di aree a rischio di crisi idrica ed alla elaborazione di un piano di interventi organici ed integrati atti a prevenire le emergenze.
+1. E' autorizzata la spesa di lire 10 miliardi, di cui lire 5 miliardi nell'anno 1989 e lire 5 miliardi nell'anno 1990, per l'aggiornamento e l'adeguamento, da parte del Ministro dei lavori pubblici, di concerto con il Ministro dell'ambiente e sentite le regioni, del piano regolatore generale degli acquedotti. Il relativo programma di studi e indagini e' finalizzato prioritariamente alla individuazione a livello nazionale di aree a rischio di crisi idrica ed alla elaborazione di un piano di interventi organici ed integrati atti a prevenire le emergenze.
 
-2. All'onere derivante dall'attuazione del presente articolo si   
-provvede mediante corrispondente riduzione dello stanziamento iscritto, ai fini del bilancio triennale 1989-91, al capitolo 9001 dello stato di previsione del Ministero del tesoro per l'anno 1989, all'uopo parzialmente utilizzando, in ragione di lire 5 miliardi per ciascuno degli anni 1989 e 1990, l'accantonamento "Difesa del suolo ivi comprese le opere necessarie alla sistemazione idrogeologica del fiume Arno".
-
-3. Il Ministro del tesoro e' autorizzato ad apportare, con propri   
-decreti, le occorrenti variazioni di bilancio.
+2. All'onere derivante dall'attuazione del presente articolo si provvede a carico del capitolo 7014 dello stato di previsione del Ministero dei lavori pubblici per l'anno 1989 e corrispondente capitolo per l'anno 1990.
 
 Art. 17
 -------
 
-Successione di decreti-legge
-
-1. Le disposizioni del presente decreto sostituiscono quelle del  
-[decreto-legge 14 giugno 1989, n. 229](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1989-06-14;229).
-
-Art. 18
--------
-
 Entrata in vigore
 
-1. Il presente decreto entra in vigore il giorno successivo a  
-quello della sua pubblicazione nella Gazzetta Ufficiale della Repubblica italiana e sara' presentato alle Camere per la conversione in legge.
+1. Il presente decreto entra in vigore il giorno stesso della sua pubblicazione nella Gazzetta Ufficiale della Repubblica italiana e sara' presentato alle Camere per la conversione in legge.
 
-Il presente decreto, munito del sigillo dello Stato, sara' inserito
--------------------------------------------------------------------
+Il presente decreto, munito del sigillo dello Stato, sara' inserito nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+### Dato a Roma, addi' 6 dicembre 1989
 
-Dato a Roma, addi' 4 agosto 1989 COSSIGA
+COSSIGA
 
 ANDREOTTI, Presidente del Consiglio dei Ministri
 
@@ -255,30 +269,89 @@ CARLI, Ministro del tesoro
 
 MANNINO, Ministro dell'agricoltura e delle foreste
 
-MACCANICO, Ministro per gli affari regionali e i problemi istituzionali
-
 VASSALLI, Ministro di grazia e giustizia
 
 PRANDINI, Ministro dei lavori pubblici
 
+LATTANZIO, Ministro per il coordinamento della protezione civile
+
+MACCANICO, Ministro per gli affari regionali e i problemi istituzionali
+
 Visto, il Guardasigilli: VASSALLI
 
-Tabelle
+Tabella A
 
- TABELLA A   
+  
+  
+TABELLA A (prevista dall'art. 13)   
+INCREMENTO DELLE DOTAZIONI ORGANICHE DEI  
+RUOLI DIRIGENZIALI DEL MINISTERO DELLA SANITA'  
+====================================================================  
+Livello Posti Posti  
+di funzione Qualifica di qualifica Funzione di funzione  
+--------------------------------------------------------------------  
+Quadro E - DIRIGENTI CHIMICI  
+D Dirigente 2 Ispettore 2  
+superiore generale o  
+consigliere  
+ministeriale  
+aggiunto  
+E Primo 4 Direttore 4  
+dirigente di divisione  
+o vice consi-  
+sigliere mini-  
+steriale o  
+ispettore capo  
+====================================================================  
+Livello Posti Posti  
+di funzione Qualifica di qualifica Funzione di funzione  
+--------------------------------------------------------------------  
+Quadro F - DIRIGENTI FARMACISTI  
+E Primo 1 Direttore 1  
+dirigente di divisione  
+o vice con-  
+sigliere mini-  
+steriale o  
+ispettore capo  
+Quadro G - DIRIGENTI INGEGNERI  
+D Dirigente 1 Ispettore 1  
+superiore generale o  
+consigliere  
+ministeriale  
+aggiunto  
+E Primo 1 Direttore 1  
+dirigente di divisione  
+o vice consi-  
+sigliere mini-  
+steriale o  
+ispettore capo  
+Quadro M - DIRIGENTI ANALISTI  
+DI ORGANIZZAZIONE E METODO  
+E Primo 1 Direttore 1  
+dirigente di divisione  
+o vice consi-  
+sigliere mini-  
+steriale o  
+ispettore capo  
+  
+  
+  
+
+Tabella B
+
+  
+  
+TABELLA B  
 (prevista dall'art. 13)   
-INCREMENTO DELLE DOTAZIONI ORGANICHE DEI   
-RUOLI DIRIGENZIALI DEL MINISTERO DELLA SANITA'   
+===================================================================  
+Livello Profilo Posti in aumento  
+ANALISTI DI ORGANIZZAZIONE E METODO  
+VIII Analista. . . . . . . . . . . . . . 1  
+CHIMICI  
+VII Chimico . . . . . . . . . . . . . . 5  
+FARMACISTI  
+VII Farmacista . . . . . . . . . . . . . 4  
+INGEGNERI  
+VII Ingegnere. . . . . . . . . . . . . . 2  
   
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=089G035800100010110001&dgu=1989-08-07&art.dataPubblicazioneGazzetta=1989-08-07&art.codiceRedazionale=089G0358)
-  
-  
-  
-  
-TABELLA B   
-(prevista dall'art. 13)   
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=089G035800100010110002&dgu=1989-08-07&art.dataPubblicazioneGazzetta=1989-08-07&art.codiceRedazionale=089G0358)
   

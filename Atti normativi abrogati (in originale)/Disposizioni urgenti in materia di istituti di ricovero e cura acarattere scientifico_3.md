@@ -1,14 +1,14 @@
-DECRETO-LEGGE 02 aprile 1996 n. 177
+DECRETO-LEGGE 31 gennaio 1996 n. 35
 
 
-DECRETO-LEGGE 02 aprile 1996 n. 177
+DECRETO-LEGGE 31 gennaio 1996 n. 35
 ===================================
 
 Disposizioni urgenti in materia di istituti di ricovero e cura a 
 carattere scientifico.
 ----------------------------------------------------------------------------------------
 
-Entrata in vigore del decreto: 2-4-1996.Decreto-Legge decaduto per mancata conversione.
+Entrata in vigore del decreto: 1/2/1996.Decreto-Legge decaduto per mancata conversione.
 
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
@@ -17,7 +17,7 @@ Visti gli [articoli 77](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:cost
 
 Ritenuta la straordinaria necessita' ed urgenza di emanare disposizioni concernenti l'attivita' degli istituti di ricovero e cura a carattere scientifico;
 
-Vista la deliberazione del Consiglio dei Ministri, adottata nella riunione del 1 aprile 1996;
+Vista la deliberazione del Consiglio dei Ministri, adottata nella riunione del 29 gennaio 1996;
 
 Sulla proposta del Presidente del Consiglio dei Ministri e Ministro del tesoro e del Ministro della sanita', di concerto con il Ministro dell'universita' e della ricerca scientifica e tecnologica;
 
@@ -107,11 +107,9 @@ Entrata in vigore
 Il presente decreto, munito del sigillo dello Stato, sara' inserito nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 2 aprile 1996
+### Dato a Roma, addi' 31 gennaio 1996
 
-Il Presidente del Senato della Repubblica nell'esercizio delle
-
-funzioni del Presidente della Repubblica, ai sensi dell'articolo 86 della Costituzione SCOGNAMIGLIO PASINI
+SCALFARO
 
 DINI, Presidente del Consiglio dei Ministri e Ministro del tesoro
 
@@ -119,4 +117,4 @@ GUZZANTI, Ministro della sanita'
 
 SALVINI, Ministro dell'universita' e della ricerca scientifica e tecnologica
 
-Visto, il Guardasigilli: CAIANIELLO
+Visto, il Guardasigilli: DINI

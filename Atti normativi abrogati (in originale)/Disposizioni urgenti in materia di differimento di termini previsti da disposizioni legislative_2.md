@@ -1,13 +1,13 @@
-DECRETO-LEGGE 28 aprile 1993 n. 130
+DECRETO-LEGGE 02 marzo 1993 n. 48
 
 
-DECRETO-LEGGE 28 aprile 1993 n. 130
-===================================
+DECRETO-LEGGE 02 marzo 1993 n. 48
+=================================
 
 Disposizioni urgenti in materia di differimento di termini previsti da disposizioni legislative.
 ------------------------------------------------------------------------------------------------
 
-Entrata in vigore del decreto: 2/5/1993.Decreto-Legge decaduto per mancata conversione.
+Entrata in vigore del decreto: 2/3/1993.Decreto-Legge decaduto per mancata conversione.
 
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
@@ -16,9 +16,9 @@ Visti gli [articoli 77](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:cost
 
 Ritenuta la straordinaria necessita' ed urgenza di emanare disposizioni in materia di differimento di termini previsti da disposizioni legislative;
 
-Vista la deliberazione del Consiglio dei Ministri, adottata nella riunione del 27 aprile 1993;
+Vista la deliberazione del Consiglio dei Ministri, adottata nella riunione del 1 marzo 1993;
 
-Sulla proposta del Presidente del Consiglio dei Ministri, di concerto con il Ministro del bilancio e della programmazione economica;
+Sulla proposta del Presidente del Consiglio dei Ministri, di concerto con i Ministri del tesoro e del bilancio e della programmazione economica;
 
 E M A N A il seguente decreto-legge:
 
@@ -50,24 +50,27 @@ Art. 4
 
 Rinvio del termine per l'approvazione del bilancio 1993 degli enti locali
 
-1. Per l'esercizio 1993 il termine di deliberazione dei bilanci di previsione degli enti locali, di cui all'[articolo 55 della legge 8 giugno 1990, n. 142](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-06-08;142~art55), resta fissato al 28 febbraio 1993. Decorso infruttuosamente il termine, l'organo regionale di controllo attiva immediatamente le procedure previste dal [comma 2 dell'articolo 39 della legge 8 giugno 1990, n. 142](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-06-08;142~art39-com2). Le province, i comuni e le comunita' montane, nelle more dell'approvazione dei bilanci di previsione da parte dell'organo di controllo, possono effettuare, per ciascun capitolo, spese in misura non superiore mensilmente ad un dodicesimo delle somme definitivamente previste nell'ultimo bilancio approvato, con esclusione delle spese tassativamente regolate dalla legge o non suscettibili di pagamento frazionato in dodicesimi.
+1. Per l'esercizio 1993 il termine di deliberazione dei bilanci di previsione degli enti locali, di cui all'[articolo 55 della legge 8 giugno 1990, n. 142](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-06-08;142~art55), e' prorogato al 28 febbraio 1993. Decorso infruttuosamente il termine, l'organo regionale di controllo attiva immediatamente le procedure previste dal [comma 2 dell'articolo 39 della legge 8 giugno 1990, n. 142](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-06-08;142~art39-com2). Le province, i comuni e le comunita' montane, nelle more dell'approvazione dei bilanci di previsione da parte dell'organo di controllo, possono effettuare, per ciascun capitolo, spese in misura non superiore mensilmente ad un dodicesimo delle somme definitivamente previste nell'ultimo bilancio approvato, con esclusione delle spese tassativamente regolate dalla legge o non suscettibili di pagamento frazionato in dodicesimi.
 
 Art. 5
 ------
 
-Universita' degli studi di Siena
+Finanziamento delle opere di edilizia scolastica
 
-1. Il [comma 7 dell'articolo 1 del decreto-legge 18 gennaio 1993, n. 9](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1993-01-18;9~art1-com7), convertito, con modificazioni, dalla [legge 18 marzo 1993, n. 67](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-03-18;67), e' sostituito dal seguente:   
-" 7. Le somme disponibili sul capitolo 8420 dello stato di previsione del Ministero dei lavori pubblici non impegnate al termine degli esercizi 1990 e 1992 sono conservate nel conto dei residui passivi per essere impegnate nell'esercizio 1993. Tali somme saranno erogate all'Universita' degli studi di Siena.".
+1. Il termine del 31 dicembre 1992, previsto dall'[articolo 1, comma 3, della legge 23 dicembre 1991, n. 430](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1991-12-23;430~art1-com3), e' differito al 31 dicembre 1993.
+
+2. Qualora l'ente locale non provveda entro il termine di cui   
+all'[articolo 11, comma 10, del decreto-legge 1 luglio 1986, n. 318](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1986-07-01;318~art11-com10), convertito, con modificazioni, dalla [legge 9 agosto 1986, n. 488](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1986-08-09;488), alla richiesta di mutuo, ovvero alla presentazione della documentazione relativa alla predetta richiesta entro il termine stabilito dalla Cassa depositi e prestiti nell'atto di adesione al finanziamento, ovvero all'affidamento delle opere entro sessanta giorni dalla comunicazione della concessione di mutuo, ai relativi adempimenti provvede un "commissario ad acta" nominato dalla regione;   
+ove la regione non provveda nel termine di trenta giorni "il commissatio ad acta" e' nominato dal commissario del Governo.
 
 Art. 6
 ------
 
 Interventi a favore della comunita' scientifica e delle associazioni di volontariato
 
-1. Il termine di cui all'[articolo 1 della legge 20 maggio 1991, n. 158](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1991-05-20;158~art1), concernente la proroga al 31 dicembre 1991 degli interventi in favore delle associazioni di volontariato di protezione civile, di cui all'[articolo 11 del decreto-legge 26 maggio 1984, n. 159](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1984-05-26;159~art11), convertito, con modificazioni, dalla [legge 24 luglio 1984, n. 363](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1984-07-24;363), e' differito fino alla emanazione dei provvedimenti previsti dall'[articolo 18 della legge 24 febbraio 1992, n. 225](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1992-02-24;225~art18), e, comunque, non oltre il 31 dicembre 1993. Nei predetti interventi deve ritenersi compresa la concessione di contributi finalizzati all'acquisto di mezzi ed attrezzature necessari per l'espletamento delle attivita' di soccorso in caso di emergenza.
+1. Il termine di cui all'[articolo 1 della legge 20 maggio 1991, n. 158](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1991-05-20;158~art1), concernente la proroga al 31 dicembre 1991 degli interventi in favore delle associazioni di volontariato di protezione civile, di cui all'[articolo 11 del decreto-legge 26 maggio 1984, n. 159](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1984-05-26;159~art11), convertito, con modificazioni, dalla [legge 24 luglio 1984, n. 363](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1984-07-24;363), e' differito fino alla emanazione dei provvedimenti previsti dall'[articolo 18 della legge 24 febbraio 1992, n. 225](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1992-02-24;225~art18), e, comunque, non oltre il 30 giugno 1993. Nei predetti interventi deve ritenersi compresa la concessione di contributi finalizzati all'acquisto di mezzi ed attrezzature necessari per l'espletamento delle attivita' di soccorso in caso di emergenza.
 
-2. Il termine di cui all'[articolo 1 della legge 20 maggio 1991, n. 158](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1991-05-20;158~art1), concernente la proroga al 31 dicembre 1991 degli interventi in favore della comunita' scientifica di cui all'[articolo 9 del decreto- legge 26 maggio 1984, n. 159](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1984-05-26;159~art9), convertito, con modificazioni, dalla [legge 24 luglio 1984, n. 363](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1984-07-24;363), e' differito fino all'emanazione dei provvedimenti previsti dall'[articolo 17 della legge 24 febbraio 1992, n. 225](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1992-02-24;225~art17), e, comunque, non oltre il 31 dicembre 1993. Il Ministro per il coordinamento della protezione civile e' altresi' autorizzato a stipulare con istituti, gruppi ed enti di ricerca apposite convenzioni per il perseguimento di specifiche finalita' di protezione civile.
+2. Il termine di cui all'[articolo 1 della legge 20 maggio 1991, n. 158](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1991-05-20;158~art1), concernente la proroga al 31 dicembre 1991 degli interventi in favore della comunita' scientifica di cui all'[articolo 9 del decreto- legge 26 maggio 1984, n. 159](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1984-05-26;159~art9), convertito, con modificazioni, dalla [legge 24 luglio 1984, n. 363](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1984-07-24;363), e' differito fino all'emanazione dei provvedimenti previsti dall'[articolo 17 della legge 24 febbraio 1992, n. 225](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1992-02-24;225~art17), e, comunque, non oltre il 30 giugno 1993. Il Ministro per il coordinamento della protezione civile e' altresi' autorizzato a stipulare con istituti, gruppi ed enti di ricerca apposite convenzioni per il perseguimento di specifiche finalita' di protezione civile.
 
 3. Gli oneri relativi agli interventi di cui al presente articolo sono posti a carico del Fondo per la protezione civile, nei limiti degli appositi stanziamenti e delle corrispondenti disponibilita' di bilancio.
 
@@ -93,7 +96,7 @@ Disciplina omogenea del rapporto di impiego delle Forze di polizia e del persona
 
 1. I termini di cui all'[articolo 2, comma 1](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1992-03-06;216~art2-com1), e all'[articolo 3, comma 1, della legge 6 marzo 1992, n. 216](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1992-03-06;216~art3-com1), di conversione, con modificazioni, del [decreto-legge 7 gennaio 1992, n. 5](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1992-01-07;5), sono prorogati al 30 giugno 1993.
 
-2. All'[articolo 1, comma 5, del decreto-legge 18 gennaio 1992, n. 9](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1992-01-18;9~art1-com5), convertito, con modificazioni, dalla [legge 28 febbraio 1992, n. 217](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1992-02-28;217), e' aggiunto il seguente periodo: "L'Amministrazione ha altresi' facolta' di utilizzare, anche nel corso dell'anno 1993, per le vacanze risultanti al 30 giugno 1993, la graduatoria degli idonei al concorso a quarantanove posti di medico dei ruoli professionali dei sanitari della Polizia di Stato, indetto con decreto del Ministro dell'interno del 5 settembre 1991.".
+2. All'[articolo 1, comma 5, del decreto-legge 18 gennaio 1992, n. 9](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1992-01-18;9~art1-com5), convertito, con modificazioni, dalla [legge 28 febbraio 1992, n. 217](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1992-02-28;217), e' aggiunto il seguente periodo: "L'Amministrazione ha altresi' facolta' di utilizzare, anche nel corso dell'anno 1993, per le vacanze risultanti al 30 giugno 1993 la graduatoria degli idonei al concorso a quarantanove posti di medico dei ruoli professionali dei sanitari della Polizia di Stato, indetto con decreto del Ministro dell'interno del 5 settembre 1991.".
 
 3. Il termine di cui all'[articolo 11-quater del decreto-legge 21 settembre 1987, n. 387](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1987-09-21;387~art11quater), convertito, con modificazioni, dalla [legge 20 novembre 1987, n. 472](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1987-11-20;472), e' ulteriormente prorogato di un triennio.
 
@@ -102,10 +105,11 @@ Art. 10
 
 Progetti finalizzati
 
-1. La disciplina prevista dall'[articolo 26 della legge 11 marzo 1988, n. 67](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-03-11;67~art26), dall'[articolo 10 della legge 29 dicembre 1988, n. 554](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-12-29;554~art10), e dall'[articolo 65, comma 3, del decreto legislativo 3 febbraio 1993, n. 29](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-02-03;29~art65-com3), e' prorogata con le stesse modalita' fino al 31 dicembre 1995.   
-A tale scopo, il fondo per i progetti di cui al citato [articolo 26 della legge 11 marzo 1988, n. 67](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-03-11;67~art26), e' integrato di lire 24,5 miliardi per l'anno 1991, di lire 125 miliardi per l'anno 1992, di lire 20 miliardi per l'anno 1993 e di lire 70 miliardi per ciascuno degli anni 1994 e 1995. L'integrazione, nei limiti di lire 30 miliardi per l'anno 1992, lire 10 miliardi per l'anno 1993 e lire 40 miliardi per ciascuno degli anni 1994 e 1995, e' destinata alla realizzazione del "Progetto Efficienza Milano".
+1. La disciplina prevista dall'[articolo 26 della legge 11 marzo 1988, n. 67](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-03-11;67~art26), e dall'[articolo 10 della legge 29 dicembre 1988, n. 554](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-12-29;554~art10), e' differita con le stesse modalita' fino al 31 dicembre 1993.
 
-2. All'onere di cui al comma 1 si provvede, quanto a lire 24,5 miliardi per l'anno 1991 e lire 125 miliardi per l'anno 1992, a carico delle disponibilita' del capitolo 6872 dello stato di previsione del Ministero del tesoro per l'anno 1993 e, quanto a lire 20 miliardi per l'anno 1993 e lire 70 miliardi per ciascuno degli anni 1994 e 1995, mediante corrispondente riduzione dello stanziamento iscritto, ai fini del bilancio triennale 1993-1995, al capitolo 6856 dello stato di previsione del Ministero del tesoro per l'anno 1993, con parziale utilizzo dell'accantonamento relativo alla Presidenza del Consiglio dei Ministri. Il Ministro del tesoro e' autorizzato ad apportare, con propri decreti, le occorrenti variazioni di bilancio.
+2. Il fondo per i progetti di cui al citato [articolo 26 della legge 11 marzo 1988, n. 67](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-03-11;67~art26), e' determinato in lire 24,5 miliardi per ciascuno degli anni 1991 e 1992.
+
+3. Al relativo onere si provvede a carico delle disponibilita' del capitolo 6872 dello stato di previsione del Ministero del tesoro per l'anno 1993.
 
 Art. 11
 -------
@@ -120,7 +124,7 @@ Art. 12
 Nulla-osta provvisorio di prevenzione incendi. Sicurezza e   
 prevenzione incendi nei luoghi di spettacolo e intrattenimento.
 
-1. Il termine di centottanta giorni per il rilascio del nulla-osta provvisorio di prevenzione incendi, da parte dei comandi provinciali dei vigili del fuoco, previsto dal [quinto comma dell'articolo 2 della legge 7 dicembre 1984, n. 818](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1984-12-07;818~art2-com5), modificato dall'[articolo 1-bis del decreto-legge 21 giugno 1985, n. 288](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1985-06-21;288~art1bis), convertito, con modificazioni, dalla [legge 8 agosto 1985, n. 407](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1985-08-08;407), da ultimo prorogato ai sensi dell'[articolo 10 della legge 20 maggio 1991, n. 158](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1991-05-20;158~art10), decorre dal 1' gennaio 1993.
+1. Il termine di centottanta giorni per il rilascio del nulla-osta provvisorio di prevenzione incendi, da parte dei comandi provinciali dei vigili del fuoco, previsto dal [quinto comma dell'articolo 2 della legge 7 dicembre 1984, n. 818](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1984-12-07;818~art2-com5), modificato dall'[articolo 1-bis del decreto-legge 21 giugno 1985, n. 288](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1985-06-21;288~art1bis), convertito, con modificazioni, dalla [legge 8 agosto 1985, n. 407](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1985-08-08;407), da ultimo prorogato ai sensi dell'[articolo 10 della legge 20 maggio 1991, n. 158](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1991-05-20;158~art10), decorre dal 1 gennaio 1993.
 
 2. Nel termine di centottanta giorni dalla data di entrata in vigore del presente decreto, il Ministro dell'interno provvede, ai sensi del penultimo comma dell'[articolo 11 del decreto del Presidente della Repubblica 29 luglio 1982, n. 577](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1982-07-29;577~art11), alla emanazione delle norme tecniche organiche e coordinate di prevenzione incendi per i luoghi di spettacolo e intrattenimento cosi' come individuati dall'[articolo 17 della circolare del Ministro dell'interno n. 16 del 15 febbraio 1951](http://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.interno:circolare:1951-02-15;16~art17), e successive modificazioni. Entro lo stesso termine si provvede, altresi', sentito il Ministero del turismo e dello spettacolo, ad emanare la disciplina organica dei servizi di vigilanza, da realizzarsi all'interno dell'attivita' e dei compiti ispettivi affidati al Corpo nazionale dei vigili del fuoco.
 
@@ -131,14 +135,14 @@ Art. 13
 
 Interventi nel settore cantieristico e armatoriale
 
-1. Le somme disponibili in conto residui sui capitoli 7553, 7554, 7557, 7560 e 7581 dello stato di previsione del Ministero della marina mercantile per l'anno 1992, nonche' quelle disponibili in conto competenza sui capitoli 3575 e 1113 del medesimo stato di previsione per il medesimo anno, non utilizzate entro l'anno 1992, possono esserlo nell'esercizio successivo.
+1. Le somme disponibili in conto residui sui capitoli 7553, 7554, 7557, 7560 e 7581 dello stato di previsione del Ministero della marina mercantile per l'anno 1992, nonche' quelle iscritte ai capitoli 3575 e 1113 del medesimo stato di previsione per il medesimo anno, non utilizzate entro l'anno 1992, possono esserlo nell'esercizio successivo.
 
 Art. 14
 -------
 
 Programma di metanizzazione del Mezzogiorno
 
-1. Per consentire la prosecuzione nell'anno 1993 del programma operativo "metanizzazione" delle regioni dell'obiettivo 1, approvato con decisione della Commissione CEE n. C(89)2259/3 del 21 dicembre 1989, nell'ambito del [regolamento CEE n. 2052/88](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:31988R2052), le somme esistenti presso la Cassa depositi e prestiti per l'attuazione del programma generale di metanizzazione del Mezzogiorno, ai sensi dell'[articolo 11 della legge 28 novembre 1980, n. 784](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1980-11-28;784~art11), e successive modificazioni ed integrazioni, sono destinate al finanziamento della quota di competenza nazionale del predetto programma operativo. A tal fine la Cassa depositi e prestiti e' autorizzata a versare al conto corrente di tesoreria del fondo di rotazione di cui all'[articolo 5 della legge 16 aprile 1987, n. 183](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1987-04-16;183~art5), l'ammontare determinato dal CIPE per la successiva reiscrizione al capitolo 7802 dello stato di previsione del Tesoro.
+1. Per consentire la prosecuzione nell'anno 1993 del programma operativo "metanizzazione" delle regioni dell'obiettivo 1, approvato con decisione della commissione CEE n. C(89)2259/3 del 21 dicembre 1989, nell'ambito del [regolamento CEE n. 2052/88](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:31988R2052), le somme esistenti presso la Cassa depositi e prestiti per l'attuazione del programma generale di metanizzazione del Mezzogiorno, ai sensi dell'[articolo 11 della legge 28 novembre 1980, n. 784](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1980-11-28;784~art11), e successive modificazioni ed integrazioni, sono destinate al finanziamento della quota di competenza nazionale del predetto programma operativo. A tal fine la Cassa depositi e prestiti e' autorizzata a versare al conto corrente di tesoreria del fondo di rotazione di cui all'[articolo 5 della legge 16 aprile 1987, n. 183](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1987-04-16;183~art5), l'ammontare determinato dal CIPE per la successiva reiscrizione al capitolo 7802 dello stato di previsione del Tesoro.
 
 Art. 15
 -------
@@ -215,7 +219,7 @@ Art. 23
 
 Comitato per la cooperazione nelle zone del confine nord-orientale e nell'Adriatico
 
-1. Le funzioni del Comitato interministeriale di coordinamento delle attivita' di cooperazione nelle zone del confine nord-orientale e nell'Adriatico, istituito dall'[articolo 8 del decreto-legge 24 luglio 1992, n. 350](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1992-07-24;350~art8), convertito, con modificazioni, dalla [legge 24 settembre 1992, n. 390](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1992-09-24;390), sono prorogate per il triennio 1993-1995.
+1. Le funzioni del Comitato interministeriale di coordinamento delle attivita' di cooperazione nelle zone del confine nord-orientale e nell'Adriatico, istituito dall'[articolo 8 del decreto-legge 24 luglio 1992, n. 350](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1992-07-24;350~art8), convertito, con modificazioni, dalla [legge 24 settembre 1992, n. 390](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1992-09-24;390), sono prorogate per il triennio 1993-95.
 
 2. Per consentire il funzionamento del Comitato interministeriale di cui all'articolo 1, e' autorizzata la spesa di lire 100 milioni per ciascuno degli anni 1993, 1994 e 1995. Al relativo onere si provvede mediante corrispondente riduzione dello stanziamento iscritto, ai fini del bilancio triennale 1993-95, al capitolo 6856 dello stato di previsione del Ministero del tesoro per l'anno 1993, all'uopo parzialmente utilizzando l'accantonamento riguardante il Ministero degli affari esteri.
 
@@ -242,42 +246,20 @@ Centri commerciali all'ingrosso
 Art. 26
 -------
 
-Differimento di termini in materia sanitaria
-
-1. All'[articolo 11 del decreto legislativo 30 dicembre 1992, n. 502](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992-12-30;502~art11), sono apportate le seguenti modifiche:
-
-a) al comma 2 le parole: "nel primo trimestre" sono sostituite dalle seguenti: "nei primi cinque mesi del";
-
-b) al comma 7 le parole: "ai primi tre mesi del 1993" e "nel mese di aprile 1993" sono sostituite, rispettivamente, dalle seguenti: "ai primi cinque mesi del 1993" e "nel mese di giugno 1993";
-
-c) al comma 10 le parole: "all'intero primo trimestre 1993", "entro il 30 giugno 1993" e "nel primo trimestre 1993" sono sostituite, rispettivamente, dalle seguenti: "agli interi primi cinque mesi del 1993", "entro il 30 agosto 1993" e "nei primi cinque mesi del 1993";
-
-d) al comma 11 le parole: "il rendiconto del primo trimestre 1993 e' inviato alle regioni con il rendiconto del secondo trimestre 1993" sono sostituite dalle seguenti: "e' inviato alle regioni il rendiconto relativo al primo semestre 1993";
-
-e) al comma 16 le parole: "i primi sette mesi" sono sostituite dalle seguenti: "i primi nove mesi".
-
-Art. 27
--------
-
-Agecontrol S.p.a.
-
-1. Per l'espletamento dei controlli previsti dall'[articolo 1 del regolamento CEE n. 2262/84 in data 17 luglio 1984 del Consiglio](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:31984R2262), concernente misure speciali nel settore dell'olio d'oliva, e' autorizzata l'ulteriore spesa annua di lire 1.930 milioni a decorrere dall'anno 1993. Al relativo onere si provvede mediante corrispondente riduzione dello stanziamento iscritto, ai fini del bilancio triennale 1993-1995, al capitolo 6856 dello stato di previsione del Ministero del tesoro per l'anno 1993, all'uopo parzialmente utilizzando l'accantonamento relativo al Ministero dell'agricoltura e delle foreste.
-
-Art. 28
--------
-
 Entrata in vigore
 
-1. Il presente decreto entra in vigore il 2 maggio 1993 e sara' presentato alle Camere per la conversione in legge.
+1. Il presente decreto entra in vigore il giorno stesso della sua pubblicazione nella Gazzetta Ufficiale della Repubblica italiana e sara' presentato alle Camere per la conversione in legge.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserito nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 28 aprile 1993
+### Dato a Roma, addi' 2 marzo 1993
 
 SCALFARO
 
 AMATO, Presidente del Consiglio dei Ministri
+
+BARUCCI, Ministro del tesoro
 
 ANDREATTA, Ministro del bilancio e della programmazione economica
 

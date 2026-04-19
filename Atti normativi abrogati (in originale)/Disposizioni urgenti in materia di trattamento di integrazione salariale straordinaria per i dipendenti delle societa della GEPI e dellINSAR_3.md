@@ -1,13 +1,13 @@
-DECRETO-LEGGE 26 aprile 1994 n. 247
+DECRETO-LEGGE 24 giugno 1994 n. 405
 
 
-DECRETO-LEGGE 26 aprile 1994 n. 247
+DECRETO-LEGGE 24 giugno 1994 n. 405
 ===================================
 
 Disposizioni urgenti in materia di trattamento di integrazione salariale straordinaria per i dipendenti delle societa' della GEPI e dell'INSAR.
 -----------------------------------------------------------------------------------------------------------------------------------------------
 
-Entrata in vigore del decreto: 26-4-1994.Decreto-Legge decaduto per mancata conversione.
+Entrata in vigore del decreto: 26/06/1994.Decreto-Legge decaduto per mancata conversione.
 
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
@@ -16,7 +16,7 @@ Visti gli [articoli 77](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:cost
 
 Ritenuta la straordinaria necessita' ed urgenza di emanare disposizioni intese a prorogare i trattamenti di integrazione salariale straordinaria per i lavoratori della GEPI e dell'INSAR;
 
-Vista la deliberazione del Consiglio dei Ministri, adottata nella riunione del 22 aprile 1994;
+Vista la deliberazione del Consiglio dei Ministri, adottata nella riunione del 23 giugno 1994;
 
 Sulla proposta del Presidente del Consiglio dei Ministri e del Ministro del lavoro e della previdenza sociale, di concerto con i Ministri del tesoro e del bilancio e della programmazione economica;
 
@@ -38,21 +38,21 @@ Art. 1
 Art. 2
 ------
 
-1. Le disposizioni del presente decreto hanno effetto dal 23 aprile 1994. Il presente decreto entra in vigore il giorno stesso della sua pubblicazione nella Gazzetta Ufficiale della Repubblica italiana e sara' presentato alle Camere per la conversione in legge.
+1. Il presente decreto entra in vigore il giorno successivo a quello della sua pubblicazione nella Gazzetta Ufficiale della Repubblica italiana e sara' presentato alle Camere per la conversione in legge.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserito nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 26 aprile 1994
+### Dato a Roma, addi' 24 giugno 1994
 
 SCALFARO
 
-CIAMPI, Presidente del Consiglio dei Ministri
+BERLUSCONI, Presidente del Consiglio dei Ministri
 
-GIUGNI, Ministro del lavoro e della previdenza sociale
+MASTELLA, Ministro del lavoro e della previdenza sociale
 
-BARUCCI, Ministro del tesoro
+DINI, Ministro del tesoro
 
-SPAVENTA, Ministro del bilancio e della programmazione economica
+PAGLIARINI, Ministro del bilancio e della programmazione economica
 
-Visto, il Guardasigilli: CONSO
+Visto, il Guardasigilli: BIONDI

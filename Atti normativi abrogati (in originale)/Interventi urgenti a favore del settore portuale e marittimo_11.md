@@ -1,13 +1,13 @@
-DECRETO-LEGGE 16 febbraio 1996 n. 65
+DECRETO-LEGGE 18 ottobre 1995 n. 433
 
 
-DECRETO-LEGGE 16 febbraio 1996 n. 65
+DECRETO-LEGGE 18 ottobre 1995 n. 433
 ====================================
 
 Interventi urgenti a favore del settore portuale e marittimo.
 -------------------------------------------------------------
 
-Entrata in vigore del decreto: 19/2/1996.Decreto-Legge decaduto per mancata conversione.
+Entrata in vigore del decreto: 22/10/1995.Decreto-Legge decaduto per mancata conversione.
 
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
@@ -16,7 +16,7 @@ Visti gli [articoli 77](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:cost
 
 Ritenuta la straordinaria necessita' ed urgenza di emanare disposizioni a completamento della complessiva riforma dell'ordinamento portuale;
 
-Vista la deliberazione del Consiglio dei Ministri, adottata nella riunione del 16 febbraio 1996;
+Vista la deliberazione del Consiglio dei Ministri, adottata nella riunione del 17 ottobre 1995;
 
 Sulla proposta del Presidente del Consiglio dei Ministri e Ministro del tesoro e del Ministro dei trasporti e della navigazione, di concerto con i Ministri del lavoro e della previdenza sociale, del bilancio e della programmazione economica, delle finanze e per la famiglia e la solidarieta' sociale;
 
@@ -29,7 +29,7 @@ Interventi urgenti a favore del settore portuale e marittimo
 
 1. Il contingente di cui all'[articolo 3, comma 1, del decreto-legge 22 gennaio 1990, n. 6](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1990-01-22;6~art3-com1), convertito, con modificazioni, dalla [legge 24 marzo 1990, n. 58](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-03-24;58), e' integrato di 1.000 unita' relativamente ai lavoratori ed ai dipendenti delle compagnie e gruppi portuali, ivi compresi quelli della Compagnia carenanti del porto di Genova e del Fondo gestione istituti contrattuali lavoratori portuali in liquidazione di cui all'articolo 1, comma 1, del citato [decreto-legge n. 6 del 1990](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1990;6), e di ulteriori 1.000 unita' relativamente ai dipendenti degli enti portuali e delle aziende dei mezzi meccanici, intendendosi il termine del 31 dicembre 1993 prorogato, rispettivamente, al 31 dicembre 1995 ed al 31 dicembre 1996.
 
-2. Ai fini degli esodi di cui al comma 1, il Ministro dei trasporti e della navigazione, entro trenta giorni dalla data di entrata in vigore del presente decreto, individua termini, criteri e modalita', riconoscendo priorita', nell'ambito delle eccedenze di ciascuna dotazione organica delle compagnie e gruppi portuali, a coloro che hanno presentato la domanda e maturato i requisiti entro il 31 dicembre 1992. Con decreto determina le dotazioni organiche e relative eccedenze, suddivise per categorie e livelli professionali, sulla base di specifici progetti di riorganizzazione e dei piani di esodi predisposti da parte degli enti interessati, tenendo conto dell'andamento dei traffici dell'ultimo biennio ed in prospettiva. Ai lavoratori delle compagnie e gruppi portuali che non abbiano maturato i requisiti entro il 31 dicembre 1993 e' consentito il recupero volontario delle marche contributive relative al periodo di occasionalato, senza onere per lo Stato. E fatto divieto di procedere ad assunzioni in presenza di eccedenze.
+2. Ai fini degli esodi di cui al comma 1, il Ministro dei trasporti e della navigazione, entro trenta giorni dalla data di entrata in vigore del presente decreto, individua termini, criteri e modalita', riconoscendo priorita', nell'ambito delle eccedenze di ciascuna dotazione organica delle compagnie e gruppi portuali, a coloro che hanno presentato la domanda e maturato i requisiti entro il 31 dicembre 1992. Con decreto determina le dotazioni organiche e relative eccedenze, suddivise per categorie e livelli professionali, sulla base di specifici progetti di riorganizzazione e dei piani di esodi predisposti da parte degli enti interessati, tenendo conto dell'andamento dei traffici dell'ultimo biennio ed in prospettiva. Ai lavoratori delle compagnie e gruppi portuali che non abbiano maturato i requisiti entro il 31 dicembre 1993 e' consentito il recupero volontario delle marche contributive relative al periodo di occasionalato, senza onere per lo Stato. E' fatto divieto di procedere ad assunzioni in presenza di eccedenze.
 
 3. Per le finalita' di cui ai commi 1 e 2 si applicano le disposizioni di cui all'[articolo 3, commi 1-bis](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1990-01-22;6~art3-com1bis) e [8, del decreto-legge 22 gennaio 1990, n. 6](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1990-01-22;6~art3-com8), convertito, con modificazioni, dalla [legge 24 marzo 1990, n. 58, ed agli articoli 8-bis](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-03-24;58~art8bis) e [9, commi 1](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-03-24;58~art9-com1), [4](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-03-24;58~art9-com4), [5](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-03-24;58~art9-com5), [6](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-03-24;58~art9-com6), [8](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-03-24;58~art9-com8) e [9](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-03-24;58~art9-com9), del [decreto-legge 17 dicembre 1986, n. 873](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1986-12-17;873), convertito, con modificazioni, dalla [legge 13 febbraio 1987, n. 26](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1987-02-13;26).  
 Ai lavoratori e dipendenti, posti in pensionamento anticipato, e' concesso l'aumento dell'anzianita' contributiva per un periodo massimo di otto anni e comunque non superiore alla differenza tra la data di risoluzione del rapporto o di cancellazione dai ruoli e quella di raggiungimento del sessantesimo anno di eta', ovvero al periodo necessario al compimento di quaranta anni di contribuzione previdenziale. Ai trattamenti pensionistici di cui al presente articolo si applicano i vigenti regimi di incumulabilita' e di incompatibilita' previsti per i trattamenti pensionistici di anzianita'. Per i lavoratori titolari di pensioni o assegni di invalidita' a carico dell'INPS, per i quali sussistono i requisiti per il pensionamento anticipato, l'accoglimento della domanda comporta la corresponsione di un supplemento di pensione secondo i criteri e le condizioni di cui al presente comma. Il trattamento pensionistico del personale iscritto alla CPDEL terra' conto degli eventuali elementi retributivi sinora non compresi nel computo e di fatto corrisposti, previo versamento volontario dei relativi oneri contributivi da parte dei lavoratori posti in prepensionamento ai sensi del presente decreto.
@@ -40,13 +40,14 @@ Ai lavoratori e dipendenti, posti in pensionamento anticipato, e' concesso l'aum
 
 6. L'onere connesso alla corresponsione del trattamento di fine servizio e delle indennita' contrattuali e del trattamento di fine rapporto relativi al pensionamento anticipato a favore, rispettivamente, dei lavoratori e dei dipendenti delle compagnie e gruppi portuali, nonche' dei lavoratori dell'ex gruppo di portabagagli di Olbia e di Porto Torres gia' in quiescenza e non ancora liquidati a tale titolo, fa carico alla gestione di cui al comma 5. A tal fine il commissario liquidatore del Fondo provvede, con le modalita' di cui all'[articolo 4 del decreto-legge 22 gennaio 1990, n. 6](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1990-01-22;6~art4), convertito, con modificazioni, dalla [legge 24 marzo 1990, n. 58](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-03-24;58), alla contrazione di un mutuo per un importo pari a lire 91 miliardi. Le disposizioni di cui all'[articolo 3, comma primo, del decreto-legge 6 aprile 1983, n. 103](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1983-04-06;103~art3-com1), convertito, con modificazioni, dalla [legge 23 maggio 1983, n. 230](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1983-05-23;230), e le successive disposizioni relative alla corresponsione delle competenze dovute ai dipendenti delle compagnie e gruppi portuali si intendono riferite al solo trattamento di fine rapporto. L'onere connesso alle competenze di fine servizio dei dipendenti dagli enti portuali e dalle aziende dei mezzi meccanici e' a carico della gestione del Fondo di cui al comma 5 nell'ambito dei piani triennali di esodo di cui al comma 2, limitatamente agli enti portuali ed aziende dei mezzi meccanici che non abbiano gli accantonamenti in termini finanziari. Le competenze di cui al presente comma, ivi comprese quelle gia' corrisposte a tale titolo, non sono soggette a rivalutazione o ad altri oneri finanziari.
 
-7. La gestione commissariale del Fondo di cui al comma 5 e' autorizzata ad erogare alle compagnie ed ai gruppi portuali, sulla base di apposita rendicontazione, la quota del trenta per cento del trattamento di fine servizio maturato al 31 gennaio 1990 dai lavoratori portuali per un ammontare pari a lire 54.775.587.663. La medesima gestione e' autorizzata, altresi', a rimborsare all'INPS la somma di lire 30.705.765.778 ad esso dovuta a titolo di maggiori oneri connessi al pensionamento anticipato dei lavoratori e dipendenti delle compagnie portuali ai sensi dell'[articolo 3 del decreto-legge 22 gennaio 1990, n. 6](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1990-01-22;6~art3), convertito, con modificazioni, dalla [legge 24 marzo 1990, n. 58](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-03-24;58), nel triennio 1990-1992.
+7. La gestione commissariale del Fondo di cui al comma 5 e' autorizzata ad erogare alle compagnie ed ai gruppi portuali, sulla base di apposita rendicontazione, la quota del trenta per cento del trattamento di fine servizio maturato al 31 gennaio 1990 dai lavoratori portuali per un ammontare pari a L. 54.775.587.663. La medesima gestione e' autorizzata, altresi', a rimborsare all'INPS la somma di L. 30.705.765.778 ad esso dovuta a titolo di maggiori oneri connessi al pensionamento anticipato dei lavoratori e dipendenti delle compagnie portuali ai sensi dell'[articolo 3 del decreto-legge 22 gennaio 1990, n. 6](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1990-01-22;6~art3), convertito, con modificazioni, dalla [legge 24 marzo 1990, n. 58](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-03-24;58), nel triennio 1990-1992.
 
 8. I termini per la presentazione delle domande per l'attuazione degli interventi di integrazione salariale di cui al [comma 15 dell'articolo 6 del decreto-legge 20 maggio 1993, n. 148](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1993-05-20;148~art6-com15), convertito, con modificazioni, dalla [legge 19 luglio 1993, n. 236](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-07-19;236), nonche' le sospensioni dal lavoro sono prorogati al 31 dicembre 1996, intendendosi altresi' prorogato l'utilizzo delle somme stanziate allo scopo.
 
 9. Il beneficio di integrazione salariale di cui all'[articolo 1, comma 1, del decreto-legge 7 settembre 1992, n. 370](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1992-09-07;370~art1-com1), convertito dalla [legge 5 novembre 1992, n. 428](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1992-11-05;428), e' concesso nell'anno 1994 nel limite di ulteriori 1.800 unita', ivi compresa la regolazione delle eccedenze dell'anno 1993. Detto beneficio, qualora non utilizzato pienamente nell'anno 1994, viene prorogato fino al 30 giugno 1995. Il relativo onere e' a carico della gestione del Fondo di cui al comma 5 ed e' rimborsato dall'INPS su conforme rendicontazione. Qualora gli interventi di cui all'articolo 1, comma 2, del citato [decreto-legge n. 370 del 1992](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1992;370), risultino non conformi alla normativa comunitaria in materia, il Governo attiva le procedure per il recupero delle somme erogate alle compagnie e gruppi portuali, unitamente ai relativi interessi legali.
 
-10. Il commissario liquidatore di cui all'[articolo 4, comma 1, del decreto-legge 22 gennaio 1990, n. 6](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1990-01-22;6~art4-com1), convertito, con modificazioni, dalla [legge 24 marzo 1990, n. 58](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-03-24;58), provvede agli adempimenti contrattuali inerenti la prosecuzione della gestione della casa di soggiorno per lavoratori portuali in Dovadola fino al 31 dicembre 1995. L'onere derivante dal presente comma, pari a lire un miliardo, e' posto a carico della gestione commissariale di cui al comma 5.
+10. Il commissario liquidatore di cui all'[articolo 4, comma 1, del decreto-legge 22 gennaio 1990, n. 6](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1990-01-22;6~art4-com1), convertito, con modificazioni, dalla [legge 24 marzo 1990, n. 58](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-03-24;58), provvede agli adempimenti contrattuali inerenti la prosecuzione della gestione della casa di soggiorno per lavoratori portuali in Dovadola fino al 31 dicembre 1995.  
+L'onere derivante dal presente comma, pari a lire un miliardo, e' posto a carico della gestione commissariale di cui al comma 5.
 
 11. Per l'attuazione dei commi da 1 a 10 sono autorizzati, in favore della gestione commissariale del Fondo di cui al comma 5, gli ulteriori limiti di impegno di lire 60 miliardi per ciascuno degli anni 1995 e 1996. Al relativo onere di lire 60 miliardi, per l'anno 1995, e di lire 120 miliardi, per l'anno 1996, si provvede a carico dello stanziamento iscritto al capitolo 4571 dello stato di previsione del Ministero del tesoro per l'anno 1995 e corrispondenti capitoli per gli anni successivi.
 
@@ -97,10 +98,11 @@ l) da sei rappresentanti dei lavoratori, dei quali cinque eletti dai lavoratori 
 " 1. Con decreto del Ministro dei trasporti e della navigazione e' istituita in ogni porto una commissione consultiva composta da cinque rappresentanti dei lavoratori delle imprese che operano nel porto, da un rappresentante dei dipendenti dell'autorita' portuale o dell'organizzazione portuale e da sei rappresentanti delle categorie imprenditoriali, designati secondo le procedure indicate all'articolo 9, comma 1, lettere i) ed l). Nei porti ove non esista autorita' portuale i rappresentanti dei lavoratori delle imprese sono in numero di sei. La commissione e' presieduta dal presidente dell'autorita' portuale ovvero, laddove non istituita, dal comandante del porto.".
 
 8. Dopo il [comma 1 dell'articolo 15 della legge 28 gennaio 1994, n. 84](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-01-28;84~art15-com1), e' aggiunto il seguente:  
-"1-bis. La designazione dei rappresentanti dei lavoratori delle imprese delle categorie imprenditoriali indicate al comma 1 deve pervenire al Ministro dei trasporti e della navigazione entro trenta giorni dalla richiesta; l'inutile decorso del termine non pregiudica il funzionamento dell'organo.".
+"1-bis. La designazione dei rappresentanti dei lavoratori delle imprese e delle categorie imprenditoriali indicate al comma 1 deve pervenire al Ministro dei trasporti e della navigazione entro trenta giorni dalla richiesta; l'inutile decorso del termine non pregiudica il funzionamento dell'organo.".
 
 9. L'[articolo 15, comma 3, della legge 28 gennaio 1994, n. 84](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-01-28;84~art15-com3), e' sostituito dal seguente:  
-" 3. Con decreto del Ministro dei trasporti e della navigazione e' istituita la commissione consultiva centrale, composta dal direttore generale del lavoro marittimo e portuale del Ministero dei trasporti e della navigazione, che la presiede; da sei rappresentanti delle categorie imprenditoriali di cui all'articolo 9, comma 1; da sei rappresentanti delle organizzazioni sindacali dei lavoratori maggiormente rappresentative a livello nazionale; da tre rappresentanti delle regioni marittime designati dalla Conferenza permanente per i rapporti tra lo Stato, le regioni e le province autonome di Trento e di Bolzano; da un dirigente del Ministero dei trasporti e della navigazione; da un ufficiale superiore del Comando generale del corpo di capitaneria di porto, da un dirigente del Ministero del lavoro e della previdenza sociale, da un dirigente del Ministero della sanita' e dal presidente dell'Associazione porti italiani. La commissione di cui al presente comma ha compiti consultivi sulle questioni attinenti all'organizzazione portuale ed alla sicurezza e igiene del lavoro ad essa sottoposte dal Ministro dei trasporti e della navigazione ovvero dalle autorita' portuali, dalle autorita' marittime e dalle commissioni consultive locali. La designazione dei membri deve pervenire entro trenta giorni dalla richiesta; l'inutile decorso del termine non pregiudica il funzionamento dell'organo.".
+" 3. Con decreto del Ministro dei trasporti e della navigazione e' istituita la commissione consultiva centrale, composta dal direttore generale del lavoro marittimo e portuale del Ministero dei trasporti e della navigazione, che la presiede; da sei rappresentanti delle categorie imprenditoriali di cui all'articolo 9, comma 1; da sei rappresentanti delle organizzazioni sindacali dei lavoratori maggiormente rappresentative a livello nazionale; da tre rappresentanti delle regioni marittime designati dalla Conferenza permanente per i rapporti tra lo Stato, le regioni e le province autonome di Trento e di Bolzano;  
+da un dirigente del Ministero dei trasporti e della navigazione, da un ufficiale superiore del Comando generale del corpo di capitaneria di porto, da un dirigente del Ministero del lavoro e della previdenza sociale, da un dirigente del Ministero della sanita' e dal presidente dell'Associazione porti italiani. La commissione di cui al presente comma ha compiti consultivi sulle questioni attinenti all'organizzazione portuale ed alla sicurezza e igiene del lavoro ad essa sottoposte dal Ministro dei trasporti e della navigazione ovvero dalle autorita' portuali, dalle autorita' marittime e dalle commissioni consultive locali. La designazione dei membri deve pervenire entro trenta giorni dalla richiesta; l'inutile decorso del termine non pregiudica il funzionamento dell'organo.".
 
 10. L'[articolo 18, comma 1, della legge 28 gennaio 1994, n. 84](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-01-28;84~art18-com1), e' sostituito dal seguente:  
 " 1. L'autorita' portuale e, dove non istituita, ovvero prima del suo insediamento, l'organizzazione portuale o l'autorita' marittima danno in concessione le aree demaniali e le banchine comprese nell'ambito portuale alle imprese di cui all'articolo 16, comma 3, per l'espletamento delle operazioni portuali, fatta salva l'utilizzazione di immobili demaniali da parte di amministrazioni pubbliche per lo svolgimento di funzioni attinenti ad attivita' marittime e portuali. Le concessioni sono affidate, previa determinazione dei relativi canoni, sulla base di idonee forme di pubblicita', stabilite dal Ministro dei trasporti e della navigazione, di concerto con il Ministro delle finanze, con proprio decreto. Con il medesimo decreto sono altresi' indicati:  
@@ -108,8 +110,7 @@ a) la durata della concessione, i poteri di vigilanza e controllo delle autorita
 b) i limiti minimi dei canoni che i concessionari sono tenuti a versare in rapporto alla durata della concessione, agli investimenti previsti, al valore delle aree e degli impianti utilizzabili, ovvero al solo valore delle aree qualora il concessionario rilevi gli impianti all'atto della concessione.".
 
 11. L'[articolo 20 della legge 28 gennaio 1994, n. 84](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-01-28;84~art20), e' sostituito dal seguente:  
-"[Art. 20 (Costituzione](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27~art20) delle autorita' portuali e successione delle societa' alle organizzazioni portuali). -  
-1. Il Ministro dei trasporti e della navigazione, laddove gia' non esista una gestione commissariale, nomina, per ciascuna organizzazione portuale, commissari scelti fra persone aventi competenza nel settore, con particolare riguardo alle valenze economiche, sociali e strategiche delle realta' portuali considerate nonche', ove ritenuto necessario, commissari aggiunti. I commissari sostituiscono i presidenti e gli organi deliberanti delle organizzazioni predette, che all'atto della loro nomina cessano dalle funzioni. I compensi dei commissari e dei commissari aggiunti sono fissati con i decreti di nomina e posti a carico dei bilanci delle organizzazioni.  
+"[Art. 20 (Costituzione](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27~art20) delle autorita' portuali e successione delle societa' alle organizzazioni portuali). - 1. Il Ministro dei trasporti e della navigazione, laddove gia' non esista una gestione commissariale, nomina, per ciascuna organizzazione portuale, commissari scelti fra persone aventi competenza nel settore, con particolare riguardo alle valenze economiche, sociali e strategiche delle realta' portuali considerate nonche', ove ritenuto necessario, commissari aggiunti. I commissari sostituiscono i presidenti e gli organi deliberanti delle organizzazioni predette, che all'atto della loro nomina cessano dalle funzioni. I compensi dei commissari e dei commissari aggiunti sono fissati con i decreti di nomina e posti a carico dei bilanci delle organizzazioni.  
 2. I commissari, fino alla nomina del presidente dell'autorita' portuale e comunque entro il termine di sei mesi dal loro insediamento, non prorogabili, dispongono la dismissione delle attivita' operative delle organizzazioni portuali mediante la trasformazione delle organizzazioni medesime, in tutto o in parte, in societa' secondo i tipi previsti nel libro V, titoli V e VI, del [codice civile](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262), ovvero, anche congiuntamente, mediante il rilascio di concessioni ad imprese che presentino un programma di utilizzazione del personale e dei beni e delle infrastrutture delle organizzazioni portuali, per l'esercizio, in condizioni di concorrenza, di attivita' di impresa nei settori delle operazioni portuali, della manutenzione e dei servizi, dei servizi portuali, nonche' in altri settori del  
 trasporto o industriali. A tali fini, a seconda dei casi, provvedono:  
 a) alla collocazione presso terzi, ivi compresi i dipendenti  
@@ -128,7 +129,7 @@ c) alla cessione a titolo oneroso, anche in leasing, ovvero all'affitto a tali s
 1995 debbono trasformarsi in una o piu' societa' di seguito indicate:  
 a) in una societa' secondo i tipi previsti nel libro quinto,  
 titoli V e VI, del [codice civile](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262), per l'esercizio in condizioni di concorrenza delle operazioni portuali;  
-b) in una societa' o una cooperativa secondo i tipi previsti nel libro quinto, titoli V e VI, del [codice civile](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262), per la fornitura di servizi, ivi comprese, in deroga all'[articolo 1 della legge 23 ottobre 1960, n. 1369](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1960-10-23;1369~art1), mere prestazioni di lavoro, fino al 30 giugno 1996;  
+b) in una societa' o una cooperativa secondo i tipi previsti nel libro quinto, titoli V e VI, del [codice civile](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262), per la fornitura di servizi, ivi comprese, in deroga all'[articolo 1 della legge 23 ottobre 1960, n. 1369](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1960-10-23;1369~art1), mere prestazioni di lavoro, fino al 31 dicembre 1995;  
 c) in una societa' secondo i tipi previsti nel libro quinto, titoli V e VI, del [codice civile](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262), avente lo scopo della mera gestione, sulla base dei beni gia' appartenenti alle compagnie e gruppi portuali disciolti.  
 2. Scaduto il termine di cui al comma 1 senza che le compagnie ed i gruppi portuali abbiano provveduto agli adempimenti di cui al comma 6, le autorizzazioni e le concessioni ad operare in ambito portuale, comunque rilasciate, decadono.  
 3. Le societa' e le cooperative di cui al comma 1 hanno l'obbligo di incorporare tutte le societa' e le cooperative costituite su iniziativa dei membri delle compagnie o dei gruppi portuali prima della data di entrata in vigore della presente legge, nonche' di assumere gli addetti alle compagnie o gruppi alla predetta data. Le societa' o cooperative di cui al comma 1, devono avere una distinta organizzazione operativa e separati organi sociali.  
@@ -166,9 +167,7 @@ Assistenza alle popolazioni del Ruanda
 
 2. Per le finalita' del comma 1, e' autorizzata nell'anno 1994, la spesa di lire 6.500 milioni, cui si provvede a carico dello stanziamento iscritto al capitolo 3294 dello stato di previsione del Ministero dei trasporti e della navigazione.
 
-3. Per assicurare il completamento dell'attivita' di cui al comma 1, il Ministero dei trasporti e della navigazione si avvale di apposita associazione umanitaria, nel limite di spesa di lire 400 milioni posta a carico della autorizzazione di spesa di cui al comma 2.
-
-4. Le disponibilita' di lire 33 miliardi in conto residui del capitolo 2064 dello stato di previsione della Presidenza del Consiglio dei Ministri per l'anno 1994, viene versata all'entrata del bilancio dello Stato per essere riassegnata, con decreti del Ministro del tesoro, al capitolo 7615 del medesimo stato di previsione.
+3. Le disponibilita' di lire 33 miliardi in conto residui del capitolo 2064 dello stato di previsione della Presidenza del Consiglio dei Ministri per l'anno 1994, viene versata all'entrata del bilancio dello Stato per essere riassegnata, con decreti del Ministro del tesoro, al capitolo 7615 del medesimo stato di previsione.
 
 Art. 6
 ------
@@ -211,14 +210,14 @@ Interventi a favore del porto di Genova
 
 2. L'organizzazione portuale di Genova provvede, con procedura d'urgenza, agli adempimenti conseguenti alla esecuzione degli interventi di cui al comma 1 secondo le norme vigenti in materia di lavori pubblici.
 
-3. All'onere derivante dall'attuazione del presente articolo si provvede a carico dello stanziamento iscritto sul capitolo 7543 dello stato di previsione del Ministero dei lavori pubblici per l'anno 1995.
+3. All'onere derivante dall'attuazione del presente articolo si provvede con le disponibilita' in conto residui iscritte sul capitolo 7501 dello stato di previsione del Ministero dei lavori pubblici per l'anno 1995. Tali disponibilita' sono versate all'entrata del bilancio dello Stato per essere riassegnate, con decreto del Ministro del tesoro, ad apposito capitolo dello stato di previsione del Ministero dei lavori pubblici.
 
 Art. 11
 -------
 
 Ammodernamento e potenziamento del porto di Ancona
 
-1. Al fine della realizzazione degli interventi previsti dagli accordi di programma di cui al protocollo d'intesa Stato-regione del 31 marzo 1993 relativi a Toscana, Liguria e Marche, nonche' per fronteggiare le necessita' conseguenti alle calamita' naturali di cui alle leggi speciali 23 dicembre 1992, n. 505; e 31 dicembre 1991, n. 433, le somme iscritte in conto residui sul capitolo 8051 dello stato di previsione del Ministero dei trasporti e della navigazione per l'anno finanziario 1994, nonche' le somme iscritte in conto competenza ed in conto residui sui capitoli 7501, 7509, 7511, 7533, 7538 e 7542 dello stato di previsione del Ministero dei lavori pubblici per l'anno finanziario 1994, non impegnate al 31 dicembre 1994, possono esserlo negli esercizi 1995 e 1996.
+1. Al fine della realizzazione degli interventi previsti dagli accordi di programma di cui al protocollo d'intesa Stato-regione del 31 marzo 1993 relativi a Toscana, Liguria e Marche, nonche' per fronteggiare le necessita' conseguenti alle calamita' naturali di cui alle leggi speciali 23 dicembre 1992, n. 505, e 31 dicembre 1991, n. 433, le somme iscritte in conto residui sul capitolo 8051 dello stato di previsione del Ministero dei trasporti e della navigazione per l'anno finanziario 1994, nonche' le somme iscritte in conto competenza ed in conto residui sui capitoli 7501, 7509, 7511, 7533, 7538 e 7542 dello stato di previsione del Ministero dei lavori pubblici per l'anno finanziario 1994, non impegnate al 31 dicembre 1994, possono esserlo negli esercizi 1995 e 1996.
 
 Art. 12
 -------
@@ -235,13 +234,9 @@ Conservazione di somme nel bilancio dello Stato
 
 1. Le somme disponibili in conto residui per l'anno 1994 sui capitoli 7702, 7704 e 7705 dello stato di previsione del Ministero dei trasporti e della navigazione, sono mantenute in bilancio fino al 31 dicembre 1995.
 
-2. Le somme iscritte in conto competenza e in conto residui al 31 dicembre 1995 sui capitoli 7501, 7509 e 7510 dello stato di previsione del Ministero dei trasporti e della navigazione, sono mantenute in bilancio fino al 31 dicembre 1996.
+2. Le disponibilita' finanziarie relative all'esercizio finanziario 1994, sul capitolo 3924 dello stato di previsione del Ministero dei trasporti e della navigazione, non impegnate al 31 dicembre 1994, possono essere impegnate negli esercizi 1995 e 1996.
 
-3. Le disponibilita' finanziarie relative all'esercizio finanziario 1994, sul capitolo 3924 dello stato di previsione del Ministero dei trasporti e della navigazione, non impegnate al 31 dicembre 1994, possono essere impegnate negli esercizi 1995 e 1996.
-
-4. Le disponibilita' del capitolo 3958 dello stato di previsione del Ministero dei trasporti e della navigazione, per l'anno 1994, nonche' quelle in conto residui sul capitolo 7763 dello stesso stato di previsione, non impegnate in tale anno, possono esserlo nell'esercizio successivo.
-
-5. Le disponibilita' in conto competenza ed in conto residui iscritte sul capitolo 7294 dello stato di previsione del Ministero dei trasporti e della navigazione per gli anni 1994 e 1995 non impegnate entro il 31 dicembre 1995 possono esserlo entro il 31 dicembre 1996.
+3. Le disponibilita' del capitolo 3958 dello stato di previsione del Ministero dei trasporti e della navigazione, per l'anno 1994, nonche' quelle in conto residui sul capitolo 7763 dello stesso stato di previsione, non impegnate in tale anno, possono esserlo nell'esercizio successivo.
 
 Art. 14
 -------
@@ -268,6 +263,16 @@ del codice della navigazione
 Art. 16
 -------
 
+Acquisto e installazione sistemi di controllo  
+dei metalli radioattivi
+
+1. Il Ministero dell'industria, del commercio e dell'artigianato, sentiti i Ministeri della sanita' e delle finanze, provvede ai fini dell'acquisto e della installazione di sistemi di scintillazione disposti a portale per la rilevazione automatica della radioattivita' dei metalli presso i valichi di frontiera individuati, entro sessanta giorni dalla data di entrata in vigore del presente decreto, dal Ministro delle finanze, che disciplina altresi' le modalita' di utilizzazione.
+
+2. All'onere derivante dall'attuazione del presente articolo, valutato in lire 5 miliardi per il 1994, si provvede mediante utilizzazione dei fondi dello stanziamento iscritto per lo stesso anno al capitolo di spesa n. 7549 dello stato di previsione del Ministero dell'industria, del commercio e dell'artigianato.
+
+Art. 17
+-------
+
 Istituzione del titolo professionale di conduttore per le  
 imbarcazioni da diporto adibite al noleggio per le acque marittime ed interne.
 
@@ -275,8 +280,7 @@ imbarcazioni da diporto adibite al noleggio per le acque marittime ed interne.
 
 2. Per conseguire il titolo professionale marittimo di conduttore per le imbarcazioni da diporto adibite al noleggio occorrono i seguenti requisiti:
 
-a) essere iscritto nella terza categoria della gente  
-di mare;
+a) essere iscritto nella terza categoria della gente di mare;
 
 b) aver compiuto i 21 anni di eta';
 
@@ -284,7 +288,7 @@ c) aver assolto l'obbligo scolastico;
 
 d) essere in possesso del certificato limitato RTF;
 
-e) essere in possesso delle abilitazioni al comando delle imbarcazioni da diporto senza alcun limite di distanza dalla costa di cui all'[articolo 20, primo comma, della legge 11 febbraio 1971, n. 50](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1971-02-11;50~art20-com1), e successive modificazioni, ovvero dell'abilitazione al comando di navi da diporto prevista dal secondo comma del medesimo articolo, le suddetti patenti devono essere in regolare corso di validita';
+e) essere in possesso delle abilitazioni al comando delle imbarcazioni da diporto senza alcun limite di distanza dalla costa di cui all'[articolo 20, primo comma, della legge 11 febbraio 1971, n. 50](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1971-02-11;50~art20-com1), e successive modificazioni, ovvero dell'abilitazione al comando di navi da diporto prevista dal secondo comma del medesimo articolo, le suddette patenti devono essere in regolare corso di validita';
 
 f) non aver riportato condanne per i reati di cui all'articolo 238, primo comma, n. 4, del regolamento per l'esecuzione del [codice della navigazione](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-03-30;327), approvato con [decreto del Presidente della Repubblica 15 febbraio 1952, n. 328](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1952-02-15;328);
 
@@ -314,16 +318,16 @@ f) aver sostenuto, con esito favorevole, un esame teorico-pratico, concernente l
 
 8. Coloro che abbiano esercitato il comando di unita' da diporto adibite al noleggio per un periodo di almeno tre mesi complessivi nel triennio antecedente la data di entrata in vigore del presente decreto e siano in possesso dei requisiti previsti dai commi 2 o 4, possono conseguire, senza esami, il rispettivo titolo professionale; il periodo sopramenzionato deve risultare da una attestazione rilasciata dal soggetto autorizzato ad esercitare l'attivita' di noleggio delle unita' da diporto sulle quali l'interessato e' stato imbarcato. Il titolo professionale deve essere conseguito entro sessanta giorni dalla data di entrata in vigore del presente decreto.
 
-9. Gli ufficiali del Corpo dello stato maggiore della Marina militare, gli ufficiali del Corpo delle capitanerie di porto, gli ufficiali del Corpo della guardia di finanza, i sottufficiali delle Forze armate, dei Corpi armati dello Stato e dei Vigili del fuoco, abilitati al comando delle unita' navali, entro cinque anni dalla data di cessazione dal servizio, possono conseguire, senza esami, i titoli professionali di cui ai commi 2 o 4, purche' abbiano gli altri requisiti previsti dai detti commi.
+9. Gli ufficiali del Corpo dello stato maggiore della marina militare, gli ufficiali del Corpo delle capitanerie di porto, gli ufficiali del Corpo della guardia di finanza, i sottufficiali delle Forze armate, dei Corpi armati dello Stato e dei Vigili del fuoco, abilitati al comando delle unita' navali, entro cinque anni dalla data di cessazione dal servizio, possono conseguire, senza esami, i titoli professionali di cui ai commi 2 o 4, purche' abbiano gli altri requisiti previsti dai detti commi.
 
-Art. 17
+Art. 18
 -------
 
 Modifiche alla legge 11 febbraio 1971, n. 50  
 e successive modificazioni ed integrazioni
 
 1. Il [primo comma dell'articolo 18 della legge 11 febbraio 1971, n. 50](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1971-02-11;50~art18-com1), e successive modificazioni ed integrazioni, e' sostituito dal seguente:  
-"Per il comando e la condotta di natanti da diporto, a bordo dei qual sia stato installato un motore avente una cilindrata superiore a 750 cc. se a carburazione a due tempi, o a 1000 cc. se a carburazione a quattro tempi fuori bordo, o a 1300 cc. se a carburazione a quattro tempi entro bordo, o a 2000 cc. se a motore diesel, comunque con potenza superiore a 30 KW o a 40,8 CV, e' necessario essere in possesso di una delle abilitazioni previste dall'articolo 20.".
+"Per il comando e la condotta di natanti da diporto, a bordo dei quali sia stato installato un motore avente una cilindrata superiore a 750 cc. se a carburazione a due tempi, o a 1000 cc. se a carburazione a quattro tempi fuori bordo, o a 1300 cc. se a carburazione a quattro tempi entro bordo, o a 2000 cc. se a motore diesel, comunque con potenza superiore a 30 KW o a 40,8 CV, e' necessario essere in possesso di una delle abilitazioni previste dall'articolo 20.".
 
 2. La [lettera c) del primo comma dell'articolo 20 della legge 11 febbraio 1971, n. 50](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1971-02-11;50~art20-com1-letc), e successive modificazioni ed integrazioni, e' sostituita dalla seguente:  
 " c) imbarcazioni a motore aventi caratteristiche e potenza superiori a quelle indicate all'articolo 18, primo comma, per la navigazione entro sei miglia dalla costa;".
@@ -333,18 +337,20 @@ e successive modificazioni ed integrazioni
 
 4. Non possono essere omologati, per la conduzione senza abilitazione, motori che, sulla base delle caratteristiche costruttive, sono capaci di esprimere una potenza superiore del 30 per cento a quella per la quale la medesima omologazione e' stata richiesta.
 
-5. Al [secondo comma dell'articolo 18 della legge 11 febbraio 1971, n. 50](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1971-02-11;50~art18-com2), prima delle parole: "nessuna abilitazione" sono inserite le seguenti: "Salvo quanto e' disposto dal successivo articolo 20".
+5. Al [secondo comma dell'articolo 18 della legge 11 febbraio 1971, n. 50](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1971-02-11;50~art18-com2), prima delle parole: "nessuna abilitazione" sono inserite le seguenti: "Salvo quanto e' disposto dal successivo articolo 20.".
 
-Art. 18
+Art. 19
 -------
 
 Informatizzazione dei servizi marittimi
 
 1. Per la realizzazione del piano triennale 1995-1997 per l'informatica del settore navigazione marittima del Ministero dei trasporti e della navigazione, nonche' del sistema di governo e della rete di telecomunicazione, e' autorizzata, ad integrazione dei fondi esistenti sui capitoli 1113 e 7100 dello stato di previsione dello stesso Ministero, l'ulteriore spesa di lire 22.000 milioni per ciascuno degli anni 1995, 1996 e 1997, da iscrivere sul capitolo 7100 del medesimo stato di previsione.
 
-2. Alla copertura dell'onere di cui al comma 1 si provvede a carico dello stanziamento iscritto al capitolo 7100 dello stato di previsione del Ministero dei trasporti e della navigazione per l'anno 1995 e corrispondenti capitoli per gli esercizi successivi.
+2. Alla copertura dell'onere di cui al comma 1 si provvede mediante corrispondente riduzione dello stanziamento iscritto, ai fini del bilancio triennale 1995-1997, sul capitolo 6856 dello stato di previsione del Ministero del tesoro per l'anno 1995, all'uopo utilizzando parzialmente l'accantonamento relativo al Ministero dei trasporti e della navigazione di cui alla tabella A allegata alla [legge 23 dicembre 1994, n. 725](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-12-23;725).
 
-Art. 19
+3. Il Ministro del tesoro e' autorizzato ad apportare, con propri decreti, le occorrenti variazioni di bilancio.
+
+Art. 20
 -------
 
 Barriere architettoniche negli impianti di balneazione
@@ -355,17 +361,17 @@ Barriere architettoniche negli impianti di balneazione
 
 3. All'esecuzione delle opere edilizie dirette a realizzare la visitabilita' degli impianti di balneazione, di cui all'[articolo 23, comma 3, della legge 5 febbraio 1992, n. 104](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1992-02-05;104~art23-com3), si applicano gli [articoli 4](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1989-01-09;13~art4) e [7 della legge 9 gennaio 1989, n. 13](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1989-01-09;13~art7).
 
-Art. 20
+Art. 21
 -------
 
 Entrata in vigore
 
-1. Il presente decreto entra in vigore il giorno stesso della sua pubblicazione nella Gazzetta Ufficiale della Repubblica italiana e sara' presentato alle Camere per la conversione in legge.
+1. Il presente decreto entra in vigore il giorno successivo a quello della sua pubblicazione nella Gazzetta Ufficiale della Repubblica italiana e sara' presentato alle Camere per la conversione in legge.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserito nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 16 febbraio 1996
+### Dato a Roma, addi' 18 ottobre 1995
 
 SCALFARO
 
@@ -375,10 +381,10 @@ CARAVALE, Ministro dei trasporti e della navigazione
 
 TREU, Ministro del lavoro e della previdenza sociale
 
-ARCELLI, Ministro del bilancio e della programmazione economica
+MASERA, Ministro del bilancio e della programmazione economica
 
 FANTOZZI, Ministro delle finanze
 
 OSSICINI, Ministro per la famiglia e la solidarieta' sociale
 
-Visto, il Guardasigilli: CAIANIELLO
+Visto, il Guardasigilli: MANCUSO

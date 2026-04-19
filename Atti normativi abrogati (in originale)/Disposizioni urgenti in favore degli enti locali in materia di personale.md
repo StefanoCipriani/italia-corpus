@@ -1,13 +1,13 @@
-DECRETO-LEGGE 08 agosto 1994 n. 492
+DECRETO-LEGGE 15 giugno 1994 n. 376
 
 
-DECRETO-LEGGE 08 agosto 1994 n. 492
+DECRETO-LEGGE 15 giugno 1994 n. 376
 ===================================
 
 Disposizioni urgenti in favore degli enti locali in materia di personale.
 -------------------------------------------------------------------------
 
-Entrata in vigore del decreto: 12/8/1994.Decreto-Legge decaduto per mancata conversione.
+Entrata in vigore del decreto: 17/06/1994.Decreto-Legge decaduto per mancata conversione.
 
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
@@ -16,7 +16,7 @@ Visti gli [articoli 77](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:cost
 
 Ritenuta la straordinaria necessita' ed urgenza di disciplinare la sistemazione del personale degli enti locali che hanno dichiarato il dissesto entro il 31 dicembre 1993 e di prevedere l'adeguamento della normativa in materia di rilevazione dei carichi di lavoro e per l'assunzione di personale per gli enti locali che versino in situazioni strutturalmente deficitarie;
 
-Vista la deliberazione del Consiglio dei Ministri, adottata nella riunione del 5 agosto 1994;
+Vista la deliberazione del Consiglio dei Ministri, adottata nella riunione del 10 giugno 1994;
 
 Sulla proposta del Presidente del Consiglio dei Ministri e dei Ministri per la funzione pubblica e gli affari regionali e dell'interno, di concerto con il Ministro del tesoro;
 
@@ -39,20 +39,13 @@ Art. 2
 Disposizioni relative agli enti locali che non versino in situazioni strutturalmente deficitarie
 
 1. Il [comma 11 dell'articolo 3 della legge 24 dicembre 1993, n. 537](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-12-24;537~art3-com11), e' sostituito dai seguenti:   
-" 11. In deroga alle disposizioni dei commi 5 e 8 gli enti locali con popolazione non superiore a 5.000 abitanti, che non versino nelle situazioni strutturalmente deficitarie di cui all'[articolo 45 del decreto legislativo 30 dicembre 1992, n. 504](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992-12-30;504~art45), non sono tenuti alla rilevazione dei carichi di lavoro. Per gli enti locali, con popolazione superiore a 5.000 abitanti, che si trovino nelle stesse condizioni, la rilevazione dei carichi di lavoro costituisce presupposto indispensabile per la rideterminazione delle dotazioni organiche. La metodologia adottata e' approvata con deliberazione della giunta che ne attesta, nel medesimo atto, la congruita'.   
+" 11. In deroga alle disposizioni dei commi 5 e 8 gli enti locali con popolazione non superiore a 5000 abitanti, che non versino nelle situazioni strutturalmente deficitarie di cui all'[articolo 45 del decreto legislativo 30 dicembre 1992, n. 504](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992-12-30;504~art45), non sono tenuti alla rilevazione dei carichi di lavoro. Per gli enti locali, con popolazione superiore a 5000 abitanti, che si trovino nelle stesse condizioni, la rilevazione dei carichi di lavoro costituisce presupposto indispensabile per la rideterminazione delle dotazioni organiche. La metodologia adottata e' approvata con deliberazione della giunta che ne attesta, nel medesimo atto, la congruita'.   
 11-bis. Fino alla rideterminazione delle dotazioni organiche, gli enti locali di cui al comma 11 possono procedere, nei limiti delle proprie disponibilita' di bilancio, all'assunzione di personale per i posti per i quali, alla data del 31 agosto 1993, erano stati banditi o autorizzati i relativi concorsi o attivate le procedure di reclutamento; i medesimi enti possono altresi' coprire, fino al limite del 50 per cento, i posti resisi vacanti successivamente al 31 agosto 1993, nonche' assumere personale a tempo determinato, in deroga ai limiti indicati nei commi 23 e 27.   
 11-ter. Le disposizioni dei commi 8, 23 e 27 non si applicano alle camere di commercio, industria, artigianato e agricoltura che non si trovino in condizioni di squilibrio finanziario".
 
 2. Nei confronti degli enti locali di cui al comma 1 continuano ad applicarsi le disposizioni di cui all'[articolo 4-bis del decreto-legge 20 maggio 1993, n. 148](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1993-05-20;148~art4bis), convertito, con modificazioni, dalla [legge 19 luglio 1993, n. 236](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-07-19;236), a prescindere dalla valutazione dei carichi di lavoro ivi previsti. Gli stessi enti locali possono conservare sino al 31 dicembre 1994 i rapporti di lavoro a tempo determinato di cui al comma 5 del predetto articolo 4-bis.
 
 Art. 3
-------
-
-Efficacia delle norme
-
-1. Le disposizioni del presente decreto sostituiscono quelle del [decreto-legge 15 giugno 1994, n. 376](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1994-06-15;376).
-
-Art. 4
 ------
 
 Entrata in vigore
@@ -62,7 +55,7 @@ Entrata in vigore
 Il presente decreto, munito del sigillo dello Stato, sara' inserito nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 8 agosto 1994
+### Dato a Roma, addi' 15 giugno 1994
 
 SCALFARO
 

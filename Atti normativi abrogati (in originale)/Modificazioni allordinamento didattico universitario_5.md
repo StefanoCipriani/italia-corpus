@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 22 dicembre 1982 n. 1143
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 16 ottobre 1980 n. 1209
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 22 dicembre 1982 n. 1143
-================================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 16 ottobre 1980 n. 1209
+===============================================================
 
 Modificazioni all'ordinamento didattico universitario.
 ------------------------------------------------------
@@ -10,15 +10,21 @@ Modificazioni all'ordinamento didattico universitario.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
 
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
 
-Riconosciuta l'opportunita' di modificare la tabella XVIII-bis dell'ordinamento didattico universitario, relativa al corso di laurea in odontoiatria e protesi dentaria, nel senso di spostare l'insegnamento fondamentale di "istituzioni di anatomia ed istologia patologica" dal biennio al triennio;
+Veduta la [legge 8 giugno 1966, n. 432](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1966-06-08;432), istitutiva dell'Istituto superiore di scienze sociali di Trento, ed in particolare l'art. 5, con il quale la laurea in sociologia rilasciata dall'Istituto superiore di scienze sociali di Trento e' aggiunta alla tabella I annessa al [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652);
 
-Veduti i pareri espressi al riguardo dal Consiglio universitario nazionale;
+Veduto il [decreto del Presidente della Repubblica 31 ottobre 1972, n. 974](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1972-10-31;974), con il quale il predetto Istituto e' stato trasformato in libera Universita';
+
+Veduta la [legge 6 dicembre 1971, n. 1076](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1971-12-06;1076): Equipollenza della laurea in sociologia con la laurea in economia e commercio e in scienze politiche;
+
+Riconosciuta la necessita' di integrare anche la tabella II, annessa al [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), con la facolta' di sociologia e la relativa laurea in sociologia, come mero adempimento conseguente alla normativa sopra citata;
+
+Sentito il parere del Consiglio universitario nazionale;
 
 Sulla
 -----
@@ -29,19 +35,18 @@ Articolo unico
 --------------
 
   
-  
-La tabella XVIII-bis dell'ordinamento didattico universitario, annessa al [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), relativa al corso di laurea in odontoiatria e protesi dentaria, e' modificata nel senso che l'insegnamento fondamentale del biennio n. 10 "istituzioni di anatomia patologica" passa ali triennio con il n. 16, con la conseguente variazione della numerazione degli insegnamenti contrassegnati con i numeri 11, 12, 13, 14 e 15 del biennio e 16 del triennio che diventano rispettivamente numeri 10, 11, 12, 13 e 14 nel biennio e 15 nel triennio.   
+La tabella II, annessa al [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e' integrata nel senso che e' aggiunta la facolta' di sociologia con la laurea in sociologia.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 22 dicembre 1982
+### Dato a Roma, addi' 16 ottobre 1980
 
-PERTINI FALCUCCI
+PERTINI SARTI
 
-Visto, il Guardasigilli: DARIDA
+Visto, il Guardasigilli: SARTI
 
-Registrato alla Corte dei conti, addi' 7 marzo 1983
+Registrato alla Corte dei conti, addi' 18 agosto 1981
 
-Registro n. 17 Istruzione, foglio n. 58
+Registro n. 76 Istruzione, foglio n. 384

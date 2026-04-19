@@ -1,24 +1,24 @@
-DECRETO-LEGGE 01 dicembre 1995 n. 511
+DECRETO-LEGGE 31 gennaio 1996 n. 36
 
 
-DECRETO-LEGGE 01 dicembre 1995 n. 511
-=====================================
+DECRETO-LEGGE 31 gennaio 1996 n. 36
+===================================
 
 Disposizioni urgenti in materia di personale del settore sanitario.
 -------------------------------------------------------------------
 
-Entrata in vigore del decreto: 3-12-1995.Decreto-Legge decaduto per mancata conversione.
+Entrata in vigore del decreto: 1/2/1996.Decreto-Legge decaduto per mancata conversione.
 
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
 Visti gli [articoli 77](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27~art77) e [87 della Costituzione](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27~art87);
 
-Ritenuta la straordinaria necessita' ed urgenza di emanare disposizioni per il personale del settore sanitario al fine di garantire la piena efficienza e funzionalita' dei servizi dirigenziali delle aziende sanitarie ed ospedaliere, per finanziare le borse di studio dei medici specializzandi;
+Ritenuta la straordinaria necessita' ed urgenza di emanare disposizioni per il personale del settore sanitario, al fine di garantire la piena efficienza e funzionalita' dei servizi dirigenziali delle aziende sanitarie ed ospedaliere, nonche' per finanziare le borse di studio dei medici specializzandi;
 
-Vista la deliberazione del Consiglio dei Ministri, adottata nella riunione del 1 dicembre 1995;
+Vista la deliberazione del Consiglio dei Ministri, adottata nella riunione del 29 gennaio 1996;
 
-Sulla proposta del Presidente del Consiglio dei Ministri e Ministro del tesoro e del Ministro della sanita', di concerto con i Ministri del bilancio e della programmazione economica, dell'universita' e della ricerca scientifica e tecnologica e per la funzione pubblica e gli affari regionali;
+Sulla proposta del Presidente del Consiglio dei Ministri e Ministro del tesoro e del Ministro della sanita', di concerto con i Ministri delle finanze e, ad interim, del bilancio e della programmazione economica, dell'universita' e della ricerca scientifica e tecnologica e per la funzione pubblica e gli affari regionali;
 
 E M A N A il seguente decreto-legge:
 
@@ -42,8 +42,7 @@ in soprannumero
 Art. 3
 ------
 
-Finanziamento della formazione specialistica dei medici  
-del Servizio sanitario nazionale
+Finanziamento della formazione specialistica dei medici del Servizio sanitario nazionale
 
 1. Per le finalita' previste dal [decreto legislativo 8 agosto 1991, n. 257](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1991-08-08;257), gli stanziamenti di cui all'[articolo 6, comma 2, della legge 29 dicembre 1990, n. 428](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-12-29;428~art6-com2), come modificati dall'[articolo 4, comma 14, della legge 30 dicembre 1991, n. 412](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1991-12-30;412~art4-com14), sono integrati di lire 75 miliardi per l'anno 1995, 150 miliardi per l'anno 1996, 225 miliardi per l'anno 1997 e successivi. All'onere di cui al presente articolo si provvede con quote del Fondo sanitario nazionale allo scopo vincolate.
 
@@ -80,11 +79,13 @@ delle UU.SS.LL. e delle aziende ospedaliere
 Art. 6
 ------
 
-Medici ospedalieri e medici di base e pediatrici
+Medici e veterinari dipendenti
 
 1. Nel triennio 1996-1998, per l'attuazione dell'[articolo 18, comma 2-bis, del decreto legislativo 30 dicembre 1992, n. 502](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992-12-30;502~art18-com2bis), come modificato dal [decreto legislativo 7 dicembre 1993, n. 517 e dall'articolo 26, comma 2-ter](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-12-07;517~art26-com2ter), del [decreto legislativo 3 febbraio 1993, n. 29](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-02-03;29), e successive modificazioni ed integrazioni, si provvede, in base ai criteri che saranno stabiliti in sede contrattuale e nei limiti delle disponibilita' del Fondo sanitario nazionale appositamente vincolate, nella misura di lire 70 miliardi per il 1996, di lire 140 miliardi per il 1997 e di lire 165 miliardi per il 1998 e per gli anni successivi, con corrispondente riduzione dei programmi riferiti agli interventi di emergenza e dell'accantonamento destinato all'indennita' di abbattimento animali di cui alla [legge 2 giugno 1988, n. 218](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-06-02;218), per una quota di lire 25 miliardi limitatamente all'anno 1998 e successivi.
 
 2. Per il potenziamento delle funzioni distrettuali e delle attivita' della medicina e della pediatria di base, ivi compresa la necessaria strumentazione, e' vincolata, limitatamente al 1996, la somma di lire 40 miliardi a valere sul Fondo sanitario nazionale di parte corrente, con corrispondente riduzione dei programmi riferiti agli interventi di emergenza.
+
+3. Per la copertura dei posti vacanti di personale medico e non medico delle strutture di ricovero per malattie infettive realizzate nell'ambito dei programmi di cui alla [legge 5 giugno 1990, n. 135](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-06-05;135), le regioni e le province autonome di Trento e di Bolzano possono avvalersi delle procedure concorsuali previste dall'articolo 4 della stessa legge, con le integrazioni di cui al [comma 4 dell'articolo 18 del decreto legislativo 30 dicembre 1992, n. 502](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992-12-30;502~art18-com4), e successive modificazioni.
 
 Art. 7
 ------
@@ -93,9 +94,7 @@ Asilo nido del Ministero della sanita'
 
 1. Il Ministro della sanita' e' autorizzato a corrispondere agli aventi diritto le somme occorrenti per il funzionamento dell'asilo nido del Ministero della sanita'.
 
-2. All'onere derivante dal comma 1, valutato in lire 449 milioni per l'anno 1995, comprensivo di debiti pregressi ammontanti a lire 299 milioni, e in lire 160 milioni a decorrere dall'anno 1996, si provvede mediante corrispondente riduzione dello stanziamento iscritto ai fini del bilancio triennale al capitolo 6856 dello stato di previsione del Ministero del tesoro per l'anno finanziario 1995, all'uopo parzialmente utilizzando l'accantonamento relativo al Ministero della sanita'.
-
-3. Il Ministro del tesoro e' autorizzato ad apportare, con propri decreti, le occorrenti variazioni di bilancio.
+2. All'onere derivante dal comma 1, valutato in lire 449 milioni per l'anno 1995, comprensivo di debiti pregressi ammontanti a lire 299 milioni, e in lire 160 milioni a decorrere dall'anno 1996, si provvede a carico dello stanziamento iscritto al capitolo 1121 dello stato di previsione del Ministero della sanita' per l'anno 1995 e corrispondenti capitoli per gli esercizi successivi.
 
 Art. 8
 ------
@@ -110,14 +109,23 @@ del Ministero del tesoro
 Art. 9
 ------
 
+Assistenza sanitaria agli stranieri extracomunitari
+
+1. Per l'anno 1996 i cittadini extracomunitari, regolarmente residenti in Italia ed iscritti nelle liste di collocamento, sono equiparati ai cittadini italiani non occupati, iscritti nelle liste di collocamento, per quanto attiene all'assistenza sanitaria erogata in Italia dal Servizio sanitario nazionale ed al relativo obbligo contributivo di cui all'[articolo 63 della legge 23 dicembre 1978, n. 833](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-12-23;833~art63), e successive modificazioni ed integrazioni.
+
+2. I soggetti di cui al comma 1, assicurati presso il Servizio sanitario nazionale, sono iscritti alla unita' sanitaria locale del comune ove abbiano effettiva dimora.
+
+Art. 10
+-------
+
 Entrata in vigore
 
-1. Il presente decreto entra in vigore il giorno successivo a quello della sua pubblicazione nella Gazzetta Ufficiale della Repubblica italiana e sara' presentato alle Camere per la conversione in legge.
+1. Il presente decreto entra in vigore il giorno stesso della sua pubblicazione nella Gazzetta Ufficiale della Repubblica italiana e sara' presentato alle Camere per la conversione in legge.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserito nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 1 dicembre 1995
+### Dato a Roma, addi' 31 gennaio 1996
 
 SCALFARO
 
@@ -125,7 +133,9 @@ DINI, Presidente del Consiglio dei Ministri e Ministro del tesoro
 
 GUZZANTI, Ministro della sanita'
 
-MASERA, Ministro del bilancio e della programmazione economica
+FANTOZZI, Ministro delle finanze e,
+
+ad interim, Ministro del bilancio e della programmazione economica
 
 SALVINI, Ministro dell'universita' e della ricerca scientifica e tecnologica
 

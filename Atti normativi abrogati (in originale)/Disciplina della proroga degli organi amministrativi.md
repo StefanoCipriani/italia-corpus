@@ -1,13 +1,13 @@
-DECRETO-LEGGE 19 novembre 1992 n. 439
+DECRETO-LEGGE 18 settembre 1992 n. 381
 
 
-DECRETO-LEGGE 19 novembre 1992 n. 439
-=====================================
+DECRETO-LEGGE 18 settembre 1992 n. 381
+======================================
 
 Disciplina della proroga degli organi amministrativi.
 -----------------------------------------------------
 
-Entrata in vigore del decreto: 19/11/1992.Decreto-Legge decaduto per mancata conversione.
+Entrata in vigore del decreto: 20/9/1992.Decreto-Legge decaduto per mancata conversione.
 
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
@@ -16,7 +16,7 @@ Visti gli [articoli 77](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:cost
 
 Ritenuta la straordinaria necessita' ed urgenza di disciplinare, con principi generali uniformi, la proroga degli organi amministrativi temporanei oltre la scadenza per ciascuno di essi prevista, nonche' le conseguenze delle omesse ricostituzioni degli organi medesimi, al fine di assicurare con immediatezza la legalita', il buon andamento e l'imparzialita' dell'organizzazione amministrativa imposti dall'[articolo 97 della Costituzione](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27~art97); principi cui, allo stato, non corrispondono le molteplici, prolungate e non piu' sostenibili situazioni di proroga tuttora in atto;
 
-Vista la deliberazione del Consiglio dei Ministri, adottata nella riunione del 17 novembre 1992;
+Vista la deliberazione del Consiglio dei Ministri, adottata nella riunione del 17 settembre 1992;
 
 Sulla proposta del Presidente del Consiglio dei Ministri;
 
@@ -45,7 +45,7 @@ Proroga degli organi - Regime degli atti
 
 1. Gli organi amministrativi non ricostituiti nel termine di cui all'articolo 2 sono prorogati per non piu' di quarantacinque giorni, decorrenti dal giorno della scadenza del termine medesimo.
 
-2. Nel periodo in cui sono prorogati, gli organi scaduti possono adottare esclusivamente gli atti urgenti e indifferibili con indicazione specifica dei motivi di urgenza e indifferibilita'.
+2. Nel periodo in cui sono prorogati, gli organi scaduti possono adottare esclusivamente gli atti urgenti e indifferibili, con indicazione specifica dei motivi di urgenza e indifferibilita'.
 
 3. Gli atti non rientranti fra quelli indicati nel comma 2, adottati nel periodo di proroga, sono illegittimi.
 
@@ -100,9 +100,9 @@ Norme finali e transitorie
 
 1. Le disposizioni degli articoli da 1 a 7 si applicano, dalla data di entrata in vigore del presente decreto, a tutti gli organi amministrativi che, alla stessa data, non siano ancora scaduti.
 
-2. Gli organi amministrativi che, alla data di entrata in vigore del presente decreto, siano gia' scaduti e operino pertanto in proroga di fatto, debbono essere ricostituiti entro quarantacinque giorni dalla data medesima. Decorso il termine suddetto, gli organi stessi decadono con le conseguenze previste dalle disposizioni di cui ai commi 2 e 3 dell'articolo 6.
+2. Gli organi amministrativi che, alla data di entrata in vigore del presente decreto, siano gia' scaduti e operino pertanto in proroga di fatto, debbono essere ricostituiti entro settantacinque giorni dalla data medesima. Durante tale periodo si applicano le disposizioni di cui ai commi 2 e 3 dell'articolo
 
-3. Per la ricostituzione degli organi delle persone giuridiche di cui al comma 1 dell'articolo 1, nei casi di cui al comma 2, gli organi competenti promuovono l'instaurazione delle procedure stabilite dalla [legge 24 gennaio 1978, n. 14](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-01-24;14), entro il termine di cui allo stesso comma 2.
+3. Decorso il termine suddetto, gli organi stessi decadono con le conseguenze previste dalle disposizioni di cui ai commi 2 e 3 dell'articolo 6.
 
 Art. 9
 ------
@@ -116,12 +116,12 @@ Art. 10
 
 Entrata in vigore
 
-1. Il presente decreto entra in vigore il giorno stesso della sua pubblicazione nella Gazzetta Ufficiale della Repubblica italiana e sara' presentato alle Camere per la conversione in legge.
+1. Il presente decreto entra in vigore il giorno successivo a quello dalla sua pubblicazione nella Gazzetta Ufficiale della Repubblica italiana e sara' presentato alle Camere per la conversione in legge.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserito nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 19 novembre 1992
+### Dato a Roma, addi' 18 settembre 1992
 
 SCALFARO
 

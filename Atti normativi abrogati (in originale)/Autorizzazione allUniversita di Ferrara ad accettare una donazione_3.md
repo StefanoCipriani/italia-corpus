@@ -1,8 +1,8 @@
-DECRETO DEL CAPO PROVVISORIO DELLO STATO 09 gennaio 1947 n. 51
+DECRETO DEL CAPO PROVVISORIO DELLO STATO 22 dicembre 1946 n. 705
 
 
-DECRETO DEL CAPO PROVVISORIO DELLO STATO 09 gennaio 1947 n. 51
-==============================================================
+DECRETO DEL CAPO PROVVISORIO DELLO STATO 22 dicembre 1946 n. 705
+================================================================
 
 Autorizzazione all'Universita' di Ferrara ad accettare una donazione.
 ---------------------------------------------------------------------
@@ -12,7 +12,7 @@ Art. 1
 
 N.
 
-51. Decreto del Capo provvisorio dello Stato 9 gennaio 1947, col quale, sulla proposta del Ministro per la pubblica istruzione, l'Universita' di Ferrara viene autorizzata ad accettare la donazione della somma di L. 9000, in titoli del Debito pubblico italiano, disposta in suo favore dal Comitato promotore per le onoranze al prof. Emilio Cavazzani, per la istituzione di un premio da intitolarsi al suo nome e da conferirsi a studenti dell'Ateneo ferrarese.  
+705. Decreto del Capo provvisorio dello Stato 22 dicembre 1946, col quale, sulla proposta del Ministro per la pubblica istruzione, l'Universita' di Ferrara viene autorizzata ad accettare la donazione della somma di L. 20.000 nominali, in titoli di Rendita 5%, disposta in suo favore dal prof. Giovanni Bernardi, con atto pubblico in data 30 ottobre 1942, per l'istituzione di una borsa di studio da intitolarsi al nome del "dott. Giancarlo Bernardi" e da conferirsi, ogni anno, ad uno studente della Facolta' di giurisprudenza, che se ne sia reso meritevole con la migliore classificazione negli esami stabiliti dal piano degli studi e che si trovi in condizioni economiche disagiate, con preferenza a combattenti, orfani o fratelli di caduti in guerra.  
   
 Visto, il Guardasigilli: GULLO  
-Registrato alla Corte dei Conti, addi' 3 marzo 1947
+Registrato alla Corte dei Conti, addi' 20 febbraio 1947

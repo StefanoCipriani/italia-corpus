@@ -1,15 +1,15 @@
-DECRETO-LEGGE 23 ottobre 1996 n. 544
+DECRETO-LEGGE 08 agosto 1996 n. 442
 
 
-DECRETO-LEGGE 23 ottobre 1996 n. 544
-====================================
+DECRETO-LEGGE 08 agosto 1996 n. 442
+===================================
 
 Disposizioni urgenti per assicurare l'attivita' delle emittenti 
 televisive e sonore, autorizzate in ambito locale, nonche' per 
 disciplinare le trasmissioni televisive in forma codificata.
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Entrata in vigore del decreto: 23/10/1996.Decreto-Legge decaduto per mancata conversione.
+Entrata in vigore del decreto: 26-8-1996.Decreto-Legge decaduto per mancata conversione.
 
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
@@ -20,7 +20,7 @@ Ritenuta la straordinaria necessita' ed urgenza di emanare disposizioni per assi
 
 Ritenuta, altresi', la straordinaria necessita' ed urgenza di emanare disposizioni per disciplinare le modalita' di accesso ai servizi audiotex;
 
-Vista la deliberazione del Consiglio dei Ministri, adottata nella riunione del 22 ottobre 1996;
+Vista la deliberazione del Consiglio dei Ministri, adottata nella riunione dell'8 agosto 1996;
 
 Sulla proposta del Presidente del Consiglio dei Ministri e del Ministro delle poste e delle telecomunicazioni;
 
@@ -42,9 +42,9 @@ Emittenti locali
 4. Il [comma 1 dell'articolo 9 della legge 6 agosto 1990, n. 223](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-08-06;223~art9-com1), come modificato dall'[articolo 11-bis del decreto-legge 27 agosto 1993, n. 323](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1993-08-27;323~art11bis), convertito, con modificazioni, dalla [legge 27 ottobre 1993, n. 422](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-10-27;422), e' sostituito dal seguente:  
 " 1. Le amministrazioni statali, gli enti pubblici territoriali, gli altri enti pubblici, compresi quelli economici, questi ultimi limitatamente alla pubblicita' diffusa sul territorio nazionale, sono tenuti a destinare alla pubblicita' su emittenti televisive locali operanti nei territori dei Paesi dell'Unione europea, nonche' su emittenti radiofoniche nazionali e locali operanti nei territori dei medesimi Paesi, almeno il 15 per cento delle somme stanziate in bilancio per le campagne pubblicitarie e di promozione delle proprie attivita'. Gli enti pubblici territoriali, gli altri enti pubblici a rilevanza regionale e locale, compresi quelli economici, sono tenuti a destinare, relativamente alla pubblicita' non diffusa in ambito nazionale, almeno il 25 per cento delle somme stanziate in bilancio, per le campagne pubblicitarie e di promozione delle proprie attivita', su emittenti televisive e radiofoniche locali operanti nei territori dei Paesi dell'Unione europea".
 
-5. Entro novanta giorni dalla data di entrata in vigore della legge di conversione del presente decreto, l'[articolo 4 del decreto del Presidente della Repubblica 27 marzo 1992, n. 255](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1992-03-27;255~art4), deve essere adeguato alle disposizioni del presente decreto, nonche' del [decreto-legge 23 ottobre 1996, n. 541](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1996-10-23;541).
+5. Entro novanta giorni dalla data di entrata in vigore della legge di conversione del presente decreto, l'[articolo 4 del decreto del Presidente della Repubblica 27 marzo 1992, n. 255](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1992-03-27;255~art4), deve essere adeguato alle disposizioni del presente decreto, nonche' del [decreto-legge 8 agosto 1996, n. 439](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1996-08-08;439).
 
-6. I pubblici ufficiali e gli amministratori degli enti pubblici che non adempiono agli obblighi previsti dal [comma 1 dell'articolo 9 della legge 6 agosto 1990, n. 223](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-08-06;223~art9-com1), come da ultimo sostituito dal comma 4 del presente articolo, dall'[articolo 5, commi 1](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1987-02-25;67~art5-com1), [2](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1987-02-25;67~art5-com2) e [4, dalla legge 25 febbraio 1987, n. 67](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1987-02-25;67~art5-com4), nonche' dall'[articolo 1, comma 1, del decreto-legge 23 ottobre 1996, n. 541](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1996-10-23;541~art1-com1), sono soggetti alla sanzione amministrativa del pagamento di una somma da lire un milione a lire dieci milioni, secondo le disposizioni dell'articolo 3, comma 2, del citato [decreto-legge n. 541 del 1996](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1996;541).
+6. I pubblici ufficiali e gli amministratori degli enti pubblici che non adempiono agli obblighi previsti dal [comma 1 dell'articolo 9 della legge 6 agosto 1990, n. 223](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-08-06;223~art9-com1), come da ultimo sostituito dal comma 4 del presente articolo, dall'[articolo 5, commi 1](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1987-02-25;67~art5-com1), [2](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1987-02-25;67~art5-com2) e [4, dalla legge 25 febbraio 1987, n. 67](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1987-02-25;67~art5-com4), nonche' dall'[articolo 1, comma 1, del decreto-legge 8 agosto 1996, n. 439](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1996-08-08;439~art1-com1), sono soggetti alla sanzione amministrativa del pagamento di una somma da lire un milione a lire dieci milioni, secondo le disposizioni dell'articolo 3, comma 2, del citato [decreto-legge n. 439 del 1996](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1996;439).
 
 Art. 2
 ------
@@ -66,14 +66,16 @@ Art. 4
 ------
 
 Proroga dei termini di durata delle concessioni per la  
-radiodiffusione sonora e delle autorizzazioni a ripetere programmi sonori esteri.
+radiodiffusione sonora e delle autorizzazioni a ripetere programmi  
+sonori esteri.
 
 1. E' prorogata la durata delle concessioni per la radiodiffusione sonora in ambito locale e nazionale rilasciate dal Ministero delle poste e delle telecomunicazioni ai sensi della [legge 6 agosto 1990, n. 223](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-08-06;223), e successive modificazioni, nonche' delle autorizzazioni a ripetere programmi sonori esteri, fino alla data di entrata in vigore della nuova disciplina del sistema radiotelevisivo e comunque non oltre il 28 agosto 1997.
 
 Art. 5
 ------
 
-Compravendita di emittenti, di impianti o rami di azienda radiofonici e televisivi. Modifica degli impianti. Emittenti radiofoniche comunitarie. Pubblicita' radiofonica e televisiva. Informazione locale.
+Compravendita di emittenti, di impianti o rami di azienda radiofonici e televisivi. Modifica degli impianti. Emittenti radiofoniche comunitarie. Pubblicita' radiofonica e televisiva.  
+Informazione locale.
 
 1. Durante il periodo di validita' delle concessioni per la radiodiffusione sonora e televisiva in ambito locale e per la radiodiffusione sonora in ambito nazionale sono consentiti i trasferimenti di intere emittenti televisive e radiofoniche da un concessionario ad un altro concessionario. Sono consentiti inoltre i trasferimenti di impianti o di rami di azienda tra concessionari in ambito locale e fra questi e i concessionari nazionali, o gli autorizzati di cui agli [articoli 38 e seguenti della legge 14 aprile 1975, n. 103](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1975-04-14;103~art38), inclusi negli articoli 1 e 3 del decreto del Ministro delle poste e delle telecomunicazioni 13 agosto 1992, di cui al comunicato [pubblicato nella Gazzetta Ufficiale n. 194 del 19 agosto 1992](http://www.gazzettaufficiale.it/gazzetta/serie_generale/caricaDettaglio?dataPubblicazioneGazzetta=1992-08-19&numeroGazzetta=194), o gli autorizzati alla prosecuzione dell'esercizio televisivo in ambito nazionale ai sensi dell'[articolo 11, comma 3, del decreto-legge 27 agosto 1993, n. 323](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1993-08-27;323~art11-com3), convertito, con modificazioni, dalla [legge 27 ottobre 1993, n. 422](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-10-27;422), ad eccezione dei concessionari televisivi che abbiano la copertura pari o superiore al 75 per cento del territorio nazionale, nonche' delle emittenti televisive criptate. La possibilita' di acquisizioni di impianti o rami di azienda in favore dei soggetti autorizzati ai sensi del citato [articolo 11, comma 3, del decreto-legge n. 323 del 1993](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1993;323~art11-com3) non modifica la disposizione dell'articolo 3, comma 2, dello stesso [decreto-legge n. 323 del 1993](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1993;323). E' soppresso l'ultimo periodo del comma 1 dell'articolo 6 del medesimo [decreto-legge n. 323 del 1993](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1993;323).
 
@@ -119,13 +121,6 @@ Accesso ai servizi audiotex
 Art. 8
 ------
 
-Abrogazione
-
-1. Sono abrogate le disposizioni del [decreto-legge 8 agosto 1996, n. 442](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1996-08-08;442).
-
-Art. 9
-------
-
 Entrata in vigore
 
 1. Il presente decreto entra in vigore il giorno stesso della sua pubblicazione nella Gazzetta Ufficiale della Repubblica italiana e sara' presentato alle Camere per la conversione in legge.
@@ -133,7 +128,7 @@ Entrata in vigore
 Il presente decreto, munito del sigillo dello Stato, sara' inserito nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 23 ottobre 1996
+### Dato a Roma, addi' 8 agosto 1996
 
 SCALFARO
 

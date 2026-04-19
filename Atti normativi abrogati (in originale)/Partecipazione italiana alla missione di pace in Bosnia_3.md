@@ -1,13 +1,13 @@
-DECRETO-LEGGE 01 marzo 1996 n. 99
+DECRETO-LEGGE 29 aprile 1996 n. 236
 
 
-DECRETO-LEGGE 01 marzo 1996 n. 99
-=================================
+DECRETO-LEGGE 29 aprile 1996 n. 236
+===================================
 
 Partecipazione italiana alla missione di pace in Bosnia.
 --------------------------------------------------------
 
-Entrata in vigore del decreto: 3/3/1996.Decreto-Legge decaduto per mancata conversione.
+Entrata in vigore del decreto: 2-5-1996.Decreto-Legge decaduto per mancata conversione.
 
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
@@ -26,7 +26,7 @@ Ritenuta la straordinaria necessita' ed urgenza di emanare disposizioni per assi
 
 Tenuto conto delle comunicazioni fatte dal Governo alle Camere il 14 dicembre 1995;
 
-Vista la deliberazione del Consiglio dei Ministri, adottata nella riunione del 26 febbraio 1996;
+Vista la deliberazione del Consiglio dei Ministri, adottata nella riunione del 24 aprile 1996;
 
 Sulla proposta del Presidente del Consiglio dei Ministri e Ministro del tesoro e dei Ministri della difesa e delle finanze, di concerto con i Ministri di grazia e giustizia e del bilancio e della programmazione economica;
 
@@ -89,12 +89,12 @@ Art. 6
 Art. 7
 ------
 
-1. Il presente decreto entra in vigore il giorno successivo a quello della sua pubblicazione nella Gazzetta Ufficiale della Repubblica italiana e sara' presentato alle Camere per la conversione in legge.
+1. Il presente decreto entra in vigore il giorno stesso della sua pubblicazione nella Gazzetta Ufficiale della Repubblica italiana e sara' presentato alle Camere per la conversione in legge.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserito nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 1 marzo 1996
+### Dato a Roma, addi' 29 aprile 1996
 
 SCALFARO
 
@@ -108,4 +108,4 @@ CAIANIELLO, Ministro di grazia e giustizia
 
 ARCELLI, Ministro del bilancio e della programmazione economica
 
-Visto, Il Guardasigilli: CAIANIELLO
+Visto, il Guardasigilli: CAIANIELLO

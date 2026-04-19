@@ -1,15 +1,15 @@
-DECRETO-LEGGE 08 novembre 1995 n. 461
+DECRETO-LEGGE 07 luglio 1995 n. 271
 
 
-DECRETO-LEGGE 08 novembre 1995 n. 461
-=====================================
+DECRETO-LEGGE 07 luglio 1995 n. 271
+===================================
 
 Modifiche al decreto del Presidente della Repubblica 17 maggio 
 1988, n. 175, relativo ai rischi di incidenti rilevanti connessi con 
 determinate attivita' industriali.
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Entrata in vigore del decreto: 9/11/1995.Decreto-Legge decaduto per mancata conversione.
+Entrata in vigore del decreto: 10/7/95.Decreto-Legge decaduto per mancata conversione.
 
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
@@ -26,9 +26,9 @@ Ritenuta la straordinaria necessita' ed urgenza di provvedere ad
 
 una sollecita applicazione delle disposizioni relative alla prevenzione di incidenti rilevanti degli impianti industriali ad alto rischio ed alla limitazione delle conseguenze per la popolazione e per l'ambiente di eventuali incidenti;
 
-Vista la deliberazione del Consiglio dei Ministri, adottata nella riunione del 7 novembre 1995;
+Vista la deliberazione del Consiglio dei Ministri, adottata nella riunione del 6 luglio 1995;
 
-Sulla proposta del Presidente del Consiglio dei Ministri e Ministro del tesoro e, ad interim, Ministro di grazia e giustizia e del Ministro dei lavori pubblici e dell'ambiente, di concerto con i Ministri dell'interno, del bilancio e della programmazione economica, della sanita' e dell'industria, del commercio e dell'artigianato e del commercio con l'estero;
+Sulla proposta del Presidente del Consiglio dei Ministri e Ministro del tesoro e del Ministro dei lavori pubblici e dell'ambiente, di concerto con i Ministri dell'interno, di grazia e giustizia, del bilancio e della programmazione economica, dell'industria, del commercio e dell'artigianato e del commercio con l'estero e della sanita';
 
 E M A N A il seguente decreto-legge:
 
@@ -331,7 +331,8 @@ d) aree industriali di Trecate e Novara;
 e) aree industriali del Lambro, Seveso, Olona;  
 f) area industriale della provincia di Savona;  
 g) aree contaminate da attivita' industriali nel territorio di Casale Monferrato e nei territori facenti parte della circoscrizione dell'unita' sanitaria locale 76;  
-h) aree contaminate da attivita' industriali della Valle Bormida (province di Asti, Alessandria e Cuneo).  
+h) aree contaminate da attivita' industriali della  
+Valle Bormida (province di Asti, Alessandria e Cuneo).  
 8. La dichiarazione di area critica ad elevata concentrazione di attivita' industriali non pregiudica la dichiarazione o il rinnovo della dichiarazione di area ad elevato rischio di crisi ambientale di cui all'[articolo 7 della legge 8 luglio 1986, n. 349](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1986-07-08;349~art7), come sostituito dall'[articolo 6 della legge 28 agosto 1989, n. 305](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1989-08-28;305~art6), per la stessa area territoriale o per il territorio che la comprende in tutto o in parte.  
 9. Una quota, fino ad un massimo del 2,5 per cento, delle risorse non ripartite, indicate nella tabella 4 della deliberazione del CIPE di cui al comma 7, puo' essere utilizzata dal Ministero dell'ambiente per la predisposizione, d'intesa con le regioni interessate e fatta salva la procedura di cui ai commi 2 e 3, del piano di risanamento delle aree critiche di cui al medesimo comma 7.  
 10. Il Ministro del tesoro e' autorizzato ad apportare, con propri decreti, le necessarie variazioni compensative di bilancio anche in conto residui tra i pertinenti capitoli dello stato di previsione del Ministero dell'ambiente per l'anno 1995.".
@@ -345,7 +346,7 @@ Art. 24
 "Art. 8 (Deroghe). - 1. Lo scarico diretto consistente nella reiniezione nella stessa falda o iniezione in altre falde, che uno studio idrogeologico dimostri confinate e costantemente inadatte a qualsiasi altro uso, in particolare ad usi domestici o agricoli, di acque utilizzate per scopi geotermici, di acque di infiltrazione di miniere o cave, di acque risultanti dalla produzione di idrocarburi o di acque pompate nel corso di determinati lavori di ingegneria civile, e' consentito in deroga ai divieti stabiliti dall'articolo 6.  
 La regione rilascia l'autorizzazione in conformita' con le disposizioni di cui all'articolo 10.".
 
-2. Sono differiti al 31 dicembre 1995 i termini del 31 dicembre 1994, previsti dall'articolo 5, commi 3 e 6, e dal paragrafo 45 dell'allegato 2 del [decreto del Ministro dell'ambiente in data 12 luglio 1990, pubblicato nel supplemento ordinario alla Gazzetta Ufficiale n. 176 del 30 luglio 1990](http://www.gazzettaufficiale.it/gazzetta/serie_generale/caricaDettaglio?dataPubblicazioneGazzetta=1990-07-30&numeroGazzetta=176), recante linee guida per il contenimento delle emissioni inquinanti degli impianti industriali e la fissazione dei valori minimi di emissione.
+2. Sono differiti al 31 agosto 1995 i termini del 31 dicembre 1994, previsti dall'articolo 5, commi 3 e 6, e dal paragrafo 45 dell'allegato 2 del [decreto del Ministro dell'ambiente in data 12 luglio 1990, pubblicato nel supplemento ordinario alla Gazzetta Ufficiale n. 176 del 30 luglio 1990](http://www.gazzettaufficiale.it/gazzetta/serie_generale/caricaDettaglio?dataPubblicazioneGazzetta=1990-07-30&numeroGazzetta=176), recante linee guida per il contenimento delle emissioni inquinanti degli impianti industriali e la fissazione dei valori minimi di emissione.
 
 Art. 25
 -------
@@ -355,56 +356,29 @@ Art. 25
 Il presente decreto, munito del sigillo dello Stato, sara' inserito nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 8 novembre 1995
+### Dato a Roma, addi' 7 agosto 1995
 
 SCALFARO
 
-DINI, Presidente del Consiglio dei
-
-Ministri e Ministro del tesoro e,
-
-ad interim, Ministro di grazia e giustizia
+DINI, Presidente del Consiglio dei Ministri e Ministro del tesoro
 
 BARATTA, Ministro dei lavori pubblici e dell'ambiente
 
 CORONAS, Ministro dell'interno
 
+MANCUSO, Ministro di grazia e giustizia
+
 MASERA, Ministro del bilancio e della programmazione economica
 
+CLO', Ministro dell'industria, del commercio e dell'artigianato e del commercio con l'estero
+
 GUZZANTI, Ministro della sanita'
-
-CLO', Ministro dell'industria del commercio e dell'artigianato e del commercio con l'estero
-
-Visto, il Guardasigilli: DINI
 
 Allegato A
 
  ALLEGATO A   
 (previsto dal comma 2 dell'articolo 6)   
-SCHEDA DI INFORMAZIONE   
-SUI RISCHI DI INCIDENTE RILEVANTE   
-Informazioni:   
-da fornire ai cittadini ed ai lavoratori in attuazione del [decreto del Presidente della Repubblica n. 175 del 1988](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1988;175), del decreto del Presidente del Consiglio dei Ministri 31 marzo 1989 e del Decreto del Ministro dell'Ambiente, di concerto con il Ministro della Sanita', 20.5.1991:   
-- tipo di processo produttivo secondo l'allegato I;   
-- sostanze presenti e le loro quantita' in ordine di grandezza secondo gli allegati II, III, e IV;   
-- rischi possibili per i lavoratori, la popolazione e l'ambiente;   
-- misure di sicurezza e le norme di comportamento in casi di incidente.   
-Sezione 1   
   
-! \_ ! . ../ . . . ../ . . . . ./ . . \_ ! Ente compilatore \_ ! (N.  
-Progressivo) \_ ! \_ ! \_ ! (Comune-USL-ecc.) \_ ! \_ ! \_ ! \_ ! (indirizzo) \_ ! \_ ! \_ ! (Prov.) (Comune) (telefono) \_ ! \_ ! \_ Sezione 2   
   
-! \_ ! . ../ . . . ../ . . . . ./ . . \_ ! Rif. Pubblica Amm.ne \_ ! (N.  
-Progressivo) \_ ! \_ ! Responsabile informazione pubblica \_ ! \_ ! Ente/Ufficio \_ ! (telefono) \_ ! \_ ! \_ ! (indirizzo) (Comune) (Prov.) \_ ! \_ ! \_ ! ev. Riferimento nominativo \_ ! \_ ! Responsabile primo intervento \_ ! Ente/Ufficio \_ ! \_ ! \_ ! \_ ! (telefono) (indirizzo) \_ ! \_ ! \_ ! (Comune) (Provincia) \_ ! \_ ! ev. Riferimento nominativo \_ ! \_ ! Responsabile Piano di Emergenza Esterna \_ ! \_ ! \_ ! \_ ! Ente/Ufficio \_ ! \_ ! \_ ! (telefono) (indirizzo) \_ ! \_ ! \_ ! (Comune) (Provincia) \_ ! \_ ! ev. Riferimento nominativo \_ ! \_ ! \_ Sezione 3   
-! \_ ! \_ ! (data) \_ ! . ../ . . . ../ . . . . ./ . . \_ ! \_ ! (N.  
-Progressivo) \_ ! \_ ! Stabilimento di \_ ! (ragione sociale) \_ ! \_ ! \_ ! (ubicazione) \_ ! \_ ! \_ ! (Prov.) (Comune) (telefono) \_ ! \_ ! \_ ! (Tipologia di impianti) (classe: A, B1, B2, C) \_ ! DEPOSITI DI LIQUIDI INFIAMMABILI \_ ! \_ ! \_ ! \_ ! \_ ! DEPOSITI DI GAS COMBUST.  
-LIQUEFATTI \_ ! \_ ! \_ ! \_ ! \_ ! \_ ! DEPOSITI DI ALTRE SOSTANZE \_ ! \_ ! \_ ! \_ ! \_ ! IMPIANTI CHIMICI \_ ! \_ ! \_ ! \_ ! \_ ! IMPIANTI DI RAFFINAZIONE \_ ! \_ ! \_ ! \_ ! \_ ! SOSTANZE PRESENTI QUANTITA' TOTALI(t)\_ ! \_ ! \_ ! \_ ! \_ ! \_ ! \_ Sezione 4   
+[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=095G031100100010110001&dgu=1995-07-10&art.dataPubblicazioneGazzetta=1995-07-10&art.codiceRedazionale=095G0311)
   
-! \_ ! . ../ . . . ../ . . . . ./ . . \_ ! (N. Progressivo) \_ ! \_ ! Evento Iniziale \_ Condizioni \_ \_ ! \_ \_ \_ ! \_ \_ \_ ! Incendio si \_ localizzato 0 \_ in fase liquida 0 \_ ! \_ \_ \_ ! \_ \_ in fase gas vapore \_ ! no \_ \_ ad alta velocita' 0 \_ ! \_ \_ \_ ! \_ in aria 0 \_ in fase gas vapore 0 \_ ! \_ \_ \_ ! \_ \_ ! Esplosione si \_ confinata 0 \_ ! \_ \_ ! \_ \_ ! \_ non confinata 0 \_ ! no \_ \_ ! \_ \_ ! \_ transizione rapida di 0 \_ ! \_ fase \_ ! \_ \_ ! \_ in fase liquida 0 \_ in acqua 0 \_ ! Rilascio di \_ \_ \_ ! sostanze \_ \_ sul suolo 0 \_ ! pericolose: \_ \_ \_ ! si \_ in fase gas/vapore 0 \_ ad alta o bassa 0 \_ ! no \_ \_ velocita' di rilascio \_ ! \_ \_ \_   
-Sezione 5   
-  
-! Tipo di rischio \_ ! . ../ . . . ../ . . . . ./ . . \_ ! (N.  
-Progressivo) \_ ! \_ ! \_ ! \_ ! \_ ! \_ ! \_ ! \_ ! es. liberazione di sostanze tossiche per \_ ! ingestione/inalazione/contatto; irraggiamento (sfera di fuoco) \_ ! onde d'urto (rottura vetri), ecc. \_ ! \_ ! \_ ! Misure di Prevenzione e Sicurezza adottate \_ ! \_ ! N.B. specificare le conclusioni dell'istruttoria della P.A. e la \_ ! eventuali misure aggiuntive prescritte \_ ! \_ ! \_ ! \_ ! \_ ! \_ ! es. sistemi di allarme automatico e di arresto di sicurezza; \_ ! serbatoi di contenimento; barriere antincendio; ecc. (come da rif.\_ ! par.  
-DPCM 31/3/89), specificare conclusioni istruttoria P.A. \_ ! \_ Sezione 6   
-  
-! \_ ! . ../ . . . ../ . . . . ./ . . \_ ! (N. Progressivo) \_ ! \_ ! Mezzi di segnalazione di incidenti \_ ! \_ ! \_ ! \_ ! \_ ! (es. sirene, altoparlanti; campane, ecc.) \_ ! \_ ! \_ ! Comportamento da seguire \_ ! \_ ! \_ ! \_ ! (specificare i diversi comportamenti; in generale e' opportuno: \_ ! non lasciare l'abitazione, fermare la ventilazione, chiudere le \_ ! finestre, seguire le indicazioni date dalle autorita' competenti).\_ ! \_ ! \_ ! Mezzi di comunicazione previsti \_ ! \_ ! \_ ! \_ ! (specificare quali: es. radio locale, Tv locale, altoparlanti, \_ ! ecc.) \_ ! \_ ! \_ ! Presidi di Pronto Soccorso \_ ! \_ ! \_ ! \_ ! \_ ! \_ ! es. intervento VV.FF., Protezione civile e forze dell'ordine; \_ ! allerta di autoambulanze ed ospedali, blocco e incanalamento del \_ ! traffico, ecc.). \_ ! \_   

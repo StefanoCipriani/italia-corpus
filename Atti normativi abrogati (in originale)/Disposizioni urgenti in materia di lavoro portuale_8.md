@@ -1,28 +1,28 @@
-DECRETO-LEGGE 12 agosto 1993 n. 314
+DECRETO-LEGGE 16 dicembre 1993 n. 525
 
 
-DECRETO-LEGGE 12 agosto 1993 n. 314
-===================================
+DECRETO-LEGGE 16 dicembre 1993 n. 525
+=====================================
 
 Disposizioni urgenti in materia di lavoro portuale.
 ---------------------------------------------------
 
-Entrata in vigore del decreto: 22-8-1993.Decreto-Legge decaduto per mancata conversione.
+Entrata in vigore del decreto: 20/12/1993.Decreto-Legge decaduto per mancata conversione.
 
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
 Visti gli [articoli 77](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27~art77) e [87 della Costituzione](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27~art87);
 
-Vista la sentenza della Corte di giustizia della Comunita' economica europea in data 10 dicembre 1991, che ha dichiarato la normativa italiana relativa al lavoro portuale incompatibile con l'articolo 90, in combinato disposto con gli articoli 30, 48 e 86, del trattato CEE;
+Vista la sentenza della Corte di giustizia della Comunita' europea in data 10 dicembre 1991, che ha dichiarato la normativa italiana relativa al lavoro portuale incompatibile con l'articolo 90, in combinato disposto con gli articoli 30, 48 e 86, del trattato CE;
 
-Considerato che la Commissione CEE ha invitato il Governo italiano a comunicare, entro il 30 settembre 1992, le misure che intende adottare per conformare la normativa interna al diritto comunitario;
+Considerato che la Commissione CE ha invitato il Governo italiano a comunicare, entro il 30 settembre 1992, le misure che intende adottare per conformare la normativa interna al diritto comunitario;
 
 Considerato, altresi', che la stessa Commissione si e' riservata di avviare il procedimento di infrazione qualora, sempre entro il 30 settembre 1992, le misure adottate non fossero sufficienti a rendere la normativa nazionale conforme al diritto comunitario;
 
-Ritenuta, pertanto, la straordinaria necessita' ed urgenza di emanare disposizioni in tema di libera concorrenza nel settore portuale, al fine di corrispondere all'invito della Commissione CEE;
+Ritenuta, pertanto, la straordinaria necessita' ed urgenza di emanare disposizioni in tema di libera concorrenza nel settore portuale, al fine di corrispondere all'invito della Commissione CE;
 
-Vista la deliberazione del Consiglio dei Ministri, adottata nella riunione del 6 agosto 1993;
+Vista la deliberazione del Consiglio dei Ministri, adottata nella riunione del 14 dicembre 1993;
 
 Sulla proposta del Presidente del Consiglio dei Ministri e del Ministro della marina mercantile, di concerto con i Ministri delle finanze, del tesoro e del bilancio e della programmazione economica;
 
@@ -33,9 +33,9 @@ Art. 1
 
 Nuova disciplina delle attivita' portuali
 
-1. L'articolo 110, ultimo comma, e l'articolo 111, ultimo comma, del [codice della navigazione](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-03-30;327) sono abrogati. Sono parimenti abrogati, a partire dal novantesimo giorno successivo alla data di entrata in vigore del presente decreto, gli articoli 108, 109, 110, commi primo, secondo, terzo e quarto, 111, commi primo, secondo e terzo, 112, 116, comma primo, n. 2), 1171, comma primo, n. 1), e 1172 del [codice della navigazione](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-03-30;327), nonche' gli articoli contenuti nel libro I, titolo III, capo IV, del regolamento per l'esecuzione del [codice della navigazione](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-03-30;327), approvato con [decreto del Presidente della Repubblica 15 febbraio 1952, n. 328](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1952-02-15;328), per le parti afferenti la navigazione marittima. E' altresi' abrogato l'[articolo 1279 del codice della navigazione](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-03-30;327~art1279) a decorrere dal 1' gennaio 1994.
+1. L'articolo 110, ultimo comma, e l'articolo 111, ultimo comma, del [codice della navigazione](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-03-30;327) sono abrogati. Sono parimenti abrogati, a partire dal novantesimo giorno successivo alla data di entrata in vigore del presente decreto, gli articoli 108, 109, 110, commi primo, secondo, terzo e quarto, 111, commi primo, secondo e terzo, 112, 116, comma primo, n. 2), 1171, comma primo, n. 1) e 1172 del [codice della navigazione](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-03-30;327), nonche' gli articoli contenuti nel libro I, titolo III, capo IV, del regolamento per l'esecuzione del [codice della navigazione](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-03-30;327), approvato con [decreto del Presidente della Repubblica 15 febbraio 1952, n. 328](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1952-02-15;328), per le parti afferenti la navigazione marittima. E' altresi' abrogato l'[articolo 1279 del codice della navigazione](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-03-30;327~art1279) a decorrere dal 1 gennaio 1996.
 
-2. La vigilanza sull'espletamento delle attivita' portuali di carico, scarico, trasporto, deposito e movimento in genere delle merci e di ogni altro materiale nel porto e di quelle complementari ed accessorie, nonche' sull'applicazione della misura delle tariffe indicate da ciascuna impresa, e' esercitata dagli enti portuali e, laddove non istituiti, dalle autorita' marittime.
+2. La vigilanza sull'espletamento delle attivita' portuali di carico, scarico, trasbordo, deposito e movimento in genere delle merci e di ogni altro materiale nel porto e di quelle complementari ed accessorie, nonche' sull'applicazione della misura delle tariffe indicate da ciascuna impresa, e' esercitata dagli enti portuali e, laddove non istituiti, dalle autorita' marittime.
 
 3. L'esercizio di attivita' portuali di cui al comma 2, espletate per conto proprio e/o per conto di terzi, e' soggetto ad autorizzazione dell'ente portuale e, laddove non istituito, del capo del compartimento marittimo.
 
@@ -68,7 +68,8 @@ d) organico di lavoratori da assumere alle dirette dipendenze, rapportato alle e
 Art. 2
 ------
 
-Trasformazione in societa' delle compagnie e dei gruppi portuali
+Trasformazione in societa'  
+delle compagnie e dei gruppi portuali
 
 1. Le compagnie ed i gruppi portuali, entro novanta giorni dalla data di entrata in vigore del presente decreto, si trasformano secondo i tipi societari previsti nel libro V, titoli V e VI, del [codice civile](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262).
 
@@ -118,9 +119,11 @@ Commissioni consultive
 Art. 6
 ------
 
-Nuova disciplina della concessione delle aree demaniali e delle banchine
+Nuova disciplina della concessione  
+delle aree demaniali e delle banchine
 
-1. Le aree demaniali e le banchine nell'ambito portuale destinate ad attivita' di carico, scarico e deposito di merci, oltreche' ad attivita' relative a passeggeri o servizi di preminente interesse commerciale o industriale, possono essere date in concessione, qualora non sia possibile la loro utilizzazione ad uso governativo, alle imprese di cui all'articolo 1, previe idonee forme di pubblicita', stabilite dal Ministro della marina mercantile, con proprio decreto, al fine di assicurare la concorrenza nel settore e la parita' di condizioni tra gli operatori.
+1. Le aree demaniali e le banchine nell'ambito portuale destinate ad attivita' di carico, scarico e deposito di merci, oltreche' ad attivita' relative a passeggeri o servizi di preminente interesse commerciale o industriale, possono essere date in concessione, qualora non sia possibile la loro utilizzazione ad uso governativo, alle imprese di cui all'articolo 1, previe idonee forme di pubblicita', stabilite dal Ministro della marina mercantile, con proprio decreto, al fine di assicurare la concorrenza nel settore  
+e la parita' di condizioni tra gli operatori.
 
 2. Il rilascio della concessione di cui al comma 1 e' subordinato alla sussistenza, nei destinatari dell'atto concessorio, dei seguenti requisiti:
 
@@ -143,14 +146,25 @@ b) sussistenza di adeguate attrezzature tecniche ed organizzative, idonee a sodd
 Art. 7
 ------
 
+Interventi vari
+
+1. Qualora gli interventi di cui all'[articolo 1, comma 2, del decreto-legge 7 settembre 1992, n. 370](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1992-09-07;370~art1-com2), convertito dalla [legge 5 novembre 1992, n. 428](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1992-11-05;428), risultino non conformi alla normativa comunitaria in materia, il Governo attiva le procedure per il recupero delle somme erogate alle compagnie e gruppi portuali, unitamente ai relativi interessi legali.
+
+2. Il commissario liquidatore di cui all'[articolo 4 del decreto- legge 22 gennaio 1990, n. 6](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1990-01-22;6~art4), convertito, con modificazioni, dalla [legge 24 marzo 1990, n. 58](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-03-24;58), ed il collegio sindacale restano in carica fino al completamento degli atti di liquidazione e comunque non oltre il 31 dicembre 1996.
+
+3. Nel rispetto del limite massimo di ottocento unita' di personale, tra i lavoratori ammessi a fruire del beneficio di cui all'[articolo 6, comma 15, del decreto-legge 20 maggio 1993, n. 148](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1993-05-20;148~art6-com15), convertito, con modificazioni, dalla [legge 19 luglio 1993, n. 236](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-07-19;236), e' ricompreso anche il personale addetto al servizio di rimorchio dei porti, di cui all'[articolo 101 del codice della navigazione](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-03-30;327~art101).
+
+Art. 8
+------
+
 Entrata in vigore
 
-1. Il presente decreto entra in vigore il giorno successivo a quello della sua pubblicazione nella Gazzetta Ufficiale della Repubblica italiana e sara' presentato alle Camere per la conversione in legge.
+1. Il presente decreto entra in vigore il giorno stesso della sua pubblicazione nella Gazzetta Ufficiale della Repubblica italiana e sara' presentato alle Camere per la conversione in legge.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserito nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Pian di Cansiglio, addi' 12 agosto 1993
+### Dato a Roma, addi' 16 dicembre 1993
 
 SCALFARO
 

@@ -1,13 +1,13 @@
-DECRETO-LEGGE 16 maggio 1994 n. 292
+DECRETO-LEGGE 17 marzo 1994 n. 177
 
 
-DECRETO-LEGGE 16 maggio 1994 n. 292
-===================================
+DECRETO-LEGGE 17 marzo 1994 n. 177
+==================================
 
 Modifiche alla disciplina degli scarichi delle pubbliche fognature e degli insediamenti civili che non recapitano in pubbliche fognature.
 -----------------------------------------------------------------------------------------------------------------------------------------
 
-Entrata in vigore del decreto: 18-5-1994.Decreto-Legge decaduto per mancata conversione.
+Entrata in vigore del decreto: 19-03-1994.Decreto-Legge decaduto per mancata conversione.
 
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
@@ -16,12 +16,11 @@ Visti gli [articoli 77](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:cost
 
 Ritenuta la straordinaria necessita' ed urgenza di emanare disposizioni in materia di disciplina degli scarichi delle pubbliche fognature;
 
-Vista la deliberazione del Consiglio dei Ministri, adottata nella riunione del 13 maggio 1994;
+Vista la deliberazione del Consiglio dei Ministri, adottata nella riunione del 16 marzo 1994;
 
-Sulla
------
+Sulla proposta del Presidente del Consiglio dei Ministri, di concerto con i Ministri di grazia e giustizia, dell'industria, del commercio e dell'artigianato e per il coordinamento delle politiche comunitarie e gli affari regionali;
 
-proposta del Presidente del Consiglio dei Ministri e del Ministro dell'ambiente, di concerto con i Ministri di grazia e giustizia, dell'industria, del commercio e dell'artigianato e per la funzione pubblica e gli affari regionali; E M A N A il seguente decreto-legge:
+E M A N A il seguente decreto-legge:
 
 Art. 1
 ------
@@ -31,7 +30,7 @@ Art. 1
 
 2. Restano ferme le prescrizioni adottate, anteriormente alla data di entrata in vigore del presente decreto, in materia di scarichi civili che non recapitano in pubbliche fognature e di scarichi delle pubbliche fognature ed in particolare quelle di cui alla delibera in data 30 dicembre 1980 del Comitato interministeriale previsto dall'[articolo 3 della legge 10 maggio 1976, n. 319](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1976-05-10;319~art3), [pubblicata nella Gazzetta Ufficiale n. 9 del 10 gennaio 1981](http://www.gazzettaufficiale.it/gazzetta/serie_generale/caricaDettaglio?dataPubblicazioneGazzetta=1981-01-10&numeroGazzetta=9).
 
-3. Le disposizioni del presente decreto si applicano in attesa dell'attuazione della [direttiva 271/91/CEE del Consiglio del 21 maggio 1991](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:31991L0271).
+3. Le disposizioni del presente decreto si applicano in attesa dell'attuazione della [direttiva 271/91/CEE](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:31991L0271).
 
 Art. 2
 ------
@@ -43,23 +42,21 @@ Fatte salve le disposizioni penali previste per l'inosservanza degli obblighi co
 Art. 3
 ------
 
-1. Il presente decreto entra in vigore il giorno stesso della sua pubblicazione nella Gazzetta Ufficiale della Repubblica italiana e sara' presentato alle Camere per la conversione in legge.
+1. Le disposizioni del presente decreto hanno effetto dal 20 marzo 1994. Il presente decreto entra in vigore il giorno successivo a quello della sua pubblicazione nella Gazzetta Ufficiale della Repubblica italiana e sara' presentato alle Camere per la conversione in legge.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserito nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 16 maggio 1994
+### Dato a Roma, addi' 17 marzo 1994
 
 SCALFARO
 
-BERLUSCONI, Presidente del Consiglio dei Ministri
+CIAMPI, Presidente del Consiglio dei Ministri
 
-MATTEOLI, Ministro dell'ambiente
+CONSO, Ministro di grazia e giustizia
 
-BIONDI, Ministro di grazia e giustizia
+SAVONA, Ministro dell'industria, del commercio e dell'artigianato
 
-GNUTTI, Ministro dell'industria, del commercio e dell'artigianato
+PALADIN, Ministro per il coordinamento delle politiche comunitarie e gli affari regionali
 
-URBANI, Ministro per la funzione pubblica e gli affari regionali
-
-Visto, il Guardasigilli: BIONDI
+Visto, il Guardasigilli: CONSO

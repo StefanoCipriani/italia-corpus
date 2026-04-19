@@ -1,13 +1,13 @@
-DECRETO-LEGGE 17 gennaio 1994 n. 33
+DECRETO-LEGGE 17 settembre 1993 n. 363
 
 
-DECRETO-LEGGE 17 gennaio 1994 n. 33
-===================================
+DECRETO-LEGGE 17 settembre 1993 n. 363
+======================================
 
 Disciplina della proroga degli organi amministrativi.
 -----------------------------------------------------
 
-Entrata in vigore del decreto: 19/1/1994.Decreto-Legge decaduto per mancata conversione.
+Entrata in vigore del decreto: 19/9/1993.Decreto-Legge decaduto per mancata conversione.
 
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
@@ -16,7 +16,7 @@ Visti gli [articoli 77](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:cost
 
 Ritenuta la straordinaria necessita' ed urgenza di disciplinare, con principi generali uniformi, la proroga degli organi amministrativi temporanei oltre la scadenza per ciascuno di essi prevista, nonche' le conseguenze delle omesse ricostituzioni degli organi medesimi, al fine di assicurare con immediatezza la legalita', il buon andamento e l'imparzialita' dell'organizzazione amministrativa imposti dall'[articolo 97 della Costituzione](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27~art97); principi cui, allo stato, non corrispondono le molteplici, prolungate e non piu' sostenibili situazioni di proroga tuttora in atto;
 
-Vista la deliberazione del Consiglio dei Ministri, adottata nella riunione del 14 gennaio 1994;
+Vista la deliberazione del Consiglio dei Ministri, adottata nella riunione del 15 settembre 1993;
 
 Sulla proposta del Presidente del Consiglio dei Ministri;
 
@@ -125,7 +125,7 @@ Entrata in vigore
 Il presente decreto, munito del sigillo dello Stato, sara' inserito nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 17 gennaio 1994
+### Dato a Roma, addi' 17 settembre 1993
 
 SCALFARO
 

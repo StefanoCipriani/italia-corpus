@@ -1,14 +1,14 @@
-DECRETO-LEGGE 02 aprile 1996 n. 179
+DECRETO-LEGGE 01 febbraio 1996 n. 37
 
 
-DECRETO-LEGGE 02 aprile 1996 n. 179
-===================================
+DECRETO-LEGGE 01 febbraio 1996 n. 37
+====================================
 
 Disposizioni urgenti per l'ottimale funzionamento ed organizzazione 
 dei commissariati del Governo.
 ---------------------------------------------------------------------------------------------------
 
-Entrata in vigore del decreto: 2-4-1996.Decreto-Legge decaduto per mancata conversione.
+Entrata in vigore del decreto: 1/2/1996.Decreto-Legge decaduto per mancata conversione.
 
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
@@ -17,7 +17,7 @@ Visti gli [articoli 77](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:cost
 
 Ritenuta la straordinaria necessita' ed urgenza di assicurare il pieno ed efficace funzionamento dei commissariati del Governo nell'espletamento delle numerose e delicate incombenze affidate ai predetti organi, nonche' di ridurre i contingenti di personale di altre amministrazioni in servizio presso la Presidenza del Consiglio dei Ministri;
 
-Vista la deliberazione del Consiglio dei Ministri, adottata nella riunione del 1 aprile 1996;
+Vista la deliberazione del Consiglio dei Ministri, adottata nella riunione del 29 gennaio 1996;
 
 Sulla proposta del Presidente del Consiglio dei Ministri e Ministro del tesoro e del Ministro per la funzione pubblica e gli affari regionali, di concerto con il Ministro dell'interno;
 
@@ -59,93 +59,106 @@ Art. 3
 Il presente decreto, munito del sigillo dello Stato, sara' inserito nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 2 aprile 1996
+### Dato a Roma, addi' 1 febbraio 1996
 
-Il Presidente del Senato della Repubblica nell'esercizio delle
-
-funzioni del Presidente della Repubblica, ai sensi dell'articolo 86 della Costituzione SCOGNAMIGLIO PASINI
+SCALFARO
 
 DINI, Presidente del Consiglio dei Ministri e Ministro del tesoro
 
-MOTZO, Ministro per la funzione pubblica e gli affari regionali
+FRATTINI, Ministro per la funzione pubblica e gli affari regionali
 
 CORONAS, Ministro dell'interno
 
-Visto, il Guardasigilli: CAIANIELLO
+Visto, il Guardasigilli: DINI
 
-Tabella A
+Allegato
 
-TABELLA A - Organico dei consiglieri della Presidenza del Consiglio dei Ministri (articoli 30, 31, 32 e 38)   
-
-|  |  |  |  |
-| --- | --- | --- | --- |
-| Dirigente generale e qualifiche equiparate: livello B . . . . . .. livello C . . . . . .. Dirigente . . . . . .. Totale .. | In ruolo 5 37 (\*) 176 218 | Comandati e fuori ruolo \ > 18 / 82 100 | Esperti e consiglieri e tempo parziale 100 |
-
-  
-(\*) Di cui 4 riservati al personale dirigente dei commissariati di Governo in servizio alla data entrata in vigore della presente legge.   
-  
-
-Tabella B
-
-TABELLA B - Organico del personale non dirigenziale della Presidenza del Consiglio dei Ministri (articoli 30, 32, 37 e 38)   
-  
+ Allegato Tabella A - Organico dei consiglieri della Presidenza del Consiglio dei Ministri (articoli 30, 31, 32 e 38)   
   
 =====================================================================  
-| In ruolo | Comandati e | Incaricati  
-| | fuori ruolo |  
+| | | Esperti  
+| In ruolo |Comandati|consiglieri  
+| | e fuori | a tempo  
+| | ruolo | parziale  
+| | |  
+Dirigente generale e qualifiche | | |  
+equiparate: | | |  
 | | |  
 | | |  
-Qualifiche ad esaurimento | 24 | \ |  
-| | | |  
-IX qualifica funzionale | 96 | > 105 |  
-| | | |  
-VIII qualifica funzionale | 231 | / |  
+livello B . . . . . . . . . . . | 5 | | |  
+| | |- 18 |  
+livello C . . . . . . . . . . . | 37(\*) | | | 100  
 | | |  
-VII qualifica funzionale | 435 | \ |  
-| | > 150 | 30  
-VI qualifica funzionale | 346 | / |  
+Dirigente . . . . . . . . . . . . | 176 | 82 |  
 | | |  
-V qualifica funzionale | 603 | \ |  
-| | > 310 |  
-IV qualifica funzionale | 373 | / |  
-| | |  
-III qualifica funzionale | 147 | \ |  
-| | > 65 |  
-II qualifica funzionale | 11 | / |  
-| | |  
-Totale . .| 2266 | 630 |  
-=====================================================================
-
-Tabella C
-
-TABELLA C - Organico del personale dei Commissariati del Governo   
-nelle regioni (articoli 30, 38 e 39)   
+Totale . .. | 218 | 100 |  
+| | |
   
+  
+  
+(\*) Di cui 4 riservati al personale dirigente dei commissariati   
+di Governo in servizio alla data di entrata in vigore della   
+presente legge.   
   
 =====================================================================  
-| In ruolo | Comandati e  
-| | fuori ruolo  
-| |  
-| |  
-Dirigente . . . . . . .. | 120 | 30  
-| |  
-Qualifiche ad esaurimento | 1 | \  
+  
+  
+Tabella B - Organico del personale non dirigenziale della Presidenza del Consiglio dei Ministri (articoli 30, 32, 37 e 38)   
+  
+=====================================================================  
+| In ruolo |Comandati|  
+| | e fuori |Incaricati  
+| | ruolo |  
 | | |  
-IX qualifica funzionale | 19 | > 40  
+Qualifiche ad esaurimento . . .. | 24 | | |  
+IX qualifica funzionale . . . .. | 96 | |- 105 |  
+VIII qualifica funzionale . . . . | 231 | | |  
 | | |  
-VIII qualifica funzionale | 38 | /  
-| |  
-VII qualifica funzionale | 58 | \  
-| | > 40  
-VI qualifica funzionale | 36 | /  
-| |  
-V qualifica funzionale | 90 | \  
-| | > 60  
-IV qualifica funzionale | 57 | /  
-| |  
-III qualifica funzionale | 59 | \  
-| | > 30  
-II qualifica funzionale | 5 | /  
-| |  
-Totale . .| 483 | 200  
+VII qualifica funzionale . . . .. | 435 | | |  
+| | |- 150 |  
+VI qualifica funzionale . . . .. | 346 | | |  
+| | |  
+V qualifica funzionale . . . . . | 603 | | |  
+| | |- 310 |  
+IV qualifica funzionale . . . .. | 373 | | |  
+| | |  
+III qualifica funzionale . . . . | 147 | | |  
+| | |- 65 |  
+II qualifica funzionale . . . .. | 11 | | |  
+| | |  
+Totale . . .. | 2266 | 630 |  
 =====================================================================
+  
+  
+  
+Tabella C - Organico del personale dei Commissariati del Governo   
+nelle regioni (articoli 30, 38 e 39)"   
+  
+===============================================================  
+| In ruolo | Comandati |  
+| | e fuori |  
+| | ruolo |  
+| | |  
+| | |  
+Dirigente . . . . . . . . . .. | 120 | 30 |  
+| | |  
+Qualifiche ad esaurimento . . . | 1 | | |  
+| | | |  
+IX qualifica funzionale . . .. | 19 | |- 40 |  
+| | | |  
+VIII qualifica funzionale . .. | 38 | | |  
+| | |  
+VII qualifica funzionale . . . | 58 | | |  
+| | |- 40 |  
+VI qualifica funzionale . . .. | 36 | | |  
+| | |  
+V qualifica funzionale . . . .. | 90 | | |  
+| | |- 60 |  
+IV qualifica funzionale . . .. | 57 | | |  
+| | |  
+III qualifica funzionale . . .. | 59 | | |  
+| | |- 30 |  
+II qualifica funzionale . . . . | 5 | | |  
+| | |  
+Totale . . | 483 | 200 |  
+===============================================================

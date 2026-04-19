@@ -1,14 +1,14 @@
-DECRETO-LEGGE 29 dicembre 1995 n. 555
+DECRETO-LEGGE 30 ottobre 1995 n. 450
 
 
-DECRETO-LEGGE 29 dicembre 1995 n. 555
-=====================================
+DECRETO-LEGGE 30 ottobre 1995 n. 450
+====================================
 
 Interventi urgenti di carattere previdenziale per il personale del 
 Gruppo Alitalia.
 ------------------------------------------------------------------------------------
 
-Entrata in vigore del decreto: 30-12-1995.Decreto-Legge decaduto per mancata conversione.
+Entrata in vigore del decreto: 30-10-1995.Decreto-Legge decaduto per mancata conversione.
 
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
@@ -17,7 +17,7 @@ Visti gli [articoli 77](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:cost
 
 Ritenuta la straordinaria necessita' ed urgenza di emanare disposizioni per attuare il programma di carattere previdenziale riguardante il personale del Gruppo Alitalia;
 
-Vista la deliberazione del Consiglio dei Ministri, adottata nella riunione del 21 dicembre 1995;
+Vista la deliberazione del Consiglio dei Ministri, adottata nella riunione del 27 ottobre 1995;
 
 Sulla proposta del Presidente del Consiglio dei Ministri e Ministro del tesoro e dei Ministri del lavoro e della previdenza sociale e dei trasporti e della navigazione, di concerto con il Ministro del bilancio e della programmazione economica;
 
@@ -40,19 +40,19 @@ b) possono essere altresi' ammessi al beneficio del pensionamento anticipato ris
 
 4. All'onere di lire 6,4 miliardi per l'anno 1995, di lire 22,8 miliardi per l'anno 1996 e di lire 27,4 miliardi per l'anno 1997, si provvede mediante corrispondente riduzione dello stanziamento iscritto, ai fini del bilancio triennale 1995-1997, al capitolo 6856 dello stato di previsione del Ministero del tesoro per l'anno 1995, all'uopo parzialmente utilizzando l'accantonamento relativo al Ministero dei trasporti e della navigazione.
 
-5. Il Ministro del tesoro e' autorizzato ad apportare, con propri decreti, le occorrenti variazioni di bilancio.
+5. Il Ministro del tesoro e' autorizzato ad apportare con propri decreti le occorrenti variazioni di bilancio.
 
 Art. 2
 ------
 
 Entrata in vigore
 
-1. Il presente decreto entra in vigore il giorno successivo a quello della sua pubblicazione nella Gazzetta Ufficiale della Repubblica italiana e sara' presentato alle Camere per la conversione in legge.
+1. Il presente decreto entra in vigore il giorno stesso della sua pubblicazione nella Gazzetta Ufficiale della Repubblica italiana e sara' presentato alle Camere per la conversione in legge.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserito nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 29 dicembre 1995
+### Dato a Roma, addi' 30 ottobre 1995
 
 SCALFARO
 

@@ -1,14 +1,14 @@
-DECRETO-LEGGE 28 febbraio 1995 n. 57
+DECRETO-LEGGE 29 dicembre 1995 n. 553
 
 
-DECRETO-LEGGE 28 febbraio 1995 n. 57
-====================================
+DECRETO-LEGGE 29 dicembre 1995 n. 553
+=====================================
 
 Disposizioni urgenti in materia di assistenza farmaceutica e di 
 sanita'.
 -------------------------------------------------------------------------
 
-Entrata in vigore del decreto: 28/2/1995.Decreto-Legge decaduto per mancata conversione.
+Entrata in vigore del decreto: 30-12-1995.Decreto-Legge decaduto per mancata conversione.
 
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
@@ -17,7 +17,7 @@ Visti gli [articoli 77](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:cost
 
 Ritenuta la straordinaria necessita' ed urgenza di emanare disposizioni in materia di assistenza farmaceutica e di sanita';
 
-Vista la deliberazione del Consiglio dei Ministri, adottata nella riunione del 27 febbraio 1995;
+Vista la deliberazione del Consiglio dei Ministri, adottata nella riunione del 21 dicembre 1995;
 
 Sulla proposta del Presidente del Consiglio dei Ministri e Ministro del tesoro e del Ministro della sanita', di concerto con il Ministro del bilancio e della programmazione economica;
 
@@ -30,12 +30,17 @@ Art. 1
 
 2. La disposizione del comma 1 non si applica al consiglio di amministrazione dell'istituto "Giannina Gaslini" di Genova.
 
-3. Per i dipendenti pubblici la nomina a commissario straordinario presso le unita' sanitarie locali, ovvero presso le aziende ospedaliere, determina il collocamento in aspettativa senza assegni; il periodo di aspettativa e' utile ai fini del trattamento di quiescenza e di previdenza e dell'anzianita' di servizio. Le amministrazioni di appartenenza provvedono ad effettuare il versamento dei relativi contributi, comprensivi delle quote a carico del dipendente, nonche' dei contributi assistenziali calcolati sul trattamento stipendiale spettante al medesimo, ed a richiedere il rimborso del correlativo onere alle unita' sanitarie locali e alle aziende ospedaliere, le quali procedono al recupero delle quote a carico dell'interessato.
+3. Per i dipendenti pubblici e per quelli privati la nomina a commissario straordinario presso le unita' sanitarie locali, ovvero presso le aziende ospedaliere determina il collocamento in aspettativa senza assegni; il periodo di aspettativa e' utile ai fini del trattamento di quiescenza e di previdenza e dell'anzianita' di servizio. Le amministrazioni di appartenenza o i datori di lavoro provvedono ad effettuare il versamento dei relativi contributi, comprensivi delle quote a carico del dipendente, nonche' dei contributi assistenziali calcolati sul trattamento stipendiale spettante al medesimo, ed a richiedere il rimborso del correlativo onere alle unita' sanitarie locali e alle aziende ospedaliere le quali procedono al recupero delle quote a carico dell'interessato.
+
+4. Al [comma 8 dell'articolo 3 del decreto legislativo 30 dicembre 1992, n. 502](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992-12-30;502~art3-com8), e' aggiunto, in fine, il seguente periodo: "I datori di lavoro provvedono ad effettuare il versamento dei relativi contributi, comprensivi delle quote a carico del dipendente, nonche' dei contributi assistenziali, calcolati sul trattamento stipendiale spettante al medesimo ed a richiedere il rimborso del correlativo onere alle unita' sanitarie locali interessate, le quali procedono al recupero delle quote a carico dell'interessato".
+
+5. Le province autonome di Trento e di Bolzano provvedono alle finalita' del presente articolo ai sensi dello statuto di autonomia e delle relative norme di attuazione di cui al [decreto del Presidente della Repubblica 28 marzo 1975, n. 474](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1975-03-28;474), come da ultimo modificato dal [decreto legislativo 16 marzo 1992, n. 267](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992-03-16;267).
 
 Art. 2
 ------
 
-1. A decorrere dal 1 gennaio 1995 la contabilita' economico-finanziaria e patrimoniale e la contabilita' finanziaria delle unita' sanitarie locali e delle aziende ospedaliere previste dall'[articolo 5 del decreto legislativo 30 dicembre 1992, n. 502](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992-12-30;502~art5), e successive modificazioni e integrazioni, dovranno essere tenute separate rispetto a quella degli anni 1994 e precedenti.
+1. A decorrere dal 1 gennaio 1995 la contabilita' economico-finanziaria e patrimoniale e la contabilita' finanziaria delle unita' sanitarie locali e delle aziende ospedaliere previste dall'[articolo 5 del decreto legislativo 30 dicembre 1992, n. 502](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992-12-30;502~art5), e successive modificazioni e integrazioni, dovranno essere tenute separate rispetto a quella degli anni 1994 e precedenti, fatta salva la possibilita' di utilizzare gli eventuali avanzi di gestione per estinguere le situazioni debitorie preesistenti. La contabilita' economico-finanziaria e patrimoniale e la contabilita' finanziaria delle unita' sanitarie locali e delle aziende ospedaliere relative agli anni precedenti al 1995 sono garantite direttamente dalle regioni, che ne assumono integralmente le relative obbligazioni.  
+Entro il 30 settembre 1995, con decreto del Ministro della sanita', adottato di concerto con i Ministri del bilancio e della programmazione economica e del tesoro e in accordo con la Conferenza permanente per i rapporti tra lo Stato, le regioni e le province autonome di Trento e di Bolzano, sono stabiliti le modalita' ed i criteri di ripianamento del debito eventualmente accertato fino alla data di costituzione in azienda delle unita' sanitarie locali e degli ospedali, secondo quanto previsto, rispettivamente, dagli articoli 3 e 4 del citato [decreto legislativo n. 502 del 1992](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992;502), e successive modificazioni e integrazioni.
 
 2. Le disposizioni di cui al presente articolo si applicano anche agli istituti di ricovero e cura a carattere scientifico aventi personalita' giuridica di diritto pubblico.
 
@@ -50,9 +55,9 @@ Art. 3
 
 3. Le disposizioni di cui ai commi 1 e 2 hanno efficacia fino alla data del 31 dicembre 1994. A decorrere dal 1 gennaio 1995 si applicano le disposizioni dell'[articolo 8 della legge 24 dicembre 1993, n. 537](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-12-24;537~art8), come modificato dall'[articolo 1 della legge 23 dicembre 1994, n. 724](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-12-23;724~art1).
 
-4. Qualora un assistito del Servizio sanitario nazionale abbia assoluta necessita', in ragione della particolare patologia cronica o di lunga durata della quale soffre, di essere trattato con i medicinali di cui all'[articolo 8, comma 10, lettera c), della legge 24 dicembre 1993, n. 537](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-12-24;537~art8-com10-letc), la USL competente provvede alla dispensazione gratuita dei medicinali, purche' l'assoluta necessita' del trattamento sia stata riconosciuta dalla stessa USL, in conformita' dei criteri che saranno a tal fine adottati dalla Commissione unica del farmaco entro 30 giorni dalla data di entrata in vigore del presente decreto. La spesa complessiva non puo' superare l'importo massimo di lire 76 miliardi; detto limite e' riferito a ciascuna regione in proporzione alla popolazione residente.
+4. Entro trenta giorni dalla data di entrata in vigore della legge di conversione del presente decreto, la Commissione unica del farmaco di cui all'[articolo 7 del decreto legislativo 30 giugno 1993, n. 266](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-06-30;266~art7), provvede alla identificazione dei farmaci necessari al trattamento di particolari patologie nonche' alla identificazione delle patologie stesse.
 
-5. Le regioni e le province autonome di Trento e di Bolzano impartiscono alle unita' sanitarie locali le istruzioni necessarie per l'applicazione delle disposizioni del comma 4 e per la verifica del rispetto delle medesime.
+5. Nel caso di trattamento delle patologie di cui al comma 4 del presente articolo, i farmaci di cui al medesimo comma sono a totale carico del Servizio sanitario nazionale, secondo quanto previsto per i farmaci di cui all'[articolo 8, comma 10, lettera a), della legge 24 dicembre 1993, n. 537](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-12-24;537~art8-com10-leta), fatto salvo il contenimento dell'onere a carico del Servizio sanitario nazionale per l'assistenza farmaceutica, nei limiti dell'importo stabilito per ciascun anno finanziario.
 
 6. I medicinali utilizzati in programmi di sperimentazione clinica sull'uomo nelle strutture ritenute idonee dal Ministero della sanita', ai sensi dell'[articolo 2 del decreto del Ministro della sanita' 27 aprile 1992, pubblicato nel supplemento ordinario alla Gazzetta Ufficiale n. 139 del 15 giugno 1992](http://www.gazzettaufficiale.it/gazzetta/serie_generale/caricaDettaglio?dataPubblicazioneGazzetta=1992-06-15&numeroGazzetta=139), devono essere forniti gratuitamente dalle aziende committenti le sperimentazioni cliniche stesse.
 
@@ -61,66 +66,72 @@ Art. 4
 
 1. All'[articolo 4 del decreto legislativo 30 dicembre 1992, n. 539](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992-12-30;539~art4), sono apportate le seguenti modificazioni:
 
-a) al comma 3, il primo periodo e' sostituito dal seguente: "La ripetibilita' della vendita di medicinali di cui al comma 2 e' consentita per un periodo non superiore a tre mesi a decorrere dalla data della compilazione della ricetta e per non piu' di cinque volte, salvo diversa indicazione del medico prescrivente.";
+a) il comma 3 e' sostituito dal seguente:  
+"3. La ripetibilita' della vendita di medicinali di cui al comma 2 e' consentita in conformita' alla prescrizione medica che riporti sulla ricetta il numero delle confezioni occorrenti ovvero la congiunta indicazione della posologia e della durata della terapia, che non puo' essere superiore ad un anno. L'indicazione di un numero di confezioni superiore all'unita' esclude la ripetibilita' della ricetta e consente la consegna frazionata dei medicinali prescritti.  
+In mancanza delle citate indicazioni la ripetibilita' della vendita e' consentita per non piu' di cinque volte in un periodo non superiore a tre mesi dalla data di compilazione della ricetta.";
 
 b) il comma 4 e' sostituito dal seguente:  
-" 4. Il farmacista che vende un medicinale di cui al comma 2 senza presentazione di ricetta medica e' soggetto alla sanzione amministrativa del pagamento di una somma da lire centocinquantamila a lire novecentomila. Tale sanzione non si applica nell'ipotesi in cui il medicinale sia stato dispensato in casi di necessita', di urgenza e di impossibilita' di reperire un medico e a condizione che sia presentata la ricetta medica entro quarantotto ore. Il farmacista che viola il disposto del comma 3 o non appone sulle ricette il timbro attestante la vendita del prodotto e' soggetto alla sanzione amministrativa del pagamento di una somma da lire centomila a lire seicentomila.".
+"4. Il farmacista che vende un medicinale di cui al comma 2 senza presentazione di ricetta medica e' soggetto alla sanzione amministrativa del pagamento di una somma da lire centocinquantamila a lire novecentomila. Tale sanzione non si applica nell'ipotesi in cui il medicinale sia stato dispensato in casi di necessita', di urgenza e di impossibilita' di reperire un medico e a condizione che sia presentata la ricetta medica entro quarantotto ore. Il farmacista che viola il disposto del comma 3 o non appone sulle ricette il timbro attestante la vendita del prodotto e' soggetto alla sanzione amministrativa del pagamento di una somma da lire centomila a lire seicentomila.".
 
-2. Il [comma 3 dell'articolo 5 del decreto legislativo 30 dicembre  
-1992, n. 539](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992-12-30;539~art5-com3), e successive modificazioni, e' sostituito dal seguente:  
-" 3. Le ricette mediche relative ai medicinali di cui al comma 1  
-hanno validita' limitata a tre mesi; esse devono essere ritirate dal farmacista che e' tenuto a conservarle per sei mesi, qualora non le consegni all'autorita' competente per rimborso del prezzo a carico del Servizio sanitario nazionale.".
+2. Il [comma 3 dell'articolo 5 del decreto legislativo 30 dicembre 1992, n. 539](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992-12-30;539~art5-com3), e successive modificazioni, e' sostituito dal seguente:  
+"3. Le ricette mediche relative ai medicinali di cui al comma 1 hanno validita' limitata a tre mesi; esse devono essere ritirate dal farmacista che e' tenuto a conservarle per sei mesi, qualora non le consegni all'autorita' competente per rimborso del prezzo a carico del Servizio sanitario nazionale.".
 
 3. All'[articolo 123, comma primo, lettera c), del testo unico delle leggi sanitarie](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265~art123-com1-letc), approvato con [regio decreto 27 luglio 1934, n. 1265](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265), e successive modificazioni, le parole: "sia conservata copia di tutte le ricette e" sono soppresse.
 
-4. All'articolo 38, comma quarto, del regolamento per il servizio farmaceutico approvato con [regio decreto 30 settembre 1938, n. 1706](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1706), le parole: "i farmacisti debbono conservare per la durata di cinque anni copia di tutte le ricette spedite" sono sostituite dalle seguenti: "i farmacisti debbono conservare per sei mesi le ricette spedite concernenti preparazioni estemporanee".
+4. All'articolo 38, comma quarto, del regolamento per il servizio farmaceutico approvato con [regio decreto 30 settembre 1938, n. 1706](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1706), le parole: "I farmacisti debbono conservare per la durata di cinque anni copia di tutte le ricette spedite" sono sostituite dalle seguenti: "I farmacisti debbono conservare per sei mesi le ricette spedite concernenti preparazioni estemporanee non ripetibili".
 
-5. Il [comma 3 dell'articolo 15 del decreto legislativo  
-29 maggio 1991, n. 178](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1991-05-29;178~art15-com3), e' sostituito dal seguente:  
-" 3. In caso di vendita o di detenzione per la vendita di specialita' medicinali per le quali sono intervenuti provvedimenti del Ministero della sanita' di sospensione o di revoca, e' applicata la sanzione amministrativa da lire cinquecentomila a lire unmilionecinquecentomila.".
+5. Il [comma 3 dell'articolo 15 del decreto legislativo 29 maggio 1991, n. 178](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1991-05-29;178~art15-com3), e' sostituito dal seguente:  
+"3. In caso di vendita o di detenzione per la vendita di specialita' medicinali per le quali sono intervenuti provvedimenti del Ministero della sanita', di sospensione o di revoca, e' applicata la sanzione amministrativa da lire cinquecentomila a lire unmilionecinquecentomila.".
 
 6. Il [comma 4 dell'articolo 15 del decreto legislativo 29 maggio 1991, n. 178](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1991-05-29;178~art15-com4), e' sostituito dal seguente:  
-" 4. Il farmacista e' soggetto alla sanzione amministrativa da lire un milione a lire tre milioni qualora nel corso di un anno si ripetano per piu' di due volte le infrazioni previste dal comma 1.".
+"4. Il farmacista e' soggetto alla sanzione amministrativa da lire un milione a lire tre milioni qualora nel corso di un anno si ripetano per piu' di due volte le infrazioni previste dal comma 1.".
 
 7. All'articolo 23, comma 4, primo periodo, del [decreto legislativo 29 maggio 1991, n. 178](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1991-05-29;178), le parole: "o che detenga per vendere" sono soppresse.
 
-8. Qualora il farmacista venda, per piu' di tre volte, un medicinale disciplinato dagli [articoli 5](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992-12-30;539~art5) e [8 del decreto legislativo 30 dicembre 1992, n. 539](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992-12-30;539~art8), senza presentazione di ricetta medica o su presentazione di ricette prive di validita', ovvero senza presentazione di ricetta di un centro medico specializzato, l'autorita' amministrativa competente puo' disporre la chiusura della farmacia per un periodo da quindici a trenta giorni, garantendo comunque un servizio di farmacia sul territorio.
+8. Qualora il farmacista venda, per piu' di tre volte, un medicinale disciplinato dagli [articoli 5](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992-12-30;539~art5) e [8 del decreto legislativo 30 dicembre 1992, n. 539](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992-12-30;539~art8), senza presentazione di ricetta medica o su presentazione di ricette prive di validita', ovvero senza presentazione di ricetta di un centro medico specializzato, l'autorita' amministrativa competente puo' disporre l'applicazione di una sanzione pecuniaria da lire 10 milioni a lire 30 milioni. In caso di recidiva, l'autorita' amministrativa competente puo' disporre la chiusura della farmacia per un periodo da quindici a trenta giorni ovvero l'applicazione di una sanzione pecuniaria da lire trenta milioni a lire cinquanta milioni. Nel caso in cui la chiusura della farmacia determini il venir meno del servizio di farmacia sul territorio l'autorita' amministrativa competente puo' disporre unicamente l'applicazione della sanzione pecuniaria. Il secondo periodo del comma 6 dell'articolo 5 ed il secondo periodo del [comma 3 dell'articolo 8 del decreto legislativo 30 dicembre 1992, n. 539](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992-12-30;539~art8-com3), sono abrogati.
 
 Art. 5
 ------
 
 1. Il [comma 9 dell'articolo 5 del decreto legislativo 18 aprile 1994, n. 286](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1994-04-18;286~art5-com9), e' sostituito dal seguente:  
-" 9. Le autorizzazioni rilasciate, ai sensi del [regio decreto 20 dicembre 1928, n. 3298](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1928-12-20;3298), e della [legge 30 aprile 1962, n. 283](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1962-04-30;283), agli impianti in attivita' alla data di entrata in vigore del presente decreto, devono essere rinnovate entro il 28 febbraio 1995, a richiesta dell'interessato da presentare all'autorita' competente secondo le vigenti disposizioni entro trenta giorni dalla data di entrata in vigore del presente decreto; in sede di rinnovo viene assegnato all'impianto il numero di identificazione e viene indicata la potenzialita' oraria definita in rapporto ai requisiti igienici e funzionali presenti. Tuttavia la data sopra indicata e' prorogata al 31 ottobre 1995 quando sia gia' stata rilasciata concessione edilizia e sia gia' iniziata l'attivita' di ristrutturazione".
+"9. Le autorizzazioni rilasciate, ai sensi del [regio decreto 20 dicembre 1928, n. 3298](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1928-12-20;3298), e della [legge 30 aprile 1962, n. 283](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1962-04-30;283), agli impianti in attivita' alla data di entrata in vigore del presente decreto, devono essere rinnovate entro il 31 ottobre 1996, a richiesta dell'interessato da presentare all'autorita' competente secondo le vigenti disposizioni entro il 30 settembre 1995; in sede di rinnovo viene assegnato all'impianto il numero di identificazione e viene indicata la potenzialita' oraria definita in rapporto ai requisiti igienici e funzionali presenti.".
 
 2. Il [comma 6 dell'articolo 6 del decreto legislativo 18 aprile 1994, n. 286](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1994-04-18;286~art6-com6), e' sostituito dal seguente:  
-" 6. Le autorizzazioni rilasciate, ai sensi del [regio decreto 20 dicembre 1928, n. 3298](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1928-12-20;3298), e della [legge 30 aprile 1962, n. 283](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1962-04-30;283), ai laboratori in attivita' alla data di entrata in vigore del presente decreto, devono essere rinnovate entro il 28 febbraio 1995, a richiesta dell'interessato da presentare all'autorita' competente secondo le vigenti disposizioni entro il 30 settembre 1994; in sede di rinnovo viene assegnato al laboratorio il numero di identificazione. Tuttavia la data sopra indicata e' prorogata al 31 ottobre 1995 quando sia gia' stata rilasciata concessione edilizia e sia gia' iniziata l'attivita' di ristrutturazione".
+" 6. Le autorizzazioni rilasciate, ai sensi del [regio decreto 20 dicembre 1928, n. 3298](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1928-12-20;3298), e della [legge 30 aprile 1962, n. 283](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1962-04-30;283), ai laboratori in attivita' alla data di entrata in vigore del presente decreto, devono essere rinnovate entro il 31 ottobre 1996, a richiesta dell'interessato da presentare all'autorita' competente secondo le vigenti disposizioni entro il 30 settembre 1994; in sede di rinnovo viene assegnato al laboratorio il numero di identificazione.".
 
 3. Il [comma 2 dell'articolo 19 del decreto legislativo 18 aprile 1994, n. 286](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1994-04-18;286~art19-com2), e' sostituito dal seguente:  
-" 2. Fatto salvo quanto stabilito agli articoli 5, 6 e 14, le autorizzazioni rilasciate ai sensi del [regio decreto 20 dicembre 1928, n. 3298](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1928-12-20;3298), e della [legge 30 aprile 1962, n. 283](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1962-04-30;283), cessano di avere efficacia il 28 febbraio 1995, a meno che venga presentata entro tale termine domanda di riconoscimento CE ai sensi dell'articolo 13.  
-Limitatamente ai macelli pubblici per i quali alla data suddetta sia stato gia' approvato il progetto, rilasciata la concessione edilizia, ed approvata la spesa relativa per opere di ristrutturazione o di nuova costruzione degli stabilimenti, verra' concessa, da parte del Ministero della sanita', una ulteriore proroga di ventiquattro mesi per l'esercizio delle attivita' di macellazione, tale da consentire il completamento o la realizzazione dei lavori".
+" 2. Fatto salvo quanto stabilito agli articoli 5, 6 e 14, le autorizzazioni rilasciate ai sensi del [regio decreto 20 dicembre 1928, n. 3298](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1928-12-20;3298), e della [legge 30 aprile 1962, n. 283](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1962-04-30;283), cessano di avere efficacia il 31 dicembre 1995, a meno che venga presentata entro tale termine domanda di riconoscimento CE ai sensi dell'articolo 13.  
+Limitatamente ai macelli pubblici le autorizzazioni di cui al presente comma cessano di avere efficacia il 30 giugno 1997.".
 
 Art. 6
 ------
 
 1. L'[articolo 2 della legge 25 febbraio 1992, n. 210](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1992-02-25;210~art2), e' sostituito dal seguente:  
-"Art. 2. - 1. L'indennizzo di cui all'articolo 1, comma 1, consiste in un assegno non reversibile determinato nella misura di cui alla tabella B allegata alla [legge 29 aprile 1976, n. 177](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1976-04-29;177), come modificata dall'[articolo 8 della legge 2 maggio 1984, n. 111](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1984-05-02;111~art8). L'indennizzo e' cumulabile con ogni altro emolumento a qualsiasi titolo percepito.  
-2. L'indennizzo di cui al comma 1 e' integrato da una somma corrispondente all'importo dell'indennita' integrativa speciale di cui alla [legge 27 maggio 1959, n. 324](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1959-05-27;324), e successive modificazioni, prevista per la prima qualifica funzionale degli impiegati civili dello Stato ed ha decorrenza dal primo giorno del mese successivo a quello della presentazione della domanda. La predetta somma integrativa e' cumulabile con l'indennita' integrativa speciale o altra analoga indennita' collegata alla variazione del costo della vita.  
-3. Qualora a causa delle vaccinazioni o delle patologie previste dalla presente legge sia derivata o derivi la morte, spetta un assegno una tantum nella misura di lire 50 milioni da erogare ai soggetti nel seguente ordine: coniuge, figli, genitori, fratelli.  
-4. Qualora la persona sia deceduta in eta' minore l'indennizzo spetta ai genitori o a chi esercita la potesta' parentale.".
+"Art. 2. - 1. L'indennizzo di cui all'articolo 1, comma 1, consiste in un assegno reversibile per quindici anni determinato nella misura di cui alla tabella B allegata alla [legge 29 aprile 1976, n. 177](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1976-04-29;177), come modificata dall'[articolo 8 della legge 2 maggio 1984, n. 111](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1984-05-02;111~art8).  
+L'indennizzo e' cumulabile con ogni altro emolumento a qualsiasi titolo percepito ed e' rivalutato annualmente sulla base del tasso di inflazione programmato.  
+2. L'indennizzo di cui al comma 1 e' integrato da una somma corrispondente all'importo dell'indennita' integrativa speciale di cui alla [legge 27 maggio 1959, n. 324](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1959-05-27;324), e successive modificazioni, prevista per la prima qualifica funzionale degli impiegati civili dello Stato, ed ha decorrenza dal primo giorno del mese successivo a quello della presentazione della domanda ai sensi dell'articolo 3.  
+3. Qualora a causa delle vaccinazioni o delle patologie previste dalla presente legge sia derivata la morte, l'avente diritto puo' optare fra l'assegno reversibile di cui al comma 1 e un assegno una tantum di lire 150 milioni. Ai fini della presente legge, sono considerati aventi diritto nell'ordine: il coniuge, i figli a carico, il convivente more uxorio, i genitori, i fratelli minorenni, i fratelli maggiorenni inabili al lavoro. I benefici di cui al presente comma spettano anche nel caso in cui il reddito della persona deceduta non rappresenti l'unico sostentamento della famiglia.  
+4. Qualora la persona sia deceduta in eta' minore, l'indennizzo spetta ai genitori o a chi esercita la potesta' parentale.  
+5. I soggetti di cui all'articolo 1 sono esentati dalla partecipazione alla spesa sanitaria di cui ai [commi 14](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-12-24;537~art8-com14) e [15 dell'articolo 8 della legge 24 dicembre 1993, n. 537](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-12-24;537~art8-com15), e successive modificazioni, nonche' dal pagamento della quota fissa per ricetta di cui al comma 16-ter del medesimo articolo 8 della citata [legge n. 537 del 1993](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993;537), introdotto dall'[articolo 1 della legge 23 dicembre 1994, n. 724](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-12-23;724~art1), limitatamente alle prestazioni sanitarie necessarie per la diagnosi e la cura delle patologie previste dalla presente legge.  
+6. I benefici di cui alla presente legge spettano altresi' a coloro che risultino contagiati dai soggetti di cui all'articolo 1.  
+7. Ai soggetti danneggiati che contraggono piu' di una patologia e' riconosciuto, in aggiunta ai benefici previsti dal presente articolo, un indennizzo aggiuntivo, stabilito dal Ministro della sanita' con proprio decreto, in misura non superiore al 50 per cento di quello previsto ai commi 1 e 2".
+
+2. In attesa di una nuova e piu' completa disciplina legislativa, le disposizioni di cui al comma 1 si applicano per gli anni 1995 e 1996.
+
+3. Ai maggiori oneri derivanti dall'attuazione dell'[articolo 2 della legge 25 febbraio 1992, n. 210](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1992-02-25;210~art2), come sostituito dal comma 1 del presente articolo, pari a lire 90 miliardi per l'anno 1995 ed a lire 60,5 miliardi per l'anno 1996, si provvede:
+
+a) per l'anno 1995, quanto a lire 56 miliardi mediante corrispondente riduzione dello stanziamento iscritto per il medesimo anno al capitolo 6856 dello stato di previsione del Ministero del tesoro, all'uopo parzialmente utilizzando l'accantonamento relativo al Ministero del tesoro, e quanto a lire 34 miliardi mediante contestuale riduzione dell'autorizzazione di spesa recata dal capitolo 6878 dello stato di previsione del Ministero del tesoro, intendendosi corrispondentemente utilizzata parte della quota di pertinenza dello Stato del fondo di cui all'[articolo 47 della legge 20 maggio 1985, n. 222](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1985-05-20;222~art47);
+
+b) per l'anno 1996, mediante utilizzo della proiezione iscritta, per il medesimo anno, al capitolo 6856 dello stato di previsione del Ministero del tesoro per l'anno 1995, all'uopo parzialmente utilizzando l'accantonamento relativo al Ministero della sanita'.
 
 Art. 7
 ------
 
-1. A decorrere dal 1 giugno 1995 sono istituiti corsi di formazione in materia di organizzazione e gestione dei servizi per dirigenti amministrativi e sanitari del Servizio sanitario nazionale.
+1. A decorrere dal 1 maggio 1996 le strutture trasfusionali di diritto privato di cui all'[articolo 4 della legge 4 maggio 1990, n. 107](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-05-04;107~art4), le aziende private e i centri privati di produzione di emoderivati e di emodiagnostici di cui agli articoli 8 e 10 della stessa [legge n. 107 del 1990](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990;107), gli importatori di sangue umano conservato e dei suoi derivati e di emoderivati di cui all'articolo 15 della stessa [legge n. 107 del 1990](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990;107), nonche' tutte le istituzioni sanitarie private nelle quali si pratica l'attivita' trasfusionale sono tenuti obbligatoriamente all'assicurazione per la responsabilita' civile, prevista all'[articolo 2043 del codice civile](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art2043), per i danni derivanti dalla distribuzione e dalla somministrazione del sangue umano, dei suoi componenti e degli emoderivati.
 
-2. La durata dei singoli corsi e i requisiti di ammissione sono stabiliti con decreto del Ministro della sanita', sentita l'Agenzia per i servizi sanitari regionali, d'intesa con il Ministro per la funzione pubblica, da emanare entro il 31 marzo 1995.
+2. Le disposizioni di cui al comma 1 si applicano altresi' ai soggetti privati che intervengono nei settori della produzione, della distribuzione e della somministrazione dei vaccini.
 
-3. Il programma formativo e l'organizzazione dei corsi sono oggetto di specifiche convenzioni da stipulare entro il 30 aprile 1995 tra il Ministero della sanita', la Scuola superiore della pubblica amministrazione, l'Agenzia per i servizi sanitari regionali, le istituzioni universitarie o idonee istituzioni private. La Scuola superiore della pubblica amministrazione, l'Agenzia per i servizi sanitari regionali e le istituzioni universitarie possono utilizzare per l'organizzazione dei corsi, mediante specifiche convenzioni, istituzioni universitarie, di ricerca o di formazione superiore, pubbliche e private, anche tra loro consorziate o collegate.  
-L'idoneita' delle istituzioni private e' verificata da una apposita commissione scientifica nominata dal Ministro della sanita', di concerto con il Ministro dell'universita' e della ricerca scientifica e tecnologica, della quale fanno parte esperti in discipline attinenti all'organizzazione dell'amministrazione sanitarie e alla metodologia didattica.
-
-4. Le province autonome di Trento e di Bolzano possono provvedere all'istituzione dei corsi di cui al comma 1 ai sensi del [terzo comma dell'articolo 5 del decreto del Presidente della Repubblica 1 novembre 1973, n. 689](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1973-11-01;689~art5-com3), aggiunto dall'[articolo 3 del decreto legislativo 16 marzo 1992, n. 267](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992-03-16;267~art3). Nella provincia di Bolzano e nella regione Valle d'Aosta, fra i requisiti di cui al comma 2 e' compreso quello del bilinguismo rispettivamente ai sensi del titolo I del [decreto del Presidente della Repubblica 26 luglio 1976, n. 752, e dell'articolo 38](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1976-07-26;752~art38) della [legge costituzionale 26 febbraio 1948, n. 4](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge.costituzionale:1948-02-26;4).
-
-5. Agli oneri relativi al presente articolo si fa fronte, per un importo non superiore a lire tre miliardi per anno, con fondi di cui all'[articolo 12, comma 2, lettera b), del decreto legislativo 30 dicembre 1992, n. 502](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992-12-30;502~art12-com2-letb), e successive modificazioni e integrazioni.
+3. Con decreto del Presidente della Repubblica da emanarsi ai sensi dell'[articolo 17 della legge 23 agosto 1988, n. 400](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400~art17), entro il 29 febbraio 1996, sono stabilite le disposizioni attuative del presente articolo.
 
 Art. 8
 ------
@@ -130,17 +141,20 @@ Art. 8
 Art. 9
 ------
 
-1. A decorrere dal 1 gennaio 1995, le prestazioni di assistenza ospedaliera erogate nell'ambito del Servizio sanitario nazionale, sono remunerate sulla base di tariffe predeterminate dalle regioni e dalle province autonome secondo i criteri generali definiti nel decreto del Ministro della sanita' attuativo dell'[articolo 8, comma 6, del decreto legislativo 30 dicembre 1992, n. 502](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992-12-30;502~art8-com6), e successive modificazioni ed integrazioni. Le regioni e le province autonome che alla data del 1 gennaio 1995 non abbiano adottato i provvedimenti di fissazione delle nuove tariffe applicano, in via transitoria, le tariffe fissate con [decreto del Ministro della sanita' 14 dicembre 1994, pubblicato nel supplemento ordinario alla Gazzetta Ufficiale n. 300 del 24 dicembre 1994](http://www.gazzettaufficiale.it/gazzetta/serie_generale/caricaDettaglio?dataPubblicazioneGazzetta=1994-12-24&numeroGazzetta=300).
+1. A decorrere dal 1 gennaio 1995, le prestazioni di assistenza ospedaliera erogate nell'ambito del Servizio sanitario nazionale, sono remunerate sulla base di tariffe predeterminate dalle regioni secondo i criteri generali definiti nel decreto del Ministro della sanita' attuativo dell'[articolo 8, comma 6, del decreto legislativo 30 dicembre 1992, n. 502](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992-12-30;502~art8-com6), e successive modificazioni ed integrazioni.  
+Le regioni che alla data del 1 gennaio 1995 non abbiano adottato i provvedimenti di fissazione delle nuove tariffe applicano, in via transitoria, le tariffe fissate con [decreto del Ministro della sanita' 14 dicembre 1994, pubblicato nel supplemento ordinario alla Gazzetta Ufficiale n. 300 del 24 dicembre 1994](http://www.gazzettaufficiale.it/gazzetta/serie_generale/caricaDettaglio?dataPubblicazioneGazzetta=1994-12-24&numeroGazzetta=300).
 
-2. Le tariffe di cui al citato [decreto del Ministro della sanita' del 14 dicembre 1994, pubblicato nel supplemento ordinario alla Gazzetta Ufficiale n. 300 del 24 dicembre 1994](http://www.gazzettaufficiale.it/gazzetta/serie_generale/caricaDettaglio?dataPubblicazioneGazzetta=1994-12-24&numeroGazzetta=300), rappresentano il livello massimo da corrispondere ai soggetti erogatori entro il quale le regioni e le province autonome possono stabilire con propria determinazione ed attraverso la negoziazione dei servizi e delle prestazioni, le corrispettive tariffe a fronte delle singole prestazioni rese agli assistiti, di cui all'[articolo 8, commi 5](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992-12-30;502~art8-com5) e [7, del decreto legislativo 30 dicembre 1992, n. 502](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992-12-30;502~art8-com7), e successive modificazioni ed integrazioni.
+2. Le tariffe di cui al citato [decreto del Ministro della sanita' del 14 dicembre 1994, pubblicato nel supplemento ordinario alla Gazzetta Ufficiale n. 300 del 24 dicembre 1994](http://www.gazzettaufficiale.it/gazzetta/serie_generale/caricaDettaglio?dataPubblicazioneGazzetta=1994-12-24&numeroGazzetta=300), rappresentano il livello massimo da corrispondere ai soggetti erogatori entro il quale le regioni possono stabilire con propria determinazione ed attraverso la negoziazione dei servizi e delle prestazioni, le corrispettive tariffe a fronte delle singole prestazioni rese agli assistiti, di cui all'[articolo 8, commi 5](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992-12-30;502~art8-com5) e [7, del decreto legislativo 30 dicembre 1992, n. 502](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992-12-30;502~art8-com7), e successive modificazioni ed integrazioni.
 
-3. Le regioni e le province autonome, con periodicita' almeno triennale, provvedono all'aggiornamento delle tariffe, tenendo conto delle innovazioni tecnologiche e delle variazioni dei costi delle prestazioni rilevate.
+3. Le regioni, con periodicita' almeno triennale, provvedono all'aggiornamento delle tariffe, tenendo conto delle innovazioni tecnologiche e delle variazioni dei costi delle prestazioni rilevate.
 
-4. Le regioni e le province autonome vigilano sulla corretta applicazione del sistema di remunerazione mediante tariffe predeterminate da parte delle unita' sanitarie locali e dei soggetti erogatori, pubblici e privati, secondo i criteri definiti nel decreto del Ministro della sanita' attuativo dell'[articolo 8, comma 6, del decreto legislativo 30 dicembre 1992, n. 502](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992-12-30;502~art8-com6), e successive modificazioni ed integrazioni.
+4. Le regioni vigilano sulla corretta applicazione del sistema di remunerazione mediante tariffe predeterminate da parte delle unita' sanitarie locali e dei soggetti erogatori, pubblici e privati, secondo i criteri definiti nel decreto del Ministro della sanita' attuativo dell'[articolo 8, comma 6, del decreto legislativo 30 dicembre 1992, n. 502](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992-12-30;502~art8-com6), e successive modificazioni ed integrazioni.
 
-5. Al fine di consentire l'acquisizione delle informazioni necessarie alla programmazione sanitaria nazionale, le regioni e le province autonome provvedono ad inviare al Ministero della sanita' i provvedimenti regionali e provinciali di determinazione delle tariffe delle prestazioni, corredati dei relativi dati di riferimento sui costi, entro sessanta giorni dalla loro approvazione.
+5. Al fine di consentire l'acquisizione delle informazioni necessarie alla programmazione sanitaria nazionale, le regioni provvedono ad inviare al Ministero della sanita' i provvedimenti regionali e delle province autonome di Trento e di Bolzano di determinazione delle tariffe delle prestazioni, corredati dai relativi dati di riferimento sui costi, entro sessanta giorni dalla loro approvazione.
 
-6. Le tariffe relative alle prestazioni erogate in forma indiretta sono definite dalle regioni e dalle province autonome in misura inferiore alle tariffe definite secondo i criteri di cui al presente articolo.
+6. La regione Valle d'Aosta e le province autonome di Trento e di Bolzano provvedono alle finalita' del presente articolo ai sensi dei rispettivi statuti e delle relative norme di attuazione.
+
+7. Le tariffe relative alle prestazioni erogate in forma indiretta sono definite dalle regioni in misura inferiore alle tariffe definite secondo i criteri di cui al presente articolo.
 
 Art. 10
 -------
@@ -151,12 +165,24 @@ Art. 10
 Art. 11
 -------
 
-1. Il presente decreto entra in vigore il giorno stesso della sua pubblicazione nella Gazzetta Ufficiale della Repubblica italiana e sara' presentato alle Camere per la conversione in legge.
+1. La disposizione di cui all'articolo 6, comma 1, primo periodo, della [legge 23 dicembre 1994, n. 724](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-12-23;724), non si applica nei confronti delle regioni che certifichino al Ministero del tesoro e al Ministero della sanita' il previsto mantenimento, a fine esercizio 1995, delle proprie occorrenze finanziarie nei limiti dello stanziamento determinato in ragione della quota capitaria, ragguagliata ai livelli uniformi di assistenza sanitaria, di cui all'[articolo 12, comma 3, del decreto legislativo 30 dicembre 1992, n. 502](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992-12-30;502~art12-com3), e successive modificazioni e integrazioni.
+
+2. Le eventuali eccedenze, che dovessero risultare rispetto al predetto stanziamento, restano a carico dei bilanci regionali.
+
+Art. 12
+-------
+
+1. Il termine del 31 dicembre 1995 previsto al [comma 1 dell'articolo 8 del decreto legislativo 30 dicembre 1992, n. 531](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992-12-30;531~art8-com1), e' prorogato, limitatamente agli impianti collettivi per le aste ed ai mercati ittici all'ingrosso, al 31 dicembre 1996.
+
+Art. 13
+-------
+
+1. Il presente decreto entra in vigore il giorno successivo a quello della sua pubblicazione nella Gazzetta Ufficiale della Repubblica italiana e sara' presentato alle Camere per la conversione in legge.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserito nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 28 febbraio 1995
+### Dato a Roma, addi' 29 dicembre 1995
 
 SCALFARO
 
@@ -166,4 +192,4 @@ GUZZANTI, Ministro della sanita'
 
 MASERA, Ministro del bilancio e della programmazione economica
 
-Visto, il Guardasigilli: MANCUSO
+Visto, il Guardasigilli: DINI

@@ -1,7 +1,7 @@
-DECRETO-LEGGE 22 giugno 1996 n. 334
+DECRETO-LEGGE 26 aprile 1996 n. 216
 
 
-DECRETO-LEGGE 22 giugno 1996 n. 334
+DECRETO-LEGGE 26 aprile 1996 n. 216
 ===================================
 
 Disposizioni urgenti per assicurare l'attivita' delle emittenti 
@@ -9,49 +9,7 @@ televisive e sonore, autorizzate in ambito locale, nonche' per
 disciplinare le trasmissioni televisive in forma codificata.
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Entrata in vigore del decreto: 27/6/1996.Decreto-Legge decaduto per mancata conversione.
-
-IL PRESIDENTE DELLA REPUBBLICA
-------------------------------
-
-Visti gli [articoli 77](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27~art77) e [87 della Costituzione](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27~art87);
-
-Ritenuta la straordinaria necessita' ed urgenza di emanare disposizioni per assicurare l'attivita' delle emittenti televisive e sonore, autorizzate in ambito locale, nonche' per disciplinare le trasmissioni televisive in forma codificata;
-
-Ritenuta, altresi', la straordinaria necessita' ed urgenza di emanare disposizioni per disciplinare le modalita' di accesso ai servizi audiotex;
-
-Vista la deliberazione del Consiglio dei Ministri, adottata nella riunione del 19 giugno 1996;
-
-Sulla proposta del Presidente del Consiglio dei Ministri e del Ministro delle poste e delle telecomunicazioni;
-
-E M A N A il seguente decreto-legge:
-
-Art. 1
-------
-
-Emittenti locali
-
-1. L'[articolo 2, comma 1, del decreto-legge 27 agosto 1993, n. 323](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1993-08-27;323~art2-com1), convertito, con modificazioni, dalla [legge 27 ottobre 1993, n. 422](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-10-27;422), e' sostituito dal seguente:  
-" 1. Il termine per la prosecuzione dell'esercizio degli impianti per la radiodiffusione televisiva in ambito locale e dei connessi collegamenti di telecomunicazione di cui all'[articolo 32, comma 1, della legge 6 agosto 1990, n. 223](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-08-06;223~art32-com1), e' prorogato, per le emittenti autorizzate alla prosecuzione stessa, fino al rilascio della concessione, ovvero fino alla reiezione della domanda.".
-
-2. L'[articolo 4, comma 1, del decreto-legge 27 agosto 1993, n. 323](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1993-08-27;323~art4-com1), convertito, con modificazioni, dalla [legge 27 ottobre 1993, n. 422](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-10-27;422), e' sostituito dal seguente:  
-" 1. Il termine per la prosecuzione dell'esercizio degli impianti per la radiodiffusione sonora e dei connessi collegamenti di telecomunicazione, di cui all'[articolo 32, comma 1, della legge 6 agosto 1990, n. 223](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-08-06;223~art32-com1), e' prorogato, per le emittenti autorizzate alla prosecuzione stessa, fino al rilascio della concessione, ovvero fino alla reiezione della domanda.".
-
-3. Il rilascio della concessione o la reiezione della domanda di cui ai commi 1 e 2 deve avvenire entro il 30 luglio 1995.
-
-4. Il [comma 1 dell'articolo 9 della legge 6 agosto 1990, n. 223](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-08-06;223~art9-com1), come modificato dall'[articolo 11-bis del decreto-legge 27 agosto 1993, n. 323](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1993-08-27;323~art11bis), convertito, con modificazioni, dalla [legge 27 ottobre 1993, n. 422](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-10-27;422), e' sostituito dal seguente:  
-" 1. Le amministrazioni statali, gli enti pubblici territoriali, gli altri enti pubblici, compresi quelli economici, questi ultimi limitatamente alla pubblicita' diffusa sul territorio nazionale, sono tenuti a destinare alla pubblicita' su emittenti televisive locali operanti nei territori dei Paesi dell'Unione europea, nonche' su emittenti radiofoniche nazionali e locali operanti nei territori dei medesimi Paesi, almeno il 15 per cento delle somme stanziate in bilancio per le campagne pubblicitarie e di promozione delle proprie attivita'. Gli enti pubblici territoriali, gli altri enti pubblici a rilevanza regionale e locale, compresi quelli economici, sono tenuti a destinare, relativamente alla pubblicita' non diffusa in ambito nazionale, almeno il 25 per cento delle somme stanziate in bilancio, per le campagne pubblicitarie e di promozione delle proprie attivita', su emittenti televisive e radiofoniche locali operanti nei territori dei Paesi dell'Unione europea.".
-
-5. Entro novanta giorni dalla data di entrata in vigore della legge di conversione del presente decreto, l'[articolo 4 del decreto del Presidente della Repubblica 27 marzo 1992, n. 255](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1992-03-27;255~art4), deve essere adeguato alle disposizioni del presente decreto.
-
-Art. 2
-------
-
-Trasmissioni in forma codificata
-
-1. Il termine per la continuazione dell'esercizio soltanto via etere di emittenti che trasmettono in forma codificata, di cui all'[articolo 11, comma 2, del decreto-legge 27 agosto 1993, n. 323](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1993-08-27;323~art11-com2), convertito, con modificazioni, dalla [legge 27 ottobre 1993, n. 422](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-10-27;422), e' fissato al 31 dicembre 1996. L'ulteriore termine previsto dal secondo periodo del medesimo articolo 11, comma 2, entro il quale e' consentito alle emittenti che trasmettono in forma codificata di diffondere il proprio segnale con piu' mezzi trasmissivi, e' fissato al 28 agosto 1997.
-
-2. Le emittenti televisive private, titolari di concessioni o di autorizzazioni per la ripetizione di programmi esteri, che hanno titolo a trasmettere in forma non codificata, possono ottenere, su apposita istanza da presentare al Ministero delle poste e delle telecomunicazioni, l'autorizzazione a trasmettere in forma codificata. L'autorizzazione si intende rilasciata ove il Ministero delle poste e delle telecomunicazioni non si pronunci entro novanta giorni. Alle emittenti che ottengano la predetta autorizzazione si applicano le disposizioni di cui all'[articolo 11, comma 2, del decreto-legge 27 agosto 1993, n. 323](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1993-08-27;323~art11-com2), convertito, con modificazioni, dalla [legge 27 ottobre 1993, n. 422](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-10-27;422), come modificato dal presente articolo, nonche' tutte le disposizioni relative alle emittenti che effettuano trasmissioni in codice.
+Entrata in vigore del decreto: 28-4-1996.Decreto-Legge decaduto per mancata conversione.
 
 Art. 3
 ------
@@ -63,18 +21,14 @@ Decodificatori per trasmissioni via cavo e da satellite
 Art. 4
 ------
 
-Proroga dei termini di durata delle concessioni per la  
-radiodiffusione sonora e delle autorizzazioni a ripetere programmi sonori esteri.
+Proroga dei termini di durata delle concessioni per la radiodiffusione sonora e delle autorizzazioni a ripetere programmi sonori esteri.
 
 1. E' prorogata la durata delle concessioni per la radiodiffusione sonora in ambito locale e nazionale rilasciate dal Ministero delle poste e delle telecomunicazioni ai sensi della [legge 6 agosto 1990, n. 223](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-08-06;223), e successive modificazioni, nonche' delle autorizzazioni a ripetere programmi sonori esteri, fino alla data di entrata in vigore della nuova disciplina del sistema radiotelevisivo e comunque non oltre il 28 agosto 1997.
 
 Art. 5
 ------
 
-Compravendita di emittenti, di impianti o rami di azienda  
-radiofonici e televisivi. Modifica degli impianti. Emittenti  
-radiofoniche comunitarie. Pubblicita' radiofonica  
-e televisiva. Informazione locale.
+Compravendita di emittenti, di impianti o rami di azienda radiofonici e televisivi. Modifica degli impianti. Emittenti radiofoniche comunitarie. Pubblicita' radiofonica e televisiva. Informazione locale.
 
 1. Durante il periodo di validita' delle concessioni per la radiodiffusione sonora e televisiva in ambito locale e per la radiodiffusione sonora in ambito nazionale sono consentiti i trasferimenti di intere emittenti televisive e radiofoniche da un concessionario ad un altro concessionario. Sono consentiti inoltre i trasferimenti di impianti o di rami di azienda tra concessionari in ambito locale e fra questi e i concessionari nazionali, o gli autorizzati di cui agli [articoli 38 e seguenti della legge 14 aprile 1975, n. 103](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1975-04-14;103~art38), inclusi negli articoli 1 e 3 del decreto del Ministro delle poste e delle telecomunicazioni 13 agosto 1992, di cui al comunicato [pubblicato nella Gazzetta Ufficiale n. 194 del 19 agosto 1992](http://www.gazzettaufficiale.it/gazzetta/serie_generale/caricaDettaglio?dataPubblicazioneGazzetta=1992-08-19&numeroGazzetta=194), o gli autorizzati alla prosecuzione dell'esercizio televisivo in ambito nazionale ai sensi dell'[articolo 11, comma 3, del decreto-legge 27 agosto 1993, n. 323](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1993-08-27;323~art11-com3), convertito, con modificazioni, dalla [legge 27 ottobre 1993, n. 422](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-10-27;422), ad eccezione dei concessionari televisivi che abbiano la copertura pari o superiore al 75 per cento del territorio nazionale, nonche' delle emittenti televisive criptate. La possibilita' di acquisizioni di impianti o rami di azienda in favore dei soggetti autorizzati ai sensi del citato [articolo 11, comma 3, del decreto-legge n. 323 del 1993](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1993;323~art11-com3) non modifica la disposizione dell'articolo 3, comma 2, dello stesso [decreto-legge n. 323 del 1993](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1993;323). E' soppresso l'ultimo periodo del comma 1 dell'articolo 6 del medesimo [decreto-legge n. 323 del 1993](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1993;323).
 
@@ -107,21 +61,6 @@ Abrogazione di norme
 Art. 7
 ------
 
-Accesso ai servizi audiotex
-
-1. L'attivazione di utenze relative al servizio audiotex puo' avvenire solo previa richiesta scritta dell'abbonato.
-
-2. Il Ministro delle poste e delle telecomunicazioni, per servizi di particolare utilita' sociale, anche a carattere informativo, ovvero di esclusiva natura culturale, puo' autorizzare la deroga alle disposizioni di cui al comma 1.
-
-3. E' vietato alle emittenti televisive e radiofoniche, sia locali che nazionali, propagandare servizi di tipo interattivo audiotex e videotex quali "linea diretta" ai fini di intrattenimento e conversazione, "messaggerie vocali", "chat line", "one-to-one" e "hot line", nelle fasce di ascolto e di visione comprese fra le ore 7 e le ore 23.
-
-4. I concessionari del servizio telefonico e del servizio radiomobile di comunicazione e le emittenti di cui al comma 3, che violino le disposizioni del presente articolo, sono puniti con la sanzione amministrativa del pagamento di una somma da lire 50 milioni a lire 500 milioni.
-
-5. Le disposizioni del presente articolo sostituiscono quelle degli [articoli 1](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1996-04-26;222~art1) e [2 del decreto-legge 26 aprile 1996, n. 222](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1996-04-26;222~art2).
-
-Art. 8
-------
-
 Entrata in vigore
 
 1. Il presente decreto entra in vigore il giorno successivo a quello della sua pubblicazione nella Gazzetta Ufficiale della Repubblica italiana e sara' presentato alle Camere per la conversione in legge.
@@ -129,12 +68,12 @@ Entrata in vigore
 Il presente decreto, munito del sigillo dello Stato, sara' inserito nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 22 giugno 1996
+### Dato a Roma, addi' 26 aprile 1996
 
 SCALFARO
 
-PRODI, Presidente del Consiglio dei Ministri
+DINI, Presidente del Consiglio dei Ministri e Ministro del tesoro
 
-MACCANICO, Ministro delle poste e delle telecomunicazioni
+GAMBINO, Ministro delle poste e delle telecomunicazioni
 
-Visto, il Guardasigilli: FLICK
+Visto, il Guardasigilli: CAIANIELLO

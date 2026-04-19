@@ -1,14 +1,14 @@
-DECRETO-LEGGE 28 agosto 1995 n. 358
+DECRETO-LEGGE 27 ottobre 1995 n. 445
 
 
-DECRETO-LEGGE 28 agosto 1995 n. 358
-===================================
+DECRETO-LEGGE 27 ottobre 1995 n. 445
+====================================
 
 Differimento di termini previsti da disposizioni legislative in 
 materia di opere pubbliche e politiche ambientali e territoriali.
 ----------------------------------------------------------------------------------------------------------------------------------
 
-Entrata in vigore del decreto: 29-8-1995.Decreto-Legge decaduto per mancata conversione.
+Entrata in vigore del decreto: 29-10-1995.Decreto-Legge decaduto per mancata conversione.
 
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
@@ -17,27 +17,24 @@ Visti gli [articoli 77](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:cost
 
 Ritenuta la straordinaria necessita' ed urgenza di emanare disposizioni concernenti il differimento di termini previsti da disposizioni legislative in materia di opere pubbliche e politiche ambientali e territoriali;
 
-Vista la deliberazione del Consiglio dei Ministri, adottata nella riunione del 25 agosto 1995;
+Vista la deliberazione del Consiglio dei Ministri, adottata nella riunione del 27 ottobre 1995;
 
-Sulla proposta del Presidente del Consiglio dei Ministri e Ministro del tesoro e del Ministro dei lavori pubblici e dell'ambiente, di concerto con il Ministro del bilancio e della programmazione
+Sulla proposta del Presidente del Consiglio dei Ministri e Ministro del tesoro e del Ministro dei lavori pubblici e dell'ambiente, di concerto con il Ministro del bilancio e della programmazione economica e per il coordinamento delle politiche dell'Unione europea;
 
-economica
----------
-
-e per il coordinamento delle politiche dell'Unione europea; E M A N A il seguente decreto-legge:
+E M A N A il seguente decreto-legge:
 
 Art. 1
 ------
 
 Impiantistica sportiva ed edilizia scolastica
 
-1. I termini previsti dagli [articoli 1](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1989-08-07;289~art1) e [2 della legge 7 agosto 1989, n. 289](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1989-08-07;289~art2), concernenti la definizione dei programmi di impiantistica sportiva, sono prorogati al 30 ottobre 1995. I mutui sono concessi dall'Istituto per il credito sportivo utilizzando per la copertura del relativo onere contributivo lo stanziamento di cui all'[articolo 27, comma 3, della legge 30 dicembre 1991, n. 412](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1991-12-30;412~art27-com3). I mutui a favore di enti locali sono assistiti, a carico dello stanziamento suddetto, dalla contribuzione pari ad una rata di ammortamento costante annua posticipata al 6 per cento, comprensiva di capitale e di interessi, rimanendo la parte ulteriore della rata di ammortamento a carico degli enti beneficiari. I mutui a favore di altri soggetti, ammessi a fruire del credito sportivo, sono assistiti dal contributo del 7,50 per cento sugli interessi.
+1. I termini previsti dagli [articoli 1](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1989-08-07;289~art1) e [2 della legge 7 agosto 1989, n. 289](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1989-08-07;289~art2), concernenti la definizione dei programmi di impiantistica sportiva, sono prorogati al 31 dicembre 1995. I mutui sono concessi dall'Istituto per il credito sportivo utilizzando per la copertura del relativo onere contributivo lo stanziamento di cui all'[articolo 27, comma 3, della legge 30 dicembre 1991, n. 412](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1991-12-30;412~art27-com3). I mutui a favore di enti locali sono assistiti, a carico dello stanziamento suddetto, dalla contribuzione pari ad una rata di ammortamento costante annua posticipata al 6 per cento, comprensiva di capitale e di interessi, rimanendo la parte ulteriore della rata di ammortamento a carico degli enti beneficiari. I mutui a favore di altri soggetti, ammessi a fruire del credito sportivo, sono assistiti dal contributo del 7,50 per cento sugli interessi.
 
 2. Sono attribuite alla Presidenza del Consiglio dei Ministri le competenze statali in materia di impiantistica sportiva gia' appartenenti al soppresso Ministero del turismo e dello spettacolo.
 
 3. Le regioni e le province autonome continuano ad assicurare le necessarie risorse per il funzionamento delle rispettive organizzazioni turistiche anche ai sensi del settimo comma dell'articolo 4 della legge quadro 17 maggio 1983, n. 217.
 
-4. Le quote dei finanziamenti autorizzati ai sensi dell'[articolo 1, comma 2, della legge 23 dicembre 1991, n. 430](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1991-12-23;430~art1-com2), comunque disponibili alla data di entrata in vigore del presente decreto, possono essere riutilizzate nel termine del 30 ottobre 1995 secondo le medesime modalita' indicate nella legge di riferimento; nello stesso termine, e con le medesime procedure, potra' essere disposta una diversa destinazione dei relativi mutui, ancorche' gia' concessi.
+4. Le quote dei finanziamenti autorizzati ai sensi dell'[articolo 1, comma 2, della legge 23 dicembre 1991, n. 430](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1991-12-23;430~art1-com2), comunque disponibili alla data di entrata in vigore del presente decreto, possono essere riutilizzate nel termine del 31 dicembre 1995 secondo le medesime modalita' indicate nella legge di riferimento; nello stesso termine, e con le medesime procedure, potra' essere disposta una diversa destinazione dei relativi mutui, ancorche' gia' concessi.
 
 Art. 2
 ------
@@ -95,12 +92,12 @@ Interventi in campo ambientale
 1. L'[articolo 3, comma 3, del decreto-legge 9 settembre 1988, n. 397](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1988-09-09;397~art3-com3), convertito, con modificazioni, dalla [legge 9 novembre 1988, n. 475](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-11-09;475), va interpretato nel senso che esso non trova applicazione ai rifiuti speciali, non provenienti da lavorazioni industriali, assimilabili agli urbani e conferiti al pubblico servizio. Il decreto del Ministro dell'ambiente in data 14 dicembre 1992 e' abrogato quanto all'articolo 3 ed alle sezioni 3 e 4 dell'allegato 1 al medesimo decreto.
 
 2. Il [comma 1 dell'articolo 1 del decreto-legge 26 gennaio 1987, n. 10](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1987-01-26;10~art1-com1), convertito, con modificazioni, dalla [legge 24 marzo 1987, n. 119](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1987-03-24;119), e' sostituito dal seguente:  
-" 1. I titolari di impianti di molitura delle olive, che abbiano natura di insediamenti produttivi ed i cui scarichi, alla data di entrata in vigore del presente decreto, non siano conformi ai limiti da osservare a norma degli [articoli 11](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1976-05-10;319~art11) e [13 della legge 10 maggio 1976, n. 319](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1976-05-10;319~art13), e successive modificazioni, sono tenuti a presentare al sindaco, entro il 30 ottobre 1995, domanda di autorizzazione allo smaltimento dei reflui sul suolo. La domanda deve contenere l'indicazione dell'ubicazione dell'impianto, della sua potenzialita' giornaliera e dei relativi volumi di acque reflue, del ciclo continuo o discontinuo di lavorazione, dell'attuale recapito dei reflui, nonche' delle aree disponibili per eseguire lo smaltimento sul suolo.  
+" 1. I titolari di impianti di molitura delle olive, che abbiano natura di insediamenti produttivi ed i cui scarichi, alla data di entrata in vigore del presente decreto, non siano conformi ai limiti da osservare a norma degli [articoli 11](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1976-05-10;319~art11) e [13 della legge 10 maggio 1976, n. 319](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1976-05-10;319~art13), e successive modificazioni, sono tenuti a presentare al sindaco, entro il 31 dicembre 1995, domanda di autorizzazione allo smaltimento dei reflui sul suolo. La domanda deve contenere l'indicazione dell'ubicazione dell'impianto, della sua potenzialita' giornaliera e dei relativi volumi di acque reflue, del ciclo continuo o discontinuo di lavorazione, dell'attuale recapito dei reflui, nonche' delle aree disponibili per eseguire lo smaltimento sul suolo.  
 Copia della domanda medesima, entro lo stesso termine, deve essere inviata alla regione.".
 
-3. Il termine di cui all'[articolo 2, comma 2, del decreto-legge 26 gennaio 1987, n. 10](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1987-01-26;10~art2-com2), convertito, con modificazioni, dalla [legge 24 marzo 1987, n. 119](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1987-03-24;119), prorogato, da ultimo, dall'[articolo 19 della legge 20 maggio 1991, n. 158](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1991-05-20;158~art19), e' differito al 30 ottobre 1995.
+3. Il termine di cui all'[articolo 2, comma 2, del decreto-legge 26 gennaio 1987, n. 10](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1987-01-26;10~art2-com2), convertito, con modificazioni, dalla [legge 24 marzo 1987, n. 119](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1987-03-24;119), prorogato, da ultimo, dall'[articolo 19 della legge 20 maggio 1991, n. 158](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1991-05-20;158~art19), e' differito al 31 dicembre 1995.
 
-4. Il termine di cui all'[articolo 4, comma 2, del decreto-legge 12 gennaio 1993, n. 2](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1993-01-12;2~art4-com2), convertito, con modificazioni, dalla [legge 13 marzo 1993, n. 59](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-03-13;59), per la presentazione della denuncia di detenzione di esemplari di specie indicate nell'allegato A, appendice I, e nell'allegato C, parte I, del [regolamento CEE n. 3626/82 del Consiglio del 3 dicembre 1982](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:31982R3626), e successive modificazioni, resta stabilito al 30 giugno 1994, ad eccezione della presentazione delle denunce di detenzione degli esemplari di testuggini appartenenti alle specie Testudo hermanni (testuggine comune), Testudo graeca (testuggine graeca) e Testudo marginata (testuggine marginata), per le quali e' possibile autocertificare, entro il 30 agosto 1995, l'acquisizione delle stesse. La sanzione prevista dall'[articolo 1 della legge 7 febbraio 1992, n. 150](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1992-02-07;150~art1), cosi' come sostituito dall'[articolo 1 del decreto-legge 12 gennaio 1993, n. 2](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1993-01-12;2~art1), convertito, con modificazioni, dalla [legge 13 marzo 1993, n. 59](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-03-13;59), non si applica nei confronti di coloro che hanno presentato, entro i termini previsti, la suddetta autocertificazione.
+4. Il termine di cui all'[articolo 4, comma 2, del decreto-legge 12 gennaio 1993, n. 2](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1993-01-12;2~art4-com2), convertito, con modificazioni, dalla [legge 13 marzo 1993, n. 59](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-03-13;59), per la presentazione della denuncia di detenzione di esemplari di specie indicate nell'allegato A, appendice I, e nell'allegato C, parte I, del [regolamento CEE n. 3626/82 del Consiglio del 3 dicembre 1982](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:31982R3626), e successive modificazioni, resta stabilito al 30 giugno 1994, ad eccezione della presentazione delle denunce di detenzione degli esemplari di testuggini appartenenti alle specie Testudo hermanni (testuggine comune), Testudo graeca (testuggine graeca) e Testudo marginata (testuggine marginata), per le quali e' possibile autocertificare, entro il 31 ottobre 1995, l'acquisizione delle stesse. La sanzione prevista dall'[articolo 1 della legge 7 febbraio 1992, n. 150](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1992-02-07;150~art1), cosi' come sostituito dall'[articolo 1 del decreto-legge 12 gennaio 1993, n. 2](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1993-01-12;2~art1), convertito, con modificazioni, dalla [legge 13 marzo 1993, n. 59](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-03-13;59), non si applica nei confronti di coloro che hanno presentato, entro i termini previsti, la suddetta autocertificazione.
 
 5. Con decreto del Ministro dell'ambiente e' definito il modulo da utilizzare per la denuncia o autocertificazione di cui al comma 1; con la medesima procedura si provvede alle modifiche ed agli aggiornamenti del modulo stesso.
 
@@ -117,12 +114,12 @@ Art. 5
 
 Entrata in vigore
 
-1. Il presente decreto entra in vigore il giorno stesso della sua pubblicazione nella Gazzetta Ufficiale della Repubblica italiana e sara' presentato alle Camere per la conversione in legge.
+1. Il presente decreto entra in vigore il giorno successivo a quello della sua pubblicazione nella Gazzetta Ufficiale della Repubblica italiana e sara' presentato alle Camere per la conversione in legge.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserito nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 28 agosto 1995
+### Dato a Roma, addi' 27 ottobre 1995
 
 SCALFARO
 
@@ -132,4 +129,4 @@ BARATTA, Ministro dei lavori pubblici e dell'ambiente
 
 MASERA, Ministro del bilancio e della programmazione economica e per il coordinamento delle politiche dell'Unione europea
 
-Visto, il Guardasigilli: MANCUSO
+Visto, il Guardasigilli: DINI

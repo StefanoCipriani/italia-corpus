@@ -1,15 +1,15 @@
-DECRETO-LEGGE 01 luglio 1996 n. 344
+DECRETO-LEGGE 30 agosto 1996 n. 450
 
 
-DECRETO-LEGGE 01 luglio 1996 n. 344
+DECRETO-LEGGE 30 agosto 1996 n. 450
 ===================================
 
 Interventi per le aree depresse e protette, per manifestazioni 
 sportive internazionali, nonche' modifiche alla legge 25 febbraio 
-1992, n. 210
------------------------------------------------------------------------------------------------------------------------------------------------
+1992, n. 210.
+------------------------------------------------------------------------------------------------------------------------------------------------
 
-Entrata in vigore del decreto: 3/7/1996.Decreto-Legge decaduto per mancata conversione.
+Entrata in vigore del decreto: 1/9/1996.Decreto-Legge decaduto per mancata conversione.
 
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
@@ -20,7 +20,7 @@ Ritenuta la straordinaria necessita' ed urgenza di disporre interventi per le ar
 
 Ritenuta, altresi', la straordinaria necessita' ed urgenza di modificare la [legge 25 febbraio 1992, n. 210](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1992-02-25;210), relativamente alle modalita' di erogazione degli indennizzi a favore dei soggetti danneggiati da complicanze di tipo irreversibile a causa di vaccinazioni obbligatorie, trasfusioni e somministrazione di emoderivati;
 
-Vista la deliberazione del Consiglio dei Ministri, adottata nella riunione del 27 giugno 1996;
+Vista la deliberazione del Consiglio dei Ministri, adottata nella riunione del 28 agosto 1996;
 
 Sulla proposta del Presidente del Consiglio dei Ministri e del Ministro del tesoro e del bilancio e della programmazione economica;
 
@@ -69,18 +69,26 @@ Fondi per le aree depresse
 Art. 5
 ------
 
+Trasferimento di opere infrastrutturali  
+ed impianti alle regioni
+
+1. Con decreto del Presidente del Consiglio dei Ministri, sentito il Ministro dell'industria, del commercio e dell'artigianato, sono trasferiti alle regioni Basilicata e Campania le opere infrastrutturali realizzate nelle aree industriali, ai sensi dell'[articolo 32 della legge 14 maggio 1981, n. 219](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1981-05-14;219~art32).
+
+Art. 6
+------
+
 Aree protette
 
 1. Il termine di cui all'[articolo 35, comma 4, della legge 6 dicembre 1991, n. 394](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1991-12-06;394~art35-com4), e' differito al 31 dicembre 1996. Il Ministro dell'ambiente procede entro il 30 giugno 1997 all'istituzione del Parco nazionale della Val d'Agri e del Lagonegrese (Monti Arioso, Volturino, Viggiano, Sirino, Raparo), a norma del comma 5 del medesimo articolo 35.
 
-Art. 6
+Art. 7
 ------
 
 Modifica e integrazione  
 della legge 25 febbraio 1992, n. 210
 
 1. L'[articolo 2 della legge 25 febbraio 1992, n. 210](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1992-02-25;210~art2), e' sostituito dal seguente:  
-"Art. 2. - 1. L'indennizzo di cui all'articolo 1, comma 1, consiste in un assegno, reversibile per quindici anni, determinato nella misura di cui alla tabella B allegata alla [legge 29 aprile 1976, n. 177](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1976-04-29;177), come modificata dall'[articolo 8 della legge 2 maggio 1994, n. 111](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-05-02;111~art8). L'indennizzo e' cumulabile con ogni altro emolumento a qualsiasi titolo percepito ed e' rivalutato annualmente sulla base del tasso di inflazione programmato.  
+"Art. 2. - 1. L'indennizzo di cui all'articolo 1, comma 1, consiste in un assegno, reversibile per quindici anni, determinato nella misura di cui alla tabella B allegata alla [legge 29 aprile 1976, n. 177](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1976-04-29;177), come modificata dall'[articolo 8 della legge 2 maggio 1984, n. 111](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1984-05-02;111~art8). L'indennizzo e' cumulabile con ogni altro emolumento a qualsiasi titolo percepito ed e' rivalutato annualmente sulla base del tasso di inflazione programmato.  
 2. L'indennizzo di cui al comma 1 e' integrato da una somma corrispondente all'importo dell'indennita' integrativa speciale di cui alla [legge 27 maggio 1959, n. 324](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1959-05-27;324), e successive modificazioni, prevista per la prima qualifica funzionale degli impiegati civili dello Stato, ed ha decorrenza dal primo giorno del mese successivo a quello della presentazione della domanda ai sensi dell'articolo 3. La predetta somma integrativa e' cumulabile con l'indennita' integrativa speciale o altra analoga indennita' collegata alla variazione del costo della vita. Ai soggetti di cui al comma 1 dell'articolo 1, anche nel caso in cui l'indennizzo sia stato gia' concesso, e' corrisposto, a domanda, per il periodo ricompreso tra il manifestarsi dell'evento dannoso e l'ottenimento dell'indennizzo previsto dalla presente legge, un assegno una tantum nella misura pari, per ciascun anno, al 30 per cento dell'indennizzo dovuto ai sensi del comma 1 e del primo periodo del presente comma, con esclusione di interessi legali e rivalutazione monetaria.  
 3. Qualora a causa delle vaccinazioni o delle patologie previste dalla presente legge sia derivata la morte, l'avente diritto puo' optare fra l'assegno reversibile di cui al comma 1 e un assegno una tantum di lire 150 milioni. Ai fini della presente legge, sono considerati aventi diritto nell'ordine i seguenti soggetti a carico: il coniuge, i figli, i genitori, i fratelli minorenni, i fratelli maggiorenni inabili al lavoro. I benefici di cui al presente comma spettano anche nel caso in cui il reddito della persona deceduta non rappresenti l'unico sostentamento della famiglia.  
 4. Qualora la persona sia deceduta in eta' minore, l'indennizzo spetta ai genitori o a chi esercita la potesta' parentale.  
@@ -99,7 +107,7 @@ della legge 25 febbraio 1992, n. 210
 
 6. Al [comma 1 dell'articolo 6 della legge 25 febbraio 1992, n. 210](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1992-02-25;210~art6-com1), dopo le parole: "Ministro della sanita'" sono inserite le seguenti: ", tramite la USL territorialmente competente,".
 
-Art. 7
+Art. 8
 ------
 
 Entrata in vigore
@@ -109,7 +117,7 @@ Entrata in vigore
 Il presente decreto, munito del sigillo dello Stato, sara' inserito nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 1 luglio 1996
+### Dato a Roma, addi' 30 agosto 1996
 
 SCALFARO
 

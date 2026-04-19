@@ -1,14 +1,14 @@
-DECRETO-LEGGE 30 ottobre 1995 n. 453
+DECRETO-LEGGE 01 settembre 1995 n. 368
 
 
-DECRETO-LEGGE 30 ottobre 1995 n. 453
-====================================
+DECRETO-LEGGE 01 settembre 1995 n. 368
+======================================
 
 Disposizioni urgenti in materia di avanzamento degli ufficiali 
 delle Forze armate e dell'Arma dei carabinieri.
 ---------------------------------------------------------------------------------------------------------------
 
-Entrata in vigore del decreto: 2-11-1995.Decreto-Legge decaduto per mancata conversione.
+Entrata in vigore del decreto: 2-9-1995.Decreto-Legge decaduto per mancata conversione.
 
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
@@ -17,9 +17,9 @@ Visti gli [articoli 77](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:cost
 
 Ritenuta la straordinaria necessita' ed urgenza di prorogare le vigenti disposizioni in materia di avanzamento degli ufficiali delle Forze armate e dell'Arma dei carabinieri, in attesa della legge di riordino organico del personale civile e militare della Difesa, nonche' di modificare la recente disciplina normativa sulle aliquote di valutazione degli ufficiali dell'Arma dei carabinieri, per ovviare a difficolta' applicative della stessa disciplina;
 
-Vista la deliberazione del Consiglio dei Ministri, adottata nella riunione del 27 ottobre 1995;
+Vista la deliberazione del Consiglio dei Ministri, adottata nella riunione del 1 settembre 1995;
 
-Sulla proposta del Presidente del Consiglio dei Ministri e Ministro del tesoro e, ad interim, Ministro di grazia e giustizia e del Ministro della difesa, di concerto con i Ministri dell'interno, delle risorse agricole, alimentari e forestali e del bilancio e della programmazione economica;
+Sulla proposta del Presidente del Consiglio dei Ministri e Ministro del tesoro e del Ministro della difesa, di concerto con il Ministro del bilancio e della programmazione economica;
 
 E M A N A il seguente decreto-legge:
 
@@ -41,7 +41,7 @@ d) ottantacinque unita' per capitano del ruolo normale, nell'anno 1995 ed ottant
 a) settantacinque unita' per l'anno 1995;  
 b) settantatre unita' annue dal 1996 al 2000;  
 c) ottantacinque per cento dei capitani inclusi nell'aliquota di valutazione dell'anno di riferimento, dal 2001 al 2005.  
-3. Sino al 1997 incluso, i maggiori in servizio permanente effettivo dei Carabinieri con anzianita' di grado pari o superiore a quattro anni sono valutati e, se idonei, promossi al grado di tenente colonnello con decorrenza dal giorno successivo al compimento della predetta anzianita'. Dal 1998 la promozione dei maggiori a tenente colonnello avviene con le stesse modalita', ma l'anzianita' richiesta e' di cinque anni".
+3. Sino al 1997 incluso, i maggiori in servizio permanente effettivo dei Carabinieri con anzianita' di grado pari o superiore a quattro anni sono valutati e, se idonei, promossi al grado di tenente colonnello con decorrenza dal giorno successivo al compimento della predetta anzianita'. Dal 1998 la promozione dei maggiori a tenente colonnello avviene con le stesse modalita', ma l'anzianita' richiesta e' di cinque anni.".
 
 2. Le tabelle 1 e 3 allegate al [decreto legislativo 24 marzo 1993, n. 117](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-03-24;117), sono, rispettivamente, sostituite dalle tabelle allegate al presente decreto.
 
@@ -57,7 +57,7 @@ Art. 4
 
 1. Le disposizioni sullo stato e l'avanzamento, ivi comprese quelle che consentono la facolta' di partecipare ai concorsi per l'accesso al ruolo dei volontari di truppa in servizio permanente, previste dal [decreto legislativo 12 maggio 1995, n. 196](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1995-05-12;196), per i volontari di truppa in ferma breve, si applicano ai militari in ferma di leva prolungata da arruolare a partire dal 1 settembre 1995, ai sensi degli [articoli 5](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1986-12-24;958~art5) e [35 della legge 24 dicembre 1986, n. 958](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1986-12-24;958~art35).
 
-2. In via transitoria, fino alla data di entrata in vigore dei regolamenti previsti dall'[articolo 3, comma 65, della legge 24 dicembre 1993, n. 537](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-12-24;537~art3-com65), ai volontari che abbiano prestato servizio senza demerito, per almeno tre anni, nelle Forze armate e' consentito l'accesso alle carriere iniziali delle Forze di polizia a ordinamento militare, della Polizia di Stato, del Corpo militare della Croce rossa italiana, del Corpo forestale dello Stato, del Corpo dei vigili del fuoco, nonche' del Corpo della polizia penitenziaria, secondo le percentuali di cui all'articolo 3, comma 65, della citata [legge n. 537 del 1993](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993;537), sempreche' in possesso dei requisiti richiesti ed accertati dalle singole Forze di polizia e Corpi interessati, secondo le rispettive procedure di assunzione. Per il Corpo della polizia penitenziaria, oltre a quanto previsto da norme speciali, si applica la percentuale del 50 per cento.
+2. In via transitoria, fino alla data di entrata in vigore dei regolamenti previsti dall'[articolo 3, comma 65, della legge 24 dicembre 1993, n. 537](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-12-24;537~art3-com65), ai volontari che abbiano prestato servizio senza demerito, per almeno tre anni, nelle Forze armate e' consentito l'accesso alle carriere iniziali delle Forze di polizia a ordinamento militare, della Polizia di Stato, del Corpo militare della Croce rossa italiana, del Corpo forestale dello Stato, del Corpo dei vigili del fuoco, nonche' del Corpo della polizia penitenziaria, secondo le percentuali di cui all'articolo 3, comma 65, della citata [legge n. 537 del 1993](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993;537), sempreche' in possesso dei requisiti richiesti ed accertati dalle singole Forze di polizia e Corpi interessati, secondo le rispettive procedure di assunzione. Per il Corpo della polizia penitenziaria, oltre a quanto previsto da norme speciali, si applica la percentuale del 50%.
 
 3. La disposizione di cui alla [lettera b) del comma 1 dell'articolo 23 della legge 24 dicembre 1986, n. 958](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1986-12-24;958~art23-com1-letb), e' abrogata con decorrenza 1 settembre 1995.
 
@@ -76,27 +76,17 @@ Art. 6
 Il presente decreto, munito del sigillo dello Stato, sara' inserito nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 30 ottobre 1995
+### Dato a Roma, addi' 1 settembre 1995
 
 SCALFARO
 
-DINI, Presidente del Consiglio dei
-
-Ministri e Ministro del tesoro e,
-
-ad interim, Ministro di grazia e giustizia
+DINI, Presidente del Consiglio dei Ministri e Ministro del tesoro
 
 CORCIONE, Ministro della difesa
 
-CORONAS, Ministro dell'interno
-
-LUCHETTI, Ministro delle risorse
-
-agricole, alimentari e forestali
-
 MASERA, Ministro del bilancio e della programmazione economica
 
-Visto, il Guardasigilli: DINI
+Visto, il Guardasigilli: MANCUSO
 
 Tabella 1
 
@@ -176,7 +166,7 @@ per l'anno 1999);
 (f) Salvo il disposto dell'ultimo comma dell'art. 65 della legge 12 novembre 1955. n. 1137;   
 (g) A decorrere dal 2006;   
 (h) per gli anni 1995, 1996, 1997 e 1998 le promozioni sono   
-aumentate di due unita', come previsto dal [decreto-legge   
+aumentate di due unita', come previsto dal [decreto legge   
 18 maggio 1995, n. 176](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1995-05-18;176), convertito, con modificazioni,   
 dalla [legge 14 luglio 1995, n. 284](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1995-07-14;284).   
 --------   
@@ -235,3 +225,4 @@ nente
 Note:   
 (a) Il numero massimo complessivo e' portato in aumento a quelli previsti per il grado di colonnello rispettivamente, per gli ufficiali dell'Arma dei carabinieri dal decreto del Presidente della Repubblica 11 luglio 1974, e successive modificazioni, per gli ufficiali dell'Esercito dall'[art. 3 della legge 10 dicembre 1973, n. 804](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1973-12-10;804~art3), e successive modificazioni.   
 (b) Ciclo biennale: n. 6 promozioni negli anni pari.   
+--------   

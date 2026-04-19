@@ -1,14 +1,14 @@
-DECRETO-LEGGE 22 luglio 1996 n. 387
+DECRETO-LEGGE 24 gennaio 1996 n. 29
 
 
-DECRETO-LEGGE 22 luglio 1996 n. 387
+DECRETO-LEGGE 24 gennaio 1996 n. 29
 ===================================
 
 Trasformazione in ente di diritto pubblico economico dell'Azienda 
 autonoma di assistenza al volo per il traffico aereo generale.
 ---------------------------------------------------------------------------------------------------------------------------------
 
-Entrata in vigore del decreto: 25-7-1996.Decreto-Legge decaduto per mancata conversione.
+Entrata in vigore: 25/1/1996.Decreto-Legge decaduto per mancata conversione.
 
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
@@ -27,9 +27,9 @@ Considerato che la trasformazione in societa' per azioni e' ritenuta la piu' ade
 
 Considerata, altresi', la natura strategica dell'attivita' posta in essere dall'Azienda, nell'ambito dei servizi pubblici essenziali;
 
-Vista la deliberazione del Consiglio dei Ministri, adottata nella riunione del 19 luglio 1996;
+Vista la deliberazione del Consiglio dei Ministri, adottata nella riunione del 23 gennaio 1996;
 
-Sulla proposta del Presidente del Consiglio dei Ministri e del Ministro dei trasporti e della navigazione, di concerto con i Ministri delle finanze, del tesoro e del bilancio e della programmazione economica, del lavoro e della previdenza sociale e per la funzione pubblica e gli affari regionali;
+Sulla proposta del Presidente del Consiglio dei Ministri e Ministro del tesoro e del Ministro dei trasporti e della navigazione, di concerto con i Ministri delle finanze e, ad interim, del bilancio e della programmazione economica, del lavoro e della previdenza sociale e per la funzione pubblica e gli affari regionali;
 
 E M A N A il seguente decreto-legge:
 
@@ -43,7 +43,7 @@ al volo per il traffico aereo generale
 
 1. L'Azienda autonoma di assistenza al volo per il traffico aereo generale (AAAVTAG) e' trasformata in ente pubblico economico, denominato Ente nazionale di assistenza al volo (ENAV), a decorrere dal 1 gennaio 1996.
 
-2. L'Ente nazionale di assistenza al volo, di seguito denominato Ente, e' trasformato in societa' per azioni il 1 gennaio 1999, con le modalita' indicate dall'[articolo 2, comma 1, del decreto-legge 28 giugno 1995, n. 251](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1995-06-28;251~art2-com1), convertito, con modificazioni, dalla [legge 3 agosto 1995, n. 351](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1995-08-03;351). Entro la predetta data sara' verificato il conseguimento degli obiettivi definiti a tal fine in un apposito piano triennale predisposto dal presidente dell'Ente entro il mese di dicembre 1996. Tale piano e' approvato dal Ministro dei trasporti e della navigazione, di concerto con il Ministro del tesoro, i quali effettuano anche la predetta verifica.
+2. L'Ente nazionale di assistenza al volo, di seguito denominato Ente, e' trasformato in societa' per azioni il 1 gennaio 1999, con le modalita' indicate dall'[articolo 2, comma 1, del decreto-legge 28 giugno 1995, n. 251](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1995-06-28;251~art2-com1), convertito, con modificazioni, dalla [legge 3 agosto 1995, n. 351](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1995-08-03;351). Entro la predetta data sara' verificato il conseguimento degli obiettivi definiti a tal fine in un apposito piano triennale predisposto dal presidente dell'Ente entro il mese di febbraio 1996. Tale piano e' approvato dal Ministro dei trasporti e della navigazione, di concerto con il Ministro del tesoro, i quali effettuano anche la predetta verifica.
 
 3. Il Ministro dei trasporti e della navigazione esercita la vigilanza sull'Ente, inclusa quella sull'attuazione del piano di cui al comma 2.
 
@@ -75,7 +75,7 @@ c) il collegio dei revisori dei conti.
 
 ### Art. 4
 
-S t a t u t o
+Statuto
 
 1. Lo statuto dell'Ente e' deliberato, su proposta del presidente, dal consiglio di amministrazione ed e' approvato con decreto del Ministro dei trasporti e della navigazione, di concerto con i Ministri del tesoro, della difesa e per la funzione pubblica. Esso definisce i servizi e le attivita' dell'Ente e le competenze degli organi in relazione alle esigenze di amministrazione dell'Ente; indica inoltre i principi relativi all'organizzazione ed al funzionamento dell'Ente, nonche' gli atti da trasmettere al Ministero dei trasporti e della navigazione e quelli da sottoporre ad approvazione ministeriale.
 
@@ -91,7 +91,7 @@ Rapporti giuridici e patrimonio
 
 1. L'Ente subentra nella titolarita' dei rapporti attivi e passivi dell'AAAVTAG.
 
-2. Con uno o piu' decreti del Ministro delle finanze, di concerto con i Ministri dei trasporti e della navigazione e della difesa, da emanarsi entro il 31 dicembre 1996, sono individuati i beni, mobili e immobili, che costituiscono il patrimonio dell'Ente.
+2. Con uno o piu' decreti del Ministro delle finanze, di concerto con i Ministri dei trasporti e della navigazione e della difesa, da emanarsi entro il 30 giugno 1996, sono individuati i beni, mobili e immobili, che costituiscono il patrimonio dell'Ente.
 
 ### Art. 7
 
@@ -121,8 +121,6 @@ Personale
 
 6. I dipendenti in servizio all'atto della trasformazione in ente pubblico economico mantengono il regime pensionistico e, fino alla data di trasformazione dell'Ente in societa' per azioni, quello relativo all'indennita' di buonuscita secondo le regole vigenti per il personale delle pubbliche amministrazioni. Entro il 30 giugno 1996 i predetti dipendenti possono esercitare opzione per il regime pensionistico cui e' iscritto il personale di cui al comma 5; si applica l'[articolo 6 della legge 7 febbraio 1979, n. 29](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1979-02-07;29~art6).
 
-7. Sono convalidate a tutti gli effetti le posizioni giuridiche ed economiche attribuite al personale dell'AAAVTAG in sede di primo inquadramento intervenuto nell'anno 1983 e quelle attribuite in forza degli accordi applicativi del contratto collettivo nazionale di lavoro 1988-1990, di cui al decreto del Presidente del Consiglio dei Ministri in data 20 ottobre 1988, intervenuti tra l'AAAVTAG e le organizzazioni sindacali in data 12-14 novembre 1988, 29 aprile 1989 e 3 aprile 1990.
-
 ### Art. 9
 
 Contratto di programma
@@ -148,9 +146,9 @@ CAPO II Capo II NORME TRANSITORIE
 
 Assunzioni
 
-1. In deroga a quanto disposto dall'[articolo 22 della legge 23 dicembre 1994, n. 724](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-12-23;724~art22), ed in attesa della definizione delle dotazioni organiche previa verifica dei canchi di lavoro, l'Azienda autonoma di assistenza al volo per il traffico aereo generale e' autorizzata ad assumere personale operativo.
+1. In deroga a quanto disposto dall'[articolo 22 della legge 23 dicembre 1994, n. 724](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-12-23;724~art22), ed in attesa della definizione delle dotazioni organiche previa verifica dei carichi di lavoro, l'Azienda autonoma di assistenza al volo per il traffico aereo generale e' autorizzata ad assumere personale operativo.
 
-2. In deroga a quanto disposto dall'[articolo 3, comma 23, della legge 24 dicembre 1993, n. 537](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-12-24;537~art3-com23), e dall'[articolo 25, comma 1, della legge 23 dicembre 1994, n. 724](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-12-23;724~art25-com1), l'Azienda autonoma di assistenza al volo per il traffico aereo generale puo' instaurare, fino al 31 dicembre 1997 e nel limite di ottanta unita' da impiegare in via prioritaria per le attivita' di formazione, rapporti di lavoro a tempo determinato, la cui disciplina verra' definita al momento della loro accensione, per periodi non superiori ad un anno, rinnovabili una sola volta, con personale gia' dipendente dall'Azienda stessa e dall'Aeronautica militare e in possesso delle necessarie abilitazioni e dei requisiti di idoneita' psico-fisica, con eta' non superiore a 57 anni all'atto dell'instaurarsi del predetto rapporto. Il trattamento retributivo e' costituito dal trattamento di quiescenza gia' in godimento, compresa l'indennita' integrativa speciale, e da un compenso aggiuntivo fino al raggiungimento della retribuzione complessiva del personale in servizio di pari livello, anzianita' ed impiego, tenendo conto che il trattamento stesso non comporta la riliquidazione della pensione e non da' diritto alla corresponsione dell'indennita' di fine rapporto.
+2. In deroga a quanto disposto dall'[articolo 3, comma 23, della legge 24 dicembre 1993, n. 537](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-12-24;537~art3-com23), e dall'[articolo 25, comma 1, della legge 23 dicembre 1994, n. 724](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-12-23;724~art25-com1), l'Azienda autonoma di assistenza al volo per il traffico aereo generale puo' instaurare, fino al 31 dicembre 1997 e nel limite di 80 unita' da impiegare in via prioritaria per le attivita' di formazione, rapporti di lavoro a tempo determinato, la cui disciplina verra' definita al momento della loro accensione, per periodi non superiori ad un anno, rinnovabili una sola volta, con personale gia' dipendente dall'Azienda stessa e dall'Aeronautica militare e in possesso delle necessarie abilitazioni e dei requisiti di idoneita' psico-fisica, con eta' non superiore a 57 anni all'atto dell'instaurarsi del predetto rapporto. Il trattamento retributivo e' costituito dal trattamento di quiescenza gia' in godimento, compresa l'indennita' integrativa speciale, e da un compenso aggiuntivo fino al raggiungimento della retribuzione complessiva del personale in servizio di pari livello, anzianita' ed impiego, tenendo conto che il trattamento stesso non comporta la riliquidazione della pensione e non da' diritto alla corresponsione dell'indennita' di fine rapporto.
 
 ### Art. 11
 
@@ -158,13 +156,13 @@ Fondo di produttivita'
 
 1. L'AAAVTAG e' autorizzata ad istituire, in via straordinaria per gli anni 1994-1997, un "Fondo di compensazione per la produttivita'" con una dotazione di 10 miliardi di lire, per compensare la maggiore produttivita' offerta, da erogare ai dipendenti secondo criteri definiti previo confronto con le organizzazioni sindacali maggiormente rappresentative a livello aziendale.
 
-2. A seguito della trasformazione in ente pubblico economico, il predetto Fondo potra' essere incrementato con ulteriori risorse dell'Ente, derivanti da economie di bilancio conseguenti alle maggori entrate per l'incremento dei voli. Il corrispettivo per l'ulteriore produttivita' intervenuta, nonche' i criteri di erogazione di tali ulteriori risorse saranno definiti previo confronto con le organizzazioni sindacali maggiormente rappresentative a livello aziendale.
+2. A seguito della trasformazione in ente pubblico economico, il predetto Fondo potra' essere incrementato con ulteriori risorse dell'Ente, derivanti da economie di bilancio conseguenti alle maggiori entrate per l'incremento dei voli. Il corrispettivo per l'ulteriore produttivita' intervenuta, nonche' i criteri di erogazione di tali ulteriori risorse saranno definiti previo confronto con le organizzazioni sindacali maggiormente rappresentative a livello aziendale.
 
 ### Art. 12
 
 Esenzione fiscale
 
-1. Tutti gli atti di acquisizione del patrimonio dell'AAAVTAG connessi con la trasformazione di cui all'articolo 1 sono esenti da imposte e tasse.
+1. Tutti gli atti connessi con l'acquisizione del patrimonio dell'AAAVTAG sono esenti da imposte e tasse.
 
 ### Art. 13
 
@@ -178,25 +176,25 @@ Disposizioni finali
 
 Entrata in vigore
 
-1. Il presente decreto entra in vigore il giorno successivo a quello della sua pubblicazione nella Gazzetta Ufficiale della Repubblica italiana e sara' presentato alle Camere per la conversione in legge.
+1. Il presente decreto entra in vigore il giorno stesso della sua pubblicazione nella Gazzetta Ufficiale della Repubblica italiana e sara' presentato alle Camere per la conversione in legge.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserito nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi 22 luglio 1996
+### Dato a Roma, addi' 24 gennaio 1996
 
 SCALFARO
 
-PRODI, Presidente del Consiglio dei Ministri
+DINI, Presidente del Consiglio dei Ministri e Ministro del tesoro
 
-BURLANDO, Ministro dei trasporti e della navigazione
+CARAVALE, Ministro dei trasporti e della navigazione
 
-VISCO, Ministro delle finanze
+FANTOZZI, Ministro delle finanze e,
 
-CIAMPI, Ministro del tesoro e del bilancio e della programmazione economica
+ad interim, Ministro del bilancio e della programmazione economica
 
 TREU, Ministro del lavoro e della previdenza sociale
 
-BASSANINI, Ministro per la funzione pubblica e gli affari regionali
+FRATTINI, Ministro per la funzione pubblica e gli affari regionali
 
-Visto, il Guardasigilli: FLICK
+Visto, il Guardasigilli: DINI

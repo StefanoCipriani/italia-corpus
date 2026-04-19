@@ -1,8 +1,8 @@
-DECRETO DEL CAPO PROVVISORIO DELLO STATO 05 ottobre 1946 n. 327
+DECRETO DEL CAPO PROVVISORIO DELLO STATO 12 aprile 1947 n. 509
 
 
-DECRETO DEL CAPO PROVVISORIO DELLO STATO 05 ottobre 1946 n. 327
-===============================================================
+DECRETO DEL CAPO PROVVISORIO DELLO STATO 12 aprile 1947 n. 509
+==============================================================
 
 Autorizzazione all'Universita' di Firenze ad accettare una donazione.
 ---------------------------------------------------------------------
@@ -12,7 +12,8 @@ Art. 1
 
 N.
 
-327. Decreto del Capo provvisorio dello Stato 5 ottobre 1946, col quale, sulla proposta del Ministro per la pubblica istruzione, l'Universita' di Firenze viene autorizzata ad accettare la donazione della somma di L. 50.000 in titoli di Rendita italiana 5%, disposta in suo favore dal prof. Vittoriano Cavara e raccolta tra i colleghi ed estimatori dei prof. Lorenzo Bardelli, e della somma di L. 100.000 in titoli di Rendita italiana 5%, disposta in suo favore dalla signora Rina Vivarelli Bardelli in nome proprio e in nome e per conto della signora Emma Capecchi vedova Bardelli, con atto pubblico in data 30 giugno 1943, per l'istituzione di un premio da intitolarsi al nome del "prof. Lorenzo Bardelli" e da conferirsi ad un laureato presso una Universita' italiana, che abbia svolto la migliore tesi in clinica oculistica, nella sessione di esami in cui viene bandito il concorso.  
+509. Decreto del Capo provvisorio dello Stato 12 aprile 1947, col quale, sulla proposta del Ministro per la pubblica istruzione, l'Universita' di Firenze viene autorizzata ad accettare la donazione della somma di L. 50.000 nominali, in buoni del Tesoro 5%, disposta in suo favore dai signori Giovanni Jacoponi e prof.  
+Raoul Poggi, in nome e' per conto del comitato per onorare la memoria del sottotenente, laureando in chimica, Carlo Jacoponi, con atto pubblico in data 14 novembre 1945, per l'istituzione di una borsa di studio da intitolarsi al nome di "Carlo Jacoponi" e da conferirsi, ogni biennio, al migliore degli studenti iscritti alla Facolta' di scienze matematiche, fisiche e naturali dell'Universita' medesima, di modeste condizioni economiche e, a pari condizioni, preferibilmente figlio di insegnante, per il conseguimento della laurea in chimica.  
   
 Visto, il Guardasigilli: GULLO  
-Registrato alla corte dei conti, addi' 16 novembre 1946
+Registrato alla Corte dei conti, addi' 13 giugno 1947

@@ -1,24 +1,24 @@
-DECRETO-LEGGE 04 agosto 1993 n. 274
+DECRETO-LEGGE 02 ottobre 1993 n. 395
 
 
-DECRETO-LEGGE 04 agosto 1993 n. 274
-===================================
+DECRETO-LEGGE 02 ottobre 1993 n. 395
+====================================
 
 Disposizioni urgenti sulla riorganizzazione dei controlli ambientali e istituzione dell'Agenzia nazionale per la protezione dell'ambiente.
 ------------------------------------------------------------------------------------------------------------------------------------------
 
-Entrata in vigore del decreto: 5/8/1993.Decreto-Legge decaduto per mancata conversione.
+Entrata in vigore del decreto: 05/10/1993.Decreto-Legge decaduto per mancata conversione.
 
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
 Visti gli [articoli 77](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27~art77) e [87 della Costituzione](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27~art87);
 
-Considerato che, in esito al referendum popolare, sono state abrogare le disposizioni che affidavano alle unita' sanitarie locali i controlli in materia ambientale;
+Considerato che, in esito al referendum popolare, sono state abrogate le disposizioni che affidavano alle unita' sanitarie locali i controlli in materia ambientale;
 
 Ritenuta la straordinaria necessita' ed urgenza di emanare disposizioni per evitare soluzione di continuita' in materia di controlli ambientali;
 
-Vista la deliberazione del Consiglio dei Ministri, adottata nella riunione del 4 agosto 1993;
+Vista la deliberazione del Consiglio dei Ministri, adottata nella riunione del 30 settembre 1993;
 
 Sulla proposta del Presidente del Consiglio dei Ministri e del Ministro dell'ambiente, di concerto con i Ministri del tesoro, del bilancio e della programmazione economica, della sanita', per la funzione pubblica e per il coordinamento delle politiche comunitarie e gli affari regionali;
 
@@ -29,11 +29,11 @@ Art. 1
 
 Agenzia nazionale per la protezione dell'ambiente
 
-1. E' istituita l'Agenzia nazionale per la protezione dell'ambiente (ANPA). L'ANPA, dotata di personalita' giuridica e di autonomia amministrativa, contabile e finanziaria, svolge in collegamento con l'Agenzia europea per l'ambiente, attivita' tecnico-scientifica di ausilio del Ministero dell'ambiente e delle altre amministrazioni pubbliche in materia di tutela dall'inquinamento dell'atmosfera, delle acque e del suolo di cui all'[articolo 1, comma 1, del decreto del Presidente della Repubblica 5 giugno 1993, n. 177](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1993-06-05;177~art1-com1). L'ANPA e' sottoposta alla vigilanza del Ministero dell'ambiente e al controllo successivo della Corte dei conti e si avvale del patrocinio dell'Avvocatura dello Stato.
+1. E' istituita l'Agenzia nazionale per la protezione dell'ambiente (ANPA). L'ANPA, dotata di personalita' giuridica e di autonomia amministrativa, contabile e finanziaria, svolge, in collegamento con l'Agenzia europea per l'ambiente, attivita' tecnico-scientifica di ausilio del Ministero dell'ambiente e delle altre amministrazioni pubbliche in materia di tutela dall'inquinamento dell'atmosfera, delle acque e del suolo di cui all'[articolo 1, comma 1, del decreto del Presidente della Repubblica 5 giugno 1993, n. 177](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1993-06-05;177~art1-com1). L'ANPA e' sottoposta alla vigilanza del Ministero dell'ambiente e al controllo successivo della Corte dei conti e si avvale del patrocinio dell'Avvocatura dello Stato.
 
 2. L'organizzazione ed il funzionamento dell'ANPA, ivi inclusa la tabella di equiparazione tra le posizioni funzionali del personale rivestite presso le amministrazioni di provenienza e quelle dell'istituendo organismo, sono disciplinati con regolamento adottato, ai sensi dell'[articolo 17, comma 1, della legge 23 agosto 1988, n. 400](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400~art17-com1), su proposta del Ministro dell'ambiente, di concerto con i Ministri del tesoro e per la funzione pubblica, sentita la Conferenza permanente per i rapporti tra lo Stato, le regioni e le province autonome di Trento e Bolzano.
 
-3. La dotazione organica dell'ANPA deve contenere i posti strettamente indispensabili alla svolgimento dei compiti tecnico- scientifici dell'Agenzia. Alla copertura dei posti in organico l'ANPA provvede mediante concorsi pubblici. Nella fase di prima attuazione del presente decreto il Ministro dell'ambiente, in conferenza di servizi con i Ministri interessati, provvede anche mediante inquadramento a domanda di personale con trattamenti economici similari dell'Ente per le nuove tecnologie, l'energia e l'ambiente (ENEA), dell'Istituto superiore di sanita' (ISS), dell'Istituto superiore per la prevenzione e la sicurezza del lavoro (ISPESL), delle Unita' sanitarie locali (USL) e di altre amministrazioni pubbliche, intendendosi corrispondentemente ridotte le relative dotazioni organiche. In attesa dell'attuazione delle disposizioni di cui all'[articolo 45, comma 3, del decreto legislativo 3 febbraio 1993, n. 29](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-02-03;29~art45-com3), al personale inquadrato nei ruoli organici dell'ANPA, ai sensi del presente comma, compete il trattamento giuridico ed economico spettante presso gli enti e le amministrazioni di provenienza. Il relativo onere e' a carico degli enti di provenienza.   
+3. La dotazione organica dell'ANPA deve contenere i posti strettamente indispensabili allo svolgimento dei compiti tecnico- scientifici dell'Agenzia. Alla copertura dei posti in organico l'ANPA provvede mediante concorsi pubblici. Nella fase di prima attuazione del presente decreto il Ministro dell'ambiente, in conferenza di servizi con i Ministri interessati, provvede anche mediante inquadramento a domanda di personale con trattamenti economici similari dell'Ente per le nuove tecnologie, l'energia e l'ambiente (ENEA), dell'Istituto superiore di sanita' (ISS), dell'Istituto superiore per la prevenzione e la sicurezza del lavoro (ISPESL), delle Unita' sanitarie locali (USL) e di altre amministrazioni pubbliche, intendendosi corrispondentemente ridotte le relative dotazioni organiche. In attesa dell'attuazione delle disposizioni di cui all'[articolo 45, comma 3, del decreto legislativo 3 febbraio 1993, n. 29](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-02-03;29~art45-com3), al personale inquadrato nei ruoli organici dell'ANPA, ai sensi del presente comma, compete il trattamento giuridico ed economico spettante presso gli enti e le amministrazioni di provenienza. Il relativo onere e' a carico degli enti di provenienza.  
 Con decreto del Ministro del tesoro, su proposta e di intesa con le amministrazioni competenti, sono disciplinati i conseguenti rapporti finanziari, nonche', ove del caso, le occorrenti variazioni di bilancio.
 
 4. In sede di prima applicazione per l'anno 1993, l'ANPA si avvale dell'ausilio dei servizi e delle strutture del Ministero dell'ambiente. Lo Stato concorre al funzionamento dell'ANPA con un contributo di lire 5.250 milioni per l'anno 1994 e di lire 9.650 milioni annui a decorrere dal 1995. Al relativo onere si provvede mediante corrispondente utilizzo delle proiezioni per gli anni 1994 e 1995 dello stanziamento iscritto, ai fini del bilancio triennale 1993-1995, al capitolo 6856 dello stato di previsione del Ministero del tesoro per l'anno 1993, all'uopo parzialmente utilizzando l'accantonamento relativo al Ministero dell'ambiente. Il Ministro del tesoro e' autorizzato ad apportare, con propri decreti, le occorrenti variazioni di bilancio.
@@ -62,7 +62,7 @@ Entrata in vigore
 Il presente decreto, munito del sigillo dello Stato, sara' inserito nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 4 agosto 1993
+### Dato a Roma, addi' 2 ottobre 1993
 
 SCALFARO
 
