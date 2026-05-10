@@ -2324,11 +2324,11 @@ L'offesa non puo' essere ritenuta di particolare tenuita', ai sensi del primo co
 L'offesa non puo' altresi' essere ritenuta di particolare tenuita' quando si procede:   
 1) per delitti, puniti con una pena superiore nel massimo a due anni e sei mesi di reclusione, commessi in occasione o a causa di manifestazioni sportive;   
 2) per i delitti previsti dagli articoli 336, 337 e 341-bis, quando il fatto e' commesso nei confronti di un ufficiale o agente di pubblica sicurezza o di un ufficiale o agente di polizia giudiziaria nell'esercizio delle proprie funzioni, nonche' per il delitto previsto dall'articolo 343;   
-3) per i delitti, consumati o tentati, previsti dagli articoli 314, primo comma, 317, 318, 319, 319-bis, 319-ter, 319-quater, primo comma, 320, 321, 322, 322-bis, 391-bis, 423, 423-bis, 558-bis, 582, nelle ipotesi aggravate ai sensi degli articoli 576, primo comma, numeri 2, 5 e 5.1, e 577, primo comma, numero 1, e secondo comma, 583, secondo comma, 583-bis, 593-ter, 600-bis, 600-ter, primo comma, 609-bis, 609-quater, 609-quinquies, 609-undecies, 612- bis, 612-ter, 613-bis, 628, terzo comma, 629, 644, 648-bis, 648-ter;
+3) per i delitti, consumati o tentati, previsti dagli articoli 314, primo comma, 317, 318, 319, 319-bis, 319-ter, 319-quater, primo comma, 320, 321, 322, 322-bis, 391-bis, 423, 423-bis, 558-bis, 582, nelle ipotesi aggravate ai sensi degli articoli 576, primo comma, numeri 2, 5 e 5.1, e 577, primo comma, numero 1, e secondo comma, 583, secondo comma, 583-bis, 593-ter, 600-bis, 600-ter, primo comma, 609-bis, 609-quater, 609-quinquies, 609-undecies, 612- bis, 612-ter, 613-bis, 628, terzo comma, 629, 644, 648-bis, 648-ter; (388)
 
-((388))
+((393))
 
-  
+.   
 4) per i delitti, consumati o tentati, previsti dall'[articolo 19, quinto comma, della legge 22 maggio 1978, n. 194](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-05-22;194~art19-com5), dall'[articolo 73 del decreto del Presidente della Repubblica 9 ottobre 1990, n. 309](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1990-10-09;309~art73), salvo che per i delitti di cui al comma 5 del medesimo articolo, e dagli [articoli 184](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1998-02-24;58~art184) e [185 del decreto legislativo 24 febbraio 1998, n. 58](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1998-02-24;58~art185);   
 4-bis) per i delitti previsti dalla sezione II del capo III del titolo III della [legge 22 aprile 1941 n. 633](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1941-04-22;633), salvo che per i delitti di cui all'articolo 171 della medesima legge.   
 4-ter) per i delitti consumati o tentati previsti dagli articoli 255-ter, 256, commi 1-bis, 3 e 3-bis, 256-bis e 259 del [decreto legislativo 3 aprile 2006, n. 152](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2006-04-03;152). (384)   
@@ -2358,6 +2358,13 @@ La Corte Costituzionale con sentenza 20 ottobre - 27 novembre 2025, n. 172 (in G
 AGGIORNAMENTO (388)
 
 La [Corte Costituzionale con sentenza 20 novembre 2025](https://e-justice.europa.eu/ecli/ECLI::::) - [22 gennaio 2026, n. 5 (in G.U. 1ª s.s.](https://e-justice.europa.eu/ecli/ECLI::::) [28/1/2026, n. 4](https://e-justice.europa.eu/ecli/ECLI::::)), ha dichiarato "l'illegittimita' costituzionale dell'[art. 131-bis, terzo comma, numero 3), del codice penale](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398~art131bis-com3-num3), nella parte in cui prevede che l'offesa non puo' essere ritenuta di particolare tenuita' quando si procede per il delitto previsto dall'[art. 423-bis, secondo comma, cod. pen.](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398~art423bis-com2)".
+
+---------------
+
+AGGIORNAMENTO (393)
+
+La Corte Costituzionale con sentenza 23 febbraio - 31 marzo 2026, n. 44 (in G.U. 1ª s.s. 01/04/2026, n. 13), ha dichiarato "l'illegittimita' costituzionale dell'[art. 131-bis, terzo comma, numero 3), del codice penale](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398~art131bis-com3-num3), nella parte in cui prevede che l'offesa non puo' essere ritenuta di particolare tenuita' quando si procede per il delitto tentato previsto dall'[art. 629, primo comma, cod.  
+pen.](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398~art629-com1)".
 
 Codice Penale-art. 132
 
@@ -11135,16 +11142,27 @@ Codice Penale-art. 517 quater
 
  Art. 517-quater.   
   
+(Contraffazione di indicazioni geografiche o denominazioni di origine dei prodotti agroalimentari
 
-(( (Contraffazione di indicazioni geografiche o denominazioni di origine dei prodotti agroalimentari). ))
+((, artigianali e industriali))
 
-((Chiunque contraffa' o comunque altera indicazioni geografiche o denominazioni di origine di prodotti agroalimentari e' punito con la reclusione fino a due anni e con la multa fino a euro 20.000.   
+).   
+  
+Chiunque contraffa' o comunque altera indicazioni geografiche o denominazioni di origine di prodotti agroalimentari
+
+((, artigianali e industriali))
+
+e' punito con la reclusione fino a due anni e con la multa fino a euro 20.000.   
   
 Alla stessa pena soggiace chi, al fine di trarne profitto, introduce nel territorio dello Stato, detiene per la vendita, pone in vendita con offerta diretta ai consumatori o mette comunque in circolazione i medesimi prodotti con le indicazioni o denominazioni contraffatte.   
   
 Si applicano le disposizioni di cui agli articoli 474-bis, 474-ter, secondo comma, e 517-bis, secondo comma.   
   
-I delitti previsti dai commi primo e secondo sono punibili a condizione che siano state osservate le norme delle leggi interne, dei regolamenti comunitari e delle convenzioni internazionali in materia di tutela delle indicazioni geografiche e delle denominazioni di origine dei prodotti agroalimentari.))
+I delitti previsti dai commi primo e secondo sono punibili a condizione che siano state osservate le norme delle leggi interne, dei regolamenti comunitari e delle convenzioni internazionali in materia di tutela delle indicazioni geografiche e delle denominazioni di origine dei prodotti agroalimentari
+
+((, artigianali e industriali))
+
+.   
 
 Codice Penale-art. 517 quinquies
 
@@ -12708,7 +12726,7 @@ Codice Penale-art. 586
   
 (Morte o lesioni come conseguenza di altro delitto)   
   
-Quando da un fatto prevenuto come delitto doloso deriva, quale conseguenza non voluta dal colpevole, la morte o la lesione di una persona, si applicano le disposizioni dell'articolo 83, ma le pene stabilite negli articoli 589 e 590 sono aumentate.   
+Quando da un fatto preveduto come delitto doloso deriva, quale conseguenza non voluta dal colpevole, la morte o la lesione di una persona, si applicano le disposizioni dell'articolo 83, ma le pene stabilite negli articoli 589 e 590 sono aumentate.   
 
 Codice Penale-art. 586 bis
 
