@@ -327,111 +327,131 @@ Il [D.Lgs. 13 dicembre 2017, n. 217](http://www.normattiva.it/uri-res/N2Ls?urn:n
 
 ### Art. 3-ter
 
-(((Diritto alla trasparenza e al controllo sugli strumenti digitali).))
+(Diritto alla trasparenza e al controllo sugli strumenti digitali)
 
-1. 
+1. Il cittadino puo' accedere alle informazioni relative ai propri strumenti digitali, attraverso un servizio dedicato reso disponibile in modalita' sicura dal portale dell'Anagrafe nazionale della popolazione residente (ANPR) di cui all'articolo 62.
 
-((Il cittadino puo' accedere alle informazioni relative ai propri strumenti digitali, attraverso un servizio dedicato reso disponibile in modalita' sicura dal portale dell'Anagrafe nazionale della popolazione residente (ANPR) di cui all'articolo 62.))
+2. Ai fini del comma 1 e' istituita nell'ANPR un'apposita sezione contenente i dati riferibili ai seguenti strumenti digitali intestati al cittadino, registrati e costantemente
 
-2. 
+((aggiornati))
 
-((Ai fini del comma 1 e' istituita nell'ANPR un'apposita sezione contenente i dati riferibili ai seguenti strumenti digitali intestati al cittadino, registrati e costantemente allineati dai gestori degli strumenti stessi:))
+dai gestori degli strumenti stessi:
 
-a)
+a) le identita' digitali di cui al
 
-((le identita' digitali di cui al Sistema CIE (CIEid), al Sistema SPID e alla Carta Nazionale dei Servizi nonche' gli attestati elettronici di dati di identificazione personale rilasciati ai sensi dell'articolo 64-quater;))
+((sistema della carta di identita' elettronica, al sistema pubblico per la gestione dell'identita' digitale di cittadini e imprese (SPID) ))
 
-b)
+e alla Carta Nazionale dei Servizi nonche' gli attestati elettronici di dati di identificazione personale rilasciati ai sensi dell'articolo 64-quater;
 
-((le deleghe di cui all'articolo 64-ter;))
+b) le deleghe di cui all'articolo 64-ter;
 
-c)
+c) i domicili digitali eletti ai sensi dell'articolo 3-bis.
 
-((i domicili digitali eletti ai sensi dell'articolo 3-bis.))
+3. Per ogni strumento digitale di cui al comma 2,
 
-3. 
+((l'ANPR))
 
-((Per ogni strumento digitale di cui al comma 2, ANPR e' integrata e costantemente allineata con le seguenti informazioni:))
+e' integrata e costantemente
 
-a)
+((aggiornata))
 
-((tipologia di strumento digitale;))
+con le seguenti informazioni:
 
-b)
+a) tipologia di strumento digitale;
 
-((gestore dello strumento con la denominazione del soggetto emettitore;))
+b) gestore dello strumento con la denominazione del soggetto emettitore;
 
-c)
+c) natura del gestore, se pubblico o privato;
 
-((natura del gestore, se pubblico o privato;))
+d) identificativo dello strumento: il numero di serie, l'identificativo o il codice seriale dello strumento, ove esistente;
 
-d)
+e) livello di garanzia dello strumento: l'indicatore del grado di affidabilita' dell'autenticazione, ove applicabile;
 
-((identificativo dello strumento: il numero di serie, l'identificativo o il codice seriale dello strumento, ove esistente;))
+f) stato dello strumento: se valido, revocato o scaduto;
 
-e)
+g) data di rilascio, nel formato giorno/mese/anno;
 
-((livello di garanzia dello strumento: l'indicatore del grado di affidabilita' dell'autenticazione, ove applicabile;))
+h) scadenza, nel formato giorno/mese/anno;
 
-f)
+i) i) nel caso
 
-((stato dello strumento: se valido, revocato o scaduto;))
+((della piattaforma per la gestione delle deleghe))
 
-g)
+: i dati identificativi dei soggetti delegati e la data di inizio di validita' e termine della delega.
 
-((data di rilascio, nel formato giorno/mese/anno;))
+4. Con decreto del Ministro dell'interno, di concerto con l'Autorita' politica delegata in materia di innovazione tecnologica e transizione
 
-h)
+((digitale e con il))
 
-((scadenza, nel formato giorno/mese/anno;))
+Ministro per la pubblica amministrazione, sentito il Garante per la protezione dei dati personali, su proposta dell'Agenzia per l'Italia digitale (AgID), possono essere individuate
 
-i)
+((informazioni ulteriori))
 
-((nel caso del sistema di gestione deleghe: i dati identificativi dei soggetti delegati e la data di inizio di validita' e termine della delega.))
+rispetto a quelle previste dal comma 3 e possono essere aggiornate, in relazione alla evoluzione tecnologica, le categorie di strumenti digitali di cui al comma 2.
 
-4. 
+5. I dati di cui ai commi 3 e 4 sono messi a disposizione dell'ANPR dai gestori degli strumenti digitali tramite i servizi della piattaforma di cui all'articolo 50-ter entro il 30 aprile 2026 e costantemente
 
-((Con decreto del Ministro dell'interno, di concerto con l'Autorita' politica delegata in materia di innovazione tecnologica e transizione digitale, il Ministro per la pubblica amministrazione, sentito il Garante per la protezione dei dati personali, su proposta dell'Agenzia per l'Italia digitale (AgID), possono essere individuate ulteriori informazioni rispetto a quelle previste dal comma 3 e possono essere aggiornate, in relazione alla evoluzione tecnologica, le categorie di strumenti digitali di cui al comma 2.))
+((aggiornati))
 
-5. 
+dagli stessi gestori al verificarsi delle variazioni di stato dello strumento mediante i servizi della medesima piattaforma di cui all'articolo 50-ter. In caso di mancata registrazione e
 
-((I dati di cui ai commi 3 e 4 sono messi a disposizione dell'ANPR dai gestori degli strumenti digitali tramite i servizi della piattaforma di cui all'articolo 50-ter entro il 30 aprile 2026 e costantemente allineati dagli stessi gestori al verificarsi delle variazioni di stato dello strumento mediante i servizi della medesima piattaforma di cui all'articolo 50-ter. In caso di mancata registrazione e allineamento nell'ANPR dei dati di cui al comma 2, ferme restando le responsabilita' dei gestori degli strumenti digitali nei confronti del cittadino, l'AgID, nell'ambito dei poteri di vigilanza di cui all'articolo 14-bis, comma 2, lettera i), applica le sanzioni previste dall'articolo 32-bis ovvero dall'articolo 18-bis. L'AgID assicura, tramite propri provvedimenti, il coordinamento con i gestori degli strumenti digitali ai fini del costante allineamento dei dati di cui ai commi 3 e 4.))
+((aggiornamento))
 
-6. 
+nell'ANPR dei dati di cui al comma 2, ferme restando le responsabilita' dei gestori degli strumenti digitali nei confronti del cittadino, l'AgID, nell'ambito dei poteri di vigilanza di cui all'articolo 14-bis, comma 2, lettera i), applica le sanzioni previste dall'articolo 32-bis ovvero dall'articolo 18-bis. L'AgID assicura, tramite propri provvedimenti, il coordinamento con i gestori degli strumenti digitali ai fini del costante
 
-((L'ANPR comunica al cittadino ogni nuova attivazione degli strumenti digitali a lui riferibili, anche avvalendosi del punto di accesso telematico di cui all'articolo 64-bis ovvero della piattaforma digitale per le notifiche di cui all' [articolo 1, comma 402, della legge 27 dicembre 2019, n. 160](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2019-12-27;160~art1-com402).))
+((aggiornamento))
 
-7. 
+dei dati di cui ai commi 3 e 4.
 
-((I gestori dell'identita' digitale, ad eccezione dell'identita' digitale connessa alla carta d'identita' elettronica, verificano e comunicano al richiedente prima del rilascio dell'identita' digitale, tramite la piattaforma di cui all'articolo 50-ter, la preesistenza di identita' digitali gia' associate alla medesima persona.))
+6. L'ANPR comunica al cittadino ogni nuova attivazione degli strumenti digitali a lui riferibili, anche avvalendosi del punto di accesso telematico di cui all'articolo 64-bis ovvero della piattaforma digitale per le notifiche di cui all' [articolo 1, comma 402, della legge 27 dicembre 2019, n. 160](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2019-12-27;160~art1-com402).
 
-8. 
+7. I gestori dell'identita' digitale, ad eccezione dell'identita' digitale connessa alla carta d'identita' elettronica, verificano e comunicano al richiedente prima del rilascio dell'identita' digitale, tramite la piattaforma di cui all'articolo 50-ter, la preesistenza di identita' digitali gia' associate alla medesima persona.
 
-((Previo consenso del cittadino, i gestori degli altri strumenti digitali di cui alle lettere b) e c) del comma 2, ad eccezione di quelli connessi alla carta d'identita' elettronica, in qualita' di gestori di pubblico servizio, possono, tramite la medesima piattaforma e prima del rilascio dello strumento, verificare l'eventuale esistenza di strumenti della medesima tipologia gia' associati alla persona fisica.))
+8. Previo consenso del cittadino, i gestori degli altri strumenti digitali di cui alle lettere b) e c) del comma 2, ad eccezione di quelli connessi alla carta d'identita' elettronica, in qualita' di gestori di pubblico servizio, possono, tramite
 
-9. 
+((la piattaforma di cui all'articolo 50-ter))
 
-((Le verifiche di cui ai commi 7 e 8 restituiscono unicamente il numero di identita' digitali, senza alcun dettaglio degli stessi; gli esiti sono resi disponibili al cittadino contestualmente alla verifica.))
+e prima del rilascio dello strumento, verificare l'eventuale esistenza di strumenti della medesima tipologia gia' associati alla persona fisica.
 
-10. 
+9. Le verifiche di cui ai commi 7 e 8 restituiscono unicamente il numero di identita' digitali, senza alcun dettaglio
 
-((La titolarita' del trattamento dei dati contenuti nell'ANPR e' attribuita al Ministero dell'interno sotto i profili della conservazione, della comunicazione e dell'adozione delle relative misure di sicurezza; i gestori degli strumenti digitali di cui al comma 2 sono titolari del trattamento di registrazione e aggiornamento dei dati di propria competenza nell'ANPR.))
+((delle stesse))
 
-11. 
+; gli esiti sono resi disponibili al cittadino contestualmente alla verifica.
 
-((La societa' di cui all'[articolo 83, comma 15, del decreto-legge 25 giugno 2008, n. 112](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2008-06-25;112~art83-com15), convertito, con modificazioni, dalla [legge 6 agosto 2008, n. 133](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2008-08-06;133), incaricata della realizzazione delle funzionalita' di ANPR e della gestione dell'infrastruttura di cui al comma 2, e' nominata responsabile del trattamento ai sensi dell'[articolo 28 del regolamento (UE) 2016/679 del Parlamento europeo e del Consiglio, del 27 aprile 2016](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:32016R0679).))
+10. La titolarita' del trattamento dei dati contenuti nell'ANPR e' attribuita al Ministero dell'interno sotto i profili della conservazione, della comunicazione e dell'adozione delle relative misure di sicurezza; i gestori degli strumenti digitali di cui al comma 2 sono titolari del trattamento di registrazione e aggiornamento dei dati di propria competenza nell'ANPR.
 
-12. 
+11. La societa' di cui all'[articolo 83, comma 15, del decreto-legge 25 giugno 2008, n. 112](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2008-06-25;112~art83-com15), convertito, con modificazioni, dalla [legge 6 agosto 2008, n. 133](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2008-08-06;133), incaricata della realizzazione delle funzionalita'
 
-((Le societa' che registrano e aggiornano, per conto dei titolari del trattamento, la sezione in ANPR di cui al comma 2, con i dati degli strumenti digitali di cui ai commi 3 e 4, assumono la qualifica di responsabili del trattamento ai sensi dell'[articolo 28 del regolamento (UE) 2016/679](http://www.normattiva.it/uri-res/N2Ls?urn:nir::regolamento:2016;679~art28).))
+((dell'ANPR))
 
-13. 
+e della gestione
 
-((Le informazioni di cui ai commi 3 e 4 sono conservate nell'ANPR fino ad un massimo di dodici mesi dalla registrazione della revoca o della scadenza dello strumento da parte dei gestori e sono consultabili, previa autenticazione con livello di garanzia almeno significativo, esclusivamente dal cittadino cui si riferiscono, fermo restando quanto previsto ai commi 7, 8 e 9. Con riferimento ai trattamenti di dati personali, si applicano le misure tecniche e organizzative di cui all'allegato C al [decreto del Presidente del Consiglio dei ministri 10 novembre 2014, n. 194](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.consiglio:decreto:2014-11-10;194), oltre che le specifiche misure di sicurezza di cui alle linee guida adottate dall'AgID ai sensi dell'articolo 50-ter, comma 2.))
+((della sezione))
 
-14. 
+di cui al comma 2
 
-((L'ANPR assicura l'accesso ai dati di cui ai commi 3 e 4 esclusivamente al cittadino cui si riferiscono o al suo delegato ai sensi dell'articolo 64-ter e ai gestori degli strumenti digitali di cui al comma 2 per le finalita' di cui al presente articolo.))
+((del presente articolo))
+
+, e' nominata responsabile del trattamento ai sensi dell'[articolo 28 del regolamento (UE) 2016/679 del Parlamento europeo e del Consiglio, del 27 aprile 2016](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:32016R0679).
+
+12. Le societa' che registrano e aggiornano, per conto dei titolari del trattamento,
+
+((i dati nella sezione dell'ANPR))
+
+di cui al comma 2, con i dati degli strumenti digitali di cui ai commi 3 e 4, assumono la qualifica di responsabili del trattamento ai sensi dell'[articolo 28 del regolamento (UE) 2016/679](http://www.normattiva.it/uri-res/N2Ls?urn:nir::regolamento:2016;679~art28).
+
+13. Le informazioni di cui ai commi 3 e 4 sono conservate nell'ANPR
+
+((per la durata massima))
+
+di dodici mesi dalla registrazione della revoca o della scadenza dello strumento da parte dei gestori e sono consultabili, previa autenticazione con livello di garanzia almeno significativo, esclusivamente dal cittadino cui si riferiscono, fermo restando quanto previsto ai commi 7, 8 e 9. Con riferimento ai trattamenti di dati personali, si applicano le misure tecniche e organizzative di cui all'allegato C al
+
+((regolamento di cui al))
+
+[decreto del Presidente del Consiglio dei ministri 10 novembre 2014, n. 194](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.consiglio:decreto:2014-11-10;194), oltre che le specifiche misure di sicurezza di cui alle linee guida adottate dall'AgID ai sensi dell'articolo 50-ter, comma 2.
+
+14. L'ANPR assicura l'accesso ai dati di cui ai commi 3 e 4 esclusivamente al cittadino cui si riferiscono o al suo delegato ai sensi dell'articolo 64-ter e ai gestori degli strumenti digitali di cui al comma 2 per le finalita' di cui al presente articolo.
 
 ### Art. 4
 
@@ -575,29 +595,29 @@ comunicano all'Indice nazionale di cui al comma 1 tutti gli indirizzi PEC relati
 
 ### Art. 6-ter
 
-(( (Indice dei domicili digitali delle pubbliche amministrazioni, dei gestori di pubblici servizi e delle societa' a controllo pubblico) ))
+(Indice dei domicili digitali delle pubbliche amministrazioni, dei gestori di pubblici servizi e delle societa' a controllo pubblico)
 
-1. 
+1. Al fine di assicurare la pubblicita' dei riferimenti telematici delle pubbliche amministrazioni, dei gestori dei pubblici servizi e delle societa' a controllo pubblico, e' istituito il pubblico elenco di fiducia denominato "Indice dei domicili digitali della pubblica amministrazione, dei gestori di pubblici servizi e delle societa' a controllo pubblico", nel quale sono indicati i domicili digitali da utilizzare per le comunicazioni, per lo scambio di informazioni e per l'invio di documenti a tutti gli effetti di legge tra le pubbliche amministrazioni, i gestori di pubblici servizi, le societa' a controllo pubblico e i privati.
 
-((Al fine di assicurare la pubblicita' dei riferimenti telematici delle pubbliche amministrazioni, dei gestori dei pubblici servizi e delle societa' a controllo pubblico, e' istituito il pubblico elenco di fiducia denominato "Indice dei domicili digitali della pubblica amministrazione, dei gestori di pubblici servizi e delle societa' a controllo pubblico", nel quale sono indicati i domicili digitali da utilizzare per le comunicazioni, per lo scambio di informazioni e per l'invio di documenti a tutti gli effetti di legge tra le pubbliche amministrazioni, i gestori di pubblici servizi, le societa' a controllo pubblico e i privati.))
+1-bis. Per ogni pubblica amministrazione o gestore di pubblico servizio nonche' per le societa' a controllo pubblico, l'Indice di cui al comma 1 garantisce, a richiesta del soggetto, l'inserimento dei dati utili per la gestione della fattura elettronica ai sensi dell'[articolo 1, commi 209](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2007-12-24;244~art1-com209), [210](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2007-12-24;244~art1-com210), [211](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2007-12-24;244~art1-com211), [212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2007-12-24;244~art1-com212) e [213, della legge 24 dicembre 2007, n. 244](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2007-12-24;244~art1-com213), e del [decreto legislativo 27 dicembre 2018, n. 148](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2018-12-27;148).
 
-1-bis. 
+2. La realizzazione e la gestione dell'Indice sono affidate all'AgID, che puo' utilizzare a tal fine elenchi e repertori gia' formati dalle amministrazioni pubbliche , incluso l'elenco di cui all'articolo 1, comma 3,
 
-((Per ogni pubblica amministrazione o gestore di pubblico servizio nonche' per le societa' a controllo pubblico, l'Indice di cui al comma 1 garantisce, a richiesta del soggetto, l'inserimento dei dati utili per la gestione della fattura elettronica ai sensi dell'[articolo 1, commi 209](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2007-12-24;244~art1-com209), [210](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2007-12-24;244~art1-com210), [211](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2007-12-24;244~art1-com211), [212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2007-12-24;244~art1-com212) e [213, della legge 24 dicembre 2007, n. 244](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2007-12-24;244~art1-com213), e del [decreto legislativo 27 dicembre 2018, n. 148](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2018-12-27;148).))
+((della))
 
-2. La realizzazione e la gestione dell'Indice sono affidate all'AgID, che puo' utilizzare a tal fine elenchi e repertori gia' formati dalle amministrazioni pubbliche
+[legge 31 dicembre 2009, n. 196](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2009-12-31;196)
 
-((, incluso l'elenco di cui all'[articolo 1, comma 3, legge 31 dicembre 2009, n. 196](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2009-12-31;196~art1-com3)))
+2-bis. L'iscrizione
 
-.
+((nell'Indice di cui al comma 1))
 
-2-bis. 
+avviene a richiesta del soggetto interessato o d'ufficio da parte dell'AgID e non e' incompatibile con l'iscrizione nell'Indice di cui all'articolo 6-bis. Ai fini di garantire l'univocita' dei domicili digitali nei pubblici elenchi, l'Indice di cui al presente articolo e quello di cui all'articolo 6-bis garantiscono il costante allineamento dei domicili digitali, tramite i servizi della piattaforma di cui all'articolo 50-ter.
 
-((L'iscrizione all'Indice di cui al presente articolo avviene a richiesta del soggetto interessato o d'ufficio da parte dell'AgID e non e' incompatibile con l'iscrizione nell'Indice di cui all'articolo 6-bis. Ai fini di garantire l'univocita' dei domicili digitali nei pubblici elenchi, l'Indice di cui al presente articolo e quello di cui all'articolo 6-bis garantiscono il costante allineamento dei domicili digitali, tramite i servizi della piattaforma di cui all'articolo 50-ter.))
+3. Le amministrazioni di cui al comma 1, i gestori di pubblici servizi e le societa' a controllo pubblico aggiornano gli indirizzi e i dati dell'Indice
 
-3. 
+((di cui al medesimo comma 1))
 
-((Le amministrazioni di cui al comma 1, i gestori di pubblici servizi e le societa' a controllo pubblico aggiornano gli indirizzi e i dati dell'Indice tempestivamente e comunque con cadenza almeno semestrale, secondo le indicazioni dell'AgID. La mancata comunicazione degli elementi necessari al completamento dell'Indice e del loro aggiornamento e' valutata ai fini della responsabilita' dirigenziale e dell'attribuzione della retribuzione di risultato ai dirigenti responsabili. In caso di violazione delle disposizioni di cui al presente comma, si applica l'articolo 18-bis.))
+tempestivamente e comunque con cadenza almeno semestrale, secondo le indicazioni dell'AgID. La mancata comunicazione degli elementi necessari al completamento dell'Indice e del loro aggiornamento e' valutata ai fini della responsabilita' dirigenziale e dell'attribuzione della retribuzione di risultato ai dirigenti responsabili. In caso di violazione delle disposizioni di cui al presente comma, si applica l'articolo 18-bis.
 
 ### Art. 6-quater
 
@@ -1980,17 +2000,17 @@ La predetta attivita' si svolge secondo le modalita' individuate dall'AgID con l
 
 2-ter. Le pubbliche amministrazioni certificanti detentrici dei dati di cui al comma 1 ne assicurano la fruizione da parte dei soggetti che hanno diritto ad accedervi. Le pubbliche amministrazioni detentrici dei dati assicurano, su richiesta dei soggetti privati di cui all'[articolo 2 del decreto del Presidente della Repubblica 28 dicembre 2000, n. 445](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2000-12-28;445~art2), conferma scritta della corrispondenza di quanto dichiarato con le risultanze dei dati da essa custoditi, con le modalita' di cui all'articolo 71, comma 4 del medesimo decreto. (38)
 
-2-quater. 
+2-quater. Le pubbliche amministrazioni, in attuazione del principio dell'unicita' dell'invio, non richiedono ai cittadini e alle imprese dati e informazioni gia' detenuti da un'amministrazione e assicurano
 
-((Le pubbliche amministrazioni, in attuazione del principio dell'unicita' dell'invio, non richiedono ai cittadini e alle imprese dati e informazioni gia' detenuti da un'amministrazione e assicurano la circolarita' delle informazioni mediante la piattaforma di cui all'articolo 50-ter fin dalla progettazione dei servizi e mediante l'identificativo univoco di cui all'articolo 62, integrato nei loro sistemi. Ai sensi dell'[articolo 43 del testo unico delle disposizioni legislative e regolamentari in materia di documentazione amministrativa](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2000-12-28;445~art43), di cui al [decreto del Presidente della Repubblica 28 dicembre 2000, n. 445](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2000-12-28;445), si considera operata per finalita' di rilevante interesse pubblico la consultazione diretta ai sensi del presente comma da parte dei soggetti di cui all'articolo 2, comma 2, delle banche dati pubbliche e i relativi servizi di accertamento d'ufficio di atti, fatti, qualita' e stati soggettivi sono resi automaticamente disponibili mediante la piattaforma di cui all'articolo 50-ter a semplice richiesta per i soggetti di cui all'articolo 2, comma 2. La vigilanza sugli accessi e' effettuata secondo quanto previsto dalle linee guida adottate dall'AgID.))
+((lo scambio))
+
+delle informazioni mediante la piattaforma di cui all'articolo 50-ter fin dalla progettazione dei servizi e mediante l'identificativo univoco di cui all'articolo 62, integrato nei loro sistemi. Ai sensi dell'[articolo 43 del testo unico delle disposizioni legislative e regolamentari in materia di documentazione amministrativa](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2000-12-28;445~art43), di cui al [decreto del Presidente della Repubblica 28 dicembre 2000, n. 445](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2000-12-28;445), si considera operata per finalita' di rilevante interesse pubblico la consultazione diretta ai sensi del presente comma da parte dei soggetti di cui all'articolo 2, comma 2, delle banche dati pubbliche e i relativi servizi di accertamento d'ufficio di atti, fatti, qualita' e stati soggettivi sono resi automaticamente disponibili mediante la piattaforma di cui all'articolo 50-ter a semplice richiesta per i soggetti di cui all'articolo 2, comma 2. La vigilanza sugli accessi e' effettuata secondo quanto previsto dalle linee guida adottate dall'AgID.
 
 3. COMMA ABROGATO DAL [D.LGS. 13 DICEMBRE 2017, N. 217](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2017-12-13;217).
 
 3-bis. Il trasferimento di un dato da un sistema informativo a un altro non modifica la titolarita' del dato e del trattamento, ferme restando le responsabilita' delle amministrazioni che ricevono e trattano il dato in qualita' di titolari autonomi del trattamento. (38)
 
-3-ter. 
-
-((L'inadempimento dell'obbligo di rendere disponibili i dati ai sensi del presente articolo ovvero il ritardo nell'abilitazione dell'accesso ai servizi della piattaforma di cui all'articolo 50-ter costituisce mancato raggiungimento di uno specifico risultato e di un rilevante obiettivo da parte dei dirigenti responsabili delle strutture competenti e comporta la riduzione, non inferiore al 30 per cento, della retribuzione di risultato e del trattamento accessorio collegato alla performance individuale dei dirigenti competenti, oltre al divieto di attribuire premi o incentivi nell'ambito delle medesime strutture. L'AgID effettua controlli annuali sul rispetto degli obblighi di cui al presente articolo. In caso di violazione degli obblighi di cui al presente articolo si applica l'articolo 18-bis.))
+3-ter. L'inadempimento dell'obbligo di rendere disponibili i dati ai sensi del presente articolo ovvero il ritardo nell'abilitazione dell'accesso ai servizi della piattaforma di cui all'articolo 50-ter costituisce mancato raggiungimento di uno specifico risultato e di un rilevante obiettivo da parte dei dirigenti responsabili delle strutture competenti e comporta la riduzione, non inferiore al 30 per cento, della retribuzione di risultato e del trattamento accessorio collegato alla performance individuale dei dirigenti competenti, oltre al divieto di attribuire premi o incentivi nell'ambito delle medesime strutture. L'AgID effettua controlli annuali sul rispetto degli obblighi di cui al presente articolo. In caso di violazione degli obblighi di cui al presente articolo si applica l'articolo 18-bis.
 
 -------------
 
@@ -2325,14 +2345,22 @@ Delocalizzazione dei registri informatici
 
 2-quater. I dati relativi alle strade urbane e ai numeri civici contenuti nell'ANPR sono costantemente allineati con i medesimi dati resi disponibili dall'Archivio nazionale dei numeri civici delle strade urbane (ANNCSU), di cui all'[articolo 3 del decreto-legge 18 ottobre 2012, n. 179](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2012-10-18;179~art3), convertito, con modificazioni, dalla [legge 17 dicembre 2012, n. 221](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2012-12-17;221).
 
-3. L'ANPR assicura ai comuni la disponibilita' dei dati, degli atti e degli strumenti per lo svolgimento delle funzioni di competenza statale attribuite al sindaco ai sensi dell'articolo 54, comma 3, del testo unico delle leggi sull'ordinamento degli enti locali di cui al [decreto legislativo 18 agosto 2000, n. 267](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2000-08-18;267), e mette a disposizione dei comuni un sistema di controllo, gestione e interscambio, puntuale e massivo, di dati, servizi e transazioni necessario ai sistemi locali per lo svolgimento delle funzioni istituzionali di competenza comunale. Al fine dello svolgimento delle proprie funzioni, anche ampliando l'offerta dei servizi erogati on-line a cittadini e imprese, direttamente o tramite soggetti affidatari dei servizi, il Comune puo' utilizzare i dati anagrafici eventualmente detenuti localmente e costantemente allineati con ANPR al fine esclusivo di erogare o usufruire di servizi o funzionalita' non fornite da ANPR. I Comuni accedono alle informazioni anagrafiche contenute nell'ANPR, nel rispetto delle disposizioni in materia di protezione dei dati personali e delle misure di sicurezza definite con decreto del Presidente del Consiglio dei ministri ai sensi del comma 6, lettera a), per l'espletamento, anche con modalita' automatiche, delle verifiche necessarie all'erogazione dei propri servizi e allo svolgimento delle proprie funzioni. L'ANPR consente ai comuni la certificazione dei dati anagrafici nel rispetto di quanto previsto dall'[articolo 33 del decreto del Presidente della Repubblica 30 maggio 1989, n. 223](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1989-05-30;223~art33), anche in modalita' telematica. La certificazione dei dati anagrafici in modalita' telematica e' assicurata dal Ministero dell'Interno tramite l'ANPR mediante l'emissione di documenti digitali muniti di sigillo elettronico qualificato, ai sensi del [Regolamento (UE) n. 910/2014 del Parlamento europeo e del Consiglio, del 23 luglio 2014](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:32014R0910), esenti da imposta di bollo limitatamente agli anni 2021 e 2022. I comuni inoltre possono consentire, mediante la piattaforma di cui all'articolo 50-ter ovvero anche mediante apposite convenzioni, la fruizione dei dati anagrafici da parte dei soggetti aventi diritto. L'ANPR assicura ai soggetti di cui all'articolo 2, comma 2, lettere a) e b), l'accesso ai dati contenuti nell'ANPR. L'ANPR attribuisce a ciascun cittadino un codice identificativo univoco per garantire la circolarita' dei dati anagrafici e l'interoperabilita' con le altre banche dati delle pubbliche amministrazioni e dei gestori di servizi pubblici di cui all'articolo 2, comma 2, lettere a) e b).
+3. L'ANPR assicura ai comuni la disponibilita' dei dati, degli atti e degli strumenti per lo svolgimento delle funzioni di competenza statale attribuite al sindaco ai sensi dell'articolo 54, comma 3, del testo unico delle leggi sull'ordinamento degli enti locali di cui al [decreto legislativo 18 agosto 2000, n. 267](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2000-08-18;267), e mette a disposizione dei comuni un sistema di controllo, gestione e interscambio, puntuale e massivo, di dati, servizi e transazioni necessario ai sistemi locali per lo svolgimento delle funzioni istituzionali di competenza comunale. Al fine dello svolgimento delle proprie funzioni, anche ampliando l'offerta dei servizi erogati on-line a cittadini e imprese, direttamente o tramite soggetti affidatari dei servizi, il Comune puo' utilizzare i dati anagrafici eventualmente detenuti localmente e costantemente allineati con ANPR al fine esclusivo di erogare o usufruire di servizi o funzionalita' non fornite da ANPR. I Comuni accedono alle informazioni anagrafiche contenute nell'ANPR, nel rispetto delle disposizioni in materia di protezione dei dati personali e delle misure di sicurezza definite con decreto del Presidente del Consiglio dei ministri ai sensi del comma 6, lettera a), per l'espletamento, anche con modalita' automatiche, delle verifiche necessarie all'erogazione dei propri servizi e allo svolgimento delle proprie funzioni. L'ANPR consente ai comuni la certificazione dei dati anagrafici nel rispetto di quanto previsto dall'[articolo 33 del decreto del Presidente della Repubblica 30 maggio 1989, n. 223](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1989-05-30;223~art33), anche in modalita' telematica. La certificazione dei dati anagrafici in modalita' telematica e' assicurata dal Ministero dell'Interno tramite l'ANPR mediante l'emissione di documenti digitali muniti di sigillo elettronico qualificato, ai sensi del [Regolamento (UE) n. 910/2014 del Parlamento europeo e del Consiglio, del 23 luglio 2014](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:32014R0910), esenti da imposta di bollo limitatamente agli anni 2021 e 2022. I comuni inoltre possono consentire, mediante la piattaforma di cui all'articolo 50-ter ovvero anche mediante apposite convenzioni, la fruizione dei dati anagrafici da parte dei soggetti aventi diritto. L'ANPR assicura ai soggetti di cui all'articolo 2, comma 2, lettere a) e b), l'accesso ai dati contenuti nell'ANPR. L'ANPR attribuisce a ciascun cittadino un codice identificativo univoco per garantire la circolarita' dei dati anagrafici e l'interoperabilita' con le altre banche dati delle pubbliche amministrazioni e dei gestori di servizi pubblici di cui all'articolo 2, comma 2, lettere a) e b). Il codice identificativo univoco di cui all' ottavo periodo consente l'interoperabilita' tra banche dati delle pubbliche amministrazioni e dei gestori di servizi pubblici.
 
-((Il codice identificativo univoco di cui all' ottavo periodo consente l'interoperabilita' tra banche dati delle pubbliche amministrazioni e dei gestori di servizi pubblici.))
+3-bis. I soggetti di cui all'articolo 2, comma 2, lettere a) e b), accedono automaticamente ai dati contenuti nell'ANPR, per le finalita' istituzionali dichiarate, tramite la piattaforma di cui all'articolo 50-ter, in qualita' di titolari autonomi del trattamento e rispondono in via esclusiva della pertinenza, liceita' e sicurezza dei trattamenti per i quali e' effettuato l'accesso.  
+L'amministrazione titolare
 
-3-bis. 
+((dell'ANPR))
 
-((I soggetti di cui all'articolo 2, comma 2, lettere a) e b), accedono automaticamente ai dati contenuti nell'ANPR, per le finalita' istituzionali dichiarate, tramite la piattaforma di cui all'articolo 50-ter, in qualita' di titolari autonomi del trattamento e rispondono in via esclusiva della pertinenza, liceita' e sicurezza dei trattamenti per i quali e' effettuato l'accesso.  
-L'amministrazione titolare di ANPR non e' responsabile per il trattamento dei dati effettuati dai medesimi soggetti in difformita' dalle finalita' dichiarate, fermo restando la vigilanza sugli accessi effettuata secondo le linee guida adottate da AgID.))
+non e' responsabile per il trattamento dei dati effettuati dai medesimi soggetti in difformita' dalle finalita' dichiarate,
+
+((ferma restando))
+
+la vigilanza sugli accessi effettuata secondo le linee guida adottate
+
+((dall'AgID))
+
+.
 
 4. Con il decreto di cui al comma 6 sono disciplinate le modalita' di integrazione nell'ANPR dei dati dei cittadini attualmente registrati in anagrafi istituite presso altre amministrazioni nonche' dei dati relativi al numero e alla data di emissione e di scadenza della carta di identita' della popolazione residente.
 
@@ -2458,35 +2486,57 @@ L'allineamento dell'ANIS con l'Anagrafe nazionale degli studenti, dei diplomati 
 
 ### Art. 62-sexies
 
-(( (Anagrafe nazionale digitale della gente di mare - ANGEMAR). ))
+(Anagrafe nazionale digitale della gente di mare - ANGEMAR)
 
-1. 
+1. E' istituita, presso il Ministero delle infrastrutture e dei trasporti, l'Anagrafe nazionale digitale della gente di mare (ANGEMAR), finalizzata alla gestione unitaria, digitale e interoperabile dei dati relativi alla carriera professionale, ai titoli, agli imbarchi e alle abilitazioni e certificazioni della gente di mare, anche ai fini del collocamento e del monitoraggio del mercato del lavoro marittimo. L'ANGEMAR, al raggiungimento della piena operativita', sostituisce le anagrafi,
 
-((E' istituita, presso il Ministero delle infrastrutture e dei trasporti, l'Anagrafe nazionale digitale della gente di mare (ANGEMAR), finalizzata alla gestione unitaria, digitale e interoperabile dei dati relativi alla carriera professionale, ai titoli, agli imbarchi e alle abilitazioni e certificazioni della gente di mare, anche ai fini del collocamento e del monitoraggio del mercato del lavoro marittimo. L'ANGEMAR, al raggiungimento della piena operativita', sostituisce le anagrafi, registri e archivi previsti a legislazione vigente, ivi inclusi quelli del [codice della navigazione](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-03-30;327), di cui al [regio decreto 30 marzo 1942, n. 327](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1942-03-30;327), al [decreto del Presidente della Repubblica 15 febbraio 1952, n. 328](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1952-02-15;328), e al [decreto del Presidente della Repubblica 18 aprile 2006, n. 231](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2006-04-18;231).))
+((i registri e gli archivi))
 
-2. 
+previsti a legislazione vigente, ivi
 
-((L'ANGEMAR e' integrata con i servizi della piattaforma digitale nazionale dati di cui all'articolo 50-ter e consente l'alimentazione, l'aggiornamento e la consultazione dei dati da parte degli Uffici d'iscrizione della gente di mare, del personale appartenente alla gente di mare, degli armatori e dei centri di formazione autorizzati nonche' dei soggetti internazionali convenzionati per le parti di rispettiva competenza. L'ANGEMAR, per il tramite dei servizi resi disponibili dalla piattaforma di cui all'articolo 50-ter, e' costantemente aggiornata al fine di assicurare la coerenza dei dati ivi contenuti con l'anagrafe di cui all'articolo 62 (ANPR), con le anagrafi di cui all'articolo 62-quater (ANIST) e all'articolo 62-quinquies (ANIS), con i servizi di assistenza sanitaria al personale navigante (SASN) nonche', per le informazioni di competenza, con le anagrafi e le basi dati detenute da altre amministrazioni.))
+((compresi quelli previsti dal))
 
-3. 
+[codice della navigazione](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-03-30;327), di cui al [regio decreto 30 marzo 1942, n. 327](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-03-30;327),
 
-((Entro centottanta giorni dalla piena operativita' dell'ANGEMAR, il libretto di navigazione di cui all'[articolo 122 del codice della navigazione](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-03-30;327~art122) di cui al [regio decreto n. 327 del 1942](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942;327), e' rilasciato sulla base delle informazioni contenute nell'ANGEMAR ed e' reso disponibile anche tramite il Sistema di portafoglio digitale italiano - Sistema IT-Wallet, ai sensi dell'articolo 64-quater. Il libretto di navigazione, dotato di microprocessore per la memorizzazione delle informazioni necessarie alla verifica dell'identita' del titolare e di quelle definite dai decreti di cui al comma 4, e' carta valore ai sensi dell'[articolo 2, comma 10-bis, della legge 13 luglio 1966, n. 559](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1966-07-13;559~art2-com10bis), e la sua produzione e fornitura sono affidate dal Ministero delle infrastrutture e dei trasporti alla societa' di cui all'articolo 1 della medesima [legge n. 559 del 1966](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1966;559).))
+((dal regolamento di cui al decreto))
 
-4. 
+del [Presidente della Repubblica 15 febbraio 1952, n. 328](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica::1952-02-15;328), e
 
-((Con uno o piu' decreti del Ministro delle infrastrutture e dei trasporti, di concerto con l'Autorita' politica delegata in materia di innovazione tecnologica e transizione digitale, ove nominata, sono definiti:))
+((dal regolamento di cui al decreto))
 
-a)
+del [Presidente della Repubblica 18 aprile 2006, n. 231](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica::2006-04-18;231).
 
-((i dati contenuti nell'ANGEMAR, nonche' le modalita' di alimentazione, aggiornamento e conservazione degli stessi, con particolare riguardo alle misure di sicurezza informatica e alle specifiche tecniche e organizzative per la gestione e il trattamento dei dati personali, in conformita' al [regolamento (UE) 2016/679 del Parlamento europeo e del Consiglio, del 27 aprile 2016](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:32016R0679);))
+2. L'ANGEMAR e' integrata con i servizi della piattaforma digitale nazionale dati di cui all'articolo 50-ter e consente l'alimentazione, l'aggiornamento e la consultazione dei dati da parte degli
 
-b)
+((uffici))
 
-((le caratteristiche del libretto di navigazione di cui all'[articolo 122 del codice della navigazione](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-03-30;327~art122) di cui al [regio decreto n. 327 del 1942](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942;327), rilasciato ai sensi del comma 3, nonche' le modalita' di verifica e consultazione dello stesso.))
+d'iscrizione della gente di mare, del personale appartenente alla gente di mare, degli armatori e dei centri di formazione autorizzati nonche' dei soggetti internazionali convenzionati per le parti di rispettiva competenza. L'ANGEMAR, per il tramite dei servizi resi disponibili dalla piattaforma di cui all'articolo 50-ter, e' costantemente aggiornata al fine di assicurare la coerenza dei dati ivi contenuti con l'anagrafe di cui all'articolo 62 (ANPR), con le anagrafi di cui all'articolo 62-quater (ANIST) e all'articolo 62-quinquies (ANIS), con i servizi di assistenza sanitaria al personale navigante (SASN) nonche', per le informazioni di competenza, con le anagrafi e le
 
-5. 
+((basi di dati))
 
-((Nelle more della piena operativita', ANGEMAR mette a disposizione un servizio informatico provvisorio per l'inserimento da parte del personale appartenente alla gente di mare e dei centri di formazione autorizzati dei dati e delle informazioni essenziali, secondo le modalita' definite con decreto direttoriale del Ministero delle infrastrutture e dei trasporti. I dati e le informazioni di cui al primo periodo confluiscono nell'ANGEMAR e sono oggetto di successiva validazione secondo le modalita' stabilite dai decreti di cui al comma 4.))
+detenute da altre amministrazioni.
+
+3. Entro centottanta giorni dalla piena operativita' dell'ANGEMAR, il libretto di navigazione di cui all'[articolo 122 del codice della navigazione](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-03-30;327~art122)
+
+((,))
+
+di cui al [regio decreto n. 327 del 1942](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942;327), e' rilasciato sulla base delle informazioni contenute nell'ANGEMAR ed e' reso disponibile anche tramite il Sistema di portafoglio digitale italiano - Sistema IT-Wallet, ai sensi dell'articolo 64-quater. Il libretto di navigazione, dotato di microprocessore per la memorizzazione delle informazioni necessarie alla verifica dell'identita' del titolare e di quelle definite dai decreti di cui al comma 4, e' carta valore ai sensi dell'[articolo 2, comma 10-bis, della legge 13 luglio 1966, n. 559](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1966-07-13;559~art2-com10bis), e la sua produzione e fornitura sono affidate dal Ministero delle infrastrutture e dei trasporti alla societa' di cui all'articolo 1 della medesima [legge n. 559 del 1966](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1966;559).
+
+4. Con uno o piu' decreti del Ministro delle infrastrutture e dei trasporti, di concerto con l'Autorita' politica delegata in materia di innovazione tecnologica e transizione digitale, ove nominata, sono definiti:
+
+a) i dati contenuti nell'ANGEMAR, nonche' le modalita' di alimentazione, aggiornamento e conservazione degli stessi, con particolare riguardo alle misure di sicurezza informatica e alle specifiche tecniche e organizzative per la gestione e il trattamento dei dati personali, in conformita' al [regolamento (UE) 2016/679 del Parlamento europeo e del Consiglio, del 27 aprile 2016](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:32016R0679);
+
+b) le caratteristiche del libretto di navigazione di cui all'[articolo 122 del codice della navigazione](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-03-30;327~art122) di cui al [regio decreto n. 327 del 1942](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942;327), rilasciato ai sensi del comma 3, nonche' le modalita' di verifica e consultazione dello stesso.
+
+5. Nelle more della piena operativita',
+
+((l'ANGEMAR))
+
+mette a disposizione un servizio informatico provvisorio per l'inserimento
+
+((dei dati e delle informazioni essenziali da parte del personale appartenente alla gente di mare e dei centri di formazione autorizzati))
+
+, secondo le modalita' definite con decreto direttoriale del Ministero delle infrastrutture e dei trasporti. I dati e le informazioni di cui al primo periodo confluiscono nell'ANGEMAR e sono oggetto di successiva validazione secondo le modalita' stabilite dai decreti di cui al comma 4.
 
 CAPO XII - Sezione III ((Identita' digitali,
 istanze e servizi online))
@@ -2572,15 +2622,17 @@ Il D.Lga. 26 agosto 2016, n. 179 ha disposto (con l'art. 61, comma 2, lettera d)
 
 1-bis. Al fine di rendere effettivo il diritto di cui all'articolo 7, comma 01, i soggetti di cui all'articolo 2, comma 2, i fornitori di identita' digitali e i prestatori dei servizi fiduciari qualificati, in sede di evoluzione, progettano e sviluppano i propri sistemi e servizi in modo da garantire l'integrazione e l'interoperabilita' tra i diversi sistemi e servizi e con i servizi di cui ai commi 1 e 1-ter, espongono per ogni servizio le relative interfacce applicative e, al fine di consentire la verifica del rispetto degli standard e livelli di qualita' di cui all'articolo 7, comma 1, adottano gli strumenti di analisi individuati dall'AgID con le Linee guida.
 
-1-ter. I soggetti di cui all'articolo 2, comma 2, lettera a), rendono fruibili i propri servizi in rete
-
-((, nel rispetto del principio di neutralita' tecnologica,))
-
-tramite applicazione su dispositivi mobili anche attraverso il punto di accesso telematico di cui al presente articolo, salvo impedimenti di natura tecnologica attestati dalla societa' di cui all'[articolo 8, comma 2 del decreto-legge 14 dicembre 2018, n. 135](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2018-12-14;135~art8-com2), convertito, con modificazioni, dalla [legge 11 febbraio 2019, n. 12](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2019-02-11;12).
+1-ter. I soggetti di cui all'articolo 2, comma 2, lettera a), rendono fruibili i propri servizi in rete, nel rispetto del principio di neutralita' tecnologica, tramite applicazione su dispositivi mobili anche attraverso il punto di accesso telematico di cui al presente articolo, salvo impedimenti di natura tecnologica attestati dalla societa' di cui all'[articolo 8, comma 2 del decreto-legge 14 dicembre 2018, n. 135](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2018-12-14;135~art8-com2), convertito, con modificazioni, dalla [legge 11 febbraio 2019, n. 12](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2019-02-11;12).
 
 1-quater. I soggetti di cui all'articolo 2, comma 2, lettera a), rendono fruibili tutti i loro servizi anche in modalita' digitale e, al fine di attuare il presente articolo, avviano i relativi progetti di trasformazione digitale entro il 28 febbraio 2021.
 
 1-quinquies. La violazione dell'articolo 64, comma 3-bis e delle disposizioni di cui al presente articolo, costituisce mancato raggiungimento di uno specifico risultato e di un rilevante obiettivo da parte dei dirigenti responsabili delle strutture competenti e comporta la riduzione, non inferiore al 30 per cento della retribuzione di risultato e del trattamento accessorio collegato alla performance individuale dei dirigenti competenti, oltre al divieto di attribuire premi o incentivi nell'ambito delle medesime strutture.
+
+1-sexies. 
+
+((Ai minori che abbiano compiuto il quattordicesimo anno di eta' sono consentiti l'accesso e l'utilizzo del punto di accesso telematico di cui al presente articolo, anche per l'ottenimento e l'esibizione di attestazioni, titoli o abilitazioni aventi effetti giuridici, compresi quelli resi disponibili mediante il Sistema di portafoglio digitale italiano (Sistema IT-Wallet) di cui all'articolo 64-quater, senza che sia necessario l'assenso dell'esercente la responsabilita' genitoriale, fatti salvi i casi in cui la legge richieda espressamente l'intervento o l'autorizzazione dell'esercente la responsabilita' genitoriale per l'ottenimento di specifiche attestazioni, titoli o abilitazioni ovvero per la fruizione di specifici servizi))
+
+.
 
 ### Art. 64-ter
 
