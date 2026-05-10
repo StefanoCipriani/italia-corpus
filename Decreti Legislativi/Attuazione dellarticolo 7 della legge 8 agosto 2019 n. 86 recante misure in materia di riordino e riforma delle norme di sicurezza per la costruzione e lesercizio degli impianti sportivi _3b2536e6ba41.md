@@ -321,10 +321,15 @@ di proprieta' pubblica per una durata fino a novantanove anni o il trasferimento
 
 ### Art. 5
 
-Associazioni e Societa' Sportive   
-senza fini di lucro
+Associazioni e Societa' Sportive senza fini di lucro
 
 1. Le Associazioni e le Societa' Sportive senza fini di lucro possono presentare all'ente locale, sul cui territorio insiste l'impianto sportivo da rigenerare, riqualificare o ammodernare, un progetto preliminare accompagnato da un piano di fattibilita' economico finanziaria per la rigenerazione, la riqualificazione e l'ammodernamento e per la successiva gestione con la previsione di un utilizzo teso a favorire l'aggregazione e l'inclusione sociale e giovanile. Se l'ente locale riconosce l'interesse pubblico del progetto, affida direttamente la gestione gratuita dell'impianto all'associazione o alla societa' sportiva per una durata proporzionalmente corrispondente al valore dell'intervento e comunque non inferiore a cinque anni.
+
+1-bis. 
+
+((Le Associazioni e le Societa' Sportive senza fini di lucro possono presentare all'ente locale, sul cui territorio insiste l'impianto sportivo scolastico da rigenerare, riqualificare o ammodernare, un progetto per la rigenerazione, la riqualificazione o l'ammodernamento dell'impianto stesso. Se l'ente locale riconosce l'interesse pubblico del progetto, stipula una convenzione con l'associazione o la societa' sportiva per l'uso gratuito dell'impianto per una durata proporzionalmente corrispondente al valore dell'intervento. Dall'attuazione delle convenzioni di cui al secondo periodo non devono derivare nuovi o maggiori oneri a carico della finanza pubblica))
+
+.
 
 ### Art. 6
 
@@ -334,13 +339,23 @@ Uso degli impianti sportivi
 
 2. Nei casi in cui l'ente pubblico territoriale non intenda gestire direttamente gli impianti sportivi, la gestione e' affidata in via preferenziale a societa' e associazioni sportive dilettantistiche, enti di promozione sportiva, discipline sportive associate e federazioni sportive nazionali, sulla base di convenzioni che ne stabiliscono i criteri d'uso e previa determinazione di criteri generali e obiettivi per l'individuazione dei soggetti affidatari.
 
-3. Gli affidamenti di cui al comma 2 sono disposti nel rispetto delle disposizioni del [Codice dei contratti pubblici](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2006-04-12;163)
+3. Gli affidamenti di cui al comma 2 sono disposti nel rispetto delle disposizioni del [Codice dei contratti pubblici](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2006-04-12;163) di cui al [decreto legislativo 31 marzo 2023, n. 36](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2023-03-31;36), e della normativa euro-unitaria vigente.
 
-((di cui al [decreto legislativo 31 marzo 2023, n. 36](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2023-03-31;36)))
+4. Le palestre, le aree di gioco e gli impianti sportivi scolastici, compatibilmente con le esigenze dell'attivita' didattica e delle attivita' sportive della scuola, comprese quelle
 
-, e della normativa euro-unitaria vigente.
+((extracurricolari))
 
-4. Le palestre, le aree di gioco e gli impianti sportivi scolastici, compatibilmente con le esigenze dell'attivita' didattica e delle attivita' sportive della scuola, comprese quelle extracurriculari ai sensi del regolamento di cui al [decreto del Presidente della Repubblica 10 ottobre 1996, n. 567](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1996-10-10;567), devono essere posti a disposizione di societa' e associazioni sportive dilettantistiche aventi sede nel medesimo comune in cui ha sede l'istituto scolastico o in comuni confinanti.
+ai sensi del regolamento di cui al [decreto del Presidente della Repubblica 10 ottobre 1996, n. 567](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1996-10-10;567), devono essere posti a disposizione di societa' e associazioni sportive dilettantistiche aventi sede nel medesimo comune in cui ha sede l'istituto scolastico o in comuni confinanti
+
+((anche ai fini dello svolgimento delle sedute di allenamento e delle gare ufficiali))
+
+.
+
+4-bis. 
+
+((Per le finalita' di cui al comma 4, i consigli di istituto o di circolo, all'atto dell'approvazione o dell'aggiornamento del piano triennale dell'offerta formativa, comunicano all'ente locale proprietario le attivita' didattiche e sportive della scuola, di cui al medesimo comma 4, che impediscono l'utilizzo, anche parziale, delle palestre, delle aree di gioco e degli impianti sportivi scolastici))
+
+.
 
 ### Art. 7
 
