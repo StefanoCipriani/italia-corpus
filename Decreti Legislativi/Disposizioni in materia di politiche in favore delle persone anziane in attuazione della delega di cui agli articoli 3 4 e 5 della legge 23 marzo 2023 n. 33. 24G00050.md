@@ -663,7 +663,11 @@ d) relative alle eventuali cartelle sociali presso gli enti locali secondo quant
 
 6. All'attuazione del presente articolo si provvede con le risorse umane, strumentali e finanziarie disponibili a legislazione vigente.
 
-7. Nelle more della piena attuazione delle procedure previste dall'articolo 27 e dal presente articolo, e comunque non oltre la data del 31 dicembre 2025, continuano ad applicarsi le norme e le procedure vigenti per l'accesso alle misure e ai provvedimenti di competenza statale di cui al presente decreto e alle [leggi 5 febbraio 1992, n. 104, 30 marzo 1971, n. 118, e 11 febbraio 1980, n. 18](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1980-02-11;18).
+7. Nelle more della piena attuazione delle procedure previste dall'articolo 27 e dal presente articolo, e comunque
+
+((non oltre la data del 31 dicembre 2027, anche nei territori interessati dalla fase sperimentale della riforma di cui al [decreto legislativo 3 maggio 2024, n. 62](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2024-05-03;62)))
+
+, continuano ad applicarsi le norme e le procedure vigenti per l'accesso alle misure e ai provvedimenti di competenza statale di cui al presente decreto e alle [leggi 5 febbraio 1992, n. 104, 30 marzo 1971, n. 118, e 11 febbraio 1980, n. 18](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1980-02-11;18).
 
 ### Art. 29
 

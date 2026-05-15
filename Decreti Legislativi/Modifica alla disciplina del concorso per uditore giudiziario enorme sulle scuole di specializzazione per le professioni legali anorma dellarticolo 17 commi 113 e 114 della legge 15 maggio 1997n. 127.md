@@ -265,59 +265,35 @@ Scuola di specializzazione per le professioni legali
 
 1. Le scuole di specializzazione per le professioni legali sono disciplinate, salvo quanto previsto dal presente articolo, ai sensi dell'[articolo 4, comma 1, della legge 19 novembre 1990, n. 341](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-11-19;341~art4-com1).
 
-2. Le scuole di specializzazione per le professioni legali, sulla base di modelli didattici omogenei i cui criteri sono indicati nel decreto di cui all'[articolo 17, comma 114, della legge 15 maggio 1997, n. 127](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997-05-15;127~art17-com114), e nel contesto dell'attuazione della autonomia didattica di cui all'articolo 17, comma 95, della predetta legge, provvedono alla formazione comune
+2. Le scuole di specializzazione per le professioni legali, sulla base di modelli didattici omogenei i cui criteri sono indicati nel decreto di cui all'[articolo 17, comma 114, della legge 15 maggio 1997, n. 127](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997-05-15;127~art17-com114), e nel contesto dell'attuazione della autonomia didattica di cui all'articolo 17, comma 95, della predetta legge, provvedono alla formazione comune dei laureati, in possesso di laurea magistrale, specialistica o titoli equiparati, attraverso l'approfondimento teorico, integrato da esperienze pratiche, finalizzato all'assunzione nelle magistrature o all'esercizio delle professioni di avvocato o notaio. L'attivita' didattica per la formazione comune e' svolta anche da magistrati, avvocati e notai. Le attivita' pratiche, previo accordo o convenzione, sono anche condotte presso sedi giudiziarie, studi professionali e scuole del notariato, con lo specifico apporto di magistrati, avvocati e notai.
 
-((dei laureati, in possesso di laurea magistrale, specialistica o titoli equiparati,))
+2-bis. A decorrere dall'anno accademico 2025/2026 le universita', nell'ambito dell'ordinamento didattico di cui al comma 1, possono attivare corsi di specializzazione, a carattere prevalentemente pratico, della durata di un anno, finalizzati alla preparazione ai concorsi per le magistrature, per notaio e all'esame di Stato per l'accesso alla professione forense, comunque utili ai fini di quanto previsto dall'articolo 28, comma 1-ter, secondo periodo, del [decreto legislativo 30 marzo 2001, n. 165](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2001-03-30;165). Al fine di determinare e aggiornare periodicamente gli obiettivi formativi di ciascun percorso, con decreto del Ministro dell'universita' e della ricerca, di concerto con il Ministro della giustizia e con il Ministro dell'economia e delle finanze, sentita la Scuola superiore della magistratura, nel rispetto della autonomia universitaria
 
-attraverso l'approfondimento teorico, integrato da esperienze pratiche, finalizzato all'assunzione
+((,))
 
-((nelle magistrature))
+sono individuati gli standard formativi uniformi.
 
-o all'esercizio delle professioni di avvocato o notaio. L'attivita' didattica per la formazione comune
+2-ter. COMMA NON PIU' PREVISTO DAL [D.L. 19 FEBBRAIO 2026, N. 19](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2026-02-19;19).
 
-((...))
+3. Le scuole di cui al comma 1 sono istituite, secondo i criteri indicati nel decreto di cui all'[articolo 17, comma 114, della legge 15 maggio 1997, n. 127](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997-05-15;127~art17-com114), dalle universita', sedi di facolta' e di dipartimenti di giurisprudenza, anche sulla base di accordi e convenzioni con il Consiglio nazionale forense, con gli ordini forensi, con il Consiglio nazionale del notariato e la Scuola nazionale del notariato, nonche' di accordi e convenzioni interuniversitari, estesi, se del caso, ad altre facolta' e dipartimenti con insegnamenti giuridici ed economici.
 
-e' svolta anche da magistrati, avvocati e notai. Le attivita' pratiche, previo accordo o convenzione, sono anche condotte presso sedi giudiziarie, studi professionali e scuole del notariato, con lo specifico apporto di magistrati, avvocati e notai.
+3-bis. Per l'organizzazione dei corsi di preparazione al concorso per magistrato ordinario, di cui all'articolo 2, comma 1, lettera o-bis)
 
-2-bis. 
+((,))
 
-((A decorrere dall'anno accademico 2025/2026 le universita', nell'ambito dell'ordinamento didattico di cui al comma 1, possono attivare corsi di specializzazione, a carattere prevalentemente pratico, della durata di un anno, finalizzati alla preparazione ai concorsi per le magistrature, per notaio e all'esame di Stato per l'accesso alla professione forense, comunque utili ai fini di quanto previsto dall'articolo 28, comma 1-ter, secondo periodo, del [decreto legislativo 30 marzo 2001, n. 165](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2001-03-30;165). Al fine di determinare e aggiornare periodicamente gli obiettivi formativi di ciascun percorso, con decreto del Ministro dell'universita' e della ricerca, di concerto con il Ministro della giustizia e con il Ministro dell'economia e delle finanze, sentita la Scuola superiore della magistratura, nel rispetto della autonomia universitaria sono individuati gli standard formativi uniformi.))
+del [decreto legislativo 30 gennaio 2006, n. 26](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2006-01-30;26), la Scuola superiore della magistratura puo' stipulare accordi e convenzioni con le universita'
 
-2-ter. 
+((sedi di facolta' e di dipartimenti))
 
-((COMMA NON PIU' PREVISTO DAL [D.L. 19 FEBBRAIO 2026, N. 19](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2026-02-19;19)))
+di giurisprudenza e di scuole di specializzazione per le professioni legali.
 
-.
+4. Nel consiglio delle scuole di specializzazione di cui al comma 1 sono presenti almeno un magistrato, un avvocato ed un notaio.
 
-3. 
+4-bis. Resta ferma la possibilita' per le universita', sedi di facolta' e di dipartimenti di giurisprudenza, di cui al comma 3 di organizzare, oltre ai corsi per il rilascio del diploma di specializzazione di cui al comma 2-bis, anche corsi di aggiornamento professionale, master, nonche' percorsi formativi per il conseguimento del titolo di avvocato specialista, anche in convenzione con i Consigli degli Ordini territoriali forensi.
 
-((Le scuole di cui al comma 1 sono istituite, secondo i criteri indicati nel decreto di cui all'[articolo 17, comma 114, della legge 15 maggio 1997, n. 127](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997-05-15;127~art17-com114), dalle universita', sedi di facolta' e di dipartimenti di giurisprudenza, anche sulla base di accordi e convenzioni con il Consiglio nazionale forense, con gli ordini forensi, con il Consiglio nazionale del notariato e la Scuola nazionale del notariato, nonche' di accordi e convenzioni interuniversitari, estesi, se del caso, ad altre facolta' e dipartimenti con insegnamenti giuridici ed economici.))
+5. COMMA ABROGATO DAL [D.L. 19 FEBBRAIO 2026, N. 19](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2026-02-19;19).
 
-3-bis. 
-
-((Per l'organizzazione dei corsi di preparazione al concorso per magistrato ordinario, di cui all'[articolo 2, comma 1, lettera o-bis) del decreto legislativo 30 gennaio 2006, n. 26](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2006-01-30;26~art2-com1-letobis), la Scuola superiore della magistratura puo' stipulare accordi e convenzioni con le universita' sedi di facolta', di dipartimenti di giurisprudenza e di scuole di specializzazione per le professioni legali.))
-
-4. Nel consiglio delle scuole di specializzazione di cui al comma 1 sono presenti almeno un magistrato
-
-((...))
-
-, un avvocato ed un notaio.
-
-4-bis. 
-
-((Resta ferma la possibilita' per le universita', sedi di facolta' e di dipartimenti di giurisprudenza, di cui al comma 3 di organizzare, oltre ai corsi per il rilascio del diploma di specializzazione di cui al comma 2-bis, anche corsi di aggiornamento professionale, master, nonche' percorsi formativi per il conseguimento del titolo di avvocato specialista, anche in convenzione con i Consigli degli Ordini territoriali forensi.))
-
-5. 
-
-((COMMA ABROGATO DAL [D.L. 19 FEBBRAIO 2026, N. 19](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2026-02-19;19)))
-
-.
-
-6. 
-
-((COMMA ABROGATO DAL [D.L. 19 FEBBRAIO 2026, N. 19](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2026-02-19;19)))
-
-.
+6. COMMA ABROGATO DAL [D.L. 19 FEBBRAIO 2026, N. 19](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2026-02-19;19).
 
 7. Il rilascio del diploma di specializzazione e' subordinato alla certificazione della regolare frequenza dei corsi, al superamento delle verifiche intermedie, al superamento delle prove finali di esame.
 

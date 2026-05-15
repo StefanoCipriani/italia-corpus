@@ -321,7 +321,7 @@ Si applica ai predetti magistrati la disciplina dell'esonero dalle funzioni giud
 
 2. La commissione di concorso e' composta dal presidente di una corte di giustizia tributaria di secondo grado
 
-((che la presiede o dal presidente di una corte di giustizia tributaria di primo grado))
+((o dal presidente di una corte di giustizia tributaria di primo grado, che la presiedono))
 
 , da venti magistrati scelti tra magistrati tributari, ordinari, amministrativi, contabili e militari con almeno quindici anni di anzianita', da quattro professori universitari di ruolo, di cui due titolari dell'insegnamento di diritto tributario, gli altri titolari di uno degli insegnamenti delle altre materie oggetto di esame, nonche' da due avvocati iscritti all'albo speciale dei patrocinanti dinanzi alle magistrature superiori, nominati su proposta del Consiglio nazionale forense e da due dottori commercialisti con almeno quindici anni di anzianita', nominati su proposta del Consiglio nazionale dei dottori commercialisti e degli esperti contabili. Ai professori universitari componenti della commissione si applicano, a loro richiesta, le disposizioni di cui all'[articolo 13, secondo comma, del decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382~art13-com2). Al presidente e ai magistrati componenti della commissione si applica la disciplina dell'esonero dalle funzioni giudiziarie o giurisdizionali, ai sensi del comma 9 del presente articolo. Non possono essere nominati componenti della commissione coloro che, nei dieci anni precedenti, hanno prestato, a qualsiasi titolo e modo, attivita' di docenza nelle scuole di preparazione al concorso per magistrato tributario, ordinario, amministrativo e contabile. Con il decreto di cui al comma 1 possono essere nominati i commissari supplenti destinati a sostituire i titolari in caso di assenza o di impedimento.
 
@@ -350,7 +350,7 @@ Nomina e tirocinio del magistrato tributario
 
 1. I magistrati tributari nominati a seguito del superamento del concorso di cui all'articolo 4 svolgono un tirocinio formativo articolato in due sessioni consecutive della durata di tre mesi ciascuna presso le corti di giustizia tributaria con la partecipazione all'attivita' giurisdizionale relativa alle controversie rientranti nella rispettiva competenza in composizione collegiale. Nella seconda sessione trimestrale di cui al primo periodo e nell'ipotesi di cui al comma 2, al magistrato tributario in tirocinio e' assegnato un carico di lavoro fissato con delibera del Consiglio di presidenza della giustizia tributaria. Con delibera del Consiglio di presidenza sono individuati
 
-((i magistrati e i giudici tributari di cui all'articolo 3, presso i quali i magistrati nominati svolgono il tirocinio))
+((i presidenti delle corti di giustizia tributaria e di sezione di cui all'articolo 3, presso i quali i magistrati tributari nominati svolgono il tirocinio))
 
 , le modalita' di affidamento e i criteri per il conseguimento del giudizio di idoneita' al conferimento delle funzioni giurisdizionali.
 
@@ -358,13 +358,13 @@ Nomina e tirocinio del magistrato tributario
 
 ### Art. 5
 
-(( (I giudici delle corti di giustizia tributaria di secondo grado). ))
+(I giudici delle corti di giustizia tributaria di secondo grado)
 
-((
+1. 
 
-1. I giudici delle corti di giustizia tributaria di secondo grado sono nominati tra i magistrati tributari di cui all'articolo 1-bis, comma 2, e i giudici tributari presenti nel ruolo unico di cui all'articolo 1-bis, comma 1.
+((I giudici delle corti di giustizia tributaria di secondo grado sono nominati tra i magistrati tributari di cui all'articolo 1-bis, comma 2, che abbiano conseguito un'anzianita' nelle corti di primo grado non inferiore a tre anni, e tra i giudici tributari presenti nel ruolo unico di cui al medesimo articolo 1-bis))
 
-))
+.
 
 ### Art. 5-bis
 
