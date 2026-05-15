@@ -460,9 +460,7 @@ b) al comma 676, concernente l'imposta sul consumo delle bevande analcoliche, le
 
 a) provenienti da Paesi non appartenenti all'Unione europea;
 
-b) di valore dichiarato non superiore a 150 euro.
-
-((5))
+b) di valore dichiarato non superiore a 150 euro. (5)
 
 127. Il contributo di cui al comma 126 e' pari a 2 euro per ciascuna spedizione prevista dal medesimo comma ed e' riscosso dagli Uffici delle dogane all'atto dell'importazione definitiva delle merci oggetto delle spedizioni.
 
@@ -538,19 +536,13 @@ d) al 31 dicembre 2030, si assume, quale imposta del periodo precedente, quella 
 
 138. All'[articolo 13, comma 2, lettera d), del decreto del Presidente della Repubblica 26 ottobre 1972, n. 633](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1972-10-26;633~art13-com2-letd), le parole: «dal valore normale dei beni e dei servizi che formano oggetto di ciascuna di esse» sono sostituite dalle seguenti: «dal valore dei beni e dei servizi che formano oggetto di ciascuna di esse, determinato dall'ammontare complessivo di tutti i costi riferibili a tali cessioni o prestazioni».
 
-139. 
-
-((Le disposizioni di cui al comma 138 si applicano alle operazioni effettuate in esecuzione di contratti stipulati o rinnovati a decorrere dal 1° gennaio 2026.))
+139. Le disposizioni di cui al comma 138 si applicano alle operazioni effettuate in esecuzione di contratti stipulati o rinnovati a decorrere dal 1° gennaio 2026.
 
 140. All'[articolo 25-bis, quinto comma, del decreto del Presidente della Repubblica 29 settembre 1973, n. 600](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1973-09-29;600~art25bis-com5), le parole: «dalle agenzie di viaggio e turismo,» e le parole: «dagli agenti, raccomandatari e mediatori marittimi e aerei, dagli agenti e commissionari di imprese petrolifere per le prestazioni ad esse rese direttamente,» sono soppresse.
 
 141. All'articolo 39, comma 5, del testo unico in materia di versamenti e di riscossione, di cui al [decreto legislativo 24 marzo 2025, n. 33](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2025-03-24;33), le parole: «dalle agenzie di viaggio e turismo,» e le parole: «dagli agenti, raccomandatari e mediatori marittimi e aerei, dagli agenti e commissionari di imprese petrolifere per le prestazioni a esse rese direttamente,» sono soppresse.
 
-142. Le disposizioni di cui ai commi 140 e 141 si applicano alle provvigioni corrisposte a decorrere
-
-((dal 1° maggio 2026))
-
-.
+142. Le disposizioni di cui ai commi 140 e 141 si applicano alle provvigioni corrisposte a decorrere dal 1° maggio 2026.
 
 143. Ai proventi derivanti dalle operazioni in uso nei mercati di cui all'[articolo 5, comma 5, del testo unico delle disposizioni legislative e regolamentari in materia di debito pubblico](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2003-12-30;398~art5-com5), di cui al [decreto del Presidente della Repubblica 30 dicembre 2003, n. 398](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2003-12-30;398), e dai titoli di Stato emessi ai sensi dell'articolo 3 del medesimo testo unico corrisposti al Ministero dell'economia e delle finanze - Dipartimento del tesoro non si applicano l'[articolo 14 della legge 18 febbraio 1999, n. 28](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1999-02-18;28~art14), nonche' gli [articoli da 2](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1996-04-01;239~art2) [a 5 del decreto legislativo 1° aprile 1996, n. 239](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1996-04-01;239~art5). Sono fatti salvi i comportamenti adottati, sino alla data di entrata in vigore della presente legge, in relazione al trattamento fiscale dei proventi di cui al primo periodo.
 
@@ -768,7 +760,11 @@ d) all'articolo 19, comma 2, dopo la lettera n) sono aggiunte le seguenti:
 «n-bis) definisce la periodicita' e il numero minimo di rate in cui e' frazionabile il montante accumulato con riferimento alle prestazioni pensionistiche complementari in forma di erogazione frazionata di cui all'articolo 11, comma 3-bis;   
 n-ter) definisce i criteri minimi che devono soddisfare i percorsi e le linee di investimento di cui all'articolo 8, comma 9».
 
-202. Le disposizioni di cui al comma 201 si applicano a decorrere dal 1° luglio 2026 ed entro la medesima data la Commissione di vigilanza sui fondi pensione (COVIP) adegua le proprie istruzioni.
+202. 
+
+((Le disposizioni di cui al comma 201 si applicano a decorrere dal 1° luglio 2026, fatta eccezione per la disposizione di cui alla lettera c) del medesimo comma 201, che si applica a decorrere dal 31 ottobre 2026. La Commissione di vigilanza sui fondi pensione (COVIP) adegua le proprie rispettive istruzioni entro le medesime date))
+
+.
 
 203. All'[articolo 1, comma 756, della legge 27 dicembre 2006, n. 296](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2006-12-27;296~art1-com756), sono aggiunti, in fine, i seguenti periodi: «Con effetto sui periodi di paga decorrenti dal 1° gennaio 2026, sono tenuti al versamento del contributo di cui al presente comma anche i datori di lavoro che hanno raggiunto o raggiungono, negli anni successivi a quello di inizio dell'attivita', la soglia dimensionale di cui al terzo periodo, prendendo a riferimento la media annuale dei lavoratori in forza nell'anno solare precedente all'anno del periodo di paga considerato, e, limitatamente al periodo 2026-2027, a condizione che, nel medesimo anno solare, la predetta media annuale non sia inferiore a sessanta addetti alle proprie dipendenze. Con effetto sui periodi di paga decorrenti dal 1° gennaio 2032, sono altresi' tenuti al versamento del contributo di cui al presente comma i datori di lavoro che occupano alle proprie dipendenze un numero di addetti pari o superiore a quaranta o che raggiungono, anche negli anni successivi a quello di inizio dell'attivita', la soglia dimensionale di quaranta addetti alle proprie dipendenze, prendendo a riferimento la media annuale dei lavoratori in forza nell'anno solare precedente all'anno del periodo di paga considerato».
 
@@ -1185,7 +1181,11 @@ Le risorse non utilizzate per le finalita' di cui al comma 312 confluiscono nel 
 
 325. In caso di impugnazione degli atti relativi alle procedure di affidamento indette per la progettazione e l'esecuzione degli interventi di cui ai commi da 318 a 324, si applicano le previsioni contenute nell'[articolo 125 del codice del processo amministrativo](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-07-02;104~art125), di cui al l'allegato 1 al [decreto legislativo 2 luglio 2010, n. 104](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-07-02;104).
 
-326. Il Ministero delle imprese e del made in Italy e' autorizzato a istituire 40 posizioni dell'area delle elevate professionalita' prevista dal CCNL 2019-2021 del comparto funzioni centrali e conseguentemente ad assumere, con contratto di lavoro subordinato a tempo indeterminato, tramite concorso pubblico ovvero passaggio tra le aree o mediante scorrimento delle graduatorie vigenti o procedure di passaggio diretto di personale tra amministrazioni pubbliche ai sensi dell'[articolo 30 del decreto legislativo 30 marzo 2001, n. 165](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2001-03-30;165~art30), un corrispondente contingente di personale non dirigenziale da inquadrare nella suddetta area. A tal fine e' autorizzata la spesa di 3.615.519 euro annui a decorrere dall'anno 2026.
+326. Il Ministero delle imprese e del made in Italy e' autorizzato
+
+((ad assumere, con contratto di lavoro subordinato a tempo indeterminato, quaranta unita' di personale da inquadrare nell'area delle elevate professionalita' prevista dal CCNL 2019-2021 del comparto funzioni centrali, tramite concorso pubblico ovvero passaggio tra le aree o mediante scorrimento delle graduatorie vigenti o procedure di passaggio diretto di personale tra amministrazioni pubbliche ai sensi dell'[articolo 30 del decreto legislativo 30 marzo 2001, n. 165](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2001-03-30;165~art30), con corrispondente incremento della relativa dotazione organica))
+
+. A tal fine e' autorizzata la spesa di 3.615.519 euro annui a decorrere dall'anno 2026.
 
 327. Per la gestione delle procedure concorsuali previste dal comma 326 e' autorizzata, per l'anno 2026, una spesa pari a euro 300.000.  
 Per le maggiori spese di funzionamento indotte dal reclutamento del predetto personale, ivi compreso il costo annuale per la corresponsione dei buoni pasto, e' autorizzata un'ulteriore spesa pari a euro 74.369 annui a decorrere dall'anno 2026.
@@ -1467,13 +1467,7 @@ Le somme iscritte a ruolo comprendono il contributo, gli interessi e la sanzione
 426. All'[articolo 1 della legge 30 dicembre 2024, n. 207](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2024-12-30;207~art1), dopo il comma 304 e' inserito il seguente:   
 «304-bis. La regione che non raggiunge la soglia di garanzia minima in una o piu' delle macro-aree o per singoli indicatori previsti dal nuovo sistema di garanzia per il monitoraggio dell'assistenza sanitaria, adottato con il [decreto del Ministro della salute 12 marzo 2019, pubblicato nella Gazzetta Ufficiale n. 138 del 14 giugno 2019](http://www.gazzettaufficiale.it/gazzetta/serie_generale/caricaDettaglio?dataPubblicazioneGazzetta=2019-06-14&numeroGazzetta=138), in attuazione dell'[articolo 9 del decreto legislativo 18 febbraio 2000, n. 56](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2000-02-18;56~art9), e dei commi 303 e 304 del presente articolo, e' sottoposta ad audit, ai sensi dell'articolo 1, comma 4, del citato decreto del Ministro della salute 12 marzo 2019, da parte del Comitato permanente per la verifica dell'erogazione dei Livelli Essenziali di Assistenza, istituito ai sensi dell'articolo 9 dell'intesa sancita in sede di Conferenza permanente per i rapporti tra lo Stato, le regioni e le province autonome di Trento e di Bolzano, in data 23 marzo 2005, [pubblicata nel supplemento ordinario alla Gazzetta Ufficiale n. 105 del 7 maggio 2005](http://www.gazzettaufficiale.it/gazzetta/serie_generale/caricaDettaglio?dataPubblicazioneGazzetta=2005-05-07&numeroGazzetta=105), al fine di individuare gli interventi necessari per assicurare il raggiungimento entro i successivi due anni da parte della regione della soglia di garanzia minima nella macro-area interessata o nei singoli indicatori utilizzati per il relativo monitoraggio. Resta fermo quanto previsto ai sensi dell'[articolo 15, comma 24, del decreto-legge 6 luglio 2012, n. 95](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2012-07-06;95~art15-com24), convertito, con modificazioni, dalla [legge 7 agosto 2012, n. 135](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2012-08-07;135), in materia di verifica degli adempimenti regionali ai fini dell'erogazione del finanziamento integrativo del Servizio sanitario nazionale».
 
-427. Ai fini delle imposte sui redditi, per i soggetti titolari di reddito d'impresa che effettuano investimenti in beni strumentali destinati a strutture produttive ubicate nel territorio dello Stato, il relativo costo di acquisizione, con esclusivo riferimento alla determinazione delle quote di ammortamento e dei canoni di locazione finanziaria, e' maggiorato nella misura del 180 per cento per gli investimenti fino a 2,5 milioni di euro, nella misura del 100 per cento per gli investimenti oltre 2,5 milioni di euro e fino a 10 milioni di euro e nella misura del 50 per cento per gli investimenti oltre 10 milioni di euro e fino a 20 milioni di euro in relazione agli investimenti di cui al comma 429
-
-((...))
-
-effettuati dal 1° gennaio 2026 al 30 settembre 2028.
-
-((5))
+427. Ai fini delle imposte sui redditi, per i soggetti titolari di reddito d'impresa che effettuano investimenti in beni strumentali destinati a strutture produttive ubicate nel territorio dello Stato, il relativo costo di acquisizione, con esclusivo riferimento alla determinazione delle quote di ammortamento e dei canoni di locazione finanziaria, e' maggiorato nella misura del 180 per cento per gli investimenti fino a 2,5 milioni di euro, nella misura del 100 per cento per gli investimenti oltre 2,5 milioni di euro e fino a 10 milioni di euro e nella misura del 50 per cento per gli investimenti oltre 10 milioni di euro e fino a 20 milioni di euro in relazione agli investimenti di cui al comma 429 effettuati dal 1° gennaio 2026 al 30 settembre 2028. (5)
 
 428. Il beneficio di cui al comma 427 non spetta alle imprese in stato di liquidazione volontaria, fallimento, liquidazione coatta amministrativa, concordato preventivo senza continuita' aziendale o sottoposte ad altra procedura concorsuale prevista dal [regio decreto 16 marzo 1942, n. 267](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-03-16;267), dal codice della crisi d'impresa e dell'insolvenza, di cui al [decreto legislativo 12 gennaio 2019, n. 14](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2019-01-12;14), o da altre leggi speciali o che abbiano in corso un procedimento per la dichiarazione di una di tali situazioni. Sono, altresi', escluse le imprese destinatarie di sanzioni interdittive ai sensi del [decreto legislativo 8 giugno 2001, n. 231](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2001-06-08;231). Per le imprese ammesse al beneficio, la spettanza e' comunque subordinata al rispetto delle normative sulla sicurezza nei luoghi di lavoro applicabili in ciascun settore e al corretto adempimento degli obblighi di versamento dei contributi previdenziali e assistenziali a favore dei lavoratori.
 
@@ -1493,7 +1487,23 @@ b) beni materiali nuovi strumentali all'esercizio d'impresa finalizzati all'auto
 
 434. La determinazione dell'acconto dovuto per il periodo d'imposta in corso al 31 dicembre 2026 e' effettuata senza tener conto delle disposizioni di cui ai commi da 427 a 436.
 
-435. Il GSE provvede, sulla base di convenzione con il Ministero delle imprese e del made in Italy, alla gestione delle procedure di accesso e controllo dell'agevolazione, nonche' allo sviluppo della piattaforma informatica di cui al comma 430, anche al fine delle esigenze di monitoraggio di cui al comma 436. Per le attivita' di cui al primo periodo e per le altre attivita' di assistenza tecnica necessarie alla gestione della misura e' riconosciuto al GSE un compenso di 5 milioni per ciascuno degli anni dal 2026 al 2028. Ai relativi oneri si provvede mediante corrispondente riduzione del fondo speciale di parte corrente, iscritto, ai fini del bilancio triennale 2026-2028 nell'ambito del programma "fondi di riserva e speciali" della missione "fondi da ripartire" dello stato di previsione del Ministero dell'economia e delle finanze per l'anno 2026, allo scopo parzialmente utilizzando l'accantonamento relativo al Ministero delle imprese e del made in Italy.
+435. Il GSE provvede, sulla base di convenzione con il Ministero delle imprese e del made in Italy, alla gestione delle procedure di accesso e controllo dell'agevolazione, nonche' allo sviluppo della piattaforma informatica di cui al comma 430, anche al fine delle esigenze di monitoraggio di cui al comma 436. Per le attivita' di cui al primo periodo e per le altre attivita' di assistenza tecnica necessarie alla gestione
+
+((dell'agevolazione))
+
+e' riconosciuto al GSE un compenso di 5 milioni per ciascuno degli anni dal 2026 al 2028. Ai relativi oneri si provvede mediante corrispondente riduzione
+
+((dello stanziamento))
+
+del fondo speciale
+
+((di parte corrente))
+
+iscritto, ai fini del bilancio triennale 2026-2028
+
+((,))
+
+nell'ambito del programma "fondi di riserva e speciali" della missione "fondi da ripartire" dello stato di previsione del Ministero dell'economia e delle finanze per l'anno 2026, allo scopo parzialmente utilizzando l'accantonamento relativo al Ministero delle imprese e del made in Italy.
 
 436. Il Ministero dell'economia e delle finanze, sulla base delle informazioni trasmesse dal GSE e dal Ministero delle imprese e del made in Italy, provvede al monitoraggio degli oneri derivanti dai commi da 427 a 435 al fine di prevenire l'eventuale verificarsi di scostamenti dell'andamento degli oneri dallo stesso derivanti rispetto alle previsioni e, qualora siano in procinto di verificarsi scostamenti dagli effetti finanziari attesi, il Ministro dell'economia e delle finanze provvede ai sensi dei [commi da 12-bis](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2009-12-31;196~art17-com12bis) [a 12-quater dell'articolo 17 della legge 31 dicembre 2009, n. 196](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2009-12-31;196~art17-com12quater).
 
@@ -2135,7 +2145,19 @@ f) le regioni che non rispettano i limiti previsti dalle lettere da a) a e) sono
 644. Gli oneri, in termini di fabbisogno e indebitamento, derivanti dai commi da 638 a 643, sono pari a 41 milioni di euro nell'anno 2026, a 90,9 milioni di euro nell'anno 2027, a 138,2 milioni di euro nell'anno 2028, a 157,4 milioni di euro nell'anno 2029, a 160 milioni di euro nell'anno 2030, a 119 milioni di euro nell'anno 2031, a 69,1 milioni di euro nell'anno 2032, a 21,8 milioni di euro nell'anno 2033 e a 2,6 milioni di euro nell'anno 2034.
 
 645. Con decreto del Ministro dell'economia e delle finanze, da emanare entro sessanta giorni dalla data di entrata in vigore della presente legge, e' istituito, senza nuovi o maggiori oneri a carico della finanza pubblica, un tavolo tecnico presso il Ministero dell'economia e delle finanze composto da due rappresentanti del medesimo Ministero, un rappresentante del Ministero dell'interno e da due rappresentanti dell'Associazione nazionale dei comuni italiani.  
-II tavolo ha il compito di verificare le modalita' con cui i comuni con popolazione superiore a 20.000 abitanti, in disavanzo di amministrazione e con incidenza del fondo anticipazioni di liquidita' accantonato nel risultato di amministrazione dell'esercizio 2024 non inferiore al 30 per cento del disavanzo complessivo e non inferiore al 30 per cento della somma delle spese correnti e delle spese per rimborso prestiti, possono accedere alle misure previste dalle disposizioni di cui ai commi da 638 a 643, facendo comunque salvi gli spazi di maggior utilizzo derivanti dalle disposizioni di cui al comma 664. Ai componenti del tavolo non sono corrisposti compensi, gettoni di presenza, rimborsi di spese o altri emolumenti comunque denominati.
+II tavolo ha il compito di verificare le modalita' con cui i comuni con popolazione superiore a
+
+((10.000 abitanti))
+
+, in disavanzo di amministrazione e con incidenza del fondo anticipazioni di liquidita' accantonato nel risultato di amministrazione
+
+((dell'esercizio 2025))
+
+non inferiore al 30 per cento del disavanzo complessivo e non inferiore al 30 per cento della somma delle spese correnti e delle spese per rimborso prestiti,
+
+((e i comuni che hanno applicato l'[articolo 16, commi da 6-ter](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2022-08-09;115~art16-com6ter) [a 6-sexies, del decreto-legge 9 agosto 2022, n. 115](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2022-08-09;115~art16-com6sexies), convertito, con modificazioni, dalla [legge 21 settembre 2022, n. 142](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2022-09-21;142),))
+
+possono accedere alle misure previste dalle disposizioni di cui ai commi da 638 a 643, facendo comunque salvi gli spazi di maggior utilizzo derivanti dalle disposizioni di cui al comma 664. Ai componenti del tavolo non sono corrisposti compensi, gettoni di presenza, rimborsi di spese o altri emolumenti comunque denominati.
 
 646. Al [decreto legislativo 23 giugno 2011, n. 118](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2011-06-23;118), sono apportate le seguenti modificazioni:
 
@@ -2955,7 +2977,7 @@ a) alle previsioni urbanistiche degli strumenti urbanistici vigenti alla data de
 b) alla realizzazione di interventi urbanistici separati dal perimetro dell'impianto cimiteriale da strade pubbliche almeno di livello comunale, sulla base della classificazione prevista ai sensi della legislazione vigente, o da fiumi, laghi o dislivelli naturali rilevanti, ovvero da ponti o da impianti ferroviari;   
 c) alla realizzazione di interventi urbanistici da localizzare, in contiguita' a interventi urbanistici gia' attuati, sul lato opposto rispetto al perimetro dell'impianto cimiteriale».
 
-912. Per lo svolgimento delle attivita' di studio, ricerca e promozione culturale sul valore della lettura su carta e della scrittura in corsivo a mano, nonche' sugli effetti della diffusione delle tecnologie digitali sui processi cognitivi e di apprendimento dei giovani, e' concesso all'Osservatorio Carta, Penna &amp;amp;amp;amp;   
+912. Per lo svolgimento delle attivita' di studio, ricerca e promozione culturale sul valore della lettura su carta e della scrittura in corsivo a mano, nonche' sugli effetti della diffusione delle tecnologie digitali sui processi cognitivi e di apprendimento dei giovani, e' concesso all'Osservatorio Carta, Penna &amp;amp;amp;amp;amp;amp;amp;   
 Digitale,   
 istituito presso la Fondazione Luigi Einaudi per studi di politica, economia e storia ETS di Roma, un contributo di 300.000 euro per ciascuno degli anni 2026 e 2027.
 
@@ -3146,7 +3168,7 @@ Il [D.L. 31 dicembre 2025, n. 200](http://www.normattiva.it/uri-res/N2Ls?urn:nir
 AGGIORNAMENTO (5)
 
 Il [D.L. 27 marzo 2026, n. 38](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2026-03-27;38) ha disposto (con l'art. 5, comma 1) che "Ferma restando l'attivita' di adeguamento dei sistemi informativi da parte dell'Agenzia delle dogane e dei monopoli, il contributo di cui all'[articolo 1, comma 126, della legge 30 dicembre 2025, n. 199](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2025-12-30;199~art1-com126), non si applica alle spedizioni, ivi indicate, di beni importati anteriormente alla data del 1° luglio 2026".   
-Ha inoltre disposto (con l'art. 7, comma 3) che "Le disposizioni del presente articolo si applicano agli investimenti effettuati dal 1° gennaio 2026".
+Ha inoltre disposto (con l'art. 7, comma 3) che la modifica del comma 427 si applica agli investimenti effettuati dal 1° gennaio 2026.
 
 CAPO II SEZIONE II APPROVAZIONE DEGLI STATI DI PREVISIONE
 ---------------------------------------------------------
