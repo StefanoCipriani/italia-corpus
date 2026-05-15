@@ -7,7 +7,9 @@ DECRETO-LEGGE 31 dicembre 2025 n. 200
 Disposizioni urgenti in materia di termini normativi. (25G00213)
 ----------------------------------------------------------------
 
-Entrata in vigore del provvedimento: 31/12/2025
+Entrata in vigore del provvedimento: 31/12/2025  
+  
+Decreto-Legge convertito con modificazioni dalla [L. 27 febbraio 2026, n. 26](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2026-02-27;26) (in G.U. 28/02/2026, n. 49).
 
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
@@ -34,24 +36,12 @@ Proroga di termini in materie di interesse della Presidenza del Consiglio dei mi
 
 1. All'[articolo 16, comma 1, del decreto-legge 27 dicembre 2024, n. 202](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2024-12-27;202~art16-com1), convertito, con modificazioni, dalla [legge 21 febbraio 2025, n. 15](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2025-02-21;15), relativo all'attivita' istruttoria connessa alla determinazione dei livelli essenziali delle prestazioni, le parole: «fino al 31 dicembre 2025» sono sostituite dalle seguenti: «fino al 31 dicembre 2026».
 
-2. All'[articolo 33 del decreto-legge 12 settembre 2014, n. 133](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2014-09-12;133~art33), convertito, con modificazioni
-
-((,))
-
-dalla [legge 11 novembre 2014, n. 164](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2014-11-11;164),
-
-((relativamente))
-
-alla nomina di un sub-commissario per il coordinamento e la realizzazione degli interventi e delle opere nell'ex area militare denominata Arsenale militare e area militare contigua molo carbone, situata nell'isola della Maddalena, sono apportate le seguenti modificazioni:
+2. All'[articolo 33 del decreto-legge 12 settembre 2014, n. 133](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2014-09-12;133~art33), convertito, con modificazioni, dalla [legge 11 novembre 2014, n. 164](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2014-11-11;164), relativamente alla nomina di un sub-commissario per il coordinamento e la realizzazione degli interventi e delle opere nell'ex area militare denominata Arsenale militare e area militare contigua molo carbone, situata nell'isola della Maddalena, sono apportate le seguenti modificazioni:
 
 a) al comma 13-sexies, secondo periodo, le parole: «, il cui incarico cessa entro il 31 dicembre 2024,» sono soppresse;
 
 b) dopo il comma 13-sexies e' aggiunto il seguente:   
-«13-septies. L'incarico di sub-commissario di cui al comma 13-sexies cessa entro il 31 dicembre 2027. La remunerazione del sub-commissario, per ciascuno degli anni 2026 e 2027, e' pari a 80.000 euro annui al lordo degli oneri riflessi a carico dell'amministrazione. Agli oneri derivanti dal presente comma
-
-((, pari a 80.000 euro per ciascuno degli anni 2026 e 2027,))
-
-si provvede mediante corrispondente riduzione del Fondo di cui all'[articolo 1, comma 200, della legge 23 dicembre 2014, n. 190](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2014-12-23;190~art1-com200)».
+«13-septies. L'incarico di sub-commissario di cui al comma 13-sexies cessa entro il 31 dicembre 2027. La remunerazione del sub-commissario, per ciascuno degli anni 2026 e 2027, e' pari a 80.000 euro annui al lordo degli oneri riflessi a carico dell'amministrazione. Agli oneri derivanti dal presente comma, pari a 80.000 euro per ciascuno degli anni 2026 e 2027, si provvede mediante corrispondente riduzione del Fondo di cui all'[articolo 1, comma 200, della legge 23 dicembre 2014, n. 190](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2014-12-23;190~art1-com200)».
 
 3. All'[articolo 42-bis del decreto-legge 8 aprile 2020, n. 23](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2020-04-08;23~art42bis), convertito, con modificazioni, dalla [legge 5 giugno 2020, n. 40](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2020-06-05;40), relativo alla progettazione e alla realizzazione del nuovo complesso ospedaliero della citta' di Siracusa, sono apportate le seguenti modificazioni:
 
@@ -61,11 +51,7 @@ b) al comma 2, le parole: «31 dicembre 2025» sono sostituite dalle seguenti: �
 
 4. Agli oneri derivanti dal comma 3, pari a 100.000 euro per l'anno 2026, si provvede mediante corrispondente riduzione del Fondo di cui all'[articolo 1, comma 200, della legge 23 dicembre 2014, n. 190](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2014-12-23;190~art1-com200).
 
-5. All'[articolo 33, comma 11-bis, del decreto-legge 12 settembre 2014, n. 133](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2014-09-12;133~art33-com11bis), convertito, con modificazioni dalla [legge 11 novembre 2014, n. 164](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2014-11-11;164), relativo alla nomina del Commissario straordinario per l'area di rilevante interesse nazionale
-
-((del comprensorio))
-
-Bagnoli-Coroglio, sono apportate le seguenti modificazioni:
+5. All'[articolo 33, comma 11-bis, del decreto-legge 12 settembre 2014, n. 133](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2014-09-12;133~art33-com11bis), convertito, con modificazioni dalla [legge 11 novembre 2014, n. 164](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2014-11-11;164), relativo alla nomina del Commissario straordinario per l'area di rilevante interesse nazionale del comprensorio Bagnoli-Coroglio, sono apportate le seguenti modificazioni:
 
 a) al primo periodo, le parole: «fino al 31 dicembre 2025» sono sostituite dalle seguenti: «fino al 31 dicembre 2026»;
 
@@ -75,57 +61,21 @@ c) all'ottavo periodo le parole: «dal 2022 al 2025» sono sostituite dalle segu
 
 d) al tredicesimo periodo, dopo le parole: «per ciascuno degli anni dal 2022 al 2025» sono inserite le seguenti: «nonche' nel limite di 1.087.619 euro per l'anno 2026»;
 
-e)
-
-((e' aggiunto, in fine,))
-
-il seguente periodo: «Entro il 31 marzo 2026, il Commissario trasmette alla Presidenza del
-
-((Consiglio))
-
-dei ministri e al Ministero dell'economia e
-
-((delle))
-
-finanze - Dipartimento della
-
-((Ragioneria))
-
-generale dello Stato il cronoprogramma procedurale e finanziario aggiornato degli interventi di cui al comma 13-bis.1, anche evidenziando l'eventuale applicazione della
-
-((riduzione dei compensi))
-
-di cui all'ultimo periodo del medesimo comma 13-bis.1».
+e) e' aggiunto, in fine, il seguente periodo: «Entro il 31 marzo 2026, il Commissario trasmette alla Presidenza del Consiglio dei ministri e al Ministero dell'economia e delle finanze - Dipartimento della Ragioneria generale dello Stato il cronoprogramma procedurale e finanziario aggiornato degli interventi di cui al comma 13-bis.1, anche evidenziando l'eventuale applicazione della riduzione dei compensi di cui all'ultimo periodo del medesimo comma 13-bis.1».
 
 6. All'[articolo 3 della legge 8 agosto 1995, n. 335](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1995-08-08;335~art3), recante disposizioni in materia assistenziale e previdenziale, sono apportate le seguenti modificazioni:
 
-a) al comma 10-bis, relativo alla sospensione dei termini
+a) al comma 10-bis, relativo alla sospensione dei termini di prescrizione per gli obblighi contributivi in favore dei dipendenti delle amministrazioni pubbliche di cui al [decreto legislativo 30 marzo 2001, n. 165](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2001-03-30;165), le parole: «31 dicembre 2020» sono sostituite dalle seguenti: «31 dicembre 2021» e le parole: «31 dicembre 2025» sono sostituite dalle seguenti: «31 dicembre 2026»;
 
-((di prescrizione))
-
-per gli obblighi contributivi in favore dei dipendenti delle amministrazioni pubbliche di cui al [decreto legislativo 30 marzo 2001, n. 165](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2001-03-30;165), le parole: «31 dicembre 2020» sono sostituite dalle seguenti: «31 dicembre 2021» e le parole: «31 dicembre 2025» sono sostituite dalle seguenti: «31 dicembre 2026»;
-
-b) al comma 10-ter, relativo
-
-((agli obblighi contributivi delle amministrazioni pubbliche di cui al [decreto legislativo 30 marzo 2001, n. 165](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2001-03-30;165),))
-
-in favore dei collaboratori coordinati e continuativi e figure assimilate, le parole: «31 dicembre 2025» sono sostituite dalle seguenti: «31 dicembre 2026».
+b) al comma 10-ter, relativo agli obblighi contributivi delle amministrazioni pubbliche di cui al [decreto legislativo 30 marzo 2001, n. 165](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2001-03-30;165), in favore dei collaboratori coordinati e continuativi e figure assimilate, le parole: «31 dicembre 2025» sono sostituite dalle seguenti: «31 dicembre 2026».
 
 7. All'[articolo 9, comma 4, del decreto-legge 30 dicembre 2021, n. 228](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2021-12-30;228~art9-com4), convertito, con modificazioni, dalla [legge 25 febbraio 2022, n. 15](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2022-02-25;15), relativo al regime sanzionatorio per il mancato pagamento nei termini dei contributi previdenziali e assistenziali da parte delle pubbliche amministrazioni, le parole: «31 dicembre 2025» sono sostituite dalle seguenti: «31 dicembre 2026».
 
 8. All'[articolo 3 del decreto-legge 29 marzo 2024, n. 39](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2024-03-29;39~art3), convertito, con modificazioni, dalla [legge 23 maggio 2024, n. 67](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2024-05-23;67), in materia di trasmissione dei dati relativi alle spese agevolabili fiscalmente in connessione con il realizzarsi di eventi eccezionali, sono apportate le seguenti modificazioni:
 
-a) al comma 1, lettera c), le parole: «negli anni 2024 e 2025» sono sostituite dalle seguenti: «negli anni 2024, 2025 nonche' 2026 limitatamente agli interventi di cui all'articolo 2, comma 3-ter.1, del
+a) al comma 1, lettera c), le parole: «negli anni 2024 e 2025» sono sostituite dalle seguenti: «negli anni 2024, 2025 nonche' 2026 limitatamente agli interventi di cui all'articolo 2, comma 3-ter.1, del [decreto-legge 16 febbraio 2023, n. 11](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2023-02-16;11), convertito, con modificazioni, dalla [legge 11 aprile 2023, n. 38](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2023-04-11;38)»;
 
-((«[decreto-legge 16 febbraio 2023, n. 11](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2023-02-16;11), convertito, con modificazioni, dalla [legge 11 aprile 2023, n. 38](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2023-04-11;38)))
-
-»;
-
-b) al comma 2, lettera c), le parole: «negli anni 2024 e 2025» sono sostituite dalle seguenti: «negli anni 2024, 2025 nonche' 2026 limitatamente agli interventi di cui all'articolo 2, comma 3-ter.1, del
-
-(([decreto-legge 16 febbraio 2023, n. 11](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2023-02-16;11), convertito, con modificazioni, dalla [legge 11 aprile 2023, n. 38](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2023-04-11;38)))
-
-».
+b) al comma 2, lettera c), le parole: «negli anni 2024 e 2025» sono sostituite dalle seguenti: «negli anni 2024, 2025 nonche' 2026 limitatamente agli interventi di cui all'articolo 2, comma 3-ter.1, del [decreto-legge 16 febbraio 2023, n. 11](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2023-02-16;11), convertito, con modificazioni, dalla [legge 11 aprile 2023, n. 38](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2023-04-11;38)».
 
 9. All'[articolo 9-sexies del decreto-legge 11 giugno 2024, n. 76](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2024-06-11;76~art9sexies), convertito, con modificazioni, dalla [legge 8 agosto 2024, n. 111](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2024-08-08;111), relativo al contributo per l'autonoma sistemazione, sono apportate le seguenti modificazioni:
 
@@ -135,197 +85,59 @@ b) al comma 4, le parole: «di euro 2.400.000 per l'anno 2026» sono sostituite 
 
 10. All'[articolo 5-quaterdecies, del decreto-legge 31 ottobre 2022, n. 162](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2022-10-31;162~art5quaterdecies), convertito, con modificazioni, dalla [legge 30 dicembre 2022, n. 199](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2022-12-30;199), relativo alle disposizioni processuali per i provvedimenti relativi all'ammissione ai campionati professionistici, le parole: «31 dicembre 2025» sono sostituite dalle seguenti: «31 dicembre 2026».
 
-11. All'[articolo 9, comma 7, del decreto-legge 29 marzo 2024, n. 39](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2024-03-29;39~art9-com7), convertito
-
-((, con modificazioni,))
-
-dalla [legge 23 maggio 2024, n. 67](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2024-05-23;67), in materia di contributo di iscrizione al
-
-((Servizio))
-
-sanitario nazionale, le parole: «In considerazione dell'eccezionale afflusso di pellegrini e turisti previsto per le celebrazioni del Giubileo della Chiesa cattolica per l'anno 2025, per i titolari» sono sostituite dalle seguenti: «Per i titolari».
+11. All'[articolo 9, comma 7, del decreto-legge 29 marzo 2024, n. 39](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2024-03-29;39~art9-com7), convertito, con modificazioni, dalla [legge 23 maggio 2024, n. 67](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2024-05-23;67), in materia di contributo di iscrizione al Servizio sanitario nazionale, le parole: «In considerazione dell'eccezionale afflusso di pellegrini e turisti previsto per le celebrazioni del Giubileo della Chiesa cattolica per l'anno 2025, per i titolari» sono sostituite dalle seguenti: «Per i titolari».
 
 12. All'[articolo 18, comma 2, del decreto-legge 29 dicembre 2022, n. 198](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2022-12-29;198~art18-com2), convertito, con modificazioni, dalla [legge 24 febbraio 2023, n. 14](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2023-02-24;14), relativo alla durata dell'incarico di Commissario straordinario per il risanamento delle baraccopoli di Messina, le parole: «31 dicembre 2025» sono sostituite dalle seguenti: «31 dicembre 2026».
 
-13. All'articolo
+13. All'[articolo 11-ter del decreto-legge 1° aprile 2021, n. 44](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2021-04-01;44~art11ter), convertito, con modificazioni, dalla [legge 28 maggio 2021, n. 76](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2021-05-28;76), sono apportate le seguenti modificazioni:
 
-((11-ter del))
+a) al comma 4, relativo alla durata dell'incarico di sub-commissario per il risanamento delle baraccopoli di Messina, le parole: «sino al 31 dicembre 2025» sono sostituite dalle seguenti: «sino al 31 dicembre 2026»;
 
-[decreto-legge 1° aprile 2021, n. 44](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2021-04-01;44), convertito, con modificazioni, dalla [legge 28 maggio 2021, n. 76](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2021-05-28;76),
+b) dopo il comma 11, e' aggiunto il seguente: «11-bis. Entro il 31 marzo 2026, il Commissario straordinario trasmette alla Presidenza del Consiglio dei ministri e al Ministero dell'economia e delle finanze - Dipartimento della Ragioneria generale dello Stato una relazione sullo stato di attuazione degli interventi con relativo cronoprogramma procedurale e finanziario di realizzazione ai fini della verifica degli impatti sui saldi di finanza pubblica. La mancata trasmissione della relazione comporta la revoca automatica delle risorse di provenienza statale, che devono essere versate all'entrata del bilancio da parte del Commissario straordinario e restano acquisite all'erario.».
 
-((...))
-
-sono apportate le seguenti modificazioni:
-
-a) al comma 4,
-
-((relativo alla durata dell'incarico di sub-commissario per il risanamento delle baraccopoli di Messina,))
-
-le parole: «sino al 31 dicembre 2025» sono sostituite dalle seguenti: «sino al 31 dicembre 2026»;
-
-b) dopo il comma 11, e' aggiunto il seguente: «11-bis. Entro il 31 marzo 2026, il Commissario
-
-((straordinario))
-
-trasmette alla Presidenza del
-
-((Consiglio))
-
-dei ministri e al Ministero dell'economia e
-
-((delle))
-
-finanze - Dipartimento della
-
-((Ragioneria))
-
-generale dello Stato una relazione sullo stato di attuazione degli interventi con relativo cronoprogramma procedurale e finanziario di realizzazione ai fini della verifica degli impatti sui saldi di finanza pubblica. La mancata trasmissione della relazione comporta la revoca automatica delle risorse di provenienza statale
-
-((,))
-
-che devono essere versate all'entrata del bilancio da parte del Commissario
-
-((straordinario))
-
-e restano acquisite all'erario.».
-
-14. Agli oneri derivanti dai commi 12 e 13
-
-((,))
-
-lettera a), pari a euro 347.000 per l'anno 2026, si provvede mediante corrispondente riduzione del Fondo di cui all'[articolo 1, comma 200, della legge 23 dicembre 2014, n. 190](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2014-12-23;190~art1-com200).
-
-((
+14. Agli oneri derivanti dai commi 12 e 13, lettera a), pari a euro 347.000 per l'anno 2026, si provvede mediante corrispondente riduzione del Fondo di cui all'[articolo 1, comma 200, della legge 23 dicembre 2014, n. 190](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2014-12-23;190~art1-com200).
 
 14-bis. Il contributo di cui all'[articolo 30-quater, comma 2, del decreto-legge 30 aprile 2019, n. 34](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2019-04-30;34~art30quater-com2), convertito, con modificazioni, dalla [legge 28 giugno 2019, n. 58](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2019-06-28;58), e' concesso, alle condizioni e con le modalita' ivi previste, per l'anno 2026 nel limite di spesa di 2 milioni di euro, per favorire il completamento dell'attivita' di conversione in digitale degli archivi multimediali delle imprese radiofoniche private che abbiano svolto attivita' di informazione di interesse generale ai sensi della [legge 7 agosto 1990, n. 230](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-08-07;230).
 
-14-ter. Agli oneri derivanti dall'attuazione del comma 14-bis, pari a 2 milioni di euro per l'anno 2026, si provvede a valere sulle risorse del Fondo unico per il pluralismo e l'innovazione digitale dell'informazione e dell'editoria, di cui all'[articolo 1, comma 1, della legge 26 ottobre 2016, n. 198](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2016-10-26;198~art1-com1), nell'ambito della quota destinata agli interventi di competenza della Presidenza del Consiglio dei ministri))
+14-ter. Agli oneri derivanti dall'attuazione del comma 14-bis, pari a 2 milioni di euro per l'anno 2026, si provvede a valere sulle risorse del Fondo unico per il pluralismo e l'innovazione digitale dell'informazione e dell'editoria, di cui all'[articolo 1, comma 1, della legge 26 ottobre 2016, n. 198](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2016-10-26;198~art1-com1), nell'ambito della quota destinata agli interventi di competenza della Presidenza del Consiglio dei ministri.
 
-15. Gli incarichi individuali conferiti ai sensi dell'[articolo 7, comma 6, del decreto legislativo 30 marzo 2001, n. 165](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2001-03-30;165~art7-com6)
+15. Gli incarichi individuali conferiti ai sensi dell'[articolo 7, comma 6, del decreto legislativo 30 marzo 2001, n. 165](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2001-03-30;165~art7-com6), e i contratti di lavoro a tempo determinato, ivi comprese le forme contrattuali flessibili, di cui all'articolo 2 dell'ordinanza del Capo del [Dipartimento della protezione civile n. 935 del 14 ottobre 2022, pubblicata nella Gazzetta Ufficiale n. 248 del 22 ottobre 2022](http://www.gazzettaufficiale.it/gazzetta/serie_generale/caricaDettaglio?dataPubblicazioneGazzetta=2022-10-22&numeroGazzetta=248), e successive modificazioni ed integrazioni, sono prorogati fino al 31 dicembre 2026 alle medesime condizioni giuridiche ed economiche, al fine di assicurare il supporto ai procedimenti amministrativi di gestione dell'emergenza in conseguenza degli eccezionali eventi meteorologici verificatisi, a partire dal giorno 18 settembre 2024, nel territorio della fascia costiera della Regione Marche, per i quali e' stato dichiarato lo stato di emergenza con deliberazione del Consiglio dei ministri del 21 settembre 2024, [pubblicata nella Gazzetta Ufficiale n. 228 del 28 settembre 2024](http://www.gazzettaufficiale.it/gazzetta/serie_generale/caricaDettaglio?dataPubblicazioneGazzetta=2024-09-28&numeroGazzetta=228), nonche' il supporto ai procedimenti di rientro nell'ordinario ai sensi dell'articolo 26 del codice della protezione civile, di cui al [decreto legislativo 2 gennaio 2018, n. 1](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2018-01-02;1), conseguenti agli eccezionali eventi meteorologici verificatisi a partire dal giorno 15 settembre 2022 in parte del territorio delle province di Ancona e Pesaro-Urbino, dei comuni di Camerino, di Montecassiano e di Treia, in provincia di Macerata, e dei comuni situati nella parte settentrionale della provincia di Macerata, per i quali e' stato dichiarato lo stato di emergenza di rilievo nazionale con deliberazione del Consiglio dei ministri del 16 settembre 2022, [pubblicata nella Gazzetta Ufficiale n. 221 del 21 settembre 2022](http://www.gazzettaufficiale.it/gazzetta/serie_generale/caricaDettaglio?dataPubblicazioneGazzetta=2022-09-21&numeroGazzetta=221), e successive modifiche ed estensioni. Alle proroghe dei suddetti contratti non sono applicabili le sanzioni previste dalla normativa vigente. Agli oneri derivanti dall'attuazione delle disposizioni di cui al presente comma, nel limite di spesa di euro 481.626 per il 2026, si provvede a carico delle risorse disponibili nella contabilita' speciale di cui all'articolo 9, comma 2, dell'ordinanza del Capo del [Dipartimento della Protezione Civile n. 922 del 17 settembre 2022, pubblicata nella Gazzetta Ufficiale n. 223 del 23 settembre 2022](http://www.gazzettaufficiale.it/gazzetta/serie_generale/caricaDettaglio?dataPubblicazioneGazzetta=2022-09-23&numeroGazzetta=223), la cui durata e' prorogata fino al 31 dicembre 2026.
 
-((,))
+16. In relazione allo stato di emergenza determinatosi nel settore del traffico e della mobilita' nell'asse autostradale Corridoio V dell'autostrada A4 nella tratta Quarto d'Altino - Trieste e nel raccordo autostradale Villesse - Gorizia, dichiarato con [decreto del Presidente del Consiglio dei ministri dell'11 luglio 2008, pubblicato nella Gazzetta Ufficiale n. 175 del 28 luglio 2008](http://www.gazzettaufficiale.it/gazzetta/serie_generale/caricaDettaglio?dataPubblicazioneGazzetta=2008-07-28&numeroGazzetta=175), e prorogato da ultimo fino al 31 dicembre 2025 dal [decreto del Presidente del Consiglio dei ministri del 23 dicembre 2024, pubblicato nella Gazzetta Ufficiale n. 17 del 22 gennaio 2025](http://www.gazzettaufficiale.it/gazzetta/serie_generale/caricaDettaglio?dataPubblicazioneGazzetta=2025-01-22&numeroGazzetta=17), si provvede, in deroga all'[articolo 6-ter, commi 1](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2012-06-20;79~art6ter-com1) e [2, del decreto-legge 20 giugno 2012, n. 79](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2012-06-20;79~art6ter-com2), convertito, con modificazioni, dalla [legge 7 agosto 2012, n. 131](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2012-08-07;131), mediante una o piu' ordinanze del Capo del Dipartimento della protezione civile da adottare, entro il 31 gennaio 2026, ai sensi dell'articolo 26 del codice della protezione civile, di cui al [decreto legislativo 2 gennaio 2018, n. 1](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2018-01-02;1), al fine di consentire l'approvazione dei progetti esecutivi e il completamento delle attivita' e delle funzioni ancora in corso di definizione gia' avviate dal Commissario delegato nominato ai sensi dell'articolo 1 dell'ordinanza del [Presidente del Consiglio dei ministri n. 3702 del 5 settembre 2008, pubblicata nella Gazzetta Ufficiale n. 213 dell'11 settembre 2008](http://www.gazzettaufficiale.it/gazzetta/serie_generale/caricaDettaglio?dataPubblicazioneGazzetta=2008-09-11&numeroGazzetta=213).
 
-e i contratti di lavoro a tempo determinato
+16-bis. Le disposizioni di cui agli [articoli 19, comma 1](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2026-01-26;9~art19-com1), [22](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2026-01-26;9~art19-com22) e [26 della legge 26 gennaio 2026, n. 9](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2026-01-26;9~art19-com26), limitatamente all'obbligatorieta' dell'iscrizione nel registro degli operatori subacquei e iperbarici professionali ai fini dell'esercizio di lavori subacquei e iperbarici, nonche' all'articolo 19, comma 2, lettera c), della medesima [legge n. 9 del 2026](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2026;9), limitatamente alla prescrizione che prevede l'obbligo di immersione in coppia con un operatore tecnico subacqueo (OTS) per il personale tecnico o scientifico non in possesso della qualifica professionale di OTS, si applicano a decorrere dal 1° gennaio 2027.
 
-((, ivi comprese le forme contrattuali flessibili,))
+17. In considerazione della necessita' di garantire, per il tramite della struttura costituita ai sensi dell'[articolo 2, comma 4, del decreto-legge 12 ottobre 2023, n. 140](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2023-10-12;140~art2-com4), convertito, con modificazioni, dalla [legge 7 dicembre 2023, n. 183](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2023-12-07;183), l'attuazione del piano straordinario di analisi della vulnerabilita' delle zone edificate direttamente interessate dal fenomeno bradisismico, il termine di durata della medesima struttura, di cui all'articolo 2, comma 4, primo periodo, del medesimo [decreto-legge n. 140 del 2023](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2023;140), e' prorogato al 31 dicembre 2026. Conseguentemente, alle medesime condizioni giuridiche ed economiche, sono prorogati gli incarichi relativi al contingente di personale di cui all'articolo 2, comma 4, terzo periodo, del [decreto-legge n. 140 del 2023](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2023;140) nel limite di spesa di 1.159.014 euro per l'anno 2026. Entro il medesimo limite di spesa di cui al periodo precedente e' prorogata fino al 31 dicembre 2026, altresi', l'assegnazione del personale collocato fuori ruolo o in posizione di comando, distacco o altro analogo istituto, di cui all'articolo 2, comma 4, terzo periodo, del [decreto-legge n. 140 del 2023](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2023;140).
 
-di cui all'articolo 2 dell'ordinanza del Capo del [Dipartimento della protezione civile n. 935 del 14 ottobre 2022](http://www.normattiva.it/uri-res/N2Ls?urn:nir:dipartimento.protezione.civile::2022-10-14;935)
+18. Il Dipartimento della protezione civile della Presidenza del Consiglio dei ministri, senza nuovi o maggiori oneri per la finanza pubblica, supporta altresi' gli enti locali, nell'ambito delle attivita' di cui all'articolo 2 del codice della protezione civile, di cui al [decreto legislativo 2 gennaio 2018, n. 1](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2018-01-02;1), per il tramite della struttura costituita ai sensi dell'[articolo 2, comma 4, del decreto-legge 12 ottobre 2023, n. 140](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2023-10-12;140~art2-com4), convertito, con modificazioni, dalla [legge 7 dicembre 2023, n. 183](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2023-12-07;183), nel monitoraggio degli interventi di riduzione della vulnerabilita' del patrimonio edilizio privato di cui all'[articolo 1, comma 694, della legge 30 dicembre 2024, n. 207](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2024-12-30;207~art1-com694).
 
-((, [pubblicata nella Gazzetta Ufficiale n. 248 del 22 ottobre 2022](http://www.gazzettaufficiale.it/gazzetta/serie_generale/caricaDettaglio?dataPubblicazioneGazzetta=2022-10-22&numeroGazzetta=248),))
+19. Agli oneri derivanti dall'attuazione del comma 17, pari a euro 1.159.014 per l'anno 2026, si provvede mediante corrispondente riduzione del Fondo di cui all'[articolo 1, comma 200, della legge 23 dicembre 2014, n. 190](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2014-12-23;190~art1-com200).
 
-e successive modificazioni ed integrazioni, sono prorogati fino al 31 dicembre 2026 alle medesime condizioni giuridiche ed economiche, al fine di assicurare il supporto ai procedimenti amministrativi di gestione dell'emergenza in conseguenza degli eccezionali eventi
+19-bis. La misura di cui all'[articolo 2, comma 5, del decreto-legge 30 dicembre 2016, n. 244](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2016-12-30;244~art2-com5), convertito, con modificazioni, dalla [legge 27 febbraio 2017, n. 19](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2017-02-27;19), in materia di rimborso in favore della societa' Poste italiane Spa delle riduzioni applicate alle tariffe per la spedizione di prodotti editoriali, continua ad applicarsi dal 1° maggio 2026 al 31 dicembre 2031, entro il limite di 30 milioni di euro annui a valere sulle risorse del Fondo unico per il pluralismo e l'innovazione digitale dell'informazione e dell'editoria, di cui all'[articolo 1 della legge 26 ottobre 2016, n. 198](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2016-10-26;198~art1), nell'ambito della quota destinata agli interventi di competenza della Presidenza del Consiglio dei ministri, senza incidere sulla quota spettante al Ministero delle imprese e del made in Italy. L'efficacia della presente disposizione e' subordinata all'autorizzazione della Commissione europea ai sensi dell'[articolo 108, paragrafo 3, del Trattato sul funzionamento dell'Unione europea](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:12008E/TXT).
 
-((meteorologici))
+19-ter. All'[articolo 1, comma 1-ter, del decreto-legge 28 marzo 2025, n. 36](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2025-03-28;36~art1-com1ter), convertito, con modificazioni, dalla [legge 23 maggio 2025, n. 74](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2025-05-23;74), relativo al termine per la presentazione della dichiarazione della volonta' di acquisto della cittadinanza da parte del minore, le parole: "31 maggio 2026" sono sostituite dalle seguenti: "31 maggio 2029".
 
-verificatisi, a partire dal giorno 18 settembre 2024, nel territorio della fascia costiera della Regione Marche, per i quali e' stato dichiarato lo stato di emergenza
+19-quater. All'[articolo 21-bis, comma 1, del decreto-legge 27 dicembre 2024, n. 202](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2024-12-27;202~art21bis-com1), convertito, con modificazioni, dalla [legge 21 febbraio 2025, n. 15](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2025-02-21;15), in materia di eleggibilita' a presidente della provincia, le parole: "e 2026" sono sostituite dalle seguenti: ", 2026 e 2027".
 
-((con deliberazione))
+19-quinquies. Il [comma 4-bis dell'articolo 1 della legge 14 gennaio 1994, n. 20](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-01-14;20~art1-com4bis), relativo all'obbligo di assicurazione nel caso di assunzione di incarichi comportanti la gestione di risorse pubbliche e la sottoposizione alla giurisdizione della Corte dei conti, introdotto dall'[articolo 1, comma 1, lettera a), numero 7), della legge 7 gennaio 2026, n. 1](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2026-01-07;1~art1-com1-leta-num7), si applica a decorrere dal 1° gennaio 2027.
 
-del Consiglio dei ministri del 21 settembre 2024, [pubblicata nella Gazzetta Ufficiale n. 228 del 28 settembre 2024](http://www.gazzettaufficiale.it/gazzetta/serie_generale/caricaDettaglio?dataPubblicazioneGazzetta=2024-09-28&numeroGazzetta=228), nonche' il supporto ai procedimenti di
+19-sexies. All'[articolo 1 della legge 30 dicembre 2024, n. 207](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2024-12-30;207~art1), sono apportate le seguenti modificazioni:
 
-((rientro nell'ordinario))
-
-ai sensi dell'articolo 26 del codice della protezione civile, di cui al [decreto legislativo 2 gennaio 2018, n. 1](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2018-01-02;1), conseguenti agli eccezionali eventi meteorologici verificatisi a partire dal giorno 15 settembre 2022 in parte del territorio delle province di Ancona e Pesaro-Urbino, dei comuni di Camerino, di Montecassiano e di Treia, in provincia di Macerata, e dei comuni situati nella parte settentrionale della provincia di Macerata, per i quali e' stato dichiarato lo stato di emergenza di rilievo nazionale con
-
-((deliberazione del))
-
-Consiglio dei ministri del 16 settembre 2022, [pubblicata nella Gazzetta Ufficiale n. 221 del 21 settembre 2022](http://www.gazzettaufficiale.it/gazzetta/serie_generale/caricaDettaglio?dataPubblicazioneGazzetta=2022-09-21&numeroGazzetta=221), e successive modifiche ed estensioni. Alle proroghe dei suddetti contratti non sono applicabili le sanzioni previste dalla normativa vigente. Agli oneri derivanti dall'attuazione delle disposizioni di cui al presente comma,
-
-((...))
-
-nel limite di spesa di euro 481.626 per il 2026, si provvede a carico delle risorse disponibili nella contabilita' speciale di cui all'
-
-((articolo 9, comma 2, dell'ordinanza del Capo del Dipartimento))
-
-della Protezione Civile n. 922 del 17 settembre 2022,
-
-(([pubblicata nella Gazzetta Ufficiale n. 223 del 23 settembre 2022](http://www.gazzettaufficiale.it/gazzetta/serie_generale/caricaDettaglio?dataPubblicazioneGazzetta=2022-09-23&numeroGazzetta=223), la cui durata e' prorogata))
-
-fino al 31 dicembre 2026.
-
-16. In relazione allo stato di emergenza determinatosi nel settore del traffico e della mobilita' nell'asse autostradale Corridoio V dell'autostrada A4 nella tratta Quarto d'Altino - Trieste e nel raccordo autostradale Villesse - Gorizia, dichiarato con [decreto del Presidente del Consiglio dei ministri dell'11 luglio 2008, pubblicato nella Gazzetta Ufficiale n. 175 del 28 luglio 2008](http://www.gazzettaufficiale.it/gazzetta/serie_generale/caricaDettaglio?dataPubblicazioneGazzetta=2008-07-28&numeroGazzetta=175)
-
-((,))
-
-e prorogato da ultimo fino al 31 dicembre 2025 dal [decreto del Presidente del Consiglio dei ministri del 23 dicembre 2024, pubblicato nella Gazzetta Ufficiale n. 17 del 22 gennaio 2025](http://www.gazzettaufficiale.it/gazzetta/serie_generale/caricaDettaglio?dataPubblicazioneGazzetta=2025-01-22&numeroGazzetta=17), si provvede, in deroga all'[articolo 6-ter, commi 1](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2012-06-20;79~art6ter-com1) e [2, del decreto-legge 20 giugno 2012, n. 79](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2012-06-20;79~art6ter-com2), convertito, con modificazioni, dalla [legge 7 agosto 2012, n. 131](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2012-08-07;131), mediante una o piu' ordinanze del Capo del Dipartimento della protezione civile da adottare, entro il 31 gennaio 2026, ai sensi dell'articolo 26 del codice della protezione civile, di cui al [decreto legislativo 2 gennaio 2018, n. 1](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2018-01-02;1), al fine di consentire l'approvazione dei progetti esecutivi e il completamento delle attivita' e delle funzioni ancora in corso di definizione gia' avviate dal Commissario delegato nominato ai sensi dell'articolo 1 dell'ordinanza del [Presidente del Consiglio dei ministri n. 3702 del 5 settembre 2008](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.consiglio::2008-09-05;3702)
-
-((, [pubblicata nella Gazzetta Ufficiale n. 213 dell'11 settembre 2008](http://www.gazzettaufficiale.it/gazzetta/serie_generale/caricaDettaglio?dataPubblicazioneGazzetta=2008-09-11&numeroGazzetta=213)))
-
-.
-
-((16-bis. Le disposizioni di cui agli [articoli 19, comma 1](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2026-01-26;9~art19-com1), [22](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2026-01-26;9~art19-com22) e [26 della legge 26 gennaio 2026, n. 9](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2026-01-26;9~art19-com26), limitatamente all'obbligatorieta' dell'iscrizione nel registro degli operatori subacquei e iperbarici professionali ai fini dell'esercizio di lavori subacquei e iperbarici, nonche' all'articolo 19, comma 2, lettera c), della medesima [legge n. 9 del 2026](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2026;9), limitatamente alla prescrizione che prevede l'obbligo di immersione in coppia con un operatore tecnico subacqueo (OTS) per il personale tecnico o scientifico non in possesso della qualifica professionale di OTS, si applicano a decorrere dal 1° gennaio 2027))
-
-17. In considerazione della necessita' di garantire, per il tramite della struttura costituita ai sensi dell'[articolo 2, comma 4, del decreto-legge 12 ottobre 2023, n. 140](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2023-10-12;140~art2-com4), convertito, con modificazioni, dalla [legge 7 dicembre 2023, n. 183](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2023-12-07;183), l'attuazione del piano straordinario di analisi della vulnerabilita' delle zone edificate direttamente interessate dal fenomeno bradisismico, il termine di durata della medesima struttura
-
-((,))
-
-di cui all'articolo 2, comma 4, primo periodo, del medesimo [decreto-legge n. 140 del 2023](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2023;140), e' prorogato al 31 dicembre 2026. Conseguentemente, alle medesime condizioni giuridiche ed economiche, sono prorogati gli incarichi relativi al contingente di personale di cui all'articolo 2, comma 4, terzo periodo, del [decreto-legge n. 140 del 2023](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2023;140) nel limite di spesa di 1.159.014 euro per l'anno 2026. Entro il medesimo limite di spesa di cui al periodo precedente
-
-((e' prorogata))
-
-fino al 31 dicembre 2026, altresi',
-
-((l'assegnazione del personale collocato fuori ruolo o in posizione di comando, distacco o altro analogo istituto,))
-
-di cui all'articolo 2, comma 4, terzo periodo, del [decreto-legge n. 140 del 2023](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2023;140).
-
-18. Il Dipartimento della protezione civile della Presidenza del Consiglio dei ministri, senza nuovi o maggiori oneri per la finanza pubblica, supporta altresi' gli enti locali, nell'ambito delle attivita'
-
-((codice della protezione civile, di cui al))
-
-[decreto legislativo 2 gennaio 2018, n. 1](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2018-01-02;1), per il tramite della struttura costituita ai sensi dell'articolo 2, comma 4, del
-
-(([decreto-legge 12 ottobre 2023, n. 140](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2023-10-12;140), convertito, con modificazioni, dalla [legge 7 dicembre 2023, n. 183](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2023-12-07;183)))
-
-, nel monitoraggio degli interventi di riduzione della vulnerabilita' del patrimonio edilizio privato di cui all'articolo 1, comma 694, della legge
-
-((30 dicembre 2024, n. 207))
-
-.
-
-19. Agli oneri derivanti dall'attuazione del comma 17,
-
-((pari a))
-
-euro 1.159.014 per l'anno 2026, si provvede mediante corrispondente riduzione del Fondo di cui all'[articolo 1, comma 200, della legge 23 dicembre 2014, n. 190](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2014-12-23;190~art1-com200).
-
-19-bis. 
-
-((La misura di cui all'[articolo 2, comma 5, del decreto-legge 30 dicembre 2016, n. 244](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2016-12-30;244~art2-com5), convertito, con modificazioni, dalla [legge 27 febbraio 2017, n. 19](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2017-02-27;19), in materia di rimborso in favore della societa' Poste italiane Spa delle riduzioni applicate alle tariffe per la spedizione di prodotti editoriali, continua ad applicarsi dal 1° maggio 2026 al 31 dicembre 2031, entro il limite di 30 milioni di euro annui a valere sulle risorse del Fondo unico per il pluralismo e l'innovazione digitale dell'informazione e dell'editoria, di cui all'[articolo 1 della legge 26 ottobre 2016, n. 198](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2016-10-26;198~art1), nell'ambito della quota destinata agli interventi di competenza della Presidenza del Consiglio dei ministri, senza incidere sulla quota spettante al Ministero delle imprese e del made in Italy. L'efficacia della presente disposizione e' subordinata all'autorizzazione della Commissione europea ai sensi dell'[articolo 108, paragrafo 3, del Trattato sul funzionamento dell'Unione europea](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:12008E/TXT).))
-
-19-ter. 
-
-((All'[articolo 1, comma 1-ter, del decreto-legge 28 marzo 2025, n. 36](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2025-03-28;36~art1-com1ter), convertito, con modificazioni, dalla [legge 23 maggio 2025, n. 74](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2025-05-23;74), relativo al termine per la presentazione della dichiarazione della volonta' di acquisto della cittadinanza da parte del minore, le parole: "31 maggio 2026" sono sostituite dalle seguenti: "31 maggio 2029".))
-
-19-quater. 
-
-((All'[articolo 21-bis, comma 1, del decreto-legge 27 dicembre 2024, n. 202](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2024-12-27;202~art21bis-com1), convertito, con modificazioni, dalla [legge 21 febbraio 2025, n. 15](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2025-02-21;15), in materia di eleggibilita' a presidente della provincia, le parole: "e 2026" sono sostituite dalle seguenti: ", 2026 e 2027".))
-
-19-quinquies. 
-
-((Il [comma 4-bis dell'articolo 1 della legge 14 gennaio 1994, n. 20](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-01-14;20~art1-com4bis), relativo all'obbligo di assicurazione nel caso di assunzione di incarichi comportanti la gestione di risorse pubbliche e la sottoposizione alla giurisdizione della Corte dei conti, introdotto dall'[articolo 1, comma 1, lettera a), numero 7), della legge 7 gennaio 2026, n. 1](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2026-01-07;1~art1-com1-leta-num7), si applica a decorrere dal 1° gennaio 2027.))
-
-19-sexies. 
-
-((All'[articolo 1 della legge 30 dicembre 2024, n. 207](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2024-12-30;207~art1), sono apportate le seguenti modificazioni:))
-
-a)
-
-((al comma 432, relativo al contratto tra il Ministero dello sviluppo economico e la societa' Centro di produzione Spa, stipulato ai sensi dell'[articolo 1, commi 397](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2019-12-27;160~art1-com397) e [398, della legge 27 dicembre 2019, n. 160](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2019-12-27;160~art1-com398), le parole: "e' prorogato fino all'anno 2025" sono sostituite dalle seguenti: "e' prorogato fino all'anno 2026";))
+a) al comma 432, relativo al contratto tra il Ministero dello sviluppo economico e la societa' Centro di produzione Spa, stipulato ai sensi dell'[articolo 1, commi 397](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2019-12-27;160~art1-com397) e [398, della legge 27 dicembre 2019, n. 160](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2019-12-27;160~art1-com398), le parole: "e' prorogato fino all'anno 2025" sono sostituite dalle seguenti: "e' prorogato fino all'anno 2026";
 
 b)
 
-((al comma 433, relativo al servizio di trasmissione radiofonica delle sedute parlamentari, dopo le parole: "per il 2025" sono inserite le seguenti: "e di 4 milioni di euro per il 2026".))
+((al comma 433, relativo al servizio di trasmissione radiofonica delle sedute parlamentari, le parole: 'per il 2025 e di 4 milioni di euro per il 2026' sono sostituite dalle seguenti: 'per ciascuno degli anni 2025 e 2026'))
+
+.
 
 19-septies. 
 
-((La Camera dei deputati e il Senato della Repubblica possono valutare la possibilita' di stipulare accordi con il soggetto emittente per lo svolgimento del servizio di trasmissione radiofonica di cui all'[articolo 1, comma 433, della legge 30 dicembre 2024, n. 207](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2024-12-30;207~art1-com433).))
-
-19-octies. 
-
-((Agli oneri derivanti dal comma 19-sexies, pari a 4 milioni di euro per l'anno 2026, si provvede mediante corrispondente riduzione dello stanziamento del fondo speciale di parte corrente iscritto, ai fini del bilancio triennale 2026-2028, nell'ambito del programma "Fondi di riserva e speciali" della missione "Fondi da ripartire" dello stato di previsione del Ministero dell'economia e delle finanze per l'anno 2026, allo scopo parzialmente utilizzando l'accantonamento relativo al medesimo Ministero))
+((COMMA ABROGATO DAL [D.L. 19 FEBBRAIO 2026, N. 19](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2026-02-19;19), CONVERTITO CON MODIFICAZIONI DALLA [L. 20 APRILE 2026, N. 50](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2026-04-20;50)))
 
 .
+
+19-octies. Agli oneri derivanti dal comma 19-sexies, pari a 4 milioni di euro per l'anno 2026, si provvede mediante corrispondente riduzione dello stanziamento del fondo speciale di parte corrente iscritto, ai fini del bilancio triennale 2026-2028, nell'ambito del programma "Fondi di riserva e speciali" della missione "Fondi da ripartire" dello stato di previsione del Ministero dell'economia e delle finanze per l'anno 2026, allo scopo parzialmente utilizzando l'accantonamento relativo al medesimo Ministero.
 
 Art. 2
 ------
@@ -427,93 +239,47 @@ Proroga di termini in materie di competenza del Ministero dell'economia e delle 
 
 5. All'[articolo 205, comma 1, del testo unico delle disposizioni legislative in materia di imposta di registro](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1986-04-26;131~art205-com1) e di altri tributi indiretti, di cui al [decreto legislativo 1° agosto 2025, n. 123](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2025-08-01;123), le parole: «1° gennaio 2026» sono sostituite dalle seguenti: «1° gennaio 2027».
 
-6. All'articolo
+6. All'[articolo 16-sexies del decreto-legge 21 ottobre 2021, n. 146](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2021-10-21;146~art16sexies), convertito, con modificazioni, dalla [legge 17 dicembre 2021, n. 215](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2021-12-17;215), relativo alla disciplina dei contratti di locazione passiva stipulati dalle Amministrazioni statali, al comma 1, alinea, relativo alle riduzioni del canone mensile, le parole: «31 dicembre 2025» sono sostituite dalle seguenti: «31 dicembre 2026».
 
-((16-sexies del))
+7. Nelle more del riordino della disciplina prevista dall'[articolo 1, commi 2](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2009-12-31;196~art1-com2) e [3 della legge 31 dicembre 2009, n. 196](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2009-12-31;196~art1-com3), le disposizioni di cui all'[articolo 16-sexies, comma 2, del decreto-legge 21 ottobre 2021, n. 146](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2021-10-21;146~art16sexies-com2), convertito, con modificazioni, dalla [legge 17 dicembre 2021, n. 215](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2021-12-17;215), si applicano sino al 30 settembre 2026. All'obbligo di comunicazione previsto dal secondo periodo del citato [comma 2 dell'articolo 16-sexies del decreto-legge n. 146 del 2021](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2021;146~art16sexies-com2) la societa' AMCO S.p.A. adempie mensilmente; in caso di inadempimento cessano gli effetti della disposizione di cui al primo periodo del presente comma.
 
-[decreto-legge 21 ottobre 2021, n. 146](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2021-10-21;146), convertito, con modificazioni, dalla [legge 17 dicembre 2021, n. 215](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2021-12-17;215), relativo alla disciplina dei contratti di locazione passiva stipulati dalle Amministrazioni statali, al comma 1, alinea, relativo alle riduzioni del canone mensile, le parole: «31 dicembre 2025» sono sostituite dalle seguenti: «31 dicembre 2026».
+8. All'[articolo 15-bis, comma 1, del decreto-legge 24 febbraio 2023, n. 13](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2023-02-24;13~art15bis-com1), convertito, con modificazioni, dalla [legge 21 aprile 2023, n. 41](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2023-04-21;41), relativo al termine per la presentazione all'Agenzia del demanio delle istanze di regioni, comuni, province e citta' metropolitane per il trasferimento in proprieta', a titolo gratuito, dei beni immobili del demanio storico-artistico o del patrimonio disponibile dello Stato interessati da progetti di riqualificazione finanziati, o da finanziare, in tutto o in parte, con risorse del Piano nazionale di ripresa e resilienza, del Piano nazionale per gli investimenti complementari o del Piano nazionale integrato per l'energia e il clima, le parole: «31 dicembre 2025» sono sostituite dalle seguenti: «31 dicembre 2026».
 
-7. Nelle more del riordino della disciplina prevista dall'articolo 1, commi 2 e 3 della
+9. All'[articolo 36, comma 56-ter, del decreto legislativo 29 maggio 2017, n. 95](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2017-05-29;95~art36-com56ter), relativo alla rideterminazione delle promozioni complessive al grado di colonnello del Corpo della guardia di finanza, le parole: «Per gli anni dal 2022 al 2026» sono sostituite dalle seguenti: «Per gli anni dal 2022 al 2027».
 
-(([legge 31 dicembre 2009, n. 196](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2009-12-31;196)))
+10. All'[articolo 1-ter, comma 1-bis, del decreto-legge 29 dicembre 2022, n. 198](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2022-12-29;198~art1ter-com1bis), convertito, con modificazioni, dalla [legge 24 febbraio 2023, n. 14](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2023-02-24;14), relativo agli importi e ai quantitativi degli strumenti di acquisto e negoziazione di servizi di connettivita' del Sistema pubblico di connettivita' realizzati dalla societa' Consip S.p.A. e dai soggetti aggregatori, le parole: «31 dicembre 2025», ovunque ricorrono, sono sostituite dalle seguenti: «31 dicembre 2026».
 
-, le disposizioni di cui all'[articolo 16-sexies, comma 2, del decreto-legge 21 ottobre 2021, n. 146](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2021-10-21;146~art16sexies-com2), convertito, con modificazioni, dalla [legge 17 dicembre 2021, n. 215](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2021-12-17;215), si applicano sino al 30 settembre 2026. All'obbligo di comunicazione previsto dal secondo periodo
+10-bis. La durata dell'Accordo quadro avente ad oggetto l'affidamento di servizi applicativi in ottica cloud per le pubbliche amministrazioni centrali - seconda edizione - ID 2483 e' prorogata fino al 20 settembre 2026 ovvero fino all'effettiva aggiudicazione dell'Accordo quadro avente ad oggetto servizi applicativi in ottica cloud per le pubbliche amministrazioni centrali - ID 2860.
 
-((del citato [comma 2 dell'articolo 16-sexies del decreto-legge n. 146 del 2021](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2021;146~art16sexies-com2) la societa' AMCO S.p.A. adempie mensilmente;))
-
-in caso di inadempimento cessano gli effetti della disposizione di cui al primo periodo del presente comma.
-
-8. All'[articolo 15-bis, comma 1, del decreto-legge 24 febbraio 2023, n. 13](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2023-02-24;13~art15bis-com1), convertito, con modificazioni, dalla [legge 21 aprile 2023, n. 41](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2023-04-21;41), relativo al termine per la presentazione all'Agenzia del demanio delle istanze di regioni, comuni, province e citta' metropolitane per il trasferimento in proprieta', a titolo gratuito, dei beni immobili del demanio storico-artistico o del patrimonio disponibile dello Stato interessati da progetti di riqualificazione finanziati, o da finanziare, in tutto o in parte, con risorse
-
-((del Piano nazionale di ripresa e resilienza, del Piano nazionale per gli investimenti complementari o del Piano nazionale integrato per l'energia e il clima))
-
-, le parole: «31 dicembre 2025» sono sostituite dalle seguenti: «31 dicembre 2026».
-
-9. All'[articolo 36, comma 56-ter, del decreto legislativo 29 maggio 2017, n. 95](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2017-05-29;95~art36-com56ter), relativo alla rideterminazione delle promozioni complessive al grado di colonnello
-
-((del Corpo))
-
-della guardia di finanza, le parole: «Per gli anni dal 2022 al 2026» sono sostituite dalle seguenti: «Per gli anni dal 2022 al 2027».
-
-10. All'[articolo 1-ter, comma 1-bis, del decreto-legge 29 dicembre 2022, n. 198](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2022-12-29;198~art1ter-com1bis), convertito, con modificazioni, dalla [legge 24 febbraio 2023, n. 14](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2023-02-24;14), relativo agli importi e ai quantitativi degli strumenti di acquisto e negoziazione di servizi di connettivita' del Sistema pubblico di connettivita' realizzati
-
-((dalla societa' Consip))
-
-S.p.A. e dai soggetti aggregatori, le parole: «31 dicembre 2025», ovunque ricorrono, sono sostituite dalle seguenti: «31 dicembre 2026».
-
-10-bis. 
-
-((La durata dell'Accordo quadro avente ad oggetto l'affidamento di servizi applicativi in ottica cloud per le pubbliche amministrazioni centrali - seconda edizione - ID 2483 e' prorogata fino al 20 settembre 2026 ovvero fino all'effettiva aggiudicazione dell'Accordo quadro avente ad oggetto servizi applicativi in ottica cloud per le pubbliche amministrazioni centrali - ID 2860))
-
-.
+((1))
 
 11. Il termine di cui all'[articolo 106, comma 7, del decreto-legge 17 marzo 2020, n. 18](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2020-03-17;18~art106-com7), convertito, con modificazioni, dalla [legge 24 aprile 2020, n. 27](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2020-04-24;27), in materia di svolgimento delle assemblee di societa' ed enti, e' prorogato al 30 settembre 2026.
 
-11-bis. 
+11-bis. In deroga a quanto previsto dall'[articolo 35, comma 4, del decreto legislativo 30 marzo 2001, n. 165](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2001-03-30;165~art35-com4), il termine per l'utilizzo da parte dell'Agenzia delle entrate delle risorse finanziarie necessarie per l'assunzione di trentadue dirigenti mediante specifico corso-concorso, indetto dalla Scuola nazionale dell'amministrazione, per il reclutamento di dirigenti di seconda fascia con professionalita' tecnica in materia fiscale, tributaria e catastale da assegnare al Ministero dell'economia e delle finanze e alle agenzie fiscali, da avviare ai sensi dell'[articolo 1-ter del decreto-legge 22 giugno 2023, n. 75](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2023-06-22;75~art1ter), convertito, con modificazioni, dalla [legge 10 agosto 2023, n. 112](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2023-08-10;112), e' prorogato al 31 dicembre 2028.
 
-((In deroga a quanto previsto dall'[articolo 35, comma 4, del decreto legislativo 30 marzo 2001, n. 165](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2001-03-30;165~art35-com4), il termine per l'utilizzo da parte dell'Agenzia delle entrate delle risorse finanziarie necessarie per l'assunzione di trentadue dirigenti mediante specifico corso-concorso, indetto dalla Scuola nazionale dell'amministrazione, per il reclutamento di dirigenti di seconda fascia con professionalita' tecnica in materia fiscale, tributaria e catastale da assegnare al Ministero dell'economia e delle finanze e alle agenzie fiscali, da avviare ai sensi dell'[articolo 1-ter del decreto-legge 22 giugno 2023, n. 75](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2023-06-22;75~art1ter), convertito, con modificazioni, dalla [legge 10 agosto 2023, n. 112](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2023-08-10;112), e' prorogato al 31 dicembre 2028.))
+11-ter. Le facolta' assunzionali relative ad annualita' pregresse all'anno 2025 autorizzate nell'anno 2025 con i provvedimenti di cui all'[articolo 35, comma 4, del decreto legislativo 30 marzo 2001, n. 165](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2001-03-30;165~art35-com4), possono essere esercitate fino al 30 giugno 2026.
 
-11-ter. 
+12. All'[articolo 1, comma 808, della legge 27 dicembre 2019, n. 160](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2019-12-27;160~art1-com808), relativo al termine di adeguamento del capitale sociale per l'attivita' di liquidazione, accertamento e riscossione dei tributi e di altre entrate degli enti locali, le parole: «31 dicembre 2025» sono sostituite dalle seguenti: «31 dicembre 2026».
 
-((Le facolta' assunzionali relative ad annualita' pregresse all'anno 2025 autorizzate nell'anno 2025 con i provvedimenti di cui all'[articolo 35, comma 4, del decreto legislativo 30 marzo 2001, n. 165](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2001-03-30;165~art35-com4), possono essere esercitate fino al 30 giugno 2026))
+12-bis. All'[articolo 18, comma 10-bis, del decreto-legge 24 febbraio 2023, n. 13](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2023-02-24;13~art18-com10bis), convertito, con modificazioni, dalla [legge 21 aprile 2023, n. 41](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2023-04-21;41), relativo al contenimento dell'incremento delle contribuzioni dovute dai soggetti sottoposti alla vigilanza della Commissione nazionale per le societa' e la borsa, le parole: "31 dicembre 2026" sono sostituite dalle seguenti: "31 dicembre 2027".
 
-.
+12-ter. All'articolo 44, comma 2-bis, primo periodo, del [decreto-legge 17 ottobre 2016, n. 189](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2016-10-17;189), convertito, con modificazioni, dalla [legge 15 dicembre 2016, n. 229](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2016-12-15;229), concernente la facolta' di applicare un'indennita' di funzione per il sindaco e gli assessori dei comuni con popolazione inferiore a 5.000 abitanti situati nei territori interessati dagli eventi sismici del 2016, le parole: "fino al 31 dicembre 2025" sono sostituite dalle seguenti: "fino al 31 dicembre 2026".
 
-12. All'[articolo 1, comma 808, della legge 27 dicembre 2019, n. 160](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2019-12-27;160~art1-com808), relativo al termine di adeguamento del capitale sociale per l'attivita' di liquidazione, accertamento e riscossione dei tributi e di altre entrate degli enti locali, le parole: «31 dicembre 2025» sono sostituite dalle seguenti: «
+12-quater. Il termine del 28 febbraio 2026, di cui all'articolo 1, commi 639, terzo periodo, e 640, secondo periodo, della [legge 30 dicembre 2025, n. 199](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2025-12-30;199), in materia di trasferimento a carico del bilancio dello Stato di debiti contratti dalle regioni con la Cassa depositi e prestiti Spa per estinguere anticipazioni di liquidita', e' prorogato al 30 aprile 2026 per le sole regioni nelle quali le elezioni per il rinnovo degli organi elettivi si sono svolte nei quattro mesi antecedenti alla data del 31 dicembre 2025.
 
-((31 dicembre 2026))
+12-quinquies. All'articolo 1, comma 773, primo periodo, della [legge 30 dicembre 2025, n. 199](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2025-12-30;199), relativo all'assegnazione delle risorse del fondo finalizzato all'attuazione di misure in favore degli enti locali e ad altri interventi, le parole: "entro sessanta giorni" sono sostituite dalle seguenti: "entro settantacinque giorni".
 
-».
+12-sexies. Limitatamente all'anno 2025, le delibere concernenti i regolamenti e l'approvazione delle tariffe della tassa sui rifiuti sono considerate tempestive, in deroga all'[articolo 13, comma 15-ter, del decreto-legge 6 dicembre 2011, n. 201](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2011-12-06;201~art13-com15ter), convertito, con modificazioni, dalla [legge 22 dicembre 2011, n. 214](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2011-12-22;214), se inserite nel Portale del federalismo fiscale entro il termine del 6 marzo 2026. Le delibere inserite ai sensi del primo periodo sono pubblicate nel sito internet istituzionale del Dipartimento delle finanze del Ministero dell'economia e delle finanze, ai fini dell'acquisizione della loro efficacia, entro il 16 marzo 2026.
 
-12-bis. 
+12-septies. All'[articolo 4, comma 7-bis, del decreto-legge 29 ottobre 2025, n. 156](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2025-10-29;156~art4-com7bis), convertito, con modificazioni, dalla [legge 18 dicembre 2025, n. 191](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2025-12-18;191), in materia di imposta di soggiorno dei comuni e degli enti locali nel cui territorio si svolgono gli eventi sportivi dei Giochi olimpici e paralimpici invernali "Milano-Cortina 2026", e' aggiunto, in fine, il seguente periodo: "In deroga all'[articolo 13, comma 15-quater, del decreto-legge 6 dicembre 2011, n. 201](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2011-12-06;201~art13-com15quater), convertito, con modificazioni, dalla [legge 22 dicembre 2011, n. 214](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2011-12-22;214), i regolamenti e le delibere di approvazione delle tariffe adottati ai sensi del presente comma e del comma 6 acquistano immediata efficacia con la sola pubblicazione nel sito internet istituzionale del comune e sono trasmessi, tramite il Portale del federalismo fiscale, ai soli fini statistici, entro trenta giorni dalla loro approvazione, al Dipartimento delle finanze del Ministero dell'economia e delle finanze per la pubblicazione nel sito internet istituzionale del medesimo Dipartimento".
 
-((All'[articolo 18, comma 10-bis, del decreto-legge 24 febbraio 2023, n. 13](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2023-02-24;13~art18-com10bis), convertito, con modificazioni, dalla [legge 21 aprile 2023, n. 41](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2023-04-21;41), relativo al contenimento dell'incremento delle contribuzioni dovute dai soggetti sottoposti alla vigilanza della Commissione nazionale per le societa' e la borsa, le parole: "31 dicembre 2026" sono sostituite dalle seguenti: "31 dicembre 2027".))
+12-octies. La disposizione di cui all'[articolo 9 del decreto legislativo 4 dicembre 2025, n. 186](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2025-12-04;186~art9), relativa all'abrogazione di una norma in materia di rettifica della detrazione dell'imposta sul valore aggiunto, si applica a decorrere dal 1° gennaio 2027. Sono fatte salve, fino alla loro conclusione, le rettifiche in corso al 1° gennaio 2027. Sono fatti salvi, in ogni caso, i comportamenti antecedenti alla data di entrata in vigore della legge di conversione del presente decreto.
 
-12-ter. 
+---------------
 
-((All'articolo 44, comma 2-bis, primo periodo, del [decreto-legge 17 ottobre 2016, n. 189](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2016-10-17;189), convertito, con modificazioni, dalla [legge 15 dicembre 2016, n. 229](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2016-12-15;229), concernente la facolta' di applicare un'indennita' di funzione per il sindaco e gli assessori dei comuni con popolazione inferiore a 5.000 abitanti situati nei territori interessati dagli eventi sismici del 2016, le parole: "fino al 31 dicembre 2025" sono sostituite dalle seguenti: "fino al 31 dicembre 2026".))
+AGGIORNAMENTO (1)
 
-12-quater. 
-
-((Il termine del 28 febbraio 2026, di cui all'articolo 1, commi 639, terzo periodo, e 640, secondo periodo, della [legge 30 dicembre 2025, n. 199](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2025-12-30;199), in materia di trasferimento a carico del bilancio dello Stato di debiti contratti dalle regioni con la Cassa depositi e prestiti Spa per estinguere anticipazioni di liquidita', e' prorogato al 30 aprile 2026 per le sole regioni nelle quali le elezioni per il rinnovo degli organi elettivi si sono svolte nei quattro mesi antecedenti alla data del 31 dicembre 2025.))
-
-12-quinquies. 
-
-((All'articolo 1, comma 773, primo periodo, della [legge 30 dicembre 2025, n. 199](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2025-12-30;199), relativo all'assegnazione delle risorse del fondo finalizzato all'attuazione di misure in favore degli enti locali e ad altri interventi, le parole: "entro sessanta giorni" sono sostituite dalle seguenti: "entro settantacinque giorni".))
-
-12-sexies. 
-
-((Limitatamente all'anno 2025, le delibere concernenti i regolamenti e l'approvazione delle tariffe della tassa sui rifiuti sono considerate tempestive, in deroga all'[articolo 13, comma 15-ter, del decreto-legge 6 dicembre 2011, n. 201](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2011-12-06;201~art13-com15ter), convertito, con modificazioni, dalla [legge 22 dicembre 2011, n. 214](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2011-12-22;214), se inserite nel Portale del federalismo fiscale entro il termine del 6 marzo 2026. Le delibere inserite ai sensi del primo periodo sono pubblicate nel sito internet istituzionale del Dipartimento delle finanze del Ministero dell'economia e delle finanze, ai fini dell'acquisizione della loro efficacia, entro il 16 marzo 2026.))
-
-12-septies. 
-
-((All'[articolo 4, comma 7-bis, del decreto-legge 29 ottobre 2025, n. 156](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2025-10-29;156~art4-com7bis), convertito, con modificazioni, dalla [legge 18 dicembre 2025, n. 191](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2025-12-18;191), in materia di imposta di soggiorno dei comuni e degli enti locali nel cui territorio si svolgono gli eventi sportivi dei Giochi olimpici e paralimpici invernali "Milano-Cortina 2026", e' aggiunto, in fine, il seguente periodo: "In deroga all'[articolo 13, comma 15-quater, del decreto-legge 6 dicembre 2011, n. 201](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2011-12-06;201~art13-com15quater), convertito, con modificazioni, dalla [legge 22 dicembre 2011, n. 214](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2011-12-22;214), i regolamenti e le delibere di approvazione delle tariffe adottati ai sensi del presente comma e del comma 6 acquistano immediata efficacia con la sola pubblicazione nel sito internet istituzionale del comune e sono trasmessi, tramite il Portale del federalismo fiscale, ai soli fini statistici, entro trenta giorni dalla loro approvazione, al Dipartimento delle finanze del Ministero dell'economia e delle finanze per la pubblicazione nel sito internet istituzionale del medesimo Dipartimento".))
-
-12-octies. 
-
-((La disposizione di cui all'[articolo 9 del decreto legislativo 4 dicembre 2025, n. 186](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2025-12-04;186~art9), relativa all'abrogazione di una norma in materia di rettifica della detrazione dell'imposta sul valore aggiunto, si applica a decorrere dal 1° gennaio 2027. Sono fatte salve, fino alla loro conclusione, le rettifiche in corso al 1° gennaio 2027. Sono fatti salvi, in ogni caso, i comportamenti antecedenti alla data di entrata in vigore della legge di conversione del presente decreto))
-
-.
+Il [D.L. 19 febbraio 2026, n. 19](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2026-02-19;19), convertito con modificazioni dalla [L. 20 aprile 2026, n. 50](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2026-04-20;50), ha disposto (con l'art. 2, comma 10-bis) che "La proroga dell'Accordo quadro avente a oggetto l'affidamento di servizi applicativi in ottica cloud per le pubbliche amministrazioni centrali - seconda edizione - ID 2483 di cui all'[articolo 4, comma 10-bis, del decreto-legge 31 dicembre 2025, n. 200](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2025-12-31;200~art4-com10bis), convertito, con modificazioni, dalla [legge 27 febbraio 2026, n. 26](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2026-02-27;26), si applica a tutti i lotti scaduti e in scadenza".
 
 Art. 5
 ------
@@ -530,7 +296,7 @@ c) al
 
 ((comma 8-ter,))
 
-: le parole: «a decorrere dal 1° gennaio 2026» sono sostituite dalle seguenti: «a decorrere dal 1° gennaio 2027» e le parole: «a decorrere dal 1° gennaio 2027» sono sostituite dalle seguenti: «a decorrere dal 1° gennaio 2028».
+le parole: «a decorrere dal 1° gennaio 2026» sono sostituite dalle seguenti: «a decorrere dal 1° gennaio 2027» e le parole: «a decorrere dal 1° gennaio 2027» sono sostituite dalle seguenti: «a decorrere dal 1° gennaio 2028».
 
 2. All'[articolo 33, comma 2-bis, del decreto legislativo 5 agosto 2022, n. 136](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2022-08-05;136~art33-com2bis), che consente ai veterinari autorizzati di svolgere le attivita' per l'attuazione delle disposizioni concernenti gli obblighi di sorveglianza degli operatori e le visite di sanita' animale di cui all'articolo 11 del medesimo decreto legislativo, le parole: «31 dicembre 2025» sono sostituite dalle seguenti: «31 dicembre 2026».
 
@@ -590,99 +356,95 @@ b) al comma 5, che consente al personale operante nei servizi di emergenza-urgen
 
 8. All'[articolo 1, comma 268, lettera a), della legge 30 dicembre 2021, n. 234](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2021-12-30;234~art1-com268-leta), relativo all'applicazione delle misure straordinarie per il conferimento di incarichi semestrali di lavoro autonomo ai medici specializzandi e di incarichi a tempo determinato al personale delle professioni sanitarie, agli operatori socio-sanitari e ai medici specializzandi iscritti regolarmente all'ultimo e al penultimo anno di corso della scuola di specializzazione, le parole: «per gli anni 2022, 2023, 2024 e 2025» sono sostituite dalle seguenti: «per gli anni 2022, 2023, 2024, 2025 e 2026» e le parole: «31
 
-((dicembre 2025,"))
+((dicembre 2025,»))
 
-sono sostituite dalle seguenti: «31 dicembre 2026, compatibilmente con le esigenze della formazione,».   
-8-bis.
+sono sostituite dalle seguenti: «31 dicembre 2026, compatibilmente con le esigenze della formazione,».
+
+8-bis. 
 
 ((All'[articolo 1, comma 688, della legge 30 dicembre 2021, n. 234](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2021-12-30;234~art1-com688), relativo al Fondo per il contrasto dei disturbi della nutrizione e dell'alimentazione, le parole: "e di 10 milioni di euro per l'anno 2024" sono sostituite dalle seguenti: ", di 10 milioni di euro per l'anno 2024 e di 10 milioni di euro per l'anno 2026".))
 
-  
-8-ter.
+8-ter. 
 
 ((Agli oneri derivanti dall'attuazione del comma 8-bis del presente articolo, pari a 10 milioni di euro per l'anno 2026, si provvede mediante corrispondente riduzione dell'autorizzazione di spesa di cui all'[articolo 2, comma 361, della legge 24 dicembre 2007, n. 244](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2007-12-24;244~art2-com361)))
 
-.   
-9. All'[articolo 4, comma 3, del decreto-legge 29 dicembre 2022, n. 198](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2022-12-29;198~art4-com3), convertito, con modificazioni, dalla [legge 24 febbraio 2023, n. 14](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2023-02-24;14), relativo al conferimento di incarichi di lavoro autonomo ai laureati in medicina e chirurgia, abilitati e iscritti agli ordini professionali, le parole: «31 dicembre 2025» sono sostituite dalle seguenti: «31 dicembre 2026».   
-9-bis.
+.
+
+9. All'[articolo 4, comma 3, del decreto-legge 29 dicembre 2022, n. 198](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2022-12-29;198~art4-com3), convertito, con modificazioni, dalla [legge 24 febbraio 2023, n. 14](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2023-02-24;14), relativo al conferimento di incarichi di lavoro autonomo ai laureati in medicina e chirurgia, abilitati e iscritti agli ordini professionali, le parole: «31 dicembre 2025» sono sostituite dalle seguenti: «31 dicembre 2026».
+
+9-bis. 
 
 ((Il termine per l'assolvimento dell'obbligo di formazione continua ai sensi dell'[articolo 16-bis del decreto legislativo 30 dicembre 1992, n. 502](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992-12-30;502~art16bis), per il triennio 2023-2025 e' prorogato al 31 dicembre 2028. Il triennio formativo 2026-2028 e il relativo obbligo di formazione continua hanno ordinaria decorrenza dal 1° gennaio 2026))
 
-.   
+.
+
 10. Al [decreto legislativo 4 marzo 2014, n. 26](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2014-03-04;26),
 
 ((relativamente ai divieti))
 
-di utilizzo del modello animale negli studi su xenotrapianti d'organo e sostanze d'abuso, sono apportate le seguenti modificazioni:   
-a) all'articolo 5, comma 2, le lettere d) ed e) sono abrogate;   
-b) all'articolo 42, comma 1, primo periodo, le parole: «Le disposizioni di cui all'articolo 5, comma 2, lettere d) ed e), ed all'articolo 16, comma 1, lettera d), si applicano a» sono sostituite dalle seguenti: «La disposizione di cui all'articolo 16, comma 1, lettera d), si applica a».   
-10-bis.
+di utilizzo del modello animale negli studi su xenotrapianti d'organo e sostanze d'abuso, sono apportate le seguenti modificazioni:
 
-((All'[articolo 36, comma 4-bis, del decreto-legge 21 giugno 2022, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2022-06-21;73~art36-com4bis), convertito, con modificazioni, dalla [legge 4 agosto 2022, n. 122](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2022-08-04;122), relativo al conferimento di incarichi di lavoro autonomo a personale medico, veterinario, sanitario e sociosanitario in quiescenza, le parole: "31 dicembre 2025" sono sostituite dalle seguenti: "31 dicembre 2026".)   
-10-ter. ((All'[articolo 1, comma 164-bis, della legge 30 dicembre 2023, n. 213](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2023-12-30;213~art1-com164bis), concernente il trattenimento o la riammissione in servizio di dirigenti medici e sanitari, sono apportate le seguenti modificazioni:))
+a) all'articolo 5, comma 2, le lettere d) ed e) sono abrogate;
 
-  
+b) all'articolo 42, comma 1, primo periodo, le parole: «Le disposizioni di cui all'articolo 5, comma 2, lettere d) ed e), ed all'articolo 16, comma 1, lettera d), si applicano a» sono sostituite dalle seguenti: «La disposizione di cui all'articolo 16, comma 1, lettera d), si applica a».
+
+10-bis. 
+
+((All'[articolo 36, comma 4-bis, del decreto-legge 21 giugno 2022, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2022-06-21;73~art36-com4bis), convertito, con modificazioni, dalla [legge 4 agosto 2022, n. 122](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2022-08-04;122), relativo al conferimento di incarichi di lavoro autonomo a personale medico, veterinario, sanitario e sociosanitario in quiescenza, le parole: "31 dicembre 2025" sono sostituite dalle seguenti: "31 dicembre 2026".))
+
+10-ter. 
+
+((All'[articolo 1, comma 164-bis, della legge 30 dicembre 2023, n. 213](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2023-12-30;213~art1-com164bis), concernente il trattenimento o la riammissione in servizio di dirigenti medici e sanitari, sono apportate le seguenti modificazioni:))
+
 a)
 
 ((al primo e al terzo periodo, le parole: "31 dicembre 2025", ovunque ricorrono, sono sostituite dalle seguenti: "31 dicembre 2026";))
 
-  
 b)
 
 ((al secondo periodo, le parole: "e le universita' possono" sono sostituite dalla seguente: "puo'" e la parola: ", rispettivamente," nonche' le parole: ", e ai docenti universitari che svolgono attivita' assistenziali in medicina e chirurgia" sono soppresse;))
 
-  
 c)
 
 ((al quarto periodo, le parole: "e i docenti universitari che svolgono attivita' assistenziali in medicina e chirurgia" sono soppresse.))
 
-  
-10-quater.
+10-quater. 
 
 ((All'articolo 29, comma 1, secondo periodo, del [decreto-legge 25 maggio 2021, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2021-05-25;73), convertito, con modificazioni, dalla [legge 23 luglio 2021, n. 106](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2021-07-23;106), concernente l'adeguamento degli standard organizzativi e di personale della rete dei laboratori del Servizio sanitario nazionale ai processi di incremento dell'efficienza resi possibili dal ricorso a metodiche automatizzate, le parole: "31 dicembre 2025" sono sostituite dalle seguenti: "31 dicembre 2026".))
 
-  
-10-quinquies.
+10-quinquies. 
 
 ((Al [comma 6 dell'articolo 4 del decreto-legge 29 dicembre 2022, n. 198](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2022-12-29;198~art4-com6), convertito, con modificazioni, dalla [legge 24 febbraio 2023, n. 14](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2023-02-24;14), in materia di modalita' di utilizzo del promemoria cartaceo della ricetta elettronica, le parole: "sono prorogate sino al 31 dicembre 2025 e" sono soppresse e dopo le parole: "sono estese all'invio del numero di ricetta elettronica (NRE) a mezzo di posta elettronica" sono aggiunte le seguenti: "e si applicano a regime".))
 
-  
-10-sexies.
+10-sexies. 
 
 ((L'efficacia delle disposizioni di cui all'[articolo 5, comma 3, del decreto del Presidente del Consiglio dei ministri 28 marzo 2022, pubblicato nella Gazzetta Ufficiale n. 89 del 15 aprile 2022](http://www.gazzettaufficiale.it/gazzetta/serie_generale/caricaDettaglio?dataPubblicazioneGazzetta=2022-04-15&numeroGazzetta=89), in materia di assistenza sanitaria agli sfollati dall'Ucraina, e' prorogata fino al 31 dicembre 2026. A tal fine, nello stato di previsione del Ministero della salute e' istituito un fondo con una dotazione di 45 milioni di euro per l'anno 2026 e di 9 milioni di euro per l'anno 2027. Il fondo, nei limiti delle risorse di cui al secondo periodo, e' destinato alla copertura, a consuntivo e previa rendicontazione, degli oneri sostenuti dalle regioni e dalle province autonome di Trento e di Bolzano per le medesime finalita'.))
 
-  
-10-septies.
+10-septies. 
 
 ((All'articolo 1, comma 6, primo periodo, del [decreto-legge 2 marzo 2023, n. 16](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2023-03-02;16), convertito, con modificazioni, dalla [legge 21 aprile 2023, n. 46](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2023-04-21;46), in materia di verifica dei costi sostenuti per l'accesso alle prestazioni del Servizio sanitario nazionale nell'ambito dell'attivita' di assistenza e accoglienza a seguito della crisi ucraina, le parole: "Entro il 30 aprile 2023, il Ministero" sono sostituite dalle seguenti: "Il Ministero" e dopo le parole: "e dei dati aggregati delle prestazioni" e' inserita la seguente: "anche".))
 
-  
-10-octies.
+10-octies. 
 
 ((Agli oneri derivanti dall'attuazione del comma 10-sexies, pari a 45 milioni di euro per l'anno 2026 e a 9 milioni di euro per l'anno 2027, si provvede mediante corrispondente versamento all'entrata del bilancio dello Stato delle risorse iscritte nel bilancio autonomo della Presidenza del Consiglio dei ministri - Dipartimento della protezione civile, ai sensi dell'[articolo 20 del decreto-legge 27 dicembre 2024, n. 202](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2024-12-27;202~art20), convertito, con modificazioni, dalla [legge 21 febbraio 2025, n. 15](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2025-02-21;15), riferite all'annualita' 2025. Ai fini della compensazione degli effetti finanziari in termini di fabbisogno e di indebitamento netto, pari a 45 milioni di euro per l'anno 2026 e a 9 milioni di euro per l'anno 2027, si provvede mediante corrispondente riduzione del Fondo per la compensazione degli effetti finanziari non previsti a legislazione vigente, anche conseguenti all'attualizzazione di contributi pluriennali, di cui all'[articolo 1, comma 511, della legge 27 dicembre 2006, n. 296](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2006-12-27;296~art1-com511).))
 
-  
-10-novies.
+10-novies. 
 
 ((All'[articolo 2 del decreto-legge 17 febbraio 2022, n. 9](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2022-02-17;9~art2), convertito, con modificazioni, dalla [legge 7 aprile 2022, n. 29](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2022-04-07;29), concernente il Commissario straordinario per l'attuazione e il coordinamento delle misure di contenimento e contrasto della diffusione della peste suina africana, sono apportate le seguenti modificazioni:))
 
-  
 a)
 
 ((al comma 7, primo periodo, le parole: "per una sola volta," sono soppresse e le parole: "trentasei mesi" sono sostituite dalle seguenti: "quarantotto mesi";))
 
-  
 b)
 
 ((al comma 8, secondo periodo, le parole: "Per ciascuno degli anni 2025 e 2026" sono sostituite dalle seguenti: "Per ciascuno degli anni 2025, 2026 e 2027";))
 
-  
 c)
 
 ((al comma 9-ter sono aggiunte, in fine, le seguenti parole: ", primo periodo. Ai sub-commissari non spettano compensi, gettoni di presenza, rimborsi di spese o altri emolumenti comunque denominati".))
 
-  
-10-decies.
+10-decies. 
 
 ((Agli oneri derivanti dall'attuazione del comma 10-novies, pari a 30.000 euro per l'anno 2027, si provvede mediante corrispondente riduzione del Fondo di parte corrente di cui al [comma 5 dell'articolo 34-ter della legge 31 dicembre 2009, n. 196](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2009-12-31;196~art34ter-com5), iscritto nello stato di previsione del Ministero della salute))
 
@@ -704,7 +466,7 @@ di cui al comma 18
 
 e' prorogata per il triennio 2026-2028. Agli oneri derivanti dall'attuazione del presente comma, pari a 1.460.000 euro per ciascuno degli anni 2026, 2027 e 2028, si provvede mediante corrispondente riduzione
 
-((del Fondo "La Buona Scuola" per il miglioramento e la valorizzazione dell'istruzione scolastica, di cui all'[articolo 1, comma 202, della legge 13 luglio 2015, n. 107](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2015-07-13;107~art1-com202)))
+((del Fondo "La Buona Scuola" per il miglioramento e la valorizzazione dell'istruzione scolastica, di cui all'[articolo 1, comma 202, della legge 13 luglio 2015, n. 107](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2015-07-13;107~art1-com202).))
 
 ».
 
@@ -842,7 +604,126 @@ a) al primo periodo, le parole: «per gli anni 2023, 2024 e 2025» sono sostitui
 
 b) al secondo periodo, le parole: «entro il 1° dicembre 2025» sono sostituite dalle seguenti: «entro il 1° dicembre 2026», le parole: «a decorrere dal 1° gennaio 2026» sono sostituite dalle seguenti: «a decorrere dal 1° gennaio 2027» e le parole: «relativo al biennio 2024-2025» sono sostituite dalle seguenti: «relativo al biennio 2025-2026».
 
-2. .
+2. All'articolo 7, comma 4-duodecies, secondo periodo, del [decreto-legge 27 dicembre 2024, n. 202](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2024-12-27;202), convertito, con modificazioni, dalla [legge 21 febbraio 2025, n. 15](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2025-02-21;15), relativo alla procedura di accesso al programma di finanziamento «Ponti sul Po», le parole: «entro e non oltre il 31 dicembre 2025» sono sostituite
+
+((dalle seguenti: «entro))
+
+il 30 giugno 2026. Il mancato rispetto del predetto termine comporta la revoca automatica delle risorse di provenienza statale
+
+((,))
+
+che sono versate all'entrata del bilancio per restare acquisite all'erario.».
+
+2-bis. 
+
+((All'[articolo 10-septies, comma 1, del decreto-legge 21 marzo 2022, n. 21](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2022-03-21;21~art10septies-com1), convertito, con modificazioni, dalla [legge 20 maggio 2022, n. 51](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2022-05-20;51), relativo a termini di inizio e ultimazione di lavori edilizi, sono apportate le seguenti modificazioni:))
+
+a)
+
+((all'alinea, le parole: "trentasei mesi" sono sostituite dalle seguenti: "quarantotto mesi";))
+
+b)
+
+((alla lettera a), le parole: "31 dicembre 2024" sono sostituite dalle seguenti: "31 dicembre 2025";))
+
+c)
+
+((alla lettera b), le parole: "31 dicembre 2024" sono sostituite dalle seguenti: "31 dicembre 2025".))
+
+2-ter. 
+
+((All'[articolo 27 del decreto-legge 24 aprile 2017, n. 50](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2017-04-24;50~art27), convertito, con modificazioni, dalla [legge 21 giugno 2017, n. 96](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2017-06-21;96), relativo a misure sul trasporto pubblico locale, sono apportate le seguenti modificazioni:))
+
+a)
+
+((al comma 2-quater e' aggiunto, in fine, il seguente periodo: "Per l'anno 2026, al riparto del Fondo di cui al medesimo [articolo 16-bis, comma 1, del decreto-legge n. 95 del 2012](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2012;95~art16bis-com1), convertito, con modificazioni, dalla [legge n. 135 del 2012](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2012;135), si provvede sulla base dei seguenti criteri:   
+a) una quota pari a 4.873.335.361,50 euro, fermo restando quanto previsto dal comma 2-bis, e' suddivisa tra tutte le regioni a statuto ordinario secondo le percentuali utilizzate per l'anno 2020;   
+b) una quota pari a 50 milioni di euro e' ripartita proporzionalmente tra le sole regioni a statuto ordinario che, in conseguenza dell'applicazione del criterio dei costi standard di cui al comma 2, lettera a), presentano percentuali di accesso al Fondo superiori alle rispettive percentuali assegnate nell'anno 2020;   
+c) la quota residua del Fondo e' ripartita tra tutte le regioni a statuto ordinario in proporzione ai costi standard di cui al medesimo comma 2, lettera a)";))
+
+b)
+
+((al comma 6, primo periodo, le parole: "entro il 30 giugno 2025" sono sostituite dalle seguenti: "entro il 31 dicembre 2026" e le parole: "a decorrere dall'anno 2026" sono sostituite dalle seguenti: "a decorrere dall'anno 2027"))
+
+.
+
+3. Esclusivamente al fine di completare la fase attuativa gia' in corso, all'[articolo 20, comma 2-quinquies, del decreto-legge 14 marzo 2025, n. 25](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2025-03-14;25~art20-com2quinquies), convertito, con modificazioni, dalla [legge 9 maggio 2025, n. 69](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2025-05-09;69), relativo alla possibilita' di adottare con decreto del Presidente del Consiglio dei ministri le modifiche al regolamento di organizzazione del Ministero delle infrastrutture e dei trasporti, le parole: «31 dicembre 2025» sono sostituite dalle seguenti: «31 marzo 2026».
+
+3-bis. 
+
+((All'[articolo 10, comma 1, del decreto-legge 30 dicembre 2021, n. 228](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2021-12-30;228~art10-com1), convertito, con modificazioni, dalla [legge 25 febbraio 2022, n. 15](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2022-02-25;15), concernente la revisione periodica dei veicoli di cui all'[articolo 80 del codice della strada](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992-04-30;285~art80), di cui al [decreto legislativo 30 aprile 1992, n. 285](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992-04-30;285), le parole: "31 dicembre 2025" sono sostituite dalle seguenti: "31 dicembre 2026".))
+
+3-ter. 
+
+((Al fine di garantire la continuita' delle attivita' delle scuole per l'educazione marinaresca, della formazione e della preparazione dei candidati agli esami per il conseguimento delle patenti nautiche, le scuole nautiche e i consorzi tra scuole nautiche di cui all'[articolo 49-septies del codice della nautica da diporto](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-07-18;171~art49septies), di cui al [decreto legislativo 18 luglio 2005, n. 171](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-07-18;171), gia' in esercizio alla data di entrata in vigore del regolamento di cui al [decreto del Ministro delle infrastrutture e dei trasporti 30 agosto 2023, n. 142](http://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.infrastrutture.trasporti:decreto:2023-08-30;142), adeguano la propria attivita' alle disposizioni del citato [articolo 49-septies del codice della nautica da diporto](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-07-18;171~art49septies) e del citato regolamento di cui al decreto del Ministro delle infrastrutture e dei trasporti entro il 31 ottobre 2027 ovvero entro la data, se antecedente, di presentazione della prima segnalazione certificata di inizio attivita' di variazione.))
+
+3-quater. 
+
+((All'[articolo 1, comma 509, della legge 30 dicembre 2024, n. 207](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2024-12-30;207~art1-com509), relativo all'assegnazione di un contributo in favore degli operatori dei servizi di manovra ferroviaria che operano al servizio dell'area portuale, le parole: "Fino al 31 dicembre 2026, al fine di promuovere il traffico ferroviario delle merci in ambito portuale, ciascuna Autorita' di sistema portuale puo' assegnare, nel limite di 1 milione di euro" sono sostituite dalle seguenti: "Fino al 31 dicembre 2030, al fine di promuovere il traffico ferroviario delle merci in ambito portuale, ciascuna Autorita' di sistema portuale puo' assegnare, nel limite di 500.000 euro per ciascuno degli anni dal 2026 al 2030".))
+
+3-quinquies. 
+
+((All'articolo 1, comma 15, primo periodo, del [decreto-legge 18 aprile 2019, n. 32](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2019-04-18;32), convertito, con modificazioni, dalla [legge 14 giugno 2019, n. 55](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2019-06-14;55), relativo alle modalita' di approvazione di varianti ai progetti di infrastrutture strategiche, le parole: "Per gli anni dal 2019 al 2025," sono sostituite dalle seguenti: "Per gli anni dal 2019 al 2026,".))
+
+3-sexies. 
+
+((Al fine di garantire la continuita' del servizio di assistenza ai bagnanti per l'anno 2026, la sospensione dell'efficacia del requisito della maggiore eta' per lo svolgimento dell'attivita' di assistente ai bagnanti, di cui al [comma 4-undecies dell'articolo 7 del decreto-legge 27 dicembre 2024, n. 202](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2024-12-27;202~art7-com4undecies), convertito, con modificazioni, dalla [legge 21 febbraio 2025, n. 15](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2025-02-21;15), e' prorogata sino alla fine della stagione balneare 2026, come definita ai sensi dell'[articolo 6, comma 2, del decreto-legge 21 maggio 2025, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2025-05-21;73~art6-com2), convertito, con modificazioni, dalla [legge 18 luglio 2025, n. 105](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2025-07-18;105), comunque non oltre il 1° ottobre 2026.))
+
+3-septies. 
+
+((All'[articolo 7-bis del decreto-legge 21 ottobre 2021, n. 146](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2021-10-21;146~art7bis), convertito, con modificazioni, dalla [legge 17 dicembre 2021, n. 215](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2021-12-17;215), sono apportate le seguenti modificazioni:))
+
+a)
+
+((al comma 2, primo periodo, le parole: "Fino al 30 marzo 2026" sono sostituite dalle seguenti: "Fino alla piena operativita' del sistema centralizzato di cui all'articolo 13, comma 9-bis, quarto periodo, del [decreto-legge 28 settembre 2018, n. 109](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2018-09-28;109), convertito, con modificazioni, dalla [legge 16 novembre 2018, n. 130](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2018-11-16;130), e all'aggiornamento delle linee guida ai sensi del comma 2-bis del presente articolo, comunque non oltre il 31 dicembre 2027";))
+
+b)
+
+((al comma 2-bis, secondo periodo, le parole: "entro il 31 dicembre 2025" sono sostituite dalle seguenti: "entro il 30 giugno 2027".))
+
+3-octies. 
+
+((All'[articolo 1, comma 471, della legge 29 dicembre 2022, n. 197](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2022-12-29;197~art1-com471), relativo al contributo denominato "buono portuale", sono apportate le seguenti modificazioni:))
+
+a)
+
+((all'alinea:   
+1) dopo le parole: "dal 2023 al 2026" sono inserite le seguenti: "e di 2 milioni di euro per l'anno 2027";   
+2) le parole: "31 dicembre 2026" sono sostituite dalle seguenti: "31 dicembre 2027";   
+3) dopo le parole: "ai sensi degli articoli" sono inserite le seguenti: "6, comma 10,";   
+4) dopo le parole: "Il contributo di cui al primo periodo" sono inserite le seguenti: "e' erogato nel rispetto della normativa nazionale e dell'Unione europea in materia di aiuti di Stato ed";))
+
+b)
+
+((la lettera a) e' sostituita dalla seguente:   
+"a) agevolare il conseguimento ovvero il rinnovo delle patenti e delle abilitazioni professionali per la guida dei veicoli destinati all'esercizio dell'attivita' di trasporto ovvero movimentazione di persone e di merci all'interno delle aree portuali, da parte dei propri dipendenti, a tal fine riconoscendo un 'buono portuale' di importo massimo pari a 3.500 euro per ciascun dipendente per singola tipologia di patente e abilitazione professionale";))
+
+c)
+
+((alla lettera b), le parole: "pari a 10.000 euro per ciascuna impresa" sono sostituite dalle seguenti: "pari a 20.000 euro per sviluppare o implementare modelli di organizzazione e di gestione per ciascuna impresa per ciascuno degli anni 2026 e 2027";))
+
+d)
+
+((alla lettera c), le parole da: "automazione e digitalizzazione" fino alla fine del periodo sono sostituite dalle seguenti: "automazione, digitalizzazione e sostenibilita' (ESG), a tal fine riconoscendo un 'buono portuale' di importo massimo pari a 80.000 euro per ciascuna impresa per ciascuno degli anni 2026 e 2027".))
+
+3-novies. 
+
+((Agli oneri derivanti dall'attuazione del comma 3-octies, pari a 2 milioni di euro per l'anno 2027, si provvede mediante corrispondente riduzione delle proiezioni dello stanziamento del fondo speciale di parte corrente iscritto, ai fini del bilancio triennale 2026-2028, nell'ambito del programma "Fondi di riserva e speciali" della missione "Fondi da ripartire" dello stato di previsione del Ministero dell'economia e delle finanze per l'anno 2026, allo scopo parzialmente utilizzando l'accantonamento relativo al Ministero delle infrastrutture e dei trasporti.))
+
+3-decies. 
+
+((All'articolo 32-bis, comma 1, terzo periodo, del [decreto-legge 2 marzo 2024, n. 19](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2024-03-02;19), convertito, con modificazioni, dalla [legge 29 aprile 2024, n. 56](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2024-04-29;56), relativo all'autorizzazione di spesa per la realizzazione della Linea 2 della metropolitana della citta' di Torino, le parole: "per ciascuno degli anni 2024, 2025 e 2026" sono sostituite dalle seguenti: "per ciascuno degli anni 2024, 2025, 2026 e 2027". Agli oneri derivanti dall'attuazione del presente comma, pari a euro 150.000 per l'anno 2027, si provvede mediante corrispondente riduzione delle proiezioni dello stanziamento del fondo speciale di parte corrente iscritto, ai fini del bilancio triennale 2026-2028, nell'ambito del programma "Fondi di riserva e speciali" della missione "Fondi da ripartire" dello stato di previsione del Ministero dell'economia e delle finanze per l'anno 2026, allo scopo parzialmente utilizzando l'accantonamento relativo al Ministero delle infrastrutture e dei trasporti.))
+
+3-undecies. 
+
+((Le misure di cui all'articolo 199, comma 1, lettera b), quarto periodo, del [decreto-legge 19 maggio 2020, n. 34](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2020-05-19;34), convertito, con modificazioni, dalla [legge 17 luglio 2020, n. 77](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2020-07-17;77), concernente la facolta' delle Autorita' di sistema portuale di procedere all'erogazione di risorse in favore del soggetto fornitore di lavoro portuale di cui all'[articolo 17 della legge 28 gennaio 1994, n. 84](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-01-28;84~art17), e delle imprese autorizzate ai sensi dell'articolo 16 della predetta legge, sono prorogate anche in relazione alle crisi internazionali dell'anno 2026. Per le finalita' di cui al primo periodo e' autorizzata la spesa di 2 milioni di euro per l'anno 2026.  
+Ai relativi oneri, pari a 2 milioni di euro per l'anno 2026, si provvede mediante corrispondente riduzione dello stanziamento del fondo speciale di parte corrente iscritto, ai fini del bilancio triennale 2026-2028, nell'ambito del programma "Fondi di riserva e speciali" della missione "Fondi da ripartire" dello stato di previsione del Ministero dell'economia e delle finanze per l'anno 2026, allo scopo parzialmente utilizzando l'accantonamento relativo al Ministero delle infrastrutture e dei trasporti.))
+
+3-duodecies. 
+
+((All'[articolo 1-bis del decreto-legge 29 settembre 2023, n. 132](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2023-09-29;132~art1bis), convertito, con modificazioni, dalla [legge 27 novembre 2023, n. 170](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2023-11-27;170), in materia di proroga di contratti di locazione o di assegnazione in godimento aventi ad oggetto unita' immobiliari a uso abitativo in regime di edilizia agevolata, le parole: "31 dicembre 2025", ovunque ricorrono, sono sostituite dalle seguenti: "31 dicembre 2026"))
+
+.
 
 Art. 10
 -------
