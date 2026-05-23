@@ -920,11 +920,7 @@ b) strutture che erogano prestazioni di assistenza specialistica in regime ambul
 
 c) strutture sanitarie e sociosanitarie che erogano prestazioni in regime residenziale, a ciclo continuativo o diurno.
 
-2. L'autorizzazione all'esercizio di attivita' sanitarie e', altresi', richiesta per gli studi odontoiatrici, medici e di altre professioni sanitarie, ove attrezzati per erogare prestazioni di chirurgia ambulatoriale, ovvero procedure diagnostiche e terapeutiche di particolare complessita' o che comportino un rischio per la sicurezza del paziente, individuati ai sensi del comma 4, nonche' per le strutture esclusivamente dedicate ad attivita' diagnostiche, svolte anche a favore di soggetti terzi
-
-((, e per l'erogazione di cure domiciliari))
-
-.
+2. L'autorizzazione all'esercizio di attivita' sanitarie e', altresi', richiesta per gli studi odontoiatrici, medici e di altre professioni sanitarie, ove attrezzati per erogare prestazioni di chirurgia ambulatoriale, ovvero procedure diagnostiche e terapeutiche di particolare complessita' o che comportino un rischio per la sicurezza del paziente, individuati ai sensi del comma 4, nonche' per le strutture esclusivamente dedicate ad attivita' diagnostiche, svolte anche a favore di soggetti terzi, e per l'erogazione di cure domiciliari.
 
 3. Per la realizzazione di strutture sanitarie e sociosanitarie il Comune acquisisce, nell'esercizio delle proprie competenze in materia di autorizzazioni e concessioni di cui all'[art. 4 del decreto-legge 5 ottobre 1993, n.398](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1993-10-05;398~art4), convertito, con modificazioni, dalla [legge 4 dicembre 1993, n. 493](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-12-04;493) e successive modificazioni, la verifica di compatibilita' del progetto da parte della regione. Tale verifica e' effettuata in rapporto al fabbisogno complessivo e alla localizzazione territoriale delle strutture presenti in ambito regionale, anche al fine di meglio garantire l'accessibilita' ai servizi e valorizzare le aree di insediamento prioritario di nuove strutture.
 
@@ -936,12 +932,24 @@ a) le modalita' e i termini per la richiesta e l'eventuale rilascio della autori
 
 b) gli ambiti territoriali in cui si riscontrano carenze di strutture o di capacita' produttiva, definendo idonee procedure per selezionare i nuovi soggetti eventualmente interessati.
 
+5-bis. 
+
+((Al fine di garantire il rispetto dei termini previsti dagli obiettivi del Piano nazionale di ripresa e resilienza (PNRR) per la missione 6, componente 1, investimento 1.1 'Case della Comunita' e presa in carico della persona' e investimento 1.3 'Rafforzamento dell'assistenza sanitaria intermedia e delle sue strutture (Ospedali di Comunita')' nonche' per la missione 6, componente 2, subinvestimento 1.1.1 'Digitalizzazione-rafforzamento strutturale SSN (Progetti in essere [ex art. 2 DL 34/2020](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2020;34~art2))', l'autorizzazione all'esercizio di cui al comma 1 del presente articolo relativa a nuove strutture, all'adattamento di strutture gia' esistenti e alla loro diversa utilizzazione nonche' all'ampliamento o alla trasformazione delle stesse si intende rilasciata contestualmente alla presentazione dell'istanza di autorizzazione da parte dell'azienda sanitaria interessata, fermo restando il rispetto delle disposizioni e dei criteri richiesti per la rendicontazione ai fini del PNRR. Entro dodici mesi dalla presentazione dell'istanza, le amministrazioni competenti provvedono, secondo quanto previsto dalla rispettiva normativa regionale, alla verifica della sussistenza dei requisiti minimi autorizzativi dichiarati nell'istanza ovvero della loro permanenza ai fini dell'adozione del provvedimento espresso))
+
+.
+
 ### Art. 8-quater
 
 (Accreditamento istituzionale)
 
 1. L'accreditamento istituzionale e' rilasciato dalla regione alle strutture autorizzate, pubbliche o private ed ai professionisti che ne facciano richiesta, nonche' alle organizzazioni pubbliche e private autorizzate per l'erogazione di cure domiciliari, subordinatamente alla loro rispondenza ai requisiti ulteriori di qualificazione, alla loro funzionalita' rispetto agli indirizzi di programmazione regionale e alla verifica positiva dell'attivita' svolta e dei risultati raggiunti. Al fine di individuare i criteri per la verifica della funzionalita' rispetto alla programmazione nazionale e regionale, la regione definisce il fabbisogno di assistenza secondo le funzioni sanitarie individuate dal Piano sanitario regionale per garantire i livelli essenziali ed uniformi di assistenza, nonche' gli eventuali livelli integrativi locali e le esigenze connesse all'assistenza integrativa di cui all'articolo 9.  
 La regione provvede al rilascio dell'accreditamento ai professionisti, nonche' a tutte le strutture pubbliche ed equiparate che soddisfano le condizioni di cui al primo periodo del presente comma, alle strutture private non lucrative di cui all'articolo 1, comma 18, e alle strutture private lucrative.
+
+1-bis. 
+
+((Per le medesime finalita' di cui all'articolo 8-ter, comma 5-bis, limitatamente agli interventi del PNRR ivi indicati, l'accreditamento si intende rilasciato contestualmente all'autorizzazione all'esercizio. Entro dodici mesi dalla presentazione dell'istanza di cui all'articolo 8-ter, comma 5-bis, le amministrazioni competenti provvedono, secondo quanto previsto dalla rispettiva normativa regionale, alla verifica della sussistenza dei requisiti ulteriori di qualificazione dichiarati ovvero della loro permanenza, ai fini dell'adozione del provvedimento espresso))
+
+.
 
 2. La qualita' di soggetto accreditato non costituisce vincolo per le aziende e gli enti del servizio sanitario nazionale a corrispondere la remunerazione delle prestazioni erogate, al di fuori degli accordi contrattuali di cui all'articolo 8- quinquies. I requisiti ulteriori costituiscono presupposto per l'accreditamento e vincolo per la definizione delle prestazioni previste nei programmi di attivita' delle strutture accreditate, cosi' come definiti dall'articolo 8- quinquies.
 
@@ -989,9 +997,7 @@ q) prevedere l'estensione delle norme di cui al presente comma alle attivita' e 
 
 6. Entro centoventi giorni dalla data di entrata in vigore dell'atto di indirizzo e coordinamento di cui al comma 3, le regioni avviano il processo di accreditamento delle strutture temporaneamente accreditate ai sensi dell'[articolo 6, comma 6, della legge 23 dicembre 1994, n. 724](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-12-23;724~art6-com6), e delle altre gia' operanti.
 
-7. Nel caso di richiesta di accreditamento da parte di nuove strutture o per l'avvio di nuove attivita' in strutture preesistenti, l'accreditamento puo' essere concesso in base alla qualita' e ai volumi dei servizi da erogare, nonche' sulla base dei risultati dell'attivita' eventualmente gia' svolta, tenuto altresi' conto degli obiettivi di sicurezza delle prestazioni sanitarie e degli esiti delle attivita' di controllo, vigilanza e monitoraggio per la valutazione delle attivita' erogate in termini di qualita', sicurezza ed appropriatezza, le cui modalita' sono definite con decreto del Ministro della salute, da adottare entro novanta giorni dalla data di entrata in vigore della presente disposizione, previa intesa in sede di Conferenza permanente per i rapporti tra lo Stato, le regioni e le province autonome di Trento e di Bolzano, ai sensi dell'[articolo 8, comma 6, della legge 5 giugno 2003, n. 131](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2003-06-05;131~art8-com6).
-
-((66))
+7. Nel caso di richiesta di accreditamento da parte di nuove strutture o per l'avvio di nuove attivita' in strutture preesistenti, l'accreditamento puo' essere concesso in base alla qualita' e ai volumi dei servizi da erogare, nonche' sulla base dei risultati dell'attivita' eventualmente gia' svolta, tenuto altresi' conto degli obiettivi di sicurezza delle prestazioni sanitarie e degli esiti delle attivita' di controllo, vigilanza e monitoraggio per la valutazione delle attivita' erogate in termini di qualita', sicurezza ed appropriatezza, le cui modalita' sono definite con decreto del Ministro della salute, da adottare entro novanta giorni dalla data di entrata in vigore della presente disposizione, previa intesa in sede di Conferenza permanente per i rapporti tra lo Stato, le regioni e le province autonome di Trento e di Bolzano, ai sensi dell'[articolo 8, comma 6, della legge 5 giugno 2003, n. 131](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2003-06-05;131~art8-com6). (66)
 
 8. In presenza di una capacita' produttiva superiore al fabbisogno determinato in base ai criteri di cui al comma 3, lettera b), le regioni e le unita' sanitarie locali attraverso gli accordi contrattuali di cui all'articolo 8-quinquies, sono tenute a porre a carico del Servizio sanitario nazionale un volume di attivita' comunque non superiore a quello previsto dagli indirizzi della programmazione nazionale. In caso di superamento di tale limite, ed in assenza di uno specifico e adeguato intervento integrativo ai sensi dell'articolo 13, si procede, con le modalita' di cui all'[articolo 28, commi 9 e seguenti, della legge 23 dicembre 1998, n.448](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1998-12-23;448~art28-com9), alla revoca dell'accreditamento della capacita' produttiva in eccesso, in misura proporzionale al concorso a tale superamento apportato dalle strutture pubbliche ed equiparate, dalle strutture private non lucrative e dalle strutture private lucrative.
 
