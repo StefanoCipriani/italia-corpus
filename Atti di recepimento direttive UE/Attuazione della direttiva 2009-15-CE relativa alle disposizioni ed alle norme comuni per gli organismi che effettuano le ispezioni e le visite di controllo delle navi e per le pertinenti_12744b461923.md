@@ -116,14 +116,10 @@ b) nave battente bandiera di uno Stato membro: una nave registrata in uno Stato 
 
 c) ispezioni e controlli: ispezioni e controlli che sono obbligatori in forza delle convenzioni internazionali;
 
-((
-
 d) convenzioni internazionali: le convenzioni di seguito indicate, unitamente ai protocolli, ai successivi emendamenti e relativi codici obbligatori, ad eccezione della parte 2, paragrafi 16.1, 18.1 e 19, del codice per l'applicazione degli strumenti dell'IMO, nonche' della parte 2, sezioni 1.1, 1.3, 3.9.3.1, 3.9.3.2 e 3.9.3.3, del codice IMO per gli organismi riconosciuti, nelle loro versioni aggiornate:   
 1) la Convenzione internazionale del 1° novembre 1974 per la salvaguardia della vita umana in mare (SOLAS 74), resa esecutiva con [legge 23 maggio 1980, n. 313](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1980-05-23;313), ad eccezione del capo XI-2 del relativo allegato;   
 2) la Convenzione internazionale del 5 aprile 1966 sulla linea di carico (LL66), resa esecutiva con [decreto del Presidente della Repubblica 8 aprile 1968, n. 777](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1968-04-08;777), entrato in vigore il 21 luglio 1968;   
 3) la Convenzione internazionale del 2 novembre 1973 per la prevenzione dell'inquinamento causato da navi (MARPOL 73/78), ratificata con [legge 29 settembre 1980, n. 662](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1980-09-29;662), entrata in vigore in Italia il 2 ottobre 1983;
-
-))
 
 e) organismo: un soggetto giuridico ed i soggetti da esso controllati e collegati, che svolgono compiti rientranti nel campo di applicazione del presente decreto;
 
@@ -139,7 +135,11 @@ l) norme e procedure: le prescrizioni fissate da un organismo riconosciuto per l
 
 m) certificato di classe: il documento rilasciato da un organismo riconosciuto che certifica l'idoneita' delle navi a determinati impieghi o servizi secondo le norme e procedure fissate e rese pubbliche dall'organismo stesso;
 
-n) Amministrazione: il Ministero delle infrastrutture e dei trasporti, con riferimento alla convenzione sulla salvaguardia della vita umana in mare ed alla convenzione sulla linea di carico, ed il Ministero dell'ambiente e della tutela del territorio e del mare, con riferimento alla convenzione sulla prevenzione dell'inquinamento del mare da navi;
+n)
+
+((Amministrazione: il Ministero delle infrastrutture e dei trasporti, con riferimento alle convenzioni di cui alla lettera d), numeri 1) e 2), il Ministero dell'ambiente e della sicurezza energetica, con riferimento alla convenzione di cui alla lettera d), numero 3), e il Ministero delle imprese e del made in Italy, con riferimento alla convenzione di cui alla lettera d), numero 1), per la parte riguardante le ispezioni e i controlli ai fini del rilascio del certificato di sicurezza radioelettrica per navi da carico e, per quanto di competenza, ai fini del rilascio e rinnovo del certificato di sicurezza passeggeri))
+
+;
 
 o) autorita' marittime locali: gli uffici locali in conformita' alle attribuzioni loro conferite dall'[articolo 17 del codice della navigazione](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-03-30;327~art17), approvato con [regio decreto 30 marzo 1942, n. 327](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-03-30;327);
 
@@ -167,9 +167,17 @@ Art. 5
 
 Affidamento
 
-1. Fatto salvo quanto disposto dal comma 2, il Ministero delle infrastrutture e dei trasporti, con proprio decreto, di concerto con il Ministero dell'ambiente e della tutela del territorio e del mare per i profili di competenza, ove non provveda ad effettuare direttamente le ispezioni e i controlli relativi al rilascio dei certificati statutari, affida i suddetti compiti di ispezione e controllo ai fini del rilascio dei certificati statutari agli organismi riconosciuti che ne fanno domanda e che sono in possesso dei requisiti fissati in materia dal presente decreto, riservandosi il potere di rilascio dei certificati stessi.
+1. Fatto salvo quanto disposto dal comma 2, il Ministero delle infrastrutture e dei trasporti, con proprio decreto,
+
+((di concerto con il Ministero dell'ambiente e della sicurezza energetica e il Ministero delle imprese e del made in Italy))
+
+per i profili di competenza, ove non provveda ad effettuare direttamente le ispezioni e i controlli relativi al rilascio dei certificati statutari, affida i suddetti compiti di ispezione e controllo ai fini del rilascio dei certificati statutari agli organismi riconosciuti che ne fanno domanda e che sono in possesso dei requisiti fissati in materia dal presente decreto, riservandosi il potere di rilascio dei certificati stessi.
 
 2. Il Ministero dello sviluppo economico effettua le ispezioni ed i controlli ai fini del rilascio del certificato di sicurezza radioelettrica per navi da carico e, per quanto di competenza, ai fini del rilascio del certificato di sicurezza passeggeri.
+
+((Nei casi previsti dalla legge, il Ministero delle imprese e del made in Italy provvede all'affidamento a organismi riconosciuti con proprio provvedimento, da adottare di concerto con il Ministero delle infrastrutture e dei trasporti, secondo il procedimento di cui all'articolo 8. Per le sospensioni o le revoche di cui all'articolo 11 e' competente il medesimo Ministero delle imprese e del made in Italy, al quale sono trasmesse tutte le informazioni di cui all'articolo 10. I certificati per i quali i compiti di ispezione e controllo sono stati dati in affidamento ai sensi dell'[articolo 176, comma 3, del codice delle comunicazioni elettroniche](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2003-08-01;259~art176-com3), di cui al [decreto legislativo 1° agosto 2003, n. 259](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2003-08-01;259), sono rilasciati in Italia direttamente dall'Amministrazione, per il tramite delle autorita' marittime locali e, all'estero, per il tramite delle autorita' consolari o, in entrambi i casi, dagli organismi riconosciuti, qualora delegati dall'Amministrazione))
+
+.
 
 3. I certificati statutari per i quali i compiti di ispezione e controllo sono stati dati in affidamento ai sensi del comma 1 sono rilasciati in Italia direttamente dall'Amministrazione, per il tramite delle autorita' marittime locali e, all'estero, per il tramite delle autorita' consolari.
 
@@ -207,8 +215,7 @@ e) le disposizioni per la comunicazione obbligatoria e per la pubblicazione sul 
 Art. 8
 ------
 
-Modalita' e condizioni per l'autorizzazione   
-e l'affidamento
+Modalita' e condizioni per l'autorizzazione e l'affidamento
 
 1. L'organismo riconosciuto, per essere autorizzato ai sensi dell'articolo 4 ovvero affidato ai sensi dell'articolo 5, deve:
 
@@ -222,7 +229,11 @@ a) testo in lingua italiana o inglese delle norme, con le relative interpretazio
 
 b) documentazione comprovante l'istituzione di una rappresentanza con personalita' giuridica nel territorio dello Stato italiano.
 
-3. Il Ministero delle infrastrutture e dei trasporti, con proprio decreto, di concerto con il Ministero dell'ambiente e della tutela del territorio e del mare per i profili di competenza, adotta i provvedimenti di autorizzazione e di affidamento entro il termine di centottanta giorni dalla data di ricevimento delle istanze.
+3. Il Ministero delle infrastrutture e dei trasporti, con proprio decreto,
+
+((di concerto con il Ministero dell'ambiente e della sicurezza energetica e con il Ministero delle imprese e del made in Italy, ciascuno))
+
+per i profili di competenza, adotta i provvedimenti di autorizzazione e di affidamento entro il termine di centottanta giorni dalla data di ricevimento delle istanze.
 
 Art. 9
 ------
@@ -250,6 +261,12 @@ Informazioni
 
 a) trasmette una copia di ogni certificato rilasciato e, in caso di ispezione iniziale, il rapporto di ispezione;
 
+a-bis)
+
+((trasmette copia del verbale di ispezione ordinaria effettuata ai fini della sorveglianza sugli apparati radioelettrici di bordo))
+
+;
+
 b) trasmette tutte le informazioni relative alle assegnazioni, ai trasferimenti, alle modifiche, alle sospensioni o alle revoche di classe;
 
 c) informa su deficienze o inadeguatezze riscontrate nelle navi certificate;
@@ -270,49 +287,43 @@ l) fornisce, su richiesta, ogni altra informazione utile ai fini della valutazio
 
 2. L'Amministrazione puo' richiedere le informazioni di cui al comma 1 anche in formato elettronico.
 
-Note all'[art. 10:   
-- La direttiva 2009/16/CE](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:32009L0016) e' pubblicata nella G.U.U.E. 28 maggio 2009, n. L 131.
-
 Art. 11
 -------
 
-Sospensione e revoca dell'autorizzazione   
-o dell'affidamento
+Sospensione e revoca dell'autorizzazione o dell'affidamento
 
-1. Il Ministero delle infrastrutture e dei trasporti, quando ritiene che un organismo riconosciuto non possa piu' essere affidato o autorizzato a svolgere per suo conto i compiti ad esso delegati, sospende, con decreto, di concerto con il Ministero dell'ambiente e della tutela del territorio e del mare per i profili di competenza, l'autorizzazione o l'affidamento, previa contestazione all'organismo dei relativi motivi e fissando un termine di trenta giorni per ricevere eventuali elementi giustificativi e controdeduzioni.
+1. Il Ministero delle infrastrutture e dei trasporti, quando ritiene che un organismo riconosciuto non possa piu' essere affidato o autorizzato a svolgere per suo conto i compiti ad esso delegati, sospende, con decreto,
+
+((di concerto con il Ministero dell'ambiente e della sicurezza energetica e con il Ministero delle imprese e del made in Italy, ciascuno))
+
+per i profili di competenza, l'autorizzazione o l'affidamento, previa contestazione all'organismo dei relativi motivi e fissando un termine di trenta giorni per ricevere eventuali elementi giustificativi e controdeduzioni.
 
 2. La sospensione puo' essere giustificata anche da motivi di grave rischio per la sicurezza o per l'ambiente. In tale caso, l'Amministrazione adotta il provvedimento di sospensione, prescindendo dalla contestazione di cui al comma 1.
 
-3. Nel caso in cui l'Amministrazione proceda alla sospensione di cui al comma 1 perche' ritiene che l'organismo autorizzato o affidato non svolga piu' con efficacia ed in modo soddisfacente le funzioni ad esso delegate, essa indica nel provvedimento di sospensione i modi e i termini entro i quali l'organismo dovra' ottemperare per risolvere le carenze contestate nel provvedimento stesso. Decorso inutilmente il termine stabilito nel provvedimento di sospensione, il Ministero delle infrastrutture e dei trasporti, con decreto di concerto con il Ministero dell'ambiente e della tutela del territorio e del mare per i profili di competenza, revoca l'autorizzazione o l'affidamento.
+3. Nel caso in cui l'Amministrazione proceda alla sospensione di cui al comma 1 perche' ritiene che l'organismo autorizzato o affidato non svolga piu' con efficacia ed in modo soddisfacente le funzioni ad esso delegate, essa indica nel provvedimento di sospensione i modi e i termini entro i quali l'organismo dovra' ottemperare per risolvere le carenze contestate nel provvedimento stesso. Decorso inutilmente il termine stabilito nel provvedimento di sospensione, il Ministero delle infrastrutture e dei trasporti, con decreto
 
-4. Il Ministero delle infrastrutture e trasporti, con decreto di concerto con il Ministero dell'ambiente e della tutela del territorio e del mare, revoca l'autorizzazione ovvero l'affidamento in caso di revoca del riconoscimento di cui all'[articolo 7 del regolamento (CE) n. 391/2009](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:32009R0391).
+((di concerto con il Ministero dell'ambiente e della sicurezza energetica e con il Ministero delle imprese e del made in Italy, ciascuno))
+
+per i profili di competenza, revoca l'autorizzazione o l'affidamento.
+
+4. Il Ministero delle infrastrutture e trasporti, con decreto
+
+((di concerto con il Ministero dell'ambiente e della sicurezza energetica e con il Ministero delle imprese e del made in Italy, ciascuno per i profili di competenza))
+
+, revoca l'autorizzazione ovvero l'affidamento in caso di revoca del riconoscimento di cui all'[articolo 7 del regolamento (CE) n. 391/2009](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:32009R0391).
 
 5. L'Amministrazione comunica immediatamente alla Commissione europea e agli altri Stati membri i provvedimenti di sospensione e di revoca di cui ai commi 1, 2, 3 e 4, indicandone le motivazioni.
-
-Note all'art. 11:   
-- Il testo dell'[art. 7 del regolamento (CE) n. 391/2009](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:32009R0391), citato nelle note alle premesse, cosi' recita:   
-«Art. 7 - 1. La Commissione revoca il riconoscimento di un organismo:   
-a) se il mancato rispetto in forma ripetuta e grave dei criteri minimi fissati nell'allegato I o dei suoi obblighi a norma del presente regolamento e' tale da costituire una minaccia inaccettabile per la sicurezza o per l'ambiente;   
-b) se le mancate prestazioni in materia di sicurezza e di prevenzione dell'inquinamento sono, in forma ripetuta e grave, tali da costituire una minaccia inaccettabile per la sicurezza o per l'ambiente;   
-c) se impedisce o ostacola ripetutamente la valutazione da parte della Commissione;   
-d) se non paga le ammende e/o le penalita' di mora di cui all'art. 6, paragrafi 1 e 2; o   
-e) se cerca di ottenere la copertura finanziaria o il rimborso delle ammende inflittegli ai sensi dell'art. 6.   
-2. Ai fini delle lettere a) e b) del paragrafo 1, la Commissione decide sulla base di tutte le informazioni disponibili, ed in particolare in base:   
-a) ai risultati della propria valutazione dell'organismo riconosciuto interessato, a norma dell'art. 8, paragrafo 1;   
-b) alle relazioni presentate dagli Stati membri a norma dell'[art. 10 della direttiva 2009/15/CE](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:32009L0015);   
-c) alle analisi dei sinistri in cui sono state coinvolte navi classificate dagli organismi riconosciuti;   
-d) ad ogni eventuale ripetersi delle deficienze di cui all'art. 6, paragrafo 1, lettera a);   
-e) alla misura in cui e' colpita la flotta classificata dall'organismo riconosciuto; e   
-f) all'inefficacia dei provvedimenti di cui all'art. 6, paragrafo 2.   
-3. La revoca del riconoscimento e' decisa dalla Commissione, di propria iniziativa o su richiesta di uno Stato membro, secondo la procedura di regolamentazione di cui all'art. 12, paragrafo 3, e dopo aver dato all'organismo riconosciuto interessato la possibilita' di presentare le proprie osservazioni.».
 
 Art. 12
 -------
 
-Spese per il rilascio dell'autorizzazione   
-e per l'affidamento
+Spese per il rilascio dell'autorizzazione e per l'affidamento
 
 1. Con decreto del Ministro delle infrastrutture e dei trasporti, di concerto con il Ministro dell'ambiente e della tutela del territorio e del mare e con il Ministro dell'economia e delle finanze, sono determinate, sulla base del costo effettivo del servizio reso, le tariffe a carico degli organismi richiedenti per la copertura delle spese connesse con le procedure di autorizzazione o affidamento, ivi comprese le verifiche presso gli organismi istanti, nonche' quelle per il rilascio dei certificati. Con lo stesso decreto sono stabilite le modalita' di versamento delle tariffe medesime.
+
+((Per i casi di cui all'articolo 5, comma 2, le tariffe a carico degli organismi sono determinate con decreto del Ministro delle imprese e del made in Italy, di concerto con il Ministro delle infrastrutture e dei trasporti e con il Ministro dell'economia e delle finanze))
+
+.
 
 Art. 13
 -------

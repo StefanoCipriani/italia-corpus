@@ -398,11 +398,19 @@ Art. 6
 
 Tavolo interministeriale di coordinamento
 
-1. Allo scopo di definire il processo di pianificazione degli usi e delle attivita' afferenti lo spazio marittimo e' costituito un Tavolo interministeriale di coordinamento sulla pianificazione dello spazio marittimo, di seguito denominato Tavolo interministeriale di coordinamento, presso il Dipartimento per le politiche europee della Presidenza del Consiglio dei ministri, di cui fanno parte un rappresentante per ciascuno dei seguenti Ministeri: degli affari esteri e della cooperazione internazionale, delle infrastrutture e dei trasporti, dello sviluppo economico, delle politiche agricole, alimentari e forestali, dell'ambiente e della tutela del mare e del territorio, dei beni culturali e delle attivita' culturali e del turismo, della difesa, dell'istruzione e della ricerca scientifica, della salute, del lavoro e delle politiche sociali, dell'economia e delle finanze,
+1. Allo scopo di definire il processo di pianificazione degli usi e delle attivita' afferenti lo spazio marittimo e' costituito un Tavolo interministeriale di coordinamento sulla pianificazione dello spazio marittimo, di seguito denominato Tavolo interministeriale di coordinamento, presso il
 
-((del Dipartimento per le politiche del mare della Presidenza del Consiglio dei ministri,))
+((Dipartimento per le politiche del mare della Presidenza del Consiglio dei ministri))
 
-del Dipartimento per gli affari regionali, le autonomie e lo sport della presidenza del Consiglio dei ministri e dell'Agenzia delle dogane e dei monopoli. Il tavolo e' presieduto da un rappresentante del Dipartimento per le politiche europee della Presidenza del Consiglio dei ministri. Ai componenti del Tavolo interministeriale non spettano gettoni di presenza, compensi, rimborsi spese o altri emolumenti comunque denominati.
+, di cui fanno parte un rappresentante per ciascuno dei seguenti Ministeri: degli affari esteri e della cooperazione internazionale, delle infrastrutture e dei trasporti, dello sviluppo economico, delle politiche agricole, alimentari e forestali, dell'ambiente e della tutela del mare e del territorio, dei beni culturali e delle attivita' culturali e del turismo, della difesa, dell'istruzione e della ricerca scientifica, della salute, del lavoro e delle politiche sociali, dell'economia e delle finanze,
+
+((del Dipartimento per gli affari europei della Presidenza del Consiglio dei ministri,))
+
+del Dipartimento per le politiche del mare della Presidenza del Consiglio dei ministri, del Dipartimento per gli affari regionali, le autonomie e lo sport della presidenza del Consiglio dei ministri e dell'Agenzia delle dogane e dei monopoli. Il tavolo e' presieduto
+
+((dal rappresentante del Dipartimento per le politiche del mare della Presidenza del Consiglio dei ministri))
+
+. Ai componenti del Tavolo interministeriale non spettano gettoni di presenza, compensi, rimborsi spese o altri emolumenti comunque denominati.
 
 2. Il Tavolo interministeriale di coordinamento, sentita la Conferenza nazionale di coordinamento delle Autorita' di sistema portuale, definisce per ogni sottoregione marina le linee guida contenenti gli indirizzi e i criteri per la predisposizione dei piani di gestione dello spazio marittimo e l'individuazione delle aree marittime di riferimento, nonche' di quelle terrestri rilevanti per le interazioni terra-mare.
 
