@@ -371,39 +371,31 @@ Organismi pagatori riconosciuti
 
 Centri autorizzati di assistenza agricola
 
-1. Gli organismi pagatori,
-
-((le regioni e le Province autonome di Trento e di Bolzano,))
-
-ai sensi dell'[articolo 7, paragrafo 1, del regolamento (UE) n. 1306/2013](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:32013R1306) e nel rispetto dell'allegato I, punto 1, [lettera C, del regolamento (UE) n. 907/2014](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:32014R0907), fatte salve le specifiche competenze attribuite ai professionisti iscritti agli ordini e ai collegi professionali, possono, con apposita convenzione, incaricare Centri autorizzati di assistenza agricola (CAA), di cui al comma 3, ad effettuare, per conto dei propri utenti e sulla base di specifico mandato scritto, le seguenti attivita':
+1. Gli organismi pagatori, le regioni e le Province autonome di Trento e di Bolzano, ai sensi dell'[articolo 7, paragrafo 1, del regolamento (UE) n. 1306/2013](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:32013R1306) e nel rispetto dell'allegato I, punto 1, [lettera C, del regolamento (UE) n. 907/2014](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:32014R0907), fatte salve le specifiche competenze attribuite ai professionisti iscritti agli ordini e ai collegi professionali, possono, con apposita convenzione, incaricare Centri autorizzati di assistenza agricola (CAA), di cui al comma 3, ad effettuare, per conto dei propri utenti e sulla base di specifico mandato scritto, le seguenti attivita':
 
 a) tenere ed eventualmente conservare le scritture contabili;
 
 b) costituire ed aggiornare il fascicolo aziendale di cui alle vigenti disposizioni, in formato elettronico, acquisendo la documentazione a tal fine necessaria, previa verifica della relativa regolarita' formale anche sulla base delle procedure operative stabilite nelle convenzioni;
 
-((
-
 c) assistere gli utenti nella elaborazione e nell'inoltro delle dichiarazioni di coltivazione e di produzione, avvalendosi delle procedure rese disponibili dalle amministrazioni interessate, nonche' nell'elaborazione e nell'inoltro di istanze e dichiarazioni riferite ai procedimenti amministrativi di interesse per la loro attivita' agricola;
-
-))
 
 d) assistere gli utenti nell'elaborazione delle domande di ammissione a benefici comunitari, nazionali e regionali e provvedere al relativo inoltro avvalendosi delle procedure rese disponibili dal sistema informativo dell'organismo pagatore e previa verifica della regolarita' formale delle medesime domande;
 
 e) interrogare nell'interesse degli utenti le banche dati del SIAN ai fini della consultazione dello stato di ciascuna pratica relativa ai medesimi.
 
-((
-
 1-bis. Al fine di migliorare l'efficienza della rete di rilevazione preposta allo svolgimento delle statistiche ufficiali in materia agricola e, in particolare, dei censimenti dell'agricoltura di cui all'[articolo 1, comma 227, della legge 27 dicembre 2017, n. 205](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2017-12-27;205~art1-com227), l'ISTAT e gli altri soggetti del Sistema statistico nazionale possono avvalersi dei CAA per provvedere alla raccolta dei dati di base, previa stipula di apposite convenzioni, anche a titolo oneroso.
-
-))
 
 2. I CAA, fatte salve le attivita' che la legge riserva ai professionisti abilitati, accertano ed attestano, previo mandato dei propri utenti e compatibilmente con l'esercizio delle competenze ad essi assegnate dalla legge, fatti o circostanze di ordine tecnico concernenti situazioni o dati certi relativi all'esercizio dell'attivita' di impresa.
 
-3. I CAA sono istituiti, per l'esercizio di attivita' di assistenza alle imprese agricole, nella forma di societa' di capitali, dalle organizzazioni professionali agricole maggiormente rappresentative o da loro associazioni, da associazioni dei produttori e dei lavoratori, da associazioni di liberi professionisti e dagli enti di patronato e di assistenza professionale che svolgono servizi analoghi, promossi dalle organizzazioni sindacali. Con decreto del Ministro,
+3. I CAA sono
 
-((da adottarsi secondo le modalita' di cui all'articolo 9, comma 4,))
+((costituiti))
 
-d'intesa con la Conferenza permanente per i rapporti tra lo Stato, le regioni e le province autonome di Trento e di Bolzano, sono stabiliti i requisiti di garanzia e di funzionamento che i CAA devono possedere per l'esercizio delle attivita' di cui ai commi 1 e 2 e per lo svolgimento delle attivita' delle regioni e degli organismi pagatori di cui al presente articolo, nonche' per le attivita' svolte dall'organismo di coordinamento ai sensi dell'articolo 3, comma 5, lettera p).
+, per l'esercizio di attivita' di assistenza alle imprese agricole, nella forma di societa' di capitali, dalle organizzazioni professionali agricole maggiormente rappresentative o da loro associazioni, da associazioni dei produttori e dei lavoratori, da associazioni di liberi professionisti e dagli enti di patronato e di assistenza professionale che svolgono servizi analoghi, promossi dalle organizzazioni sindacali.
+
+((I soggetti di cui al primo periodo non possono costituire un CAA qualora nei sei mesi antecedenti alla richiesta di autorizzazione alla costituzione di un CAA abbiano partecipato alla compagine sociale di un diverso CAA al quale sia stata revocata l'autorizzazione ai sensi della normativa vigente. Il medesimo divieto si applica, per un periodo di due anni, in caso di reiterazione della condotta nei cinque anni successivi alla scadenza del primo divieto e, per un periodo di dieci anni, in caso di reiterazione intervenuta nei successivi cinque anni))
+
+Con decreto del Ministro, da adottarsi secondo le modalita' di cui all'articolo 9, comma 4, d'intesa con la Conferenza permanente per i rapporti tra lo Stato, le regioni e le province autonome di Trento e di Bolzano, sono stabiliti i requisiti di garanzia e di funzionamento che i CAA devono possedere per l'esercizio delle attivita' di cui ai commi 1 e 2 e per lo svolgimento delle attivita' delle regioni e degli organismi pagatori di cui al presente articolo, nonche' per le attivita' svolte dall'organismo di coordinamento ai sensi dell'articolo 3, comma 5, lettera p).
 
 4. Per le attivita' di cui al presente articolo, i CAA hanno la responsabilita' della identificazione del produttore e dell'accertamento del titolo di conduzione dell'azienda, della corretta immissione dei dati, del rispetto per quanto di competenza delle disposizioni della normativa dell'Unione europea applicabile, nonche' la facolta' di accedere alle banche dati del SIAN, secondo le modalita' previste a tale scopo. Il trattamento dei dati relativi ai propri utenti che abbiano rilasciato delega espressa in tal senso avviene nel rispetto della normativa nazionale e dell'Unione europea in materia di protezione dei dati personali.
 
@@ -412,6 +404,22 @@ d'intesa con la Conferenza permanente per i rapporti tra lo Stato, le regioni e 
 6. Ai fini della stipulazione della convenzione di cui al comma 1 e per garantire un adeguato e uniforme livello di servizio, gli organismi pagatori, sentito l'organismo di coordinamento, possono definire ulteriori requisiti inerenti alla consistenza numerica, alla competenza ed onorabilita' del personale dipendente nonche' alle risorse strumentali tecnologiche impiegate dai CAA per lo svolgimento delle attivita' di cui al comma 1.
 
 7. Gli organismi pagatori, sentito l'organismo di coordinamento, nel rispetto della normativa dell'Unione europea e fatti salvi i controlli obbligatori da questa previsti, nonche' le previsioni contenute nelle convenzioni di cui al comma 1, possono prevedere procedure semplificate per l'istruttoria delle istanze presentate per il tramite dei CAA, anche avvalendosi di sistemi automatizzati di valutazione delle stesse.
+
+### Art. 6-bis
+
+(( (Illeciti amministrativi). ))
+
+1. 
+
+((Salvo che il fatto costituisca reato, i CAA che svolgano le attivita' di cui all'articolo 6, comma 1, lettere b), c) e d), a favore di imprese agricole aventi sede legale in ambiti territoriali diversi da quelli per i quali i CAA abbiano ottenuto l'autorizzazione ad operare ai sensi e per gli effetti del decreto di cui all'articolo 6, comma 3, sono soggetti alla sanzione amministrativa pecuniaria da euro 2.000 a euro 8.000))
+
+.
+
+2. 
+
+((L'Agenzia e' l'autorita' competente per l'accertamento delle violazioni di cui al presente articolo nonche' per l'irrogazione delle relative sanzioni che si applicano secondo le modalita' di cui alla [legge 24 novembre 1981, n. 689](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1981-11-24;689). I proventi del pagamento delle sanzioni amministrative pecuniarie sono versati all'entrata del bilancio dello Stato per essere riassegnati ai pertinenti capitoli di spesa del bilancio del Ministero dell'agricoltura, della sovranita' alimentare e delle foreste))
+
+.
 
 ### Art. 7
 
