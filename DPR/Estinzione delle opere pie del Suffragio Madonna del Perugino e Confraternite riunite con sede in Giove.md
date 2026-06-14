@@ -1,19 +1,21 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 26 settembre 1968 n. 1145
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 1145
+data: 1968-09-26
+titolo: "Estinzione delle opere pie \"del Suffragio\", \"Madonna del Perugino\" e \"Confraternite riunite\", con sede in Giove."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1968-09-26;1145
+codice_redazionale: 068U1145
+vigente: true
+---
 
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 26 settembre 1968 n. 1145
-=================================================================
-
-Estinzione delle opere pie "del Suffragio", "Madonna del Perugino" e "Confraternite riunite", con sede in Giove.
-----------------------------------------------------------------------------------------------------------------
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-1145. Decreto del Presidente della Repubblica 26 settembre 1968, col quale, sulla proposta del Ministro per l'interno, le opere pie "del Suffragio", "Madonna del Perugino" e "Confraternite riunite", con sede in Giove (Terni) vengono dichiarate estinte e i relativi patrimoni devoluti al locale ente comunale di assistenza.  
-  
-Visto, il Guardasigilli: GONELLA  
-Registrato alla Corte dei conti, addi' 11 novembre 1968  
-Atti del Governo, registro n. 223, foglio n. 120. - DI PRETORO
+1145.
+
+Decreto del Presidente della Repubblica 26 settembre 1968, col quale, sulla proposta del Ministro per l'interno, le opere pie "del Suffragio", "Madonna del Perugino" e "Confraternite riunite", con sede in Giove (Terni) vengono dichiarate estinte e i relativi patrimoni devoluti al locale ente comunale di assistenza.
+
+Visto, il Guardasigilli: GONELLA
+ Registrato alla Corte dei conti, addi' 11 novembre 1968
+ Atti del Governo, registro n. 223, foglio n. 120. - DI PRETORO

@@ -1,20 +1,20 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 gennaio 1962 n. 706
-
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 gennaio 1962 n. 706
-==============================================================
-
-Norme sull'indennita' di mensa per i dipendenti dalle imprese di spedizioni, autotrasporti, corrieri ed ippotrasporti della provincia di Torino.
-------------------------------------------------------------------------------------------------------------------------------------------------
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 706
+data: 1962-01-02
+titolo: "Norme sull'indennita' di mensa per i dipendenti dalle imprese di spedizioni, autotrasporti, corrieri ed ippotrasporti della provincia di Torino."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1962-01-02;706
+codice_redazionale: 062U0706
+vigente: true
+---
 
 IL PRESIDENTE DELLA REPUBBLICA
-------------------------------
 
-Visto l'[art. 87, comma quinto della Costituzione](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27~art87-com5);
+Visto l'[art. 87, comma quinto della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87-com5);
 
-Vista la [legge 11 luglio 1959, n. 741](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1959-07-11;741), che delega il Governo ad emanare norme transitorie per garantire minimi di trattamento economico e normativo ai lavoratori;
+Vista la [legge 11 luglio 1959, n. 741](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1959-07-11;741), che delega il Governo ad emanare norme transitorie per garantire minimi di trattamento economico e normativo ai lavoratori;
 
-Vista la legge ottobre 1960, n. 1027, recante modifiche alla predetta [legge 14 luglio 1959, n. 741](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1959-07-14;741);
+Vista la legge ottobre 1960, n. 1027, recante modifiche alla predetta [legge 14 luglio 1959, n. 741](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1959-07-14;741);
 
 Visto l'accordo interconfederale 20 aprile 1956 sulla computabilita' della indennita' di mensa nella retribuzione, valevole ai fini degli istituti contrattuali;
 
@@ -24,37 +24,15 @@ Vista la pubblicazione nell'apposito Bollettino, n. 10 della provincia di Torino
 
 Sentito il Consiglio dei Ministri;
 
-Sulla
------
+Sulla proposta del Ministro per il lavoro e la previdenza sociale; Decreta:
 
-proposta del Ministro per il lavoro e la previdenza sociale; Decreta:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-I rapporti di lavoro costituiti per le attivita' per le quali e' stato stipulato, per la provincia di Torino, l'accordo collettivo 2 gennaio 1956 sull'indennita' di mensa, relativo ai dipendenti dalle aziende di spedizioni, autotrasporti, corrieri ed ippotrasporti, sono regolati da norme giuridiche uniformi alle clausole dell'accordo anzidetto, annesso al presente decreto, purche' compatibili con quelle concernenti la disciplina nazionale della categoria.  
-I minimi di trattamento economico e normativo cosi' stabiliti sono inderogabili nei confronti di tutti i dipendenti dalle imprese di spedizioni, autotrasporti, corrieri ed ippotrasporti della provincia di Torino.  
-  
+I rapporti di lavoro costituiti per le attivita' per le quali e' stato stipulato, per la provincia di Torino, l'accordo collettivo 2 gennaio 1956 sull'indennita' di mensa, relativo ai dipendenti dalle aziende di spedizioni, autotrasporti, corrieri ed ippotrasporti, sono regolati da norme giuridiche uniformi alle clausole dell'accordo anzidetto, annesso al presente decreto, purche' compatibili con quelle concernenti la disciplina nazionale della categoria.
+ I minimi di trattamento economico e normativo cosi' stabiliti sono inderogabili nei confronti di tutti i dipendenti dalle imprese di spedizioni, autotrasporti, corrieri ed ippotrasporti della provincia di Torino.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 2 gennaio 1962
+Dato a Roma, addi' 2 gennaio 1962
 
-GRONCHI FANFANI - SULLO
-
-Visto, il Guardasigilli: BOSCO
-
-Registrato alla Corte dei conti, addi' 11 giugno 1962
-
-Atti del Governo, registro n. 150, foglio n. 9. - VILLA
-
-Accordo
-
-ACCORDO COLLETTIVO 2 GENNAIO 1956 SULL'INDENNITA' DI MENSA PER I DIPENDENTI DALLE AZIENDE DI SPEDIZIONI, AUTOTRASPORTI, CORRIERI ED IPPOTRASPORTI DELLA PROVINCIA DI TORINO.   
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=062U070600100010110001&dgu=1962-07-10&art.dataPubblicazioneGazzetta=1962-07-10&art.codiceRedazionale=062U0706)
-  
+GRONCHI FANFANI - SULLO Visto, il Guardasigilli: BOSCO Registrato alla Corte dei conti, addi' 11 giugno 1962 Atti del Governo, registro n. 150, foglio n. 9. - VILLA

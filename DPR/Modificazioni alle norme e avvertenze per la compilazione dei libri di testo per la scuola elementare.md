@@ -1,13 +1,13 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 19 ottobre 1959 n. 1003
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 1003
+data: 1959-10-19
+titolo: "Modificazioni alle norme e avvertenze per la compilazione dei libri di testo per la scuola elementare."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1959-10-19;1003
+codice_redazionale: 059U1003
+vigente: true
+---
 
+## Art. 1.
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 19 ottobre 1959 n. 1003
-===============================================================
-
-Modificazioni alle norme e avvertenze per la compilazione dei libri di testo per la scuola elementare.
-------------------------------------------------------------------------------------------------------
-
-Art. 1
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 13 DICEMBRE 2010, N. 248](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2010-12-13;248)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))

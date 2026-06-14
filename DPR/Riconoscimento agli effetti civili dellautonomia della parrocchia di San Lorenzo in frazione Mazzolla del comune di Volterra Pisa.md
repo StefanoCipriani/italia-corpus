@@ -1,18 +1,20 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 settembre 1948 n. 1394
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 1394
+data: 1948-09-28
+titolo: "Riconoscimento, agli effetti civili, dell'autonomia della parrocchia di San Lorenzo, in frazione Mazzolla del comune di Volterra (Pisa)."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1948-09-28;1394
+codice_redazionale: 048U1394
+vigente: true
+---
 
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 settembre 1948 n. 1394
-=================================================================
-
-Riconoscimento, agli effetti civili, dell'autonomia della parrocchia di San Lorenzo, in frazione Mazzolla del comune di Volterra (Pisa).
-----------------------------------------------------------------------------------------------------------------------------------------
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-1391. Decreto del Presidente della Repubblica 28 settembre 1948, col quale, sulla proposta del Ministro per l'interno, viene riconosciuto, agli effetti civili, il decreto del Vescovo di Volterra in data 10 marzo 1948, col quale viene ridata autonomia alla parrocchia di San Lorenzo, in frazione Mazzolla del comune di Volterra (Pisa), separandola dalla Mensa vescovile di Volterra cui era stata unita ab antiquo.  
-  
-Visto, il Guardasigilli: GRASSI  
-Registrato alla Corte dei conti, addi' 27 novembre 1948
+1391.
+
+Decreto del Presidente della Repubblica 28 settembre 1948, col quale, sulla proposta del Ministro per l'interno, viene riconosciuto, agli effetti civili, il decreto del Vescovo di Volterra in data 10 marzo 1948, col quale viene ridata autonomia alla parrocchia di San Lorenzo, in frazione Mazzolla del comune di Volterra (Pisa), separandola dalla Mensa vescovile di Volterra cui era stata unita ab antiquo.
+
+Visto, il Guardasigilli: GRASSI
+ Registrato alla Corte dei conti, addi' 27 novembre 1948

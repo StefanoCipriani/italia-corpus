@@ -1,19 +1,21 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 20 agosto 1980 n. 1165
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 1165
+data: 1980-08-20
+titolo: "Istituzione di un istituto tecnico commerciale ad indirizzo amministrativo in Sant'Angelo Lodigiano."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1980-08-20;1165
+codice_redazionale: 080U1165
+vigente: true
+---
 
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 20 agosto 1980 n. 1165
-==============================================================
-
-Istituzione di un istituto tecnico commerciale ad indirizzo amministrativo in Sant'Angelo Lodigiano.
-----------------------------------------------------------------------------------------------------
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-1165. Decreto del Presidente della Repubblica 20 agosto 1980, col quale, sulla proposta del Ministro della pubblica istruzione, di concerto con i Ministri dell'interno e del tesoro, viene istituito in Sant'Angelo Lodigiano (Milano), a decorrere dall'inizio dell'anno scolastico 1980-81, un istituto tecnico commerciale ad indirizzo amministrativo e ne viene approvata la tabella organica.  
-  
-Visto, il Guardasigilli: DARIDA  
-Registrato alla Corte dei conti, addi' 30 luglio 1981  
-Registro n. 73 Istruzione, foglio n. 283
+1165.
+
+Decreto del Presidente della Repubblica 20 agosto 1980, col quale, sulla proposta del Ministro della pubblica istruzione, di concerto con i Ministri dell'interno e del tesoro, viene istituito in Sant'Angelo Lodigiano (Milano), a decorrere dall'inizio dell'anno scolastico 1980-81, un istituto tecnico commerciale ad indirizzo amministrativo e ne viene approvata la tabella organica.
+
+Visto, il Guardasigilli: DARIDA
+ Registrato alla Corte dei conti, addi' 30 luglio 1981
+ Registro n. 73 Istruzione, foglio n. 283

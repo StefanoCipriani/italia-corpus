@@ -1,20 +1,20 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 01 aprile 1978 n. 248
-
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 01 aprile 1978 n. 248
-=============================================================
-
-Conferma, ai sensi dell'art. 3 della legge 20 marzo 1975, n. 70, dell'Istituto nazionale del dramma antico.
------------------------------------------------------------------------------------------------------------
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 248
+data: 1978-04-01
+titolo: "Conferma, ai sensi dell'art. 3 della legge 20 marzo 1975, n. 70, dell'Istituto nazionale del dramma antico."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1978-04-01;248
+codice_redazionale: 078U0248
+vigente: true
+---
 
 IL PRESIDENTE DELLA REPUBBLICA
-------------------------------
 
-Visto l'[art. 87, comma quinto, della Costituzione](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27~art87-com5);
+Visto l'[art. 87, comma quinto, della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87-com5);
 
-Visto l'[art. 3 della legge 20 marzo 1975, n. 70](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1975-03-20;70~art3), recante delega al Governo per il riordinamento degli enti pubblici;
+Visto l'[art. 3 della legge 20 marzo 1975, n. 70](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1975-03-20;70#art_3), recante delega al Governo per il riordinamento degli enti pubblici;
 
-Visti gli atti delle indagini compiute dal comitato di cui all'[art. 3, comma quinto, della legge 20 marzo 1975, n. 70](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1975-03-20;70~art3-com5);
+Visti gli atti delle indagini compiute dal comitato di cui all'[art. 3, comma quinto, della legge 20 marzo 1975, n. 70](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1975-03-20;70#art_3-com5);
 
 Udito il parere della Commissione parlamentare di cui al comma ottavo dello stesso art. 3;
 
@@ -22,27 +22,14 @@ Ritenuto che l'ente pubblico "Istituto nazionale del dramma antico" e' necessari
 
 Sentito il Consiglio dei Ministri;
 
-Sulla
------
+Sulla proposta del Presidente del Consiglio dei Ministri, di concerto con i Ministri del tesoro, della pubblica istruzione, del turismo e dello spettacolo e delle finanze; Decreta:
 
-proposta del Presidente del Consiglio dei Ministri, di concerto con i Ministri del tesoro, della pubblica istruzione, del turismo e dello spettacolo e delle finanze; Decreta:
+## Articolo unico
 
-Articolo unico
---------------
-
-  
-L'ente pubblico "Istituto nazionale del dramma antico" e' dichiarato necessario ai fini dello sviluppo economico, civile, culturale e democratico del Paese, ed e' inserito nella categoria VII della tabella allegata alla [legge 20 marzo 1975, n. 70](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1975-03-20;70).  
-  
+L'ente pubblico "Istituto nazionale del dramma antico" e' dichiarato necessario ai fini dello sviluppo economico, civile, culturale e democratico del Paese, ed e' inserito nella categoria VII della tabella allegata alla [legge 20 marzo 1975, n. 70](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1975-03-20;70).
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 1 aprile 1978
+Dato a Roma, addi' 1 aprile 1978
 
-LEONE ANDREOTTI - PANDOLFI - PEDINI - PASTORINO - MALFATTI
-
-Visto, il Guardasigilli: BONIFACIO
-
-Registrato alla Corte dei conti, addi' 2 giugno 1978
-
-Atti di Governo, registro n. 18, foglio n. 2
+LEONE ANDREOTTI - PANDOLFI - PEDINI - PASTORINO - MALFATTI Visto, il Guardasigilli: BONIFACIO Registrato alla Corte dei conti, addi' 2 giugno 1978 Atti di Governo, registro n. 18, foglio n. 2

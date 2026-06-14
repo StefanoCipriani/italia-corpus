@@ -1,20 +1,20 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 gennaio 1962 n. 898
-
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 gennaio 1962 n. 898
-==============================================================
-
-Norme sul trattamento economico e normativo dei lavoratori dipendenti dalle imprese artigiane della provincia di Torino.
-------------------------------------------------------------------------------------------------------------------------
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 898
+data: 1962-01-02
+titolo: "Norme sul trattamento economico e normativo dei lavoratori dipendenti dalle imprese artigiane della provincia di Torino."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1962-01-02;898
+codice_redazionale: 062U0898
+vigente: true
+---
 
 IL PRESIDENTE DELLA REPUBBLICA
-------------------------------
 
 Visto l'art. 87, comma, quinto, della Costituzione;
 
-Vista la [legge 14 luglio 1959, n. 741](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1959-07-14;741), che delega il Governo ad emanare norme transitorie per garantire minimi di trattamento economico e normativo ai lavoratori;
+Vista la [legge 14 luglio 1959, n. 741](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1959-07-14;741), che delega il Governo ad emanare norme transitorie per garantire minimi di trattamento economico e normativo ai lavoratori;
 
-Vista la [legge 1 ottobre 1960, n. 1027](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1960-10-01;1027), recante modifiche alla predetta [legge 14 luglio 1959, n. 741](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1959-07-14;741);
+Vista la [legge 1 ottobre 1960, n. 1027](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1960-10-01;1027), recante modifiche alla predetta [legge 14 luglio 1959, n. 741](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1959-07-14;741);
 
 Visti, per la provincia di Torino:
 
@@ -120,473 +120,64 @@ Vista la pubblicazione nell'apposito Bollettino, numero 27, 34 e 39 della provin
 
 Sentito il Consiglio dei Ministri;
 
-Sulla
------
+Sulla proposta del Ministro per il lavoro e la previdenza sociale; Decreta:
 
-proposta del Ministro per il lavoro e la previdenza sociale; Decreta:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-I rapporti di lavoro costituiti per le attivita' artigiane per le quali sono stati stipulati, per la provincia di Torino, gli accordi sotto elencati, sono regolati da norme giuridiche uniformi alle clausole degli accordi medesimi, annessi al presente decreto, purche' compatibili, per quanto riguarda le attivita' artigiane per le quali sono stati stipulati appositi contratti collettivi nazionali, con quelle concernenti la relativa disciplina nazionale;  
-- l'accordo collettivo 4 settembre 1945 per i dipendenti da aziende artigiane di muratori, pittori letteristi, stuccatori e decoratori;  
-- l'accordo salariale 15 ottobre 1947 per i dipendenti da aziende artigiane di pittori decoratori e pittori letteristi;  
-- l'accordo salariale 15 ottobre 1947 per i dipendenti da aziende artigiane di muratori, carpentieri, riquadratori e stuccatori;  
-- l'accordo salariale 4 settembre 1945 per i dipendenti da aziende artigiane del marmo, della pietra e affini;  
-- l'accordo salariale 15 ottobre 1947 per i dipendenti da aziende artigiane del marmo e della pietra;  
-- l'accordo salariale 25 settembre 1945 per i dipendenti da aziende artigiane di calzature, riparazione calzature e pantofolerie in pelle;  
-- l'accordo salariale 2 ottobre 1945 per i dipendenti da aziende artigiane tessili di calzifici, maglifici, produzione di ricami, tulli, tende, sciarpe, pizzi, veli, treccie, stringhe, passamani, nastri e tessuti elastici;  
-- l'accordo salariale 5 ottobre 1945 per i dipendenti da aziende artigiane di berretti e di cappelli;  
-- l'accordo salariale 15 ottobre 1947 per i dipendenti da aziende artigiane di berrettai;  
-- l'accordo salariale 15 novembre 1945 per i dipendenti da aziende artigiane esercenti la filatura della lana a mano;  
-- l'accordo salariale 17 dicembre 1945 per i dipendenti da aziende artigiane produttrici di ceramiche l'arte;  
-- l'accordo collettivo 31 gennaio 1946 per gli operai interni dipendenti da aziende artigiane delle calzature a mano ed a macchina, nonche' per i riparatori di calzature;  
-- l'accordo salariale 31 gennaio 1946 per i dipendenti da aziende artigiane di astucci e selle, di pelletterie, di valigie e bauli, di guanti in pelle e cuoio, di selle per cicli e motocicli e di indumenti in pelle;  
-- l'accordo salariale 15 ottobre 1947 per i dipendenti da aziende artigiane di pelletterie;  
-- l'accordo collettivo 14 febbraio 1946, per i dipendenti da aziende artigiane di fotoceramica, fotoincisione, eliografia e cianografia;  
-- l'accordo salariale 21 febbraio 1946 per i dipendenti da aziende artigiane di maglifici;  
-- l'accordo salariale 1 marzo 1946 per i dipendenti da aziende artigiane di forniture militari;  
-- l'accordo salariale 2 marzo 1946 per i dipendenti da aziende artigiane di abrasivi, tele e mole smeriglio;  
-- l'accordo salariale 4 marzo 1946 per i dipendenti da aziende artigiane di pantofole di stoffa;  
-- l'accordo salariale 21 marzo 1946 per i dipendenti da aziende artigiane esercenti attivita' varie dell'abbigliamento;  
-- l'accordo salariale 22 marzo 1946 per i dipendenti da aziende artigiane di produzione e riparazione di strumenti musicali;  
-- l'accordo salariale 18 giugno 1946 per i dipendenti da aziende artigiane di arrotatura e smerigliatura del vetro soffiato;  
-- l'accordo salariale 3 febbraio 1947 per i dipendenti da aziende artigiane di materassai;  
-- l'accordo salariale 3 febbraio 1947 per i dipendenti da aziende artigiane di oreficerie, argenterie, orologerie ed affini;  
-- l'accordo collettivo 10 febbraio 1947 per i lavoratori a domicilio dipendenti da aziende artigiane del l'abbigliamento;  
-- l'accordo salariale 15 ottobre 1947 per i dipendenti da aziende artigiane dell'abbigliamento;  
-- l'accordo salariale 2 ottobre 1947 per i dipendenti da aziende artigiane del legno;  
-- l'accordo salariale 2 ottobre 1947 per i dipendenti da aziende artigiane di lavorazione del ferro e dei metalli;  
-- l'accordo salariale 8 ottobre 1947 per i dipendenti da aziende artigiane di bigiotteria;  
-- l'accordo salariale 8 ottobre 1947 per i dipendenti da aziende artigiane di conciatori di pelli e pellicceria;  
-- l'accordo salariale 8 ottobre 1947 per i dipendenti da aziende artigiane di lavorazione di penne e di pennini stilografici;  
-- l'accordo salariale 8 ottobre 1947 per i dipendenti da aziende artigiane di spazzole e pennelli;  
-- l'accordo salariale 8 ottobre 1947 per i dipendenti da aziende artigiane di vulcanizzazione della gomma;  
-- l'accordo salariale 8 ottobre 1947 per i dipendenti da aziende artigiane di lavorazione delle materie plastiche;  
-- l'accordo salariale 8 ottobre 1947 per i dipendenti da aziende artigiane di prodotti chimici;  
-- l'accordo salariale 15 ottobre 1947 per i dipendenti da aziende artigiane di fabbricanti di bottoni;  
-- l'accordo salariale 15 ottobre 1947 per i dipendenti da aziende artigiane di installatori di impianti elettrici, lattonieri, termosifonisti e fumisti;  
-- l'accordo salariale 15 ottobre 1947 per i dipendenti da aziende artigiane di specchi e cristalli;  
-- l'accordo salariale 15 ottobre 1947 per i dipendenti da aziende artigiane di vetri molati;  
-- l'accordo salariale 15 ottobre 1947 per i dipendenti da aziende artigiane di calzolai;  
-- l'accordo collettivo 16 ottobre 1947 per i lavoranti a domicilio dipendenti da aziende artigiane di confezione scarpe a mano;  
-- l'accordo salariale 25 ottobre 1947 per i dipendenti da aziende artigiane di cartotecnica;  
-- l'accordo salariale 22 dicembre 1947 per i dipendenti da aziende artigiane fotografiche;  
-- l'accordo salariale 30 gennaio 1943 per i dipendenti da aziende artigiane di manufatti di cemento;  
-- l'accordo salariale 28 luglio 1948 per i dipendenti da aziende artigiane di tintorie, stirerie e smacchiatorie di abiti;  
-- l'accordo salariale 15 novembre 1948 per i dipendenti da aziende artigiane di tipografi, litografi, legatori, librai, mettifoglio e di addetti a lavorazioni varie;  
-- l'accordo collettivo 9 maggio 1956 per l'indennita' di vestiario ai lavoratori dipendenti da aziende artigiane tipografiche, litografiche e legatrici;  
-- l'accordo collettivo 30 aprile 1952 i dipendenti da aziende artigiane di lavorazione delle corde a mano nella zona di S. Bernardo (Carmagnola);  
-- l'accordo collettivo 16 settembre 1958 relativo all'indennita' di contingenza per i dipendenti da aziende artigiane.  
-I minimi di trattamento economico e normativo cosi' stabiliti sono inderogabili nei confronti di tutti i lavoratori dipendenti dalle imprese artigiane esercenti le attivita' indicate negli accordi di cui al primo comma, della provincia di Torino.  
-  
+I rapporti di lavoro costituiti per le attivita' artigiane per le quali sono stati stipulati, per la provincia di Torino, gli accordi sotto elencati, sono regolati da norme giuridiche uniformi alle clausole degli accordi medesimi, annessi al presente decreto, purche' compatibili, per quanto riguarda le attivita' artigiane per le quali sono stati stipulati appositi contratti collettivi nazionali, con quelle concernenti la relativa disciplina nazionale;
+ - l'accordo collettivo 4 settembre 1945 per i dipendenti da aziende artigiane di muratori, pittori letteristi, stuccatori e decoratori;
+ - l'accordo salariale 15 ottobre 1947 per i dipendenti da aziende artigiane di pittori decoratori e pittori letteristi;
+ - l'accordo salariale 15 ottobre 1947 per i dipendenti da aziende artigiane di muratori, carpentieri, riquadratori e stuccatori;
+ - l'accordo salariale 4 settembre 1945 per i dipendenti da aziende artigiane del marmo, della pietra e affini;
+ - l'accordo salariale 15 ottobre 1947 per i dipendenti da aziende artigiane del marmo e della pietra;
+ - l'accordo salariale 25 settembre 1945 per i dipendenti da aziende artigiane di calzature, riparazione calzature e pantofolerie in pelle;
+ - l'accordo salariale 2 ottobre 1945 per i dipendenti da aziende artigiane tessili di calzifici, maglifici, produzione di ricami, tulli, tende, sciarpe, pizzi, veli, treccie, stringhe, passamani, nastri e tessuti elastici;
+ - l'accordo salariale 5 ottobre 1945 per i dipendenti da aziende artigiane di berretti e di cappelli;
+ - l'accordo salariale 15 ottobre 1947 per i dipendenti da aziende artigiane di berrettai;
+ - l'accordo salariale 15 novembre 1945 per i dipendenti da aziende artigiane esercenti la filatura della lana a mano;
+ - l'accordo salariale 17 dicembre 1945 per i dipendenti da aziende artigiane produttrici di ceramiche l'arte;
+ - l'accordo collettivo 31 gennaio 1946 per gli operai interni dipendenti da aziende artigiane delle calzature a mano ed a macchina, nonche' per i riparatori di calzature;
+ - l'accordo salariale 31 gennaio 1946 per i dipendenti da aziende artigiane di astucci e selle, di pelletterie, di valigie e bauli, di guanti in pelle e cuoio, di selle per cicli e motocicli e di indumenti in pelle;
+ - l'accordo salariale 15 ottobre 1947 per i dipendenti da aziende artigiane di pelletterie;
+ - l'accordo collettivo 14 febbraio 1946, per i dipendenti da aziende artigiane di fotoceramica, fotoincisione, eliografia e cianografia;
+ - l'accordo salariale 21 febbraio 1946 per i dipendenti da aziende artigiane di maglifici;
+ - l'accordo salariale 1 marzo 1946 per i dipendenti da aziende artigiane di forniture militari;
+ - l'accordo salariale 2 marzo 1946 per i dipendenti da aziende artigiane di abrasivi, tele e mole smeriglio;
+ - l'accordo salariale 4 marzo 1946 per i dipendenti da aziende artigiane di pantofole di stoffa;
+ - l'accordo salariale 21 marzo 1946 per i dipendenti da aziende artigiane esercenti attivita' varie dell'abbigliamento;
+ - l'accordo salariale 22 marzo 1946 per i dipendenti da aziende artigiane di produzione e riparazione di strumenti musicali;
+ - l'accordo salariale 18 giugno 1946 per i dipendenti da aziende artigiane di arrotatura e smerigliatura del vetro soffiato;
+ - l'accordo salariale 3 febbraio 1947 per i dipendenti da aziende artigiane di materassai;
+ - l'accordo salariale 3 febbraio 1947 per i dipendenti da aziende artigiane di oreficerie, argenterie, orologerie ed affini;
+ - l'accordo collettivo 10 febbraio 1947 per i lavoratori a domicilio dipendenti da aziende artigiane del l'abbigliamento;
+ - l'accordo salariale 15 ottobre 1947 per i dipendenti da aziende artigiane dell'abbigliamento;
+ - l'accordo salariale 2 ottobre 1947 per i dipendenti da aziende artigiane del legno;
+ - l'accordo salariale 2 ottobre 1947 per i dipendenti da aziende artigiane di lavorazione del ferro e dei metalli;
+ - l'accordo salariale 8 ottobre 1947 per i dipendenti da aziende artigiane di bigiotteria;
+ - l'accordo salariale 8 ottobre 1947 per i dipendenti da aziende artigiane di conciatori di pelli e pellicceria;
+ - l'accordo salariale 8 ottobre 1947 per i dipendenti da aziende artigiane di lavorazione di penne e di pennini stilografici;
+ - l'accordo salariale 8 ottobre 1947 per i dipendenti da aziende artigiane di spazzole e pennelli;
+ - l'accordo salariale 8 ottobre 1947 per i dipendenti da aziende artigiane di vulcanizzazione della gomma;
+ - l'accordo salariale 8 ottobre 1947 per i dipendenti da aziende artigiane di lavorazione delle materie plastiche;
+ - l'accordo salariale 8 ottobre 1947 per i dipendenti da aziende artigiane di prodotti chimici;
+ - l'accordo salariale 15 ottobre 1947 per i dipendenti da aziende artigiane di fabbricanti di bottoni;
+ - l'accordo salariale 15 ottobre 1947 per i dipendenti da aziende artigiane di installatori di impianti elettrici, lattonieri, termosifonisti e fumisti;
+ - l'accordo salariale 15 ottobre 1947 per i dipendenti da aziende artigiane di specchi e cristalli;
+ - l'accordo salariale 15 ottobre 1947 per i dipendenti da aziende artigiane di vetri molati;
+ - l'accordo salariale 15 ottobre 1947 per i dipendenti da aziende artigiane di calzolai;
+ - l'accordo collettivo 16 ottobre 1947 per i lavoranti a domicilio dipendenti da aziende artigiane di confezione scarpe a mano;
+ - l'accordo salariale 25 ottobre 1947 per i dipendenti da aziende artigiane di cartotecnica;
+ - l'accordo salariale 22 dicembre 1947 per i dipendenti da aziende artigiane fotografiche;
+ - l'accordo salariale 30 gennaio 1943 per i dipendenti da aziende artigiane di manufatti di cemento;
+ - l'accordo salariale 28 luglio 1948 per i dipendenti da aziende artigiane di tintorie, stirerie e smacchiatorie di abiti;
+ - l'accordo salariale 15 novembre 1948 per i dipendenti da aziende artigiane di tipografi, litografi, legatori, librai, mettifoglio e di addetti a lavorazioni varie;
+ - l'accordo collettivo 9 maggio 1956 per l'indennita' di vestiario ai lavoratori dipendenti da aziende artigiane tipografiche, litografiche e legatrici;
+ - l'accordo collettivo 30 aprile 1952 i dipendenti da aziende artigiane di lavorazione delle corde a mano nella zona di S. Bernardo (Carmagnola);
+ - l'accordo collettivo 16 settembre 1958 relativo all'indennita' di contingenza per i dipendenti da aziende artigiane.
+ I minimi di trattamento economico e normativo cosi' stabiliti sono inderogabili nei confronti di tutti i lavoratori dipendenti dalle imprese artigiane esercenti le attivita' indicate negli accordi di cui al primo comma, della provincia di Torino.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 2 gennaio 1962
+Dato a Roma, addi' 2 gennaio 1962
 
-GRONCHI FANFANI - SULLO
-
-Visto, il Guardasigilli: BOSCO
-
-Registrato alla Corte dei conti, addi' 23 giugno 1962.
-
-Atti del Governo, registro n. 151, foglio n. 49. - VILLA
-
-Accordi
-
-ACCORDO COLLETTIVO 4 SETTEMBRE 1945, PER I DIPENDENTI DA AZIENDE ARTIGIANE DI MURATORI, PITTORI LETTERISTI, STUCCATORI E DECORATORI DELLA PROVINCIA DI TORINO.   
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=062U089800100010110001&dgu=1962-07-25&art.dataPubblicazioneGazzetta=1962-07-25&art.codiceRedazionale=062U0898)
-  
-  
-  
-  
-ACCORDO SALARIALE 15 OTTOBRE 1947, PER I DIPENDENTI DA AZIENDE ARTIGIANE DI PITTORI DECORATORI E PITTORI LETTERISTI DELLA PROVINCIA DI TORINO.   
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=062U089800100010110002&dgu=1962-07-25&art.dataPubblicazioneGazzetta=1962-07-25&art.codiceRedazionale=062U0898)
-  
-  
-  
-  
-ACCORDO SALARIALE 15 OTTOBRE 1947, PER I DIPENDENTI DA AZIENDE ARTIGIANE DI MURATORI, CARPENTIERI, RIQUADRATORI E STUCCATORI DELLA PROVINCIA DI TORINO.   
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=062U089800100010110003&dgu=1962-07-25&art.dataPubblicazioneGazzetta=1962-07-25&art.codiceRedazionale=062U0898)
-  
-  
-  
-  
-ACCORDO SALARIALE 4 SETTEMBRE 1945, PER I DIPENDENTI DA AZIENDE ARTIGIANE DEL MARMO, DELLA PIETRA E AFFINI DELLA PROVINCIA DI TORINO.   
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=062U089800100010110004&dgu=1962-07-25&art.dataPubblicazioneGazzetta=1962-07-25&art.codiceRedazionale=062U0898)
-  
-  
-  
-  
-ACCORDO SALARIALE 15 OTTOBRE 1947, PER I DIPENDENTI DA AZIENDE ARTIGIANE DEL MARMO E DELLA PIETRA DELLA PROVINCIA DI TORINO.   
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=062U089800100010110005&dgu=1962-07-25&art.dataPubblicazioneGazzetta=1962-07-25&art.codiceRedazionale=062U0898)
-  
-  
-  
-  
-ACCORDO SALARIALE 25 SETTEMBRE 1945, PER I DIPENDENTI DA AZIENDE ARTIGIANE DI CALZATURE, RIPARAZIONE CALZATURE E PANTOFOLERIE IN PELLE DELLA PROVINCIA DI TORINO.   
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=062U089800100010110006&dgu=1962-07-25&art.dataPubblicazioneGazzetta=1962-07-25&art.codiceRedazionale=062U0898)
-  
-  
-  
-  
-ACCORDO SALARIALE 2 OTTOBRE 1945, PER I DIPENDENTI DA AZIENDE ARTIGIANE TESSILI DI CALZIFICI, MAGLIFICI, PRODUZIONE DI RICAMI, TULLI, TENDE, SCIARPE, PIZZI, VELI, TRECCIE, STRINGHE, PASSAMANI, NASTRI E TESSUTI ELASTICI DELLA PROVINCIA DI TORINO.   
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=062U089800100010110007&dgu=1962-07-25&art.dataPubblicazioneGazzetta=1962-07-25&art.codiceRedazionale=062U0898)
-  
-  
-  
-  
-ACCORDO SALARIALE 5 OTTOBRE 1945, PER I DIPENDENTI DA AZIENDE ARTIGIANE DI BERRETTI E DI CAPPELLI DELLA PROVINCIA DI TORINO.   
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=062U089800100010110008&dgu=1962-07-25&art.dataPubblicazioneGazzetta=1962-07-25&art.codiceRedazionale=062U0898)
-  
-  
-  
-  
-ACCORDO SALARIALE 15 OTTOBRE 1947, PER I DIPENDENTI DA AZIENDE ARTIGIANE DI BERRETTAI DELLA PROVINCIA DI TORINO.   
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=062U089800100010110009&dgu=1962-07-25&art.dataPubblicazioneGazzetta=1962-07-25&art.codiceRedazionale=062U0898)
-  
-  
-  
-  
-ACCORDO SALARIALE 15 NOVEMBRE 1945, PER I DIPENDENTI DA AZIENDE   
-ARTIGIANE ESERCENTI LA FILATURA DELLA LANA A MANO DELLA PROVINCIA DI TORINO.   
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=062U089800100010110010&dgu=1962-07-25&art.dataPubblicazioneGazzetta=1962-07-25&art.codiceRedazionale=062U0898)
-  
-  
-  
-  
-ACCORDO SALARIALE 17 DICEMBRE 1945, PER I DIPENDENTI DA AZIENDE ARTIGIANE PRODUTTRICI DI CERAMICHE D'ARTE DELLA PROVINCIA DI TORINO.   
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=062U089800100010110011&dgu=1962-07-25&art.dataPubblicazioneGazzetta=1962-07-25&art.codiceRedazionale=062U0898)
-  
-  
-  
-  
-ACCORDO COLLETTIVO 31 GENNAIO 1946, PER GLI OPERAI INTERNI DIPENDENTI DA AZIENDE ARTIGIANE DELLE CALZATURE A MANO ED A MACCHINA, NONCHE' PER I RIPARATORI DI CALZATURE DELLA PROVINCIA DI TORINO.   
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=062U089800100010110012&dgu=1962-07-25&art.dataPubblicazioneGazzetta=1962-07-25&art.codiceRedazionale=062U0898)
-  
-  
-  
-  
-ACCORDO SALARIALE 31 GENNAIO 1946, PER I DIPENDENTI DA AZIENDE ARTIGIANE DI ASTUCCI E SELLE, DI PELLETTERIE, DI VALIGIE E BAULI, DI GUANTI IN PELLE E CUOIO, DI SELLE PER CICLI E MOTOCICLI E DI INDUMENTI IN PELLE DELLA PROVINCIA DI TORINO.   
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=062U089800100010110013&dgu=1962-07-25&art.dataPubblicazioneGazzetta=1962-07-25&art.codiceRedazionale=062U0898)
-  
-  
-  
-  
-ACCORDO SALARIALE 15 OTTOBRE 1947, PER I DIPENDENTI DA AZIENDE ARTIGIANE DI PELLETTERIE DELLA PROVINCIA DI TORINO.   
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=062U089800100010110014&dgu=1962-07-25&art.dataPubblicazioneGazzetta=1962-07-25&art.codiceRedazionale=062U0898)
-  
-  
-  
-  
-ACCORDO COLLETTIVO 14 FEBBRAIO 1946, PER I DIPENDENTI DA AZIENDE ARTIGIANE DI FOTOCERAMICA, FOTOINCISIONE, ELIOGRAFIA E CIANOGRAFIA DELLA PROVINCIA DI TORINO.   
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=062U089800100010110015&dgu=1962-07-25&art.dataPubblicazioneGazzetta=1962-07-25&art.codiceRedazionale=062U0898)
-  
-  
-  
-  
-ACCORDO SALARIALE 21 FEBBRAIO 1946, PER I DIPENDENTI DA AZIENDE ARTIGIANE DI MAGLIFICI DELLA PROVINCIA DI TORINO.   
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=062U089800100010110016&dgu=1962-07-25&art.dataPubblicazioneGazzetta=1962-07-25&art.codiceRedazionale=062U0898)
-  
-  
-  
-  
-ACCORDO SALARIALE 1 MARZO 1946 PER I DIPENDENTI DA AZIENDE ARTIGIANE DI FORNITURE MILITARI DELLA PROVINCIA DI TORINO.   
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=062U089800100010110017&dgu=1962-07-25&art.dataPubblicazioneGazzetta=1962-07-25&art.codiceRedazionale=062U0898)
-  
-  
-  
-  
-ACCORDO SALARIALE 2 MARZO 1946, PER I DIPENDENTI DA AZIENDE ARTIGIANE DI ABRASIV, TELE E MOLE SMERIGLIO DELLA PROVINCIA DI TORINO.   
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=062U089800100010110018&dgu=1962-07-25&art.dataPubblicazioneGazzetta=1962-07-25&art.codiceRedazionale=062U0898)
-  
-  
-  
-  
-ACCORDO SALARIALE 4 MARZO 1946, PER I DIPENDENTI DA AZIENDE ARTIGIANE DI PANTOFOLE DI STOFFA DELLA PROVINCIA DI TORINO.   
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=062U089800100010110019&dgu=1962-07-25&art.dataPubblicazioneGazzetta=1962-07-25&art.codiceRedazionale=062U0898)
-  
-  
-  
-  
-ACCORDO SALARIALE 21 MARZO 1946, PER I DIPENDENTI DA AZIENDE ARTIGIANE ESERCENTI ATTIVITA' VARIE DELL'ABBIGLIAMENTO (PIUMINI PER CIPRIA, MANICHINI PER SARTORIA, RETINE PER CAPELLI, CORONE DA ROSARIO ECC.) DELLA PROVINCIA DI TORINO.   
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=062U089800100010110020&dgu=1962-07-25&art.dataPubblicazioneGazzetta=1962-07-25&art.codiceRedazionale=062U0898)
-  
-  
-  
-  
-ACCORDO SALARIALE 22 MARZO 1946, PER I DIPENDENTI DA AZIENDE ARTIGIANE DI PRODUZIONE E RIPARAZIONE DI STRUMENTI MUSICALI DELLA PROVINCIA DI TORINO.   
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=062U089800100010110021&dgu=1962-07-25&art.dataPubblicazioneGazzetta=1962-07-25&art.codiceRedazionale=062U0898)
-  
-  
-  
-  
-ACCORDO SALARIALE 18 GIUGNO 1946, PER LE MAESTRANZE DIPENDENTI DA AZIENDE ARTIGIANE DI ARROTATURA E SMERIGLIATURA DEL VETRO SOFFIATO (VETRO BIANCO) DELLA PROVINCIA DI TORINO.   
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=062U089800100010110022&dgu=1962-07-25&art.dataPubblicazioneGazzetta=1962-07-25&art.codiceRedazionale=062U0898)
-  
-  
-  
-  
-ACCORDO SALARIALE 3 FEBBRAIO 1947, PER I DIPENDENTI DA AZIENDE ARTIGIANE DI MATERASSAI DELLA PROVINCIA DI TORINO.   
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=062U089800100010110023&dgu=1962-07-25&art.dataPubblicazioneGazzetta=1962-07-25&art.codiceRedazionale=062U0898)
-  
-  
-  
-  
-ACCORDO SALARIALE 3 FEBBRAIO 1947, PER I DIPENDENTI DA AZIENDE ARTIGIANE DI OREFICERIE, ARGENTERIE, OROLOGERIE ED AFFINI DELLA PROVINCIA DI TORINO.   
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=062U089800100010110024&dgu=1962-07-25&art.dataPubblicazioneGazzetta=1962-07-25&art.codiceRedazionale=062U0898)
-  
-  
-  
-  
-ACCORDO COLLETTIVO 10 FEBBRAIO 1947, PER LAVORATORI A DOMICILIO DIPENDENTI DA AZIENDE ARTIGIANE DELL'ABBIGLIAMENTO DELLA PROVINCIA DI TORINO.   
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=062U089800100010110025&dgu=1962-07-25&art.dataPubblicazioneGazzetta=1962-07-25&art.codiceRedazionale=062U0898)
-  
-  
-  
-  
-ACCORDO SALARIALE 15 OTTOBRE 1947, PER I DIPENDENTI DA AZIENDE ARTIGIANE DELL'ABBIGLIAMENTO DELLA PROVINCIA DI TORINO.   
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=062U089800100010110026&dgu=1962-07-25&art.dataPubblicazioneGazzetta=1962-07-25&art.codiceRedazionale=062U0898)
-  
-  
-  
-  
-ACCORDO SALARIALE 2 OTTOBRE 1947, PER I DIPENDENTI DA AZIENDE ARTIGIANE DEL LEGNO DELLA PROVINCIA DI TORINO.   
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=062U089800100010110027&dgu=1962-07-25&art.dataPubblicazioneGazzetta=1962-07-25&art.codiceRedazionale=062U0898)
-  
-  
-  
-  
-ACCORDO SALARIALE 2 OTTOBRE 1947 PER I DIPENDENTI DA AZIENDE ARTIGIANE DI LAVORAZIONE DEL FERRO E DEI METALLI DELLA PROVINCIA DI TORINO.   
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=062U089800100010110028&dgu=1962-07-25&art.dataPubblicazioneGazzetta=1962-07-25&art.codiceRedazionale=062U0898)
-  
-  
-  
-  
-ACCORDO SALARIALE 8 OTTOBRE 1947, PER I DIPENDENTI DA AZIENDE ARTIGIANE DI BIGIOTTERIA DELLA PROVINCIA DI TORINO.   
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=062U089800100010110029&dgu=1962-07-25&art.dataPubblicazioneGazzetta=1962-07-25&art.codiceRedazionale=062U0898)
-  
-  
-  
-  
-ACCORDO SALARIALE 8 OTTOBRE 1947, PER I DIPENDENTI DA AZIENDE ARTIGIANE DI CONCIATORI DI PELLI E PELLICCERIA DELLA PROVINCIA DI TORINO.   
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=062U089800100010110030&dgu=1962-07-25&art.dataPubblicazioneGazzetta=1962-07-25&art.codiceRedazionale=062U0898)
-  
-  
-  
-  
-ACCORDO SALARIALE 8 OTTOBRE 1947, PER I DIPENDENTI DA AZIENDE ARTIGIANE DI LAVORAZIONE DI PENNE E DI PENNINI STILOGRAFICI DELLA PROVINCIA DI TORINO.   
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=062U089800100010110031&dgu=1962-07-25&art.dataPubblicazioneGazzetta=1962-07-25&art.codiceRedazionale=062U0898)
-  
-  
-  
-  
-ACCORDO SALARIALE 8 OTTOBRE 1947, PER I DIPENDENTI DA AZIENDE ARTIGIANE DI SPAZZOLE E PENNELLI DELLA PROVINCIA DI TORINO.   
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=062U089800100010110032&dgu=1962-07-25&art.dataPubblicazioneGazzetta=1962-07-25&art.codiceRedazionale=062U0898)
-  
-  
-  
-  
-  
-ACCORDO SALARIALE 8 OTTOBRE 1947, PER I DIPENDENTI DA AZIENDE ARTIGIANE DI VULCANIZZAZIONE DELLA GOMMA DELLA PROVINCIA DI TORINO.   
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=062U089800100010110033&dgu=1962-07-25&art.dataPubblicazioneGazzetta=1962-07-25&art.codiceRedazionale=062U0898)
-  
-  
-  
-  
-ACCORDO SALARIALE 8 OTTOBRE 1947, PER I DIPENDENTI DA AZIENDE ARTIGIANE DI LAVORAZIONE DELLE MATERIE PLASTICHE DELLA PROVINCIA DI TORINO.   
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=062U089800100010110034&dgu=1962-07-25&art.dataPubblicazioneGazzetta=1962-07-25&art.codiceRedazionale=062U0898)
-  
-  
-  
-  
-ACCORDO SALARIALE 8 OTTOBRE 1947, PER I DIPENDENTI DA AZIENDE ARTIGIANE DI PRODOTTI CHIMICI DELLA PROVINCIA DI TORINO.   
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=062U089800100010110035&dgu=1962-07-25&art.dataPubblicazioneGazzetta=1962-07-25&art.codiceRedazionale=062U0898)
-  
-  
-  
-  
-ACCORDO SALARIALE 15 OTTOBRE 1947, PER I DIPENDENTI DA AZIENDE ARTIGIANE DI FABBRICANTI DI BOTTONI DELLA PROVINCIA DI TORINO.   
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=062U089800100010110036&dgu=1962-07-25&art.dataPubblicazioneGazzetta=1962-07-25&art.codiceRedazionale=062U0898)
-  
-  
-  
-  
-ACCORDO SALARIALE 15 OTTOBRE 1947, PER I DIPENDENTI DA AZIENDE ARTIGIANE DI INSTALLATORI DI IMPIANTI ELETTRICI, LATTONIERI, TERMOSIFONISTI E FUMISTI DELLA PROVINCIA DI TORINO.   
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=062U089800100010110037&dgu=1962-07-25&art.dataPubblicazioneGazzetta=1962-07-25&art.codiceRedazionale=062U0898)
-  
-  
-  
-  
-ACCORDO SALARIALE 15 OTTOBRE 1947, PER I DIPENDENTI DA AZIENDE ARTIGIANE DI SPECCHI E CRISTALLI DELLA PROVINCIA DI TORINO.   
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=062U089800100010110038&dgu=1962-07-25&art.dataPubblicazioneGazzetta=1962-07-25&art.codiceRedazionale=062U0898)
-  
-  
-  
-  
-ACCORDO SALARIALE 15 OTTOBRE 1947, PER I DIPENDENTI DA AZIENDE ARTIGIANE DI VETRI MOLATI DELLA PROVINCIA DI TORINO.   
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=062U089800100010110039&dgu=1962-07-25&art.dataPubblicazioneGazzetta=1962-07-25&art.codiceRedazionale=062U0898)
-  
-  
-  
-  
-ACCORDO SALARIALE 15 OTTOBRE 1947, PER I DIPENDENTI DA AZIENDE ARTIGIANE DI CALZOLAI DELLA PROVINCIA DI TORINO.   
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=062U089800100010110040&dgu=1962-07-25&art.dataPubblicazioneGazzetta=1962-07-25&art.codiceRedazionale=062U0898)
-  
-  
-  
-  
-ACCORDO COLLETTIVO 16 OTTOBRE 1947, PER I LAVORANTI A DOMICILIO DIPENDENTI DA AZIENDE ARTIGIANE DI CONFEZIONE SCARPE A MANO DELLA PROVINCIA DI TORINO.   
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=062U089800100010110041&dgu=1962-07-25&art.dataPubblicazioneGazzetta=1962-07-25&art.codiceRedazionale=062U0898)
-  
-  
-  
-  
-ACCORDO SALARIALE 25 OTTOBRE 1947, PER I DIPENDENTI DA AZIENDE ARTIGIANE DI CARTOTECNICA DELLA PROVINCIA DI TORINO.   
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=062U089800100010110042&dgu=1962-07-25&art.dataPubblicazioneGazzetta=1962-07-25&art.codiceRedazionale=062U0898)
-  
-  
-  
-  
-ACCORDO SALARIALE 22 DICEMBRE 1947, PER I DIPENDENTI DA AZIENDE ARTIGIANE FOTOGRAFICHE DELLA PROVINCIA DI TORINO.   
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=062U089800100010110043&dgu=1962-07-25&art.dataPubblicazioneGazzetta=1962-07-25&art.codiceRedazionale=062U0898)
-  
-  
-  
-  
-ACCORDO SALARIALE 30 GENNAIO 1948, PER I DIPENDENTI DA AZIENDE ARTIGIANE DI MANUFATTI DI CEMENTO DELLA PROVINCIA DI TORINO.   
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=062U089800100010110044&dgu=1962-07-25&art.dataPubblicazioneGazzetta=1962-07-25&art.codiceRedazionale=062U0898)
-  
-  
-  
-  
-ACCORDO SALARIALE 28 LUGLIO 1948, PER I DIPENDENTI DA AZIENDE ARTIGIANE DI TINTORIE, STIRERIE E SMACCHIATORIE DI ABITI DELLA PROVINCIA DI TORINO.   
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=062U089800100010110045&dgu=1962-07-25&art.dataPubblicazioneGazzetta=1962-07-25&art.codiceRedazionale=062U0898)
-  
-  
-  
-  
-ACCORDO SALARIALE 15 NOVEMBRE 1948, PER I DIPENDENTI DA AZIENDE ARTIGIANE DI TIPOGRAFI, LITOGRAFI, LEGATORI, LIBRAI, METTIFOGLIO E DI ADDETTI A LAVORAZIONI VARIE DELLA PROVINCIA DI TORINO.   
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=062U089800100010110046&dgu=1962-07-25&art.dataPubblicazioneGazzetta=1962-07-25&art.codiceRedazionale=062U0898)
-  
-  
-  
-  
-ACCORDO COLLETTIVO 9 MAGGIO 1956, PER L'INDENNITA' DI VESTIARIO Al LAVORATORI DELLE AZIENDE ARTIGIANE TIPOGRAFICHE, LITOGRAFICHE E LEGATRICI DELLA PROVINCIA DI TORINO.   
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=062U089800100010110047&dgu=1962-07-25&art.dataPubblicazioneGazzetta=1962-07-25&art.codiceRedazionale=062U0898)
-  
-  
-  
-  
-ACCORDO COLLETTIVO 30 APRILE 1952, PER I DIPENDENTI DA AZIENDE ARTIGIANE DI LAVORAZIONE DELLE CORDE A MANO NELLA ZONA DI S.  
-BERNARDO (CARMAGNOLA).   
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=062U089800100010110048&dgu=1962-07-25&art.dataPubblicazioneGazzetta=1962-07-25&art.codiceRedazionale=062U0898)
-  
-  
-  
-  
-ACCORDO COLLETTIVO 16 SETTEMBRE 1958, RELATIVO ALL'INDENNITA' DI CONTINGENZA PER I DIPENDENTI DA AZIENDE ARTIGIANE DELLA PROVINCIA DI TORINO.   
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=062U089800100010110049&dgu=1962-07-25&art.dataPubblicazioneGazzetta=1962-07-25&art.codiceRedazionale=062U0898)
-  
+GRONCHI FANFANI - SULLO Visto, il Guardasigilli: BOSCO Registrato alla Corte dei conti, addi' 23 giugno 1962. Atti del Governo, registro n. 151, foglio n. 49. - VILLA

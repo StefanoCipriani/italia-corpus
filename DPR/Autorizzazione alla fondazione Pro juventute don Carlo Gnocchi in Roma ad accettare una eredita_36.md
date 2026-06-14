@@ -1,19 +1,21 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 18 luglio 1985 n. 553
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 571
+data: 1985-07-16
+titolo: "Autorizzazione alla fondazione \"Pro juventute don Carlo Gnocchi\", in Roma, ad accettare una eredita'."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1985-07-16;571
+codice_redazionale: 085U0571
+vigente: true
+---
 
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 18 luglio 1985 n. 553
-=============================================================
-
-Autorizzazione alla fondazione "Pro juventute don Carlo Gnocchi", in Roma, ad accettare una eredita'.
------------------------------------------------------------------------------------------------------
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-553. Decreto del Presidente della Repubblica 18 luglio 1985, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la fondazione "Pro juventute don Carlo Gnocchi", in Roma, viene autorizzata ad accettare, col beneficio d'inventario, l'eredita', consistente in titoli azionari, depositi bancari ed altri beni mobili al netto delle passivita' di lire 30.800.000, disposta dalla sig.ra Ogliari Agostina con testamento olografo 7 marzo 1972, pubblicato in data 30 dicembre 1980, n. 20080 di repertorio e n. 4413 di raccolta, a rogito dott. Italo Tarsia, notaio in Milano, registrato a Milano il 14 gennaio 1981 al n. 320.   
-  
-Visto, il Guardasigilli: MARTINAZZOLI   
-Registrato alla Corte dei conti, addi' 11 ottobre 1985   
-Registro n. 9 Presidenza, foglio n. 72
+571.
+
+Decreto del Presidente della Repubblica 16 luglio 1985, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la fondazione "Pro juventute don Carlo Gnocchi", in Roma, viene autorizzata ad accettare, col beneficio d'inventario, l'eredita', consistente in beni immobili e mobili dell'importo, dedotte le passivita', di L. 345.151.416, disposta dalla sig.ra Varrone Cornelia ved. Tomatis a favore dell'istituto mutilatini poliomielitici, viale Settimio Severo n. 65, Torino, che si identifica con la fondazione "Pro juventute don Carlo Gnocchi", come si evince dal verbale 20 novembre 1981 del consiglio di amministrazione della fondazione stessa, con testamento pubblico a rogito dott. Pierangelo Martucci, notaio in Torino, in data 27 luglio 1981 e dallo stesso pubblicato in data 30 settembre 1981, col n. 582/191 di repertorio, registrato a Torino il 2 ottobre 1981 al n. 0654.
+
+Visto, il Guardasigilli: MARTINAZZOLI
+ Registrato alla Corte dei conti, addi' 11 ottobre 1985
+ Registro n. 9 Presidenza, foglio n. 76

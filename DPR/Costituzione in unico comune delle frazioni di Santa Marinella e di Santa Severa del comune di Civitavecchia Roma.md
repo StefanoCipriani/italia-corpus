@@ -1,48 +1,33 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 04 ottobre 1949 n. 847
-
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 04 ottobre 1949 n. 847
-==============================================================
-
-Costituzione in unico comune delle frazioni di Santa Marinella e di Santa Severa del comune di Civitavecchia (Roma).
---------------------------------------------------------------------------------------------------------------------
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 847
+data: 1949-10-04
+titolo: "Costituzione in unico comune delle frazioni di Santa Marinella e di Santa Severa del comune di Civitavecchia (Roma)."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1949-10-04;847
+codice_redazionale: 049U0847
+vigente: true
+---
 
 IL PRESIDENTE DELLA REPUBBLICA
-------------------------------
 
 Vista la domanda con la quale la maggioranza dei contribuenti della, frazione di Santa Marinella e di quella di Santa Severa del comune di Civitavecchia (Roma) ha chiesto che le frazioni stesse siano costituite in unico comune con capoluogo a Santa Marinella;
 
-Visti gli articoli 33 e 35 del testo unico della legge comunale e provinciale, approvato con [regio decreto 3 marzo 1934, n. 383](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-03-03;383);
+Visti gli articoli 33 e 35 del testo unico della legge comunale e provinciale, approvato con [regio decreto 3 marzo 1934, n. 383](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20del%20testo%20unico%20della%20legge%20comunale%20e%20provinciale.%20034U0383.md);
 
 Udito il parere del Consiglio di Stato;
 
-Sulla
------
+Sulla proposta del Ministro per l'interno; Decreta:
 
-proposta del Ministro per l'interno; Decreta:
+## Art. 1.
 
-Art. 1
-------
+Le frazioni di Santa Marinella e di Santa Severa del comune di Civitavecchia, (Roma) sono costituite in unico comune con capoluogo Santa Marinella e con circoscrizione di cui all'unita pianta planimetrica ed annessa relazione descrittiva dei confini.
 
-  
-Le frazioni di Santa Marinella e di Santa Severa del comune di Civitavecchia, (Roma) sono costituite in unico comune con capoluogo Santa Marinella e con circoscrizione di cui all'unita pianta planimetrica ed annessa relazione descrittiva dei confini.  
+## Art. 2.
 
-Art. 2
-------
-
-  
-Il Prefetto di Roma, sentita la Giunta provinciale amministrativa, provvedera', con suo decreto, alla separazione patrimoniale e al riparto delle attivita' e passivita'.  
-  
+Il Prefetto di Roma, sentita la Giunta provinciale amministrativa, provvedera', con suo decreto, alla separazione patrimoniale e al riparto delle attivita' e passivita'.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Dogliani, addi' 4 ottobre 1949
+Dato a Dogliani, addi' 4 ottobre 1949
 
-EINAUDI SCELBA
-
-Visto, il Guardasigilli: GRASSI
-
-Registrato alla Corte dei conti, addi' 26 novembre 1949
-
-Atti del Governo, registro n. 30, foglio n. 89. - FRASCA
+EINAUDI SCELBA Visto, il Guardasigilli: GRASSI Registrato alla Corte dei conti, addi' 26 novembre 1949 Atti del Governo, registro n. 30, foglio n. 89. - FRASCA

@@ -1,19 +1,21 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 22 dicembre 1982 n. 1129
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 1129
+data: 1982-12-22
+titolo: "Riconoscimento della personalita' giuridica della \"Provincia italiana sud delle suore del Divin Salvatore\", in Monte San Giovanni Campano."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1982-12-22;1129
+codice_redazionale: 082U1129
+vigente: true
+---
 
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 22 dicembre 1982 n. 1129
-================================================================
-
-Riconoscimento della personalita' giuridica della "Provincia italiana sud delle suore del Divin Salvatore", in Monte San Giovanni Campano.
-------------------------------------------------------------------------------------------------------------------------------------------
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-1129. Decreto del Presidente della Repubblica 22 dicembre 1982, col quale, sulla proposta del Ministro dell'interno, viene riconosciuta la personalita' giuridica della "Provincia italiana sud delle suore del Divin Salvatore", in Monte San Giovanni Campano (Frosinone).  
-  
-Visto, il Guardasigilli: DARIDA  
-Registrato alla Corte dei conti, addi' 5 marzo 1983  
-Registro n. 6 Interno, foglio n. 231
+1129.
+
+Decreto del Presidente della Repubblica 22 dicembre 1982, col quale, sulla proposta del Ministro dell'interno, viene riconosciuta la personalita' giuridica della "Provincia italiana sud delle suore del Divin Salvatore", in Monte San Giovanni Campano (Frosinone).
+
+Visto, il Guardasigilli: DARIDA
+ Registrato alla Corte dei conti, addi' 5 marzo 1983
+ Registro n. 6 Interno, foglio n. 231

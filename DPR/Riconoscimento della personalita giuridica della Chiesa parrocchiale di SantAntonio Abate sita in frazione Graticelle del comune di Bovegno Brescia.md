@@ -1,19 +1,21 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 14 febbraio 1963 n. 464
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 464
+data: 1963-02-14
+titolo: "Riconoscimento della personalita' giuridica della Chiesa parrocchiale di Sant'Antonio Abate, sita in frazione Graticelle, del comune di Bovegno (Brescia)."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1963-02-14;464
+codice_redazionale: 063U0464
+vigente: true
+---
 
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 14 febbraio 1963 n. 464
-===============================================================
-
-Riconoscimento della personalita' giuridica della Chiesa parrocchiale di Sant'Antonio Abate, sita in frazione Graticelle, del comune di Bovegno (Brescia).
-----------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-464. Decreto del Presidente della Repubblica 14 febbraio 1963, col quale, sulla proposta del Ministro per l'interno, viene riconosciuta la personalita' giuridica della Chiesa parrocchiale di Sant'Antonio Abate, sita in frazione Graticelle, del comune di Bovegno (Brescia).  
-  
-Visto, il Guardasigilli: BOSCO  
-Registrato alla Corte dei conti, addi' 28 marzo 1963  
-Atti del Governo, registro n. 167, foglio n. 9. - VILLA
+464.
+
+Decreto del Presidente della Repubblica 14 febbraio 1963, col quale, sulla proposta del Ministro per l'interno, viene riconosciuta la personalita' giuridica della Chiesa parrocchiale di Sant'Antonio Abate, sita in frazione Graticelle, del comune di Bovegno (Brescia).
+
+Visto, il Guardasigilli: BOSCO
+ Registrato alla Corte dei conti, addi' 28 marzo 1963
+ Atti del Governo, registro n. 167, foglio n. 9. - VILLA

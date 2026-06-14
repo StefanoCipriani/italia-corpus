@@ -1,19 +1,21 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 04 ottobre 1956 n. 1282
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 1282
+data: 1956-10-04
+titolo: "Riconoscimento, agli effetti civili, dell'erezione della parrocchia di San Giovanni Battista, nella frazione San Giovanni del comune di Oleggio (Novara)."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1956-10-04;1282
+codice_redazionale: 056U1282
+vigente: true
+---
 
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 04 ottobre 1956 n. 1282
-===============================================================
-
-Riconoscimento, agli effetti civili, dell'erezione della parrocchia di San Giovanni Battista, nella frazione San Giovanni del comune di Oleggio (Novara).
----------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-1282. Decreto del Presidente della Repubblica 4 ottobre 1956, col quale, sulla proposta del Ministro per l'interno, viene riconosciuto, agli effetti civili, il decreto dell'Ordinario diocesano di Novara in data 31 maggio 1954, integrato con allegato e con postilla senza data, relativo all'erezione della parrocchia di San Giovanni Battista, nella frazione San Giovanni del comune di Oleggio (Novara).  
-  
-Visto, il Guardasigilli: MORO  
-Registrato alla Corte dei conti, addi' 13 novembre 1956  
-Atti del Governo, registro n. 102, foglio n. 21. - CARLOMAGNO
+1282.
+
+Decreto del Presidente della Repubblica 4 ottobre 1956, col quale, sulla proposta del Ministro per l'interno, viene riconosciuto, agli effetti civili, il decreto dell'Ordinario diocesano di Novara in data 31 maggio 1954, integrato con allegato e con postilla senza data, relativo all'erezione della parrocchia di San Giovanni Battista, nella frazione San Giovanni del comune di Oleggio (Novara).
+
+Visto, il Guardasigilli: MORO
+ Registrato alla Corte dei conti, addi' 13 novembre 1956
+ Atti del Governo, registro n. 102, foglio n. 21. - CARLOMAGNO

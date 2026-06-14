@@ -1,18 +1,18 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 29 aprile 1953 n. 445
-
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 29 aprile 1953 n. 445
-=============================================================
-
-Emissione di un francobollo celebrativo della "Festa della Montagna".
----------------------------------------------------------------------
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 445
+data: 1953-04-29
+titolo: "Emissione di un francobollo celebrativo della \"Festa della Montagna\"."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1953-04-29;445
+codice_redazionale: 053U0445
+vigente: true
+---
 
 IL PRESIDENTE DELLA REPUBBLICA
-------------------------------
 
-Visto l'art. 21 del Codice postale e delle telecomunicazioni, approvato col [regio decreto 27 febbraio 1936, n. 645](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1936-02-27;645);
+Visto l'art. 21 del Codice postale e delle telecomunicazioni, approvato col [regio decreto 27 febbraio 1936, n. 645](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1936-02-27;645);
 
-Visto l'art. 239 del regolamento per i servizi postali (titolo preliminare e parte prima), approvato col [regio decreto 18 aprile 1910, n. 659](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1910-04-18;659);
+Visto l'art. 239 del regolamento per i servizi postali (titolo preliminare e parte prima), approvato col [regio decreto 18 aprile 1910, n. 659](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1910-04-18;659);
 
 Riconosciuta l'opportunita' di emettere un francobollo celebrativo della "Festa della Montagna", che si svolgera' nel luglio 1953;
 
@@ -20,33 +20,18 @@ Sentito il Consiglio di amministrazione delle poste e delle telecomunicazioni;
 
 Sentito il Consiglio dei Ministri;
 
-Sulla
------
+Sulla proposta del Ministro Segretario di Stato per le poste e le telecomunicazioni; Decreta:
 
-proposta del Ministro Segretario di Stato per le poste e le telecomunicazioni; Decreta:
+## Art. 1.
 
-Art. 1
-------
+E' autorizzata l'emissione di un francobollo celebrativo della "Festa della Montagna" che si svolgera' nel luglio 1953.
 
-  
-E' autorizzata l'emissione di un francobollo celebrativo della "Festa della Montagna" che si svolgera' nel luglio 1953.  
+## Art. 2.
 
-Art. 2
-------
-
-  
-Con decreto del Ministro per le poste e le telecomunicazioni, di concerto con il Ministro per il tesoro, verranno stabilite le caratteristiche tecniche del francobollo di cui all'art. 1 del presente decreto, e saranno indicati i termini per la validita' ed il cambio del francobollo medesimo.  
-  
+Con decreto del Ministro per le poste e le telecomunicazioni, di concerto con il Ministro per il tesoro, verranno stabilite le caratteristiche tecniche del francobollo di cui all'art. 1 del presente decreto, e saranno indicati i termini per la validita' ed il cambio del francobollo medesimo.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 29 aprile 1953
+Dato a Roma, addi' 29 aprile 1953
 
-EINAUDI DE GASPERI - SPATARO
-
-Visto, il Guardasigilli: ZOLI
-
-Registrato alla Corte dei conti, addi' 12 giugno 1953
-
-Atti del Governo, registro n. 77, foglio n. 40. - PALLA
+EINAUDI DE GASPERI - SPATARO Visto, il Guardasigilli: ZOLI Registrato alla Corte dei conti, addi' 12 giugno 1953 Atti del Governo, registro n. 77, foglio n. 40. - PALLA

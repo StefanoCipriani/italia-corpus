@@ -1,67 +1,59 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 novembre 1976 n. 893
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 893
+data: 1976-11-02
+titolo: "Modificazioni allo statuto dell'Universita' degli studi di Torino."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1976-11-02;893
+codice_redazionale: 076U0893
+vigente: true
+---
 
+## Art. 1.
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 novembre 1976 n. 893
-===============================================================
+IL PRESIDENTE DELLA REPUBBLICA
 
-Modificazioni allo statuto dell'Universita' degli studi di Torino.
-------------------------------------------------------------------
+ Veduto lo statuto dell'Universita' degli studi di Torino, approvato con [regio decreto 14 ottobre 1926, n. 2284](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20dello%20statuto%20della%20Regia%20universita%20di%20Torino.%20026U2284.md), e modificato con [regio decreto 13 ottobre 1927, n. 2788](../Atti%20normativi%20abrogati%20%28in%20originale%29/Modificazioni%20allo%20statuto%20della%20Regia%20universita%20di%20Torino.%20027U2788.md), e successive modificazioni;
+ Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+ Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20R.%20decreto-legge%2020%20giugno%201935-XIII%20n.%201071%20contenente%20modifiche%20ed%20aggiornamenti%20al%20testo%20unico%20delle%20leggi%20sullistruzione%20superiore.%20036U0073.md);
+ Veduto il [regio decreto 30 settembre 1938, n. 1652](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disposizioni%20sullordinamento%20didattico%20universitario.%20038U1652.md), e successive modificazioni;
+ Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
+ Riconosciuta la particolare necessita' di approvare le modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](https://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592#art_17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Torino e convalidati dal Consiglio superiore della pubblica istruzione;
+ Sentito il parere del Consiglio superiore della pubblica istruzione;
+ Sulla proposta del Ministro per la pubblica istruzione;
 
-Art. 1
-------
+ Decreta:
 
- IL PRESIDENTE DELLA REPUBBLICA  
-  
-Veduto lo statuto dell'Universita' degli studi di Torino, approvato con [regio decreto 14 ottobre 1926, n. 2284](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2284), e modificato con [regio decreto 13 ottobre 1927, n. 2788](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2788), e successive modificazioni;  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
-Riconosciuta la particolare necessita' di approvare le modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Torino e convalidati dal Consiglio superiore della pubblica istruzione;  
-Sentito il parere del Consiglio superiore della pubblica istruzione;  
-Sulla proposta del Ministro per la pubblica istruzione;  
-  
-Decreta:  
-  
-Lo statuto dell'Universita' degli studi di Torino, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
-Art. 293 - il primo comma, relativo alle materie di insegnamento della scuola di specializzazione in medicina dello sport, e' abrogato e sostituito dal seguente:  
-"L'ordine degli studi e' il seguente:  
-1° Anno:  
-1) anatomia dell'apparato locomotore;  
-2) fisiologia dell'apparato locomotore;  
-3) biochimica ed energetica muscolare;  
-4) antropometria ed auxologia;  
-5) psicologia applicata allo sport;  
-6) storia dell'educazione fisica e dello sport;  
-7) sistematica delle attivita' sportivo-agonistiche e regolamenti sportivi.  
-2° Anno:  
-1) fisiologia dell'esercizio fisico;  
-2) biomeccanica dell'esercizio fisico;  
-3) metodologia dell'allenamento sportivo;  
-4) scienza della nutrizione applicata all'attivita' sportiva;  
-5) fisiopatologia degli sport e semeiotica medicosportiva;  
-6) farmacologia e tossicologia del doping;  
-7) igiene e medicina preventiva applicata all'attivita' sportiva;  
-8) traumatologia degli sport.  
-3° Anno:  
-1) fisiologia applicata agli sport;  
-2) valutazione funzionale dello sportivo;  
-3) fisiopatologia degli sport e semeiotica medicosportiva;  
-4) fisioterapia e rieducazione funzionale;  
-5) rianimazione e pronto soccorso;  
-6) medicina legale ed infortunistica applicate agli sport;  
-7) fisiologia dell'adattamento agli ambienti straordinari".  
-  
+ Lo statuto dell'Universita' degli studi di Torino, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+ Art. 293 - il primo comma, relativo alle materie di insegnamento della scuola di specializzazione in medicina dello sport, e' abrogato e sostituito dal seguente:
+ "L'ordine degli studi e' il seguente:
+ 1° Anno:
+ 1) anatomia dell'apparato locomotore;
+ 2) fisiologia dell'apparato locomotore;
+ 3) biochimica ed energetica muscolare;
+ 4) antropometria ed auxologia;
+ 5) psicologia applicata allo sport;
+ 6) storia dell'educazione fisica e dello sport;
+ 7) sistematica delle attivita' sportivo-agonistiche e regolamenti sportivi.
+ 2° Anno:
+ 1) fisiologia dell'esercizio fisico;
+ 2) biomeccanica dell'esercizio fisico;
+ 3) metodologia dell'allenamento sportivo;
+ 4) scienza della nutrizione applicata all'attivita' sportiva;
+ 5) fisiopatologia degli sport e semeiotica medicosportiva;
+ 6) farmacologia e tossicologia del doping;
+ 7) igiene e medicina preventiva applicata all'attivita' sportiva;
+ 8) traumatologia degli sport.
+ 3° Anno:
+ 1) fisiologia applicata agli sport;
+ 2) valutazione funzionale dello sportivo;
+ 3) fisiopatologia degli sport e semeiotica medicosportiva;
+ 4) fisioterapia e rieducazione funzionale;
+ 5) rianimazione e pronto soccorso;
+ 6) medicina legale ed infortunistica applicate agli sport;
+ 7) fisiologia dell'adattamento agli ambienti straordinari".
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 2 novembre 1976
+Dato a Roma, addi' 2 novembre 1976
 
-LEONE MALFATTI
-
-Visto, il Guardasigilli: BONIFACIO
-
-Registrato alla Corte dei conti, addi' 28 dicembre 1976
-
-Registro n. 102 Istruzione, foglio n. 76
+LEONE MALFATTI Visto, il Guardasigilli: BONIFACIO Registrato alla Corte dei conti, addi' 28 dicembre 1976 Registro n. 102 Istruzione, foglio n. 76

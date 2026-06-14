@@ -1,19 +1,22 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 11 agosto 1975 n. 535
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 527
+data: 1975-07-09
+titolo: "Autorizzazione alla fondazione \"Pro juventute don Carlo Gnocchi\", in Roma, ad accettare un legato."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1975-07-09;527
+codice_redazionale: 075U0527
+vigente: true
+---
 
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 11 agosto 1975 n. 535
-=============================================================
-
-Autorizzazione alla fondazione "Pro juventute don Carlo Gnocchi", in Roma, ad accettare un legato.
---------------------------------------------------------------------------------------------------
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-535. Decreto del Presidente della Repubblica 11 agosto 1975, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la fondazione "Pro juventute don Carlo Gnocchi", in Roma, viene autorizzata ad accettare il legato consistente nella somma di lire 3.000.000 disposto dal sig. Ennio Brandini in favore della fondazione stessa, collegio di Parma, con testamento olografo 29 dicembre 1971, pubblicato a rogito del notaio dott. Giovanni Bergonza in data 31 ottobre 1972, n. 50401 di repertorio, n. 1226 di raccolta, registrato a Parma il 20 novembre 1972 con il n. 4314, vol. 425.  
-  
-Visto, il Guardasigilli: REALE  
-Registrato alla Corte dei conti, addi' 29 ottobre 1975  
-Atti di Governo, registro n. 13, foglio n. 43
+527.
+
+Decreto del Presidente della Repubblica 9 luglio 1975, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la fondazione "Pro juventute don Carlo Gnocchi", in Roma, viene autorizzata ad accettare il legato consistente nella somma di lire 400.000 disposto dalla sig.ra Enrica Pernigotti con testamento olografo 22 luglio 1971, pubblicato, a rogito del notaio dott.
+ Muzio Battista in data 21 settembre 1971, n. 36714 di repertorio, n. 14810 di raccolta, e registrato a Voghera il 4 ottobre 1971 con il n. 1482, vol. 215.
+
+Visto, il Guardasigilli: REALE
+ Registrato alla Corte dei conti, addi' 29 ottobre 1975
+ Atti di Governo, registro n. 13, foglio n. 42

@@ -1,20 +1,20 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 gennaio 1962 n. 1107
-
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 gennaio 1962 n. 1107
-===============================================================
-
-Norme sul trattamento economico e normativo dei lavoranti panettieri dipendenti dalle imprese di panificazione delle province di Arezzo, Bergamo, Brescia, Como, Cremona, Livorno, Lucca, Milano, Pisa e Sondrio.
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 1107
+data: 1962-01-02
+titolo: "Norme sul trattamento economico e normativo dei lavoranti panettieri dipendenti dalle imprese di panificazione delle province di Arezzo, Bergamo, Brescia, Como, Cremona, Livorno, Lucca, Milano, Pisa e Sondrio."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1962-01-02;1107
+codice_redazionale: 062U1107
+vigente: true
+---
 
 IL PRESIDENTE DELLA REPUBBLICA
-------------------------------
 
-Visto l'[art. 87, comma quinto della Costituzione](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27~art87-com5);
+Visto l'[art. 87, comma quinto della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87-com5);
 
-Vista la [legge 14 luglio 1959, n. 741](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1959-07-14;741), che delega il Governo ad emanare norme transitorie, per garantire minimi di trattamento economico e normativo ai lavoratori;
+Vista la [legge 14 luglio 1959, n. 741](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1959-07-14;741), che delega il Governo ad emanare norme transitorie, per garantire minimi di trattamento economico e normativo ai lavoratori;
 
-Vista la [legge 1 ottobre 1960, n. 1027](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1960-10-01;1027), recante modifiche alla predetta [legge 14 luglio 1959, n. 741](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1959-07-14;741);
+Vista la [legge 1 ottobre 1960, n. 1027](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1960-10-01;1027), recante modifiche alla predetta [legge 14 luglio 1959, n. 741](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1959-07-14;741);
 
 Visto il contratto collettivo nazionale 26 luglio 1956, per gli operai dipendenti dalle aziende di panificazione;
 
@@ -66,184 +66,26 @@ Vista la pubblicazione nell'apposito Bollettino, n. 6 della provincia di Arezzo,
 
 Sentito il Consiglio dei Ministri;
 
-Sulla
------
+Sulla proposta del Ministro per il lavoro e la previdenza sociale; Decreta:
 
-proposta del Ministro per il lavoro e la previdenza sociale; Decreta:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-I rapporti di lavoro costituiti per l'attivita' per la finale sono stati stipulati:  
-- per la provincia di Arezzo, il contratto collettivo 23 giugno 1956;  
-- per la provincia di Bergamo, il contratto collettivo integrativo 27 febbraio 1958, l'accordo collettivo 2 ottobre 1958;  
-- per la provincia di Brescia, il contratto collettivo 21 maggio 1951, l'accordo collettivo 19 giugno 1956, l'accordo collettivo 11 dicembre 1956;  
-- per la provincia di Como, il contratto collettivo integrativo 14 gennaio 1959;  
-- per la provincia di Cremona, il contratto collettivo integrativo 2 maggio 1957;  
-- per la provincia di Livorno, il contratto collettivo 8 novembre 1948;  
-- per la provincia di Lucca, l'accordo collettivo integrativo 30 settembre 1959;  
-- per la provincia di Milano, il contratto collettivo integrativo 3 settembre 1957;  
-- per la provincia di Pisa, l'accordo collettivo 18 giugno 1952, l'accordo collettivo 22 agosto 1952, l'accordo collettivo 19 luglio 1956;  
-- per la provincia di Sondrio, il contratto collettivo 10 dicembre 1948, l'accordo collettivo 16 aprile 1952, l'accordo collettivo 23 agosto 1956, l'accordo collettivo 24 agosto 1956;  
-sono regolati da norme giuridiche uniformi alle clausole dei contratti e degli accordi anzidetti, annessi al presente decreto, purche' compatibili con quelle concernenti la disciplina nazionale della categoria.  
-I minimi di trattamento economico e normativo cosi' stabiliti sono inderogabili nei confronti di tutti i lavoranti panettieri dipendenti dalle imprese di panificazione delle province di Arezzo, Bergamo, Brescia, Como, Cremona, Livorno, Lucca, Milano, Pisa e Sondrio.  
-  
+I rapporti di lavoro costituiti per l'attivita' per la finale sono stati stipulati:
+ - per la provincia di Arezzo, il contratto collettivo 23 giugno 1956;
+ - per la provincia di Bergamo, il contratto collettivo integrativo 27 febbraio 1958, l'accordo collettivo 2 ottobre 1958;
+ - per la provincia di Brescia, il contratto collettivo 21 maggio 1951, l'accordo collettivo 19 giugno 1956, l'accordo collettivo 11 dicembre 1956;
+ - per la provincia di Como, il contratto collettivo integrativo 14 gennaio 1959;
+ - per la provincia di Cremona, il contratto collettivo integrativo 2 maggio 1957;
+ - per la provincia di Livorno, il contratto collettivo 8 novembre 1948;
+ - per la provincia di Lucca, l'accordo collettivo integrativo 30 settembre 1959;
+ - per la provincia di Milano, il contratto collettivo integrativo 3 settembre 1957;
+ - per la provincia di Pisa, l'accordo collettivo 18 giugno 1952, l'accordo collettivo 22 agosto 1952, l'accordo collettivo 19 luglio 1956;
+ - per la provincia di Sondrio, il contratto collettivo 10 dicembre 1948, l'accordo collettivo 16 aprile 1952, l'accordo collettivo 23 agosto 1956, l'accordo collettivo 24 agosto 1956;
+ sono regolati da norme giuridiche uniformi alle clausole dei contratti e degli accordi anzidetti, annessi al presente decreto, purche' compatibili con quelle concernenti la disciplina nazionale della categoria.
+ I minimi di trattamento economico e normativo cosi' stabiliti sono inderogabili nei confronti di tutti i lavoranti panettieri dipendenti dalle imprese di panificazione delle province di Arezzo, Bergamo, Brescia, Como, Cremona, Livorno, Lucca, Milano, Pisa e Sondrio.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta, ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 2 gennaio 1962
+Dato a Roma, addi' 2 gennaio 1962
 
-GRONCHI FANFANI - SULLO
-
-Visto, il Guardasigilli: BOSCO
-
-Registrato alla Corte dei conti, addi' 14 luglio 1962
-
-Atti del Governo, registro n. 155, foglio n. 36. - VILLA
-
-Contratto Collettivo
-
-CONTRATTO COLLETTIVO 23 GIUGNO 1956 PER I LAVORANTI PANETTIERI DIPENDENTI DA PANIFICI DELLA PROVINCIA DI AREZZO.   
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=062U110700100010110001&dgu=1962-08-10&art.dataPubblicazioneGazzetta=1962-08-10&art.codiceRedazionale=062U1107)
-  
-  
-  
-  
-CONTRATTO COLLETTIVO INTEGRATIVO 27 FEBBRAIO 1958, PER I LAVORANTI PANETTIERI DIPENDENTI DA AZIENDE DI PANIFICAZIONE DELLA PROVINCIA DI BERGAMO.   
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=062U110700100010110002&dgu=1962-08-10&art.dataPubblicazioneGazzetta=1962-08-10&art.codiceRedazionale=062U1107)
-  
-  
-  
-  
-ACCORDO COLLETTIVO 2 OTTOBRE 1958, RELATIVO ALLE TARIFFE DI QUINTALATO PER I DIPENDENTI DA AZIENDE DI PANIFICAZIONE DELLA PROVINCIA DI BERGAMO.   
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=062U110700100010110003&dgu=1962-08-10&art.dataPubblicazioneGazzetta=1962-08-10&art.codiceRedazionale=062U1107)
-  
-  
-  
-  
-CONTRATTO COLLETTIVO 21 MAGGIO 1954 PER I LAVORANTI PANETTIERI DELLA PROVINCIA DI BRESCIA.   
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=062U110700100010110004&dgu=1962-08-10&art.dataPubblicazioneGazzetta=1962-08-10&art.codiceRedazionale=062U1107)
-  
-  
-  
-  
-ACCORDO COLLETTIVO 19 GIUGNO 1956 PER L'AGGIORNAMENTO DELLA INDENNITA' DI CONTINGENZA AI LAVORANTI PANETTIERI DELLA PROVINCIA DI BRESCIA.   
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=062U110700100010110005&dgu=1962-08-10&art.dataPubblicazioneGazzetta=1962-08-10&art.codiceRedazionale=062U1107)
-  
-  
-  
-  
-ACCORDO COLLETTIVO 11 DICEMBRE 1956 PER LA CORRESPONSIONE DELLA GRATIFICA NATALIZIA DI LAVORANTI PANETTIERI DELLA PROVINCIA DI BRESCIA.   
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=062U110700100010110006&dgu=1962-08-10&art.dataPubblicazioneGazzetta=1962-08-10&art.codiceRedazionale=062U1107)
-  
-  
-  
-  
-CONTRATTO COLLETTIVO INTEGRATIVO 14 GENNAIO 1959 PER I LAVORANTI PANETTIERI DIPENDENTI DA AZIENDE DI PANIFICAZIONE DELLA PROVINCIA DI COMO.   
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=062U110700100010110007&dgu=1962-08-10&art.dataPubblicazioneGazzetta=1962-08-10&art.codiceRedazionale=062U1107)
-  
-  
-  
-  
-CONTRATTO COLLETTIVO INTEGRATIVO 2 MAGGIO 1957 PER I LAVORANTI PANETTIERI DELLA PROVINCIA DI CREMONA.   
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=062U110700100010110008&dgu=1962-08-10&art.dataPubblicazioneGazzetta=1962-08-10&art.codiceRedazionale=062U1107)
-  
-  
-  
-  
-CONTRATTO COLLETTIVO 8 NOVEMBRE 1948 PER GLI OPERAI DIPENDENTI DALLE AZIENDE DI PANIFICAZIONE DELLA PROVINCIA DI LIVORNO.   
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=062U110700100010110009&dgu=1962-08-10&art.dataPubblicazioneGazzetta=1962-08-10&art.codiceRedazionale=062U1107)
-  
-  
-  
-  
-ACCORDO COLLETTIVO INTEGRATIVO 30 SETTEMBRE 1959 PER I DIPENDENTI DALLE AZIENDE DI PANIFICAZIONE DELLA PROVINCIA DI LUCCA.   
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=062U110700100010110010&dgu=1962-08-10&art.dataPubblicazioneGazzetta=1962-08-10&art.codiceRedazionale=062U1107)
-  
-  
-  
-  
-CONTRATTO COLLETTIVO INTEGRATIVO 3 SETTEMBRE 1957 PER I LAVORANTI PANETTIERI DELLA PROVINCIA DI MILANO.   
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=062U110700100010110011&dgu=1962-08-10&art.dataPubblicazioneGazzetta=1962-08-10&art.codiceRedazionale=062U1107)
-  
-  
-  
-  
-ACCORDO COLLETTIVO 18 GIUGNO 1952 PER I LAVORANTI PANETTIERI DELLA PROVINCIA DI PISA.   
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=062U110700100010110012&dgu=1962-08-10&art.dataPubblicazioneGazzetta=1962-08-10&art.codiceRedazionale=062U1107)
-  
-  
-  
-  
-ACCORDO COLLETTIVO 22 AGOSTO 1952 PER I LAVORANTI PANETTIERI DELLA PROVINCIA DI PISA.   
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=062U110700100010110013&dgu=1962-08-10&art.dataPubblicazioneGazzetta=1962-08-10&art.codiceRedazionale=062U1107)
-  
-  
-  
-  
-ACCORDO COLLETTIVO 19 LUGLIO 1956 PER L'AGGIORNAMENTO DELLA INDENNITA' DI CONTINGENZA PER I DIPENDENTI DA AZIENDE DI PANIFICAZIONE DELLA PROVINCIA DI PISA.   
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=062U110700100010110014&dgu=1962-08-10&art.dataPubblicazioneGazzetta=1962-08-10&art.codiceRedazionale=062U1107)
-  
-  
-  
-  
-CONTRATTO COLLETTIVO 10 DICEMBRE 1948 PER I LAVORANTI PANETTIERI DELLA PROVINCIA DI SONDRIO.   
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=062U110700100010110015&dgu=1962-08-10&art.dataPubblicazioneGazzetta=1962-08-10&art.codiceRedazionale=062U1107)
-  
-  
-  
-  
-ACCORDO COLLETTIVO 16 APRILE 1952 PER I LAVORANTI PANETTIERI DELLA PROVINCIA DI SONDRIO.   
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=062U110700100010110016&dgu=1962-08-10&art.dataPubblicazioneGazzetta=1962-08-10&art.codiceRedazionale=062U1107)
-  
-  
-  
-  
-ACCORDO COLLETTIVO 23 AGOSTO 1956 PER L'AGGIORNAMENTO DELLA INDENNITA' DI CONTINGENZA DEI LAVORANTI PANETTIERI DELLA PROVINCIA DI SONDRIO.   
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=062U110700100010110017&dgu=1962-08-10&art.dataPubblicazioneGazzetta=1962-08-10&art.codiceRedazionale=062U1107)
-  
-  
-  
-  
-ACCORDO COLLETTIVO 24 AGOSTO 1956 RELATIVO ALLA RETRIBUZIONE DEI DIPENDENTI DA AZIENDE DI PANIFICAZIONE DELLA PROVINCIA DI SONDRIO.   
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=062U110700100010110018&dgu=1962-08-10&art.dataPubblicazioneGazzetta=1962-08-10&art.codiceRedazionale=062U1107)
-  
+GRONCHI FANFANI - SULLO Visto, il Guardasigilli: BOSCO Registrato alla Corte dei conti, addi' 14 luglio 1962 Atti del Governo, registro n. 155, foglio n. 36. - VILLA

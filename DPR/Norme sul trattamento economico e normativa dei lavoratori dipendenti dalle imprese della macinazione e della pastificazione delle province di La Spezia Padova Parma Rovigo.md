@@ -1,20 +1,20 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 11 dicembre 1961 n. 1631
-
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 11 dicembre 1961 n. 1631
-================================================================
-
-Norme sul trattamento economico e normativa dei lavoratori dipendenti dalle imprese della macinazione e della pastificazione delle province di La Spezia, Padova, Parma, Rovigo.
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 1631
+data: 1961-12-11
+titolo: "Norme sul trattamento economico e normativa dei lavoratori dipendenti dalle imprese della macinazione e della pastificazione delle province di La Spezia, Padova, Parma, Rovigo."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1961-12-11;1631
+codice_redazionale: 061U1631
+vigente: true
+---
 
 IL PRESIDENTE DELLA REPUBBLICA
-------------------------------
 
-Visto l'[art. 87, comma quinto, della Costituzione](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27~art87-com5);
+Visto l'[art. 87, comma quinto, della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87-com5);
 
-Vista la [legge 14 luglio 1959, n. 741](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1959-07-14;741), che delega il Governo ad emanare norme transitorie per garantire minimi di trattamento economico e normativo ai lavoratori;
+Vista la [legge 14 luglio 1959, n. 741](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1959-07-14;741), che delega il Governo ad emanare norme transitorie per garantire minimi di trattamento economico e normativo ai lavoratori;
 
-Vista la [legge 1 ottobre 1960, n. 1027](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1960-10-01;1027), recante modifiche alla predetta [legge 14 luglio 1959, n. 741](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1959-07-14;741);
+Vista la [legge 1 ottobre 1960, n. 1027](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1960-10-01;1027), recante modifiche alla predetta [legge 14 luglio 1959, n. 741](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1959-07-14;741);
 
 Visto il contratto collettivo nazionale 1 ottobre 1959, per i lavoratori addetti alle industrie della macinazione e della pastificazione;
 
@@ -36,53 +36,20 @@ Vista la pubblicazione nell'apposito Bollettino, n. 6 della provincia di La Spez
 
 Sentito il Consiglio dei Ministri;
 
-Sulla
------
+Sulla proposta del Ministro per il lavoro e la previdenza sociale; Decreta:
 
-proposta del Ministro per il lavoro e la previdenza sociale; Decreta:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-I rapporti di lavoro costituiti per le attivita' per le quali sono stati stipulati:  
-per la provincia di La Spezia, l'accordo collettivo 29 maggio 1947, relativo alla corresponsione dell'indennita' sostitutiva di mensa per i lavoratori addetti all'industria, della pastificazione, l'accordo collettivo 18 giugno 1947, relativo alla corresponsione dell'indennita' sostitutiva di mensa per i lavoratori addetti alla industria molitoria, l'accordo collettivo 25 novembre 1953, relativo ai lavoratori dipendenti dalle imprese esercenti l'industria della pastificazione;  
-per la provincia di Padova, l'accordo collettivo 3 ottobre 1947, relativo alla corresponsione dell'indennita' sostitutiva di mensa ai lavoratori dipendenti dalle aziende industriali esercenti molini e pastifici;  
-per la provincia di Parma, l'accordo collettivo 2 ottobre 1959, relativo alla determinazione dei salari per gli operai dipendenti da aziende esercenti l'industria molitoria e pastaria;  
-per la provincia di Rovigo, l'accordo collettivo 28 luglio 1947, relativo ai lavoratori dipendenti da aziende esercenti molini e pastifici;  
-sono regolati da norme giuridiche uniformi alle clausole degli accordi anzidetti, annessi al presente decreto, purche' compatibili con quelle concernenti la disciplina nazionale della categoria.  
-I minimi di trattamento economico e normativo cosi' stabiliti sono inderogabili nei confronti di tutti i lavoratori dipendenti dalle imprese della macinazione e della pastificazione delle province di La Spezia, Padova, Parma, Rovigo.  
-  
+I rapporti di lavoro costituiti per le attivita' per le quali sono stati stipulati:
+ per la provincia di La Spezia, l'accordo collettivo 29 maggio 1947, relativo alla corresponsione dell'indennita' sostitutiva di mensa per i lavoratori addetti all'industria, della pastificazione, l'accordo collettivo 18 giugno 1947, relativo alla corresponsione dell'indennita' sostitutiva di mensa per i lavoratori addetti alla industria molitoria, l'accordo collettivo 25 novembre 1953, relativo ai lavoratori dipendenti dalle imprese esercenti l'industria della pastificazione;
+ per la provincia di Padova, l'accordo collettivo 3 ottobre 1947, relativo alla corresponsione dell'indennita' sostitutiva di mensa ai lavoratori dipendenti dalle aziende industriali esercenti molini e pastifici;
+ per la provincia di Parma, l'accordo collettivo 2 ottobre 1959, relativo alla determinazione dei salari per gli operai dipendenti da aziende esercenti l'industria molitoria e pastaria;
+ per la provincia di Rovigo, l'accordo collettivo 28 luglio 1947, relativo ai lavoratori dipendenti da aziende esercenti molini e pastifici;
+ sono regolati da norme giuridiche uniformi alle clausole degli accordi anzidetti, annessi al presente decreto, purche' compatibili con quelle concernenti la disciplina nazionale della categoria.
+ I minimi di trattamento economico e normativo cosi' stabiliti sono inderogabili nei confronti di tutti i lavoratori dipendenti dalle imprese della macinazione e della pastificazione delle province di La Spezia, Padova, Parma, Rovigo.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 11 dicembre 1961
+Dato a Roma, addi' 11 dicembre 1961
 
-GRONCHI FANFANI - SULLO
-
-Visto, il Guardasigilli: GONELLA
-
-Registrato alla Corte dei conti, addi' 19 febbraio 1962
-
-Atti del Governo, registro n. 143, foglio n. 157. - VILLA
-
-Accordo
-
-  
-ACCORDO COLLETTIVO 29 MAGGIO 1947 RELATIVO ALLA CORRESPONSIONE DELL'INDENNITA' SOSTITUTIVA DI MENSA PER I LAVORATORI ADDETTI ALL'INDUSTRIA DELLA PASTIFICAZIONE DELLA PROVINCIA DI LA SPEZIA.   
-  
-ACCORDO COLLETTIVO 18 GIUGNO 1947 RELATIVO ALLA CORRESPONSIONE DELL'INDENNITA' SOSTITUTIVA DI MENSA PER I LAVORATORI ADDETTI ALL'INDUSTRIA MOLITORIA DELLA PROVINCIA DI LA SPEZIA.   
-  
-ACCORDO COLLETTIVO 25 NOVEMBRE 1953, PER I LAVORATORI DIPENDENTI DALLE IMPRESE ESERCENTI L'INDUSTRIA DELLA PASTIFICAZIONE DELLA PROVINCIA DI LA SPEZIA.   
-  
-ACCORDO COLLETTIVO 3 OTTOBRE 1947, RELATIVO ALLA CORRESPONSIONE dell'INDENNITA' SOSTITUTIVA DI MENSA Al LAVORATORI DIPENDENTI DALLE AZIENDE INDUSTRIALI ESERCENTI MOLINI E PASTIFICI NELLA PROVINCIA DI PADOVA.   
-  
-ACCORDO COLLETTIVO 2 OTTOBRE 1959 RELATIVO ALLA DETERMINAZIONE DEI SALARI PER GLI OPERAI DIPENDENTI DA AZIENDE ESERCENTI L'INDUSTRIA MOLITORIA E PASTARIA DELLA PROVINCIA DI PARMA.   
-  
-ACCORDO COLLETTIVO 28 LUGLIO 1947 PER I LAVORATORI DIPENDENTI DA AZIENDE ESERCENTI MOLINI E PASTIFICI NELLA PROVINCIA DI ROVIGO.   
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=061U163100100010110001&dgu=1962-03-13&art.dataPubblicazioneGazzetta=1962-03-13&art.codiceRedazionale=061U1631)
-  
+GRONCHI FANFANI - SULLO Visto, il Guardasigilli: GONELLA Registrato alla Corte dei conti, addi' 19 febbraio 1962 Atti del Governo, registro n. 143, foglio n. 157. - VILLA

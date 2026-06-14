@@ -1,45 +1,31 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 29 dicembre 1956 n. 1507
-
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 29 dicembre 1956 n. 1507
-================================================================
-
-Proroga delle disposizioni del decreto del Presidente della Repubblica 21 novembre 1951, n. 1396, recante norme di attuazione dello Statuto speciale per il Trentino Alto Adige.
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 1507
+data: 1956-12-29
+titolo: "Proroga delle disposizioni del decreto del Presidente della Repubblica 21 novembre 1951, n. 1396, recante norme di attuazione dello Statuto speciale per il Trentino Alto Adige."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1956-12-29;1507
+codice_redazionale: 056U1507
+vigente: true
+---
 
 IL PRESIDENTE DELLA REPUBBLICA
-------------------------------
 
-Visto l'[art. 87 della Costituzione](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27~art87);
+Visto l'[art. 87 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87);
 
-Visto l'[art. 95 della legge costituzionale 26 febbraio 1948, n. 5](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge.costituzionale:1948-02-26;5~art95);
+Visto l'[art. 95 della legge costituzionale 26 febbraio 1948, n. 5](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge.costituzionale:1948-02-26;5#art_95);
 
-Visto il [decreto del Presidente della Repubblica 21 novembre 1951, n. 1396](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-11-21;1396), recante norme di attuazione dello Statuto speciale per il Trentino Alto Adige;
+Visto il [decreto del Presidente della Repubblica 21 novembre 1951, n. 1396](Norme%20di%20attuazione%20dello%20Statuto%20speciale%20per%20il%20Trentino-Alto%20Adige_2.md), recante norme di attuazione dello Statuto speciale per il Trentino Alto Adige;
 
 Sentito il Consiglio dei Ministri;
 
-Sulla
------
+Sulla proposta del Presidente del Consiglio dei Ministri, di concerto coi Ministri per l'interno e per il tesoro; Decreta:
 
-proposta del Presidente del Consiglio dei Ministri, di concerto coi Ministri per l'interno e per il tesoro; Decreta:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-Le disposizioni del [decreto del Presidente della Repubblica 21 novembre 1951, n. 1396](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-11-21;1396), sono prorogate per il periodo di cinque anni con effetto dal 14 gennaio 1957.  
-  
+Le disposizioni del [decreto del Presidente della Repubblica 21 novembre 1951, n. 1396](Norme%20di%20attuazione%20dello%20Statuto%20speciale%20per%20il%20Trentino-Alto%20Adige_2.md), sono prorogate per il periodo di cinque anni con effetto dal 14 gennaio 1957.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 29 dicembre 1956
+Dato a Roma, addi' 29 dicembre 1956
 
-GRONCHI SEGNI - TAMBRONI - MEDICI
-
-Visto, il Guardasigilli: MORO
-
-Registrato alla Corte dei conti, addi' 10 gennaio 1957
-
-Atti del Governo, registro n. 103, foglio n. 28. - CARLOMAGNO
+GRONCHI SEGNI - TAMBRONI - MEDICI Visto, il Guardasigilli: MORO Registrato alla Corte dei conti, addi' 10 gennaio 1957 Atti del Governo, registro n. 103, foglio n. 28. - CARLOMAGNO

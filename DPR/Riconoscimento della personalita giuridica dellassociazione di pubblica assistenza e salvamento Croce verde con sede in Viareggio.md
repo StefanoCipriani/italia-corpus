@@ -1,19 +1,21 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 09 luglio 1967 n. 1510
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 1510
+data: 1967-07-09
+titolo: "Riconoscimento della personalita' giuridica dell'associazione di pubblica assistenza e salvamento \"Croce verde\" con sede in Viareggio."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1967-07-09;1510
+codice_redazionale: 067U1510
+vigente: true
+---
 
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 09 luglio 1967 n. 1510
-==============================================================
-
-Riconoscimento della personalita' giuridica dell'associazione di pubblica assistenza e salvamento "Croce verde" con sede in Viareggio.
---------------------------------------------------------------------------------------------------------------------------------------
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-1510. Decreto del Presidente della Repubblica 9 luglio 1967, col quale, sulla proposta del Ministro per la sanita', viene riconosciuta la personalita' giuridica dell'associazione di pubblica assistenza e salvamento "Croce verde", con sede in Viareggio, e ne viene approvato lo statuto.  
-  
-Visto, il Guardasigilli: REALE  
-Registrato alla Corte dei conti, addi' 11 maggio 1968  
-Atti del Governo, registro n. 219, foglio n. 138. - GRECO
+1510.
+
+Decreto del Presidente della Repubblica 9 luglio 1967, col quale, sulla proposta del Ministro per la sanita', viene riconosciuta la personalita' giuridica dell'associazione di pubblica assistenza e salvamento "Croce verde", con sede in Viareggio, e ne viene approvato lo statuto.
+
+Visto, il Guardasigilli: REALE
+ Registrato alla Corte dei conti, addi' 11 maggio 1968
+ Atti del Governo, registro n. 219, foglio n. 138. - GRECO

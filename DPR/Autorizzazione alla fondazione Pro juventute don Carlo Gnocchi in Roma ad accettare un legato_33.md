@@ -1,19 +1,21 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 07 febbraio 1980 n. 124
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 95
+data: 1980-01-22
+titolo: "Autorizzazione alla fondazione \"Pro juventute don Carlo Gnocchi\", in Roma, ad accettare un legato."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1980-01-22;95
+codice_redazionale: 080U0095
+vigente: true
+---
 
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 07 febbraio 1980 n. 124
-===============================================================
-
-Autorizzazione alla fondazione "Pro juventute don Carlo Gnocchi", in Roma, ad accettare un legato.
---------------------------------------------------------------------------------------------------
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-124. Decreto del Presidente della Repubblica 7 febbraio 1980, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la fondazione "Pro juventute don Carlo Gnocchi", in Roma, viene autorizzata ad accettare il legato, consistente nella somma di L. 3.000.000, disposto dalla sig.ra Lodovina Pirro ved. Casaro con testamento pubblico 30 gennaio 1975, pubblicato in data 8 luglio 1975, n. 10457 di repertorio a rogito dott. Enrico Storto, notaio in Moncalieri (Torino), registrato a Moncalieri in data 11 luglio 1975, n. 2390, vol. 87.  
-  
-Visto, il Guardasigilli: MORLINO  
-Registrato alla Corte dei conti, addi' 31 marzo 1980  
-Registro n. 3 Presidenza, foglio n. 2
+95.
+
+Decreto del Presidente della Repubblica 22 gennaio 1980, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la fondazione "Pro juventute don Carlo Gnocchi", in Roma, viene autorizzata ad accettare il legato, consistente in azioni, obbligazioni e libretto di deposito, del valore complessivo lire 19.209.319, disposto dalla sig.ra Maria Zavater ved. Galli con testamento olografo 23 giugno 1975, pubblicato in data 14 luglio 1977, n. 43403 di repertorio, a rogito dott. Mario Matricardi, notaio in Verbania-Pallanza (Novara), registrato a Verbania in data 26 luglio 1977, n. 1750, mod. I, vol. 161.
+
+Visto, il Guardasigilli: MORLINO
+ Registrato alla Corte dei conti, addi' 21 marzo 1980
+ Registro n. 2 Presidenza, foglio n. 342

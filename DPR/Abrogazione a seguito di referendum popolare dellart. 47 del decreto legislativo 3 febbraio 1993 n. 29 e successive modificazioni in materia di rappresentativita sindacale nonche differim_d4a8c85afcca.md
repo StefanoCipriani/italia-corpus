@@ -1,22 +1,20 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 luglio 1995 n. 316
-
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 luglio 1995 n. 316
-=============================================================
-
-Abrogazione, a seguito di referendum popolare, dell'art. 47 del decreto legislativo 3 febbraio 1993, n. 29, e successive modificazioni, in materia di rappresentativita' sindacale, nonche' differimento dell'entrata in vigore dell'abrogazione medesima.
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del decreto: 13/98/1995
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 316
+data: 1995-07-28
+titolo: "Abrogazione, a seguito di referendum popolare, dell'art. 47 del decreto legislativo 3 febbraio 1993, n. 29, e successive modificazioni, in materia di rappresentativita' sindacale, nonche' differimento dell'entrata in vigore dell'abrogazione medesima."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1995-07-28;316
+codice_redazionale: 095G0357
+vigente: true
+---
 
 IL PRESIDENTE DELLA REPUBBLICA
-------------------------------
 
-Visto l'[art. 75 della Costituzione](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27~art75);
+Visto l'[art. 75 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_75);
 
-Visto l'[art. 37 della legge 25 maggio 1970, n. 352](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1970-05-25;352~art37);
+Visto l'[art. 37 della legge 25 maggio 1970, n. 352](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1970-05-25;352#art_37);
 
-Visti gli atti, trasmessi in data 21 luglio 1995 all'Ufficio centrale per il referendum presso la Corte di cassazione, relativi alla proclamazione del risultato del referendum indetto con [decreto del Presidente della Repubblica 5 aprile 1995, pubblicato nella Gazzetta Ufficiale n. 85 dell'11 aprile 1995](http://www.gazzettaufficiale.it/gazzetta/serie_generale/caricaDettaglio?dataPubblicazioneGazzetta=1995-04-11&numeroGazzetta=85), per l'abrogazione dell'[art. 47 del decreto legislativo 3 febbraio 1993, n. 29](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-02-03;29~art47), e successive modificazioni, in materia di rappresentativita' sindacale;
+Visti gli atti, trasmessi in data 21 luglio 1995 all'Ufficio centrale per il referendum presso la Corte di cassazione, relativi alla proclamazione del risultato del referendum indetto con decreto del Presidente della Repubblica 5 aprile 1995, pubblicato nella Gazzetta Ufficiale n. 85 dell'11 aprile 1995, per l'abrogazione dell'[art. 47 del decreto legislativo 3 febbraio 1993, n. 29](../Atti%20normativi%20abrogati%20%28in%20originale%29/Razionalizzazione%20della%20organizzazione%20delle%20Amministrazioni%20pubbliche%20e%20revisione%20della%20disciplina%20in%20materia%20di%20pubblico%20impiego%20a%20norma%20dellarticolo%202%20della%20legge%2023%20ottobre%201992%20n.%20421.md), e successive modificazioni, in materia di rappresentativita' sindacale;
 
 Ritenuta la necessita' di prorogare il termine di entrata in vigore della predetta abrogazione, al fine di opportunamente riorganizzare il settore in questione e di evitare soluzioni di continuita';
 
@@ -26,22 +24,18 @@ Sulla proposta del Presidente del Consiglio dei Ministri e del Ministro per la f
 
 E M A N A il seguente decreto:
 
-Art. 1
-------
+## Art. 1.
 
-1. In esito al referendum indetto con [decreto del Presidente della Repubblica 5 aprile 1995, pubblicato nella Gazzetta Ufficiale n. 85 dell'11 aprile 1995](http://www.gazzettaufficiale.it/gazzetta/serie_generale/caricaDettaglio?dataPubblicazioneGazzetta=1995-04-11&numeroGazzetta=85), e' abrogato il [decreto legislativo 3 febbraio 1993, n. 29](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-02-03;29), "Razionalizzazione dell'organizzazione delle amministrazioni pubbliche e revisione della disciplina in materia di pubblico impiego, a norma dell'[art. 2 della legge 23 ottobre 1992, n. 421](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1992-10-23;421~art2)", pubblicato nel supplemento ordinario alla Gazzetta Ufficiale - serie generale - n. 30 del 6 febbraio 1993, limitatamente all'art. 47 (rappresentativita' sindacale) nel testo risultante per effetto della [sentenza 30 luglio 1993, n. 359, della Corte costituzionale](https://e-justice.europa.eu/ecli/ECLI::::) e della modificazione apportata dall'[art. 22 del decreto legislativo 23 dicembre 1993, n. 546](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-12-23;546~art22).
+1.
 
-2. L'abrogazione di cui al comma 1 ha effetto decorsi sessanta giorni dalla data di pubblicazione del presente decreto nella Gazzetta Ufficiale.
+In esito al referendum indetto con decreto del Presidente della Repubblica 5 aprile 1995, pubblicato nella Gazzetta Ufficiale n. 85 dell'11 aprile 1995, e' abrogato il [decreto legislativo 3 febbraio 1993, n. 29](../Atti%20normativi%20abrogati%20%28in%20originale%29/Razionalizzazione%20della%20organizzazione%20delle%20Amministrazioni%20pubbliche%20e%20revisione%20della%20disciplina%20in%20materia%20di%20pubblico%20impiego%20a%20norma%20dellarticolo%202%20della%20legge%2023%20ottobre%201992%20n.%20421.md), "Razionalizzazione dell'organizzazione delle amministrazioni pubbliche e revisione della disciplina in materia di pubblico impiego, a norma dell'[art. 2 della legge 23 ottobre 1992, n. 421](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1992-10-23;421#art_2)", pubblicato nel supplemento ordinario alla Gazzetta Ufficiale - serie generale - n. 30 del 6 febbraio 1993, limitatamente all'art. 47 (rappresentativita' sindacale) nel testo risultante per effetto della sentenza 30 luglio 1993, n. 359, della Corte costituzionale e della modificazione apportata dall'[art. 22 del decreto legislativo 23 dicembre 1993, n. 546](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-12-23;546#art_22).
+
+2.
+
+L'abrogazione di cui al comma 1 ha effetto decorsi sessanta giorni dalla data di pubblicazione del presente decreto nella Gazzetta Ufficiale.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserito nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 28 luglio 1995
+Dato a Roma, addi' 28 luglio 1995
 
-SCALFARO
-
-DINI, Presidente del Consiglio dei Ministri
-
-FRATTINI, Ministro per la funzione pubblica e gli affari regionali
-
-Visto, il Guardasigilli: MANCUSO
+SCALFARO DINI, Presidente del Consiglio dei Ministri FRATTINI, Ministro per la funzione pubblica e gli affari regionali Visto, il Guardasigilli: MANCUSO

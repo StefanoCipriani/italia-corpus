@@ -1,38 +1,30 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 12 luglio 1971 n. 789
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 789
+data: 1971-07-12
+titolo: "Approvazione del nuovo statuto del Consorzio per l'area di sviluppo industriale di Lecce."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1971-07-12;789
+codice_redazionale: 071U0789
+vigente: true
+---
 
+## Art. 1.
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 12 luglio 1971 n. 789
-=============================================================
+IL PRESIDENTE DELLA REPUBBLICA
 
-Approvazione del nuovo statuto del Consorzio per l'area di sviluppo industriale di Lecce.
------------------------------------------------------------------------------------------
+ Visto il proprio decreto del 4 maggio 1966, n. 609, con il quale e' stato approvato lo statuto del Consorzio per il nucleo di sviluppo industriale di Lecce;
+ Vista la [deliberazione n. 13 del 1 dicembre 1969](https://www.normattiva.it/uri-res/N2Ls?urn:nir::delibera:1969-12-01;13) del consiglio generale del Consorzio per l'area di sviluppo industriale di Lecce;
+ Vista la nota n. 101761/74 del 16 giugno 1970 del Ministero dell'industria, del commercio e dell'artigianato;
+ Visto l'art. 145 del testo unico delle leggi sul Mezzogiorno approvato con il [decreto del Presidente della Repubblica 30 giugno 1967, n. 1523](Testo%20unico%20delle%20leggi%20sul%20Mezzogiorno.md);
+ Vista la deliberazione del 19 dicembre 1970 del comitato dei Ministri per il Mezzogiorno con l'intervento del Ministro per l'interno;
+ Sulla proposta del Presidente del Consiglio dei Ministri;
 
-Art. 1
-------
+ Decreta:
 
- IL PRESIDENTE DELLA REPUBBLICA  
-  
-Visto il proprio decreto del 4 maggio 1966, n. 609, con il quale e' stato approvato lo statuto del Consorzio per il nucleo di sviluppo industriale di Lecce;  
-Vista la [deliberazione n. 13 del 1 dicembre 1969](http://www.normattiva.it/uri-res/N2Ls?urn:nir::delibera:1969-12-01;13) del consiglio generale del Consorzio per l'area di sviluppo industriale di Lecce;  
-Vista la nota n. 101761/74 del 16 giugno 1970 del Ministero dell'industria, del commercio e dell'artigianato;  
-Visto l'art. 145 del testo unico delle leggi sul Mezzogiorno approvato con il [decreto del Presidente della Repubblica 30 giugno 1967, n. 1523](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1967-06-30;1523);  
-Vista la deliberazione del 19 dicembre 1970 del comitato dei Ministri per il Mezzogiorno con l'intervento del Ministro per l'interno;  
-Sulla proposta del Presidente del Consiglio dei Ministri;  
-  
-Decreta:  
-  
-E' approvato il nuovo statuto del Consorzio per l'area di sviluppo industriale di Lecce nei termini indicati dalla [deliberazione n. 13 del 1 dicembre 1969](http://www.normattiva.it/uri-res/N2Ls?urn:nir::delibera:1969-12-01;13) del consiglio generale del consorzio stesso e di cui al testo allegato.  
-  
+ E' approvato il nuovo statuto del Consorzio per l'area di sviluppo industriale di Lecce nei termini indicati dalla [deliberazione n. 13 del 1 dicembre 1969](https://www.normattiva.it/uri-res/N2Ls?urn:nir::delibera:1969-12-01;13) del consiglio generale del consorzio stesso e di cui al testo allegato.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 12 luglio 1971
+Dato a Roma, addi' 12 luglio 1971
 
-SARAGAT COLOMBO
-
-Visto, il Guardasigilli: COLOMBO
-
-Registrato alla Corte dei conti, addi' 20 settembre 1971
-
-Atti del Governo, registro n. 244, foglio n. 112. - CARUSO
+SARAGAT COLOMBO Visto, il Guardasigilli: COLOMBO Registrato alla Corte dei conti, addi' 20 settembre 1971 Atti del Governo, registro n. 244, foglio n. 112. - CARUSO

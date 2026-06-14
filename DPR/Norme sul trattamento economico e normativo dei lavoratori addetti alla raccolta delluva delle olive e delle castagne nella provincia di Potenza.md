@@ -1,20 +1,20 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 27 novembre 1960 n. 1778
-
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 27 novembre 1960 n. 1778
-================================================================
-
-Norme sul trattamento economico e normativo dei lavoratori addetti alla raccolta dell'uva, delle olive e delle castagne nella provincia di Potenza.
----------------------------------------------------------------------------------------------------------------------------------------------------
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 1778
+data: 1960-11-27
+titolo: "Norme sul trattamento economico e normativo dei lavoratori addetti alla raccolta dell'uva, delle olive e delle castagne nella provincia di Potenza."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1960-11-27;1778
+codice_redazionale: 060U1778
+vigente: true
+---
 
 IL PRESIDENTE DELLA REPUBBLICA
-------------------------------
 
-Visto l'[art. 87, comma quinto, della Costituzione](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27~art87-com5);
+Visto l'[art. 87, comma quinto, della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87-com5);
 
-Vista la [legge 14 luglio 1959, n. 741](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1959-07-14;741), che delega il Governo ad emanare norme transitorie per garantire minimi di trattamento economico e normativo ai lavoratori;
+Vista la [legge 14 luglio 1959, n. 741](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1959-07-14;741), che delega il Governo ad emanare norme transitorie per garantire minimi di trattamento economico e normativo ai lavoratori;
 
-Vista la [legge 1 ottobre 1960, n. 1027](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1960-10-01;1027), recante modifiche alla predetta [legge 14 luglio 1959, n. 741](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1959-07-14;741);
+Vista la [legge 1 ottobre 1960, n. 1027](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1960-10-01;1027), recante modifiche alla predetta [legge 14 luglio 1959, n. 741](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1959-07-14;741);
 
 Visto il patto collettivo nazionale di lavoro 15 febbraio 1957, per i braccianti agricoli avventizi;
 
@@ -30,56 +30,15 @@ Vista la pubblicazione nell'apposito Bollettino n. 1 del 28 gennaio 1960 dei con
 
 Sentito il Consiglio dei Ministri;
 
-Sulla
------
+Sulla proposta del Ministro per il lavoro e la previdenza sociale; Decreta:
 
-proposta del Ministro per il lavoro e la previdenza sociale; Decreta:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-I rapporti di lavoro costituiti per le attivita' per le quali sono stati stipulati il contratto e gli accordi collettivi indicati nel preambolo sono regolati da norme giuridiche uniformi alle clausole del contratto e degli accordi anzidetti, annessi al presente decreto, purche' compatibili con la disciplina nazionale della categoria.  
-I minimi di trattamento economico e normativo cosi' stabiliti sono inderogabili nei confronti di tutti i lavoratori addetti alla raccolta dell'uva, delle olive e delle castagne della provincia di Potenza.  
-  
+I rapporti di lavoro costituiti per le attivita' per le quali sono stati stipulati il contratto e gli accordi collettivi indicati nel preambolo sono regolati da norme giuridiche uniformi alle clausole del contratto e degli accordi anzidetti, annessi al presente decreto, purche' compatibili con la disciplina nazionale della categoria.
+ I minimi di trattamento economico e normativo cosi' stabiliti sono inderogabili nei confronti di tutti i lavoratori addetti alla raccolta dell'uva, delle olive e delle castagne della provincia di Potenza.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 27 novembre 1960
+Dato a Roma, addi' 27 novembre 1960
 
-GRONCHI FANFANI - SULLO
-
-Visto, il Guardasigilli: GONELLA
-
-Registrato alla Corte dei conti, addi' 23 gennaio 1961
-
-Atti del Governo, registro n 133, foglio n. 93. - VILLA
-
-Allegato
-
-CONTRATTO PROVINCIALE DI LAVORO 4 DICEMBRE 1957 RELATIVO AI PRESTATORI D'OPERA ADDETTI AI LAVORI DI RACCOLTA DELL'UVA, DELLE OLIVE E DELLE CASTAGNE NELLA PROVINCIA DI POTENZA.   
-  
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=060U177800100010110001&dgu=1961-02-03&art.dataPubblicazioneGazzetta=1961-02-03&art.codiceRedazionale=060U1778)
-  
-  
-  
-  
-ACCORDO 12 OTTOBRE 1958 RELATIVO ALL'AGGIORNAMENTO SALARIALE PER I BRACCIANTI AGRICOLI GIORNALIERI ADDETTI ALLA RACCOLTA DELL'UVA, DELLE OLIVE E DELLE CASTAGNE.   
-  
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=060U177800100010110002&dgu=1961-02-03&art.dataPubblicazioneGazzetta=1961-02-03&art.codiceRedazionale=060U1778)
-  
-  
-  
-  
-ACCORDO 15 LUGLIO 1959 PER LA UNIFICAZIONE DECORRENZA CONTRATTI AGRICOLI.   
-  
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=060U177800100010110003&dgu=1961-02-03&art.dataPubblicazioneGazzetta=1961-02-03&art.codiceRedazionale=060U1778)
-  
+GRONCHI FANFANI - SULLO Visto, il Guardasigilli: GONELLA Registrato alla Corte dei conti, addi' 23 gennaio 1961 Atti del Governo, registro n 133, foglio n. 93. - VILLA

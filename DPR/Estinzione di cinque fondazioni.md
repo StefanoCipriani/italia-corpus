@@ -1,19 +1,21 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 15 marzo 1971 n. 247
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 247
+data: 1971-03-15
+titolo: "Estinzione di cinque fondazioni."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1971-03-15;247
+codice_redazionale: 071U0247
+vigente: true
+---
 
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 15 marzo 1971 n. 247
-============================================================
-
-Estinzione di cinque fondazioni.
---------------------------------
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-247. Decreto del Presidente della Repubblica 15 marzo 1971, col quale, sulla proposta del Ministro per la difesa, le fondazioni "Mario Pittaluga", "Generale Alessandro De Saint Pierre", "Sottotenente medico di complemento Carlo Sola", "Maresciallo maggiore Ghivarello Teresio" e "Duplice medaglia d'oro capitano Luigi Giorgi" vengono dichiarate estinte. I beni che residueranno dopo la loro liquidazione vengono devoluti alla fondazione "Colonnello Giorgio Gervasoni", autorizzata ad accettarli.  
-  
-Visto, il Guardasigilli: COLOMBO  
-Registrato alla Corte dei conti, addi' 6 maggio 1971  
-Atti del Governo, registro n. 241, foglio n. 209. - VALENTINI
+247.
+
+Decreto del Presidente della Repubblica 15 marzo 1971, col quale, sulla proposta del Ministro per la difesa, le fondazioni "Mario Pittaluga", "Generale Alessandro De Saint Pierre", "Sottotenente medico di complemento Carlo Sola", "Maresciallo maggiore Ghivarello Teresio" e "Duplice medaglia d'oro capitano Luigi Giorgi" vengono dichiarate estinte. I beni che residueranno dopo la loro liquidazione vengono devoluti alla fondazione "Colonnello Giorgio Gervasoni", autorizzata ad accettarli.
+
+Visto, il Guardasigilli: COLOMBO
+ Registrato alla Corte dei conti, addi' 6 maggio 1971
+ Atti del Governo, registro n. 241, foglio n. 209. - VALENTINI

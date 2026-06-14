@@ -1,20 +1,20 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 maggio 1962 n. 965
-
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 maggio 1962 n. 965
-=============================================================
-
-Autorizzazione alla Cassa di risparmio di Roma, con sede in Roma, ad estendere l'esercizio del credito fondiario.
------------------------------------------------------------------------------------------------------------------
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 965
+data: 1962-05-28
+titolo: "Autorizzazione alla Cassa di risparmio di Roma, con sede in Roma, ad estendere l'esercizio del credito fondiario."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1962-05-28;965
+codice_redazionale: 062U0965
+vigente: true
+---
 
 IL PRESIDENTE DELLA REPUBBLICA
-------------------------------
 
 Visti il testo unico delle leggi sul credito fondiario, approvato con regio decreto Id luglio 1905, n. 646, e successive modificazioni e integrazioni;
 
-Visti il regolamento per l'esecuzione del predetto testo unico, approvato con [regio decreto 5 maggio 1910, n. 472](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1910-05-05;472), e successive modificazioni e integrazioni;
+Visti il regolamento per l'esecuzione del predetto testo unico, approvato con [regio decreto 5 maggio 1910, n. 472](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1910-05-05;472), e successive modificazioni e integrazioni;
 
-Visto il [regio decreto-legge 12 marzo 1936, n. 375](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1936-03-12;375), e successive modificazioni, nonche' il [decreto legislativo del Capo provvisorio dello Stato 17 luglio 1947, n. 691](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto.legislativo:1947-07-17;691);
+Visto il [regio decreto-legge 12 marzo 1936, n. 375](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1936-03-12;375), e successive modificazioni, nonche' il [decreto legislativo del Capo provvisorio dello Stato 17 luglio 1947, n. 691](https://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto.legislativo:1947-07-17;691);
 
 Visto il proprio decreto 30 luglio 1957, n. 813, con il quale la Cassa di risparmio di Roma, con sede in Roma, e' stata autorizzata ad esercitare, nel territorio delle Province in cui ha proprie filiali, il credito fondiario in conformita' delle disposizioni vigenti in materia.
 
@@ -28,29 +28,15 @@ Sentito il Comitato interministeriale per il credito ed il risparmio;
 
 Udito il parere del Consiglio di Stato;
 
-Sulla
------
+Sulla proposta del Ministro per il tesoro; Decreta:
 
-proposta del Ministro per il tesoro; Decreta:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-La Cassa di risparmio di Roma, con sede in Roma, e' autorizzata ad estendere l'esercizio del credito fondiario, in conformita' delle disposizioni vigenti in materia, alle zone di competenza della Cassa di risparmio e Monte di credito su pegno di Terni e delle Casse di risparmio di Viterbo, Rieti, Perugia, Foligno, Spoleto, Citta' di Castello, Orvieto e Narni.  
-Per l'esercizio di tale attivita', la Cassa di risparmio di Roma si varra' delle Casse di risparmio di cui al comma precedente, in conformita' di apposite convenzioni di rappresentanza.  
-  
+La Cassa di risparmio di Roma, con sede in Roma, e' autorizzata ad estendere l'esercizio del credito fondiario, in conformita' delle disposizioni vigenti in materia, alle zone di competenza della Cassa di risparmio e Monte di credito su pegno di Terni e delle Casse di risparmio di Viterbo, Rieti, Perugia, Foligno, Spoleto, Citta' di Castello, Orvieto e Narni.
+ Per l'esercizio di tale attivita', la Cassa di risparmio di Roma si varra' delle Casse di risparmio di cui al comma precedente, in conformita' di apposite convenzioni di rappresentanza.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 28 maggio 1962
+Dato a Roma, addi' 28 maggio 1962
 
-GRONCHI TREMELLONI
-
-Visto, il Guardasigilli: BOSCO
-
-Registrato alla Corte dei conti, addi' 23 luglio 1962
-
-Atti del Governo, registro n. 157, foglio n. 40. - VILLA
+GRONCHI TREMELLONI Visto, il Guardasigilli: BOSCO Registrato alla Corte dei conti, addi' 23 luglio 1962 Atti del Governo, registro n. 157, foglio n. 40. - VILLA

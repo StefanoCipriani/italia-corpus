@@ -1,29 +1,21 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 22 ottobre 1984 n. 1005
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 209
+data: 1984-04-09
+titolo: "Autorizzazione alla fondazione \"Pro juventute don Carlo Gnocchi\", in Roma, ad accettare un legato."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1984-04-09;209
+codice_redazionale: 084U0209
+vigente: true
+---
 
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 22 ottobre 1984 n. 1005
-===============================================================
-
-Autorizzazione alla fondazione "Pro juventute don Carlo Gnocchi", in Roma, ad accettare un legato.
---------------------------------------------------------------------------------------------------
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-1005. Decreto del Presidente della Repubblica 22 ottobre 1984, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la   
-fondazione "Pro juventute don Carlo Gnocchi", in Roma, viene   
-autorizzata ad accettare il legato, consistente nella quota di 1/5 del 50% del valore di un appartamento sito in Milano, via Aselli n.   
-26, censito nel nuovo catasto edilizio urbano alla partita n.   
-33049, foglio n. 319, mappale n. 170 sub 11, e di beni mobili il   
-tutto, detratte le passivita', pari a L. 12.666.664, disposto dalla   
-sig.ra Giulia Vaccari ved. Morassutti con testamento pubblico 31   
-giugno 1968, redatto dal notaio dott. Domenico Moretti e dallo   
-stesso pubblicato in data 17 luglio 1981, n. 14396/26267 di   
-repertorio e registrato a Milano in data 29 luglio 1981 al n.   
-20924.   
-  
-Visto, il Guardasigilli: MARTINAZZOLI   
-Registrato alla Corte dei conti, addi' 25 gennaio 1985   
-Registro n. 1 Presidenza, foglio n. 181
+209.
+
+Decreto del Presidente della Repubblica 9 aprile 1984, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la fondazione "Pro juventute don Carlo Gnocchi", in Roma, viene autorizzata ad accettare il legato, consistente nella quota di 1/2 di titoli BOT e titoli azionari per un valore complessivo di L. 102.460.960 quota 1/2 = L. 51.230.480, disposto dalla sig.ra Gariboldi Giuseppina a favore dei mutilatini di don Gnocchi, che si identificano con la fondazione medesima, con testamento olografo 29 dicembre 1980, pubblicato in data 28 maggio 1981, numero 33378/4776 di repertorio, a rogito dott. Sergio Barenghi, notaio in Milano, registrato a Milano in data 17 giugno 1981 al n. 416423. 
+ 
+Visto, il Guardasigilli: MARTINAZZOLI 
+ Registrato alla Corte dei conti, addi' 26 maggio 1984 
+ Registro n. 4 Presidenza, foglio n. 345

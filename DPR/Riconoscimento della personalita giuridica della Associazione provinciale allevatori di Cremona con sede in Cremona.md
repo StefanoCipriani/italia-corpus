@@ -1,19 +1,21 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 21 gennaio 1963 n. 944
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 944
+data: 1963-01-21
+titolo: "Riconoscimento, della personalita' giuridica della Associazione provinciale allevatori di Cremona, con sede in Cremona."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1963-01-21;944
+codice_redazionale: 063U0944
+vigente: true
+---
 
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 21 gennaio 1963 n. 944
-==============================================================
-
-Riconoscimento, della personalita' giuridica della Associazione provinciale allevatori di Cremona, con sede in Cremona.
------------------------------------------------------------------------------------------------------------------------
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-944. Decreto del Presidente della Repubblica 21 gennaio 1963, col quale, sulla proposta del Ministro per l'agricoltura e le foreste, viene riconosciuta la personalita' giuridica della Associazione provinciale allevatori di Cremona, con sede in Cremona e ne viene approvato lo statuto.  
-  
-Visto, il Guardasigilli: BOSCO  
-Registrato alla Corte dei conti, addi' 8 luglio 1963  
-Atti del Governo, registro n. 171, foglio n. 96. - VILLA
+944.
+
+Decreto del Presidente della Repubblica 21 gennaio 1963, col quale, sulla proposta del Ministro per l'agricoltura e le foreste, viene riconosciuta la personalita' giuridica della Associazione provinciale allevatori di Cremona, con sede in Cremona e ne viene approvato lo statuto.
+
+Visto, il Guardasigilli: BOSCO
+ Registrato alla Corte dei conti, addi' 8 luglio 1963
+ Atti del Governo, registro n. 171, foglio n. 96. - VILLA

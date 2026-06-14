@@ -1,19 +1,21 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 marzo 1983 n. 373
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 373
+data: 1983-03-31
+titolo: "Erezione in ente morale dell'associazione \"Protezione volontaria civile\", in Alzano Lombardo."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1983-03-31;373
+codice_redazionale: 083U0373
+vigente: true
+---
 
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 marzo 1983 n. 373
-============================================================
-
-Erezione in ente morale dell'associazione "Protezione volontaria civile", in Alzano Lombardo.
----------------------------------------------------------------------------------------------
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-373. Decreto del Presidente della Repubblica 31 marzo 1983, col quale, sulla proposta del Ministro dell'interno, l'associazione "Protezione volontaria civile", in Alzano Lombardo (Bergamo), viene eretta in ente morale ne viene approvato lo statuto.  
-  
-Visto, il Guardasigilli: DARIDA  
-Registrato alla Corte dei conti, addi' 15 giugno 1983  
-Registro n. 15 Interno, foglio n. 195
+373.
+
+Decreto del Presidente della Repubblica 31 marzo 1983, col quale, sulla proposta del Ministro dell'interno, l'associazione "Protezione volontaria civile", in Alzano Lombardo (Bergamo), viene eretta in ente morale ne viene approvato lo statuto.
+
+Visto, il Guardasigilli: DARIDA
+ Registrato alla Corte dei conti, addi' 15 giugno 1983
+ Registro n. 15 Interno, foglio n. 195

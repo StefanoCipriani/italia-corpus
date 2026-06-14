@@ -1,19 +1,21 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 14 settembre 1976 n. 882
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 882
+data: 1976-09-14
+titolo: "Approvazione del nuovo statuto dell'associazione piscicoltori italiani, in Treviso."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1976-09-14;882
+codice_redazionale: 076U0882
+vigente: true
+---
 
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 14 settembre 1976 n. 882
-================================================================
-
-Approvazione del nuovo statuto dell'associazione piscicoltori italiani, in Treviso.
------------------------------------------------------------------------------------
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-882. Decreto del Presidente della Repubblica 14 settembre 1976, col quale, sulla proposta del Ministro per l'agricoltura e le foreste, viene approvato il nuovo statuto dell'associazione piscicoltori italiani, in Treviso.   
-  
-Visto, il Guardasigilli: BONIFACIO   
-Registrato alla Corte dei conti, addi' 13 dicembre 1976   
-Registro n. 19 Agricoltura, foglio n. 166
+882.
+
+Decreto del Presidente della Repubblica 14 settembre 1976, col quale, sulla proposta del Ministro per l'agricoltura e le foreste, viene approvato il nuovo statuto dell'associazione piscicoltori italiani, in Treviso. 
+ 
+Visto, il Guardasigilli: BONIFACIO 
+ Registrato alla Corte dei conti, addi' 13 dicembre 1976 
+ Registro n. 19 Agricoltura, foglio n. 166

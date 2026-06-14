@@ -1,32 +1,25 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 11 febbraio 2006 n. 32
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 32
+data: 2006-02-11
+titolo: "Scioglimento del Senato della Repubblica e della Camera dei deputati."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:2006-02-11;32
+codice_redazionale: 006G0051
+vigente: true
+---
 
+## Art. 1.
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 11 febbraio 2006 n. 32
-==============================================================
+IL PRESIDENTE DELLA REPUBBLICA
 
-Scioglimento del Senato della Repubblica e della Camera dei deputati.
----------------------------------------------------------------------
+ Visto l'[articolo 88 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_88);
+ Sentiti i Presidenti del Senato della Repubblica e della Camera dei deputati;
+ Decreta:
 
-Entrata in vigore del provvedimento: 11/2/2006
-
-Art. 1
-------
-
- IL PRESIDENTE DELLA REPUBBLICA  
-  
-Visto l'[articolo 88 della Costituzione](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27~art88);  
-Sentiti i Presidenti del Senato della Repubblica e della Camera dei deputati;  
-Decreta:  
-  
-Il Senato della Repubblica e la Camera dei deputati sono sciolti.  
+ Il Senato della Repubblica e la Camera dei deputati sono sciolti.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserito nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 11 febbraio 2006
+Dato a Roma, addi' 11 febbraio 2006
 
-CIAMPI
-
-Berlusconi, Presidente del Consiglio dei Ministri
-
-Visto, il Guardasigilli: Castelli
+CIAMPI Berlusconi, Presidente del Consiglio dei Ministri Visto, il Guardasigilli: Castelli

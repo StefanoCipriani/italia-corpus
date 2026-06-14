@@ -1,18 +1,18 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 14 giugno 1949 n. 1165
-
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 14 giugno 1949 n. 1165
-==============================================================
-
-Determinazione del perimetro del bacino montano del fiume "Magazzolo" nelle province di Palermo ed Agrigento.
--------------------------------------------------------------------------------------------------------------
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 1165
+data: 1949-06-14
+titolo: "Determinazione del perimetro del bacino montano del fiume \"Magazzolo\" nelle province di Palermo ed Agrigento."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1949-06-14;1165
+codice_redazionale: 049U1165
+vigente: true
+---
 
 IL PRESIDENTE DELLA REPUBBLICA
-------------------------------
 
-Visto il [regio decreto-legge 30 dicembre 1923, n. 3267](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1923-12-30;3267), relativo al riordinamento ed alla riforma della legislazione in materia di boschi e terreni montani;
+Visto il [regio decreto-legge 30 dicembre 1923, n. 3267](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1923-12-30;3267), relativo al riordinamento ed alla riforma della legislazione in materia di boschi e terreni montani;
 
-Visti il [regio decreto 16 maggio 1926, n. 1126](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-05-16;1126), che approva, il regolamento per l'applicazione del suindicato regio decreto e l'[art. 3 lettera a) del regio decreto 27 settembre 1929, n. 1726](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1929-09-27;1726~art3-leta);
+Visti il [regio decreto 16 maggio 1926, n. 1126](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-05-16;1126), che approva, il regolamento per l'applicazione del suindicato regio decreto e l'[art. 3 lettera a) del regio decreto 27 settembre 1929, n. 1726](../Atti%20normativi%20abrogati%20%28in%20originale%29/Passaggio%20di%20alcuni%20servizi%20gia%20di%20competenza%20del%20Ministero%20delleconomia%20nazionale%20al%20Ministero%20dei%20lavori%20pubblici%20e%20passaggio%20di%20altri%20servizi%20da%20questultimo%20Ministero%20al%20Sottosegretari_3ddfa1b4c30a.md);
 
 Ritenuta la necessita' di procedere alla determinazione del perimetro del bacino montano nel fiume Magazzolo, nelle province di Palermo ed Agrigento;
 
@@ -20,33 +20,18 @@ Visti gli atti concernenti tale delimitazione e l'annessa carta ortografica su s
 
 Visti i pareri dei Comitati tecnici provinciali per la bonifica delle province di Palermo ed Agrigento, rispettivamente emessi in data 8 aprile 1949 e 7 gennaio 1949, nonche' il voto 25 maggio 1948, n. 20203, del Comitato tecnico-amministrativo del Provveditorato regionale alle opere pubbliche per la Sicilia;
 
-Sulla
------
+Sulla proposta del Ministro per l'agricoltura e le foreste; Decreta:
 
-proposta del Ministro per l'agricoltura e le foreste; Decreta:
+## Art. 1.
 
-Art. 1
-------
+Le opere occorrenti per la sistemazione del bacino montano del fiume Magazzolo, ricadente nel territorio dei comuni di Palazzo Adriano, in provincia di Palermo e di Santo Stefano Quisquina, Bivona, Alessandria della Rocca e Lucca Sicula, in provincia di Agrigento, rivestono i caratteri di cui al citato [regio decreto-legge 30 dicembre 1923, n. 3267](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1923-12-30;3267).
 
-  
-Le opere occorrenti per la sistemazione del bacino montano del fiume Magazzolo, ricadente nel territorio dei comuni di Palazzo Adriano, in provincia di Palermo e di Santo Stefano Quisquina, Bivona, Alessandria della Rocca e Lucca Sicula, in provincia di Agrigento, rivestono i caratteri di cui al citato [regio decreto-legge 30 dicembre 1923, n. 3267](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1923-12-30;3267).  
+## Art. 2.
 
-Art. 2
-------
-
-  
-Il perimetro del bacino montano del fiume "Magazzolo" e' delimitato, ai sensi e per gli effetti del citato [regio decreto-legge 30 dicembre 1923, n. 3267](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1923-12-30;3267), secondo la linea descritta in narrativa e segnata sulla corografia su scala 1 a 100.000 che, vistata dal Ministro proponente, forma parte integrante del presente decreto.  
-  
+Il perimetro del bacino montano del fiume "Magazzolo" e' delimitato, ai sensi e per gli effetti del citato [regio decreto-legge 30 dicembre 1923, n. 3267](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1923-12-30;3267), secondo la linea descritta in narrativa e segnata sulla corografia su scala 1 a 100.000 che, vistata dal Ministro proponente, forma parte integrante del presente decreto.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 14 giugno 1949
+Dato a Roma, addi' 14 giugno 1949
 
-EINAUDI SEGNI
-
-Visto, il Guardasigilli: PICCIONI
-
-Registrato alla Corte dei conti, addi' 29 marzo 1950
-
-Atti del Governo, registro n. 32, foglio n. 53. - FRASCA
+EINAUDI SEGNI Visto, il Guardasigilli: PICCIONI Registrato alla Corte dei conti, addi' 29 marzo 1950 Atti del Governo, registro n. 32, foglio n. 53. - FRASCA

@@ -1,20 +1,20 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 11 aprile 1951 n. 564
-
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 11 aprile 1951 n. 564
-=============================================================
-
-Modificazioni allo statuto dell'Universita' degli studi di Catania.
--------------------------------------------------------------------
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 564
+data: 1951-04-11
+titolo: "Modificazioni allo statuto dell'Universita' degli studi di Catania."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1951-04-11;564
+codice_redazionale: 051U0564
+vigente: true
+---
 
 IL PRESIDENTE DELLA REPUBBLICA
-------------------------------
 
-Veduto lo statuto dell'Universita' degli studi di Catania, approvato con il [regio decreto 20 aprile 1939, n. 1073](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1073), e modificato con [regi decreti 16 ottobre 1940, n. 1527](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1940-10-16;1527); [15 aprile 1942, n. 424](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1942-04-15;424); [5 settembre 1942, n. 1235](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1942-09-05;1235); [24 ottobre 1942, n. 1596; e con il decreto del Capo provvisorio dello Stato](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto:1942-10-24;1596) [22 ottobre 1946, n. 423; e con decreti del Presidente della Repubblica](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1946-10-22;423) [20 luglio 1948, n. 1160](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1948-07-20;1160); [30 ottobre 1949, n. 994](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1949-10-30;994) e [30 ottobre 1949, n. 1167](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1949-10-30;1167);
+Veduto lo statuto dell'Universita' degli studi di Catania, approvato con il [regio decreto 20 aprile 1939, n. 1073](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20del%20nuovo%20statuto%20della%20Regia%20Universita%20di%20Catania.%20039U1073.md), e modificato con [regi decreti 16 ottobre 1940, n. 1527](https://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1940-10-16;1527); [15 aprile 1942, n. 424](https://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1942-04-15;424); [5 settembre 1942, n. 1235](https://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1942-09-05;1235); [24 ottobre 1942, n. 1596; e con il decreto del Capo provvisorio dello Stato](https://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto:1942-10-24;1596) [22 ottobre 1946, n. 423; e con decreti del Presidente della Repubblica](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1946-10-22;423) [20 luglio 1948, n. 1160](Modificazioni%20allo%20statuto%20dellUniversita%20degli%20studi%20di%20Catania.md); [30 ottobre 1949, n. 994](Modificazioni%20allo%20statuto%20dellUniversita%20degli%20studi%20di%20Catania_2.md) e [30 ottobre 1949, n. 1167](Modificazioni%20dello%20statuto%20dellUniversita%20degli%20studi%20di%20Catania.md);
 
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
+Veduto il [regio decreto 30 settembre 1938, n. 1652](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disposizioni%20sullordinamento%20didattico%20universitario.%20038U1652.md), e successive modificazioni;
 
 Vedute le proposte di modifica allo statuto formulate dalle autorita' accademiche dell'Universita', anzidetta;
 
@@ -42,40 +42,28 @@ GONELLA
 
 Visto, il Guardasigilli: PICCIONI
 
-Registrato
-----------
+Registrato alla Corte dei conti, addi' 20 luglio 1951 Atti del Governo, registro n. 40, foglio n. 39. - FRASCA
 
-alla Corte dei conti, addi' 20 luglio 1951 Atti del Governo, registro n. 40, foglio n. 39. - FRASCA
+## Art. 1.
 
-Art. 1
-------
+IL PRESIDENTE DELLA REPUBBLICA
 
- IL PRESIDENTE DELLA REPUBBLICA  
-  
-Veduto lo statuto dell'Universita' degli studi di Catania, approvato con il [regio decreto 20 aprile 1939, n. 1073](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1073), e modificato con [regi decreti 16 ottobre 1940, n. 1527](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1940-10-16;1527); [15 aprile 1942, n. 424](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1942-04-15;424); [5 settembre 1942, n. 1235](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1942-09-05;1235); [24 ottobre 1942, n. 1596; e con il decreto del Capo provvisorio dello Stato](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto:1942-10-24;1596) [22 ottobre 1946, n. 423; e con decreti del Presidente della Repubblica](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1946-10-22;423) [20 luglio 1948, n. 1160](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1948-07-20;1160); [30 ottobre 1949, n. 994](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1949-10-30;994) e [30 ottobre 1949, n. 1167](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1949-10-30;1167);  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
-Vedute le proposte di modifica allo statuto formulate dalle autorita' accademiche dell'Universita', anzidetta;  
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
-Sentito il parere del Consiglio superiore della pubblica istruzione;  
-Sulla proposta del Ministro per la pubblica istruzione;  
-  
-Decreta:  
-  
-Lo statuto dell'Universita' degli studi di Catania, approvato e modificato con i decreti sopraindicati, e' cosi' ulteriormente modificato:  
-Art. 102. - E' aggiunto il seguente comma:  
-"Il Consiglio di facolta' si riserva di aumentare i posti previsti per ciascuna scuola a seconda delle particolari esigenze che si manifestano in ciascun anno accademico".  
-  
+ Veduto lo statuto dell'Universita' degli studi di Catania, approvato con il [regio decreto 20 aprile 1939, n. 1073](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20del%20nuovo%20statuto%20della%20Regia%20Universita%20di%20Catania.%20039U1073.md), e modificato con [regi decreti 16 ottobre 1940, n. 1527](https://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1940-10-16;1527); [15 aprile 1942, n. 424](https://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1942-04-15;424); [5 settembre 1942, n. 1235](https://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1942-09-05;1235); [24 ottobre 1942, n. 1596; e con il decreto del Capo provvisorio dello Stato](https://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto:1942-10-24;1596) [22 ottobre 1946, n. 423; e con decreti del Presidente della Repubblica](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1946-10-22;423) [20 luglio 1948, n. 1160](Modificazioni%20allo%20statuto%20dellUniversita%20degli%20studi%20di%20Catania.md); [30 ottobre 1949, n. 994](Modificazioni%20allo%20statuto%20dellUniversita%20degli%20studi%20di%20Catania_2.md) e [30 ottobre 1949, n. 1167](Modificazioni%20dello%20statuto%20dellUniversita%20degli%20studi%20di%20Catania.md);
+ Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+ Veduto il [regio decreto 30 settembre 1938, n. 1652](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disposizioni%20sullordinamento%20didattico%20universitario.%20038U1652.md), e successive modificazioni;
+ Vedute le proposte di modifica allo statuto formulate dalle autorita' accademiche dell'Universita', anzidetta;
+ Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
+ Sentito il parere del Consiglio superiore della pubblica istruzione;
+ Sulla proposta del Ministro per la pubblica istruzione;
+
+ Decreta:
+
+ Lo statuto dell'Universita' degli studi di Catania, approvato e modificato con i decreti sopraindicati, e' cosi' ulteriormente modificato:
+ Art. 102. - E' aggiunto il seguente comma:
+ "Il Consiglio di facolta' si riserva di aumentare i posti previsti per ciascuna scuola a seconda delle particolari esigenze che si manifestano in ciascun anno accademico".
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 11 aprile 1951
+Dato a Roma, addi' 11 aprile 1951
 
-EINAUDI GONELLA
-
-Visto, il Guardasigilli: PICCIONI
-
-Registrato alla Corte dei conti, addi' 20 luglio 1951
-
-Atti del Governo, registro n. 40, foglio n. 39. - FRASCA
+EINAUDI GONELLA Visto, il Guardasigilli: PICCIONI Registrato alla Corte dei conti, addi' 20 luglio 1951 Atti del Governo, registro n. 40, foglio n. 39. - FRASCA

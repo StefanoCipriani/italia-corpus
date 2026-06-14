@@ -1,19 +1,21 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 09 gennaio 1971 n. 269
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 269
+data: 1971-01-09
+titolo: "Approvazione dello statuto della fondazione \"Convitto Saluto\", in Palermo."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1971-01-09;269
+codice_redazionale: 071U0269
+vigente: true
+---
 
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 09 gennaio 1971 n. 269
-==============================================================
-
-Approvazione dello statuto della fondazione "Convitto Saluto", in Palermo.
---------------------------------------------------------------------------
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-269. Decreto del Presidente della Repubblica 9 gennaio 1971, col quale, sulla proposta del Ministro per la pubblica istruzione, viene abrogato lo statuto dell'opera pia "Convitto Saluto", in Palermo, ed in sua sostituzione viene approvato lo statuto della fondazione "Convitto Saluto".  
-  
-Visto, il Guardasigilli: COLOMBO  
-Registrato alla Corte dei conti, addi' 14 maggio 1971  
-Atti del Governo, registro n. 242, foglio n. 12. - VALENTINI
+269.
+
+Decreto del Presidente della Repubblica 9 gennaio 1971, col quale, sulla proposta del Ministro per la pubblica istruzione, viene abrogato lo statuto dell'opera pia "Convitto Saluto", in Palermo, ed in sua sostituzione viene approvato lo statuto della fondazione "Convitto Saluto".
+
+Visto, il Guardasigilli: COLOMBO
+ Registrato alla Corte dei conti, addi' 14 maggio 1971
+ Atti del Governo, registro n. 242, foglio n. 12. - VALENTINI

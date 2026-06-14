@@ -1,18 +1,18 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 12 agosto 1957 n. 860
-
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 12 agosto 1957 n. 860
-=============================================================
-
-Emissione di un francobollo commemorativo di Giuseppe Garibaldi, nel 150° anniversario della nascita.
------------------------------------------------------------------------------------------------------
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 860
+data: 1957-08-12
+titolo: "Emissione di un francobollo commemorativo di Giuseppe Garibaldi, nel 150° anniversario della nascita."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1957-08-12;860
+codice_redazionale: 057U0860
+vigente: true
+---
 
 IL PRESIDENTE DELLA REPUBBLICA
-------------------------------
 
-Visto l'art. 21 del Codice postale e delle telecomunicazioni, approvato con il [regio decreto 27 febbraio 1936, n. 645](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1936-02-27;645);
+Visto l'art. 21 del Codice postale e delle telecomunicazioni, approvato con il [regio decreto 27 febbraio 1936, n. 645](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1936-02-27;645);
 
-Visto l'art. 239 del regolamento per i servizi postali (titolo preliminare e parte prima), approvato con il [regio decreto 18 aprile 1940, n. 689](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-04-18;689);
+Visto l'art. 239 del regolamento per i servizi postali (titolo preliminare e parte prima), approvato con il [regio decreto 18 aprile 1940, n. 689](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20del%20regolamento%20di%20esecuzione%20dei%20titoli%20I%20e%20II%20del%20libro%201%20del%20Codice%20postale%20e%20delle%20telecomunicazioni.%20040U0689.md);
 
 Riconosciuta l'opportunita' di emettere un francobollo commemorativo di Giuseppe Garibaldi, nel 150° anniversario della nascita;
 
@@ -20,34 +20,18 @@ Sentito il Consiglio di amministrazione delle poste e delle telecomunicazioni;
 
 Sentito il Consiglio dei Ministri;
 
-Sulla
------
+Sulla proposta del Ministro per le poste e le telecomunicazioni; Decreta:
 
-proposta del Ministro per le poste e le telecomunicazioni; Decreta:
+## Art. 1.
 
-Art. 1
-------
+E' autorizzata l'emissione di un francobollo commemorativo di Giuseppe Garibaldi, nel 150° anniversario della nascita.
 
-  
-E' autorizzata l'emissione di un francobollo commemorativo di Giuseppe Garibaldi, nel 150° anniversario della nascita.  
+## Art. 2.
 
-Art. 2
-------
-
-  
-  
-Con decreto del Ministro per le poste e le telecomunicazioni, di concerto con il Ministro per il tesoro, verranno stabilite le caratteristiche tecniche del francobollo di cui all'art. 1 del presente decreto e saranno indicati i termini di validita' e di cambio del francobollo medesimo.   
-  
+Con decreto del Ministro per le poste e le telecomunicazioni, di concerto con il Ministro per il tesoro, verranno stabilite le caratteristiche tecniche del francobollo di cui all'art. 1 del presente decreto e saranno indicati i termini di validita' e di cambio del francobollo medesimo.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica Italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 12 agosto 1957
+Dato a Roma, addi' 12 agosto 1957
 
-GRONCHI ZOLI - MATTARELLA
-
-Visto, il. Guardasigilli: GONELLA
-
-Registrato alla Corte dei conti, addi' 26 settembre 1957
-
-Atti del Governo, registro n. 107, foglio n. 171. - RELLEVA
+GRONCHI ZOLI - MATTARELLA Visto, il. Guardasigilli: GONELLA Registrato alla Corte dei conti, addi' 26 settembre 1957 Atti del Governo, registro n. 107, foglio n. 171. - RELLEVA

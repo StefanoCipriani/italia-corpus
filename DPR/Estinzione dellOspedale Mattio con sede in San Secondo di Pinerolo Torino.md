@@ -1,19 +1,21 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 09 ottobre 1967 n. 1068
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 1068
+data: 1967-10-09
+titolo: "Estinzione dell'\"Ospedale Mattio\", con sede in San Secondo di Pinerolo (Torino)."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1967-10-09;1068
+codice_redazionale: 067U1068
+vigente: true
+---
 
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 09 ottobre 1967 n. 1068
-===============================================================
-
-Estinzione dell'"Ospedale Mattio", con sede in San Secondo di Pinerolo (Torino).
---------------------------------------------------------------------------------
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-1068. Decreto del Presidente della Repubblica 9 ottobre 1967, col quale, sulla proposta del Ministro per l'interno, l'"Ospedale Mattio", con sede in San Secondo di Pinerolo (Torino), viene estinto ed il residuo patrimonio devoluto al locale E.C.A.  
-  
-Visto, il Guardasigilli: REALE  
-Registrato alla Corte dei conti, addi' 15 novembre 1967  
-Atti del Governo, registro n. 214, foglio n. 156. - GRECO
+1068.
+
+Decreto del Presidente della Repubblica 9 ottobre 1967, col quale, sulla proposta del Ministro per l'interno, l'"Ospedale Mattio", con sede in San Secondo di Pinerolo (Torino), viene estinto ed il residuo patrimonio devoluto al locale E.C.A.
+
+Visto, il Guardasigilli: REALE
+ Registrato alla Corte dei conti, addi' 15 novembre 1967
+ Atti del Governo, registro n. 214, foglio n. 156. - GRECO

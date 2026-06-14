@@ -1,19 +1,21 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 21 maggio 1956 n. 1021
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 1021
+data: 1956-05-21
+titolo: "Erezione in ente morale della Cassa scolastica della Scuola media statale di Lagonegro (Potenza)."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1956-05-21;1021
+codice_redazionale: 056U1021
+vigente: true
+---
 
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 21 maggio 1956 n. 1021
-==============================================================
-
-Erezione in ente morale della Cassa scolastica della Scuola media statale di Lagonegro (Potenza).
--------------------------------------------------------------------------------------------------
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-1021. Decreto del Presidente della Repubblica 21 maggio 1956, col quale, sulla proposta del Ministro per la pubblica istruzione, la Cassa scolastica della Scuola media statale di Lagonegro (Potenza) viene eretta in ente morale e ne viene approvato lo statuto.  
-  
-Visto, il Guardasigilli: MORO  
-Registrato alla Corte dei conti, addi' 3 settembre 1956  
-Atti del Governo, registro n. 100, foglio n. 118. - CARLOMAGNO
+1021.
+
+Decreto del Presidente della Repubblica 21 maggio 1956, col quale, sulla proposta del Ministro per la pubblica istruzione, la Cassa scolastica della Scuola media statale di Lagonegro (Potenza) viene eretta in ente morale e ne viene approvato lo statuto.
+
+Visto, il Guardasigilli: MORO
+ Registrato alla Corte dei conti, addi' 3 settembre 1956
+ Atti del Governo, registro n. 100, foglio n. 118. - CARLOMAGNO

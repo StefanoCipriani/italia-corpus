@@ -1,19 +1,21 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 09 gennaio 1959 n. 86
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 86
+data: 1959-01-09
+titolo: "Erezione in ente morale dell'Ente Asilo infantile e Laboratorio femminile \"Agata Voltattorni\", con sede nel comune di Pagliare Spinetoli (provincia di Ascoli Piceno)."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1959-01-09;86
+codice_redazionale: 059U0086
+vigente: true
+---
 
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 09 gennaio 1959 n. 86
-=============================================================
-
-Erezione in ente morale dell'Ente Asilo infantile e Laboratorio femminile "Agata Voltattorni", con sede nel comune di Pagliare Spinetoli (provincia di Ascoli Piceno).
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-86. Decreto del Presidente della Repubblica 9 gennaio 1959, col quale sulla proposfa del Ministro per l'interno, l'Ente Asilo infantile e Laboratorio femminile "Agata Voltattorni", con sede nel comune di Pagliare Spinetoli (provincia di Ascoli Piceno), viene eretto in ente morale e ne viene approvato lo statuto organico.  
-  
-Visto, il Guardasigilli: GONELLA  
-Registrato alla Corte dei conti, addi' 11 marzo 1959  
-Atti del Governo, registro n. 117, foglio n. 10. - VILLA
+86.
+
+Decreto del Presidente della Repubblica 9 gennaio 1959, col quale sulla proposfa del Ministro per l'interno, l'Ente Asilo infantile e Laboratorio femminile "Agata Voltattorni", con sede nel comune di Pagliare Spinetoli (provincia di Ascoli Piceno), viene eretto in ente morale e ne viene approvato lo statuto organico.
+
+Visto, il Guardasigilli: GONELLA
+ Registrato alla Corte dei conti, addi' 11 marzo 1959
+ Atti del Governo, registro n. 117, foglio n. 10. - VILLA

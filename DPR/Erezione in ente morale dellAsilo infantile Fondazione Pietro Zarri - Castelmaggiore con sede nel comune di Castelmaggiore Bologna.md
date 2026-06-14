@@ -1,19 +1,21 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 27 agosto 1964 n. 902
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 902
+data: 1964-08-27
+titolo: "Erezione in ente morale dell'Asilo infantile \"Fondazione Pietro Zarri - Castelmaggiore\", con sede nel comune di Castelmaggiore (Bologna)."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1964-08-27;902
+codice_redazionale: 064U0902
+vigente: true
+---
 
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 27 agosto 1964 n. 902
-=============================================================
-
-Erezione in ente morale dell'Asilo infantile "Fondazione Pietro Zarri - Castelmaggiore", con sede nel comune di Castelmaggiore (Bologna).
------------------------------------------------------------------------------------------------------------------------------------------
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-902. Decreto del Presidente della Repubblica 27 agosto 1964, col quale, sulla proposta del Ministro per l'interno, l'Asilo infantile "Fondazione Pietro Zarri Castelmaggiore", con sede nel comune di Castelmaggiore (Bologna), viene eretta in ente morale e ne viene approvato lo statuto.  
-  
-Visto, il Guardasigilli: REALE  
-Registrato alla Corte dei conti, addi' 26 settembre 1964  
-Atti del Governo, registro n. 187, foglio n. 22. - CARUSO
+902.
+
+Decreto del Presidente della Repubblica 27 agosto 1964, col quale, sulla proposta del Ministro per l'interno, l'Asilo infantile "Fondazione Pietro Zarri Castelmaggiore", con sede nel comune di Castelmaggiore (Bologna), viene eretta in ente morale e ne viene approvato lo statuto.
+
+Visto, il Guardasigilli: REALE
+ Registrato alla Corte dei conti, addi' 26 settembre 1964
+ Atti del Governo, registro n. 187, foglio n. 22. - CARUSO

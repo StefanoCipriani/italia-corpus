@@ -1,19 +1,21 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 09 luglio 1958 n. 810
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 810
+data: 1958-07-09
+titolo: "Riconoscimento della personalita' giuridica della Chiesa parrocchiale di San Lorenzo Martire, in Sogliano al Rubicone (Forli')."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1958-07-09;810
+codice_redazionale: 058U0810
+vigente: true
+---
 
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 09 luglio 1958 n. 810
-=============================================================
-
-Riconoscimento della personalita' giuridica della Chiesa parrocchiale di San Lorenzo Martire, in Sogliano al Rubicone (Forli').
--------------------------------------------------------------------------------------------------------------------------------
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-810. Decreto del Presidente della Repubblica 9 luglio 1958, col quale, sulla proposta del Ministro per l'interno, viene riconosciuta la personalita' giuridica della Chiesa parrocchiale di San Lorenzo Martire, in Sogliano al Rubicone (Forli').   
-  
-Visto, il Guardasigilli: GONELLA   
-Registrato alla Corte dei conti, addi' 6 agosto 1958   
-Atti del Governo, registro n. 113, foglio n. 145. - DI PRETORO
+810.
+
+Decreto del Presidente della Repubblica 9 luglio 1958, col quale, sulla proposta del Ministro per l'interno, viene riconosciuta la personalita' giuridica della Chiesa parrocchiale di San Lorenzo Martire, in Sogliano al Rubicone (Forli'). 
+ 
+Visto, il Guardasigilli: GONELLA 
+ Registrato alla Corte dei conti, addi' 6 agosto 1958 
+ Atti del Governo, registro n. 113, foglio n. 145. - DI PRETORO

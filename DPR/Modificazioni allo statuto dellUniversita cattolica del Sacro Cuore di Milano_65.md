@@ -1,95 +1,131 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 21 ottobre 1981 n. 1159
-
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 21 ottobre 1981 n. 1159
-===============================================================
-
-Modificazioni allo statuto dell'Universita' cattolica del Sacro Cuore di Milano.
---------------------------------------------------------------------------------
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 829
+data: 1981-09-22
+titolo: "Modificazioni allo statuto dell'Universita' cattolica del Sacro Cuore di Milano."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1981-09-22;829
+codice_redazionale: 081U0829
+vigente: true
+---
 
 IL PRESIDENTE DELLA REPUBBLICA
-------------------------------
 
-Veduto lo statuto dell'Universita' cattolica del Sacro Cuore di Milano, approvato con [regio decreto 20 aprile 1939, n. 1163](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1163), e modificato con [regio decreto 26 ottobre 1940, n. 2030](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-26;2030), e successive modificazioni;
+Veduto lo statuto dell'Universita' cattolica del Sacro Cuore di Milano, approvato con [regio decreto 20 aprile 1939, n. 1163](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20del%20nuovo%20statuto%20della%20Universita%20cattolica%20del%20Sacro%20Cuore%20di%20Milano.%20039U1163.md) e modificato con [regio decreto 26 ottobre 1940, n. 2030](../Atti%20normativi%20abrogati%20%28in%20originale%29/Modificazioni%20allo%20statuto%20della%20Universita%20cattolica%20del%20%20Sacro%20Cuore%20%20di%20Milano.%20040U2030.md), e successive modificazioni;
 
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20R.%20decreto-legge%2020%20giugno%201935-XIII%20n.%201071%20contenente%20modifiche%20ed%20aggiornamenti%20al%20testo%20unico%20delle%20leggi%20sullistruzione%20superiore.%20036U0073.md);
 
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
+Veduto il [regio decreto 30 settembre 1938, n. 1652](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disposizioni%20sullordinamento%20didattico%20universitario.%20038U1652.md), e successive modificazioni;
 
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
+Veduta la [legge 11 aprile 1953, n. 312](../Atti%20normativi%20abrogati%20%28in%20originale%29/Libera%20inclusione%20di%20nuovi%20insegnamenti%20complementari%20negli%20statuti%20delle%20Universita%20e%20degli%20Istituti%20distruzione%20superiore.md);
 
-Veduto il [decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382);
+Vedute le proposte di modifica dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta.
 
-Vedute le proposte di modifica dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
-
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' cattolica del Sacro Cuore di Milano e convalidati dal Consiglio universitario nazionale nel suo parere;
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](https://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592#art_17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' cattolica del Sacro Cuore di Milano e convalidati dal Consiglio universitario nazionale nel suo parere;
 
 Sentito il parere del Consiglio universitario nazionale;
 
-Sulla proposta del Ministro della pubblica istruzione di concerto con il Ministro del tesoro;
+Sulla proposta del Ministro della pubblica istruzione;
 
-Decreta:
---------
+Decreta: Lo statuto dell'Universita' cattolica del Sacro Cuore di Milano, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso.
 
-Lo statuto dell'Universita' cattolica del Sacro Cuore di Milano, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+## Art. 1.
 
-Art. 1
-------
+L'art. 5, relativo alle lauree e diplomi conferiti nell'Universita', per quanto si riferisce alla facolta' di medicina e chirurgia, e' cosi' riformulato:
+ "Nella facolta' di medicina e chirurgia: la laurea in medicina e chirurgia e la laurea in odontoiatria e protesi dentaria".
+ L'art. 6, primo comma, e' cosi' riformulato:
+ "Gli studi per il conseguimento di ciascuna laurea durante quattro anni, fatta eccezione per la laurea in odontoiatria e protesi dentaria per il cui conseguimento gli studi hanno la durata di cinque anni divisi in un biennio e in un triennio e per la laurea in medicina e chirurgia per il cui conseguimento gli studi hanno la durata di sei anni divisi in tre bienni".
 
-  
-L'art. 27 e' soppresso e sostituito come segue:  
-Art. 27. - Il ruolo organico dei posti di professore e' determinato nelle tabelle n. 1 e n. 2 annesse al presente statuto.  
-Nel testo dell'art. 32, dopo l'espressione: "La carriera e il trattamento economico dei professori di ruolo", sono inserite in parentesi le parole seguenti "(ordinari e straordinari, associati)".  
-L'intestazione della parte IV e' soppressa e sostituita come segue: "Dei lettori, aiuti, assistenti e ricercatori".  
-L'art. 37 e' soppresso e sostituito come segue:  
-Art. 37. - Il ruolo organico dei posti di assistente di ruolo e' determinato nella tabella n. 3 annessa al presente statuto.  
-Il ruolo organico dei posti di ricercatore e' determinato dalla tabella n. 4 annessa al presente statuto".  
-Il secondo comma dell'art. 38 e' integrato con la seguente espressione: "nonche' secondo quanto disposto dall'[art. 28 del decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382~art28)".  
-All'art. 42 e' aggiunto il seguente comma: "Circa i compiti, i doveri e lo stato giuridico dei ricercatori immessi in ruolo si fa riferimento alle norme degli [articoli 31](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382~art31), [32](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382~art32), [33](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382~art33), [34](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382~art34) e [38 del decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382~art38)".  
-All'art. 43 e' aggiunto il seguente comma: "Per le mancanze disciplinari dei ricercatori universitari si procede in conformita' alla normativa richiamata nel [primo comma dell'art. 34 del decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382~art34-com1)".  
-L'art. 44 e' soppresso e sostituito come segue:  
-Art. 44. - La carriera e il trattamento economico degli aiuti, degli assistenti, dei lettori e dei ricercatori sono determinati in conformita' a quelli fissati dallo Stato per i propri aiuti, assistenti, lettori e ricercatori.  
-Nel primo comma dell'art. 45 le parole: "Per le aspettative dei lettori, aiuti e assistenti" sono soppresse e sostituite con le parole seguenti: "Per le aspettative dei lettori, aiuti, assistenti e ricercatori".  
-Nell'art. 46 le parole "Il consiglio di amministrazione provvede all'applicazione, in quanto effettuabile, ai lettori, aiuti ed assistenti" sono soppresse e sostituite con le parole seguenti: "Il consiglio di amministrazione provvede all'applicazione, in quanto effettuabile, ai lettori, aiuti, assistenti e ricercatori".  
-Nell'art. 47, primo comma, le parole: "Ai lettori, aiuti ed assistenti" sono soppresse e sostituite con le parole seguenti: "Ai lettori, aiuti, assistenti e ricercatori".  
+## Art. 2.
 
-Art. 2
-------
+Alla parte II, titolo VIII, relativo alla facolta' di medicina e chirurgia, dopo l'art. 23, con il conseguente spostamento della numerazione degli articoli successivi, e' inserito il punto 2) e un nuovo articolo relativi alla istituzione del corso di laurea in odontoiatria e protesi dentaria. 
+ 2) Laurea in odontoiatria e protesi dentaria 
+ Art. 24. - Titoli di ammissione al corso di laurea in odontoiatria e protesi dentaria sono quelli consentiti dalle vigenti disposizioni di legge. 
+ Per l'iscrizione al corso di laurea in odontoiatria e protesi dentaria gli aspiranti dovranno essere sottoposti agli stessi esami enunciati nell'art. 23 per l'iscrizione al corso di laurea in medicina e chirurgia, per le medesime motivazioni. 
+ Il numero dei posti disponibili al primo anno del corso di laurea e' di quindici, altrettanto dicasi per il numero dei posti disponibili per ciascuno dei quattro successivi anni di corso. Il numero massimo complessivo degli iscritti nei cinque anni e' fissato in settantacinque. 
+ Per il trasferimento degli studenti iscritti al corso di laurea in medicina e chirurgia le abbreviazioni di corso non possono superare l'ammissione oltre il secondo anno subordinatamente al numero di posti resisi disponibili all'inizio del secondo anno e sempre che gli aspiranti abbiano superato gli esami di biologie generale applicata agli studi medici, chimica, fisica medica, istologia ed embriologia generale (compresa la citologia). 
+ Per i laureati in medicina e chirurgia le abbreviazioni di corso potranno essere concesse, sempre con iscrizione al secondo anno, subordinatamente al numero di posti resisi disponibili all'inizio del secondo anno e non prioritariamente occupati per trasferimento dagli studenti iscritti al corso di laurea in medicina e chirurgia che abbiano domandato abbreviazioni di corso (sempre non superiori per ammissione al secondo anno) e comunque dopo che sia trascorso un anno accademico dal conseguimento della laurea precedente. 
+ Per l'ammissione degli studenti che chiedono trasferimento dal corso di laurea in medicina e chirurgia e dei laureati in medicina e chirurgia sono prescritti gli stessi esami di cui al comma secondo dell'art. 23, relativo all'ammissione al corso di laurea in medicina e chirurgia nella facolta' di medicina e chirurgia dell'Universita' cattolica del Sacro Cuore. 
+ Sono insegnamenti fondamentali: 
+ Biennio: 
+ 1) anestesia generale e speciale odontostomatologica (semestrale); 
+ *2) biologia generale applicata agli studi medici; 
+ *3) chimica; 
+ *4) chimica biologica; 
+ 5) farmacologia (semestrale); 
+ *6) fisica medica; 
+ 7) fisiologia umana e dell'apparato stomatognatico; 
+ 8) igiene e odontoiatria preventiva e sociale con epidemiologia (semestrale); 
+ 9) istituzioni di anatomia umana normale e dell'apparato stomatognatico; 
+ 10) istituzioni di anatomia e istologia patologica; 
+ *11) istologia ed embriologia generale (compresa la citologia);
+ 12) materiali dentari; 
+ 13) microbiologia (semestrale); 
+ 14) odontoiatria conservatrice (triennale: 2°, 3° e 4° anno); 
+ 15) patologia generale. 
+ Triennio: 
+ 16) chirurgia speciale odontostomatologica (biennale: 3° e 4° anno); 
+ 17) clinica odontostomatologica (biennale: 4° e 5° anno); 
+ 18) medicina legale e delle assicurazioni e deontologia in odontostomatologia (semestrale); 
+ 19) neuropatologia e psicopatologia (semestrale); 
+ 20) ortognatodonzia e gnatologia (funzione masticatoria) (biennale: 4° e 5° anno); 
+ 21) paradontologia (biennale: 4° e 5° anno); 
+ 22) patologia speciale chirurgica e propedeutica clinica; 
+ 23) patologia speciale medica e metodologia clinica (compresa la pediatria); 
+ 24) patologia speciale odontostomatologica; 
+ 25) pedodonzia (semestrale); 
+ 26) protesi dentaria (triennale: 3°, 4° e 5° anno); 
+ 27) radiologia generale e speciale odontostomatologica (semestrale). 
+ Sono insegnamenti complementari: 
+ *1) chirurgia maxillo-facciale; 
+ *2) dermatologia e venereologia (semestrale); 
+ *3) otorinolaringoiatria (semestrale); 
+ *4) statistica sanitaria; 
+ *5) chirurgia plastica; 
+ *6) psicologia generale e clinica; 
+ *7) clinica ortopedica; 
+ *8) clinica oculistica; 
+ *9) medicina sociale; 
+ *10) biochimica applicata; 
+ *11) allergologia ed immunologia clinica. 
+ Altri insegnamenti complementari nel piano delle facolta' sempre mutuati dal corso di laurea in medicina e chirurgia. 
+ Gli insegnamenti segnati con asterisco sono mutuati dal corso di laurea in medicina e chirurgia.
 
-  
-Nella tabella n. 1 (art. 27) l'intestazione e il numero dei posti presso ciascuna facolta' sono soppressi e sostituiti come segue:  
-  
-Ruolo dei professori universitari -  
-fascia dei professori straordinari e ordinari  
-  
-Facolta' di giurisprudenza . . . . . . . . . . . . . . . . . . . . 25 Facolta' di scienze politiche. . . . . . . . . . . . . . . . . . . 14 Facolta' di economia e commercio (1) . . . . . . . . . . . . . . . 34 Facolta' di lettere e filosofia (2). . . . . . . . . . . . . . . . 28 Facolta' di magistero (3). . . . . . . . . . . . . . . . . . . . . 23 Facolta' di agraria (4). . . . . . . . . . . . . . . . . . . . . . 17 Facolta' di medicina e chirurgia (5) . . . . . . . . . . . . . . . 49 Facolta' di scienze matematiche, fisiche e naturali. . . . . . . . 10   
-Dopo la tabella n. 1 e' inserita la seguente nuova tabella n. 2 (art. 27) concernenti l'organico dei professori associati:  
-  
-TABELLA N. 2 (art. 27)  
-  
-Ruolo dei professori universitari -  
-fascia dei professori associati  
-Facolta' di giurisprudenza . . . . . . . . . . . . . . . . . . . . 10 Facolta' di scienze politiche. . . . . . . . . . . . . . . . . . . 12 Facolta' di economia e commercio . . . . . . . . . . . . . . . . . 80 Facolta' di lettere e filosofia. . . . . . . . . . . . . . . . . . 40 Facolta' di magistero. . . . . . . . . . . . . . . . . . . . . . . 70 Facolta' di agraria. . . . . . . . . . . . . . . . . . . . . . . . 45 Facolta' di medicina e chirurgia. . . . . . . . . . . . . . . . . 100 Facolta' di scienze matematiche, fisiche e naturali. . . . . . . . 10   
-La tabella concernente i posti di ruolo degli assistenti (ad esaurimento) per effetto dell'inserimento della nuova tabella n. 2, relativa all'istituzione dell'organico dei professori associati, diventa tabella n. 3 (art. 37).  
-Dopo la tabella n. 3 (art. 37) e' aggiunta la seguente tabella n. 4 concernente i posti di ricercatori:  
-  
-TABELLA N. 4  
-  
-Posti di ricercatori  
-  
-Facolta' di giurisprudenza . . . . . . . . . . . . . . . . . . . . 20 Facolta' di scienze politiche. . . . . . . . . . . . . . . . . . . 24 Facolta' di economia e commercio. . . . . . . . . . . . . . . . . 100 Facolta' di lettere e filosofia. . . . . . . . . . . . . . . . . . 80 Facolta' di magistero . . . . . . . . . . . . . . . . . . . . . . 100 Facolta' di agraria. . . . . . . . . . . . . . . . . . . . . . . . 50 Facolta' di medicina e chirurgia. . . . . . . . . . . . . . . . . 207 Facolta' di scienze matematiche, fisiche e naturali. . . . . . . . 10   
+## Art. 3.
+
+Alla parte V, titolo II, disposizioni particolari per le varie facolta', dopo l'attuale art. 85, con il conseguente spostamento della numerazione degli articoli successivi, sono inseriti i seguenti nuovi articoli concernenti l'ordinamento didattico del corso di laurea in odontoiatria e protesi dentaria: 
+ Art. 86. - Per il corso di laurea in odontoiatria e protesi dentaria gli insegnamenti fondamentali sono teorici e pratici e la loro frequenza e' obbligatoria. 
+ Gli insegnamenti specificamente odontostomatologici di ordine clinico comportano un tirocinio pratico continuativo da espletare prima di sostenere i relativi esami. 
+ Gli studenti iscritti al corso di laurea in odontoiatria e protesi dentaria che non conseguono le attestazioni di frequenza non possono essere ammessi a sostenere le relative prove di esami. 
+ Il tirocinio pratico, relativo ad ogni insegnamento clinico per il corso di laurea in odontoiatria e protesi dentaria, deve prevedere da parte dei componenti dell'organico un'assistenza didattica adeguata al numero degli studenti. 
+ Art. 87. - Ai fini delle propedeuticita' degli esami dei diversi insegnamenti vale la seguente tabella:
+
+Non si puo' essere ammessi a sostenere l'esame di:
+                                Se non si e' superato l'esame di:
+                            Fisiologia umana e dell'apparato stomatognatico
+                                Istituzioni di anatomia umana normale e dell'apparato stomatognatico
+                            Chimica
+                            Patologia generale
+                                Biologia generale applicata agli studi medici
+                            Fisica medica
+                            Patologia speciale medica e metodologia clinica (compresa la pediatria)
+                                Fisiologia umana e dell'apparato stomatognatico
+                            Patologia speciale chirurgica e propedeutica clinica
+                                Patologia generale
+                            Clinica odontostomatologica
+                                Patologia speciale medica e metodologia clinica (compresa la pediatria)
+                            Patologia speciale chirurgica e propedeutica clinica
+                            Istituzioni di anatomia ed istologia patologica
+                            Patologia speciale odontostomatologica
+
+Art. 88. - Per essere ammesso a sostenere l'esame di laurea in odontoiatria e protesi dentaria lo studente deve aver seguito i corsi ed aver superato gli esami in tutti gli insegnamenti fondamentali ed almeno in due insegnamenti scelti fra i complementari ed aver inoltre seguito le prescritte esercitazioni cliniche, i tirocini pratici ed averne conseguito le relative attestazioni. 
+ L'esame di laurea consiste nella discussione di una tesi scritta su argomenti di odontostomatologia da richiedere almeno all'inizio dell'ultimo anno di corso. 
+ I laureati debbono fin dall'inizio dell'ultimo anno di corso scegliere la cattedra presso la quale intendono svolgere la loro tesi. 
+ Per esercitare la professione i laureati in odontoiatria e protesi dentaria devono superare un apposito esame di Stato.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 21 ottobre 1981
+Dato a Roma, addi' 22 settembre 1981
 
-PERTINI BODRATO - ANDREATTA
-
-Visto, il Guardasigilli DARIDA
-
-Registrato alla Corte dei conti, addi' 20 luglio 1982
-
-Registro n. 92 Istruzione, foglio n. 319
+PERTINI BODRATO Visto, il Guardasigilli: DARIDA Registrato alla Corte dei Conti, addi' 31 dicembre 1981 Registro n. 136 Istruzione, foglio n. 115

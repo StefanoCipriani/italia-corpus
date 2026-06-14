@@ -1,19 +1,21 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 24 luglio 1984 n. 645
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 645
+data: 1984-07-24
+titolo: "Riconoscimento della personalita' giuridica della Fondazione savonese per gli studi sulla mano, in Savona."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1984-07-24;645
+codice_redazionale: 084U0645
+vigente: true
+---
 
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 24 luglio 1984 n. 645
-=============================================================
-
-Riconoscimento della personalita' giuridica della Fondazione savonese per gli studi sulla mano, in Savona.
-----------------------------------------------------------------------------------------------------------
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-645. Decreto del Presidente della Repubblica 24 luglio 1984, col quale, sulla proposta del Ministro della sanita', viene riconosciuta la personalita' giuridica ed approvato lo statuto della Fondazione savonese per gli studi sulla mano, in Savona.   
-  
-Visto, il Guardasigilli: MARTINAZZOLI   
-Registrato alla Corte dei conti, addi' 21 settembre 1984   
-Registro n. 7 Sanita', foglio n. 16
+645.
+
+Decreto del Presidente della Repubblica 24 luglio 1984, col quale, sulla proposta del Ministro della sanita', viene riconosciuta la personalita' giuridica ed approvato lo statuto della Fondazione savonese per gli studi sulla mano, in Savona. 
+ 
+Visto, il Guardasigilli: MARTINAZZOLI 
+ Registrato alla Corte dei conti, addi' 21 settembre 1984 
+ Registro n. 7 Sanita', foglio n. 16

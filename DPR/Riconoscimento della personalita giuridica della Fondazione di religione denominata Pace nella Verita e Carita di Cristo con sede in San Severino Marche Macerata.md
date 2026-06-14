@@ -1,19 +1,21 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1964 n. 1315
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 1315
+data: 1964-10-31
+titolo: "Riconoscimento della personalita' giuridica della Fondazione di religione, denominata \"Pace nella Verita' e Carita' di Cristo\", con sede in San Severino Marche (Macerata)."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1964-10-31;1315
+codice_redazionale: 064U1315
+vigente: true
+---
 
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1964 n. 1315
-===============================================================
-
-Riconoscimento della personalita' giuridica della Fondazione di religione, denominata "Pace nella Verita' e Carita' di Cristo", con sede in San Severino Marche (Macerata).
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-1315. Decreto del Presidente della Repubblica 31 ottobre 1964, col quale, sulla proposta del Ministro per l'interno, viene riconosciuta la personalita' giuridica della Fondazione di religione, denominata "Pace nella Verita' e Carita' di Cristo", con sede in San Severino Marche (Macerata), e ne viene approvato lo statuto.  
-  
-Visto, il Guardasigilli: REALE  
-Registrato alla Corte dei conti, addi' 5 dicembre 1964  
-Atti del Governo, registro n. 188, foglio n. 191. - VILLA
+1315.
+
+Decreto del Presidente della Repubblica 31 ottobre 1964, col quale, sulla proposta del Ministro per l'interno, viene riconosciuta la personalita' giuridica della Fondazione di religione, denominata "Pace nella Verita' e Carita' di Cristo", con sede in San Severino Marche (Macerata), e ne viene approvato lo statuto.
+
+Visto, il Guardasigilli: REALE
+ Registrato alla Corte dei conti, addi' 5 dicembre 1964
+ Atti del Governo, registro n. 188, foglio n. 191. - VILLA

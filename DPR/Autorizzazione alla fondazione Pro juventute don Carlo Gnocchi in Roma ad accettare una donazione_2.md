@@ -1,19 +1,25 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 20 luglio 1978 n. 552
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 327
+data: 1977-05-04
+titolo: "Autorizzazione alla fondazione \"Pro juventute don Carlo Gnocchi\", in Roma, ad accettare una donazione."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1977-05-04;327
+codice_redazionale: 077U0327
+vigente: true
+---
 
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 20 luglio 1978 n. 552
-=============================================================
-
-Autorizzazione alla fondazione "Pro juventute don Carlo Gnocchi", in Roma, ad accettare una donazione.
-------------------------------------------------------------------------------------------------------
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-552. Decreto del Presidente della Repubblica 20 luglio 1978, col quale, sulla proposta del Presidente del Consiglio dei Ministri la fondazione "Pro juventute don Carlo Gnocchi", in Roma, viene autorizzata ad accettare la donazione disposta dai fratelli Sada Pietro, Claudio e Alberto con atto a rogito dott. Giovanni Lainati, notaio in Milano, in data 26 luglio 1976, n. 432904 di repertorio e n. 26153 di raccolta, registrato a Milano il 2 agosto 1976 al n. 1319471/M, serie H, consistente in titoli obbligazionari per complessivi nominali dollari USA 250.000 pari a lire 208.950.000, da destinare ai fini istituzionali dell'ente.  
-  
-Visto, il Guardasigilli: BONIFACIO  
-Registrato alla Corte dei conti, addi' 13 settembre 1978  
-Registro n. 6 Presidenza, foglio n. 285
+327.
+
+Decreto del Presidente della Repubblica 4 maggio 1977, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la fondazione "Pro juventute don Carlo Gnocchi", in Roma, viene autorizzata ad accettare la donazione disposta dai fratelli Angelo e Sergio Sassi con atto a rogito notaio dott. Ferruccio Brambilla del 13 ottobre 1973, n. 76744/1773 di repertorio, registrato a Busto Arsizio (Varese) il 29 ottobre 1973, al n. 2662, vol. 154, consistente nei seguenti beni:
+                        a)
+                            quota di 1/2 appartamento sito in Milano, via Meli n. 16, denunciato al nuovo catasto edilizio urbano con la scheda 1031463 del 10 febbraio 1970;
+                        b)
+                            quota di 3/4 delle seguenti porzioni di immobili poste in Bresso (Milano), via Don Gnocchi n. 4, e precisamente: appartamento di due locali oltre i servizi al piano rialzato) con annesso un vano ripostiglio al seminterrato, denunciato al nuovo catasto edilizio urbano di Busto Arsizio con scheda n. T.N. 912253 in data 26 aprile 1971 al n. 5758; autorimessa al p.s.m., scheda nuovo catasto edilizio urbano di Bresso, T.N. 910290, del 26 aprile 1971, il tutto per un valore complessivo di L. 10.500.000.
+
+Visto, il Guardasigilli: BONIFACIO
+ Registrato alla Corte dei conti, addi' 15 giugno 1977
+ Registro n. 5 Presidenza, foglio n. 209

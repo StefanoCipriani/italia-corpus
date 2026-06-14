@@ -1,180 +1,32 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 26 gennaio 1980 n. 83
-
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 26 gennaio 1980 n. 83
-=============================================================
-
-Norme di attuazione dello statuto speciale per il Trentino Alto Adige per la modifica di talune tabelle allegate al decreto del Presidente della Repubblica 26 luglio 1976, n. 752, in materia di proporzionale negli uffici statali siti nella provincia di Bolzano.
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 83
+data: 1980-01-26
+titolo: "Norme di attuazione dello statuto speciale per il Trentino Alto Adige per la modifica di talune tabelle allegate al decreto del Presidente della Repubblica 26 luglio 1976, n. 752, in materia di proporzionale negli uffici statali siti nella provincia di Bolzano."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1980-01-26;83
+codice_redazionale: 080U0083
+vigente: true
+---
 
 IL PRESIDENTE DELLA REPUBBLICA
-------------------------------
 
-Visto l'[art. 87, comma quinto, della Costituzione](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27~art87-com5);
+Visto l'[art. 87, comma quinto, della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87-com5);
 
-Visti gli [articoli 89](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1972-08-31;670~art89), [100](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1972-08-31;670~art100) e [107, comma primo, del decreto del Presidente della Repubblica 31 agosto 1972, n. 670](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1972-08-31;670~art107-com1), che approva il testo unico delle leggi costituzionali concernenti lo statuto speciale per il Trentino Alto Adige;
+Visti gli [articoli 89](Approvazione%20del%20testo%20unico%20delle%20leggi%20costituzionali%20concernenti%20lo%20statuto%20speciale%20per%20il%20Trentino-Alto%20Adige.md), [100](Approvazione%20del%20testo%20unico%20delle%20leggi%20costituzionali%20concernenti%20lo%20statuto%20speciale%20per%20il%20Trentino-Alto%20Adige.md) e [107, comma primo, del decreto del Presidente della Repubblica 31 agosto 1972, n. 670](Approvazione%20del%20testo%20unico%20delle%20leggi%20costituzionali%20concernenti%20lo%20statuto%20speciale%20per%20il%20Trentino-Alto%20Adige.md), che approva il testo unico delle leggi costituzionali concernenti lo statuto speciale per il Trentino Alto Adige;
 
-Sentita la commissione paritetica per le norme di attuazione prevista dall'[art. 107 del decreto del Presidente della Repubblica 31 agosto 1972, n. 670](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1972-08-31;670~art107);
+Sentita la commissione paritetica per le norme di attuazione prevista dall'[art. 107 del decreto del Presidente della Repubblica 31 agosto 1972, n. 670](Approvazione%20del%20testo%20unico%20delle%20leggi%20costituzionali%20concernenti%20lo%20statuto%20speciale%20per%20il%20Trentino-Alto%20Adige.md);
 
 Sentito il Consiglio dei Ministri;
 
-Sulla
------
+Sulla proposta del Presidente del Consiglio dei Ministri, di concerto con i Ministri dell'interno, di grazia e giustizia, del tesoro, dei trasporti, del lavoro e della previdenza sociale; Decreta:
 
-proposta del Presidente del Consiglio dei Ministri, di concerto con i Ministri dell'interno, di grazia e giustizia, del tesoro, dei trasporti, del lavoro e della previdenza sociale; Decreta:
+## Articolo unico
 
-Articolo unico
---------------
-
-  
-  
-La tabella 4, lettera B), concernente la pianta organica dei ruoli del personale civile presso la casa circondariale di Bolzano allegata al [decreto del Presidente della Repubblica in data 19 ottobre 1977, n. 846](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1977-10-19;846), la tabella 19 concernente la pianta organica dei ruoli del personale dell'ufficio di Bolzano della motorizzazione civile e trasporti in concessione allegata al [decreto del Presidente della Repubblica in data 26 luglio 1976, n. 752](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1976-07-26;752), la tabella 21 concernente la pianta organica dei ruoli del personale degli uffici dell'Istituto nazionale della previdenza sociale (INPS) aventi sede in provincia di Bolzano nonche' la tabella 22 concernente la pianta organica dei ruoli del personale delle unita' operative dell'Istituto nazionale per l'assicurazione contro gli infortuni sul lavoro (INAIL) aventi sede in provincia di Bolzano entrambe allegate al citato decreto 26 luglio 1976, n. 752, sono sostituite rispettivamente dalle tabelle 1, 2, 3 e 4 allegate al presente decreto.   
-Alla tabella 5 concernente la pianta organica dei ruoli del personale dell'Azienda autonoma delle ferrovie dello Stato allegata al [decreto del Presidente della Repubblica in data 19 ottobre 1977, n. 846](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1977-10-19;846), e' portata in aumento la dotazione organica di cui alla tabella 5 allegata al presente decreto.   
-  
+La tabella 4, lettera B), concernente la pianta organica dei ruoli del personale civile presso la casa circondariale di Bolzano allegata al [decreto del Presidente della Repubblica in data 19 ottobre 1977, n. 846](Norme%20di%20attuazione%20dello%20statuto%20speciale%20della%20regione%20Trentino-Alto%20Adige%20in%20materia%20di%20proporzionale%20negli%20uffici%20statali%20siti%20nella%20provincia%20di%20Bolzano%20e%20di%20conoscenza%20delle%20due%20lin_3773f71892e3_2.md), la tabella 19 concernente la pianta organica dei ruoli del personale dell'ufficio di Bolzano della motorizzazione civile e trasporti in concessione allegata al [decreto del Presidente della Repubblica in data 26 luglio 1976, n. 752](Norme%20di%20attuazione%20dello%20statuto%20speciale%20della%20regione%20Trentino-Alto%20Adige%20in%20materia%20di%20proporzionale%20negli%20uffici%20statali%20siti%20nella%20provincia%20di%20Bolzano%20e%20di%20conoscenza%20delle%20due%20lin_3773f71892e3.md), la tabella 21 concernente la pianta organica dei ruoli del personale degli uffici dell'Istituto nazionale della previdenza sociale (INPS) aventi sede in provincia di Bolzano nonche' la tabella 22 concernente la pianta organica dei ruoli del personale delle unita' operative dell'Istituto nazionale per l'assicurazione contro gli infortuni sul lavoro (INAIL) aventi sede in provincia di Bolzano entrambe allegate al citato decreto 26 luglio 1976, n. 752, sono sostituite rispettivamente dalle tabelle 1, 2, 3 e 4 allegate al presente decreto. 
+ Alla tabella 5 concernente la pianta organica dei ruoli del personale dell'Azienda autonoma delle ferrovie dello Stato allegata al [decreto del Presidente della Repubblica in data 19 ottobre 1977, n. 846](Norme%20di%20attuazione%20dello%20statuto%20speciale%20della%20regione%20Trentino-Alto%20Adige%20in%20materia%20di%20proporzionale%20negli%20uffici%20statali%20siti%20nella%20provincia%20di%20Bolzano%20e%20di%20conoscenza%20delle%20due%20lin_3773f71892e3_2.md), e' portata in aumento la dotazione organica di cui alla tabella 5 allegata al presente decreto.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 26 gennaio 1980
+Dato a Roma, addi' 26 gennaio 1980
 
-PERTINI COSSIGA - ROGNONI - MORLINO - PANDOLFI - PRETI - SCOTTI
-
-Visto, il Guardasigilli: MORLINO
-
-Registrato alla Corte dei conti, addi' 20 marzo 1980
-
-Atti di Governo, registro n. 26, foglio n. 20
-
-Tabella 1
-
- TABELLA 1   
-  
-MINISTERO DI GRAZIA E GIUSTIZIA   
-  
-B) CASA CIRCONDARIALE DI BOLZANO   
-  
-
-|  |  |
-| --- | --- |
-| Qualifiche | Numero dei posti |
-
-Tabella 2
-
- TABELLA 2   
-
-(( MINISTERO DEI TRASPORTI   
-DIREZIONE GENERALE DELLA MOTORIZZAZIONE CIVILE E DEI TRASPORTI IN CONCESSIONE   
-  
-Livello| Profilo professionale | Ufficio provinciale| Centro | | |--------------------| prova | | | | |autoveicoli| | | |Unita' addette | Totale | | | ai valichi | |  
--------------------------------|---|----------------|-------|----  
-|Primo dirigente. . . . | | | 1 | 1  
--------|-----------------------|---|----------------|-------|----  
-IX |Ing. direttore coord. | 1 | | 1 | 2  
-| (224/A) | | | |  
--------|-----------------------|---|----------------|-------|----  
-|Ing. direttore (224) | 2 | | 1 | 3  
-VIII |-----------------------|---|----------------|-------|----  
-|Funzionario amm.vo (1) | 2 | | | 2  
--------|-----------------------|---|----------------|-------|----  
-|Ingegnere (225) | 2 | | 1 | 3  
-|-----------------------|---|----------------|-------|----  
-VII |Collaboratore amm.vo | | | |  
-| (2). . . . . . . . . | 2 | | 1 | 3  
-|-----------------------|---|----------------|-------|----  
-|Capo tecnico (203) . . | 5 | | 3 | 8  
--------|-----------------------|---|----------------|-------|----  
-|Assistente tecnico(188)| 4 | | 2 | 6  
-VI |-----------------------|---|----------------|-------|----  
-|Assistente amm.vo (3) |10 | | | 10  
--------|-----------------------|---|----------------|-------|----  
-|Operatore amm.vo (4) |20 | 30 | 3 | 53  
-|-----------------------|---|----------------|-------|----  
-V |Autista mecc. spec. | | | |  
-| (12) . . . . . . . . | 1 | | 1 | 2  
-|-----------------------|---|----------------|-------|----  
-|Collaudatore mecc (40) | 3 | | 3 | 6  
--------|-----------------------|---|----------------|-------|----  
-|Coadiutore (5) | 9 | | 2 | 11  
-|-----------------------|---|----------------|-------|----  
-|Autista meccanico (11) | 1 | | 1 | 2  
-|-----------------------|---|----------------|-------|----  
-IV |Aggiustatore meccanico | | | |  
-| (38) . . . . . . . . | 2 | | 1 | 3  
-|-----------------------|---|----------------|-------|----  
-|Add. serv. port. e | | | |  
-| cust. (22) . . . . . | 2 | | 1 | 3  
--------|-----------------------|---|----------------|-------|----  
-III |Add. serv. anticamera | | | |  
-| (24) . . . . . . . | 1 | | 1 | 2  
--------|-----------------------|---|----------------|-------|----  
-Totale . . |67 | 30 | 23 |120  
-|---|----------------|-------|--))
-
-Tabella 3
-
- TABELLA 3   
-  
-I. N. P. S.   
-  
-RUOLI, QUALIFICHE E DOTAZIONI ORGANICHE DEL PERSONALE DI RUOLO DELL'I.N.P.S. IN SERVIZIO PRESSO LA SEDE DI BOLZANO   
-  
-
-|  |  |
-| --- | --- |
-| Qualifica | Dotazione organica per qualifica |
-
-Tabella 4
-
- TABELLA 4   
-  
-  
-I. N. A. I. L.   
-  
-RUOLI DEL PERSONALE DELLE UNITA' OPERATIVE DELL'I.N.A.I.L. NELLA PROVINCIA DI BOLZANO   
-  
-  
-
-|  |  |
-| --- | --- |
-| Qualifica | Posti |
-
-  
-  
-  
-  
-  
-  
-Dirigenza. |  
-Dirigenti superiori | 1  
-Dirigenti | 3  
-Ruolo amministrativo |  
-Collaboratori | 19  
-Assistenti | 35  
-Archivisti dattilografi | 24  
-Commessi | 6  
-Ruolo tecnico. |  
-Assistenti tecnici | 6  
-Operatori tecnici | 10  
-Agenti tecnici | 1  
-Ruolo professionale. |  
-Ramo legale | 2  
-Ramo sanitario: |  
-prima qualifica | 5  
-seconda qualifica | 5  
-Ramo tecnico: |  
-seconda qualifica | 2  
-  
-  
-
-Tabella 5
-
- TABELLA 5   
-  
-MINISTERO DEI TRASPORTI   
-PERSONALE DELL'AZIENDA AUTONOMA DELLE FERROVIE DELLO STATO   
-  
-  
-
-|  |  |
-| --- | --- |
-| Qualifica | Posti |
+PERTINI COSSIGA - ROGNONI - MORLINO - PANDOLFI - PRETI - SCOTTI Visto, il Guardasigilli: MORLINO Registrato alla Corte dei conti, addi' 20 marzo 1980 Atti di Governo, registro n. 26, foglio n. 20

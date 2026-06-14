@@ -1,19 +1,21 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 18 luglio 1961 n. 1607
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 1607
+data: 1961-07-18
+titolo: "Erezione in ente morale della Cassa scolastica della Scuola secondaria statale di avviamento commerciale \"A. Volta\" di Merano."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1961-07-18;1607
+codice_redazionale: 061U1607
+vigente: true
+---
 
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 18 luglio 1961 n. 1607
-==============================================================
-
-Erezione in ente morale della Cassa scolastica della Scuola secondaria statale di avviamento commerciale "A. Volta" di Merano.
-------------------------------------------------------------------------------------------------------------------------------
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-1607. Decreto del Presidente della Repubblica 18 luglio 1961, col quale, sulla proposta del Ministro per la pubblica istruzione, la Cassa scolastica della Scuola secondaria statale di avviamento commerciale "A. Volta" di Merano, viene eretta in ente morale e ne viene approvato lo statuto.  
-  
-Visto, il Guardasigilli: GONELLA  
-Registrato alla Corte dei conti, addi' 26 febbraio 1962  
-Atti del Governo, registro n. 144, foglio n. 19 - VILLA
+1607.
+
+Decreto del Presidente della Repubblica 18 luglio 1961, col quale, sulla proposta del Ministro per la pubblica istruzione, la Cassa scolastica della Scuola secondaria statale di avviamento commerciale "A. Volta" di Merano, viene eretta in ente morale e ne viene approvato lo statuto.
+
+Visto, il Guardasigilli: GONELLA
+ Registrato alla Corte dei conti, addi' 26 febbraio 1962
+ Atti del Governo, registro n. 144, foglio n. 19 - VILLA

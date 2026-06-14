@@ -1,19 +1,21 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 17 settembre 1975 n. 561
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 561
+data: 1975-09-17
+titolo: "Erezione in ente morale della casa del fanciullo \"Sacro Cuore\", in Carini."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1975-09-17;561
+codice_redazionale: 075U0561
+vigente: true
+---
 
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 17 settembre 1975 n. 561
-================================================================
-
-Erezione in ente morale della casa del fanciullo "Sacro Cuore", in Carini.
---------------------------------------------------------------------------
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-561. Decreto del Presidente della Repubblica 17 settembre 1975, col quale, sulla proposta del Ministro per l'interno, la casa del fanciullo "Sacro Cuore", in Carini (Palermo), viene eretta in ente morale e ne viene approvato lo statuto.  
-  
-Visto, il Guardasigilli: REALE  
-Registrato alla Corte dei conti, addi' 17 novembre 1975  
-Atti di Governo, registro n. 13, foglio n. 64
+561.
+
+Decreto del Presidente della Repubblica 17 settembre 1975, col quale, sulla proposta del Ministro per l'interno, la casa del fanciullo "Sacro Cuore", in Carini (Palermo), viene eretta in ente morale e ne viene approvato lo statuto.
+
+Visto, il Guardasigilli: REALE
+ Registrato alla Corte dei conti, addi' 17 novembre 1975
+ Atti di Governo, registro n. 13, foglio n. 64

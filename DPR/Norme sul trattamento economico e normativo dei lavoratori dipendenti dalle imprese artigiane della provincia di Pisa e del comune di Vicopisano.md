@@ -1,20 +1,20 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 26 dicembre 1961 n. 1799
-
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 26 dicembre 1961 n. 1799
-================================================================
-
-Norme sul trattamento economico e normativo dei lavoratori dipendenti dalle imprese artigiane della provincia di Pisa e del comune di Vicopisano.
--------------------------------------------------------------------------------------------------------------------------------------------------
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 1799
+data: 1961-12-26
+titolo: "Norme sul trattamento economico e normativo dei lavoratori dipendenti dalle imprese artigiane della provincia di Pisa e del comune di Vicopisano."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1961-12-26;1799
+codice_redazionale: 061U1799
+vigente: true
+---
 
 IL PRESIDENTE DELLA REPUBBLICA
-------------------------------
 
-Visto l'[art. 87, comma quinto, della Costituzione](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27~art87-com5);
+Visto l'[art. 87, comma quinto, della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87-com5);
 
-Vista la [legge 14 luglio 1959, n. 741](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1959-07-14;741), che delega il Governo ad emanare norme transitorie per garantire minimi di trattamento economico e normativo ai lavoratori;
+Vista la [legge 14 luglio 1959, n. 741](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1959-07-14;741), che delega il Governo ad emanare norme transitorie per garantire minimi di trattamento economico e normativo ai lavoratori;
 
-Vista la [legge 1 ottobre 1960, n. 1027](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1960-10-01;1027), recante modifiche alla predetta legge 14: luglio 1959, n. 741;
+Vista la [legge 1 ottobre 1960, n. 1027](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1960-10-01;1027), recante modifiche alla predetta legge 14: luglio 1959, n. 741;
 
 Visti, per la provincia di Pisa:
 
@@ -34,77 +34,21 @@ Vista la pubblicazione nell'apposito Bollettino, n. 5 della provincia di Pisa, i
 
 Sentito il Consiglio dei Ministri;
 
-Sulla
------
+Sulla proposta del Ministro per il lavoro e la previdenza sociale; Decreta:
 
-proposta del Ministro per il lavoro e la previdenza sociale; Decreta:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-I rapporti di lavoro costituiti per le attivita' artigiane per le quali sono stati stipulati, per la provincia di Pisa:  
-- l'accordo collettivo 23 dicembre 1940, relativo alla sistemazione salariale dei dipendenti da aziende artigiane;  
-- l'accordo collettivo i luglio 1947, relativo all'aggiornamento del trattamento salariale dei dipendenti da aziende artigiane;  
-- l'accordo collettivo 1 dicembre 1947, relativo alla corresponsione della gratifica natalizia ai dipendenti da aziende artigiane;  
-- l'accordo collettivo 13 luglio 1956, relativo alla rivalutazione dell'indennita' di contingenza per i dipendenti da aziende artigiane;  
-- per il comune di Vicopisano, l'accordo collettivo 11 febbraio 1957, relativo al trattamento economico per i lavoratori dipendenti da fabbriche artigiane di terraglia e ceramica;  
-sono regolati da norme, giuridiche uniformi alle clausole degli accordi anzidetti, annessi al presente decreto, purche' compatibili, per quanto riguarda le attivita' artigiane per le quali sono stati stipulati appositi contratti collettivi nazionali, con quelle concernenti la relativa disciplina nazionale di categoria.  
-I minimi di trattamento economico e normativi cosi' stabiliti sono inderogabili nei confronti di tutti i lavoratori dipendenti dalle imprese artigiane esercenti le attivita' indicate negli accordi di cui al primo comma, della provincia di Pisa e del comune di Vicopisano.  
-  
+I rapporti di lavoro costituiti per le attivita' artigiane per le quali sono stati stipulati, per la provincia di Pisa:
+ - l'accordo collettivo 23 dicembre 1940, relativo alla sistemazione salariale dei dipendenti da aziende artigiane;
+ - l'accordo collettivo i luglio 1947, relativo all'aggiornamento del trattamento salariale dei dipendenti da aziende artigiane;
+ - l'accordo collettivo 1 dicembre 1947, relativo alla corresponsione della gratifica natalizia ai dipendenti da aziende artigiane;
+ - l'accordo collettivo 13 luglio 1956, relativo alla rivalutazione dell'indennita' di contingenza per i dipendenti da aziende artigiane;
+ - per il comune di Vicopisano, l'accordo collettivo 11 febbraio 1957, relativo al trattamento economico per i lavoratori dipendenti da fabbriche artigiane di terraglia e ceramica;
+sono regolati da norme, giuridiche uniformi alle clausole degli accordi anzidetti, annessi al presente decreto, purche' compatibili, per quanto riguarda le attivita' artigiane per le quali sono stati stipulati appositi contratti collettivi nazionali, con quelle concernenti la relativa disciplina nazionale di categoria.
+ I minimi di trattamento economico e normativi cosi' stabiliti sono inderogabili nei confronti di tutti i lavoratori dipendenti dalle imprese artigiane esercenti le attivita' indicate negli accordi di cui al primo comma, della provincia di Pisa e del comune di Vicopisano.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 20 dicembre 1961
+Dato a Roma, addi' 20 dicembre 1961
 
-GRONCHI FANFANI - SULLO Visto il Guardasigilli: BOSCO
-
-Registrato alla Corte dei conti, addi' 4 maggio 1962
-
-Atti del Governo, registro n. 146, foglio n. 16. - VILLA
-
-Allegato
-
-ACCORDO COLLETTIVO 23 DICEMBRE 1946 PER LA SISTEMAZIONE SALARIALE DEI DIPENDENTI DI AZIENDE ARTIGIANE DELLA PROVINCIA DI PISA.   
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=061U179900100010110001&dgu=1962-06-01&art.dataPubblicazioneGazzetta=1962-06-01&art.codiceRedazionale=061U1799)
-  
-  
-  
-  
-  
-ACCORDO COLLETTIVO 1 LUGLIO 1947 PER L'AGGIORNAMENTO DEL TRATTAMENTO SALARIALE DEI DIPENDENTI DA AZIENDE ARTIGIANE DELLA PROVINCIA DI PISA   
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=061U179900100010110002&dgu=1962-06-01&art.dataPubblicazioneGazzetta=1962-06-01&art.codiceRedazionale=061U1799)
-  
-  
-  
-  
-  
-ACCORDO COLLETTIVO 1 DICEMBRE 1947 PER LA CORRESPONSIONE DELLA GRATIFICA NATALIZIA AI DIPENDENTI DA AZIENDE ARTIGIANE DELLA PROVINCIA DI PISA   
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=061U179900100010110003&dgu=1962-06-01&art.dataPubblicazioneGazzetta=1962-06-01&art.codiceRedazionale=061U1799)
-  
-  
-  
-  
-  
-ACCORDO COLLETTIVO 13 LUGLIO 1956 PER LA RIVALUTAZIONE DELLA INDENNITA' DI CONTINGENZA PER I DIPENDENTI DA AZIENDE ARTIGIANE DELLA PROVINCIA DI PISA   
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=061U179900100010110004&dgu=1962-06-01&art.dataPubblicazioneGazzetta=1962-06-01&art.codiceRedazionale=061U1799)
-  
-  
-  
-  
-  
-ACCORDO COLLETTIVO 11 FEBBRAIO 1957 PER LA DETERMINAZIONE DEL TRATTAMENTO ECONOMICO PER I LAVORATORI DIPENDENTI DA FABBRICHE ARTIGIANE DI TERRAGLIA E CERAMICA DEL COMUNE DI VICOPISANO   
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=061U179900100010110005&dgu=1962-06-01&art.dataPubblicazioneGazzetta=1962-06-01&art.codiceRedazionale=061U1799)
-  
+GRONCHI FANFANI - SULLO Visto il Guardasigilli: BOSCO Registrato alla Corte dei conti, addi' 4 maggio 1962 Atti del Governo, registro n. 146, foglio n. 16. - VILLA

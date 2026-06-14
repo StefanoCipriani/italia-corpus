@@ -1,98 +1,57 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 dicembre 1952 n. 4136
-
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 dicembre 1952 n. 4136
-================================================================
-
-Trasferimento in proprieta' all'Ente per lo sviluppo dell'irrigazione e la trasformazione fondiaria in Puglia e Lucania - Sezione speciale per la riforma fondiaria - di terreni di proprieta' di Di Vaira Maria fu Angelo e Barba Francesca fu Felice, in comune di Petacciato (Campobasso).
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 4136
+data: 1952-12-28
+titolo: "Trasferimento in proprieta' all'Ente per lo sviluppo dell'irrigazione e la trasformazione fondiaria in Puglia e Lucania - Sezione speciale per la riforma fondiaria - di terreni di proprieta' di Di Vaira Maria fu Angelo e Barba Francesca fu Felice, in comune di Petacciato (Campobasso)."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1952-12-28;4136
+codice_redazionale: 052U4136
+vigente: true
+---
 
 IL PRESIDENTE DELLA REPUBBLICA
-------------------------------
 
-Visti gli [articoli 77, comma primo](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27~art77-com1) ed [87, comma quinto, della Costituzione](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27~art87-com5) della Repubblica;
+Visti gli [articoli 77, comma primo](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_77-com1) ed [87, comma quinto, della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87-com5) della Repubblica;
 
-Viste le [leggi 12 maggio 1950, n. 230, 21 ottobre 1950, n. 841 e 18 maggio 1951, n. 333, 2 aprile 1952](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1952-04-02;333). n. 339 e 16 agosto 19652, n. 1206;
+Viste le [leggi 12 maggio 1950, n. 230, 21 ottobre 1950, n. 841 e 18 maggio 1951, n. 333, 2 aprile 1952](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1952-04-02;333). n. 339 e 16 agosto 19652, n. 1206;
 
-In virtu' della delegazione concessa dagli [art. 5 della legge 12 maggio 1950, n. 230 ed 1](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1950-05-12;1~art5) e 2 della [legge 21 ottobre 1950, n. 841](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1950-10-21;841);
+In virtu' della delegazione concessa dagli [art. 5 della legge 12 maggio 1950, n. 230 ed 1](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1950-05-12;1#art_5) e 2 della [legge 21 ottobre 1950, n. 841](../Atti%20normativi%20abrogati%20%28in%20originale%29/Norme%20per%20la%20espropriazione%20bonifica%20trasformazione%20ed%20assegnazione%20dei%20terreni%20ai%20contadini.md);
 
 Visto il proprio decreto 7 febbraio 1951 n. 67;
 
 Visto il piano particolareggiato di espropriazione compilato dall'Ente per lo sviluppo dell'irrigazione e la trasformazione fondiaria in Puglia e Lucania - Sezione speciale per la riforma fondiaria nei confronti di Di Vaira Maria fu Angelo e Barba Francesca fu Felice, per i terreni ricadenti nel comune di Petacciato (provincia di Campobasso);
 
-Vista la [deliberazione del 9 settembre 1952 n. 2566](http://www.normattiva.it/uri-res/N2Ls?urn:nir::delibera:1952-09-09;2566) della Commissione Censuaria Centrale relativa al ricorso prodotto dalle interessate ai sensi degli [articoli 6 della legge 21 ottobre 1950, n. 841 e 9](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1950-10-21;9~art6) della [legge 18 maggio 1951, n. 333](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1951-05-18;333);
+Vista la [deliberazione del 9 settembre 1952 n. 2566](https://www.normattiva.it/uri-res/N2Ls?urn:nir::delibera:1952-09-09;2566) della Commissione Censuaria Centrale relativa al ricorso prodotto dalle interessate ai sensi degli [articoli 6 della legge 21 ottobre 1950, n. 841 e 9](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1950-10-21;9#art_6) della [legge 18 maggio 1951, n. 333](../Atti%20normativi%20abrogati%20%28in%20originale%29/Norme%20interpretative%20e%20integrative%20della%20legge%2021%20ottobre%201950%20n.%20841%20concernente%20lespropriazione%20la%20bonifica%20la%20trasformazione%20e%20lassegnazione%20dei%20terreni%20ai%20contadini.md);
 
-Considerato che le sunnominate hanno presentato istanza, ai sensi dell'[articolo 9 della legge 21 ottobre 1950, n. 841](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1950-10-21;841~art9), per poter conservare una parte dei terreni soggetti ad espropriazione e che l'Ente perdetto, in accoglimento di detta istanza, ha proceduto alla determinazione del terzo residuo di cui al citato [articolo 9 della legge 21 ottobre 1950, n. 841](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1950-10-21;841~art9);
+Considerato che le sunnominate hanno presentato istanza, ai sensi dell'[articolo 9 della legge 21 ottobre 1950, n. 841](../Atti%20normativi%20abrogati%20%28in%20originale%29/Norme%20per%20la%20espropriazione%20bonifica%20trasformazione%20ed%20assegnazione%20dei%20terreni%20ai%20contadini.md), per poter conservare una parte dei terreni soggetti ad espropriazione e che l'Ente perdetto, in accoglimento di detta istanza, ha proceduto alla determinazione del terzo residuo di cui al citato [articolo 9 della legge 21 ottobre 1950, n. 841](../Atti%20normativi%20abrogati%20%28in%20originale%29/Norme%20per%20la%20espropriazione%20bonifica%20trasformazione%20ed%20assegnazione%20dei%20terreni%20ai%20contadini.md);
 
-Udito il parere, in data 19 dicembre 1952, espresso dalla Commissione parlamentare nominata a norma degli [articoli 5 della legge 12 maggio 1950, n. 230 ed 1](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1950-05-12;1~art5) e 2 della [legge 21 ottobre 1950, n. 841](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1950-10-21;841);
+Udito il parere, in data 19 dicembre 1952, espresso dalla Commissione parlamentare nominata a norma degli [articoli 5 della legge 12 maggio 1950, n. 230 ed 1](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1950-05-12;1#art_5) e 2 della [legge 21 ottobre 1950, n. 841](../Atti%20normativi%20abrogati%20%28in%20originale%29/Norme%20per%20la%20espropriazione%20bonifica%20trasformazione%20ed%20assegnazione%20dei%20terreni%20ai%20contadini.md);
 
 Sentito il Consiglio dei Ministri;
 
-Sulla
------
+Sulla proposta del Ministro Segretario di Stato per l'agricoltura e per le foreste; Decreta:
 
-proposta del Ministro Segretario di Stato per l'agricoltura e per le foreste; Decreta:
+## Art. 1.
 
-Art. 1
-------
+E' approvato il piano particolareggiato di espropriazione compilato dall'Ente per lo sviluppo dell'irrigazione e la trasformazione fondiaria in Puglia e Lucania - Sezione speciale per la riforma fondiaria, nei confronti di Di Vaira Maria fu Angelo e Barba Francesca fu Felice, relativo ai terreni ricadenti nel comune di Petacciato (provincia di Campobasso), della superficie di ettari 85.76.52, specificamente descritti negli elenchi n. 1 e n. 2 allegati al presente decreto.
 
-  
-E' approvato il piano particolareggiato di espropriazione compilato dall'Ente per lo sviluppo dell'irrigazione e la trasformazione fondiaria in Puglia e Lucania - Sezione speciale per la riforma fondiaria, nei confronti di Di Vaira Maria fu Angelo e Barba Francesca fu Felice, relativo ai terreni ricadenti nel comune di Petacciato (provincia di Campobasso), della superficie di ettari 85.76.52, specificamente descritti negli elenchi n. 1 e n. 2 allegati al presente decreto.  
+## Art. 2.
 
-Art. 2
-------
+I terreni indicati nell'elenco n. 1 di cui al precedente articolo, per complessivi ettari 36.14.53, sono espropriati e trasferiti in proprieta' all'Ente per lo sviluppo dell'irrigazione e la trasformazione fondiaria in Puglia e Lucania - Sezione speciale per la riforma fondiaria.
 
-  
-I terreni indicati nell'elenco n. 1 di cui al precedente articolo, per complessivi ettari 36.14.53, sono espropriati e trasferiti in proprieta' all'Ente per lo sviluppo dell'irrigazione e la trasformazione fondiaria in Puglia e Lucania - Sezione speciale per la riforma fondiaria.  
+## Art. 3.
 
-Art. 3
-------
+E' ordinata l'immediata occupazione, da parte dell'Ente predetto, dei terreni indicati nel precedente articolo 1.
 
-  
-E' ordinata l'immediata occupazione, da parte dell'Ente predetto, dei terreni indicati nel precedente articolo 1.  
+## Art. 4.
 
-Art. 4
-------
+Il Conservatore dei Registri Immobiliari, competente per territorio, e' autorizzato ad iscrivere il vincolo di indisponibilita', in applicazione dell'[articolo 8 della legge 21 ottobre 1950, n. 841](../Atti%20normativi%20abrogati%20%28in%20originale%29/Norme%20per%20la%20espropriazione%20bonifica%20trasformazione%20ed%20assegnazione%20dei%20terreni%20ai%20contadini.md), sui terreni indicati nell'elenco n. 2 unito al presente decreto e costituenti il terzo residuo, di complessivi ettari 49.61.99.
 
-  
-Il Conservatore dei Registri Immobiliari, competente per territorio, e' autorizzato ad iscrivere il vincolo di indisponibilita', in applicazione dell'[articolo 8 della legge 21 ottobre 1950, n. 841](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1950-10-21;841~art8), sui terreni indicati nell'elenco n. 2 unito al presente decreto e costituenti il terzo residuo, di complessivi ettari 49.61.99.  
+## Art. 5.
 
-Art. 5
-------
-
-  
-L'elenco dei terreni menzionato nel precedente articolo 2 con l'indicazione della relativa indennita' di espropriazione offerta, nonche' quello menzionato all'articolo 4, entrambi muniti del visto del Ministro proponente, formano parte integrante del presente decreto, che entra in vigore il giorno stesso della sua pubblicazione nella Gazzetta Ufficiale della Repubblica italiana.  
-  
+L'elenco dei terreni menzionato nel precedente articolo 2 con l'indicazione della relativa indennita' di espropriazione offerta, nonche' quello menzionato all'articolo 4, entrambi muniti del visto del Ministro proponente, formano parte integrante del presente decreto, che entra in vigore il giorno stesso della sua pubblicazione nella Gazzetta Ufficiale della Repubblica italiana.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 28 dicembre 1952
+Dato a Roma, addi' 28 dicembre 1952
 
-EINAUDI DE GASPERI - FANFANI
-
-Visto, il Guardasigilli: ZOLI
-
-Registrato alla Corte dei conti, addi' 22 gennaio 1953
-
-Atti del Governo, registro n. 72, foglio n. 153. - PALLA
-
-Allegato n. 1
-
- ALLEGATO N. 1   
-  
-Elenco dei terreni intestati alla ditta Di Vaira Maria fu Angelo e Barba Francesca fu Felice rispettivamente per il 79,09% ed il 20,91% in termini di R.D., in comune di Petacciato (provincia di Campobasso), trasferiti in proprieta' dell'Ente per lo sviluppo dell'irrigazione e la trasformazione fondiaria in Puglia e Lucania - Sezione speciale per la riforma fondiaria, a norma delle [leggi 12 maggio 1950, n. 230, 21 ottobre 1950, n. 841](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1950-10-21;841) e [decreto Presidenziale 7 febbraio 1951, n. 67](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-02-07;67).   
-  
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=052U413600100010110001&dgu=1953-01-24&art.dataPubblicazioneGazzetta=1953-01-24&art.codiceRedazionale=052U4136)
-  
-
-Allegato n. 2
-
- ALLEGATO N. 2   
-  
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=052U413600200010110001&dgu=1953-01-24&art.dataPubblicazioneGazzetta=1953-01-24&art.codiceRedazionale=052U4136)
-  
+EINAUDI DE GASPERI - FANFANI Visto, il Guardasigilli: ZOLI Registrato alla Corte dei conti, addi' 22 gennaio 1953 Atti del Governo, registro n. 72, foglio n. 153. - PALLA

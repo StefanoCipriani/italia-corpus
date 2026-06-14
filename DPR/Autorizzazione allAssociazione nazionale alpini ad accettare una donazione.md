@@ -1,19 +1,21 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 29 maggio 1954 n. 585
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 585
+data: 1954-05-29
+titolo: "Autorizzazione all'Associazione nazionale alpini ad accettare una donazione."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1954-05-29;585
+codice_redazionale: 054U0585
+vigente: true
+---
 
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 29 maggio 1954 n. 585
-=============================================================
-
-Autorizzazione all'Associazione nazionale alpini ad accettare una donazione.
-----------------------------------------------------------------------------
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-585. Decreto del Presidente della Repubblica 29 maggio 1954, col quale, sulla proposta del Ministro per la difesa, l'Associazione nazionale alpini viene autorizzata ad accettare la donazione fattale dalla "Montecatini - Societa' generale per l'industria mineraria e chimica", della proprieta' immobiliare di cui al rogito 25 giugno 1952, n. 29403 di repertorio, per notaio dott. Domenico Pescini di Milano.  
-  
-Visto, il Guardasigilli: DE PIETRO  
-Registrato alla Corte dei conti, addi' 23 luglio 1954  
-Atti del Governo, registro n. 84, foglio n. 140. - CARLOMAGNO
+585.
+
+Decreto del Presidente della Repubblica 29 maggio 1954, col quale, sulla proposta del Ministro per la difesa, l'Associazione nazionale alpini viene autorizzata ad accettare la donazione fattale dalla "Montecatini - Societa' generale per l'industria mineraria e chimica", della proprieta' immobiliare di cui al rogito 25 giugno 1952, n. 29403 di repertorio, per notaio dott. Domenico Pescini di Milano.
+
+Visto, il Guardasigilli: DE PIETRO
+ Registrato alla Corte dei conti, addi' 23 luglio 1954
+ Atti del Governo, registro n. 84, foglio n. 140. - CARLOMAGNO

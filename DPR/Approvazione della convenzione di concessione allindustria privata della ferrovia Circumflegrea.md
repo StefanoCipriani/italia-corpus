@@ -1,52 +1,37 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 07 maggio 1948 n. 729
-
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 07 maggio 1948 n. 729
-=============================================================
-
-Approvazione della convenzione di concessione all'industria privata della ferrovia Circumflegrea.
--------------------------------------------------------------------------------------------------
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 729
+data: 1948-05-07
+titolo: "Approvazione della convenzione di concessione all'industria privata della ferrovia Circumflegrea."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1948-05-07;729
+codice_redazionale: 048U0729
+vigente: true
+---
 
 IL PRESIDENTE DELLA REPUBBLICA
-------------------------------
 
-Visto il testo unico delle disposizioni di legge per le ferrovie concesse all'industria privata, le tramvie a trazione meccanica e le automobili, approvato con [regio decreto 9 maggio 1912, n. 1447](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1912-05-09;1447) e successive aggiunte e modificazioni;
+Visto il testo unico delle disposizioni di legge per le ferrovie concesse all'industria privata, le tramvie a trazione meccanica e le automobili, approvato con [regio decreto 9 maggio 1912, n. 1447](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1912-05-09;1447) e successive aggiunte e modificazioni;
 
-Visto il [regio decreto legislativo 17 maggio 1946, n. 485](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legislativo:1946-05-17;485);
+Visto il [regio decreto legislativo 17 maggio 1946, n. 485](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legislativo:1946-05-17;485);
 
-Visto il [decreto legislativo del Capo provvisorio dello Stato 20 agosto 1947, n. 1039](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto.legislativo:1947-08-20;1039);
+Visto il [decreto legislativo del Capo provvisorio dello Stato 20 agosto 1947, n. 1039](https://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto.legislativo:1947-08-20;1039);
 
 Udito il parere del Consiglio superiore dei lavori pubblici e del Consiglio di stato;
 
 Sentito il Consiglio dei Ministri;
 
-Sulla
------
+Sulla proposta dei Ministri per i trasporti e per il tesoro; Decreta:
 
-proposta dei Ministri per i trasporti e per il tesoro; Decreta:
+## Art. 1.
 
-Art. 1
-------
-
-  
 E' approvata e resa esecutoria la convenzione stipulata il 16 aprile 1948 fra i delegati dei Ministri per i trasporti e per il tesoro in rappresentanza dello Stato ed i legali rappresentanti della Societa' anonima per l'Esercizio di Pubblici Servizi (S.E.P.S.A.) e del Banco di Napoli, per la concessione della ferrovia Circumflegrea.
 
-Art. 2
-------
+## Art. 2.
 
-  
-Il presente decreto entra in vigore il giorno successivo a quello della sua pubblicazione nella Gazzetta Ufficiale della Repubblica italiana.  
-  
+Il presente decreto entra in vigore il giorno successivo a quello della sua pubblicazione nella Gazzetta Ufficiale della Repubblica italiana.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Napoli, addi' 7 maggio 1948
+Dato a Napoli, addi' 7 maggio 1948
 
-DE NICOLA DE GASPERI - CORBELLINI - DEL VECCHIO
-
-Visto, il Guardasigilli: GRASSI
-
-Registrato alla Corte dei conti, addi' 11 giugno 1948
-
-Atti del Governo, registro n. 21, foglio n. 105. - FRASCA
+DE NICOLA DE GASPERI - CORBELLINI - DEL VECCHIO Visto, il Guardasigilli: GRASSI Registrato alla Corte dei conti, addi' 11 giugno 1948 Atti del Governo, registro n. 21, foglio n. 105. - FRASCA

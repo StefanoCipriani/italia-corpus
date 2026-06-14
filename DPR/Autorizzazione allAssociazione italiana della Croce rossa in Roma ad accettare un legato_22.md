@@ -1,19 +1,21 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 29 agosto 1986 n. 706
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 678
+data: 1986-05-17
+titolo: "Autorizzazione all'Associazione italiana della Croce rossa, in Roma, ad accettare un legato."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1986-05-17;678
+codice_redazionale: 086U0678
+vigente: true
+---
 
+## Art. 1.
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 29 agosto 1986 n. 706
-=============================================================
+N.
 
-Autorizzazione all'Associazione italiana della Croce rossa, in Roma, ad accettare un legato.
---------------------------------------------------------------------------------------------
+678.
 
-Art. 1
-------
-
-n.
-
-706. Decreto del Presidente della Repubblica 29 agosto 1986, col quale, sulla proposta del Ministro della sanita', l'Associazione italiana della Croce rossa, in Roma, viene autorizzata ad accettare il legato, consistente nella meta' del ricavato della vendita di un brillante taglio smeraldo di carati 9,75, disposto dalla sig.ra Lega Sigfrida in Sarteschi con testamento olografo 18 marzo 1981, pubblicato in data 17 febbraio 1982, n. 165640 di repertorio, a rogito dott. Corrado Giannotti, notaio in Como, registrato a Como in data 8 marzo 1982 al n. 1144, da destinare al perseguimento dei fini istituzionali dell'ente.  
-  
-Visto, il Guardasigilli: ROGNONI  
-Registrato alla Corte dei conti, addi' 18 ottobre 1986  
-Registro n. 10 Sanita', foglio n. 234
+Decreto del Presidente della Repubblica 17 maggio 1986, col quale, sulla proposta del Ministro della sanita', l'Associazione italiana della Croce rossa, in Roma, viene autorizzata ad accettare il legato, consistente nella somma di L. 8.000.000, disposto dalla sig.ra Annina Tuzzato ved. Vincent con testamento pubblico 1 ottobre 1981, registrato in data 13 maggio 1982, n. 11798 di repertorio, a rogito dott. Piovan Francesco, notaio in Padova, registrato a Padova in data 14 maggio 1982 al n. 5818. 
+ 
+Visto, il Guardasigilli: ROGNONI 
+ Registrato alla Corte dei conti, addi' 9 ottobre 1986 
+ Registro n. 10 Sanita', foglio n. 69

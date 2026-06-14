@@ -1,19 +1,21 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 dicembre 1963 n. 2182
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 2182
+data: 1963-12-28
+titolo: "Il Riconoscimento della personalita' giuridica della Chiesa di Gesu' Adolescente, sita nel comune di Genova."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1963-12-28;2182
+codice_redazionale: 063U2182
+vigente: true
+---
 
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 dicembre 1963 n. 2182
-================================================================
-
-Il Riconoscimento della personalita' giuridica della Chiesa di Gesu' Adolescente, sita nel comune di Genova.
-------------------------------------------------------------------------------------------------------------
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-2182. Decreto del Presidente della Repubblica 28 dicembre 1963, col quale, sulla proposta del Ministro per l'interno, viene riconosciuta la personalita' giuridica della Chiesa di Gesu' Adolescente, alla nel comune di Genova.  
-  
-Visto, il Guardasigilli: REALE  
-Registrato alla Corte dei conti, addi' 8 febbraio 1964  
-Atti del governo, registro n. 180, foglio n. 107. - VILLA
+2182.
+
+Decreto del Presidente della Repubblica 28 dicembre 1963, col quale, sulla proposta del Ministro per l'interno, viene riconosciuta la personalita' giuridica della Chiesa di Gesu' Adolescente, alla nel comune di Genova.
+
+Visto, il Guardasigilli: REALE
+ Registrato alla Corte dei conti, addi' 8 febbraio 1964
+ Atti del governo, registro n. 180, foglio n. 107. - VILLA

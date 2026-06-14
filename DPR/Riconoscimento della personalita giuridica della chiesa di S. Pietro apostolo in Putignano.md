@@ -1,19 +1,21 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 21 agosto 1975 n. 508
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 508
+data: 1975-08-21
+titolo: "Riconoscimento della personalita' giuridica della chiesa di S. Pietro apostolo, in Putignano."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1975-08-21;508
+codice_redazionale: 075U0508
+vigente: true
+---
 
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 21 agosto 1975 n. 508
-=============================================================
-
-Riconoscimento della personalita' giuridica della chiesa di S. Pietro apostolo, in Putignano.
----------------------------------------------------------------------------------------------
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-508. Decreto del Presidente della Repubblica 21 agosto 1975, col quale, sulla proposta del Ministro per l'interno, viene riconosciuta la personalita' giuridica della chiesa di S. Pietro apostolo, in Putignano (Bari).  
-  
-Visto, il Guardasigilli: REALE  
-Registrato alla Corte dei conti, addi' 13 ottobre 1975  
-Atti di Governo, registro n. 13, foglio n. 6
+508.
+
+Decreto del Presidente della Repubblica 21 agosto 1975, col quale, sulla proposta del Ministro per l'interno, viene riconosciuta la personalita' giuridica della chiesa di S. Pietro apostolo, in Putignano (Bari).
+
+Visto, il Guardasigilli: REALE
+ Registrato alla Corte dei conti, addi' 13 ottobre 1975
+ Atti di Governo, registro n. 13, foglio n. 6

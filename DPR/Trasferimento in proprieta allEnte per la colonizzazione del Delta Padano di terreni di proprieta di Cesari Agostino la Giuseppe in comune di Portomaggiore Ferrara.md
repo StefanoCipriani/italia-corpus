@@ -1,78 +1,49 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 03 ottobre 1952 n. 1545
-
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 03 ottobre 1952 n. 1545
-===============================================================
-
-Trasferimento in proprieta' all'Ente per la colonizzazione del Delta Padano di terreni di proprieta' di Cesari Agostino la Giuseppe, in comune di Portomaggiore (Ferrara).
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 1545
+data: 1952-10-03
+titolo: "Trasferimento in proprieta' all'Ente per la colonizzazione del Delta Padano di terreni di proprieta' di Cesari Agostino la Giuseppe, in comune di Portomaggiore (Ferrara)."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1952-10-03;1545
+codice_redazionale: 052U1545
+vigente: true
+---
 
 IL PRESIDENTE DELLA REPUBBLICA
-------------------------------
 
-Visti gli [articoli 77, comma primo](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27~art77-com1), ed [87, comma quinto, della Costituzione](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27~art87-com5) della Repubblica;
+Visti gli [articoli 77, comma primo](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_77-com1), ed [87, comma quinto, della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87-com5) della Repubblica;
 
-Viste le [leggi 12 maggio 1950, n. 230, 21 ottobre 1950, n. 841, 18 maggio 1951, n. 333 e 2 aprile 1952, n. 339](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1952-04-02;339);
+Viste le [leggi 12 maggio 1950, n. 230, 21 ottobre 1950, n. 841, 18 maggio 1951, n. 333 e 2 aprile 1952, n. 339](../Atti%20normativi%20abrogati%20%28in%20originale%29/Norme%20integrative%20ed%20interpretative%20delle%20leggi%2012%20maggio%201950%20n.%20230%2021%20ottobre%201950%20n.%20841%20e%2018%20maggio%201951%20numero%20333.md);
 
-In virtu' della delegazione concessa dagli articoli della [legge 12 maggio 1950, n. 230](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1950-05-12;230), ed 1 e 2 della [legge 21 ottobre 1950, n. 841](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1950-10-21;841);
+In virtu' della delegazione concessa dagli articoli della [legge 12 maggio 1950, n. 230](../Atti%20normativi%20abrogati%20%28in%20originale%29/Provvedimenti%20per%20la%20colonizzazione%20dellAltopiano%20della%20Sila%20e%20dei%20territori%20jonici%20contermini.md), ed 1 e 2 della [legge 21 ottobre 1950, n. 841](../Atti%20normativi%20abrogati%20%28in%20originale%29/Norme%20per%20la%20espropriazione%20bonifica%20trasformazione%20ed%20assegnazione%20dei%20terreni%20ai%20contadini.md);
 
 Visto il proprio decreto 7 febbraio 1951, n. 69;
 
 Visto il piano particolareggiato di espropriazione compilato dall'Ente per la colonizzazione del Delta Padano, nei confronti di Cesari Agostino fu Giuseppe, per i terreni ricadenti nel comune di Portomaggiore (provincia di Ferrara);
 
-Udito il parere, in data 9 luglio 1952, espresso dalla commissione parlamentare, nominata a norma degli [articoli 5 della legge 12 maggio 1950, n. 230](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1950-05-12;230~art5), ed 1 e 2 della [legge 21 ottobre 1950, n. 841](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1950-10-21;841);
+Udito il parere, in data 9 luglio 1952, espresso dalla commissione parlamentare, nominata a norma degli [articoli 5 della legge 12 maggio 1950, n. 230](../Atti%20normativi%20abrogati%20%28in%20originale%29/Provvedimenti%20per%20la%20colonizzazione%20dellAltopiano%20della%20Sila%20e%20dei%20territori%20jonici%20contermini.md), ed 1 e 2 della [legge 21 ottobre 1950, n. 841](../Atti%20normativi%20abrogati%20%28in%20originale%29/Norme%20per%20la%20espropriazione%20bonifica%20trasformazione%20ed%20assegnazione%20dei%20terreni%20ai%20contadini.md);
 
 Sentito il Consiglio dei Ministri;
 
-Sulla
------
+Sulla proposta del Ministro Segretario di Stato per l'agricoltura e per le foreste; Decreta:
 
-proposta del Ministro Segretario di Stato per l'agricoltura e per le foreste; Decreta:
+## Art. 1.
 
-Art. 1
-------
+E' approvato il piano particolareggiato di espropriazione compilato dall'Ente per la colonizzazione del Delta Padano, nei confronti di Cesari Agostino fu Giuseppe, relativo ai terreni ricadenti nel comune di Portomaggiore (provincia di Ferrara), per una superficie di ettari 8.77.10, specificamente descritti nell'elenco n. 1 allegato al presente decreto.
 
-  
-E' approvato il piano particolareggiato di espropriazione compilato dall'Ente per la colonizzazione del Delta Padano, nei confronti di Cesari Agostino fu Giuseppe, relativo ai terreni ricadenti nel comune di Portomaggiore (provincia di Ferrara), per una superficie di ettari 8.77.10, specificamente descritti nell'elenco n. 1 allegato al presente decreto.  
+## Art. 2.
 
-Art. 2
-------
+I terreni indicati nel precedente articolo sono trasferiti in proprieta' all'Ente per la colonizzazione del Delta Padano.
 
-  
-I terreni indicati nel precedente articolo sono trasferiti in proprieta' all'Ente per la colonizzazione del Delta Padano.  
+## Art. 3.
 
-Art. 3
-------
+E' ordinata l'immediata occupazione, da parte dell'Ente predetto, dei terreni indicati nei precedenti articoli 1 e 2.
 
-  
-E' ordinata l'immediata occupazione, da parte dell'Ente predetto, dei terreni indicati nei precedenti articoli 1 e 2.  
+## Art. 4.
 
-Art. 4
-------
-
-  
-L'elenco dei terreni, con l'indicazione dell'indennita' di espropriazione offerta, munito del visto del Ministro proponente, forma parte integrante del presente decreto, che entra in vigore il giorno stesso della sia pubblicazione nella Gazzetta Ufficiale della Repubblica italiana.  
-  
+L'elenco dei terreni, con l'indicazione dell'indennita' di espropriazione offerta, munito del visto del Ministro proponente, forma parte integrante del presente decreto, che entra in vigore il giorno stesso della sia pubblicazione nella Gazzetta Ufficiale della Repubblica italiana.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 3 ottobre 1952
+Dato a Roma, addi' 3 ottobre 1952
 
-EINAUDI DE GASPERI - FANFANI
-
-Visto, il Guardasigilli: ZOLI
-
-Registrato alla Corte dei conti, addi' 8 novembre 1952
-
-Atti del Governo, registro n. 60, foglio n. 19. - PALLA
-
-Allegato n. 1
-
- ALLEGATO N. 1   
-  
-Elenco dei terreni intestati alla ditta Cesari Agostino fu Giuseppe (piano n. 124/1), in comune di Portomaggiore (provincia di Ferrara), trasferiti in proprieta' dell'Ente per la colonizzazione del Delta Padano, a norma delle [leggi 12 maggio 1950, n. 230, 21 ottobre 1950, n. 841](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1950-10-21;841) e [decreto Presidenziale 7 febbraio 1951, n. 69](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-02-07;69).   
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=052U154500100010110001&dgu=1952-11-24&art.dataPubblicazioneGazzetta=1952-11-24&art.codiceRedazionale=052U1545)
-  
+EINAUDI DE GASPERI - FANFANI Visto, il Guardasigilli: ZOLI Registrato alla Corte dei conti, addi' 8 novembre 1952 Atti del Governo, registro n. 60, foglio n. 19. - PALLA

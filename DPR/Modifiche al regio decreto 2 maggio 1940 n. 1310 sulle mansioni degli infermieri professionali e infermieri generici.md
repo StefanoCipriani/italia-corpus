@@ -1,105 +1,43 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 14 marzo 1974 n. 225
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 225
+data: 1974-03-14
+titolo: "Modifiche al regio decreto 2 maggio 1940, n. 1310, sulle mansioni degli infermieri professionali e infermieri generici."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1974-03-14;225
+codice_redazionale: 074U0225
+vigente: true
+---
 
+## Art. 1.
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 14 marzo 1974 n. 225
-============================================================
+IL PRESIDENTE DELLA REPUBBLICA
 
-Modifiche al regio decreto 2 maggio 1940, n. 1310, sulle mansioni degli infermieri professionali e infermieri generici.
------------------------------------------------------------------------------------------------------------------------
+ Visto l'[art. 87 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87);
+ Visti gli [articoli 99](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265#art_99), [137](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265#art_137) e [140 del testo unico delle leggi sanitarie](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265#art_140), approvato con [regio decreto 27 luglio 1934, n. 1265](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265);
+ Vista la [legge 19 luglio 1940, n. 1008](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1940-07-19;1008);
+ Visto l'[art. 1 della legge 27 febbraio 1971, n. 124](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1971-02-27;124#art_1);
+ Visto l'[art. 6 del decreto del Presidente della Repubblica 14 gennaio 1972, n. 4](Trasferimento%20alle%20Regioni%20a%20statuto%20ordinario%20delle%20funzioni%20amministrative%20statali%20in%20materia%20di%20assistenza%20sanitaria%20ed%20ospedaliera%20e%20dei%20relativi%20personali%20ed%20uffici.md);
+ Sentito il Consiglio superiore di sanita';
+ Udito il parere del Consiglio di Stato;
+ Sentito il Consiglio dei Ministri;
+ Riconosciuta la opportunita' di aggiornare l'elenco delle mansioni di rispettiva competenza degli infermieri professionali e degli infermieri generici di cui al [regio decreto 2 maggio 1940, n. 1310](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-05-02;1310);
+ Riconosciuta la opportunita' di aggiungere a tale mansionario anche indicazioni relative alle competenze degli infermieri professionali specializzati in anestesia e rianimazione, delle vigilatrici di infanzia e degli assistenti sanitari;
+ Sulla proposta del Ministro per la sanita' di concerto con quello per la pubblica istruzione;
 
-Art. 1
-------
+ Decreta:
 
- IL PRESIDENTE DELLA REPUBBLICA  
-  
-Visto l'[art. 87 della Costituzione](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27~art87);  
-Visti gli [articoli 99](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265~art99), [137](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265~art137) e [140 del testo unico delle leggi sanitarie](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265~art140), approvato con [regio decreto 27 luglio 1934, n. 1265](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265);  
-Vista la [legge 19 luglio 1940, n. 1008](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1940-07-19;1008);  
-Visto l'[art. 1 della legge 27 febbraio 1971, n. 124](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1971-02-27;124~art1);  
-Visto l'[art. 6 del decreto del Presidente della Repubblica 14 gennaio 1972, n. 4](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1972-01-14;4~art6);  
-Sentito il Consiglio superiore di sanita';  
-Udito il parere del Consiglio di Stato;  
-Sentito il Consiglio dei Ministri;  
-Riconosciuta la opportunita' di aggiornare l'elenco delle mansioni di rispettiva competenza degli infermieri professionali e degli infermieri generici di cui al [regio decreto 2 maggio 1940, n. 1310](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-05-02;1310);  
-Riconosciuta la opportunita' di aggiungere a tale mansionario anche indicazioni relative alle competenze degli infermieri professionali specializzati in anestesia e rianimazione, delle vigilatrici di infanzia e degli assistenti sanitari;  
-Sulla proposta del Ministro per la sanita' di concerto con quello per la pubblica istruzione;  
-  
-Decreta:  
-  
-E' approvato l'unito regolamento riguardante le mansioni dell'infermiere professionale, della vigilatrice d'infanzia, dell'infermiere professionale specializzato, dell'assistente sanitario e dell'infermiere generico.  
-  
+ E' approvato l'unito regolamento riguardante le mansioni dell'infermiere professionale, della vigilatrice d'infanzia, dell'infermiere professionale specializzato, dell'assistente sanitario e dell'infermiere generico.
 
 ((1))
-
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.((1))
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-### Dato a Roma, addi' 14 marzo 1974
-
-LEONE RUMOR - GUI - MALFATTI
-
-Visto, il Guardasigilli: ZAGARI
-
-Registrato alla Corte dei conti, addi' 12 giugno 1974
-
-Atti di Governo, registro n. 4, foglio n. 10. - SCIARRETTA
 
 ---------------
 
 AGGIORNAMENTO (1)
 
-La [L. 26 febbraio 1999 n. 42](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1999-02-26;42) ha disposto (con l'art. 1 comma 2) che ""Dalla data di entrata in vigore della presente legge sono abrogati il regolamento approvato con [decreto del Presidente della Repubblica 14 marzo 1974, n. 225](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1974-03-14;225), ad eccezione delle disposizioni previste dal titolo V".
+La [L. 26 febbraio 1999 n. 42](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1999-02-26;42) ha disposto (con l'art. 1 comma 2) che ""Dalla data di entrata in vigore della presente legge sono abrogati il regolamento approvato con [decreto del Presidente della Repubblica 14 marzo 1974, n. 225](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1974-03-14;225), ad eccezione delle disposizioni previste dal titolo V".
 
-Regolamento - art. 1
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.((1))
 
- Art. 1.   
+Dato a Roma, addi' 14 marzo 1974
 
-((ARTICOLO ABROGATO DALLA [L. 26 FEBBRAIO 1999 N. 42](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1999-02-26;42)))
-
-Regolamento - art. 2
-
- Art. 2.   
-
-((ARTICOLO ABROGATO DALLA [L. 26 FEBBRAIO 1999 N. 42](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1999-02-26;42)))
-
-Regolamento - art. 3
-
- Art. 3.   
-
-((ARTICOLO ABROGATO DALLA [L. 26 FEBBRAIO 1999 N. 42](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1999-02-26;42)))
-
-Regolamento - art. 4
-
- Art. 4.   
-
-((ARTICOLO ABROGATO DALLA [L. 26 FEBBRAIO 1999 N. 42](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1999-02-26;42)))
-
-Regolamento - art. 5
-
- Art. 5.   
-
-((ARTICOLO ABROGATO DALLA [L. 26 FEBBRAIO 1999 N. 42](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1999-02-26;42)))
-
-Regolamento - art. 6
-
- Art. 6.   
-  
-L'infermiere generico coadiuva l'infermiere professionale in tutte le sue attivita' e su prescrizione del medico provvede direttamente alle seguenti operazioni:   
-1) assistenza completa al malato, particolarmente in ordine alle operazioni di pulizia e di alimentazione, di riassetto del letto e del comodino del paziente e della disinfezione dell'ambiente e di altri eventuali compiti compatibili con la qualifica a giudizio della direzione sanitaria;   
-2) raccolta degli escrementi;   
-3) clisteri evacuanti, medicamentosi e nutritivi, rettoclisi;   
-4) bagni terapeutici e medicati, frizioni;   
-5) medicazioni semplici e bendaggi;   
-6) pulizia, preparazione ed eventuale disinfezione del materiale sanitario;   
-7) rilevamento ed annotazione della temperatura, del polso e del respiro;   
-8) somministrazione dei medicinali prescritti;   
-9) iniezioni ipodermiche ed intramuscolari;   
-10) sorveglianza di fleboclisi;   
-11) respirazione artificiale, massaggio cardiaco esterno; manovre emostatiche di emergenza.   
-Gli infermieri generici che operano presso istituzioni pubbliche e private sono inoltre tenuti:   
-1) a partecipare alle riunioni periodiche di gruppo per finalita' di aggiornamento professionale e di organizzazione del lavoro;   
-2) a svolgere tutte le attivita' necessarie per soddisfare le esigenze psicologiche del malato e per mantenere un clima di buone relazioni umane con i pazienti e con le loro famiglie.   
-  
-d'ordine del Presidente della Repubblica   
-Il Ministro per la sanita'   
-GUI   
+LEONE RUMOR - GUI - MALFATTI Visto, il Guardasigilli: ZAGARI Registrato alla Corte dei conti, addi' 12 giugno 1974 Atti di Governo, registro n. 4, foglio n. 10. - SCIARRETTA

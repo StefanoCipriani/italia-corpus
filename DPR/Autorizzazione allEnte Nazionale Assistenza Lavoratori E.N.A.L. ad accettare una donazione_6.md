@@ -1,19 +1,21 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1966 n. 1028
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 121
+data: 1966-02-14
+titolo: "Autorizzazione all'Ente Nazionale Assistenza Lavoratori (E.N.A.L.), ad accettare una donazione."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1966-02-14;121
+codice_redazionale: 066U0121
+vigente: true
+---
 
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1966 n. 1028
-===============================================================
-
-Autorizzazione all'Ente Nazionale Assistenza Lavoratori (E.N.A.L.) ad accettare una donazione.
-----------------------------------------------------------------------------------------------
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-1028. Decreto del Presidente della Repubblica 31 ottobre 1966, col quale, Sulla proposta del Presidente del Consiglio dei Ministri, l'Ente Nazionale Assistenza-Lavoratori (E.N.A.L.) viene autorizzato ad accettare una donazione consistente in un appezzamento di terreno, della estensione di mq. 560, sito in Rovereto, frazione Marco, disposta dal sig. Vaccari Saverio-Ermanno, con atto a rogito dott. Rolando Munari, notaio in Rovereto (Trento) in data 28 settembre 1962, n. 9794 di rep., n. 2380 di raccolta, per essere destinato a sede di un locale circolo dell'ENAL.  
-  
-Visto, il Guardasigilli: REALE  
-Registrato alla Corte dei conti, addi' 28 novembre 1966  
-Atti del Governo, registro n. 207, foglio n. 78. - VILLA
+121.
+
+Decreto del Presidente della Repubblica 14 febbraio 1966, col quale, sulla proposta del Presidente del Consiglio dei Ministri, l'Ente Nazionale Assistenza Lavoratori (E.N.A.L.), viene autorizzato ad accettare dal comune di Colli del Tronto (Ascoli Piceno) la donazione - disposta con atto a rogito signor Monti Guido, notaio in Spinetoli, in data 12 agosto 1939, rep. gen. 4183 - di un appezzamento di terreno della superficie di "tavole una, pari ad are dieci" sito nel Comune anzidetto.
+
+Visto, il Guardasigilli: REALE
+ Registrato alla Corte dei conti, addi' 18 marzo 1966
+ Atti del Governo, registro n. 202, foglio n. 51. - VILLA

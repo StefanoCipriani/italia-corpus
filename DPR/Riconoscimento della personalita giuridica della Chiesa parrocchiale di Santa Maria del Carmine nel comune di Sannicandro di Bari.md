@@ -1,19 +1,21 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 05 aprile 1961 n. 440
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 440
+data: 1961-04-05
+titolo: "Riconoscimento della personalita' giuridica della Chiesa parrocchiale di Santa Maria del Carmine, nel comune di Sannicandro di Bari."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1961-04-05;440
+codice_redazionale: 061U0440
+vigente: true
+---
 
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 05 aprile 1961 n. 440
-=============================================================
-
-Riconoscimento della personalita' giuridica della Chiesa parrocchiale di Santa Maria del Carmine, nel comune di Sannicandro di Bari.
-------------------------------------------------------------------------------------------------------------------------------------
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-440. Decreto del Presidente della Repubblica 5 aprile 1961, col quale, sulla proposta del Ministro per l'interno, viene riconosciuta la personalita' giuridica della Chiesa parrocchiale di Santa Maria del Carmine, nel comune di Sannicandro di Bari.  
-  
-Visto, il Guardasigilli: GONELLA  
-Registrato alla Corte dei conti, addi' 20 maggio 1961  
-Atti del Governo, registro n. 136, foglio n. 159. - VILLA
+440.
+
+Decreto del Presidente della Repubblica 5 aprile 1961, col quale, sulla proposta del Ministro per l'interno, viene riconosciuta la personalita' giuridica della Chiesa parrocchiale di Santa Maria del Carmine, nel comune di Sannicandro di Bari.
+
+Visto, il Guardasigilli: GONELLA
+ Registrato alla Corte dei conti, addi' 20 maggio 1961
+ Atti del Governo, registro n. 136, foglio n. 159. - VILLA

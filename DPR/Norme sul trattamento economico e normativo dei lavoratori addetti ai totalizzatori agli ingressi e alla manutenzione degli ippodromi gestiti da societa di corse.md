@@ -1,20 +1,20 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 gennaio 1962 n. 645
-
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 gennaio 1962 n. 645
-==============================================================
-
-Norme sul trattamento economico e normativo dei lavoratori addetti ai totalizzatori, agli ingressi e alla manutenzione degli ippodromi gestiti da societa' di corse.
---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 645
+data: 1962-01-02
+titolo: "Norme sul trattamento economico e normativo dei lavoratori addetti ai totalizzatori, agli ingressi e alla manutenzione degli ippodromi gestiti da societa' di corse."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1962-01-02;645
+codice_redazionale: 062U0645
+vigente: true
+---
 
 IL PRESIDENTE DELLA REPUBBLICA
-------------------------------
 
-Visto l'[art. 87, comma quinto, della Costituzione](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27~art87-com5);
+Visto l'[art. 87, comma quinto, della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87-com5);
 
-Vista la [legge 14 luglio 1959, n. 741](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1959-07-14;741), che delega il Governo ad emanare norme transitorie per garantire minimi di trattamento economico e normativo ai lavoratori;
+Vista la [legge 14 luglio 1959, n. 741](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1959-07-14;741), che delega il Governo ad emanare norme transitorie per garantire minimi di trattamento economico e normativo ai lavoratori;
 
-Vista la [legge 1 ottobre 1960, n. 1027](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1960-10-01;1027), recante modifiche alla predetta [legge 14 luglio 1959, n. 741](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1959-07-14;741);
+Vista la [legge 1 ottobre 1960, n. 1027](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1960-10-01;1027), recante modifiche alla predetta [legge 14 luglio 1959, n. 741](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1959-07-14;741);
 
 Visto il contratto collettivo nazionale 22 giugno 1947, per gli addetti ai totalizzatori ed agli ingressi degli ippodromi gestiti da societa', di corse, stipulato tra la Associazione delle Societa' di Corse, con l'assistenza dell'Associazione Generale italiana dello Spettacolo, e il Sindacato Nazionale Lavoratori dell'Ippica;
 
@@ -24,45 +24,15 @@ Vista la pubblicazione nell'apposito Bollettino n. 182 del 14 luglio 1961, dei c
 
 Sentito il Consiglio dei Ministri;
 
-Sulla
------
+Sulla proposta del Ministro per il lavoro e la previdenza sociale; Decreta:
 
-proposta del Ministro per il lavoro e la previdenza sociale; Decreta:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-I rapporti di lavoro costituiti per le attivita' per le quali sono stati stipulati il contratto collettivo nazionale 22 giugno 1947 relativo agli addetti ai totalizzatori ed agli ingressi degli ippodromi gestiti da societa' di corse, il contratto collettivo nazionale 18 settembre 1947, relativo al personale addetto alla manutenzione degli ippodromi gestiti da societa' di corse, sono regolati da norme giuridiche uniformi alle clausole dei contratti anzidetti, annessi al presente decreto.  
-I minimi di trattamento economico e normativo cosi' stabiliti sono inderogabili nei confronti di tutti i lavoratori addetti ai totalizzatori, agli ingressi ed alla manutenzione degli ippodromi gestiti da societa' di corse.  
-  
+I rapporti di lavoro costituiti per le attivita' per le quali sono stati stipulati il contratto collettivo nazionale 22 giugno 1947 relativo agli addetti ai totalizzatori ed agli ingressi degli ippodromi gestiti da societa' di corse, il contratto collettivo nazionale 18 settembre 1947, relativo al personale addetto alla manutenzione degli ippodromi gestiti da societa' di corse, sono regolati da norme giuridiche uniformi alle clausole dei contratti anzidetti, annessi al presente decreto.
+ I minimi di trattamento economico e normativo cosi' stabiliti sono inderogabili nei confronti di tutti i lavoratori addetti ai totalizzatori, agli ingressi ed alla manutenzione degli ippodromi gestiti da societa' di corse.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 2 gennaio 1962
+Dato a Roma, addi' 2 gennaio 1962
 
-GRONCHI FANFANI - SULLO
-
-Visto, il Guardasigilli: BOSCO
-
-Registrato alla Corte dei conti, addi' 7 giugno 1962
-
-Atti del Governo, registro n. 149, foglio n. 21. - VILLA
-
-Allegato
-
-CONTRATTO COLLETTIVO NAZIONALE 22 GIUGNO 1947 PER GLI ADDETTI AI TOTALIZZATORI ED AGLI INGRESSI DEGLI IPPODROMI GESTITI DA SOCIETA' DI CORSE.   
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=062U064500100010110001&dgu=1962-07-06&art.dataPubblicazioneGazzetta=1962-07-06&art.codiceRedazionale=062U0645)
-  
-  
-  
-  
-CONTRATTO COLLETTIVO NAZIONALE DI LAVORO 18 SETTEMBRE 1947 PER IL PERSONALE ADDETTO ALLA MANUTENZIONE DEGLI IPPODROMI GESTITI DA SOCIETA' DI CORSE.   
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=062U064500100010110002&dgu=1962-07-06&art.dataPubblicazioneGazzetta=1962-07-06&art.codiceRedazionale=062U0645)
-  
+GRONCHI FANFANI - SULLO Visto, il Guardasigilli: BOSCO Registrato alla Corte dei conti, addi' 7 giugno 1962 Atti del Governo, registro n. 149, foglio n. 21. - VILLA

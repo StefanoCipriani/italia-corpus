@@ -1,19 +1,21 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 21 dicembre 1978 n. 990
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 917
+data: 1978-12-13
+titolo: "Autorizzazione alla fondazione \"Pro juventute don Carlo Gnocchi\", in Roma, ad accettare un legato."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1978-12-13;917
+codice_redazionale: 078U0917
+vigente: true
+---
 
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 21 dicembre 1978 n. 990
-===============================================================
-
-Autorizzazione alla fondazione "Pro juventute don Carlo Gnocchi", in Roma, ad accettare un legato.
---------------------------------------------------------------------------------------------------
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-990. Decreto del Presidente della Repubblica 21 dicembre 1978, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la fondazione "Pro juventute don Carlo Gnocchi", in Roma, viene autorizzata ad accettare il legato disposto dalla sig.ra Zaffonato Maddalena, con testamento olografo 17 aprile 1963, pubblicato a rogito del dott. Giovanni Carraro, notaio in Schio in data 29 ottobre 1974, n. 4315 di repertorio e n. 12669 di raccolta, registrato a Schio l'11 novembre 1974 al n. 1702, volume 208/1, consistente nella somma di L. 2.000.000.  
-  
-Visto, il Guardasigilli: BONIFACIO  
-Registrato alla Corte dei conti, addi' 15 febbraio 1979  
-Registro n. 2 Presidenza, foglio n. 28
+917.
+
+Decreto del Presidente della Repubblica 13 dicembre 1978, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la fondazione "Pro juventute don Carlo Gnocchi", in Roma, viene autorizzata ad accettare il legato disposto dalla sig.ra De Asmundis Paola con testamento olografo 16 agosto 1970, pubblicato a rogito dott. Mario Maestrelli, notaio in Desenzano del Garda (Brescia) in data 4 gennaio 1971, n. 6688 di repertorio e n. 3354 di raccolta, registrato a Lonato (Brescia) l'8 gennaio 1971, al n. 26, vol. 86, consistente in titoli di Stato per un valore nominale di L. 500.000.
+
+Visto, il Guardasigilli: BONIFACIO
+ Registrato alla Corte dei conti, addi' 25 gennaio 1979
+ Registro n. 1 Presidenza, foglio n. 209

@@ -1,19 +1,21 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 10 dicembre 1959 n. 1285
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 1285
+data: 1959-12-10
+titolo: "Soppressione della Fabbriceria della Chiesa parrocchiale di San Martino e San Sisto, in Musano di Trevignano (Treviso)."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1959-12-10;1285
+codice_redazionale: 059U1285
+vigente: true
+---
 
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 10 dicembre 1959 n. 1285
-================================================================
-
-Soppressione della Fabbriceria della Chiesa parrocchiale di San Martino e San Sisto, in Musano di Trevignano (Treviso).
------------------------------------------------------------------------------------------------------------------------
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-1285. Decreto del Presidente della Repubblica 10 dicembre 1959, col quale, sulla proposta del Ministro per l'interno, viene soppressa la Fabbriceria della Chiesa parrocchiale di San Martino e San Sisto, in Musano di Trevignano (Treviso).  
-  
-Visto, il Guardasigilli: GONELLA  
-Registrato alla Corte dei conti, addi' 27 gennaio 1960  
-Atti del Governo, registro n. 123, foglio n. 95. - VILLA
+1285.
+
+Decreto del Presidente della Repubblica 10 dicembre 1959, col quale, sulla proposta del Ministro per l'interno, viene soppressa la Fabbriceria della Chiesa parrocchiale di San Martino e San Sisto, in Musano di Trevignano (Treviso).
+
+Visto, il Guardasigilli: GONELLA
+ Registrato alla Corte dei conti, addi' 27 gennaio 1960
+ Atti del Governo, registro n. 123, foglio n. 95. - VILLA

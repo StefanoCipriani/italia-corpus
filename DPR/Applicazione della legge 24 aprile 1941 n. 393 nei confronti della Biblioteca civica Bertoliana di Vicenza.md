@@ -1,16 +1,16 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 10 luglio 1957 n. 1308
-
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 10 luglio 1957 n. 1308
-==============================================================
-
-Applicazione della legge 24 aprile 1941, n. 393, nei confronti della Biblioteca civica Bertoliana di Vicenza.
--------------------------------------------------------------------------------------------------------------
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 1308
+data: 1957-07-10
+titolo: "Applicazione della legge 24 aprile 1941, n. 393, nei confronti della Biblioteca civica Bertoliana di Vicenza."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1957-07-10;1308
+codice_redazionale: 057U1308
+vigente: true
+---
 
 IL PRESIDENTE DELLA REPUBBLICA
-------------------------------
 
-Veduta la [legge 24 aprile 1941, n. 393](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1941-04-24;393);
+Veduta la [legge 24 aprile 1941, n. 393](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disposizioni%20concernenti%20le%20biblioteche%20dei%20Comuni%20capoluogo%20di%20provincia.%20041U0393.md);
 
 Considerato che la Biblioteca civica Bertoliana di Vicenza e', in quel Comune capoluogo di provincia, la biblioteca pubblica meglio idonea ad essere destinata ad un regolare servizio pubblico;
 
@@ -18,33 +18,18 @@ Considerato che il Comune e l'Amministrazione provinciale di Vicenza si sono cos
 
 Comune e Provincia contribuiscono al fabbisogno di esercizio della Biblioteca nel rapporto, rispettivamente, del 60% e del 40%, non potendo comunque il contributo della Provincia superare la misura di tre milioni in ragione di anno;
 
-Sulla
------
+Sulla proposta del Ministro per la pubblica istruzione, di concerto con i Ministri per l'interno e per il tesoro; Decreta:
 
-proposta del Ministro per la pubblica istruzione, di concerto con i Ministri per l'interno e per il tesoro; Decreta:
+## Art. 1.
 
-Art. 1
-------
+La Biblioteca civica Bertoliana di Vicenza assume lo stato e le funzioni di Biblioteca di Comune capoluogo di provincia e, come tale, e' destinata al servizio pubblico.
 
-  
-La Biblioteca civica Bertoliana di Vicenza assume lo stato e le funzioni di Biblioteca di Comune capoluogo di provincia e, come tale, e' destinata al servizio pubblico.  
+## Art. 2.
 
-Art. 2
-------
-
-  
-Le maggiori spese eventualmente necessarie in futuro per il regolare funzionamento della Biblioteca a termini dell'art. 1 della succitata [legge 24 aprile 1941, n. 393](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1941-04-24;393), saranno poste a carico del Comune e della provincia di Vicenza nello stesso rapporto nel quale contribuiscono al fabbisogno d'esercizio.  
-  
+Le maggiori spese eventualmente necessarie in futuro per il regolare funzionamento della Biblioteca a termini dell'art. 1 della succitata [legge 24 aprile 1941, n. 393](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disposizioni%20concernenti%20le%20biblioteche%20dei%20Comuni%20capoluogo%20di%20provincia.%20041U0393.md), saranno poste a carico del Comune e della provincia di Vicenza nello stesso rapporto nel quale contribuiscono al fabbisogno d'esercizio.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 10 luglio 1957
+Dato a Roma, addi' 10 luglio 1957
 
-GRONCHI MORO - MEDICI - TAMBRONI
-
-Visto, il Guardasigilli: GONELLA
-
-Registrato alla Corte dei conti, addi' 14 gennaio 1958
-
-Atti del Governo, registro n. 110, foglio n. 4. - RELLEVA
+GRONCHI MORO - MEDICI - TAMBRONI Visto, il Guardasigilli: GONELLA Registrato alla Corte dei conti, addi' 14 gennaio 1958 Atti del Governo, registro n. 110, foglio n. 4. - RELLEVA

@@ -1,73 +1,61 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 agosto 1957 n. 678
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 678
+data: 1957-08-02
+titolo: "Nuove norme sulle documentazioni amministrative e sulla legalizzazione di firme."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1957-08-02;678
+codice_redazionale: 057U0678
+vigente: true
+---
 
+## Art. 1.
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 agosto 1957 n. 678
-=============================================================
+((PROVVEDIMENTO ABROGATO DALLA L. 4 GENNAIO 1968, N. 15))
 
-Nuove norme sulle documentazioni amministrative e sulla legalizzazione di firme.
---------------------------------------------------------------------------------
+## Art. 2.
 
-Art. 1
-------
+((PROVVEDIMENTO ABROGATO DALLA L. 4 GENNAIO 1968, N. 15))
 
-((PROVVEDIMENTO ABROGATO DALLA [L. 4 GENNAIO 1968, N. 15](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1968-01-04;15)))
+## Art. 3.
 
-Art. 2
-------
+((PROVVEDIMENTO ABROGATO DALLA L. 4 GENNAIO 1968, N. 15))
 
-((PROVVEDIMENTO ABROGATO DALLA [L. 4 GENNAIO 1968, N. 15](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1968-01-04;15)))
+## Art. 4.
 
-Art. 3
-------
+((PROVVEDIMENTO ABROGATO DALLA L. 4 GENNAIO 1968, N. 15))
 
-((PROVVEDIMENTO ABROGATO DALLA [L. 4 GENNAIO 1968, N. 15](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1968-01-04;15)))
+## Art. 5.
 
-Art. 4
-------
+((PROVVEDIMENTO ABROGATO DALLA L. 4 GENNAIO 1968, N. 15))
 
-((PROVVEDIMENTO ABROGATO DALLA [L. 4 GENNAIO 1968, N. 15](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1968-01-04;15)))
+## Art. 6.
 
-Art. 5
-------
+((PROVVEDIMENTO ABROGATO DALLA L. 4 GENNAIO 1968, N. 15))
 
-((PROVVEDIMENTO ABROGATO DALLA [L. 4 GENNAIO 1968, N. 15](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1968-01-04;15)))
+## Art. 7.
 
-Art. 6
-------
+((PROVVEDIMENTO ABROGATO DALLA L. 4 GENNAIO 1968, N. 15))
 
-((PROVVEDIMENTO ABROGATO DALLA [L. 4 GENNAIO 1968, N. 15](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1968-01-04;15)))
+## Art. 8.
 
-Art. 7
-------
+((PROVVEDIMENTO ABROGATO DALLA L. 4 GENNAIO 1968, N. 15))
 
-((PROVVEDIMENTO ABROGATO DALLA [L. 4 GENNAIO 1968, N. 15](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1968-01-04;15)))
+## Art. 9.
 
-Art. 8
-------
+((PROVVEDIMENTO ABROGATO DALLA L. 4 GENNAIO 1968, N. 15))
 
-((PROVVEDIMENTO ABROGATO DALLA [L. 4 GENNAIO 1968, N. 15](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1968-01-04;15)))
+## Art. 10.
 
-Art. 9
-------
+((PROVVEDIMENTO ABROGATO DALLA L. 4 GENNAIO 1968, N. 15))
 
-((PROVVEDIMENTO ABROGATO DALLA [L. 4 GENNAIO 1968, N. 15](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1968-01-04;15)))
+## Art. 11.
 
-Art. 10
--------
+((PROVVEDIMENTO ABROGATO DALLA L. 4 GENNAIO 1968, N. 15))
 
-((PROVVEDIMENTO ABROGATO DALLA [L. 4 GENNAIO 1968, N. 15](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1968-01-04;15)))
+## Art. 12.
 
-Art. 11
--------
+((PROVVEDIMENTO ABROGATO DALLA L. 4 GENNAIO 1968, N. 15))
 
-((PROVVEDIMENTO ABROGATO DALLA [L. 4 GENNAIO 1968, N. 15](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1968-01-04;15)))
+## Art. 13.
 
-Art. 12
--------
-
-((PROVVEDIMENTO ABROGATO DALLA [L. 4 GENNAIO 1968, N. 15](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1968-01-04;15)))
-
-Art. 13
--------
-
-((PROVVEDIMENTO ABROGATO DALLA [L. 4 GENNAIO 1968, N. 15](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1968-01-04;15)))
+((PROVVEDIMENTO ABROGATO DALLA L. 4 GENNAIO 1968, N. 15))

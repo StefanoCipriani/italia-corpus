@@ -1,20 +1,20 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 gennaio 1962 n. 613
-
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 gennaio 1962 n. 613
-==============================================================
-
-Norme concernenti la istituzione di una giornata festiva infrasettimanale in sostituzione di quella del Santo Patrono per i dipendenti dalle imprese che effettuano le seconde lavorazioni del vetro e dalle imprese metalmeccaniche e installatrici di impianti del comune di La Spezia.
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 613
+data: 1962-01-02
+titolo: "Norme concernenti la istituzione di una giornata festiva infrasettimanale in sostituzione di quella del Santo Patrono per i dipendenti dalle imprese che effettuano le seconde lavorazioni del vetro e dalle imprese metalmeccaniche e installatrici di impianti del comune di La Spezia."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1962-01-02;613
+codice_redazionale: 062U0613
+vigente: true
+---
 
 IL PRESIDENTE DELLA REPUBBLICA
-------------------------------
 
-Visto l'[art. 87, comma quinto, della Costituzione](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27~art87-com5);
+Visto l'[art. 87, comma quinto, della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87-com5);
 
-Vista la [legge 14 luglio 1959, n. 741](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1959-07-14;741), che delega il Governo ad emanare norme transitorie per garantire minimi di trattamento economico e normativo ai lavoratori;
+Vista la [legge 14 luglio 1959, n. 741](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1959-07-14;741), che delega il Governo ad emanare norme transitorie per garantire minimi di trattamento economico e normativo ai lavoratori;
 
-Vista la [legge 1 ottobre 1960, n. 1027](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1960-10-01;1027), recante modifiche alla predetta [legge 14 luglio 1959, n. 741](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1959-07-14;741);
+Vista la [legge 1 ottobre 1960, n. 1027](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1960-10-01;1027), recante modifiche alla predetta [legge 14 luglio 1959, n. 741](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1959-07-14;741);
 
 Visto il contratto collettivo nazionale di lavoro 28 luglio 1959, per i lavoratori dipendenti dalle aziende che effettuano le seconde lavorazioni del vetro;
 
@@ -30,48 +30,19 @@ Vista la pubblicazione nell'apposito Bollettino, n. 26 e n. 27 della provincia d
 
 Sentito il Consiglio dei Ministri;
 
-Sulla
------
+Sulla proposta del Ministro per il lavoro e la previdenza sociale; Decreta:
 
-proposta del Ministro per il lavoro e la previdenza sociale; Decreta:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-I rapporti di lavoro costituiti per le attivita' per le quali sono stati stipulati, per il comune di La Spezia;  
-- l'accordo collettivo integrativo 19 gennaio 1960, relativo alla istituzione di una giornata festiva in fra settimanale in sostituzione di quella del Santo Patrono per i dipendenti dalle aziende che effettuano le seconde lavorazioni del vetro;  
-- l'accordo collettivo integrativo 12 febbraio 1960, relativo alla istituzione di una giornata festiva infrasettimanale in sostituzione di quella del Santo Patrono per i dipendenti dalle aziende metalmeccaniche e installatrici di impianti;  
-sono regolati da norme giuridiche uniformi alle clausole degli accordi anzidetti, annessi al presente decreto.  
-Dette norme sono integrative di quelle concernenti la disciplina nazionale della rispettiva categoria, purche' con esse compatibili.  
-I minimi di trattamento economico e normativo cosi' stabiliti sono inderogabili nei confronti di tutti i dipendenti dalle imprese che effettuano le seconde lavorazioni del retro e dalle imprese metalmeccaniche e installatrici di impianti del comune di La Spezia.  
-  
+I rapporti di lavoro costituiti per le attivita' per le quali sono stati stipulati, per il comune di La Spezia;
+ - l'accordo collettivo integrativo 19 gennaio 1960, relativo alla istituzione di una giornata festiva in fra settimanale in sostituzione di quella del Santo Patrono per i dipendenti dalle aziende che effettuano le seconde lavorazioni del vetro;
+ - l'accordo collettivo integrativo 12 febbraio 1960, relativo alla istituzione di una giornata festiva infrasettimanale in sostituzione di quella del Santo Patrono per i dipendenti dalle aziende metalmeccaniche e installatrici di impianti;
+sono regolati da norme giuridiche uniformi alle clausole degli accordi anzidetti, annessi al presente decreto.
+ Dette norme sono integrative di quelle concernenti la disciplina nazionale della rispettiva categoria, purche' con esse compatibili.
+ I minimi di trattamento economico e normativo cosi' stabiliti sono inderogabili nei confronti di tutti i dipendenti dalle imprese che effettuano le seconde lavorazioni del retro e dalle imprese metalmeccaniche e installatrici di impianti del comune di La Spezia.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 2 gennaio 1962
+Dato a Roma, addi' 2 gennaio 1962
 
-GRONCHI FANFANI - SULLO
-
-Visto, il Guardasigilli: BOSCO
-
-Registrato alla Corte dei conti, addi' 6 giugno 1962
-
-Atti del Governo, registro n. 148, foglio n. 123. - VILLA
-
-Accordi collettivi
-
-ACCORDO COLLETTIVO 19 GENNAIO 1960, INTEGRATIVO DEL CONTRATTO COLLETTIVO NAZIONALE DI LAVORO 28 LUGLIO 1959, PER LA ISTITUZIONE DI UNA GIORNATA FESTIVA INFRASETTIMANALE IN SOSTITUZIONE DI QUELLA DEL S. PATRONO PER I DIPENDENTI DALLE AZIENDE CHE EFFETTUANO LE SECONDE LAVORAZIONI DEL VETRO DEL COMUNE DI LA SPEZIA.   
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=062U061300100010110001&dgu=1962-07-04&art.dataPubblicazioneGazzetta=1962-07-04&art.codiceRedazionale=062U0613)
-  
-  
-  
-ACCORDO COLLETTIVO INTEGRATIVO 12 FEBBRAIO 1960, RELATIVO ALLA ISTITUZIONE DI UNA GIORNATA FESTIVA INFRASETTIMANALE IN SOSTITUZIONE DI QUELLA DEL S. PATRONO, PER I DIPENDENTI DALLE AZIENDE METALMECCANICHE ED INSTALLATRICI DI IMPIANTI DEL COMUNE DI LA SPEZIA.   
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=062U061300100010110002&dgu=1962-07-04&art.dataPubblicazioneGazzetta=1962-07-04&art.codiceRedazionale=062U0613)
-  
+GRONCHI FANFANI - SULLO Visto, il Guardasigilli: BOSCO Registrato alla Corte dei conti, addi' 6 giugno 1962 Atti del Governo, registro n. 148, foglio n. 123. - VILLA

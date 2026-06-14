@@ -1,38 +1,30 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1981 n. 968
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 968
+data: 1981-10-31
+titolo: "Rettifica al decreto del Presidente della Repubblica 1 luglio 1980, n. 549, recante approvazione dello statuto dell'Universita' degli studi della Tuscia."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1981-10-31;968
+codice_redazionale: 081U0968
+vigente: true
+---
 
+## Art. 1.
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1981 n. 968
-==============================================================
-
-Rettifica al decreto del Presidente della Repubblica 1 luglio 1980, n. 549, recante approvazione dello statuto dell'Universita' degli studi della Tuscia.
----------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Art. 1
-------
-
- IL PRESIDENTE DELLA REPUBBLICA   
-  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);   
-Veduto il [decreto del Presidente della Repubblica 1 luglio 1980, n. 549](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-01;549), con il quale e' stato approvato lo statuto dell'Universita' degli studi della Tuscia;   
-Veduta la tabella XXXI dell'ordinamento didattico universitario relativa al corso di laurea in scienze agrarie, annessa al [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni, che prevede tra gli insegnamenti fondamentali del primo biennio l'insegnamento di chimica organica;   
-Veduta la delibera della seduta del 30 gennaio 1981 del comitato ordinatore della facolta' di agraria della predetta Universita';   
-Riconosciuta la necessita' di rettificare il [decreto del Presidente della Repubblica 1 luglio 1980, n. 549](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-01;549), come richiesto con le delibere suddette al fine di renderlo conforme alla citata tabella XXXI;   
-Sulla proposta del Ministro della pubblica istruzione;   
-  
-Decreta:   
-  
-Il [decreto del Presidente della Repubblica 1° luglio 1980, n. 549](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-01;549), e' rettificato nel senso che nell'art. 12 del corso di laurea in scienze agrarie l'insegnamento fondamentale di "chimica inorganica" deve intendersi come "chimica organica".   
-  
+IL PRESIDENTE DELLA REPUBBLICA 
+ 
+ Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592); 
+ Veduto il [decreto del Presidente della Repubblica 1 luglio 1980, n. 549](Approvazione%20dello%20statuto%20dellUniversita%20statale%20della%20Tuscia.md), con il quale e' stato approvato lo statuto dell'Universita' degli studi della Tuscia; 
+ Veduta la tabella XXXI dell'ordinamento didattico universitario relativa al corso di laurea in scienze agrarie, annessa al [regio decreto 30 settembre 1938, n. 1652](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disposizioni%20sullordinamento%20didattico%20universitario.%20038U1652.md), e successive modificazioni, che prevede tra gli insegnamenti fondamentali del primo biennio l'insegnamento di chimica organica; 
+ Veduta la delibera della seduta del 30 gennaio 1981 del comitato ordinatore della facolta' di agraria della predetta Universita'; 
+ Riconosciuta la necessita' di rettificare il [decreto del Presidente della Repubblica 1 luglio 1980, n. 549](Approvazione%20dello%20statuto%20dellUniversita%20statale%20della%20Tuscia.md), come richiesto con le delibere suddette al fine di renderlo conforme alla citata tabella XXXI; 
+ Sulla proposta del Ministro della pubblica istruzione; 
+ 
+ Decreta: 
+ 
+ Il [decreto del Presidente della Repubblica 1° luglio 1980, n. 549](Approvazione%20dello%20statuto%20dellUniversita%20statale%20della%20Tuscia.md), e' rettificato nel senso che nell'art. 12 del corso di laurea in scienze agrarie l'insegnamento fondamentale di "chimica inorganica" deve intendersi come "chimica organica".
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 31 ottobre 1981
+Dato a Roma, addi' 31 ottobre 1981
 
-PERTINI BODRATO
-
-Visto, il Guardasigilli: DARIDA
-
-Registrato alla Corte dei conti, addi' 9 febbraio 1982
-
-Registro n. 20 Istruzione, foglio n. 186
+PERTINI BODRATO Visto, il Guardasigilli: DARIDA Registrato alla Corte dei conti, addi' 9 febbraio 1982 Registro n. 20 Istruzione, foglio n. 186

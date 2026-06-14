@@ -1,19 +1,21 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 27 dicembre 1956 n. 1671
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 1671
+data: 1956-12-27
+titolo: "Sostituzione degli articoli 1, 3, 5 e 6 dello statuto della fondazione \"Borsa di studio capitano Giulietti\"."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1956-12-27;1671
+codice_redazionale: 056U1671
+vigente: true
+---
 
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 27 dicembre 1956 n. 1671
-================================================================
-
-Sostituzione degli articoli 1, 3, 5 e 6 dello statuto della fondazione "Borsa di studio capitano Giulietti".
-------------------------------------------------------------------------------------------------------------
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-1611. Decreto del Presidente della Repubblica 27 dicembre 1956, col quale, sulla proposta del Ministro per la difesa, vengono sostituiti gli articoli 1, 3, 5 e 6 dello statuto della fondazione "Borsa di studio capitano Giulietti".  
-  
-Visto, il Guardasigilli: MORO  
-Registrato alla Corte dei conti, addi' 13 marzo 1957  
-Atti del Governo, registro n. 104, foglio n. 111. - CARLOMAGNO
+1611.
+
+Decreto del Presidente della Repubblica 27 dicembre 1956, col quale, sulla proposta del Ministro per la difesa, vengono sostituiti gli articoli 1, 3, 5 e 6 dello statuto della fondazione "Borsa di studio capitano Giulietti".
+
+Visto, il Guardasigilli: MORO
+ Registrato alla Corte dei conti, addi' 13 marzo 1957
+ Atti del Governo, registro n. 104, foglio n. 111. - CARLOMAGNO

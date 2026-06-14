@@ -1,20 +1,20 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 gennaio 1962 n. 1067
-
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 gennaio 1962 n. 1067
-===============================================================
-
-Norme sul trattamento economico e normativo dei dipendenti dalle imprese artigiane della provincia di Firenze e del mandamento di Prato.
-----------------------------------------------------------------------------------------------------------------------------------------
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 1067
+data: 1962-01-02
+titolo: "Norme sul trattamento economico e normativo dei dipendenti dalle imprese artigiane della provincia di Firenze e del mandamento di Prato."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1962-01-02;1067
+codice_redazionale: 062U1067
+vigente: true
+---
 
 IL PRESIDENTE DELLA REPUBBLICA
-------------------------------
 
-Visto l'[art. 87, comma quinto, della Costituzione](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27~art87-com5);
+Visto l'[art. 87, comma quinto, della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87-com5);
 
-Vista la [legge 14 luglio 1959, n. 741](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1959-07-14;741), che delega il Governo ad emanare norme transitorie per garantire minimi di trattamento economico e normativo ai lavoratori;
+Vista la [legge 14 luglio 1959, n. 741](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1959-07-14;741), che delega il Governo ad emanare norme transitorie per garantire minimi di trattamento economico e normativo ai lavoratori;
 
-Vista la [legge 1 ottobre 1960, n. 1027](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1960-10-01;1027), recante modifiche alla predetta [legge 14 luglio 1959, n. 741](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1959-07-14;741);
+Vista la [legge 1 ottobre 1960, n. 1027](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1960-10-01;1027), recante modifiche alla predetta [legge 14 luglio 1959, n. 741](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1959-07-14;741);
 
 Visti, per la provincia di Firenze:
 
@@ -74,295 +74,48 @@ degli atti sopra indicati, depositati presso il Ministero del lavoro e della pre
 
 Sentito il Consiglio dei Ministri;
 
-Sulla
------
+Sulla proposta del Ministro per il lavoro e la previdenza, sociale; Decreta:
 
-proposta del Ministro per il lavoro e la previdenza, sociale; Decreta:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-I rapporti di lavoro costituiti per le attivita' artigiane per le quali sono stati stipulati gli accordi ed i contratti collettivi sotto elencati sono regolati da norme giuridiche uniformi alle clausole degli accordi e dei contratti medesimi, annessi al presente decreto, purche' compatibili, per quanto riguarda le attivita' artigiane per le quali sono stati stipulati appositi contratti collettivi nazionali, con quelle concernenti la relativa disciplina nazionale:  
-per la provincia di Firenze:  
-- accordo collettivo 3 febbraio 1947 per i dipendenti dalle aziende artigiane esercenti la lavorazione del vetro;  
-- accordo collettivo 4 aprile 1947 per le lavoratrici dipendenti dalle aziende artigiane esercenti la lavorazione del vetro ed affini;  
-- accordo collettivo 4 febbraio 1947 per i dipendenti dalle aziende artigiane degli orafi e degli argentieri;  
-- accordo collettivo 6 febbraio 1947 per i dipendenti dalle aziende artigiane edili e dei manufatti in cemento;  
-- accordo collettivo 16 febbraio 1947 per i dipendenti dalle aziende artigiane di sartoria per uomo;  
-- accordo collettivo 24 febbraio 1947 per i dipendenti dalle aziende artigiane di calzature a mano e a macchina, in serie;  
-- accordo collettivo 27 febbraio 1947 per i dipendenti dalle aziende artigiane del cuoio artistico e delle pelletterie;  
-- accordo collettivo 29 aprile 1947 per i dipendenti dalle aziende artigiane di mugnai;  
-- accordo collettivo 17 giugno 1947 per i dipendenti dalle aziende artigiane di lavanderie, tintorie e stirerie;  
-- accordo collettivo 27 giugno 1947 per i dipendenti dalle aziende artigiane di fabbricanti di fiale;  
-- accordo collettivo 19 settembre 1947 per i dipendenti dalle aziende artigiane di pellicciai - accordo collettivo 7 ottobre 1947 per i dipendenti dalle aziende artigiane di maglierie;  
-- accordo collettivo 11 novembre 1947 per i dipendenti dalle aziende artigiane di galvanoplastici;  
-- accordo collettivo 30 dicembre 1948 per i lavoratori dipendenti dalle aziende artigiane;  
-- contratto collettivo 30 dicembre 1948 per gli apprendisti dipendenti dalle aziende artigiane, allegato al predetto accordo pari data;  
-- accordo collettivo 18 gennaio 1954 per i dipendenti dalle aziende artigiane fotografiche;  
-- accordo collettivo 18 maggio 1959 per le lavoratrici dipendenti dalle aziende artigiane di sartorie di alta moda;  
-- accordo collettivo 12 giugno 1959 per i dipendenti dalle aziende artigiane dei meccanici ed affini.  
-per la provincia di Firenze, escluso il mandamento di Prato:  
-- accordo collettivo 10 giugno 1954 per i dipendenti dalle aziende artigiane grafiche;  
-- accordo collettivo 19 luglio 1954 per i dipendenti dalle aziende artigiane esercenti la lavorazione di materiali lapidei;  
-- accordo collettivo 2 luglio 1946 per i dipendenti dalle aziende artigiane di restauratori di affreschi e d'opere d'arte;  
-- accordo collettivo 26 giugno 1956 per i dipendenti dalle aziende artigiane di pittori e decoratori;  
-- contratto collettivo 26 giugno 1956 e contratto collettivo pari data, per i dipendenti dalle aziende artigiane di pittori e decoratori, allegati al predetto accordo 26 giugno 1856;  
-- l'accordo collettivo 24 luglio 1957 per i lavoratori dipendenti dalle aziende artigiane;  
-- contratto collettivo 24 luglio 1957 per gli apprendisti dipendenti dalle aziende artigiane, allegato al predetto accordo pari data;  
-- accordo collettivo 18 marzo 1958 per l'indennita' di contingenza ai dipendenti dalle aziende artigiane;  
-- accordo collettivo 15 aprile 1959 per gli operai dipendenti dalle aziende artigiane della ceramica, porcellana, terracotte e gres ceramico;  
-- accordo collettivo 24 giugno 1959 per i dipendenti dalle aziende artigiane del legno ed affini.  
-per il mandamento di Prato:  
-- accordo collettivo 6 agosto 1948 per i dipendenti dalle aziende artigiane del legno ed affini;  
-- accordo collettivo 18 dicembre 1948 per la gratifica natalizia ai dipendenti dalle aziende artigiane del legno ed affini;  
-- accordo collettivo 26 aprile 1951 e accordo collettivo pari data, per i dipendenti dalle aziende artigiane del legno ed affini.  
-I minimi di trattamento economico e normativo cosi' stabiliti sono inderogabili nei confronti di tutti i lavoratori dipendenti dalle imprese artigiane esercenti le attivita' indicate nei contratti ed accordi di cui al primo comma e nell'ambito di efficacia territoriale dai medesimi stabilito, nella provincia di Firenze e nel mandamento di Prato.  
-  
+I rapporti di lavoro costituiti per le attivita' artigiane per le quali sono stati stipulati gli accordi ed i contratti collettivi sotto elencati sono regolati da norme giuridiche uniformi alle clausole degli accordi e dei contratti medesimi, annessi al presente decreto, purche' compatibili, per quanto riguarda le attivita' artigiane per le quali sono stati stipulati appositi contratti collettivi nazionali, con quelle concernenti la relativa disciplina nazionale:
+ per la provincia di Firenze:
+ - accordo collettivo 3 febbraio 1947 per i dipendenti dalle aziende artigiane esercenti la lavorazione del vetro;
+ - accordo collettivo 4 aprile 1947 per le lavoratrici dipendenti dalle aziende artigiane esercenti la lavorazione del vetro ed affini;
+ - accordo collettivo 4 febbraio 1947 per i dipendenti dalle aziende artigiane degli orafi e degli argentieri;
+ - accordo collettivo 6 febbraio 1947 per i dipendenti dalle aziende artigiane edili e dei manufatti in cemento;
+ - accordo collettivo 16 febbraio 1947 per i dipendenti dalle aziende artigiane di sartoria per uomo;
+ - accordo collettivo 24 febbraio 1947 per i dipendenti dalle aziende artigiane di calzature a mano e a macchina, in serie;
+ - accordo collettivo 27 febbraio 1947 per i dipendenti dalle aziende artigiane del cuoio artistico e delle pelletterie;
+ - accordo collettivo 29 aprile 1947 per i dipendenti dalle aziende artigiane di mugnai;
+ - accordo collettivo 17 giugno 1947 per i dipendenti dalle aziende artigiane di lavanderie, tintorie e stirerie;
+ - accordo collettivo 27 giugno 1947 per i dipendenti dalle aziende artigiane di fabbricanti di fiale;
+ - accordo collettivo 19 settembre 1947 per i dipendenti dalle aziende artigiane di pellicciai - accordo collettivo 7 ottobre 1947 per i dipendenti dalle aziende artigiane di maglierie;
+ - accordo collettivo 11 novembre 1947 per i dipendenti dalle aziende artigiane di galvanoplastici;
+ - accordo collettivo 30 dicembre 1948 per i lavoratori dipendenti dalle aziende artigiane;
+ - contratto collettivo 30 dicembre 1948 per gli apprendisti dipendenti dalle aziende artigiane, allegato al predetto accordo pari data;
+ - accordo collettivo 18 gennaio 1954 per i dipendenti dalle aziende artigiane fotografiche;
+ - accordo collettivo 18 maggio 1959 per le lavoratrici dipendenti dalle aziende artigiane di sartorie di alta moda;
+ - accordo collettivo 12 giugno 1959 per i dipendenti dalle aziende artigiane dei meccanici ed affini.
+ per la provincia di Firenze, escluso il mandamento di Prato:
+ - accordo collettivo 10 giugno 1954 per i dipendenti dalle aziende artigiane grafiche;
+ - accordo collettivo 19 luglio 1954 per i dipendenti dalle aziende artigiane esercenti la lavorazione di materiali lapidei;
+ - accordo collettivo 2 luglio 1946 per i dipendenti dalle aziende artigiane di restauratori di affreschi e d'opere d'arte;
+ - accordo collettivo 26 giugno 1956 per i dipendenti dalle aziende artigiane di pittori e decoratori;
+ - contratto collettivo 26 giugno 1956 e contratto collettivo pari data, per i dipendenti dalle aziende artigiane di pittori e decoratori, allegati al predetto accordo 26 giugno 1856;
+ - l'accordo collettivo 24 luglio 1957 per i lavoratori dipendenti dalle aziende artigiane;
+ - contratto collettivo 24 luglio 1957 per gli apprendisti dipendenti dalle aziende artigiane, allegato al predetto accordo pari data;
+ - accordo collettivo 18 marzo 1958 per l'indennita' di contingenza ai dipendenti dalle aziende artigiane;
+ - accordo collettivo 15 aprile 1959 per gli operai dipendenti dalle aziende artigiane della ceramica, porcellana, terracotte e gres ceramico;
+ - accordo collettivo 24 giugno 1959 per i dipendenti dalle aziende artigiane del legno ed affini.
+ per il mandamento di Prato:
+ - accordo collettivo 6 agosto 1948 per i dipendenti dalle aziende artigiane del legno ed affini;
+ - accordo collettivo 18 dicembre 1948 per la gratifica natalizia ai dipendenti dalle aziende artigiane del legno ed affini;
+ - accordo collettivo 26 aprile 1951 e accordo collettivo pari data, per i dipendenti dalle aziende artigiane del legno ed affini.
+ I minimi di trattamento economico e normativo cosi' stabiliti sono inderogabili nei confronti di tutti i lavoratori dipendenti dalle imprese artigiane esercenti le attivita' indicate nei contratti ed accordi di cui al primo comma e nell'ambito di efficacia territoriale dai medesimi stabilito, nella provincia di Firenze e nel mandamento di Prato.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 2 gennaio 1962
+Dato a Roma, addi' 2 gennaio 1962
 
-GRONCHI FANFANI - SULLO
-
-Visto, il Guardasigilli: BOSCO
-
-Registrato alla Corte dei conti, addi' 14 luglio 1962
-
-Atti del Governo, registro n. 155 foglio n. 9. - VILLA
-
-Allegato
-
-ACCORDO COLLETTIVO 3 FEBBRAIO 1947, PER I DIPENDENTI DA AZIENDE ESERCENTI LA LAVORAZIONE DEL VETRO DELLA PROVINCIA DI FIRENZE.   
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=062U106700100010110001&dgu=1962-08-07&art.dataPubblicazioneGazzetta=1962-08-07&art.codiceRedazionale=062U1067)
-  
-  
-  
-  
-ACCORDO COLLETTIVO 4 APRILE 1947 PER LE LAVORATRICI DIPENDENTI DA AZIENDE ARTIGIANE ESERCENTI LA LAVORAZIONE DEL VETRO ED AFFINI DELLA PROVINCIA DI FIRENZE.   
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=062U106700100010110002&dgu=1962-08-07&art.dataPubblicazioneGazzetta=1962-08-07&art.codiceRedazionale=062U1067)
-  
-  
-  
-  
-ACCORDO COLLETTIVO 4 FEBBRAIO 1947, PER I DIPENDENTI DA AZIENDE ARTIGIANE DEGLI ORAFI ED ARGENTIERI DELLA PROVINCIA DI FIRENZE.   
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=062U106700100010110003&dgu=1962-08-07&art.dataPubblicazioneGazzetta=1962-08-07&art.codiceRedazionale=062U1067)
-  
-  
-  
-  
-ACCORDO COLLETTIVO 6 FEBBRAIO 1947, PER I DIPENDENTI DA AZIENDE ARTIGIANE ESERCENTI L'ATTIVITA' EDILE E DEI MANUFATTI IN CEMENTO DELLA PROVINCIA DI FIRENZE.   
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=062U106700100010110004&dgu=1962-08-07&art.dataPubblicazioneGazzetta=1962-08-07&art.codiceRedazionale=062U1067)
-  
-  
-  
-  
-ACCORDO COLLETTIVO 16 FEBBRAIO 1947, PER I DIPENDENTI DA AZIENDE ARTIGIANE DI SARTORIA PER UOMO DELLA PROVINCIA DI FIRENZE.   
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=062U106700100010110005&dgu=1962-08-07&art.dataPubblicazioneGazzetta=1962-08-07&art.codiceRedazionale=062U1067)
-  
-  
-  
-  
-ACCORDO COLLETTIVO 24 FEBBRAIO 1947, PER I DIPENDENTI DA AZIENDE ARTIGIANE DI CALZATURE A MANO E A MACCHINA IN SERIE DELLA PROVINCIA DI FIRENZE.   
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=062U106700100010110006&dgu=1962-08-07&art.dataPubblicazioneGazzetta=1962-08-07&art.codiceRedazionale=062U1067)
-  
-  
-  
-  
-ACCORDO COLLETTIVO 27 FEBBRAIO 1947, PER I DIPENDENTI DA AZIENDE ARTIGIANE DEL CUOIO ARTISTICO E DELLE PELLETTERIE DELLA PROVINCIA DI FIRENZE.   
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=062U106700100010110007&dgu=1962-08-07&art.dataPubblicazioneGazzetta=1962-08-07&art.codiceRedazionale=062U1067)
-  
-  
-  
-  
-ACCORDO COLLETTIVO 29 APRILE 1947, PER I DIPENDENTI DA AZIENDE ARTIGIANE DEI MUGNAI DELLA PROVINCIA DI FIRENZE.   
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=062U106700100010110008&dgu=1962-08-07&art.dataPubblicazioneGazzetta=1962-08-07&art.codiceRedazionale=062U1067)
-  
-  
-  
-  
-ACCORDO COLLETTIVO 17 GIUGNO 1947 PER I DIPENDENTI DA AZIENDE ARTIGIANE DI LAVANDERIE, TINTORIE E STIRERIE DELLA PROVINCIA DI FIRENZE.   
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=062U106700100010110009&dgu=1962-08-07&art.dataPubblicazioneGazzetta=1962-08-07&art.codiceRedazionale=062U1067)
-  
-  
-  
-  
-ACCORDO COLLETTIVO 27 GIUGNO 1947, PER I DIPENDENTI DA AZIENDE ARTIGIANE FABBRICANTI DI FIALE DELLA PROVINCIA DI FIRENZE.   
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=062U106700100010110010&dgu=1962-08-07&art.dataPubblicazioneGazzetta=1962-08-07&art.codiceRedazionale=062U1067)
-  
-  
-  
-  
-ACCORDO COLLETTIVO 19 SETTEMBRE 1947, PER I DIPENDENTI DA AZIENDE ARTIGIANE DI PELLICCIAI DELLA PROVINCIA DI FIRENZE.   
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=062U106700100010110011&dgu=1962-08-07&art.dataPubblicazioneGazzetta=1962-08-07&art.codiceRedazionale=062U1067)
-  
-  
-  
-  
-ACCORDO COLLETTIVO 7 OTTOBRE 1947, PER I DIPENDENTI DA AZIENDE ARTIGIANE DI MAGLIERIE DELLA PROVINCIA DI FIRENZE.   
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=062U106700100010110012&dgu=1962-08-07&art.dataPubblicazioneGazzetta=1962-08-07&art.codiceRedazionale=062U1067)
-  
-  
-  
-  
-ACCORDO COLLETTIVO 11 NOVEMBRE 1947, PER I DIPENDENTI DA AZIENDE ARTIGIANE DI GALVANOPLASTICI DELLA PROVINCIA DI FIRENZE.   
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=062U106700100010110013&dgu=1962-08-07&art.dataPubblicazioneGazzetta=1962-08-07&art.codiceRedazionale=062U1067)
-  
-  
-  
-  
-ACCORDO COLLETTIVO 30 DICEMBRE 1948, PER I LAVORATORI DIPENDENTI DA AZIENDE ARTIGIANE DELLA PROVINCIA DI FIRENZE.   
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=062U106700100010110014&dgu=1962-08-07&art.dataPubblicazioneGazzetta=1962-08-07&art.codiceRedazionale=062U1067)
-  
-  
-  
-  
-ACCORDO COLLETTIVO 18 GENNAIO 1954, PER I DIPENDENTI DA AZIENDE FOTOGRAFICHE ARTIGIANE DELLA PROVINCIA DI FIRENZE.   
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=062U106700100010110015&dgu=1962-08-07&art.dataPubblicazioneGazzetta=1962-08-07&art.codiceRedazionale=062U1067)
-  
-  
-  
-  
-  
-ACCORDO COLLETTIVO 18 MAGGIO 1959 PER LE LAVORATRICI DIPENDENTI DALLE AZIENDE ARTIGIANE SARTORIE DI ALTA MODA DELLA PROVINCIA DI FIRENZE.   
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=062U106700100010110016&dgu=1962-08-07&art.dataPubblicazioneGazzetta=1962-08-07&art.codiceRedazionale=062U1067)
-  
-  
-  
-  
-ACCORDO COLLETTIVO SALARIALE 12 GIUGNO 1959, PER I DIPENDENTI DA AZIENDE ARTIGIANE DEI MECCANICI ED AFFINI DELLA PROVINCIA DI FIRENZE.   
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=062U106700100010110017&dgu=1962-08-07&art.dataPubblicazioneGazzetta=1962-08-07&art.codiceRedazionale=062U1067)
-  
-  
-  
-  
-ACCORDO COLLETTIVO SALARIALE 10 GIUGNO 1954, PER I DIPENDENTI DA AZIENDE GRAFICHE ARTIGIANE DELLA PROVINCIA DI FIRENZE (ESCLUSO IL MANDAMENTO DI PRATO).   
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=062U106700100010110018&dgu=1962-08-07&art.dataPubblicazioneGazzetta=1962-08-07&art.codiceRedazionale=062U1067)
-  
-  
-  
-  
-ACCORDO COLLETTIVO SALARIALE 19 LUGLIO 1954 PER I DIPENDENTI DA AZIENDE ARTIGIANE ESERCENTI LA LAVORAZIONE DI MATERIALI LAPIDEI (MARMO E PIETRE) DELLA PROVINCIA DI FIRENZE (ESCLUSO IL MANDAMENTO DI PRATO).   
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=062U106700100010110019&dgu=1962-08-07&art.dataPubblicazioneGazzetta=1962-08-07&art.codiceRedazionale=062U1067)
-  
-  
-  
-  
-ACCORDO COLLETTIVO 2 LUGLIO 1946, PER I DIPENDENTI DA AZIENDE ARTIGIANE DI RESTAURATORI DI AFFRESCHI E DI OPERE D'ARTE DELLA PROVINCIA DI FIRENZE ESCLUSO IL MANDAMENTO DI PRATO.   
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=062U106700100010110020&dgu=1962-08-07&art.dataPubblicazioneGazzetta=1962-08-07&art.codiceRedazionale=062U1067)
-  
-  
-  
-  
-ACCORDO COLLETTIVO 26 GIUGNO 1956, PER I DIPENDENTI DA AZIENDE ARTIGIANE: DI PITTORI E DECORATORI DELLA PROVINCIA DI FIRENZE ESCLUSO IL MANDAMENTO DI PRATO.   
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=062U106700100010110021&dgu=1962-08-07&art.dataPubblicazioneGazzetta=1962-08-07&art.codiceRedazionale=062U1067)
-  
-  
-  
-  
-ACCORDO COLLETTIVO 24 LUGLIO 1957, PER I LAVORATORI DIPENDENTI DA AZIENDE ARTIGIANE DELLA PROVINCIA DI FIRENZE ESCLUSO IL MANDAMENTO DI PRATO.   
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=062U106700100010110022&dgu=1962-08-07&art.dataPubblicazioneGazzetta=1962-08-07&art.codiceRedazionale=062U1067)
-  
-  
-  
-  
-ACCORDO COLLETTIVO 18 MARZO 1958, PER L'INDENNITA' DI CONTINGENZA PER I DIPENDENTI DA AZIENDE ARTIGIANE DELLA PROVINCIA DI FIRENZE ESCLUSO IL MANDAMENTO DI PRATO.   
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=062U106700100010110023&dgu=1962-08-07&art.dataPubblicazioneGazzetta=1962-08-07&art.codiceRedazionale=062U1067)
-  
-  
-  
-  
-ACCORDO COLLETTIVO SALARIALE 15 APRILE 1959 PER GLI OPERAI DIPENDENTI DA AZIENDE ARTIGIANE DELLA CERAMICA, PORCELLANA, TERRECOTTE E GRES CERAMICO DELLA PROVINCIA DI FIRENZE, ESCLUSO IL MANDAMENTO DI PRATO.   
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=062U106700100010110024&dgu=1962-08-07&art.dataPubblicazioneGazzetta=1962-08-07&art.codiceRedazionale=062U1067)
-  
-  
-  
-  
-ACCORDO COLLETTIVO 24 GIUGNO 1959, PER I DIPENDENTI DA AZIENDE ARTIGIANE DEL LEGNO E AFFINI DELLA PROVINCIA DI FIRENZE, ESCLUSO IL MANDAMENTO DI PRATO.   
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=062U106700100010110025&dgu=1962-08-07&art.dataPubblicazioneGazzetta=1962-08-07&art.codiceRedazionale=062U1067)
-  
-  
-  
-  
-ACCORDO COLLETTIVO 6 AGOSTO 1948 PER I DIPENDENTI DALLE AZIENDE ARTIGIANE DEL LEGNO ED AFFINI DEL MANDAMENTO DI PRATO   
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=062U106700100010110026&dgu=1962-08-07&art.dataPubblicazioneGazzetta=1962-08-07&art.codiceRedazionale=062U1067)
-  
-  
-  
-  
-ACCORDO COLLETTIVO 18 DICEMBRE 1948 PER LA GRATIFICA NATALIZIA Al DIPENDENTI DALLE AZIENDE ARTIGIANE DEL LEGNO ED AFFINI DEL MANDAMENTO DI PRATO.   
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=062U106700100010110027&dgu=1962-08-07&art.dataPubblicazioneGazzetta=1962-08-07&art.codiceRedazionale=062U1067)
-  
-  
-  
-  
-ACCORDO COLLETTIVO 26 APRILE 1951 PER I DIPENDENTI DALLE AZIENDE ARTIGIANE DEL LEGNO ED AFFINI DEL MANDAMENTO DI PRATO.   
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=062U106700100010110028&dgu=1962-08-07&art.dataPubblicazioneGazzetta=1962-08-07&art.codiceRedazionale=062U1067)
-  
-  
-  
-  
-ACCORDO COLLETTIVO 26 APRILE 1951 PER I DIPENDENTI DALLE AZIENDE ARTIGIANE DEL LEGNO ED AFFINI DEL MANDAMENTO DI PRATO.   
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=062U106700100010110029&dgu=1962-08-07&art.dataPubblicazioneGazzetta=1962-08-07&art.codiceRedazionale=062U1067)
-  
+GRONCHI FANFANI - SULLO Visto, il Guardasigilli: BOSCO Registrato alla Corte dei conti, addi' 14 luglio 1962 Atti del Governo, registro n. 155 foglio n. 9. - VILLA

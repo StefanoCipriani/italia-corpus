@@ -1,19 +1,21 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 05 luglio 1951 n. 946
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 946
+data: 1951-07-05
+titolo: "Soppressione della Fabbricheria denominata Opera di San Martino Vescovo, in Sinalunga (Siena)."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1951-07-05;946
+codice_redazionale: 051U0946
+vigente: true
+---
 
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 05 luglio 1951 n. 946
-=============================================================
-
-Soppressione della Fabbricheria denominata Opera di San Martino Vescovo, in Sinalunga (Siena).
-----------------------------------------------------------------------------------------------
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-946. Decreto del Presidente della Repubblica 5 luglio 1951, col quale, sulla proposta del Ministro per l'interno, viene soppressa la Fabbricheria denominata Opera di San Martino Vescovo, in Sinalunga (Siena).  
-  
-Visto, il Guardasigilli: ZOLI  
-Registrato alla Corte dei conti, addi' 6 settembre 1951  
-Atti del Governo, registro n. 42, foglio n. 15. - CARLOMAGNO
+946.
+
+Decreto del Presidente della Repubblica 5 luglio 1951, col quale, sulla proposta del Ministro per l'interno, viene soppressa la Fabbricheria denominata Opera di San Martino Vescovo, in Sinalunga (Siena).
+
+Visto, il Guardasigilli: ZOLI
+ Registrato alla Corte dei conti, addi' 6 settembre 1951
+ Atti del Governo, registro n. 42, foglio n. 15. - CARLOMAGNO

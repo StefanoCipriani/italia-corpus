@@ -1,19 +1,21 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 05 aprile 1961 n. 361
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 361
+data: 1961-04-05
+titolo: "Riconoscimento della personalita' giuridica della Fondazione denominata \"Istituto di ricerche farmacologiche Mario Negri\", con sede in Milano."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1961-04-05;361
+codice_redazionale: 061U0361
+vigente: true
+---
 
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 05 aprile 1961 n. 361
-=============================================================
-
-Riconoscimento della personalita' giuridica della Fondazione denominata "Istituto di ricerche farmacologiche Mario Negri", con sede in Milano.
-----------------------------------------------------------------------------------------------------------------------------------------------
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-361. Decreto del Presidente della Repubblica 5 aprile 1961, col quale, sulla proposta del Ministro per la pubblica istruzione, viene riconosciuta la personalita' giuridica della Fondazione denominata "Istituto di ricerche farmacologiche Mario Negri", con sede in Milano e ne viene approvato lo statuto.  
-  
-Visto, il Guardasigilli: GONELLA  
-Registrato alla Corte dei conti, addi' 16 maggio 1961  
-Atti del Governo, registro n. 136, foglio n. 158. - VILLA
+361.
+
+Decreto del Presidente della Repubblica 5 aprile 1961, col quale, sulla proposta del Ministro per la pubblica istruzione, viene riconosciuta la personalita' giuridica della Fondazione denominata "Istituto di ricerche farmacologiche Mario Negri", con sede in Milano e ne viene approvato lo statuto.
+
+Visto, il Guardasigilli: GONELLA
+ Registrato alla Corte dei conti, addi' 16 maggio 1961
+ Atti del Governo, registro n. 136, foglio n. 158. - VILLA

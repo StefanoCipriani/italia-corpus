@@ -1,24 +1,24 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 06 luglio 1977 n. 696
-
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 06 luglio 1977 n. 696
-=============================================================
-
-Aumenti e modificazioni alle piante organiche dei magistrati addetti ad alcuni uffici di sorveglianza.
-------------------------------------------------------------------------------------------------------
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 696
+data: 1977-07-06
+titolo: "Aumenti e modificazioni alle piante organiche dei magistrati addetti ad alcuni uffici di sorveglianza."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1977-07-06;696
+codice_redazionale: 077U0696
+vigente: true
+---
 
 IL PRESIDENTE DELLA REPUBBLICA
-------------------------------
 
-Vista la [legge 26 luglio 1975, n. 354](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1975-07-26;354), relativa a nuove norme sull'ordinamento penitenziario e sulla esecuzione delle misure privative e limitative della liberta';
+Vista la [legge 26 luglio 1975, n. 354](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1975-07-26;354), relativa a nuove norme sull'ordinamento penitenziario e sulla esecuzione delle misure privative e limitative della liberta';
 
 Visto l'art. 68 della citata legge che istituisce gli uffici di sorveglianza presso i tribunali esistenti nelle sedi di cui alla tabella A allegata alla legge stessa;
 
-Visto l'[art. 14 della legge 12 gennaio 1977, n. 1](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1977-01-12;1~art14), che, modificando il menzionato art. 68, sostituisce con altra tabella A quella allegata alla [legge 26 luglio 1975, n. 354](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1975-07-26;354);
+Visto l'[art. 14 della legge 12 gennaio 1977, n. 1](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1977-01-12;1#art_14), che, modificando il menzionato art. 68, sostituisce con altra tabella A quella allegata alla [legge 26 luglio 1975, n. 354](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1975-07-26;354);
 
-Visto l'[art. 9 della legge 12 gennaio 1977, n. 1](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1977-01-12;1~art9), che istituisce una sezione di sorveglianza anche nelle circoscrizioni territoriali dalle sezioni distaccate di corte di appello di Campobasso, Reggio Calabria e Salerno;
+Visto l'[art. 9 della legge 12 gennaio 1977, n. 1](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1977-01-12;1#art_9), che istituisce una sezione di sorveglianza anche nelle circoscrizioni territoriali dalle sezioni distaccate di corte di appello di Campobasso, Reggio Calabria e Salerno;
 
-Visto inoltre, che con la tabella A allegata alla [legge 12 gennaio 1977, n. 1](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1977-01-12;1), e' stata variata la giurisdizione dell'ufficio di sorveglianza di Potenza e sono stati soppressi quelli di Gorizia e Matera con contestuale istituzione degli uffici di sorveglianza di Avellino e Udine;
+Visto inoltre, che con la tabella A allegata alla [legge 12 gennaio 1977, n. 1](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1977-01-12;1), e' stata variata la giurisdizione dell'ufficio di sorveglianza di Potenza e sono stati soppressi quelli di Gorizia e Matera con contestuale istituzione degli uffici di sorveglianza di Avellino e Udine;
 
 Considerato che e' indispensabile modificare le piante organiche dei magistrati addetti agli uffici sopraindicati per assicurarne il funzionamento;
 
@@ -28,78 +28,20 @@ Ritenuto peraltro che non puo' essere seguita la proposta dello stesso Consiglio
 
 Ritenuto altresi', che al fine di non apportare ulteriori variazioni a tali organici appare ragionevole trasferire integralmente i posti relativi agli uffici di sorveglianza soppressi di Gorizia e Matera a quelli di nuova istituzione di Avellino e Udine;
 
-Visto l'art. 1, ultimo comma, della [legge 4 gennaio 1963, n. 1](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1963-01-04;1);
+Visto l'art. 1, ultimo comma, della [legge 4 gennaio 1963, n. 1](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1963-01-04;1);
 
-Sulla
------
+Sulla proposta del Ministro Segretario di Stato per la grazia e giustizia; Decreta:
 
-proposta del Ministro Segretario di Stato per la grazia e giustizia; Decreta:
+## Art. 1.
 
-Art. 1
-------
+La tabella C, allegata al [decreto del Presidente della Repubblica 31 dicembre 1966, n. 1185](Piante%20organiche%20dei%20magistrati%20addetti%20alle%20Corti%20di%20appello%20alle%20Procure%20generali%20presso%20le%20Corti%20di%20appello%20ai%20Tribunali%20alle%20Procure%20della%20Repubblica%20presso%20i%20Tribunali%20e%20alle%20Preture.md), e successive modificazioni, relativa alle piante organiche dei magistrati giudicanti addetti ai tribunali, e' modificata per la parte relativa agli uffici di sorveglianza cui si riferisce, dalla tabella A allegata al presente decreto, vistata dal Ministro proponente.
 
-  
-La tabella C, allegata al [decreto del Presidente della Repubblica 31 dicembre 1966, n. 1185](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1966-12-31;1185), e successive modificazioni, relativa alle piante organiche dei magistrati giudicanti addetti ai tribunali, e' modificata per la parte relativa agli uffici di sorveglianza cui si riferisce, dalla tabella A allegata al presente decreto, vistata dal Ministro proponente.  
+## Art. 2.
 
-Art. 2
-------
-
-  
-Le tabelle B e D allegate al [decreto del Presidente della Repubblica 31 dicembre 1966, n. 1185](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1966-12-31;1185), e successive variazioni, relative alle piante organiche dei magistrati giudicanti addetti alle corti di appello ed alle preture sono modificate per la parte relativa agli uffici cui si riferiscono, come dalle tabelle B e C allegate al presente decreto, vistate dal Ministro proponente.  
-  
+Le tabelle B e D allegate al [decreto del Presidente della Repubblica 31 dicembre 1966, n. 1185](Piante%20organiche%20dei%20magistrati%20addetti%20alle%20Corti%20di%20appello%20alle%20Procure%20generali%20presso%20le%20Corti%20di%20appello%20ai%20Tribunali%20alle%20Procure%20della%20Repubblica%20presso%20i%20Tribunali%20e%20alle%20Preture.md), e successive variazioni, relative alle piante organiche dei magistrati giudicanti addetti alle corti di appello ed alle preture sono modificate per la parte relativa agli uffici cui si riferiscono, come dalle tabelle B e C allegate al presente decreto, vistate dal Ministro proponente.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 6 luglio 1977
+Dato a Roma, addi' 6 luglio 1977
 
-LEONE BONIFACIO
-
-Visto, il Guardasigilli: BONIFACIO
-
-Registrato alla Corte dei conti, addi' 20 settembre 1977
-
-Registro n. 23 Giustizia, foglio n. 50
-
-Tabelle
-
- TABELLA A   
-  
-MAGISTRATI GIUDICANTI ADDETTI AI TRIBUNALI   
-  
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=077U069600100010110001&dgu=1977-09-24&art.dataPubblicazioneGazzetta=1977-09-24&art.codiceRedazionale=077U0696)
-  
-  
-  
-  
-TABELLA B   
-  
-MAGISTRATI GIUDICANTI ADDETTI ALLE CORTI DI APPELLO   
-  
-  
----------------|----------------|--------------------|--------------- SEDI |Presidente | Presidenti | Consiglieri | | di sezione |  
----------------|----------------|--------------------|--------------- (Omissis) | | |  
-| | |  
-Bari . . . . . | 1 | 6 | 29  
-  
-  
-  
-Visto, il Ministro per la grazia e giustizia   
-BONIFACIO   
-  
-TABELLA C   
-  
-MAGISTRATI ADDETTI ALLE PRETURE   
-
-|  |  |  |
-| --- | --- | --- |
-| SEDI | Magistrati, di appello in funzioni di pretore | Magistrati di tribunale, aggiunti giudiziari ed uditori in funzioni di pretore |
-
-  
-  
-  
-  
-Visto, il Ministro per la grazia e giustizia   
-BONIFACIO   
+LEONE BONIFACIO Visto, il Guardasigilli: BONIFACIO Registrato alla Corte dei conti, addi' 20 settembre 1977 Registro n. 23 Giustizia, foglio n. 50

@@ -1,19 +1,21 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 14 settembre 1976 n. 1123
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 1123
+data: 1976-09-14
+titolo: "Istituzione di un istituto professionale di Stato per l'industria e l'artigianato in Santeramo in Colle."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1976-09-14;1123
+codice_redazionale: 076U1123
+vigente: true
+---
 
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 14 settembre 1976 n. 1123
-=================================================================
-
-Istituzione di un istituto professionale di Stato per l'industria e l'artigianato in Santeramo in Colle.
---------------------------------------------------------------------------------------------------------
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-1123. Decreto del Presidente della Repubblica 14 settembre 1976, col quale, sulla proposta del Ministro della pubblica istruzione di concerto con i Ministri dell'interno, del tesoro e dell'industria, del commercio e dell'artigianato, viene istituito in Santeramo in Colle (Bari), a decorrere dal 1 ottobre 1974, un istituto professionale di Stato per l'industria e l'artigianato (scuola avente finalita' ed ordinamento speciali) e ne viene approvata la tabella organica.   
-  
-Visto, il Guardasigilli: BONIFACIO   
-Registrato alla Corte dei conti, addi' 29 marzo 1978   
-Registro n. 34 Istruzione, foglio n. 60
+1123.
+
+Decreto del Presidente della Repubblica 14 settembre 1976, col quale, sulla proposta del Ministro della pubblica istruzione di concerto con i Ministri dell'interno, del tesoro e dell'industria, del commercio e dell'artigianato, viene istituito in Santeramo in Colle (Bari), a decorrere dal 1 ottobre 1974, un istituto professionale di Stato per l'industria e l'artigianato (scuola avente finalita' ed ordinamento speciali) e ne viene approvata la tabella organica. 
+ 
+Visto, il Guardasigilli: BONIFACIO 
+ Registrato alla Corte dei conti, addi' 29 marzo 1978 
+ Registro n. 34 Istruzione, foglio n. 60

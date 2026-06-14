@@ -1,19 +1,21 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 05 settembre 1975 n. 1114
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 1114
+data: 1975-09-05
+titolo: "Istituzione di un Istituto tecnico commerciale ad indirizzo amministrativo in Cesano Maderno."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1975-09-05;1114
+codice_redazionale: 075U1114
+vigente: true
+---
 
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 05 settembre 1975 n. 1114
-=================================================================
-
-Istituzione di un Istituto tecnico commerciale ad indirizzo amministrativo in Cesano Maderno.
----------------------------------------------------------------------------------------------
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-1114. Decreto del Presidente della Repubblica 5 settembre 1975, col quale, sulla proposta del Ministro per la pubblica istruzione di concerto con i Ministri per l'interno e per il tesoro, viene istituito in Cesano Maderno (Milano), a decorrere dal 1 ottobre 1973, un istituto tecnico commerciale ad indirizzo amministrativo e ne viene approvata la tabella organica.  
-  
-Visto, il Guardasigilli: BONIFACIO  
-Registrato alla Corte dei conti, addi' 16 ottobre 1976  
-Atti di Governo, registro n. 10, foglio n. 43
+1114.
+
+Decreto del Presidente della Repubblica 5 settembre 1975, col quale, sulla proposta del Ministro per la pubblica istruzione di concerto con i Ministri per l'interno e per il tesoro, viene istituito in Cesano Maderno (Milano), a decorrere dal 1 ottobre 1973, un istituto tecnico commerciale ad indirizzo amministrativo e ne viene approvata la tabella organica.
+
+Visto, il Guardasigilli: BONIFACIO
+ Registrato alla Corte dei conti, addi' 16 ottobre 1976
+ Atti di Governo, registro n. 10, foglio n. 43

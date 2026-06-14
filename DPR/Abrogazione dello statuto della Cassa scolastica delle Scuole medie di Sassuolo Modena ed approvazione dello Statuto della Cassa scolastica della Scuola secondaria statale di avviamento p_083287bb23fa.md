@@ -1,19 +1,21 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 21 novembre 1956 n. 1652
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 1652
+data: 1956-11-21
+titolo: "Abrogazione dello statuto della Cassa scolastica delle Scuole medie di Sassuolo (Modena) ed approvazione dello Statuto della Cassa scolastica della Scuola secondaria statale di avviamento professionale a tipo commerciale di Sassuolo (Modena)."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1956-11-21;1652
+codice_redazionale: 056U1652
+vigente: true
+---
 
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 21 novembre 1956 n. 1652
-================================================================
-
-Abrogazione dello statuto della Cassa scolastica delle Scuole medie di Sassuolo (Modena) ed approvazione dello Statuto della Cassa scolastica della Scuola secondaria statale di avviamento professionale a tipo commerciale di Sassuolo (Modena).
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-1652. Decreto del Presidente della Repubblica 21 novembre 1956, col quale, sulla proposta del Ministro per la pubblica istruzione, viene abrogato lo statuto della Cassa scolastica delle Scuole medie di Sassuolo (Modena), approvato con [regio decreto 11 dicembre 1932, n. 1913](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1932-12-11;1913), e viene approvato lo statuto della Cassa scolastica della Scuola secondaria, statale di avviamento professionale a tipo commerciale di Sassuolo (Modena).  
-  
-Visto, il Guardasigilli: MORO  
-Registrato alla Corte dei conti, addi' 28 febbraio 1957  
-Atti del Governo, registro n. 104, foglio n. 58. - CARLOMAGNO
+1652.
+
+Decreto del Presidente della Repubblica 21 novembre 1956, col quale, sulla proposta del Ministro per la pubblica istruzione, viene abrogato lo statuto della Cassa scolastica delle Scuole medie di Sassuolo (Modena), approvato con [regio decreto 11 dicembre 1932, n. 1913](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1932-12-11;1913), e viene approvato lo statuto della Cassa scolastica della Scuola secondaria, statale di avviamento professionale a tipo commerciale di Sassuolo (Modena).
+
+Visto, il Guardasigilli: MORO
+ Registrato alla Corte dei conti, addi' 28 febbraio 1957
+ Atti del Governo, registro n. 104, foglio n. 58. - CARLOMAGNO

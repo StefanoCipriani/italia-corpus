@@ -1,350 +1,360 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 16 ottobre 1973 n. 980
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 980
+data: 1973-10-16
+titolo: "Approvazione del nuovo statuto dell'Istituto superiore pareggiato di educazione fisica di Firenze."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1973-10-16;980
+codice_redazionale: 073U0980
+vigente: true
+---
 
+## FINALITA' DELL'ISTITUTO
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 16 ottobre 1973 n. 980
-==============================================================
+TITOLO I
 
-Approvazione del nuovo statuto dell'Istituto superiore pareggiato di educazione fisica di Firenze.
---------------------------------------------------------------------------------------------------
+### Art. 1.
 
-CAPO I TITOLO I FINALITA' DELL'ISTITUTO
----------------------------------------
+((PROVVEDIMENTO ABROGATO DAL D.L. 9 FEBBRAIO 2012, N. 5, 
+ CONVERTITO CON MODIFICAZIONI DALLA L. 4 APRILE 2012, N. 35))
 
-### Art. 1
+### Art. 2.
 
-((PROVVEDIMENTO ABROGATO DAL [D.L. 9 FEBBRAIO 2012, N. 5](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2012-02-09;5),   
-CONVERTITO CON MODIFICAZIONI DALLA [L. 4 APRILE 2012, N. 35](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2012-04-04;35)))
+((PROVVEDIMENTO ABROGATO DAL D.L. 9 FEBBRAIO 2012, N. 5, 
+ CONVERTITO CON MODIFICAZIONI DALLA L. 4 APRILE 2012, N. 35))
 
-### Art. 2
+### Art. 3.
 
-((PROVVEDIMENTO ABROGATO DAL [D.L. 9 FEBBRAIO 2012, N. 5](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2012-02-09;5),   
-CONVERTITO CON MODIFICAZIONI DALLA [L. 4 APRILE 2012, N. 35](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2012-04-04;35)))
+((PROVVEDIMENTO ABROGATO DAL D.L. 9 FEBBRAIO 2012, N. 5, 
+ CONVERTITO CON MODIFICAZIONI DALLA L. 4 APRILE 2012, N. 35))
 
-### Art. 3
+## GOVERNO DELL'ISTITUTO
 
-((PROVVEDIMENTO ABROGATO DAL [D.L. 9 FEBBRAIO 2012, N. 5](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2012-02-09;5),   
-CONVERTITO CON MODIFICAZIONI DALLA [L. 4 APRILE 2012, N. 35](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2012-04-04;35)))
+TITOLO II
 
-CAPO II TITOLO II GOVERNO DELL'ISTITUTO
----------------------------------------
+### Art. 4.
 
-### Art. 4
+((PROVVEDIMENTO ABROGATO DAL D.L. 9 FEBBRAIO 2012, N. 5, 
+ CONVERTITO CON MODIFICAZIONI DALLA L. 4 APRILE 2012, N. 35))
 
-((PROVVEDIMENTO ABROGATO DAL [D.L. 9 FEBBRAIO 2012, N. 5](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2012-02-09;5),   
-CONVERTITO CON MODIFICAZIONI DALLA [L. 4 APRILE 2012, N. 35](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2012-04-04;35)))
+### Art. 5.
 
-### Art. 5
+((PROVVEDIMENTO ABROGATO DAL D.L. 9 FEBBRAIO 2012, N. 5, 
+ CONVERTITO CON MODIFICAZIONI DALLA L. 4 APRILE 2012, N. 35))
 
-((PROVVEDIMENTO ABROGATO DAL [D.L. 9 FEBBRAIO 2012, N. 5](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2012-02-09;5),   
-CONVERTITO CON MODIFICAZIONI DALLA [L. 4 APRILE 2012, N. 35](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2012-04-04;35)))
+### Art. 6.
 
-### Art. 6
+((PROVVEDIMENTO ABROGATO DAL D.L. 9 FEBBRAIO 2012, N. 5, 
+ CONVERTITO CON MODIFICAZIONI DALLA L. 4 APRILE 2012, N. 35))
 
-((PROVVEDIMENTO ABROGATO DAL [D.L. 9 FEBBRAIO 2012, N. 5](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2012-02-09;5),   
-CONVERTITO CON MODIFICAZIONI DALLA [L. 4 APRILE 2012, N. 35](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2012-04-04;35)))
+### Art. 7.
 
-### Art. 7
+((PROVVEDIMENTO ABROGATO DAL D.L. 9 FEBBRAIO 2012, N. 5, 
+ CONVERTITO CON MODIFICAZIONI DALLA L. 4 APRILE 2012, N. 35))
 
-((PROVVEDIMENTO ABROGATO DAL [D.L. 9 FEBBRAIO 2012, N. 5](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2012-02-09;5),   
-CONVERTITO CON MODIFICAZIONI DALLA [L. 4 APRILE 2012, N. 35](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2012-04-04;35)))
+### Art. 8.
 
-### Art. 8
+((PROVVEDIMENTO ABROGATO DAL D.L. 9 FEBBRAIO 2012, N. 5, 
+ CONVERTITO CON MODIFICAZIONI DALLA L. 4 APRILE 2012, N. 35))
 
-((PROVVEDIMENTO ABROGATO DAL [D.L. 9 FEBBRAIO 2012, N. 5](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2012-02-09;5),   
-CONVERTITO CON MODIFICAZIONI DALLA [L. 4 APRILE 2012, N. 35](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2012-04-04;35)))
+### Art. 9.
 
-### Art. 9
+((PROVVEDIMENTO ABROGATO DAL D.L. 9 FEBBRAIO 2012, N. 5, 
+ CONVERTITO CON MODIFICAZIONI DALLA L. 4 APRILE 2012, N. 35))
 
-((PROVVEDIMENTO ABROGATO DAL [D.L. 9 FEBBRAIO 2012, N. 5](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2012-02-09;5),   
-CONVERTITO CON MODIFICAZIONI DALLA [L. 4 APRILE 2012, N. 35](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2012-04-04;35)))
+### Art. 10.
 
-### Art. 10
+((PROVVEDIMENTO ABROGATO DAL D.L. 9 FEBBRAIO 2012, N. 5, 
+ CONVERTITO CON MODIFICAZIONI DALLA L. 4 APRILE 2012, N. 35))
 
-((PROVVEDIMENTO ABROGATO DAL [D.L. 9 FEBBRAIO 2012, N. 5](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2012-02-09;5),   
-CONVERTITO CON MODIFICAZIONI DALLA [L. 4 APRILE 2012, N. 35](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2012-04-04;35)))
+### Art. 11.
 
-### Art. 11
+((PROVVEDIMENTO ABROGATO DAL D.L. 9 FEBBRAIO 2012, N. 5, 
+ CONVERTITO CON MODIFICAZIONI DALLA L. 4 APRILE 2012, N. 35))
 
-((PROVVEDIMENTO ABROGATO DAL [D.L. 9 FEBBRAIO 2012, N. 5](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2012-02-09;5),   
-CONVERTITO CON MODIFICAZIONI DALLA [L. 4 APRILE 2012, N. 35](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2012-04-04;35)))
+### Art. 12.
 
-### Art. 12
+((PROVVEDIMENTO ABROGATO DAL D.L. 9 FEBBRAIO 2012, N. 5, 
+ CONVERTITO CON MODIFICAZIONI DALLA L. 4 APRILE 2012, N. 35))
 
-((PROVVEDIMENTO ABROGATO DAL [D.L. 9 FEBBRAIO 2012, N. 5](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2012-02-09;5),   
-CONVERTITO CON MODIFICAZIONI DALLA [L. 4 APRILE 2012, N. 35](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2012-04-04;35)))
+### Art. 13.
 
-### Art. 13
+((PROVVEDIMENTO ABROGATO DAL D.L. 9 FEBBRAIO 2012, N. 5, 
+ CONVERTITO CON MODIFICAZIONI DALLA L. 4 APRILE 2012, N. 35))
 
-((PROVVEDIMENTO ABROGATO DAL [D.L. 9 FEBBRAIO 2012, N. 5](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2012-02-09;5),   
-CONVERTITO CON MODIFICAZIONI DALLA [L. 4 APRILE 2012, N. 35](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2012-04-04;35)))
+### Art. 14.
 
-### Art. 14
+((PROVVEDIMENTO ABROGATO DAL D.L. 9 FEBBRAIO 2012, N. 5, 
+ CONVERTITO CON MODIFICAZIONI DALLA L. 4 APRILE 2012, N. 35))
 
-((PROVVEDIMENTO ABROGATO DAL [D.L. 9 FEBBRAIO 2012, N. 5](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2012-02-09;5),   
-CONVERTITO CON MODIFICAZIONI DALLA [L. 4 APRILE 2012, N. 35](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2012-04-04;35)))
+### Art. 15.
 
-### Art. 15
+((PROVVEDIMENTO ABROGATO DAL D.L. 9 FEBBRAIO 2012, N. 5, 
+ CONVERTITO CON MODIFICAZIONI DALLA L. 4 APRILE 2012, N. 35))
 
-((PROVVEDIMENTO ABROGATO DAL [D.L. 9 FEBBRAIO 2012, N. 5](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2012-02-09;5),   
-CONVERTITO CON MODIFICAZIONI DALLA [L. 4 APRILE 2012, N. 35](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2012-04-04;35)))
+## ORDINAMENTO DEGLI STUDI
 
-CAPO III TITOLO III ORDINAMENTO DEGLI STUDI
--------------------------------------------
+TITOLO III
 
-### Art. 16
+### Art. 16.
 
-((PROVVEDIMENTO ABROGATO DAL [D.L. 9 FEBBRAIO 2012, N. 5](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2012-02-09;5),   
-CONVERTITO CON MODIFICAZIONI DALLA [L. 4 APRILE 2012, N. 35](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2012-04-04;35)))
+((PROVVEDIMENTO ABROGATO DAL D.L. 9 FEBBRAIO 2012, N. 5, 
+ CONVERTITO CON MODIFICAZIONI DALLA L. 4 APRILE 2012, N. 35))
 
-### Art. 17
+### Art. 17.
 
-((PROVVEDIMENTO ABROGATO DAL [D.L. 9 FEBBRAIO 2012, N. 5](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2012-02-09;5),   
-CONVERTITO CON MODIFICAZIONI DALLA [L. 4 APRILE 2012, N. 35](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2012-04-04;35)))
+((PROVVEDIMENTO ABROGATO DAL D.L. 9 FEBBRAIO 2012, N. 5, 
+ CONVERTITO CON MODIFICAZIONI DALLA L. 4 APRILE 2012, N. 35))
 
-### Art. 18
+### Art. 18.
 
-((PROVVEDIMENTO ABROGATO DAL [D.L. 9 FEBBRAIO 2012, N. 5](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2012-02-09;5),   
-CONVERTITO CON MODIFICAZIONI DALLA [L. 4 APRILE 2012, N. 35](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2012-04-04;35)))
+((PROVVEDIMENTO ABROGATO DAL D.L. 9 FEBBRAIO 2012, N. 5, 
+ CONVERTITO CON MODIFICAZIONI DALLA L. 4 APRILE 2012, N. 35))
 
-### Art. 19
+### Art. 19.
 
-((PROVVEDIMENTO ABROGATO DAL [D.L. 9 FEBBRAIO 2012, N. 5](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2012-02-09;5), CONVERTITO CON MODIFICAZIONI DALLA [L. 4 APRILE 2012, N. 35](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2012-04-04;35)))
+((PROVVEDIMENTO ABROGATO DAL D.L. 9 FEBBRAIO 2012, N. 5, CONVERTITO CON MODIFICAZIONI DALLA L. 4 APRILE 2012, N. 35))
 
-### Art. 20
+### Art. 20.
 
-((PROVVEDIMENTO ABROGATO DAL [D.L. 9 FEBBRAIO 2012, N. 5](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2012-02-09;5), CONVERTITO CON MODIFICAZIONI DALLA [L. 4 APRILE 2012, N. 35](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2012-04-04;35)))
+((PROVVEDIMENTO ABROGATO DAL D.L. 9 FEBBRAIO 2012, N. 5, CONVERTITO CON MODIFICAZIONI DALLA L. 4 APRILE 2012, N. 35))
 
-### Art. 21
+### Art. 21.
 
-((PROVVEDIMENTO ABROGATO DAL [D.L. 9 FEBBRAIO 2012, N. 5](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2012-02-09;5), CONVERTITO CON MODIFICAZIONI DALLA [L. 4 APRILE 2012, N. 35](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2012-04-04;35)))
+((PROVVEDIMENTO ABROGATO DAL D.L. 9 FEBBRAIO 2012, N. 5, CONVERTITO CON MODIFICAZIONI DALLA L. 4 APRILE 2012, N. 35))
 
-### Art. 22
+### Art. 22.
 
-((PROVVEDIMENTO ABROGATO DAL [D.L. 9 FEBBRAIO 2012, N. 5](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2012-02-09;5),   
-CONVERTITO CON MODIFICAZIONI DALLA [L. 4 APRILE 2012, N. 35](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2012-04-04;35)))
+((PROVVEDIMENTO ABROGATO DAL D.L. 9 FEBBRAIO 2012, N. 5, 
+ CONVERTITO CON MODIFICAZIONI DALLA L. 4 APRILE 2012, N. 35))
 
-### Art. 23
+### Art. 23.
 
-((PROVVEDIMENTO ABROGATO DAL [D.L. 9 FEBBRAIO 2012, N. 5](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2012-02-09;5),   
-CONVERTITO CON MODIFICAZIONI DALLA [L. 4 APRILE 2012, N. 35](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2012-04-04;35)))
+((PROVVEDIMENTO ABROGATO DAL D.L. 9 FEBBRAIO 2012, N. 5, 
+ CONVERTITO CON MODIFICAZIONI DALLA L. 4 APRILE 2012, N. 35))
 
-CAPO IV TITOLO IV FUNZIONAMENTO DELL'ISTITUTO
----------------------------------------------
+## FUNZIONAMENTO DELL'ISTITUTO
 
-### Art. 24
+TITOLO IV
 
-((PROVVEDIMENTO ABROGATO DAL [D.L. 9 FEBBRAIO 2012, N. 5](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2012-02-09;5),   
-CONVERTITO CON MODIFICAZIONI DALLA [L. 4 APRILE 2012, N. 35](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2012-04-04;35)))
+### Art. 24.
 
-### Art. 25
+((PROVVEDIMENTO ABROGATO DAL D.L. 9 FEBBRAIO 2012, N. 5, 
+ CONVERTITO CON MODIFICAZIONI DALLA L. 4 APRILE 2012, N. 35))
 
-((PROVVEDIMENTO ABROGATO DAL [D.L. 9 FEBBRAIO 2012, N. 5](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2012-02-09;5),   
-CONVERTITO CON MODIFICAZIONI DALLA [L. 4 APRILE 2012, N. 35](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2012-04-04;35)))
+### Art. 25.
 
-### Art. 26
+((PROVVEDIMENTO ABROGATO DAL D.L. 9 FEBBRAIO 2012, N. 5, 
+ CONVERTITO CON MODIFICAZIONI DALLA L. 4 APRILE 2012, N. 35))
 
-((PROVVEDIMENTO ABROGATO DAL [D.L. 9 FEBBRAIO 2012, N. 5](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2012-02-09;5),   
-CONVERTITO CON MODIFICAZIONI DALLA [L. 4 APRILE 2012, N. 35](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2012-04-04;35)))
+### Art. 26.
 
-### Art. 27
+((PROVVEDIMENTO ABROGATO DAL D.L. 9 FEBBRAIO 2012, N. 5, 
+ CONVERTITO CON MODIFICAZIONI DALLA L. 4 APRILE 2012, N. 35))
 
-((PROVVEDIMENTO ABROGATO DAL [D.L. 9 FEBBRAIO 2012, N. 5](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2012-02-09;5),   
-CONVERTITO CON MODIFICAZIONI DALLA [L. 4 APRILE 2012, N. 35](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2012-04-04;35)))
+### Art. 27.
 
-### Art. 28
+((PROVVEDIMENTO ABROGATO DAL D.L. 9 FEBBRAIO 2012, N. 5, 
+ CONVERTITO CON MODIFICAZIONI DALLA L. 4 APRILE 2012, N. 35))
 
-((PROVVEDIMENTO ABROGATO DAL [D.L. 9 FEBBRAIO 2012, N. 5](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2012-02-09;5),   
-CONVERTITO CON MODIFICAZIONI DALLA [L. 4 APRILE 2012, N. 35](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2012-04-04;35)))
+### Art. 28.
 
-### Art. 29
+((PROVVEDIMENTO ABROGATO DAL D.L. 9 FEBBRAIO 2012, N. 5, 
+ CONVERTITO CON MODIFICAZIONI DALLA L. 4 APRILE 2012, N. 35))
 
-((PROVVEDIMENTO ABROGATO DAL [D.L. 9 FEBBRAIO 2012, N. 5](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2012-02-09;5),   
-CONVERTITO CON MODIFICAZIONI DALLA [L. 4 APRILE 2012, N. 35](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2012-04-04;35)))
+### Art. 29.
 
-### Art. 30
+((PROVVEDIMENTO ABROGATO DAL D.L. 9 FEBBRAIO 2012, N. 5, 
+ CONVERTITO CON MODIFICAZIONI DALLA L. 4 APRILE 2012, N. 35))
 
-((PROVVEDIMENTO ABROGATO DAL [D.L. 9 FEBBRAIO 2012, N. 5](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2012-02-09;5),   
-CONVERTITO CON MODIFICAZIONI DALLA [L. 4 APRILE 2012, N. 35](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2012-04-04;35)))
+### Art. 30.
 
-### Art. 31
+((PROVVEDIMENTO ABROGATO DAL D.L. 9 FEBBRAIO 2012, N. 5, 
+ CONVERTITO CON MODIFICAZIONI DALLA L. 4 APRILE 2012, N. 35))
 
-((PROVVEDIMENTO ABROGATO DAL [D.L. 9 FEBBRAIO 2012, N. 5](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2012-02-09;5),   
-CONVERTITO CON MODIFICAZIONI DALLA [L. 4 APRILE 2012, N. 35](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2012-04-04;35)))
+### Art. 31.
 
-CAPO V TITOLO V DOCENTI
------------------------
+((PROVVEDIMENTO ABROGATO DAL D.L. 9 FEBBRAIO 2012, N. 5, 
+ CONVERTITO CON MODIFICAZIONI DALLA L. 4 APRILE 2012, N. 35))
 
-### Art. 32
+## DOCENTI
 
-((PROVVEDIMENTO ABROGATO DAL [D.L. 9 FEBBRAIO 2012, N. 5](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2012-02-09;5),   
-CONVERTITO CON MODIFICAZIONI DALLA [L. 4 APRILE 2012, N. 35](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2012-04-04;35)))
+TITOLO V
 
-### Art. 33
+### Art. 32.
 
-((PROVVEDIMENTO ABROGATO DAL [D.L. 9 FEBBRAIO 2012, N. 5](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2012-02-09;5),   
-CONVERTITO CON MODIFICAZIONI DALLA [L. 4 APRILE 2012, N. 35](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2012-04-04;35)))
+((PROVVEDIMENTO ABROGATO DAL D.L. 9 FEBBRAIO 2012, N. 5, 
+ CONVERTITO CON MODIFICAZIONI DALLA L. 4 APRILE 2012, N. 35))
 
-### Art. 34
+### Art. 33.
 
-((PROVVEDIMENTO ABROGATO DAL [D.L. 9 FEBBRAIO 2012, N. 5](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2012-02-09;5),   
-CONVERTITO CON MODIFICAZIONI DALLA [L. 4 APRILE 2012, N. 35](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2012-04-04;35)))
+((PROVVEDIMENTO ABROGATO DAL D.L. 9 FEBBRAIO 2012, N. 5, 
+ CONVERTITO CON MODIFICAZIONI DALLA L. 4 APRILE 2012, N. 35))
 
-### Art. 35
+### Art. 34.
 
-((PROVVEDIMENTO ABROGATO DAL [D.L. 9 FEBBRAIO 2012, N. 5](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2012-02-09;5),   
-CONVERTITO CON MODIFICAZIONI DALLA [L. 4 APRILE 2012, N. 35](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2012-04-04;35)))
+((PROVVEDIMENTO ABROGATO DAL D.L. 9 FEBBRAIO 2012, N. 5, 
+ CONVERTITO CON MODIFICAZIONI DALLA L. 4 APRILE 2012, N. 35))
 
-### Art. 36
+### Art. 35.
 
-((PROVVEDIMENTO ABROGATO DAL [D.L. 9 FEBBRAIO 2012, N. 5](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2012-02-09;5),   
-CONVERTITO CON MODIFICAZIONI DALLA [L. 4 APRILE 2012, N. 35](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2012-04-04;35)))
+((PROVVEDIMENTO ABROGATO DAL D.L. 9 FEBBRAIO 2012, N. 5, 
+ CONVERTITO CON MODIFICAZIONI DALLA L. 4 APRILE 2012, N. 35))
 
-CAPO VI TITOLO VI ASSISTENTI
-----------------------------
+### Art. 36.
 
-### Art. 37
+((PROVVEDIMENTO ABROGATO DAL D.L. 9 FEBBRAIO 2012, N. 5, 
+ CONVERTITO CON MODIFICAZIONI DALLA L. 4 APRILE 2012, N. 35))
 
-((PROVVEDIMENTO ABROGATO DAL [D.L. 9 FEBBRAIO 2012, N. 5](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2012-02-09;5),   
-CONVERTITO CON MODIFICAZIONI DALLA [L. 4 APRILE 2012, N. 35](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2012-04-04;35)))
+## ASSISTENTI
 
-CAPO VII TITOLO VII STUDENTI, ESAMI E TASSE
--------------------------------------------
+TITOLO VI
 
-### Art. 38
+### Art. 37.
 
-((PROVVEDIMENTO ABROGATO DAL [D.L. 9 FEBBRAIO 2012, N. 5](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2012-02-09;5),   
-CONVERTITO CON MODIFICAZIONI DALLA [L. 4 APRILE 2012, N. 35](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2012-04-04;35)))
+((PROVVEDIMENTO ABROGATO DAL D.L. 9 FEBBRAIO 2012, N. 5, 
+ CONVERTITO CON MODIFICAZIONI DALLA L. 4 APRILE 2012, N. 35))
 
-### Art. 39
+## STUDENTI, ESAMI E TASSE
 
-((PROVVEDIMENTO ABROGATO DAL [D.L. 9 FEBBRAIO 2012, N. 5](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2012-02-09;5),   
-CONVERTITO CON MODIFICAZIONI DALLA [L. 4 APRILE 2012, N. 35](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2012-04-04;35)))
+TITOLO VII
 
-### Art. 40
+### Art. 38.
 
-((PROVVEDIMENTO ABROGATO DAL [D.L. 9 FEBBRAIO 2012, N. 5](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2012-02-09;5),   
-CONVERTITO CON MODIFICAZIONI DALLA [L. 4 APRILE 2012, N. 35](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2012-04-04;35)))
+((PROVVEDIMENTO ABROGATO DAL D.L. 9 FEBBRAIO 2012, N. 5, 
+ CONVERTITO CON MODIFICAZIONI DALLA L. 4 APRILE 2012, N. 35))
 
-### Art. 41
+### Art. 39.
 
-((PROVVEDIMENTO ABROGATO DAL [D.L. 9 FEBBRAIO 2012, N. 5](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2012-02-09;5),   
-CONVERTITO CON MODIFICAZIONI DALLA [L. 4 APRILE 2012, N. 35](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2012-04-04;35)))
+((PROVVEDIMENTO ABROGATO DAL D.L. 9 FEBBRAIO 2012, N. 5, 
+ CONVERTITO CON MODIFICAZIONI DALLA L. 4 APRILE 2012, N. 35))
 
-### Art. 42
+### Art. 40.
 
-((PROVVEDIMENTO ABROGATO DAL [D.L. 9 FEBBRAIO 2012, N. 5](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2012-02-09;5),   
-CONVERTITO CON MODIFICAZIONI DALLA [L. 4 APRILE 2012, N. 35](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2012-04-04;35)))
+((PROVVEDIMENTO ABROGATO DAL D.L. 9 FEBBRAIO 2012, N. 5, 
+ CONVERTITO CON MODIFICAZIONI DALLA L. 4 APRILE 2012, N. 35))
 
-### Art. 43
+### Art. 41.
 
-((PROVVEDIMENTO ABROGATO DAL [D.L. 9 FEBBRAIO 2012, N. 5](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2012-02-09;5), CONVERTITO CON MODIFICAZIONI DALLA [L. 4 APRILE 2012, N. 35](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2012-04-04;35)))
+((PROVVEDIMENTO ABROGATO DAL D.L. 9 FEBBRAIO 2012, N. 5, 
+ CONVERTITO CON MODIFICAZIONI DALLA L. 4 APRILE 2012, N. 35))
 
-### Art. 44
+### Art. 42.
 
-((PROVVEDIMENTO ABROGATO DAL [D.L. 9 FEBBRAIO 2012, N. 5](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2012-02-09;5),   
-CONVERTITO CON MODIFICAZIONI DALLA [L. 4 APRILE 2012, N. 35](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2012-04-04;35)))
+((PROVVEDIMENTO ABROGATO DAL D.L. 9 FEBBRAIO 2012, N. 5, 
+ CONVERTITO CON MODIFICAZIONI DALLA L. 4 APRILE 2012, N. 35))
 
-### Art. 45
+### Art. 43.
 
-((PROVVEDIMENTO ABROGATO DAL [D.L. 9 FEBBRAIO 2012, N. 5](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2012-02-09;5),   
-CONVERTITO CON MODIFICAZIONI DALLA [L. 4 APRILE 2012, N. 35](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2012-04-04;35)))
+((PROVVEDIMENTO ABROGATO DAL D.L. 9 FEBBRAIO 2012, N. 5, CONVERTITO CON MODIFICAZIONI DALLA L. 4 APRILE 2012, N. 35))
 
-### Art. 46
+### Art. 44.
 
-((PROVVEDIMENTO ABROGATO DAL [D.L. 9 FEBBRAIO 2012, N. 5](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2012-02-09;5),   
-CONVERTITO CON MODIFICAZIONI DALLA [L. 4 APRILE 2012, N. 35](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2012-04-04;35)))
+((PROVVEDIMENTO ABROGATO DAL D.L. 9 FEBBRAIO 2012, N. 5, 
+ CONVERTITO CON MODIFICAZIONI DALLA L. 4 APRILE 2012, N. 35))
 
-### Art. 47
+### Art. 45.
 
-((PROVVEDIMENTO ABROGATO DAL [D.L. 9 FEBBRAIO 2012, N. 5](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2012-02-09;5),   
-CONVERTITO CON MODIFICAZIONI DALLA [L. 4 APRILE 2012, N. 35](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2012-04-04;35)))
+((PROVVEDIMENTO ABROGATO DAL D.L. 9 FEBBRAIO 2012, N. 5, 
+ CONVERTITO CON MODIFICAZIONI DALLA L. 4 APRILE 2012, N. 35))
 
-### Art. 48
+### Art. 46.
 
-((PROVVEDIMENTO ABROGATO DAL [D.L. 9 FEBBRAIO 2012, N. 5](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2012-02-09;5),   
-CONVERTITO CON MODIFICAZIONI DALLA [L. 4 APRILE 2012, N. 35](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2012-04-04;35)))
+((PROVVEDIMENTO ABROGATO DAL D.L. 9 FEBBRAIO 2012, N. 5, 
+ CONVERTITO CON MODIFICAZIONI DALLA L. 4 APRILE 2012, N. 35))
 
-CAPO VIII TITOLO VIII AMMINISTRAZIONE
--------------------------------------
+### Art. 47.
 
-### Art. 49
+((PROVVEDIMENTO ABROGATO DAL D.L. 9 FEBBRAIO 2012, N. 5, 
+ CONVERTITO CON MODIFICAZIONI DALLA L. 4 APRILE 2012, N. 35))
 
-((PROVVEDIMENTO ABROGATO DAL [D.L. 9 FEBBRAIO 2012, N. 5](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2012-02-09;5),   
-CONVERTITO CON MODIFICAZIONI DALLA [L. 4 APRILE 2012, N. 35](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2012-04-04;35)))
+### Art. 48.
 
-### Art. 50
+((PROVVEDIMENTO ABROGATO DAL D.L. 9 FEBBRAIO 2012, N. 5, 
+ CONVERTITO CON MODIFICAZIONI DALLA L. 4 APRILE 2012, N. 35))
 
-((PROVVEDIMENTO ABROGATO DAL [D.L. 9 FEBBRAIO 2012, N. 5](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2012-02-09;5),   
-CONVERTITO CON MODIFICAZIONI DALLA [L. 4 APRILE 2012, N. 35](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2012-04-04;35)))
+## AMMINISTRAZIONE
 
-### Art. 51
+TITOLO VIII
 
-((PROVVEDIMENTO ABROGATO DAL [D.L. 9 FEBBRAIO 2012, N. 5](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2012-02-09;5),   
-CONVERTITO CON MODIFICAZIONI DALLA [L. 4 APRILE 2012, N. 35](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2012-04-04;35)))
+### Art. 49.
 
-### Art. 52
+((PROVVEDIMENTO ABROGATO DAL D.L. 9 FEBBRAIO 2012, N. 5, 
+ CONVERTITO CON MODIFICAZIONI DALLA L. 4 APRILE 2012, N. 35))
 
-((PROVVEDIMENTO ABROGATO DAL [D.L. 9 FEBBRAIO 2012, N. 5](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2012-02-09;5),   
-CONVERTITO CON MODIFICAZIONI DALLA [L. 4 APRILE 2012, N. 35](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2012-04-04;35)))
+### Art. 50.
 
-### Art. 53
+((PROVVEDIMENTO ABROGATO DAL D.L. 9 FEBBRAIO 2012, N. 5, 
+ CONVERTITO CON MODIFICAZIONI DALLA L. 4 APRILE 2012, N. 35))
 
-((PROVVEDIMENTO ABROGATO DAL [D.L. 9 FEBBRAIO 2012, N. 5](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2012-02-09;5),   
-CONVERTITO CON MODIFICAZIONI DALLA [L. 4 APRILE 2012, N. 35](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2012-04-04;35)))
+### Art. 51.
 
-### Art. 54
+((PROVVEDIMENTO ABROGATO DAL D.L. 9 FEBBRAIO 2012, N. 5, 
+ CONVERTITO CON MODIFICAZIONI DALLA L. 4 APRILE 2012, N. 35))
 
-((PROVVEDIMENTO ABROGATO DAL [D.L. 9 FEBBRAIO 2012, N. 5](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2012-02-09;5),   
-CONVERTITO CON MODIFICAZIONI DALLA [L. 4 APRILE 2012, N. 35](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2012-04-04;35)))
+### Art. 52.
 
-### Art. 55
+((PROVVEDIMENTO ABROGATO DAL D.L. 9 FEBBRAIO 2012, N. 5, 
+ CONVERTITO CON MODIFICAZIONI DALLA L. 4 APRILE 2012, N. 35))
 
-((PROVVEDIMENTO ABROGATO DAL [D.L. 9 FEBBRAIO 2012, N. 5](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2012-02-09;5),   
-CONVERTITO CON MODIFICAZIONI DALLA [L. 4 APRILE 2012, N. 35](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2012-04-04;35)))
+### Art. 53.
 
-### Art. 56
+((PROVVEDIMENTO ABROGATO DAL D.L. 9 FEBBRAIO 2012, N. 5, 
+ CONVERTITO CON MODIFICAZIONI DALLA L. 4 APRILE 2012, N. 35))
 
-((PROVVEDIMENTO ABROGATO DAL [D.L. 9 FEBBRAIO 2012, N. 5](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2012-02-09;5),   
-CONVERTITO CON MODIFICAZIONI DALLA [L. 4 APRILE 2012, N. 35](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2012-04-04;35)))
+### Art. 54.
 
-### Art. 57
+((PROVVEDIMENTO ABROGATO DAL D.L. 9 FEBBRAIO 2012, N. 5, 
+ CONVERTITO CON MODIFICAZIONI DALLA L. 4 APRILE 2012, N. 35))
 
-((PROVVEDIMENTO ABROGATO DAL [D.L. 9 FEBBRAIO 2012, N. 5](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2012-02-09;5),   
-CONVERTITO CON MODIFICAZIONI DALLA [L. 4 APRILE 2012, N. 35](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2012-04-04;35)))
+### Art. 55.
 
-### Art. 58
+((PROVVEDIMENTO ABROGATO DAL D.L. 9 FEBBRAIO 2012, N. 5, 
+ CONVERTITO CON MODIFICAZIONI DALLA L. 4 APRILE 2012, N. 35))
 
-((PROVVEDIMENTO ABROGATO DAL [D.L. 9 FEBBRAIO 2012, N. 5](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2012-02-09;5),   
-CONVERTITO CON MODIFICAZIONI DALLA [L. 4 APRILE 2012, N. 35](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2012-04-04;35)))
+### Art. 56.
 
-### Art. 59
+((PROVVEDIMENTO ABROGATO DAL D.L. 9 FEBBRAIO 2012, N. 5, 
+ CONVERTITO CON MODIFICAZIONI DALLA L. 4 APRILE 2012, N. 35))
 
-((PROVVEDIMENTO ABROGATO DAL [D.L. 9 FEBBRAIO 2012, N. 5](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2012-02-09;5),   
-CONVERTITO CON MODIFICAZIONI DALLA [L. 4 APRILE 2012, N. 35](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2012-04-04;35)))
+### Art. 57.
 
-### Art. 60
+((PROVVEDIMENTO ABROGATO DAL D.L. 9 FEBBRAIO 2012, N. 5, 
+ CONVERTITO CON MODIFICAZIONI DALLA L. 4 APRILE 2012, N. 35))
 
-((PROVVEDIMENTO ABROGATO DAL [D.L. 9 FEBBRAIO 2012, N. 5](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2012-02-09;5),   
-CONVERTITO CON MODIFICAZIONI DALLA [L. 4 APRILE 2012, N. 35](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2012-04-04;35)))
+### Art. 58.
 
-### Art. 61
+((PROVVEDIMENTO ABROGATO DAL D.L. 9 FEBBRAIO 2012, N. 5, 
+ CONVERTITO CON MODIFICAZIONI DALLA L. 4 APRILE 2012, N. 35))
 
-((PROVVEDIMENTO ABROGATO DAL [D.L. 9 FEBBRAIO 2012, N. 5](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2012-02-09;5),   
-CONVERTITO CON MODIFICAZIONI DALLA [L. 4 APRILE 2012, N. 35](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2012-04-04;35)))
+### Art. 59.
 
-CAPO IX TITOLO IX SERVIZIO AMMINISTRATIVO
------------------------------------------
+((PROVVEDIMENTO ABROGATO DAL D.L. 9 FEBBRAIO 2012, N. 5, 
+ CONVERTITO CON MODIFICAZIONI DALLA L. 4 APRILE 2012, N. 35))
 
-### Art. 62
+### Art. 60.
 
-((PROVVEDIMENTO ABROGATO DAL [D.L. 9 FEBBRAIO 2012, N. 5](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2012-02-09;5),   
-CONVERTITO CON MODIFICAZIONI DALLA [L. 4 APRILE 2012, N. 35](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2012-04-04;35)))
+((PROVVEDIMENTO ABROGATO DAL D.L. 9 FEBBRAIO 2012, N. 5, 
+ CONVERTITO CON MODIFICAZIONI DALLA L. 4 APRILE 2012, N. 35))
 
-### Art. 63
+### Art. 61.
 
-((PROVVEDIMENTO ABROGATO DAL [D.L. 9 FEBBRAIO 2012, N. 5](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2012-02-09;5),   
-CONVERTITO CON MODIFICAZIONI DALLA [L. 4 APRILE 2012, N. 35](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2012-04-04;35)))
+((PROVVEDIMENTO ABROGATO DAL D.L. 9 FEBBRAIO 2012, N. 5, 
+ CONVERTITO CON MODIFICAZIONI DALLA L. 4 APRILE 2012, N. 35))
 
-### Art. 64
+## SERVIZIO AMMINISTRATIVO
 
-((PROVVEDIMENTO ABROGATO DAL [D.L. 9 FEBBRAIO 2012, N. 5](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2012-02-09;5), CONVERTITO CON MODIFICAZIONI DALLA [L. 4 APRILE 2012, N. 35](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2012-04-04;35)))
+TITOLO IX
+
+### Art. 62.
+
+((PROVVEDIMENTO ABROGATO DAL D.L. 9 FEBBRAIO 2012, N. 5, 
+ CONVERTITO CON MODIFICAZIONI DALLA L. 4 APRILE 2012, N. 35))
+
+### Art. 63.
+
+((PROVVEDIMENTO ABROGATO DAL D.L. 9 FEBBRAIO 2012, N. 5, 
+ CONVERTITO CON MODIFICAZIONI DALLA L. 4 APRILE 2012, N. 35))
+
+### Art. 64.
+
+((PROVVEDIMENTO ABROGATO DAL D.L. 9 FEBBRAIO 2012, N. 5, CONVERTITO CON MODIFICAZIONI DALLA L. 4 APRILE 2012, N. 35))

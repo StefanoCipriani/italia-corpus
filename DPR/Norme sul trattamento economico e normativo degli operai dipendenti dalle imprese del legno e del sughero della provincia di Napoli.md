@@ -1,20 +1,20 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 26 dicembre 1961 n. 1722
-
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 26 dicembre 1961 n. 1722
-================================================================
-
-Norme sul trattamento economico e normativo degli operai dipendenti dalle imprese del legno e del sughero della provincia di Napoli.
-------------------------------------------------------------------------------------------------------------------------------------
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 1722
+data: 1961-12-26
+titolo: "Norme sul trattamento economico e normativo degli operai dipendenti dalle imprese del legno e del sughero della provincia di Napoli."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1961-12-26;1722
+codice_redazionale: 061U1722
+vigente: true
+---
 
 IL PRESIDENTE DELLA REPUBBLICA
-------------------------------
 
-Visto l'[art. 87, comma quinto, della Costituzione](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27~art87-com5);
+Visto l'[art. 87, comma quinto, della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87-com5);
 
-Vista la [legge 14 luglio 1959, n. 741](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1959-07-14;741), che delega il Governo ad emanare norme transitorie per garantire minimi di trattamento economico e normativo ai lavoratori;
+Vista la [legge 14 luglio 1959, n. 741](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1959-07-14;741), che delega il Governo ad emanare norme transitorie per garantire minimi di trattamento economico e normativo ai lavoratori;
 
-Vista la [legge 1 ottobre 1960, n. 1027](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1960-10-01;1027), recante modifiche alla predetta [legge 14 luglio 1959, n. 741](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1959-07-14;741);
+Vista la [legge 1 ottobre 1960, n. 1027](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1960-10-01;1027), recante modifiche alla predetta [legge 14 luglio 1959, n. 741](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1959-07-14;741);
 
 Visto il contratto collettivo nazionale 19 giugno 1959, per gli operai dipendenti dalle imprese dei prodotti del legno e del sughero;
 
@@ -24,38 +24,16 @@ Vista la pubblicazione nell'apposito Bollettino, n. 34 della provincia di Napoli
 
 Sentito il Consiglio dei Ministri;
 
-Sulla
------
+Sulla proposta del Ministro per il lavoro e la previdenza sociale; Decreta:
 
-proposta del Ministro per il lavoro e la previdenza sociale; Decreta:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-I rapporti di lavoro costituiti per le attivita' per le quali e' stato stipulato, per la provincia di Napoli, l'accordo collettivo integrativo 28 luglio 1960, relativo agli operai dipendenti dalle imprese del legno e del sughero, sono regolati da norme giuridiche uniformi alle clausole dell'accordo anzidetto, annesso al predetto decreto.  
-Dette norme sono integrative di quelle concernenti la disciplina nazionale della categoria, purche' con esse compatibili.  
-I minimi di trattamento economico e normativo cosi' stabiliti sono inderogabili nei confronti di tutti gli operai dipendenti dalle imprese del legno e del sughero della provincia di Napoli.  
-  
+I rapporti di lavoro costituiti per le attivita' per le quali e' stato stipulato, per la provincia di Napoli, l'accordo collettivo integrativo 28 luglio 1960, relativo agli operai dipendenti dalle imprese del legno e del sughero, sono regolati da norme giuridiche uniformi alle clausole dell'accordo anzidetto, annesso al predetto decreto.
+ Dette norme sono integrative di quelle concernenti la disciplina nazionale della categoria, purche' con esse compatibili.
+ I minimi di trattamento economico e normativo cosi' stabiliti sono inderogabili nei confronti di tutti gli operai dipendenti dalle imprese del legno e del sughero della provincia di Napoli.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 26 dicembre 1961
+Dato a Roma, addi' 26 dicembre 1961
 
-GRONCHI FANFANI - SULLO
-
-Visto, il Guardasigilli: BOSCO
-
-Registrato alla Corti dei conti, addi' 26 aprile 1962.
-
-Atti del Governo, registro n. 145, foglio n. 75. - VILLA
-
-Contratto Collettivo
-
-CONTRATTO COLLETTIVO INTEGRATIVO 28 LUGLIO 1960 PER GLI OPERAI DIPENDENTI DALLE IMPRESE DEL LEGNO E DEL SUGHERO DELLA PROVINCIA Di NAPOLI.   
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=061U172200100010110001&dgu=1962-05-19&art.dataPubblicazioneGazzetta=1962-05-19&art.codiceRedazionale=061U1722)
-  
+GRONCHI FANFANI - SULLO Visto, il Guardasigilli: BOSCO Registrato alla Corti dei conti, addi' 26 aprile 1962. Atti del Governo, registro n. 145, foglio n. 75. - VILLA

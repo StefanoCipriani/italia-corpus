@@ -1,20 +1,20 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 22 settembre 1972 n. 711
-
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 22 settembre 1972 n. 711
-================================================================
-
-Modificazioni allo statuto dell'istituto superiore di educazione fisica di Roma.
---------------------------------------------------------------------------------
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 711
+data: 1972-09-22
+titolo: "Modificazioni allo statuto dell'istituto superiore di educazione fisica di Roma."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1972-09-22;711
+codice_redazionale: 072U0711
+vigente: true
+---
 
 IL PRESIDENTE DELLA REPUBBLICA
-------------------------------
 
-Veduto lo statuto dell'istituto superiore di educazione fisica di Roma, approvato con [decreto del Presidente della Repubblica 13 luglio 1960, n. 1594](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1960-07-13;1594) e modificato con [decreto del Presidente della Repubblica 24 settembre 1968, n. 1109](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1968-09-24;1109), e successive modificazioni;
+Veduto lo statuto dell'istituto superiore di educazione fisica di Roma, approvato con [decreto del Presidente della Repubblica 13 luglio 1960, n. 1594](Approvazione%20dello%20statuto%20dellIstituto%20superiore%20di%20educazione%20fisica%20di%20Roma.md) e modificato con [decreto del Presidente della Repubblica 24 settembre 1968, n. 1109](Modificazioni%20allo%20statuto%20dellIstituto%20superiore%20di%20educazione%20fisica%20di%20Roma.md), e successive modificazioni;
 
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
-Veduta la [legge 7 febbraio 1958, n. 88](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1958-02-07;88);
+Veduta la [legge 7 febbraio 1958, n. 88](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1958-02-07;88);
 
 Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Istituto superiore di educazione fisica suddetto;
 
@@ -42,40 +42,28 @@ SCALFARO
 
 Visto, il Guardasigilli: GONELLA
 
-Registrato
-----------
+Registrato alla Corte dei conti, addi' 21 novembre 1972 Atti del Governo, registro n. 253, foglio n. 58. - CARUSO
 
-alla Corte dei conti, addi' 21 novembre 1972 Atti del Governo, registro n. 253, foglio n. 58. - CARUSO
+## Art. 1.
 
-Art. 1
-------
+IL PRESIDENTE DELLA REPUBBLICA
 
- IL PRESIDENTE DELLA REPUBBLICA  
-  
-Veduto lo statuto dell'istituto superiore di educazione fisica di Roma, approvato con [decreto del Presidente della Repubblica 13 luglio 1960, n. 1594](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1960-07-13;1594) e modificato con [decreto del Presidente della Repubblica 24 settembre 1968, n. 1109](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1968-09-24;1109), e successive modificazioni;  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
-Veduta la [legge 7 febbraio 1958, n. 88](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1958-02-07;88);  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Istituto superiore di educazione fisica suddetto;  
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
-Sentito il parere del Consiglio superiore della pubblica istruzione;  
-Sulla proposta del Ministro per la pubblica istruzione;  
-  
-Decreta:  
-  
-Lo statuto dell'istituto superiore di educazione fisica di Roma, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
-Art. 15, relativo alle norme circa l'ammissione al concorso e' modificato nel senso che l'ultimo comma e' soppresso.  
-Art. 63. E' modificato nel senso che l'ultima parte del comma unico, riguardante la sede per gli insegnamenti del gruppo scientifico-culturale e' abolita.  
-  
+ Veduto lo statuto dell'istituto superiore di educazione fisica di Roma, approvato con [decreto del Presidente della Repubblica 13 luglio 1960, n. 1594](Approvazione%20dello%20statuto%20dellIstituto%20superiore%20di%20educazione%20fisica%20di%20Roma.md) e modificato con [decreto del Presidente della Repubblica 24 settembre 1968, n. 1109](Modificazioni%20allo%20statuto%20dellIstituto%20superiore%20di%20educazione%20fisica%20di%20Roma.md), e successive modificazioni;
+ Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+ Veduta la [legge 7 febbraio 1958, n. 88](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1958-02-07;88);
+ Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Istituto superiore di educazione fisica suddetto;
+ Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
+ Sentito il parere del Consiglio superiore della pubblica istruzione;
+ Sulla proposta del Ministro per la pubblica istruzione;
+
+ Decreta:
+
+ Lo statuto dell'istituto superiore di educazione fisica di Roma, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+ Art. 15, relativo alle norme circa l'ammissione al concorso e' modificato nel senso che l'ultimo comma e' soppresso.
+ Art. 63. E' modificato nel senso che l'ultima parte del comma unico, riguardante la sede per gli insegnamenti del gruppo scientifico-culturale e' abolita.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 22 settembre 1972
+Dato a Roma, addi' 22 settembre 1972
 
-LEONE SCALFARO
-
-Visto, il Guardasigilli: GONELLA
-
-Registrato alla Corte dei conti, addi' 21 novembre 1972
-
-Atti del Governo, registro n. 253, foglio n. 58. - CARUSO
+LEONE SCALFARO Visto, il Guardasigilli: GONELLA Registrato alla Corte dei conti, addi' 21 novembre 1972 Atti del Governo, registro n. 253, foglio n. 58. - CARUSO

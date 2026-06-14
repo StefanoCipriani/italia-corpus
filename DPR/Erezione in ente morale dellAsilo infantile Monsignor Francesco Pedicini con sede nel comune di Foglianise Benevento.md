@@ -1,19 +1,21 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 11 febbraio 1952 n. 342
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 342
+data: 1952-02-11
+titolo: "Erezione in ente morale dell'Asilo infantile \"Monsignor Francesco Pedicini\", con sede nel comune di Foglianise (Benevento)."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1952-02-11;342
+codice_redazionale: 052U0342
+vigente: true
+---
 
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 11 febbraio 1952 n. 342
-===============================================================
-
-Erezione in ente morale dell'Asilo infantile "Monsignor Francesco Pedicini", con sede nel comune di Foglianise (Benevento).
----------------------------------------------------------------------------------------------------------------------------
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-342. Decreto del Presidente della Repubblica 11 febbraio 1952, col quale, sulla proposta del Ministro per l'interno, l'Asilo infantile "Monsignor Francesco Pedicini", con sede nel comune di Foglianise (Benevento) viene eretto in ente morale e ne viene approvato lo statuto organico.  
-  
-Visto, il Guardasigilli: ZOLI  
-Registrato alla Corte dei conti, addi' 16 aprile 1952  
-Atti del Governo, registro n. 51, foglio n. 62. - FRASCA
+342.
+
+Decreto del Presidente della Repubblica 11 febbraio 1952, col quale, sulla proposta del Ministro per l'interno, l'Asilo infantile "Monsignor Francesco Pedicini", con sede nel comune di Foglianise (Benevento) viene eretto in ente morale e ne viene approvato lo statuto organico.
+
+Visto, il Guardasigilli: ZOLI
+ Registrato alla Corte dei conti, addi' 16 aprile 1952
+ Atti del Governo, registro n. 51, foglio n. 62. - FRASCA

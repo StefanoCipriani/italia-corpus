@@ -1,100 +1,57 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1981 n. 1156
-
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1981 n. 1156
-===============================================================
-
-Modificazioni allo statuto dell'Universita' cattolica del Sacro Cuore di Milano.
---------------------------------------------------------------------------------
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 1117
+data: 1981-10-31
+titolo: "Modificazioni allo statuto dell'Universita' cattolica del Sacro Cuore di Milano."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1981-10-31;1117
+codice_redazionale: 081U1117
+vigente: true
+---
 
 IL PRESIDENTE DELLA REPUBBLICA
-------------------------------
 
-Veduto lo statuto dell'Universita' cattolica del Sacro Cuore di Milano, approvato con [regio decreto 20 aprile 1939, n. 1163](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1163) e modificato con [regio decreto 26 ottobre 1940, n. 2030](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-26;2030), e successive modificazioni;
+Veduto lo statuto dell'Universita' cattolica del Sacro Cuore di Milano, approvato con [regio decreto 20 aprile 1939, n. 1163](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20del%20nuovo%20statuto%20della%20Universita%20cattolica%20del%20Sacro%20Cuore%20di%20Milano.%20039U1163.md), e modificato con [regio decreto 26 ottobre 1940, n. 2030](../Atti%20normativi%20abrogati%20%28in%20originale%29/Modificazioni%20allo%20statuto%20della%20Universita%20cattolica%20del%20%20Sacro%20Cuore%20%20di%20Milano.%20040U2030.md), e successive modificazioni;
 
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20R.%20decreto-legge%2020%20giugno%201935-XIII%20n.%201071%20contenente%20modifiche%20ed%20aggiornamenti%20al%20testo%20unico%20delle%20leggi%20sullistruzione%20superiore.%20036U0073.md);
 
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
+Veduto il [regio decreto 30 settembre 1938, n. 1652](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disposizioni%20sullordinamento%20didattico%20universitario.%20038U1652.md), e successive modificazioni;
 
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
+Veduta la [legge 11 aprile 1953, n. 312](../Atti%20normativi%20abrogati%20%28in%20originale%29/Libera%20inclusione%20di%20nuovi%20insegnamenti%20complementari%20negli%20statuti%20delle%20Universita%20e%20degli%20Istituti%20distruzione%20superiore.md);
 
-Veduto il [decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382);
+Veduto il [decreto del Presidente della Repubblica 11 luglio 1980, n. 382](Riordinamento%20della%20docenza%20universitaria%20relativa%20fascia%20di%20formazione%20nonche%20sperimentazione%20organizzativa%20e%20didattica.md);
 
 Vedute le proposte di modifica dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
 
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' cattolica del Sacro Cuore di Milano e convalidati dal Consiglio universitario nazionale nel suo parere;
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](https://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592#art_17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' cattolica del Sacro Cuore di Milano e convalidati dal Consiglio universitario nazionale nel suo parere;
 
 Sentito il parere del Consiglio universitario nazionale;
 
-Sulla
------
+Sulla proposta del Ministro della pubblica istruzione;
 
-proposta del Ministro della pubblica istruzione, di concerto con il Ministro del tesoro; Decreta:
+Decreta: Lo statuto dell'Universita' cattolica del Sacro Cuore di Milano, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
 
-Art. 1
-------
+## Articolo unico
 
-  
-Lo statuto dell'Universita' cattolica del Sacro Cuore di Milano, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come segue:  
-  
-Nella tabella n. 1 (art. 27) l'annotazione n. 5, concernente un posto convenzionato di professore di ruolo, presso la facolta' di medicina e chirurgia e' integrata come segue: "la cui denominazione e' stata modificata in "cardiologia" con [decreto del Presidente della Repubblica 5 settembre 1980, n. 637](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-09-05;637)".  
-
-Art. 2
-------
-
-  
-E' approvato l'allegato atto stipulato il 6 marzo 1981, aggiuntivo della convenzione stipulata il 2 dicembre 1976 tra l'Universita' cattolica del Sacro Cuore di Milano e l'Associazione laicale Oasi Maria SS. di Troina avente per oggetto l'istituzione di un posto convenzionato di professore di ruolo per l'insegnamento di fisiopatologia cardiocircolatoria, concernente il cambio di denominazione di detto insegnamento in cardiologia.  
-  
+Art. 15 - nell'elenco degli insegnamenti complementari del corso di laurea in lettere l'insegnamento di "antichita' greche e romane" e' soppresso.
+ Nello stesso elenco sono, inoltre, inseriti i seguenti insegnamenti:
+ antichita' romane;
+ antichita' greche;
+ psicologia sociale della famiglia;
+ storia e istituzioni dell'Oriente cristiano;
+ lingua e letteratura siriaca;
+ lingua e letteratura georgiana;
+ lingua e letteratura armena.
+ Art. 16 - nell'elenco degli insegnamenti complementari del corso di laurea in filosofia sono inseriti i seguenti insegnamenti:
+ psicologia sociale della famiglia;
+ storia e istituzioni dell'Oriente cristiano.
+ Art. 17 - nell'elenco degli insegnamenti complementari del corso di laurea in lingue e letterature straniere moderne sono inseriti i seguenti insegnamenti:
+ lingua e letteratura georgiana;
+ lingua e letteratura armena.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 31 ottobre 1981
+Dato a Roma, addi' 31 ottobre 1981
 
-PERTINI BODRATO - ANDREATTA
-
-Visto, il Guardasigilli: DARIDA
-
-Registrato alla Corte dei conti, addi' 5 luglio 1982
-
-Registro n. 87 Istruzione, foglio n. 108
-
-Allegato
-
- Rep. n. 193/1981   
-  
-ATTO AGGIUNTIVO ALLA CONVENZIONE STIPULATA IL 2 DICEMBRE 1976 TRA L'UNIVERSITA' CATTOLICA DEL SACRO CUORE E L'ASSOCIAZIONE LAICALE OASI MARIA SS. DI TROINA AVENTE PER OGGETTO: "ISTITUZIONE DI UN POSTO CONVENZIONATO DI PROFESSORE DI RUOLO PER L'INSEGNAMENTO DI FISIOPATOLOGIA CARDIOCIRCOLATORIA PRESSO LA FACOLTA' DI MEDICINA E CHIRURGIA DELL'UNIVERSITA' CATTOLICA DEL SACRO CUORE".   
-  
-REPUBBLICA ITALIANA   
-  
-L'anno 1981 (millenovecentottantuno) il giorno 6 del mese di marzo alle ore 12, in una sala del rettorato dell'Universita' cattolica del S. Cuore, presso la sede di Roma, avanti a me dott. Domenico Lofrese, nato ad Acquaviva delle Fonti (Bari) il 6 febbraio 1932, residente a Milano, nella mia qualita' di direttore amministrativo dell'Universita' cattolica del S. Cuore, delegato a ricevere gli atti in forma pubblica, ai sensi dell'art. 129 del R.G.U. approvato con [regio decreto 6 aprile 1924, n. 674, con decreto](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-04-06;674) del rettore n. 7743 in data 27 gennaio 1979, con rinuncia di comune accordo dei testimoni, si sono personalmente costituiti i signori:   
-prof. Giuseppe Lazzati, nato a Milano il 22 giugno 1909, residente per la carica in Milano, largo Gemelli n. 1, rettore dell'Universita' cattolica del S. Cuore, avente i poteri per questo atto;   
-rev.do sac. Luigi Ferlauto, nato a Troina il 24 luglio 1922, residente in Troina, via Conte Ruggero n. 73, presidente della Associazione laicale Oasi Maria SS. di Troina, avente i poteri per questo atto;   
-  
-Premesso   
-  
-che in data 2 dicembre 1976 e' stata stipulata, tra l'Universita' cattolica del S. Cuore e l'Associazione laicale Oasi Maria SS. di Troina, una convenzione per l'istituzione di un posto convenzionato di professore di ruolo per l'insegnamento di "Fisiopatologia cardiocircolatoria";   
-che per aderire alla richiesta del Ministero della pubblica istruzione, formulata su osservazione del Ministero del tesoro, in data 2 febbraio 1978 e' stato stipulato un atto aggiuntivo alla succitata convenzione;   
-che con [decreto del Presidente della Repubblica 5 settembre 1980 n. 637, pubblicato nella Gazzetta Ufficiale n. 282 del 14 ottobre 1980](http://www.gazzettaufficiale.it/gazzetta/serie_generale/caricaDettaglio?dataPubblicazioneGazzetta=1980-10-14&numeroGazzetta=282), e' stato approvato il cambio di denominazione dell'insegnamento di "fisiopatologia cardiocircolatoria" in "cardiologia".   
-  
-Tutto cio' premesso   
-  
-Le parti come sopra costituite convengono che la dizione dell'insegnamento, per cui e' stato istituito un posto convenzionato di professore di ruolo, nella convenzione 2 dicembre 1976 rep. 43/1976 citata nella premessa, nonche' nel primo atto aggiuntivo del 2 febbraio 1978 rep. 68/1978, e' modificata in "cardiologia".   
-La presente convenzione, essendo atto integrativo di altra convenzione stipulata il 2 dicembre 1976 rep. 43/1976 e registrata a Milano il 16 dicembre 1976, ufficio registro atti pubblici, A/2 n. 18839, serie I, verra' registrata con lo stesso regime tributario della gia' richiamata convenzione.   
-Dichiarano le parti stipulanti che il presente atto ha come finalita' quelle culturali e di ricerca scientifica, come peraltro si evince da quanto precede e pertanto l'Universita' cattolica chiede, in ordine alla registrazione, le agevolazioni fiscali del caso.   
-  
-Il presente atto viene pubblicato mediante lettura da me datane ai comparenti che, trovandolo conforme alla loro volonta', lo sottoscrivono con me ufficiale rogante.   
-  
-L'atto consta di un foglio scritto su tre facciate intere e cinque righe della quarta facciata, comprese le firme.   
-  
-Giuseppe LAZZATI   
-Luigi FERLAUTO   
-Domenico LOFRESE, rogante   
-  
-Registrato a Milano il 24 marzo 1981 - ufficio del registro atti pubblici, al n. A/06238, mod. 71/M, serie I - Esatte L. 20.200.   
-  
-Visto, d'ordine del Presidente della Repubblica   
-Il Ministro per la pubblica istruzione   
-BODRATO   
+PERTINI BODRATO Visto, il Guardasigilli: DARIDA Registrato alla Corte dei conti, addi' 15 marzo 1982 Registro n. 41 Istruzione, foglio n. 286

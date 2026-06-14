@@ -1,19 +1,21 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 08 febbraio 1958 n. 390
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 390
+data: 1958-02-08
+titolo: "Riconoscimento della personalita' giuridica della fondazione di religione denominata \"Opera diocesana di Sant'Anselmo Vescovo\", con sede in Mantova."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1958-02-08;390
+codice_redazionale: 058U0390
+vigente: true
+---
 
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 08 febbraio 1958 n. 390
-===============================================================
-
-Riconoscimento della personalita' giuridica della fondazione di religione denominata "Opera diocesana di Sant'Anselmo Vescovo", con sede in Mantova.
-----------------------------------------------------------------------------------------------------------------------------------------------------
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-390. Decreto del Presidente della Repubblica 8 febbraio 1958, col quale, sulla proposta del Ministro per l'interno, viene riconosciuta la personalita' giuridica della fondazione di religione denominata "Opera diocesana di Sant'Anselmo Vescovo", con sede in Mantova, e ne viene approvato lo statuto.  
-  
-Visto, il Guardasigilli: GONELLA  
-Registrato alla Corte dei conti, addi' 12 marzo 1958  
-Atti del Governo, registro n. 111, foglio n. 144. - RELLEVA
+390.
+
+Decreto del Presidente della Repubblica 8 febbraio 1958, col quale, sulla proposta del Ministro per l'interno, viene riconosciuta la personalita' giuridica della fondazione di religione denominata "Opera diocesana di Sant'Anselmo Vescovo", con sede in Mantova, e ne viene approvato lo statuto.
+
+Visto, il Guardasigilli: GONELLA
+ Registrato alla Corte dei conti, addi' 12 marzo 1958
+ Atti del Governo, registro n. 111, foglio n. 144. - RELLEVA

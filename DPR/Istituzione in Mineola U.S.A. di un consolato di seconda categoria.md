@@ -1,36 +1,26 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 14 dicembre 1985 n. 960
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 960
+data: 1985-12-14
+titolo: "Istituzione in Mineola (U.S.A.) di un consolato di seconda categoria."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1985-12-14;960
+codice_redazionale: 085U0960
+vigente: true
+---
 
+## Art. 1.
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 14 dicembre 1985 n. 960
-===============================================================
+IL PRESIDENTE DELLA REPUBBLICA
 
-Istituzione in Mineola (U.S.A.) di un consolato di seconda categoria.
----------------------------------------------------------------------
+ Visto l'[art. 30 del decreto del Presidente della Repubblica 5 gennaio 1967, n. 18](Ordinamento%20dellAmministrazione%20degli%20affari%20esteri.md), relativo all'ordinamento dell'Amministrazione degli affari esteri;
+ Sulla proposta del Ministro degli affari esteri;
 
-Art. 1
-------
+ Decreta:
 
- IL PRESIDENTE DELLA REPUBBLICA  
-  
-Visto l'[art. 30 del decreto del Presidente della Repubblica 5 gennaio 1967, n. 18](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1967-01-05;18~art30), relativo all'ordinamento dell'Amministrazione degli affari esteri;  
-Sulla proposta del Ministro degli affari esteri;  
-  
-Decreta:  
-  
-A decorrere dal 15 dicembre 1985 e' istituito in Mineola (Stati Uniti) un consolato di seconda categoria.  
-  
+ A decorrere dal 15 dicembre 1985 e' istituito in Mineola (Stati Uniti) un consolato di seconda categoria.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 14 dicembre 1985
+Dato a Roma, addi' 14 dicembre 1985
 
-COSSIGA
-
-ANDREOTTI, Ministro degli affari esteri
-
-Visto, il Guardasigilli: MARTINAZZOLI
-
-Registrato alla Corte dei conti, addi' 12 marzo 1986
-
-Registro n. 3 Esteri, foglio n. 111
+COSSIGA ANDREOTTI, Ministro degli affari esteri Visto, il Guardasigilli: MARTINAZZOLI Registrato alla Corte dei conti, addi' 12 marzo 1986 Registro n. 3 Esteri, foglio n. 111

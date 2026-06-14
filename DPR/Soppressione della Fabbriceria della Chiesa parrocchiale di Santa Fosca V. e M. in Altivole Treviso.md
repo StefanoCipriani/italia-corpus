@@ -1,19 +1,21 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 26 agosto 1959 n. 903
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 903
+data: 1959-08-26
+titolo: "Soppressione della Fabbriceria della Chiesa parrocchiale di Santa Fosca V. e M., in Altivole (Treviso)."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1959-08-26;903
+codice_redazionale: 059U0903
+vigente: true
+---
 
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 26 agosto 1959 n. 903
-=============================================================
-
-Soppressione della Fabbriceria della Chiesa parrocchiale di Santa Fosca V. e M., in Altivole (Treviso).
--------------------------------------------------------------------------------------------------------
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-903. Decreto del Presidente della Repubblica 26 agosto 1959, col quale, sulla proposta del Ministro per l'interno, viene soppressa la Fabbriceria della Chiesa parrocchiale di Santa Fosca V. e M., in Altivole (Treviso).  
-  
-Visto, il Guardasigilli: GONELLA  
-Registrato alla Corte del conti, addi' 26 ottobre 1959  
-Atti del Governo, registro n. 121, foglio n. 103. - RELLEVA
+903.
+
+Decreto del Presidente della Repubblica 26 agosto 1959, col quale, sulla proposta del Ministro per l'interno, viene soppressa la Fabbriceria della Chiesa parrocchiale di Santa Fosca V. e M., in Altivole (Treviso).
+
+Visto, il Guardasigilli: GONELLA
+ Registrato alla Corte del conti, addi' 26 ottobre 1959
+ Atti del Governo, registro n. 121, foglio n. 103. - RELLEVA

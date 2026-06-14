@@ -1,20 +1,22 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 12 giugno 1984 n. 574
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 574
+data: 1984-06-12
+titolo: "Riconoscimento della personalita' giuridica della chiesa parrocchiale di \"S. Agostino\", in Livorno."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1984-06-12;574
+codice_redazionale: 084U0574
+vigente: true
+---
 
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 12 giugno 1984 n. 574
-=============================================================
-
-Riconoscimento della personalita' giuridica della chiesa parrocchiale di "S. Agostino", in Livorno.
----------------------------------------------------------------------------------------------------
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-574. Decreto del Presidente della Repubblica 12 giugno 1984, col quale, sulla proposta del Ministro dell'interno, viene riconosciuta la personalita' giuridica della chiesa parrocchiale di "S.  
-Agostino", in Livorno.  
-  
-Visto, il Guardasigilli: MARTINAZZOLI  
-Registrato alla Corte dei conti, addi' 8 settembre 1984  
-Registro n. 29 interno, foglio n. 189
+574.
+
+Decreto del Presidente della Repubblica 12 giugno 1984, col quale, sulla proposta del Ministro dell'interno, viene riconosciuta la personalita' giuridica della chiesa parrocchiale di "S.
+ Agostino", in Livorno.
+
+Visto, il Guardasigilli: MARTINAZZOLI
+ Registrato alla Corte dei conti, addi' 8 settembre 1984
+ Registro n. 29 interno, foglio n. 189

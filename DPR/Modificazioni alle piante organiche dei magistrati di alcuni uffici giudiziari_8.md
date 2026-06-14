@@ -1,63 +1,65 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 26 novembre 1986 n. 962
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 380
+data: 1985-05-25
+titolo: "Modificazioni alle piante organiche dei magistrati di alcuni uffici giudiziari."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1985-05-25;380
+codice_redazionale: 085U0380
+vigente: true
+---
 
+IL PRESIDENTE DELLA REPUBBLICA
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 26 novembre 1986 n. 962
-===============================================================
+Vista la tabella C relativa alle piante organiche dei magistrati giudicanti e del pubblico ministero addetti ai tribunali ed alle procure della Repubblica, allegata al [decreto presidenziale 31 dicembre 1966, n. 1185](Piante%20organiche%20dei%20magistrati%20addetti%20alle%20Corti%20di%20appello%20alle%20Procure%20generali%20presso%20le%20Corti%20di%20appello%20ai%20Tribunali%20alle%20Procure%20della%20Repubblica%20presso%20i%20Tribunali%20e%20alle%20Preture.md), e successive variazioni;
 
-Modificazioni alle piante organiche dei magistrati di alcuni uffici giudiziari.
--------------------------------------------------------------------------------
+Vista la tabella A allegata alla [legge 9 marzo 1971, n. 35](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1971-03-09;35), con la quale sono state determinate le piante organiche dei magistrati addetti ai tribunali per i minorenni ed alle procure della Repubblica presso gli stessi tribunali, e successive variazioni;
 
-Art. 1
-------
+Vista la tabella A allegata alla [legge 12 gennaio 1977, n. 1](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1977-01-12;1), che determina le sedi e le giurisdizioni degli uffici di sorveglianza;
 
- IL PRESIDENTE DELLA REPUBBLICA  
-  
-Vista la tabella C relativa alle piante organiche dei magistrati giudicanti e del pubblico ministero addetti ai tribunali ed alle procure della Repubblica, allegata al [decreto del Presidente della Repubblica 31 dicembre 1966, n. 1185](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1966-12-31;1185), e successive variazioni;  
-Considerata la necessita', al fine di fronteggiare le accresciute esigenze di servizio, di potenziare le piante organiche dei magistrati dei seguenti uffici giudiziari, per il numero di unita' a fianco di ciascuno di essi indicato:  
-Tribunali:  
-Palmi - presidenti di sezione 1, giudici 1;  
-Reggio Calabria - giudici 2;  
-Procure della Repubblica presso i tribunali di:  
-Lamezia Terme - sostituti 1;  
-Paola - sostituti 1;  
-Trapani - sostituti 1;  
-Ritenuto che le unita' necessarie per i suddetti aumenti possono essere reperite presso i seguenti uffici giudiziari, le cui piante organiche vengono ridotte delle unita' a fianco di ciascuno indicate:  
-Tribunali:  
-giudici - Asti 1, Bari 1, Chieti 1, Lucera 1, Massa 1, Roma 1, Rossano 1;  
-Visti i pareri espressi al riguardo dal Consiglio superiore della magistratura nelle sedute del 18 dicembre 1985 e 3 giugno 1986;  
-Visto l'art. 1, ultimo comma, della [legge 4 gennaio 1963, n. 1](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1963-01-04;1);  
-Sulla proposta del Ministro di grazia e giustizia;  
-  
-Decreta:  
-  
-La tabella C allegata al [decreto del Presidente della Repubblica 31 dicembre 1966, n. 1185](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1966-12-31;1185), e successive variazioni, relativa alle piante organiche dei magistrati giudicanti e del pubblico ministero addetti ai tribunali ed alle procure della Repubblica, e' modificata, per la parte concernente gli uffici cui si riferisce, come dalla tabella A allegata al presente decreto, vistata dal Ministro proponente.  
-  
+Considerata la necessita' di potenziare l'organico dei magistrati dei seguenti uffici giudiziari per le unita' a fianco di ciascuno di essi indicate, al fine di fronteggiare le accresciute esigenze di servizio:
 
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Tribunali per i minorenni:
 
-### Dato a Roma, addi' 26 novembre 1986
+giudici: Ancona 1, Bari 1, Bologna 1, Brescia 1, Cagliari 1, Catania 1, Firenze 1, Genova 1, L'Aquila 1, Lecce 1, Milano 1, Napoli 2, Palermo 1, Roma 2, Salerno 1, Torino 1, Trento 1, Trieste 1, Venezia 1;
 
-COSSIGA
+Procure della Repubblica presso i tribunali per i minorenni:
 
-ROGNONI, Ministro di grazia e giustizia
+sostituti: Ancona 1, Bari 1, Brescia 1, Cagliari 1, Genova 1, L'Aquila 1, Lecce 1, Milano 1, Napoli 1, Palermo 1, Perugia 1, Potenza 1, Roma 1, Torino 1, Trento 1, Venezia 1;
 
-Visto, il Guardasigilli: ROGNONI
+Uffici di sorveglianza:
 
-Registrato alla Corte dei conti, addi' 20 dicembre 1986
+magistrati di tribunale: Bari 1, Brescia 1, Catania 1, Catanzaro 1, Firenze 1, Genova 1, Livorno 1, Milano 1, Napoli 1, Palermo 1, Torino 1, Venezia 1;
 
-Registro n. 56 Giustizia, foglio n. 253
+Visto il parere espresso al riguardo dal Consiglio superiore della magistratura nella seduta del 10 aprile 1985 e in parziale difformita' dello stesso;
 
-Tabella A
+Ritenuto che due delle unita' necessarie per gli aumenti in questione possono, tenuto conto degli indici di lavoro, essere reperite nel tribunale di Firenze e nella procura della Repubblica presso lo stesso tribunale;
 
- TABELLA A   
-MAGISTRATI GIUDICANTI E DEL PUBBLICO MINISTERO ADDETTI AI TRIBUNALI   
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=086U096200100010110001&dgu=1987-01-15&art.dataPubblicazioneGazzetta=1987-01-15&art.codiceRedazionale=086U0962)
-  
-  
-  
-  
-Visto, il Ministro di grazia e giustizia   
-ROGNONI   
+Ritenute che altre due delle unita' necessarie per i suddetti aumenti possono essere reperite, tenuto conto degli indici di lavoro, anziche' nei tribunali di Savona e di Rovigo, in quelli di Casale Monferrato e di Isernia;
+
+Considerato che per operare i suindicati aumenti e' necessario ridurre l'organico dei magistrati dei seguenti uffici giudiziari, delle unita' a fianco di ciascuno di essi indicate:
+
+Tribunali:
+
+presidenti di sezione: Casale Monferrato 1; giudici: Ascoli Piceno 1, Avellino 1, Bari 2, Belluno 1, Bergamo 1, Cagliari 1, Campobasso 1, Catania 1, Catanzaro 1, Firenze 1, Foggia 1, Genova 1, Grosseto 1, Isernia 1, L'Aquila 1, Larino 1, Lecce 2, Milano 4, Napoli 1, Oristano 1, Palermo 1, Perugia 1, Pinerolo 1, Potenza 1, Reggio Emilia 1, Roma 4, Torino 1, Trento 1, Trieste 1, Venezia 1, Voghera 1;
+
+Procure della Repubblica:
+
+sostituti: Ascoli Piceno 1, Bergamo 1, Brescia 1, Firenze 1, Genova 1, L'Aquila 1, Roma 1, Trento 1, Vercelli 1;
+
+Visto l'art. 1, ultimo comma, della [legge 4 gennaio 1963, n. 1](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1963-01-04;1);
+
+Sulla proposta del Ministro di grazia e giustizia; Decreta:
+
+## Art. 1.
+
+La tabella C allegata al [decreto del Presidente della Repubblica 31 dicembre 1966, n. 1185](Piante%20organiche%20dei%20magistrati%20addetti%20alle%20Corti%20di%20appello%20alle%20Procure%20generali%20presso%20le%20Corti%20di%20appello%20ai%20Tribunali%20alle%20Procure%20della%20Repubblica%20presso%20i%20Tribunali%20e%20alle%20Preture.md), e successive variazioni, relativa alle piante organiche dei magistrati giudicanti e del pubblico ministero addetti ai tribunali, alle procure della Repubblica ed agli uffici di sorveglianza, e' modificata, per la parte relativa agli uffici cui si riferisce, come dalla tabella A allegata al presente decreto, vistata dal Ministro proponente.
+
+## Art. 2.
+
+La tabella A allegata alla [legge 9 marzo 1971, n. 35](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1971-03-09;35), e successive variazioni, relativa alle piante organiche dei magistrati giudicanti e del pubblico ministero addetti ai tribunali per i minorenni ed alle procure della Repubblica presso gli stessi tribunali, e' modificata, per la parte relativa agli uffici cui si riferisce, come dalla tabella B allegata al presente decreto, vistata dal Ministro proponente.
+
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+
+Dato a Roma, addi' 25 maggio 1985
+
+PERTINI MARTINAZZOLI, Ministro di grazia e giustizia Visto, il Guardasigilli: MARTINAZZOLI Registrato alla Corte dei conti, addi' 24 luglio 1985 Registro n. 34 Giustizia, foglio n. 374

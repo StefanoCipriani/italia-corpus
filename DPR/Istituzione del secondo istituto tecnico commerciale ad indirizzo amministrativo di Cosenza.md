@@ -1,19 +1,21 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 marzo 1983 n. 1280
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 1280
+data: 1983-03-31
+titolo: "Istituzione del secondo istituto tecnico commerciale ad indirizzo amministrativo di Cosenza."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1983-03-31;1280
+codice_redazionale: 083U1280
+vigente: true
+---
 
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 marzo 1983 n. 1280
-=============================================================
-
-Istituzione del secondo istituto tecnico commerciale ad indirizzo amministrativo di Cosenza.
---------------------------------------------------------------------------------------------
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-1280. Decreto del Presidente della Repubblica 31 marzo 1983, col quale, sulla proposta del Ministro della pubblica istruzione, di concerto con i Ministri dell'interno e del tesoro, viene istituito, con decorrenza dall'inizio dell'anno scolastico 1980-81, l'istituto tecnico commerciale ad indirizzo amministrativo di Cosenza (secondo istituto) e ne viene approvata la tabella organica. Con la stessa decorrenza viene, altresi', modificata la tabella organica dell'istituto tecnico commerciale ad indirizzo amministrativo "Pezzullo" di Cosenza.  
-  
-Visto, il Guardasigilli: MARTINAZZOLI  
-Registrato alla Corte dei conti, addi' 4 settembre 1984  
-Registro n. 52 Istruzione, foglio n. 246
+1280.
+
+Decreto del Presidente della Repubblica 31 marzo 1983, col quale, sulla proposta del Ministro della pubblica istruzione, di concerto con i Ministri dell'interno e del tesoro, viene istituito, con decorrenza dall'inizio dell'anno scolastico 1980-81, l'istituto tecnico commerciale ad indirizzo amministrativo di Cosenza (secondo istituto) e ne viene approvata la tabella organica. Con la stessa decorrenza viene, altresi', modificata la tabella organica dell'istituto tecnico commerciale ad indirizzo amministrativo "Pezzullo" di Cosenza.
+
+Visto, il Guardasigilli: MARTINAZZOLI
+ Registrato alla Corte dei conti, addi' 4 settembre 1984
+ Registro n. 52 Istruzione, foglio n. 246

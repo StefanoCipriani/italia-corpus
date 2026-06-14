@@ -1,18 +1,20 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 05 maggio 1951 n. 477
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 477
+data: 1951-05-05
+titolo: "Soppressione dell'Agenzia consolare in Barcellona e istituzione di un Vice consolato di 2ª categoria in Barcellona Puerto La Cruz."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1951-05-05;477
+codice_redazionale: 051U0477
+vigente: true
+---
 
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 05 maggio 1951 n. 477
-=============================================================
-
-Soppressione dell'Agenzia consolare in Barcellona e istituzione di un Vice consolato di 2ª categoria in Barcellona Puerto La Cruz.
-----------------------------------------------------------------------------------------------------------------------------------
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-477. Decreto del Presidente della Repubblica 5 maggio 1951, col quale, sulla proposta del Ministro per gli affari esteri, viene soppressa l'Agenzia consolare in Barcellona e viene istituito un Vice consolato di 2ª categoria in Barcellona Puerto La Cruz.  
-  
-Visto, il Guardasigilli: PICCIONI  
-Registrato alla Corte dei conti, addi' 21 giugno 1951
+477.
+
+Decreto del Presidente della Repubblica 5 maggio 1951, col quale, sulla proposta del Ministro per gli affari esteri, viene soppressa l'Agenzia consolare in Barcellona e viene istituito un Vice consolato di 2ª categoria in Barcellona Puerto La Cruz.
+
+Visto, il Guardasigilli: PICCIONI
+ Registrato alla Corte dei conti, addi' 21 giugno 1951

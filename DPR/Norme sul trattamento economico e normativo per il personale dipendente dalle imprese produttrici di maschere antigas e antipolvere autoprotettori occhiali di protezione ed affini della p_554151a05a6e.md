@@ -1,20 +1,20 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 26 dicembre 1961 n. 1728
-
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 26 dicembre 1961 n. 1728
-================================================================
-
-Norme sul trattamento economico e normativo per il personale dipendente dalle imprese produttrici di maschere antigas e antipolvere, autoprotettori, occhiali di protezione ed affini della provincia di Milano.
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 1728
+data: 1961-12-26
+titolo: "Norme sul trattamento economico e normativo per il personale dipendente dalle imprese produttrici di maschere antigas e antipolvere, autoprotettori, occhiali di protezione ed affini della provincia di Milano."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1961-12-26;1728
+codice_redazionale: 061U1728
+vigente: true
+---
 
 IL PRESIDENTE DELLA REPUBBLICA
-------------------------------
 
-Visto l'[art. 87, comma quinto, della Costituzione](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27~art87-com5);
+Visto l'[art. 87, comma quinto, della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87-com5);
 
-Vista la [legge 14 luglio 1959, n. 741](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1959-07-14;741), che delega il Governo ad emanare norme transitorie per garantire minimi di trattamento economico e normativo ai lavoratori;
+Vista la [legge 14 luglio 1959, n. 741](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1959-07-14;741), che delega il Governo ad emanare norme transitorie per garantire minimi di trattamento economico e normativo ai lavoratori;
 
-Vista la [legge 1 ottobre 1960, n. 1027](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1960-10-01;1027), recante modifiche alla predetta [legge 14 luglio 1959, n. 741](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1959-07-14;741);
+Vista la [legge 1 ottobre 1960, n. 1027](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1960-10-01;1027), recante modifiche alla predetta [legge 14 luglio 1959, n. 741](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1959-07-14;741);
 
 Visto l'accordo 12 giugno 1954 per il conglobamento e riassetto zonale delle retribuzioni per i settori industriali;
 
@@ -26,37 +26,15 @@ Vista la pubblicazione nell'apposito Bollettino, n. 6 della provincia di Milano,
 
 Sentito il Consiglio dei Ministri;
 
-Sulla
------
+Sulla proposta del Ministro per il lavoro e la previdenza sociale; Decreta:
 
-proposta del Ministro per il lavoro e la previdenza sociale; Decreta:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-I rapporti di lavoro costituti per le attivita' per le quali e' stato stipulato, per la provincia di Milano, l'accordo collettivo 3 novembre 1954, relativo al personale dipendente dalle aziende addette alla produzione di maschere antigas e antipolvere, autoprotettori, occhiali di protezione, ecc., sono regolati da norme giuridiche uniformi alle clausole dell'accordo anzidetto, annesso al presente decreto, purche' compatibili con la disciplina nazionale del conglobamento e riassetto zonale delle retribuzioni per i settori industriali.  
-I minimi di trattamento economico e normativo cosi' stabiliti sono inderogabili nei confronti di tutti i dipendenti dalle imprese produttrici di maschere antigas e antipolvere, autoprotettori, occhiali di protezione ed affini della provincia di Milano.  
-  
+I rapporti di lavoro costituti per le attivita' per le quali e' stato stipulato, per la provincia di Milano, l'accordo collettivo 3 novembre 1954, relativo al personale dipendente dalle aziende addette alla produzione di maschere antigas e antipolvere, autoprotettori, occhiali di protezione, ecc., sono regolati da norme giuridiche uniformi alle clausole dell'accordo anzidetto, annesso al presente decreto, purche' compatibili con la disciplina nazionale del conglobamento e riassetto zonale delle retribuzioni per i settori industriali.
+ I minimi di trattamento economico e normativo cosi' stabiliti sono inderogabili nei confronti di tutti i dipendenti dalle imprese produttrici di maschere antigas e antipolvere, autoprotettori, occhiali di protezione ed affini della provincia di Milano.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dati a Roma, addi' 26 dicembre 1961
+Dati a Roma, addi' 26 dicembre 1961
 
-GRONCHI FANFANI - SULLO
-
-Visto, il Guardasigilli: BOSCO
-
-Registrato alla Corte dei conti, addi' 27 aprile 1962
-
-Atti del Governo, registro n. 145, foglio n. 94. - VILLA
-
-Accordo Collettivo
-
-ACCORDO COLLETTIVO 3 NOVEMBRE 1954 PER IL PERSONALE DIPENDENTE DALLE AZIENDE ADDETTE ALLA PRODUZIONE DI MASCHERE ANTIGAS E ANTIPOLVERE, AUTOPROTETTORI, OCCHIALI DI PROTEZIONE, ECC., DELLA PROVINCIA DI MILANO.   
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=061U172800100010110001&dgu=1962-05-21&art.dataPubblicazioneGazzetta=1962-05-21&art.codiceRedazionale=061U1728)
-  
+GRONCHI FANFANI - SULLO Visto, il Guardasigilli: BOSCO Registrato alla Corte dei conti, addi' 27 aprile 1962 Atti del Governo, registro n. 145, foglio n. 94. - VILLA

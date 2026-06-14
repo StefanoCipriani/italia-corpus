@@ -1,20 +1,20 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 16 settembre 1971 n. 1367
-
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 16 settembre 1971 n. 1367
-=================================================================
-
-Classificazione tra i comprensori di bonifica di seconda categoria del territorio dei bacini vallivi dei fiumi Metauro e Cesano.
---------------------------------------------------------------------------------------------------------------------------------
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 1367
+data: 1971-09-16
+titolo: "Classificazione tra i comprensori di bonifica di seconda categoria del territorio dei bacini vallivi dei fiumi Metauro e Cesano."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1971-09-16;1367
+codice_redazionale: 071U1367
+vigente: true
+---
 
 IL PRESIDENTE DELLA REPUBBLICA
-------------------------------
 
 Vista la domanda in data 22 marzo 1968 e i relativi allegati presentati dal consorzio di bonifica Val del Foglia con sede in Pesaro ed intesi ad ottenere l'ampliamento del proprio perimetro mediante l'inclusione dei bacini vallivi dei fiumi Metauro e Cesano di ha. 46.330, ricadenti nelle province di Pesaro e di Ancona, previa classifica della zona stessa in comprensorio di bonifica di seconda categoria;
 
 Considerato che, indipendentemente dall'ampliamento, e' necessario procedere alla classifica dei terreni stessi fra i comprensori di bonifica di seconda categoria;
 
-Visto in proposito il [decreto ministeriale 9 dicembre 1968, n. 3119](http://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.:decreto:1968-12-09;3119), con il quale e' stata disposta la pubblicazione della domanda 22 marzo 1968 e dei relativi allegati;
+Visto in proposito il [decreto ministeriale 9 dicembre 1968, n. 3119](https://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.:decreto:1968-12-09;3119), con il quale e' stata disposta la pubblicazione della domanda 22 marzo 1968 e dei relativi allegati;
 
 Visti sugli atti:
 
@@ -26,35 +26,22 @@ i pareri dell'ispettore generale del genio civile addetto al provveditorato regi
 
 il voto del Consiglio superiore dell'agricoltura 19 maggio 1970;
 
-Viste le note 18 novembre 1970, n. 4007 del [Ministero dei lavori pubblici e 20 gennaio 1971, n. 182259](http://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.lavori.pubblici::1971-01-20;182259) del Ministero del tesoro, dell'assenso espresso ai sensi dell'[art. 3 del regio decreto 13 febbraio 1933, n. 215](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-02-13;215~art3), sulla proposta di classifica di che trattasi;
+Viste le note 18 novembre 1970, n. 4007 del [Ministero dei lavori pubblici e 20 gennaio 1971, n. 182259](https://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.lavori.pubblici::1971-01-20;182259) del Ministero del tesoro, dell'assenso espresso ai sensi dell'[art. 3 del regio decreto 13 febbraio 1933, n. 215](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-02-13;215#art_3), sulla proposta di classifica di che trattasi;
 
-Ritenuto che, in relazione all'istruttoria svolta, la classifica dei territori dei bacini dei fiumi Metauro e Cesano dell'estensione di ha. 46.330, in quanto ricorrono le condizioni previste dal [regio decreto 13 febbraio 1933 n. 215](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-02-13;215), si presenta utile ed opportuna;
+Ritenuto che, in relazione all'istruttoria svolta, la classifica dei territori dei bacini dei fiumi Metauro e Cesano dell'estensione di ha. 46.330, in quanto ricorrono le condizioni previste dal [regio decreto 13 febbraio 1933 n. 215](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-02-13;215), si presenta utile ed opportuna;
 
 Che il perimetro del territorio da classificare, esteso complessivamente ha. 46.330, e' distinto nell'allegata corografia in scala 1: 100.000 con linea rossa continua verso il mare, con linea marrone continua lungo l'autostrada Bologna-Canosa, comprendente totalmente i comuni di San Costanzo, San Lorenzo in Campo, Mondavio, Monteporzio, Cartoceto, Mombaroccio, Monteciccardo e parzialmente i comuni di Pesaro, Fano, Mondolfo, Fratte Rosa, Pergola, Fossombrone, Sant'Ippolito, Barchi, Orciano di Pesaro, San Giorgio di Pesaro, Piagge e Serrungarina in provincia di Pesaro e l'intero comune di Monterado e parte dei comuni di Senigallia, Castel Colonna, Castelleone di Suasa e Arcevia in provincia di Ancona e Corinaldo;
 
 Sulla proposta del Ministro Segretario di Stato per l'agricoltura e le foreste di concerto con il Ministro per i lavori pubblici e con il Ministro per il tesoro;
 
-Visto
------
+Visto il regio decreto 13 febbraio 1933, n. 215; Decreta:
 
-il regio decreto 13 febbraio 1933, n. 215; Decreta:
+## Articolo unico
 
-Articolo unico
---------------
-
-  
-Il territorio dei bacini vallivi dei fiumi Metauro e Cesano limitrofo al consorzio di bonifica Val del Foglia, il cui perimetro e' indicato con linea rossa continua e, per il lato verso il mare, con linea marrone continua e comprendente totalmente i comuni di San Costanzo, San Lorenzo in Campo, Mondavio, Monteporzio, Cartoceto, Mombaroccio, Monteciccardo, e parzialmente i comuni di Pesaro, Fano, Mondolfo, Pergola, Fratte Rosa, Fossombrone, Sant'Ippolito, Barchi, Orciano di Pesaro, San Giorgio di Pesaro, Piagge e Serrungarina in provincia di Pesaro e interessante altresi' l'intero comune di Monterado e parte dei comuni di Senigallia, Castel Colonna, Corinaldo, Castelleone di Susa e Arcevia, in provincia di Ancona, dell'estensione complessiva di ettari 46.330, e' classificato ai sensi e per gli effetti del [regio decreto 13 febbraio 1933, n. 215](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-02-13;215), fra i comprensori di bonifica di 2ª categoria, sulla base della corografia in scala 1: 100.000 che, munita del visto del Ministro proponente, forma parte integrante del presente decreto.  
-  
+Il territorio dei bacini vallivi dei fiumi Metauro e Cesano limitrofo al consorzio di bonifica Val del Foglia, il cui perimetro e' indicato con linea rossa continua e, per il lato verso il mare, con linea marrone continua e comprendente totalmente i comuni di San Costanzo, San Lorenzo in Campo, Mondavio, Monteporzio, Cartoceto, Mombaroccio, Monteciccardo, e parzialmente i comuni di Pesaro, Fano, Mondolfo, Pergola, Fratte Rosa, Fossombrone, Sant'Ippolito, Barchi, Orciano di Pesaro, San Giorgio di Pesaro, Piagge e Serrungarina in provincia di Pesaro e interessante altresi' l'intero comune di Monterado e parte dei comuni di Senigallia, Castel Colonna, Corinaldo, Castelleone di Susa e Arcevia, in provincia di Ancona, dell'estensione complessiva di ettari 46.330, e' classificato ai sensi e per gli effetti del [regio decreto 13 febbraio 1933, n. 215](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-02-13;215), fra i comprensori di bonifica di 2ª categoria, sulla base della corografia in scala 1: 100.000 che, munita del visto del Ministro proponente, forma parte integrante del presente decreto.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 16 settembre 1971
+Dato a Roma, addi' 16 settembre 1971
 
-SARAGAT NATALI - LAURICELLA - FERRARI-AGGRADI
-
-Visto, il Guardasigilli: COLOMBO
-
-Registrato alla Corte dei conti, addi' 25 febbraio 1972
-
-Atti del Governo, registro n. 247, foglio n. 70. - VALENTINI
+SARAGAT NATALI - LAURICELLA - FERRARI-AGGRADI Visto, il Guardasigilli: COLOMBO Registrato alla Corte dei conti, addi' 25 febbraio 1972 Atti del Governo, registro n. 247, foglio n. 70. - VALENTINI

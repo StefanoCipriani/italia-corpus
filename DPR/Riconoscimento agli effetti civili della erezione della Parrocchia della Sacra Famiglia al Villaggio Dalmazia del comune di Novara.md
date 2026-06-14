@@ -1,19 +1,21 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 10 maggio 1964 n. 427
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 427
+data: 1964-05-10
+titolo: "Riconoscimento, agli effetti civili, della erezione della Parrocchia della Sacra Famiglia al Villaggio Dalmazia del comune di Novara."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1964-05-10;427
+codice_redazionale: 064U0427
+vigente: true
+---
 
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 10 maggio 1964 n. 427
-=============================================================
-
-Riconoscimento, agli effetti civili, della erezione della Parrocchia della Sacra Famiglia al Villaggio Dalmazia del comune di Novara.
--------------------------------------------------------------------------------------------------------------------------------------
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-427. Decreto del Presidente della Repubblica 10 maggio 1964, col quale, sulla proposta del Ministro per l'interno, viene riconosciuto, agli effetti civili, il decreto dell'Ordinario diocesano di Novara in data 1 settembre 1963, integrato con postilla del 5 luglio 1963 e con dichiarazione del 7 ottobre 1963, relativo alla erezione della Parrocchia della. Sacra Famiglia al Villaggio Dalmazia, del comune di Novara.  
-  
-Visto, il Guardasigilli: REALE  
-Registrato alla Corte dei conti, addi' 22 giugno 1964  
-Atti del governo, registro n. 184, foglio n. 9. - VILLA
+427.
+
+Decreto del Presidente della Repubblica 10 maggio 1964, col quale, sulla proposta del Ministro per l'interno, viene riconosciuto, agli effetti civili, il decreto dell'Ordinario diocesano di Novara in data 1 settembre 1963, integrato con postilla del 5 luglio 1963 e con dichiarazione del 7 ottobre 1963, relativo alla erezione della Parrocchia della. Sacra Famiglia al Villaggio Dalmazia, del comune di Novara.
+
+Visto, il Guardasigilli: REALE
+ Registrato alla Corte dei conti, addi' 22 giugno 1964
+ Atti del governo, registro n. 184, foglio n. 9. - VILLA

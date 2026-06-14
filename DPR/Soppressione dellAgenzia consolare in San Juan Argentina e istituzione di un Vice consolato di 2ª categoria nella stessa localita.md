@@ -1,18 +1,20 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 17 giugno 1949 n. 592
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 592
+data: 1949-06-17
+titolo: "Soppressione dell'Agenzia consolare in San Juan (Argentina) e istituzione di un Vice consolato di 2ª categoria nella stessa localita'."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1949-06-17;592
+codice_redazionale: 049U0592
+vigente: true
+---
 
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 17 giugno 1949 n. 592
-=============================================================
-
-Soppressione dell'Agenzia consolare in San Juan (Argentina) e istituzione di un Vice consolato di 2ª categoria nella stessa localita'.
---------------------------------------------------------------------------------------------------------------------------------------
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-592. Decreto del Presidente della Repubblica 17 giugno 1949, col quale, sulla proposta del Ministro per gli affari esteri, viene soppressa l'Agenzia consolare in San Juan (Argentina) e viene istituito un Vice consolato di 2ª categoria nella stessa localita' alle dipendenze del Consolato in Mendoza.  
-  
-Visto, il Guardasigilli: GRASSI  
-Registrato alla Corte dei conti, addi' 25 agosto 1949
+592.
+
+Decreto del Presidente della Repubblica 17 giugno 1949, col quale, sulla proposta del Ministro per gli affari esteri, viene soppressa l'Agenzia consolare in San Juan (Argentina) e viene istituito un Vice consolato di 2ª categoria nella stessa localita' alle dipendenze del Consolato in Mendoza.
+
+Visto, il Guardasigilli: GRASSI
+ Registrato alla Corte dei conti, addi' 25 agosto 1949

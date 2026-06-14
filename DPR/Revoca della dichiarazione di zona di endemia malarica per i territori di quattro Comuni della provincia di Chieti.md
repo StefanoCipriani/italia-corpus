@@ -1,19 +1,21 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 22 novembre 1953 n. 1095
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 1095
+data: 1953-11-22
+titolo: "Revoca della dichiarazione di zona di endemia malarica per i territori di quattro Comuni della provincia di Chieti."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1953-11-22;1095
+codice_redazionale: 053U1095
+vigente: true
+---
 
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 22 novembre 1953 n. 1095
-================================================================
-
-Revoca della dichiarazione di zona di endemia malarica per i territori di quattro Comuni della provincia di Chieti.
--------------------------------------------------------------------------------------------------------------------
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-1095. Decreto del Presidente della Repubblica 22 novembre 1953, col quale, sulla proposta del Presidente del Consiglio del Ministri, vengono revocate le dichiarazioni di endemia malarica fatte per i Comuni di Chieti, San Giovanni Teatino, Fossacesia e Schiavi d'Abruzzo, contenute nei [regi decreti 10 aprile 1904, n. 162](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1904-04-10;162), [6 settembre 1902, n. 410](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1902-09-06;410) e [10 giugno 1909, n. 510](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1909-06-10;510).  
-  
-Visto, il Guardasigilli: AZARA  
-Registrato alla Corte dei conti, addi' 20 febbraio 1954  
-Atti del Governo, registro n. 81, foglio n. 114. - PALLA
+1095.
+
+Decreto del Presidente della Repubblica 22 novembre 1953, col quale, sulla proposta del Presidente del Consiglio del Ministri, vengono revocate le dichiarazioni di endemia malarica fatte per i Comuni di Chieti, San Giovanni Teatino, Fossacesia e Schiavi d'Abruzzo, contenute nei [regi decreti 10 aprile 1904, n. 162](../Atti%20normativi%20abrogati%20%28in%20originale%29/Che%20dichiara%20zone%20malariche%20talune%20porzioni%20di%20territorio%20in%20provincia%20di%20Chieti.%20004U0162.md), [6 settembre 1902, n. 410](../Atti%20normativi%20abrogati%20%28in%20originale%29/Relativo%20alla%20designazione%20di%20talune%20zone%20malariche%20esistenti%20nelle%20provincie%20di%20Chieti.%20002U0410.md) e [10 giugno 1909, n. 510](../Atti%20normativi%20abrogati%20%28in%20originale%29/Che%20dichiara%20zone%20malariche%20alcune%20porzioni%20di%20territorio%20della%20provincia%20di%20Chieti.%20009U0510.md).
+
+Visto, il Guardasigilli: AZARA
+ Registrato alla Corte dei conti, addi' 20 febbraio 1954
+ Atti del Governo, registro n. 81, foglio n. 114. - PALLA

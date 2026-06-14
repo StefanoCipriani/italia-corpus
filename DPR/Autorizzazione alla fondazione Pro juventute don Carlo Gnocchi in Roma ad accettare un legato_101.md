@@ -1,19 +1,21 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 27 dicembre 1986 n. 1021
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 272
+data: 1986-03-10
+titolo: "Autorizzazione alla fondazione \"Pro juventute don Carlo Gnocchi\", in Roma, ad accettare un legato."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1986-03-10;272
+codice_redazionale: 086U0272
+vigente: true
+---
 
+## Art. 1.
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 27 dicembre 1986 n. 1021
-================================================================
+n.
 
-Autorizzazione alla fondazione "Pro juventute don Carlo Gnocchi", in Roma, ad accettare un legato.
---------------------------------------------------------------------------------------------------
+272.
 
-Art. 1
-------
+Decreto del Presidente della Repubblica 10 marzo 1986, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la fondazione "Pro juventute don Carlo Gnocchi", in Roma, viene autorizzata ad accettare il legato, consistente nella quota di 1/6 pari a L. 11.666.666 ricavata dalla vendita di un immobile sito in Bergamo, via Ghirardelli n. 12, del valore di L. 70.000.000, disposto dalla signora Angeloni Ida, vedova Mistri, a favore dell'istituto "Don Gnocchi", che si identifica con la fondazione "Pro juventute don Carlo Gnocchi", come si evince dal verbale del consiglio di amministrazione della fondazione con testamento olografo 14 novembre 1980, pubblicato in data 19 ottobre 1981, n. 41760 di repertorio, a rogito dott. Gian Mario Grazioli, notaio in Bergamo, registrato a Bergamo in data 23 ottobre 1981 al n. 7260.
 
-N.
-
-1021. Decreto del Presidente della Repubblica 27 dicembre 1986, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la fondazione "Pro juventute don Carlo Gnocchi", in Roma, viene autorizzata ad accettare il legato, consistente nella nuda proprieta' di un immobile sito in Milano, viale Murillo n. 3, distinto nel nuovo catasto edilizio urbano alla partita n. 109802, sezione Porta Magenta, foglio 9, mappale 11812 dal sub. l al sub. 41, mappale 11813 sub. 1, del valore complessivo di L. 420.550.000 elevato dall'ufficio tecnico erariale di Milano a L. 1.017.000.000, valore nuda proprieta' L. 475.000.000, valore dell'usufrutto vitalizio L. 542.000.000, disposto dalla sig.ra Bizzozero Elena ved. Bardelli a favore dell'Ente poliomielitici di Milano, che si identifica con la fondazione "Pro juventute don Carlo Gnocchi", come si evince dal verbale 24 novembre 1979 del consiglio di amministrazione della fondazione stessa, con testamento olografo 19 gennaio 1971, pubblicato a rogito dott. Paolo Sala, notaio in Milano, il 2 febbraio 1979, n. 11540 di repertorio e n. 1649 progr., registrato a Milano il 9 febbraio 1979 al n. 2264.   
-  
-Visto, il Guardasigilli: ROGNONI   
-Registrato alla Corte dei conti, addi' 18 febbraio 1987   
-Registro n. 4 Presidenza, foglio n. 1
+Visto, il Guardasigilli: MARTINAZZOLI
+ Registrato alla Corte dei conti, addi' 6 giugno 1986
+ Registro n. 5 Presidenza, foglio n. 86

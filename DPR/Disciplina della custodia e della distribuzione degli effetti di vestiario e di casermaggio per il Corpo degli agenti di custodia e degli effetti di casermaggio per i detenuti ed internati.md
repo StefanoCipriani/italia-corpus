@@ -1,23 +1,21 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 12 agosto 1951 n. 1066
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 1066
+data: 1951-08-12
+titolo: "Disciplina della custodia e della distribuzione degli effetti di vestiario e di casermaggio per il Corpo degli agenti di custodia e degli effetti di casermaggio per i detenuti ed internati."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1951-08-12;1066
+codice_redazionale: 051U1066
+vigente: true
+---
 
+## Art. 1.
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 12 agosto 1951 n. 1066
-==============================================================
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
 
-Disciplina della custodia e della distribuzione degli effetti di vestiario e di casermaggio per il Corpo degli agenti di custodia e degli effetti di casermaggio per i detenuti ed internati.
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+## Art. 2.
 
-Art. 1
-------
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
+## Art. 3.
 
-Art. 2
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
-
-Art. 3
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))

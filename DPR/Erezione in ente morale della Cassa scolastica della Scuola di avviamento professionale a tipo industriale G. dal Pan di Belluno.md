@@ -1,19 +1,21 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 09 maggio 1961 n. 586
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 586
+data: 1961-05-09
+titolo: "Erezione in ente morale della Cassa scolastica della Scuola di avviamento professionale a tipo industriale \"G. dal Pan\" di Belluno."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1961-05-09;586
+codice_redazionale: 061U0586
+vigente: true
+---
 
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 09 maggio 1961 n. 586
-=============================================================
-
-Erezione in ente morale della Cassa scolastica della Scuola di avviamento professionale a tipo industriale "G. dal Pan" di Belluno.
------------------------------------------------------------------------------------------------------------------------------------
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-586. Decreto del Presidente della Repubblica 9 maggio 1961, col quale, sulla proposta del Ministro per la pubblica istruzione, la Cassa scolastica della Scuola di avviamento professionale a tipo industriale "G. dal Pan" di Belluno viene eretta in ente morale e ne viene approvato lo statuto.  
-  
-Visto, il Guardasigilli: GONELLA  
-Registrato alla Corte dei conti, addi' 12 luglio 1961  
-Atti del Governo, registro n. 137, foglio n. 120. - VILLA
+586.
+
+Decreto del Presidente della Repubblica 9 maggio 1961, col quale, sulla proposta del Ministro per la pubblica istruzione, la Cassa scolastica della Scuola di avviamento professionale a tipo industriale "G. dal Pan" di Belluno viene eretta in ente morale e ne viene approvato lo statuto.
+
+Visto, il Guardasigilli: GONELLA
+ Registrato alla Corte dei conti, addi' 12 luglio 1961
+ Atti del Governo, registro n. 137, foglio n. 120. - VILLA

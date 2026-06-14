@@ -1,19 +1,21 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 06 marzo 1960 n. 629
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 629
+data: 1960-03-06
+titolo: "Approvazione del nuovo statuto dell'Accademia Lancisiana, con sede in Roma."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1960-03-06;629
+codice_redazionale: 060U0629
+vigente: true
+---
 
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 06 marzo 1960 n. 629
-============================================================
-
-Approvazione del nuovo statuto dell'Accademia Lancisiana, con sede in Roma.
----------------------------------------------------------------------------
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-629. Decreto del Presidente della Repubblica 6 marzo 1960, col quale sulla, proposta del Ministro per la pubblica istruzione, viene approvato il nuovo statuto dell'Accademia Lancisiana, con sede in Roma.  
-  
-Visto, il Guardasigilli: GONELLA  
-Registrato alla Corte dei conti, addi' 4 luglio 1960  
-Atti del Governo, registro n. 128, foglio n. 4. - VILLA
+629.
+
+Decreto del Presidente della Repubblica 6 marzo 1960, col quale sulla, proposta del Ministro per la pubblica istruzione, viene approvato il nuovo statuto dell'Accademia Lancisiana, con sede in Roma.
+
+Visto, il Guardasigilli: GONELLA
+ Registrato alla Corte dei conti, addi' 4 luglio 1960
+ Atti del Governo, registro n. 128, foglio n. 4. - VILLA

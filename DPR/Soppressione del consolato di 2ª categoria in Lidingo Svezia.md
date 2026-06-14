@@ -1,39 +1,26 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 20 marzo 1973 n. 180
-
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 20 marzo 1973 n. 180
-============================================================
-
-Soppressione del consolato di 2ª categoria in Lidingo (Svezia).
----------------------------------------------------------------
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 180
+data: 1973-03-20
+titolo: "Soppressione del consolato di 2ª categoria in Lidingo (Svezia)."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1973-03-20;180
+codice_redazionale: 073U0180
+vigente: true
+---
 
 IL PRESIDENTE DELLA REPUBBLICA
-------------------------------
 
-Visto l'[art. 30 del decreto del Presidente della Repubblica 5 gennaio 1967, n. 18](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1967-01-05;18~art30), sull'ordinamento dell'Amministrazione degli affari esteri;
+Visto l'[art. 30 del decreto del Presidente della Repubblica 5 gennaio 1967, n. 18](Ordinamento%20dellAmministrazione%20degli%20affari%20esteri.md), sull'ordinamento dell'Amministrazione degli affari esteri;
 
-Sulla
------
+Sulla proposta del Ministro per gli affari esteri; Decreta:
 
-proposta del Ministro per gli affari esteri; Decreta:
+## Articolo unico
 
-Articolo unico
---------------
-
-  
-Il consolato di 2ª categoria in Lidingo (Svezia) e' soppresso.  
-Il presente decreto ha decorrenza dal 31 marzo 1973.  
-  
+Il consolato di 2ª categoria in Lidingo (Svezia) e' soppresso.
+ Il presente decreto ha decorrenza dal 31 marzo 1973.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 20 marzo 1973
+Dato a Roma, addi' 20 marzo 1973
 
-LEONE MEDICI
-
-Visto, il Guardasigilli: GONELLA
-
-Registrato alla Corte dei conti, addi' 8 maggio 1973
-
-Atti di Governo, registro n. 258, foglio n. 20. - VALENTINI
+LEONE MEDICI Visto, il Guardasigilli: GONELLA Registrato alla Corte dei conti, addi' 8 maggio 1973 Atti di Governo, registro n. 258, foglio n. 20. - VALENTINI

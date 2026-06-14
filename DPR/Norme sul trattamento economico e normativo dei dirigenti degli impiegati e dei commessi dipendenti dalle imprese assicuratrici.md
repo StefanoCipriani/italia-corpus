@@ -1,20 +1,20 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 gennaio 1962 n. 302
-
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 gennaio 1962 n. 302
-==============================================================
-
-Norme sul trattamento economico e normativo dei dirigenti, degli impiegati e dei commessi, dipendenti dalle imprese assicuratrici.
-----------------------------------------------------------------------------------------------------------------------------------
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 302
+data: 1962-01-02
+titolo: "Norme sul trattamento economico e normativo dei dirigenti, degli impiegati e dei commessi, dipendenti dalle imprese assicuratrici."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1962-01-02;302
+codice_redazionale: 062U0302
+vigente: true
+---
 
 IL PRESIDENTE DELLA REPUBBLICA
-------------------------------
 
-Visto l'[art. 87, comma quinto, della Costituzione](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27~art87-com5);
+Visto l'[art. 87, comma quinto, della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87-com5);
 
-Vista la [legge 14 luglio 1959, n. 741](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1959-07-14;741), che delega il Governo ad emanare norme transitorie per garantire minimi di trattamento economico e normativo ai lavoratori;
+Vista la [legge 14 luglio 1959, n. 741](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1959-07-14;741), che delega il Governo ad emanare norme transitorie per garantire minimi di trattamento economico e normativo ai lavoratori;
 
-Vista la [legge 1 ottobre 1960, n. 1027](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1960-10-01;1027), recante modifiche alla predetta [legge 14 luglio 1959, n. 741](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1959-07-14;741);
+Vista la [legge 1 ottobre 1960, n. 1027](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1960-10-01;1027), recante modifiche alla predetta [legge 14 luglio 1959, n. 741](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1959-07-14;741);
 
 Visto l'accordo collettivo nazionale 22 giugno 1949, per i dirigenti delle imprese assicuratrici rappresentate dall'A.N.I.A.;
 
@@ -42,124 +42,28 @@ Vista, la pubblicazione nell'apposito Bollettino, numeri 198 e 176 rispettivamen
 
 Sentito il Consiglio dei Ministri;
 
-Sulla
------
+Sulla proposta del Ministro per il lavoro e la previdenza sociale; Decreta:
 
-proposta del Ministro per il lavoro e la previdenza sociale; Decreta:
+## Articolo unico.
 
-Articolo unico
---------------
+I rapporti di lavoro costituiti per l'attivita' per la quale sono stati stipulati:
+ l'accordo collettivo nazionale 22 giugno 1949, relativo ai dirigenti delle imprese assicuratrici rappresentate all'A.N.I.A.;
+ l'accordo collettivo nazionale 12 gennaio 1951, relativo alla proroga con modifiche del predetto accordo 22 giugno 1949;
+ l'accordo collettivo nazionale 1 aprile 1952, relativo ai dirigenti delle imprese assicuratrici rappresentate dall'A.N.I.A.. e ai dirigenti dell'I.N.A.;
+ l'accordo collettivo nazionale 21 marzo 1956, relativo alla proroga con modifiche degli accordi nazionali 22 giugno 1949, 12 gennaio 1951 e 1 aprile 1953, per i dirigenti delle imprese assicuratrici rappresentate dall'A.N.I.A. e per i dirigenti dell'I.N.A.;
+ l'accordo collettivo nazionale 1 febbraio 1957, relativo alla sostituzione di alcune norme contenute negli accordi del 22 giugno 1949, 12 gennaio 1951 e 1 aprile 1953, per i dirigenti delle imprese assicuratrici rappresentate dall'A.N.I.A.;
+ l'accordo collettivo nazionale 1 dicembre 1958, relativo alla proroga con modifiche degli accordi nazionali 22 giugno 1949, 12 gennaio 1951, 1 aprile 1953, 29 marzo 1956 e 1 febbraio 1957, per i dirigenti delle imprese assicuratrici rappresentate dall'A.N.I.A.;
+ l'accordo collettivo nazionale 22 luglio 1960, relativo alla proroga con modifiche degli accordi nazionali 29 marzo 1956 e 1 dicembre 1958, per i dirigenti delle imprese assicuratrici rappresentate dall'A.N.I.A. e per i dirigenti dell'I.N.A.;
+ il contratto collettivo nazionale 27 luglio 1960, relativo agli impiegati e ai commessi dipendenti dalle imprese assicuratrici rappresentate dall'A.N.I.A.;
+sono regolati da norme giuridiche uniformi alle clausole del contratto e degli accordi collettivi anzidetti, annessi al presente decreto nonche' alle clausole dell'accordo 12 febbraio 1951, relativo ai dirigenti dell'I.N.A., richiamate dall'accordo collettivo nazionale 1 aprile 1953 ed allo stesso allegate, e inoltre alle clausole del contratto collettivo nazionale relativo al trattamento economico degli impiegati e dei commessi dipendenti dalle imprese assicuratrici rappresentate dall'A.N.I.A., del verbale di accordo sul trattamento economico dei funzionari dipendenti dalle imprese assicuratrici rappresentate dall'A.N.I.A., richiamate dal predetto contratto collettivo nazionale 27 luglio 1960 ed allo stesso allegate.
+ I minimi di trattamento economico e normativo cosi' stabiliti sono inderogabili nei confronti di tutti i dirigenti, gli impiegati e i commessi considerati nei contratti e negli accordi di cui al primo comma dipendenti delle imprese assicuratrici.
 
-  
-  
-I rapporti di lavoro costituiti per l'attivita' per la quale sono stati stipulati:  
-l'accordo collettivo nazionale 22 giugno 1949, relativo ai dirigenti delle imprese assicuratrici rappresentate all'A.N.I.A.;  
-l'accordo collettivo nazionale 12 gennaio 1951, relativo alla proroga con modifiche del predetto accordo 22 giugno 1949;  
-l'accordo collettivo nazionale 1 aprile 1952, relativo ai dirigenti delle imprese assicuratrici rappresentate dall'A.N.I.A.. e ai dirigenti dell'I.N.A.;  
-l'accordo collettivo nazionale 21 marzo 1956, relativo alla proroga con modifiche degli accordi nazionali 22 giugno 1949, 12 gennaio 1951 e 1 aprile 1953, per i dirigenti delle imprese assicuratrici rappresentate dall'A.N.I.A. e per i dirigenti dell'I.N.A.;  
-l'accordo collettivo nazionale 1 febbraio 1957, relativo alla sostituzione di alcune norme contenute negli accordi del 22 giugno 1949, 12 gennaio 1951 e 1 aprile 1953, per i dirigenti delle imprese assicuratrici rappresentate dall'A.N.I.A.;  
-l'accordo collettivo nazionale 1 dicembre 1958, relativo alla proroga con modifiche degli accordi nazionali 22 giugno 1949, 12 gennaio 1951, 1 aprile 1953, 29 marzo 1956 e 1 febbraio 1957, per i dirigenti delle imprese assicuratrici rappresentate dall'A.N.I.A.;  
-l'accordo collettivo nazionale 22 luglio 1960, relativo alla proroga con modifiche degli accordi nazionali 29 marzo 1956 e 1 dicembre 1958, per i dirigenti delle imprese assicuratrici rappresentate dall'A.N.I.A. e per i dirigenti dell'I.N.A.;  
-il contratto collettivo nazionale 27 luglio 1960, relativo agli impiegati e ai commessi dipendenti dalle imprese assicuratrici rappresentate dall'A.N.I.A.;  
-sono regolati da norme giuridiche uniformi alle clausole del contratto e degli accordi collettivi anzidetti, annessi al presente decreto nonche' alle clausole dell'accordo 12 febbraio 1951, relativo ai dirigenti dell'I.N.A., richiamate dall'accordo collettivo nazionale 1 aprile 1953 ed allo stesso allegate, e inoltre alle clausole del contratto collettivo nazionale relativo al trattamento economico degli impiegati e dei commessi dipendenti dalle imprese assicuratrici rappresentate dall'A.N.I.A., del verbale di accordo sul trattamento economico dei funzionari dipendenti dalle imprese assicuratrici rappresentate dall'A.N.I.A., richiamate dal predetto contratto collettivo nazionale 27 luglio 1960 ed allo stesso allegate.  
-I minimi di trattamento economico e normativo cosi' stabiliti sono inderogabili nei confronti di tutti i dirigenti, gli impiegati e i commessi considerati nei contratti e negli accordi di cui al primo comma dipendenti delle imprese assicuratrici.  
-  
-Il presente decreto, munito dal sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.  
-  
-Dato a Roma, addi' 2 gennaio 1962  
-  
-GRONCHI  
-FANFANI - SULLO   
-Visto, il Guardasigilli: BOSCO  
-Registrato alla Corte dei conti, addi' 21 maggio 1962  
-Atti del Governo, registro n. 17, foglio n. 97. - VILLA  
+ Il presente decreto, munito dal sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 
-Allegato
+ Dato a Roma, addi' 2 gennaio 1962
 
-ACCORDO COLLETTIVO NAZIONALE 22 GIUGNO 1949 PER I DIRIGENTI DELLE IMPRESE ASSICURATRICI RAPPRESENTATE DALL'A.N.I.A..   
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=062U030200100010110001&dgu=1962-06-06&art.dataPubblicazioneGazzetta=1962-06-06&art.codiceRedazionale=062U0302)
-  
-  
-  
-  
-  
-ACCORDO COLLETTIVO NAZIONALE 12 GENNAIO 1951 PER LA PROROGA CON MODIFICHE DELL'ACCORDO NAZIONALE 22 GIUGNO 1949 PER I DIRIGENTI DELLE IMPRESE ASSICURATRICI RAPPRESENTATE DALL'A.N.I.A..   
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=062U030200100010110002&dgu=1962-06-06&art.dataPubblicazioneGazzetta=1962-06-06&art.codiceRedazionale=062U0302)
-  
-  
-  
-  
-  
-ACCORDO COLLETTIVO NAZIONALE 1 aprile 1953 PER LA PROROGA CON MODIFICHE DEGLI ACCORDI NAZIONALI 22 GIUGNO 1949 12 GENNAIO 1951 E 12 FEBBRAIO 1951 PER I DIRIGENTI DELLE IMPRESE ASSICURATRICI RAPPRESENTATE DALL'A.N.I.A. E PER I DIRIGENTI DELL'I.N.A.   
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=062U030200100010110003&dgu=1962-06-06&art.dataPubblicazioneGazzetta=1962-06-06&art.codiceRedazionale=062U0302)
-  
-  
-  
-  
-  
-ACCORDO COLLETTIVO NAZIONALE 29 MARZO 1956 SULLA PROROGA CON MODIFICHE DEGLI ACCORDI NAZIONALI 22 GIUGNO 1949, 12 GENNAIO 1951 E 1 aprile 1953 PER I DIRIGENTI DELLE IMPRESE ASSICURATRICi RAPPRESENTATE DALL'A.N.I.A. E PER I DIRIGENTI DELL'I.N.A..   
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=062U030200100010110004&dgu=1962-06-06&art.dataPubblicazioneGazzetta=1962-06-06&art.codiceRedazionale=062U0302)
-  
-  
-  
-  
-  
-ACCORDO COLLETTIVO NAZIONALE 1 febbraio 1957 SULLA SOSTITUZIONE DI ALCUNE NORME CONTENUTE NEGLI ACCORDI 22 GIUGNO 1949, 12 GENNAIO 1951 E 1 APRILE 1953 PER I DIRIGENTI DELLE IMPRESE ASSICURATRICI RAPPRESENTATE DALL'A.N.I.A..   
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=062U030200100010110005&dgu=1962-06-06&art.dataPubblicazioneGazzetta=1962-06-06&art.codiceRedazionale=062U0302)
-  
-  
-  
-  
-  
-ACCORDO COLLETTIVO NAZIONALE 1 dicembre 1958 SULLA PROROGA CON MODIFICHE DEGLI ACCORDI NAZIONALI 22 GIUGNO 1949, 12 GENNAIO 1951, 1 aprile 1953, 29 MARZO 1956 E 1 febbraio 1957 RELATIVI AI DIRIGENTI DELLE IMPRESE ASSICURATRICI RAPPRESENTATE DALL'A.N.I.A..   
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=062U030200100010110006&dgu=1962-06-06&art.dataPubblicazioneGazzetta=1962-06-06&art.codiceRedazionale=062U0302)
-  
-  
-  
-  
-  
-ACCORDO COLLETTIVO NAZIONALE 22 LUGLIO 1960 PER LA PROROGA CON MODIFICHE DEGLI ACCORDI NAZIONALI 29 MARZO 1956 E DICEMBRE 1958 RELATIVI AI DIRIGENTI DELLE IMPRESE ASSICURATRICI RAPPRESENTATE dall'A.N.I.A. E PER I DIRIGENTI DELL'I.N.A..   
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=062U030200100010110007&dgu=1962-06-06&art.dataPubblicazioneGazzetta=1962-06-06&art.codiceRedazionale=062U0302)
-  
-  
-  
-  
-  
-CONTRATTO COLLETTIVO NAZIONALE 27 LUGLIO 1960 PER GLI IMPIEGATI ED I COMMESSI DIPENDENTI DALLE IMPRESE ASSICURATRICI RAPPRESENTATE DALL'A.N.I.A.   
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=062U030200100010110008&dgu=1962-06-06&art.dataPubblicazioneGazzetta=1962-06-06&art.codiceRedazionale=062U0302)
-  
-  
-  
-  
-  
-  
-CONTRATTO COLLETTIVO NAZIONALE PER IL TRATTAMENTO ECONOMICO DEGLI IMPIEGATI E COMMESSI DIPENDENTI DALLE IMPRESE ASSICURATRICI RAPPRESENTATE DALL'A.N.I.A.   
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=062U030200100010110009&dgu=1962-06-06&art.dataPubblicazioneGazzetta=1962-06-06&art.codiceRedazionale=062U0302)
-  
-  
-  
-  
-  
-VERBALE DI ACCORDO NEL TRATTAMENTO ECONOMICO DEI FUNZIONARI DIPENDENTI DALLE IMPRESE ASSICURATRICI RAPPRESENTATE DALL'A.N.I.A.   
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=062U030200100010110010&dgu=1962-06-06&art.dataPubblicazioneGazzetta=1962-06-06&art.codiceRedazionale=062U0302)
-  
+ GRONCHI
+ FANFANI - SULLO 
+Visto, il Guardasigilli: BOSCO
+ Registrato alla Corte dei conti, addi' 21 maggio 1962
+ Atti del Governo, registro n. 17, foglio n. 97. - VILLA

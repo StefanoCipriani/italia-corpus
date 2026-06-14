@@ -1,19 +1,21 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 25 maggio 1977 n. 678
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 678
+data: 1977-05-25
+titolo: "Riconoscimento della personalita' giuridica della \"Fondazione Salina\", in S. Marina Salina."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1977-05-25;678
+codice_redazionale: 077U0678
+vigente: true
+---
 
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 25 maggio 1977 n. 678
-=============================================================
-
-Riconoscimento della personalita' giuridica della "Fondazione Salina", in S. Marina Salina.
--------------------------------------------------------------------------------------------
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-678. Decreto del Presidente della Repubblica 25 maggio 1977, col quale, sulla proposta del Ministro per la pubblica istruzione, viene riconosciuta la personalita' giuridica ed approvato lo statuto della "Fondazione Salina", in S. Marina Salina (Messina).  
-  
-Visto, il Guardasigilli: BONIFACIO  
-Registrato alla Corte dei conti, addi' 27 agosto 1977  
-Registro n. 97 Istruzione, foglio n. 26
+678.
+
+Decreto del Presidente della Repubblica 25 maggio 1977, col quale, sulla proposta del Ministro per la pubblica istruzione, viene riconosciuta la personalita' giuridica ed approvato lo statuto della "Fondazione Salina", in S. Marina Salina (Messina).
+
+Visto, il Guardasigilli: BONIFACIO
+ Registrato alla Corte dei conti, addi' 27 agosto 1977
+ Registro n. 97 Istruzione, foglio n. 26

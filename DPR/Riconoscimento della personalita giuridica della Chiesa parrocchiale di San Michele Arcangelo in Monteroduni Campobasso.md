@@ -1,19 +1,21 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 19 aprile 1956 n. 551
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 551
+data: 1956-04-19
+titolo: "Riconoscimento della personalita' giuridica della Chiesa parrocchiale di San Michele Arcangelo, in Monteroduni (Campobasso)."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1956-04-19;551
+codice_redazionale: 056U0551
+vigente: true
+---
 
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 19 aprile 1956 n. 551
-=============================================================
-
-Riconoscimento della personalita' giuridica della Chiesa parrocchiale di San Michele Arcangelo, in Monteroduni (Campobasso).
-----------------------------------------------------------------------------------------------------------------------------
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-551. Decreto del Presidente della Repubblica 19 aprile 1956, col quale, sulla proposta del Ministro per l'interno, viene riconosciuta la personalita' giuridica (della Chiesa parrocchiale di San Michele Arcangelo, in Monteroduni (Campobasso).  
-  
-Visto, il Guardasigilli: MORO  
-Registrato alla Corte dei conti, addi' 14 giugno 1956  
-Atti del Governo, registro n. 98, foglio n. 41. - CARLOMAGNO
+551.
+
+Decreto del Presidente della Repubblica 19 aprile 1956, col quale, sulla proposta del Ministro per l'interno, viene riconosciuta la personalita' giuridica (della Chiesa parrocchiale di San Michele Arcangelo, in Monteroduni (Campobasso).
+
+Visto, il Guardasigilli: MORO
+ Registrato alla Corte dei conti, addi' 14 giugno 1956
+ Atti del Governo, registro n. 98, foglio n. 41. - CARLOMAGNO

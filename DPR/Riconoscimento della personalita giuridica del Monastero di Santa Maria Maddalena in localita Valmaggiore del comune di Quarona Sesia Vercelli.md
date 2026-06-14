@@ -1,19 +1,21 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 12 settembre 1953 n. 821
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 821
+data: 1953-09-12
+titolo: "Riconoscimento della personalita' giuridica del Monastero di Santa Maria Maddalena, in localita' Valmaggiore del comune di Quarona Sesia (Vercelli)."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1953-09-12;821
+codice_redazionale: 053U0821
+vigente: true
+---
 
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 12 settembre 1953 n. 821
-================================================================
-
-Riconoscimento della personalita' giuridica del Monastero di Santa Maria Maddalena, in localita' Valmaggiore del comune di Quarona Sesia (Vercelli).
-----------------------------------------------------------------------------------------------------------------------------------------------------
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-821. Decreto del Presidente della Repubblica 12 settembre 1953, col quale, sulla proposta del Ministro per l'interno, viene riconosciuta la personalita' giuridica del Monastero di Santa Maria Maddalena, in localita' Valmaggiore del comune di Quarona Sesia (Vercelli).  
-  
-Visto, il Guardasigilli: AZARA  
-Registrato alla Corte dei conti, addi' 26 ottobre 1953  
-Atti del Governo, registro n. 79, foglio n. 143. - PALLA
+821.
+
+Decreto del Presidente della Repubblica 12 settembre 1953, col quale, sulla proposta del Ministro per l'interno, viene riconosciuta la personalita' giuridica del Monastero di Santa Maria Maddalena, in localita' Valmaggiore del comune di Quarona Sesia (Vercelli).
+
+Visto, il Guardasigilli: AZARA
+ Registrato alla Corte dei conti, addi' 26 ottobre 1953
+ Atti del Governo, registro n. 79, foglio n. 143. - PALLA

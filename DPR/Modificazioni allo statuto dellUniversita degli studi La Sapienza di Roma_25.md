@@ -1,91 +1,75 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 settembre 1985 n. 616
-
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 settembre 1985 n. 616
-================================================================
-
-Modificazioni allo statuto dell'Universita' degli studi "La Sapienza" di Roma.
-------------------------------------------------------------------------------
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 616
+data: 1985-09-02
+titolo: "Modificazioni allo statuto dell'Universita' degli studi \"La Sapienza\" di Roma."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1985-09-02;616
+codice_redazionale: 085U0616
+vigente: true
+---
 
 IL PRESIDENTE DELLA REPUBBLICA
-------------------------------
 
-Veduto lo statuto dell'Universita' degli studi "La Sapienza" di Roma, approvato con [regio decreto 20 aprile 1939, n. 1350](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1350), e modificato con [regio decreto 26 ottobre 1939, n. 1734](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-10-26;1734), e successive modificazioni;
+Veduto lo statuto dell'Universita' degli studi "La Sapienza" di Roma, approvato con [regio decreto 20 aprile 1939, n. 1350](../Atti%20normativi%20abrogati%20%28in%20originale%29/Modificazioni%20allo%20statuto%20della%20Regia%20Universita%20di%20Roma.%20039U1350.md), e modificato con [regio decreto 26 ottobre 1939, n. 1734](../Atti%20normativi%20abrogati%20%28in%20originale%29/Modificazioni%20allo%20statuto%20della%20Regia%20universita%20di%20Roma.%20039U1734.md), e successive modificazioni;
 
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20R.%20decreto-legge%2020%20giugno%201935-XIII%20n.%201071%20contenente%20modifiche%20ed%20aggiornamenti%20al%20testo%20unico%20delle%20leggi%20sullistruzione%20superiore.%20036U0073.md);
 
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
+Veduto il [regio decreto 30 settembre 1938, n. 1652](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disposizioni%20sullordinamento%20didattico%20universitario.%20038U1652.md), e successive modificazioni;
 
-Veduta la [legge 22 maggio 1978, n. 217](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-05-22;217);
+Veduta la [legge 22 maggio 1978, n. 217](../Atti%20normativi%20abrogati%20%28in%20originale%29/Diritto%20di%20stabilimento%20e%20libera%20prestazione%20dei%20servizi%20da%20parte%20dei%20medici%20cittadini%20di%20Stati%20membri%20delle%20Comunita%20europee.md);
 
-Veduta la [legge 21 febbraio 1980, n. 28](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1980-02-21;28);
+Veduta la [legge 21 febbraio 1980, n. 28](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1980-02-21;28);
 
-Veduto il [decreto del Presidente della Repubblica 10 marzo 1982, n. 162](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1982-03-10;162);
+Veduto il [decreto del Presidente della Repubblica 10 marzo 1982, n. 162](Riordinamento%20delle%20scuole%20dirette%20a%20fini%20speciali%20delle%20scuole%20di%20specializzazione%20e%20dei%20corsi%20di%20perfezionamento.md);
 
 Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' degli studi anzidetta;
 
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17);
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](https://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592#art_17);
 
 Sentito il parere del Consiglio universitario nazionale;
 
 Sulla proposta del Ministro della pubblica istruzione;
 
-Decreta:
---------
+Decreta: Lo statuto dell'Universita' degli studi "La Sapienza" di Roma, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
 
-Lo statuto dell'Universita' degli studi "La Sapienza" di Roma, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+## Articolo unico
 
-Articolo unico
---------------
-
-  
-  
-Gli articoli da 462 a 471, relativi alla scuola di perfezionamento in fisica, che muta la denominazione in scuola di specializzazione in fisica sanitaria, sono sostituiti dai seguenti con il conseguente spostamento della numerazione degli articoli successivi:   
-  
-Scuola di specializzazione in fisica sanitaria   
-Art. 462. - E' istituita la scuola di specializzazione in fisica sanitaria presso l'Universita' "La Sapienza" di Roma.   
-La scuola ha lo scopo di provvedere alla formazione dei fisici sanitari da impiegarsi presso unita' sanitarie locali, centri di ricerca pubblici e privati, ospedali, centri nucleari e di controllo ecologico.   
-La scuola rilascia il titolo di specialista in fisica sanitaria.   
-Art. 463. - La scuola ha la durata di due anni.   
-Ciascun anno di corso prevede duecentocinquanta ore di insegnamento e centocinquanta ore di attivita' pratiche guidate.   
-In base alle strutture ed attrezzature disponibili, la scuola e' in grado di accettare il numero massimo di iscritti determinato in quindici per ciascun anno di corso per un totale di trenta specializzandi.   
-Art. 464. - Ai sensi della normativa generale concorre al funzionamento della scuola la facolta' di scienze matematiche, fisiche e naturali.   
-Nel manifesto annuale degli studi viene indicata la sede della direzione della scuola.   
-Art. 465. - Sono ammessi al concorso per ottenere l'iscrizione alla scuola i laureati in fisica, in chimica, in chimica industriale e in ingegneria.   
-Sono altresi' ammessi al concorso per l'ammissione alla scuola coloro che siano in possesso del titolo di studio, conseguito presso universita' straniere e che sia equipollente, ai sensi dell'[art. 332 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art332), a quelli richiesti nel comma precedente.   
-Art. 466. - Le materie di insegnamento, tutte afferenti alla facolta' di scienze matematiche, fisiche e naturali, sono le seguenti:   
-1° Anno:   
-complementi di fisica;   
-elementi di biologia, anatomia e fisiologia umana;   
-fisica e dosimetria delle radiazioni;   
-strumentazione e tecnologie biomediche;   
-informatica e statistica nelle applicazioni sanitarie.   
-2° Anno:   
-protezione personale e ambientale;   
-strumentazione e tecnologie biomediche;   
-fisica e dosimetria delle radiazioni;   
-informatica e statistica nelle applicazioni sanitarie;   
-biologia generale e molecolare ed effetti biologici delle radiazioni.   
-Art. 467. - Oltre che le lezioni, lo specializzando dovra' frequentare almeno trenta ore di esercitazioni di laboratorio ed attivita' pratiche per ciascuna materia d'insegnamento, presso il dipartimento di fisica, i servizi sanitari ospedalieri ed i centri di ricerca nazionali ed internazionali.   
-La frequenza di almeno il 70% delle lezioni ed esercitazioni e' obbligatoria per sostenere l'esame.   
-Ai fini delle frequenze e delle attivita' pratiche va riconosciuta utile, sulla base di idonea documentazione, l'attivita' svolta dallo specializzando in strutture di servizio socio-sanitario attinenti alla specializzazione anche all'estero.   
-Art. 468. - L'Universita', su proposta del consiglio della scuola, puo' stabilire convenzioni con enti pubblici e privati, con finalita' di sovvenzionamento e di utilizzazione di strutture extrauniversitarie per lo svolgimento di attivita' didattiche ai sensi del [decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382), e del [decreto del Presidente della Repubblica 10 marzo 1982, n. 162](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1982-03-10;162).   
-Norma transitoria. - Con l'entrata in funzione della scuola di specializzazione in fisica sanitaria, l'attuale scuola di perfezionamento in fisica (con indirizzo fisica sanitaria) e' soppressa, ferma restando per gli studenti gia' iscritti la possibilita' di completare l'intero corso e conseguire il relativo diploma.   
-  
+Gli articoli da 462 a 471, relativi alla scuola di perfezionamento in fisica, che muta la denominazione in scuola di specializzazione in fisica sanitaria, sono sostituiti dai seguenti con il conseguente spostamento della numerazione degli articoli successivi: 
+ 
+ Scuola di specializzazione in fisica sanitaria 
+ Art. 462. - E' istituita la scuola di specializzazione in fisica sanitaria presso l'Universita' "La Sapienza" di Roma. 
+ La scuola ha lo scopo di provvedere alla formazione dei fisici sanitari da impiegarsi presso unita' sanitarie locali, centri di ricerca pubblici e privati, ospedali, centri nucleari e di controllo ecologico. 
+ La scuola rilascia il titolo di specialista in fisica sanitaria. 
+ Art. 463. - La scuola ha la durata di due anni. 
+ Ciascun anno di corso prevede duecentocinquanta ore di insegnamento e centocinquanta ore di attivita' pratiche guidate. 
+ In base alle strutture ed attrezzature disponibili, la scuola e' in grado di accettare il numero massimo di iscritti determinato in quindici per ciascun anno di corso per un totale di trenta specializzandi. 
+ Art. 464. - Ai sensi della normativa generale concorre al funzionamento della scuola la facolta' di scienze matematiche, fisiche e naturali. 
+ Nel manifesto annuale degli studi viene indicata la sede della direzione della scuola. 
+ Art. 465. - Sono ammessi al concorso per ottenere l'iscrizione alla scuola i laureati in fisica, in chimica, in chimica industriale e in ingegneria. 
+ Sono altresi' ammessi al concorso per l'ammissione alla scuola coloro che siano in possesso del titolo di studio, conseguito presso universita' straniere e che sia equipollente, ai sensi dell'[art. 332 del testo unico 31 agosto 1933, n. 1592](https://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592#art_332), a quelli richiesti nel comma precedente. 
+ Art. 466. - Le materie di insegnamento, tutte afferenti alla facolta' di scienze matematiche, fisiche e naturali, sono le seguenti: 
+ 1° Anno: 
+ complementi di fisica; 
+ elementi di biologia, anatomia e fisiologia umana; 
+ fisica e dosimetria delle radiazioni; 
+ strumentazione e tecnologie biomediche; 
+ informatica e statistica nelle applicazioni sanitarie. 
+ 2° Anno: 
+ protezione personale e ambientale; 
+ strumentazione e tecnologie biomediche; 
+ fisica e dosimetria delle radiazioni; 
+ informatica e statistica nelle applicazioni sanitarie; 
+ biologia generale e molecolare ed effetti biologici delle radiazioni. 
+ Art. 467. - Oltre che le lezioni, lo specializzando dovra' frequentare almeno trenta ore di esercitazioni di laboratorio ed attivita' pratiche per ciascuna materia d'insegnamento, presso il dipartimento di fisica, i servizi sanitari ospedalieri ed i centri di ricerca nazionali ed internazionali. 
+ La frequenza di almeno il 70% delle lezioni ed esercitazioni e' obbligatoria per sostenere l'esame. 
+ Ai fini delle frequenze e delle attivita' pratiche va riconosciuta utile, sulla base di idonea documentazione, l'attivita' svolta dallo specializzando in strutture di servizio socio-sanitario attinenti alla specializzazione anche all'estero. 
+ Art. 468. - L'Universita', su proposta del consiglio della scuola, puo' stabilire convenzioni con enti pubblici e privati, con finalita' di sovvenzionamento e di utilizzazione di strutture extrauniversitarie per lo svolgimento di attivita' didattiche ai sensi del [decreto del Presidente della Repubblica 11 luglio 1980, n. 382](Riordinamento%20della%20docenza%20universitaria%20relativa%20fascia%20di%20formazione%20nonche%20sperimentazione%20organizzativa%20e%20didattica.md), e del [decreto del Presidente della Repubblica 10 marzo 1982, n. 162](Riordinamento%20delle%20scuole%20dirette%20a%20fini%20speciali%20delle%20scuole%20di%20specializzazione%20e%20dei%20corsi%20di%20perfezionamento.md). 
+ Norma transitoria. - Con l'entrata in funzione della scuola di specializzazione in fisica sanitaria, l'attuale scuola di perfezionamento in fisica (con indirizzo fisica sanitaria) e' soppressa, ferma restando per gli studenti gia' iscritti la possibilita' di completare l'intero corso e conseguire il relativo diploma.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta Ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 2 settembre 1985
+Dato a Roma, addi' 2 settembre 1985
 
-COSSIGA
-
-FALCUCCI, Ministro della pubblica istruzione
-
-Visto, il Guardasigilli: MARTINAZZOLI
-
-Registrato alla Corte dei conti, addi' 26 ottobre 1985
-
-Registro n. 72 Istruzione, foglio n. 111
+COSSIGA FALCUCCI, Ministro della pubblica istruzione Visto, il Guardasigilli: MARTINAZZOLI Registrato alla Corte dei conti, addi' 26 ottobre 1985 Registro n. 72 Istruzione, foglio n. 111

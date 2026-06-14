@@ -1,43 +1,37 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 15 marzo 1971 n. 686
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 686
+data: 1971-03-15
+titolo: "Norme di attuazione degli articoli 47, 48 e 49 della legge 14 agosto 1967, n. 800, sul nuovo ordinamento degli enti lirici e delle attivita' musicali."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1971-03-15;686
+codice_redazionale: 071U0686
+vigente: true
+---
 
+## Art. 1.
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 15 marzo 1971 n. 686
-============================================================
+((PROVVEDIMENTO ABROGATO DALLA L. 8 GENNAIO 1979, N. 8))
 
-Norme di attuazione degli articoli 47, 48 e 49 della legge 14 agosto 1967, n. 800, sul nuovo ordinamento degli enti lirici e delle attivita' musicali.
-------------------------------------------------------------------------------------------------------------------------------------------------------
+## Art. 2.
 
-Art. 1
-------
+((PROVVEDIMENTO ABROGATO DALLA L. 8 GENNAIO 1979, N. 8))
 
-((PROVVEDIMENTO ABROGATO DALLA [L. 8 GENNAIO 1979, N. 8](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1979-01-08;8)))
+## Art. 3.
 
-Art. 2
-------
+((PROVVEDIMENTO ABROGATO DALLA L. 8 GENNAIO 1979, N. 8))
 
-((PROVVEDIMENTO ABROGATO DALLA [L. 8 GENNAIO 1979, N. 8](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1979-01-08;8)))
+## Art. 4.
 
-Art. 3
-------
+((PROVVEDIMENTO ABROGATO DALLA L. 8 GENNAIO 1979, N. 8))
 
-((PROVVEDIMENTO ABROGATO DALLA [L. 8 GENNAIO 1979, N. 8](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1979-01-08;8)))
+## Art. 5.
 
-Art. 4
-------
+((PROVVEDIMENTO ABROGATO DALLA L. 8 GENNAIO 1979, N. 8))
 
-((PROVVEDIMENTO ABROGATO DALLA [L. 8 GENNAIO 1979, N. 8](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1979-01-08;8)))
+## Art. 6.
 
-Art. 5
-------
+((PROVVEDIMENTO ABROGATO DALLA L. 8 GENNAIO 1979, N. 8))
 
-((PROVVEDIMENTO ABROGATO DALLA [L. 8 GENNAIO 1979, N. 8](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1979-01-08;8)))
+## Art. 7.
 
-Art. 6
-------
-
-((PROVVEDIMENTO ABROGATO DALLA [L. 8 GENNAIO 1979, N. 8](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1979-01-08;8)))
-
-Art. 7
-------
-
-((PROVVEDIMENTO ABROGATO DALLA [L. 8 GENNAIO 1979, N. 8](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1979-01-08;8)))
+((PROVVEDIMENTO ABROGATO DALLA L. 8 GENNAIO 1979, N. 8))

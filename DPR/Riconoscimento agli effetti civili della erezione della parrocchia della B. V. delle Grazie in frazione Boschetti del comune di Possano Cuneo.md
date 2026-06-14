@@ -1,18 +1,20 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 25 ottobre 1950 n. 1111
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 1111
+data: 1950-10-25
+titolo: "Riconoscimento, agli effetti civili, della erezione della parrocchia della B. V. delle Grazie, in frazione \"Boschetti\" del comune di Possano (Cuneo)."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1950-10-25;1111
+codice_redazionale: 050U1111
+vigente: true
+---
 
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 25 ottobre 1950 n. 1111
-===============================================================
-
-Riconoscimento, agli effetti civili, della erezione della parrocchia della B. V. delle Grazie, in frazione "Boschetti" del comune di Possano (Cuneo).
------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-1111. Decreto del Presidente della Repubblica 25 ottobre 1950, col quale, sulla proposta del Ministro per l'interno, viene riconosciuto, agli effetti civili, il decreto del Vescovo di Fossano in data 14 ottobre 1947, relativo all'erezione della parrocchia della B. V. delle Grazie, in frazione "Boschetti" del comune di Fossano (Cuneo).  
-  
-Visto, il Guardasigilli: PICCIONI  
-Registrato alla Corte dei conti, addi' 20 gennaio 1951
+1111.
+
+Decreto del Presidente della Repubblica 25 ottobre 1950, col quale, sulla proposta del Ministro per l'interno, viene riconosciuto, agli effetti civili, il decreto del Vescovo di Fossano in data 14 ottobre 1947, relativo all'erezione della parrocchia della B. V. delle Grazie, in frazione "Boschetti" del comune di Fossano (Cuneo).
+
+Visto, il Guardasigilli: PICCIONI
+ Registrato alla Corte dei conti, addi' 20 gennaio 1951

@@ -1,14 +1,14 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 26 ottobre 1977 n. 1195
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 1195
+data: 1977-10-26
+titolo: "Modificazioni allo statuto dell'Istituto superiore di educazione fisica pareggiato di Bologna."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1977-10-26;1195
+codice_redazionale: 077U1195
+vigente: true
+---
 
+## Art. 1.
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 26 ottobre 1977 n. 1195
-===============================================================
-
-Modificazioni allo statuto dell'Istituto superiore di educazione fisica pareggiato di Bologna.
-----------------------------------------------------------------------------------------------
-
-Art. 1
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.L. 9 FEBBRAIO 2012, N. 5](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2012-02-09;5),   
-CONVERTITO CON MODIFICAZIONI DALLA [L. 4 APRILE 2012, N. 35](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2012-04-04;35)))
+((PROVVEDIMENTO ABROGATO DAL D.L. 9 FEBBRAIO 2012, N. 5, 
+ CONVERTITO CON MODIFICAZIONI DALLA L. 4 APRILE 2012, N. 35))

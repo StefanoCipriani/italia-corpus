@@ -1,19 +1,22 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 14 maggio 1982 n. 414
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 852
+data: 1979-11-28
+titolo: "Autorizzazione alla fondazione \"Pro juventute don Carlo Gnocchi\", in Roma, ad accettare una donazione."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1979-11-28;852
+codice_redazionale: 079U0852
+vigente: true
+---
 
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 14 maggio 1982 n. 414
-=============================================================
-
-Autorizzazione alla fondazione "Pro juventute don Carlo Gnocchi", in Roma, ad accettare una donazione.
-------------------------------------------------------------------------------------------------------
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-414. Decreto del Presidente della Repubblica 14 maggio 1982, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la fondazione "Pro juventute don Carlo Gnocchi", in Roma, viene autorizzata ad accettare la donazione, disposta dalla sig.ra Marani Oresta ved. Lotterio, con atto redatto dal notaio dott. Cesare Gallavresi di Milano in data 23 gennaio 1979, n. 67475/22839 di repertorio, registrato a Milano il 26 gennaio 1979 al n. A/ 2396, consistente in un fabbricato urbano sito in Brissago Valtravaglia, via Piave n. 5 censito nel nuovo catasto edilizio urbano alla partita 251 foglio 6 mappale 512 e circostante terreno censito nel nuovo catasto terreni alla partita 832, foglio 6, mappale 265 di Ha. 0.33.70, del valore attribuito dal perito di parte di L. 27.000.000 ritenuto congruo dall'ufficio tecnico erariale di Varese.  
-  
-Visto, il Guardasigilli: DARIDA  
-Registrato alla Corte dei conti, addi' 30 giugno 1982  
-Registro n. 6 Presidenza, foglio n. 68
+852.
+
+Decreto del Presidente della Repubblica 28 novembre 1979, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la fondazione "Pro juventute don Carlo Gnocchi", in Roma, viene autorizzata ad accettare la donazione, consistente nella nuda proprieta' di un immobile sito nel comune di Desenzano sul Garda (Brescia), via Scuole, censito al nuovo catasto edilizio urbano alla partita 1350, foglio 8, mappale 9976, del valore periziato L. 40.000.000, disposta dalla sig.ra Giulia Gelmini con atto 27 febbraio 1976, n. 25314/2790 di repertorio, a rogito dott.
+ Ferruccio Brambilla, notaio in Milano, registrato a Busto Arsizio (Varese) in data 11 marzo 1976, n. 617, vol. 157.
+
+Visto, il Guardasigilli: MORLINO
+ Registrato alla Corte dei conti, addi' 21 marzo 1980
+ Registro n. 2 Presidenza, foglio n. 339

@@ -1,19 +1,21 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 09 gennaio 1974 n. 51
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 51
+data: 1974-01-09
+titolo: "Riconoscimento della personalita' giuridica della chiesa parrocchiale di S. Marco evangelista, in Venezia-Mestre."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1974-01-09;51
+codice_redazionale: 074U0051
+vigente: true
+---
 
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 09 gennaio 1974 n. 51
-=============================================================
-
-Riconoscimento della personalita' giuridica della chiesa parrocchiale di S. Marco evangelista, in Venezia-Mestre.
------------------------------------------------------------------------------------------------------------------
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-51. Decreto del Presidente della Repubblica 9 gennaio 1974, col quale, sulla proposta del Ministro per l'interno, viene riconosciuta la personalita' giuridica della chiesa parrocchiale di S. Marco evangelista, in Venezia-Mestre.  
-  
-Visto, il Guardasigilli: ZAGARI  
-Registrato alla Corte dei conti, addi' 7 marzo 1974  
-Atti di Governo, registro n. 2, foglio n. 11. - SCIARRETTA
+51.
+
+Decreto del Presidente della Repubblica 9 gennaio 1974, col quale, sulla proposta del Ministro per l'interno, viene riconosciuta la personalita' giuridica della chiesa parrocchiale di S. Marco evangelista, in Venezia-Mestre.
+
+Visto, il Guardasigilli: ZAGARI
+ Registrato alla Corte dei conti, addi' 7 marzo 1974
+ Atti di Governo, registro n. 2, foglio n. 11. - SCIARRETTA

@@ -1,19 +1,21 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 maggio 1957 n. 469
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 469
+data: 1957-05-02
+titolo: "Riconoscimento della personalita' giuridica della Chiesa parrocchiale di Santa Sinforosa, in frazione Bagni del comune di Tivoli (Roma)."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1957-05-02;469
+codice_redazionale: 057U0469
+vigente: true
+---
 
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 maggio 1957 n. 469
-=============================================================
-
-Riconoscimento della personalita' giuridica della Chiesa parrocchiale di Santa Sinforosa, in frazione Bagni del comune di Tivoli (Roma).
-----------------------------------------------------------------------------------------------------------------------------------------
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-469. Decreto del Presidente della Repubblica 2 maggio 1957, col quale, sulla proposta del Ministro per l'interno, viene riconosciuta le personalita' giuridica della Chiesa parrocchiale di Santa Sinforosa, in frazione Bagni del comune di Tivoli (Roma).  
-  
-Visto, il Guardasigilli: GONELLA  
-Registrato alla Corte dei conti, addi' 24 giugno 1957  
-Atti del Governo, registro n. 106, foglio n. 93. - CARLOMAGNO
+469.
+
+Decreto del Presidente della Repubblica 2 maggio 1957, col quale, sulla proposta del Ministro per l'interno, viene riconosciuta le personalita' giuridica della Chiesa parrocchiale di Santa Sinforosa, in frazione Bagni del comune di Tivoli (Roma).
+
+Visto, il Guardasigilli: GONELLA
+ Registrato alla Corte dei conti, addi' 24 giugno 1957
+ Atti del Governo, registro n. 106, foglio n. 93. - CARLOMAGNO

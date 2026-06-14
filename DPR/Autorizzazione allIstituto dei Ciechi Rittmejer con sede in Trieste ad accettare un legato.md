@@ -1,15 +1,17 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 01 luglio 1965 n. 739
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 1700
+data: 1964-07-01
+titolo: "Autorizzazione all'\"Istituto dei Ciechi Rittmejer\", con sede in Trieste, ad accettare un legato."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1964-07-01;1700
+codice_redazionale: 064U1700
+vigente: true
+---
 
+## Art. 1.
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 01 luglio 1965 n. 739
-=============================================================
-
-Autorizzazione all'"Istituto dei Ciechi Rittmejer", con sede in Trieste, ad accettare un legato.
-------------------------------------------------------------------------------------------------
-
-L'errata-corrige (in G.U. 28/07/1965, n. 187) ha disposto che dove è scritto 1 luglio 1965, n. 739 deve leggersi 1 luglio 1964, n. 1700.
-
-Art. 1
-------
-
-NESSUN PROVVEDIMENTO E' STATO INSERITO SOTTO QUESTO NUMERO NELLA RACCOLTA UFFICIALE DEGLI ATTI NORMATIVI DELLA REPUBBLICA ITALIANA. 
+N. ((1700)). Decreto del Presidente della Repubblica 1 luglio ((1964)), col quale, sulla proposta del Ministro per la pubblica istruzione, l'"Istituto dei Ciechi Rittmejer", con sede in Trieste, viene autorizzato ad accettare dalla defunta signora Pia Ferrari Maineri un legato, disposto in suo favore con testamento olografo pubblicato dal dott. Giuseppe Boschini, notaio in Trieste, in data 16 ottobre 1962, costituito da due case di civile abitazione, in Trieste, una sita in via Cavana n. 2 e l'altra in via Capitelli n. 1.1, del valore venale di L. 32.000.000. 
+ 
+Visto, il Guardasigilli: REALE 
+ Registrato alla Corte dei conti, addi' 30 giugno 1965 
+ Atti del Governo, registro n. 191, foglio n. 63. - VILLA

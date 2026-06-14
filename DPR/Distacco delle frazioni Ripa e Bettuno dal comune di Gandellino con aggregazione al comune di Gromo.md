@@ -1,14 +1,14 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 maggio 1968 n. 767
-
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 maggio 1968 n. 767
-=============================================================
-
-Distacco delle frazioni Ripa e Bettuno dal comune di Gandellino con aggregazione al comune di Gromo.
-----------------------------------------------------------------------------------------------------
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 767
+data: 1968-05-28
+titolo: "Distacco delle frazioni Ripa e Bettuno dal comune di Gandellino con aggregazione al comune di Gromo."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1968-05-28;767
+codice_redazionale: 068U0767
+vigente: true
+---
 
 IL PRESIDENTE DELLA REPUBBLICA
-------------------------------
 
 Vista la istanza in data 14 agosto 1955, con la quale la maggioranza qualificata dei contribuenti delle frazioni Ripa e Bettuno del comune di Gandellino (Bergamo) ha chiesto l'aggregazione delle frazioni medesima al comune di Gromo;
 
@@ -16,35 +16,20 @@ Viste le deliberazioni del consiglio comunale di Gandellino in data 14 marzo 195
 
 Udito il parere espresso dalla prima sezione del Consiglio di Stato nell'adunanza dell'11 aprile 1968;
 
-Visti gli articoli 34 e 35 del testo unico della legge comunale e provinciale, approvato con [regio decreto 3 marzo 1934, n. 383](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-03-03;383);
+Visti gli articoli 34 e 35 del testo unico della legge comunale e provinciale, approvato con [regio decreto 3 marzo 1934, n. 383](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20del%20testo%20unico%20della%20legge%20comunale%20e%20provinciale.%20034U0383.md);
 
-Sulla
------
+Sulla proposta del Ministro Segretario di Stato per gli affari dell'interno; Decreta:
 
-proposta del Ministro Segretario di Stato per gli affari dell'interno; Decreta:
+## Art. 1.
 
-Art. 1
-------
+Le frazioni Ripa e Bettuno sono distaccate dal comune di Gandellino ed aggregate al comune di Gromo, con la circoscrizione territoriale risultante dalla pianta planimetrica e dalla relazione descrittiva dei confini, annesse al presente decreto.
 
-  
-Le frazioni Ripa e Bettuno sono distaccate dal comune di Gandellino ed aggregate al comune di Gromo, con la circoscrizione territoriale risultante dalla pianta planimetrica e dalla relazione descrittiva dei confini, annesse al presente decreto.  
+## Art. 2.
 
-Art. 2
-------
-
-  
-Il prefetto della provincia di Bergamo, sentita la giunta provinciale amministrativa, provvedera' alla separazione patrimoniale ed al riparto delle attivita' e passivita'.  
-  
+Il prefetto della provincia di Bergamo, sentita la giunta provinciale amministrativa, provvedera' alla separazione patrimoniale ed al riparto delle attivita' e passivita'.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 28 maggio 1968
+Dato a Roma, addi' 28 maggio 1968
 
-SARAGAT TAVIANI
-
-Visto, il Guardasigilli: REALE
-
-Registrato alla Corte dei conti, addi' 1 luglio 1968
-
-Atti del Governo, registro n. 220, foglio n. 101. - GRECO
+SARAGAT TAVIANI Visto, il Guardasigilli: REALE Registrato alla Corte dei conti, addi' 1 luglio 1968 Atti del Governo, registro n. 220, foglio n. 101. - GRECO

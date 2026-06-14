@@ -1,19 +1,21 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 19 settembre 1956 n. 1471
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 1471
+data: 1956-09-19
+titolo: "Approvazione del nuovo statuto organico dell'Ente friulano di economia montana, con sede in Udine."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1956-09-19;1471
+codice_redazionale: 056U1471
+vigente: true
+---
 
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 19 settembre 1956 n. 1471
-=================================================================
-
-Approvazione del nuovo statuto organico dell'Ente friulano di economia montana, con sede in Udine.
---------------------------------------------------------------------------------------------------
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-1471. Decreto del Presidente della Repubblica 19 settembre 1956, col quale, sulla proposta del Ministro per l'agricoltura e per le foreste, viene approvato il nuovo statuto organico dell'Ente friulano di economia montana con sede in Udine.  
-  
-Visto, il Guardasigilli: MORO  
-Registrato alla Corte dei conti, addi' 17 dicembre 1956  
-Atti del Governo, registro n. 102, foglio n. 115. - CARLOMAGNO
+1471.
+
+Decreto del Presidente della Repubblica 19 settembre 1956, col quale, sulla proposta del Ministro per l'agricoltura e per le foreste, viene approvato il nuovo statuto organico dell'Ente friulano di economia montana con sede in Udine.
+
+Visto, il Guardasigilli: MORO
+ Registrato alla Corte dei conti, addi' 17 dicembre 1956
+ Atti del Governo, registro n. 102, foglio n. 115. - CARLOMAGNO

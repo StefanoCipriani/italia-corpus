@@ -1,326 +1,123 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 10 giugno 1969 n. 992
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 992
+data: 1969-06-10
+titolo: "Concessione dell'autonomia amministrativa, a decorrere dal 1 ottobre 1969, a novantuno istituti tecnici commerciali e istituti tecnici commerciali e per geometri."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1969-06-10;992
+codice_redazionale: 069U0992
+vigente: true
+---
 
+## Art. 1.
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 10 giugno 1969 n. 992
-=============================================================
+IL PRESIDENTE DELLA REPUBBLICA
 
-Concessione dell'autonomia amministrativa, a decorrere dal 1 ottobre 1969, a novantuno istituti tecnici commerciali e istituti tecnici commerciali e per geometri.
-------------------------------------------------------------------------------------------------------------------------------------------------------------------
+ Visto l'[art. 3 della legge 15 giugno 1931, n. 889](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1931-06-15;889#art_3), che prevede il riconoscimento degli istituti di istruzione - tecnica come enti dotati di personalita' giuridica e di autonomia nel loro funzionamento;
+ Visti gli articoli 68 e 69 della stessa [legge 15 giugno 1931, n. 889](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1931-06-15;889), che, tra l'altro, dettano norme per la trasformazione in istituti tecnici commerciali e commerciali e per geometri degli istituti commerciali e commerciali e per geometri preesistenti;
+ Visti i [regi decreti 31 agosto 1933, numeri 2260](../Atti%20normativi%20abrogati%20%28in%20originale%29/Trasformazione%20del%20Regio%20istituto%20tecnico%20Michele%20Fodera%20di%20Agrigento%20in%20Regio%20istituto%20tecnico%20commerciale%20a%20indirizzo%20amministrativo%20e%20per%20geometri.%20033U2260.md), [2261](../Atti%20normativi%20abrogati%20%28in%20originale%29/Trasformazione%20del%20Regio%20istituto%20tecnico%20Leonardo%20da%20Vinci%20di%20Alessandria%20in%20Regio%20istituto%20tecnico%20commerciale%20a%20indirizzo%20amministrativo%20e%20per%20geometri.%20033U2261.md),[2264](../Atti%20normativi%20abrogati%20%28in%20originale%29/Trasformazione%20del%20Regio%20istituto%20tecnico%20Michelangelo%20Buonarroti%20di%20Arezzo%20in%20Regio%20istituto%20tecnico%20commerciale%20a%20indirizzo%20amministrativo%20e%20per%20geometri.%20033U2264.md), [2265](../Atti%20normativi%20abrogati%20%28in%20originale%29/Trasformazione%20del%20Regio%20istituto%20tecnico%20Umberto%20I%20di%20Ascoli%20Piceno%20in%20Regio%20istituto%20tecnico%20commerciale%20a%20indirizzo%20amministrativo%20e%20per%20geometri.%20033U2265.md), [2266](../Atti%20normativi%20abrogati%20%28in%20originale%29/Trasformazione%20del%20Regio%20istituto%20tecnico%20Ruggero%20Bonghi%20di%20Assisi%20in%20Regio%20istituto%20tecnico%20commerciale%20a%20indirizza%20amministrativo%20e%20per%20geometri.%20033U2266.md), [2267](../Atti%20normativi%20abrogati%20%28in%20originale%29/Trasformazione%20dei%20Regio%20istituto%20tecnico%20Giov.%20Ant.%20Gioberti%20di%20Asti%20in%20Regio%20istituto%20tecnico%20commerciale%20a%20indirizzo%20amministrativo%20e%20per%20geometri.%20033U2267.md), [2268](../Atti%20normativi%20abrogati%20%28in%20originale%29/Trasformazione%20del%20Regio%20istituto%20tecnico%20Luigi%20Amabile%20di%20Avellino%20in%20Regio%20istituto%20tecnico%20commerciale%20a%20indirizzo%20amministrativo%20e%20per%20geometri.%20033U2268.md), [2269](../Atti%20normativi%20abrogati%20%28in%20originale%29/Trasformazione%20del%20Regio%20istituto%20tecnico%20Giulio%20Cesare%20di%20Bari%20in%20Regio%20istituto%20tecnico%20commerciale%20a%20indirizzo%20amministrativo%20e%20per%20geometri.%20033U2269.md), [2201](../Atti%20normativi%20abrogati%20%28in%20originale%29/Trasformazione%20del%20Regio%20istituto%20tecnico%20Vittorio%20Emanuele%20II%20di%20Bergamo%20in%20Regio%20istituto%20tecnico%20commerciale%20a%20indirizzo%20amministrativo.%20033U2201.md), [2271](../Atti%20normativi%20abrogati%20%28in%20originale%29/Trasformazione%20del%20Regio%20istituto%20tecnico%20Pier%20Crescenzi%20di%20Bologna%20in%20Regio%20istituto%20tecnico%20commerciale%20a%20indirizzo%20amministrativo%20e%20per%20geometri.%20033U2271.md), [2202](../Atti%20normativi%20abrogati%20%28in%20originale%29/Trasformazione%20del%20Regio%20istituto%20tecnico%20Cesare%20Battisti%20di%20Bolzano%20in%20Regio%20istituto%20tecnico%20commerciale%20a%20indirizzo%20amministrativo.%20033U2202.md), [2203](../Atti%20normativi%20abrogati%20%28in%20originale%29/Trasformazione%20del%20Regio%20istituto%20tecnico%20Pietro%20Martini%20di%20Cagliari%20in%20Regio%20istituto%20tecnico%20commerciale%20a%20indirizzo%20amministrativo.%20033U2203.md),[2273](../Atti%20normativi%20abrogati%20%28in%20originale%29/Trasformazione%20del%20Regio%20istituto%20tecnico%20Mario%20Rapisardi%20di%20Caltanissetta%20in%20Regio%20istituto%20tecnico%20commerciale%20a%20indirizzo%20amministrativo%20e%20per%20geometri.%20033U2273.md), [2274](../Atti%20normativi%20abrogati%20%28in%20originale%29/Trasformazione%20del%20Regio%20istituto%20tecnico%20Giovanni%20Antinori%20di%20Camerino%20in%20Regio%20istituto%20tecnico%20commerciale%20a%20indirizzo%20amministrativo%20e%20per%20geometri.%20033U2274.md), [2275](../Atti%20normativi%20abrogati%20%28in%20originale%29/Trasformazione%20del%20Regio%20istituto%20tecnico%20Leardi%20di%20Casale%20Monferrato%20in%20Regio%20istituto%20tecnico%20commerciale%20a%20indirizzo%20amministrativo%20e%20per%20geometri.%20033U2275.md), [2277](../Atti%20normativi%20abrogati%20%28in%20originale%29/Trasformazione%20del%20Regio%20istituto%20tecnico%20Carlo%20Gemmellaro%20di%20Catania%20in%20Regio%20istituto%20tecnico%20commerciale%20a%20indirizzo%20amministrativo%20e%20per%20geometri.%20033U2277.md), [2278](../Atti%20normativi%20abrogati%20%28in%20originale%29/Trasformazione%20del%20Regio%20istituto%20tecnico%20Bernardino%20Grimaldi%20di%20Catanzaro%20in%20Regio%20istituto%20tecnico%20commerciale%20a%20in%20dirizzo%20amministrativo%20e%20per%20geometri.%20033U2278.md), [2204](../Atti%20normativi%20abrogati%20%28in%20originale%29/Trasformazione%20del%20Regio%20istituto%20tecnico%20In%20memoria%20dei%20morti%20per%20la%20Patria%20di%20Chiavari%20in%20Regio%20istituto%20tecnico%20commerciale%20a%20indirizzo%20amministrativo.%20033U2204.md), [2279](../Atti%20normativi%20abrogati%20%28in%20originale%29/Trasformazione%20del%20Regio%20istituto%20tecnico%20Ferdinando%20Galiani%20di%20Chieti%20in%20Regio%20istituto%20tecnico%20commerciale%20a%20indirizzo%20amministrativo%20e%20per%20geometri.%20033U2279.md), [2205](../Atti%20normativi%20abrogati%20%28in%20originale%29/Trasformazione%20del%20Regio%20istituto%20tecnico%20Guido%20Baccelli%20di%20Civitavecchia%20in%20Regio%20istituto%20tecnico%20commerciale%20a%20indirizzo%20amministrativo.%20033U2205.md), [2206](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;2206), [2280](../Atti%20normativi%20abrogati%20%28in%20originale%29/Trasformazione%20del%20Regio%20istituto%20tecnico%20Giovanni%20Pezzullo%20di%20Cosenza%20in%20Regio%20istituto%20tecnico%20commerciale%20a%20indirizzo%20amministrativo%20e%20per%20geometri.%20033U2280.md),[2281](../Atti%20normativi%20abrogati%20%28in%20originale%29/Trasformazione%20del%20Regio%20istituto%20tecnico%20Eugenio%20Beltrami%20di%20Cremona%20in%20Regio%20istituto%20tecnico%20commerciale%20a%20indirizzo%20amministrativo%20e%20per%20geometri.%20033U2281.md), [2282](../Atti%20normativi%20abrogati%20%28in%20originale%29/Trasformazione%20del%20Regio%20istituto%20tecnico%20Francesco%20Andrea%20Bonelli%20di%20Cuneo%20in%20Regio%20istituto%20tecnico%20commerciale%20indirizzo%20amministrativo%20e%20per%20geometri.%20033U2282.md), [2208](../Atti%20normativi%20abrogati%20%28in%20originale%29/Trasformazione%20del%20Regio%20istituto%20tecnico%20Alfredo%20Oriani%20di%20Faenza%20in%20Regio%20istituto%20tecnico%20commerciale%20a%20indirizzo%20amministrativo.%20033U2208.md), [2283](../Atti%20normativi%20abrogati%20%28in%20originale%29/Trasformazione%20del%20Regio%20istituto%20tecnico%20Vincenzo%20Monti%20di%20Ferrara%20in%20Regio%20istituto%20tecnico%20commerciale%20a%20indirizzo%20amministrativo%20e%20per%20geometri.%20033U2283.md), [2284](../Atti%20normativi%20abrogati%20%28in%20originale%29/Trasformazione%20del%20Regio%20istituto%20tecnico%20Galileo%20Galilei%20di%20Firenze%20in%20Regio%20istituto%20tecnico%20commerciale%20a%20indirizzo%20amministrativo%20e%20per%20geometri.%20033U2284.md), [2286](../Atti%20normativi%20abrogati%20%28in%20originale%29/Trasformazione%20del%20Regio%20istituto%20tecnico%20Carlo%20Matteucci%20di%20Forli%20in%20Regio%20istituto%20tecnico%20commerciale%20a%20indirizzo%20amministrativo%20e%20per%20geometri.%20033U2286.md), [2287](../Atti%20normativi%20abrogati%20%28in%20originale%29/Trasformazione%20del%20Regio%20istituto%20tecnico%20Vittorio%20Emanuele%20II%20di%20Genova%20in%20Regio%20istituto%20tecnico%20commerciale%20a%20indirizzo%20amministrativo%20e%20per%20geometri.%20033U2287.md), [2207](../Atti%20normativi%20abrogati%20%28in%20originale%29/Trasformazione%20del%20Regio%20istituto%20tecnico%20Vittorio%20Emanuele%20III%20di%20Genova%20Sampierdarena%20in%20Regio%20istituto%20tecnico%20commerciale%20a%20indirizzo%20amministrativo.%20033U2207.md), [2210](../Atti%20normativi%20abrogati%20%28in%20originale%29/Trasformazione%20del%20Regio%20istituto%20tecnico%20Giovanni%20Ruffini%20di%20Imperia%20in%20Regio%20istituto%20tecnico%20commerciale%20a%20indirizzo%20amministrativo.%20033U2210.md), [2289](../Atti%20normativi%20abrogati%20%28in%20originale%29/Trasformazione%20del%20Regio%20istituto%20tecnico%20Pietro%20Cuppari%20di%20Iesi%20in%20Regio%20istituto%20tecnico%20commerciale%20a%20indirizzo%20amministrativo%20e%20per%20geometri.%20033U2289.md),[2263](../Atti%20normativi%20abrogati%20%28in%20originale%29/Trasformazione%20del%20Regio%20istituto%20tecnico%20Ottavio%20Colecchi%20di%20Aquila%20in%20Regio%20istituto%20tecnico%20commerciale%20a%20indirizzo%20amministrativo%20e%20per%20geometri.%20033U2263.md), [2211](../Atti%20normativi%20abrogati%20%28in%20originale%29/Trasformazione%20del%20Regio%20istituto%20tecnico%20M.%20da%20Passano%20di%20La%20Spezia%20in%20Regio%20istituto%20tecnico%20commerciale%20a%20indirizzo%20amministrativo.%20033U2211.md), [2290](../Atti%20normativi%20abrogati%20%28in%20originale%29/Trasformazione%20del%20Regio%20istituto%20tecnico%20Oronzo%20Gabriele%20Costa%20di%20Lecce%20in%20Regio%20istituto%20tecnico%20commerciale%20a%20indirizzo%20amministrativo%20e%20per%20geometri.%20033U2290.md), [2212](../Atti%20normativi%20abrogati%20%28in%20originale%29/Trasformazione%20del%20Regio%20istituto%20tecnico%20Giuseppe%20Parini%20di%20Lecco%20in%20Regio%20istituto%20tecnico%20commerciale%20a%20indirizzo%20amministrativo.%20033U2212.md), [2291](../Atti%20normativi%20abrogati%20%28in%20originale%29/Trasformazione%20del%20Regio%20istituto%20tecnico%20Carlo%20DellAcqua%20di%20Legnano%20in%20Regio%20istituto%20tecnico%20commerciale%20a%20indirizzo%20amministrativo%20e%20per%20geometri.%20033U2291.md), [2213](../Atti%20normativi%20abrogati%20%28in%20originale%29/Trasformazione%20del%20Regio%20istituto%20tecnico%20Amerigo%20Vespucci%20di%20Livorno%20in%20Regio%20istituto%20tecnico%20commerciale%20a%20indirizzo%20amministrativo.%20033U2213.md), [2292](../Atti%20normativi%20abrogati%20%28in%20originale%29/Trasformazione%20del%20Regio%20istituto%20tecnico%20Agostino%20Bassi%20di%20Lodi%20in%20Regio%20istituto%20tecnico%20commerciale%20a%20indirizzo%20amministrativo%20e%20per%20geometri.%20033U2292.md), [2214](../Atti%20normativi%20abrogati%20%28in%20originale%29/Trasformazione%20del%20Regio%20istituto%20tecnico%20Vittorio%20Emanuele%20III%20di%20Lovere%20in%20Regio%20istituto%20tecnico%20commerciale%20a%20indirizzo%20amministrativo.%20033U2214.md), [2215](../Atti%20normativi%20abrogati%20%28in%20originale%29/Trasformazione%20del%20Regio%20istituto%20tecnico%20Vittorio%20Emanuele%20III%20di%20Lucera%20in%20Regio%20istituto%20tecnico%20commerciale%20a%20indirizzo%20amministrativo.%20033U2215.md), [2293](../Atti%20normativi%20abrogati%20%28in%20originale%29/Trasformazione%20del%20Regio%20istituto%20tecnico%20Alberico%20Gentili%20di%20Macerata%20in%20Regio%20istituto%20tecnico%20commerciale%20a%20indirizzo%20amministrativo%20e%20per%20geometri.%20033U2293.md),[2294](../Atti%20normativi%20abrogati%20%28in%20originale%29/Trasformazione%20del%20Regio%20istituto%20tecnico%20Alberto%20Pitentino%20di%20Mantova%20in%20Regio%20istituto%20tecnico%20commerciale%20a%20indirizzo%20amministrativo%20e%20per%20geometri.%20033U2294.md), [2295](../Atti%20normativi%20abrogati%20%28in%20originale%29/Trasformazione%20del%20Regio%20istituto%20tecnico%20Guglielmo%20Gasparini%20di%20Melfi%20in%20Regio%20istituto%20tecnico%20commerciale%20a%20indirizzo%20amministrativo%20e%20per%20geometri.%20033U2295.md), [2296](../Atti%20normativi%20abrogati%20%28in%20originale%29/Trasformazione%20del%20Regio%20istituto%20tecnico%20Antonio%20Maria%20Iaci%20di%20Messina%20in%20Regio%20istituto%20tecnico%20commerciale%20a%20indirizzo%20amministrativo%20e%20per%20geometri.%20033U2296.md), [2297](../Atti%20normativi%20abrogati%20%28in%20originale%29/Trasformazione%20del%20Regio%20istituto%20tecnico%20Carlo%20Cattaneo%20di%20Milano%20in%20Regio%20istituto%20tecnico%20commerciale%20a%20indirizzo%20amministrativo%20e%20per%20geometri.%20033U2297.md), [2216](../Atti%20normativi%20abrogati%20%28in%20originale%29/Trasformazione%20del%20Regio%20istituto%20tecnico%20Pietro%20Verri%20di%20Milano%20in%20Regio%20istituto%20tecnico%20commerciale%20a%20indirizzo%20amministrativo.%20033U2216.md), [2298](../Atti%20normativi%20abrogati%20%28in%20originale%29/Trasformazione%20del%20Regio%20istituto%20tecnico%20Iacopo%20Barozzi%20di%20Modena%20in%20Regio%20istituto%20tecnico%20commerciale%20a%20indirizzo%20amministrativo%20e%20per%20geometri.%20033U2298.md), [2299](../Atti%20normativi%20abrogati%20%28in%20originale%29/Trasformazione%20del%20Regio%20istituto%20tecnico%20Archimede%20di%20Modica%20in%20Regio%20istituto%20tecnico%20commerciale%20a%20indirizzo%20amministrativo%20e%20per%20geometri.%20033U2299.md), [2300](../Atti%20normativi%20abrogati%20%28in%20originale%29/Trasformazione%20del%20Regio%20istituto%20tecnico%20Giuseppe%20Baraffi%20di%20Mondovi%20in%20Regio%20istituto%20tecnico%20commerciale%20a%20indirizzo%20amministrativo%20e%20per%20geometri.%20033U2300.md), [2301](../Atti%20normativi%20abrogati%20%28in%20originale%29/Trasformazione%20del%20Regio%20istituto%20tecnico%20Giovan%20Battista%20della%20Porta%20di%20Napoli%20in%20Regio%20istituto%20tecnico%20commerciale%20a%20indirizzo%20amministrativo%20e%20per%20geometri.%20033U2301.md), [2217](../Atti%20normativi%20abrogati%20%28in%20originale%29/Trasformazione%20del%20Regio%20istituto%20tecnico%20Mario%20Pagano%20di%20Napoli%20in%20Regio%20istituto%20tecnico%20commerciale%20a%20indirizzo%20amministrativo.%20033U2217.md),[2302](../Atti%20normativi%20abrogati%20%28in%20originale%29/Trasformazione%20del%20Regio%20istituto%20tecnico%20Ottavio%20Fabrizio%20Mossotti%20di%20Novara%20in%20Regio%20istituto%20tecnico%20commerciale%20a%20indirizzo%20amministrativo%20e%20per%20geometri.%20033U2302.md), [2303](../Atti%20normativi%20abrogati%20%28in%20originale%29/Trasformazione%20del%20Regio%20istituto%20tecnico%20Giovanni%20Battista%20Belzoni%20di%20Padova%20in%20Regio%20istituto%20tecnico%20commerciale%20a%20indirizzo%20amministrativo%20e%20per%20geometri.%20033U2303.md), [2304](../Atti%20normativi%20abrogati%20%28in%20originale%29/Trasformazione%20del%20Regio%20istituto%20tecnico%20Filippo%20Parlatore%20di%20Palermo%20in%20Regio%20istituto%20tecnico%20commerciale%20a%20indirizzo%20amministrativo%20e%20per%20geometri.%20033U2304.md), [2218](../Atti%20normativi%20abrogati%20%28in%20originale%29/Trasformazione%20del%20Regio%20istituto%20tecnico%20Francesco%20Crispi%20di%20Palermo%20in%20Regio%20istituto%20tecnico%20commerciale%20a%20indirizzo%20amministrativo.%20033U2218.md), [2305](../Atti%20normativi%20abrogati%20%28in%20originale%29/Trasformazione%20del%20Regio%20istituto%20tecnico%20Macedonio%20Melloni%20di%20Parma%20in%20Regio%20istituto%20tecnico%20commerciale%20a%20indirizzo%20amministrativo%20e%20per%20geometri.%20033U2305.md), [2306](../Atti%20normativi%20abrogati%20%28in%20originale%29/Trasformazione%20del%20Regio%20istituto%20tecnico%20Antonio%20Maria%20Bordoni%20di%20Pavia%20in%20Regio%20istituto%20tecnico%20commerciale%20a%20indirizzo%20amministrativo%20e%20per%20geometri.%20033U2306.md), [2307](../Atti%20normativi%20abrogati%20%28in%20originale%29/Trasformazione%20del%20Regio%20istituto%20tecnico%20Vittorio%20Emanuele%20II%20di%20Perugia%20in%20Regio%20istituto%20tecnico%20commerciale%20a%20indirizzo%20amministrativo%20e%20per%20geometri.%20033U2307.md), [2308](../Atti%20normativi%20abrogati%20%28in%20originale%29/Trasformazione%20del%20Regio%20istituto%20tecnico%20Bramante%20di%20Pesaro%20in%20Regio%20istituto%20tecnico%20commerciale%20a%20indirizzo%20amministrativo%20e%20per%20geometri.%20033U2308.md), [2219](../Atti%20normativi%20abrogati%20%28in%20originale%29/Trasformazione%20del%20Regio%20istituto%20tecnico%20Tito%20Acerbo%20di%20Pescara%20in%20Regio%20istituto%20tecnico%20commerciale%20a%20indirizzo%20ammnistrativo.%20033U2219.md), [2309](../Atti%20normativi%20abrogati%20%28in%20originale%29/Trasformazione%20del%20Regio%20istituto%20tecnico%20Gian%20Domenico%20Romagnosi%20di%20Piacenza%20in%20Regio%20istituto%20tecnico%20commerciale%20a%20indirizzo%20amministrativo%20e%20per%20geometri.%20033U2309.md),[2310](../Atti%20normativi%20abrogati%20%28in%20originale%29/Trasformazione%20del%20Regio%20istituto%20tecnico%20Michele%20Buniva%20di%20Pinerolo%20in%20Regio%20istituto%20tecnico%20commerciale%20a%20indirizzo%20amministrativo%20e%20per%20geometri.%20033U2310.md), [2311](../Atti%20normativi%20abrogati%20%28in%20originale%29/Trasformazione%20del%20Regio%20istituto%20tecnico%20Antonio%20Pacinotti%20di%20Pisa%20in%20Regio%20istituto%20tecnico%20commerciale%20a%20indirizzo%20amministrativo%20e%20per%20geometri.%20033U2311.md), [2220](../Atti%20normativi%20abrogati%20%28in%20originale%29/Trasformazione%20del%20Regio%20istituto%20tecnico%20Filippo%20Pacini%20di%20Pistoia%20in%20Regio%20istituto%20tecnico%20commerciale%20a%20indirizzo%20amministrativo.%20033U2220.md), [2312](../Atti%20normativi%20abrogati%20%28in%20originale%29/Trasformazione%20del%20Regio%20istituto%20tecnico%20Giuseppe%20Ginanni%20di%20Ravenna%20in%20Regio%20istituto%20tecnico%20commerciale%20a%20indirizzo%20amministrativo%20e%20per%20geometri.%20033U2312.md), [2313](../Atti%20normativi%20abrogati%20%28in%20originale%29/Trasformazione%20del%20Regio%20istituto%20tecnico%20Raffaele%20Piria%20di%20Reggio%20Calabria%20in%20Regio%20istituto%20tecnico%20commerciale%20a%20indirizzo%20amministrativo%20e%20per%20geometri.%20033U2313.md), [2314](../Atti%20normativi%20abrogati%20%28in%20originale%29/Trasformazione%20del%20Regio%20istituto%20tecnico%20Angelo%20Secchi%20di%20Reggio%20Emilia%20in%20Regio%20istituto%20tecnico%20commerciale%20a%20indirizzo%20amministrativo%20e%20per%20geometri.%20033U2314.md), [2315](../Atti%20normativi%20abrogati%20%28in%20originale%29/Trasformazione%20del%20Regio%20istituto%20tecnico%20Roberto%20Valturio%20di%20Rimini%20in%20Regio%20istituto%20tecnico%20commerciale%20a%20indirizzo%20amministrativo%20e%20per%20geometri.%20033U2315.md), [2316](../Atti%20normativi%20abrogati%20%28in%20originale%29/Trasformazione%20del%20Regio%20istituto%20tecnico%20Leonardo%20da%20Vinci%20di%20Roma%20in%20Regio%20istituto%20tecnico%20commerciale%20a%20indirizzo%20amministrativo%20e%20per%20geometri.%20033U2316.md), [2222](../Atti%20normativi%20abrogati%20%28in%20originale%29/Trasformazione%20del%20Regio%20istituto%20tecnico%20Vincenzo%20Gioberti%20di%20Roma%20in%20Regio%20istituto%20tecnico%20commerciale%20a%20indirizzo%20amministrativo.%20033U2222.md), [2317](../Atti%20normativi%20abrogati%20%28in%20originale%29/Trasformazione%20del%20Regio%20istituto%20tecnico%20Regina%20Elena%20di%20Rovereto%20in%20Regio%20istituto%20tecnico%20commerciale%20a%20indirizzo%20amministrativo%20e%20per%20geometri.%20033U2317.md),[2318](../Atti%20normativi%20abrogati%20%28in%20originale%29/Trasformazione%20del%20Regio%20istituto%20tecnico%20Edmondo%20De%20Amicis%20di%20Rovigo%20in%20Regio%20istituto%20tecnico%20commerciale%20a%20indirizzo%20amministrativo%20e%20per%20geometri.%20033U2318.md), [2320](../Atti%20normativi%20abrogati%20%28in%20originale%29/Trasformazione%20del%20Regio%20istituto%20tecnico%20Alberto%20Lamamora%20di%20Sassari%20in%20Regio%20istituto%20tecnico%20commerciale%20a%20indirizzo%20amministrativo%20e%20per%20geometri.%20033U2320.md), [2224](../Atti%20normativi%20abrogati%20%28in%20originale%29/Trasformazione%20del%20Regio%20istituto%20tecnico%20Paolo%20Boselli%20di%20Savona%20in%20Regio%20istituto%20tecnico%20commerciale%20a%20indirizzo%20ani.%20ministrativo.%20033U2224.md), [2225](../Atti%20normativi%20abrogati%20%28in%20originale%29/Trasformazione%20del%20Regio%20istituto%20tecnico%20Alessandro%20Rizza%20di%20Siracusa%20in%20Regio%20istituto%20tecnico%20commerciale%20a%20indirizzo%20amministrativo.%20033U2225.md), [2321](../Atti%20normativi%20abrogati%20%28in%20originale%29/Trasformazione%20del%20Regio%20istituto%20tecnico%20Alberto%20de%20Simoni%20di%20Sondrio%20in%20Regio%20istituto%20tecnico%20commerciale%20a%20indirizzo%20amministrativo%20e%20per%20geometri.%20033U2321.md), [2322](../Atti%20normativi%20abrogati%20%28in%20originale%29/Trasformazione%20del%20Regio%20istituto%20tecnico%20Cesare%20Baronio%20di%20Sora%20in%20Regio%20istituto%20tecnico%20commerciale%20a%20indirizzo%20amministrativo%20e%20per%20geometri.%20033U2322.md), [2323](../Atti%20normativi%20abrogati%20%28in%20originale%29/Trasformazione%20del%20Regio%20istituto%20tecnico%20Giovanni%20Spagna%20di%20Spoleto%20in%20Regio%20istituto%20tecnico%20commerciale%20a%20indirizzo%20amministrativo%20e%20per%20geometri.%20033U2323.md), [2324](../Atti%20normativi%20abrogati%20%28in%20originale%29/Trasformazione%20del%20Regio%20istituto%20tecnico%20Vincenzo%20Comi%20di%20Teramo%20in%20Regio%20istituto%20tecnico%20commerciale%20a%20indirizzo%20amministrativo%20e%20per%20geometri.%20033U2324.md), [2325](../Atti%20normativi%20abrogati%20%28in%20originale%29/Trasformazione%20del%20Regio%20istituto%20tecnico%20C.%20Cornelio%20Tacito%20di%20Terni%20in%20Regio%20istituto%20tecnico%20commerciale%20a%20indirizzo%20ammnistrativo%20e%20per%20geometri.%20033U2325.md), [2326](../Atti%20normativi%20abrogati%20%28in%20originale%29/Trasformazione%20del%20Regio%20istituto%20tecnico%20Gemano%20Sommeiller%20di%20Torino%20in%20Regio%20istituto%20tecnico%20commerciale%20a%20indirizzo%20amministrativo%20e%20per%20geometri.%20033U2326.md),[2327](../Atti%20normativi%20abrogati%20%28in%20originale%29/Trasformazione%20del%20Regio%20istituto%20tecnico%20Salvatore%20Calvino%20di%20Trapani%20in%20Regio%20istituto%20tecnico%20commerciale%20a%20indirizzo%20amministrativo%20e%20per%20geometri.%20033U2327.md), [2227](../Atti%20normativi%20abrogati%20%28in%20originale%29/Trasformazione%20del%20Regio%20istituto%20tecnico%20Leonardo%20da%20Vinci%20di%20Trieste%20in%20Regio%20istituto%20tecnico%20commerciale%20a%20indirizzo%20amministrativo.%20033U2227.md), [2328](../Atti%20normativi%20abrogati%20%28in%20originale%29/Trasformazione%20del%20Regio%20istituto%20tecnico%20Antonio%20Zanon%20di%20Udine%20in%20Regio%20istituto%20tecnico%20commerciale%20a%20indirizzo%20amministrativo%20e%20per%20geometri.%20033U2328.md), [2228](../Atti%20normativi%20abrogati%20%28in%20originale%29/Trasformazione%20del%20Regio%20istituto%20tecnico%20Francesco%20Daverio%20di%20Varese%20in%20Regio%20istituto%20tecnico%20commerciale%20a%20indirizzo%20amministrativo.%20033U2228.md), [2329](../Atti%20normativi%20abrogati%20%28in%20originale%29/Trasformazione%20del%20Regio%20istituto%20tecnico%20Cesare%20Battisti%20di%20Velletri%20in%20Regio%20istituto%20tecnico%20commerciale%20a%20indirizzo%20amministrativo%20e%20per%20geometri%20033U2329.md), [2229](../Atti%20normativi%20abrogati%20%28in%20originale%29/Trasformazione%20del%20Regio%20istituto%20tecnico%20Paolo%20Sarpi%20di%20Venezia%20in%20Regio%20istituto%20tecnico%20commerciale%20a%20indirizzo%20amministrativo.%20033U2229.md), [2230](../Atti%20normativi%20abrogati%20%28in%20originale%29/Trasformazione%20del%20Regio%20istituto%20tecnico%20Anton%20Maria%20Lorgna%20di%20Verona%20in%20Regio%20istituto%20tecnico%20commerciale%20a%20indirizzo%20amministrativo.%20033U2230.md), [2231](../Atti%20normativi%20abrogati%20%28in%20originale%29/Trasformazione%20del%20Regio%20istituto%20tecnico%20Ambrogio%20Fusinieri%20di%20Vicenza%20in%20Regio%20istituto%20tecnico%20commerciale%20a%20indirizzo%20amministrativo.%20033U2231.md), [2330](../Atti%20normativi%20abrogati%20%28in%20originale%29/Trasformazione%20del%20Regio%20istituto%20tecnico%20Paolo%20Savi%20di%20Viterbo%20in%20Regio%20istituto%20tecnico%20commerciale%20a%20indirizzo%20amministrativo%20e%20per%20geometri.%20033U2330.md), con i quali gli istituti elencati nel presente decreto sono stati riconosciuti come enti dotati di personalita' giuridica e di autonomia nel loro funzionamento;
+ Visto l'[art. 2 del regio decreto-legge 27 agosto 1932, n. 1083](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disposizioni%20concernenti%20gli%20istituti%20e%20le%20scuole%20distruzione%20tecnica.%20032U1083.md), convertito nella [legge 22 dicembre 1932, n. 1824](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20R.%20decreto-legge%2027%20agosto%201932%20n.%201083%20contenente%20disposizioni%20concernenti%20gli%20Istituti%20e%20le%20Scuole%20distruzione%20tecnica.%20032U1824.md), il quale dispone che gli istituti trasformati ai sensi degli articoli 68 e 69 sopra citati continuino a funzionare secondo gli ordinamenti anteriori fino a quando non siano determinati i contributi dello Stato per il mantenimento;
+ Considerato che, ai sensi del predetto [art. 2 del regio decreto-legge 27 agosto 1932, n. 1083](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disposizioni%20concernenti%20gli%20istituti%20e%20le%20scuole%20distruzione%20tecnica.%20032U1083.md), l'art. 15 degli statuti delle singole istituzioni, approvati con i regi decreti sopra citati, rinvia ad un successivo provvedimento la determinazione del contributo dello Stato per il mantenimento degli istituti;
+ Ritenuta la necessita' di dare esecuzione al menzionato art. 15;
+ Sulla proposta del Ministro Segretario di Stato per la pubblica istruzione di concerto con quello per il tesoro;
 
-Art. 1
-------
+ Decreta:
 
- IL PRESIDENTE DELLA REPUBBLICA  
-  
-Visto l'[art. 3 della legge 15 giugno 1931, n. 889](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1931-06-15;889~art3), che prevede il riconoscimento degli istituti di istruzione - tecnica come enti dotati di personalita' giuridica e di autonomia nel loro funzionamento;  
-Visti gli articoli 68 e 69 della stessa [legge 15 giugno 1931, n. 889](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1931-06-15;889), che, tra l'altro, dettano norme per la trasformazione in istituti tecnici commerciali e commerciali e per geometri degli istituti commerciali e commerciali e per geometri preesistenti;  
-Visti i [regi decreti 31 agosto 1933, numeri 2260](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;2260), [2261](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;2261),[2264](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;2264), [2265](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;2265), [2266](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;2266), [2267](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;2267), [2268](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;2268), [2269](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;2269), [2201](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;2201), [2271](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;2271), [2202](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;2202), [2203](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;2203),[2273](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;2273), [2274](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;2274), [2275](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;2275), [2277](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;2277), [2278](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;2278), [2204](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;2204), [2279](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;2279), [2205](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;2205), [2206](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;2206), [2280](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;2280),[2281](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;2281), [2282](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;2282), [2208](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;2208), [2283](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;2283), [2284](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;2284), [2286](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;2286), [2287](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;2287), [2207](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;2207), [2210](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;2210), [2289](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;2289),[2263](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;2263), [2211](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;2211), [2290](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;2290), [2212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;2212), [2291](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;2291), [2213](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;2213), [2292](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;2292), [2214](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;2214), [2215](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;2215), [2293](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;2293),[2294](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;2294), [2295](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;2295), [2296](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;2296), [2297](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;2297), [2216](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;2216), [2298](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;2298), [2299](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;2299), [2300](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;2300), [2301](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;2301), [2217](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;2217),[2302](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;2302), [2303](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;2303), [2304](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;2304), [2218](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;2218), [2305](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;2305), [2306](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;2306), [2307](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;2307), [2308](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;2308), [2219](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;2219), [2309](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;2309),[2310](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;2310), [2311](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;2311), [2220](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;2220), [2312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;2312), [2313](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;2313), [2314](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;2314), [2315](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;2315), [2316](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;2316), [2222](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;2222), [2317](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;2317),[2318](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;2318), [2320](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;2320), [2224](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;2224), [2225](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;2225), [2321](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;2321), [2322](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;2322), [2323](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;2323), [2324](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;2324), [2325](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;2325), [2326](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;2326),[2327](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;2327), [2227](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;2227), [2328](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;2328), [2228](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;2228), [2329](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;2329), [2229](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;2229), [2230](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;2230), [2231](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;2231), [2330](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;2330), con i quali gli istituti elencati nel presente decreto sono stati riconosciuti come enti dotati di personalita' giuridica e di autonomia nel loro funzionamento;  
-Visto l'[art. 2 del regio decreto-legge 27 agosto 1932, n. 1083](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1932-08-27;1083~art2), convertito nella [legge 22 dicembre 1932, n. 1824](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1932-12-22;1824), il quale dispone che gli istituti trasformati ai sensi degli articoli 68 e 69 sopra citati continuino a funzionare secondo gli ordinamenti anteriori fino a quando non siano determinati i contributi dello Stato per il mantenimento;  
-Considerato che, ai sensi del predetto [art. 2 del regio decreto-legge 27 agosto 1932, n. 1083](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1932-08-27;1083~art2), l'art. 15 degli statuti delle singole istituzioni, approvati con i regi decreti sopra citati, rinvia ad un successivo provvedimento la determinazione del contributo dello Stato per il mantenimento degli istituti;  
-Ritenuta la necessita' di dare esecuzione al menzionato art. 15;  
-Sulla proposta del Ministro Segretario di Stato per la pubblica istruzione di concerto con quello per il tesoro;  
-  
-Decreta:  
-  
-A decorrere dal 1 ottobre 1969 il contributo dello Stato per il funzionamento autonomo degli istituti tecnici commerciali, per geometri e commerciali e per geometri sotto elencati, e' determinato nella misura di cui alla tabella annessa al presente decreto, firmata, d'ordine del Presidente della Repubblica, dal Ministro per la pubblica istruzione e da quello per il tesoro:  
-1) Istituto tecnico commerciale "Fadera'" di Agrigento;  
-2) Istituto tecnico commerciale e per geometri "L. da Vinci" di Alessandria;  
-3) Istituto tecnico commerciale "Buonarroti" di Arezzo;  
-4) Istituto tecnico commerciale e per geometri di Ascoli Piceno;  
-5) Istituto tecnico commerciale e per geometri di Assisi;  
-6) Istituto tecnico commerciale e per geometri di Asti;  
-7) Istituto tecnico commerciale "Amabile" di Avellino;  
-8) Istituto tecnico commerciale "G. Cesare" di Bari;  
-9) Istituto tecnico commerciale "Vitt. Eman. II" di Bergamo;  
-10) Istituto tecnico commerciale "Crescenzi" di Bologna;  
-11) Istituto tecnico commerciale e per geometri "C. Battisti" di Bolzano;  
-12) Istituto tecnico commerciale "Martini" di Cagliari;  
-13) Istituto tecnico commerciale "Rapisardi" di Caltanissetta;  
-14) Istituto tecnico commerciale e per geometri di Camerino;  
-15) Istituto tecnico commerciale e per geometri di Casale Monferrato;  
-16) Istituto tecnico commerciale "Gemmellaro" di Catania;  
-17) Istituto tecnico commerciale "Grimaldi" di Catanzaro;  
-18) Istituto tecnico commerciale e per geometri di Chiavari;  
-19) Istituto tecnico commerciale e per geometri di Chieti;  
-20) Istituto tecnico commerciale e per geometri di Civitavecchia;  
-21) Istituto tecnico commerciale di Como;  
-22) Istituto tecnico commerciale "Pezzullo" di Cosenza;  
-23) Istituto tecnico commerciale e per geometri di Cremona;  
-24) Istituto tecnico commerciale e per geometri di Cuneo;  
-25) Istituto tecnico commerciale e per geometri di Faenza;  
-26) Istituto tecnico commerciale "Monti" di Ferrara;  
-27) Istituto tecnico commerciale e per geometri "G. Galilei" di Firenze;  
-28) Istituto tecnico commerciale e per geometri di Forli';  
-29) Istituto tecnico commerciale "V. E. II" di Genova;  
-30) Istituto tecnico commerciale "Abba" di Genova-Sampierdarena;  
-31) Istituto tecnico commerciale e per geometri di Imperia;  
-32) Istituto tecnico commerciale e per geometri di Jesi;  
-33) Istituto tecnico commerciale e per geometri dell'Aquila;  
-34) Istituto tecnico commerciale "Da Passano" di La Spezia;  
-35) Istituto tecnico commerciale e per geometri di Lecce;  
-36) Istituto tecnico commerciale e per geometri di Lecco;  
-37) Istituto tecnico commerciale e per geometri di Legnano;  
-38) Istituto tecnico commerciale e per geometri di Livorno;  
-39) Istituto tecnico commerciale e per geometri di Lodi;  
-40) Istituto tecnico commerciale di Lovere;  
-41) Istituto tecnico commerciale e per geometri di Lucera;  
-42) Istituto tecnico commerciale e per geometri di Macerata;  
-43) Istituto tecnico commerciale e per geometri di Mantova;  
-44) Istituto tecnico commerciale e per geometri di Melfi;  
-45) Istituto tecnico commerciale "Jaci" di Messina;  
-46) Istituto tecnico commerciale "Cattaneo" di Milano;  
-47) Istituto tecnico commerciale "Verri" di Milano;  
-48) Istituto tecnico commerciale "Barozzi" di Modena;  
-49) Istituto tecnico commerciale e per geometri di Modica;  
-50) Istituto tecnico commerciale e per geometri di Mondovi';  
-51) Istituto tecnico per geometri "Della Porta" di Napoli;  
-52) Istituto tecnico commerciale "Pagano" di Napoli;  
-53) Istituto tecnico commerciale e per geometri di Novara;  
-54) Istituto tecnico per geometri "Belzoni" di Padova;.  
-55) Istituto tecnico commerciale "Crispi" di Palermo;  
-56) Istituto tecnico per geometri "Parlatore" di Palermo;  
-57) Istituto tecnico commerciale "Melloni" di Parma;  
-58) Istituto tecnico commerciale "Bordoni" di Pavia;  
-59) Istituto tecnico commerciale e per geometri di Perugia;  
-60) Istituto tecnico commerciale e per geometri di Pesaro;  
-61) Istituto tecnico commerciale e per geometri "Acerbo" di Pescara;  
-62) Istituto tecnico commerciale e per geometri di Piacenza;  
-63) Istituto tecnico commerciale e per geometri di Pinerolo;  
-64) Istituto tecnico commerciale e per geometri di Pisa;  
-65) Istituto tecnico commerciale "Pacini" di Pistoia;  
-66) Istituto tecnico commerciale e per geometri di Ravenna;  
-67) Istituto tecnico commerciale "R. Piria" di Reggio Calabria;  
-68) Istituto tecnico commerciale di Reggio Emilia;  
-69) Istituto tecnico commerciale e per geometri di Rimini;  
-70) Istituto tecnico commerciale "L. da Vinci" di Roma;  
-71) Istituto tecnico commerciale "Gioberti" di Roma;  
-72) Istituto tecnico commerciale e per geometri di Rovereto;  
-73) Istituto tecnico commerciale "De Amicis" di Rovigo;  
-74) Istituto tecnico commerciale "Lamarmora" di Sassari;  
-75) Istituto tecnico commerciale e per geometri di Savona;  
-76) Istituto tecnico commerciale "Rizza" di Siracusa;  
-77) Istituto tecnico commerciale e per geometri di Sondrio;  
-78) Istituto tecnico commerciale e per geometri di Sora;  
-79) Istituto tecnico commerciale e per geometri di Spoleto;  
-80) Istituto tecnico commerciale e per geometri di Teramo;  
-81) Istituto tecnico commerciale e per geometri di Terni;  
-82) Istituto tecnico commerciale "Sommeiller" di Torino;  
-83) Istituto tecnico commerciale "Calvino" di Trapani;  
-84) Istituto tecnico commerciale e per geometri "L. da Vinci" di Trieste;  
-85) Istituto tecnico commerciale "Zanon" di Udine;  
-86) Istituto tecnico commerciale e per geometri di Varese;  
-87) Istituto tecnico commerciale e per geometri di Velletri;  
-88) Istituto tecnico commerciale "Sarpi" di Venezia;  
-89) Istituto tecnico commerciale e per geometri "Lorgna" di Verona;  
-90) Istituto tecnico commerciale "Fusinieri" di Vicenza;  
-91) Istituto tecnico commerciale "P. Savi" di Viterbo.  
-La spesa derivante dall'applicazione del presente decreto gravera' sugli stanziamenti degli appositi capitoli dello stato di previsione della spesa per il Ministero della pubblica istruzione.  
-  
+ A decorrere dal 1 ottobre 1969 il contributo dello Stato per il funzionamento autonomo degli istituti tecnici commerciali, per geometri e commerciali e per geometri sotto elencati, e' determinato nella misura di cui alla tabella annessa al presente decreto, firmata, d'ordine del Presidente della Repubblica, dal Ministro per la pubblica istruzione e da quello per il tesoro:
+ 1) Istituto tecnico commerciale "Fadera'" di Agrigento;
+ 2) Istituto tecnico commerciale e per geometri "L. da Vinci" di Alessandria;
+ 3) Istituto tecnico commerciale "Buonarroti" di Arezzo;
+ 4) Istituto tecnico commerciale e per geometri di Ascoli Piceno;
+ 5) Istituto tecnico commerciale e per geometri di Assisi;
+ 6) Istituto tecnico commerciale e per geometri di Asti;
+ 7) Istituto tecnico commerciale "Amabile" di Avellino;
+ 8) Istituto tecnico commerciale "G. Cesare" di Bari;
+ 9) Istituto tecnico commerciale "Vitt. Eman. II" di Bergamo;
+ 10) Istituto tecnico commerciale "Crescenzi" di Bologna;
+ 11) Istituto tecnico commerciale e per geometri "C. Battisti" di Bolzano;
+ 12) Istituto tecnico commerciale "Martini" di Cagliari;
+ 13) Istituto tecnico commerciale "Rapisardi" di Caltanissetta;
+ 14) Istituto tecnico commerciale e per geometri di Camerino;
+ 15) Istituto tecnico commerciale e per geometri di Casale Monferrato;
+ 16) Istituto tecnico commerciale "Gemmellaro" di Catania;
+ 17) Istituto tecnico commerciale "Grimaldi" di Catanzaro;
+ 18) Istituto tecnico commerciale e per geometri di Chiavari;
+ 19) Istituto tecnico commerciale e per geometri di Chieti;
+ 20) Istituto tecnico commerciale e per geometri di Civitavecchia;
+ 21) Istituto tecnico commerciale di Como;
+ 22) Istituto tecnico commerciale "Pezzullo" di Cosenza;
+ 23) Istituto tecnico commerciale e per geometri di Cremona;
+ 24) Istituto tecnico commerciale e per geometri di Cuneo;
+ 25) Istituto tecnico commerciale e per geometri di Faenza;
+ 26) Istituto tecnico commerciale "Monti" di Ferrara;
+ 27) Istituto tecnico commerciale e per geometri "G. Galilei" di Firenze;
+ 28) Istituto tecnico commerciale e per geometri di Forli';
+ 29) Istituto tecnico commerciale "V. E. II" di Genova;
+ 30) Istituto tecnico commerciale "Abba" di Genova-Sampierdarena;
+ 31) Istituto tecnico commerciale e per geometri di Imperia;
+ 32) Istituto tecnico commerciale e per geometri di Jesi;
+ 33) Istituto tecnico commerciale e per geometri dell'Aquila;
+ 34) Istituto tecnico commerciale "Da Passano" di La Spezia;
+ 35) Istituto tecnico commerciale e per geometri di Lecce;
+ 36) Istituto tecnico commerciale e per geometri di Lecco;
+ 37) Istituto tecnico commerciale e per geometri di Legnano;
+ 38) Istituto tecnico commerciale e per geometri di Livorno;
+ 39) Istituto tecnico commerciale e per geometri di Lodi;
+ 40) Istituto tecnico commerciale di Lovere;
+ 41) Istituto tecnico commerciale e per geometri di Lucera;
+ 42) Istituto tecnico commerciale e per geometri di Macerata;
+ 43) Istituto tecnico commerciale e per geometri di Mantova;
+ 44) Istituto tecnico commerciale e per geometri di Melfi;
+ 45) Istituto tecnico commerciale "Jaci" di Messina;
+ 46) Istituto tecnico commerciale "Cattaneo" di Milano;
+ 47) Istituto tecnico commerciale "Verri" di Milano;
+ 48) Istituto tecnico commerciale "Barozzi" di Modena;
+ 49) Istituto tecnico commerciale e per geometri di Modica;
+ 50) Istituto tecnico commerciale e per geometri di Mondovi';
+ 51) Istituto tecnico per geometri "Della Porta" di Napoli;
+ 52) Istituto tecnico commerciale "Pagano" di Napoli;
+ 53) Istituto tecnico commerciale e per geometri di Novara;
+ 54) Istituto tecnico per geometri "Belzoni" di Padova;.
+ 55) Istituto tecnico commerciale "Crispi" di Palermo;
+ 56) Istituto tecnico per geometri "Parlatore" di Palermo;
+ 57) Istituto tecnico commerciale "Melloni" di Parma;
+ 58) Istituto tecnico commerciale "Bordoni" di Pavia;
+ 59) Istituto tecnico commerciale e per geometri di Perugia;
+ 60) Istituto tecnico commerciale e per geometri di Pesaro;
+ 61) Istituto tecnico commerciale e per geometri "Acerbo" di Pescara;
+ 62) Istituto tecnico commerciale e per geometri di Piacenza;
+ 63) Istituto tecnico commerciale e per geometri di Pinerolo;
+ 64) Istituto tecnico commerciale e per geometri di Pisa;
+ 65) Istituto tecnico commerciale "Pacini" di Pistoia;
+ 66) Istituto tecnico commerciale e per geometri di Ravenna;
+ 67) Istituto tecnico commerciale "R. Piria" di Reggio Calabria;
+ 68) Istituto tecnico commerciale di Reggio Emilia;
+ 69) Istituto tecnico commerciale e per geometri di Rimini;
+ 70) Istituto tecnico commerciale "L. da Vinci" di Roma;
+ 71) Istituto tecnico commerciale "Gioberti" di Roma;
+ 72) Istituto tecnico commerciale e per geometri di Rovereto;
+ 73) Istituto tecnico commerciale "De Amicis" di Rovigo;
+ 74) Istituto tecnico commerciale "Lamarmora" di Sassari;
+ 75) Istituto tecnico commerciale e per geometri di Savona;
+ 76) Istituto tecnico commerciale "Rizza" di Siracusa;
+ 77) Istituto tecnico commerciale e per geometri di Sondrio;
+ 78) Istituto tecnico commerciale e per geometri di Sora;
+ 79) Istituto tecnico commerciale e per geometri di Spoleto;
+ 80) Istituto tecnico commerciale e per geometri di Teramo;
+ 81) Istituto tecnico commerciale e per geometri di Terni;
+ 82) Istituto tecnico commerciale "Sommeiller" di Torino;
+ 83) Istituto tecnico commerciale "Calvino" di Trapani;
+ 84) Istituto tecnico commerciale e per geometri "L. da Vinci" di Trieste;
+ 85) Istituto tecnico commerciale "Zanon" di Udine;
+ 86) Istituto tecnico commerciale e per geometri di Varese;
+ 87) Istituto tecnico commerciale e per geometri di Velletri;
+ 88) Istituto tecnico commerciale "Sarpi" di Venezia;
+ 89) Istituto tecnico commerciale e per geometri "Lorgna" di Verona;
+ 90) Istituto tecnico commerciale "Fusinieri" di Vicenza;
+ 91) Istituto tecnico commerciale "P. Savi" di Viterbo.
+ La spesa derivante dall'applicazione del presente decreto gravera' sugli stanziamenti degli appositi capitoli dello stato di previsione della spesa per il Ministero della pubblica istruzione.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 10 giugno 1969
+Dato a Roma, addi' 10 giugno 1969
 
-SARAGAT FERRARI AGGRADI - COLOMBO
-
-Visto, il Guardasigilli: GAVA
-
-Registrato alla Corte dei conti, addi' 23 dicembre 1969
-
-Atti del Governo, registro n. 230, foglio n. 166. - CARUSO
-
-Tabella
-
-Tabella dei contributi per il funzionamento degli Istituti tecnici commerciali, per geometri e commerciali e per geometri, a decorrere dal 1 ottobre 1969.   
-  
-  
-  
-1) Istituto tecnico commerciale "Fadera'" di  
-Agrigento. L. 93.550.000  
-2) Istituto tecnico commerciale e per geometri  
-"L. da Vinci" di Alessandria L. 179.450.000  
-3) Istituto tecnico commerciale  
-"Buonarroti" di Arezzo. L. 124.900.000  
-4) Istituto tecnico commerciale e per geometri  
-di Ascoli Piceno L. 92.100.000  
-5)Istituto tecnico commerciale e per geometri  
-di Assisi. L. 61.750.000  
-6) Istituto tecnico commerciale e per geometri  
-di Asti. L. 92.100.000  
-7) Istituto tecnico commerciale "Amabile" di  
-Avellino. L. 122.600.000  
-8) Istituto tecnico commerciale "G. Cesare" di  
-Bari. L. 122.600.000  
-9) Istituto tecnico commerciale "V. Eman. II"  
-di Bergamo. L. 184.850.000  
-10) Istituto tecnico commerciale "Crescenzi" di  
-Bologna. L. 181.300.000  
-11) Istituto tecnico commerciale e per geometri  
-"C. Battisti" di Bolzano L. 146.350.000  
-12) Istituto tecnico commerciale "Martini" di  
-Cagliari. L. 301.500.000  
-13) Istituto tecnico commerciale "Rapisardi"  
-di Caltanissetta. L. 93.550.000  
-14) Istituto tecnico commerciale e per geometri  
-di Camerino. L. 61.750.000  
-15) Istituto tecnico commerciale e per  
-geometri di Casale Monferrato L. 92.100.000  
-16) Istituto tecnico commerciale "Gemmellaro"  
-di Catania L. 151.800.000  
-17) Istituto tecnico commerciale "Grimaldi"  
-di Catanzaro L. 122.600.000  
-18) Istituto tecnico commerciale e per geometri  
-di Chiavari. L. 92.100.000  
-19) Istituto tecnico commerciale e per geometri  
-di Chieti L. 92.100.000  
-20) Istituto tecnico commerciale e per geometri  
-di Civitavecchia.. . . . . . . . . . . . . . . . . . . .L. 120.850.000  
-21) Istituto tecnico commerciale di Como . . . . . . L. 125.800.000  
-22) Istituto tecnico commerciale "Pezzullo di  
-Cosenza. . . . . . . . . . . . . . . . . . . . . . . . .L. 153.450.000  
-23) Istituto tecnico commerciale e per geometri  
-di Cremona. . . . . . . . . . . . . . . . . . . . . . . L. 205.750.000  
-24) Istituto tecnico commerciale e per geometri  
-di Cuneo. . . . . . . . . . . . . . . . . . . . . . . .L. 90.850.000  
-25) Istituto tecnico commerciale e per geometri  
-di Faenza. . . . . . . . . . . . . . . . . . . . . . . L. 92.100.000  
-26) Istituto tecnico commerciale "Monti" di  
-Ferrara. . . . . . . . . . . . . . . . . . . . . . . . L. 184.850.000  
-27) Istituto tecnico commerciale e per geometri  
-"G. Galilei" di Firenze. . . . . . . . . . . . . . . .L. 231.200.000  
-25) Istituto tecnico commerciale e per geometri  
-di Forli . . . . . . . . . . . . . . . . . . . . . . . L. 152.000.000  
-29) Istituto tecnico commerciale "V.E.I.I." di  
-Genova. . . . . . . . . . . . . . . . . . . . . . . . . L. 181.300.000  
-30) Istituto tecnico commerciale "Abba" di  
-Genova Sampierdarena.. . . . . . . . . . . . . . . . . .L. 125.800.000  
-31) Istituto tecnico commerciale e per geometri  
-di Imperia.. . . . . . . . . . . . . . . . . ... . . . L. 92.100.000  
-32) Istituto tecnico commerciale e per geometri  
-di Jesi.. . . . . . . . . . . . . . . . . ... . . . .. L. 90.850.000  
-33) Istituto tecnico commerciale e per geometri  
-di L'Aquila.. . . . . . . . . . . . . . . . . ... . . . L. 120.850.000  
-34) Istituto tecnico commerciale "Da Passano"  
-di La Spezia.. . . . . . . . . . . . . . . . . ... . . L. 152.350.000  
-35) Istituto tecnico commerciale per geometri  
-di Lecce.. . . . . . . . . . . . . . . . . ... . . . . L. 205.200.000  
-36) Istituto tecnico commerciale e per geometri  
-di Lecco.. . . . . . . . . . . . . . . . . ... . . . .. L. 148.400.000  
-37) Istituto tecnico commerciale e per geometri  
-di Legnano.. . . . . . . . . . . . . . . . . ... . . . .L. 93.550.000  
-38) Istituto tecnico commerciale e per geometri  
-di Livorno.. . . . . . . . . . . . . . . . . ... . . . .L. 211.850.000  
-39) Istituto tecnico commerciale e per geometri  
-di Lodi.. . . . . . . . . . . . . . . . . ... . . . ... L. 148.400.000  
-40) Istituto tecnico commerciale di Lovere. . . . . . L. 34.600.000  
-41) Istituito tecnico commerciale e per geometri  
-di Lucera.. . . . . . . . . . . . . . . . . ... . . . . L. 92.100.000  
-42) Istituto tecnico commerciale o per geometri  
-di Macerata.. . . . . . . . . . . . . . . . . ... . . . L. 120.850.000  
-43) Istituto tecnico commerciale e per geometri  
-di Mantova.. . . . . . . . . . . . . . . . . ... . . . .L. 176.400.000  
-44) Istituto tecnico commerciale e per geometri  
-di Melli.. . . . . . . . . . . . . . . . . ... . . . . .L. 85.300.000  
-45) Istituto tecnico commerciale "Jaci" di Messina.. .L. 270.450.000  
-46) Istituto tecnico commerciale "Cattaneo" di  
-Milano... . . . . . . . . . . . . . . . . ... . . . . ..L. 215.350.000  
-47) Istituto tecnico commerciale "Verri" di  
-Milano.. . . . . . . . . . . . . . . . . ... . . . . .. L. 213.350.000  
-48) Istituto tecnico commerciale" Barozzi" di  
-Modena.. . . . . . . . . . . . . . . . . ... . . . . .. L. 271.450.000  
-49) Istituto tecnico commerciale e per geometri  
-di Modica.. . . . . . . . . . . . . . . . . ... . . . . L. 156.750.000  
-50) Istituito tecnico commerciale e per geometri  
-di Mondovi'.. . . . . . . . . . . . . . . . . ... . . . L. 92.100.000  
-51) Istituto tecnico per geometri "Della Porta"  
-di Napoli.. . . . . . . . . . . . . . . . . ... . . . . L. 168.100.000  
-52) Istituto tecnico commerciale "Pagano" di  
-Napoli.. . . . . . . . . . . . . . . . . ... . . . . .. L. 181.300.000  
-53) Istituto tecnico commerciale e per geometri  
-di Novara.. . . . . . . . . . . . . . . . . ... . . . . L. 176.400.000  
-54) Istituto tecnico per geometri "Belzoni" di  
-Padova.. . . . . . . . . . . . . . . . . ... . . . . . L. 113.750.000  
-55) Istituto tecnico commerciale "Crispi" di  
-Palermo.. . . . . . . . . . . . . . . . . ... . . . . .L. 241.550.000  
-56) Istituto tecnico per geometri "Parlatore"  
-di Palermo.. . . . . . . . . . . . . . . . . ... . . . .L. 168.100.000  
-57) Istituto tecnico commerciale "Melloni" di  
-Parma.. . . . . . . . . . . . . . . . . ... . . . . .. .L. 217.400.000  
-58) Istituto tecnico commerciale "Bordoni" di  
-Pavia.. . . . . . . . . . . . . . . . . ... . . . . . .L. 123.500.000  
-59) Istituto tecnico commerciale e per geometri  
-di Perugia.. . . . . . . . . . . . . . . . . ... . . . .L. 149.700.000  
-60) Istituto tecnico commerciale e per geometri  
-di Pesaro.. . . . . . . . . . . . . . . . . ... . . ... L. 147.200.000  
-61) Istituto tecnico commerciale e per geometri  
-"Acerbo" di Pescara. . . . . . . . . . . . . . . . . . L. 150.450.000  
-62) Istituto tecnico commerciale e per geometri  
-di Piacenza.. . . . . . . . . . . . . . . . . ... . . . L. 122.050.000  
-63) Istituto tecnico commerciale e per geometri  
-di Pinerolo.. . . . . . . . . . . . . . . . . ... . . . L. 90.850.000  
-64) Istituto tecnico commerciale e per geometri  
-di Pisa.. . . . . . . . . . . . . . . . . ... . . . . . L. 205.750.000  
-65) Istituto tecnico commerciale "Pacini" di  
-Pistoia.. . . . . . . . . . . . . . . . . ... . . . . . L. 154.550.000  
-66) Istituto tecnico commerciale e per geometri  
-di Ravenna.. . . . . . . . . . . . . . . . . ... . . . .L. 149.700.000  
-67) Istituto tecnico commerciale "R. Piria" di  
-Reggio Calabria . . . . . . . . . . . . . . . . . . . L. 211.300.000  
-68) Istituto tecnico commerciale di Reggio  
-Emilia.. . . . . . . . . . . . . . . . . ... . . . . . .L. 154.000.000  
-69) Istituto tecnico commerciale e per geometri  
-di Rimini.. . . . . . . . . . . . . . . . . ... . . . . L. 152.850.000  
-70) Istituto tecnico commerciale "L. da Vinci"  
-di Roma.. . . . . . . . . . . . . . . . . ... . . . . . L. 357.300.000  
-71) Istituto tecnico commerciale "Gioberti"  
-di Roma.. . . . . . . . . . . . . . . . . ... . . . . . L. 211.300.000  
-72) Istituto tecnico commerciale e per geometri  
-di Rovereto.. . . . . . . . . . . . . . . . . ... . . . L. 117.450.000  
-73) Istituto tecnico commerciale "De Amicis"  
-di Rovigo.. . . . . . . . . . . . . . . . . ... . . . . L. 93.550.000  
-74) Istituto tecnico commerciale "Lamarmora"  
-di Sassari.. . . . . . . . . . . . . . . . . ... . . . .L. 150.450.000  
-75) Istituto tecnico commerciale e per geometri  
-di Savona.. . . . . . . . . . . . . . . . . ... . . . . L. 122.050.000  
-76) Istituto tecnico commerciale "Rizza" di  
-Siracusa.. . . . . . . . . . . . . . . . . ... . . . . L. 151.800.000  
-77) Istituto tecnico commerciale e per geometri  
-di Sondrio.. . . . . . . . . . . . . . . . . ... . . . L. 118.700.000  
-78) Istituto tecnico commerciale e per geometri  
-di Sora.. . . . . . . . . . . . . . . . . ... . . ... . L. 92.100.000  
-79) Istituto tecnico commerciale e per geometri  
-di Spoleto.. . . . . . . . . . . . . . . . . ... . . ...L. 61.750.000  
-80) Istituto tecnico commerciale e per geometri  
-di Teramo.. . . . . . . . . . . . . . . . . ... . . ... L. 120.850.000  
-81) Istituto tecnico commerciale e per geometri  
-di Terni.. . . . . . . . . . . . . . . . . ... . . ... .L. 177.050.000  
-82) Istituto tecnico commerciale "Sommeiller"  
-di Torino.. . . . . . . . . . . . . . . . . ... . . . . L. 246.150.000  
-83) Istituto tecnico commerciale "Calvino" di  
-Trapani.. . . . . . . . . . . . . . . . . ... . . . . . L. 122.600.000  
-84) Istituto tecnico commerciale e per geometri  
-"L. da Vinci" di Trieste. . . . . . . . . . . . . . . .L. 148.400.000  
-85) Istituto tecnico commerciale "Zanon" di  
-Udine.. . . . . . . . . . . . . . . . . ... . . . . . . L. 198.450.000  
-86. Istituto tecnico commerciale e per geometri  
-di Varese.. . . . . . . . . . . . . . . . . ... . . . . L. 177.050.000  
-87) Istituto tecnico commerciale e per geometri  
-di Velletri.. . . . . . . . . . . . . . . . . ... . . . L. 90.850.000  
-88) Istituto tecnico commerciale "Sarpi" di  
-Venezia.. . . . . . . . . . . . . . . . . ... . . . . . L. 93.550.000  
-89) Istituto tecnico commerciale e per geometri  
-"Lorgna" di Verona . . . . . . . . . . . . . . . . . . L. 231.200.000  
-90) Istituto tecnico commerciale "Fusinieri"  
-di Vicenza.. . . . . . . . . . . . . . . . . ... . . . .L. 155.350.000  
-91) Istituito tecnico commerciale "P. Savi" di  
-Viterbo.. . . . . . . . . . . . . . . . . ... . . . . . L. 123.500.000  
-  
-  
-  
-Visto, d'ordine del Presidente della Repubblica   
-  
-Il Ministro per la pubblica istruzione   
-FERRARI AGGRADI   
-Il Ministro per il tesoro   
-COLOMBO   
+SARAGAT FERRARI AGGRADI - COLOMBO Visto, il Guardasigilli: GAVA Registrato alla Corte dei conti, addi' 23 dicembre 1969 Atti del Governo, registro n. 230, foglio n. 166. - CARUSO

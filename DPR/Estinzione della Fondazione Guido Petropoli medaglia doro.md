@@ -1,19 +1,21 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 05 settembre 1957 n. 1180
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 1180
+data: 1957-09-05
+titolo: "Estinzione della \"Fondazione Guido Petropoli, medaglia d'oro\"."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1957-09-05;1180
+codice_redazionale: 057U1180
+vigente: true
+---
 
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 05 settembre 1957 n. 1180
-=================================================================
-
-Estinzione della "Fondazione Guido Petropoli, medaglia d'oro".
---------------------------------------------------------------
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-1180. Decreto del Presidente della Repubblica 5 settembre 1957, col quale, sulla proposta del Ministro per la difesa, la "Fondazione Guido Petropoli, medaglia d'oro" viene dichiarata estinta.  
-  
-Visto, il Guardasigilli: GONELLA  
-Registrato alla Corte dei conti, addi' 7 dicembre 1957  
-Atti del Governo, registro n. 109, foglio n. 73. - RELLEVA
+1180.
+
+Decreto del Presidente della Repubblica 5 settembre 1957, col quale, sulla proposta del Ministro per la difesa, la "Fondazione Guido Petropoli, medaglia d'oro" viene dichiarata estinta.
+
+Visto, il Guardasigilli: GONELLA
+ Registrato alla Corte dei conti, addi' 7 dicembre 1957
+ Atti del Governo, registro n. 109, foglio n. 73. - RELLEVA

@@ -1,19 +1,21 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 05 giugno 1982 n. 415
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 156
+data: 1982-02-26
+titolo: "Autorizzazione alla fondazione \"Pro juventute don Carlo Gnocchi\", in Roma, ad accettare un legato."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1982-02-26;156
+codice_redazionale: 082U0156
+vigente: true
+---
 
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 05 giugno 1982 n. 415
-=============================================================
-
-Autorizzazione alla fondazione "Pro juventute don Carlo Gnocchi", in Roma, ad accettare un legato.
---------------------------------------------------------------------------------------------------
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-415. Decreto del Presidente della Repubblica 5 giugno 1982, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la fondazione "Pro juventute don Carlo Gnocchi", in Roma, viene autorizzata ad accettare il legato, consistente nella somma di L. 500.000, disposto dalla sig.ra Baroni Regina Mercede, a favore dei mutilatini di don Gnocchi che si identificano con la fondazione predetta come si rileva dal verbale del consiglio di amministrazione nella riunione del 28 novembre 1980, con testamento olografo 1 marzo 1980, pubblicato in data 20 giugno 1980, n. 153 di repertorio e n. 63 di raccolta, a rogito dottore Giro De Vincenzo, notaio in Milano, registrato a Milano il 10 luglio 1980 al n. 16505.  
-  
-Visto, il Guardasigilli: DARIDA  
-Registrato alla Corte dei conti, addi' 30 giugno 1982  
-Registro n. 6 Presidenza, foglio n. 71
+156.
+
+Decreto del Presidente della Repubblica 26 febbraio 1982, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la fondazione "Pro juventute don Carlo Gnocchi", in Roma, viene autorizzata ad accettare il legato, consistente in depositi di conto correnti bancari per un saldo complessivo di L. 39.258.182, disposto dalla sig.ra Guzzetti Giuseppa ved. Sala, a favore dei ciechi di don Gnocchi, che si identificano con la fondazione medesima come ha fatto presente il presidente della stessa, con testamento olografo 10 ottobre 1976, pubblicato a rogito dottor Giovanni Olivares, notaio in Milano, in data 11 gennaio 1979, n. 170071/34850 di repertorio, registrato a Milano il 17 ottobre 1979 al n. A/ 2-01032, serie I.
+
+Visto, il Guardasigilli: DARIDA
+ Registrato alla Corte dei conti, addi' 31 marzo 1982
+ Registro n. 3 Presidenza, foglio n. 116

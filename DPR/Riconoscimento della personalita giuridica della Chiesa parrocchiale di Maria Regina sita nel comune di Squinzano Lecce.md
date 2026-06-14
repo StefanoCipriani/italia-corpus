@@ -1,19 +1,21 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 13 agosto 1964 n. 818
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 818
+data: 1964-08-13
+titolo: "Riconoscimento della personalita' giuridica della Chiesa parrocchiale di Maria Regina, sita nel comune di Squinzano (Lecce)."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1964-08-13;818
+codice_redazionale: 064U0818
+vigente: true
+---
 
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 13 agosto 1964 n. 818
-=============================================================
-
-Riconoscimento della personalita' giuridica della Chiesa parrocchiale di Maria Regina, sita nel comune di Squinzano (Lecce).
-----------------------------------------------------------------------------------------------------------------------------
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-818. Decreto del Presidente della Repubblica 13 agosto 1964, col quale, sulla proposta del Ministro per l'interno, viene riconosciuta la personalita' giuridica della Chiesa parrocchiale di Maria Regina, sita nel comune di Squinzano (Lecce).  
-  
-Visto, il Guardasigilli: REALE  
-Registrato alla Corte dei conti, addi' 18 settembre 1964  
-Atti del Governo, registro n. 186, foglio n. 76. - DI PRETORO
+818.
+
+Decreto del Presidente della Repubblica 13 agosto 1964, col quale, sulla proposta del Ministro per l'interno, viene riconosciuta la personalita' giuridica della Chiesa parrocchiale di Maria Regina, sita nel comune di Squinzano (Lecce).
+
+Visto, il Guardasigilli: REALE
+ Registrato alla Corte dei conti, addi' 18 settembre 1964
+ Atti del Governo, registro n. 186, foglio n. 76. - DI PRETORO

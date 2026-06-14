@@ -1,46 +1,33 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 13 marzo 1972 n. 947
-
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 13 marzo 1972 n. 947
-============================================================
-
-Istituzione della borsa merci di Piacenza.
-------------------------------------------
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 947
+data: 1972-03-13
+titolo: "Istituzione della borsa merci di Piacenza."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1972-03-13;947
+codice_redazionale: 072U0947
+vigente: true
+---
 
 IL PRESIDENTE DELLA REPUBBLICA
-------------------------------
 
-Vista la [legge 20 marzo 1913, n. 272](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1913-03-20;272), riguardante lo ordinamento delle borse di commercio e l'annesso regolamento approvato con [regio decreto 4 settembre 1913, n. 1068](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1913-09-04;1068);
+Vista la [legge 20 marzo 1913, n. 272](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1913-03-20;272), riguardante lo ordinamento delle borse di commercio e l'annesso regolamento approvato con [regio decreto 4 settembre 1913, n. 1068](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1913-09-04;1068);
 
-Visto il [decreto legislativo luogotenenziale 21 settembre 1944, n. 315](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1944-09-21;315), sulla composizione dei consigli e degli uffici provinciali dell'economia e sulla costituzione delle camere di commercio, industria e agricoltura e degli uffici provinciali dell'industria e del commercio;
+Visto il [decreto legislativo luogotenenziale 21 settembre 1944, n. 315](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1944-09-21;315), sulla composizione dei consigli e degli uffici provinciali dell'economia e sulla costituzione delle camere di commercio, industria e agricoltura e degli uffici provinciali dell'industria e del commercio;
 
-Vista la [legge 30 maggio 1950, n. 374](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1950-05-30;374), concernente il ripristino delle borse merci;
+Vista la [legge 30 maggio 1950, n. 374](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1950-05-30;374), concernente il ripristino delle borse merci;
 
-Vista la [legge 26 settembre 1966, n. 792](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1966-09-26;792), per la quale dette camere hanno assunto la denominazione di camere di commercio, industria, artigianato e agricoltura;
+Vista la [legge 26 settembre 1966, n. 792](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1966-09-26;792), per la quale dette camere hanno assunto la denominazione di camere di commercio, industria, artigianato e agricoltura;
 
-Vista la [deliberazione 12 novembre 1971, n. 613](http://www.normattiva.it/uri-res/N2Ls?urn:nir::delibera:1971-11-12;613), con la quale la giunta della camera di commercio, industria, artigianato e agricoltura di Piacenza ha proposto la istituzione di una borsa merci in quella citta';
+Vista la [deliberazione 12 novembre 1971, n. 613](https://www.normattiva.it/uri-res/N2Ls?urn:nir::delibera:1971-11-12;613), con la quale la giunta della camera di commercio, industria, artigianato e agricoltura di Piacenza ha proposto la istituzione di una borsa merci in quella citta';
 
-Sulla
------
+Sulla proposta del Ministro Segretario di Stato per l'industria, il commercio e l'artigianato; Decreta:
 
-proposta del Ministro Segretario di Stato per l'industria, il commercio e l'artigianato; Decreta:
+## Articolo unico
 
-Articolo unico
---------------
-
-  
-E' istituita in Piacenza la borsa per la contrattazione in merci, regolata dalle [leggi 20 marzo 1913, n. 272 e 30 maggio 1950, n. 374](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1950-05-30;374).  
-  
+E' istituita in Piacenza la borsa per la contrattazione in merci, regolata dalle [leggi 20 marzo 1913, n. 272 e 30 maggio 1950, n. 374](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1950-05-30;374).
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 13 marzo 1972
+Dato a Roma, addi' 13 marzo 1972
 
-LEONE GAVA
-
-Visto, il Guardasigilli: GONELLA
-
-Registrato alla Corte dei conti, addi' 23 gennaio 1973
-
-Atti di Governo, registro n. 255, foglio n. 58. - VALENTINI
+LEONE GAVA Visto, il Guardasigilli: GONELLA Registrato alla Corte dei conti, addi' 23 gennaio 1973 Atti di Governo, registro n. 255, foglio n. 58. - VALENTINI

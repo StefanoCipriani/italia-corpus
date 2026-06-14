@@ -1,19 +1,21 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 10 febbraio 1953 n. 303
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 303
+data: 1953-02-10
+titolo: "Estinzione delle Fondazioni \"Vittorio Emanuele III\" e \"La Vittoria\"."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1953-02-10;303
+codice_redazionale: 053U0303
+vigente: true
+---
 
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 10 febbraio 1953 n. 303
-===============================================================
-
-Estinzione delle Fondazioni "Vittorio Emanuele III" e "La Vittoria".
---------------------------------------------------------------------
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-303. Decreto del Presidente della Repubblica 10 febbraio 1953, col quale, sulla proposta del Ministro per la difesa, le fondazioni "Vittorio Emanuele III" e "La Vittoria" vengono dichiarate estinte ed i relativi beni vengono devoluti a favore dell'"Istituto nazionale di beneficenza Vittorio Emanuele III".  
-  
-Visto, il Guardasigilli: ZOLI  
-Registrato alla Corte dei conti, addi' 14 aprile 1953  
-Atti del Governo, registro n. 76, foglio n. 17. - PALLA
+303.
+
+Decreto del Presidente della Repubblica 10 febbraio 1953, col quale, sulla proposta del Ministro per la difesa, le fondazioni "Vittorio Emanuele III" e "La Vittoria" vengono dichiarate estinte ed i relativi beni vengono devoluti a favore dell'"Istituto nazionale di beneficenza Vittorio Emanuele III".
+
+Visto, il Guardasigilli: ZOLI
+ Registrato alla Corte dei conti, addi' 14 aprile 1953
+ Atti del Governo, registro n. 76, foglio n. 17. - PALLA

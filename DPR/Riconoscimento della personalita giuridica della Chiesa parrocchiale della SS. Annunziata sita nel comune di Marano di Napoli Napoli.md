@@ -1,19 +1,21 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 marzo 1962 n. 241
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 241
+data: 1962-03-31
+titolo: "Riconoscimento della personalita' giuridica della Chiesa parrocchiale della SS. Annunziata, sita nel comune di Marano di Napoli (Napoli)."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1962-03-31;241
+codice_redazionale: 062U0241
+vigente: true
+---
 
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 marzo 1962 n. 241
-============================================================
-
-Riconoscimento della personalita' giuridica della Chiesa parrocchiale della SS. Annunziata, sita nel comune di Marano di Napoli (Napoli).
------------------------------------------------------------------------------------------------------------------------------------------
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-241. Decreto del Presidente della Repubblica 31 marzo 1962, col quale, sulla proposta del Ministro per l'interno, viene riconosciuta la personalita' giuridica della Chiesa parrocchiale della SS. Annunziata, sita nel comune di Marano di Napoli (Napoli).  
-  
-Visto, il Guardasigilli: BOSCO  
-Registrato alla Corte dei conti, addi' 14 maggio 1962  
-Atti del Governo, registro n. 146, foglio n. 101. - VILLA
+241.
+
+Decreto del Presidente della Repubblica 31 marzo 1962, col quale, sulla proposta del Ministro per l'interno, viene riconosciuta la personalita' giuridica della Chiesa parrocchiale della SS. Annunziata, sita nel comune di Marano di Napoli (Napoli).
+
+Visto, il Guardasigilli: BOSCO
+ Registrato alla Corte dei conti, addi' 14 maggio 1962
+ Atti del Governo, registro n. 146, foglio n. 101. - VILLA

@@ -1,24 +1,24 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 24 aprile 1965 n. 1674
-
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 24 aprile 1965 n. 1674
-==============================================================
-
-Istituzione dell'istituto professionale di Stato per il commercio di Verona.
-----------------------------------------------------------------------------
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 1674
+data: 1965-04-24
+titolo: "Istituzione dell'istituto professionale di Stato per il commercio di Verona."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1965-04-24;1674
+codice_redazionale: 065U1674
+vigente: true
+---
 
 IL PRESIDENTE DELLA REPUBBLICA
-------------------------------
 
-Veduta la [legge 15 giugno 1931, n. 889](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1931-06-15;889), sul riordinamento dell'istruzione media tecnica;
+Veduta la [legge 15 giugno 1931, n. 889](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1931-06-15;889), sul riordinamento dell'istruzione media tecnica;
 
-Veduto il [regio decreto 3 marzo 1934, n. 383](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-03-03;383), che approva il testo unico della legge comunale e provinciale;
+Veduto il [regio decreto 3 marzo 1934, n. 383](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20del%20testo%20unico%20della%20legge%20comunale%20e%20provinciale.%20034U0383.md), che approva il testo unico della legge comunale e provinciale;
 
-Veduto l'[art. 9 del regio decreto-legge 21 settembre 1938, n. 2038](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1938-09-21;2038~art9), convertito nella [legge 2 giugno 1939, n. 739](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1939-06-02;739);
+Veduto l'[art. 9 del regio decreto-legge 21 settembre 1938, n. 2038](../Atti%20normativi%20abrogati%20%28in%20originale%29/Istituzione%20soppressione%20e%20regificazione%20di%20istituti%20distruzione%20media%20tecnica%20e%20norme%20di%20carattere%20generale%20sullistituzione%20e%20sul%20funzionamento%20degli%20istituti%20medesimi.%20038U2038.md), convertito nella [legge 2 giugno 1939, n. 739](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20approvazione%20complessiva%20dei%20Regi%20decreti-legge%20emanati%20fino%20al%2010%20marzo%201939-XVII%20e%20convalida%20dei%20Regi%20decreti%20emanati%20fino%20alla%20data%20anzidetta%20per%20prelevazioni%20_8f817d3bee75.md);
 
-Veduta la [legge 22 novembre 1961, n. 1282](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1961-11-22;1282);
+Veduta la [legge 22 novembre 1961, n. 1282](../Atti%20normativi%20abrogati%20%28in%20originale%29/Riordinamento%20dei%20servizi%20di%20vigilanza%20contabile%20e%20delle%20carriere%20del%20personale%20non%20insegnante%20delle%20scuole%20e%20degli%20Istituti%20di%20istruzione%20tecnica%20e%20professionale%20e%20dei%20Convitti%20annessi.md);
 
-Veduto il [decreto del Presidente della Repubblica 30 settembre 1961, n. 1958, pubblicato sul supplemento ordinario alla Gazzetta Ufficiale n. 129 del 16 maggio 1963](http://www.gazzettaufficiale.it/gazzetta/serie_generale/caricaDettaglio?dataPubblicazioneGazzetta=1963-05-16&numeroGazzetta=129), con il quale e' stato istituito a decorrere dal 10 ottobre 1961 l'Istituto professionale di Stato per il commercio di Verona;
+Veduto il decreto del Presidente della Repubblica 30 settembre 1961, n. 1958, pubblicato sul supplemento ordinario alla Gazzetta Ufficiale n. 129 del 16 maggio 1963, con il quale e' stato istituito a decorrere dal 10 ottobre 1961 l'Istituto professionale di Stato per il commercio di Verona;
 
 Considerato che in Villafranca Veronese funziona una scuola tecnica commerciale;
 
@@ -30,101 +30,42 @@ Considerata, d'altro lato, l'opportunita' di adeguare formalmente l'organizzazio
 
 Ritenuto che occorre regolarizzare formalmente Il funzionamento dell'istituto professionale per il commercio di Verona, gia' in atto, per ragioni di servizio, secondo il nuovo ordinamento e con il relativo organico dal 10 ottobre 1964;
 
-Sulla
------
+Sulla proposta del Ministro Segretario di Stato per la pubblica istruzione, di concerto con quelli per l'interno e per il tesoro; Decreta:
 
-proposta del Ministro Segretario di Stato per la pubblica istruzione, di concerto con quelli per l'interno e per il tesoro; Decreta:
+## Art. 1.
 
-Art. 1
-------
+All'[art. 1 del decreto del Presidente della Repubblica 30 settembre 1961, n. 1958](Istituzione%20di%20un%20Istituto%20professionale%20di%20Stato%20per%20il%20commercio%20in%20Verona.md), viene aggiunto il seguente terzo comma:
+ "A decorrere dal 10 ottobre 1964 la scuola tecnica commerciale di Villafranca Veronese e' trasformata in scuola professionale coordinata con l'Istituto professionale di Stato per il commercio di Verona, salvo il funzionamento, ad esaurimento, dei corsi di scuola tecnica in atto".
 
-  
-All'[art. 1 del decreto del Presidente della Repubblica 30 settembre 1961, n. 1958](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1961-09-30;1958~art1), viene aggiunto il seguente terzo comma:  
-"A decorrere dal 10 ottobre 1964 la scuola tecnica commerciale di Villafranca Veronese e' trasformata in scuola professionale coordinata con l'Istituto professionale di Stato per il commercio di Verona, salvo il funzionamento, ad esaurimento, dei corsi di scuola tecnica in atto".  
+## Art. 2.
 
-Art. 2
-------
+L'[art. 2 del decreto del Presidente della Repubblica 30 settembre 1961, n. 1958](Istituzione%20di%20un%20Istituto%20professionale%20di%20Stato%20per%20il%20commercio%20in%20Verona.md), e' sostituito dal seguente:
+ "Il predetto Istituto professionale ha lo scopo di preparare personale idoneo all'esercizio delle attivita' di ordine esecutivo nei vari settori del commercio".
+ Esso e' costituito da una scuola professionale per attivita' e impieghi commerciali, con sezioni per:
+ addetto alla segreteria d'azienda (triennale) - n. 4 sezioni;
+ addetto alla contabilita' d'azienda (triennale) - n. 3 sezioni;
+ applicato ai servizi amministrativi (biennale) - n. 3 sezioni;
+ stenodattilografo (biennale).
 
-  
-L'[art. 2 del decreto del Presidente della Repubblica 30 settembre 1961, n. 1958](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1961-09-30;1958~art2), e' sostituito dal seguente:  
-"Il predetto Istituto professionale ha lo scopo di preparare personale idoneo all'esercizio delle attivita' di ordine esecutivo nei vari settori del commercio".  
-Esso e' costituito da una scuola professionale per attivita' e impieghi commerciali, con sezioni per:  
-addetto alla segreteria d'azienda (triennale) - n. 4 sezioni;  
-addetto alla contabilita' d'azienda (triennale) - n. 3 sezioni;  
-applicato ai servizi amministrativi (biennale) - n. 3 sezioni;  
-stenodattilografo (biennale).  
+## Art. 3.
 
-Art. 3
-------
-
-  
 Il disposto dell'art. 19 del sopracitato decreto del Presidente della Repubblica si applica con effetto dal 1 ottobre 1964 anche al personale direttivo e insegnante che, in possesso dei requisiti richiesti, alla data di pubblicazione del presente decreto nella Gazzetta Ufficiale si trovi in servizio presso la scuola professionale coordinata di Villafranca Veronese, derivante dalla trasformazione della preesistente scuola tecnica commerciale statale.
 
-Art. 4
-------
+## Art. 4.
 
-  
-Il contributo previsto al n. 1 dell'art. 22 del medesimo [decreto del Presidente della Repubblica 30 settembre 1961, n. 1958](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1961-09-30;1958), e' elevato da L. 52.200.000 a L. 161.200.000.  
+Il contributo previsto al n. 1 dell'art. 22 del medesimo [decreto del Presidente della Repubblica 30 settembre 1961, n. 1958](Istituzione%20di%20un%20Istituto%20professionale%20di%20Stato%20per%20il%20commercio%20in%20Verona.md), e' elevato da L. 52.200.000 a L. 161.200.000.
 
-Art. 5
-------
+## Art. 5.
 
-  
-La tabella organica annessa al [decreto del Presidente della Repubblica 30 settembre 1961, n. 1958](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1961-09-30;1958), dell'Istituto professionale per il commercio di Verona viene sostituita da quella annessa al presente decreto, di cui costituisce parte integrante.  
+La tabella organica annessa al [decreto del Presidente della Repubblica 30 settembre 1961, n. 1958](Istituzione%20di%20un%20Istituto%20professionale%20di%20Stato%20per%20il%20commercio%20in%20Verona.md), dell'Istituto professionale per il commercio di Verona viene sostituita da quella annessa al presente decreto, di cui costituisce parte integrante.
 
-Art. 6
-------
+## Art. 6.
 
-  
-Il presente decreto ha effetto dal 1 ottobre 1964.  
-La maggiore spesa derivante dall'attuazione del presente decreto gravera' sul cap. 133 dello stato di previsione della spesa del Ministero della pubblica istruzione per il periodo 1 luglio-31 dicembre 1964 e sui capitoli corrispondenti per gli esercizi successivi.  
-  
+Il presente decreto ha effetto dal 1 ottobre 1964.
+ La maggiore spesa derivante dall'attuazione del presente decreto gravera' sul cap. 133 dello stato di previsione della spesa del Ministero della pubblica istruzione per il periodo 1 luglio-31 dicembre 1964 e sui capitoli corrispondenti per gli esercizi successivi.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 24 aprile 1965
+Dato a Roma, addi' 24 aprile 1965
 
-SARAGAT GUI - TAVIANI - COLOMBO - LAMI STARNUTI
-
-Visto, il Guardasigilli: REALE
-
-Registrato alla Corte dei conti, addi' 3 marzo 1966
-
-Atti del Governo, registro n. 201, foglio n. 112. - VILLA
-
-Tabella
-
-Tabella organica dell'Istituto professionale di Stato per il commercio di Verona   
-  
-N. 4 sezioni per addetto alla segreteria d'azienda (triennale);   
-N. 3 sezioni per addetto alla contabilita' d'azienda (triennale);   
-N. 3 sezioni per applicato ai servizi amministrativi (biennale);   
-N. 1 sezione per stenodattilografo (biennale) per complessive classi n. 29.   
-  
-  
-Numero  
-Qualifica dei posti   
-Personale di ruolo  
-  
-1. Preside senza Insegnamento (I categoria)............... 1  
-2. Cattedre di insegnamento (ruolo A)..................... 12  
-3. Segretario economo..................................... 1  
-4. Applicati.............................................. 3  
-5. Personale di servizio.................................. 4  
-  
-Personale incaricato  
-  
-6. Incarichi d'insegnamento per complessive 723 ore setti-  
-manali.  
-  
-  
-  
-N.B. - Fermo restando il numero complessivo dei posti di ruolo e di quelli da affidare per incarico, le materie costituenti le cattedre di insegnamento e le qualifiche da attribuire al personale tecnico saranno determinate con decreto del Ministro per la pubblica istruzione.   
-  
-Visto, ordine del Presidente della Repubblica   
-Il Ministro per la pubblica istruzione   
-GUI   
-  
-Il Ministro per il tesoro   
-COLOMBO   
+SARAGAT GUI - TAVIANI - COLOMBO - LAMI STARNUTI Visto, il Guardasigilli: REALE Registrato alla Corte dei conti, addi' 3 marzo 1966 Atti del Governo, registro n. 201, foglio n. 112. - VILLA

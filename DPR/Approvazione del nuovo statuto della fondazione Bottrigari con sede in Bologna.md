@@ -1,19 +1,21 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 04 febbraio 1969 n. 54
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 54
+data: 1969-02-04
+titolo: "Approvazione del nuovo statuto della fondazione \"Bottrigari\", con sede in Bologna."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1969-02-04;54
+codice_redazionale: 069U0054
+vigente: true
+---
 
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 04 febbraio 1969 n. 54
-==============================================================
-
-Approvazione del nuovo statuto della fondazione "Bottrigari", con sede in Bologna.
-----------------------------------------------------------------------------------
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-54. Decreto del Presidente della Repubblica 4 febbraio 1969, col quale, sulla proposta del Ministro per la pubblica istruzione, viene approvato il nuovo statuto della fondazione "Bottrigari", con sede presso l'Universita' di Bologna.  
-  
-Visto, il Guardasigilli: GAVA  
-Registrato alla Corte dei conti, addi' 22 marzo 1969  
-Atti del Governo, registro n. 225, foglio n. 160. - GRECO
+54.
+
+Decreto del Presidente della Repubblica 4 febbraio 1969, col quale, sulla proposta del Ministro per la pubblica istruzione, viene approvato il nuovo statuto della fondazione "Bottrigari", con sede presso l'Universita' di Bologna.
+
+Visto, il Guardasigilli: GAVA
+ Registrato alla Corte dei conti, addi' 22 marzo 1969
+ Atti del Governo, registro n. 225, foglio n. 160. - GRECO

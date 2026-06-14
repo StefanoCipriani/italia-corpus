@@ -1,19 +1,21 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 18 marzo 1965 n. 428
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 428
+data: 1965-03-18
+titolo: "Rettifica della denominazione della Casa di Procura Generale della Congregazione dell'Oratorio di San Filippo Neri, con sede in Roma."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1965-03-18;428
+codice_redazionale: 065U0428
+vigente: true
+---
 
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 18 marzo 1965 n. 428
-============================================================
-
-Rettifica della denominazione della Casa di Procura Generale della Congregazione dell'Oratorio di San Filippo Neri, con sede in Roma.
--------------------------------------------------------------------------------------------------------------------------------------
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-428. Decreto del Presidente della Repubblica 18 marzo 19°55, col quale, sulla proposta del Ministro per l'interno, la denominazione della Casa di Procura Generale della Congregazione dell'Oratorio di San Filippo Neri, con sede in Roma, viene rettificata in "Procura Generale dell'Istituto dell'Oratorio di San Filippo Neri".  
-  
-Visto, il Guardasigilli: REALE  
-Registrato alla Corte dei conti, addi' 3 maggio 1965  
-Atti del Governo, registro n. 193, foglio n. 6. - VILLA
+428.
+
+Decreto del Presidente della Repubblica 18 marzo 19°55, col quale, sulla proposta del Ministro per l'interno, la denominazione della Casa di Procura Generale della Congregazione dell'Oratorio di San Filippo Neri, con sede in Roma, viene rettificata in "Procura Generale dell'Istituto dell'Oratorio di San Filippo Neri".
+
+Visto, il Guardasigilli: REALE
+ Registrato alla Corte dei conti, addi' 3 maggio 1965
+ Atti del Governo, registro n. 193, foglio n. 6. - VILLA

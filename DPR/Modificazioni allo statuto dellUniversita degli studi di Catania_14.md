@@ -1,24 +1,24 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 aprile 1957 n. 315
-
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 aprile 1957 n. 315
-=============================================================
-
-Modificazioni allo statuto dell'Universita' degli studi di Catania.
--------------------------------------------------------------------
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 315
+data: 1957-04-02
+titolo: "Modificazioni allo statuto dell'Universita' degli studi di Catania."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1957-04-02;315
+codice_redazionale: 057U0315
+vigente: true
+---
 
 IL PRESIDENTE DELLA REPUBBLICA
-------------------------------
 
-Veduto lo statuto dell'Universita' degli studi di Catania, approvato con [regio decreto 20 aprile 1939, n. 1073](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1073) e modificato con i [regi decreti 16 ottobre 1940, n. 1527](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1940-10-16;1527); [15 aprile 1942, n. 424](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1942-04-15;424); [5 settembre 1942, n. 1235](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1942-09-05;1235); [24 ottobre 1942, n. 1596; con decreto del Capo provvisorio dello Stato](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto:1942-10-24;1596) [22 ottobre 1946, n. 423 e con decreti del Presidente della Repubblica](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1946-10-22;423) [20 luglio 1948, n. 1160](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1948-07-20;1160); [30 ottobre 1949, n. 994](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1949-10-30;994); [30 ottobre 1949, n. 1167](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1949-10-30;1167); [30 ottobre 1950, n. 1305](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1950-10-30;1305); [11 aprile 1951, n. 564](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-04-11;564); [27 ottobre 1951, n. 1793](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-10-27;1793); [11 febbraio 1952, n. 366](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1952-02-11;366); [26 ottobre 1952, n. 4507](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1952-10-26;4507); [10 febbraio 1953, n. 544](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1953-02-10;544); [25 giugno 1953, n. 709](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1953-06-25;709); [23 marzo 1954, n. 751](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1954-03-23;751); [26 ottobre 1954, n. 1207](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1954-10-26;1207); [11 aprile 1955 n. 622](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1955-04-11;622); [20 settembre 1955, n. 937](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1955-09-20;937); [25 settembre 1955, n. 959](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1955-09-25;959); [16 marzo 1956, n. 529](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1956-03-16;529) e [3 settembre 1956, n. 1133](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1956-09-03;1133);
+Veduto lo statuto dell'Universita' degli studi di Catania, approvato con [regio decreto 20 aprile 1939, n. 1073](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20del%20nuovo%20statuto%20della%20Regia%20Universita%20di%20Catania.%20039U1073.md) e modificato con i [regi decreti 16 ottobre 1940, n. 1527](https://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1940-10-16;1527); [15 aprile 1942, n. 424](https://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1942-04-15;424); [5 settembre 1942, n. 1235](https://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1942-09-05;1235); [24 ottobre 1942, n. 1596; con decreto del Capo provvisorio dello Stato](https://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto:1942-10-24;1596) [22 ottobre 1946, n. 423 e con decreti del Presidente della Repubblica](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1946-10-22;423) [20 luglio 1948, n. 1160](Modificazioni%20allo%20statuto%20dellUniversita%20degli%20studi%20di%20Catania.md); [30 ottobre 1949, n. 994](Modificazioni%20allo%20statuto%20dellUniversita%20degli%20studi%20di%20Catania_2.md); [30 ottobre 1949, n. 1167](Modificazioni%20dello%20statuto%20dellUniversita%20degli%20studi%20di%20Catania.md); [30 ottobre 1950, n. 1305](Modificazioni%20allo%20statuto%20dellUniversita%20degli%20studi%20di%20Catania_3.md); [11 aprile 1951, n. 564](Modificazioni%20allo%20statuto%20dellUniversita%20degli%20studi%20di%20Catania_4.md); [27 ottobre 1951, n. 1793](Modificazioni%20allo%20statuto%20dellUniversita%20degli%20studi%20di%20Catania_5.md); [11 febbraio 1952, n. 366](Modificazioni%20dello%20statuto%20dellUniversita%20degli%20studi%20di%20Catania_2.md); [26 ottobre 1952, n. 4507](Modificazione%20allo%20statuto%20dellUniversita%20degli%20studi%20di%20Catania.md); [10 febbraio 1953, n. 544](Modificazioni%20dello%20statuto%20dellUniversita%20degli%20studi%20di%20Catania_3.md); [25 giugno 1953, n. 709](Modificazioni%20allo%20statuto%20dellUniversita%20degli%20studi%20di%20Catania_6.md); [23 marzo 1954, n. 751](Modificazioni%20allo%20statuto%20dellUniversita%20degli%20studi%20di%20Catania_7.md); [26 ottobre 1954, n. 1207](Modificazioni%20allo%20statuto%20dellUniversita%20degli%20studi%20di%20Catania_8.md); [11 aprile 1955 n. 622](Modificazioni%20allo%20statuto%20dellUniversita%20degli%20studi%20di%20Catania_9.md); [20 settembre 1955, n. 937](Modificazioni%20allo%20statuto%20dellUniversita%20degli%20studi%20di%20Catania_10.md); [25 settembre 1955, n. 959](Modificazioni%20allo%20statuto%20dellUniversita%20degli%20studi%20di%20Catania_11.md); [16 marzo 1956, n. 529](Modificazioni%20allo%20statuto%20dellUniversita%20degli%20studi%20di%20Catania_12.md) e [3 settembre 1956, n. 1133](Modificazioni%20allo%20statuto%20dellUniversita%20degli%20studi%20di%20Catania_13.md);
 
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20R.%20decreto-legge%2020%20giugno%201935-XIII%20n.%201071%20contenente%20modifiche%20ed%20aggiornamenti%20al%20testo%20unico%20delle%20leggi%20sullistruzione%20superiore.%20036U0073.md);
 
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
+Veduto il [regio decreto 30 settembre 1938, n. 1652](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disposizioni%20sullordinamento%20didattico%20universitario.%20038U1652.md), e successive modificazioni;
 
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
+Veduta la [legge 11 aprile 1953, n. 312](../Atti%20normativi%20abrogati%20%28in%20originale%29/Libera%20inclusione%20di%20nuovi%20insegnamenti%20complementari%20negli%20statuti%20delle%20Universita%20e%20degli%20Istituti%20distruzione%20superiore.md);
 
 Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
 
@@ -76,57 +76,45 @@ ROSSI
 
 Visto, il Guardasigilli: MORO
 
-Registrato
-----------
+Registrato alla Corte dei conti, addi' 17 maggio 1957 Atti del Governo, registro n. 105, foglio n. 118. - CARLOMAGNO
 
-alla Corte dei conti, addi' 17 maggio 1957 Atti del Governo, registro n. 105, foglio n. 118. - CARLOMAGNO
+## Art. 1.
 
-Art. 1
-------
-
- IL PRESIDENTE DELLA REPUBBLICA   
-  
-Veduto lo statuto dell'Universita' degli studi di Catania, approvato con [regio decreto 20 aprile 1939, n. 1073](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1073) e modificato con i [regi decreti 16 ottobre 1940, n. 1527](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1940-10-16;1527); [15 aprile 1942, n. 424](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1942-04-15;424); [5 settembre 1942, n. 1235](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1942-09-05;1235); [24 ottobre 1942, n. 1596; con decreto del Capo provvisorio dello Stato](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto:1942-10-24;1596) [22 ottobre 1946, n. 423 e con decreti del Presidente della Repubblica](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1946-10-22;423) [20 luglio 1948, n. 1160](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1948-07-20;1160); [30 ottobre 1949, n. 994](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1949-10-30;994); [30 ottobre 1949, n. 1167](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1949-10-30;1167); [30 ottobre 1950, n. 1305](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1950-10-30;1305); [11 aprile 1951, n. 564](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-04-11;564); [27 ottobre 1951, n. 1793](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-10-27;1793); [11 febbraio 1952, n. 366](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1952-02-11;366); [26 ottobre 1952, n. 4507](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1952-10-26;4507); [10 febbraio 1953, n. 544](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1953-02-10;544); [25 giugno 1953, n. 709](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1953-06-25;709); [23 marzo 1954, n. 751](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1954-03-23;751); [26 ottobre 1954, n. 1207](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1954-10-26;1207); [11 aprile 1955 n. 622](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1955-04-11;622); [20 settembre 1955, n. 937](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1955-09-20;937); [25 settembre 1955, n. 959](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1955-09-25;959); [16 marzo 1956, n. 529](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1956-03-16;529) e [3 settembre 1956, n. 1133](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1956-09-03;1133);   
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);   
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);   
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;   
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);   
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;   
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;   
-Sentito il parere del Consiglio superiore della pubblica istruzione;   
-Sulla proposta del Ministro per la pubblica istruzione;   
-  
-Decreta:   
-  
-Lo statuto dell'Universita' degli studi di Catania, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:   
-Art. 9. - Agli insegnamenti complementari del corso di laurea in giurisprudenza sono aggiunti quelli di:   
-13) Istituzioni di diritto pubblico;   
-14) Storia delle dottrine politiche;   
-15) Politica economica e finanziaria;   
-16) Diritto fallimentare;   
-17) Contabilita' di Stato;   
-18) Storia dei trattati e politica internazionale.   
-Art. 11. - Agli insegnamenti del corso di laurea in giurisprudenza, dichiarati propedeutici, vanno aggiunti i seguenti:   
-h) istituzioni di diritto privato e diritto costituzionale per il diritto internazionale.   
-Art. 26. - Agli insegnamenti complementari del corso di laurea in lettere e' aggiunto quello di:   
-28) Dialettologia siciliana.   
-Art. 47. - Agli insegnamenti complementari del corso di laurea in chimica (indirizzo organico biologico e indirizzo inorganico-chimico-fisico) sono aggiunti quelli di:   
-Tecnologia e chimica del petrolio;   
-Impianti chimici industriali;   
-Chimica applicata.   
-Art. 48. - E' aggiunto il seguente comma:   
-"L'iscrizione e l'esame relativi all'insegnamento di chimica organica sono propedeutici rispettivamente per l'iscrizione e l'esame relativi al corso di esercitazioni di chimica organica e di analisi organica".   
-  
+IL PRESIDENTE DELLA REPUBBLICA 
+ 
+ Veduto lo statuto dell'Universita' degli studi di Catania, approvato con [regio decreto 20 aprile 1939, n. 1073](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20del%20nuovo%20statuto%20della%20Regia%20Universita%20di%20Catania.%20039U1073.md) e modificato con i [regi decreti 16 ottobre 1940, n. 1527](https://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1940-10-16;1527); [15 aprile 1942, n. 424](https://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1942-04-15;424); [5 settembre 1942, n. 1235](https://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1942-09-05;1235); [24 ottobre 1942, n. 1596; con decreto del Capo provvisorio dello Stato](https://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto:1942-10-24;1596) [22 ottobre 1946, n. 423 e con decreti del Presidente della Repubblica](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1946-10-22;423) [20 luglio 1948, n. 1160](Modificazioni%20allo%20statuto%20dellUniversita%20degli%20studi%20di%20Catania.md); [30 ottobre 1949, n. 994](Modificazioni%20allo%20statuto%20dellUniversita%20degli%20studi%20di%20Catania_2.md); [30 ottobre 1949, n. 1167](Modificazioni%20dello%20statuto%20dellUniversita%20degli%20studi%20di%20Catania.md); [30 ottobre 1950, n. 1305](Modificazioni%20allo%20statuto%20dellUniversita%20degli%20studi%20di%20Catania_3.md); [11 aprile 1951, n. 564](Modificazioni%20allo%20statuto%20dellUniversita%20degli%20studi%20di%20Catania_4.md); [27 ottobre 1951, n. 1793](Modificazioni%20allo%20statuto%20dellUniversita%20degli%20studi%20di%20Catania_5.md); [11 febbraio 1952, n. 366](Modificazioni%20dello%20statuto%20dellUniversita%20degli%20studi%20di%20Catania_2.md); [26 ottobre 1952, n. 4507](Modificazione%20allo%20statuto%20dellUniversita%20degli%20studi%20di%20Catania.md); [10 febbraio 1953, n. 544](Modificazioni%20dello%20statuto%20dellUniversita%20degli%20studi%20di%20Catania_3.md); [25 giugno 1953, n. 709](Modificazioni%20allo%20statuto%20dellUniversita%20degli%20studi%20di%20Catania_6.md); [23 marzo 1954, n. 751](Modificazioni%20allo%20statuto%20dellUniversita%20degli%20studi%20di%20Catania_7.md); [26 ottobre 1954, n. 1207](Modificazioni%20allo%20statuto%20dellUniversita%20degli%20studi%20di%20Catania_8.md); [11 aprile 1955 n. 622](Modificazioni%20allo%20statuto%20dellUniversita%20degli%20studi%20di%20Catania_9.md); [20 settembre 1955, n. 937](Modificazioni%20allo%20statuto%20dellUniversita%20degli%20studi%20di%20Catania_10.md); [25 settembre 1955, n. 959](Modificazioni%20allo%20statuto%20dellUniversita%20degli%20studi%20di%20Catania_11.md); [16 marzo 1956, n. 529](Modificazioni%20allo%20statuto%20dellUniversita%20degli%20studi%20di%20Catania_12.md) e [3 settembre 1956, n. 1133](Modificazioni%20allo%20statuto%20dellUniversita%20degli%20studi%20di%20Catania_13.md); 
+ Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592); 
+ Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20R.%20decreto-legge%2020%20giugno%201935-XIII%20n.%201071%20contenente%20modifiche%20ed%20aggiornamenti%20al%20testo%20unico%20delle%20leggi%20sullistruzione%20superiore.%20036U0073.md); 
+ Veduto il [regio decreto 30 settembre 1938, n. 1652](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disposizioni%20sullordinamento%20didattico%20universitario.%20038U1652.md), e successive modificazioni; 
+ Veduta la [legge 11 aprile 1953, n. 312](../Atti%20normativi%20abrogati%20%28in%20originale%29/Libera%20inclusione%20di%20nuovi%20insegnamenti%20complementari%20negli%20statuti%20delle%20Universita%20e%20degli%20Istituti%20distruzione%20superiore.md); 
+ Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta; 
+ Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte; 
+ Sentito il parere del Consiglio superiore della pubblica istruzione; 
+ Sulla proposta del Ministro per la pubblica istruzione; 
+ 
+ Decreta: 
+ 
+ Lo statuto dell'Universita' degli studi di Catania, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso: 
+ Art. 9. - Agli insegnamenti complementari del corso di laurea in giurisprudenza sono aggiunti quelli di: 
+ 13) Istituzioni di diritto pubblico; 
+ 14) Storia delle dottrine politiche; 
+ 15) Politica economica e finanziaria; 
+ 16) Diritto fallimentare; 
+ 17) Contabilita' di Stato; 
+ 18) Storia dei trattati e politica internazionale. 
+ Art. 11. - Agli insegnamenti del corso di laurea in giurisprudenza, dichiarati propedeutici, vanno aggiunti i seguenti: 
+ h) istituzioni di diritto privato e diritto costituzionale per il diritto internazionale. 
+ Art. 26. - Agli insegnamenti complementari del corso di laurea in lettere e' aggiunto quello di: 
+ 28) Dialettologia siciliana. 
+ Art. 47. - Agli insegnamenti complementari del corso di laurea in chimica (indirizzo organico biologico e indirizzo inorganico-chimico-fisico) sono aggiunti quelli di: 
+ Tecnologia e chimica del petrolio; 
+ Impianti chimici industriali; 
+ Chimica applicata. 
+ Art. 48. - E' aggiunto il seguente comma: 
+ "L'iscrizione e l'esame relativi all'insegnamento di chimica organica sono propedeutici rispettivamente per l'iscrizione e l'esame relativi al corso di esercitazioni di chimica organica e di analisi organica".
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 2 aprile 1957
+Dato a Roma, addi' 2 aprile 1957
 
-GRONCHI ROSSI
-
-Visto, il Guardasigilli: MORO
-
-Registrato alla Corte dei conti, addi' 17 maggio 1957
-
-Atti del Governo, registro n. 105, foglio n. 118. - CARLOMAGNO
+GRONCHI ROSSI Visto, il Guardasigilli: MORO Registrato alla Corte dei conti, addi' 17 maggio 1957 Atti del Governo, registro n. 105, foglio n. 118. - CARLOMAGNO

@@ -1,194 +1,201 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 12 luglio 1963 n. 930
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 930
+data: 1963-07-12
+titolo: "Norme per la tutela delle denominazioni di origine dei mosti e dei vini."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1963-07-12;930
+codice_redazionale: 063U0930
+vigente: true
+---
 
+## DELLE DENOMINAZIONI DI ORIGINE
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 12 luglio 1963 n. 930
-=============================================================
+CAPO I
 
-Norme per la tutela delle denominazioni di origine dei mosti e dei vini.
-------------------------------------------------------------------------
+### Art. 1.
 
-CAPO I CAPO I DELLE DENOMINAZIONI DI ORIGINE
---------------------------------------------
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 8 APRILE 2010, N. 61))
 
-### Art. 1
+### Art. 2.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 8 APRILE 2010, N. 61](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-04-08;61)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 8 APRILE 2010, N. 61))
 
-### Art. 2
+### Art. 3.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 8 APRILE 2010, N. 61](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-04-08;61)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 8 APRILE 2010, N. 61))
 
-### Art. 3
+### Art. 4.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 8 APRILE 2010, N. 61](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-04-08;61)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 8 APRILE 2010, N. 61))
 
-### Art. 4
+### Art. 5.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 8 APRILE 2010, N. 61](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-04-08;61)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 8 APRILE 2010, N. 61))
 
-### Art. 5
+### Art. 6.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 8 APRILE 2010, N. 61](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-04-08;61)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 8 APRILE 2010, N. 61))
 
-### Art. 6
+### Art. 7.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 8 APRILE 2010, N. 61](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-04-08;61)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 8 APRILE 2010, N. 61))
 
-### Art. 7
+### Art. 8.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 8 APRILE 2010, N. 61](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-04-08;61)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 8 APRILE 2010, N. 61))
 
-### Art. 8
+### Art. 9.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 8 APRILE 2010, N. 61](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-04-08;61)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 8 APRILE 2010, N. 61))
 
-### Art. 9
+## ALBO DEI VIGNETI DENUNCIA E CONTROLLO DELLA PRODUZIONE
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 8 APRILE 2010, N. 61](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-04-08;61)))
+CAPO II
 
-CAPO II CAPO II ALBO DEI VIGNETI DENUNCIA E CONTROLLO DELLA PRODUZIONE
-----------------------------------------------------------------------
+### Art. 10.
 
-### Art. 10
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 8 APRILE 2010, N. 61))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 8 APRILE 2010, N. 61](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-04-08;61)))
+### Art. 11.
 
-### Art. 11
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 8 APRILE 2010, N. 61))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 8 APRILE 2010, N. 61](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-04-08;61)))
+### Art. 12.
 
-### Art. 12
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 8 APRILE 2010, N. 61))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 8 APRILE 2010, N. 61](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-04-08;61)))
+### Art. 13.
 
-### Art. 13
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 8 APRILE 2010, N. 61))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 8 APRILE 2010, N. 61](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-04-08;61)))
+### Art. 14.
 
-### Art. 14
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 8 APRILE 2010, N. 61))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 8 APRILE 2010, N. 61](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-04-08;61)))
+### Art. 15.
 
-### Art. 15
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 8 APRILE 2010, N. 61))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 8 APRILE 2010, N. 61](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-04-08;61)))
+### Art. 16.
 
-### Art. 16
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 8 APRILE 2010, N. 61))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 8 APRILE 2010, N. 61](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-04-08;61)))
+## ISTITUZIONE DEL COMITATO NAZIONALE PER LA TUTELA DELLE DENOMINAZIONI DI ORIGINE
 
-CAPO III CAPO III ISTITUZIONE DEL COMITATO NAZIONALE PER LA TUTELA DELLE DENOMINAZIONI DI ORIGINE
--------------------------------------------------------------------------------------------------
+CAPO III
 
-### Art. 17
+### Art. 17.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 8 APRILE 2010, N. 61](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-04-08;61)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 8 APRILE 2010, N. 61))
 
-### Art. 18
+### Art. 18.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 8 APRILE 2010, N. 61](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-04-08;61)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 8 APRILE 2010, N. 61))
 
-### Art. 19
+### Art. 19.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 8 APRILE 2010, N. 61](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-04-08;61)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 8 APRILE 2010, N. 61))
 
-### Art. 20
+### Art. 20.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 8 APRILE 2010, N. 61](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-04-08;61)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 8 APRILE 2010, N. 61))
 
-CAPO IV CAPO IV DEI CONSORZI VOLONTARI
---------------------------------------
+## DEI CONSORZI VOLONTARI
 
-### Art. 21
+CAPO IV
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 8 APRILE 2010, N. 61](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-04-08;61)))
+### Art. 21.
 
-### Art. 22
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 8 APRILE 2010, N. 61))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 8 APRILE 2010, N. 61](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-04-08;61)))
+### Art. 22.
 
-### Art. 23
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 8 APRILE 2010, N. 61))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 8 APRILE 2010, N. 61](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-04-08;61)))
+### Art. 23.
 
-### Art. 24
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 8 APRILE 2010, N. 61))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 8 APRILE 2010, N. 61](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-04-08;61)))
+### Art. 24.
 
-CAPO V CAPO V DISPOSIZIONI CONTRO LE FRODI E LA SLEALE CONCORRENZA
-------------------------------------------------------------------
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 8 APRILE 2010, N. 61))
 
-### Art. 25
+## DISPOSIZIONI CONTRO LE FRODI E LA SLEALE CONCORRENZA
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 8 APRILE 2010, N. 61](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-04-08;61)))
+CAPO V
 
-### Art. 26
+### Art. 25.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 8 APRILE 2010, N. 61](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-04-08;61)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 8 APRILE 2010, N. 61))
 
-### Art. 27
+### Art. 26.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 8 APRILE 2010, N. 61](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-04-08;61)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 8 APRILE 2010, N. 61))
 
-### Art. 28
+### Art. 27.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 8 APRILE 2010, N. 61](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-04-08;61)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 8 APRILE 2010, N. 61))
 
-### Art. 29
+### Art. 28.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 8 APRILE 2010, N. 61](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-04-08;61)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 8 APRILE 2010, N. 61))
 
-### Art. 30
+### Art. 29.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 8 APRILE 2010, N. 61](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-04-08;61)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 8 APRILE 2010, N. 61))
 
-### Art. 31
+### Art. 30.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 8 APRILE 2010, N. 61](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-04-08;61)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 8 APRILE 2010, N. 61))
 
-### Art. 32
+### Art. 31.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 8 APRILE 2010, N. 61](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-04-08;61)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 8 APRILE 2010, N. 61))
 
-### Art. 33
+### Art. 32.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 8 APRILE 2010, N. 61](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-04-08;61)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 8 APRILE 2010, N. 61))
 
-### Art. 34
+### Art. 33.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 8 APRILE 2010, N. 61](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-04-08;61)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 8 APRILE 2010, N. 61))
 
-### Art. 35
+### Art. 34.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 8 APRILE 2010, N. 61](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-04-08;61)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 8 APRILE 2010, N. 61))
 
-### Art. 36
+### Art. 35.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 8 APRILE 2010, N. 61](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-04-08;61)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 8 APRILE 2010, N. 61))
 
-### Art. 37
+### Art. 36.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 8 APRILE 2010, N. 61](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-04-08;61)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 8 APRILE 2010, N. 61))
 
-### Art. 38
+### Art. 37.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 8 APRILE 2010, N. 61](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-04-08;61)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 8 APRILE 2010, N. 61))
 
-### Art. 39
+### Art. 38.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 8 APRILE 2010, N. 61](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-04-08;61)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 8 APRILE 2010, N. 61))
 
-CAPO VI CAPO VI DISPOSIZIONI FINALI
------------------------------------
+### Art. 39.
 
-### Art. 40
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 8 APRILE 2010, N. 61))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 8 APRILE 2010, N. 61](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-04-08;61)))
+## DISPOSIZIONI FINALI
 
-### Art. 41
+CAPO VI
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 8 APRILE 2010, N. 61](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-04-08;61)))
+### Art. 40.
 
-### Art. 42
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 8 APRILE 2010, N. 61))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 8 APRILE 2010, N. 61](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-04-08;61)))
+### Art. 41.
+
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 8 APRILE 2010, N. 61))
+
+### Art. 42.
+
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 8 APRILE 2010, N. 61))

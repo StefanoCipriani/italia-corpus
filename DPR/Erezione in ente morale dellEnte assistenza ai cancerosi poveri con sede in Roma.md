@@ -1,19 +1,21 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 21 maggio 1958 n. 588
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 588
+data: 1958-05-21
+titolo: "Erezione in ente morale dell'\"Ente assistenza ai cancerosi poveri\", con sede in Roma."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1958-05-21;588
+codice_redazionale: 058U0588
+vigente: true
+---
 
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 21 maggio 1958 n. 588
-=============================================================
-
-Erezione in ente morale dell'"Ente assistenza ai cancerosi poveri", con sede in Roma.
--------------------------------------------------------------------------------------
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-588. Decreto del Presidente della Repubblica 21 maggio 1958, col quale, sulla proposta del Ministro per l'interno, l'"Ente assistenza ai cancerosi poveri", con sede in Roma, viene eretto in ente morale e ne viene approvato lo statuto organico.  
-  
-Visto, il Guardasigilli: GONELLA  
-Registrato alla Corte dei conti, addi' 17 giugno 1958  
-Atti del Governo, registro n. 112, foglio n. 215. - RELLEVA
+588.
+
+Decreto del Presidente della Repubblica 21 maggio 1958, col quale, sulla proposta del Ministro per l'interno, l'"Ente assistenza ai cancerosi poveri", con sede in Roma, viene eretto in ente morale e ne viene approvato lo statuto organico.
+
+Visto, il Guardasigilli: GONELLA
+ Registrato alla Corte dei conti, addi' 17 giugno 1958
+ Atti del Governo, registro n. 112, foglio n. 215. - RELLEVA

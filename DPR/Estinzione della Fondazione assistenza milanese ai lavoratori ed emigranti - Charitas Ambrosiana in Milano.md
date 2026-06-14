@@ -1,19 +1,21 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 01 luglio 1980 n. 647
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 647
+data: 1980-07-01
+titolo: "Estinzione della \"Fondazione assistenza milanese ai lavoratori ed emigranti - Charitas Ambrosiana\", in Milano."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1980-07-01;647
+codice_redazionale: 080U0647
+vigente: true
+---
 
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 01 luglio 1980 n. 647
-=============================================================
-
-Estinzione della "Fondazione assistenza milanese ai lavoratori ed emigranti - Charitas Ambrosiana", in Milano.
---------------------------------------------------------------------------------------------------------------
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-647. Decreto del Presidente della Repubblica 1 luglio 1980, col quale, sulla proposta del Ministro del lavoro e della previdenza sociale, la "Fondazione assistenza milanese ai lavoratori ed emigranti - Charitas Ambrosiana", in Milano, viene dichiarata estinta e posta in liquidazione ed il residuo patrimonio viene devoluto alla fondazione "La Vincenziana".  
-  
-Visto, il Guardasigilli: MORLINO  
-Registrato alla Corte dei conti, addi' 9 ottobre 1980  
-Registro n. 1 Lavoro, foglio n. 135
+647.
+
+Decreto del Presidente della Repubblica 1 luglio 1980, col quale, sulla proposta del Ministro del lavoro e della previdenza sociale, la "Fondazione assistenza milanese ai lavoratori ed emigranti - Charitas Ambrosiana", in Milano, viene dichiarata estinta e posta in liquidazione ed il residuo patrimonio viene devoluto alla fondazione "La Vincenziana".
+
+Visto, il Guardasigilli: MORLINO
+ Registrato alla Corte dei conti, addi' 9 ottobre 1980
+ Registro n. 1 Lavoro, foglio n. 135

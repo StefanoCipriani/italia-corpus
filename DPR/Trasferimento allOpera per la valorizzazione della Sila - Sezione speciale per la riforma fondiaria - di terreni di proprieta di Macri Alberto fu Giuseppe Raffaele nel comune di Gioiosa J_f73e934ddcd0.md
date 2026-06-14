@@ -1,79 +1,49 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 18 dicembre 1952 n. 3252
-
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 18 dicembre 1952 n. 3252
-================================================================
-
-Trasferimento all'Opera per la valorizzazione della Sila - Sezione speciale per la riforma fondiaria - di terreni di proprieta' di Macri' Alberto fu Giuseppe Raffaele, nel comune di Gioiosa Jonica (Reggio Calabria).
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 3252
+data: 1952-12-18
+titolo: "Trasferimento all'Opera per la valorizzazione della Sila - Sezione speciale per la riforma fondiaria - di terreni di proprieta' di Macri' Alberto fu Giuseppe Raffaele, nel comune di Gioiosa Jonica (Reggio Calabria)."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1952-12-18;3252
+codice_redazionale: 052U3252
+vigente: true
+---
 
 IL PRESIDENTE DELLA REPUBBLICA
-------------------------------
 
-Visti gli [articoli 77, comma primo](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27~art77-com1), ed [87, comma quinto, della Costituzione](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27~art87-com5) della Repubblica;
+Visti gli [articoli 77, comma primo](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_77-com1), ed [87, comma quinto, della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87-com5) della Repubblica;
 
-Viste le [leggi 12 maggio 1950, n. 230, 21 ottobre 1950, n. 841, 18 maggio 1951, n. 333, 2 aprile 1952, n. 339 e 16 agosto 1952, n. 1206](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1952-08-16;1206);
+Viste le [leggi 12 maggio 1950, n. 230, 21 ottobre 1950, n. 841, 18 maggio 1951, n. 333, 2 aprile 1952, n. 339 e 16 agosto 1952, n. 1206](../Atti%20normativi%20abrogati%20%28in%20originale%29/Interpretazione%20dellarticolo%204%20della%20legge%2021%20ottobre%201950%20n.%20841%20recante%20norme%20per%20la%20espropriazione%20bonifica%20trasformazione%20ed%20assegnazione%20dei%20terreni%20ai%20contadini.md);
 
-In virtu' della delegazione concessa dagli [art. 5 della legge 12 maggio 1950, n. 230 ed 1](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1950-05-12;1~art5) e 2 della [legge 21 ottobre 1950, n. 841](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1950-10-21;841).
+In virtu' della delegazione concessa dagli [art. 5 della legge 12 maggio 1950, n. 230 ed 1](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1950-05-12;1#art_5) e 2 della [legge 21 ottobre 1950, n. 841](../Atti%20normativi%20abrogati%20%28in%20originale%29/Norme%20per%20la%20espropriazione%20bonifica%20trasformazione%20ed%20assegnazione%20dei%20terreni%20ai%20contadini.md).
 
 Visto il proprio decreto 7 febbraio 1951, n. 68;
 
 Visto il piano particolareggiato di espropriazione compilato dall'Opera per la valorizzazione della Sila - Sezione speciale per la riforma fondiaria - nei confronti di Macri' Alberto fu Giuseppe Raffaele, per i terreni ricadenti nel comune di Gioiosa Jonica (provincia di Reggio Calabria);
 
-Udito il parere in data 2 ottobre 1952, espresso dalla Commissione parlamentare nominata a norma degli [articoli 5 della legge 12 maggio 1950, n. 230](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1950-05-12;230~art5), ed 1 e 2 della [legge 21 ottobre 1950, n. 841](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1950-10-21;841);
+Udito il parere in data 2 ottobre 1952, espresso dalla Commissione parlamentare nominata a norma degli [articoli 5 della legge 12 maggio 1950, n. 230](../Atti%20normativi%20abrogati%20%28in%20originale%29/Provvedimenti%20per%20la%20colonizzazione%20dellAltopiano%20della%20Sila%20e%20dei%20territori%20jonici%20contermini.md), ed 1 e 2 della [legge 21 ottobre 1950, n. 841](../Atti%20normativi%20abrogati%20%28in%20originale%29/Norme%20per%20la%20espropriazione%20bonifica%20trasformazione%20ed%20assegnazione%20dei%20terreni%20ai%20contadini.md);
 
 Sentito il Consiglio dei Ministri;
 
-Sulla
------
+Sulla proposta del Ministro Segretario di Stato per l'agricoltura e per le foreste; Decreta:
 
-proposta del Ministro Segretario di Stato per l'agricoltura e per le foreste; Decreta:
+## Art. 1.
 
-Art. 1
-------
+E' approvato il piano particolareggiato di espropriazione, compilato dall'Opera per la valorizzazione della Sila - Sezione speciale per la riforma fondiaria -, nei confronti di Macri Alberto fu Giuseppe Raffaele, relativo ai terreni ricadenti nel comune di Gioiosa Jonica (provincia di Reggio Calabria), specificamente descritti nell'elenco n. 1, allegato al presente decreto.
 
-  
-E' approvato il piano particolareggiato di espropriazione, compilato dall'Opera per la valorizzazione della Sila - Sezione speciale per la riforma fondiaria -, nei confronti di Macri Alberto fu Giuseppe Raffaele, relativo ai terreni ricadenti nel comune di Gioiosa Jonica (provincia di Reggio Calabria), specificamente descritti nell'elenco n. 1, allegato al presente decreto.  
+## Art. 2.
 
-Art. 2
-------
+I terreni indicati nel precedente articolo sono trasferiti in proprieta' all'Opera per la valorizzazione della Sila-Sezione speciale per la riforma fondiaria.
 
-  
-I terreni indicati nel precedente articolo sono trasferiti in proprieta' all'Opera per la valorizzazione della Sila-Sezione speciale per la riforma fondiaria.  
+## Art. 3.
 
-Art. 3
-------
+E' ordinata l'immediata occupazione, da parte dell'Ente predetto, dei terreni indicati nei precedenti articoli 1 e 2.
 
-  
-E' ordinata l'immediata occupazione, da parte dell'Ente predetto, dei terreni indicati nei precedenti articoli 1 e 2.  
+## Art. 4.
 
-Art. 4
-------
-
-  
-L'elenco dei terreni, con l'indicazione dell'indennita' di espropriazione offerta, munito del visto del Ministro proponente, forma parte integrante del presente decreto, che entra in vigore il giorno stesso della sua pubblicazione nella Gazzetta Ufficiale della Repubblica italiana.  
-  
+L'elenco dei terreni, con l'indicazione dell'indennita' di espropriazione offerta, munito del visto del Ministro proponente, forma parte integrante del presente decreto, che entra in vigore il giorno stesso della sua pubblicazione nella Gazzetta Ufficiale della Repubblica italiana.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 18 dicembre 1952
+Dato a Roma, addi' 18 dicembre 1952
 
-EINAUDI DE GASPERI - FANFANI
-
-Visto, il Guardasigilli: ZOLI
-
-Registrato alla Corte dei conti, addi' 15 gennaio 1953
-
-Atti del Governo, registro n. 68, foglio n. 160. - PALLA
-
-Allegato n. 1
-
- ALLEGATO N. 1   
-  
-Elenco dei terreni intestati alla ditta Macri' Alberto fu Giuseppe Raffaele, in comune di Gioiosa Jonica (articolo 11657) (Provincia di Reggio Calabria), trasferiti in proprieta' dell'Opera per la valorizzazione della Sila - Sezione speciale per l'applicazione della legge "STRALCIO", con sede in Cosenza, a norma delle [leggi 12 maggio 1950, n. 230, 21 ottobre 1950, n. 841](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1950-10-21;841), e [decreto Presidenziale 7 febbraio 1951, n. 68](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-02-07;68).   
-  
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=052U325200100010110001&dgu=1953-01-17&art.dataPubblicazioneGazzetta=1953-01-17&art.codiceRedazionale=052U3252)
-  
+EINAUDI DE GASPERI - FANFANI Visto, il Guardasigilli: ZOLI Registrato alla Corte dei conti, addi' 15 gennaio 1953 Atti del Governo, registro n. 68, foglio n. 160. - PALLA

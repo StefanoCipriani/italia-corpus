@@ -1,19 +1,21 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 13 aprile 1972 n. 438
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 438
+data: 1972-04-13
+titolo: "Modificazioni allo statuto della comunita' e arciconfraternita serbo-ortodossa, in Trieste."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1972-04-13;438
+codice_redazionale: 072U0438
+vigente: true
+---
 
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 13 aprile 1972 n. 438
-=============================================================
-
-Modificazioni allo statuto della comunita' e arciconfraternita serbo-ortodossa, in Trieste.
--------------------------------------------------------------------------------------------
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-438. Decreto del Presidente della Repubblica 13 aprile 1972, col quale, sulla proposta del Ministro per l'interno, viene modificato lo statuto della comunita' e arciconfraternita serbo-ortodossa di Trieste.   
-  
-Visto, il Guardasigilli: GONELLA   
-Registrato alla Corte dei conti, addi' 6 agosto 1972   
-Atti del Governo, registro n. 250, foglio n. 134. - VALENTINI
+438.
+
+Decreto del Presidente della Repubblica 13 aprile 1972, col quale, sulla proposta del Ministro per l'interno, viene modificato lo statuto della comunita' e arciconfraternita serbo-ortodossa di Trieste. 
+ 
+Visto, il Guardasigilli: GONELLA 
+ Registrato alla Corte dei conti, addi' 6 agosto 1972 
+ Atti del Governo, registro n. 250, foglio n. 134. - VALENTINI

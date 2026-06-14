@@ -1,19 +1,21 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 08 aprile 1964 n. 326
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 326
+data: 1964-04-08
+titolo: "Erezione in ente morale della Cassa scolastica della Scuola media statale \"P. Vasta\", di Acireale."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1964-04-08;326
+codice_redazionale: 064U0326
+vigente: true
+---
 
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 08 aprile 1964 n. 326
-=============================================================
-
-Erezione in ente morale della Cassa scolastica della Scuola media statale "P. Vasta", di Acireale.
---------------------------------------------------------------------------------------------------
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-326. Decreto del Presidente della Repubblica 8 aprile 1964, col quale, sulla proposta del Ministro per la pubblica istruzione, la Cassa scolastica della Scuola media statale "P. Vasta", di Acireale, viene eretta in ente morale e ne viene approvato lo statuto.  
-  
-Visto, il Guardasigilli: REALE  
-Registrato alla Corte dei conti, addi' 22 maggio 1964  
-Atti del Governo, registro n. 183, foglio n. 99. - VILLA
+326.
+
+Decreto del Presidente della Repubblica 8 aprile 1964, col quale, sulla proposta del Ministro per la pubblica istruzione, la Cassa scolastica della Scuola media statale "P. Vasta", di Acireale, viene eretta in ente morale e ne viene approvato lo statuto.
+
+Visto, il Guardasigilli: REALE
+ Registrato alla Corte dei conti, addi' 22 maggio 1964
+ Atti del Governo, registro n. 183, foglio n. 99. - VILLA

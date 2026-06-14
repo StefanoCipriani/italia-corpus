@@ -1,19 +1,21 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 24 gennaio 1978 n. 93
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 93
+data: 1978-01-24
+titolo: "Riconoscimento della personalita' giuridica della fondazione di culto e di religione denominata \"Facolta' teologica dell'Italia settentrionale\", in Milano."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1978-01-24;93
+codice_redazionale: 078U0093
+vigente: true
+---
 
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 24 gennaio 1978 n. 93
-=============================================================
-
-Riconoscimento della personalita' giuridica della fondazione di culto e di religione denominata "Facolta' teologica dell'Italia settentrionale", in Milano.
------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-93. Decreto del Presidente della Repubblica 24 gennaio 1978, col quale, sulla proposta del Ministro dell'interno, viene riconosciuta la personalita' giuridica ed approvato lo statuto della fondazione di culto e di religione denominata "Facolta' teologica dell'Italia settentrionale", in Milano.  
-  
-Visto, il Guardasigilli: BONIFACIO  
-Registrato alla Corte dei conti, addi' 5 aprile 1978  
-Registro n. 7 Interno, foglio n. 96
+93.
+
+Decreto del Presidente della Repubblica 24 gennaio 1978, col quale, sulla proposta del Ministro dell'interno, viene riconosciuta la personalita' giuridica ed approvato lo statuto della fondazione di culto e di religione denominata "Facolta' teologica dell'Italia settentrionale", in Milano.
+
+Visto, il Guardasigilli: BONIFACIO
+ Registrato alla Corte dei conti, addi' 5 aprile 1978
+ Registro n. 7 Interno, foglio n. 96

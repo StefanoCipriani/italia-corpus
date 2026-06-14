@@ -1,19 +1,21 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 14 luglio 1960 n. 1001
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 1001
+data: 1960-07-14
+titolo: "Erezione in ente morale della Cassa scolastica della Scuola secondaria statale di avviamento professionale a tipo industriale di Fermo."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1960-07-14;1001
+codice_redazionale: 060U1001
+vigente: true
+---
 
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 14 luglio 1960 n. 1001
-==============================================================
-
-Erezione in ente morale della Cassa scolastica della Scuola secondaria statale di avviamento professionale a tipo industriale di Fermo.
----------------------------------------------------------------------------------------------------------------------------------------
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-1001. Decreto del Presidente della Repubblica 14 luglio 1960, col quale, sulla proposta del Ministro per la pubblica istruzione, la Cassa scolastica della Scuola secondaria statale di avviamento professionale a tipo industriale di Fermo viene eretta in ente morale e ne viene approvato lo statuto.  
-  
-Visto, il Guardasigilli: GONELLA  
-Registrato alla Corte dei conti, addi' 20 settembre 1960  
-Atti del Governo, registro n. 129, foglio n. 90. - VILLA
+1001.
+
+Decreto del Presidente della Repubblica 14 luglio 1960, col quale, sulla proposta del Ministro per la pubblica istruzione, la Cassa scolastica della Scuola secondaria statale di avviamento professionale a tipo industriale di Fermo viene eretta in ente morale e ne viene approvato lo statuto.
+
+Visto, il Guardasigilli: GONELLA
+ Registrato alla Corte dei conti, addi' 20 settembre 1960
+ Atti del Governo, registro n. 129, foglio n. 90. - VILLA

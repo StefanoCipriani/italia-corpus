@@ -1,19 +1,21 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 17 maggio 1986 n. 678
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 933
+data: 1985-11-14
+titolo: "Autorizzazione all'Associazione italiana della Croce rossa, in Roma, ad accettare un legato."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1985-11-14;933
+codice_redazionale: 085U0933
+vigente: true
+---
 
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 17 maggio 1986 n. 678
-=============================================================
-
-Autorizzazione all'Associazione italiana della Croce rossa, in Roma, ad accettare un legato.
---------------------------------------------------------------------------------------------
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-678. Decreto del Presidente della Repubblica 17 maggio 1986, col quale, sulla proposta del Ministro della sanita', l'Associazione italiana della Croce rossa, in Roma, viene autorizzata ad accettare il legato, consistente nella somma di L. 8.000.000, disposto dalla sig.ra Annina Tuzzato ved. Vincent con testamento pubblico 1 ottobre 1981, registrato in data 13 maggio 1982, n. 11798 di repertorio, a rogito dott. Piovan Francesco, notaio in Padova, registrato a Padova in data 14 maggio 1982 al n. 5818.   
-  
-Visto, il Guardasigilli: ROGNONI   
-Registrato alla Corte dei conti, addi' 9 ottobre 1986   
-Registro n. 10 Sanita', foglio n. 69
+933.
+
+Decreto del Presidente della Repubblica 14 novembre 1985, col quale, sulla proposta del Ministro della sanita', l'Associazione italiana della Croce rossa, in Roma, viene autorizzata ad accettare il legato, consistente "in quanto resta in denaro liquido del conto corrente" presso la Banca commerciale, via del Corso, Roma, e "in titoli di Stato", una volta "pagate le spese funebri e religiose e gli onorari notarili" per un ammontare presumibile di L. 30.000.000 e che sara' utilizzato dalla Croce rossa per l'assistenza ai terremotati piu' bisognosi e sofferenti del Friuli, disposto dalla sig.ra Lucia Dini con testamento olografo 28 agosto 1977, pubblicato in data 26 settembre 1979, n. 67608 di repertorio, a rogito dottor Massimo Manara, coadiutore del dott. Achille De Martino, notaio in Roma, registrato a Roma in data 2 ottobre 1979 al n. 10942. 
+ 
+Visto, il Guardasigilli: MARTINAZZOLI 
+ Registrato alla Corte dei conti, addi' 17 febbraio 1986 
+ Registro n. 2 Sanita', foglio n. 133.

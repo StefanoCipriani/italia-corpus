@@ -1,20 +1,20 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 03 agosto 1961 n. 1237
-
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 03 agosto 1961 n. 1237
-==============================================================
-
-Norme sul trattamento economico e normativo dei lavoratori dipendenti dalle imprese grafiche e affini della provincia di La Spezia.
------------------------------------------------------------------------------------------------------------------------------------
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 1237
+data: 1961-08-03
+titolo: "Norme sul trattamento economico e normativo dei lavoratori dipendenti dalle imprese grafiche e affini della provincia di La Spezia."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1961-08-03;1237
+codice_redazionale: 061U1237
+vigente: true
+---
 
 IL PRESIDENTE DELLA REPUBBLICA
-------------------------------
 
-Visto l'[art. 87, comma quinto, della Costituzione](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27~art87-com5);
+Visto l'[art. 87, comma quinto, della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87-com5);
 
-Vista la [legge 14 luglio 1959, n. 741](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1959-07-14;741), che delega il Governo ad emanare norme transitorie per garantire minimi di trattamento economico e normativo ai lavoratori;
+Vista la [legge 14 luglio 1959, n. 741](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1959-07-14;741), che delega il Governo ad emanare norme transitorie per garantire minimi di trattamento economico e normativo ai lavoratori;
 
-Vista la [legge 1 ottobre 1960, n. 1027](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1960-10-01;1027), recante modifiche alla predetta [legge 14 luglio 1959, n. 741](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1959-07-14;741);
+Vista la [legge 1 ottobre 1960, n. 1027](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1960-10-01;1027), recante modifiche alla predetta [legge 14 luglio 1959, n. 741](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1959-07-14;741);
 
 Visto il contratto collettivo nazionale 1 ottobre 1959 per i dipendenti dalle aziende grafiche ed affini;
 
@@ -24,39 +24,16 @@ Vista la pubblicazione nell'apposito Bollettino, n. 9 della provincia di La Spez
 
 Sentito il Consiglio dei Ministri;
 
-Sulla
------
+Sulla proposta del Ministro per il lavoro e la previdenza sociale; Decreta:
 
-proposta del Ministro per il lavoro e la previdenza sociale; Decreta:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-I rapporti di lavoro costituiti per le attivita' per le quali e' stato stipulato, per la provincia di La Spezia, il contratto collettivo integrativo 27 febbraio 1948, relativo ai dipendenti dell'industria grafica e affini, sono regolati da norme giuridiche uniformi alle clausole del contratto anzidetto, annesso ai presente decreto.  
-Dette norme sono integrative di quelle concernenti la disciplina nazionale della categoria, purche' con esse compatibili.  
-I minimi di trattamento economico e normativo cosi' stabiliti sono inderogabili nei confronti di tutti i lavoratori dipendenti dalle imprese grafiche e affini della provincia di La Spezia.  
-  
+I rapporti di lavoro costituiti per le attivita' per le quali e' stato stipulato, per la provincia di La Spezia, il contratto collettivo integrativo 27 febbraio 1948, relativo ai dipendenti dell'industria grafica e affini, sono regolati da norme giuridiche uniformi alle clausole del contratto anzidetto, annesso ai presente decreto.
+ Dette norme sono integrative di quelle concernenti la disciplina nazionale della categoria, purche' con esse compatibili.
+ I minimi di trattamento economico e normativo cosi' stabiliti sono inderogabili nei confronti di tutti i lavoratori dipendenti dalle imprese grafiche e affini della provincia di La Spezia.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta Ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 3 agosto 1961
+Dato a Roma, addi' 3 agosto 1961
 
-GRONCHI FANFANI - SULLO
-
-Visto, il Guardasigilli: GONELLA
-
-Registrato alla Corte dei conti, addi' 28 ottobre 1961
-
-Atti del Governo, registro n. 141, foglio n. 60. - VILLA
-
-Contratto Integrativo
-
-CONTRATTO INTEGRATIVO PROVINCIALE 27 FEBBRAIO 1948 PER I DIPENDENTI DELLA INDUSTRIA GRAFICA E AFFINI   
-  
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=061U123700100010110001&dgu=1961-12-05&art.dataPubblicazioneGazzetta=1961-12-05&art.codiceRedazionale=061U1237)
-  
+GRONCHI FANFANI - SULLO Visto, il Guardasigilli: GONELLA Registrato alla Corte dei conti, addi' 28 ottobre 1961 Atti del Governo, registro n. 141, foglio n. 60. - VILLA

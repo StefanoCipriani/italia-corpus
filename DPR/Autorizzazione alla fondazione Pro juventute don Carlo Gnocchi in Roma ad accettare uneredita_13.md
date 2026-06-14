@@ -1,19 +1,22 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 17 giugno 1985 n. 466
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 909
+data: 1980-10-30
+titolo: "Autorizzazione alla fondazione \"Pro juventute don Carlo Gnocchi\", in Roma, ad accettare un'eredita'."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1980-10-30;909
+codice_redazionale: 080U0909
+vigente: true
+---
 
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 17 giugno 1985 n. 466
-=============================================================
-
-Autorizzazione alla fondazione "Pro juventute don Carlo Gnocchi", in Roma, ad accettare un'eredita'.
-----------------------------------------------------------------------------------------------------
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-466. Decreto del Presidente della Repubblica 17 giugno 1985, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la fondazione "Pro juventute don Carlo Gnocchi", in Roma, viene autorizzata ad accettare, col beneficio d'inventario, l'eredita', consistente in un appartamento sito in Cinisello Balsamo (Milano), via Sardegna n. 8/1, distinto al nuovo catasto edilizio urbano alla partita 8378, foglio 45, mappale 277 sub 30, del valore attribuito con perizia di parte di L. 9.000.000, elevato dall'ufficio tecnico erariale di Milano a L. 34.000.000, e in beni mobili come da inventario per L. 16.459.754, totale lire 50.451.754 - passivita' L. 1.165.000, restano lire 49.294.754, disposta dalla sig.ra Martinetti Maria a favore della fondazione "Don Gnocchi", che si identifica con la fondazione "Pro juventute don Carlo Gnocchi", come si evince dal verbale 20 novembre 1981 del consiglio di amministrazione della fondazione stessa, con testamento olografo 10 luglio 1978, pubblicato in data 16 gennaio 1981, n. 4435 di repertorio e n. 733 di raccolta, a rogito dott. Brambilla Ulderico, notaio in Milano, registrato a Milano il 29 gennaio 1981 al n. 2236.  
-  
-Visto, il Guardasigilli: MARTINAZZOLI  
-Registrato alla Corte dei conti, addi' 2 settembre 1985  
-Registro n. 8 Presidenza, foglio n. 158
+909.
+
+Decreto del Presidente della Repubblica 30 ottobre 1980, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la fondazione "Pro juventute don Carlo Gnocchi", in Roma, viene autorizzata ad accettare, col beneficio d'inventario, l'eredita' disposta dalla sig.ra Giussani Eva Pierina ved. Merlini con testamento olografo 30 settembre 1972, pubblicato a rogito dott.
+ Pentangelo Lucio, notaio in Seregno (Milano), in data 11 settembre 1975, n. 25008 di repertorio e n. 1589 di raccolta, registrato a Desio (Milano) il 19 settembre 1975 al n. 3446, consistente in beni mobili ed immobili per complessive lire 44.500.000.
+
+Visto, il Guardasigilli: SARTI
+ Registrato alla Corte dei conti, addi' 20 dicembre 1980
+ Registro n. 9 Presidenza, foglio n. 190

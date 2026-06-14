@@ -1,20 +1,20 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 09 maggio 1961 n. 779
-
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 09 maggio 1961 n. 779
-=============================================================
-
-Norme sul trattamento economico e normativo degli operai dipendenti dalle Imprese edili ed affini delle province di Matera e Potenza.
--------------------------------------------------------------------------------------------------------------------------------------
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 779
+data: 1961-05-09
+titolo: "Norme sul trattamento economico e normativo degli operai dipendenti dalle Imprese edili ed affini delle province di Matera e Potenza."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1961-05-09;779
+codice_redazionale: 061U0779
+vigente: true
+---
 
 IL PRESIDENTE DELLA REPUBBLICA
-------------------------------
 
-Visto l'[art. 87, comma quinto, della Costituzione](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27~art87-com5);
+Visto l'[art. 87, comma quinto, della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87-com5);
 
-Vista la [legge 14 luglio 1959, n. 741](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1959-07-14;741), che delega il Governo ad emanare norme transitorie per garantire minimi di trattamento economico e normativo ai lavoratori;
+Vista la [legge 14 luglio 1959, n. 741](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1959-07-14;741), che delega il Governo ad emanare norme transitorie per garantire minimi di trattamento economico e normativo ai lavoratori;
 
-Vista la [legge 1 ottobre 1960, n. 1027](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1960-10-01;1027), recante modifiche alla predetta [legge 14 luglio 1959, n. 711](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1959-07-14;711);
+Vista la [legge 1 ottobre 1960, n. 1027](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1960-10-01;1027), recante modifiche alla predetta [legge 14 luglio 1959, n. 711](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1959-07-14;711);
 
 Visto il contratto collettivo nazionale di lavoro 24 luglio 1959 per gli operai addetti alle industrie edilizia ed affini.
 
@@ -28,37 +28,16 @@ Vista la pubblicazione nell'apposito Bollettino, n. 3 della provincia di Matera,
 
 Sentito il Consiglio di Ministri;
 
-Sulla
------
+Sulla proposta del Ministro per il lavoro e la previdenza sociale; Decreta:
 
-proposta del Ministro per il lavoro e la previdenza sociale; Decreta:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-I rapporti di lavoro costituiti per le attivita' edili ed affini per le quali sono stati stipulati, relativamente agli operai:  
-- per la provincia di Matera, il contratto collettivo integrativo 1 ottobre 1955;  
-- per la provincia di Potenza, il contratto collettivo integrativo 10 settembre 1959;  
-sono regolati da norme giuridiche uniformi alle clausole dei contratti anzidetti, annessi al presente decreto.  
-Dette norme sono integrative di quelle concernenti la disciplina nazionale della categoria, purche' con esse compatibili.  
-I minimi di trattamento economico e normativo cosi' stabiliti sono inderogabili nei confronti di tutti gli operai dipendenti dalle imprese edili ed affini delle province di Matera e Potenza.
-
-((1))
-
-Il presente decreto, munito del sigillo dello Stato sara' inserto nella Raccolta ufficiale delle leggi e de decreti della Repubblica.
--------------------------------------------------------------------------------------------------------------------------------------
-
-### italiana. E' fatto obbligo chiunque spetti di osservarlo e di farlo osservare.
-
-Dato a Roma, addi' 9 maggio 1961 GRONCHI FANFANI - SULLO
-
-Visto, il Guardasigilli: GONELLA
-
-Registrato alla Corte dei conti, addi' 4 agosto 1961
-
-Atti del Governo, registro n. 138, foglio n. 18. - DI PRETORIO
+I rapporti di lavoro costituiti per le attivita' edili ed affini per le quali sono stati stipulati, relativamente agli operai:
+ - per la provincia di Matera, il contratto collettivo integrativo 1 ottobre 1955;
+ - per la provincia di Potenza, il contratto collettivo integrativo 10 settembre 1959;
+ sono regolati da norme giuridiche uniformi alle clausole dei contratti anzidetti, annessi al presente decreto.
+ Dette norme sono integrative di quelle concernenti la disciplina nazionale della categoria, purche' con esse compatibili.
+ I minimi di trattamento economico e normativo cosi' stabiliti sono inderogabili nei confronti di tutti gli operai dipendenti dalle imprese edili ed affini delle province di Matera e Potenza.((1))
 
 ------------
 
@@ -66,27 +45,8 @@ AGGIORNAMENTO (1)
 
 La Corte Costituzionale con sentenza 1-9 giugno 1967, n. 73 (in G.U. 1a s.s. 10/06/1967, n. 144) ha dichiarato l'illegittimita' costituzionale dell'articolo unico per la parte in cui rende obbligatorio erga omnes l'accantonamento presso la Cassa edile di Potenza dei contributi dovuti per ferie, gratifica natalizia e festivita', previsti dall'art. 10 del contratto collettivo per la provincia di Potenza 1 settembre 1959.
 
-Contratti collettivi
+Il presente decreto, munito del sigillo dello Stato sara' inserto nella Raccolta ufficiale delle leggi e de decreti della Repubblica.
 
- CONTRATTO COLLETTIVO DI LAVORO I OTTOBRE 1955,   
-INTEGRATIVO DEL CONTRATTO COLLETTIVO NAZIONALE   
-DI LAVORO 18 DICEMBRE 1954, DA VALERE PER GLI OPERAI   
-ADDETTI ALLE INDUSTRIE EDILIZIA ED AFFINI   
-DELLA PROVINCIA DI MATERA   
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=061U077900100010110001&dgu=1961-08-19&art.dataPubblicazioneGazzetta=1961-08-19&art.codiceRedazionale=061U0779)
-  
-  
-  
-  
-CONTRATTO COLLETTIVO DI LAVORO I SETTEMBRE 1959,   
-INTEGRATIVO DEL CONTRATTO COLLETTIVO NAZIONALE   
-24 LUGLIO 1959, DA VALERE PER GLI OPERAI ADDETTI   
-ALLE INDUSTRIE EDILIZIA ED AFFINI DELLA PROVINCIA   
-DI POTENZA   
-  
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=061U077900100010110002&dgu=1961-08-19&art.dataPubblicazioneGazzetta=1961-08-19&art.codiceRedazionale=061U0779)
-  
+italiana. E' fatto obbligo chiunque spetti di osservarlo e di farlo osservare.
+
+Dato a Roma, addi' 9 maggio 1961 GRONCHI FANFANI - SULLO Visto, il Guardasigilli: GONELLA Registrato alla Corte dei conti, addi' 4 agosto 1961 Atti del Governo, registro n. 138, foglio n. 18. - DI PRETORIO

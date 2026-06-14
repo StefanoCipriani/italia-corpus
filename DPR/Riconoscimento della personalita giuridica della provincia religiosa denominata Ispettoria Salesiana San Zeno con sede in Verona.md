@@ -1,19 +1,21 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 10 novembre 1966 n. 1159
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 1159
+data: 1966-11-10
+titolo: "Riconoscimento della personalita' giuridica della provincia religiosa, denominata \"Ispettoria Salesiana San Zeno\", con sede in Verona."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1966-11-10;1159
+codice_redazionale: 066U1159
+vigente: true
+---
 
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 10 novembre 1966 n. 1159
-================================================================
-
-Riconoscimento della personalita' giuridica della provincia religiosa, denominata "Ispettoria Salesiana San Zeno", con sede in Verona.
---------------------------------------------------------------------------------------------------------------------------------------
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-1159. Decreto del Presidente della Repubblica 10 novembre 1966, col quale, sulla proposta del Ministro per l'interno, viene riconosciuta la personalita' giuridica della provincia religiosa, denominata "Ispettoria Salesiana San Zeno", con sede in Verona.  
-  
-Visto, il Guardasigilli: REALE  
-Registrato alla Corte dei conti, addi' 19 dicembre 1966  
-Atti del Governo, registro n. 208, foglio n. 33. - VILLA
+1159.
+
+Decreto del Presidente della Repubblica 10 novembre 1966, col quale, sulla proposta del Ministro per l'interno, viene riconosciuta la personalita' giuridica della provincia religiosa, denominata "Ispettoria Salesiana San Zeno", con sede in Verona.
+
+Visto, il Guardasigilli: REALE
+ Registrato alla Corte dei conti, addi' 19 dicembre 1966
+ Atti del Governo, registro n. 208, foglio n. 33. - VILLA

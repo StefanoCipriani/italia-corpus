@@ -1,19 +1,21 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 29 gennaio 1981 n. 77
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 908
+data: 1980-10-30
+titolo: "Autorizzazione alla fondazione \"Pro juventute don Carlo Gnocchi\", in Roma, ad accettare un legato."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1980-10-30;908
+codice_redazionale: 080U0908
+vigente: true
+---
 
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 29 gennaio 1981 n. 77
-=============================================================
-
-Autorizzazione alla fondazione "Pro juventute don Carlo Gnocchi", in Roma, ad accettare un legato.
---------------------------------------------------------------------------------------------------
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-77. Decreto del Presidente della Repubblica 29 gennaio 1981, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la fondazione "Pro juventute don Carlo Gnocchi", in Roma, viene autorizzata ad accettare il legato disposto dalla sig.ra Ternetz Paola Clara, come risulta dalla pubblicazione della disposizione testamentaria di cui all'atto in data 6 novembre 1975, n. 82341 di repertorio, n. 19156 di fascicolo, a rogito dott. Pietro Cassina, notaio in Milano, registrato a Milano il 19 novembre 1975 al n. A/4 -10727, serie M, consistente in titoli obbligazionari del complessivo valore di L. 3.000.000.  
-  
-Visto, il Guardasigilli: SARTI  
-Registrato alla Corte dei conti, addi' 12 marzo 1981  
-Registro n. 2 Presidenza, foglio n. 215
+908.
+
+Decreto del Presidente della Repubblica 30 ottobre 1980, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la fondazione "Pro juventute don Carlo Gnocchi", in Roma, viene autorizzata ad accettare il legato, consistente nella somma di lire 10.000.000, disposto a favore del centro pilota "Pro juventute a beneficio dei mutilatini di don Gnocchi" che si identifica nella fondazione "Pro juventute don Carlo Gnocchi", come ha fatto presente la fondazione medesima, dalla sig.ra Saltamerenda Jole in Sirtoli con testamento olografo 12 maggio 1972 pubblicato a rogito dott. Enrico Masini, notaio in Milano, in data 10 novembre 1978, n. 48578 di rep. e n. 13212 progress., registrato a Milano il 17 novembre 1978 al n. 19567, serie H.
+
+Visto, il Guardasigilli: SARTI
+ Registrato alla Corte dei conti, addi' 20 dicembre 1980
+ Registro n. 9 Presidenza, foglio n. 188

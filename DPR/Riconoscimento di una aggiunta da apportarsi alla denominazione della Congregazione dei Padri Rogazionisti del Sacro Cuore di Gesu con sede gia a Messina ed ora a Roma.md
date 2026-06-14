@@ -1,16 +1,16 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 01 dicembre 1948 n. 1566
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 1566
+data: 1948-12-01
+titolo: "Riconoscimento di una aggiunta da apportarsi alla denominazione della Congregazione dei Padri Rogazionisti del Sacro Cuore di Gesu', con sede gia' a Messina ed ora a Roma."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1948-12-01;1566
+codice_redazionale: 048U1566
+vigente: true
+---
 
+## Art. 1.
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 01 dicembre 1948 n. 1566
-================================================================
+N.1566. Decreto del Presidente della Repubblica 1 dicembre 1948, col quale, sulla proposta del Ministro per l'interno, viene riconosciuta l'aggiunta apportata alla denominazione della Congregazione dei Padri Rogazionisti del Sacro Cuore di Gesu' con sede gia' a Messina ed ora a Roma "detta anche degli Orfanotrofi Antoniani maschili del Canonico Annibale Maria di Francia".
 
-Riconoscimento di una aggiunta da apportarsi alla denominazione della Congregazione dei Padri Rogazionisti del Sacro Cuore di Gesu', con sede gia' a Messina ed ora a Roma.
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Art. 1
-------
-
-N.1566. Decreto del Presidente della Repubblica 1 dicembre 1948, col quale, sulla proposta del Ministro per l'interno, viene riconosciuta l'aggiunta apportata alla denominazione della Congregazione dei Padri Rogazionisti del Sacro Cuore di Gesu' con sede gia' a Messina ed ora a Roma "detta anche degli Orfanotrofi Antoniani maschili del Canonico Annibale Maria di Francia".  
-  
-Visto, il Guardasigilli: Grassi  
-Registrato alla Corte dei conti, addi' 17 gennaio 1949  
+Visto, il Guardasigilli: Grassi
+ Registrato alla Corte dei conti, addi' 17 gennaio 1949

@@ -1,14 +1,14 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 10 aprile 1978 n. 453
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 453
+data: 1978-04-10
+titolo: "Rettifica al decreto del Presidente della Repubblica 31 ottobre 1974, n. 838, concernente modificazioni allo statuto dell'Universita' degli studi dell'Aquila."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1978-04-10;453
+codice_redazionale: 078U0453
+vigente: true
+---
 
+## Art. 1.
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 10 aprile 1978 n. 453
-=============================================================
-
-Rettifica al decreto del Presidente della Repubblica 31 ottobre 1974, n. 838, concernente modificazioni allo statuto dell'Universita' degli studi dell'Aquila.
---------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Art. 1
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.L. 9 FEBBRAIO 2012, N. 5](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2012-02-09;5),   
-CONVERTITO CON MODIFICAZIONI DALLA [L. 4 APRILE 2012, N. 35](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2012-04-04;35)))
+((PROVVEDIMENTO ABROGATO DAL D.L. 9 FEBBRAIO 2012, N. 5, 
+ CONVERTITO CON MODIFICAZIONI DALLA L. 4 APRILE 2012, N. 35))

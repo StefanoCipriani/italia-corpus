@@ -1,208 +1,141 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 08 agosto 1959 n. 675
-
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 08 agosto 1959 n. 675
-=============================================================
-
-Modificazioni ad alcune voci delle tariffe postali e telegrafiche.
-------------------------------------------------------------------
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 675
+data: 1959-08-08
+titolo: "Modificazioni ad alcune voci delle tariffe postali e telegrafiche."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1959-08-08;675
+codice_redazionale: 059U0675
+vigente: true
+---
 
 IL PRESIDENTE DELLA REPUBBLICA
-------------------------------
 
-Visto l'art. 8 del Codice postale e delle telecomunicazioni, approvato con [regio decreto 27 febbraio 1936, n. 645](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1936-02-27;645);
+Visto l'art. 8 del Codice postale e delle telecomunicazioni, approvato con [regio decreto 27 febbraio 1936, n. 645](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1936-02-27;645);
 
-Visto il [decreto del Presidente della Repubblica 2 agosto 1948, n. 1052](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1948-08-02;1052);
+Visto il [decreto del Presidente della Repubblica 2 agosto 1948, n. 1052](Tariffe%20postali%20per%20linterno%20della%20Repubblica.md);
 
-Visto il [decreto del Presidente della Repubblica 5 aprile 1949, n. 111](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1949-04-05;111);
+Visto il [decreto del Presidente della Repubblica 5 aprile 1949, n. 111](Variazioni%20al%20decreto%20del%20Presidente%20della%20Repubblica%202%20agosto%201948%20n.%201052%20concernente%20le%20tariffe%20postali%20per%20linterno%20della%20Repubblica.md);
 
-Visto il [decreto del Presidente della Repubblica 22 gennaio 1950, n. 193](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1950-01-22;193);
+Visto il [decreto del Presidente della Repubblica 22 gennaio 1950, n. 193](Modificazioni%20alle%20tariffe%20dei%20pacchi%20postali%20ed%20istituzione%20di%20un%20diritto%20di%20ricevuta%20nei%20servizi%20della%20corrispondenza%20pacchi%20e%20vaglia.md);
 
-Visto il [decreto del Presidente della Repubblica 29 giugno 1951, n. 582](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-06-29;582);
+Visto il [decreto del Presidente della Repubblica 29 giugno 1951, n. 582](Variazioni%20alle%20tariffe%20postali%20per%20linterno%20della%20Repubblica.md);
 
-Visto il [decreto del Presidente della Repubblica 29 giugno 1951, n. 583](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-06-29;583);
+Visto il [decreto del Presidente della Repubblica 29 giugno 1951, n. 583](Variazioni%20delle%20tariffe%20telegrafiche%20per%20linterno%20della%20Repubblica.md);
 
-Visto il [decreto del Presidente della Repubblica 2 agosto 1952, n. 1316](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1952-08-02;1316);
+Visto il [decreto del Presidente della Repubblica 2 agosto 1952, n. 1316](Variazioni%20ad%20alcune%20voci%20delle%20tariffe%20postali%20per%20linterno.md);
 
-Visto il [decreto del Presidente della Repubblica 30 giugno 1954, n. 819](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1954-06-30;819);
+Visto il [decreto del Presidente della Repubblica 30 giugno 1954, n. 819](Modificazione%20alla%20voce%202%20della%20tabella%20n.%201%20delle%20tariffe%20postali%20allegata%20al%20decreto%20del%20Presidente%20della%20Repubblica%2029%20giugno%201951%20n.%20582.md);
 
-Visto il [decreto del Presidente della Repubblica 10 ottobre 1955, n. 1099](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1955-10-10;1099);
+Visto il [decreto del Presidente della Repubblica 10 ottobre 1955, n. 1099](Modificazioni%20ad%20alcune%20voci%20delle%20tariffe%20postali%20ed%20ai%20limiti%20di%20peso%20dimensione%20valore%20e%20assegno%20per%20gli%20oggetti%20affidati%20allAmministrazione%20delle%20poste%20e%20per%20le%20operazioni%20ad%20essa%20richieste.md);
 
-Visto il [decreto del Presidente della Repubblica 20 marzo 1957, n. 333](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1957-03-20;333);
+Visto il [decreto del Presidente della Repubblica 20 marzo 1957, n. 333](Tariffa%20per%20la%20spedizione%20degli%20estratti%20di%20conto%20delle%20Amministrazioni%20dei%20giornali%20e%20delle%20cedole%20di%20commissioni%20librarie%20dirette%20alle%20Amministrazioni%20dei%20giornali.md);
 
-Visto il [decreto del Presidente della Repubblica 24 marzo 1957, n. 366](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1957-03-24;366);
+Visto il [decreto del Presidente della Repubblica 24 marzo 1957, n. 366](Determinazione%20dei%20tagli%20dei%20vaglia%20postali%20a%20taglio%20fisso%20e%20delle%20relative%20tasse.md);
 
-Visto il [decreto del Presidente della Repubblica 5 settembre 1957, n. 855](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1957-09-05;855);
+Visto il [decreto del Presidente della Repubblica 5 settembre 1957, n. 855](Modificazioni%20ad%20alcune%20voci%20delle%20tariffe%20postali%20e%20telegrafiche.md);
 
 Sentito il Consiglio di amministrazione delle poste e delle telecomunicazioni;
 
 Sentito il Consiglio dei Ministri;
 
-Sulla
------
+Sulla proposta del Ministro per le poste e le telecomunicazioni, di concerto con quello per il tesoro; Decreta:
 
-proposta del Ministro per le poste e le telecomunicazioni, di concerto con quello per il tesoro; Decreta:
+## Art. 1.
 
-Art. 1
-------
+Nelle tabelle numeri 1 e 2 allegate al [decreto del Presidente della Repubblica 2 agosto 1948, n. 1052](Tariffe%20postali%20per%20linterno%20della%20Repubblica.md), concernenti, rispettivamente, le tariffe postali per l'interno della Repubblica ed i limiti di peso, dimensioni, valore ed assegno per gli oggetti affidati all'Amministrazione delle poste e delle telecomunicazioni e per le operazioni ad essa, richieste, gia' modificate con i [decreti del Presidente della Repubblica 5 aprile 1949, n. 111](Variazioni%20al%20decreto%20del%20Presidente%20della%20Repubblica%202%20agosto%201948%20n.%201052%20concernente%20le%20tariffe%20postali%20per%20linterno%20della%20Repubblica.md); [22 gennaio 1950, n. 193](Modificazioni%20alle%20tariffe%20dei%20pacchi%20postali%20ed%20istituzione%20di%20un%20diritto%20di%20ricevuta%20nei%20servizi%20della%20corrispondenza%20pacchi%20e%20vaglia.md); [29 giugno 1951, n. 582](Variazioni%20alle%20tariffe%20postali%20per%20linterno%20della%20Repubblica.md); [2 agosto 1952, n. 1316](Variazioni%20ad%20alcune%20voci%20delle%20tariffe%20postali%20per%20linterno.md); [30 giugno 1954, n. 819](Modificazione%20alla%20voce%202%20della%20tabella%20n.%201%20delle%20tariffe%20postali%20allegata%20al%20decreto%20del%20Presidente%20della%20Repubblica%2029%20giugno%201951%20n.%20582.md); [10 ottobre 1955, n. 1099](Modificazioni%20ad%20alcune%20voci%20delle%20tariffe%20postali%20ed%20ai%20limiti%20di%20peso%20dimensione%20valore%20e%20assegno%20per%20gli%20oggetti%20affidati%20allAmministrazione%20delle%20poste%20e%20per%20le%20operazioni%20ad%20essa%20richieste.md); [20 marzo 1957, n. 333](Tariffa%20per%20la%20spedizione%20degli%20estratti%20di%20conto%20delle%20Amministrazioni%20dei%20giornali%20e%20delle%20cedole%20di%20commissioni%20librarie%20dirette%20alle%20Amministrazioni%20dei%20giornali.md); [24 marzo 1957, n. 366](Determinazione%20dei%20tagli%20dei%20vaglia%20postali%20a%20taglio%20fisso%20e%20delle%20relative%20tasse.md); [5 settembre 1957, n. 855](Modificazioni%20ad%20alcune%20voci%20delle%20tariffe%20postali%20e%20telegrafiche.md), sono apportate le variazioni di cui agli articoli seguenti.
 
-  
-Nelle tabelle numeri 1 e 2 allegate al [decreto del Presidente della Repubblica 2 agosto 1948, n. 1052](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1948-08-02;1052), concernenti, rispettivamente, le tariffe postali per l'interno della Repubblica ed i limiti di peso, dimensioni, valore ed assegno per gli oggetti affidati all'Amministrazione delle poste e delle telecomunicazioni e per le operazioni ad essa, richieste, gia' modificate con i [decreti del Presidente della Repubblica 5 aprile 1949, n. 111](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1949-04-05;111); [22 gennaio 1950, n. 193](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1950-01-22;193); [29 giugno 1951, n. 582](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-06-29;582); [2 agosto 1952, n. 1316](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1952-08-02;1316); [30 giugno 1954, n. 819](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1954-06-30;819); [10 ottobre 1955, n. 1099](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1955-10-10;1099); [20 marzo 1957, n. 333](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1957-03-20;333); [24 marzo 1957, n. 366](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1957-03-24;366); [5 settembre 1957, n. 855](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1957-09-05;855), sono apportate le variazioni di cui agli articoli seguenti.  
+## Art. 2.
 
-Art. 2
-------
+La voce n. 15 della tabella 1 allegata al [decreto del Presidente della Repubblica 2 agosto 1948, n. 1052](Tariffe%20postali%20per%20linterno%20della%20Repubblica.md) e successive variazioni, e' soppressa.
 
-  
-La voce n. 15 della tabella 1 allegata al [decreto del Presidente della Repubblica 2 agosto 1948, n. 1052](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1948-08-02;1052) e successive variazioni, e' soppressa.  
+## Art. 3.
 
-Art. 3
-------
+La numerazione delle voci 7, 8, 8-bis, 9, 10, 12, 13, 14, 16, 17, 18, 19, 20, 21, 22, 24, 25, 26, 27, 28, 29, 30, 31, 35, 36, 36-bis, 38, 41, 45, 46, 50, 51, 52, 57 della tabella 1 allegata al [decreto del Presidente della Repubblica 2 agosto 1948, n. 1052](Tariffe%20postali%20per%20linterno%20della%20Repubblica.md), e successive variazioni e' sostituita dalla seguente:
 
-  
-La numerazione delle voci 7, 8, 8-bis, 9, 10, 12, 13, 14, 16, 17, 18, 19, 20, 21, 22, 24, 25, 26, 27, 28, 29, 30, 31, 35, 36, 36-bis, 38, 41, 45, 46, 50, 51, 52, 57 della tabella 1 allegata al [decreto del Presidente della Repubblica 2 agosto 1948, n. 1052](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1948-08-02;1052), e successive variazioni e' sostituita dalla seguente:  
-  
-il n. 7 e' sostituito dal n. 8  
-il n. 8 e' sostituito dal n. 9  
-il n. 8-bis e' sostituito dal n. 10  
-il n. 9 e' sostituito dal n. 11  
-il n. 10 e' sostituito dal n. 12  
-il n. 12 e' sostituito dal n. 14  
-il n. 13 e' sostituito dal n. 15  
-il n. 14 e' sostituito dal n. 16  
-il n. 16 e' sostituito dal n. 17  
-il n. 17 e' sostituito dal n. 18  
-il n. 18 e' sostituito dal n. 19  
-il n. 19 e' sostituito dal n. 20  
-il n. 20 e' sostituito dal n. 21  
-il n. 21 e' sostituito dal n. 22  
-il n. 22 e' sostituito dal n. 23  
-il n. 24 e' sostituito dal n. 25  
-il n. 25 e' sostituito dal n. 26  
-il n. 26 e' sostituito dal n. 27  
-il n. 27 e' sostituito dal n. 28  
-il n. 28 e' sostituito dal n. 29  
-il n. 29 e' sostituito dal n. 30  
-il n. 30 e' sostituito dal n. 31  
-il n. 31 e' sostituito dal n. 32  
-il n. 35 e' sostituito dal n. 36  
-il n. 36 e' sostituito dal n. 37  
-il n. 36 bis e' sostituito dal n. 38  
-il n. 38 e' sostituito dal n. 40  
-il n. 41 e' sostituito dal n. 44  
-il n. 45 e' sostituito dal n. 48  
-il n. 46 e' sostituito dal n. 49  
-il n. 50 e' sostituito dal n. 55  
-il n. 51 e' sostituito dal n. 56  
-il n. 52 e' sostituito dal n. 57  
-il n. 57 e' sostituito dal n. 63  
+ il n. 7 e' sostituito dal n. 8
+ il n. 8 e' sostituito dal n. 9
+ il n. 8-bis e' sostituito dal n. 10
+ il n. 9 e' sostituito dal n. 11
+ il n. 10 e' sostituito dal n. 12
+ il n. 12 e' sostituito dal n. 14
+ il n. 13 e' sostituito dal n. 15
+ il n. 14 e' sostituito dal n. 16
+ il n. 16 e' sostituito dal n. 17
+ il n. 17 e' sostituito dal n. 18
+ il n. 18 e' sostituito dal n. 19
+ il n. 19 e' sostituito dal n. 20
+ il n. 20 e' sostituito dal n. 21
+ il n. 21 e' sostituito dal n. 22
+ il n. 22 e' sostituito dal n. 23
+ il n. 24 e' sostituito dal n. 25
+ il n. 25 e' sostituito dal n. 26
+ il n. 26 e' sostituito dal n. 27
+ il n. 27 e' sostituito dal n. 28
+ il n. 28 e' sostituito dal n. 29
+ il n. 29 e' sostituito dal n. 30
+ il n. 30 e' sostituito dal n. 31
+ il n. 31 e' sostituito dal n. 32
+ il n. 35 e' sostituito dal n. 36
+ il n. 36 e' sostituito dal n. 37
+ il n. 36 bis e' sostituito dal n. 38
+ il n. 38 e' sostituito dal n. 40
+ il n. 41 e' sostituito dal n. 44
+ il n. 45 e' sostituito dal n. 48
+ il n. 46 e' sostituito dal n. 49
+ il n. 50 e' sostituito dal n. 55
+ il n. 51 e' sostituito dal n. 56
+ il n. 52 e' sostituito dal n. 57
+ il n. 57 e' sostituito dal n. 63
 
-Art. 4
-------
+## Art. 4.
 
-  
-Le voci n. 3, 11, 23, 32, 33, 34, 37, 39, 40, 40-bis, 42, 43, 44, 46-bis, 47, 48, 49, 53, 54, 55 e 56 della tabella 1 allegata al [decreto del Presidente della Repubblica 2 agosto 1948, n. 1052](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1948-08-02;1052), e successive variazioni, sono sostituite dalle seguenti voci di cui all'allegato A al presente decreto, firmato dal Ministro per le poste e le telecomunicazioni:  
-la voce n. 3 dalla voce n. 3  
-la voce n. 11 dalla voce n. 13  
-la voce n. 23 dalla voce n. 24  
-la voce n. 32 dalla voce n. 33  
-la voce n. 33 dalla voce n. 34  
-la voce n. 34 dalla voce n. 35  
-la voce n. 37 dalla voce n. 39  
-la voce n. 39 dalla voce n. 41  
-la voce n. 40 dalla voce n. 42  
-la voce n. 40-bis dalla voce n. 43  
-la voce n. 42 dalla voce n. 45  
-la voce n. 43 dalla voce n. 46  
-la voce n. 44 dalla voce n. 47  
-la voce n. 46-bis dalla voce n. 50  
-la voce n. 47 dalla voce n. 51  
-la voce n. 48 dalla voce n. 53  
-la voce n. 49 dalla voce n. 54  
-la voce n. 53 dalla voce n. 58  
-la voce n. 54 dalla voce n. 59  
-la voce n. 55 dalla voce n. 60  
-la voce n. 56 dalla voce n. 61  
-  
-Nella predetta tabella 1 sono inserite le nuovi voci numeri 7, 52 e 62 di cui al medesimo allegato A al presente decreto.  
+Le voci n. 3, 11, 23, 32, 33, 34, 37, 39, 40, 40-bis, 42, 43, 44, 46-bis, 47, 48, 49, 53, 54, 55 e 56 della tabella 1 allegata al [decreto del Presidente della Repubblica 2 agosto 1948, n. 1052](Tariffe%20postali%20per%20linterno%20della%20Repubblica.md), e successive variazioni, sono sostituite dalle seguenti voci di cui all'allegato A al presente decreto, firmato dal Ministro per le poste e le telecomunicazioni:
+ la voce n. 3 dalla voce n. 3
+ la voce n. 11 dalla voce n. 13
+ la voce n. 23 dalla voce n. 24
+ la voce n. 32 dalla voce n. 33
+ la voce n. 33 dalla voce n. 34
+ la voce n. 34 dalla voce n. 35
+ la voce n. 37 dalla voce n. 39
+ la voce n. 39 dalla voce n. 41
+ la voce n. 40 dalla voce n. 42
+ la voce n. 40-bis dalla voce n. 43
+ la voce n. 42 dalla voce n. 45
+ la voce n. 43 dalla voce n. 46
+ la voce n. 44 dalla voce n. 47
+ la voce n. 46-bis dalla voce n. 50
+ la voce n. 47 dalla voce n. 51
+ la voce n. 48 dalla voce n. 53
+ la voce n. 49 dalla voce n. 54
+ la voce n. 53 dalla voce n. 58
+ la voce n. 54 dalla voce n. 59
+ la voce n. 55 dalla voce n. 60
+ la voce n. 56 dalla voce n. 61
 
-Art. 5
-------
+ Nella predetta tabella 1 sono inserite le nuovi voci numeri 7, 52 e 62 di cui al medesimo allegato A al presente decreto.
 
-  
-Nella tabella 2 allegata al [decreto del Presidente della Repubblica 2 agosto 1948, n. 1052](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1948-08-02;1052), e successive variazioni, sono apportate le seguenti modificazioni:  
-Nella rubrica "Dimensioni massime" la numerazione delle voci 5, 6 e 7 e' sostituita dalla seguente: il n. 5 e' sostituito dal n. 6 - il n. G e' sostituito dal n. 7 - il n. 7 e' sostituito dal n. 8.  
-Le voci 8 e 9 della rubrica "Limiti massimi di peso", le voci 1 e 4 della rubrica "Dimensioni massime", le voci n. 3 lettera a) e n. 5 della rubrica "Limiti di valore e di assegno", sono sostituite dalle corrispondenti voci di cui all'allegato B al presente decreto, firmato dal Ministro per le poste e le telecomunicazioni.  
-Nella predetta rubrica "Dimensioni massime" e' inserita la nuova voce n. 5 di cui al medesimo allegato B al presente decreto.  
+## Art. 5.
 
-Art. 6
-------
+Nella tabella 2 allegata al [decreto del Presidente della Repubblica 2 agosto 1948, n. 1052](Tariffe%20postali%20per%20linterno%20della%20Repubblica.md), e successive variazioni, sono apportate le seguenti modificazioni:
+ Nella rubrica "Dimensioni massime" la numerazione delle voci 5, 6 e 7 e' sostituita dalla seguente: il n. 5 e' sostituito dal n. 6 - il n. G e' sostituito dal n. 7 - il n. 7 e' sostituito dal n. 8.
+ Le voci 8 e 9 della rubrica "Limiti massimi di peso", le voci 1 e 4 della rubrica "Dimensioni massime", le voci n. 3 lettera a) e n. 5 della rubrica "Limiti di valore e di assegno", sono sostituite dalle corrispondenti voci di cui all'allegato B al presente decreto, firmato dal Ministro per le poste e le telecomunicazioni.
+ Nella predetta rubrica "Dimensioni massime" e' inserita la nuova voce n. 5 di cui al medesimo allegato B al presente decreto.
 
-  
-La tabella A, allegata al [decreto del Presidente della Repubblica 29 giugno 1951, n. 583](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-06-29;583), tabella concernente le tariffe telegrafiche per l'interno per i servizi ordinari, gia' modificata con il [decreto del Presidente della Repubblica 5 settembre 1957, n. 855](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1957-09-05;855), e' sostituita dalla tabella A di cui all'allegato C al presente decreto, firmato dal Ministro per le poste e le telecomunicazioni.  
+## Art. 6.
 
-Art. 7
-------
+La tabella A, allegata al [decreto del Presidente della Repubblica 29 giugno 1951, n. 583](Variazioni%20delle%20tariffe%20telegrafiche%20per%20linterno%20della%20Repubblica.md), tabella concernente le tariffe telegrafiche per l'interno per i servizi ordinari, gia' modificata con il [decreto del Presidente della Repubblica 5 settembre 1957, n. 855](Modificazioni%20ad%20alcune%20voci%20delle%20tariffe%20postali%20e%20telegrafiche.md), e' sostituita dalla tabella A di cui all'allegato C al presente decreto, firmato dal Ministro per le poste e le telecomunicazioni.
 
-  
-Il diritto di ricevuta, di cui all'[art. 5 del decreto del Presidente della Repubblica 22 gennaio 1950, n. 193](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1950-01-22;193~art5), per l'accettazione di raccomandate, assicurate e pacchi e per la emissione dei vaglia e' conglobato nelle tariffe previste per le corrispondenti voci della tabella 1 allegata al [decreto del Presidente della Repubblica 2 agosto 1948, n. 1052](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1948-08-02;1052), e successive variazioni, modificata ai sensi dell'art. 4 del presente decreto, restando cosi' soppressa la relativa voce.  
-Il diritto di ricevuta per i telegrammi interni ed internazionali di cui al citato [art. 5 del decreto del Presidente della Repubblica 22 gennaio 1950, n. 193](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1950-01-22;193~art5), e' conglobato, per i telegrammi interni, nelle tariffe previste nella tabella A di cui all'allegato C al presente decreto.  
+## Art. 7.
 
-Art. 8
-------
+Il diritto di ricevuta, di cui all'[art. 5 del decreto del Presidente della Repubblica 22 gennaio 1950, n. 193](Modificazioni%20alle%20tariffe%20dei%20pacchi%20postali%20ed%20istituzione%20di%20un%20diritto%20di%20ricevuta%20nei%20servizi%20della%20corrispondenza%20pacchi%20e%20vaglia.md), per l'accettazione di raccomandate, assicurate e pacchi e per la emissione dei vaglia e' conglobato nelle tariffe previste per le corrispondenti voci della tabella 1 allegata al [decreto del Presidente della Repubblica 2 agosto 1948, n. 1052](Tariffe%20postali%20per%20linterno%20della%20Repubblica.md), e successive variazioni, modificata ai sensi dell'art. 4 del presente decreto, restando cosi' soppressa la relativa voce.
+ Il diritto di ricevuta per i telegrammi interni ed internazionali di cui al citato [art. 5 del decreto del Presidente della Repubblica 22 gennaio 1950, n. 193](Modificazioni%20alle%20tariffe%20dei%20pacchi%20postali%20ed%20istituzione%20di%20un%20diritto%20di%20ricevuta%20nei%20servizi%20della%20corrispondenza%20pacchi%20e%20vaglia.md), e' conglobato, per i telegrammi interni, nelle tariffe previste nella tabella A di cui all'allegato C al presente decreto.
 
-  
-Il presente decreto avra' effetto dal 1 settembre 1959, salvo le modificazioni tariffarie previste alla voce n. 13 dell'allegato A, che avranno effetto dal 1 gennaio 1960.  
-  
+## Art. 8.
+
+Il presente decreto avra' effetto dal 1 settembre 1959, salvo le modificazioni tariffarie previste alla voce n. 13 dell'allegato A, che avranno effetto dal 1 gennaio 1960.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 8 agosto 1959
+Dato a Roma, addi' 8 agosto 1959
 
-GRONCHI SEGNI - SPATARO - TAMBRONI
-
-Visto, il Guardasigilli: GONELLA
-
-Registrato alla Corte dei conti, addi' 22 agosto 1959
-
-Atti del Governo, registro n. 120, foglio n. 67. - VILLA
-
-Allegato A
-
- ALLEGATO A   
-  
-TABELLA 1   
-  
-Tariffe postali per l'interno   
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=059U067500100010110001&dgu=1959-08-27&art.dataPubblicazioneGazzetta=1959-08-27&art.codiceRedazionale=059U0675)
-  
-
-Allegato B
-
- ALLEGATO B   
-  
-LIMITI DI PESO, DIMENSIONI, VALORE ED ASSEGNO   
-  
-Tabella 2   
-  
-LIMITI MASSIMI DI PESO   
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=059U067500200010110001&dgu=1959-08-27&art.dataPubblicazioneGazzetta=1959-08-27&art.codiceRedazionale=059U0675)
-  
-
-Allegato C
-
- ALLEGATO C   
-  
-Tariffe telegrafiche per l'interno   
-  
-Tabella A   
-  
-TARIFFE TELEGRAFICHE PER I SERVIZI ORDINARI   
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=059U067500300010110001&dgu=1959-08-27&art.dataPubblicazioneGazzetta=1959-08-27&art.codiceRedazionale=059U0675)
-  
+GRONCHI SEGNI - SPATARO - TAMBRONI Visto, il Guardasigilli: GONELLA Registrato alla Corte dei conti, addi' 22 agosto 1959 Atti del Governo, registro n. 120, foglio n. 67. - VILLA

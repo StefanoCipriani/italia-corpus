@@ -1,365 +1,377 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 07 gennaio 1956 n. 164
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 164
+data: 1956-01-07
+titolo: "Norme per la prevenzione degli infortuni sul lavoro nelle costruzioni."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1956-01-07;164
+codice_redazionale: 056U0164
+vigente: true
+---
 
+## CAMPO DI APPLICAZIONE
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 07 gennaio 1956 n. 164
-==============================================================
+CAPO I
 
-Norme per la prevenzione degli infortuni sul lavoro nelle costruzioni.
-----------------------------------------------------------------------
+### Art. 1.
 
-CAPO I CAPO I CAMPO DI APPLICAZIONE
------------------------------------
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 9 APRILE 2008, N. 81))
 
-### Art. 1
+### Art. 2.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 9 APRILE 2008, N. 81](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-04-09;81)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 9 APRILE 2008, N. 81))
 
-### Art. 2
+### Art. 3.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 9 APRILE 2008, N. 81](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-04-09;81)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 9 APRILE 2008, N. 81))
 
-### Art. 3
+## DISPOSIZIONI DI CARATTERE GENERALE
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 9 APRILE 2008, N. 81](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-04-09;81)))
+CAPO II
 
-CAPO II CAPO II DISPOSIZIONI DI CARATTERE GENERALE
---------------------------------------------------
+### Art. 4.
 
-### Art. 4
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 9 APRILE 2008, N. 81))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 9 APRILE 2008, N. 81](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-04-09;81)))
+### Art. 5.
 
-### Art. 5
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 9 APRILE 2008, N. 81))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 9 APRILE 2008, N. 81](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-04-09;81)))
+### Art. 6.
 
-### Art. 6
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 9 APRILE 2008, N. 81))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 9 APRILE 2008, N. 81](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-04-09;81)))
+### Art. 7.
 
-### Art. 7
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 9 APRILE 2008, N. 81))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 9 APRILE 2008, N. 81](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-04-09;81)))
+### Art. 8.
 
-### Art. 8
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 9 APRILE 2008, N. 81))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 9 APRILE 2008, N. 81](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-04-09;81)))
+### Art. 9.
 
-### Art. 9
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 9 APRILE 2008, N. 81))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 9 APRILE 2008, N. 81](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-04-09;81)))
+### Art. 10.
 
-### Art. 10
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 9 APRILE 2008, N. 81))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 9 APRILE 2008, N. 81](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-04-09;81)))
+### Art. 11.
 
-### Art. 11
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 9 APRILE 2008, N. 81))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 9 APRILE 2008, N. 81](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-04-09;81)))
+## SCAVI E  FONDAZIONI
 
-CAPO III CAPO III SCAVI E FONDAZIONI
-------------------------------------
+CAPO III
 
-### Art. 12
+### Art. 12.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 9 APRILE 2008, N. 81](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-04-09;81)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 9 APRILE 2008, N. 81))
 
-### Art. 13
+### Art. 13.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 9 APRILE 2008, N. 81](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-04-09;81)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 9 APRILE 2008, N. 81))
 
-### Art. 14
+### Art. 14.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 9 APRILE 2008, N. 81](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-04-09;81)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 9 APRILE 2008, N. 81))
 
-### Art. 15
+### Art. 15.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 9 APRILE 2008, N. 81](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-04-09;81)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 9 APRILE 2008, N. 81))
 
-CAPO IV CAPO IV PONTEGGI E IMPALCATURE IN LEGNAME
--------------------------------------------------
+## PONTEGGI E IMPALCATURE IN LEGNAME
 
-### Art. 16
+CAPO IV
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 9 APRILE 2008, N. 81](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-04-09;81)))
+### Art. 16.
 
-### Art. 17
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 9 APRILE 2008, N. 81))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 9 APRILE 2008, N. 81](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-04-09;81)))
+### Art. 17.
 
-### Art. 18
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 9 APRILE 2008, N. 81))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 9 APRILE 2008, N. 81](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-04-09;81)))
+### Art. 18.
 
-### Art. 19
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 9 APRILE 2008, N. 81))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 9 APRILE 2008, N. 81](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-04-09;81)))
+### Art. 19.
 
-### Art. 20
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 9 APRILE 2008, N. 81))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 9 APRILE 2008, N. 81](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-04-09;81)))
+### Art. 20.
 
-### Art. 21
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 9 APRILE 2008, N. 81))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 9 APRILE 2008, N. 81](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-04-09;81)))
+### Art. 21.
 
-### Art. 22
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 9 APRILE 2008, N. 81))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 9 APRILE 2008, N. 81](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-04-09;81)))
+### Art. 22.
 
-### Art. 23
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 9 APRILE 2008, N. 81))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 9 APRILE 2008, N. 81](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-04-09;81)))
+### Art. 23.
 
-### Art. 24
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 9 APRILE 2008, N. 81))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 9 APRILE 2008, N. 81](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-04-09;81)))
+### Art. 24.
 
-### Art. 25
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 9 APRILE 2008, N. 81))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 9 APRILE 2008, N. 81](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-04-09;81)))
+### Art. 25.
 
-### Art. 26
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 9 APRILE 2008, N. 81))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 9 APRILE 2008, N. 81](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-04-09;81)))
+### Art. 26.
 
-### Art. 27
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 9 APRILE 2008, N. 81))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 9 APRILE 2008, N. 81](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-04-09;81)))
+### Art. 27.
 
-### Art. 28
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 9 APRILE 2008, N. 81))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 9 APRILE 2008, N. 81](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-04-09;81)))
+### Art. 28.
 
-### Art. 29
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 9 APRILE 2008, N. 81))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 9 APRILE 2008, N. 81](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-04-09;81)))
+### Art. 29.
 
-CAPO V CAPO V PONTEGGI METALLICI FISSI
---------------------------------------
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 9 APRILE 2008, N. 81))
 
-### Art. 30
+## PONTEGGI METALLICI FISSI
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 9 APRILE 2008, N. 81](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-04-09;81)))
+CAPO V
 
-### Art. 31
+### Art. 30.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 9 APRILE 2008, N. 81](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-04-09;81)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 9 APRILE 2008, N. 81))
 
-### Art. 32
+### Art. 31.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 9 APRILE 2008, N. 81](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-04-09;81)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 9 APRILE 2008, N. 81))
 
-### Art. 33
+### Art. 32.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 9 APRILE 2008, N. 81](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-04-09;81)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 9 APRILE 2008, N. 81))
 
-### Art. 34
+### Art. 33.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 9 APRILE 2008, N. 81](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-04-09;81)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 9 APRILE 2008, N. 81))
 
-### Art. 35
+### Art. 34.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 9 APRILE 2008, N. 81](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-04-09;81)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 9 APRILE 2008, N. 81))
 
-### Art. 36
+### Art. 35.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 9 APRILE 2008, N. 81](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-04-09;81)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 9 APRILE 2008, N. 81))
 
-### Art. 37
+### Art. 36.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 9 APRILE 2008, N. 81](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-04-09;81)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 9 APRILE 2008, N. 81))
 
-### Art. 38
+### Art. 37.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 9 APRILE 2008, N. 81](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-04-09;81)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 9 APRILE 2008, N. 81))
 
-CAPO VI CAPO VI PONTEGGI MOVIBILI
----------------------------------
+### Art. 38.
 
-### Art. 39
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 9 APRILE 2008, N. 81))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 9 APRILE 2008, N. 81](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-04-09;81)))
+## PONTEGGI MOVIBILI
 
-### Art. 40
+CAPO VI
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 9 APRILE 2008, N. 81](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-04-09;81)))
+### Art. 39.
 
-### Art. 41
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 9 APRILE 2008, N. 81))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 9 APRILE 2008, N. 81](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-04-09;81)))
+### Art. 40.
 
-### Art. 42
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 9 APRILE 2008, N. 81))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 9 APRILE 2008, N. 81](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-04-09;81)))
+### Art. 41.
 
-### Art. 43
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 9 APRILE 2008, N. 81))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 9 APRILE 2008, N. 81](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-04-09;81)))
+### Art. 42.
 
-### Art. 44
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 9 APRILE 2008, N. 81))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 9 APRILE 2008, N. 81](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-04-09;81)))
+### Art. 43.
 
-### Art. 45
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 9 APRILE 2008, N. 81))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 9 APRILE 2008, N. 81](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-04-09;81)))
+### Art. 44.
 
-### Art. 46
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 9 APRILE 2008, N. 81))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 9 APRILE 2008, N. 81](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-04-09;81)))
+### Art. 45.
 
-### Art. 47
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 9 APRILE 2008, N. 81))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 9 APRILE 2008, N. 81](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-04-09;81)))
+### Art. 46.
 
-### Art. 48
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 9 APRILE 2008, N. 81))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 9 APRILE 2008, N. 81](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-04-09;81)))
+### Art. 47.
 
-### Art. 49
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 9 APRILE 2008, N. 81))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 9 APRILE 2008, N. 81](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-04-09;81)))
+### Art. 48.
 
-### Art. 50
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 9 APRILE 2008, N. 81))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 9 APRILE 2008, N. 81](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-04-09;81)))
+### Art. 49.
 
-### Art. 51
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 9 APRILE 2008, N. 81))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 9 APRILE 2008, N. 81](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-04-09;81)))
+### Art. 50.
 
-### Art. 52
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 9 APRILE 2008, N. 81))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 9 APRILE 2008, N. 81](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-04-09;81)))
+### Art. 51.
 
-### Art. 53
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 9 APRILE 2008, N. 81))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 9 APRILE 2008, N. 81](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-04-09;81)))
+### Art. 52.
 
-### Art. 54
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 9 APRILE 2008, N. 81))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 9 APRILE 2008, N. 81](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-04-09;81)))
+### Art. 53.
 
-CAPO VII CAPO VII TRASPORTO DEI MATERIALI
------------------------------------------
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 9 APRILE 2008, N. 81))
 
-### Art. 55
+### Art. 54.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 9 APRILE 2008, N. 81](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-04-09;81)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 9 APRILE 2008, N. 81))
 
-### Art. 56
+## TRASPORTO DEI MATERIALI
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 9 APRILE 2008, N. 81](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-04-09;81)))
+CAPO VII
 
-### Art. 57
+### Art. 55.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 9 APRILE 2008, N. 81](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-04-09;81)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 9 APRILE 2008, N. 81))
 
-### Art. 58
+### Art. 56.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 9 APRILE 2008, N. 81](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-04-09;81)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 9 APRILE 2008, N. 81))
 
-### Art. 59
+### Art. 57.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 9 APRILE 2008, N. 81](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-04-09;81)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 9 APRILE 2008, N. 81))
 
-### Art. 60
+### Art. 58.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 9 APRILE 2008, N. 81](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-04-09;81)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 9 APRILE 2008, N. 81))
 
-### Art. 61
+### Art. 59.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 9 APRILE 2008, N. 81](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-04-09;81)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 9 APRILE 2008, N. 81))
 
-### Art. 62
+### Art. 60.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 9 APRILE 2008, N. 81](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-04-09;81)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 9 APRILE 2008, N. 81))
 
-CAPO VIII CAPO VIII COSTRUZIONI EDILIZIE
-----------------------------------------
+### Art. 61.
 
-### Art. 63
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 9 APRILE 2008, N. 81))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 9 APRILE 2008, N. 81](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-04-09;81)))
+### Art. 62.
 
-### Art. 64
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 9 APRILE 2008, N. 81))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 9 APRILE 2008, N. 81](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-04-09;81)))
+## COSTRUZIONI EDILIZIE
 
-### Art. 65
+CAPO VIII
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 9 APRILE 2008, N. 81](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-04-09;81)))
+### Art. 63.
 
-### Art. 66
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 9 APRILE 2008, N. 81))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 9 APRILE 2008, N. 81](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-04-09;81)))
+### Art. 64.
 
-### Art. 67
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 9 APRILE 2008, N. 81))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 9 APRILE 2008, N. 81](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-04-09;81)))
+### Art. 65.
 
-### Art. 68
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 9 APRILE 2008, N. 81))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 9 APRILE 2008, N. 81](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-04-09;81)))
+### Art. 66.
 
-### Art. 69
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 9 APRILE 2008, N. 81))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 9 APRILE 2008, N. 81](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-04-09;81)))
+### Art. 67.
 
-### Art. 70
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 9 APRILE 2008, N. 81))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 9 APRILE 2008, N. 81](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-04-09;81)))
+### Art. 68.
 
-CAPO IX CAPO IX DEMOLIZIONI
----------------------------
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 9 APRILE 2008, N. 81))
 
-### Art. 71
+### Art. 69.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 9 APRILE 2008, N. 81](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-04-09;81)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 9 APRILE 2008, N. 81))
 
-### Art. 72
+### Art. 70.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 9 APRILE 2008, N. 81](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-04-09;81)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 9 APRILE 2008, N. 81))
 
-### Art. 73
+## DEMOLIZIONI
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 9 APRILE 2008, N. 81](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-04-09;81)))
+CAPO IX
 
-### Art. 74
+### Art. 71.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 9 APRILE 2008, N. 81](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-04-09;81)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 9 APRILE 2008, N. 81))
 
-### Art. 75
+### Art. 72.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 9 APRILE 2008, N. 81](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-04-09;81)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 9 APRILE 2008, N. 81))
 
-### Art. 76
+### Art. 73.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 9 APRILE 2008, N. 81](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-04-09;81)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 9 APRILE 2008, N. 81))
 
-CAPO X CAPO X NORME PENALI
---------------------------
+### Art. 74.
 
-### Art. 77
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 9 APRILE 2008, N. 81))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 9 APRILE 2008, N. 81](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-04-09;81)))
+### Art. 75.
 
-### Art. 78
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 9 APRILE 2008, N. 81))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 9 APRILE 2008, N. 81](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-04-09;81)))
+### Art. 76.
 
-### Art. 79
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 9 APRILE 2008, N. 81))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 9 APRILE 2008, N. 81](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-04-09;81)))
+## NORME PENALI
 
-CAPO XI CAPO XI DISPOSIZIONI FINALI
------------------------------------
+CAPO X
 
-### Art. 80
+### Art. 77.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 9 APRILE 2008, N. 81](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-04-09;81)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 9 APRILE 2008, N. 81))
 
-### Art. 81
+### Art. 78.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 9 APRILE 2008, N. 81](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-04-09;81)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 9 APRILE 2008, N. 81))
+
+### Art. 79.
+
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 9 APRILE 2008, N. 81))
+
+## DISPOSIZIONI FINALI
+
+CAPO XI
+
+### Art. 80.
+
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 9 APRILE 2008, N. 81))
+
+### Art. 81.
+
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 9 APRILE 2008, N. 81))

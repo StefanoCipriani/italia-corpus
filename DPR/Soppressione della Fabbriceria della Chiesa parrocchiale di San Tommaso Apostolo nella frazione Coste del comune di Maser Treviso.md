@@ -1,19 +1,21 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 22 marzo 1960 n. 347
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 347
+data: 1960-03-22
+titolo: "Soppressione della Fabbriceria della Chiesa parrocchiale di San Tommaso Apostolo, nella frazione Coste del comune di Maser (Treviso)."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1960-03-22;347
+codice_redazionale: 060U0347
+vigente: true
+---
 
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 22 marzo 1960 n. 347
-============================================================
-
-Soppressione della Fabbriceria della Chiesa parrocchiale di San Tommaso Apostolo, nella frazione Coste del comune di Maser (Treviso).
--------------------------------------------------------------------------------------------------------------------------------------
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-347. Decreto del Presidente della Repubblica 22 marzo 1960, col quale, sulla proposta del Ministro per l'interno, viene soppressa la Fabbriceria della Chiesa parrocchiale di San Tommaso Apostolo, nella frazione Coste del comune di Maser (Treviso).  
-  
-Visto, il Guardasigilli: GONELLA  
-Registrato alla Corte dei conti, addi' 26 aprile 1960  
-Atti del Governo, registro n. 125, foglio n. 232. - VILLA
+347.
+
+Decreto del Presidente della Repubblica 22 marzo 1960, col quale, sulla proposta del Ministro per l'interno, viene soppressa la Fabbriceria della Chiesa parrocchiale di San Tommaso Apostolo, nella frazione Coste del comune di Maser (Treviso).
+
+Visto, il Guardasigilli: GONELLA
+ Registrato alla Corte dei conti, addi' 26 aprile 1960
+ Atti del Governo, registro n. 125, foglio n. 232. - VILLA

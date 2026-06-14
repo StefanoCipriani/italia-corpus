@@ -1,20 +1,20 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 gennaio 1962 n. 781
-
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 gennaio 1962 n. 781
-==============================================================
-
-Norme sul trattamento economico e normativo per gli impiegati e gli intermedi dipendenti dalle imprese calzaturiere.
---------------------------------------------------------------------------------------------------------------------
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 781
+data: 1962-01-02
+titolo: "Norme sul trattamento economico e normativo per gli impiegati e gli intermedi dipendenti dalle imprese calzaturiere."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1962-01-02;781
+codice_redazionale: 062U0781
+vigente: true
+---
 
 IL PRESIDENTE DELLA REPUBBLICA
-------------------------------
 
-Visto l'[art. 87, comma quinto, della Costituzione](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27~art87-com5);
+Visto l'[art. 87, comma quinto, della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87-com5);
 
-Vista la [legge 14 luglio 1959, n. 741](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1959-07-14;741), che delega il Governo ad emanare norme transitorie per garantire minimi di trattamento economico e normativo ai lavoratori;
+Vista la [legge 14 luglio 1959, n. 741](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1959-07-14;741), che delega il Governo ad emanare norme transitorie per garantire minimi di trattamento economico e normativo ai lavoratori;
 
-Vista la [legge 1 ottobre 1960, n. 1027](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1960-10-01;1027), recante modifiche alla predetta [legge 14 luglio 1959, n. 741](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1959-07-14;741);
+Vista la [legge 1 ottobre 1960, n. 1027](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1960-10-01;1027), recante modifiche alla predetta [legge 14 luglio 1959, n. 741](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1959-07-14;741);
 
 Visto il contratto collettivo nazionale di lavoro 24 luglio 1956, relativo agli impiegati delle industrie calzaturiere, stipulato tra l'Associazione Nazionale Calzaturifici italiani, con l'assistenza della Confederazione Generale dell'Industria italiana, e la Federazione italiana Lavoratori Abbigliamento, con l'assistenza della Confederazione Generale italiana del Lavoro, la Federazione Unitaria italiana Lavoratori Abbigliamento, con l'assistenza della Confederazione italiana Sindacati Lavoratori, l'Unione italiana Lavoratori Abbigliamento, con l'assistenza dell'Unione italiana del Lavoro; al quale ha aderito la Federazione Nazionale Lavoratori dell'Abbigliamento C.I.S.N.A.L.;
 
@@ -30,53 +30,15 @@ Vista la pubblicazione nell'apposito Bollettino, n. 207 in data 9 ottobre 1961, 
 
 Sentito il Consiglio dei Ministri;
 
-Sulla
------
+Sulla proposta del Ministro per il lavoro e la previdenza sociale; Decreta:
 
-proposta del Ministro per il lavoro e la previdenza sociale; Decreta:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-I rapporti di lavoro costituiti per le attivita' per le quali sono stati stipulati il contratto collettivo nazionale 24 luglio 1956, relativo agli impiegati delle industrie calzaturiere, l'accordo collettivo 23 gennaio 1960, concernente gli aumenti degli stipendi minimi contrattuali per gli impiegati delle industrie calzaturiere l'accordo collettivo 23 gennaio 1960, concernente gli aumenti delle retribuzioni minime contrattuali per gli intermedi delle aziende calzaturiere, sono regolati da norme giuridiche uniformi alle clausole del contratto e degli accordi collettivi anzidetti, annessi al presente decreto, nonche' alle clausole, richiamate dal contratto collettivo 24 luglio 1956 e dell'accordo collettivo 23 gennaio 1960 ed agli stessi allegate, del contratto e dell'accordo indicati nel preambolo.  
-I minimi di trattamento economico e normativo cosi' stabiliti sono inderogabili nei confronti di tutti gli impiegati e gli intermedi dipendenti dalle imprese calzaturiere.  
-  
+I rapporti di lavoro costituiti per le attivita' per le quali sono stati stipulati il contratto collettivo nazionale 24 luglio 1956, relativo agli impiegati delle industrie calzaturiere, l'accordo collettivo 23 gennaio 1960, concernente gli aumenti degli stipendi minimi contrattuali per gli impiegati delle industrie calzaturiere l'accordo collettivo 23 gennaio 1960, concernente gli aumenti delle retribuzioni minime contrattuali per gli intermedi delle aziende calzaturiere, sono regolati da norme giuridiche uniformi alle clausole del contratto e degli accordi collettivi anzidetti, annessi al presente decreto, nonche' alle clausole, richiamate dal contratto collettivo 24 luglio 1956 e dell'accordo collettivo 23 gennaio 1960 ed agli stessi allegate, del contratto e dell'accordo indicati nel preambolo.
+ I minimi di trattamento economico e normativo cosi' stabiliti sono inderogabili nei confronti di tutti gli impiegati e gli intermedi dipendenti dalle imprese calzaturiere.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 2 gennaio 1962
+Dato a Roma, addi' 2 gennaio 1962
 
-GRONCHI FANFANI - SULLO
-
-Visto, il Guardasigilli: BOSCO
-
-Registrato alla Corte dei conti, addi' 13 giugno 1962
-
-Atti del Governo, registro n. 150, foglio n. 78. - VILLA
-
-Allegato
-
-CONTRATTO COLLETTIVO NAZIONALE DI LAVORO 24 LUGLIO 1956 DA VALERE PER GLI IMPIEGATI DELLE INDUSTRIE CALZATURIERE.   
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=062U078100100010110001&dgu=1962-07-16&art.dataPubblicazioneGazzetta=1962-07-16&art.codiceRedazionale=062U0781)
-  
-  
-  
-  
-ACCORDO COLLETTIVO 23 GENNAIO 1960, CONCERNENTE GLI AUMENTI DEGLI STIPENDI MINIMI CONTRATTUALI PER GLI IMPIEGATI DELLE INDUSTRIE CALZATURIERE.   
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=062U078100100010110002&dgu=1962-07-16&art.dataPubblicazioneGazzetta=1962-07-16&art.codiceRedazionale=062U0781)
-  
-  
-  
-  
-ACCORDO COLLETTIVO 23 GENNAIO 1960, CONCERNENTE GLI AUMENTI DELLE RETRIBUZIONI MINIME CONTRATTUALI PER GLI INTERMEDI DELLE AZIENDE CALZATURIERE.   
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=062U078100100010110003&dgu=1962-07-16&art.dataPubblicazioneGazzetta=1962-07-16&art.codiceRedazionale=062U0781)
-  
+GRONCHI FANFANI - SULLO Visto, il Guardasigilli: BOSCO Registrato alla Corte dei conti, addi' 13 giugno 1962 Atti del Governo, registro n. 150, foglio n. 78. - VILLA

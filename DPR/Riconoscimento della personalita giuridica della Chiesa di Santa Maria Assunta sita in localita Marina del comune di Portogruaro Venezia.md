@@ -1,19 +1,21 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 14 luglio 1962 n. 1276
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 1276
+data: 1962-07-14
+titolo: "Riconoscimento della personalita' giuridica della Chiesa di Santa Maria Assunta, sita in localita' Marina del comune di Portogruaro (Venezia)."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1962-07-14;1276
+codice_redazionale: 062U1276
+vigente: true
+---
 
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 14 luglio 1962 n. 1276
-==============================================================
-
-Riconoscimento della personalita' giuridica della Chiesa di Santa Maria Assunta, sita in localita' Marina del comune di Portogruaro (Venezia).
-----------------------------------------------------------------------------------------------------------------------------------------------
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-1276. Decreto del Presidente della Repubblica 14 luglio 1962, col quale, sulla proposta del Ministro per l'interno, viene riconosciuta la personalita' giuridica della Chiesa di Santa Maria Assunta, sita in localita' Marina del comune di Portogruaro (Venezia).  
-  
-Visto, il Guardasigilli: BOSCO  
-Registrato alla Corte dei conti, addi' 22 agosto 1962  
-Atti del Governo, registro n. 158, foglio n. 23. - VILLA
+1276.
+
+Decreto del Presidente della Repubblica 14 luglio 1962, col quale, sulla proposta del Ministro per l'interno, viene riconosciuta la personalita' giuridica della Chiesa di Santa Maria Assunta, sita in localita' Marina del comune di Portogruaro (Venezia).
+
+Visto, il Guardasigilli: BOSCO
+ Registrato alla Corte dei conti, addi' 22 agosto 1962
+ Atti del Governo, registro n. 158, foglio n. 23. - VILLA

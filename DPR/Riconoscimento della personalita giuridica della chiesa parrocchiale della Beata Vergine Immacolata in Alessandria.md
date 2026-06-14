@@ -1,19 +1,21 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 febbraio 1978 n. 165
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 165
+data: 1978-02-28
+titolo: "Riconoscimento della personalita' giuridica della chiesa parrocchiale della Beata Vergine Immacolata, in Alessandria."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1978-02-28;165
+codice_redazionale: 078U0165
+vigente: true
+---
 
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 febbraio 1978 n. 165
-===============================================================
-
-Riconoscimento della personalita' giuridica della chiesa parrocchiale della Beata Vergine Immacolata, in Alessandria.
----------------------------------------------------------------------------------------------------------------------
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-165. Decreto del Presidente della Repubblica 28 febbraio 1978, col quale, sulla proposta del Ministro dell'interno, viene riconosciuta la personalita' giuridica della chiesa parrocchiale della Beata Vergine Immacolata, in frazione Spinetta Marengo del comune di Alessandria.  
-  
-Visto, il Guardasigilli: BONIFACIO  
-Registrato alla Corte dei conti, addi' 5 maggio 1978  
-Registro n. 9 Interno, foglio n. 108
+165.
+
+Decreto del Presidente della Repubblica 28 febbraio 1978, col quale, sulla proposta del Ministro dell'interno, viene riconosciuta la personalita' giuridica della chiesa parrocchiale della Beata Vergine Immacolata, in frazione Spinetta Marengo del comune di Alessandria.
+
+Visto, il Guardasigilli: BONIFACIO
+ Registrato alla Corte dei conti, addi' 5 maggio 1978
+ Registro n. 9 Interno, foglio n. 108

@@ -1,19 +1,21 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 03 maggio 1956 n. 1030
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 1030
+data: 1956-05-03
+titolo: "Erezione in ente morale della Cassa scolastica della Scuola media statale \"M. Schipa\" salita Pontecorvo, in Napoli."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1956-05-03;1030
+codice_redazionale: 056U1030
+vigente: true
+---
 
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 03 maggio 1956 n. 1030
-==============================================================
-
-Erezione in ente morale della Cassa scolastica della Scuola media statale "M. Schipa" salita Pontecorvo, in Napoli.
--------------------------------------------------------------------------------------------------------------------
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-1030. Decreto del Presidente della Repubblica 3 maggio 1956, col quale, sulla proposta del Ministro per la pubblica istruzione, la Cassa scolastica della Scuola media statale "M. Schipa" salita Pontecorvo, in Napoli, viene eretta in ente morale e ne viene approvato lo statuto.  
-  
-Visto, il Guardasigilli: MORO  
-Registrato alla Corte dei conti, addi' 3 settembre 1956  
-Atti del Governo, registro n. 100, foglio n. 122. - CARLOMAGNO
+1030.
+
+Decreto del Presidente della Repubblica 3 maggio 1956, col quale, sulla proposta del Ministro per la pubblica istruzione, la Cassa scolastica della Scuola media statale "M. Schipa" salita Pontecorvo, in Napoli, viene eretta in ente morale e ne viene approvato lo statuto.
+
+Visto, il Guardasigilli: MORO
+ Registrato alla Corte dei conti, addi' 3 settembre 1956
+ Atti del Governo, registro n. 100, foglio n. 122. - CARLOMAGNO

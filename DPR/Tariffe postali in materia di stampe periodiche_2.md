@@ -1,13 +1,13 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 23 dicembre 1977 n. 950
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 950
+data: 1977-12-23
+titolo: "Tariffe postali in materia di stampe periodiche."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1977-12-23;950
+codice_redazionale: 077U0950
+vigente: true
+---
 
+## Articolo unico
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 23 dicembre 1977 n. 950
-===============================================================
-
-Tariffe postali in materia di stampe periodiche.
-------------------------------------------------
-
-Articolo unico
---------------
-
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 12 DICEMBRE 1980, N. 878](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-12-12;878)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 12 DICEMBRE 1980, N. 878))

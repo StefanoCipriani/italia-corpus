@@ -1,18 +1,18 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 11 marzo 1953 n. 252
-
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 11 marzo 1953 n. 252
-============================================================
-
-Emissione di una cartolina postale celebrativa del XXXV annuale della istituzione del "Salone internazionale dell'automobile" di Torino.
-----------------------------------------------------------------------------------------------------------------------------------------
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 252
+data: 1953-03-11
+titolo: "Emissione di una cartolina postale celebrativa del XXXV annuale della istituzione del \"Salone internazionale dell'automobile\" di Torino."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1953-03-11;252
+codice_redazionale: 053U0252
+vigente: true
+---
 
 IL PRESIDENTE DELLA REPUBBLICA
-------------------------------
 
-Visto l'art. 21 del Codice postale e delle telecomunicazioni, approvato con il [regio decreto 27 febbraio 1936, n. 645](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1936-02-27;645);
+Visto l'art. 21 del Codice postale e delle telecomunicazioni, approvato con il [regio decreto 27 febbraio 1936, n. 645](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1936-02-27;645);
 
-Visto l'art. 239 del regolamento per i servizi postali (titolo preliminare e parte prima), approvato con il [regio decreto 18 aprile 1940, n. 689](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-04-18;689);
+Visto l'art. 239 del regolamento per i servizi postali (titolo preliminare e parte prima), approvato con il [regio decreto 18 aprile 1940, n. 689](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20del%20regolamento%20di%20esecuzione%20dei%20titoli%20I%20e%20II%20del%20libro%201%20del%20Codice%20postale%20e%20delle%20telecomunicazioni.%20040U0689.md);
 
 Riconosciuta la opportunita' di emettere una cartolina postale celebrativa del XXXV annuale - ricorrente nel 1953 - della istituzione del "Salone internazionale dell'automobile" di Torino;
 
@@ -20,33 +20,18 @@ Sentito il Consiglio di amministrazione delle poste e delle telecomunicazioni;
 
 Sentito il Consiglio dei Ministri;
 
-Sulla
------
+Sulla proposta del Ministro Segretario di Stato per le poste e le telecomunicazioni; Decreta:
 
-proposta del Ministro Segretario di Stato per le poste e le telecomunicazioni; Decreta:
+## Art. 1.
 
-Art. 1
-------
+E' autorizzata l'emissione di una cartolina postale celebrativa del XXXV annuale della istituzione del Salone internazionale dell'automobile di Torino.
 
-  
-E' autorizzata l'emissione di una cartolina postale celebrativa del XXXV annuale della istituzione del Salone internazionale dell'automobile di Torino.  
+## Art. 2.
 
-Art. 2
-------
-
-  
-Con decreto del Ministro per le poste e le telecomunicazioni, di concerto con il Ministro per il tesoro, verranno precisate le caratteristiche tecniche della cartolina di cui all'art. 1 del presente decreto e saranno indicati i termini per la validita' della cartolina medesima.  
-  
+Con decreto del Ministro per le poste e le telecomunicazioni, di concerto con il Ministro per il tesoro, verranno precisate le caratteristiche tecniche della cartolina di cui all'art. 1 del presente decreto e saranno indicati i termini per la validita' della cartolina medesima.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservano e di farlo osservare.
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 11 marzo 1953
+Dato a Roma, addi' 11 marzo 1953
 
-EINAUDI DE GASPERI - SPATARO
-
-Visto, il Guardasigilli: ZOLI
-
-Registrato alla Corte dei conti, addi' 18 aprile 1953
-
-Atti del Governo, registro n. 7, foglio n. 27. - PALLA
+EINAUDI DE GASPERI - SPATARO Visto, il Guardasigilli: ZOLI Registrato alla Corte dei conti, addi' 18 aprile 1953 Atti del Governo, registro n. 7, foglio n. 27. - PALLA

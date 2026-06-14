@@ -1,19 +1,21 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 20 febbraio 1968 n. 280
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 280
+data: 1968-02-20
+titolo: "Riconoscimento della personalita' giuridica della casa generalizia, con sede in Roma, della congregazione delle religiose di Gesu' - Maria."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1968-02-20;280
+codice_redazionale: 068U0280
+vigente: true
+---
 
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 20 febbraio 1968 n. 280
-===============================================================
-
-Riconoscimento della personalita' giuridica della casa generalizia, con sede in Roma, della congregazione delle religiose di Gesu' - Maria.
--------------------------------------------------------------------------------------------------------------------------------------------
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-280. Decreto del Presidente della Repubblica 20 febbraio 1968, col quale, sulla proposta del Ministro per l'interno, viene riconosciuta la personalita' giuridica della casa generalizia, con sede in Roma, della congregazione delle religiose di Gesu' - Maria.  
-  
-Visto, il Guardasigilli: REALE  
-Registrato alla Corte dei conti, addi' 21 marzo 1968  
-Atti del Governo, registro n. 218, foglio n. 56. - DI PRETORO
+280.
+
+Decreto del Presidente della Repubblica 20 febbraio 1968, col quale, sulla proposta del Ministro per l'interno, viene riconosciuta la personalita' giuridica della casa generalizia, con sede in Roma, della congregazione delle religiose di Gesu' - Maria.
+
+Visto, il Guardasigilli: REALE
+ Registrato alla Corte dei conti, addi' 21 marzo 1968
+ Atti del Governo, registro n. 218, foglio n. 56. - DI PRETORO

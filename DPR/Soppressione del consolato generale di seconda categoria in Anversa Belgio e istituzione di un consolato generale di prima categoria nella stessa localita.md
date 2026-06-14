@@ -1,47 +1,32 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 25 febbraio 1980 n. 734
-
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 25 febbraio 1980 n. 734
-===============================================================
-
-Soppressione del consolato generale di seconda categoria in Anversa (Belgio) e istituzione di un consolato generale di prima categoria nella stessa localita'.
---------------------------------------------------------------------------------------------------------------------------------------------------------------
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 734
+data: 1980-02-25
+titolo: "Soppressione del consolato generale di seconda categoria in Anversa (Belgio) e istituzione di un consolato generale di prima categoria nella stessa localita'."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1980-02-25;734
+codice_redazionale: 080U0734
+vigente: true
+---
 
 IL PRESIDENTE DELLA REPUBBLICA
-------------------------------
 
-Visti gli [articoli 30](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1967-01-05;18~art30) e [42 del decreto del Presidente della Repubblica 5 gennaio 1967, n. 18](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1967-01-05;18~art42), relativo all'ordinamento dell'Amministrazione degli affari esteri;
+Visti gli [articoli 30](Ordinamento%20dellAmministrazione%20degli%20affari%20esteri.md) e [42 del decreto del Presidente della Repubblica 5 gennaio 1967, n. 18](Ordinamento%20dellAmministrazione%20degli%20affari%20esteri.md), relativo all'ordinamento dell'Amministrazione degli affari esteri;
 
 Sentito il parere del consiglio di amministrazione del Ministero degli affari esteri;
 
-Sulla
------
+Sulla proposta del Ministro degli affari esteri, di concerto con il Ministro del tesoro; Decreta:
 
-proposta del Ministro degli affari esteri, di concerto con il Ministro del tesoro; Decreta:
+## Art. 1.
 
-Art. 1
-------
+Il consolato generale di seconda categoria in Anversa (Belgio) e' soppresso.
 
-  
-Il consolato generale di seconda categoria in Anversa (Belgio) e' soppresso.  
+## Art. 2.
 
-Art. 2
-------
-
-  
-E' istituito in Anversa (Belgio) un consolato generale di prima categoria con la seguente circoscrizione territoriale: le province di Anversa, Fiandra Occidentale e Fiandra Orientale eccettuata la citta' di Gand.  
-I provvedimenti di cui agli articoli 1 e 2 avranno decorrenza dalla data di pubblicazione nella Gazzetta Ufficiale.  
-  
+E' istituito in Anversa (Belgio) un consolato generale di prima categoria con la seguente circoscrizione territoriale: le province di Anversa, Fiandra Occidentale e Fiandra Orientale eccettuata la citta' di Gand.
+ I provvedimenti di cui agli articoli 1 e 2 avranno decorrenza dalla data di pubblicazione nella Gazzetta Ufficiale.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 25 febbraio 1980
+Dato a Roma, addi' 25 febbraio 1980
 
-PERTINI COLOMBO - PANDOLFI
-
-Visto, il Guardasigilli: MORLINO
-
-Registrato alla Corte dei conti, addi' 3 novembre 1980
-
-Registro n. 487 Esteri, foglio n. 339
+PERTINI COLOMBO - PANDOLFI Visto, il Guardasigilli: MORLINO Registrato alla Corte dei conti, addi' 3 novembre 1980 Registro n. 487 Esteri, foglio n. 339

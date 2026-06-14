@@ -1,19 +1,21 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 11 aprile 1986 n. 421
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 418
+data: 1986-04-09
+titolo: "Autorizzazione alla fondazione \"Pro juventute don Carlo Gnocchi\", in Roma, ad accettare una eredita'."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1986-04-09;418
+codice_redazionale: 086U0418
+vigente: true
+---
 
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 11 aprile 1986 n. 421
-=============================================================
-
-Autorizzazione alla fondazione "Pro juventute don Carlo Gnocchi", in Roma, ad accettare una eredita'.
------------------------------------------------------------------------------------------------------
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-421. Decreto del Presidente della Repubblica 11 aprile 1986, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la fondazione "Pro juventute don Carlo Gnocchi", in Roma, viene autorizzata ad accettare, col beneficio d'inventario, l'eredita', consistente in un immobile sito in Milano, via Fiori Chiari n. 5, distinto nel nuovo catasto edilizio urbano alla partita n. 9702, foglio 349, mappale 49, sub 1 - 12, del valore peritato di L. 230.000.000 elevato dall'ufficio tecnico erariale di Milano a L. 1.200.000.000, e nella quota di un terzo del saldo di conti correnti bancari pari ad un importo di L. 18.477.885, disposta dal sig. Capelli (o Cappelli) Guido Edoardo Andrea detto Guido con testamento olografo 15 settembre 1980, pubblicato in data 11 febbraio 1982, n. 81173/15820 di repertorio, a rogito dott. Luciano Zavanelli, notaio in Milano, registrato a Milano in data 5 maggio 1982 al n. 8562.   
-  
-Visto, il Guardasigilli: MARTINAZZOLI   
-Registrato alla Corte dei conti, addi' 12 luglio 1986   
-Registro n. 7 Presidenza foglio n. 14
+418.
+
+Decreto del Presidente della Repubblica 9 aprile 1986, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la fondazione "Pro juventute don Carlo Gnocchi", in Roma, viene autorizzata ad accettare, col beneficio di inventario, l'eredita', consistente nella quota di 1/4 in saldi di conti correnti, titoli obbligazionari, certificati di credito e contanti su depositi bancari, per un valore complessivo di L. 24.435.450, disposta dalla sig.ra Beltrami Ada con testamento pubblico 23 giugno 1983, redatto dal notaio dott. Luigi Prinetti di Milano e pubblicato in data 3 novembre 1983, n. 28347/2487 di repertorio, registrato a Milano in data 9 novembre 1983 al n. 18320. 
+ 
+Visto, il Guardasigilli: MARTINAZZOLI 
+ Registrato alla Corte dei conti, addi' 12 giugno 1986 
+ Registro n. 7 Presidenza, foglio n. 15

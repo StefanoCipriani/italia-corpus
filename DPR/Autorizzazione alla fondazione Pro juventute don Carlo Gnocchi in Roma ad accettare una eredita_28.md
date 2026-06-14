@@ -1,19 +1,21 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 08 giugno 1982 n. 522
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 409
+data: 1982-05-14
+titolo: "Autorizzazione alla fondazione \"Pro juventute don Carlo Gnocchi\", in Roma, ad accettare una eredita'."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1982-05-14;409
+codice_redazionale: 082U0409
+vigente: true
+---
 
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 08 giugno 1982 n. 522
-=============================================================
-
-Autorizzazione alla fondazione "Pro juventute don Carlo Gnocchi", in Roma, ad accettare una eredita'.
------------------------------------------------------------------------------------------------------
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-522. Decreto del Presidente della Repubblica 8 giugno 1982, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la fondazione "Pro juventute don Carlo Gnocchi", in Roma, viene autorizzata ad accettare, col beneficio d'inventario, l'eredita', consistente in titoli azionari, beni mobili, saldi c.c. presso l'Istituto bancario di S. Paolo di Torino, agenzia n. 8, per un importo complessivo di L. 30.024.946, disposta dalla sig.na Laura Castellano a favore della fondazione "Don Gnocchi", viale Settimio Severo n. 65, Torino, che si identifica con la fondazione "Pro juventute don Carlo Gnocchi", come si evince dal verbale del consiglio di amministrazione della fondazione medesima in data 24 novembre 1979, con testamento olografo 9 settembre 1977 pubblicato in data 1° ottobre 1979, n. 12747 di repertorio e n. 2728 di fascicolo, a rogito dott. Francesco Goria, notaio in Torino, registrato a Pinerolo (Torino) il 18 ottobre 1979 al n. 5272.   
-  
-Visto, il Guardasigilli: DARIDA   
-Registrato alla Corte dei conti, addi' 2 agosto 1982   
-Registro n. 7 Presidenza, foglio n. 233
+409.
+
+Decreto del Presidente della Repubblica 14 maggio 1982, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la fondazione "Pro juventute don Carlo Gnocchi", in Roma, viene autorizzata ad accettare, col beneficio d'inventario, l'eredita', consistente in beni immobili e mobili al netto delle passivita' per un importo di L. 97.800.271, disposta dal sig. Iriti Ignazio con testamento olografo 13 febbraio 1975, pubblicato in data 14 maggio 1979 numero 83824 di repertorio e n. 17662 di raccolta, a rogito dott. Edoardo Colozza, notaio in Roma, registrato a Roma il 18 maggio 1979 al n. 6255.
+
+Visto, il Guardasigilli: DARIDA
+ Registrato alla Corte dei conti, addi' 30 giugno 1982
+ Registro n. 6 Presidenza, foglio n. 69

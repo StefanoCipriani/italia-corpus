@@ -1,19 +1,21 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 06 giugno 1956 n. 827
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 827
+data: 1956-06-06
+titolo: "Erezione in ente morale della Cassa scolastica della Scuola media statale di Grumo Appula (Bari)."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1956-06-06;827
+codice_redazionale: 056U0827
+vigente: true
+---
 
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 06 giugno 1956 n. 827
-=============================================================
-
-Erezione in ente morale della Cassa scolastica della Scuola media statale di Grumo Appula (Bari).
--------------------------------------------------------------------------------------------------
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-827. Decreto del Presidente della Repubblica 6 giugno 1956, col quale, sulla proposta del Ministro per la pubblica istruzione, la Cassa scolastica della Scuola media statale di Grumo Appula (Bari) viene eretta in ente morale e ne viene approvato lo statuto.  
-  
-Visto, il Guardasigilli: MORO  
-Registrato alla Corte dei conti, addi' 17 luglio 1956  
-Atti del Governo, registro n. 99, foglio n. 102. - CARLOMAGNO
+827.
+
+Decreto del Presidente della Repubblica 6 giugno 1956, col quale, sulla proposta del Ministro per la pubblica istruzione, la Cassa scolastica della Scuola media statale di Grumo Appula (Bari) viene eretta in ente morale e ne viene approvato lo statuto.
+
+Visto, il Guardasigilli: MORO
+ Registrato alla Corte dei conti, addi' 17 luglio 1956
+ Atti del Governo, registro n. 99, foglio n. 102. - CARLOMAGNO

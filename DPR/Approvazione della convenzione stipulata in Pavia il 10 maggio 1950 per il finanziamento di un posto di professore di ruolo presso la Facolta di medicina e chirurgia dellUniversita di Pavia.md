@@ -1,18 +1,20 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 luglio 1950 n. 809
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 809
+data: 1950-07-28
+titolo: "Approvazione della convenzione stipulata in Pavia il 10 maggio 1950, per il finanziamento di un posto di professore di ruolo presso la Facolta' di medicina e chirurgia dell'Universita' di Pavia."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1950-07-28;809
+codice_redazionale: 050U0809
+vigente: true
+---
 
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 luglio 1950 n. 809
-=============================================================
-
-Approvazione della convenzione stipulata in Pavia il 10 maggio 1950, per il finanziamento di un posto di professore di ruolo presso la Facolta' di medicina e chirurgia dell'Universita' di Pavia.
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-809. Decreto del Presidente della Repubblica 28 luglio 1950, col quale, sulla proposta del Ministro per la pubblica istruzione, di concerto con quello per il tesoro, viene approvata e resa esecutiva la convenzione, stipulata in Pavia il 10 maggio 1950, per il finanziamento di un posto di professore di ruolo presso la Facolta' di medicina e chirurgia dell'Universita' di Pavia.  
-  
-Visto, il Guardasigilli: PICCIONI  
-Registrato alla Corte dei conti, addi' 30 settembre 1950
+809.
+
+Decreto del Presidente della Repubblica 28 luglio 1950, col quale, sulla proposta del Ministro per la pubblica istruzione, di concerto con quello per il tesoro, viene approvata e resa esecutiva la convenzione, stipulata in Pavia il 10 maggio 1950, per il finanziamento di un posto di professore di ruolo presso la Facolta' di medicina e chirurgia dell'Universita' di Pavia.
+
+Visto, il Guardasigilli: PICCIONI
+ Registrato alla Corte dei conti, addi' 30 settembre 1950

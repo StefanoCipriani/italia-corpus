@@ -1,19 +1,21 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 16 novembre 1954 n. 1416
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 1416
+data: 1954-11-16
+titolo: "Erezione in ente morale della \"Casa di ricovero\", con sede nel comune di Noventa Vicentina (Vicenza)."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1954-11-16;1416
+codice_redazionale: 054U1416
+vigente: true
+---
 
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 16 novembre 1954 n. 1416
-================================================================
-
-Erezione in ente morale della "Casa di ricovero", con sede nel comune di Noventa Vicentina (Vicenza).
------------------------------------------------------------------------------------------------------
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-1416. Decreto del Presidente della Repubblica 16 novembre 1954, col quale, sulla proposta del Ministro per l'interno, la "Casa di ricovero", con sede nel comune di Noventa Vicentina (Vicenza), viene eretta in ente morale e ne viene approvato il relativo statuto organico.  
-  
-Visto, il Guardasigilli: DE PIETRO  
-Registrato alla Corte dei conti, addi' 28 febbraio 1955  
-Atti del Governo, registro n. 88, foglio n. 185. - CARLOMAGNO
+1416.
+
+Decreto del Presidente della Repubblica 16 novembre 1954, col quale, sulla proposta del Ministro per l'interno, la "Casa di ricovero", con sede nel comune di Noventa Vicentina (Vicenza), viene eretta in ente morale e ne viene approvato il relativo statuto organico.
+
+Visto, il Guardasigilli: DE PIETRO
+ Registrato alla Corte dei conti, addi' 28 febbraio 1955
+ Atti del Governo, registro n. 88, foglio n. 185. - CARLOMAGNO

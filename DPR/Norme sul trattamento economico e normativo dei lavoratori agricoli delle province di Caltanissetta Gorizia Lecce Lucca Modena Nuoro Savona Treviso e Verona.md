@@ -1,20 +1,20 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 gennaio 1962 n. 1170
-
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 gennaio 1962 n. 1170
-===============================================================
-
-Norme sul trattamento economico e normativo dei lavoratori agricoli delle province di Caltanissetta, Gorizia, Lecce, Lucca, Modena, Nuoro, Savona, Treviso e Verona.
---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 1170
+data: 1962-01-02
+titolo: "Norme sul trattamento economico e normativo dei lavoratori agricoli delle province di Caltanissetta, Gorizia, Lecce, Lucca, Modena, Nuoro, Savona, Treviso e Verona."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1962-01-02;1170
+codice_redazionale: 062U1170
+vigente: true
+---
 
 IL PRESIDENTE DELLA REPUBBLICA
-------------------------------
 
-Visto l'[art. 87, comma quinto, della Costituzione](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27~art87-com5);
+Visto l'[art. 87, comma quinto, della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87-com5);
 
-Vista la [legge 14 luglio 1959, n. 741](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1959-07-14;741), che delega il Governo ad emanare norme transitorie per garantire minimi di trattamento economico e normativo ai lavoratori;
+Vista la [legge 14 luglio 1959, n. 741](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1959-07-14;741), che delega il Governo ad emanare norme transitorie per garantire minimi di trattamento economico e normativo ai lavoratori;
 
-Vista la [legge 1 ottobre 1960, n. 1027](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1960-10-01;1027), recante modifiche alla predetta [legge 14 luglio 1959, n. 741](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1959-07-14;741);
+Vista la [legge 1 ottobre 1960, n. 1027](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1960-10-01;1027), recante modifiche alla predetta [legge 14 luglio 1959, n. 741](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1959-07-14;741);
 
 Visto l'accordo nazionale di scala mobile 24 settembre 1952, per i salari agricoli;
 
@@ -44,120 +44,25 @@ Vista la pubblicazione nell'apposito Bollettino, n. 2 della provincia di Caltani
 
 Sentito il Consiglio dei Ministri;
 
-Sulla
------
+Sulla proposta del Ministro per il lavoro e la previdenza sociale; Decreta:
 
-proposta del Ministro per il lavoro e la previdenza sociale; Decreta:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-I rapporti di lavoro costituiti per le attivita' per le quali sono stati stipulati:  
-- per la provincia di Caltanissetta, il contratto collettivo integrativo 27 luglio 1960, relativo ai braccianti agricoli avventizi;  
-- per la provincia di Gorizia, il contratto collettivo 25 luglio 1960, relativo ai lavoratori agricoli;  
-- per la provincia di Lecce, il contratto collettivo 8 giugno 1960, relativo ai salariati fissi dell'agricoltura;  
-- per la provincia di Lucca, l'accordo collettivo 2 aprile 1960, relativo ai lavoratori agricoli;  
-- per la provincia di Modena, l'accordo collettivo 7 maggio 1960, relativo all'adeguamento delle ferie, della gratifica natalizia e dell'indennita' di anzianita' per i boari, i salariati fissi, i salariati di campagna ed i salariati conviventi con le famiglie dei coltivatori;  
-- per la provincia di Nuoro, l'accordo collettivo integrativo 29 dicembre 1951, relativo ai braccianti agricoli avventizi;  
-- per la provincia di Savona, il contratto collettivo integrativo 20 luglio 1960, relativo ai salariati fissi dell'agricoltura;  
-- per la provincia di Treviso, il contratto collettivo 2 luglio 1960, relativo ai salariati agricoli;  
-- per la provincia di Verona, l'accordo collettivo 18 giugno 1960, relativo ai salariati agricoli;  
-sono regolati da norme giuridiche uniformi alle clausole dei contratti ed accordi anzidetti, annessi al presente decreto, purche' compatibili con quelle concernenti la disciplina nazionale della categoria.  
-I minimi di trattamento economico e normativo cosi' stabiliti sono inderogabili nei confronti di tutti i lavoratori considerati nei contratti ed accordi di cui al primo comma, dipendenti dalle imprese agricole delle province di Caltanissetta, Gorizia, Lecce, Lucca, Modena, Nuoro, Savona, Treviso e Verona.  
-  
+I rapporti di lavoro costituiti per le attivita' per le quali sono stati stipulati:
+ - per la provincia di Caltanissetta, il contratto collettivo integrativo 27 luglio 1960, relativo ai braccianti agricoli avventizi;
+ - per la provincia di Gorizia, il contratto collettivo 25 luglio 1960, relativo ai lavoratori agricoli;
+ - per la provincia di Lecce, il contratto collettivo 8 giugno 1960, relativo ai salariati fissi dell'agricoltura;
+ - per la provincia di Lucca, l'accordo collettivo 2 aprile 1960, relativo ai lavoratori agricoli;
+ - per la provincia di Modena, l'accordo collettivo 7 maggio 1960, relativo all'adeguamento delle ferie, della gratifica natalizia e dell'indennita' di anzianita' per i boari, i salariati fissi, i salariati di campagna ed i salariati conviventi con le famiglie dei coltivatori;
+ - per la provincia di Nuoro, l'accordo collettivo integrativo 29 dicembre 1951, relativo ai braccianti agricoli avventizi;
+ - per la provincia di Savona, il contratto collettivo integrativo 20 luglio 1960, relativo ai salariati fissi dell'agricoltura;
+ - per la provincia di Treviso, il contratto collettivo 2 luglio 1960, relativo ai salariati agricoli;
+ - per la provincia di Verona, l'accordo collettivo 18 giugno 1960, relativo ai salariati agricoli;
+sono regolati da norme giuridiche uniformi alle clausole dei contratti ed accordi anzidetti, annessi al presente decreto, purche' compatibili con quelle concernenti la disciplina nazionale della categoria.
+ I minimi di trattamento economico e normativo cosi' stabiliti sono inderogabili nei confronti di tutti i lavoratori considerati nei contratti ed accordi di cui al primo comma, dipendenti dalle imprese agricole delle province di Caltanissetta, Gorizia, Lecce, Lucca, Modena, Nuoro, Savona, Treviso e Verona.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 2 gennaio 1962
+Dato a Roma, addi' 2 gennaio 1962
 
-GRONCHI FANFANI - SULLO
-
-Visto, il Guardasigilli: BOSCO
-
-Registrato alla Corte dei conti, addi' 16 luglio 1962
-
-Atti del Governo, registro n. 156, foglio n. 46. - VILLA
-
-Allegato
-
-CONTRATTO COLLETTIVO INTEGRATIVO 27 LUGLIO 1960, PER I BRACCIANTI AGRICOLI AVVENTIZI DELLA PROVINCIA DI CALTANISSETTA.   
-  
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=062U117000100010110001&dgu=1962-08-16&art.dataPubblicazioneGazzetta=1962-08-16&art.codiceRedazionale=062U1170)
-  
-  
-  
-  
-CONTRATTO COLLETTIVO 25 LUGLIO 1960, PER I LAVORATORI AGRICOLI DELLA PROVINCIA DI GORIZIA.   
-  
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=062U117000100010110002&dgu=1962-08-16&art.dataPubblicazioneGazzetta=1962-08-16&art.codiceRedazionale=062U1170)
-  
-  
-  
-  
-CONTRATTO COLLETTIVO 8 GIUGNO 1960, PER I SALARIATI FISSI DELL'AGRICOLTURA DELLA PROVINCIA DI LECCE.   
-  
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=062U117000100010110003&dgu=1962-08-16&art.dataPubblicazioneGazzetta=1962-08-16&art.codiceRedazionale=062U1170)
-  
-  
-  
-  
-ACCORDO COLLETTIVO 2 APRILE 1960, PER I LAVORATORI AGRICOLI DELLA PROVINCIA DI LUCCA.   
-  
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=062U117000100010110004&dgu=1962-08-16&art.dataPubblicazioneGazzetta=1962-08-16&art.codiceRedazionale=062U1170)
-  
-  
-  
-  
-ACCORDO COLLETTIVO 7 MAGGIO 1960, RELATIVO ALL'ADEGUAMENTO DELLE FERIE, DELLA GRATIFICA NATALIZIA E DELL'INDENNITA' DI ANZIANITA' PER I BOARI, I SALARIATI FISSI, I SALARIATI DI CAMPAGNA ED I SALARIATI CONVIVENTI CON LE FAMIGLIE DEI COLTIVATORI, DELLA PROVINCIA DI MODENA.   
-  
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=062U117000100010110005&dgu=1962-08-16&art.dataPubblicazioneGazzetta=1962-08-16&art.codiceRedazionale=062U1170)
-  
-  
-  
-  
-ACCORDO COLLETTIVO INTEGRATIVO 29 DICEMBRE 1951, PER I BRACCIANTI AVVENTIZI DIPENDENTI DALLE AZIENDE AGRICOLE DELLA PROVINCIA DI NUORO.   
-  
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=062U117000100010110006&dgu=1962-08-16&art.dataPubblicazioneGazzetta=1962-08-16&art.codiceRedazionale=062U1170)
-  
-  
-  
-  
-CONTRATTO COLLETTIVO INTEGRATIVO 20 LUGLIO 1960, PER I SALARIATI FISSI DELL'AGRICOLTURA DELLA PROVINCIA DI SAVONA.   
-  
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=062U117000100010110007&dgu=1962-08-16&art.dataPubblicazioneGazzetta=1962-08-16&art.codiceRedazionale=062U1170)
-  
-  
-  
-  
-CONTRATTO COLLETTIVO 2 LUGLIO 1960, PER I SALARIATI AGRICOLI DELLA PROVINCIA DI TREVISO.   
-  
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=062U117000100010110008&dgu=1962-08-16&art.dataPubblicazioneGazzetta=1962-08-16&art.codiceRedazionale=062U1170)
-  
-  
-  
-  
-ACCORDO COLLETTIVO 18 GIUGNO 1960, PER I SALARIATI AGRICOLI DELLA PROVINCIA DI VERONA.   
-  
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=062U117000100010110009&dgu=1962-08-16&art.dataPubblicazioneGazzetta=1962-08-16&art.codiceRedazionale=062U1170)
-  
+GRONCHI FANFANI - SULLO Visto, il Guardasigilli: BOSCO Registrato alla Corte dei conti, addi' 16 luglio 1962 Atti del Governo, registro n. 156, foglio n. 46. - VILLA

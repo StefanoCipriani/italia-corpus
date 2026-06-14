@@ -1,19 +1,21 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 07 giugno 1957 n. 577
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 577
+data: 1957-06-07
+titolo: "Erezione in ente morale dell'Asilo infantile \"Agostini\", con sede in Terrossa, frazione del comune di Ronca' (Verona)."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1957-06-07;577
+codice_redazionale: 057U0577
+vigente: true
+---
 
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 07 giugno 1957 n. 577
-=============================================================
-
-Erezione in ente morale dell'Asilo infantile "Agostini", con sede in Terrossa, frazione del comune di Ronca' (Verona).
-----------------------------------------------------------------------------------------------------------------------
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-577. Decreto del Presidente della Repubblica 7 giugno 1957, col quale, sulla proposta del Ministro per l'interno, l'Asilo infantile "Agostini", con sede in Terrossa, frazione del comune di Ronca' (Verona), viene eretto in ente morale e ne viene approvato lo statuto.  
-  
-Visto, il Guardasigilli: GONELLA  
-Registrato alla Corte dei conti, addi' 18 luglio 1957  
-Atti del Governo, registro n. 106, foglio n. 204. - CARLOMAGNO
+577.
+
+Decreto del Presidente della Repubblica 7 giugno 1957, col quale, sulla proposta del Ministro per l'interno, l'Asilo infantile "Agostini", con sede in Terrossa, frazione del comune di Ronca' (Verona), viene eretto in ente morale e ne viene approvato lo statuto.
+
+Visto, il Guardasigilli: GONELLA
+ Registrato alla Corte dei conti, addi' 18 luglio 1957
+ Atti del Governo, registro n. 106, foglio n. 204. - CARLOMAGNO

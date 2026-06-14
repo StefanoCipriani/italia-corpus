@@ -1,61 +1,44 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 maggio 1957 n. 488
-
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 maggio 1957 n. 488
-=============================================================
-
-Ricostituzione del comune di Cavagnolo, in provincia di Torino.
----------------------------------------------------------------
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 488
+data: 1957-05-02
+titolo: "Ricostituzione del comune di Cavagnolo, in provincia di Torino."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1957-05-02;488
+codice_redazionale: 057U0488
+vigente: true
+---
 
 IL PRESIDENTE DELLA REPUBBLICA
-------------------------------
 
-Visto il [regio decreto 12 febbraio 1928, n. 418](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1928-02-12;418), con il quale i comuni di Brusasco, Brozolo, Cavagnolo e Marcorengo, in provincia di Torino, furono riuniti in unico Comune denominato "Brusasco Cavagnolo";
+Visto il [regio decreto 12 febbraio 1928, n. 418](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1928-02-12;418), con il quale i comuni di Brusasco, Brozolo, Cavagnolo e Marcorengo, in provincia di Torino, furono riuniti in unico Comune denominato "Brusasco Cavagnolo";
 
-Visto il [decreto legislativo del Capo provvisorio dello Stato 21 gennaio 1947, n. 85](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto.legislativo:1947-01-21;85), con il quale il comune di Brozolo e' stato ricostituito;
+Visto il [decreto legislativo del Capo provvisorio dello Stato 21 gennaio 1947, n. 85](https://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto.legislativo:1947-01-21;85), con il quale il comune di Brozolo e' stato ricostituito;
 
 Viste le istanze 15, 29 maggio e 5 giugno 1955, con le quali la maggioranza qualificata degli elettori del cessato comune di Cavagnolo ne ha chiesto la ricostituzione in Comune autonomo;
 
 Viste le deliberazioni del Consiglio comunale di Brusasco Cavagnolo in data 30 ottobre 1955, n. 222, 28 ottobre 1956, n. 78 e 17 febbraio 1957, n. 10; del Consiglio provinciale di Torino in data 31 gennaio 1956, n. 8/836 e 1° aprile 1957, n. 5/3831, con le quali e' stato espresso parere in ordine alla ricostituzione in parola;
 
-Visti gli articoli 33 e 35 del testo unico della legge comunale e provinciale, approvato con [regio decreto 3 marzo 1934, n. 383](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-03-03;383);
+Visti gli articoli 33 e 35 del testo unico della legge comunale e provinciale, approvato con [regio decreto 3 marzo 1934, n. 383](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20del%20testo%20unico%20della%20legge%20comunale%20e%20provinciale.%20034U0383.md);
 
-Vista la [legge 15 febbraio 1953, n. 71](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-02-15;71);
+Vista la [legge 15 febbraio 1953, n. 71](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-02-15;71);
 
 Udito il parere espresso dalla Prima sezione del Consiglio di Stato nell'adunanza del 12 febbraio 1957, numero 163;
 
-Sulla
------
+Sulla proposta del Ministro Segretario di Stato per gli affari dell'interno; Decreta:
 
-proposta del Ministro Segretario di Stato per gli affari dell'interno; Decreta:
+## Art. 1.
 
-Art. 1
-------
+E' ricostituito il comune di Cavagnolo, in provincia di Torino, con la circoscrizione territoriale preesistente alla data della relativa soppressione. 
+ Al Comune risultante per effetto della ricostituzione del comune di Cavagnolo e' attribuita la denominazione di Brusasco.
 
-  
-  
-E' ricostituito il comune di Cavagnolo, in provincia di Torino, con la circoscrizione territoriale preesistente alla data della relativa soppressione.   
-Al Comune risultante per effetto della ricostituzione del comune di Cavagnolo e' attribuita la denominazione di Brusasco.   
+## Art. 2.
 
-Art. 2
-------
-
-  
-  
-Il Prefetto di Torino, sentita la Giunta provinciale amministrativa, provvedera' al regolamento dei rapporti patrimoniali e finanziari tra il comune di Brusasco ed il ricostituito comune di Cavagnolo, nonche' alla ripartizione fra gli stessi, previo parere delle rispettive Amministrazioni, del personale in servizio presso il comune di Brusasco Cavagnolo alla data del presente decreto.   
-E' fatto salvo l'esercizio successivo, da parte dei comuni predetti, della facolta' di revisione degli organici secondo le norme di cui al [decreto legislativo luogotenenziale 18 gennaio 1945, n. 48](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1945-01-18;48), e successive modificazioni, con l'osservanza, per quanto concerne il trattamento economico, delle disposizioni contenute nell'[art. 228 del testo unico 3 marzo 1934, n. 383](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1934-03-03;383~art228), della legge comunale e provinciale, e successive modifiche.   
-Al personale in servizio presso il comune di Brusasco Cavagnolo, che sara' inquadrato negli organici del comune di Cavagnolo sara' mantenuto ad personam il trattamento economico fruito all'atto dell'inquadramento.   
-  
+Il Prefetto di Torino, sentita la Giunta provinciale amministrativa, provvedera' al regolamento dei rapporti patrimoniali e finanziari tra il comune di Brusasco ed il ricostituito comune di Cavagnolo, nonche' alla ripartizione fra gli stessi, previo parere delle rispettive Amministrazioni, del personale in servizio presso il comune di Brusasco Cavagnolo alla data del presente decreto. 
+ E' fatto salvo l'esercizio successivo, da parte dei comuni predetti, della facolta' di revisione degli organici secondo le norme di cui al [decreto legislativo luogotenenziale 18 gennaio 1945, n. 48](../Atti%20normativi%20abrogati%20%28in%20originale%29/Nuove%20norme%20per%20la%20modificazione%20delle%20piante%20organiche%20del%20personale%20degli%20Enti%20locali.%20045U0048.md), e successive modificazioni, con l'osservanza, per quanto concerne il trattamento economico, delle disposizioni contenute nell'[art. 228 del testo unico 3 marzo 1934, n. 383](https://www.normattiva.it/uri-res/N2Ls?urn:nir:::1934-03-03;383#art_228), della legge comunale e provinciale, e successive modifiche. 
+ Al personale in servizio presso il comune di Brusasco Cavagnolo, che sara' inquadrato negli organici del comune di Cavagnolo sara' mantenuto ad personam il trattamento economico fruito all'atto dell'inquadramento.
 
 Il presente decreto munito del sigillo dello Stato, sara' inserto nella Raccolta Ufficiale delle leggi e dei decreti della Repubblica Italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 2 maggio 1957
+Dato a Roma, addi' 2 maggio 1957
 
-GRONCHI TAMBRONI
-
-Visto, il Guardasigilli: GONELLA
-
-Registrato alla Corte dei conti, addi' 2 luglio 1957
-
-Atti del Governo, registro n. 106, foglio n. 136. - CARLOMAGNO
+GRONCHI TAMBRONI Visto, il Guardasigilli: GONELLA Registrato alla Corte dei conti, addi' 2 luglio 1957 Atti del Governo, registro n. 106, foglio n. 136. - CARLOMAGNO

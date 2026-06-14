@@ -1,19 +1,21 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 11 marzo 1972 n. 188
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 188
+data: 1972-03-11
+titolo: "Riconoscimento della personalita' giuridica della chiesa parrocchiale di S. Giovanni Maria Vianney, in Torino."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1972-03-11;188
+codice_redazionale: 072U0188
+vigente: true
+---
 
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 11 marzo 1972 n. 188
-============================================================
-
-Riconoscimento della personalita' giuridica della chiesa parrocchiale di S. Giovanni Maria Vianney, in Torino.
---------------------------------------------------------------------------------------------------------------
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-188. Decreto del Presidente della Repubblica 11 marzo 1972, col quale, sulla proposta del Ministro per l'interno, viene riconosciuta la personalita' giuridica della chiesa parrocchiale di S. Giovanni Maria Vianney, in Torino.  
-  
-Visto, il Guardasigilli: GONELLA  
-Registrato alla Corte dei conti, addi' 3 maggio 1972  
-Atti del Governo, registro n. 248, foglio n. 101. - VALENTINI
+188.
+
+Decreto del Presidente della Repubblica 11 marzo 1972, col quale, sulla proposta del Ministro per l'interno, viene riconosciuta la personalita' giuridica della chiesa parrocchiale di S. Giovanni Maria Vianney, in Torino.
+
+Visto, il Guardasigilli: GONELLA
+ Registrato alla Corte dei conti, addi' 3 maggio 1972
+ Atti del Governo, registro n. 248, foglio n. 101. - VALENTINI

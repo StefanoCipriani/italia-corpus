@@ -1,24 +1,24 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 11 giugno 1980 n. 941
-
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 11 giugno 1980 n. 941
-=============================================================
-
-Modificazione allo statuto dell'Universita' degli studi di Messina.
--------------------------------------------------------------------
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 941
+data: 1980-06-11
+titolo: "Modificazione allo statuto dell'Universita' degli studi di Messina."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1980-06-11;941
+codice_redazionale: 080U0941
+vigente: true
+---
 
 IL PRESIDENTE DELLA REPUBBLICA
-------------------------------
 
-Veduto lo statuto dell'Universita' di Messina, approvato con [regio decreto 10 ottobre 1936, n. 1923](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1936-10-10;1923) e modificato con [regio decreto 24 aprile 1939, n. 1090](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-24;1090), e successive modificazioni;
+Veduto lo statuto dell'Universita' di Messina, approvato con [regio decreto 10 ottobre 1936, n. 1923](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1936-10-10;1923) e modificato con [regio decreto 24 aprile 1939, n. 1090](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-24;1090), e successive modificazioni;
 
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20R.%20decreto-legge%2020%20giugno%201935-XIII%20n.%201071%20contenente%20modifiche%20ed%20aggiornamenti%20al%20testo%20unico%20delle%20leggi%20sullistruzione%20superiore.%20036U0073.md);
 
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
+Veduto il [regio decreto 30 settembre 1938, n. 1652](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disposizioni%20sullordinamento%20didattico%20universitario.%20038U1652.md), e successive modificazioni;
 
-Veduta la [legge 11 aprile 1935, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1935-04-11;312);
+Veduta la [legge 11 aprile 1935, n. 312](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1935-04-11;312);
 
 Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
 
@@ -28,38 +28,25 @@ Sentito il parere del Consiglio universitario nazionale;
 
 Sulla proposta del Ministro della pubblica istruzione;
 
-Decreta:
---------
+Decreta: Lo statuto dell'Universita' degli studi di Messina, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
 
-Lo statuto dell'Universita' degli studi di Messina, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+## Articolo unico
 
-Articolo unico
---------------
-
-  
-All'elenco degli insegnamenti complementari del corso di laurea in medicina e chirurgia indicati nell'art. 72 sono aggiunti i seguenti insegnamenti complementari semestrali:  
-immunologia clinica;  
-neurofisiologia;  
-fisiologia applicata;  
-fisiologia dello sport;  
-fisiologia della nutrizione;  
-igiene scolastica;  
-patologia molecolare;  
-virologia oncologica;  
-immunopatologia;  
-neurotraumatologia;  
-traumatologia della strada.  
-  
+All'elenco degli insegnamenti complementari del corso di laurea in medicina e chirurgia indicati nell'art. 72 sono aggiunti i seguenti insegnamenti complementari semestrali:
+ immunologia clinica;
+ neurofisiologia;
+ fisiologia applicata;
+ fisiologia dello sport;
+ fisiologia della nutrizione;
+ igiene scolastica;
+ patologia molecolare;
+ virologia oncologica;
+ immunopatologia;
+ neurotraumatologia;
+ traumatologia della strada.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 11 giugno 1980
+Dato a Roma, addi' 11 giugno 1980
 
-PERTINI SARTI
-
-Visto, il Guardasigilli: SARTI
-
-Registrato alla Corte dei conti, addi' 30 dicembre 1980
-
-Registro n. 122 Istruzione, foglio n. 41
+PERTINI SARTI Visto, il Guardasigilli: SARTI Registrato alla Corte dei conti, addi' 30 dicembre 1980 Registro n. 122 Istruzione, foglio n. 41

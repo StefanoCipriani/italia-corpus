@@ -1,19 +1,21 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 10 gennaio 1984 n. 25
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 502
+data: 1983-06-27
+titolo: "Autorizzazione alla fondazione \"Pro juventute don Carlo Gnocchi\", in Roma, ad accettare un legato."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1983-06-27;502
+codice_redazionale: 083U0502
+vigente: true
+---
 
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 10 gennaio 1984 n. 25
-=============================================================
-
-Autorizzazione alla fondazione "Pro juventute don Carlo Gnocchi", in Roma, ad accettare un legato.
---------------------------------------------------------------------------------------------------
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-25. Decreto del Presidente della Repubblica 10 gennaio 1984, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la fondazione "Pro juventute don Carlo Gnocchi", in Roma, viene autorizzata ad accettare il legato consistente in beni mobili e libretto di risparmio, per un valore di L. 25.593.393, disposto dalla sig.ra Terzoli Maria Petronilla a favore dell'istituto "Don Gnocchi", che si identifica con la fondazione "Pro juventute don Carlo Gnocchi", come si evince dal verbale 20 novembre 1981 del consiglio di amministrazione della fondazione stessa, con testamento olografo 4 gennaio 1962, pubblicato in data 16 settembre 1981, n. 55778/7616 di repertorio, a rogito dott. Riccardo Ferrario, notaio in Milano, registrato a Milano il 22 settembre 1981 al n. 23394.  
-  
-Visto, il Guardasigilli: MARTINAZZOLI  
-Registrato alla Corte dei conti, addi' 15 febbraio 1984  
-Registro n. 2 Presidenza, foglio n. 130
+502.
+
+Decreto del Presidente della Repubblica 27 giugno 1983, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la fondazione "Pro juventute don Carlo Gnocchi", in Roma, viene autorizzata ad accettare il legato, consistente in un libretto a risparmio di L. 2.286.442, disposto dalla sig.ra Zappa Petronilla ved. Cavagnoli con testamento olografo 18 ottobre 1973, pubblicato in data 28 gennaio 1980, numero 52767/12496 di repertorio, a rogito dott. Paolo Consolandi, notaio in Milano, registrato a Milano il 1 febbraio 1980 al n. A/2-02968. 
+ 
+Visto, il Guardasigilli: DARIDA 
+ Registrato alla Corte dei conti, addi' 19 settembre 1983 
+ Registro n. 7 Presidenza, loglio n. 329

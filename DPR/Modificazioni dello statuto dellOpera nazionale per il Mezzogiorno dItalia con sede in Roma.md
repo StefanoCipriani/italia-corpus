@@ -1,19 +1,21 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 12 luglio 1960 n. 797
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 797
+data: 1960-07-12
+titolo: "Modificazioni dello statuto dell'\"Opera nazionale per il Mezzogiorno d'Italia\", con sede in Roma."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1960-07-12;797
+codice_redazionale: 060U0797
+vigente: true
+---
 
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 12 luglio 1960 n. 797
-=============================================================
-
-Modificazioni dello statuto dell'"Opera nazionale per il Mezzogiorno d'Italia", con sede in Roma.
--------------------------------------------------------------------------------------------------
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-797. Decreto del Presidente della Repubblica 12 luglio 1960, col quale, sulla proposta del Presidente del Consiglio dei Ministri, vengono approvate alcune modificazioni allo statuto dell'"Opera nazionale per il Mezzogiorno d'Italia", con sede in Roma.  
-  
-Visto, il Guardasigilli: GONELLA  
-Registrato alla Corte dei conti, addi' 10 agosto 1960  
-Atti del Governo, registro n. 128, foglio n. 153. - VILLA
+797.
+
+Decreto del Presidente della Repubblica 12 luglio 1960, col quale, sulla proposta del Presidente del Consiglio dei Ministri, vengono approvate alcune modificazioni allo statuto dell'"Opera nazionale per il Mezzogiorno d'Italia", con sede in Roma.
+
+Visto, il Guardasigilli: GONELLA
+ Registrato alla Corte dei conti, addi' 10 agosto 1960
+ Atti del Governo, registro n. 128, foglio n. 153. - VILLA

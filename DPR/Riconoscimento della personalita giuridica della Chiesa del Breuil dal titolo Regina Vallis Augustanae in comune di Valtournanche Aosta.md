@@ -1,19 +1,21 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 05 giugno 1965 n. 826
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 826
+data: 1965-06-05
+titolo: "Riconoscimento della personalita' giuridica della Chiesa del Breuil, dal titolo \"Regina Vallis Augustanae\", in comune di Valtournanche (Aosta)."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1965-06-05;826
+codice_redazionale: 065U0826
+vigente: true
+---
 
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 05 giugno 1965 n. 826
-=============================================================
-
-Riconoscimento della personalita' giuridica della Chiesa del Breuil, dal titolo "Regina Vallis Augustanae", in comune di Valtournanche (Aosta).
------------------------------------------------------------------------------------------------------------------------------------------------
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-826. Decreto del Presidente della Repubblica 5 giugno 1965, col quale, sulla proposta del Ministro per l'interno, viene riconosciuta la personalita' giuridica della Chiesa del Breuil, dal titolo "Regina Vallis Augustanae", in frazione Breuil del comune di Valtournanche (Aosta).  
-  
-Visto, il Guardasigilli: REALE  
-Registrato alla Corte dei conti, addi' 7 luglio 1965  
-Atti del Governo, registro n. 195, foglio n. 68. - VILLA
+826.
+
+Decreto del Presidente della Repubblica 5 giugno 1965, col quale, sulla proposta del Ministro per l'interno, viene riconosciuta la personalita' giuridica della Chiesa del Breuil, dal titolo "Regina Vallis Augustanae", in frazione Breuil del comune di Valtournanche (Aosta).
+
+Visto, il Guardasigilli: REALE
+ Registrato alla Corte dei conti, addi' 7 luglio 1965
+ Atti del Governo, registro n. 195, foglio n. 68. - VILLA

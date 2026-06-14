@@ -1,19 +1,21 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 03 giugno 1955 n. 596
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 596
+data: 1955-06-03
+titolo: "Riconoscimento della personalita' giuridica della Chiesa parrocchiale di Santa Lucia V. e M., in Montefiore dell'Aso (Ascoli Piceno)."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1955-06-03;596
+codice_redazionale: 055U0596
+vigente: true
+---
 
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 03 giugno 1955 n. 596
-=============================================================
-
-Riconoscimento della personalita' giuridica della Chiesa parrocchiale di Santa Lucia V. e M., in Montefiore dell'Aso (Ascoli Piceno).
--------------------------------------------------------------------------------------------------------------------------------------
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-596. Decreto del Presidente della Repubblica 3 giugno 1955, col quale, sulla proposta del Ministro per l'interno, viene riconosciuta la personalita' giuridica della Chiesa parrocchiale di Santa Lucia V. e M., in Montefiore dell'Aso (Ascoli Piceno).  
-  
-Visto, il Guardasigilli: MORO  
-Registrato alla Corte dei conti, addi' 27 luglio 1955  
-Atti del Governo, registro n. 91, foglio n. 120. - CARLOMAGNO
+596.
+
+Decreto del Presidente della Repubblica 3 giugno 1955, col quale, sulla proposta del Ministro per l'interno, viene riconosciuta la personalita' giuridica della Chiesa parrocchiale di Santa Lucia V. e M., in Montefiore dell'Aso (Ascoli Piceno).
+
+Visto, il Guardasigilli: MORO
+ Registrato alla Corte dei conti, addi' 27 luglio 1955
+ Atti del Governo, registro n. 91, foglio n. 120. - CARLOMAGNO

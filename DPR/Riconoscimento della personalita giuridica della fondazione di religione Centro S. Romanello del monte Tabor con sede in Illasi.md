@@ -1,19 +1,21 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 15 aprile 1971 n. 308
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 308
+data: 1971-04-15
+titolo: "Riconoscimento della personalita' giuridica della fondazione di religione \"Centro S. Romanello del monte Tabor\", con sede in Illasi."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1971-04-15;308
+codice_redazionale: 071U0308
+vigente: true
+---
 
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 15 aprile 1971 n. 308
-=============================================================
-
-Riconoscimento della personalita' giuridica della fondazione di religione "Centro S. Romanello del monte Tabor", con sede in Illasi.
-------------------------------------------------------------------------------------------------------------------------------------
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-308. Decreto del Presidente della Repubblica 15 aprile 1971, col quale, sulla proposta del Ministro per l'interno, viene riconosciuta la personalita' giuridica ed approvato lo statuto della fondazione di religione "Centro S. Romanello del monte Tabor", con sede in Illasi (Verona).  
-  
-Visto, il Guardasigilli: COLOMBO  
-Registrato alla Corte dei conti, addi' 29 maggio 1971  
-Atti del Governo, registro n. 242, foglio n. 49. - VALENTINI
+308.
+
+Decreto del Presidente della Repubblica 15 aprile 1971, col quale, sulla proposta del Ministro per l'interno, viene riconosciuta la personalita' giuridica ed approvato lo statuto della fondazione di religione "Centro S. Romanello del monte Tabor", con sede in Illasi (Verona).
+
+Visto, il Guardasigilli: COLOMBO
+ Registrato alla Corte dei conti, addi' 29 maggio 1971
+ Atti del Governo, registro n. 242, foglio n. 49. - VALENTINI

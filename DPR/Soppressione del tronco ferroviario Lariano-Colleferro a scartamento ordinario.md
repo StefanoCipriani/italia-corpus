@@ -1,39 +1,31 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 11 marzo 1958 n. 416
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 416
+data: 1958-03-11
+titolo: "Soppressione del tronco ferroviario Lariano-Colleferro a scartamento ordinario."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1958-03-11;416
+codice_redazionale: 058U0416
+vigente: true
+---
 
+## Art. 1.
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 11 marzo 1958 n. 416
-============================================================
-
-Soppressione del tronco ferroviario Lariano-Colleferro a scartamento ordinario.
--------------------------------------------------------------------------------
-
-Art. 1
-------
-
- IL PRESIDENTE DELLA REPUBBLICA   
-  
-Visto il [regio decreto-legge 21 dicembre 1931, n. 1575](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1931-12-21;1575), convertito nella [legge 24 marzo 1932, n. 386](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1932-03-24;386);   
-Visto il [decreto legislativo 7 maggio 1948, n. 598](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1948-05-07;598);   
-Considerato che, con decreto del Ministro per i trasporti del 14 marzo 1956, n. 3472, sulla linea ferroviaria Velletri-Colleferro il servizio ferroviario e' stato soppresso e sostituito con servizio automobilistico, ai sensi dell'art. 1 del citato [regio decreto-legge 21 dicembre 1931, n. 1575](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1931-12-21;1575), eccezione fatta per il tratto di linea Velletri-Lariano che viene usato come raccordo per i trasporti merci;   
-Ritenuta l'opportunita' di sopprimere il tronco Lariano-Colleferro;  
-Udito il parere del Consiglio di amministrazione delle ferrovie dello Stato;   
-Sentito il Consiglio dei Ministri;   
-Sulla proposta del Ministro per i trasporti;   
-  
-Decreta:   
-  
-E' soppresso il tronco ferroviario Lariano-Colleferro a scartamento ordinario.   
-  
+IL PRESIDENTE DELLA REPUBBLICA 
+ 
+ Visto il [regio decreto-legge 21 dicembre 1931, n. 1575](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1931-12-21;1575), convertito nella [legge 24 marzo 1932, n. 386](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20R.%20decreto-legge%2021%20dicembre%201931%20n.%201575%20riguardante%20lesercizio%20delle%20linee%20della%20rete%20delle%20ferrovie%20dello%20Stato.%20032U0386.md); 
+ Visto il [decreto legislativo 7 maggio 1948, n. 598](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1948-05-07;598); 
+ Considerato che, con decreto del Ministro per i trasporti del 14 marzo 1956, n. 3472, sulla linea ferroviaria Velletri-Colleferro il servizio ferroviario e' stato soppresso e sostituito con servizio automobilistico, ai sensi dell'art. 1 del citato [regio decreto-legge 21 dicembre 1931, n. 1575](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1931-12-21;1575), eccezione fatta per il tratto di linea Velletri-Lariano che viene usato come raccordo per i trasporti merci; 
+ Ritenuta l'opportunita' di sopprimere il tronco Lariano-Colleferro;
+ Udito il parere del Consiglio di amministrazione delle ferrovie dello Stato; 
+ Sentito il Consiglio dei Ministri; 
+ Sulla proposta del Ministro per i trasporti; 
+ 
+ Decreta: 
+ 
+ E' soppresso il tronco ferroviario Lariano-Colleferro a scartamento ordinario.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 11 marzo 1958
+Dato a Roma, addi' 11 marzo 1958
 
-GRONCHI ZONI - ANGELINI
-
-Visto, il Guardasigilli: GONELLA
-
-Registrato alla Corte dei conti, addi' 24 aprile 1958
-
-Atti del Governo, registro n. 112, foglio n. 59. - RELLEVA
+GRONCHI ZONI - ANGELINI Visto, il Guardasigilli: GONELLA Registrato alla Corte dei conti, addi' 24 aprile 1958 Atti del Governo, registro n. 112, foglio n. 59. - RELLEVA

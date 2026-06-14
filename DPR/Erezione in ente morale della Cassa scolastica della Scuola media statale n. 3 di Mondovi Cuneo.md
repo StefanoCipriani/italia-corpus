@@ -1,19 +1,21 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 novembre 1964 n. 1481
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 1481
+data: 1964-11-02
+titolo: "Erezione in ente morale della Cassa scolastica della Scuola media statale n. 3 di Mondovi' (Cuneo)."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1964-11-02;1481
+codice_redazionale: 064U1481
+vigente: true
+---
 
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 novembre 1964 n. 1481
-================================================================
-
-Erezione in ente morale della Cassa scolastica della Scuola media statale n. 3 di Mondovi' (Cuneo).
----------------------------------------------------------------------------------------------------
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-1181. Decreto del Presidente della Repubblica 2 novembre 1964, col quale, sulla proposta del Ministro per la pubblica istruzione, la Cassa scolastica della Scuola media statale n. 3 di Mondovi' (Cuneo), viene eretta in ente morale e ne viene approvato lo statuto.  
-  
-Visto, il Guardasigilli: REALE  
-Registrato alla Corte dei conti, addi' 11 gennaio 1965  
-Atti del Governo, registro n. 189, foglio n. 95. - VILLA
+1181.
+
+Decreto del Presidente della Repubblica 2 novembre 1964, col quale, sulla proposta del Ministro per la pubblica istruzione, la Cassa scolastica della Scuola media statale n. 3 di Mondovi' (Cuneo), viene eretta in ente morale e ne viene approvato lo statuto.
+
+Visto, il Guardasigilli: REALE
+ Registrato alla Corte dei conti, addi' 11 gennaio 1965
+ Atti del Governo, registro n. 189, foglio n. 95. - VILLA

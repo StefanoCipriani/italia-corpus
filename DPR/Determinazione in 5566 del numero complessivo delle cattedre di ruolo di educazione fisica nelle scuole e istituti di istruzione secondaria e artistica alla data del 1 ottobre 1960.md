@@ -1,34 +1,26 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 18 aprile 1962 n. 1319
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 1319
+data: 1962-04-18
+titolo: "Determinazione in 5566 del numero complessivo delle cattedre di ruolo di educazione fisica nelle scuole e istituti di istruzione secondaria e artistica alla data del 1 ottobre 1960."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1962-04-18;1319
+codice_redazionale: 062U1319
+vigente: true
+---
 
+## Art. 1.
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 18 aprile 1962 n. 1319
-==============================================================
+IL PRESIDENTE DELLA REPUBBLICA
 
-Determinazione in 5566 del numero complessivo delle cattedre di ruolo di educazione fisica nelle scuole e istituti di istruzione secondaria e artistica alla data del 1 ottobre 1960.
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+ Visto l'[art. 13 della legge 7 febbraio 1958, n. 88](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1958-02-07;88#art_13);
+ Sulla proposta del Ministro per la pubblica istruzione, di concerto con quello per il tesoro;
 
-Art. 1
-------
+ Decreta:
 
- IL PRESIDENTE DELLA REPUBBLICA  
-  
-Visto l'[art. 13 della legge 7 febbraio 1958, n. 88](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1958-02-07;88~art13);  
-Sulla proposta del Ministro per la pubblica istruzione, di concerto con quello per il tesoro;  
-  
-Decreta:  
-  
-Il numero complessivo delle cattedre di ruolo di educazione fisica nelle scuole e istituti d'istruzione secondaria e artistica alla data del 1 ottobre 1960, e' determinato in cinquemilacinquecentosessantasei.  
-  
+ Il numero complessivo delle cattedre di ruolo di educazione fisica nelle scuole e istituti d'istruzione secondaria e artistica alla data del 1 ottobre 1960, e' determinato in cinquemilacinquecentosessantasei.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 18 aprile 1962
+Dato a Roma, addi' 18 aprile 1962
 
-GRONCHI GUI - TREMELLONI
-
-Visto, il Guardasigilli: BOSCO
-
-Registrato alla Corte dei conti, addi' 31 agosto 1962
-
-Atti del Governo, registro n. 158, foglio n. 80. - VILLA
+GRONCHI GUI - TREMELLONI Visto, il Guardasigilli: BOSCO Registrato alla Corte dei conti, addi' 31 agosto 1962 Atti del Governo, registro n. 158, foglio n. 80. - VILLA

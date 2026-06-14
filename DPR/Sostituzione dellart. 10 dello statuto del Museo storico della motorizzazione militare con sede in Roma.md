@@ -1,19 +1,21 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 18 novembre 1964 n. 1417
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 1417
+data: 1964-11-18
+titolo: "Sostituzione dell'art. 10 dello statuto del Museo storico della motorizzazione militare, con sede in Roma."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1964-11-18;1417
+codice_redazionale: 064U1417
+vigente: true
+---
 
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 18 novembre 1964 n. 1417
-================================================================
-
-Sostituzione dell'art. 10 dello statuto del Museo storico della motorizzazione militare, con sede in Roma.
-----------------------------------------------------------------------------------------------------------
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-1417. Decreto del Presidente della Repubblica 18 novembre 1964, col quale, sulla proposta del Ministro per la difesa, viene sostituito l'art. 10 dello statuto del Museo storico della motorizzazione militare, con sede in Roma.  
-  
-Visto, il Guardasigilli: REALE  
-Registrato alla Corte dei conti, addi' 16 dicembre 1964  
-Atti del Governo, registro n. 189, foglio n. 16. - VILLA
+1417.
+
+Decreto del Presidente della Repubblica 18 novembre 1964, col quale, sulla proposta del Ministro per la difesa, viene sostituito l'art. 10 dello statuto del Museo storico della motorizzazione militare, con sede in Roma.
+
+Visto, il Guardasigilli: REALE
+ Registrato alla Corte dei conti, addi' 16 dicembre 1964
+ Atti del Governo, registro n. 189, foglio n. 16. - VILLA

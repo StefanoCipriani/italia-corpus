@@ -1,19 +1,22 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 10 aprile 1978 n. 179
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 746
+data: 1977-09-07
+titolo: "Autorizzazione alla fondazione \"Pro juventute don Carlo Gnocchi\", in Roma, ad accettare un legato."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1977-09-07;746
+codice_redazionale: 077U0746
+vigente: true
+---
 
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 10 aprile 1978 n. 179
-=============================================================
-
-Autorizzazione alla fondazione "Pro juventute don Carlo Gnocchi", in Roma, ad accettare un legato.
---------------------------------------------------------------------------------------------------
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-179. Decreto del Presidente della Repubblica 10 aprile 1978, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la fondazione "Pro juventute don Carlo Gnocchi", in Roma, viene autorizzata ad accettare il legato disposto dalla sig.ra Bandinelli Margherita ved. Cristofori in favore dell'Opera mutilatini don Carlo Gnocchi, che si identifica con la fondazione "Pro juventute don Carlo Gnocchi", con testamento olografo 20 aprile 1970, pubblicato dal notaio dott. Pietro Cassina in data 27 novembre 1973, n. 79387 di repertorio e n. 18610 di raccolta, registrato a Milano il 12 dicembre 1973 con il n. A/ I-03809/ 71 M, serie E matr. 18, consistente nella nuda proprieta' di un immobile sito in Milano, via Superga, 13, distinto nel nuovo catasto edilizio urbano alla partita 253585, foglio 8, mappale 914, sub 16, vani catastali 7, ed in una somma in denaro di L. 5.000.000.  
-  
-Visto, il Guardasigilli: BONIFACIO  
-Registrato alla Corte dei conti, addi' 8 maggio 1978  
-Registro n. 3 Presidenza, foglio n. 271
+746.
+
+Decreto del Presidente della Repubblica 7 settembre 1977, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la fondazione "Pro juventute don Carlo Gnocchi", in Roma, viene autorizzata ad accettare il legato disposto dalla sig.ra Luigia Sangiorgi in favore dei mutilatini don Gnocchi, che si identificano con la fondazione "Pro juventute don Carlo Gnocchi", con testamento olografo 24 novembre 1963, pubblicato a rogito del notaio dott.
+ Angelo Gallizia di Milano il 18 luglio 1975, n. 12497 di repertorio, registrato a Lodi (Milano) il 23 luglio 1975 al n. 2819, vol. 5, consistente nella somma di lire 2.000.000.
+
+Visto, il Guardasigilli: BONIFACIO
+ Registrato alla Corte dei conti, addi' 10 ottobre 1977
+ Registro n. 8 Presidenza, foglio n. 65

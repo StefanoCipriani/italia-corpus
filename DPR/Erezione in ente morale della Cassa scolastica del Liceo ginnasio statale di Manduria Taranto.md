@@ -1,19 +1,21 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 agosto 1964 n. 1228
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 1228
+data: 1964-08-31
+titolo: "Erezione in ente morale della Cassa scolastica del Liceo ginnasio statale di Manduria (Taranto)."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1964-08-31;1228
+codice_redazionale: 064U1228
+vigente: true
+---
 
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 agosto 1964 n. 1228
-==============================================================
-
-Erezione in ente morale della Cassa scolastica del Liceo ginnasio statale di Manduria (Taranto).
-------------------------------------------------------------------------------------------------
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-1228. Decreto del Presidente della Repubblica 31 agosto 1964, col quale, sulla proposta del Ministro per la pubblica istruzione, la Cassa scolastica del Liceo ginnasio statale di Manduria (Taranto), viene eretta in ente morale e ne viene approvato lo statuto.  
-  
-Visto, il Guardasigilli: REALE  
-Registrato alla Corte dei conti, addi' 16 novembre 1964  
-Atti del Governo, registro n. 188, foglio n. 80. - DI PRETORO
+1228.
+
+Decreto del Presidente della Repubblica 31 agosto 1964, col quale, sulla proposta del Ministro per la pubblica istruzione, la Cassa scolastica del Liceo ginnasio statale di Manduria (Taranto), viene eretta in ente morale e ne viene approvato lo statuto.
+
+Visto, il Guardasigilli: REALE
+ Registrato alla Corte dei conti, addi' 16 novembre 1964
+ Atti del Governo, registro n. 188, foglio n. 80. - DI PRETORO

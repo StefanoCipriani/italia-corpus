@@ -1,57 +1,41 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 giugno 1976 n. 447
-
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 giugno 1976 n. 447
-=============================================================
-
-Norme sul trattamento tributario degli assegni familiari e delle quote di aggiunta di famiglia nonche' delle maggiorazioni della pensione sostitutive degli assegni familiari.
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 447
+data: 1976-06-30
+titolo: "Norme sul trattamento tributario degli assegni familiari e delle quote di aggiunta di famiglia nonche' delle maggiorazioni della pensione sostitutive degli assegni familiari."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1976-06-30;447
+codice_redazionale: 076U0447
+vigente: true
+---
 
 IL PRESIDENTE DELLA REPUBBLICA
-------------------------------
 
-Visto l'[art. 87, comma quinto, della Costituzione](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27~art87-com5);
+Visto l'[art. 87, comma quinto, della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87-com5);
 
-Visto l'[art. 29 della legge 2 dicembre 1975, n. 576](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1975-12-02;576~art29);
+Visto l'[art. 29 della legge 2 dicembre 1975, n. 576](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1975-12-02;576#art_29);
 
-Visto il [decreto del Presidente della Repubblica 29 settembre 1973, n. 597](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1973-09-29;597), e successive modificazioni;
+Visto il [decreto del Presidente della Repubblica 29 settembre 1973, n. 597](Istituzione%20e%20disciplina%20dellimposta%20sul%20reddito%20delle%20persone%20fisiche.md), e successive modificazioni;
 
-Udito il parere della Commissione parlamentare prevista dall'[art. 17 della legge 9 ottobre 1971, n. 825](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1971-10-09;825~art17);
+Udito il parere della Commissione parlamentare prevista dall'[art. 17 della legge 9 ottobre 1971, n. 825](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1971-10-09;825#art_17);
 
 Sentito il Consiglio dei Ministri;
 
-Sulla
------
+Sulla proposta del Presidente del Consiglio dei Ministri, di concerto con i Ministri per le finanze, per il tesoro, per il bilancio e la programmazione economica e per il lavoro e la previdenza sociale; Decreta:
 
-proposta del Presidente del Consiglio dei Ministri, di concerto con i Ministri per le finanze, per il tesoro, per il bilancio e la programmazione economica e per il lavoro e la previdenza sociale; Decreta:
+## Art. 1.
 
-Art. 1
-------
+Gli assegni familiari e le quote di aggiunta di famiglia nonche' le maggiorazioni della pensione sostitutive degli assegni familiari, percepiti dagli aventi diritto nell'anno 1977, concorrono a formare la base imponibile dell'imposta sul reddito delle persone fisiche nella misura del cinquanta per cento dell'ammontare di essi.
+ A decorrere dal 1 gennaio 1978 gli assegni, le quote e le maggiorazioni di cui al precedente comma non concorrono a formare la base imponibile dell'imposta sul reddito delle persone fisiche.
+ La misura percentuale prevista nel primo comma e la esclusione di cui al secondo comma sono commisurate agli importi stabiliti nei riguardi degli aventi diritto dalle norme del testo unico approvato con [decreto del Presidente della Repubblica 30 maggio 1955, n. 797](Testo%20unico%20delle%20norme%20concernenti%20gli%20assegni%20familiari.md), e successive modificazioni e integrazioni, e dalle disposizioni degli [articoli 6](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1952-04-08;212#art_6) e [7 della legge 8 aprile 1952, n. 212](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1952-04-08;212#art_7), e successive modificazioni.
 
-  
-Gli assegni familiari e le quote di aggiunta di famiglia nonche' le maggiorazioni della pensione sostitutive degli assegni familiari, percepiti dagli aventi diritto nell'anno 1977, concorrono a formare la base imponibile dell'imposta sul reddito delle persone fisiche nella misura del cinquanta per cento dell'ammontare di essi.  
-A decorrere dal 1 gennaio 1978 gli assegni, le quote e le maggiorazioni di cui al precedente comma non concorrono a formare la base imponibile dell'imposta sul reddito delle persone fisiche.  
-La misura percentuale prevista nel primo comma e la esclusione di cui al secondo comma sono commisurate agli importi stabiliti nei riguardi degli aventi diritto dalle norme del testo unico approvato con [decreto del Presidente della Repubblica 30 maggio 1955, n. 797](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1955-05-30;797), e successive modificazioni e integrazioni, e dalle disposizioni degli [articoli 6](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1952-04-08;212~art6) e [7 della legge 8 aprile 1952, n. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1952-04-08;212~art7), e successive modificazioni.  
+## Art. 2.
 
-Art. 2
-------
-
-  
-  
-Le maggiorazioni del dieci per cento previste dal [secondo comma dell'art. 14 del decreto-legge 2 marzo 1974, n. 30](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1974-03-02;30~art14-com2), convertito, con modificazioni, nella [legge 16 aprile 1974, n. 114, nonche' dagli articoli 5](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1974-04-16;114~art5), ultimo comma, e 6, ultimo comma, della [legge 31 luglio 1975, n. 364](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1975-07-31;364), sono ridotte per l'anno 1977 del cinquanta per cento.  
-Le maggiorazioni stesse cesseranno di avere applicazione dal 1 gennaio 1978.   
-Il contributo posto a carico del bilancio dello Stato dal [terzo comma dell'art. 14 del decreto-legge 2 marzo 1974, n. 30](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1974-03-02;30~art14-com3), convertito, con modificazioni, nella [legge 16 aprile 1974, n. 114](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1974-04-16;114), e' ridotto del cinquanta per cento per l'anno 1977 ed e' soppresso a partire dall'anno 1978.   
-  
+Le maggiorazioni del dieci per cento previste dal [secondo comma dell'art. 14 del decreto-legge 2 marzo 1974, n. 30](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1974-03-02;30#art_14-com2), convertito, con modificazioni, nella [legge 16 aprile 1974, n. 114, nonche' dagli articoli 5](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%202%20marzo%201974%20n.%2030%20concernente%20norme%20per%20il%20miglioramento%20di%20alcuni%20trattamenti%20previdenziali%20ed%20assistenziali.md), ultimo comma, e 6, ultimo comma, della [legge 31 luglio 1975, n. 364](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1975-07-31;364), sono ridotte per l'anno 1977 del cinquanta per cento.
+Le maggiorazioni stesse cesseranno di avere applicazione dal 1 gennaio 1978. 
+ Il contributo posto a carico del bilancio dello Stato dal [terzo comma dell'art. 14 del decreto-legge 2 marzo 1974, n. 30](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1974-03-02;30#art_14-com3), convertito, con modificazioni, nella [legge 16 aprile 1974, n. 114](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%202%20marzo%201974%20n.%2030%20concernente%20norme%20per%20il%20miglioramento%20di%20alcuni%20trattamenti%20previdenziali%20ed%20assistenziali.md), e' ridotto del cinquanta per cento per l'anno 1977 ed e' soppresso a partire dall'anno 1978.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 30 giugno 1976
+Dato a Roma, addi' 30 giugno 1976
 
-LEONE MORO - STAMMATI - COLOMBO - ANDREOTTI - TOROS
-
-Visto, il Guardasigilli: BONIFACIO
-
-Registrato alla Corte dei conti, addi' 2 luglio 1976
-
-Atti di Governo, registro n. 7, foglio n. 38
+LEONE MORO - STAMMATI - COLOMBO - ANDREOTTI - TOROS Visto, il Guardasigilli: BONIFACIO Registrato alla Corte dei conti, addi' 2 luglio 1976 Atti di Governo, registro n. 7, foglio n. 38

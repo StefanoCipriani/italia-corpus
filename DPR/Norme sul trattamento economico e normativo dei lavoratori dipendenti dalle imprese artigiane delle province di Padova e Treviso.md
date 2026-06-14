@@ -1,20 +1,20 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 26 dicembre 1961 n. 1807
-
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 26 dicembre 1961 n. 1807
-================================================================
-
-Norme sul trattamento economico e normativo dei lavoratori dipendenti dalle imprese artigiane delle province di Padova e Treviso.
----------------------------------------------------------------------------------------------------------------------------------
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 1807
+data: 1961-12-26
+titolo: "Norme sul trattamento economico e normativo dei lavoratori dipendenti dalle imprese artigiane delle province di Padova e Treviso."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1961-12-26;1807
+codice_redazionale: 061U1807
+vigente: true
+---
 
 IL PRESIDENTE DELLA REPUBBLICA
-------------------------------
 
-Visto l'[art. 87, comma quinto, della Costituzione](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27~art87-com5);
+Visto l'[art. 87, comma quinto, della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87-com5);
 
-Vista a [legge 14 luglio 1959, n. 741](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1959-07-14;741), che delega il Governo ad emanare le norme transitorie per garantire minimi di trattamento economico e normativo ai lavoratori;
+Vista a [legge 14 luglio 1959, n. 741](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1959-07-14;741), che delega il Governo ad emanare le norme transitorie per garantire minimi di trattamento economico e normativo ai lavoratori;
 
-Vista la [legge 1 ottobre 1960, n. 1027](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1960-10-01;1027), recante modifiche alla predetta [legge 14 luglio 1959, n. 741](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1959-07-14;741);
+Vista la [legge 1 ottobre 1960, n. 1027](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1960-10-01;1027), recante modifiche alla predetta [legge 14 luglio 1959, n. 741](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1959-07-14;741);
 
 Visti, per la provincia di Padova:
 
@@ -40,103 +40,18 @@ Vista la pubblicazione nell'apposito Bollettino, n. 3 della provincia di Padova,
 
 Sentito il Consiglio dei Ministri;
 
-Sulla
------
+Sulla proposta del Ministro per il lavoro e la previdenza sociale; Decreta:
 
-proposta del Ministro per il lavoro e la previdenza sociale; Decreta:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-I rapporti di lavoro costituiti per le attivita' artigiane per le quali sono stati stipulati:  
-per la provincia di Padova, l'accordo collettivo aprile 1951, relativo alla determinazione dell'indennita' consumo ferri per i dipendenti dalle aziende artigiane del legno, l'accordo collettivo 10 luglio 1956, relativo all'indennita' vestiario da corrispondere ai dipendenti di alle aziende artigiane marmisti, l'accordo collettivo 21 aprile 1957 per gli operai ed apprendisti dipendenti da aziende artigiane in genere e dell'abbigliamento, l'accordo collettivo 26 aprile 1957, relativo alla determinazione della paga oraria per i lavoratori e apprendisti dipendenti da aziende artigiane, l'accordo collettivo 5 novembre 1957, relativo all'indennita' vestiario e alle indennita' per ferie, festivita', gratifica natalizia, per i dipendenti dalle aziende artigiane di pittori, decoratori e stuccatori, l'accordo collettivo 23 dicembre 1957, relativo alla determinazione della retribuzione per i dipendenti dalle aziende artigiane edili, l'accordo collettivo 21 novembre 1958, relativo alla determinazione delle tariffe di cottimo e della paga giornaliera per gli operai dipendenti dalle aziende produttrici di scope a mano e a macchina;  
-per la provincia di Treviso, il contratto collettivo 14 febbraio 1959, relativo ai dipendenti da aziende artigiane;  
-sono regolati da norme giuridiche uniformi alle clausole del contratto e degli accordi anzidetti, annessi al presente decreto, purche' compatibili, per quanto riguarda le attivita' artigiane per le quali sono stati stipulati appositi contratti collettivi nazionali, con quelle concernenti la relativa disciplina nazionale.  
-I minimi di trattamento economico e normativo cosi' stabiliti sono inderogabili nei confronti di tutti i lavoratori dipendenti dalle imprese artigiane esercenti le attivita' indicate nel contratto e negli accordi di cui al primo comma, delle province di Padova e Treviso.  
-  
+I rapporti di lavoro costituiti per le attivita' artigiane per le quali sono stati stipulati:
+ per la provincia di Padova, l'accordo collettivo aprile 1951, relativo alla determinazione dell'indennita' consumo ferri per i dipendenti dalle aziende artigiane del legno, l'accordo collettivo 10 luglio 1956, relativo all'indennita' vestiario da corrispondere ai dipendenti di alle aziende artigiane marmisti, l'accordo collettivo 21 aprile 1957 per gli operai ed apprendisti dipendenti da aziende artigiane in genere e dell'abbigliamento, l'accordo collettivo 26 aprile 1957, relativo alla determinazione della paga oraria per i lavoratori e apprendisti dipendenti da aziende artigiane, l'accordo collettivo 5 novembre 1957, relativo all'indennita' vestiario e alle indennita' per ferie, festivita', gratifica natalizia, per i dipendenti dalle aziende artigiane di pittori, decoratori e stuccatori, l'accordo collettivo 23 dicembre 1957, relativo alla determinazione della retribuzione per i dipendenti dalle aziende artigiane edili, l'accordo collettivo 21 novembre 1958, relativo alla determinazione delle tariffe di cottimo e della paga giornaliera per gli operai dipendenti dalle aziende produttrici di scope a mano e a macchina;
+ per la provincia di Treviso, il contratto collettivo 14 febbraio 1959, relativo ai dipendenti da aziende artigiane;
+sono regolati da norme giuridiche uniformi alle clausole del contratto e degli accordi anzidetti, annessi al presente decreto, purche' compatibili, per quanto riguarda le attivita' artigiane per le quali sono stati stipulati appositi contratti collettivi nazionali, con quelle concernenti la relativa disciplina nazionale.
+ I minimi di trattamento economico e normativo cosi' stabiliti sono inderogabili nei confronti di tutti i lavoratori dipendenti dalle imprese artigiane esercenti le attivita' indicate nel contratto e negli accordi di cui al primo comma, delle province di Padova e Treviso.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 26 dicembre 1961
+Dato a Roma, addi' 26 dicembre 1961
 
-GRONCHI FANFANI - SULLO
-
-Visto, il Guardasigilli: BOSCO
-
-Registrato alla Corte dei conti, addi' 9 maggio 1962
-
-Atti del Governo, registro n. 146, foglio n. 15. - VILLA
-
-Allegato
-
-ACCORDO COLLETTIVO 3 APRILE 1951 RELATIVO ALLA DETERMINAZIONE DELL'INDENNITA' CONSUMO FERRI PER I DIPENDENTI DALLE AZIENDE ARTIGIANE DEL LEGNO DELLA PROVINCIA DI PADOVA.   
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=061U180700100010110001&dgu=1962-06-04&art.dataPubblicazioneGazzetta=1962-06-04&art.codiceRedazionale=061U1807)
-  
-  
-  
-  
-  
-ACCORDO COLLETTIVO 10 LUGLIO 1956 PER L'INDENNITA' VESTIARIO DA CORRISPONDERE Al DIPENDENTI DA AZIENDE ARTIGIANE MARMISTI DELLA PROVINCIA DI PADOVA.   
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=061U180700100010110002&dgu=1962-06-04&art.dataPubblicazioneGazzetta=1962-06-04&art.codiceRedazionale=061U1807)
-  
-  
-  
-  
-  
-ACCORDO COLLETTIVO 26 APRILE 1957 PER GLI OPERAI ED APPRENDISTI DIPENDENTI DA AZIENDE ARTIGIANE IN GENERE E DELL'ABBIGLIAMENTO DELLA PROVINCIA DI PADOVA.   
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=061U180700100010110003&dgu=1962-06-04&art.dataPubblicazioneGazzetta=1962-06-04&art.codiceRedazionale=061U1807)
-  
-  
-  
-  
-  
-ACCORDO COLLETTIVO 26 APRILE 1957 RELATIVO ALLA DETERMINAZIONE DELLA PAGA ORARIA PER I LAVORATORI E APPRENDISTI DIPENDENTI DA AZIENDE ARTIGIANE DELLA PROVINCIA DI PADOVA.   
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=061U180700100010110004&dgu=1962-06-04&art.dataPubblicazioneGazzetta=1962-06-04&art.codiceRedazionale=061U1807)
-  
-  
-  
-  
-  
-ACCORDO COLLETTIVO 5 NOVEMBRE 1957 PER L'INDENNITA' VESTIARIO E LE INDENNITA' PER FERIE, FESTIVITA', GRATIFICA NATALIZIA PER I DIPENDENTI DA AZIENDE ARTIGIANE PITTORI, DECORATORI E STUCCATORI DELLA PROVINCIA DI PADOVA.   
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=061U180700100010110005&dgu=1962-06-04&art.dataPubblicazioneGazzetta=1962-06-04&art.codiceRedazionale=061U1807)
-  
-  
-  
-  
-  
-ACCORDO COLLETTIVO 23 DICEMBRE 1957 RELATIVO ALLA DETERMINAZIONE DELLA RETRIBUZIONE PER I DIPENDENTI DA AZIENDE ARTIGIANE EDILI DELLA PROVINCIA DI PADOVA.   
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=061U180700100010110006&dgu=1962-06-04&art.dataPubblicazioneGazzetta=1962-06-04&art.codiceRedazionale=061U1807)
-  
-  
-  
-  
-  
-ACCORDO COLLETTIVO 21 NOVEMBRE 1958 PER LA DETERMINAZIONE DELLE TARIFFE DI COTTIMO E DELLA PAGA GIORNALIERA PER GLI OPERAI DIPENDENTI DA AZIENDE PRODUTTRICI DI SCOPE A MANO E A MACCHINA DELLA PROVINCIA DI PADOVA.   
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=061U180700100010110007&dgu=1962-06-04&art.dataPubblicazioneGazzetta=1962-06-04&art.codiceRedazionale=061U1807)
-  
-  
-  
-  
-  
-CONTRATTO COLLETTIVO 14 FEBBRAIO 1959 PER I DIPENDENTI DA AZIENDE ARTIGIANE DELLA PROVINCIA DI TREVISO.   
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=061U180700100010110008&dgu=1962-06-04&art.dataPubblicazioneGazzetta=1962-06-04&art.codiceRedazionale=061U1807)
-  
+GRONCHI FANFANI - SULLO Visto, il Guardasigilli: BOSCO Registrato alla Corte dei conti, addi' 9 maggio 1962 Atti del Governo, registro n. 146, foglio n. 15. - VILLA

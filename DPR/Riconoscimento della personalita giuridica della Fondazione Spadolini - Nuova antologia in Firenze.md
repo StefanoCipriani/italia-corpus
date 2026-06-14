@@ -1,19 +1,21 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 23 luglio 1980 n. 612
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 612
+data: 1980-07-23
+titolo: "Riconoscimento della personalita' giuridica della \"Fondazione Spadolini - Nuova antologia\", in Firenze."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1980-07-23;612
+codice_redazionale: 080U0612
+vigente: true
+---
 
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 23 luglio 1980 n. 612
-=============================================================
-
-Riconoscimento della personalita' giuridica della "Fondazione Spadolini - Nuova antologia", in Firenze.
--------------------------------------------------------------------------------------------------------
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-612. Decreto del Presidente della Repubblica 23 luglio 1980, col quale, sulla proposta del Ministro per i beni culturali e ambientali, viene riconosciuta la personalita' giuridica ed approvato lo statuto della "Fondazione Spadolini - Nuova antologia", in Firenze.  
-  
-Visto, il Guardasigilli: MORLINO  
-Registrato alla Corte dei conti, addi' 25 settembre 1980  
-Registro n. 16 Beni culturali, foglio n. 238
+612.
+
+Decreto del Presidente della Repubblica 23 luglio 1980, col quale, sulla proposta del Ministro per i beni culturali e ambientali, viene riconosciuta la personalita' giuridica ed approvato lo statuto della "Fondazione Spadolini - Nuova antologia", in Firenze.
+
+Visto, il Guardasigilli: MORLINO
+ Registrato alla Corte dei conti, addi' 25 settembre 1980
+ Registro n. 16 Beni culturali, foglio n. 238

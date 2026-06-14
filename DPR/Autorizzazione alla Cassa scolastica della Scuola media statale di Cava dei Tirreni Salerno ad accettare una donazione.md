@@ -1,19 +1,21 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 26 giugno 1955 n. 1218
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 1218
+data: 1955-06-26
+titolo: "Autorizzazione alla Cassa scolastica della Scuola media statale di Cava dei Tirreni (Salerno) ad accettare una donazione."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1955-06-26;1218
+codice_redazionale: 055U1218
+vigente: true
+---
 
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 26 giugno 1955 n. 1218
-==============================================================
-
-Autorizzazione alla Cassa scolastica della Scuola media statale di Cava dei Tirreni (Salerno) ad accettare una donazione.
--------------------------------------------------------------------------------------------------------------------------
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-1218. Decreto del Presidente della Repubblica 26 giugno 1955, col quale, sulla proposta del Ministro per la pubblica istruzione, la Cassa scolastica della Scuola media statale di Cava dei Tirreni (Salerno) viene autorizzata ad accettare la donazione di lire 150.000 (centocinquantamila) nominali in titoli di Stato, allo scopo di istituire, col relativo reddito, un premio di studio annuo intitolato al "Can. don Carlo Canale".  
-  
-Visto, il Guardasigilli: MORO  
-Registrato alla Corte dei conti, addi' 6 dicembre 1955  
-Atti del Governo, registro n. 94, foglio n. 67. - CARLOMAGNO
+1218.
+
+Decreto del Presidente della Repubblica 26 giugno 1955, col quale, sulla proposta del Ministro per la pubblica istruzione, la Cassa scolastica della Scuola media statale di Cava dei Tirreni (Salerno) viene autorizzata ad accettare la donazione di lire 150.000 (centocinquantamila) nominali in titoli di Stato, allo scopo di istituire, col relativo reddito, un premio di studio annuo intitolato al "Can. don Carlo Canale".
+
+Visto, il Guardasigilli: MORO
+ Registrato alla Corte dei conti, addi' 6 dicembre 1955
+ Atti del Governo, registro n. 94, foglio n. 67. - CARLOMAGNO

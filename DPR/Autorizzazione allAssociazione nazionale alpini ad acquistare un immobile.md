@@ -1,19 +1,21 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 20 luglio 1955 n. 833
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 833
+data: 1955-07-20
+titolo: "Autorizzazione all'Associazione nazionale alpini ad acquistare un immobile."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1955-07-20;833
+codice_redazionale: 055U0833
+vigente: true
+---
 
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 20 luglio 1955 n. 833
-=============================================================
-
-Autorizzazione all'Associazione nazionale alpini ad acquistare un immobile.
----------------------------------------------------------------------------
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-833. Decreto del Presidente della Repubblica 20 luglio 1955, col quale, sulla proposta del Ministro per la difesa, l'Associazione nazionale alpini viene autorizzata a procedere all'acquisto di un immobile.  
-  
-Visto, il Guardasigilli: MORO  
-Registrato alla Corte del conti, addi' 6 settembre 1955  
-Atti del Governo, registro n. 92, foglio n. 141. - CARLOMAGNO
+833.
+
+Decreto del Presidente della Repubblica 20 luglio 1955, col quale, sulla proposta del Ministro per la difesa, l'Associazione nazionale alpini viene autorizzata a procedere all'acquisto di un immobile.
+
+Visto, il Guardasigilli: MORO
+ Registrato alla Corte del conti, addi' 6 settembre 1955
+ Atti del Governo, registro n. 92, foglio n. 141. - CARLOMAGNO

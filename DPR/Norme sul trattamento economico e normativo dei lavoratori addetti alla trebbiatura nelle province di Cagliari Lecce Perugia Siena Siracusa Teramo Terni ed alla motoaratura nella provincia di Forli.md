@@ -1,20 +1,20 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 gennaio 1962 n. 892
-
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 gennaio 1962 n. 892
-==============================================================
-
-Norme sul trattamento economico e normativo dei lavoratori addetti alla trebbiatura nelle province di Cagliari, Lecce, Perugia, Siena, Siracusa, Teramo, Terni, ed alla motoaratura nella provincia di Forli'.
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 892
+data: 1962-01-02
+titolo: "Norme sul trattamento economico e normativo dei lavoratori addetti alla trebbiatura nelle province di Cagliari, Lecce, Perugia, Siena, Siracusa, Teramo, Terni, ed alla motoaratura nella provincia di Forli'."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1962-01-02;892
+codice_redazionale: 062U0892
+vigente: true
+---
 
 IL PRESIDENTE DELLA REPUBBLICA
-------------------------------
 
-Visto l'[art. 87, comma quinto, della Costituzione](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27~art87-com5);
+Visto l'[art. 87, comma quinto, della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87-com5);
 
-Visto la [legge 14 luglio 1959, n. 741](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1959-07-14;741), che delega il Governo ad emanare norme transitorie per garantire minimi di trattamento economico e normativo ai lavoratori;
+Visto la [legge 14 luglio 1959, n. 741](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1959-07-14;741), che delega il Governo ad emanare norme transitorie per garantire minimi di trattamento economico e normativo ai lavoratori;
 
-Vista la [legge 1 ottobre 1960, n. 1027](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1960-10-01;1027), recante modifiche alla predetta, [legge 14 luglio 1959, n. 741](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1959-07-14;741);
+Vista la [legge 1 ottobre 1960, n. 1027](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1960-10-01;1027), recante modifiche alla predetta, [legge 14 luglio 1959, n. 741](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1959-07-14;741);
 
 Visto, per la provincia di Cagliari, l'accordo collettivo 20 giugno 1958, per il personale dipendente dalle aziende esercenti la, trebbiatura per conto terzi, stipulato tra l'Associazione Provinciale degli Industriali e l'Unione Sindacale Provinciale - C.I.S.L. -;
 
@@ -36,102 +36,24 @@ Vista la pubblicazione nell'apposito Bollettino, n. 6 della provincia di Cagliar
 
 Sentito il Consiglio dei Ministri;
 
-Sulla
------
+Sulla proposta del Ministro per il lavoro e la previdenza sociale; Decreta:
 
-proposta del Ministro per il lavoro e la previdenza sociale; Decreta:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-I rapporti di lavoro costituiti per le attivita' per le quali sono stati stipulati:  
-- per la provincia di Cagliari, l'accordo collettivi 20 giugno 1958, relativo al personale dipendente dalle aziende esercenti la trebbiatura per conto terzi;  
-- per la provincia di Lecce, il contratto collettivo 9 luglio 1959, relativo ai lavoratori dipendenti dalle aziende esercenti la trebbiatura a macchina dei cereali;  
-- per la provincia di Perugia, l'accordo collettivo 27 giugno 1959, relativo agli operai addetti alla trebbitura;  
-- per la provincia di Siena, l'accordo collettivo luglio 1959, relativo agli addetti alla trebbiatura;  
-- per la provincia di Siracusa, il contratto collettivo 3 luglio 1959, relativo ai lavoratori addetti alla trebbiatura meccanica;  
-- per la provincia di Teramo, il contratto collettivo 14 giugno 1960, relativo agli addetti alla trebbiatura dei cereali;  
-- per la provincia di Terni, l'accordo collettivo 30 giugno 1954, relativo agli operai dipendenti dalle aziende esercenti l'industria della trebbiatura;  
-- per la provincia di Forli', l'accordo collettivo 1 agosto 1958, relativo ai lavoratori addetti alla motoaratura;  
-sono regolati da norme giuridiche uniformi alle clausole dei contratti e degli accordi anzidetti, annessi al presente decreto.  
-I minimi di trattamento economico normativo cosi' stabiliti sono inderogabili nei confronti di tutti i lavoratori considerati nei contratti ed accordi di cui al primo comma, addetti alla trebbiatura delle province di Cagliari, Lecce, Perugia, Siena, Siracusa, Teramo e Terni ed alla motoaratura della provincia di Forli'.  
-  
+I rapporti di lavoro costituiti per le attivita' per le quali sono stati stipulati:
+ - per la provincia di Cagliari, l'accordo collettivi 20 giugno 1958, relativo al personale dipendente dalle aziende esercenti la trebbiatura per conto terzi;
+ - per la provincia di Lecce, il contratto collettivo 9 luglio 1959, relativo ai lavoratori dipendenti dalle aziende esercenti la trebbiatura a macchina dei cereali;
+ - per la provincia di Perugia, l'accordo collettivo 27 giugno 1959, relativo agli operai addetti alla trebbitura;
+ - per la provincia di Siena, l'accordo collettivo luglio 1959, relativo agli addetti alla trebbiatura;
+ - per la provincia di Siracusa, il contratto collettivo 3 luglio 1959, relativo ai lavoratori addetti alla trebbiatura meccanica;
+ - per la provincia di Teramo, il contratto collettivo 14 giugno 1960, relativo agli addetti alla trebbiatura dei cereali;
+ - per la provincia di Terni, l'accordo collettivo 30 giugno 1954, relativo agli operai dipendenti dalle aziende esercenti l'industria della trebbiatura;
+ - per la provincia di Forli', l'accordo collettivo 1 agosto 1958, relativo ai lavoratori addetti alla motoaratura;
+sono regolati da norme giuridiche uniformi alle clausole dei contratti e degli accordi anzidetti, annessi al presente decreto.
+ I minimi di trattamento economico normativo cosi' stabiliti sono inderogabili nei confronti di tutti i lavoratori considerati nei contratti ed accordi di cui al primo comma, addetti alla trebbiatura delle province di Cagliari, Lecce, Perugia, Siena, Siracusa, Teramo e Terni ed alla motoaratura della provincia di Forli'.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 2 gennaio 1962
+Dato a Roma, addi' 2 gennaio 1962
 
-GRONCHI FANFANI - SULLO
-
-Visto, il Guardasigilli: BOSCO
-
-Registrato alla Corte dei conti, addi' 19 giugno 1962
-
-Atti del Governo, registro n. 151, foglio n. 40. - VILLA
-
-Allegati
-
-ACCORDO COLLETTIVO 20 GIUGNO 1958 PER IL PERSONALE DIPENDENTE DALLE AZIENDE ESERCENTI LA TREBBIATURA PER CONTO TERZI DELLA PROVINCIA DI CAGLIARI.   
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=062U089200100010110001&dgu=1962-07-25&art.dataPubblicazioneGazzetta=1962-07-25&art.codiceRedazionale=062U0892)
-  
-  
-  
-  
-CONTRATTO COLLETTIVO 9 LUGLIO 1959 PER I LAVORATORI DIPENDENTI DA AZIENDE ESERCENTI TREBBIATURA A MACCHINA DEI CEREALI IN PROVINCIA DI LECCE.   
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=062U089200100010110002&dgu=1962-07-25&art.dataPubblicazioneGazzetta=1962-07-25&art.codiceRedazionale=062U0892)
-  
-  
-  
-  
-ACCORDO COLLETTIVO 27 GIUGNO 1959 PER GLI OPERAI ADDETTI ALLA TREBBIATURA NELLA PROVINCIA DI PERUGIA.   
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=062U089200100010110003&dgu=1962-07-25&art.dataPubblicazioneGazzetta=1962-07-25&art.codiceRedazionale=062U0892)
-  
-  
-  
-  
-ACCORDO COLLETTIVO 3 LUGLIO 1959 PER GLI ADDETTI ALLA TREBBIATURA NELLA PROVINCIA DI SIENA.   
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=062U089200100010110004&dgu=1962-07-25&art.dataPubblicazioneGazzetta=1962-07-25&art.codiceRedazionale=062U0892)
-  
-  
-  
-  
-CONTRATTO COLLETTIVO DI LAVORO 3 LUGLIO 1959, PER I LAVORATORI ADDETTI ALLA TREBBIATURA MECCANICA DELLA PROVINCIA DI SIRACUSA.   
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=062U089200100010110005&dgu=1962-07-25&art.dataPubblicazioneGazzetta=1962-07-25&art.codiceRedazionale=062U0892)
-  
-  
-  
-  
-CONTRATTO COLLETTIVO 14 GIUGNO 1960 PER GLI ADDETTI ALLA TREBBIATURA DI CEREALI IN PROVINCIA DI TERAMO.   
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=062U089200100010110006&dgu=1962-07-25&art.dataPubblicazioneGazzetta=1962-07-25&art.codiceRedazionale=062U0892)
-  
-  
-  
-  
-ACCORDO COLLETTIVO 30 GIUGNO 1954 PER GLI OPERAI DIPENDENTI DALLE AZIENDE ESERCENTI L'INDUSTRIA DELLA TREBBIATURA NELLA PROVINCIA DI TERNI.   
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=062U089200100010110007&dgu=1962-07-25&art.dataPubblicazioneGazzetta=1962-07-25&art.codiceRedazionale=062U0892)
-  
-  
-  
-  
-ACCORDO COLLETTIVO 1 AGOSTO 1958 PER I LAVORATORI ADDETTI ALLA MOTOARATURA NELLA PROVINCIA DI FORLI'.   
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=062U089200100010110008&dgu=1962-07-25&art.dataPubblicazioneGazzetta=1962-07-25&art.codiceRedazionale=062U0892)
-  
+GRONCHI FANFANI - SULLO Visto, il Guardasigilli: BOSCO Registrato alla Corte dei conti, addi' 19 giugno 1962 Atti del Governo, registro n. 151, foglio n. 40. - VILLA

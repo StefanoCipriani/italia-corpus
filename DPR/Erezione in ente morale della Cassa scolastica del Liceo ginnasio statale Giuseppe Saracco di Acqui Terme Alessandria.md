@@ -1,19 +1,21 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 12 maggio 1962 n. 1234
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 1234
+data: 1962-05-12
+titolo: "Erezione in ente morale della Cassa scolastica del Liceo ginnasio statale \"Giuseppe Saracco\" di Acqui Terme (Alessandria)."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1962-05-12;1234
+codice_redazionale: 062U1234
+vigente: true
+---
 
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 12 maggio 1962 n. 1234
-==============================================================
-
-Erezione in ente morale della Cassa scolastica del Liceo ginnasio statale "Giuseppe Saracco" di Acqui Terme (Alessandria).
---------------------------------------------------------------------------------------------------------------------------
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-1234. Decreto del Presidente della Repubblica 12 maggio 1962, col quale, sulla proposta del Ministro per la pubblica istruzione, la Cassa scolastica del Liceo ginnasio statale "Giuseppe Saracco" di Acqui Terme (Alessandria) viene eretta in ente morale e ne viene approvato lo statuto. Con lo stesso decreto viene soppressa la Cassa scolastica del Ginnasio statale di Acqui Terme.  
-  
-Visto, il Guardasigilli: BOSCO  
-Registrato alla Corte dei conti, addi' 13 luglio 1962  
-Atti del Governo, registro n. 154, foglio n. 46. - VILLA
+1234.
+
+Decreto del Presidente della Repubblica 12 maggio 1962, col quale, sulla proposta del Ministro per la pubblica istruzione, la Cassa scolastica del Liceo ginnasio statale "Giuseppe Saracco" di Acqui Terme (Alessandria) viene eretta in ente morale e ne viene approvato lo statuto. Con lo stesso decreto viene soppressa la Cassa scolastica del Ginnasio statale di Acqui Terme.
+
+Visto, il Guardasigilli: BOSCO
+ Registrato alla Corte dei conti, addi' 13 luglio 1962
+ Atti del Governo, registro n. 154, foglio n. 46. - VILLA

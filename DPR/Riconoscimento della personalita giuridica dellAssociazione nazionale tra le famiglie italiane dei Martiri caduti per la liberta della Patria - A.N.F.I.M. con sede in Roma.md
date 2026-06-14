@@ -1,14 +1,14 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 18 aprile 1951 n. 492
-
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 18 aprile 1951 n. 492
-=============================================================
-
-Riconoscimento della personalita' giuridica dell'Associazione nazionale tra le famiglie italiane dei Martiri caduti per la liberta' della Patria - A.N.F.I.M., con sede in Roma.
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 492
+data: 1951-04-18
+titolo: "Riconoscimento della personalita' giuridica dell'Associazione nazionale tra le famiglie italiane dei Martiri caduti per la liberta' della Patria - A.N.F.I.M., con sede in Roma."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1951-04-18;492
+codice_redazionale: 051U0492
+vigente: true
+---
 
 IL PRESIDENTE DELLA REPUBBLICA
-------------------------------
 
 Vista la domanda del Presidente dell'Associazione nazionale tra le famiglie italiane dei Martiri caduti per la liberta' della Patria - A.N.F.I.M. - con sede in Roma, diretta ad ottenere il riconoscimento della personalita'. giuridica dell'Ente;
 
@@ -16,37 +16,22 @@ Visto l'atto costitutivo dell'Associazione per notaio Gustavo Adolfo Bavai di Ro
 
 Visto lo statuto dell'Ente;
 
-Visto l'[art. 12 e seguenti del Codice civile](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art12);
+Visto l'[art. 12 e seguenti del Codice civile](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262#art_12);
 
 Udito il parere del Consiglio di Stato;
 
-Sulla
------
+Sulla proposta del Presidente del Consiglio dei Ministri; Decreta:
 
-proposta del Presidente del Consiglio dei Ministri; Decreta:
+## Art. 1.
 
-Art. 1
-------
+E' riconosciuta la personalita' giuridica dell'Associazione nazionale tra le famiglie italiane dei Martiri caduti per la liberta' della Patria - A.N.F.I.M. - con sede in Roma.
 
-  
-E' riconosciuta la personalita' giuridica dell'Associazione nazionale tra le famiglie italiane dei Martiri caduti per la liberta' della Patria - A.N.F.I.M. - con sede in Roma.  
+## Art. 2.
 
-Art. 2
-------
-
-  
-E' approvato lo statuto composto di trenta articoli, vistato e sottoscritto dal Presidente del Consiglio dei Ministri.  
-  
+E' approvato lo statuto composto di trenta articoli, vistato e sottoscritto dal Presidente del Consiglio dei Ministri.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 18 aprile 1951
+Dato a Roma, addi' 18 aprile 1951
 
-EINAUDI DE GASPERI
-
-Visto, il Guardasigilli: PICCIONI
-
-Registrato alla Corte dei conti, addi' 30 giugno 1951
-
-Atti del Governo, registro n. 39, foglio n. 157. - FRASCA
+EINAUDI DE GASPERI Visto, il Guardasigilli: PICCIONI Registrato alla Corte dei conti, addi' 30 giugno 1951 Atti del Governo, registro n. 39, foglio n. 157. - FRASCA

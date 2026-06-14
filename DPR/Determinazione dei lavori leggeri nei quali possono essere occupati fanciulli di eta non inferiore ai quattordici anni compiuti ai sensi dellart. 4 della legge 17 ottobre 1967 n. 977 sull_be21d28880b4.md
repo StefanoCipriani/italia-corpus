@@ -1,18 +1,17 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 04 gennaio 1971 n. 36
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 36
+data: 1971-01-04
+titolo: "Determinazione dei lavori leggeri nei quali possono essere occupati fanciulli di eta' non inferiore ai quattordici anni compiuti, ai sensi dell'art. 4 della legge 17 ottobre 1967, n. 977, sulla tutela del lavoro dei fanciulli e degli adolescenti."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1971-01-04;36
+codice_redazionale: 071U0036
+vigente: true
+---
 
+## Art. 1.
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 04 gennaio 1971 n. 36
-=============================================================
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 4 AGOSTO 1999, N. 345))
 
-Determinazione dei lavori leggeri nei quali possono essere occupati fanciulli di eta' non inferiore ai quattordici anni compiuti, ai sensi dell'art. 4 della legge 17 ottobre 1967, n. 977, sulla tutela del lavoro dei fanciulli e degli adolescenti.
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+## Art. 2.
 
-Art. 1
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 4 AGOSTO 1999, N. 345](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1999-08-04;345)))
-
-Art. 2
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 4 AGOSTO 1999, N. 345](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1999-08-04;345)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 4 AGOSTO 1999, N. 345))

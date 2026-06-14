@@ -1,19 +1,21 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 25 marzo 1964 n. 296
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 296
+data: 1964-03-25
+titolo: "Erezione in ente morale della Cassa scolastica della Scuola media statale \"Gerolamo Vida\", di Monticelli d'Ongina (Piacenza)."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1964-03-25;296
+codice_redazionale: 064U0296
+vigente: true
+---
 
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 25 marzo 1964 n. 296
-============================================================
-
-Erezione in ente morale della Cassa scolastica della Scuola media statale "Gerolamo Vida", di Monticelli d'Ongina (Piacenza).
------------------------------------------------------------------------------------------------------------------------------
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-296. Decreto del Presidente della Repubblica 25 marzo 1964, col quale, sulla proposta del Ministro per la pubblica istruzione, la Cassa scolastica della Scuola media statale "Gerolamo Vida", di Monticelli d'Ongina (Piacenza), viene eretta in ente morale e ne viene approvato lo statuto.  
-  
-Visto, il Guardasigilli: REALE  
-Registrato alla Corte dei conti, addi' 9 maggio 1964  
-Atti del Governo, registro n. 183, foglio n. 67. - VILLA
+296.
+
+Decreto del Presidente della Repubblica 25 marzo 1964, col quale, sulla proposta del Ministro per la pubblica istruzione, la Cassa scolastica della Scuola media statale "Gerolamo Vida", di Monticelli d'Ongina (Piacenza), viene eretta in ente morale e ne viene approvato lo statuto.
+
+Visto, il Guardasigilli: REALE
+ Registrato alla Corte dei conti, addi' 9 maggio 1964
+ Atti del Governo, registro n. 183, foglio n. 67. - VILLA

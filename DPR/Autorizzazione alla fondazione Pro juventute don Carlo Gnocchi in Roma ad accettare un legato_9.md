@@ -1,19 +1,21 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 24 settembre 1975 n. 567
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 535
+data: 1975-08-11
+titolo: "Autorizzazione alla fondazione \"Pro juventute don Carlo Gnocchi\", in Roma, ad accettare un legato."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1975-08-11;535
+codice_redazionale: 075U0535
+vigente: true
+---
 
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 24 settembre 1975 n. 567
-================================================================
-
-Autorizzazione alla fondazione "Pro juventute don Carlo Gnocchi", in Roma, ad accettare un legato.
---------------------------------------------------------------------------------------------------
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-567. Decreto del Presidente della Repubblica 24 settembre 1975, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la fondazione "Pro juventute don Carlo Gnocchi", in Roma, viene autorizzata ad accettare un legato, consistente in 470 azioni immobiliari "Isaia Volonte'" per un valore presunto di L. 836.000, disposto dalla sig.ra Rosa Maria Montonati con testamento olografo in data 20 gennaio 1968, pubblicato in data 10 marzo 1971, n. 21588 di repertorio, n. 5509 di raccolta, a rogito dott. Brighina Giuseppe, notaio in Sesto Calende (Varese), registrato a Gallarate (Varese) il 25 marzo 1971 al n. 1019, vol. 212.  
-  
-Visto, il Guardasigilli: REALE  
-Registrato alla Corte dei conti, addi' 25 novembre 1975  
-Atti di Governo, registro n. 14, foglio n. 27
+535.
+
+Decreto del Presidente della Repubblica 11 agosto 1975, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la fondazione "Pro juventute don Carlo Gnocchi", in Roma, viene autorizzata ad accettare il legato consistente nella somma di lire 3.000.000 disposto dal sig. Ennio Brandini in favore della fondazione stessa, collegio di Parma, con testamento olografo 29 dicembre 1971, pubblicato a rogito del notaio dott. Giovanni Bergonza in data 31 ottobre 1972, n. 50401 di repertorio, n. 1226 di raccolta, registrato a Parma il 20 novembre 1972 con il n. 4314, vol. 425.
+
+Visto, il Guardasigilli: REALE
+ Registrato alla Corte dei conti, addi' 29 ottobre 1975
+ Atti di Governo, registro n. 13, foglio n. 43

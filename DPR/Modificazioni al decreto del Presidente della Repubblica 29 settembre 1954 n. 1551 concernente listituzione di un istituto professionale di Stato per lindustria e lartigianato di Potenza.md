@@ -1,111 +1,60 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 20 agosto 1959 n. 1407
-
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 20 agosto 1959 n. 1407
-==============================================================
-
-Modificazioni al decreto del Presidente della Repubblica 29 settembre 1954, n. 1551, concernente l'istituzione di un istituto professionale di Stato per l'industria e l'artigianato di Potenza.
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 1407
+data: 1959-08-20
+titolo: "Modificazioni al decreto del Presidente della Repubblica 29 settembre 1954, n. 1551, concernente l'istituzione di un istituto professionale di Stato per l'industria e l'artigianato di Potenza."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1959-08-20;1407
+codice_redazionale: 059U1407
+vigente: true
+---
 
 IL PRESIDENTE DELLA REPUBBLICA
-------------------------------
 
-Vista la [legge 15 giugno 1931, n. 889](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1931-06-15;889), sul riordinamento dell'istruzione media tecnica;
+Vista la [legge 15 giugno 1931, n. 889](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1931-06-15;889), sul riordinamento dell'istruzione media tecnica;
 
-Visto il [regio decreto 3 marzo 1934, n. 383](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-03-03;383), che approva il testo unico della legge comunale e provinciale;
+Visto il [regio decreto 3 marzo 1934, n. 383](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20del%20testo%20unico%20della%20legge%20comunale%20e%20provinciale.%20034U0383.md), che approva il testo unico della legge comunale e provinciale;
 
-Visto l'[art. 9 del regio decreto-legge 21 settembre 1938, n. 2038](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1938-09-21;2038~art9), convertito nella [legge 2 giugno 1939, n. 739](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1939-06-02;739);
+Visto l'[art. 9 del regio decreto-legge 21 settembre 1938, n. 2038](../Atti%20normativi%20abrogati%20%28in%20originale%29/Istituzione%20soppressione%20e%20regificazione%20di%20istituti%20distruzione%20media%20tecnica%20e%20norme%20di%20carattere%20generale%20sullistituzione%20e%20sul%20funzionamento%20degli%20istituti%20medesimi.%20038U2038.md), convertito nella [legge 2 giugno 1939, n. 739](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20approvazione%20complessiva%20dei%20Regi%20decreti-legge%20emanati%20fino%20al%2010%20marzo%201939-XVII%20e%20convalida%20dei%20Regi%20decreti%20emanati%20fino%20alla%20data%20anzidetta%20per%20prelevazioni%20_8f817d3bee75.md);
 
-Visto il [decreto del Presidente della Repubblica 29 settembre 1954, n. 1551](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1954-09-29;1551), con il quale e' stato istituito l'Istituto professionale per l'industria e l'artigianato di Potenza;
+Visto il [decreto del Presidente della Repubblica 29 settembre 1954, n. 1551](Istituzione%20di%20un%20Istituto%20professionale%20per%20lindustria%20e%20lartigianato%20in%20Potenza.md), con il quale e' stato istituito l'Istituto professionale per l'industria e l'artigianato di Potenza;
 
-Visto il [decreto del Presidente della Repubblica 30 settembre 1957, n. 1477](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1957-09-30;1477), con il quale le Scuole tecniche industriali di Lauria e Melfi sono state trasformate in scuole professionali coordinate con l'Istituto di Potenza;
+Visto il [decreto del Presidente della Repubblica 30 settembre 1957, n. 1477](Modificazioni%20al%20decreto%20istitutivo%20dellIstituto%20professionale%20per%20lindustria%20e%20lartigianato%20di%20Potenza.md), con il quale le Scuole tecniche industriali di Lauria e Melfi sono state trasformate in scuole professionali coordinate con l'Istituto di Potenza;
 
 Considerato che, con separati decreti presidenziali, si provvede alla trasformazione delle citate Scuole professionali di Lauria e Melfi in Istituti professionali per l'industria e l'artigianato a se' stanti;
 
 Ritenuto che, di conseguenza, si rende necessario apportare alcune modifiche all'organizzazione del predetto Istituto professionale di Potenza;
 
-Sulla
------
+Sulla proposta del Ministro Segretario di Stato per la pubblica istruzione, di concerto con quelli per l'interno e per il tesoro; Decreta:
 
-proposta del Ministro Segretario di Stato per la pubblica istruzione, di concerto con quelli per l'interno e per il tesoro; Decreta:
+## Art. 1.
 
-Art. 1
-------
+Il [decreto del Presidente della Repubblica 30 settembre 1957, n. 1477](Modificazioni%20al%20decreto%20istitutivo%20dellIstituto%20professionale%20per%20lindustria%20e%20lartigianato%20di%20Potenza.md), e' abrogato.
 
-  
-Il [decreto del Presidente della Repubblica 30 settembre 1957, n. 1477](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1957-09-30;1477), e' abrogato.  
+## Art. 2.
 
-Art. 2
-------
+L'[art. 2 del decreto del Presidente della Repubblica 29 settembre 1954, n. 1551](Istituzione%20di%20un%20Istituto%20professionale%20per%20lindustria%20e%20lartigianato%20in%20Potenza.md), e' modificato come segue:
+ "Il predetto Istituto professionale ha lo scopo di preparare personale idoneo all'esercizio delle attivita' di ordine esecutivo nei vari settori dell'industria e dell'artigianato.
+ Esso e' costituito dalle seguenti Scuole professionali, ciascuna delle quali comprende varie sezioni:
+ 1) Scuola professionale per l'industria meccanica, con sezioni per:
+ aggiustatore meccanico (n. 2 sezioni);
+ meccanico riparatore di automezzi;
+ 2) Scuola professionale per l'industria elettrica, con sezione per:
+ elettricista installatore in b. t.
 
-  
-L'[art. 2 del decreto del Presidente della Repubblica 29 settembre 1954, n. 1551](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1954-09-29;1551~art2), e' modificato come segue:  
-"Il predetto Istituto professionale ha lo scopo di preparare personale idoneo all'esercizio delle attivita' di ordine esecutivo nei vari settori dell'industria e dell'artigianato.  
-Esso e' costituito dalle seguenti Scuole professionali, ciascuna delle quali comprende varie sezioni:  
-1) Scuola professionale per l'industria meccanica, con sezioni per:  
-aggiustatore meccanico (n. 2 sezioni);  
-meccanico riparatore di automezzi;  
-2) Scuola professionale per l'industria elettrica, con sezione per:  
-elettricista installatore in b. t.  
+## Art. 3.
 
-Art. 3
-------
+La tabella organica annessa al predetto decreto presidenziale viene sostituita da quella allegata al presente decreto.
 
-  
-La tabella organica annessa al predetto decreto presidenziale viene sostituita da quella allegata al presente decreto.  
+## Art. 4.
 
-Art. 4
-------
+Il contributo ordinario del Ministero della pubblica istruzione previsto dall'[art. 22 del decreto del Presidente della Repubblica 29 settembre 1954, n. 1551](Istituzione%20di%20un%20Istituto%20professionale%20per%20lindustria%20e%20lartigianato%20in%20Potenza.md), a favore dell'Istituto professionale statale per l'industria e l'artigianato di Potenza viene fissato in L. 40.360.000.
 
-  
-Il contributo ordinario del Ministero della pubblica istruzione previsto dall'[art. 22 del decreto del Presidente della Repubblica 29 settembre 1954, n. 1551](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1954-09-29;1551~art22), a favore dell'Istituto professionale statale per l'industria e l'artigianato di Potenza viene fissato in L. 40.360.000.  
+## Art. 5.
 
-Art. 5
-------
-
-  
-Il presente decreto ha effetto dal 1 ottobre 1959.  
-  
+Il presente decreto ha effetto dal 1 ottobre 1959.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Napoli, addi' 20 agosto 1959
+Dato a Napoli, addi' 20 agosto 1959
 
-GRONCHI MEDICI - SEGNI - TAMBRONI
-
-Visto, il Guardasigilli: GONELLA
-
-Registrato alla Corte dei conti, addi' 1 giugno 1960
-
-Atti del Governo, registro n. 127, foglio n. 7. - VILLA
-
-Tabella
-
-Tabella organica dell'Istituto professionale di Stato per l'industria e l'artigianato di Potenza   
-Numero dei posti   
-Qualifica   
-  
-Personale di ruolo   
-1. Preside senza insegnamento (I categoria)................. 1   
-2. Cattedre di insegnamento (Ruolo A)....................... 2   
-3. Insegnanti tecnici pratici (1)........................... 4   
-4. Segretario economo....................................... 1   
-5. Applicati................................................ -   
-  
-Personale incaricato   
-6. Incarichi d'insegnamento per complessive ore 145   
-settimanali   
-7. Insegnanti tecnici pratici (1)........................... 7   
-8. Applicati................................................ 1   
-9. Persone di servizio...................................... 2   
-  
-(1) Il trattamento economico e di carriera e' quello previsto per gli insegnanti tecnici pratici degli istituti tecnici.   
-  
-N.B. - Fermo restando il numero complessivo dei posti di ruolo e di quelli da affidare per incarico, le materie costituenti le cattedre di insegnamento e le qualifiche da attribuire al personale tecnico saranno determinate con decreto del Ministro per la pubblica istruzione.   
-  
-Visto, d'ordine dei Presidente della Repubblica   
-Il Ministro per la pubblica istruzione   
-MEDICI   
-Il Ministro per il tesoro   
-TAMBRONI   
+GRONCHI MEDICI - SEGNI - TAMBRONI Visto, il Guardasigilli: GONELLA Registrato alla Corte dei conti, addi' 1 giugno 1960 Atti del Governo, registro n. 127, foglio n. 7. - VILLA

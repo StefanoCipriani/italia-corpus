@@ -1,28 +1,25 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 febbraio 2002 n. 19
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 43
+data: 2001-03-08
+titolo: "Esercizio temporaneo di funzioni del Presidente della Repubblica da parte del Presidente del Senato."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:2001-03-08;43
+codice_redazionale: 001G0098
+vigente: true
+---
 
+## Art. 1.
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 febbraio 2002 n. 19
-==============================================================
+IL PRESIDENTE DELLA REPUBBLICA
 
-Esercizio temporaneo di funzioni del Presidente della Repubblica da parte del Presidente del Senato.
-----------------------------------------------------------------------------------------------------
+ Visto l'[articolo 86, primo comma, della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_86-com1);
+ Considerata la durata e la distanza dal territorio nazionale della missione ufficiale che il Presidente della Repubblica intraprendera' all'estero a decorrere dal 10 marzo 2001;
 
-Art. 1
-------
-
- IL PRESIDENTE DELLA REPUBBLICA  
-Visto l'[articolo 86, primo comma, della Costituzione](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27~art86-com1);  
-Considerata la durata e la distanza dal territorio nazionale della missione ufficiale che il Presidente della Repubblica intraprendera' all'estero a decorrere dal 12 marzo 2002;  
-Decreta:  
-Le funzioni del Presidente della Repubblica, non inerenti allo svolgimento della missione all'estero, sono esercitate, ai sensi dell'[articolo 86, primo comma, della Costituzione](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27~art86-com1), dal Presidente del Senato a decorrere dal 12 marzo 2002 e, precisamente, dal momento in cui il Capo dello Stato lascera' l'Italia e fino al suo rientro nel territorio nazionale.  
+ Decreta:
+ Le funzioni del Presidente della Repubblica, non inerenti allo svolgimento della missione all'estero, sono esercitate, ai sensi dell'[articolo 86, primo comma, della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_86-com1), dal Presidente del Senato dal momento della partenza del Capo dello Stato per la missione ufficiale in Uruguay e Argentina, che avverra' nella giornata di sabato 10 marzo 2001, e fino al suo rientro nel territorio nazionale.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserito nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 28 febbraio 2002
+Dato a Roma, addi' 8 marzo 2001
 
-CIAMPI
-
-Berlusconi, Presidente del Consiglio dei Ministri
-
-Visto, il Guardasigilli: Castelli
+CIAMPI Amato, Presidente del Consiglio dei Ministri Visto, il Guardasigilli: Fassino

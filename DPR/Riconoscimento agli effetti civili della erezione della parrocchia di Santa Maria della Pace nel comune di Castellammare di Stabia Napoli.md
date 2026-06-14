@@ -1,18 +1,20 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 18 dicembre 1948 n. 1628
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 1628
+data: 1948-12-18
+titolo: "Riconoscimento, agli effetti civili, della erezione della parrocchia di Santa Maria della Pace nel comune di Castellammare di Stabia (Napoli)."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1948-12-18;1628
+codice_redazionale: 048U1628
+vigente: true
+---
 
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 18 dicembre 1948 n. 1628
-================================================================
-
-Riconoscimento, agli effetti civili, della erezione della parrocchia di Santa Maria della Pace nel comune di Castellammare di Stabia (Napoli).
-----------------------------------------------------------------------------------------------------------------------------------------------
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-1628. Decreto del Presidente della Repubblica 18 dicembre 1948, col quale, sulla proposta del Ministro per l'interno, viene riconosciuto, agli effetti civili, il decreto del Vescovo di Castellammare di Stabia in data 1 novembre 1937, relativo alla erezione della parrocchia di Santa Maria della Pace nel comune di Castellammare di Stabia (Napoli).  
-  
-Visto, il Guardasigilli: GRASSI  
-Registrato atta Corte di conti, addi' 17 febbraio 1949
+1628.
+
+Decreto del Presidente della Repubblica 18 dicembre 1948, col quale, sulla proposta del Ministro per l'interno, viene riconosciuto, agli effetti civili, il decreto del Vescovo di Castellammare di Stabia in data 1 novembre 1937, relativo alla erezione della parrocchia di Santa Maria della Pace nel comune di Castellammare di Stabia (Napoli).
+
+Visto, il Guardasigilli: GRASSI
+ Registrato atta Corte di conti, addi' 17 febbraio 1949

@@ -1,14 +1,14 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 26 settembre 1959 n. 954
-
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 26 settembre 1959 n. 954
-================================================================
-
-Rettifica di confine fra i comuni di Viguzzolo e di Castellar Guidobono, in provincia di Alessandria.
------------------------------------------------------------------------------------------------------
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 954
+data: 1959-09-26
+titolo: "Rettifica di confine fra i comuni di Viguzzolo e di Castellar Guidobono, in provincia di Alessandria."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1959-09-26;954
+codice_redazionale: 059U0954
+vigente: true
+---
 
 IL PRESIDENTE DELLA REPUBBLICA
-------------------------------
 
 Viste le deliberazioni dei Consigli comunali di Viguzzolo e di Castellar Guidobono, in provincia di Alessandria, in data 15 gennaio 1957, rispettivamente, n. 2 e n. 5, con le quali e' stata chiesta una rettifica di confine fra i Comuni stessi;
 
@@ -18,35 +18,20 @@ Vista la deliberazione del Consiglio provinciale di Alessandria in data 27 maggi
 
 Udito il parere espresso dalla prima sezione del Consiglio di Stato, nell'adunanza del 27 luglio 1959, n. 1196;
 
-Veduti gli articoli 32, capoverso e 35 del testo unico della legge comunale e provinciale, approvato con [regio decreto 3 marzo 1934, n. 383](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-03-03;383);
+Veduti gli articoli 32, capoverso e 35 del testo unico della legge comunale e provinciale, approvato con [regio decreto 3 marzo 1934, n. 383](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20del%20testo%20unico%20della%20legge%20comunale%20e%20provinciale.%20034U0383.md);
 
-Sulla
------
+Sulla proposta dei Ministro Segretario di Stato per gli affari dell'interno; Decreta:
 
-proposta dei Ministro Segretario di Stato per gli affari dell'interno; Decreta:
+## Art. 1.
 
-Art. 1
-------
+Il confine fra i comuni di Viguzzolo e di Castellar Guidobono, in provincia di Alessandria, e' rettificato secondo la linea risultante dalla pianta planimetrica e dalla relazione descrittiva, annesse al presente decreto.
 
-  
-Il confine fra i comuni di Viguzzolo e di Castellar Guidobono, in provincia di Alessandria, e' rettificato secondo la linea risultante dalla pianta planimetrica e dalla relazione descrittiva, annesse al presente decreto.  
+## Art. 2.
 
-Art. 2
-------
-
-  
-Il Prefetto di Alessandria, sentita la Giunta provinciale amministrativa, provvedera', alla separazione patrimoniale ed al riparto delle attivita' e passivita' fra i comuni di Viguzzollo e di Castellar Guidobono.  
-  
+Il Prefetto di Alessandria, sentita la Giunta provinciale amministrativa, provvedera', alla separazione patrimoniale ed al riparto delle attivita' e passivita' fra i comuni di Viguzzollo e di Castellar Guidobono.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 26 settembre 1959.
+Dato a Roma, addi' 26 settembre 1959.
 
-GRONCHI SEGNI
-
-Visto, il Guardasigilli: GONELLA
-
-Registrato alla Corte dei conti, addi' 17 novembre 1959
-
-Atti del Governo, registro n. 122, foglio n. 33. - VILLA
+GRONCHI SEGNI Visto, il Guardasigilli: GONELLA Registrato alla Corte dei conti, addi' 17 novembre 1959 Atti del Governo, registro n. 122, foglio n. 33. - VILLA

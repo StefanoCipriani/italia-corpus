@@ -1,83 +1,56 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 04 giugno 1968 n. 851
-
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 04 giugno 1968 n. 851
-=============================================================
-
-Istituzione a Digione e Mentone (Francia) di vice consolati di 1ª categoria, ed in Nimes, Agen, Calais ed Avignone (Francia) di agenzie consolari di 1ª categoria e soppressione dei vice consolati di 2ª categoria in Digione, Nimes, Mentone, Agen e Calais e della agenzia consolare di 2ª categoria in Avignone.
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 851
+data: 1968-06-04
+titolo: "Istituzione a Digione e Mentone (Francia) di vice consolati di 1ª categoria, ed in Nimes, Agen, Calais ed Avignone (Francia) di agenzie consolari di 1ª categoria e soppressione dei vice consolati di 2ª categoria in Digione, Nimes, Mentone, Agen e Calais e della agenzia consolare di 2ª categoria in Avignone."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1968-06-04;851
+codice_redazionale: 068U0851
+vigente: true
+---
 
 IL PRESIDENTE DELLA REPUBBLICA
-------------------------------
 
-Visti gli [articoli 30](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1967-01-05;18~art30) e [42 del decreto del Presidente della Repubblica 5 gennaio 1967, n. 18](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1967-01-05;18~art42), sull'ordinamento dell'amministrazione degli affari esteri;
+Visti gli [articoli 30](Ordinamento%20dellAmministrazione%20degli%20affari%20esteri.md) e [42 del decreto del Presidente della Repubblica 5 gennaio 1967, n. 18](Ordinamento%20dellAmministrazione%20degli%20affari%20esteri.md), sull'ordinamento dell'amministrazione degli affari esteri;
 
 Udito il parere del consiglio di amministrazione del Ministero degli affari esteri;
 
-Sulla
------
+Sulla proposta del Ministro per gli affari esteri, di concerto con il Ministro per il tesoro; Decreta:
 
-proposta del Ministro per gli affari esteri, di concerto con il Ministro per il tesoro; Decreta:
+## Art. 1.
 
-Art. 1
-------
+I vice consolati di 2ª categoria in Digione, Nimes, Mentone, Agen e Calais (Francia) e l'agenzia consolare di 2ª categoria in Avignone (Francia) sono soppressi.
 
-  
-I vice consolati di 2ª categoria in Digione, Nimes, Mentone, Agen e Calais (Francia) e l'agenzia consolare di 2ª categoria in Avignone (Francia) sono soppressi.  
+## Art. 2.
 
-Art. 2
-------
+E' istituito in Digione (Francia) un vice consolato di 1ª categoria, alle dipendenze del consolato generale di 1ª categoria in Lione, con la seguente circoscrizione territoriale: il dipartimento della Cote-d'Or.
 
-  
-E' istituito in Digione (Francia) un vice consolato di 1ª categoria, alle dipendenze del consolato generale di 1ª categoria in Lione, con la seguente circoscrizione territoriale: il dipartimento della Cote-d'Or.  
+## Art. 3.
 
-Art. 3
-------
+E' istituita in Nimes (Francia) un'agenzia consolare di 1ª categoria alle dipendenze del consolato generale di 1ª categoria in Marsiglia, con la seguente circoscrizione territoriale: il dipartimento del Gard.
 
-  
-E' istituita in Nimes (Francia) un'agenzia consolare di 1ª categoria alle dipendenze del consolato generale di 1ª categoria in Marsiglia, con la seguente circoscrizione territoriale: il dipartimento del Gard.  
+## Art. 4.
 
-Art. 4
-------
+E' istituito in Mentone (Francia) un vice consolato di 1ª categoria, alle dipendenze del consolato generale di 1ª categoria in Nizza, con la seguente circoscrizione territoriale: Cantoni di Beausoleil, Mentone, Sospel, Breil e Tenda del dipartimento delle Alpes Maritimes.
 
-  
-E' istituito in Mentone (Francia) un vice consolato di 1ª categoria, alle dipendenze del consolato generale di 1ª categoria in Nizza, con la seguente circoscrizione territoriale: Cantoni di Beausoleil, Mentone, Sospel, Breil e Tenda del dipartimento delle Alpes Maritimes.  
+## Art. 5.
 
-Art. 5
-------
+E' istituita in Agen (Francia) un'agenzia consolare di 1ª categoria, alle dipendenze del consolato generale di 1ª categoria in Tolosa, con la seguente circoscrizione:
+ il dipartimento di Lot et Garonne.
 
-  
-E' istituita in Agen (Francia) un'agenzia consolare di 1ª categoria, alle dipendenze del consolato generale di 1ª categoria in Tolosa, con la seguente circoscrizione:  
-il dipartimento di Lot et Garonne.  
+## Art. 6.
 
-Art. 6
-------
+E' istituita in Calais (Francia) un'agenzia consolare di 1ª categoria alle dipendenze del consolato di 1ª categoria in Lilla, con la seguente circoscrizione: il dipartimento di Pas-de-Calais.
 
-  
-E' istituita in Calais (Francia) un'agenzia consolare di 1ª categoria alle dipendenze del consolato di 1ª categoria in Lilla, con la seguente circoscrizione: il dipartimento di Pas-de-Calais.  
+## Art. 7.
 
-Art. 7
-------
+E' istituita in Avignone (Francia) un'agenzia consolare di 1ª categoria alle dipendenze del consolato generale di 1ª categoria in Marsiglia, con la seguente circoscrizione territoriale: il dipartimento di Vaucluse.
 
-  
-E' istituita in Avignone (Francia) un'agenzia consolare di 1ª categoria alle dipendenze del consolato generale di 1ª categoria in Marsiglia, con la seguente circoscrizione territoriale: il dipartimento di Vaucluse.  
+## Art. 8.
 
-Art. 8
-------
-
-  
-Il presente decreto ha effetto a decorrere dal 1 agosto 1967.  
-  
+Il presente decreto ha effetto a decorrere dal 1 agosto 1967.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 4 giugno 1968
+Dato a Roma, addi' 4 giugno 1968
 
-SARAGAT FANFANI - COLOMBO
-
-Visto, il Guardasigilli: GONELLA
-
-Registrato alla Corte dei conti, addi' 26 luglio 1968
-
-Atti del Governo, registro n. 222, foglio n. 31. - GRECO
+SARAGAT FANFANI - COLOMBO Visto, il Guardasigilli: GONELLA Registrato alla Corte dei conti, addi' 26 luglio 1968 Atti del Governo, registro n. 222, foglio n. 31. - GRECO

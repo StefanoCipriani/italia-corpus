@@ -1,19 +1,21 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 04 giugno 1975 n. 420
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 420
+data: 1975-06-04
+titolo: "Riconoscimento della personalita' giuridica della chiesa parrocchiale di \"Cristo Re\", in Milano."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1975-06-04;420
+codice_redazionale: 075U0420
+vigente: true
+---
 
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 04 giugno 1975 n. 420
-=============================================================
-
-Riconoscimento della personalita' giuridica della chiesa parrocchiale di "Cristo Re", in Milano.
-------------------------------------------------------------------------------------------------
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-420. Decreto del Presidente della Repubblica 4 giugno 1975, col quale, sulla proposta del Ministro per l'interno, viene riconosciuta la personalita' giuridica della chiesa parrocchiale di "Cristo Re", in Precotto di Milano.  
-  
-Visto, il Guardasigilli: REALE  
-Registrato alla Corte dei conti, addi' 19 agosto 1975  
-Atti di Governo, registro n. 11, foglio n. 76
+420.
+
+Decreto del Presidente della Repubblica 4 giugno 1975, col quale, sulla proposta del Ministro per l'interno, viene riconosciuta la personalita' giuridica della chiesa parrocchiale di "Cristo Re", in Precotto di Milano.
+
+Visto, il Guardasigilli: REALE
+ Registrato alla Corte dei conti, addi' 19 agosto 1975
+ Atti di Governo, registro n. 11, foglio n. 76

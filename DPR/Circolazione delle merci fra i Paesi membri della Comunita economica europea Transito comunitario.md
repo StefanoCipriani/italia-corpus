@@ -1,73 +1,61 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 27 dicembre 1969 n. 1130
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 1130
+data: 1969-12-27
+titolo: "Circolazione delle merci fra i Paesi membri della Comunita' economica europea (Transito comunitario)."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1969-12-27;1130
+codice_redazionale: 069U1130
+vigente: true
+---
 
+## Art. 1.
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 27 dicembre 1969 n. 1130
-================================================================
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 23 GENNAIO 1973, N. 43))
 
-Circolazione delle merci fra i Paesi membri della Comunita' economica europea (Transito comunitario).
------------------------------------------------------------------------------------------------------
+## Art. 2.
 
-Art. 1
-------
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 23 GENNAIO 1973, N. 43))
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 23 GENNAIO 1973, N. 43](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1973-01-23;43)))
+## Art. 3.
 
-Art. 2
-------
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 23 GENNAIO 1973, N. 43))
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 23 GENNAIO 1973, N. 43](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1973-01-23;43)))
+## Art. 4.
 
-Art. 3
-------
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 23 GENNAIO 1973, N. 43))
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 23 GENNAIO 1973, N. 43](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1973-01-23;43)))
+## Art. 5.
 
-Art. 4
-------
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 23 GENNAIO 1973, N. 43))
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 23 GENNAIO 1973, N. 43](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1973-01-23;43)))
+## Art. 6.
 
-Art. 5
-------
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 23 GENNAIO 1973, N. 43))
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 23 GENNAIO 1973, N. 43](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1973-01-23;43)))
+## Art. 7.
 
-Art. 6
-------
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 23 GENNAIO 1973, N. 43))
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 23 GENNAIO 1973, N. 43](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1973-01-23;43)))
+## Art. 8.
 
-Art. 7
-------
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 23 GENNAIO 1973, N. 43))
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 23 GENNAIO 1973, N. 43](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1973-01-23;43)))
+## Art. 9.
 
-Art. 8
-------
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 23 GENNAIO 1973, N. 43))
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 23 GENNAIO 1973, N. 43](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1973-01-23;43)))
+## Art. 10.
 
-Art. 9
-------
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 23 GENNAIO 1973, N. 43))
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 23 GENNAIO 1973, N. 43](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1973-01-23;43)))
+## Art. 11.
 
-Art. 10
--------
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 23 GENNAIO 1973, N. 43))
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 23 GENNAIO 1973, N. 43](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1973-01-23;43)))
+## Art. 12.
 
-Art. 11
--------
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 23 GENNAIO 1973, N. 43))
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 23 GENNAIO 1973, N. 43](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1973-01-23;43)))
+## Art. 13.
 
-Art. 12
--------
-
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 23 GENNAIO 1973, N. 43](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1973-01-23;43)))
-
-Art. 13
--------
-
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 23 GENNAIO 1973, N. 43](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1973-01-23;43)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 23 GENNAIO 1973, N. 43))

@@ -1,19 +1,21 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 09 dicembre 1981 n. 993
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 993
+data: 1981-12-09
+titolo: "Riconoscimento della personalita' giuridica della chiesa parrocchiale di S. Giuseppe lavoratore, in Cernusco sul Naviglio."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1981-12-09;993
+codice_redazionale: 081U0993
+vigente: true
+---
 
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 09 dicembre 1981 n. 993
-===============================================================
-
-Riconoscimento della personalita' giuridica della chiesa parrocchiale di S. Giuseppe lavoratore, in Cernusco sul Naviglio.
---------------------------------------------------------------------------------------------------------------------------
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-993. Decreto del Presidente della Repubblica 9 dicembre 1981, col quale, sulla proposta del Ministro dell'interno, viene riconosciuta la personalita' giuridica della chiesa parrocchiale di S. Giuseppe lavoratore, in Cernusco sul Naviglio (Milano).  
-  
-Visto, il Guardasigilli: DARIDA  
-Registrato alla Corte dei conti, addi' 24 febbraio 1982  
-Registro n. 4 Interno, foglio n. 385
+993.
+
+Decreto del Presidente della Repubblica 9 dicembre 1981, col quale, sulla proposta del Ministro dell'interno, viene riconosciuta la personalita' giuridica della chiesa parrocchiale di S. Giuseppe lavoratore, in Cernusco sul Naviglio (Milano).
+
+Visto, il Guardasigilli: DARIDA
+ Registrato alla Corte dei conti, addi' 24 febbraio 1982
+ Registro n. 4 Interno, foglio n. 385

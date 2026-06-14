@@ -1,18 +1,20 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 22 febbraio 1949 n. 107
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 107
+data: 1949-02-22
+titolo: "Riconoscimento, agli effetti civili, della erezione in parrocchia della Vicaria curata autonoma della Beata Vergine Maria del Monte Carmelo, nel comune di Sarzana (La Spezia)."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1949-02-22;107
+codice_redazionale: 049U0107
+vigente: true
+---
 
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 22 febbraio 1949 n. 107
-===============================================================
-
-Riconoscimento, agli effetti civili, della erezione in parrocchia della Vicaria curata autonoma della Beata Vergine Maria del Monte Carmelo, nel comune di Sarzana (La Spezia).
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-107. Decreto del Presidente della Repubblica 22 febbraio 1949, col quale, sulla proposta del Ministro per l'interno, viene riconosciuto, agli effetti civili, il decreto del Vescovo di Luni in data 31 dicembre 1947, integrato con dichiarazione 25 settembre 1948, relativo alla erezione in parrocchia della Vicaria curata autonoma della Beata Vergine Maria del Monte Carmelo, nel comune di Sarzana (La Spezia).  
-  
-Visto, Guardasigilli: GRASSI  
-Registrato alla Corte dei conti, addi' 29 marzo 1949
+107.
+
+Decreto del Presidente della Repubblica 22 febbraio 1949, col quale, sulla proposta del Ministro per l'interno, viene riconosciuto, agli effetti civili, il decreto del Vescovo di Luni in data 31 dicembre 1947, integrato con dichiarazione 25 settembre 1948, relativo alla erezione in parrocchia della Vicaria curata autonoma della Beata Vergine Maria del Monte Carmelo, nel comune di Sarzana (La Spezia).
+
+Visto, Guardasigilli: GRASSI
+ Registrato alla Corte dei conti, addi' 29 marzo 1949

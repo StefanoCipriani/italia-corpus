@@ -1,19 +1,21 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 10 gennaio 1985 n. 136
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 136
+data: 1985-01-10
+titolo: "Riconoscimento della personalita' giuridica della fondazione \"Federica Fracassi\", in Pescara."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1985-01-10;136
+codice_redazionale: 085U0136
+vigente: true
+---
 
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 10 gennaio 1985 n. 136
-==============================================================
-
-Riconoscimento della personalita' giuridica della fondazione "Federica Fracassi", in Pescara.
----------------------------------------------------------------------------------------------
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-136. Decreto del Presidente della Repubblica 10 gennaio 1985, col quale, sulla proposta del Ministro della pubblica istruzione, viene riconosciuta la personalita' giuridica ed approvato lo statuto della fondazione "Federica Fracassi", in Pescara.   
-  
-Visto, il Guardasigilli: MARTINAZZOLI   
-Registrato alla Corte dei conti, addi' 11 aprile 1985   
-Registro n. 22 Istruzione, foglio n. 137
+136.
+
+Decreto del Presidente della Repubblica 10 gennaio 1985, col quale, sulla proposta del Ministro della pubblica istruzione, viene riconosciuta la personalita' giuridica ed approvato lo statuto della fondazione "Federica Fracassi", in Pescara. 
+ 
+Visto, il Guardasigilli: MARTINAZZOLI 
+ Registrato alla Corte dei conti, addi' 11 aprile 1985 
+ Registro n. 22 Istruzione, foglio n. 137

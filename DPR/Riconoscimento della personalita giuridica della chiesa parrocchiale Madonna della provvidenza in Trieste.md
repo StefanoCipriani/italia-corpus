@@ -1,19 +1,21 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 27 agosto 1977 n. 806
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 806
+data: 1977-08-27
+titolo: "Riconoscimento della personalita' giuridica della chiesa parrocchiale \"Madonna della provvidenza\", in Trieste."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1977-08-27;806
+codice_redazionale: 077U0806
+vigente: true
+---
 
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 27 agosto 1977 n. 806
-=============================================================
-
-Riconoscimento della personalita' giuridica della chiesa parrocchiale "Madonna della provvidenza", in Trieste.
---------------------------------------------------------------------------------------------------------------
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-806. Decreto del Presidente della Repubblica 27 agosto 1977, col quale, sulla proposta del Ministro per l'interno, viene riconosciuta la personalita' giuridica della chiesa parrocchiale "Madonna della provvidenza", in Trieste.  
-  
-Visto, il Guardasigilli: BONIFACIO  
-Registrato alla Corte dei conti, addi' 31 ottobre 1977  
-Registro n. 23 Interno, foglio n. 86
+806.
+
+Decreto del Presidente della Repubblica 27 agosto 1977, col quale, sulla proposta del Ministro per l'interno, viene riconosciuta la personalita' giuridica della chiesa parrocchiale "Madonna della provvidenza", in Trieste.
+
+Visto, il Guardasigilli: BONIFACIO
+ Registrato alla Corte dei conti, addi' 31 ottobre 1977
+ Registro n. 23 Interno, foglio n. 86

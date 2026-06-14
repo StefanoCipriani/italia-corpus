@@ -1,505 +1,475 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 giugno 1951 n. 574
-
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 giugno 1951 n. 574
-=============================================================
-
-Norme di attuazione dello Statuto speciale per il Trentino Alto Adige.
-----------------------------------------------------------------------
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 574
+data: 1951-06-30
+titolo: "Norme di attuazione dello Statuto speciale per il Trentino Alto Adige."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1951-06-30;574
+codice_redazionale: 051U0574
+vigente: true
+---
 
 IL PRESIDENTE DELLA REPUBBLICA
-------------------------------
 
-Visto l'[art. 87 della Costituzione](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27~art87);
+Visto l'[art. 87 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87);
 
-Visto l'[art. 95 della legge costituzionale 26 febbraio 1948, n. 5](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge.costituzionale:1948-02-26;5~art95);
+Visto l'[art. 95 della legge costituzionale 26 febbraio 1948, n. 5](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge.costituzionale:1948-02-26;5#art_95);
 
 Udito il parere della Corte dei conti a sezioni riunite;
 
 Sentito il Consiglio dei Ministri;
 
-Sulla
------
+Sulla proposta del Presidente del Consiglio dei Ministri, di concerto con i Ministri per l'interno, per la grazia e giustizia, per le finanze, per il tesoro, per i lavori pubblici, per l'agricoltura e le foreste, per i trasporti, per le poste e le telecomunicazioni, per l'industria e il commercio, per il lavoro e la previdenza sociale e per il commercio con l'estero; Decreta:
 
-proposta del Presidente del Consiglio dei Ministri, di concerto con i Ministri per l'interno, per la grazia e giustizia, per le finanze, per il tesoro, per i lavori pubblici, per l'agricoltura e le foreste, per i trasporti, per le poste e le telecomunicazioni, per l'industria e il commercio, per il lavoro e la previdenza sociale e per il commercio con l'estero; Decreta:
+### Art. 1.
 
-CAPO I
-------
+Lo Statuto richiamato senz'altra indicazione nelle disposizioni che seguono e' lo Statuto speciale per il Trentino-Alto Adige contenuto nella [legge costituzionale 26 febbraio 1948, n. 5](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge.costituzionale:1948-02-26;5).
 
-### Art. 1
+### Art. 2.
 
-  
-Lo Statuto richiamato senz'altra indicazione nelle disposizioni che seguono e' lo Statuto speciale per il Trentino-Alto Adige contenuto nella [legge costituzionale 26 febbraio 1948, n. 5](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge.costituzionale:1948-02-26;5).  
+Il Presidente della Giunta regionale quando interviene alle sedute del Consiglio dei Ministri non ha diritto di voto.
 
-### Art. 2
+## Rinvio delle leggi regionali e provinciali Impugnazione delle leggi della Repubblica, della Regione e delle Province
 
-  
-Il Presidente della Giunta regionale quando interviene alle sedute del Consiglio dei Ministri non ha diritto di voto.  
+TITOLO I
 
-CAPO II TITOLO I Rinvio delle leggi regionali e provinciali Impugnazione delle leggi della Repubblica, della Regione e delle Province
--------------------------------------------------------------------------------------------------------------------------------------
+### Art. 3.
 
-### Art. 3
+((ARTICOLO ABROGATO DAL D.P.R. 1 FEBBRAIO 1973, N. 49))
 
-((ARTICOLO ABROGATO DAL [D.P.R. 1 FEBBRAIO 1973, N. 49](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1973-02-01;49)))
+### Art. 4.
 
-### Art. 4
+((ARTICOLO ABROGATO DAL D.P.R. 1 FEBBRAIO 1973, N. 49))
 
-((ARTICOLO ABROGATO DAL [D.P.R. 1 FEBBRAIO 1973, N. 49](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1973-02-01;49)))
+### Art. 5.
 
-### Art. 5
+((ARTICOLO ABROGATO DAL D.P.R. 1 FEBBRAIO 1973, N. 49))
 
-((ARTICOLO ABROGATO DAL [D.P.R. 1 FEBBRAIO 1973, N. 49](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1973-02-01;49)))
+### Art. 6.
 
-### Art. 6
+((ARTICOLO ABROGATO DAL D.P.R. 1 FEBBRAIO 1973, N. 49))
 
-((ARTICOLO ABROGATO DAL [D.P.R. 1 FEBBRAIO 1973, N. 49](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1973-02-01;49)))
+### Art. 7.
 
-### Art. 7
+((ARTICOLO ABROGATO DAL D.P.R. 1 FEBBRAIO 1973, N. 49))
 
-((ARTICOLO ABROGATO DAL [D.P.R. 1 FEBBRAIO 1973, N. 49](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1973-02-01;49)))
+## Acque e impianti elettrici
 
-CAPO III TITOLO II Acque e impianti elettrici
----------------------------------------------
+TITOLO II
 
-### Art. 8
+### Art. 8.
 
-((ARTICOLO ABROGATO DAL [D.P.R. 22 MARZO 1974, N. 381](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1974-03-22;381)))
+((ARTICOLO ABROGATO DAL D.P.R. 22 MARZO 1974, N. 381))
 
-### Art. 9
+### Art. 9.
 
-((ARTICOLO ABROGATO DAL [D.P.R. 22 MARZO 1974, N. 381](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1974-03-22;381)))
+((ARTICOLO ABROGATO DAL D.P.R. 22 MARZO 1974, N. 381))
 
-### Art. 10
+### Art. 10.
 
-((ARTICOLO ABROGATO DAL [D.P.R. 22 MARZO 1974, N. 381](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1974-03-22;381)))
+((ARTICOLO ABROGATO DAL D.P.R. 22 MARZO 1974, N. 381))
 
-### Art. 11
+### Art. 11.
 
-((ARTICOLO ABROGATO DAL [D.P.R. 22 MARZO 1974, N. 381](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1974-03-22;381)))
+((ARTICOLO ABROGATO DAL D.P.R. 22 MARZO 1974, N. 381))
 
-### Art. 12
+### Art. 12.
 
-((ARTICOLO ABROGATO DAL [D.P.R. 22 MARZO 1974, N. 381](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1974-03-22;381)))
+((ARTICOLO ABROGATO DAL D.P.R. 22 MARZO 1974, N. 381))
 
-### Art. 13
+### Art. 13.
 
-((ARTICOLO ABROGATO DAL [D.P.R. 22 MARZO 1974, N. 381](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1974-03-22;381)))
+((ARTICOLO ABROGATO DAL D.P.R. 22 MARZO 1974, N. 381))
 
-### Art. 14
+### Art. 14.
 
-((ARTICOLO ABROGATO DAL [D.P.R. 22 MARZO 1974, N. 381](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1974-03-22;381)))
+((ARTICOLO ABROGATO DAL D.P.R. 22 MARZO 1974, N. 381))
 
-### Art. 15
+### Art. 15.
 
-((ARTICOLO ABROGATO DAL [D.P.R. 22 MARZO 1974, N. 381](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1974-03-22;381)))
+((ARTICOLO ABROGATO DAL D.P.R. 22 MARZO 1974, N. 381))
 
-### Art. 16
+### Art. 16.
 
-((ARTICOLO ABROGATO DAL [D.P.R. 22 MARZO 1974, N. 381](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1974-03-22;381)))
+((ARTICOLO ABROGATO DAL D.P.R. 22 MARZO 1974, N. 381))
 
-CAPO IV TITOLO III Agricoltura e caccia
----------------------------------------
+## Agricoltura e caccia
 
-### Art. 17
+TITOLO III
 
-((ARTICOLO ABROGATO DAL [D.P.R. 22 MARZO 1974, N. 279](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1974-03-22;279)))
+### Art. 17.
 
-### Art. 18
+((ARTICOLO ABROGATO DAL D.P.R. 22 MARZO 1974, N. 279))
 
-((ARTICOLO ABROGATO DAL [D.P.R. 22 MARZO 1974, N. 279](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1974-03-22;279)))
+### Art. 18.
 
-### Art. 19
+((ARTICOLO ABROGATO DAL D.P.R. 22 MARZO 1974, N. 279))
 
-((ARTICOLO ABROGATO DAL [D.P.R. 22 MARZO 1974, N. 279](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1974-03-22;279)))
+### Art. 19.
 
-### Art. 20
+((ARTICOLO ABROGATO DAL D.P.R. 22 MARZO 1974, N. 279))
 
-((ARTICOLO ABROGATO DAL [D.P.R. 22 MARZO 1974, N. 279](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1974-03-22;279)))
+### Art. 20.
 
-### Art. 21
+((ARTICOLO ABROGATO DAL D.P.R. 22 MARZO 1974, N. 279))
 
-((ARTICOLO ABROGATO DAL [D.P.R. 22 MARZO 1974, N. 279](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1974-03-22;279)))
+### Art. 21.
 
-### Art. 22
+((ARTICOLO ABROGATO DAL D.P.R. 22 MARZO 1974, N. 279))
 
-((ARTICOLO ABROGATO DAL [D.P.R. 22 MARZO 1974, N. 279](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1974-03-22;279)))
+### Art. 22.
 
-CAPO V TITOLO IV Industria e commercio
---------------------------------------
+((ARTICOLO ABROGATO DAL D.P.R. 22 MARZO 1974, N. 279))
 
-### Art. 23
+## Industria e commercio
 
-((ARTICOLO ABROGATO DAL [D.P.R. 31 LUGLIO 1978, N. 1017](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1978-07-31;1017)))
+TITOLO IV
 
-### Art. 24
+### Art. 23.
 
-((ARTICOLO ABROGATO DAL [D.P.R. 31 LUGLIO 1978, N. 1017](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1978-07-31;1017)))
+((ARTICOLO ABROGATO DAL D.P.R. 31 LUGLIO 1978, N. 1017))
 
-### Art. 25
+### Art. 24.
 
-((ARTICOLO ABROGATO DAL [D.P.R. 31 LUGLIO 1978, N. 1017](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1978-07-31;1017)))
+((ARTICOLO ABROGATO DAL D.P.R. 31 LUGLIO 1978, N. 1017))
 
-### Art. 26
+### Art. 25.
 
-((ARTICOLO ABROGATO DAL [D.P.R. 31 LUGLIO 1978, N. 1017](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1978-07-31;1017)))
+((ARTICOLO ABROGATO DAL D.P.R. 31 LUGLIO 1978, N. 1017))
 
-### Art. 27
+### Art. 26.
 
-((ARTICOLO ABROGATO DAL [D.P.R. 31 LUGLIO 1978, N. 1017](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1978-07-31;1017)))
+((ARTICOLO ABROGATO DAL D.P.R. 31 LUGLIO 1978, N. 1017))
 
-### Art. 28
+### Art. 27.
 
-((ARTICOLO ABROGATO DAL [D.P.R. 31 LUGLIO 1978, N. 1017](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1978-07-31;1017)))
+((ARTICOLO ABROGATO DAL D.P.R. 31 LUGLIO 1978, N. 1017))
 
-### Art. 29
+### Art. 28.
 
-((ARTICOLO ABROGATO DAL [D.P.R. 31 LUGLIO 1978, N. 1017](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1978-07-31;1017)))
+((ARTICOLO ABROGATO DAL D.P.R. 31 LUGLIO 1978, N. 1017))
 
-CAPO VI TITOLO V Comunicazioni e trasporti
-------------------------------------------
+### Art. 29.
 
-### Art. 30
+((ARTICOLO ABROGATO DAL D.P.R. 31 LUGLIO 1978, N. 1017))
 
-((ARTICOLO ABROGATO DAL [D.P.R. 19 NOVEMBRE 1987, N. 527](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1987-11-19;527)))
+## Comunicazioni e trasporti
 
-### Art. 31
+TITOLO V
 
-((ARTICOLO ABROGATO DAL [D.P.R. 19 NOVEMBRE 1987, N. 527](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1987-11-19;527)))
+### Art. 30.
 
-### Art. 32
+((ARTICOLO ABROGATO DAL D.P.R. 19 NOVEMBRE 1987, N. 527))
 
-((ARTICOLO ABROGATO DAL [D.P.R. 19 NOVEMBRE 1987, N. 527](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1987-11-19;527)))
+### Art. 31.
 
-### Art. 33
+((ARTICOLO ABROGATO DAL D.P.R. 19 NOVEMBRE 1987, N. 527))
 
-((ARTICOLO ABROGATO DAL [D.P.R. 19 NOVEMBRE 1987, N. 527](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1987-11-19;527)))
+### Art. 32.
 
-### Art. 34
+((ARTICOLO ABROGATO DAL D.P.R. 19 NOVEMBRE 1987, N. 527))
 
-((ARTICOLO ABROGATO DAL [D.P.R. 19 NOVEMBRE 1987, N. 527](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1987-11-19;527)))
+### Art. 33.
 
-CAPO VII TITOLO VI Commercio con l'estero
------------------------------------------
+((ARTICOLO ABROGATO DAL D.P.R. 19 NOVEMBRE 1987, N. 527))
 
-### Art. 35
+### Art. 34.
 
-((ARTICOLO ABROGATO DAL [D.P.R. 1 FEBBRAIO 1973, N. 49](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1973-02-01;49)))
+((ARTICOLO ABROGATO DAL D.P.R. 19 NOVEMBRE 1987, N. 527))
 
-### Art. 36
+## Commercio con l'estero
 
-((ARTICOLO ABROGATO DAL [D.P.R. 1 FEBBRAIO 1973, N. 49](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1973-02-01;49)))
+TITOLO VI
 
-CAPO VIII TITOLO VII Lavori pubblici
-------------------------------------
+### Art. 35.
 
-### Art. 37
+((ARTICOLO ABROGATO DAL D.P.R. 1 FEBBRAIO 1973, N. 49))
 
-((ARTICOLO ABROGATO DAL [D.P.R. 22 MARZO 1974, N. 381](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1974-03-22;381)))
+### Art. 36.
 
-CAPO IX TITOLO VIII Previdenza sociale e credito
-------------------------------------------------
+((ARTICOLO ABROGATO DAL D.P.R. 1 FEBBRAIO 1973, N. 49))
 
-### Art. 38
+## Lavori pubblici
 
-((ARTICOLO ABROGATO DAL [D.P.R. 1 FEBBRAIO 1973, N. 49](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1973-02-01;49)))
+TITOLO VII
 
-### Art. 39
+### Art. 37.
 
-  
-Il Ministero del tesoro e la Regione, nell'esercizio delle facolta' previste dall'art. 8 dello Statuto, possono prescindere dai pareri di cui allo stesso articolo, qualora questi non siano pervenuti alle predette autorita' nel termine di quattro mesi dalla richiesta e sia rimasto senza effetto un ulteriore invito a provvedere nei successivi trenta giorni dall'invito stesso.  
+((ARTICOLO ABROGATO DAL D.P.R. 22 MARZO 1974, N. 381))
 
-### Art. 40
+## Previdenza sociale e credito
 
-((ARTICOLO ABROGATO DAL [D.P.R. 1 FEBBRAIO 1973, N. 49](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1973-02-01;49)))
+TITOLO VIII
 
-CAPO X TITOLO IX Giustizia
---------------------------
+### Art. 38.
 
-### Art. 41
+((ARTICOLO ABROGATO DAL D.P.R. 1 FEBBRAIO 1973, N. 49))
 
-((ARTICOLO ABROGATO DAL [D.P.R. 1 FEBBRAIO 1973, N. 49](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1973-02-01;49)))
+### Art. 39.
 
-### Art. 42
+Il Ministero del tesoro e la Regione, nell'esercizio delle facolta' previste dall'art. 8 dello Statuto, possono prescindere dai pareri di cui allo stesso articolo, qualora questi non siano pervenuti alle predette autorita' nel termine di quattro mesi dalla richiesta e sia rimasto senza effetto un ulteriore invito a provvedere nei successivi trenta giorni dall'invito stesso.
 
-((ARTICOLO ABROGATO DAL [D.P.R. 1 FEBBRAIO 1973, N. 49](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1973-02-01;49)))
+### Art. 40.
 
-### Art. 43
+((ARTICOLO ABROGATO DAL D.P.R. 1 FEBBRAIO 1973, N. 49))
 
-((ARTICOLO ABROGATO DAL [D.P.R. 1 FEBBRAIO 1973, N. 49](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1973-02-01;49)))
+## Giustizia
 
-### Art. 44
+TITOLO IX
 
-((ARTICOLO ABROGATO DAL [D.P.R. 1 FEBBRAIO 1973, N. 49](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1973-02-01;49)))
+### Art. 41.
 
-CAPO XI TITOLO X Libri fondiari
--------------------------------
+((ARTICOLO ABROGATO DAL D.P.R. 1 FEBBRAIO 1973, N. 49))
 
-### Art. 45
+### Art. 42.
 
-((ARTICOLO ABROGATO DAL [D.P.R. 1 FEBBRAIO 1973, N. 49](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1973-02-01;49)))
+((ARTICOLO ABROGATO DAL D.P.R. 1 FEBBRAIO 1973, N. 49))
 
-### Art. 46
+### Art. 43.
 
-((ARTICOLO ABROGATO DAL [D.P.R. 1 FEBBRAIO 1973, N. 49](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1973-02-01;49)))
+((ARTICOLO ABROGATO DAL D.P.R. 1 FEBBRAIO 1973, N. 49))
 
-CAPO XII TITOLO XI Polizia e sicurezza pubblica
------------------------------------------------
+### Art. 44.
 
-### Art. 47
+((ARTICOLO ABROGATO DAL D.P.R. 1 FEBBRAIO 1973, N. 49))
 
-  
-I presidenti delle Giunte provinciali esercitano, nelle materie indicate al primo comma dell'art. 16 dello Statuto, le attribuzioni spettanti all'autorita' provinciale di pubblica sicurezza per i provvedimenti che dalle leggi di pubblica sicurezza sono attribuiti ai prefetti e ai questori.  
-I provvedimenti emanati dai presidenti delle Giunte provinciali nelle materie di cui al comma precedente sono comunicati al questore della Provincia.  
+## Libri fondiari
 
-### Art. 48
+TITOLO X
 
-  
-Le attribuzioni dell'autorita' locale di pubblica sicurezza sono esercitate:  
-a) dai questori nei comuni di Trento e di Bolzano, salvo il disposto del primo comma dell'art. 16 dello Statuto;  
-b) dai presidenti delle Giunte provinciali, nei Comuni medesimi, per le materie indicate nel primo comma dell'art. 16 suddetto;  
-c) dai funzionari di pubblica sicurezza degli uffici distaccati nei Comuni sedi di tali uffici;  
-d) dai sindaci negli altri Comuni.  
+### Art. 45.
 
-### Art. 49
+((ARTICOLO ABROGATO DAL D.P.R. 1 FEBBRAIO 1973, N. 49))
 
-  
-Tutte le attribuzioni in materia di pubblica sicurezza sono esercitate nell'ambito della Regione sotto la vigilanza del Commissario del Governo.  
+### Art. 46.
 
-### Art. 50
+((ARTICOLO ABROGATO DAL D.P.R. 1 FEBBRAIO 1973, N. 49))
 
-  
-Contro i provvedimenti dei questori, dei presidenti delle Giunte provinciali e delle altre autorita' di pubblica sicurezza e' ammesso il ricorso, a norma delle leggi di pubblica sicurezza, al Commissario del Governo.  
-Nelle materie indicate nel primo comma dell'art. 18 dello Statuto, qualora le leggi di pubblica sicurezza dichiarino la definitivita' dei provvedimenti prefettizi, i corrispondenti provvedimenti dei presidenti delle Giunte provinciali hanno carattere definitivo.  
-I provvedimenti del Commissario del Governo previsti dal presente articolo sono definitivi.  
+## Polizia e sicurezza pubblica
 
-### Art. 51
+TITOLO XI
 
-  
-Nella Commissione di vigilanza sui locali di pubblico spettacolo istituita per l'applicazione dell'[art. 80 del testo unico delle leggi di pubblica sicurezza](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1931-06-18;773~art80) e prevista dall'art. 141 del regolamento, al questore e' sostituito un funzionario di pubblica sicurezza di grado non inferiore all'80, designato dal questore insieme ad un supplente.
+### Art. 47.
 
-### Art. 52
+I presidenti delle Giunte provinciali esercitano, nelle materie indicate al primo comma dell'art. 16 dello Statuto, le attribuzioni spettanti all'autorita' provinciale di pubblica sicurezza per i provvedimenti che dalle leggi di pubblica sicurezza sono attribuiti ai prefetti e ai questori.
+ I provvedimenti emanati dai presidenti delle Giunte provinciali nelle materie di cui al comma precedente sono comunicati al questore della Provincia.
 
-  
-Nella Commissione per gli esercizi pubblici e nella Commissione esaminatrice delle guide e dei portatori alpini, corrieri e interpreti, istituite per l'applicazione, rispettivamente, degli [articoli 91](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1931-06-18;773~art91) e [123 del testo unico delle leggi di pubblica sicurezza](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1931-06-18;773~art123) e previste dagli articoli 163 e 236 del relativo regolamento, al consigliere di prefettura e' sostituito un funzionario di pubblica sicurezza di grado non inferiore all'80.  
-I funzionari di pubblica sicurezza e i loro supplenti sono designati dal questore.  
+### Art. 48.
 
-### Art. 53
+Le attribuzioni dell'autorita' locale di pubblica sicurezza sono esercitate:
+ a) dai questori nei comuni di Trento e di Bolzano, salvo il disposto del primo comma dell'art. 16 dello Statuto;
+ b) dai presidenti delle Giunte provinciali, nei Comuni medesimi, per le materie indicate nel primo comma dell'art. 16 suddetto;
+ c) dai funzionari di pubblica sicurezza degli uffici distaccati nei Comuni sedi di tali uffici;
+ d) dai sindaci negli altri Comuni.
 
-  
-Le Commissioni di cui ai precedenti articoli 51 e 52 sono nominate dal Commissario del Governo e sono convocate e presiedute dal presidente della Giunta provinciale.  
-Le funzioni di segretario sono esercitate da un funzionario dell'Amministrazione provinciale.  
+### Art. 49.
 
-### Art. 54
+Tutte le attribuzioni in materia di pubblica sicurezza sono esercitate nell'ambito della Regione sotto la vigilanza del Commissario del Governo.
 
-  
-L'intervento e l'assistenza della polizia dello Stato di cui all'art. 17 dello Statuto sono richiesti, nelle materie di rispettiva competenza, dal Presidente della Giunta regionale al Commissario del Governo e dai presidenti delle Giunte provinciali ai questori.  
+### Art. 50.
 
-CAPO XIII TITOLO XII Beni pubblici e finanza CAPO I. - Beni pubblici
---------------------------------------------------------------------
+Contro i provvedimenti dei questori, dei presidenti delle Giunte provinciali e delle altre autorita' di pubblica sicurezza e' ammesso il ricorso, a norma delle leggi di pubblica sicurezza, al Commissario del Governo.
+ Nelle materie indicate nel primo comma dell'art. 18 dello Statuto, qualora le leggi di pubblica sicurezza dichiarino la definitivita' dei provvedimenti prefettizi, i corrispondenti provvedimenti dei presidenti delle Giunte provinciali hanno carattere definitivo.
+ I provvedimenti del Commissario del Governo previsti dal presente articolo sono definitivi.
 
-### Art. 55
+### Art. 51.
 
-((ARTICOLO ABROGATO DAL [D.P.R. 1 FEBBRAIO 1973, N. 49](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1973-02-01;49)))
+Nella Commissione di vigilanza sui locali di pubblico spettacolo istituita per l'applicazione dell'[art. 80 del testo unico delle leggi di pubblica sicurezza](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1931-06-18;773#art_80) e prevista dall'art. 141 del regolamento, al questore e' sostituito un funzionario di pubblica sicurezza di grado non inferiore all'80, designato dal questore insieme ad un supplente.
 
-### Art. 56
+### Art. 52.
 
-((ARTICOLO ABROGATO DAL [D.P.R. 1 FEBBRAIO 1973, N. 49](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1973-02-01;49)))
+Nella Commissione per gli esercizi pubblici e nella Commissione esaminatrice delle guide e dei portatori alpini, corrieri e interpreti, istituite per l'applicazione, rispettivamente, degli [articoli 91](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1931-06-18;773#art_91) e [123 del testo unico delle leggi di pubblica sicurezza](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1931-06-18;773#art_123) e previste dagli articoli 163 e 236 del relativo regolamento, al consigliere di prefettura e' sostituito un funzionario di pubblica sicurezza di grado non inferiore all'80.
+ I funzionari di pubblica sicurezza e i loro supplenti sono designati dal questore.
 
-CAPO XIV
---------
+### Art. 53.
 
-### Art. 57
+Le Commissioni di cui ai precedenti articoli 51 e 52 sono nominate dal Commissario del Governo e sono convocate e presiedute dal presidente della Giunta provinciale.
+ Le funzioni di segretario sono esercitate da un funzionario dell'Amministrazione provinciale.
 
-((ARTICOLO ABROGATO DAL [D. LGS. 16 MARZO 1992, N. 268](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992-03-16;268)))
+### Art. 54.
 
-### Art. 58
+L'intervento e l'assistenza della polizia dello Stato di cui all'art. 17 dello Statuto sono richiesti, nelle materie di rispettiva competenza, dal Presidente della Giunta regionale al Commissario del Governo e dai presidenti delle Giunte provinciali ai questori.
 
-((ARTICOLO ABROGATO DAL [D.P.R. 1 FEBBRAIO 1973, N. 49](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1973-02-01;49)))
+## Beni pubblici e finanza  CAPO I. - Beni pubblici
 
-### Art. 59
+TITOLO XII
 
-((ARTICOLO ABROGATO DAL [D.P.R. 1 FEBBRAIO 1973, N. 49](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1973-02-01;49)))
+### Art. 55.
 
-CAPO XV
--------
+((ARTICOLO ABROGATO DAL D.P.R. 1 FEBBRAIO 1973, N. 49))
 
-### Art. 60
+### Art. 56.
 
-((ARTICOLO ABROGATO DAL [D.P.R. 1 FEBBRAIO 1973, N. 49](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1973-02-01;49)))
+((ARTICOLO ABROGATO DAL D.P.R. 1 FEBBRAIO 1973, N. 49))
 
-CAPO XVI CAPO IV. - Norme comuni alla Regione e alle Province in tema di finanza
---------------------------------------------------------------------------------
+### Art. 57.
 
-### Art. 61
+((ARTICOLO ABROGATO DAL D. LGS. 16 MARZO 1992, N. 268))
 
-((ARTICOLO ABROGATO DAL [D. LGS. 16 MARZO 1992, N. 268](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992-03-16;268)))
+### Art. 58.
 
-### Art. 62
+((ARTICOLO ABROGATO DAL D.P.R. 1 FEBBRAIO 1973, N. 49))
 
-((ARTICOLO ABROGATO DAL [D. LGS. 16 MARZO 1992, N. 268](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992-03-16;268)))
+### Art. 59.
 
-### Art. 63
+((ARTICOLO ABROGATO DAL D.P.R. 1 FEBBRAIO 1973, N. 49))
 
-((ARTICOLO ABROGATO DAL [D. LGS. 16 MARZO 1992, N. 268](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992-03-16;268)))
+### Art. 60.
 
-CAPO XVII
----------
+((ARTICOLO ABROGATO DAL D.P.R. 1 FEBBRAIO 1973, N. 49))
 
-### Art. 64
+## finanza
 
-((ARTICOLO ABROGATO DAL [D.P.R. 1 FEBBRAIO 1973, N. 49](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1973-02-01;49)))
+CAPO IV. - Norme comuni alla Regione e alle Province in tema di
 
-CAPO XVIII TITOLO XIII Enti locali
-----------------------------------
+### Art. 61.
 
-### Art. 65
+((ARTICOLO ABROGATO DAL D. LGS. 16 MARZO 1992, N. 268))
 
-((ARTICOLO ABROGATO DAL [D.P.R. 1 FEBBRAIO 1973, N. 49](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1973-02-01;49)))
+### Art. 62.
 
-### Art. 66
+((ARTICOLO ABROGATO DAL D. LGS. 16 MARZO 1992, N. 268))
 
-((ARTICOLO ABROGATO DAL [D.P.R. 1 FEBBRAIO 1973, N. 49](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1973-02-01;49)))
+### Art. 63.
 
-### Art. 67
+((ARTICOLO ABROGATO DAL D. LGS. 16 MARZO 1992, N. 268))
 
-((ARTICOLO ABROGATO DAL [D.P.R. 1 FEBBRAIO 1973, N. 49](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1973-02-01;49)))
+### Art. 64.
 
-### Art. 68
+((ARTICOLO ABROGATO DAL D.P.R. 1 FEBBRAIO 1973, N. 49))
 
-  
-Le attribuzioni che per la [legge 3 dicembre 1931, numero 1580](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1931-12-03;1580), contenente norme per la rivalsa delle spese di spedalita', e manicomiali, spettano al prefetto, sono trasferite nella Regione Trentino-Alto Adige al presidente della Giunta provinciale.  
+## Enti locali
 
-CAPO XIX TITOLO XIV Gruppi linguistici e uso della lingua tedesca
------------------------------------------------------------------
+TITOLO XIII
 
-### Art. 69
+### Art. 65.
 
-  
-I gruppi linguistici della provincia di Bolzano considerati nello Statuto sono l'italiano, il latino ed il tedesco.  
+((ARTICOLO ABROGATO DAL D.P.R. 1 FEBBRAIO 1973, N. 49))
 
-### Art. 70
+### Art. 66.
 
-  
-Nelle adunanze degli organi collegiali della Regione, della provincia di Bolzano e degli Enti locali in detta Provincia, gli interventi devono essere tradotti in italiano se pronunziati in tedesco e in tedesco se pronunziati in italiano, quando anche uno solo dei partecipanti appartenendo al rispettivo gruppo linguistico, ne faccia richiesta.  
+((ARTICOLO ABROGATO DAL D.P.R. 1 FEBBRAIO 1973, N. 49))
 
-### Art. 71
+### Art. 67.
 
-  
-L'uso della lingua tedesca, ai sensi del terzo comma dell'art. 85 dello Statuto, da parte di organi e pubblici uffici situati nella provincia di Bolzano, o aventi competenza regionale, concerne soltanto la corrispondenza e i rapporti orali con cittadini italiani di lingua tedesca.  
-La corrispondenza avviata d'ufficio, quando non vi siano sufficienti elementi in ordine alla presunta lingua del destinatario, viene redatta in italiano e in tedesco.  
+((ARTICOLO ABROGATO DAL D.P.R. 1 FEBBRAIO 1973, N. 49))
 
-### Art. 72
+### Art. 68.
 
-  
-Nell'uso scritto della lingua tedesca da parte di organi e pubblici uffici, situati nella provincia di Bolzano o aventi competenza regionale, la terminologia giuridica e amministrativa deve corrispondere esattamente a quella italiana.  
-Qualora manchi una corrispondenza terminologica tra le due lingue, deve essere usato il termine italiano.  
-Gli organi e pubblici uffici di cui al primo comma sono tenuti, su richiesta del Commissario del Governo, ad effettuare le rettifiche che si rendano necessarie.  
+Le attribuzioni che per la [legge 3 dicembre 1931, numero 1580](../Atti%20normativi%20abrogati%20%28in%20originale%29/Nuove%20norme%20per%20la%20rivalsa%20delle%20spese%20di%20spedalita%20e%20manicomiali.%20031U1580.md), contenente norme per la rivalsa delle spese di spedalita', e manicomiali, spettano al prefetto, sono trasferite nella Regione Trentino-Alto Adige al presidente della Giunta provinciale.
 
-### Art. 73
+## Gruppi linguistici e uso della lingua tedesca
 
-  
-Nelle Valli Ladine, in applicazione dell'art. 87 dello Statuto, puo' essere usato nella toponomastica locale, oltre che la lingua italiana e la lingua tedesca, anche il latino.  
+TITOLO XIV
 
-CAPO XX TITOLO XV Controllo sugli atti della Regione e delle Province
----------------------------------------------------------------------
+### Art. 69.
 
-### Art. 74
+I gruppi linguistici della provincia di Bolzano considerati nello Statuto sono l'italiano, il latino ed il tedesco.
 
-((ARTICOLO ABROGATO DAL [D.P.R. 1 FEBBRAIO 1973, N. 49](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1973-02-01;49)))
+### Art. 70.
 
-### Art. 75
+Nelle adunanze degli organi collegiali della Regione, della provincia di Bolzano e degli Enti locali in detta Provincia, gli interventi devono essere tradotti in italiano se pronunziati in tedesco e in tedesco se pronunziati in italiano, quando anche uno solo dei partecipanti appartenendo al rispettivo gruppo linguistico, ne faccia richiesta.
 
-((ARTICOLO ABROGATO DAL [D.P.R. 1 FEBBRAIO 1973, N. 49](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1973-02-01;49)))
+### Art. 71.
 
-### Art. 76
+L'uso della lingua tedesca, ai sensi del terzo comma dell'art. 85 dello Statuto, da parte di organi e pubblici uffici situati nella provincia di Bolzano, o aventi competenza regionale, concerne soltanto la corrispondenza e i rapporti orali con cittadini italiani di lingua tedesca.
+ La corrispondenza avviata d'ufficio, quando non vi siano sufficienti elementi in ordine alla presunta lingua del destinatario, viene redatta in italiano e in tedesco.
 
-((ARTICOLO ABROGATO DAL [D.P.R. 1 FEBBRAIO 1973, N. 49](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1973-02-01;49)))
+### Art. 72.
 
-### Art. 77
+Nell'uso scritto della lingua tedesca da parte di organi e pubblici uffici, situati nella provincia di Bolzano o aventi competenza regionale, la terminologia giuridica e amministrativa deve corrispondere esattamente a quella italiana.
+ Qualora manchi una corrispondenza terminologica tra le due lingue, deve essere usato il termine italiano.
+ Gli organi e pubblici uffici di cui al primo comma sono tenuti, su richiesta del Commissario del Governo, ad effettuare le rettifiche che si rendano necessarie.
 
-((ARTICOLO ABROGATO DAL [D.P.R. 1 FEBBRAIO 1973, N. 49](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1973-02-01;49)))
+### Art. 73.
 
-### Art. 78
+Nelle Valli Ladine, in applicazione dell'art. 87 dello Statuto, puo' essere usato nella toponomastica locale, oltre che la lingua italiana e la lingua tedesca, anche il latino.
 
-((ARTICOLO ABROGATO DAL [D.P.R. 1 FEBBRAIO 1973, N. 49](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1973-02-01;49)))
+## Controllo sugli atti della Regione e delle Province
 
-### Art. 79
+TITOLO XV
 
-((ARTICOLO ABROGATO DAL [D.P.R. 1 FEBBRAIO 1973, N. 49](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1973-02-01;49)))
+### Art. 74.
 
-### Art. 80
+((ARTICOLO ABROGATO DAL D.P.R. 1 FEBBRAIO 1973, N. 49))
 
-((ARTICOLO ABROGATO DAL [D.P.R. 1 FEBBRAIO 1973, N. 49](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1973-02-01;49)))
+### Art. 75.
 
-### Art. 81
+((ARTICOLO ABROGATO DAL D.P.R. 1 FEBBRAIO 1973, N. 49))
 
-((ARTICOLO ABROGATO DAL [D.P.R. 1 FEBBRAIO 1973, N. 49](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1973-02-01;49)))
+### Art. 76.
 
-### Art. 82
+((ARTICOLO ABROGATO DAL D.P.R. 1 FEBBRAIO 1973, N. 49))
 
-((ARTICOLO ABROGATO DAL [D.P.R. 1 FEBBRAIO 1973, N. 49](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1973-02-01;49)))
+### Art. 77.
 
-CAPO XXI TITOLO XVI Norme sul passaggio degli uffici, dei servizi e del personale dello Stato alla Regione o alle Province CAPO I. - Norme generali
----------------------------------------------------------------------------------------------------------------------------------------------------
+((ARTICOLO ABROGATO DAL D.P.R. 1 FEBBRAIO 1973, N. 49))
 
-### Art. 83
+### Art. 78.
 
-((ARTICOLO ABROGATO DAL [D.P.R. 1 FEBBRAIO 1973, N. 49](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1973-02-01;49)))
+((ARTICOLO ABROGATO DAL D.P.R. 1 FEBBRAIO 1973, N. 49))
 
-### Art. 84
+### Art. 79.
 
-((ARTICOLO ABROGATO DAL [D.P.R. 1 FEBBRAIO 1973, N. 49](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1973-02-01;49)))
+((ARTICOLO ABROGATO DAL D.P.R. 1 FEBBRAIO 1973, N. 49))
 
-### Art. 85
+### Art. 80.
 
-((ARTICOLO ABROGATO DAL [D.P.R. 1 FEBBRAIO 1973, N. 49](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1973-02-01;49)))
+((ARTICOLO ABROGATO DAL D.P.R. 1 FEBBRAIO 1973, N. 49))
 
-CAPO XXII
----------
+### Art. 81.
 
-### Art. 86
+((ARTICOLO ABROGATO DAL D.P.R. 1 FEBBRAIO 1973, N. 49))
 
-((ARTICOLO ABROGATO DAL [D.P.R. 1 FEBBRAIO 1973, N. 49](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1973-02-01;49)))
+### Art. 82.
 
-CAPO XXIII CAPO III. - Servizi del Ministero dell'industria e del commercio
----------------------------------------------------------------------------
+((ARTICOLO ABROGATO DAL D.P.R. 1 FEBBRAIO 1973, N. 49))
 
-### Art. 87
+## Norme sul passaggio degli uffici, dei servizi e del personale dello Stato alla Regione o alle Province  CAPO I. - Norme generali
 
-((ARTICOLO ABROGATO DAL [D.P.R. 1 FEBBRAIO 1973, N. 49](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1973-02-01;49)))
+TITOLO XVI
 
-CAPO XXIV
----------
+### Art. 83.
 
-### Art. 88
+((ARTICOLO ABROGATO DAL D.P.R. 1 FEBBRAIO 1973, N. 49))
 
-((ARTICOLO ABROGATO DAL [D.P.R. 1 FEBBRAIO 1973, N. 49](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1973-02-01;49)))
+### Art. 84.
 
-### Art. 89
+((ARTICOLO ABROGATO DAL D.P.R. 1 FEBBRAIO 1973, N. 49))
 
-((ARTICOLO ABROGATO DAL [D.P.R. 1 FEBBRAIO 1973, N. 49](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1973-02-01;49)))
+### Art. 85.
 
-### Art. 90
+((ARTICOLO ABROGATO DAL D.P.R. 1 FEBBRAIO 1973, N. 49))
 
-((ARTICOLO ABROGATO DAL [D.P.R. 1 FEBBRAIO 1973, N. 49](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1973-02-01;49)))
+### Art. 86.
 
-CAPO XXV
---------
+((ARTICOLO ABROGATO DAL D.P.R. 1 FEBBRAIO 1973, N. 49))
 
-### Art. 91
+## e del commercio
 
-((ARTICOLO ABROGATO DAL [D.P.R. 1 FEBBRAIO 1973, N. 49](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1973-02-01;49)))
+CAPO III. - Servizi del Ministero dell'industria
+
+### Art. 87.
+
+((ARTICOLO ABROGATO DAL D.P.R. 1 FEBBRAIO 1973, N. 49))
+
+### Art. 88.
+
+((ARTICOLO ABROGATO DAL D.P.R. 1 FEBBRAIO 1973, N. 49))
+
+### Art. 89.
+
+((ARTICOLO ABROGATO DAL D.P.R. 1 FEBBRAIO 1973, N. 49))
+
+### Art. 90.
+
+((ARTICOLO ABROGATO DAL D.P.R. 1 FEBBRAIO 1973, N. 49))
+
+### Art. 91.
+
+((ARTICOLO ABROGATO DAL D.P.R. 1 FEBBRAIO 1973, N. 49))
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 30 giugno 1951
+Dato a Roma, addi' 30 giugno 1951
 
-EINAUDI DE GASPERI - SCELBA - PICCIONI - VANONI - PELLA - ALDISIO - SEGNI CAMPILLI - SPATARO - TOGNI - MARAZZA - LA MALFA
-
-Visto, il Guardasigilli: PICCIONI
-
-Registrato alla Corte dei conti, addi' 21 luglio 1951
-
-Atti del Governo, registro n. 40, foglio n. 48. - FRASCA
+EINAUDI DE GASPERI - SCELBA - PICCIONI - VANONI - PELLA - ALDISIO - SEGNI CAMPILLI - SPATARO - TOGNI - MARAZZA - LA MALFA Visto, il Guardasigilli: PICCIONI Registrato alla Corte dei conti, addi' 21 luglio 1951 Atti del Governo, registro n. 40, foglio n. 48. - FRASCA

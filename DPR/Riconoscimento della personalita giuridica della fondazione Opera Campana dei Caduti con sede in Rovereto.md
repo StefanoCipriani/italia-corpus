@@ -1,19 +1,21 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 18 gennaio 1968 n. 205
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 205
+data: 1968-01-18
+titolo: "Riconoscimento della personalita' giuridica della fondazione \"Opera Campana dei Caduti\", con sede in Rovereto."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1968-01-18;205
+codice_redazionale: 068U0205
+vigente: true
+---
 
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 18 gennaio 1968 n. 205
-==============================================================
-
-Riconoscimento della personalita' giuridica della fondazione "Opera Campana dei Caduti", con sede in Rovereto.
---------------------------------------------------------------------------------------------------------------
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-205. Decreto del Presidente della Repubblica 18 gennaio 1968, col quale, sulla proposta del Ministro per la difesa, viene riconosciuta la personalita' giuridica ed approvato lo statuto della fondazione "Opera Campana dei Caduti", con sede in Rovereto.  
-  
-Visto, il Guardasigilli: REALE  
-Registrato alla Corte dei conti, addi' 13 marzo 1968  
-Atti del Governo, registro n. 218, foglio n. 5. - GRECO
+205.
+
+Decreto del Presidente della Repubblica 18 gennaio 1968, col quale, sulla proposta del Ministro per la difesa, viene riconosciuta la personalita' giuridica ed approvato lo statuto della fondazione "Opera Campana dei Caduti", con sede in Rovereto.
+
+Visto, il Guardasigilli: REALE
+ Registrato alla Corte dei conti, addi' 13 marzo 1968
+ Atti del Governo, registro n. 218, foglio n. 5. - GRECO

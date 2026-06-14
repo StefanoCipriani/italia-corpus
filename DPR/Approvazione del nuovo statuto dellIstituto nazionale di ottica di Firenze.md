@@ -1,19 +1,21 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 21 novembre 1985 n. 1050
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 1050
+data: 1985-11-21
+titolo: "Approvazione del nuovo statuto dell'Istituto nazionale di ottica di Firenze."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1985-11-21;1050
+codice_redazionale: 085U1050
+vigente: true
+---
 
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 21 novembre 1985 n. 1050
-================================================================
-
-Approvazione del nuovo statuto dell'Istituto nazionale di ottica di Firenze.
-----------------------------------------------------------------------------
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-1050. Decreto del Presidente della Repubblica 21 novembre 1985, col quale, sulla proposta del Ministro della pubblica istruzione, viene approvato il nuovo statuto dell'Istituto nazionale di ottica di Firenze, eretto in ente morale con [regio decreto 18 luglio 1930, n. 1224](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-07-18;1224).   
-  
-Visto, il Guardasigilli: MARTINAZZOLI   
-Registrato alla Corte dei conti, addi' 16 aprile 1986   
-Registro n. 28 Istruzione, foglio n. 233
+1050.
+
+Decreto del Presidente della Repubblica 21 novembre 1985, col quale, sulla proposta del Ministro della pubblica istruzione, viene approvato il nuovo statuto dell'Istituto nazionale di ottica di Firenze, eretto in ente morale con [regio decreto 18 luglio 1930, n. 1224](../Atti%20normativi%20abrogati%20%28in%20originale%29/Trasformazione%20del%20Laboratorio%20di%20ottica%20e%20meccanica%20di%20precisione%20di%20Firenze%20in%20%20Istituto%20nazionale%20di%20ottica%20in%20Firenze%20%20ed%20erezione%20in%20ente%20morale.%20030U1224.md). 
+ 
+Visto, il Guardasigilli: MARTINAZZOLI 
+ Registrato alla Corte dei conti, addi' 16 aprile 1986 
+ Registro n. 28 Istruzione, foglio n. 233

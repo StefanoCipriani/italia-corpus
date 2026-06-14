@@ -1,37 +1,29 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 05 marzo 1959 n. 180
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 180
+data: 1959-03-05
+titolo: "Accettazione della donazione di una raccolta bibliografica per il Museo archeologico nazionale di Firenze."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1959-03-05;180
+codice_redazionale: 059U0180
+vigente: true
+---
 
+## Art. 1.
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 05 marzo 1959 n. 180
-============================================================
+IL PRESIDENTE DELLA REPUBBLICA
 
-Accettazione della donazione di una raccolta bibliografica per il Museo archeologico nazionale di Firenze.
-----------------------------------------------------------------------------------------------------------
+ Visto l'atto di donazione in data 19 giugno 1957, n. 15693 di repertorio, stipulato dal notaio dott. Antonino Piazza residente in Firenze, con il quale l'avvocato Luigi Valori, la signora Bice Valori e la signora Jenny Pescini vedova Valori hanno donato allo Stato, per la biblioteca del Museo archeologico nazionale di Firenze, una raccolta bibliografica comprendente trecentoventuno opere gia' appartenenti al compianto avvocato Berto Valori;
+ Vista la legge 5 giugno 1850, n. 1037;
+ Visto il [regio decreto 26 giugno 1864, n. 1817](../Atti%20normativi%20abrogati%20%28in%20originale%29/Contenente%20disposizioni%20per%20lesecuzione%20della%20legge%205%20giugno%201850%20n.%201037.%20064U1817.md);
+ Udito il parere del Consiglio di Stato;
+ Sulla proposta del Ministero della pubblica istruzione;
 
-Art. 1
-------
+ Decreta:
 
- IL PRESIDENTE DELLA REPUBBLICA  
-  
-Visto l'atto di donazione in data 19 giugno 1957, n. 15693 di repertorio, stipulato dal notaio dott. Antonino Piazza residente in Firenze, con il quale l'avvocato Luigi Valori, la signora Bice Valori e la signora Jenny Pescini vedova Valori hanno donato allo Stato, per la biblioteca del Museo archeologico nazionale di Firenze, una raccolta bibliografica comprendente trecentoventuno opere gia' appartenenti al compianto avvocato Berto Valori;  
-Vista la legge 5 giugno 1850, n. 1037;  
-Visto il [regio decreto 26 giugno 1864, n. 1817](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1864-06-26;1817);  
-Udito il parere del Consiglio di Stato;  
-Sulla proposta del Ministero della pubblica istruzione;  
-  
-Decreta:  
-  
-E' autorizzata l'accettazione della donazione, disposta a favore dello Stato dall'avvocato Luigi Valori, dalla signora Bice Valori e dalla signora Jenny Pescini vedova Valori, di una raccolta bibliografica egittologica comprendente trecentoventuno opere da destinare alla biblioteca del Museo archeologico nazionale di Firenze.  
-  
+ E' autorizzata l'accettazione della donazione, disposta a favore dello Stato dall'avvocato Luigi Valori, dalla signora Bice Valori e dalla signora Jenny Pescini vedova Valori, di una raccolta bibliografica egittologica comprendente trecentoventuno opere da destinare alla biblioteca del Museo archeologico nazionale di Firenze.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 5 marzo 1959
+Dato a Roma, addi' 5 marzo 1959
 
-GRONCHI MEDICI
-
-Visto, il Guardasigilli: GONELLA
-
-Registrato alla Corte dei conti, addi' 14 aprile 1959
-
-Atti del Governo, registro n. 118, foglio n. 36. - VILLA
+GRONCHI MEDICI Visto, il Guardasigilli: GONELLA Registrato alla Corte dei conti, addi' 14 aprile 1959 Atti del Governo, registro n. 118, foglio n. 36. - VILLA

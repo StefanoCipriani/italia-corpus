@@ -1,14 +1,14 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 08 giugno 1956 n. 780
-
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 08 giugno 1956 n. 780
-=============================================================
-
-Estinzione del Comitato "Pro Roma Marittima" per il porto di Roma e la navigazione sul Tevere e sul Nera e devoluzione del suo patrimonio alla Provincia italiana della Societa' dell'aspostolato cattolico (Pallottini).
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 780
+data: 1956-06-08
+titolo: "Estinzione del Comitato \"Pro Roma Marittima\" per il porto di Roma e la navigazione sul Tevere e sul Nera e devoluzione del suo patrimonio alla Provincia italiana della Societa' dell'aspostolato cattolico (Pallottini)."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1956-06-08;780
+codice_redazionale: 056U0780
+vigente: true
+---
 
 IL PRESIDENTE DELLA REPUBBLICA
-------------------------------
 
 Visto il regio decreto 18 gennaio 1914, col quale venne eretto in ente morale il Comitato "Pro Roma Marittima" per il porto di Roma e la navigazione del Tevere e del Nera, con sede in Roma;
 
@@ -20,43 +20,26 @@ Vista la domanda presentata l'8 febbraio 1956 dalla predetta signora Alda Piola 
 
 Ritenuto che gli scopi dell'Ente sono in parte attuati ed in parte superati;
 
-Visti gli [articoli 27](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art27) e [31 del Codice civile](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art31);
+Visti gli [articoli 27](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262#art_27) e [31 del Codice civile](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262#art_31);
 
 Udito il parere del Consiglio di Stato;
 
-Sulla
------
+Sulla proposta del Ministro per l'industria e il commercio; Decreta:
 
-proposta del Ministro per l'industria e il commercio; Decreta:
+## Art. 1.
 
-Art. 1
-------
+Il Comitato "Pro Roma Marittima" per il porto di Roma e la navigazione sul Tevere e sul Nera, eretto in ente morale con regio decreto 18 gennaio 1914 e' estinto.
 
-  
-Il Comitato "Pro Roma Marittima" per il porto di Roma e la navigazione sul Tevere e sul Nera, eretto in ente morale con regio decreto 18 gennaio 1914 e' estinto.  
+## Art. 2.
 
-Art. 2
-------
+Il residuo patrimonio dell'Ente, costituito da un terreno in Ostia di circa mq. 1853, pervenuto al Comitato con atto per notaio Varcasia del 3 aprile 1923, n. 2848 (appezzamenti n. 6 e 7 del Lotto XXV del piano regolatore di Ostia, con fronte su via dei Simmaci, distinto in catasto col n. 362 parte della mappa suburbana 18, Agro Romano) e' devoluto alla Provincia italiana della Societa' dell'apostolato cattolico (Pallottini) eretto in ente morale con regio decreto 27 dicembre 1923 a condizione che istituisca una borsa di studio dell'ammontare di L. 400.000 (quattrocentomila) annue, intitolata al nome del sen. Paolo Orlando, da assegnare ai giovani che, avendo effettuato con successo gli studi nell'Istituto Paolo Orlando, di Ostia, si iscrivano all'Universita' degli studi di Roma, Facolta' di ingegneria, per conseguire la laurea in ingegneria con specializzazione negli studi navali. Il bando di concorso e l'avvenuta assegnazione della borsa di studio dovranno essere approvati dal Prefetto di Roma.
 
-  
-Il residuo patrimonio dell'Ente, costituito da un terreno in Ostia di circa mq. 1853, pervenuto al Comitato con atto per notaio Varcasia del 3 aprile 1923, n. 2848 (appezzamenti n. 6 e 7 del Lotto XXV del piano regolatore di Ostia, con fronte su via dei Simmaci, distinto in catasto col n. 362 parte della mappa suburbana 18, Agro Romano) e' devoluto alla Provincia italiana della Societa' dell'apostolato cattolico (Pallottini) eretto in ente morale con regio decreto 27 dicembre 1923 a condizione che istituisca una borsa di studio dell'ammontare di L. 400.000 (quattrocentomila) annue, intitolata al nome del sen. Paolo Orlando, da assegnare ai giovani che, avendo effettuato con successo gli studi nell'Istituto Paolo Orlando, di Ostia, si iscrivano all'Universita' degli studi di Roma, Facolta' di ingegneria, per conseguire la laurea in ingegneria con specializzazione negli studi navali. Il bando di concorso e l'avvenuta assegnazione della borsa di studio dovranno essere approvati dal Prefetto di Roma.  
+## Art. 3.
 
-Art. 3
-------
-
-  
-Il commissario straordinario dell'Ente, signora Alda Piola Caselli, ved. Orlando, e' delegato all'esecuzione del presente decreto.  
-  
+Il commissario straordinario dell'Ente, signora Alda Piola Caselli, ved. Orlando, e' delegato all'esecuzione del presente decreto.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 8 giugno 1956
+Dato a Roma, addi' 8 giugno 1956
 
-GRONCHI CORTESE
-
-Visto, il Guardasigilli: MORO
-
-Registrato alla Corte dei conti, addi' 26 luglio 1956
-
-Atti del Governo, registro n. 99, foglio n. 146. - CARLOMAGNO
+GRONCHI CORTESE Visto, il Guardasigilli: MORO Registrato alla Corte dei conti, addi' 26 luglio 1956 Atti del Governo, registro n. 99, foglio n. 146. - CARLOMAGNO

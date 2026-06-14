@@ -1,20 +1,20 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 gennaio 1962 n. 599
-
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 gennaio 1962 n. 599
-==============================================================
-
-Norme sul trattamento economico e normativo del personale dipendente dalle imprese commerciali delle province di Catania, Messina, Palermo, Siracusa e Trapani.
----------------------------------------------------------------------------------------------------------------------------------------------------------------
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 599
+data: 1962-01-02
+titolo: "Norme sul trattamento economico e normativo del personale dipendente dalle imprese commerciali delle province di Catania, Messina, Palermo, Siracusa e Trapani."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1962-01-02;599
+codice_redazionale: 062U0599
+vigente: true
+---
 
 IL PRESIDENTE DELLA REPUBBLICA
-------------------------------
 
-Visto l'[art. 87, comma quinto, della Costituzione](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27~art87-com5);
+Visto l'[art. 87, comma quinto, della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87-com5);
 
-Vista la [legge 14 luglio 1959, n. 741](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1959-07-14;741), che delega il Governo ad emanare norme transitorie per garantire minimi di trattamento economico e normativo ai lavoratori;
+Vista la [legge 14 luglio 1959, n. 741](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1959-07-14;741), che delega il Governo ad emanare norme transitorie per garantire minimi di trattamento economico e normativo ai lavoratori;
 
-Vista la [legge 1 ottobre 1960, n. 1027](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1960-10-01;1027), recante modifiche alla predetta [legge 14 luglio 1959, n. 741](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1959-07-14;741);
+Vista la [legge 1 ottobre 1960, n. 1027](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1960-10-01;1027), recante modifiche alla predetta [legge 14 luglio 1959, n. 741](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1959-07-14;741);
 
 Visto il contratto collettivo nazionale 28 giugno 1958 per il personale dipendente dalle imprese commerciali;
 
@@ -34,117 +34,23 @@ Vista la pubblicazione nell'apposito Bollettino, n. 5 e n. 13 della provincia di
 
 Sentito il Consiglio dei Ministri;
 
-Sulla
------
+Sulla proposta del Ministro per il lavoro e la previdenza sociale; Decreta:
 
-proposta del Ministro per il lavoro e la previdenza sociale; Decreta:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-I rapporti di lavoro costituiti per le attivita' per le quali sono stati stipulati:  
-- per la provincia di Catania, l'accordo collettivo integrativo 2 aprile 1959 per il personale occupato nelle drogherie, l'accordo collettivo, integrativo 2 aprile 1959 per il personale occupato nelle aziende esercenti il commercio al dettaglio dei generi di salumeria, salsamenteria e generi alimentari vari;  
-l'accordo collettivo integrativo 19 dicembre 1959 per il personale dipendente dalle aziende commerciali tessili, abbigliamento, arredamento, calzature e merci varie;  
-- per la provincia di Messina, il contratto collettivo integrativo 5 dicembre 1958 per il personale dipendente dalle aziende commerciali tessili dell'abbigliamento, dell'arredamento, di mercerie, di profumerie, di calzature, di ferro-metalli, di macchine;  
-- per la provincia di Palermo, il contratto collettivo integrativo 1 ottobre 1959 per il personale dipendente dalle aziende commerciali;  
-- per la provincia di Siracusa, il contratto collettivo integrativo 1 aprile 1959 per i dipendenti dalle aziende commerciali;  
-- per la provincia di Trapani, il contratto collettivo integrativo 20 giugno 1959 per i dipendenti dalle aziende commerciali esercenti la vendita e la installazione di materiale elettrico, idraulico, riscaldamento, radio e televisione; il contratto collettivo integrativo 20 luglio 1959 per i dipendenti delle aziende commerciali di tessuti, abbigliamento, profumerie, calzature, cartolibrerie, generi di monopolio e francobolli per collezione: il contratto collettivo integrativo 20 luglio 1959 per i dipendenti dalle aziende commerciali esercenti la vendita di ferro, ferramenta, legnami e materiali da costruzione e di conglobamento della retribuzione di cui all'accordo nazionale 28 giugno 1958;  
-sono regolati da norme giuridiche uniformi alle clausole dei contratti e degli accordi anzidetti, annessi al presente decreto.  
-Dette norme sono integrative di quelle concernenti la disciplina nazionale della categoria, purche' con esse compatibili.  
-I minimi di trattamento economico e normativo cosi' stabiliti sono inderogabili nei confronti di tutti i lavoratori dipendenti dalle imprese commerciali indicate nei contratti e negli accordi di cui al primo comma, delle province di Catania, Messina, Palermo, Siracusa e Trapani.  
-  
+I rapporti di lavoro costituiti per le attivita' per le quali sono stati stipulati:
+ - per la provincia di Catania, l'accordo collettivo integrativo 2 aprile 1959 per il personale occupato nelle drogherie, l'accordo collettivo, integrativo 2 aprile 1959 per il personale occupato nelle aziende esercenti il commercio al dettaglio dei generi di salumeria, salsamenteria e generi alimentari vari;
+ l'accordo collettivo integrativo 19 dicembre 1959 per il personale dipendente dalle aziende commerciali tessili, abbigliamento, arredamento, calzature e merci varie;
+ - per la provincia di Messina, il contratto collettivo integrativo 5 dicembre 1958 per il personale dipendente dalle aziende commerciali tessili dell'abbigliamento, dell'arredamento, di mercerie, di profumerie, di calzature, di ferro-metalli, di macchine;
+ - per la provincia di Palermo, il contratto collettivo integrativo 1 ottobre 1959 per il personale dipendente dalle aziende commerciali;
+ - per la provincia di Siracusa, il contratto collettivo integrativo 1 aprile 1959 per i dipendenti dalle aziende commerciali;
+ - per la provincia di Trapani, il contratto collettivo integrativo 20 giugno 1959 per i dipendenti dalle aziende commerciali esercenti la vendita e la installazione di materiale elettrico, idraulico, riscaldamento, radio e televisione; il contratto collettivo integrativo 20 luglio 1959 per i dipendenti delle aziende commerciali di tessuti, abbigliamento, profumerie, calzature, cartolibrerie, generi di monopolio e francobolli per collezione: il contratto collettivo integrativo 20 luglio 1959 per i dipendenti dalle aziende commerciali esercenti la vendita di ferro, ferramenta, legnami e materiali da costruzione e di conglobamento della retribuzione di cui all'accordo nazionale 28 giugno 1958;
+sono regolati da norme giuridiche uniformi alle clausole dei contratti e degli accordi anzidetti, annessi al presente decreto.
+ Dette norme sono integrative di quelle concernenti la disciplina nazionale della categoria, purche' con esse compatibili.
+ I minimi di trattamento economico e normativo cosi' stabiliti sono inderogabili nei confronti di tutti i lavoratori dipendenti dalle imprese commerciali indicate nei contratti e negli accordi di cui al primo comma, delle province di Catania, Messina, Palermo, Siracusa e Trapani.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 2 gennaio 1962
+Dato a Roma, addi' 2 gennaio 1962
 
-GRONCHI FANFANI - SULLO
-
-Visto, il Guardasigilli: BOSCO
-
-Registrato alla Corte dei conti, addi' 9 giugno 1962
-
-Atti del Governo, registro n. 149, foglio n. 36 - VILLA
-
-Allegati
-
-ACCORDO COLLETTIVO INTEGRATIVO 2 APRILE 1959 PER IL PERSONALE OCCUPATO NELLE DROGHERIE DELLA PROVINCIA DI CATANIA.   
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=062U059900100010110001&dgu=1962-07-03&art.dataPubblicazioneGazzetta=1962-07-03&art.codiceRedazionale=062U0599)
-  
-  
-  
-  
-  
-ACCORDO COLLETTIVO INTEGRATIVO 2 APRILE 1959 PER IL PERSONALE OCCUPATO NELLE AZIENDE ESERCENTI IL COMMERCIO AL DETTAGLIO DEI GENERI DI SALUMERIA, SALSAMENTERIA E GENERI ALIMENTARI VARI DELLA PROVINCIA DI CATANIA.   
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=062U059900100010110002&dgu=1962-07-03&art.dataPubblicazioneGazzetta=1962-07-03&art.codiceRedazionale=062U0599)
-  
-  
-  
-  
-  
-ACCORDO COLLETTIVO INTEGRATIVO 19 DICEMBRE 1959 PER I DIPENDENTI DA AZIENDE COMMERCIALI DELLA PROVINCIA DI CATANIA.   
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=062U059900100010110003&dgu=1962-07-03&art.dataPubblicazioneGazzetta=1962-07-03&art.codiceRedazionale=062U0599)
-  
-  
-  
-  
-  
-CONTRATTO COLLETTIVO INTEGRATIVO 5 DICEMBRE 1958, PER IL PERSONALE DIPENDENTE DALLE AZIENDE COMMERCIALI TESSILI, DELL'ABBIGLIAMENTO, DELL'ARREDAMENTO, DI MERCERIE, DI PROFUMERIE, DI CALZATURE, DI FERRO METALLI, DI MACCHINE DELLA PROVINCIA DI MESSINA.   
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=062U059900100010110004&dgu=1962-07-03&art.dataPubblicazioneGazzetta=1962-07-03&art.codiceRedazionale=062U0599)
-  
-  
-  
-  
-  
-CONTRATTO COLLETTIVO INTEGRATIVO 1 ottobre 1959, PER I DIPENDENTI DA AZIENDE COMMERCIALI DELLA PROVINCIA DI PALERMO.   
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=062U059900100010110005&dgu=1962-07-03&art.dataPubblicazioneGazzetta=1962-07-03&art.codiceRedazionale=062U0599)
-  
-  
-  
-  
-  
-CONTRATTO COLLETTIVO INTEGRATIVO 1 aprile 1959, PER I DIPENDENTI DALLE AZIENDE COMMERCIALI DELLA PROVINCIA DI SIRACUSA.   
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=062U059900100010110006&dgu=1962-07-03&art.dataPubblicazioneGazzetta=1962-07-03&art.codiceRedazionale=062U0599)
-  
-  
-  
-  
-  
-CONTRATTO COLLETTIVO INTEGRATIVO 20 GIUGNO 1959, PER I DIPENDENTI DALLE AZIENDE COMMERCIALI ESERCENTI LA VENDITA E LA INSTALLAZIONE DI MATERIALE ELETTRICO, IDRAULICO, RISCALDAMENTO, RADIO E TELEVISIONE DELLA PROVINCIA DI TRAPANI.   
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=062U059900100010110007&dgu=1962-07-03&art.dataPubblicazioneGazzetta=1962-07-03&art.codiceRedazionale=062U0599)
-  
-  
-  
-  
-  
-CONTRATTO COLLETTIVO INTEGRATIVO 20 LUGLIO 1959, PER I DIPENDENTI DALLE AZIENDE COMMERCIALI DI TESSUTI, ABBIGLIAMENTO, PROFUMERIE, CALZATURE, CARTOLIBRERIE, GENERI DI MONOPOLIO E FRANCOBOLLI PER COLLEZIONE DELLA PROVINCIA DI TRAPANI.   
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=062U059900100010110008&dgu=1962-07-03&art.dataPubblicazioneGazzetta=1962-07-03&art.codiceRedazionale=062U0599)
-  
-  
-  
-  
-  
-CONTRATTO COLLETTIVO INTEGRATIVO 20 LUGLIO 1959, PER I DIPENDENTI DALLE AZIENDE COMMERCIALI ESERCENTI LA VENDITA DI FERRO, FERRAMENTA, LEGNAMI E MATERIALE DA COSTRUZIONE DELLA PROVINCIA DI TRAPANI.   
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=062U059900100010110009&dgu=1962-07-03&art.dataPubblicazioneGazzetta=1962-07-03&art.codiceRedazionale=062U0599)
-  
+GRONCHI FANFANI - SULLO Visto, il Guardasigilli: BOSCO Registrato alla Corte dei conti, addi' 9 giugno 1962 Atti del Governo, registro n. 149, foglio n. 36 - VILLA

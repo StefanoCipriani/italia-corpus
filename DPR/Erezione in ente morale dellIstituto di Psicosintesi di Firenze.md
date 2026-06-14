@@ -1,19 +1,21 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 01 agosto 1965 n. 1721
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 1721
+data: 1965-08-01
+titolo: "Erezione in ente morale dell'\"Istituto di Psicosintesi\" di Firenze."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1965-08-01;1721
+codice_redazionale: 065U1721
+vigente: true
+---
 
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 01 agosto 1965 n. 1721
-==============================================================
-
-Erezione in ente morale dell'"Istituto di Psicosintesi" di Firenze.
--------------------------------------------------------------------
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-1721. Decreto del Presidente della Repubblica 1 agosto 1965, col quale, sulla proposta del Ministro per la pubblica istruzione, l'"Istituto di Psicosintesi" di Firenze, viene eretto in ente morale e ne viene approvato lo statuto.  
-  
-Visto, il Guardasigilli: REALE  
-Registrato alla Corte dei conti, addi' 14 luglio 1966  
-Atti del Governo, registro n. 204, foglio n. 47. - VILLA
+1721.
+
+Decreto del Presidente della Repubblica 1 agosto 1965, col quale, sulla proposta del Ministro per la pubblica istruzione, l'"Istituto di Psicosintesi" di Firenze, viene eretto in ente morale e ne viene approvato lo statuto.
+
+Visto, il Guardasigilli: REALE
+ Registrato alla Corte dei conti, addi' 14 luglio 1966
+ Atti del Governo, registro n. 204, foglio n. 47. - VILLA

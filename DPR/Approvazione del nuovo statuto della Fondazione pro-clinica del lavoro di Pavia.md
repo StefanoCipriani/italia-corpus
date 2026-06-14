@@ -1,19 +1,21 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 09 giugno 1976 n. 579
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 318
+data: 1972-05-22
+titolo: "Approvazione del nuovo statuto della Fondazione pro-clinica del lavoro di Pavia."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1972-05-22;318
+codice_redazionale: 072U0318
+vigente: true
+---
 
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 09 giugno 1976 n. 579
-=============================================================
-
-Approvazione del nuovo statuto della Fondazione pro-clinica del lavoro di Pavia.
---------------------------------------------------------------------------------
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-579. Decreto del Presidente della Repubblica 9 giugno 1976, col quale, sulla proposta del Ministro per la pubblica istruzione, viene approvato il nuovo statuto della Fondazione pro-clinica del lavoro di Pavia.  
-  
-Visto, il Guardasigilli: BONIFACIO  
-Registrato alla Corte dei conti, addi' 18 agosto 1976  
-Atti di Governo, registro n. 8, foglio n. 69
+318.
+
+Decreto del Presidente della Repubblica 22 maggio 1972, col quale, sulla proposta del Ministro per la pubblica istruzione, viene approvato il nuovo statuto della Fondazione pro-clinica del lavoro di Pavia.
+
+Visto, il Guardasigilli: GONELLA
+ Registrato alla Corte dei conti, addi' 10 luglio 1972
+ Atti del Governo, registro n. 250, foglio n. 2. - VALENTINI

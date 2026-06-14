@@ -1,18 +1,20 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 01 giugno 1948 n. 981
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 981
+data: 1948-06-01
+titolo: "Riconoscimento della personalita' giuridica della chiesa dell'ex Monastero del Divino Amore, in Montefiascone (Viterbo)."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1948-06-01;981
+codice_redazionale: 048U0981
+vigente: true
+---
 
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 01 giugno 1948 n. 981
-=============================================================
-
-Riconoscimento della personalita' giuridica della chiesa dell'ex Monastero del Divino Amore, in Montefiascone (Viterbo).
-------------------------------------------------------------------------------------------------------------------------
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-981. Decreto del Presidente della Repubblica 1 giugno 1948, col quale, sulla proposta del Ministro per l'interno, viene riconosciuta la personalita' giuridica della chiesa dell'ex Monastero del Divino Amore, in Montefiascone (Viterbo).  
-  
-Visto, il Guardasigilli: GRASSI  
-Registrato alla Corte dei conti, addi' 10 luglio 1948
+981.
+
+Decreto del Presidente della Repubblica 1 giugno 1948, col quale, sulla proposta del Ministro per l'interno, viene riconosciuta la personalita' giuridica della chiesa dell'ex Monastero del Divino Amore, in Montefiascone (Viterbo).
+
+Visto, il Guardasigilli: GRASSI
+ Registrato alla Corte dei conti, addi' 10 luglio 1948

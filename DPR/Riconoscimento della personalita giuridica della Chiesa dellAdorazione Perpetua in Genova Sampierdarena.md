@@ -1,19 +1,21 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 22 marzo 1954 n. 312
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 312
+data: 1954-03-22
+titolo: "Riconoscimento della personalita' giuridica della Chiesa dell'Adorazione Perpetua, in Genova Sampierdarena."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1954-03-22;312
+codice_redazionale: 054U0312
+vigente: true
+---
 
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 22 marzo 1954 n. 312
-============================================================
-
-Riconoscimento della personalita' giuridica della Chiesa dell'Adorazione Perpetua, in Genova Sampierdarena.
------------------------------------------------------------------------------------------------------------
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-312. Decreto del Presidente della Repubblica 22 marzo 1954, col quale sulla proposta del Ministro per l'interno, viene riconosciuta la personalita' giuridica della Chiesa dell'Adorazione Perpetua, in Genova - Sampierdarena.  
-  
-Visto, il Guardasigilli: DE PIETRO  
-Registrato alla [Corte dei conti, 10 giugno 1954  
-Atti del Governo, registro n. 83](https://e-justice.europa.eu/ecli/ECLI::::), foglio n. 125. - CARLOMAGNO
+312.
+
+Decreto del Presidente della Repubblica 22 marzo 1954, col quale sulla proposta del Ministro per l'interno, viene riconosciuta la personalita' giuridica della Chiesa dell'Adorazione Perpetua, in Genova - Sampierdarena.
+
+Visto, il Guardasigilli: DE PIETRO
+ Registrato alla Corte dei conti, 10 giugno 1954
+ Atti del Governo, registro n. 83, foglio n. 125. - CARLOMAGNO

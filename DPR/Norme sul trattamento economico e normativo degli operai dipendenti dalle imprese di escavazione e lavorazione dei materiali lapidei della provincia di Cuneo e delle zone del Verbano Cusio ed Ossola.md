@@ -1,20 +1,20 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 20 luglio 1961 n. 1028
-
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 20 luglio 1961 n. 1028
-==============================================================
-
-Norme sul trattamento economico e normativo degli operai dipendenti dalle imprese di escavazione e lavorazione dei materiali lapidei della provincia di Cuneo e delle zone del Verbano, Cusio ed Ossola.
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 1028
+data: 1961-07-20
+titolo: "Norme sul trattamento economico e normativo degli operai dipendenti dalle imprese di escavazione e lavorazione dei materiali lapidei della provincia di Cuneo e delle zone del Verbano, Cusio ed Ossola."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1961-07-20;1028
+codice_redazionale: 061U1028
+vigente: true
+---
 
 IL PRESIDENTE DELLA REPUBBLICA
-------------------------------
 
-Visto l'[art. 87, comma quinto, della Costituzione](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27~art87-com5);
+Visto l'[art. 87, comma quinto, della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87-com5);
 
-Vista la [legge 14 luglio 1959, n. 741](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1959-07-14;741), che delega il Governo ad emanare norme transitorie per garantire minimi di trattamento economico e normativo ai lavoratori;
+Vista la [legge 14 luglio 1959, n. 741](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1959-07-14;741), che delega il Governo ad emanare norme transitorie per garantire minimi di trattamento economico e normativo ai lavoratori;
 
-Vista la [legge 1 ottobre 1960, n. 1027](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1960-10-01;1027), recante modifiche alla predetta [legge 14 luglio 1959, n. 741](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1959-07-14;741);
+Vista la [legge 1 ottobre 1960, n. 1027](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1960-10-01;1027), recante modifiche alla predetta [legge 14 luglio 1959, n. 741](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1959-07-14;741);
 
 Visto il contratto collettivo nazionale 11 luglio 1959, per gli operai dipendenti da aziende esercenti l'attivita' di escavazione e lavorazione dei materiali lapidei;
 
@@ -26,49 +26,19 @@ Vista la pubblicazione nell'apposito Bollettino, n. 25 della provincia di Cuneo,
 
 Sentito il Consiglio dei Ministri;
 
-Sulla
------
+Sulla proposta del Ministro per il lavoro e la previdenza sociale; Decreta:
 
-proposta del Ministro per il lavoro e la previdenza sociale; Decreta:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-I rapporti di lavoro costituiti per le attivita' per le quali sono stati stipulati:  
-- per la provincia di Cuneo, il contratto collettivo integrativo 30 settembre 1959, per gli operai dipendenti da aziende esercenti l'attivita' di escavazione e lavorazione dei materiali lapidei;  
-- per le zone del Verbano - Cusio ed Ossola, l'accordo collettivo integrativo 1 ottobre 1959, per gli operai dipendenti da aziende esercenti l'attivita' di escavazione e lavorazione dei materiali lapidei;  
-sono regolati da norme giuridiche uniformi alle clausole dei contratto e dell'accordo anzidetti, annessi al presente decreto.  
-Dette norme sono integrative di quelle concernenti la disciplina nazionale della categoria, purche' con esse compatibili.  
-I minimi di trattamento economico e normativo cosi' stabiliti sono inderogabili nei confronti di tutti gli operai dipendenti dalle imprese di escavazione e lavorazione dei materiali lapidei della provincia di Cuneo e delle zone del Verbano, Cusio ed Ossola.  
-  
+I rapporti di lavoro costituiti per le attivita' per le quali sono stati stipulati:
+ - per la provincia di Cuneo, il contratto collettivo integrativo 30 settembre 1959, per gli operai dipendenti da aziende esercenti l'attivita' di escavazione e lavorazione dei materiali lapidei;
+ - per le zone del Verbano - Cusio ed Ossola, l'accordo collettivo integrativo 1 ottobre 1959, per gli operai dipendenti da aziende esercenti l'attivita' di escavazione e lavorazione dei materiali lapidei;
+sono regolati da norme giuridiche uniformi alle clausole dei contratto e dell'accordo anzidetti, annessi al presente decreto.
+ Dette norme sono integrative di quelle concernenti la disciplina nazionale della categoria, purche' con esse compatibili.
+ I minimi di trattamento economico e normativo cosi' stabiliti sono inderogabili nei confronti di tutti gli operai dipendenti dalle imprese di escavazione e lavorazione dei materiali lapidei della provincia di Cuneo e delle zone del Verbano, Cusio ed Ossola.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 12 luglio 1961
+Dato a Roma, addi' 12 luglio 1961
 
-GRONCHI FANFANI - SULLO
-
-Visto, il Guardasigilli: GONELLA
-
-Registrato alla Corte dei conti, addi' 22 settembre 1961
-
-Atti del Governo, registro n. 140, foglio n. 92. - VILLA
-
-Allegato
-
-CONTRATTO COLLETTIVO 30 SETTEMBRE 1959, INTEGRATIVO DEL C.C.N.L. PER GLI OPERAI DIPENDENTI DA AZIENDE ESERCENTI L'ATTIVITA' DI ESCAVAZIONE E LAVORAZIONE DEI MATERIALI LAPIDEI DELLA PROVINCIA DI CUNEO   
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=061U102800100010110001&dgu=1961-10-12&art.dataPubblicazioneGazzetta=1961-10-12&art.codiceRedazionale=061U1028)
-  
-  
-  
-  
-ACCORDO COLLETTIVO INTEGRATIVO DEL C.C.N.L. DELL'11 LUGLIO 1959, DA VALERE PER GLI OPERAI DIPENDENTI DA AZIENDE ESERCENTI L'ATTIVITA' DI SCAVAZIONE E LAVORAZIONE DEI MATERIALI LAPIDEI NELLE ZONE DEL VERBANO-CUSIO ED OSSOLA   
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=061U102800100010110002&dgu=1961-10-12&art.dataPubblicazioneGazzetta=1961-10-12&art.codiceRedazionale=061U1028)
-  
+GRONCHI FANFANI - SULLO Visto, il Guardasigilli: GONELLA Registrato alla Corte dei conti, addi' 22 settembre 1961 Atti del Governo, registro n. 140, foglio n. 92. - VILLA

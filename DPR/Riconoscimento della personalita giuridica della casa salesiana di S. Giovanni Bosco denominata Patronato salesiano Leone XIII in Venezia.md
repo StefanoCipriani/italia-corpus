@@ -1,20 +1,22 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 25 novembre 1974 n. 893
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 893
+data: 1974-11-25
+titolo: "Riconoscimento della personalita' giuridica della casa salesiana di S. Giovanni Bosco, denominata \"Patronato salesiano Leone XIII\", in Venezia."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1974-11-25;893
+codice_redazionale: 074U0893
+vigente: true
+---
 
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 25 novembre 1974 n. 893
-===============================================================
-
-Riconoscimento della personalita' giuridica della casa salesiana di S. Giovanni Bosco, denominata "Patronato salesiano Leone XIII", in Venezia.
------------------------------------------------------------------------------------------------------------------------------------------------
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-893. Decreto del Presidente della Repubblica 25 novembre 1974, col quale, sulla proposta del Ministro per l'interno, viene riconosciuta la personalita' giuridica della casa salesiana di S.  
-Giovanni Bosco, denominata "Patronato salesiano Leone XIII", in Venezia.  
-  
-Visto, il Guardasigilli: REALE  
-Registrato alla Corte dei conti, addi' 7 aprile 1975  
-Atti di Governo, registro n. 9, foglio n. 37
+893.
+
+Decreto del Presidente della Repubblica 25 novembre 1974, col quale, sulla proposta del Ministro per l'interno, viene riconosciuta la personalita' giuridica della casa salesiana di S.
+ Giovanni Bosco, denominata "Patronato salesiano Leone XIII", in Venezia.
+
+Visto, il Guardasigilli: REALE
+ Registrato alla Corte dei conti, addi' 7 aprile 1975
+ Atti di Governo, registro n. 9, foglio n. 37

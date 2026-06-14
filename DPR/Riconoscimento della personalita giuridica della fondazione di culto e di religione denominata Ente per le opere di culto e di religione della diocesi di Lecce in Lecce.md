@@ -1,19 +1,21 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 22 gennaio 1976 n. 45
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 45
+data: 1976-01-22
+titolo: "Riconoscimento della personalita' giuridica della fondazione di culto e di religione denominata \"Ente per le opere di culto e di religione della diocesi di Lecce\", in Lecce."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1976-01-22;45
+codice_redazionale: 076U0045
+vigente: true
+---
 
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 22 gennaio 1976 n. 45
-=============================================================
-
-Riconoscimento della personalita' giuridica della fondazione di culto e di religione denominata "Ente per le opere di culto e di religione della diocesi di Lecce", in Lecce.
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-45. Decreto del Presidente della Repubblica 22 gennaio 1976, col quale, sulla proposta del Ministro per l'interno, viene riconosciuta la personalita' giuridica ed approvato lo statuto della fondazione di culto e di religione denominata "Ente per le opere di culto e di religione della diocesi di Lecce", in Lecce.  
-  
-Visto, il Guardasigilli: REALE  
-Registrato alla Corte dei conti, addi' 8 marzo 1976  
-Atti di Governo, registro n. 3, foglio n. 73
+45.
+
+Decreto del Presidente della Repubblica 22 gennaio 1976, col quale, sulla proposta del Ministro per l'interno, viene riconosciuta la personalita' giuridica ed approvato lo statuto della fondazione di culto e di religione denominata "Ente per le opere di culto e di religione della diocesi di Lecce", in Lecce.
+
+Visto, il Guardasigilli: REALE
+ Registrato alla Corte dei conti, addi' 8 marzo 1976
+ Atti di Governo, registro n. 3, foglio n. 73

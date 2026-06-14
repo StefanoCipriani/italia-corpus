@@ -1,33 +1,24 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 18 dicembre 1973 n. 1178
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 1178
+data: 1973-12-18
+titolo: "Istituzione di alcuni conservatori di musica."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1973-12-18;1178
+codice_redazionale: 073U1178
+vigente: true
+---
 
+## Art. 1.
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 18 dicembre 1973 n. 1178
-================================================================
+((PROVVEDIMENTO ABROGATO DAL D.L. 9 FEBBRAIO 2012, N. 5, 
+ CONVERTITO CON MODIFICAZIONI DALLA L. 4 APRILE 2012, N. 35))
 
-Istituzione di alcuni conservatori di musica.
----------------------------------------------
+## Art. 2.
 
-Art. 1
-------
+((PROVVEDIMENTO ABROGATO DAL D.L. 9 FEBBRAIO 2012, N. 5, 
+ CONVERTITO CON MODIFICAZIONI DALLA L. 4 APRILE 2012, N. 35))
 
-((PROVVEDIMENTO ABROGATO DAL [D.L. 9 FEBBRAIO 2012, N. 5](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2012-02-09;5),   
-CONVERTITO CON MODIFICAZIONI DALLA [L. 4 APRILE 2012, N. 35](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2012-04-04;35)))
+## Art. 3.
 
-Art. 2
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.L. 9 FEBBRAIO 2012, N. 5](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2012-02-09;5),   
-CONVERTITO CON MODIFICAZIONI DALLA [L. 4 APRILE 2012, N. 35](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2012-04-04;35)))
-
-Art. 3
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.L. 9 FEBBRAIO 2012, N. 5](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2012-02-09;5),   
-CONVERTITO CON MODIFICAZIONI DALLA [L. 4 APRILE 2012, N. 35](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2012-04-04;35)))
-
-Tabella A
-
- Tabella A   
-
-((PROVVEDIMENTO ABROGATO DAL [D.L. 9 FEBBRAIO 2012, N. 5](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2012-02-09;5),   
-CONVERTITO CON MODIFICAZIONI DALLA [L. 4 APRILE 2012, N. 35](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2012-04-04;35)))
+((PROVVEDIMENTO ABROGATO DAL D.L. 9 FEBBRAIO 2012, N. 5, 
+ CONVERTITO CON MODIFICAZIONI DALLA L. 4 APRILE 2012, N. 35))

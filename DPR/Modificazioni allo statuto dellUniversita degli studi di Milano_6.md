@@ -1,22 +1,22 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 13 febbraio 1954 n. 750
-
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 13 febbraio 1954 n. 750
-===============================================================
-
-Modificazioni allo statuto dell'Universita' degli studi di Milano.
-------------------------------------------------------------------
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 750
+data: 1954-02-13
+titolo: "Modificazioni allo statuto dell'Universita' degli studi di Milano."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1954-02-13;750
+codice_redazionale: 054U0750
+vigente: true
+---
 
 IL PRESIDENTE DELLA REPUBBLICA
-------------------------------
 
-Veduto lo statuto dell'Universita' degli studi di Milano, approvato con [regio decreto 22 maggio 1939, numero 1166](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-05-22;1166) e modificato con [regi decreti 26 ottobre 1940, n. 2056](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1940-10-26;2056); [15 aprile 1942, n. 423](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1942-04-15;423); [24 ottobre 1942, n. 1847; con decreto del Capo provvisorio dello Stato](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto:1942-10-24;1847) [27 luglio 1947, n. 1138 e con decreti del Presidente della Repubblica](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1947-07-27;1138) [23 settembre 1949, n. 942](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1949-09-23;942); [21 novembre 1949, numero 1194](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1949-11-21;1194); [13 marzo 1950, n. 283](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1950-03-13;283); [27 ottobre 1951, numero 1825](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-10-27;1825); [23 aprile 1952, n. 873](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1952-04-23;873) e [10 febbraio 1953, n. 383](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1953-02-10;383);
+Veduto lo statuto dell'Universita' degli studi di Milano, approvato con [regio decreto 22 maggio 1939, numero 1166](../Atti%20normativi%20abrogati%20%28in%20originale%29/Modificazioni%20allo%20statuto%20della%20Regia%20Universita%20di%20Milano.%20039U1166.md) e modificato con [regi decreti 26 ottobre 1940, n. 2056](https://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1940-10-26;2056); [15 aprile 1942, n. 423](https://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1942-04-15;423); [24 ottobre 1942, n. 1847; con decreto del Capo provvisorio dello Stato](https://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto:1942-10-24;1847) [27 luglio 1947, n. 1138 e con decreti del Presidente della Repubblica](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1947-07-27;1138) [23 settembre 1949, n. 942](Modificazioni%20allo%20statuto%20dellUniversita%20degli%20studi%20di%20Milano.md); [21 novembre 1949, numero 1194](Modificazioni%20allo%20statuto%20dellUniversita%20degli%20studi%20di%20Milano_2.md); [13 marzo 1950, n. 283](Modificazioni%20allo%20statuto%20dellUniversita%20degli%20studi%20di%20Milano_3.md); [27 ottobre 1951, numero 1825](Modificazioni%20dello%20statuto%20dellUniversita%20degli%20studi%20di%20Milano.md); [23 aprile 1952, n. 873](Modificazioni%20allo%20statuto%20dellUniversita%20degli%20studi%20di%20Milano_4.md) e [10 febbraio 1953, n. 383](Modificazioni%20allo%20statuto%20dellUniversita%20degli%20studi%20di%20Milano_5.md);
 
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20R.%20decreto-legge%2020%20giugno%201935-XIII%20n.%201071%20contenente%20modifiche%20ed%20aggiornamenti%20al%20testo%20unico%20delle%20leggi%20sullistruzione%20superiore.%20036U0073.md);
 
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
+Veduto il [regio decreto 30 settembre 1938, n. 1652](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disposizioni%20sullordinamento%20didattico%20universitario.%20038U1652.md), e successive modificazioni;
 
 Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
 
@@ -60,50 +60,38 @@ MARTINO
 
 Visto, il Guardasigilli: DE PIETRO
 
-Registrato
-----------
+Registrato alla Corte dei conti, addi' 28 agosto 1954 Atti del Governo, registro n. 85, foglio n. 99. - CARLOMAGNO
 
-alla Corte dei conti, addi' 28 agosto 1954 Atti del Governo, registro n. 85, foglio n. 99. - CARLOMAGNO
+## Art. 1.
 
-Art. 1
-------
+IL PRESIDENTE DELLA REPUBBLICA
 
- IL PRESIDENTE DELLA REPUBBLICA  
-  
-Veduto lo statuto dell'Universita' degli studi di Milano, approvato con [regio decreto 22 maggio 1939, numero 1166](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-05-22;1166) e modificato con [regi decreti 26 ottobre 1940, n. 2056](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1940-10-26;2056); [15 aprile 1942, n. 423](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1942-04-15;423); [24 ottobre 1942, n. 1847; con decreto del Capo provvisorio dello Stato](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto:1942-10-24;1847) [27 luglio 1947, n. 1138 e con decreti del Presidente della Repubblica](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1947-07-27;1138) [23 settembre 1949, n. 942](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1949-09-23;942); [21 novembre 1949, numero 1194](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1949-11-21;1194); [13 marzo 1950, n. 283](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1950-03-13;283); [27 ottobre 1951, numero 1825](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-10-27;1825); [23 aprile 1952, n. 873](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1952-04-23;873) e [10 febbraio 1953, n. 383](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1953-02-10;383);  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
-Sentito il parere del Consiglio superiore della pubblica istruzione;  
-Sulla proposta del Ministro per la pubblica istruzione;  
-  
-Decreta:  
-  
-Lo statuto dell'Universita' degli studi di Milano, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
-  
-Art. 17. - Agli insegnamenti complementari del corso di laurea in lettere e' aggiunto quello di:  
-36) Storia comparata delle lingue classiche.  
-Art. 18. - Agli insegnamenti complementari del corso di laurea in filosofia sono aggiunti quelli di:  
-17) Storia delle dottrine economiche;  
-18) Una lingua e letteratura straniera moderna scelta fra quelle elencate nell'art. 17 per la laurea in lettere.  
-Art. 25. - Agli insegnamenti complementari del corso di laurea in chimica industriale e' aggiunto quello di:  
-10) Chimica applicata.  
-Art. 44. - Agli insegnamenti complementari del corso di laurea in scienze agrarie sono aggiunti quelli di:  
-12) Tecnica commerciale dei prodotti agricoli;  
-13) Viticoltura (semestrale).  
-  
+ Veduto lo statuto dell'Universita' degli studi di Milano, approvato con [regio decreto 22 maggio 1939, numero 1166](../Atti%20normativi%20abrogati%20%28in%20originale%29/Modificazioni%20allo%20statuto%20della%20Regia%20Universita%20di%20Milano.%20039U1166.md) e modificato con [regi decreti 26 ottobre 1940, n. 2056](https://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1940-10-26;2056); [15 aprile 1942, n. 423](https://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1942-04-15;423); [24 ottobre 1942, n. 1847; con decreto del Capo provvisorio dello Stato](https://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto:1942-10-24;1847) [27 luglio 1947, n. 1138 e con decreti del Presidente della Repubblica](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1947-07-27;1138) [23 settembre 1949, n. 942](Modificazioni%20allo%20statuto%20dellUniversita%20degli%20studi%20di%20Milano.md); [21 novembre 1949, numero 1194](Modificazioni%20allo%20statuto%20dellUniversita%20degli%20studi%20di%20Milano_2.md); [13 marzo 1950, n. 283](Modificazioni%20allo%20statuto%20dellUniversita%20degli%20studi%20di%20Milano_3.md); [27 ottobre 1951, numero 1825](Modificazioni%20dello%20statuto%20dellUniversita%20degli%20studi%20di%20Milano.md); [23 aprile 1952, n. 873](Modificazioni%20allo%20statuto%20dellUniversita%20degli%20studi%20di%20Milano_4.md) e [10 febbraio 1953, n. 383](Modificazioni%20allo%20statuto%20dellUniversita%20degli%20studi%20di%20Milano_5.md);
+ Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+ Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20R.%20decreto-legge%2020%20giugno%201935-XIII%20n.%201071%20contenente%20modifiche%20ed%20aggiornamenti%20al%20testo%20unico%20delle%20leggi%20sullistruzione%20superiore.%20036U0073.md);
+ Veduto il [regio decreto 30 settembre 1938, n. 1652](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disposizioni%20sullordinamento%20didattico%20universitario.%20038U1652.md), e successive modificazioni;
+ Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
+ Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
+ Sentito il parere del Consiglio superiore della pubblica istruzione;
+ Sulla proposta del Ministro per la pubblica istruzione;
+
+ Decreta:
+
+ Lo statuto dell'Universita' degli studi di Milano, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+
+ Art. 17. - Agli insegnamenti complementari del corso di laurea in lettere e' aggiunto quello di:
+ 36) Storia comparata delle lingue classiche.
+ Art. 18. - Agli insegnamenti complementari del corso di laurea in filosofia sono aggiunti quelli di:
+ 17) Storia delle dottrine economiche;
+ 18) Una lingua e letteratura straniera moderna scelta fra quelle elencate nell'art. 17 per la laurea in lettere.
+ Art. 25. - Agli insegnamenti complementari del corso di laurea in chimica industriale e' aggiunto quello di:
+ 10) Chimica applicata.
+ Art. 44. - Agli insegnamenti complementari del corso di laurea in scienze agrarie sono aggiunti quelli di:
+ 12) Tecnica commerciale dei prodotti agricoli;
+ 13) Viticoltura (semestrale).
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 13 febbraio 1954
+Dato a Roma, addi' 13 febbraio 1954
 
-EINAUDI MARTINO
-
-Visto, il Guardasigilli: DE PIETRO
-
-Registrato alla Corte dei conti, addi' 28 agosto 1954
-
-Atti del Governo, registro n. 85, foglio n. 99. - CARLOMAGNO
+EINAUDI MARTINO Visto, il Guardasigilli: DE PIETRO Registrato alla Corte dei conti, addi' 28 agosto 1954 Atti del Governo, registro n. 85, foglio n. 99. - CARLOMAGNO

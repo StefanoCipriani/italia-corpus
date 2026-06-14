@@ -1,19 +1,21 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 agosto 1956 n. 1474
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 1474
+data: 1956-08-30
+titolo: "Erezione in ente morale della Cassa scolastica della Scuola media statale \"Simone Catalano\" di Trapani."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1956-08-30;1474
+codice_redazionale: 056U1474
+vigente: true
+---
 
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 agosto 1956 n. 1474
-==============================================================
-
-Erezione in ente morale della Cassa scolastica della Scuola media statale "Simone Catalano" di Trapani.
--------------------------------------------------------------------------------------------------------
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-1474. Decreto del Presidente della Repubblica 30 agosto 1956, col quale, sulla proposta del Ministro per la pubblica istruzione, la Cassa scolastica della Scuola media statale "Simone Catalano" di Trapani viene eretta in ente morale e ne viene approvato lo statuto.  
-  
-Visto, il Guardasigilli: MORO  
-Registrato alla Corte dei conti, addi' 17 dicembre 1956  
-Atti del Governo, registro n. 102, foglio n. 122. - CARLOMAGNO
+1474.
+
+Decreto del Presidente della Repubblica 30 agosto 1956, col quale, sulla proposta del Ministro per la pubblica istruzione, la Cassa scolastica della Scuola media statale "Simone Catalano" di Trapani viene eretta in ente morale e ne viene approvato lo statuto.
+
+Visto, il Guardasigilli: MORO
+ Registrato alla Corte dei conti, addi' 17 dicembre 1956
+ Atti del Governo, registro n. 102, foglio n. 122. - CARLOMAGNO

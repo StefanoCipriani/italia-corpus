@@ -1,19 +1,21 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 25 novembre 1976 n. 971
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 971
+data: 1976-11-25
+titolo: "Approvazione del nuovo statuto dell'associazione provinciale allevatori, in Milano."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1976-11-25;971
+codice_redazionale: 076U0971
+vigente: true
+---
 
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 25 novembre 1976 n. 971
-===============================================================
-
-Approvazione del nuovo statuto dell'associazione provinciale allevatori, in Milano.
------------------------------------------------------------------------------------
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-971. Decreto del Presidente della Repubblica 25 novembre 1976, col quale, sulla proposta del Ministro per l'agricoltura e le foreste, viene approvato il nuovo statuto dell'associazione provinciale allevatori, in Milano, eretta in ente morale con [decreto del Presidente della Repubblica 23 novembre 1960, n. 1871](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1960-11-23;1871).  
-  
-Visto, il Guardasigilli: BONIFACIO  
-Registrato alla Corte dei conti, addi' 31 gennaio 1977  
-Registro n. 3 Agricoltura, foglio n. 95
+971.
+
+Decreto del Presidente della Repubblica 25 novembre 1976, col quale, sulla proposta del Ministro per l'agricoltura e le foreste, viene approvato il nuovo statuto dell'associazione provinciale allevatori, in Milano, eretta in ente morale con [decreto del Presidente della Repubblica 23 novembre 1960, n. 1871](Riconoscimento%20della%20personalita%20giuridica%20dellAssociazione%20provinciale%20allevatori%20con%20sede%20in%20Milano.md).
+
+Visto, il Guardasigilli: BONIFACIO
+ Registrato alla Corte dei conti, addi' 31 gennaio 1977
+ Registro n. 3 Agricoltura, foglio n. 95

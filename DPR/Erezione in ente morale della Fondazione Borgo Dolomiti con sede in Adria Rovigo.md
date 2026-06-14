@@ -1,19 +1,21 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 04 gennaio 1967 n. 21
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 21
+data: 1967-01-04
+titolo: "Erezione in ente morale della \"Fondazione Borgo Dolomiti\", con sede in Adria (Rovigo)."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1967-01-04;21
+codice_redazionale: 067U0021
+vigente: true
+---
 
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 04 gennaio 1967 n. 21
-=============================================================
-
-Erezione in ente morale della "Fondazione Borgo Dolomiti", con sede in Adria (Rovigo).
---------------------------------------------------------------------------------------
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-21. Decreto del Presidente della Repubblica 4 gennaio 1967, col quale, sulla proposta del Ministro per l'interno, la "Fondazione Borgo Dolomiti", con sede in Adria (Rovigo), viene eretta in ente morale e ne viene approvato lo statuto.  
-  
-Visto, il Guardasigilli: REALE  
-Registrato alla Corte dei conti, addi' 8 febbraio 1967  
-Atti del Governo, registro n. 209, foglio n. 24 - VILLA
+21.
+
+Decreto del Presidente della Repubblica 4 gennaio 1967, col quale, sulla proposta del Ministro per l'interno, la "Fondazione Borgo Dolomiti", con sede in Adria (Rovigo), viene eretta in ente morale e ne viene approvato lo statuto.
+
+Visto, il Guardasigilli: REALE
+ Registrato alla Corte dei conti, addi' 8 febbraio 1967
+ Atti del Governo, registro n. 209, foglio n. 24 - VILLA

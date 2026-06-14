@@ -1,18 +1,18 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 21 aprile 1949 n. 1161
-
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 21 aprile 1949 n. 1161
-==============================================================
-
-Determinazione del perimetro del bacino montano del torrente "Veses" in provincia di Belluno.
----------------------------------------------------------------------------------------------
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 1161
+data: 1949-04-21
+titolo: "Determinazione del perimetro del bacino montano del torrente \"Veses\" in provincia di Belluno."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1949-04-21;1161
+codice_redazionale: 049U1161
+vigente: true
+---
 
 IL PRESIDENTE DELLA REPUBBLICA
-------------------------------
 
-Visto il [regio decreto-legge 30 dicembre 1923, n. 3267](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1923-12-30;3267), relativo ai riordinamento ed alla riforma della legislazione in materia di boschi e terreni montani;
+Visto il [regio decreto-legge 30 dicembre 1923, n. 3267](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1923-12-30;3267), relativo ai riordinamento ed alla riforma della legislazione in materia di boschi e terreni montani;
 
-Visti il [regio decreto 16 maggio 1926, n. 1126](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-05-16;1126), che approva il regolamento per l'applicazione del suindicato regio decreto e l'[art. 3, lettera a) del regio decreto 27 settembre 1929, n. 1726](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1929-09-27;1726~art3-leta);
+Visti il [regio decreto 16 maggio 1926, n. 1126](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-05-16;1126), che approva il regolamento per l'applicazione del suindicato regio decreto e l'[art. 3, lettera a) del regio decreto 27 settembre 1929, n. 1726](../Atti%20normativi%20abrogati%20%28in%20originale%29/Passaggio%20di%20alcuni%20servizi%20gia%20di%20competenza%20del%20Ministero%20delleconomia%20nazionale%20al%20Ministero%20dei%20lavori%20pubblici%20e%20passaggio%20di%20altri%20servizi%20da%20questultimo%20Ministero%20al%20Sottosegretari_3ddfa1b4c30a.md);
 
 Ritenuta, la necessita' di procedere alla determinazione del perimetro del bacino montano del torrente "Veses" in provincia di Belluno;
 
@@ -20,33 +20,18 @@ Visti gli atti concernenti tale delimitazione e l'annessa carta corografica su s
 
 Visti inoltre il verbale 19 gennaio 1949 redatto dall'Ufficio del genio civile e dall'Ispettorato ripartimentale di Belluno, nonche' i pareri del Comitato tecnico provinciale per la bonifica di Belluno in data 19 gennaio 1949 e del Comitato tecnico-amministrativo del Magistrato alle acque di Venezia in data 5 gennaio 1949, n. 88;
 
-Sulla
------
+Sulla proposta del Ministro per l'agricoltura e per le foreste; Decreta:
 
-proposta del Ministro per l'agricoltura e per le foreste; Decreta:
+## Art. 1.
 
-Art. 1
-------
+Le opere occorrenti per la sistemazione del bacino montano del torrente "Veses", nei comuni di Cesio - maggiore-San Gregorio nelle Alpi e Santa Giustina in provincia di Belluno, rivestono i caratteri di cui al citato regio decreto-legge 30 dicembre 1923 e saranno eseguite a spese dello Stato.
 
-  
-Le opere occorrenti per la sistemazione del bacino montano del torrente "Veses", nei comuni di Cesio - maggiore-San Gregorio nelle Alpi e Santa Giustina in provincia di Belluno, rivestono i caratteri di cui al citato regio decreto-legge 30 dicembre 1923 e saranno eseguite a spese dello Stato.  
+## Art. 2.
 
-Art. 2
-------
-
-  
-Il perimetro del bacino montano del torrente "Veses" e' determinato ai sensi e per gli effetti del [regio decreto-legge 30 dicembre 1923, n. 3267](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1923-12-30;3267), secondo la linea descritta in narrativa e segnata sulla citata corografia 1/25.000 che, vistato, dal Ministro proponente, forma parte integrante del presente decreto.  
-  
+Il perimetro del bacino montano del torrente "Veses" e' determinato ai sensi e per gli effetti del [regio decreto-legge 30 dicembre 1923, n. 3267](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1923-12-30;3267), secondo la linea descritta in narrativa e segnata sulla citata corografia 1/25.000 che, vistato, dal Ministro proponente, forma parte integrante del presente decreto.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Dogliani, addi' 21 aprile 1949
+Dato a Dogliani, addi' 21 aprile 1949
 
-EINAUDI SEGNI
-
-Visto, il Guardasigilli: PICCIONI
-
-Registrato alla Corte del conti, addi' 21 marzo 1950
-
-Atti del Governo, registra n. 3, foglio n. 42. - FRASCA
+EINAUDI SEGNI Visto, il Guardasigilli: PICCIONI Registrato alla Corte del conti, addi' 21 marzo 1950 Atti del Governo, registra n. 3, foglio n. 42. - FRASCA

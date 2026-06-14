@@ -1,14 +1,14 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 14 agosto 1964 n. 1623
-
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 14 agosto 1964 n. 1623
-==============================================================
-
-Classifica in comprensorio di bonifica montana del territorio ricadente nel bacino dell'Alta Val Mongia, M. Sotta-Cianea, Passo Giovetti, quale ampliamento del comprensorio di bonifica montana, dell'Alto Tanaro nelle province di Cuneo e Savona.
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 1623
+data: 1964-08-14
+titolo: "Classifica in comprensorio di bonifica montana del territorio ricadente nel bacino dell'Alta Val Mongia, M. Sotta-Cianea, Passo Giovetti, quale ampliamento del comprensorio di bonifica montana, dell'Alto Tanaro nelle province di Cuneo e Savona."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1964-08-14;1623
+codice_redazionale: 064U1623
+vigente: true
+---
 
 IL PRESIDENTE DELLA REPUBBLICA
-------------------------------
 
 Vista la proposta dell'Ispettorato ripartimentale delle foreste di Cuneo in data 10 novembre 1962 per la classifica quale comprensorio di bonifica montana di tre piccole zone denominate "Alta Val Mongia", "M. Sotta-Cianea", "Passo Giovetti" situate nelle province di Cuneo e Savona, estese complessivamente per ha. 5.497, quale ampliamento del preesistente comprensorio dell'Alto Tanaro;
 
@@ -18,38 +18,24 @@ Sentito il Consiglio superiore dell'agricoltura e delle foreste e atteso che idr
 
 Visto il decreto del Presidente della Repubblica 3 luglio 1597, n. 1060, di classifica in comprensorio di bonifica montana del bacino dell'Alto Tanaro, ricadente nelle province di Cuneo, Savona e Imperia, esteso per ettari 36.910;
 
-Viste le lettere n. 602 in data 29 febbraio 1964 del [Ministero dei lavori pubblici e n. 120025 in data 27 giugno 1964](http://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.lavori.pubblici::1964-06-27;120025) del Ministero del tesoro;
+Viste le lettere n. 602 in data 29 febbraio 1964 del [Ministero dei lavori pubblici e n. 120025 in data 27 giugno 1964](https://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.lavori.pubblici::1964-06-27;120025) del Ministero del tesoro;
 
-Visto l'[art. 14 della legge 25 luglio 1952, n. 991](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1952-07-25;991~art14), e l'[art. 32 del decreto del Presidente della Repubblica, 16 novembre 1952, n. 1979](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1952-11-16;1979~art32);
+Visto l'[art. 14 della legge 25 luglio 1952, n. 991](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1952-07-25;991#art_14), e l'[art. 32 del decreto del Presidente della Repubblica, 16 novembre 1952, n. 1979](Approvazione%20del%20regolamento%20per%20lesecuzione%20della%20legge%2025%20luglio%201952%20n.%20991%20recante%20provvedimenti%20in%20favore%20dei%20territori%20montani.md);
 
 Ritenuto che sussistano le condizioni per procedere alla richiesta classifica;
 
-Sulla
------
+Sulla proposta del Ministro Segretario di Stato per l'agricoltura e per le foreste di concerto con i Ministri per i lavori pubblici e per il tesoro; Decreta:
 
-proposta del Ministro Segretario di Stato per l'agricoltura e per le foreste di concerto con i Ministri per i lavori pubblici e per il tesoro; Decreta:
+## Art. 1.
 
-Art. 1
-------
+Il territorio dell'Alta Val Mongia, M. Sotta-Cianea, Passo Giovetti, ricadente nelle province di Cuneo e Savona, esteso per ha. 5.497 delimitato con linea rossa nella citata corografia alla scala 1: 100.000, che vistata dal Ministro proponente forma parte integrante del presente decreto, e' classificato ai sensi e per gli effetti della [legge 25 luglio 1952, n. 991](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1952-07-25;991), fra i comprensori di bonifica montana quale ampliamento del preesistente comprensorio dell'Alto Tanaro.
 
-  
-Il territorio dell'Alta Val Mongia, M. Sotta-Cianea, Passo Giovetti, ricadente nelle province di Cuneo e Savona, esteso per ha. 5.497 delimitato con linea rossa nella citata corografia alla scala 1: 100.000, che vistata dal Ministro proponente forma parte integrante del presente decreto, e' classificato ai sensi e per gli effetti della [legge 25 luglio 1952, n. 991](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1952-07-25;991), fra i comprensori di bonifica montana quale ampliamento del preesistente comprensorio dell'Alto Tanaro.  
+## Art. 2.
 
-Art. 2
-------
-
-  
-Il comprensorio dell'Alto Tanaro, a seguito di tale ampliamento, assumera' la denominazione di "comprensorio di bonifica montana dell'Alto Tanaro e territori montani contermini" e risultera' della superficie complessiva di ha. 42.407 secondo la delimitazione con linea verde e sfumatura esterna dello stesso colore nella gia' citata corografia.  
+Il comprensorio dell'Alto Tanaro, a seguito di tale ampliamento, assumera' la denominazione di "comprensorio di bonifica montana dell'Alto Tanaro e territori montani contermini" e risultera' della superficie complessiva di ha. 42.407 secondo la delimitazione con linea verde e sfumatura esterna dello stesso colore nella gia' citata corografia.
 
 Il presente decreto munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 14 agosto 1964
+Dato a Roma, addi' 14 agosto 1964
 
-Per il Presidente della Repubblica Il Presidente del Senato MERZAGORA FERRARI AGGRADI - MANCINI - COLOMBO
-
-Visto, il Guardasigilli: REALE
-
-Registrato alla Corte dei conti, addi' 24 febbraio 1965
-
-Atti del Governo, registro n. 191, foglio n. 7. - VILLA
+Per il Presidente della Repubblica Il Presidente del Senato MERZAGORA FERRARI AGGRADI - MANCINI - COLOMBO Visto, il Guardasigilli: REALE Registrato alla Corte dei conti, addi' 24 febbraio 1965 Atti del Governo, registro n. 191, foglio n. 7. - VILLA

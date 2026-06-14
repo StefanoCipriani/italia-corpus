@@ -1,13 +1,13 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 19 dicembre 1948 n. 1603
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 1603
+data: 1948-12-19
+titolo: "Assunzione da parte dell'Avvocatura dello Stato della rappresentanza e della difesa dell'Opera nazionale per gli invalidi di guerra."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1948-12-19;1603
+codice_redazionale: 048U1603
+vigente: true
+---
 
+## Art. 1.
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 19 dicembre 1948 n. 1603
-================================================================
-
-Assunzione da parte dell'Avvocatura dello Stato della rappresentanza e della difesa dell'Opera nazionale per gli invalidi di guerra.
-------------------------------------------------------------------------------------------------------------------------------------
-
-Art. 1
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))

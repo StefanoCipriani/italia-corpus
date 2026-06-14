@@ -1,18 +1,20 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 maggio 1950 n. 788
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 788
+data: 1950-05-30
+titolo: "Autorizzazione al Ministro per le finanze ad accettare una eredita' disposta a favore dello Stato."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1950-05-30;788
+codice_redazionale: 050U0788
+vigente: true
+---
 
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 maggio 1950 n. 788
-=============================================================
-
-Autorizzazione al Ministro per le finanze ad accettare una eredita' disposta a favore dello Stato.
---------------------------------------------------------------------------------------------------
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-788. Decreto del Presidente della Repubblica 30 maggio 1950, col quale, sulla proposta del Ministro per le finanze, viene autorizzata l'accettazione, con il beneficio d'inventario, della eredita' del colonnello Giovacchini Rosati Rinaldo, morto in Pistoia l'8 dicembre 1944, disposta a favore dello Stato con testamento olografo 6 maggio 1943 e con codicilli 18 marzo 1944 e 17 novembre 1944.  
-  
-Visto, il Guardasigilli: PICCIONI  
-Registrato alla Corte dei conti, addi' 20 settembre 1950
+788.
+
+Decreto del Presidente della Repubblica 30 maggio 1950, col quale, sulla proposta del Ministro per le finanze, viene autorizzata l'accettazione, con il beneficio d'inventario, della eredita' del colonnello Giovacchini Rosati Rinaldo, morto in Pistoia l'8 dicembre 1944, disposta a favore dello Stato con testamento olografo 6 maggio 1943 e con codicilli 18 marzo 1944 e 17 novembre 1944.
+
+Visto, il Guardasigilli: PICCIONI
+ Registrato alla Corte dei conti, addi' 20 settembre 1950

@@ -1,37 +1,29 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 23 maggio 1952 n. 549
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 549
+data: 1952-05-23
+titolo: "Sostituzione di un membro del Consiglio dell'Ordine cavalleresco \"Al merito del lavoro\"."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1952-05-23;549
+codice_redazionale: 052U0549
+vigente: true
+---
 
+## Art. 1.
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 23 maggio 1952 n. 549
-=============================================================
+IL PRESIDENTE DELLA REPUBBLICA
 
-Sostituzione di un membro del Consiglio dell'Ordine cavalleresco "Al merito del lavoro".
-----------------------------------------------------------------------------------------
+ Vista la [legge 27 marzo 1952, n. 199](../Atti%20normativi%20abrogati%20%28in%20originale%29/Riordinamento%20dellOrdine%20cavalleresco%20al%20merito%20del%20lavoro.md), concernente il riordinamento dell'Ordine cavalleresco "Al merito del lavoro";
+ Visto il proprio decreto 6 maggio 1952, n. 439, registrato alla Corte dei conti il 12 maggio 1952, registro n. 53, foglio n. 56, con il quale e' stato costituito il Consiglio del predetto Ordine cavalleresco;
+ Viste le dimissioni da membro del Consiglio stesso, presentate dal cavaliere del lavoro ing. Beniamino Donzelli con lettera in data 14 maggio 1952;
+ Viste le proposte fatte dalla Federazione nazionale dei cavalieri del lavoro ai sensi dall'art. 6 della predetta legge;
+ Sulla proposta del Ministro per l'industria e il commercio, di concerto con il Ministro per l'agricoltura e le foreste;
 
-Art. 1
-------
+ Decreta:
 
- IL PRESIDENTE DELLA REPUBBLICA  
-  
-Vista la [legge 27 marzo 1952, n. 199](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1952-03-27;199), concernente il riordinamento dell'Ordine cavalleresco "Al merito del lavoro";  
-Visto il proprio decreto 6 maggio 1952, n. 439, registrato alla [Corte dei conti il 12 maggio 1952](https://e-justice.europa.eu/ecli/ECLI::::), registro n. 53, foglio n. 56, con il quale e' stato costituito il Consiglio del predetto Ordine cavalleresco;  
-Viste le dimissioni da membro del Consiglio stesso, presentate dal cavaliere del lavoro ing. Beniamino Donzelli con lettera in data 14 maggio 1952;  
-Viste le proposte fatte dalla Federazione nazionale dei cavalieri del lavoro ai sensi dall'art. 6 della predetta legge;  
-Sulla proposta del Ministro per l'industria e il commercio, di concerto con il Ministro per l'agricoltura e le foreste;  
-  
-Decreta:  
-  
-Il cavaliere del lavoro ing. Guido Ucelli e' nominato membro del Consiglio dell'Ordine cavalleresco "Al merito del lavoro" in sostituzione dell'ing. Beniamino Donzelli, dimissionario.  
-  
+ Il cavaliere del lavoro ing. Guido Ucelli e' nominato membro del Consiglio dell'Ordine cavalleresco "Al merito del lavoro" in sostituzione dell'ing. Beniamino Donzelli, dimissionario.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 23 maggio 1952
+Dato a Roma, addi' 23 maggio 1952
 
-EINAUDI CAMPILLI - FANFANI
-
-Visto, il Guardasigilli: ZOLI
-
-Registrato alla Corte dei conti, addi' 29 maggio 1952
-
-Atti del Governo, registro n. 53, foglio n. 123. - FRASCA
+EINAUDI CAMPILLI - FANFANI Visto, il Guardasigilli: ZOLI Registrato alla Corte dei conti, addi' 29 maggio 1952 Atti del Governo, registro n. 53, foglio n. 123. - FRASCA

@@ -1,19 +1,21 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 11 giugno 1980 n. 380
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 163
+data: 1980-03-11
+titolo: "Autorizzazione alla fondazione \"Pro juventute don Carlo Gnocchi\", in Roma, ad accettare un legato."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1980-03-11;163
+codice_redazionale: 080U0163
+vigente: true
+---
 
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 11 giugno 1980 n. 380
-=============================================================
-
-Autorizzazione alla fondazione "Pro juventute don Carlo Gnocchi", in Roma, ad accettare un legato.
---------------------------------------------------------------------------------------------------
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-380. Decreto del Presidente della Repubblica 11 giugno 1980, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la fondazione "Pro juventute don Carlo Gnocchi", in Roma, viene autorizzata ad accettare il legato disposto dal sig. Eugenio Marcora a favore dei Mutilatini di don Gnocchi che si identificano con la fondazione "Pro juventute don Carlo Gnocchi", come ha fatto presente la fondazione medesima, con testamento olografo 24 maggio 1977, pubblicato in data 12 aprile 1978, n. 264825/6474 di repertorio, a rogito dott. Giovanni Lovisetti, notaio in Milano, e registrato a Milano il 21 aprile 1978 al n. A/4-07483 serie H, A.P., consistente nella somma di L. 5.000.000.  
-  
-Visto, il Guardasigilli: MORLINO  
-Registrato alla Corte dei conti, addi' 24 luglio 1980  
-Registro n. 6 Presidenza, foglio n. 246
+163.
+
+Decreto del Presidente della Repubblica 11 marzo 1980, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la fondazione "Pro juventute don Carlo Gnocchi", in Roma, viene autorizzata ad accettare il legato, consistente in porzioni di immobili siti in comune di Milano, del valore di L. 13 milioni 500.000, disposto dalla sig.ra Maria Tartarini ved. Riva con testamenti olografi 12 dicembre 1970 e 2 febbraio 1973, pubblicati in data 12 novembre 1976, n. 12232/1218 di repertorio, a rogito dott. Artidoro Solaro, notaio in Nerviano (Milano), registrati a Rho (Milano) in data 24 novembre 1976, n. 682, vol. 82.
+
+Visto, il Guardasigilli: MORLINO
+ Registrato alla Corte dei conti, addi' 6 maggio 1980
+ Registro n. 3 Presidenza, foglio n. 318

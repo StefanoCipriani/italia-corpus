@@ -1,20 +1,20 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 gennaio 1962 n. 865
-
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 gennaio 1962 n. 865
-==============================================================
-
-Norme sul trattamento economico e normativo dei dirigenti e degli impiegati tecnici ed amministrativi dipendenti dalle aziende agricole e forestali delle province di Ferrara, Torino, Treviso, Novara e Vercelli.
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 865
+data: 1962-01-02
+titolo: "Norme sul trattamento economico e normativo dei dirigenti e degli impiegati tecnici ed amministrativi dipendenti dalle aziende agricole e forestali delle province di Ferrara, Torino, Treviso, Novara e Vercelli."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1962-01-02;865
+codice_redazionale: 062U0865
+vigente: true
+---
 
 IL PRESIDENTE DELLA REPUBBLICA
-------------------------------
 
-Visto l'[art. 87, comma quinto, della Costituzione](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27~art87-com5);
+Visto l'[art. 87, comma quinto, della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87-com5);
 
-Vista la [legge 14 luglio 1959, n. 741](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1959-07-14;741), che delega il Governo ad emanare norme transitorie per garantire minimi di trattamento economico e normativo ai lavoratori;
+Vista la [legge 14 luglio 1959, n. 741](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1959-07-14;741), che delega il Governo ad emanare norme transitorie per garantire minimi di trattamento economico e normativo ai lavoratori;
 
-Vista la [legge 1 ottobre 1960, n. 1027](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1960-10-01;1027), recante modifiche alla predetta [legge 14 luglio 1959, n. 741](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1959-07-14;741);
+Vista la [legge 1 ottobre 1960, n. 1027](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1960-10-01;1027), recante modifiche alla predetta [legge 14 luglio 1959, n. 741](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1959-07-14;741);
 
 Visto il contratto collettivo nazionale 6 agosto 1957, per i dirigenti di aziende agricole e forestali;
 
@@ -36,75 +36,21 @@ Vista la pubblicazione nell'apposito Bollettino, n. 9 della provincia di Ferrara
 
 Sentito il Consiglio dei Ministri;
 
-Sulla
------
+Sulla proposta del Ministro per il lavoro e la previdenza sociale; Decreta:
 
-proposta del Ministro per il lavoro e la previdenza sociale; Decreta:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-I rapporti di lavoro costituiti per le attivita' per le quali sono stati stipulati:  
-per la provincia di Ferrara, il contratto collettivo integrativo 11 febbraio 1960, relativo agli impiegati delle aziende agricole forestali;  
-per la provincia di Torino, il contratto collettivo integrativo 9 giugno 1960, relativo ai dirigenti tecnici ed amministrativi di aziende agricole e forestali, il contratto collettivo integrativo 9 giugno 1960, relativo agli impiegati tecnici ed amministrativi di aziende agricole e forestali;  
-per la provincia di Treviso, il contratto collettivo integrativo 29 dicembre 1959, relativo agli impiegati tecnici ed amministrativi di aziende agricole e forestali;  
-per le province di Novara c Vercelli, il contratto collettivo integrativo 9 luglio 1960, relativo agli impiegati tecnici ed amministrativi di aziende agricole e forestali;  
-sono regolati da norme giuridiche uniformi alle clausole dei contratti anzidetti, annessi al presente decreto.  
-Dette norme sono integrative di quelle concernenti la disciplina nazionale della categoria, purche' con esse compatibili.  
-I minimi di trattamento economico e normativo cosi' stabiliti sono inderogabili nei confronti di tutti i dirigenti tecnici ed amministrativi dipendenti dalle aziende agricole e forestali della provincia di Torino e di tutti gli impiegati tecnici ed amministrativi dipendenti dalle aziende agricole e forestali delle province di Ferrara, Torino, Treviso, Novara e Vercelli.  
-  
+I rapporti di lavoro costituiti per le attivita' per le quali sono stati stipulati:
+ per la provincia di Ferrara, il contratto collettivo integrativo 11 febbraio 1960, relativo agli impiegati delle aziende agricole forestali;
+ per la provincia di Torino, il contratto collettivo integrativo 9 giugno 1960, relativo ai dirigenti tecnici ed amministrativi di aziende agricole e forestali, il contratto collettivo integrativo 9 giugno 1960, relativo agli impiegati tecnici ed amministrativi di aziende agricole e forestali;
+ per la provincia di Treviso, il contratto collettivo integrativo 29 dicembre 1959, relativo agli impiegati tecnici ed amministrativi di aziende agricole e forestali;
+ per le province di Novara c Vercelli, il contratto collettivo integrativo 9 luglio 1960, relativo agli impiegati tecnici ed amministrativi di aziende agricole e forestali;
+sono regolati da norme giuridiche uniformi alle clausole dei contratti anzidetti, annessi al presente decreto.
+ Dette norme sono integrative di quelle concernenti la disciplina nazionale della categoria, purche' con esse compatibili.
+ I minimi di trattamento economico e normativo cosi' stabiliti sono inderogabili nei confronti di tutti i dirigenti tecnici ed amministrativi dipendenti dalle aziende agricole e forestali della provincia di Torino e di tutti gli impiegati tecnici ed amministrativi dipendenti dalle aziende agricole e forestali delle province di Ferrara, Torino, Treviso, Novara e Vercelli.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 2 gennaio 1962
+Dato a Roma, addi' 2 gennaio 1962
 
-GRONCHI FANFANI - SULLO
-
-Visto, il Guardasigilli: BOSCO
-
-Registrato alla Corte dei conti, addi' 19 giugno 1962
-
-Atti del Governo, registro n. 151, foglio n. 36. - VILLA
-
-Allegato
-
-CONTRATTO COLLETTIVO INTEGRATIVO 11 FEBBRAIO 1960, PER GLI IMPIEGATI DELLE AZIENDE AGRICOLE E FORESTALI DELLA PROVINCIA DI FERRARA.   
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=062U086500100010110001&dgu=1962-07-23&art.dataPubblicazioneGazzetta=1962-07-23&art.codiceRedazionale=062U0865)
-  
-  
-  
-  
-CONTRATTO COLLETTIVO INTEGRATIVO 9 GIUGNO 1960, PER I DIRIGENTI TECNICI ED AMMINISTRATIVI DI AZIENDE AGRICOLE E FORESTALI DELLA PROVINCIA DI TORINO.   
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=062U086500100010110002&dgu=1962-07-23&art.dataPubblicazioneGazzetta=1962-07-23&art.codiceRedazionale=062U0865)
-  
-  
-  
-  
-CONTRATTO COLLETTIVO INTEGRATIVO 9 GIUGNO 1960, PER GLI IMPIEGATI TECNICI ED AMMINISTRATIVI DI AZIENDE AGRICOLE E FORESTALI DELLA PROVINCIA DI TORINO.   
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=062U086500100010110003&dgu=1962-07-23&art.dataPubblicazioneGazzetta=1962-07-23&art.codiceRedazionale=062U0865)
-  
-  
-  
-  
-CONTRATTO COLLETTIVO INTEGRATIVO 29 DICEMBRE 1959, PER GLI IMPIEGATI TECNICI ED AMMINISTRATIVI DI AZIENDE AGRICOLE E FORESTALI DELLA PROVINCIA DI TREVISO.   
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=062U086500100010110004&dgu=1962-07-23&art.dataPubblicazioneGazzetta=1962-07-23&art.codiceRedazionale=062U0865)
-  
-  
-  
-  
-CONTRATTO COLLETTIVO INTEGRATIVO 9 LUGLIO 1960, PER GLI IMPIEGATI TECNICI ED AMMINISTRATIVI DI AZIENDE AGRICOLE E FORESTALI DELLE PROVINCE DI NOVARA E VERCELLI.   
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=062U086500100010110005&dgu=1962-07-23&art.dataPubblicazioneGazzetta=1962-07-23&art.codiceRedazionale=062U0865)
-  
+GRONCHI FANFANI - SULLO Visto, il Guardasigilli: BOSCO Registrato alla Corte dei conti, addi' 19 giugno 1962 Atti del Governo, registro n. 151, foglio n. 36. - VILLA

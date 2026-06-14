@@ -1,19 +1,21 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 24 dicembre 1986 n. 1097
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 1097
+data: 1986-12-24
+titolo: "Riconoscimento della personalita' giuridica della chiesa ex conventuale \"S. Francesco d'Assisi\", in Genzano di Roma."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1986-12-24;1097
+codice_redazionale: 086U1097
+vigente: true
+---
 
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 24 dicembre 1986 n. 1097
-================================================================
-
-Riconoscimento della personalita' giuridica della chiesa ex conventuale "S. Francesco d'Assisi", in Genzano di Roma.
---------------------------------------------------------------------------------------------------------------------
-
-Art. 1
-------
+## Art. 1.
 
 n.
 
-1097. Decreto del Presidente della Repubblica 24 dicembre 1986, col quale, sulla proposta del Ministro dell'interno, viene riconosciuto la personalita' giuridica della chiesa ex conventuale "S. Francesco d'Assisi", in Genzano di Roma (Roma).  
-  
-Visto, il Guardasigilli: ROGNONI  
-Registrato alla Corte dei conti, addi' 6 maggio 1987  
-Registro n. 16 Interno, foglio n. 168
+1097.
+
+Decreto del Presidente della Repubblica 24 dicembre 1986, col quale, sulla proposta del Ministro dell'interno, viene riconosciuto la personalita' giuridica della chiesa ex conventuale "S. Francesco d'Assisi", in Genzano di Roma (Roma).
+
+Visto, il Guardasigilli: ROGNONI
+ Registrato alla Corte dei conti, addi' 6 maggio 1987
+ Registro n. 16 Interno, foglio n. 168

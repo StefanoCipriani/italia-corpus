@@ -1,19 +1,21 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 23 marzo 1960 n. 365
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 365
+data: 1960-03-23
+titolo: "Soppressione della Fabbriceria della Chiesa parrocchiale dei Santi Filippo e Giacomo, in frazione Visnadello del comune di Spresiano (Treviso)."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1960-03-23;365
+codice_redazionale: 060U0365
+vigente: true
+---
 
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 23 marzo 1960 n. 365
-============================================================
-
-Soppressione della Fabbriceria della Chiesa parrocchiale dei Santi Filippo e Giacomo, in frazione Visnadello del comune di Spresiano (Treviso).
------------------------------------------------------------------------------------------------------------------------------------------------
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-365. Decreto del Presidente della Repubblica 23 marzo 1960, col quale, sulla proposta del Ministro per l'interno, viene soppressa la Fabbriceria della Chiesa parrocchiale dei Santi Filippo e Giacomo, in frazione Visnadello del comune di Spresiano (Treviso).  
-  
-Visto, il Guardasigilli: GONELLA  
-Registrato alla Corte dei conti, addi' 26 aprile 1960  
-Atti del Governo, registro n. 125, foglio n. 241. - VILLA
+365.
+
+Decreto del Presidente della Repubblica 23 marzo 1960, col quale, sulla proposta del Ministro per l'interno, viene soppressa la Fabbriceria della Chiesa parrocchiale dei Santi Filippo e Giacomo, in frazione Visnadello del comune di Spresiano (Treviso).
+
+Visto, il Guardasigilli: GONELLA
+ Registrato alla Corte dei conti, addi' 26 aprile 1960
+ Atti del Governo, registro n. 125, foglio n. 241. - VILLA

@@ -1,14 +1,14 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 19 dicembre 1957 n. 1391
-
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 19 dicembre 1957 n. 1391
-================================================================
-
-Rettifica di confine fra i comuni di Afragola e di Casoria (Napoli).
---------------------------------------------------------------------
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 1391
+data: 1957-12-19
+titolo: "Rettifica di confine fra i comuni di Afragola e di Casoria (Napoli)."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1957-12-19;1391
+codice_redazionale: 057U1391
+vigente: true
+---
 
 IL PRESIDENTE DELLA REPUBBLICA
-------------------------------
 
 Viste le deliberazioni: della Giunta municipale in data 5 luglio 1955 e 18 luglio 1957, numeri 219 e 365, e del Consiglio comunale di Afragola in data 27 febbraio 1955 e 15 marzo 1956, numeri 15 e 39; della Giunta municipale in data 4 settembre 1957, n. 610, e del Consiglio comunale di Casoria in data 30 maggio 1955, n. 17, con le quali e' stata chiesta una rettifica di confine fra quei Comuni;
 
@@ -18,35 +18,20 @@ Viste le deliberazioni del Consiglio provinciale di Napoli in data 10 ottobre 19
 
 Udito il parere espresso dalla I Sezione del Consiglio di Stato nell'adunanza del 22 ottobre 1957, n. 1754;
 
-Visti gli articoli 32, capoverso, e 35 del testo unico della legge comunale e provinciale, approvato con [regio decreto 3 marzo 1934, n. 383](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-03-03;383);
+Visti gli articoli 32, capoverso, e 35 del testo unico della legge comunale e provinciale, approvato con [regio decreto 3 marzo 1934, n. 383](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20del%20testo%20unico%20della%20legge%20comunale%20e%20provinciale.%20034U0383.md);
 
-Sulla
------
+Sulla proposta del Ministro Segretario di Stato per gli affari dell'interno; Decreta:
 
-proposta del Ministro Segretario di Stato per gli affari dell'interno; Decreta:
+## Art. 1.
 
-Art. 1
-------
+Il confine fra i comuni di Afragola e di Casoria, in provincia di Napoli, e' rettificato secondo la linea risultante dalla pianta planimetrica e dalla relazione descrittiva annesse al presente decreto.
 
-  
-Il confine fra i comuni di Afragola e di Casoria, in provincia di Napoli, e' rettificato secondo la linea risultante dalla pianta planimetrica e dalla relazione descrittiva annesse al presente decreto.  
+## Art. 2.
 
-Art. 2
-------
-
-  
-Il Prefetto di Napoli, sentita la Giunta provinciale amministrativa, provvedera' alla separazione patrimoniale ed al riparto delle attivita' e passivita' fra i comuni di Afragola e di Casoria.  
-  
+Il Prefetto di Napoli, sentita la Giunta provinciale amministrativa, provvedera' alla separazione patrimoniale ed al riparto delle attivita' e passivita' fra i comuni di Afragola e di Casoria.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 19 dicembre 1957
+Dato a Roma, addi' 19 dicembre 1957
 
-GRONCHI TAMBRONI
-
-Visto, il Guardasigilli: GONELLA
-
-Registrato alla Corte dei conti, addi' 24 febbraio 1958
-
-Atti del Governo, registro n. 111, foglio n. 78. - RELLEVA
+GRONCHI TAMBRONI Visto, il Guardasigilli: GONELLA Registrato alla Corte dei conti, addi' 24 febbraio 1958 Atti del Governo, registro n. 111, foglio n. 78. - RELLEVA

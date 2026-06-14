@@ -1,19 +1,21 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 16 luglio 1985 n. 572
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 467
+data: 1985-06-17
+titolo: "Autorizzazione alla fondazione \"Pro juventute don Carlo Gnocchi\", in Roma, ad accettare un legato."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1985-06-17;467
+codice_redazionale: 085U0467
+vigente: true
+---
 
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 16 luglio 1985 n. 572
-=============================================================
-
-Autorizzazione alla fondazione "Pro juventute don Carlo Gnocchi", in Roma, ad accettare un legato.
---------------------------------------------------------------------------------------------------
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-572. Decreto del Presidente della Repubblica 16 luglio 1985, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la fondazione "Pro juventute don Carlo Gnocchi", in Roma, viene autorizzata ad accettare il legato, consistente nella somma di lire 20.000.000, disposto dalla sig.ra Ponta Giustina Rosita a favore dell'opera "Don Gnocchi" che si identifica con la fondazione "Pro juventute don Carlo Gnocchi", come si evince dal verbale 16 gennaio 1984 del consiglio di amministrazione della fondazione stessa, con testamento pubblico 9 novembre 1982, redatto a rogito dott. Massimo Di Paolo, notaio in Genova, e dallo stesso pubblicato in data 2 marzo 1983 n. 1449 d'ordine e n. 9750 di repertorio, registrato a Genova il 14 marzo 1983 al n. 5223.   
-  
-Visto, il Guardasigilli: MARTINAZZOLI   
-Registrato alla Corte dei conti, addi' 11 ottobre 1985   
-Registro n. 9 Presidenza, foglio n. 77
+467.
+
+Decreto del Presidente della Repubblica 17 giugno 1985, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la fondazione "Pro juventute don Carlo Gnocchi", in Roma, viene autorizzata ad accettare il legato, consistente nella quota di meta' dei titoli Fundus depositati presso la S.A.I., valore complessivo L. 25.252.900 - quota 1/2 = L. 12.626.450, disposto dal sig. Fissore Antonio a favore dell'istituto "Don Gnocchi (mutilatini)", che si identifica con la fondazione "Pro juventute don Carlo Gnocchi", come si evince dal verbale 24 novembre 1979 del consiglio di amministrazione della fondazione stessa, con testamento olografo 6 novembre 1978, pubblicato in data 11 dicembre 1978, n. 67641 di repertorio e numero 41556 di raccolta, a rogito dott. Alberto Occelli, coadiutore temporaneo del dott. Giovanni Battista Picco, notaio in Torino, registrato a Torino il 15 dicembre 1978 al n. 51765.
+
+Visto, il Guardasigilli: MARTINAZZOLI
+ Registrato alla Corte dei conti, addi' 2 settembre 1985
+ Registro n. 8 Presidenza, foglio n. 157

@@ -1,19 +1,21 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 06 agosto 1986 n. 869
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 869
+data: 1986-08-06
+titolo: "Riconoscimento della personalita' giuridica dell'associazione \"Meeting per l'amicizia fra i popoli\", in Rimini."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1986-08-06;869
+codice_redazionale: 086U0869
+vigente: true
+---
 
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 06 agosto 1986 n. 869
-=============================================================
-
-Riconoscimento della personalita' giuridica dell'associazione "Meeting per l'amicizia fra i popoli", in Rimini.
----------------------------------------------------------------------------------------------------------------
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-869. Decreto del Presidente della Repubblica 6 agosto 1986, col quale, sulla proposta del Ministro degli affari esteri, di concerto con i Ministri dell'interno e del tesoro, viene riconosciuta la personalita' giuridica ed approvato lo statuto dell'associazione "Meeting per l'amicizia fra i popoli", in Rimini (Forli').   
-  
-Visto, il Guardasigilli: ROGNONI   
-Registrato alla Corte dei conti, addi' 22 ottobre 1986   
-Registro n. 14 Esteri, foglio n. 186
+869.
+
+Decreto del Presidente della Repubblica 6 agosto 1986, col quale, sulla proposta del Ministro degli affari esteri, di concerto con i Ministri dell'interno e del tesoro, viene riconosciuta la personalita' giuridica ed approvato lo statuto dell'associazione "Meeting per l'amicizia fra i popoli", in Rimini (Forli'). 
+ 
+Visto, il Guardasigilli: ROGNONI 
+ Registrato alla Corte dei conti, addi' 22 ottobre 1986 
+ Registro n. 14 Esteri, foglio n. 186

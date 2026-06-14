@@ -1,19 +1,21 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 20 agosto 1980 n. 1168
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 1168
+data: 1980-08-20
+titolo: "Istituzione di un istituto tecnico commerciale ad indirizzo amministrativo in Ceccano."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1980-08-20;1168
+codice_redazionale: 080U1168
+vigente: true
+---
 
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 20 agosto 1980 n. 1168
-==============================================================
-
-Istituzione di un istituto tecnico commerciale ad indirizzo amministrativo in Ceccano.
---------------------------------------------------------------------------------------
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-1168. Decreto del Presidente della Repubblica 20 agosto 1980, col quale, sulla proposta del Ministro della pubblica istruzione, di concerto con i Ministri dell'interno e del tesoro, viene istituito in Ceccano (Frosinone), a decorrere dall'inizio dell'anno scolastico 1980-81, un istituto tecnico commerciale ad indirizzo amministrativo e ne viene approvata la tabella organica.   
-  
-Visto, il Guardasigilli: DARIDA   
-Registrato alla Corte dei conti, addi' 30 luglio 1981   
-Registro n. 73 Istruzione, foglio n. 280
+1168.
+
+Decreto del Presidente della Repubblica 20 agosto 1980, col quale, sulla proposta del Ministro della pubblica istruzione, di concerto con i Ministri dell'interno e del tesoro, viene istituito in Ceccano (Frosinone), a decorrere dall'inizio dell'anno scolastico 1980-81, un istituto tecnico commerciale ad indirizzo amministrativo e ne viene approvata la tabella organica. 
+ 
+Visto, il Guardasigilli: DARIDA 
+ Registrato alla Corte dei conti, addi' 30 luglio 1981 
+ Registro n. 73 Istruzione, foglio n. 280

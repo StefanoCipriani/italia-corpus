@@ -1,14 +1,14 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 dicembre 1967 n. 1517
-
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 dicembre 1967 n. 1517
-================================================================
-
-Classificazione in comprensorio di bonifica montana del territorio del Topino, in provincia di Perugia.
--------------------------------------------------------------------------------------------------------
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 1517
+data: 1967-12-30
+titolo: "Classificazione in comprensorio di bonifica montana del territorio del Topino, in provincia di Perugia."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1967-12-30;1517
+codice_redazionale: 067U1517
+vigente: true
+---
 
 IL PRESIDENTE DELLA REPUBBLICA
-------------------------------
 
 Vista la proposta dell'Ispettorato ripartimentale delle foreste di Perugia in data 21 marzo 1966 per la classifica quale comprensorio di bonifica montana del territorio del Topino in provincia di Perugia;
 
@@ -16,31 +16,18 @@ Vista la corografia su scala 1: 100.000 nella quale e' indicato il perimetro del
 
 Sentito il Consiglio superiore dell'agricoltura e delle foreste, parere del 3 maggio 1967;
 
-Visto l'[art. 14 della legge 25 luglio 1952, n. 991](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1952-07-25;991~art14) e l'[art. 32 del decreto del Presidente della Repubblica 16 novembre 1952, n. 1979](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1952-11-16;1979~art32);
+Visto l'[art. 14 della legge 25 luglio 1952, n. 991](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1952-07-25;991#art_14) e l'[art. 32 del decreto del Presidente della Repubblica 16 novembre 1952, n. 1979](Approvazione%20del%20regolamento%20per%20lesecuzione%20della%20legge%2025%20luglio%201952%20n.%20991%20recante%20provvedimenti%20in%20favore%20dei%20territori%20montani.md);
 
 Ritenuto che sussistano le condizioni per procedere alla richiesta classifica;
 
-Sulla
------
+Sulla proposta del Ministro Segretario di Stato per l'agricoltura e per le foreste di concerto con i Ministri per i lavori pubblici e per il tesoro; Decreta:
 
-proposta del Ministro Segretario di Stato per l'agricoltura e per le foreste di concerto con i Ministri per i lavori pubblici e per il tesoro; Decreta:
+## Articolo unico
 
-Articolo unico
---------------
-
-  
-Il territorio del "Topino" in provincia di Perugia della superficie di circa ha. 43.191 il cui perimetro e' indicato con una linea di color verde segnata nella citata corografia su scala 1: 100.000 che, vistata dal Ministro proponente, forma parte integrante del presente decreto, e' classificato ai sensi e per gli effetti della [legge 25 luglio 1952, n. 991](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1952-07-25;991), fra i comprensori di bonifica montana.  
-  
+Il territorio del "Topino" in provincia di Perugia della superficie di circa ha. 43.191 il cui perimetro e' indicato con una linea di color verde segnata nella citata corografia su scala 1: 100.000 che, vistata dal Ministro proponente, forma parte integrante del presente decreto, e' classificato ai sensi e per gli effetti della [legge 25 luglio 1952, n. 991](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1952-07-25;991), fra i comprensori di bonifica montana.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 30 dicembre 1967
+Dato a Roma, addi' 30 dicembre 1967
 
-SARAGAT RESTIVO - MANCINI - COLOMBO
-
-Visto, il Guardasigilli: REALE
-
-Registrato alla Corte dei conti, addi' 21 maggio 1968
-
-Atti del Governo, registro n. 219, foglio n. 164 - GRECO
+SARAGAT RESTIVO - MANCINI - COLOMBO Visto, il Guardasigilli: REALE Registrato alla Corte dei conti, addi' 21 maggio 1968 Atti del Governo, registro n. 219, foglio n. 164 - GRECO

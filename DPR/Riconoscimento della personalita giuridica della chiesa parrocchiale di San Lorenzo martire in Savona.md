@@ -1,19 +1,21 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 febbraio 1978 n. 164
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 164
+data: 1978-02-28
+titolo: "Riconoscimento della personalita' giuridica della chiesa parrocchiale di San Lorenzo martire, in Savona."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1978-02-28;164
+codice_redazionale: 078U0164
+vigente: true
+---
 
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 febbraio 1978 n. 164
-===============================================================
-
-Riconoscimento della personalita' giuridica della chiesa parrocchiale di San Lorenzo martire, in Savona.
---------------------------------------------------------------------------------------------------------
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-164. Decreto del Presidente della Repubblica 28 febbraio 1978, col quale, sulla proposta del Ministro dell'interno, viene riconosciuta la personalita' giuridica della chiesa parrocchiale di San Lorenzo martire, in Savona.  
-  
-Visto, il Guardasigilli: BONIFACIO  
-Registrato alla Corte dei conti, addi' 5 maggio 1978  
-Registro n. 9 Interno, foglio n. 107
+164.
+
+Decreto del Presidente della Repubblica 28 febbraio 1978, col quale, sulla proposta del Ministro dell'interno, viene riconosciuta la personalita' giuridica della chiesa parrocchiale di San Lorenzo martire, in Savona.
+
+Visto, il Guardasigilli: BONIFACIO
+ Registrato alla Corte dei conti, addi' 5 maggio 1978
+ Registro n. 9 Interno, foglio n. 107

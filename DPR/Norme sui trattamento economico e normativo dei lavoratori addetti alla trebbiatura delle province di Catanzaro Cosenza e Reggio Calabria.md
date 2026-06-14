@@ -1,20 +1,20 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 27 giugno 1961 n. 888
-
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 27 giugno 1961 n. 888
-=============================================================
-
-Norme sui trattamento economico e normativo dei lavoratori addetti alla trebbiatura delle province di Catanzaro, Cosenza e Reggio Calabria.
--------------------------------------------------------------------------------------------------------------------------------------------
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 888
+data: 1961-06-27
+titolo: "Norme sui trattamento economico e normativo dei lavoratori addetti alla trebbiatura delle province di Catanzaro, Cosenza e Reggio Calabria."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1961-06-27;888
+codice_redazionale: 061U0888
+vigente: true
+---
 
 IL PRESIDENTE DELLA REPUBBLICA
-------------------------------
 
-Visto l'[art. 87, comma quinto, della Costituzione](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27~art87-com5);
+Visto l'[art. 87, comma quinto, della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87-com5);
 
-Vita la [legge 14 luglio 1959, n. 741](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1959-07-14;741), che delega il Governo ad emanare norme transitorie per garantire minimi di trattamento economico e normativo ai lavoratori;
+Vita la [legge 14 luglio 1959, n. 741](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1959-07-14;741), che delega il Governo ad emanare norme transitorie per garantire minimi di trattamento economico e normativo ai lavoratori;
 
-Vista la [legge 1 ottobre 1960, n. 1027](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1960-10-01;1027), recante modifiche alla predetta [legge 1 luglio 1959, n. 741](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1959-07-01;741);
+Vista la [legge 1 ottobre 1960, n. 1027](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1960-10-01;1027), recante modifiche alla predetta [legge 1 luglio 1959, n. 741](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1959-07-01;741);
 
 Visti, per la provincia di Catanzaro:
 
@@ -30,65 +30,19 @@ Vista la pubblicazione nell'apposito Bollettino, n. 5 della provincia di Catanza
 
 Sentito il Consiglio dei Ministri;
 
-Sulla
------
+Sulla proposta del Ministro per il lavoro e la previdenza sociale; Decreta:
 
-proposta del Ministro per il lavoro e la previdenza sociale; Decreta:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-I rapporti di lavoro costituiti per le attivita' per le quali sono stati stipulati:  
-- per la provincia di Catanzaro, il contratto collettivo 26 giugno 1958 e l'accordo collettivo 6 luglio 1959 per gli operai dipendenti da aziende esercenti la trebbiatura meccanica dei cereali per conto terzi;  
-- per la provincia di Cosenza, il contratto collettivo 18 luglio 1950 per i lavoratori addetti all'industria della trebbiatura;  
-- per la provincia di Reggio Calabria, l'accordo collettivo 14 giugno 1958 per gli addetti alla trebbiatura;  
-sono regolati da norme giuridiche uniformi alle clausole dei contratti ed accordi anzidetti, annessi al presente decreto.  
-I minimi di trattamento economico e normativo cosi' stabiliti sono inderogabili nei confronti di tutti i lavoratori considerati nei contratti ed accordi di cui al primo comma, addetti alla trebbiatura delle province di Catanzaro, Cosenza e Reggio Calabria.  
-  
+I rapporti di lavoro costituiti per le attivita' per le quali sono stati stipulati:
+ - per la provincia di Catanzaro, il contratto collettivo 26 giugno 1958 e l'accordo collettivo 6 luglio 1959 per gli operai dipendenti da aziende esercenti la trebbiatura meccanica dei cereali per conto terzi;
+ - per la provincia di Cosenza, il contratto collettivo 18 luglio 1950 per i lavoratori addetti all'industria della trebbiatura;
+ - per la provincia di Reggio Calabria, l'accordo collettivo 14 giugno 1958 per gli addetti alla trebbiatura;
+ sono regolati da norme giuridiche uniformi alle clausole dei contratti ed accordi anzidetti, annessi al presente decreto.
+ I minimi di trattamento economico e normativo cosi' stabiliti sono inderogabili nei confronti di tutti i lavoratori considerati nei contratti ed accordi di cui al primo comma, addetti alla trebbiatura delle province di Catanzaro, Cosenza e Reggio Calabria.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 27 giugno 1961
+Dato a Roma, addi' 27 giugno 1961
 
-GRONCHI FANFANI - SULLO
-
-Visto, il Guardasigilli: GONELLA
-
-Registrato alla Corte dei conti, addi' 9 agosto 1961
-
-Atti del Governo, registro n. 138, foglio n. 55. - DI PETRONO
-
-Allegato
-
-CONTRATTO COLLETTIVO 26 GIUGNO 1958, PER GLI OPERAI DIPENDENTI DA AZIENDE ESERCENTI LA TREBBIATURA MECCANICA DEI CEREALI PER CONTO TERZI DELLA PROVINCIA DI CATANZARO   
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=061U088800100010110001&dgu=1961-09-08&art.dataPubblicazioneGazzetta=1961-09-08&art.codiceRedazionale=061U0888)
-  
-  
-  
-  
-ACCORDO COLLETTIVO 6 LUGLIO 1959, PER GLI OPERAI DIPENDENTI DA AZIENDE ESERCENTI LA TREBBIATURA MECCANICA DEI CEREALI PER CONTO TERZI DELLA PROVINCIA DI CATANZARO   
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=061U088800100010110002&dgu=1961-09-08&art.dataPubblicazioneGazzetta=1961-09-08&art.codiceRedazionale=061U0888)
-  
-  
-  
-  
-CONTRATTO COLLETTIVO 18 LUGLIO 1959, PER I LAVORATORI ADDETTI ALL'INDUSTRIA DELLA TREBBIATURA DELLA PROVINCIA DI COSENZA   
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=061U088800100010110003&dgu=1961-09-08&art.dataPubblicazioneGazzetta=1961-09-08&art.codiceRedazionale=061U0888)
-  
-  
-  
-  
-ACCORDO COLLETTIVO 14 GIUGNO 1958, PER GLI ADDETTI ALLA TREBBIATURA DELLA PROVINCIA DI REGGIO CALABRIA   
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=061U088800100010110004&dgu=1961-09-08&art.dataPubblicazioneGazzetta=1961-09-08&art.codiceRedazionale=061U0888)
-  
+GRONCHI FANFANI - SULLO Visto, il Guardasigilli: GONELLA Registrato alla Corte dei conti, addi' 9 agosto 1961 Atti del Governo, registro n. 138, foglio n. 55. - DI PETRONO

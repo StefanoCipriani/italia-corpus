@@ -1,14 +1,14 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 29 gennaio 1963 n. 194
-
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 29 gennaio 1963 n. 194
-==============================================================
-
-Rettifica di confine fra i comuni di Ruffano e di Supersano (Lecce).
---------------------------------------------------------------------
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 194
+data: 1963-01-29
+titolo: "Rettifica di confine fra i comuni di Ruffano e di Supersano (Lecce)."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1963-01-29;194
+codice_redazionale: 063U0194
+vigente: true
+---
 
 IL PRESIDENTE DELLA REPUBBLICA
-------------------------------
 
 Viste le deliberazioni del Consiglio comunale di Ruffano in data 11 maggio 1959, n. 12, e 27 giugno 1961, n. 13, e del Consiglio comunale di Supersano in data 5 novembre 1959, n. 46, con le quali e' stata chiesta una rettifica di confine fra quei Comuni;
 
@@ -18,35 +18,20 @@ Vista la deliberazione del Consiglio provinciale di Lecce in data 23 gennaio 196
 
 Udito il parere espresso dalla prima sezione del Consiglio di Stato nell'adunanza dell'11 dicembre 1962, n. 2632;
 
-Visti gli articoli 32, capoverso, e 35 del testo unico della legge comunale e provinciale, approvato con [regio decreto 3 marzo 1934, n. 383](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-03-03;383);
+Visti gli articoli 32, capoverso, e 35 del testo unico della legge comunale e provinciale, approvato con [regio decreto 3 marzo 1934, n. 383](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20del%20testo%20unico%20della%20legge%20comunale%20e%20provinciale.%20034U0383.md);
 
-Sulla
------
+Sulla proposta del Ministro Segretario di Stato per gli affari dell'interno; Decreta:
 
-proposta del Ministro Segretario di Stato per gli affari dell'interno; Decreta:
+## Art. 1.
 
-Art. 1
-------
+Il confine fra i comuni di Ruffano e di Supersano, in provincia di Lecce, e' rettificato secondo la linea risultante dalla pianta planimetrica e dalla relazione descrittiva, annesse al presente decreto.
 
-  
-Il confine fra i comuni di Ruffano e di Supersano, in provincia di Lecce, e' rettificato secondo la linea risultante dalla pianta planimetrica e dalla relazione descrittiva, annesse al presente decreto.  
+## Art. 2.
 
-Art. 2
-------
-
-  
-Il prefetto della provincia di Lecce, sentita la Giunta provinciale amministrativa, provvedera' alla separazione patrimoniale ed al riparto delle attivita' e passivita' fra i comuni di Ruffano e di Supersano.  
-  
+Il prefetto della provincia di Lecce, sentita la Giunta provinciale amministrativa, provvedera' alla separazione patrimoniale ed al riparto delle attivita' e passivita' fra i comuni di Ruffano e di Supersano.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 29 gennaio 1963
+Dato a Roma, addi' 29 gennaio 1963
 
-SEGNI TAVIANI
-
-Visto, il Guardasigilli: BOSCO
-
-Registrato alla Corte dei conti, addi' 9 marzo 1963
-
-Atti del Governo, registro n. 166, foglio n. 12. - VILLA
+SEGNI TAVIANI Visto, il Guardasigilli: BOSCO Registrato alla Corte dei conti, addi' 9 marzo 1963 Atti del Governo, registro n. 166, foglio n. 12. - VILLA

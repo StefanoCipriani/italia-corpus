@@ -1,22 +1,22 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 20 aprile 1955 n. 301
-
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 20 aprile 1955 n. 301
-=============================================================
-
-Variazioni alle Condizioni e Tariffe per i trasporti delle cose sulle Ferrovie dello Stato.
--------------------------------------------------------------------------------------------
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 301
+data: 1955-04-20
+titolo: "Variazioni alle Condizioni e Tariffe per i trasporti delle cose sulle Ferrovie dello Stato."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1955-04-20;301
+codice_redazionale: 055U0301
+vigente: true
+---
 
 IL PRESIDENTE DELLA REPUBBLICA
-------------------------------
 
-Visto il [regio decreto-legge 25 gennaio 1940, n. 9](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1940-01-25;9), convertito nella [legge 13 maggio 1940, n. 674](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1940-05-13;674), e successive modificazioni;
+Visto il [regio decreto-legge 25 gennaio 1940, n. 9](../Atti%20normativi%20abrogati%20%28in%20originale%29/Nuove%20condizioni%20e%20tariffe%20per%20il%20trasporto%20delle%20cose%20sulle%20ferrovie%20dello%20Stato.%20040U0009.md), convertito nella [legge 13 maggio 1940, n. 674](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20Regio%20decreto-legge%2025%20gennaio%201940-XVIII%20n.%209%20concernente%20la%20semplificazione%20e%20ladeguamento%20delle%20tariffe%20per%20il%20trasporto%20delle%20merci%20sulle%20ferrovie%20dello%20Stato.%20040U0674.md), e successive modificazioni;
 
-Vista la [legge 22 dicembre 1948, n. 1456](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1948-12-22;1456);
+Vista la [legge 22 dicembre 1948, n. 1456](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disposizioni%20per%20le%20modificazioni%20di%20carattere%20generale%20alle%20tariffe%20per%20i%20trasporti%20delle%20persone%20e%20delle%20cose%20sulle%20Ferrovie%20dello%20Stato.md);
 
-Visto il [decreto del Presidente della Repubblica 18 gennaio 1952, n. 12](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1952-01-18;12);
+Visto il [decreto del Presidente della Repubblica 18 gennaio 1952, n. 12](Modificazioni%20e%20aggiunte%20alle%20Condizioni%20e%20alle%20tariffe%20per%20i%20trasporti%20delle%20persone%20e%20delle%20cose%20sulle%20Ferrovie%20dello%20Stato.md);
 
-Visto il [decreto del Presidente della Repubblica 3 dicembre 1953, n. 881](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1953-12-03;881);
+Visto il [decreto del Presidente della Repubblica 3 dicembre 1953, n. 881](Variazioni%20alle%20tariffe%20di%20trasporto%20sulle%20Ferrovie%20dello%20Stato.md);
 
 Visto il decreto del Ministro per i trasporti 27 febbraio 1952, n. 3444;
 
@@ -24,81 +24,18 @@ Sentito il Comitato interministeriale dei prezzi;
 
 Sentito il Consiglio dei Ministri;
 
-Sulla
------
+Sulla proposta del Ministro per i trasporti, di concerto con i Ministri per il bilancio, per il tesoro, per l'agricoltura e foreste e per l'industria e commercio; Decreta:
 
-proposta del Ministro per i trasporti, di concerto con i Ministri per il bilancio, per il tesoro, per l'agricoltura e foreste e per l'industria e commercio; Decreta:
+## Art. 1.
 
-Art. 1
-------
+Alle Condizioni e Tariffe per i trasporti delle cose sulle Ferrovie dello Stato sono apportate le varianti di cui all'allegato al presente decreto.
 
-  
-Alle Condizioni e Tariffe per i trasporti delle cose sulle Ferrovie dello Stato sono apportate le varianti di cui all'allegato al presente decreto.  
+## Art. 2.
 
-Art. 2
-------
-
-  
-Il presente decreto entra in vigore il 1 maggio 1955.  
-  
+Il presente decreto entra in vigore il 1 maggio 1955.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Torino, addi' 20 aprile 1955
+Dato a Torino, addi' 20 aprile 1955
 
-EINAUDI SCELBA - VANONI - GAVA - MEDICI - VILLABRUNA - MATTARELLA
-
-Visto, il Guardasigilli: DE PIETRO
-
-Registrato alla Corte dei conti, addi' 28 aprile 1955
-
-Atti del Governo, registro n. 90, foglio n. 95. - CARLOMAGNO
-
-Allegato
-
-Allegato al [decreto del Presidente della Repubblica del 20 aprile 1955, n. 301](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1955-04-20;301), recante modificazioni alle Condizioni e Tariffe per i trasporti delle cose sulle Ferrovie dello Stato.   
-  
-A) Alla PARTE II - Tariffe - delle "Condizioni e Tariffe per i trasporti delle cose sulle Ferrovie dello Stato P sono apportate le seguenti modificazioni e aggiunte:   
-  
-CAPO VI - Art. 67. - Calcolo dei prezzi di trasporto   
-  
-1. Il comma b) del par. 1 - Distanze - e' sostituito dal seguente:   
-b) Ai soli effetti della tassazione le distanze si computano come segue (1):   
-fino a 4 chilometri, calcolando per 3 chilometri;   
-da 5 a 100 chilometri, di tre in tre chilometri, calcolando per il chilometro intermedio di ciascuna terna chilometrica;   
-da 101 a 200 chilometri, in 5 in 5 chilometri, calcolando per 103 le distanze da 101 a 105, per 108 le distanze da 106 a 110, e cosi' di seguito;   
-da 201 a 400 chilometri, di 10 in 10 chilometri, calcolando per 205 le distanze da 201 a 210, per 215 le distanze da 211 da 220, e cosi' di seguito;   
-da 401 a 1.000 chilometri, di 20 in 20 chilometri, calcolando per 410 le distanze da 401 a 420, per 430 le distanze da 421 a 440, e cosi' di seguito;   
-oltre 1.000 chilometri, di 50 in 50 chilometri, calcolando per 1.025 le distanze da 1.001 a 1.050, per 1.075 le distanze da 1.051 a 1.100, e cosi' di seguito.   
-La distanza minima tassabile, anche per i trasporti fruenti di agevolazioni particolari, e' di:   
-km. 30 per le spedizioni tassabili con le classi di prezzo dalla n. 601 in poi;   
-km. 10 per le spedizioni tassabili con altre classi di prezzo o tariffe.   
-Per i trasporti di percorrenze rispettivamente inferiori, l'amministrazione puo' stabilire particolari norme.   
-2. Il par. 2 - Tasse minime - e' sostituito dal seguente:   
-par. 2 - Tasse minime. - Per le spedizioni in piccole partite la tassa minima e' di L. 170, salvo le eccezioni stabilite nella singole tariffe. Per le spedizioni a carro, o come tali considerate, l'amministrazione ha facolta' di stabilire una tassa minima per carro e per chilometro.   
-Quando una spedizione sia costituita da piu' merci soggette a tasse minime diverse, la tassa minima a cui deve intendersi soggetta l'intera spedizione e' quella piu' elevata.   
-3. Nel par. 3 - Arrotondamenti - lettera a) Arrotondamento del peso, il punto 2° e' sostituito dal seguente:   
-2° - per le spedizioni tassate con prezzi vincolati a un peso minimo per carro o per veicolo, le frazioni di cento chilogrammi si portano ai cento chilogrammi immediatamente superiori.   
-Qualora pero' si tratti di spedizioni composte di piu' merci delle quali siano indicati partitamente i pesi, l'arrotondamento si effettua solo su questi pesi parziali, portando le frazioni di decina di chilogrammi alla decina immediatamente superiore.   
-4. Il par. 5 - Diritto fisso - e' sostituito dal seguente:   
-par. 5 - Diritto fisso. - A titolo di tassa accessoria, l'amministrazione percepisce un diritto fisso, nella misura e con la modalita' di cui all'allegato 1.   
-  
-CAPI: IX - Tariffe ordinarie   
-X - Tariffe speciali e XI - Tariffe eccezionali   
-  
-Le parole "compresi il diritto di registrazione e le eventuali soprattasse di acceleramento", che figurano nel testo della nota (\*) di cui al richiamo esistente:   
-di fianco all'indicazione delle Serie E ed F della Tariffa ordinaria n. 1 - Merci in genere in piccole partite, di cui al Capo IX;   
-di fianco all'indicazione della Serie C della Tariffa speciale n. 103 - Prodotti alimentari, di cui al Capo X;   
-di fianco all'indicazione della Serie C e delle parole "PARTE II - Agrumi" della Tariffa eccezionale n. 201 - Prodotti alimentari dal Mezzogiorno e dalla Sardegna, di cui al Capo XI, sono sostituite dalle seguenti:   
-"comprese le eventuali soprattasse di acceleramento".   
-  
-(1) Per i trasporti tassati con classi di prezzo o tariffe diverse dalle classi dalla n. 601 in poi, le attuali norme circa il computo delle distanze agli effetti della tassazione restano in vigore fino a revoca da parte dell'amministrazione.   
-  
-CAPO XII. - Prezzi. - Sono aggiunte le seguenti classi di prezzo per spedizioni a carro   
-  
-SPEDIZIONI A CARRO A VELOCITA ORDINARIA   
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=055U030100100010110001&dgu=1955-04-30&art.dataPubblicazioneGazzetta=1955-04-30&art.codiceRedazionale=055U0301)
-  
+EINAUDI SCELBA - VANONI - GAVA - MEDICI - VILLABRUNA - MATTARELLA Visto, il Guardasigilli: DE PIETRO Registrato alla Corte dei conti, addi' 28 aprile 1955 Atti del Governo, registro n. 90, foglio n. 95. - CARLOMAGNO

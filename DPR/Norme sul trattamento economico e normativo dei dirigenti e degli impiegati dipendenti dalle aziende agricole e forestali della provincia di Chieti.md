@@ -1,18 +1,18 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 gennaio 1962 n. 1226
-
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 gennaio 1962 n. 1226
-===============================================================
-
-Norme sul trattamento economico e normativo dei dirigenti e degli impiegati dipendenti dalle aziende agricole e forestali della provincia di Chieti.
-----------------------------------------------------------------------------------------------------------------------------------------------------
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 1226
+data: 1962-01-02
+titolo: "Norme sul trattamento economico e normativo dei dirigenti e degli impiegati dipendenti dalle aziende agricole e forestali della provincia di Chieti."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1962-01-02;1226
+codice_redazionale: 062U1226
+vigente: true
+---
 
 Relazione al Presidente della Repubblica, in merito al decreto legislativo recante norme sul trattamento economico e normativo dei dirigenti e degli impiegati dipendenti dalle aziende agricole e forestali della provincia di Chieti.
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Signor Presidente,
 
-l'unito decreto legislativo, che mi onoro di sottoporLe, regola, in attuazione delle [leggi 14 luglio 1959, n. 741 e 10 ottobre 1960, n. 1027](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1960-10-10;1027), i rapporti di lavoro costituiti per le attivita' per le quali e' stato stipulato il contratto integrativo 26 giugno 1954 relativo ai dirigenti ed impiegati dipendenti dalle aziende agricole e forestali della provincia di Chieti.
+l'unito decreto legislativo, che mi onoro di sottoporLe, regola, in attuazione delle [leggi 14 luglio 1959, n. 741 e 10 ottobre 1960, n. 1027](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1960-10-10;1027), i rapporti di lavoro costituiti per le attivita' per le quali e' stato stipulato il contratto integrativo 26 giugno 1954 relativo ai dirigenti ed impiegati dipendenti dalle aziende agricole e forestali della provincia di Chieti.
 
 L'art. 6 di tale contratto prevede la costituzione di una Commissione arbitrale, cui e' demandata la decisione delle controversie eventualmente insorgenti nell'applicazione ed interpretazione del contratto medesimo.
 
@@ -26,11 +26,11 @@ Il Ministro: SULLO
 
 IL PRESIDENTE DELLA REPUBBLICA
 
-Visto l'[art. 87, comma quinto, della, Costituzione](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27~art87-com5);
+Visto l'[art. 87, comma quinto, della, Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87-com5);
 
-Vista la [legge 14 luglio 1959, n. 741](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1959-07-14;741), che delega il Governo ad emanare norme transitorie per garantire minimi di trattamento economico e normativo ai lavoratori;
+Vista la [legge 14 luglio 1959, n. 741](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1959-07-14;741), che delega il Governo ad emanare norme transitorie per garantire minimi di trattamento economico e normativo ai lavoratori;
 
-Vista la [legge 1 ottobre 1960, n. 1027](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1960-10-01;1027), recante modifiche alla predetta [legge 14 luglio 1959, n. 741](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1959-07-14;741);
+Vista la [legge 1 ottobre 1960, n. 1027](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1960-10-01;1027), recante modifiche alla predetta [legge 14 luglio 1959, n. 741](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1959-07-14;741);
 
 Visto il contratto collettivo nazionale 6 agosto 1957, per i dirigenti di aziende agricole e forestali;
 
@@ -46,40 +46,17 @@ Vista la pubblicazione nell'apposito Bollettino, n. 7 della provincia di Chieti,
 
 Sentito il Consiglio dei Ministri;
 
-Sulla
------
+Sulla proposta del Ministro per il lavoro e la previdenza sociale; Decreta:
 
-proposta del Ministro per il lavoro e la previdenza sociale; Decreta:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-I rapporti di lavoro costituiti per le attivita' per le.  
-quali e' stato stipulato, per la provincia di Chieti, il contratto collettivo integrativo 26 giugno 1954, relativo ai dirigenti ed agli impiegati delle aziende agricole e forestali, sono regolati da norme giuridiche uniformi alle clausole del contratto collettivo anzidetto, annesso al presente decreto.  
-Dette norme sono integrative di quelle concernenti la disciplina nazionale della categoria, purche' con esse compatibili.  
-I minimi di trattamento economico e normativo cosi' stabiliti sono inderogabili nei confronti di tutti i dirigenti e gli impiegati dipendenti dalle aziende agricole e forestali della provincia di Chieti.  
-  
+I rapporti di lavoro costituiti per le attivita' per le.
+ quali e' stato stipulato, per la provincia di Chieti, il contratto collettivo integrativo 26 giugno 1954, relativo ai dirigenti ed agli impiegati delle aziende agricole e forestali, sono regolati da norme giuridiche uniformi alle clausole del contratto collettivo anzidetto, annesso al presente decreto.
+ Dette norme sono integrative di quelle concernenti la disciplina nazionale della categoria, purche' con esse compatibili.
+ I minimi di trattamento economico e normativo cosi' stabiliti sono inderogabili nei confronti di tutti i dirigenti e gli impiegati dipendenti dalle aziende agricole e forestali della provincia di Chieti.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 2 gennaio 1962
+Dato a Roma, addi' 2 gennaio 1962
 
-GRONCHI FANFANI - SULLO
-
-Visto, il Guardasigilli: BOSCO
-
-Registrato alla Corte dei conti, addi' 16 luglio 1962
-
-Atti del Governo, registro n. 156, foglio n. 8. - VILLA
-
-Contratto collettivo
-
-  
-CONTRATTO COLLETTIVO INTEGRATIVO 26 GIUGNO 1954 PER I DIRIGENTI E GLI IMPIEGATI DI AZIENDE AGRICOLE E FORESTALI DELLA PROVINCIA DI CHIETI   
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=062U122600100010110001&dgu=1962-08-21&art.dataPubblicazioneGazzetta=1962-08-21&art.codiceRedazionale=062U1226)
-  
+GRONCHI FANFANI - SULLO Visto, il Guardasigilli: BOSCO Registrato alla Corte dei conti, addi' 16 luglio 1962 Atti del Governo, registro n. 156, foglio n. 8. - VILLA

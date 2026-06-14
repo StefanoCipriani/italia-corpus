@@ -1,52 +1,36 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 29 giugno 1948 n. 806
-
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 29 giugno 1948 n. 806
-=============================================================
-
-Autorizzazione della spesa di L. 200.000.000 per le necessita' piu' urgenti dipendenti dal terremoto del 13 giugno 1948.
-------------------------------------------------------------------------------------------------------------------------
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 806
+data: 1948-06-29
+titolo: "Autorizzazione della spesa di L. 200.000.000 per le necessita' piu' urgenti dipendenti dal terremoto del 13 giugno 1948."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1948-06-29;806
+codice_redazionale: 048U0806
+vigente: true
+---
 
 IL PRESIDENTE DELLA REPUBBLICA
-------------------------------
 
-Visto il [regio decreto-legge 9 dicembre 1926, n. 2389](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1926-12-09;2389), convertito nella [legge 15 marzo 1928, n. 833](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1928-03-15;833);
+Visto il [regio decreto-legge 9 dicembre 1926, n. 2389](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disposizioni%20per%20i%20servizi%20di%20pronto%20soccorso%20in%20caso%20di%20disastri%20tellurici%20o%20di%20altra%20natura.%20026U2389.md), convertito nella [legge 15 marzo 1928, n. 833](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20aggiunte%20e%20modifiche%20del%20R.%20decreto-legge%209%20dicembre%201926%20n.%202389%20recante%20disposizioni%20per%20i%20servizi%20di%20pronto%20soccorso%20in%20caso%20dl%20disastri%20tellurici%20o%20di%20altra%20n_6ce65c347856.md);
 
-Visto l'[art. 2 del decreto legislativo 25 marzo 1948, n. 185](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1948-03-25;185~art2), concernente lo stato di previsione della spesa del Ministero dei lavori pubblici per l'esercizio finanziario 1947-48 che autorizza tra l'altro, la spesa di lire centoventi milioni per le necessita' piu' urgenti in caso di pubbliche calamita' ai sensi del [regio decreto-legge 9 dicembre 1926, n. 2389](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1926-12-09;2389), e stabilisce che le eventuali maggiori assegnazioni a tale titolo saranno autorizzate con decreti Presidenziali su proposta del Ministro per i lavori pubblici, di concerto con quello per il tesoro;
+Visto l'[art. 2 del decreto legislativo 25 marzo 1948, n. 185](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1948-03-25;185#art_2), concernente lo stato di previsione della spesa del Ministero dei lavori pubblici per l'esercizio finanziario 1947-48 che autorizza tra l'altro, la spesa di lire centoventi milioni per le necessita' piu' urgenti in caso di pubbliche calamita' ai sensi del [regio decreto-legge 9 dicembre 1926, n. 2389](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disposizioni%20per%20i%20servizi%20di%20pronto%20soccorso%20in%20caso%20di%20disastri%20tellurici%20o%20di%20altra%20natura.%20026U2389.md), e stabilisce che le eventuali maggiori assegnazioni a tale titolo saranno autorizzate con decreti Presidenziali su proposta del Ministro per i lavori pubblici, di concerto con quello per il tesoro;
 
 Considerata la necessita' di integrare ulteriormente la detta autorizzazione in relazione al compito dell'Amministrazione di disporre il tempestivo intervento in dipendenza del terremoto del 13 giugno 1948 nei comuni di Sansepolcro e Pieve Santo Stefano (prov.
 
-Arezzo) e di San Giustino (prov. Perugia), in applicazione del citato [regio decreto-legge 9 dicembre 1926, n. 2389](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1926-12-09;2389).
+Arezzo) e di San Giustino (prov. Perugia), in applicazione del citato [regio decreto-legge 9 dicembre 1926, n. 2389](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disposizioni%20per%20i%20servizi%20di%20pronto%20soccorso%20in%20caso%20di%20disastri%20tellurici%20o%20di%20altra%20natura.%20026U2389.md).
 
-Sulla
------
+Sulla proposta del Ministro per i lavori pubblici, di concerto con quello per il tesoro; Decreta:
 
-proposta del Ministro per i lavori pubblici, di concerto con quello per il tesoro; Decreta:
+## Art. 1.
 
-Art. 1
-------
+E' autorizzata la ulteriore spesa di lire duecento milioni, in aggiunta a quella di cui all'[art. 2 del decreto legislativo 25 marzo 1948, n. 185](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1948-03-25;185#art_2), concernente lo stato di previsione della spesa del Ministero dei lavori pubblici per l'esercizio finanziario 1947-48 per le necessita' piu' urgenti, ai sensi del [regio decreto-legge 9 dicembre 1926, n. 2389](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disposizioni%20per%20i%20servizi%20di%20pronto%20soccorso%20in%20caso%20di%20disastri%20tellurici%20o%20di%20altra%20natura.%20026U2389.md), convertito nella [legge 15 marzo 1928, n. 833](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20aggiunte%20e%20modifiche%20del%20R.%20decreto-legge%209%20dicembre%201926%20n.%202389%20recante%20disposizioni%20per%20i%20servizi%20di%20pronto%20soccorso%20in%20caso%20dl%20disastri%20tellurici%20o%20di%20altra%20n_6ce65c347856.md), in dipendenza del terremoto del 13 giugno 1948 nei comuni di Sansepolcro e Pieve Santo Stefano (prov. Arezzo) e di San Giustino (prov. Perugia). 
+ Il Ministro per il tesoro provvedera' con propri decreti alla inscrizione nello stato di previsione della spesa del Ministero dei lavori pubblici della somma autorizzata col presente decreto.
 
-  
-  
-E' autorizzata la ulteriore spesa di lire duecento milioni, in aggiunta a quella di cui all'[art. 2 del decreto legislativo 25 marzo 1948, n. 185](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1948-03-25;185~art2), concernente lo stato di previsione della spesa del Ministero dei lavori pubblici per l'esercizio finanziario 1947-48 per le necessita' piu' urgenti, ai sensi del [regio decreto-legge 9 dicembre 1926, n. 2389](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1926-12-09;2389), convertito nella [legge 15 marzo 1928, n. 833](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1928-03-15;833), in dipendenza del terremoto del 13 giugno 1948 nei comuni di Sansepolcro e Pieve Santo Stefano (prov. Arezzo) e di San Giustino (prov. Perugia).   
-Il Ministro per il tesoro provvedera' con propri decreti alla inscrizione nello stato di previsione della spesa del Ministero dei lavori pubblici della somma autorizzata col presente decreto.   
+## Art. 2.
 
-Art. 2
-------
-
-  
-Il presente decreto entra in vigore il giorno stesso della sua pubblicazione nella Gazzetta Ufficiale della Repubblica italiana.  
-  
+Il presente decreto entra in vigore il giorno stesso della sua pubblicazione nella Gazzetta Ufficiale della Repubblica italiana.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 29 giugno 1948
+Dato a Roma, addi' 29 giugno 1948
 
-EINAUDI TUPINI - PELLA
-
-Visto, il Guardasigilli: GRASSI
-
-Registrato alla Corte dei conti, addi' 30 giugno 1948
-
-Atti del Governo, registro n. 22, foglio n. 76. - FRASCA
+EINAUDI TUPINI - PELLA Visto, il Guardasigilli: GRASSI Registrato alla Corte dei conti, addi' 30 giugno 1948 Atti del Governo, registro n. 22, foglio n. 76. - FRASCA

@@ -1,19 +1,21 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 22 giugno 1979 n. 590
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 745
+data: 1978-10-03
+titolo: "Autorizzazione alla fondazione artistica \"Poldi-Pezzoli\", in Milano, ad accettare una donazione."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1978-10-03;745
+codice_redazionale: 078U0745
+vigente: true
+---
 
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 22 giugno 1979 n. 590
-=============================================================
-
-Autorizzazione alla fondazione artistica Poldi-Pezzoli, in Milano, ad accettare una donazione.
-----------------------------------------------------------------------------------------------
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-590. Decreto del Presidente della Repubblica 22 giugno 1979, col quale, sulla proposta del Ministro per i beni culturali ed ambientali, la fondazione artistica Poldi-Pezzoli, in Milano, viene autorizzata ad accettare la donazione disposta dalla sig.ra Portaluppi Luisa in Castellini Baldissera con atto notarile 29 maggio 1978, n. 127563/24864 di repertorio, a rogito dott. Domenico Moretti, notaio in Milano, consistente in una collezione di orologi solari del valore di L. 150.000.000.  
-  
-Visto, il Guardasigilli: MORLINO  
-Registrato alla Corte dei conti, addi' 25 settembre 1979  
-Registro n. 16 Beni culturali, foglio n. 107
+745.
+
+Decreto del Presidente della Repubblica 3 ottobre 1978, col quale, sulla proposta del Ministro per i beni culturali ed ambientali, la fondazione artistica "Poldi-Pezzoli", in Milano, viene autorizzata ad accettare la donazione disposta dalle signore Camiz Gina e Camiz Carla, consistente in una collezione di pizzi antichi del valore dichiarato di L. 1.000.000, con destinazione al museo "Poldi-Pezzoli".
+
+Visto, il Guardasigilli: BONIFACIO
+ Registrato alla Corte dei conti, addi' 13 novembre 1978
+ Registro n. 15 Beni culturali, foglio n. 246

@@ -1,19 +1,21 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 19 dicembre 1983 n. 951
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 491
+data: 1983-06-27
+titolo: "Autorizzazione alla fondazione \"Pro juventute don Carlo Gnocchi\", in Roma, ad accettare un legato."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1983-06-27;491
+codice_redazionale: 083U0491
+vigente: true
+---
 
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 19 dicembre 1983 n. 951
-===============================================================
-
-Autorizzazione alla fondazione "Pro juventute don Carlo Gnocchi", in Roma, ad accettare un legato.
---------------------------------------------------------------------------------------------------
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-951. Decreto del Presidente della Repubblica 19 dicembre 1983, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la fondazione "Pro juventute don Carlo Gnocchi", in Roma, viene autorizzata ad accettare il legato, consistente in buoni del Tesoro per un valore complessivo di L. 300.000.000, disposto dalla sig.na Marazzi Castiglioni Brambilla Giovanna con testamento olografo 10 novembre 1977, pubblicato in data 22 aprile 1981, n. 474653/2970 di repertorio, a rogito dott. Giovanni Lainati, notaio in Milano, registrato a Milano in data 8 maggio 1981 al n. 9936.  
-  
-Visto, il Guardasigilli: MARTINAZZOLI  
-Registrato alla Corte dei conti, addi' 15 febbraio 1984  
-Registro n. 2 Presidenza, foglio n. 131
+491.
+
+Decreto del Presidente della Repubblica 27 giugno 1983, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la fondazione "Pro juventute don Carlo Gnocchi", in Roma, viene autorizzata ad accettare il legato, consistente in un appartamento sito in Milano, via Montevideo, 10, distinto nel nuovo catasto edilizio urbano alla partita 106818, foglio 472, mappale 56 sub 33, del valore periziato di L. 30.000.000 elevato dall'ufficio tecnico erariale di Milano a L. 85.000.000, disposto dalla sig.ra Invernizzi Francesca ved. Soffientini a favore della fondazione "Don Carlo Gnocchi", che si identifica con la fondazione "Pro juventute don Carlo Gnocchi", come si evince dal verbale del consiglio di amministrazione della fondazione medesima in data 28 novembre 1980, con testamento olografo 15 aprile 1979, pubblicato il 26 settembre 1980, n. 1566 di repertorio e n. 86 di raccolta, a rogito avv. Nicola Malenza, notaio in Milano, registrato a Milano il 6 ottobre 1980 al n. 23220.
+
+Visto, il Guardasigilli: DARIDA
+ Registrato alla Corte dei conti, addi' 8 settembre 1983
+ Registro n. 7 Presidenza, foglio n. 299

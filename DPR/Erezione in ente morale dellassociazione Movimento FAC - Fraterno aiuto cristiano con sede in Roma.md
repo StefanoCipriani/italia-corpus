@@ -1,19 +1,21 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 22 gennaio 1970 n. 99
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 99
+data: 1970-01-22
+titolo: "Erezione in ente morale, dell'associazione \"Movimento FAC - Fraterno aiuto cristiano\", con sede in Roma."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1970-01-22;99
+codice_redazionale: 070U0099
+vigente: true
+---
 
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 22 gennaio 1970 n. 99
-=============================================================
-
-Erezione in ente morale, dell'associazione "Movimento FAC - Fraterno aiuto cristiano", con sede in Roma.
---------------------------------------------------------------------------------------------------------
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-99. Decreto del Presidente della Repubblica 22 gennaio 1970, col quale, sulla proposta del Ministro per l'interno, l'associazione "Movimento FAC - Fraterno aiuto cristiano", con sede in Roma, viene eretta in ente morale e ne viene approvato lo statuto.  
-  
-Visto, il Guardasigilli: GAVA  
-Registrato alla Corte dei conti, addi' 26 marzo 1970  
-Atti del Governo, registro n. 234, foglio n. 46. - CARUSO
+99.
+
+Decreto del Presidente della Repubblica 22 gennaio 1970, col quale, sulla proposta del Ministro per l'interno, l'associazione "Movimento FAC - Fraterno aiuto cristiano", con sede in Roma, viene eretta in ente morale e ne viene approvato lo statuto.
+
+Visto, il Guardasigilli: GAVA
+ Registrato alla Corte dei conti, addi' 26 marzo 1970
+ Atti del Governo, registro n. 234, foglio n. 46. - CARUSO

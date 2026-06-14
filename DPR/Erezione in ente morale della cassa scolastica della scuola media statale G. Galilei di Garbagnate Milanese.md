@@ -1,19 +1,21 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 20 marzo 1968 n. 675
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 675
+data: 1968-03-20
+titolo: "Erezione in ente morale della cassa scolastica della scuola media statale \"G. Galilei\", di Garbagnate Milanese."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1968-03-20;675
+codice_redazionale: 068U0675
+vigente: true
+---
 
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 20 marzo 1968 n. 675
-============================================================
-
-Erezione in ente morale della cassa scolastica della scuola media statale "G. Galilei", di Garbagnate Milanese.
----------------------------------------------------------------------------------------------------------------
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-675. Decreto del Presidente della Repubblica 20 marzo 1968, col quale, sulla proposta del Ministro per la pubblica istruzione, la cassa scolastica della scuola media statale "G. Galilei", di Garbagnate Milanese, viene eretta in ente morale e ne viene approvato lo statuto.  
-  
-Visto, il Guardasigilli: REALE  
-Registrato alla Corte dei conti, addi' 21 maggio 1968  
-Atti del Governo, registro n. 219, foglio n. 162. - GRECO
+675.
+
+Decreto del Presidente della Repubblica 20 marzo 1968, col quale, sulla proposta del Ministro per la pubblica istruzione, la cassa scolastica della scuola media statale "G. Galilei", di Garbagnate Milanese, viene eretta in ente morale e ne viene approvato lo statuto.
+
+Visto, il Guardasigilli: REALE
+ Registrato alla Corte dei conti, addi' 21 maggio 1968
+ Atti del Governo, registro n. 219, foglio n. 162. - GRECO

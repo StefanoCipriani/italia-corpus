@@ -1,19 +1,21 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 08 giugno 1956 n. 894
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 894
+data: 1956-06-08
+titolo: "Riconoscimento, agli effetti civili, dell'erezione della parrocchia dei SS. Ermagora e Fortunato MM., nel comune di Savogna (Udine)."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1956-06-08;894
+codice_redazionale: 056U0894
+vigente: true
+---
 
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 08 giugno 1956 n. 894
-=============================================================
-
-Riconoscimento, agli effetti civili, dell'erezione della parrocchia dei SS. Ermagora e Fortunato MM., nel comune di Savogna (Udine).
-------------------------------------------------------------------------------------------------------------------------------------
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-894. Decreto del Presidente della Repubblica 8 giugno 1956, col quale, sulla proposta del Ministro per l'interno, viene riconosciuto, agli effetti civili, il decreto dell'Ordinario diocesano di Udine in data 17 dicembre 1955, integrato con due dichiarazioni di pari data, relativo alla erezione della parrocchia dei SS. Ermagora e Fortunato MM., nel comune di Savogna (Udine).  
-  
-Visto, il Guardasigilli: MORO  
-Registrato alla Corte dei conti, addi' 9 agosto 1956  
-Atti del Governo, registro n. 100, foglio n. 13. - RELLEVA
+894.
+
+Decreto del Presidente della Repubblica 8 giugno 1956, col quale, sulla proposta del Ministro per l'interno, viene riconosciuto, agli effetti civili, il decreto dell'Ordinario diocesano di Udine in data 17 dicembre 1955, integrato con due dichiarazioni di pari data, relativo alla erezione della parrocchia dei SS. Ermagora e Fortunato MM., nel comune di Savogna (Udine).
+
+Visto, il Guardasigilli: MORO
+ Registrato alla Corte dei conti, addi' 9 agosto 1956
+ Atti del Governo, registro n. 100, foglio n. 13. - RELLEVA

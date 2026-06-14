@@ -1,19 +1,21 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 26 febbraio 1982 n. 330
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 330
+data: 1982-02-26
+titolo: "Erezione in ente morale della fondazione \"Cristina Mazzotti\", in Eupilio."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1982-02-26;330
+codice_redazionale: 082U0330
+vigente: true
+---
 
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 26 febbraio 1982 n. 330
-===============================================================
-
-Erezione in ente morale della fondazione "Cristina Mazzotti", in Eupilio.
--------------------------------------------------------------------------
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-330. Decreto del Presidente della Repubblica 26 febbraio 1982, col quale, sulla proposta del Ministro dell'interno, la fondazione "Cristina Mazzotti" in Eupilio (Como), viene eretta in ente morale e ne viene approvato lo statuto.  
-  
-Visto, il Guardasigilli: DARIDA  
-Registrato alla Corte dei conti, addi' 2 giugno 1982  
-Registro n. 11 Interno, foglio n. 347
+330.
+
+Decreto del Presidente della Repubblica 26 febbraio 1982, col quale, sulla proposta del Ministro dell'interno, la fondazione "Cristina Mazzotti" in Eupilio (Como), viene eretta in ente morale e ne viene approvato lo statuto.
+
+Visto, il Guardasigilli: DARIDA
+ Registrato alla Corte dei conti, addi' 2 giugno 1982
+ Registro n. 11 Interno, foglio n. 347

@@ -1,18 +1,20 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 05 giugno 1951 n. 647
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 647
+data: 1951-06-05
+titolo: "Riconoscimento della personalita' giuridica della Fondazione medaglia d'oro del 3° reggimento artiglieria alpina \"Julia\", con sede in Udine."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1951-06-05;647
+codice_redazionale: 051U0647
+vigente: true
+---
 
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 05 giugno 1951 n. 647
-=============================================================
-
-Riconoscimento della personalita' giuridica della Fondazione medaglia d'oro del 3° reggimento artiglieria alpina "Julia", con sede in Udine.
---------------------------------------------------------------------------------------------------------------------------------------------
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-647. Decreto del Presidente della Repubblica 5 giugno 1951, col quale, sulla proposta del Ministro per la difesa, viene riconosciuta la personalita' giuridica della Fondazione medaglia d'oro del 3° reggimento artiglieria alpina "Julia", con sede in Udine e ne viene approvato lo statuto organico.  
-  
-Visto, il Guardasigilli: PICCIONI  
-Registrato alla Corte dei conti, addi' 9 agosto 1951
+647.
+
+Decreto del Presidente della Repubblica 5 giugno 1951, col quale, sulla proposta del Ministro per la difesa, viene riconosciuta la personalita' giuridica della Fondazione medaglia d'oro del 3° reggimento artiglieria alpina "Julia", con sede in Udine e ne viene approvato lo statuto organico.
+
+Visto, il Guardasigilli: PICCIONI
+ Registrato alla Corte dei conti, addi' 9 agosto 1951

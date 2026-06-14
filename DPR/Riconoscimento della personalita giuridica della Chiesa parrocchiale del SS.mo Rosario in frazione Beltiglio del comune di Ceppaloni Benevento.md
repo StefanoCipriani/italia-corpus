@@ -1,19 +1,21 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 10 maggio 1956 n. 646
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 646
+data: 1956-05-10
+titolo: "Riconoscimento della personalita' giuridica della Chiesa parrocchiale del SS.mo Rosario, in frazione Beltiglio del comune di Ceppaloni (Benevento)."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1956-05-10;646
+codice_redazionale: 056U0646
+vigente: true
+---
 
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 10 maggio 1956 n. 646
-=============================================================
-
-Riconoscimento della personalita' giuridica della Chiesa parrocchiale del SS.mo Rosario, in frazione Beltiglio del comune di Ceppaloni (Benevento).
----------------------------------------------------------------------------------------------------------------------------------------------------
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-646. Decreto del Presidente della Repubblica 10 maggio 1956, col quale, sulla proposta del Ministro per l'interno, viene riconosciuta la personalita' giuridica della Chiesa parrocchiale del SS.mo Rosario, in frazione Beltiglio del comune di Ceppaloni (Benevento).  
-  
-Visto, il Guardasigilli: MORO  
-Registrato alla Corte dei conti, addi' 30 giugno 1956  
-Atti del Governo, registro n. 98, foglio n. 95. - E. GRECO
+646.
+
+Decreto del Presidente della Repubblica 10 maggio 1956, col quale, sulla proposta del Ministro per l'interno, viene riconosciuta la personalita' giuridica della Chiesa parrocchiale del SS.mo Rosario, in frazione Beltiglio del comune di Ceppaloni (Benevento).
+
+Visto, il Guardasigilli: MORO
+ Registrato alla Corte dei conti, addi' 30 giugno 1956
+ Atti del Governo, registro n. 98, foglio n. 95. - E. GRECO

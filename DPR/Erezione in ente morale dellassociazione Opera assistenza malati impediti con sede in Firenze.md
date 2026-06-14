@@ -1,19 +1,21 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 27 luglio 1968 n. 1098
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 1098
+data: 1968-07-27
+titolo: "Erezione in ente morale dell'associazione \"Opera assistenza malati impediti\", con sede in Firenze."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1968-07-27;1098
+codice_redazionale: 068U1098
+vigente: true
+---
 
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 27 luglio 1968 n. 1098
-==============================================================
-
-Erezione in ente morale dell'associazione "Opera assistenza malati impediti", con sede in Firenze.
---------------------------------------------------------------------------------------------------
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-1098. Decreto del Presidente della Repubblica 27 luglio 1968, col quale, sulla proposta del Ministro per l'interno, l'associazione "Opera assistenza malati impediti (O.A.M.I.), con sede in Firenze, viene eretta in ente morale e ne viene approvato lo statuto.  
-  
-Visto, il Guardasigilli: GONELLA  
-Registrato alla Corte dei conti, addi' 28 ottobre 1968  
-Atti del Governo, registro n. 223, foglio n. 68. - GRECO
+1098.
+
+Decreto del Presidente della Repubblica 27 luglio 1968, col quale, sulla proposta del Ministro per l'interno, l'associazione "Opera assistenza malati impediti (O.A.M.I.), con sede in Firenze, viene eretta in ente morale e ne viene approvato lo statuto.
+
+Visto, il Guardasigilli: GONELLA
+ Registrato alla Corte dei conti, addi' 28 ottobre 1968
+ Atti del Governo, registro n. 223, foglio n. 68. - GRECO

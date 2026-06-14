@@ -1,19 +1,21 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 23 dicembre 1977 n. 1145
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 666
+data: 1976-07-09
+titolo: "Autorizzazione all'Ente nazionale ACLI per l'istruzione professionale, in Roma, ad accettare una donazione."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1976-07-09;666
+codice_redazionale: 076U0666
+vigente: true
+---
 
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 23 dicembre 1977 n. 1145
-================================================================
-
-Autorizzazione all'Ente nazionale ACLI per l'istruzione professionale, in Roma, ad accettare una donazione.
------------------------------------------------------------------------------------------------------------
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-1145. Decreto del Presidente della Repubblica 23 dicembre 1977, col quale, sulla proposta del Ministro del lavoro e della previdenza sociale, l'Ente nazionale ACLI per l'istruzione professionale (ENAIP), in Roma, viene autorizzato ad accettare da parte del comune di Paola (Cosenza), rappresentato dal sindaco pro tempore ins. Antonio Eboli, la donazione del complesso immobiliare sito nel comune di Paola alla via del Mare, confinante con proprieta' Guida al nord, con terreno delle palazzine UNRRA-Casas ad est, a sud con trasversale fra la traversa n. 1 e la traversa n. 2 del viale dei Giardini e costituito da un appezzamento di terreno della superficie di are dodici e centiare dodici (ha 0,12 X 12 = mq 1212), come da atto di donazione per rogito notar Livia Marzano dei distretti riuniti di Cosenza, Rossano, Castrovillari e Paola in data 6 giugno 1975, n. 28596 di repertorio, n. 9037 di raccolta, registrato a Paola il 10 giugno 1975, allo scopo di destinarlo alla realizzazione delle finalita' dell'ENAIP a favore di lavoratori senza alcun fine speculativo.  
-  
-Visto, il Guardasigilli: BONIFACIO  
-Registrato alla Corte dei conti, addi' 31 marzo 1978  
-Registro n. 1 Lavoro, foglio n. 42
+666.
+
+Decreto del Presidente della Repubblica 9 luglio 1976, col quale, sulla proposta del Ministro per il lavoro e la previdenza sociale, l'Ente nazionale ACLI per l'istruzione professionale (ENAIP), in Roma, viene autorizzato ad accettare una donazione, consistente in un appezzamento di terreno di mq 13310 sito nel comune di Novoli (Lecce), distinto nel catasto rustico alla partita 3011, foglio 2, particella 139, disposta dal comune di Novoli con atto in data 10 aprile 1974, n. 105531 di repertorio, a rogito dott. Vladimiro Gloria, notaio in Lecce, da destinare alla costruzione di un centro di addestramento professionale per lavoratori.
+
+Visto, il Guardasigilli: BONIFACIO
+ Registrato alla Corte dei conti, addi' 22 settembre 1976
+ Atti di Governo, registro n. 9, foglio n. 20

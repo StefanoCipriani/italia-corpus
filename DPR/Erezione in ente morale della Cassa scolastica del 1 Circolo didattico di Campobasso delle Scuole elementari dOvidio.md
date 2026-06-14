@@ -1,19 +1,21 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 07 aprile 1960 n. 624
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 624
+data: 1960-04-07
+titolo: "Erezione in ente morale della Cassa scolastica del 1° Circolo didattico di Campobasso delle Scuole elementari \"d'Ovidio\"."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1960-04-07;624
+codice_redazionale: 060U0624
+vigente: true
+---
 
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 07 aprile 1960 n. 624
-=============================================================
-
-Erezione in ente morale della Cassa scolastica del 1° Circolo didattico di Campobasso delle Scuole elementari "d'Ovidio".
--------------------------------------------------------------------------------------------------------------------------
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-624. Decreto del Presidente della Repubblica 7 aprile 1960, col quale, sulla proposta del Ministro per la pubblica istruzione, la Cassa scolastica del 1° Circolo didattico di Campobasso delle Scuole elementari "d'Ovidio" viene eretta in ente morale e ne viene approvato lo statuto.  
-  
-Visto, il Guardasigilli: GONELLA  
-Registrato alla Corte dei conti, addi' 30 giugno 1960  
-Atti del Governo, registro n. 127, foglio n. 90. - VILLA
+624.
+
+Decreto del Presidente della Repubblica 7 aprile 1960, col quale, sulla proposta del Ministro per la pubblica istruzione, la Cassa scolastica del 1° Circolo didattico di Campobasso delle Scuole elementari "d'Ovidio" viene eretta in ente morale e ne viene approvato lo statuto.
+
+Visto, il Guardasigilli: GONELLA
+ Registrato alla Corte dei conti, addi' 30 giugno 1960
+ Atti del Governo, registro n. 127, foglio n. 90. - VILLA

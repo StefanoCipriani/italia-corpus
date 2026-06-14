@@ -1,19 +1,21 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 07 aprile 1960 n. 472
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 472
+data: 1960-04-07
+titolo: "Erezione in ente morale della Cassa scolastica della Scuola media statale \"A. S. Novaro\" di Diano Marina (Imperia)."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1960-04-07;472
+codice_redazionale: 060U0472
+vigente: true
+---
 
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 07 aprile 1960 n. 472
-=============================================================
-
-Erezione in ente morale della Cassa scolastica della Scuola media statale "A. S. Novaro" di Diano Marina (Imperia).
--------------------------------------------------------------------------------------------------------------------
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-472. Decreto del Presidente della Repubblica 7 aprile 1960, col quale, sulla proposta del Ministro per la pubblica istruzione, la Cassa scolastica della Scuola media statale "A. S. Novaro" di Diano Marina (Imperia) viene eretta in ente morale e ne viene approvato lo statuto.  
-  
-Visto, il Guardasigilli: GONELLA  
-Registrato alla Corte dei conti, addi' 18 maggio 1960  
-Atti del Governo, registro n. 126, foglio n. 138. - VILLA
+472.
+
+Decreto del Presidente della Repubblica 7 aprile 1960, col quale, sulla proposta del Ministro per la pubblica istruzione, la Cassa scolastica della Scuola media statale "A. S. Novaro" di Diano Marina (Imperia) viene eretta in ente morale e ne viene approvato lo statuto.
+
+Visto, il Guardasigilli: GONELLA
+ Registrato alla Corte dei conti, addi' 18 maggio 1960
+ Atti del Governo, registro n. 126, foglio n. 138. - VILLA

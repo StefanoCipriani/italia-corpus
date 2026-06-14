@@ -1,20 +1,20 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 aprile 1951 n. 955
-
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 aprile 1951 n. 955
-=============================================================
-
-Modificazioni allo statuto dell'Universita' degli studi di Modena.
-------------------------------------------------------------------
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 955
+data: 1951-04-28
+titolo: "Modificazioni allo statuto dell'Universita' degli studi di Modena."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1951-04-28;955
+codice_redazionale: 051U0955
+vigente: true
+---
 
 IL PRESIDENTE DELLA REPUBBLICA
-------------------------------
 
-Veduto lo statuto dell'Universita' degli studi di Modena, approvato con [regio decreto 14 ottobre 1926, n. 2035](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2035), modificato con i [regi decreti 13 ottobre 1927, n. 2170](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2170); [30 ottobre 1930, n. 1825](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-30;1825); [1 ottobre 1931, numero 1336](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1931-10-01;1336); [27 ottobre 1932, n. 2073](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1932-10-27;2073); [6 dicembre 1934, n. 2291](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-12-06;2291), [1 ottobre 1936, n. 2088](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1936-10-01;2088); [20 aprile 1939, n. 1075](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1075); e con i [decreti del Capo provvisorio dello Stato 15 ottobre 1947, n. 1874](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto:1947-10-15;1874); [30 dicembre 1947, n. 1877 e con decreto del Presidente della Repubblica](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1947-12-30;1877) [23 settembre 1949, n. 817](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1949-09-23;817);
+Veduto lo statuto dell'Universita' degli studi di Modena, approvato con [regio decreto 14 ottobre 1926, n. 2035](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20dello%20statuto%20della%20Regia%20universita%20di%20Modena.%20026U2035.md), modificato con i [regi decreti 13 ottobre 1927, n. 2170](../Atti%20normativi%20abrogati%20%28in%20originale%29/Modificazioni%20allo%20statuto%20della%20Regie%20universita%20di%20Modena.%20027U2170.md); [30 ottobre 1930, n. 1825](../Atti%20normativi%20abrogati%20%28in%20originale%29/Modifiche%20allo%20statuto%20della%20Regia%20universita%20di%20Modena.%20030U1825.md); [1 ottobre 1931, numero 1336](../Atti%20normativi%20abrogati%20%28in%20originale%29/Modifiche%20allo%20statuto%20della%20Regia%20universita%20di%20Modena.%20031U1336.md); [27 ottobre 1932, n. 2073](../Atti%20normativi%20abrogati%20%28in%20originale%29/Modifiche%20allo%20statuto%20della%20Regia%20Universita%20di%20Modena.%20032U2073.md); [6 dicembre 1934, n. 2291](../Atti%20normativi%20abrogati%20%28in%20originale%29/Modifiche%20allo%20statuto%20della%20Regia%20universita%20di%20Modena.%20034U2291.md), [1 ottobre 1936, n. 2088](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20dello%20statuto%20della%20Regia%20universita%20di%20Modena.%20036U2088.md); [20 aprile 1939, n. 1075](../Atti%20normativi%20abrogati%20%28in%20originale%29/Modificazioni%20allo%20statuto%20della%20Regia%20Universita%20di%20Modena.%20039U1075.md); e con i [decreti del Capo provvisorio dello Stato 15 ottobre 1947, n. 1874](https://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto:1947-10-15;1874); [30 dicembre 1947, n. 1877 e con decreto del Presidente della Repubblica](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1947-12-30;1877) [23 settembre 1949, n. 817](Modificazioni%20dello%20statuto%20dellUniversita%20degli%20studi%20di%20Modena.md);
 
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
+Veduto il [regio decreto 30 settembre 1938, n. 1652](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disposizioni%20sullordinamento%20didattico%20universitario.%20038U1652.md), e successive modificazioni;
 
 Vedute le proposte di modifica allo statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
 
@@ -188,117 +188,105 @@ GONELLA
 
 Visto, il Guardasigilli: PICCIONI
 
-Registrato
-----------
+Registrato alla Corte dei conti, addi' 17 aprile 1951 Atti del Governo, registro n. 44, foglio n. 14. - CARLOMAGNO
 
-alla Corte dei conti, addi' 17 aprile 1951 Atti del Governo, registro n. 44, foglio n. 14. - CARLOMAGNO
+## Art. 1.
 
-Art. 1
-------
+IL PRESIDENTE DELLA REPUBBLICA
 
- IL PRESIDENTE DELLA REPUBBLICA  
-  
-Veduto lo statuto dell'Universita' degli studi di Modena, approvato con [regio decreto 14 ottobre 1926, n. 2035](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2035), modificato con i [regi decreti 13 ottobre 1927, n. 2170](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2170); [30 ottobre 1930, n. 1825](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-30;1825); [1 ottobre 1931, numero 1336](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1931-10-01;1336); [27 ottobre 1932, n. 2073](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1932-10-27;2073); [6 dicembre 1934, n. 2291](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-12-06;2291), [1 ottobre 1936, n. 2088](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1936-10-01;2088); [20 aprile 1939, n. 1075](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1075); e con i [decreti del Capo provvisorio dello Stato 15 ottobre 1947, n. 1874](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto:1947-10-15;1874); [30 dicembre 1947, n. 1877 e con decreto del Presidente della Repubblica](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1947-12-30;1877) [23 settembre 1949, n. 817](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1949-09-23;817);  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
-Vedute le proposte di modifica allo statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
-Sentito il parere del Consiglio superiore della pubblica istruzione;  
-Sulla proposta del Ministro per la pubblica istruzione;  
-  
-Decreta:  
-  
-Lo statuto dell'Universita' degli studi di Modena, approvato e modificato con i decreti sopraindicati e' cosi' ulteriormente modificato:  
-Art. 41. - Agli insegnamenti complementari del corso di laurea in medicina e chirurgia sono aggiunti quelli di "semeiotica medica" e di "malattie infettive".  
-Gli insegnamenti complementari del predetto corso di laurea di "clinica delle malattie tropicali e subtropicali" e di "malattie infettive" sono riuniti in una unica cattedra con la denominazione di "clinica delle malattie infettive e delle malattie tropicali".  
-Art. 47. - Agli insegnamenti complementari del corso di laurea in scienze matematiche sono aggiunti i seguenti:  
-7) teoria delle funzioni;  
-8) meccanica superiore.  
-Art. 48. - Agli insegnamenti complementari del corso di laurea in matematica e fisica sono aggiunti i seguenti:  
-9) teoria delle funzioni;  
-10) meccanica superiore,  
-Art. 50. - Gli insegnamenti fondamentali biennali di "chimica fisica" e di "esercitazioni di chimica fisica" del corso di laurea in chimica, importano ciascuno due distinti esami annuali.  
-Dopo l'art. 91 sono aggiunti i seguenti nuovi articoli relativi alla istituzione delle Scuole di perfezionamento in clinica ostetrico-ginecologica ed in clinica neuropsichiatrica.  
-  
-CAP. IV  
-Scuola di perfezionamento  
-in clinica ostetrico-ginecologica.  
-  
-Art. 92. - La Scuola di perfezionamento in clinica ostetrico-ginecologica conferisce il diploma di specialista in ostetricia e ginecologia.  
-La Scuola ha la durata di quattro anni.  
-Art. 93. - Gli insegnamenti della Scuola sono cosi' distribuiti nei quattro anni di studio:  
-1° anno:  
-1) fisiologia della gravidanza, del parto e del puerperio;  
-2) esame clinico della gravida;  
-3) nozioni applicate di laboratorio.  
-2° anno:  
-1) semeiotica e clinica ostetrica;  
-2) fisiopatologia della gravidanza e del puerperio;  
-3) puericultura prenatale e postnatale;  
-4) operazioni ostetriche;  
-5) farmacologia applicata.  
-3° anno:  
-1) patologia della gravidanza, del parto e del puerperio;  
-2) anatomia patologica applicata;  
-3) roentgeudiagnostica e roentgeu-radium terapia. Altre terapie fisiche della branca.  
-4° anno:  
-1) semeiotica e clinica ostetrica e ginecologica;  
-2) nozioni di urologia applicata;  
-3) igiene e legislazione sanitaria applicata.  
-Art. 94. - Gli esami di profitto si danno al termine di ogni anno di studio.  
-Art. 95. - Superati gli esami di profitto dei quattro anni, il candidato puo' presentarsi a discutere la dissertazione per il conseguimento del diploma.  
-  
-CAP. V  
-Scuola di perfezionamento in clinica neuropsichiatrica.  
-  
-Art. 96. - La Scuola di perfezionamento in clinica neuropsichiatrica conferisce il diploma di specialista in clinica neuropsichiatrica.  
-La Scuola ha la durata di tre anni.  
-Art. 97. - Le materie obbligatorie, per il conseguimento del diploma, sono le seguenti:  
-1) anatomia del sistema nervoso;  
-2) fisiologia del sistema nervoso;  
-3) anatomia patologica ed isto-patologica del sistema nervoso;  
-4) semeiotica clinica e di laboratorio;  
-5) patologia nervosa;  
-6) terapeutica neurologica;  
-7) radio-neuro-chirurgica;  
-8) clinica neurologica propriamente detta;  
-9) psicologia e psicopatologia;  
-10) semeiotica psichiatrica;  
-11) clinica psichiatrica;  
-12) psicoterapia, psichiatria sociale e igiene dei nervi.  
-Art. 98. - Le materie elencate nell'articolo precedente sono distribuite nei tre anni di studio:  
-1° anno:  
-1) anatomia del sistema nervoso;  
-2) fisiologia del sistema nervoso;  
-3) anatomia patologica ed isto-patologica del sistema nervoso;  
-4) semeiotica clinica e di laboratorio.  
-2° anno:  
-1) patologia nervosa;  
-2) terapeutica neurologica;  
-3) radio-neuro-chirurgia;  
-4) clinica neurologica propriamente detta.  
-3° anno:  
-1) psicologia e psicopatologia;  
-2) semeiotica psichiatrica;  
-3) clinica psichiatrica;  
-4) psicoterapia, psichiatria sociale e igiene dei nervi.  
-Gli esami di profitto si danno in tre gruppi.  
-L'esame di diploma comprendera' la presentazione la discussione di una tesi scritta.  
-Art. 99. - L'internato e' obbligatorio durante i tre anni di corso, nella clinica neurologica, con doveri e attribuzioni uguali a quelle degli assistenti volontari della clinica.  
-Gli iscritti debbono assistere agli ambulatori della clinica e seguire le ricerche scientifiche e le cure degli ammalati che si svolgono nella clinica stessa.  
-Art. 100. - Le lezioni sono tutte impartite in modo dimostrativo.  
-Art. 101. - Le tasse e sopratasse sono eguali a quelle stabilite per gli studenti della Facolta' di medicina e chirurgia.  
-  
+ Veduto lo statuto dell'Universita' degli studi di Modena, approvato con [regio decreto 14 ottobre 1926, n. 2035](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20dello%20statuto%20della%20Regia%20universita%20di%20Modena.%20026U2035.md), modificato con i [regi decreti 13 ottobre 1927, n. 2170](../Atti%20normativi%20abrogati%20%28in%20originale%29/Modificazioni%20allo%20statuto%20della%20Regie%20universita%20di%20Modena.%20027U2170.md); [30 ottobre 1930, n. 1825](../Atti%20normativi%20abrogati%20%28in%20originale%29/Modifiche%20allo%20statuto%20della%20Regia%20universita%20di%20Modena.%20030U1825.md); [1 ottobre 1931, numero 1336](../Atti%20normativi%20abrogati%20%28in%20originale%29/Modifiche%20allo%20statuto%20della%20Regia%20universita%20di%20Modena.%20031U1336.md); [27 ottobre 1932, n. 2073](../Atti%20normativi%20abrogati%20%28in%20originale%29/Modifiche%20allo%20statuto%20della%20Regia%20Universita%20di%20Modena.%20032U2073.md); [6 dicembre 1934, n. 2291](../Atti%20normativi%20abrogati%20%28in%20originale%29/Modifiche%20allo%20statuto%20della%20Regia%20universita%20di%20Modena.%20034U2291.md), [1 ottobre 1936, n. 2088](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20dello%20statuto%20della%20Regia%20universita%20di%20Modena.%20036U2088.md); [20 aprile 1939, n. 1075](../Atti%20normativi%20abrogati%20%28in%20originale%29/Modificazioni%20allo%20statuto%20della%20Regia%20Universita%20di%20Modena.%20039U1075.md); e con i [decreti del Capo provvisorio dello Stato 15 ottobre 1947, n. 1874](https://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto:1947-10-15;1874); [30 dicembre 1947, n. 1877 e con decreto del Presidente della Repubblica](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1947-12-30;1877) [23 settembre 1949, n. 817](Modificazioni%20dello%20statuto%20dellUniversita%20degli%20studi%20di%20Modena.md);
+ Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+ Veduto il [regio decreto 30 settembre 1938, n. 1652](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disposizioni%20sullordinamento%20didattico%20universitario.%20038U1652.md), e successive modificazioni;
+ Vedute le proposte di modifica allo statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
+ Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
+ Sentito il parere del Consiglio superiore della pubblica istruzione;
+ Sulla proposta del Ministro per la pubblica istruzione;
+
+ Decreta:
+
+ Lo statuto dell'Universita' degli studi di Modena, approvato e modificato con i decreti sopraindicati e' cosi' ulteriormente modificato:
+ Art. 41. - Agli insegnamenti complementari del corso di laurea in medicina e chirurgia sono aggiunti quelli di "semeiotica medica" e di "malattie infettive".
+ Gli insegnamenti complementari del predetto corso di laurea di "clinica delle malattie tropicali e subtropicali" e di "malattie infettive" sono riuniti in una unica cattedra con la denominazione di "clinica delle malattie infettive e delle malattie tropicali".
+ Art. 47. - Agli insegnamenti complementari del corso di laurea in scienze matematiche sono aggiunti i seguenti:
+ 7) teoria delle funzioni;
+ 8) meccanica superiore.
+ Art. 48. - Agli insegnamenti complementari del corso di laurea in matematica e fisica sono aggiunti i seguenti:
+ 9) teoria delle funzioni;
+ 10) meccanica superiore,
+ Art. 50. - Gli insegnamenti fondamentali biennali di "chimica fisica" e di "esercitazioni di chimica fisica" del corso di laurea in chimica, importano ciascuno due distinti esami annuali.
+ Dopo l'art. 91 sono aggiunti i seguenti nuovi articoli relativi alla istituzione delle Scuole di perfezionamento in clinica ostetrico-ginecologica ed in clinica neuropsichiatrica.
+
+ CAP. IV
+ Scuola di perfezionamento
+ in clinica ostetrico-ginecologica.
+
+ Art. 92. - La Scuola di perfezionamento in clinica ostetrico-ginecologica conferisce il diploma di specialista in ostetricia e ginecologia.
+ La Scuola ha la durata di quattro anni.
+ Art. 93. - Gli insegnamenti della Scuola sono cosi' distribuiti nei quattro anni di studio:
+ 1° anno:
+ 1) fisiologia della gravidanza, del parto e del puerperio;
+ 2) esame clinico della gravida;
+ 3) nozioni applicate di laboratorio.
+ 2° anno:
+ 1) semeiotica e clinica ostetrica;
+ 2) fisiopatologia della gravidanza e del puerperio;
+ 3) puericultura prenatale e postnatale;
+ 4) operazioni ostetriche;
+ 5) farmacologia applicata.
+ 3° anno:
+ 1) patologia della gravidanza, del parto e del puerperio;
+ 2) anatomia patologica applicata;
+ 3) roentgeudiagnostica e roentgeu-radium terapia. Altre terapie fisiche della branca.
+ 4° anno:
+ 1) semeiotica e clinica ostetrica e ginecologica;
+ 2) nozioni di urologia applicata;
+ 3) igiene e legislazione sanitaria applicata.
+ Art. 94. - Gli esami di profitto si danno al termine di ogni anno di studio.
+ Art. 95. - Superati gli esami di profitto dei quattro anni, il candidato puo' presentarsi a discutere la dissertazione per il conseguimento del diploma.
+
+ CAP. V
+ Scuola di perfezionamento in clinica neuropsichiatrica.
+
+ Art. 96. - La Scuola di perfezionamento in clinica neuropsichiatrica conferisce il diploma di specialista in clinica neuropsichiatrica.
+ La Scuola ha la durata di tre anni.
+ Art. 97. - Le materie obbligatorie, per il conseguimento del diploma, sono le seguenti:
+ 1) anatomia del sistema nervoso;
+ 2) fisiologia del sistema nervoso;
+ 3) anatomia patologica ed isto-patologica del sistema nervoso;
+ 4) semeiotica clinica e di laboratorio;
+ 5) patologia nervosa;
+ 6) terapeutica neurologica;
+ 7) radio-neuro-chirurgica;
+ 8) clinica neurologica propriamente detta;
+ 9) psicologia e psicopatologia;
+ 10) semeiotica psichiatrica;
+ 11) clinica psichiatrica;
+ 12) psicoterapia, psichiatria sociale e igiene dei nervi.
+ Art. 98. - Le materie elencate nell'articolo precedente sono distribuite nei tre anni di studio:
+ 1° anno:
+ 1) anatomia del sistema nervoso;
+ 2) fisiologia del sistema nervoso;
+ 3) anatomia patologica ed isto-patologica del sistema nervoso;
+ 4) semeiotica clinica e di laboratorio.
+ 2° anno:
+ 1) patologia nervosa;
+ 2) terapeutica neurologica;
+ 3) radio-neuro-chirurgia;
+ 4) clinica neurologica propriamente detta.
+ 3° anno:
+ 1) psicologia e psicopatologia;
+ 2) semeiotica psichiatrica;
+ 3) clinica psichiatrica;
+ 4) psicoterapia, psichiatria sociale e igiene dei nervi.
+ Gli esami di profitto si danno in tre gruppi.
+ L'esame di diploma comprendera' la presentazione la discussione di una tesi scritta.
+ Art. 99. - L'internato e' obbligatorio durante i tre anni di corso, nella clinica neurologica, con doveri e attribuzioni uguali a quelle degli assistenti volontari della clinica.
+ Gli iscritti debbono assistere agli ambulatori della clinica e seguire le ricerche scientifiche e le cure degli ammalati che si svolgono nella clinica stessa.
+ Art. 100. - Le lezioni sono tutte impartite in modo dimostrativo.
+ Art. 101. - Le tasse e sopratasse sono eguali a quelle stabilite per gli studenti della Facolta' di medicina e chirurgia.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 28 aprile 1951
+Dato a Roma, addi' 28 aprile 1951
 
-EINAUDI GONELLA
-
-Visto, il Guardasigilli: PICCIONI
-
-Registrato alla Corte dei conti, addi' 17 aprile 1951
-
-Atti del Governo, registro n. 44, foglio n. 14. - CARLOMAGNO
+EINAUDI GONELLA Visto, il Guardasigilli: PICCIONI Registrato alla Corte dei conti, addi' 17 aprile 1951 Atti del Governo, registro n. 44, foglio n. 14. - CARLOMAGNO

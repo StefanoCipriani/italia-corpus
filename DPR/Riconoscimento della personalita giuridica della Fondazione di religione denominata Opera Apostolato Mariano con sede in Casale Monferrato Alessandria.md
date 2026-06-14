@@ -1,19 +1,21 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 23 aprile 1966 n. 345
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 345
+data: 1966-04-23
+titolo: "Riconoscimento, della personalita' giuridica della Fondazione di religione, denominata \"Opera Apostolato Mariano\", con sede in Casale Monferrato (Alessandria)."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1966-04-23;345
+codice_redazionale: 066U0345
+vigente: true
+---
 
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 23 aprile 1966 n. 345
-=============================================================
-
-Riconoscimento, della personalita' giuridica della Fondazione di religione, denominata "Opera Apostolato Mariano", con sede in Casale Monferrato (Alessandria).
----------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-345. Decreto del Presidente della Repubblica 23 aprile 1966, col quale, sulla proposta del Ministro per l'interno, viene riconosciuta la personalita' giuridica della Fondazione di religione, denominata "Opera Apostolato Mariano", con sede in Casale Monferrato (Alessandria), e ne viene approvato lo statuto.  
-  
-Visto, il Guardasigilli: REALE  
-Registrato alla Corte dei conti, addi' 26 maggio 1966  
-Atti del Governo, registro n. 203, foglio n. 58. - VILLA
+345.
+
+Decreto del Presidente della Repubblica 23 aprile 1966, col quale, sulla proposta del Ministro per l'interno, viene riconosciuta la personalita' giuridica della Fondazione di religione, denominata "Opera Apostolato Mariano", con sede in Casale Monferrato (Alessandria), e ne viene approvato lo statuto.
+
+Visto, il Guardasigilli: REALE
+ Registrato alla Corte dei conti, addi' 26 maggio 1966
+ Atti del Governo, registro n. 203, foglio n. 58. - VILLA

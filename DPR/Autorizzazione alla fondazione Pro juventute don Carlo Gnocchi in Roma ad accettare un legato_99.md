@@ -1,19 +1,21 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 giugno 1986 n. 532
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 173
+data: 1986-02-10
+titolo: "Autorizzazione alla fondazione \"Pro juventute don Carlo Gnocchi\", in Roma, ad accettare un legato."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1986-02-10;173
+codice_redazionale: 086U0173
+vigente: true
+---
 
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 giugno 1986 n. 532
-=============================================================
-
-Autorizzazione alla fondazione "Pro juventute don Carlo Gnocchi", in Roma, ad accettare un legato.
---------------------------------------------------------------------------------------------------
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-532. Decreto del Presidente della Repubblica 28 giugno 1986, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la fondazione "Pro juventute don Carlo Gnocchi", in Roma, viene autorizzata ad accettare il legato, consistente nella quota di 1/2 del ricavato della vendita di un immobile sito in Mantova del valore peritato di L. 43.000.000 - quota 1/2 ÷ L. 21.500.000 - disposto dalla sig.ra Benatti Angela a favore dei bambini handicappati della fondazione "Don Gnocchi", che si identifica con la fondazione "Pro juventute don Carlo Gnocchi", come si evince dal verbale 16 gennaio 1984 del consiglio di amministrazione della fondazione stessa, con testamento olografo 21 gennaio 1981 e codicillo 16 novembre 1982, pubblicato in data 18 aprile 1983, n. 30039 di repertorio e n. 12059 di raccolta, a rogito dott. Bagnoli Enrico, notaio in Volta Mantovana (Mantova), registrato a Castiglione delle Stiviere (Mantova) il 21 aprile 1983 al n. 780.   
-  
-Visto, il Guardasigilli: ROGNONI   
-Registrato alla Corte dei conti, addi' 22 agosto 1986   
-Registro n. 8 Presidenza, foglio n. 180
+173.
+
+Decreto del Presidente della Repubblica 10 febbraio 1986, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la fondazione "Pro juventute don Carlo Gnocchi", in Roma, viene autorizzata ad accettare il legato, consistente nella quota di 1/2 dei beni mobili, libretto a risparmio e conti correnti per complessive L. 127.895.497 - quota di un 1/2 uguale L. 63.943.738 meno L. 21.000.000 di passivita' restano L. 42.943.736 - disposto dal rev. Corengia Antonio con testamento olografo 10 maggio 1982, pubblicato in data 11 novembre 1983, n. 24222/8565 di repertorio, a rogito dott. Achille Cornelio, notaio in Como, registrato a Como in data 16 novembre 1983 al n. 5148. 
+ 
+Visto, il Guardasigilli: MARTINAZZOLI 
+ Registrato alla Corte dei conti, addi' 22 aprile 1986 
+ Registro n. 4 Presidenza, foglio n. 47

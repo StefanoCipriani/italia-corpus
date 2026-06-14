@@ -1,36 +1,36 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 29 marzo 1973 n. 356
-
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 29 marzo 1973 n. 356
-============================================================
-
-Rettifica di assegnazione di posti di assistente ordinario in alcune Universita'.
----------------------------------------------------------------------------------
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 356
+data: 1973-03-29
+titolo: "Rettifica di assegnazione di posti di assistente ordinario in alcune Universita'."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1973-03-29;356
+codice_redazionale: 073U0356
+vigente: true
+---
 
 IL PRESIDENTE DELLA REPUBBLICA
-------------------------------
 
-Visto il decreto ministeriale 2 luglio 1949, registrato alla [Corte dei conti il 9 novembre 1949](https://e-justice.europa.eu/ecli/ECLI::::), registro n. 28, foglio n. 39, con il quale vennero assegnati alla cattedra di aerodinamica della scuola di ingegneria aeronautica dell'Universita' di Roma due posti di assistente ordinario, uno dei quali venne, con successivo decreto ministeriale 22 aprile 1960, registrato alla [Corte dei conti il 30 maggio 1960](https://e-justice.europa.eu/ecli/ECLI::::), registro n. 34, foglio n. 268, trasferito alla cattedra di costruzioni aeronautiche della scuola stessa;
+Visto il decreto ministeriale 2 luglio 1949, registrato alla Corte dei conti il 9 novembre 1949, registro n. 28, foglio n. 39, con il quale vennero assegnati alla cattedra di aerodinamica della scuola di ingegneria aeronautica dell'Universita' di Roma due posti di assistente ordinario, uno dei quali venne, con successivo decreto ministeriale 22 aprile 1960, registrato alla Corte dei conti il 30 maggio 1960, registro n. 34, foglio n. 268, trasferito alla cattedra di costruzioni aeronautiche della scuola stessa;
 
-Visto il [decreto del Presidente della Repubblica 31 dicembre 1962, n. 1933](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1962-12-31;1933), con il quale venne assegnato alla stessa cattedra di costruzioni aeronautiche un posto di assistente ordinario;
+Visto il [decreto del Presidente della Repubblica 31 dicembre 1962, n. 1933](Ripartizione%20di%20trecentocinquantatre%20posti%20di%20assistente%20di%20ruolo%20per%20lanno%20accademico%201962-63.md), con il quale venne assegnato alla stessa cattedra di costruzioni aeronautiche un posto di assistente ordinario;
 
-Vista la [legge 3 febbraio 1963, n. 102](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1963-02-03;102), per la quale le scuole di ingegneria aeronautica assunsero la denominazione di "Scuola di ingegneria aerospaziale";
+Vista la [legge 3 febbraio 1963, n. 102](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1963-02-03;102), per la quale le scuole di ingegneria aeronautica assunsero la denominazione di "Scuola di ingegneria aerospaziale";
 
-Visto il [decreto del Presidente della Repubblica 31 ottobre 1963, n. 1726](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1963-10-31;1726), con il quale venne assegnato alla cattedra di costruzioni aeronautiche della scuola di, ingegneria aerospaziale dell'Universita' di Roma un altro posto di assistente ordinario;
+Visto il [decreto del Presidente della Repubblica 31 ottobre 1963, n. 1726](Ripartizione%20di%20trecentosessanta%20nuovi%20posti%20di%20assistente%20ordinario%20per%20lanno%20accademico%201963-64.md), con il quale venne assegnato alla cattedra di costruzioni aeronautiche della scuola di, ingegneria aerospaziale dell'Universita' di Roma un altro posto di assistente ordinario;
 
 Considerato che i predetti posti sono rimasti inutilizzati - in quanto per i posti stessi non e' intervenuta ne' la nomina di assistente di ruolo, ne' la nomina di assistenti incaricati, ne' sono intervenuti bandi di concorso - cosicche' devono ritenersi venuti meno i motivi che, a suo tempo, ne determinarono la loro assegnazione alle cattedre sopra indicate;
 
 Considerate le esigenze prospettate dai diversi atenei;
 
-Visto il [decreto del Presidente della Repubblica 21 dicembre 1964, n. 1547](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1964-12-21;1547), con il quale venne assegnato alla cattedra di clinica pediatrica della facolta' di medicina e chirurgia dell'Universita' di Modena un posto di assistente ordinario riservato per concorso agli assistenti straordinari;
+Visto il [decreto del Presidente della Repubblica 21 dicembre 1964, n. 1547](Ripartizione%20per%20lanno%20accademico%201964-65%20di%20trecento%20posti%20di%20assistenti%20di%20ruolo%20destinati%20a%20concorsi%20riservati%20agli%20assistenti%20straordinari.md), con il quale venne assegnato alla cattedra di clinica pediatrica della facolta' di medicina e chirurgia dell'Universita' di Modena un posto di assistente ordinario riservato per concorso agli assistenti straordinari;
 
-Visto il [decreto del Presidente della Repubblica 29 novembre 1968, n. 1352](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1968-11-29;1352), con il quale venne assegnato alla cattedra di igiene della facolta' di medicina e chirurgia dell'Universita' di Torino un posto di assistente ordinario, riservato per concorso agli assistenti straordinari;
+Visto il [decreto del Presidente della Repubblica 29 novembre 1968, n. 1352](Ripartizione%20di%20trentadue%20posti%20di%20assistente%20di%20ruolo%20riservati%20per%20concorso%20agli%20assistenti%20straordinari%20per%20lanno%20accademico%201968-69.md), con il quale venne assegnato alla cattedra di igiene della facolta' di medicina e chirurgia dell'Universita' di Torino un posto di assistente ordinario, riservato per concorso agli assistenti straordinari;
 
-Considerato che ai sensi dell'ultimo comma dell'[art. 6 della legge 26 gennaio 1962, n. 17](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1962-01-26;17~art6), e dell'ultimo comma dell'[art. 15 della legge 24 febbraio 1967, n. 62](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1967-02-24;62~art15), i posti riservati comunque non coperti debbono essere recuperati e fatti oggetto di una nuova ripartizione;
+Considerato che ai sensi dell'ultimo comma dell'[art. 6 della legge 26 gennaio 1962, n. 17](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1962-01-26;17#art_6), e dell'ultimo comma dell'[art. 15 della legge 24 febbraio 1967, n. 62](../Atti%20normativi%20abrogati%20%28in%20originale%29/Istituzione%20di%20nuove%20cattedre%20universitarie%20di%20nuovi%20posti%20di%20assistente%20universitario%20e%20nuova%20disciplina%20degli%20incarichi%20di%20insegnamento%20universitario%20e%20degli%20assistenti%20volontari.md), i posti riservati comunque non coperti debbono essere recuperati e fatti oggetto di una nuova ripartizione;
 
-Considerato che i concorsi riservati, banditi sui citati posti di assistente di cui ai sopraindicati [decreti del Presidente della Repubblica 21 dicembre 1964, n. 1547](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1964-12-21;1547) e [29 novembre 1968, n. 1352](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1968-11-29;1352), sono andati deserti;
+Considerato che i concorsi riservati, banditi sui citati posti di assistente di cui ai sopraindicati [decreti del Presidente della Repubblica 21 dicembre 1964, n. 1547](Ripartizione%20per%20lanno%20accademico%201964-65%20di%20trecento%20posti%20di%20assistenti%20di%20ruolo%20destinati%20a%20concorsi%20riservati%20agli%20assistenti%20straordinari.md) e [29 novembre 1968, n. 1352](Ripartizione%20di%20trentadue%20posti%20di%20assistente%20di%20ruolo%20riservati%20per%20concorso%20agli%20assistenti%20straordinari%20per%20lanno%20accademico%201968-69.md), sono andati deserti;
 
-Visto il [decreto del Presidente della Repubblica 10 febbraio 1971, n. 100](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1971-02-10;100), con il quale sono stati, fra l'altro, assegnati, per mero errore materiale, i seguenti posti di assistente ordinario:
+Visto il [decreto del Presidente della Repubblica 10 febbraio 1971, n. 100](Ripartizione%20di%20settecentonovantuno%20posti%20di%20assistente%20ordinario%20non%20vincolati%20a%20concorsi%20riservati%20a%20disposizione%20per%20lanno%20accademico%201970-71.md), con il quale sono stati, fra l'altro, assegnati, per mero errore materiale, i seguenti posti di assistente ordinario:
 
 FACOLTA' DI MEDICINA E CHIRURGIA Numero
 
@@ -92,142 +92,100 @@ gici....................................... 1
 
 Riconosciuta la necessita' di provvedere alle opportune rettifiche;
 
-Sulla
------
+Sulla proposta del Ministro per la pubblica istruzione; Decreta:
 
-proposta del Ministro per la pubblica istruzione; Decreta:
+## Art. 1.
 
-Art. 1
-------
+Il decreto ministeriale 2 luglio 1949, citato nelle premesse, e' rettificato nel senso che uno dei due posti di assistente ordinario assegnati alla cattedra di aerodinamica della scuola di ingegneria aerospaziale dell'Universita' di Roma, deve intendersi, invece, assegnato alla cattedra di sociologia del diritto della facolta' di magistero dell'Universita' di Roma. Resta, conseguentemente, annullato il decreto ministeriale 22 aprile 1960 citato nelle premesse.
 
-  
-  
-Il decreto ministeriale 2 luglio 1949, citato nelle premesse, e' rettificato nel senso che uno dei due posti di assistente ordinario assegnati alla cattedra di aerodinamica della scuola di ingegneria aerospaziale dell'Universita' di Roma, deve intendersi, invece, assegnato alla cattedra di sociologia del diritto della facolta' di magistero dell'Universita' di Roma. Resta, conseguentemente, annullato il decreto ministeriale 22 aprile 1960 citato nelle premesse.   
+## Art. 2.
 
-Art. 2
-------
+I [decreti presidenziali 31 dicembre 1962, n. 1933](Ripartizione%20di%20trecentocinquantatre%20posti%20di%20assistente%20di%20ruolo%20per%20lanno%20accademico%201962-63.md) e [31 ottobre 1963, n. 1726](Ripartizione%20di%20trecentosessanta%20nuovi%20posti%20di%20assistente%20ordinario%20per%20lanno%20accademico%201963-64.md), citati nelle premesse, sono rettificati nel senso che i posti di assistente assegnati alla cattedra di costruzioni aeronautiche della scuola di ingegneria aerospaziale dell'Universita' di Roma, debbono intendersi rispettivamente assegnati alle seguenti cattedre delle universita' sottoindicate: 
+ 
 
-  
-  
-I [decreti presidenziali 31 dicembre 1962, n. 1933](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1962-12-31;1933) e [31 ottobre 1963, n. 1726](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1963-10-31;1726), citati nelle premesse, sono rettificati nel senso che i posti di assistente assegnati alla cattedra di costruzioni aeronautiche della scuola di ingegneria aerospaziale dell'Universita' di Roma, debbono intendersi rispettivamente assegnati alle seguenti cattedre delle universita' sottoindicate:   
-  
-  
-UNIVERSITA' DI GENOVA Numero  
-dei posti  
-Facolta' di scienze politiche:  
-  
-cattedra di scienza della politica..... 1  
-  
-UNIVERSITA' DI PALERMO  
-  
-Facolta' di medicina e chirurgia:  
-  
-cattedra di chimica biologica II....... 1  
-  
-  
-  
+ UNIVERSITA' DI GENOVA Numero
+ dei posti
+Facolta' di scienze politiche:
 
-Art. 3
-------
+cattedra di scienza della politica..... 1
 
-  
-  
-I posti di assistente ordinario, gia' attribuiti alle seguenti cattedre dei sottoindicati atenei con i [decreti del Presidente della Repubblica 21 dicembre 1964, n. 1547](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1964-12-21;1547) e [29 novembre 1968, n. 1352](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1968-11-29;1352), citati nelle premesse, sono recuperati dal contingente riservato agli assistenti straordinari:   
-  
-  
-Numero  
-UNIVERSITA' DI MODENA dei posti  
-  
-Facolta' di medicina e chirurgia:  
-  
-cattedra di clinica pediatrica......... 1  
-  
-UNIVERSITA' DI TORINO  
-  
-Facolta' di medicina e chirurgia:  
-  
-cattedra di igiene..................... 1  
-  
-  
-  
-  
-I posti come sopra recuperati sono aggiunti al contingente dei posti di assistente ordinario non vincolati a concorsi riservati agli assistenti straordinari e vengono ripartiti come segue:   
-  
-  
-Numero  
-FACOLTA' DI MEDICINA E CHIRURGIA dei posti  
-  
-Universita' di Roma:  
-  
-cattedra di chirurgia del cuore e dei  
-grossi vasi................................ 1  
-  
-Universita' di Torino:  
-  
-cattedra di clinica chirurgica generale  
-e terapia chirurgica....................... 1  
-  
-  
-  
+ UNIVERSITA' DI PALERMO
+ 
+Facolta' di medicina e chirurgia:
 
-Art. 4
-------
+cattedra di chimica biologica II....... 1
 
-  
-Il posto di assistente ordinario gia' assegnato alla cattedra di agricoltura montana ed alpicoltura della facolta' di agraria dell'Universita' di Firenze con il [decreto del Presidente della Repubblica 10 febbraio 1971, n. 100](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1971-02-10;100), deve, invece, intendersi assegnato alla cattedra di alpicoltura I della stessa facolta' della medesima Universita' di Firenze.  
+## Art. 3.
 
-Art. 5
-------
+I posti di assistente ordinario, gia' attribuiti alle seguenti cattedre dei sottoindicati atenei con i [decreti del Presidente della Repubblica 21 dicembre 1964, n. 1547](Ripartizione%20per%20lanno%20accademico%201964-65%20di%20trecento%20posti%20di%20assistenti%20di%20ruolo%20destinati%20a%20concorsi%20riservati%20agli%20assistenti%20straordinari.md) e [29 novembre 1968, n. 1352](Ripartizione%20di%20trentadue%20posti%20di%20assistente%20di%20ruolo%20riservati%20per%20concorso%20agli%20assistenti%20straordinari%20per%20lanno%20accademico%201968-69.md), citati nelle premesse, sono recuperati dal contingente riservato agli assistenti straordinari: 
+ 
 
-  
-Il posto di assistente ordinario gia' assegnato alla cattedra di medicina legale e delle assicurazioni della facolta' di medicina e chirurgia dell'Universita' di Firenze con il [decreto del Presidente della Repubblica 10 febbraio 1971, n. 100](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1971-02-10;100), deve, invece, intendersi assegnato alla cattedra di istituzioni di diritto pubblico e legislazione scolastica della facolta' di magistero dell'Universita' di Roma.  
+ Numero
+ UNIVERSITA' DI MODENA dei posti
+ 
+Facolta' di medicina e chirurgia:
 
-Art. 6
-------
+cattedra di clinica pediatrica......... 1
 
-  
-Il posto di assistente ordinario gia' assegnato alla cattedra di politica economica e finanziaria della facolta' di economia e commercio dell'Universita' di Perugia con il [decreto del Presidente della Repubblica 14 giugno 1972, n. 324](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1972-06-14;324), deve, invece, intendersi assegnato alla cattedra di diritto amministrativo della facolta' di giurisprudenza della stessa Universita' di Perugia.  
+ UNIVERSITA' DI TORINO
+ 
+Facolta' di medicina e chirurgia:
 
-Art. 7
-------
+cattedra di igiene..................... 1
 
-  
-Il posto di assistente ordinario gia' assegnato alla cattedra di storia e critica delle dottrine economiche della facolta' di economia e commercio dell'Universita' di Roma con il [decreto del Presidente della Repubblica 14 giugno 1972, n. 324](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1972-06-14;324), deve, invece, intendersi assegnato alla cattedra di diritto amministrativo della facolta' di scienze politiche dell'Universita' di Napoli.  
 
-Art. 8
-------
+ 
+ 
+ I posti come sopra recuperati sono aggiunti al contingente dei posti di assistente ordinario non vincolati a concorsi riservati agli assistenti straordinari e vengono ripartiti come segue: 
+ 
 
-  
-Il posto di assistente ordinario gia' assegnato alla cattedra di clinica dermosifilopatica della facolta' di medicina e chirurgia dell'Universita' di Roma, con il [decreto del Presidente della Repubblica 14 giugno 1972, n. 324](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1972-06-14;324), deve, invece, intendersi assegnato alla cattedra di semeiotica medica della facolta' di medicina e chirurgia dell'Universita' di Messina.  
+ Numero
+ FACOLTA' DI MEDICINA E CHIRURGIA dei posti
+ 
+Universita' di Roma:
 
-Art. 9
-------
+cattedra di chirurgia del cuore e dei
+grossi vasi................................ 1
 
-  
-Il posto di assistente ordinario gia' assegnato alla cattedra di psicologia dell'eta' evolutiva della facolta' di medicina e chirurgia dell'Universita' di Roma con il [decreto del Presidente della Repubblica 14 giugno 1972, n. 324](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1972-06-14;324), deve, invece, intendersi assegnato alla cattedra di psicologia dell'eta' evolutiva della facolta' di lettere e filosofia della stessa Universita' di Roma.  
+Universita' di Torino:
 
-Art. 10
--------
+cattedra di clinica chirurgica generale
+e terapia chirurgica....................... 1
 
-  
-Il posto di assistente ordinario gia' assegnato alla cattedra di saggi e dosaggi farmacologici della facolta' di farmacia dell'Universita' di Pavia con il [decreto del Presidente della Repubblica 14 giugno 1972, n. 324](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1972-06-14;324), deve, invece, intendersi assegnato alla cattedra di tecnica bancaria e professionale I (per la scuola di perfezionamento in studi europei) della facolta' di economia e commercio dell'Universita' di Roma.  
+## Art. 4.
 
-Art. 11
--------
+Il posto di assistente ordinario gia' assegnato alla cattedra di agricoltura montana ed alpicoltura della facolta' di agraria dell'Universita' di Firenze con il [decreto del Presidente della Repubblica 10 febbraio 1971, n. 100](Ripartizione%20di%20settecentonovantuno%20posti%20di%20assistente%20ordinario%20non%20vincolati%20a%20concorsi%20riservati%20a%20disposizione%20per%20lanno%20accademico%201970-71.md), deve, invece, intendersi assegnato alla cattedra di alpicoltura I della stessa facolta' della medesima Universita' di Firenze.
 
-  
-Il posto di assistente ordinario gia' assegnato alla cattedra di storia moderna IV della facolta' di magistero dell'Universita' di Lecce, deve, invece, intendersi assegnato alla cattedra di storia IV della stessa facolta' della medesima Universita' di Lecce.  
-  
+## Art. 5.
+
+Il posto di assistente ordinario gia' assegnato alla cattedra di medicina legale e delle assicurazioni della facolta' di medicina e chirurgia dell'Universita' di Firenze con il [decreto del Presidente della Repubblica 10 febbraio 1971, n. 100](Ripartizione%20di%20settecentonovantuno%20posti%20di%20assistente%20ordinario%20non%20vincolati%20a%20concorsi%20riservati%20a%20disposizione%20per%20lanno%20accademico%201970-71.md), deve, invece, intendersi assegnato alla cattedra di istituzioni di diritto pubblico e legislazione scolastica della facolta' di magistero dell'Universita' di Roma.
+
+## Art. 6.
+
+Il posto di assistente ordinario gia' assegnato alla cattedra di politica economica e finanziaria della facolta' di economia e commercio dell'Universita' di Perugia con il [decreto del Presidente della Repubblica 14 giugno 1972, n. 324](Recupero%20e%20nuova%20assegnazione%20di%20un%20posto%20e%20ripartizione%20di%20novanta%20posti%20di%20assistente%20universitario%20ordinario.md), deve, invece, intendersi assegnato alla cattedra di diritto amministrativo della facolta' di giurisprudenza della stessa Universita' di Perugia.
+
+## Art. 7.
+
+Il posto di assistente ordinario gia' assegnato alla cattedra di storia e critica delle dottrine economiche della facolta' di economia e commercio dell'Universita' di Roma con il [decreto del Presidente della Repubblica 14 giugno 1972, n. 324](Recupero%20e%20nuova%20assegnazione%20di%20un%20posto%20e%20ripartizione%20di%20novanta%20posti%20di%20assistente%20universitario%20ordinario.md), deve, invece, intendersi assegnato alla cattedra di diritto amministrativo della facolta' di scienze politiche dell'Universita' di Napoli.
+
+## Art. 8.
+
+Il posto di assistente ordinario gia' assegnato alla cattedra di clinica dermosifilopatica della facolta' di medicina e chirurgia dell'Universita' di Roma, con il [decreto del Presidente della Repubblica 14 giugno 1972, n. 324](Recupero%20e%20nuova%20assegnazione%20di%20un%20posto%20e%20ripartizione%20di%20novanta%20posti%20di%20assistente%20universitario%20ordinario.md), deve, invece, intendersi assegnato alla cattedra di semeiotica medica della facolta' di medicina e chirurgia dell'Universita' di Messina.
+
+## Art. 9.
+
+Il posto di assistente ordinario gia' assegnato alla cattedra di psicologia dell'eta' evolutiva della facolta' di medicina e chirurgia dell'Universita' di Roma con il [decreto del Presidente della Repubblica 14 giugno 1972, n. 324](Recupero%20e%20nuova%20assegnazione%20di%20un%20posto%20e%20ripartizione%20di%20novanta%20posti%20di%20assistente%20universitario%20ordinario.md), deve, invece, intendersi assegnato alla cattedra di psicologia dell'eta' evolutiva della facolta' di lettere e filosofia della stessa Universita' di Roma.
+
+## Art. 10.
+
+Il posto di assistente ordinario gia' assegnato alla cattedra di saggi e dosaggi farmacologici della facolta' di farmacia dell'Universita' di Pavia con il [decreto del Presidente della Repubblica 14 giugno 1972, n. 324](Recupero%20e%20nuova%20assegnazione%20di%20un%20posto%20e%20ripartizione%20di%20novanta%20posti%20di%20assistente%20universitario%20ordinario.md), deve, invece, intendersi assegnato alla cattedra di tecnica bancaria e professionale I (per la scuola di perfezionamento in studi europei) della facolta' di economia e commercio dell'Universita' di Roma.
+
+## Art. 11.
+
+Il posto di assistente ordinario gia' assegnato alla cattedra di storia moderna IV della facolta' di magistero dell'Universita' di Lecce, deve, invece, intendersi assegnato alla cattedra di storia IV della stessa facolta' della medesima Universita' di Lecce.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 29 marzo 1973
+Dato a Roma, addi' 29 marzo 1973
 
-LEONE SCALFARO
-
-Visto, il Guardasigilli: GONELLA
-
-Registrato alla Corte dei conti, addi' 28 giugno 1973
-
-Atti di Governo, registro n. 258, foglio n. 138. - VALENTINI
+LEONE SCALFARO Visto, il Guardasigilli: GONELLA Registrato alla Corte dei conti, addi' 28 giugno 1973 Atti di Governo, registro n. 258, foglio n. 138. - VALENTINI

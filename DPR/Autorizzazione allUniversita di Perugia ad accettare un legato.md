@@ -1,19 +1,21 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 25 ottobre 1950 n. 1155
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 1155
+data: 1950-10-25
+titolo: "Autorizzazione all'Universita' di Perugia ad accettare un legato."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1950-10-25;1155
+codice_redazionale: 050U1155
+vigente: true
+---
 
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 25 ottobre 1950 n. 1155
-===============================================================
-
-Autorizzazione all'Universita' di Perugia ad accettare un legato.
------------------------------------------------------------------
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-1155. Decreto del Presidente della Repubblica 25 ottobre 1950, col quale, sulla proposta del Ministro per la pubblica istruzione, l'Universita' di Perugia, viene autorizzata ad accettare il legato di dollari 31.6.34.59 disposto in suo favore dalla signorina Emilia Kurtz, di East Orange, Contea di Essex, Stato di New Yersey U. S.  
-A., con testamento olografo in data 23 maggio 1940.  
-  
-Visto, il Guardasigilli: PICCIONI  
-Registrato alla Corte dei conti, addi' 3 febbraio 1951
+1155.
+
+Decreto del Presidente della Repubblica 25 ottobre 1950, col quale, sulla proposta del Ministro per la pubblica istruzione, l'Universita' di Perugia, viene autorizzata ad accettare il legato di dollari 31.6.34.59 disposto in suo favore dalla signorina Emilia Kurtz, di East Orange, Contea di Essex, Stato di New Yersey U. S.
+ A., con testamento olografo in data 23 maggio 1940.
+
+Visto, il Guardasigilli: PICCIONI
+ Registrato alla Corte dei conti, addi' 3 febbraio 1951

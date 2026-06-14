@@ -1,19 +1,21 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 gennaio 1984 n. 83
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 83
+data: 1984-01-31
+titolo: "Riconoscimento della personalita' giuridica della \"Congregazione delle suore dei poveri di S. Vincenzo de' Paoli\", in Palermo-Pallavicino."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1984-01-31;83
+codice_redazionale: 084U0083
+vigente: true
+---
 
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 gennaio 1984 n. 83
-=============================================================
-
-Riconoscimento della personalita' giuridica della "Congregazione delle suore dei poveri di S. Vincenzo de' Paoli", in Palermo-Pallavicino.
-------------------------------------------------------------------------------------------------------------------------------------------
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-83. Decreto del Presidente della Repubblica 31 gennaio 1984, col quale, sulla proposta del Ministro dell'interno, viene riconosciuta la personalita' giuridica della "Congregazione delle suore dei poveri di S. Vincenzo de' Paoli", in Palermo-Pallavicino.  
-  
-Visto, il Guardasigilli: MARTINAZZOLI  
-Registrato alla Corte dei conti, addi' 11 aprile 1984  
-Registro n. 14 Interno, foglio n. 132
+83.
+
+Decreto del Presidente della Repubblica 31 gennaio 1984, col quale, sulla proposta del Ministro dell'interno, viene riconosciuta la personalita' giuridica della "Congregazione delle suore dei poveri di S. Vincenzo de' Paoli", in Palermo-Pallavicino.
+
+Visto, il Guardasigilli: MARTINAZZOLI
+ Registrato alla Corte dei conti, addi' 11 aprile 1984
+ Registro n. 14 Interno, foglio n. 132

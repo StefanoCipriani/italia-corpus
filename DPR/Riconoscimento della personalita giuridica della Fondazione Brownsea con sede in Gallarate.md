@@ -1,19 +1,21 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 22 marzo 1965 n. 944
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 944
+data: 1965-03-22
+titolo: "Riconoscimento della personalita' giuridica della Fondazione \"Brownsea\", con sede in Gallarate."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1965-03-22;944
+codice_redazionale: 065U0944
+vigente: true
+---
 
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 22 marzo 1965 n. 944
-============================================================
-
-Riconoscimento della personalita' giuridica della Fondazione "Brownsea", con sede in Gallarate.
------------------------------------------------------------------------------------------------
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-944. Decreto del Presidente della Repubblica 22 marzo 1965, col quale, sulla proposta del Ministro per la pubblica istruzione, viene riconosciuta la personalita' giuridica della Fondazione "Brownsea", per la diffusione dello scautismo cattolico, con sede in Gallarate, e ne viene approvato lo statuto.  
-  
-Visto, il Guardasigilli: REALE  
-Registrato alla Corte dei conti, addi' 22 luglio 1965  
-Atti del Governo, registro n. 196, foglio n. 13. - VILLA
+944.
+
+Decreto del Presidente della Repubblica 22 marzo 1965, col quale, sulla proposta del Ministro per la pubblica istruzione, viene riconosciuta la personalita' giuridica della Fondazione "Brownsea", per la diffusione dello scautismo cattolico, con sede in Gallarate, e ne viene approvato lo statuto.
+
+Visto, il Guardasigilli: REALE
+ Registrato alla Corte dei conti, addi' 22 luglio 1965
+ Atti del Governo, registro n. 196, foglio n. 13. - VILLA

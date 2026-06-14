@@ -1,19 +1,21 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 22 settembre 1972 n. 898
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 898
+data: 1972-09-22
+titolo: "Erezione in ente morale della cassa scolastica della scuola inedia statale \"Edmondo De Amicis\", di Sanremo."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1972-09-22;898
+codice_redazionale: 072U0898
+vigente: true
+---
 
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 22 settembre 1972 n. 898
-================================================================
-
-Erezione in ente morale della cassa scolastica della scuola inedia statale "Edmondo De Amicis", di Sanremo.
------------------------------------------------------------------------------------------------------------
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-898. Decreto del Presidente della Repubblica 22 settembre 1972, col quale, sulla proposta del Ministro per la pubblica istruzione, la cassa scolastica della scuola media statale "Edmondo De Amicis" di Sanremo (Imperia) viene eretta in ente morale e ne viene approvato lo statuto.  
-  
-Visto, il Guardasigilli: GONELLA  
-Registrato alla Corte dei conti, addi' 8 gennaio 1973  
-Atti di Governo, registro n. 254, foglio n. 81. - VALENTINI
+898.
+
+Decreto del Presidente della Repubblica 22 settembre 1972, col quale, sulla proposta del Ministro per la pubblica istruzione, la cassa scolastica della scuola media statale "Edmondo De Amicis" di Sanremo (Imperia) viene eretta in ente morale e ne viene approvato lo statuto.
+
+Visto, il Guardasigilli: GONELLA
+ Registrato alla Corte dei conti, addi' 8 gennaio 1973
+ Atti di Governo, registro n. 254, foglio n. 81. - VALENTINI

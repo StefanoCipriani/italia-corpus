@@ -1,19 +1,21 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 19 febbraio 1979 n. 119
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 990
+data: 1978-12-21
+titolo: "Autorizzazione alla fondazione \"Pro juventute don Carlo Gnocchi\", in Roma, ad accettare un legato."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1978-12-21;990
+codice_redazionale: 078U0990
+vigente: true
+---
 
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 19 febbraio 1979 n. 119
-===============================================================
-
-Autorizzazione alla fondazione "Pro juventute don Carlo Gnocchi", in Roma, ad accettare un legato.
---------------------------------------------------------------------------------------------------
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-119. Decreto del Presidente della Repubblica 19 febbraio 1979, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la fondazione "Pro juventute don Carlo Gnocchi", in Roma, viene autorizzata ad accettare il legato disposto dalla sig.ra Zelmira Bianchi ved. Bottarelli a favore dell'istituto don Gnocchi per i mutilatini, che si identifica con la fondazione "Pro juventute don Carlo Gnocchi", con testamento pubblico del 18 giugno 1968 del notaio dott. Antonio Viglino e pubblicato dallo stesso notaio con verbale di registrazione di testamento pubblico del 31 ottobre 1968, n. 11476 di repertorio e n. 2383 di raccolta, registrato ad Arona il 18 novembre 1968, al n. 985, vol. 139, mod. 1, consistente nella somma di L. 500.000.  
-  
-Visto, il Guardasigilli: BONIFACIO  
-Registrato alla Corte dei conti, addi' 6 aprile 1979  
-Registro n. 3 Presidenza, foglio n. 60
+990.
+
+Decreto del Presidente della Repubblica 21 dicembre 1978, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la fondazione "Pro juventute don Carlo Gnocchi", in Roma, viene autorizzata ad accettare il legato disposto dalla sig.ra Zaffonato Maddalena, con testamento olografo 17 aprile 1963, pubblicato a rogito del dott. Giovanni Carraro, notaio in Schio in data 29 ottobre 1974, n. 4315 di repertorio e n. 12669 di raccolta, registrato a Schio l'11 novembre 1974 al n. 1702, volume 208/1, consistente nella somma di L. 2.000.000.
+
+Visto, il Guardasigilli: BONIFACIO
+ Registrato alla Corte dei conti, addi' 15 febbraio 1979
+ Registro n. 2 Presidenza, foglio n. 28

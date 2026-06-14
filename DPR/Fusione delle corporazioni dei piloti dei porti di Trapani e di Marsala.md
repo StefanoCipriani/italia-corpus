@@ -1,38 +1,30 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 26 aprile 1978 n. 285
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 285
+data: 1978-04-26
+titolo: "Fusione delle corporazioni dei piloti dei porti di Trapani e di Marsala."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1978-04-26;285
+codice_redazionale: 078U0285
+vigente: true
+---
 
+## Art. 1.
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 26 aprile 1978 n. 285
-=============================================================
+IL PRESIDENTE DELLA REPUBBLICA
 
-Fusione delle corporazioni dei piloti dei porti di Trapani e di Marsala.
-------------------------------------------------------------------------
+ Visto l'[art. 1 del regio decreto 29 aprile 1926, n. 778](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-04-29;778#art_1), che approva il regolamento generale per il servizio di pilotaggio nei porti dello Stato;
+ Vista la tabella A unita al prefatto regolamento che dichiara costituite, tra le altre, le corporazioni dei piloti dei porti di Trapani e Marsala;
+ Visto l'[art. 86 del codice della navigazione](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md), approvato con [regio decreto 30 marzo 1942, n. 327](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md);
+ Ritenuta la necessita' di unificare, per un migliore assetto del servizio, le suddette corporazioni;
+ Udito il parere del Consiglio di Stato;
+ Sulla proposta del Ministro della marina mercantile;
 
-Art. 1
-------
+ Decreta:
 
- IL PRESIDENTE DELLA REPUBBLICA  
-  
-Visto l'[art. 1 del regio decreto 29 aprile 1926, n. 778](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-04-29;778~art1), che approva il regolamento generale per il servizio di pilotaggio nei porti dello Stato;  
-Vista la tabella A unita al prefatto regolamento che dichiara costituite, tra le altre, le corporazioni dei piloti dei porti di Trapani e Marsala;  
-Visto l'[art. 86 del codice della navigazione](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-03-30;327~art86), approvato con [regio decreto 30 marzo 1942, n. 327](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-03-30;327);  
-Ritenuta la necessita' di unificare, per un migliore assetto del servizio, le suddette corporazioni;  
-Udito il parere del Consiglio di Stato;  
-Sulla proposta del Ministro della marina mercantile;  
-  
-Decreta:  
-  
-A modifica della tabella dei corpi dei piloti costituente allegato A al [regio decreto 29 aprile 1926, n. 778](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-04-29;778), sul regolamento generale per il servizio di pilotaggio nei porti dello Stato, la corporazione dei piloti del porto di Trapani e la corporazione dei piloti del porto di Marsala sono unificate nell'unica corporazione dei piloti dei porti di Trapani e Marsala, cui e' attribuita la prima categoria.  
-  
+ A modifica della tabella dei corpi dei piloti costituente allegato A al [regio decreto 29 aprile 1926, n. 778](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-04-29;778), sul regolamento generale per il servizio di pilotaggio nei porti dello Stato, la corporazione dei piloti del porto di Trapani e la corporazione dei piloti del porto di Marsala sono unificate nell'unica corporazione dei piloti dei porti di Trapani e Marsala, cui e' attribuita la prima categoria.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 26 aprile 1978
+Dato a Roma, addi' 26 aprile 1978
 
-LEONE COLOMBO
-
-Visto, il Guardasigilli: BONIFACIO
-
-Registrato alla Corte dei conti, addi' 8 giugno 1978
-
-Atti di Governo, registro n. 18, foglio n. 18
+LEONE COLOMBO Visto, il Guardasigilli: BONIFACIO Registrato alla Corte dei conti, addi' 8 giugno 1978 Atti di Governo, registro n. 18, foglio n. 18

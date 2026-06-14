@@ -1,19 +1,21 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 12 novembre 1958 n. 1197
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 1197
+data: 1958-11-12
+titolo: "Autorizzazione al Museo Storico dei Granatieri di Sardegna ad accettare un lascito."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1958-11-12;1197
+codice_redazionale: 058U1197
+vigente: true
+---
 
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 12 novembre 1958 n. 1197
-================================================================
-
-Autorizzazione al Museo Storico dei Granatieri di Sardegna ad accettare un lascito.
------------------------------------------------------------------------------------
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-1197. Decreto del Presidente della Repubblica 12 novembre 1958, col quale, sulla proposta del Ministro per la difesa, il Museo Storico dei Granatieri di Sardegna viene autorizzato ad accettare il lascito di L. 100.000, disposto dal colonnello dei granatieri Ugo Bianchi Ninni.  
-  
-Visto, il Guardasigilli: GONELLA  
-Registrato alla Corte dei conti, addi' 12 gennaio 1939  
-Atti del Governo, registro n. 116, foglio n. 11. - RELLEVA
+1197.
+
+Decreto del Presidente della Repubblica 12 novembre 1958, col quale, sulla proposta del Ministro per la difesa, il Museo Storico dei Granatieri di Sardegna viene autorizzato ad accettare il lascito di L. 100.000, disposto dal colonnello dei granatieri Ugo Bianchi Ninni.
+
+Visto, il Guardasigilli: GONELLA
+ Registrato alla Corte dei conti, addi' 12 gennaio 1939
+ Atti del Governo, registro n. 116, foglio n. 11. - RELLEVA

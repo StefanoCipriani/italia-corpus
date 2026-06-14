@@ -1,19 +1,21 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 26 marzo 1970 n. 347
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 347
+data: 1970-03-26
+titolo: "Erezione in ente morale dell'associazione \"Opera nomadi\", con sede in Roma."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1970-03-26;347
+codice_redazionale: 070U0347
+vigente: true
+---
 
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 26 marzo 1970 n. 347
-============================================================
-
-Erezione in ente morale dell'associazione "Opera nomadi", con sede in Roma.
----------------------------------------------------------------------------
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-347. Decreto del Presidente della Repubblica 26 marzo 1970, col quale, sulla proposta del Ministro per l'interno, l'associazione "Opera nomadi", con sede in Roma, viene eretta in ente morale e ne viene approvato lo statuto.  
-  
-Visto, il Guardasigilli: REALE  
-Registrato alla Corte dei conti, addi' 30 maggio 1970  
-Atti del Governo, registro n. 236, foglio n. 7. - CARUSO
+347.
+
+Decreto del Presidente della Repubblica 26 marzo 1970, col quale, sulla proposta del Ministro per l'interno, l'associazione "Opera nomadi", con sede in Roma, viene eretta in ente morale e ne viene approvato lo statuto.
+
+Visto, il Guardasigilli: REALE
+ Registrato alla Corte dei conti, addi' 30 maggio 1970
+ Atti del Governo, registro n. 236, foglio n. 7. - CARUSO

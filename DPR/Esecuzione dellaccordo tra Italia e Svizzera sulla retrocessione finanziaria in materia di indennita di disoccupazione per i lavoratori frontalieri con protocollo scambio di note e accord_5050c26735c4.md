@@ -1,49 +1,27 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 08 febbraio 1980 n. 90
-
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 08 febbraio 1980 n. 90
-==============================================================
-
-Esecuzione dell'accordo tra Italia e Svizzera sulla retrocessione finanziaria in materia di indennita' di disoccupazione per i lavoratori frontalieri, con protocollo, scambio di note e accordo amministrativo, firmati a Berna il 12 dicembre 1978.
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 90
+data: 1980-02-08
+titolo: "Esecuzione dell'accordo tra Italia e Svizzera sulla retrocessione finanziaria in materia di indennita' di disoccupazione per i lavoratori frontalieri, con protocollo, scambio di note e accordo amministrativo, firmati a Berna il 12 dicembre 1978."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1980-02-08;90
+codice_redazionale: 080U0090
+vigente: true
+---
 
 IL PRESIDENTE DELLA REPUBBLICA
-------------------------------
 
-Visto l'[art. 87 della Costituzione](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27~art87);
+Visto l'[art. 87 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87);
 
 Sentito il Consiglio dei Ministri;
 
-Sulla
------
+Sulla proposta del Ministro degli affari esteri di concerto con i Ministri delle finanze, del tesoro, del lavoro e della previdenza sociale; Decreta:
 
-proposta del Ministro degli affari esteri di concerto con i Ministri delle finanze, del tesoro, del lavoro e della previdenza sociale; Decreta:
+## Articolo unico
 
-Articolo unico
---------------
-
-  
-  
-Piena ed intera esecuzione e' data all'accordo tra Italia e Svizzera sulla retrocessione finanziaria in materia di indennita' di disoccupazione per i lavoratori frontalieri, con protocollo, scambio di note e accordo amministrativo, firmati a Berna il 12 dicembre 1978, a decorrere dalla loro entrata in vigore in conformita' dell'art. 16 dell'accordo e dell'art. 11 dell'accordo amministrativo.   
-  
+Piena ed intera esecuzione e' data all'accordo tra Italia e Svizzera sulla retrocessione finanziaria in materia di indennita' di disoccupazione per i lavoratori frontalieri, con protocollo, scambio di note e accordo amministrativo, firmati a Berna il 12 dicembre 1978, a decorrere dalla loro entrata in vigore in conformita' dell'art. 16 dell'accordo e dell'art. 11 dell'accordo amministrativo.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 8 febbraio 1980
+Dato a Roma, addi' 8 febbraio 1980
 
-PERTINI COSSIGA - RUFFINI - REVIGLIO - PANDOLFI - SCOTTI
-
-Visto, il Guardasigilli: MORLINO
-
-Registrato alla Corte dei conti, addi' 26 marzo 1980
-
-Atti di Governo, registro n. 26, foglio n. 24
-
-Accord
-
-ACCORD ENTRE L'ITALIE ET LA SUISSE SUR LA RETROCESSION FINANCIERE EN MATIERE D'ASSURANCE-CHOMAGE DES TRAVAILLEURS FRONTALIERS   
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=080U009000100010110001&dgu=1980-03-29&art.dataPubblicazioneGazzetta=1980-03-29&art.codiceRedazionale=080U0090)
-  
+PERTINI COSSIGA - RUFFINI - REVIGLIO - PANDOLFI - SCOTTI Visto, il Guardasigilli: MORLINO Registrato alla Corte dei conti, addi' 26 marzo 1980 Atti di Governo, registro n. 26, foglio n. 24

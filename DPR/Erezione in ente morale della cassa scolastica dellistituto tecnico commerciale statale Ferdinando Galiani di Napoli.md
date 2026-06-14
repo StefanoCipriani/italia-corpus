@@ -1,19 +1,21 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 maggio 1973 n. 417
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 417
+data: 1973-05-02
+titolo: "Erezione in ente morale della cassa scolastica dell'istituto tecnico commerciale statale \"Ferdinando Galiani\", di Napoli."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1973-05-02;417
+codice_redazionale: 073U0417
+vigente: true
+---
 
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 maggio 1973 n. 417
-=============================================================
-
-Erezione in ente morale della cassa scolastica dell'istituto tecnico commerciale statale "Ferdinando Galiani", di Napoli.
--------------------------------------------------------------------------------------------------------------------------
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-417. Decreto del Presidente della Repubblica 2 maggio 1973, col quale, sulla proposta del Ministro per la pubblica istruzione, la cassa scolastica dell'Istituto tecnico commerciale statale "Ferdinando Galiani", di Napoli, viene eretta in ente morale e ne viene approvato lo statuto.  
-  
-Visto, il Guardasigilli: GONELLA  
-Registrato alla Corte dei conti, addi' 12 luglio 1973  
-Atti di Governo, registro n. 259, foglio n. 4. - VALENTINI
+417.
+
+Decreto del Presidente della Repubblica 2 maggio 1973, col quale, sulla proposta del Ministro per la pubblica istruzione, la cassa scolastica dell'Istituto tecnico commerciale statale "Ferdinando Galiani", di Napoli, viene eretta in ente morale e ne viene approvato lo statuto.
+
+Visto, il Guardasigilli: GONELLA
+ Registrato alla Corte dei conti, addi' 12 luglio 1973
+ Atti di Governo, registro n. 259, foglio n. 4. - VALENTINI

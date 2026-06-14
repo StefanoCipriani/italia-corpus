@@ -1,16 +1,16 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 maggio 1968 n. 1059
-
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 maggio 1968 n. 1059
-==============================================================
-
-Classificazione in comprensorio di bonifica dei territori dei bassi bacini del Musone, del Potenza e del Chienti e dei bacini litoranei dell'Asola e del Pilocco.
------------------------------------------------------------------------------------------------------------------------------------------------------------------
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 1059
+data: 1968-05-28
+titolo: "Classificazione in comprensorio di bonifica dei territori dei bassi bacini del Musone, del Potenza e del Chienti e dei bacini litoranei dell'Asola e del Pilocco."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1968-05-28;1059
+codice_redazionale: 068U1059
+vigente: true
+---
 
 IL PRESIDENTE DELLA REPUBBLICA
-------------------------------
 
-Vista la domanda in data 2 agosto 1963, con la quale la Camera di commercio, industria e agricoltura ha chiesto la classifica in comprensorio di bonifica, ai sensi dell'[art. 3 del regio decreto 13 febbraio 1933, n. 215](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-02-13;215~art3), del territorio dei bassi bacini del Musone, del Potenza e del Chienti e dei bacini dell'Asola e del Pilocco dell'estensione complessiva di ha. 113.731, di cui ha. 94.500 in provincia di Macerata ed ha. 19.231 in provincia di Ancona;
+Vista la domanda in data 2 agosto 1963, con la quale la Camera di commercio, industria e agricoltura ha chiesto la classifica in comprensorio di bonifica, ai sensi dell'[art. 3 del regio decreto 13 febbraio 1933, n. 215](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-02-13;215#art_3), del territorio dei bassi bacini del Musone, del Potenza e del Chienti e dei bacini dell'Asola e del Pilocco dell'estensione complessiva di ha. 113.731, di cui ha. 94.500 in provincia di Macerata ed ha. 19.231 in provincia di Ancona;
 
 Visti sulla proposta:
 
@@ -24,35 +24,22 @@ il parere dell'ispettore generale di zona addetto presso il provveditorato regio
 
 il voto del Consiglio superiore dell'agricoltura in data 3 maggio 1967, n. 37;
 
-le note del [Ministero del tesoro n. 161695 in data 5 febbraio 1968](http://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.tesoro::1968-02-05;161695) e del [Ministero dei lavori pubblici n. 464 in data 28 marzo 1968](http://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.lavori.pubblici::1968-03-28;464);
+le note del [Ministero del tesoro n. 161695 in data 5 febbraio 1968](https://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.tesoro::1968-02-05;161695) e del [Ministero dei lavori pubblici n. 464 in data 28 marzo 1968](https://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.lavori.pubblici::1968-03-28;464);
 
 Ritenuto che ricorrono le condizioni per procedere alla richiesta classifica del suddetto territorio, il cui perimetro e' contraddistinto nell'allegata corografia in scala 1: 100.000, con linea continua gialla, affiancata da altra a linee e punti in nero;
 
 Sulla proposta del Ministro Segretario di Stato per l'agricoltura e le foreste, di concerto col Ministro per il tesoro e col Ministro per i lavori pubblici;
 
-Visto
------
+Visto l'art. 3 del regio decreto 13 febbraio 1933, n. 215; Decreta:
 
-l'art. 3 del regio decreto 13 febbraio 1933, n. 215; Decreta:
+## Art. 1.
 
-Art. 1
-------
+Il territorio dei bassi bacini del Musone, del Potenza e del Chienti e dei bacini litoranei dell'Asola e del Pilocco, dell'estensione complessiva di ha. 113.731, di cui ha. 94.500 in provincia di Macerata e ha. 19.231 in provincia di Ancona, e' classificato, ai sensi e per gli effetti del [regio decreto 13 febbraio 1933, n. 215](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-02-13;215), comprensorio di bonifica di seconda categoria, il cui perimetro e' distinto in linea continua gialla affiancata da altra a linee e punti in nero nella corografia in scala 1: 100.000, che, vistata dal Ministro proponente forma parte integrante del presente decreto.
 
-  
-Il territorio dei bassi bacini del Musone, del Potenza e del Chienti e dei bacini litoranei dell'Asola e del Pilocco, dell'estensione complessiva di ha. 113.731, di cui ha. 94.500 in provincia di Macerata e ha. 19.231 in provincia di Ancona, e' classificato, ai sensi e per gli effetti del [regio decreto 13 febbraio 1933, n. 215](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-02-13;215), comprensorio di bonifica di seconda categoria, il cui perimetro e' distinto in linea continua gialla affiancata da altra a linee e punti in nero nella corografia in scala 1: 100.000, che, vistata dal Ministro proponente forma parte integrante del presente decreto.  
-
-Art. 2
-------
+## Art. 2.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 28 maggio 1968
+Dato a Roma, addi' 28 maggio 1968
 
-RESTIVO - COLOMBO - MANCINI
-
-Visto, il Guardasigilli: GONELLA
-
-Registrato alla Corte dei conti, addi' 10 ottobre 1968
-
-Atti del Governo, registro n. 223, foglio n. 23. - GRECO
+RESTIVO - COLOMBO - MANCINI Visto, il Guardasigilli: GONELLA Registrato alla Corte dei conti, addi' 10 ottobre 1968 Atti del Governo, registro n. 223, foglio n. 23. - GRECO

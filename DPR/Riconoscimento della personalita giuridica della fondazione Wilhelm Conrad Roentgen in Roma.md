@@ -1,19 +1,21 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 09 aprile 1979 n. 270
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 270
+data: 1979-04-09
+titolo: "Riconoscimento della personalita' giuridica della fondazione \"Wilhelm Conrad Roentgen\", in Roma."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1979-04-09;270
+codice_redazionale: 079U0270
+vigente: true
+---
 
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 09 aprile 1979 n. 270
-=============================================================
-
-Riconoscimento della personalita' giuridica della fondazione "Wilhelm Conrad Roentgen", in Roma.
-------------------------------------------------------------------------------------------------
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-270. Decreto del Presidente della Repubblica 9 aprile 1979, col quale, sulla proposta del Ministro per i beni culturali e ambientali, viene riconosciuta la personalita' giuridica ed approvato lo statuto della fondazione "Wilhelm Conrad Roentgen", in Roma.  
-  
-Visto, il Guardasigilli: MORLINO  
-Registrato alla Corte dei conti, addi' 20 giugno 1979  
-Registro n. 10 Beni culturali, foglio n. 73
+270.
+
+Decreto del Presidente della Repubblica 9 aprile 1979, col quale, sulla proposta del Ministro per i beni culturali e ambientali, viene riconosciuta la personalita' giuridica ed approvato lo statuto della fondazione "Wilhelm Conrad Roentgen", in Roma.
+
+Visto, il Guardasigilli: MORLINO
+ Registrato alla Corte dei conti, addi' 20 giugno 1979
+ Registro n. 10 Beni culturali, foglio n. 73

@@ -1,142 +1,121 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 24 dicembre 1969 n. 1164
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 1164
+data: 1969-12-24
+titolo: "Norme sulla produzione e sul commercio dei materiali di moltiplicazione vegetativa della vite."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1969-12-24;1164
+codice_redazionale: 069U1164
+vigente: true
+---
 
+## Produzione e vendita dei materiali di moltiplicazione vegetativa della vite - Classificazione di detto materiale
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 24 dicembre 1969 n. 1164
-================================================================
+CAPO I
 
-Norme sulla produzione e sul commercio dei materiali di moltiplicazione vegetativa della vite.
-----------------------------------------------------------------------------------------------
+### Art. 1.
 
-CAPO I CAPO I Produzione e vendita dei materiali di moltiplicazione vegetativa della vite - Classificazione di detto materiale
-------------------------------------------------------------------------------------------------------------------------------
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 2 FEBBRAIO 2021, N. 16))
 
-### Art. 1
+### Art. 2.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 2 FEBBRAIO 2021, N. 16](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2021-02-02;16)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 2 FEBBRAIO 2021, N. 16))
 
-### Art. 2
+### Art. 3.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 2 FEBBRAIO 2021, N. 16](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2021-02-02;16)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 2 FEBBRAIO 2021, N. 16))
 
-### Art. 3
+## Obblighi inerenti alla produzione dei materiali di moltiplicazione
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 2 FEBBRAIO 2021, N. 16](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2021-02-02;16)))
+CAPO II
 
-CAPO II CAPO II Obblighi inerenti alla produzione dei materiali di moltiplicazione
-----------------------------------------------------------------------------------
+### Art. 4.
 
-### Art. 4
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 2 FEBBRAIO 2021, N. 16))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 2 FEBBRAIO 2021, N. 16](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2021-02-02;16)))
+### Art. 5.
 
-### Art. 5
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 2 FEBBRAIO 2021, N. 16))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 2 FEBBRAIO 2021, N. 16](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2021-02-02;16)))
+## Condizioni per l'immissione in commercio
 
-CAPO III CAPO III Condizioni per l'immissione in commercio
-----------------------------------------------------------
+CAPO III
 
-### Art. 6
+### Art. 6.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 2 FEBBRAIO 2021, N. 16](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2021-02-02;16)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 2 FEBBRAIO 2021, N. 16))
 
-### Art. 7
+### Art. 7.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 2 FEBBRAIO 2021, N. 16](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2021-02-02;16)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 2 FEBBRAIO 2021, N. 16))
 
-### Art. 8
+### Art. 8.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 2 FEBBRAIO 2021, N. 16](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2021-02-02;16)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 2 FEBBRAIO 2021, N. 16))
 
-### Art. 9
+### Art. 9.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 2 FEBBRAIO 2021, N. 16](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2021-02-02;16)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 2 FEBBRAIO 2021, N. 16))
 
-### Art. 10
+### Art. 10.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 2 FEBBRAIO 2021, N. 16](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2021-02-02;16)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 2 FEBBRAIO 2021, N. 16))
 
-CAPO IV CAPO IV Registro delle varieta'
----------------------------------------
+## Registro delle varieta'
 
-### Art. 11
+CAPO IV
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 2 FEBBRAIO 2021, N. 16](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2021-02-02;16)))
+### Art. 11.
 
-### Art. 12
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 2 FEBBRAIO 2021, N. 16))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 2 FEBBRAIO 2021, N. 16](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2021-02-02;16)))
+### Art. 12.
 
-### Art. 13
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 2 FEBBRAIO 2021, N. 16))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 2 FEBBRAIO 2021, N. 16](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2021-02-02;16)))
+### Art. 13.
 
-### Art. 14
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 2 FEBBRAIO 2021, N. 16))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 2 FEBBRAIO 2021, N. 16](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2021-02-02;16)))
+### Art. 14.
 
-### Art. 15
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 2 FEBBRAIO 2021, N. 16))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 2 FEBBRAIO 2021, N. 16](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2021-02-02;16)))
+### Art. 15.
 
-CAPO V CAPO V Vigilanza e sanzioni
-----------------------------------
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 2 FEBBRAIO 2021, N. 16))
 
-### Art. 16
+## Vigilanza e sanzioni
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 2 FEBBRAIO 2021, N. 16](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2021-02-02;16)))
+CAPO V
 
-### Art. 17
+### Art. 16.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 2 FEBBRAIO 2021, N. 16](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2021-02-02;16)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 2 FEBBRAIO 2021, N. 16))
 
-### Art. 18
+### Art. 17.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 2 FEBBRAIO 2021, N. 16](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2021-02-02;16)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 2 FEBBRAIO 2021, N. 16))
 
-### Art. 19
+### Art. 18.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 2 FEBBRAIO 2021, N. 16](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2021-02-02;16)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 2 FEBBRAIO 2021, N. 16))
 
-### Art. 20
+### Art. 19.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 2 FEBBRAIO 2021, N. 16](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2021-02-02;16)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 2 FEBBRAIO 2021, N. 16))
 
-CAPO VI CAPO VI Disposizioni finali
------------------------------------
+### Art. 20.
 
-### Art. 21
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 2 FEBBRAIO 2021, N. 16))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 2 FEBBRAIO 2021, N. 16](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2021-02-02;16)))
+## Disposizioni finali
 
-### Art. 22
+CAPO VI
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 2 FEBBRAIO 2021, N. 16](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2021-02-02;16)))
+### Art. 21.
 
-Allegato I
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 2 FEBBRAIO 2021, N. 16))
 
- Allegato I   
-  
+### Art. 22.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 2 FEBBRAIO 2021, N. 16](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2021-02-02;16)))
-
-Allegato II
-
- Allegato II   
-  
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 2 FEBBRAIO 2021, N. 16](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2021-02-02;16)))
-
-Allegato III
-
- Allegato III   
-  
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 2 FEBBRAIO 2021, N. 16](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2021-02-02;16)))
-
-Allegato IV
-
- Allegato IV   
-  
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 2 FEBBRAIO 2021, N. 16](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2021-02-02;16)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 2 FEBBRAIO 2021, N. 16))

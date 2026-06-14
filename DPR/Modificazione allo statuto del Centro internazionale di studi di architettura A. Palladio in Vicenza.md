@@ -1,19 +1,21 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 07 marzo 1985 n. 357
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 357
+data: 1985-03-07
+titolo: "Modificazione allo statuto del Centro internazionale di studi di architettura \"A. Palladio\", in Vicenza."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1985-03-07;357
+codice_redazionale: 085U0357
+vigente: true
+---
 
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 07 marzo 1985 n. 357
-============================================================
-
-Modificazione allo statuto del Centro internazionale di studi di architettura "A. Palladio", in Vicenza.
---------------------------------------------------------------------------------------------------------
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-357. Decreto del Presidente della Repubblica 7 marzo 1985, col quale, sulla proposta del Ministro per i beni culturali e ambientali di concerto con il Ministro del tesoro, viene approvata la modificazione all'art. 11 dello statuto del Centro internazionale di studi di architettura "A. Palladio", in Vicenza, approvato con [decreto del Presidente della Repubblica 11 settembre 1975, n. 921](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1975-09-11;921).  
-  
-Visto, il Guardasigilli: MARTINAZZOLI  
-Registrato alla Corte dei conti, addi' 5 luglio 1985  
-Registro n. 20 Beni culturali, foglio n. 233
+357.
+
+Decreto del Presidente della Repubblica 7 marzo 1985, col quale, sulla proposta del Ministro per i beni culturali e ambientali di concerto con il Ministro del tesoro, viene approvata la modificazione all'art. 11 dello statuto del Centro internazionale di studi di architettura "A. Palladio", in Vicenza, approvato con [decreto del Presidente della Repubblica 11 settembre 1975, n. 921](Approvazione%20dello%20statuto%20del%20Centro%20internazionale%20di%20studi%20di%20architettura%20Andrea%20Palladio%20in%20Vicenza.md).
+
+Visto, il Guardasigilli: MARTINAZZOLI
+ Registrato alla Corte dei conti, addi' 5 luglio 1985
+ Registro n. 20 Beni culturali, foglio n. 233

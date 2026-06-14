@@ -1,19 +1,21 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 01 maggio 1956 n. 624
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 624
+data: 1956-05-01
+titolo: "Riconoscimento della personalita' giuridica al Comitato \"Tempio mausoleo nazionale per i caduti sul lavoro\", con sede in Le Marmore (Terni)."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1956-05-01;624
+codice_redazionale: 056U0624
+vigente: true
+---
 
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 01 maggio 1956 n. 624
-=============================================================
-
-Riconoscimento della personalita' giuridica al Comitato "Tempio mausoleo nazionale per i caduti sul lavoro", con sede in Le Marmore (Terni).
---------------------------------------------------------------------------------------------------------------------------------------------
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-624. Decreto del Presidente della Repubblica 1 maggio 1956, col quale, sulla proposta del Ministro per il lavoro e la previdenza sociale al Comitato "Tempio mausoleo nazionale per i caduti sul lavoro", con sede in Le Marmore (Terni) viene riconosciuta la personalita' giuridica e ne viene approvato lo statuto.  
-  
-Visto, il Guardasigilli: MORO  
-Registrato alla Corte dei conti, addi' 30 giugno 1956  
-Atti del Governo, registro n. 98, foglio n. 86 - E. GRECO
+624.
+
+Decreto del Presidente della Repubblica 1 maggio 1956, col quale, sulla proposta del Ministro per il lavoro e la previdenza sociale al Comitato "Tempio mausoleo nazionale per i caduti sul lavoro", con sede in Le Marmore (Terni) viene riconosciuta la personalita' giuridica e ne viene approvato lo statuto.
+
+Visto, il Guardasigilli: MORO
+ Registrato alla Corte dei conti, addi' 30 giugno 1956
+ Atti del Governo, registro n. 98, foglio n. 86 - E. GRECO

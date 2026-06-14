@@ -1,19 +1,21 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 14 aprile 1956 n. 477
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 477
+data: 1956-04-14
+titolo: "Riconoscimento della personalita' giuridica della Chiesa di Loreto, in Torremaggiore (Foggia)."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1956-04-14;477
+codice_redazionale: 056U0477
+vigente: true
+---
 
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 14 aprile 1956 n. 477
-=============================================================
-
-Riconoscimento della personalita' giuridica della Chiesa di Loreto, in Torremaggiore (Foggia).
-----------------------------------------------------------------------------------------------
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-477. Decreto del Presidente della Repubblica 14 aprile 1956, col quale, sulla proposta del Ministro per l'interno, viene riconosciuta la, personalita' giuridica della Chiesa di Loreto, in Torremaggiore (Foggia).  
-  
-Visto, il Guardasigilli: MORO  
-Registrato alla Corte dei conti, addi' 1 giugno 1956  
-Atti del Governo, registro n. 98, foglio n. 6. - CARLOMAGNO
+477.
+
+Decreto del Presidente della Repubblica 14 aprile 1956, col quale, sulla proposta del Ministro per l'interno, viene riconosciuta la, personalita' giuridica della Chiesa di Loreto, in Torremaggiore (Foggia).
+
+Visto, il Guardasigilli: MORO
+ Registrato alla Corte dei conti, addi' 1 giugno 1956
+ Atti del Governo, registro n. 98, foglio n. 6. - CARLOMAGNO

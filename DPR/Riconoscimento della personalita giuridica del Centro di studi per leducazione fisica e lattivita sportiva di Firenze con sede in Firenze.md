@@ -1,19 +1,21 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 febbraio 1962 n. 107
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 107
+data: 1962-02-02
+titolo: "Riconoscimento della personalita' giuridica del Centro di studi per l'educazione fisica e l'attivita' sportiva di Firenze, con sede in Firenze."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1962-02-02;107
+codice_redazionale: 062U0107
+vigente: true
+---
 
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 febbraio 1962 n. 107
-===============================================================
-
-Riconoscimento della personalita' giuridica del Centro di studi per l'educazione fisica e l'attivita' sportiva di Firenze, con sede in Firenze.
------------------------------------------------------------------------------------------------------------------------------------------------
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-107. Decreto del Presidente della Repubblica 2 febbraio 1962, col quale, sulla proposta del Ministro per la pubblica istruzione, viene riconosciuta la personalita' giuridica del Centro di studi per l'educazione fisica e l'attivita' sportiva di Firenze, con sede in Firenze.  
-  
-Visto, il Guardasigilli: GONELLA  
-Registrato alla Corte dei conti, addi' 23 marzo 1962  
-Atti del Governo, registro n. 144, foglio n. 90. - VILLA
+107.
+
+Decreto del Presidente della Repubblica 2 febbraio 1962, col quale, sulla proposta del Ministro per la pubblica istruzione, viene riconosciuta la personalita' giuridica del Centro di studi per l'educazione fisica e l'attivita' sportiva di Firenze, con sede in Firenze.
+
+Visto, il Guardasigilli: GONELLA
+ Registrato alla Corte dei conti, addi' 23 marzo 1962
+ Atti del Governo, registro n. 144, foglio n. 90. - VILLA

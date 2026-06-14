@@ -1,18 +1,18 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 22 febbraio 1967 n. 838
-
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 22 febbraio 1967 n. 838
-===============================================================
-
-Classificazione in comprensorio di bonifica di 2a categoria di una zona del Consorzio di irrigazione Brenta.
-------------------------------------------------------------------------------------------------------------
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 838
+data: 1967-02-22
+titolo: "Classificazione in comprensorio di bonifica di 2a categoria di una zona del Consorzio di irrigazione Brenta."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1967-02-22;838
+codice_redazionale: 067U0838
+vigente: true
+---
 
 IL PRESIDENTE DELLA REPUBBLICA
-------------------------------
 
-Visto il decreto reale 12 gennaio 1933, registrato dalla [Corte dei conti il 16 febbraio 1933](https://e-justice.europa.eu/ecli/ECLI::::) al registro n. 4, foglio n. 129, con il quale il Consorzio di irrigazione Brenta, con sede in Cittadella, e' stato riconosciuto ai sensi del [regio decreto 13 agosto 1926, n. 1907](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-08-13;1907);
+Visto il decreto reale 12 gennaio 1933, registrato dalla Corte dei conti il 16 febbraio 1933 al registro n. 4, foglio n. 129, con il quale il Consorzio di irrigazione Brenta, con sede in Cittadella, e' stato riconosciuto ai sensi del [regio decreto 13 agosto 1926, n. 1907](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disposizioni%20per%20i%20consorzi%20e%20le%20opere%20di%20irrigazione%20nellItalia%20settentrionale%20e%20centrale.%20026U1907.md);
 
-Vista la domanda 14 novembre 1959, con la quale il presidente del predetto Consorzio ha chiesto la classifica del territorio dell'Ente, della superficie complessiva di ha. 53.755.49.02, fra quelli di bonifica di 2a categoria ai sensi e per gli effetti del [regio decreto 13 febbraio 1933, n. 215](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-02-13;215);
+Vista la domanda 14 novembre 1959, con la quale il presidente del predetto Consorzio ha chiesto la classifica del territorio dell'Ente, della superficie complessiva di ha. 53.755.49.02, fra quelli di bonifica di 2a categoria ai sensi e per gli effetti del [regio decreto 13 febbraio 1933, n. 215](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-02-13;215);
 
 Vista la corografia in scala 1: 250.000 dalla quale risulta indicata in tinta ocra la zona, della superficie di ha. 44.596, non classificata in bonifica e in tinta ocra tratteggiata in verde la zona, di ha. 13.444, gia' classificata di bonifica;
 
@@ -32,37 +32,22 @@ Viste le note di assenso 3 maggio 1962, n. 100264, 17 gennaio 1963, n. 146536 e 
 
 Vista la nota di assenso 29 dicembre 1966, n. 1528 del Ministero dei lavori pubblici;
 
-Ritenuto che la sopracitata opposizione puo' essere accolta per quanto concerne l'esclusione del territorio gia' classificato e ricadente nel comprensorio del Consorzio di bonifica Bacchiglione Brentella, riconosciuto di bonifica con decreto presidenziale 19 gennaio 1956, registrato dalla [Corte dei conti il 14 marzo 1956](https://e-justice.europa.eu/ecli/ECLI::::) al registro n. 7, foglio n. 179, mentre risulta intempestiva e non pertinente nei riguardi dei compiti e delle attribuzioni tecniche ed amministrative da affidare agli Enti e Consorzi operanti su tutto il territorio da classificare, in quanto; in questa sede, si deve procedere alla classifica in bonifica di un territorio ove si rendono urgenti ed indispensabili onerose opere pubbliche di bonifica ed interventi i quali tutti troveranno la loro precisa definizione ed il loro inquadramento tecnico e finanziario nelle successive fasi di attivita' dell'Ente o degli Enti che saranno investiti delle relative funzioni; che, pertanto, ad avvenuta classifica gli Enti e Consorzi dovranno ad evitare anche sovrapposizioni territoriali e duplicazioni di interventi, formulare concrete proposte circa le sfere di competenza territoriale, i compiti e le attribuzioni tecnico-amministrative da svolgere sul territorio oggetto di classifica;
+Ritenuto che la sopracitata opposizione puo' essere accolta per quanto concerne l'esclusione del territorio gia' classificato e ricadente nel comprensorio del Consorzio di bonifica Bacchiglione Brentella, riconosciuto di bonifica con decreto presidenziale 19 gennaio 1956, registrato dalla Corte dei conti il 14 marzo 1956 al registro n. 7, foglio n. 179, mentre risulta intempestiva e non pertinente nei riguardi dei compiti e delle attribuzioni tecniche ed amministrative da affidare agli Enti e Consorzi operanti su tutto il territorio da classificare, in quanto; in questa sede, si deve procedere alla classifica in bonifica di un territorio ove si rendono urgenti ed indispensabili onerose opere pubbliche di bonifica ed interventi i quali tutti troveranno la loro precisa definizione ed il loro inquadramento tecnico e finanziario nelle successive fasi di attivita' dell'Ente o degli Enti che saranno investiti delle relative funzioni; che, pertanto, ad avvenuta classifica gli Enti e Consorzi dovranno ad evitare anche sovrapposizioni territoriali e duplicazioni di interventi, formulare concrete proposte circa le sfere di competenza territoriale, i compiti e le attribuzioni tecnico-amministrative da svolgere sul territorio oggetto di classifica;
 
-Visto l'[art. 3 del regio decreto 13 febbraio 1933, numero 215](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-02-13;215~art3);
+Visto l'[art. 3 del regio decreto 13 febbraio 1933, numero 215](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-02-13;215#art_3);
 
-Sulla
------
+Sulla proposta del Ministro per l'agricoltura e per le foreste di concerto con i Ministri per il tesoro e per i lavori pubblici; Decreta:
 
-proposta del Ministro per l'agricoltura e per le foreste di concerto con i Ministri per il tesoro e per i lavori pubblici; Decreta:
+## Art. 1.
 
-Art. 1
-------
+Per i motivi indicati nelle premesse l'opposizione 24 ottobre 1960 presentata dal Consorzio di bonifica Bacchiglione Brentella e dal Consorzio di miglioramento fondiario Brenta Superiore a destra viene accolta per quanto attiene alla esclusione dalla presente classifica della zona gia' classificata di bonifica e ricadente nel comprensorio del Consorzio di bonifica Bacchiglione Brentella.
 
-  
-Per i motivi indicati nelle premesse l'opposizione 24 ottobre 1960 presentata dal Consorzio di bonifica Bacchiglione Brentella e dal Consorzio di miglioramento fondiario Brenta Superiore a destra viene accolta per quanto attiene alla esclusione dalla presente classifica della zona gia' classificata di bonifica e ricadente nel comprensorio del Consorzio di bonifica Bacchiglione Brentella.  
+## Art. 2.
 
-Art. 2
-------
-
-  
-Ai sensi dell'[art. 3 del regio decreto 13 febbraio 1933, n. 215](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-02-13;215~art3) e' classificato in comprensorio di bonifica di 2a categoria il territorio della superficie di ha. 44.596 quale risulta indicato in tinta ocra nella corografia in data 14 novembre 1959, in scala 1: 250.000, che munita del visto del Ministro proponente forma parte integrante del presente decreto.  
-  
+Ai sensi dell'[art. 3 del regio decreto 13 febbraio 1933, n. 215](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-02-13;215#art_3) e' classificato in comprensorio di bonifica di 2a categoria il territorio della superficie di ha. 44.596 quale risulta indicato in tinta ocra nella corografia in data 14 novembre 1959, in scala 1: 250.000, che munita del visto del Ministro proponente forma parte integrante del presente decreto.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 22 febbraio 1967
+Dato a Roma, addi' 22 febbraio 1967
 
-SARAGAT RESTIVO - COLOMBO - MANCINI
-
-Visto, il Guardasigilli: REALE
-
-Registrato alla Corte dei conti, addi' 25 settembre 1967
-
-Atti del Governo, registro n. 214, foglio n. 2. - GRECO
+SARAGAT RESTIVO - COLOMBO - MANCINI Visto, il Guardasigilli: REALE Registrato alla Corte dei conti, addi' 25 settembre 1967 Atti del Governo, registro n. 214, foglio n. 2. - GRECO

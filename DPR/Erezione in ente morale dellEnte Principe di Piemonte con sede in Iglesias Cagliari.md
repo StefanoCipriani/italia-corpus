@@ -1,19 +1,21 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 24 maggio 1963 n. 881
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 881
+data: 1963-05-24
+titolo: "Erezione in ente morale dell'Ente \"Principe di Piemonte\", con sede in Iglesias (Cagliari)."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1963-05-24;881
+codice_redazionale: 063U0881
+vigente: true
+---
 
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 24 maggio 1963 n. 881
-=============================================================
-
-Erezione in ente morale dell'Ente "Principe di Piemonte", con sede in Iglesias (Cagliari).
-------------------------------------------------------------------------------------------
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-881. Decreto del Presidente della Repubblica 24 maggio 1963, col quale, sulla proposta del Ministro per l'interno, l'Ente "Principe di Piemonte", con sede in Iglesias (Cagliari), viene eretto in ente morale e ne viene approvato lo statuto.  
-  
-Visto, il Guardasigilli: BOSCO  
-Registrato alla Corte dei conti, addi' 24 giugno 1963  
-Atti del Governo, registro n. 171, foglio n. 31. - VILLA
+881.
+
+Decreto del Presidente della Repubblica 24 maggio 1963, col quale, sulla proposta del Ministro per l'interno, l'Ente "Principe di Piemonte", con sede in Iglesias (Cagliari), viene eretto in ente morale e ne viene approvato lo statuto.
+
+Visto, il Guardasigilli: BOSCO
+ Registrato alla Corte dei conti, addi' 24 giugno 1963
+ Atti del Governo, registro n. 171, foglio n. 31. - VILLA

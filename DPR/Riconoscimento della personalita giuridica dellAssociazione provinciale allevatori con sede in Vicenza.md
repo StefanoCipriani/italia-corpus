@@ -1,19 +1,21 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 14 ottobre 1958 n. 1178
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 1178
+data: 1958-10-14
+titolo: "Riconoscimento della personalita' giuridica dell'Associazione provinciale allevatori, con sede in Vicenza."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1958-10-14;1178
+codice_redazionale: 058U1178
+vigente: true
+---
 
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 14 ottobre 1958 n. 1178
-===============================================================
-
-Riconoscimento della personalita' giuridica dell'Associazione provinciale allevatori, con sede in Vicenza.
-----------------------------------------------------------------------------------------------------------
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-1178. Decreto del Presidente della Repubblica 14 ottobre 1958, col quale, sulla proposta del Ministro per l'agricoltura e per le foreste, viene riconosciuta la personalita' giuridica dell'Associazione provinciale allevatori, con sede in Vicenza, e ne viene approvato lo statuto.  
-  
-Visto, il Guardasigilli: GONELLA  
-Registrato alla Corte dei conti, addi' 31 dicembre 1958  
-Atti del Governo, registro n. 115, foglio n. 161. - RELLEVA
+1178.
+
+Decreto del Presidente della Repubblica 14 ottobre 1958, col quale, sulla proposta del Ministro per l'agricoltura e per le foreste, viene riconosciuta la personalita' giuridica dell'Associazione provinciale allevatori, con sede in Vicenza, e ne viene approvato lo statuto.
+
+Visto, il Guardasigilli: GONELLA
+ Registrato alla Corte dei conti, addi' 31 dicembre 1958
+ Atti del Governo, registro n. 115, foglio n. 161. - RELLEVA

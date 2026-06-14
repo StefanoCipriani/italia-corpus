@@ -1,18 +1,20 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 18 luglio 1949 n. 1190
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 1190
+data: 1949-07-18
+titolo: "Erezione in ente morale della Fondazione \"Giuseppe Dovara\", istituita presso il Liceo scientifico \"Gaspare Aselli\" di Cremona."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1949-07-18;1190
+codice_redazionale: 049U1190
+vigente: true
+---
 
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 18 luglio 1949 n. 1190
-==============================================================
-
-Erezione in ente morale della Fondazione "Giuseppe Dovara", istituita presso il Liceo scientifico "Gaspare Aselli" di Cremona.
-------------------------------------------------------------------------------------------------------------------------------
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-1190. Decreto del Presidente della Repubblica 18 luglio 1949, col quale, sulla proposta del Ministro per la pubblica istruzione, la Fondazione "Giuseppe Dovara", istituita presso il Liceo scientifico "Gaspare Aselli" di Cremona viene eretta in ente morale e ne viene approvato il relativo statuto.  
-  
-Visto, il Guardasigilli: GRASSI  
-Registrato alla Corte dei conti, addi' 26 giugno 1950
+1190.
+
+Decreto del Presidente della Repubblica 18 luglio 1949, col quale, sulla proposta del Ministro per la pubblica istruzione, la Fondazione "Giuseppe Dovara", istituita presso il Liceo scientifico "Gaspare Aselli" di Cremona viene eretta in ente morale e ne viene approvato il relativo statuto.
+
+Visto, il Guardasigilli: GRASSI
+ Registrato alla Corte dei conti, addi' 26 giugno 1950

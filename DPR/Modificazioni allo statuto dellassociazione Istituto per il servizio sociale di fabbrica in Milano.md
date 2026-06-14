@@ -1,19 +1,21 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 dicembre 1985 n. 1120
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 1120
+data: 1985-12-31
+titolo: "Modificazioni allo statuto dell'associazione Istituto per il servizio sociale di fabbrica, in Milano."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1985-12-31;1120
+codice_redazionale: 085U1120
+vigente: true
+---
 
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 dicembre 1985 n. 1120
-================================================================
-
-Modificazioni allo statuto dell'associazione Istituto per il servizio sociale di fabbrica, in Milano.
------------------------------------------------------------------------------------------------------
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-1120. Decreto del Presidente della Repubblica 31 dicembre 1985, col quale, sulla proposta del Ministro del lavoro e della previdenza sociale, vengono approvate le modificazioni agli articoli 1, 2, 3 e 12 dello statuto dell'associazione Istituto per il servizio sociale di fabbrica, in Milano, approvato con [decreto del Presidente della Repubblica 20 luglio 1979, n. 604](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1979-07-20;604).   
-  
-Visto, il Guardasigilli: MARTINAZZOLI   
-Registrato alla Corte dei conti, addi' 21 giugno 1986   
-Registro n. 1 Lavoro, foglio n. 245
+1120.
+
+Decreto del Presidente della Repubblica 31 dicembre 1985, col quale, sulla proposta del Ministro del lavoro e della previdenza sociale, vengono approvate le modificazioni agli articoli 1, 2, 3 e 12 dello statuto dell'associazione Istituto per il servizio sociale di fabbrica, in Milano, approvato con [decreto del Presidente della Repubblica 20 luglio 1979, n. 604](Riconoscimento%20della%20personalita%20giuridica%20dellassociazione%20Istituto%20per%20il%20servizio%20sociale%20di%20fabbrica%20in%20Milano.md). 
+ 
+Visto, il Guardasigilli: MARTINAZZOLI 
+ Registrato alla Corte dei conti, addi' 21 giugno 1986 
+ Registro n. 1 Lavoro, foglio n. 245

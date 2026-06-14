@@ -1,19 +1,21 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 14 settembre 1984 n. 959
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 959
+data: 1984-09-14
+titolo: "Riconoscimento della personalita' giuridica della chiesa parrocchiale \"S. Michele arcangelo\", in Altamura."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1984-09-14;959
+codice_redazionale: 084U0959
+vigente: true
+---
 
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 14 settembre 1984 n. 959
-================================================================
-
-Riconoscimento della personalita' giuridica della chiesa parrocchiale "S. Michele arcangelo", in Altamura.
-----------------------------------------------------------------------------------------------------------
-
-Art. 1
-------
+## Art. 1.
 
 n.
 
-959. Decreto del Presidente della Repubblica 14 settembre 1984, col quale, sulla proposta del Ministro dell'interno, viene riconosciuta la personalita' giuridica della chiesa parrocchiale "S. Michele arcangelo", in Altamura (Bari).  
-  
-Visto, il Guardasigilli: MARTINAZZOLI  
-Registrato alla Corte dei conti, addi' 18 gennaio 1985  
-Registro n. 3 Interno, foglio n. 170
+959.
+
+Decreto del Presidente della Repubblica 14 settembre 1984, col quale, sulla proposta del Ministro dell'interno, viene riconosciuta la personalita' giuridica della chiesa parrocchiale "S. Michele arcangelo", in Altamura (Bari).
+
+Visto, il Guardasigilli: MARTINAZZOLI
+ Registrato alla Corte dei conti, addi' 18 gennaio 1985
+ Registro n. 3 Interno, foglio n. 170

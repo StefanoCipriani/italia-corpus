@@ -1,19 +1,21 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 22 gennaio 1957 n. 832
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 832
+data: 1957-01-22
+titolo: "Erezione in ente morale della Cassa scolastica del Liceo scientifico statale \"G. Galilei\" di Siena."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1957-01-22;832
+codice_redazionale: 057U0832
+vigente: true
+---
 
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 22 gennaio 1957 n. 832
-==============================================================
-
-Erezione in ente morale della Cassa scolastica del Liceo scientifico statale "G. Galilei" di Siena.
----------------------------------------------------------------------------------------------------
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-832. Decreto del Presidente della Repubblica 22 gennaio 1957, col quale, sulla proposta del Ministro per la pubblica istruzione, la Cassa scolastica del Liceo scientifico statale "G. Galilei" di Siena viene eretta in ente morale e ne viene approvato lo statuto.   
-  
-Visto, il Guardasigilli: MORO   
-Registrato alla Corte dei conti, addi' 18 settembre 1957   
-Atti del Governo, registro n. 107, foglio n. 137. - RELLEVA
+832.
+
+Decreto del Presidente della Repubblica 22 gennaio 1957, col quale, sulla proposta del Ministro per la pubblica istruzione, la Cassa scolastica del Liceo scientifico statale "G. Galilei" di Siena viene eretta in ente morale e ne viene approvato lo statuto. 
+ 
+Visto, il Guardasigilli: MORO 
+ Registrato alla Corte dei conti, addi' 18 settembre 1957 
+ Atti del Governo, registro n. 107, foglio n. 137. - RELLEVA

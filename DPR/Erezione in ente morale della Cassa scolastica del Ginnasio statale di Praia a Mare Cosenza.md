@@ -1,19 +1,21 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 novembre 1961 n. 1604
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 1604
+data: 1961-11-30
+titolo: "Erezione in ente morale della Cassa scolastica del Ginnasio statale di Praia a Mare (Cosenza)."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1961-11-30;1604
+codice_redazionale: 061U1604
+vigente: true
+---
 
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 novembre 1961 n. 1604
-================================================================
-
-Erezione in ente morale della Cassa scolastica del Ginnasio statale di Praia a Mare (Cosenza).
-----------------------------------------------------------------------------------------------
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-1604. Decreto del Presidente della Repubblica 30 novembre 1961, col quale, sulla proposta del Ministro per la pubblica istruzione, la Cassa scolastica del Ginnasio statale di Praia a Mare (Cosenza), viene eretta in ente morale e ne viene approvato lo statuto.  
-  
-Visto, il Guardasigilli: GONELLA  
-Registrato alla Corte dei conti, addi' 24 febbraio 1962  
-Atti del Governo, registro n. 144, foglio n. 12. - VILLA
+1604.
+
+Decreto del Presidente della Repubblica 30 novembre 1961, col quale, sulla proposta del Ministro per la pubblica istruzione, la Cassa scolastica del Ginnasio statale di Praia a Mare (Cosenza), viene eretta in ente morale e ne viene approvato lo statuto.
+
+Visto, il Guardasigilli: GONELLA
+ Registrato alla Corte dei conti, addi' 24 febbraio 1962
+ Atti del Governo, registro n. 144, foglio n. 12. - VILLA

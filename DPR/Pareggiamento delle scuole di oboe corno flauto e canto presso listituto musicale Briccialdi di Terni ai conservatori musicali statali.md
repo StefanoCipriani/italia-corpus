@@ -1,19 +1,21 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 27 aprile 1978 n. 488
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 488
+data: 1978-04-27
+titolo: "Pareggiamento delle scuole di oboe, corno, flauto e canto, presso l'istituto musicale \"Briccialdi\" di Terni, ai conservatori musicali statali."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1978-04-27;488
+codice_redazionale: 078U0488
+vigente: true
+---
 
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 27 aprile 1978 n. 488
-=============================================================
-
-Pareggiamento delle scuole di oboe, corno, flauto e canto, presso l'istituto musicale "Briccialdi" di Terni, ai conservatori musicali statali.
-----------------------------------------------------------------------------------------------------------------------------------------------
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-488. Decreto del Presidente della Repubblica 27 aprile 1978, col quale, sulla proposta del Ministro della pubblica istruzione, le scuole di oboe, corno, flauto e canto, istituite presso l'istituto musicale "Briccialdi" di Terni, via Manassei, 6, gestito dal comune di Terni, sono pareggiate, ai sensi del [regio decreto 15 maggio 1930, n. 1170](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-05-15;1170), ai conservatori musicali statali, con effetto giuridico dall'anno scolastico 1978-79.  
-  
-Visto, il Guardasigilli: BONIFACIO  
-Registrato alla Corte dei conti, addi' 21 agosto 1978  
-Registro n. 91 Istruzione, foglio n. 283
+488.
+
+Decreto del Presidente della Repubblica 27 aprile 1978, col quale, sulla proposta del Ministro della pubblica istruzione, le scuole di oboe, corno, flauto e canto, istituite presso l'istituto musicale "Briccialdi" di Terni, via Manassei, 6, gestito dal comune di Terni, sono pareggiate, ai sensi del [regio decreto 15 maggio 1930, n. 1170](../Atti%20normativi%20abrogati%20%28in%20originale%29/Norme%20per%20il%20pareggiamento%20degli%20Istituti%20musicali.%20030U1170.md), ai conservatori musicali statali, con effetto giuridico dall'anno scolastico 1978-79.
+
+Visto, il Guardasigilli: BONIFACIO
+ Registrato alla Corte dei conti, addi' 21 agosto 1978
+ Registro n. 91 Istruzione, foglio n. 283

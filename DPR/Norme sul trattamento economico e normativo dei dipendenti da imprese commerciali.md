@@ -1,20 +1,20 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 gennaio 1962 n. 481
-
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 gennaio 1962 n. 481
-==============================================================
-
-Norme sul trattamento economico e normativo dei dipendenti da imprese commerciali.
-----------------------------------------------------------------------------------
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 481
+data: 1962-01-02
+titolo: "Norme sul trattamento economico e normativo dei dipendenti da imprese commerciali."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1962-01-02;481
+codice_redazionale: 062U0481
+vigente: true
+---
 
 IL PRESIDENTE DELLA REPUBBLICA
-------------------------------
 
-Visto l'[art. 87, comma quinto, della Costituzione](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27~art87-com5);
+Visto l'[art. 87, comma quinto, della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87-com5);
 
-Vista, la [legge 14 luglio 1959, n. 741](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1959-07-14;741), che delega il Governo ad emanare norme transitorie per garantire minimi di trattamento economico e normativo ai lavoratori;
+Vista, la [legge 14 luglio 1959, n. 741](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1959-07-14;741), che delega il Governo ad emanare norme transitorie per garantire minimi di trattamento economico e normativo ai lavoratori;
 
-Vista la [legge 1 ottobre 1960, n. 1027](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1960-10-01;1027), recante modifiche alla predetta [legge 14 luglio 1959, n. 741](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1959-07-14;741);
+Vista la [legge 1 ottobre 1960, n. 1027](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1960-10-01;1027), recante modifiche alla predetta [legge 14 luglio 1959, n. 741](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1959-07-14;741);
 
 Visto l'accordo nazionale 29 aprile 1957, e relativa tabella, per l'applicazione della scala mobile al settore del commercio, stipulato tra la Confederazione Generale italiana, del Commercio e la Federazione italiana Lavoratori Commercio ed Aggregati, con l'intervento della, Confederazione Generale italiana del Lavoro, la Federazione italiana Sindacati Addetti Servizi Commerciali ed Affini, con l'intervento della Confederazione italiana Sindacati Lavoratori, l'Unione italiana Dipendenti Aziende Commerciali ed Affini, con l'intervento della Unione italiana del Lavoro; e, in pari data, tra la Confederazione Generale italiana del Commercio e la Federazione italiana Sindacati Nazionali Lavoratori Commercio, con l'intervento della Confederazione italiana Sindacati Nazionali Lavoratori;
 
@@ -26,55 +26,15 @@ Vista la pubblicazione nell'apposito Bollettino; n. 58 del 29 marzo 1960, degli 
 
 Sentito il Consiglio dei Ministri;
 
-Sulla
------
+Sulla proposta del Ministro per il lavoro e la previdenza sociale; Decreta:
 
-proposta del Ministro per il lavoro e la previdenza sociale; Decreta:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-I rapporti di lavoro costituiti per le attivita' per le quali sono stati stipulati l'accordo 29 aprile 1957, per l'applicazione della scala mobile al settore del commercio, e il contratto collettivo nazionale 28 giugno 1958, per i dipendenti da aziende commerciali, sono regolati da norme giuridiche uniformi alle clausole dell'accordo e del contratto collettivo anzidetti, annessi al presente decreto, nonche' alle clausole, richiamate dall'accordo 29 aprile 1957 ed allo stesso allegate, dell'accordo 30 aprile 1957 indicato nel preambolo.  
-I minimi di trattamento economico e normativo cosi' stabiliti sono inderogabili nei confronti di tutti i lavoratori dipendenti da imprese commerciali.  
-  
+I rapporti di lavoro costituiti per le attivita' per le quali sono stati stipulati l'accordo 29 aprile 1957, per l'applicazione della scala mobile al settore del commercio, e il contratto collettivo nazionale 28 giugno 1958, per i dipendenti da aziende commerciali, sono regolati da norme giuridiche uniformi alle clausole dell'accordo e del contratto collettivo anzidetti, annessi al presente decreto, nonche' alle clausole, richiamate dall'accordo 29 aprile 1957 ed allo stesso allegate, dell'accordo 30 aprile 1957 indicato nel preambolo.
+ I minimi di trattamento economico e normativo cosi' stabiliti sono inderogabili nei confronti di tutti i lavoratori dipendenti da imprese commerciali.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 2 gennaio 1962
+Dato a Roma, addi' 2 gennaio 1962
 
-GRONCHI FANFANI - SULLO
-
-Visto, il Guardasigilli: BOSCO
-
-Registrato alla Corte dei conti, addi' 30 maggio 1962
-
-Atti del Governo, registro n. 148, foglio n. 51. - VILLA
-
-Allegato
-
-ACCORDO NAZIONALE 29 APRILE 1957 PER L'APPLICAZIONE DELLA SCALA MOBILE AL SETTORE DEL COMMERCIO.   
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=062U048100100010110001&dgu=1962-06-20&art.dataPubblicazioneGazzetta=1962-06-20&art.codiceRedazionale=062U0481)
-  
-  
-  
-  
-  
-ACCORDO 30 APRILE 1957 PER L'APPLICAZIONE DELLA "SCALA MOBILE" ALLA PROVINCIA DI NAPOLI, IN RELAZIONE ALL'ACCORDO NAZIONALE" SETTORE COMMERCIO - DEL 29 APRILE 1957.   
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=062U048100100010110002&dgu=1962-06-20&art.dataPubblicazioneGazzetta=1962-06-20&art.codiceRedazionale=062U0481)
-  
-  
-  
-  
-  
-CONTRATTO COLLETTIVO NAZIONALE DI LAVORO, 28 GIUGNO 1958, PER IL PERSONALE DIPENDENTE DA AZIENDE COMMERCIALI.   
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=062U048100100010110003&dgu=1962-06-20&art.dataPubblicazioneGazzetta=1962-06-20&art.codiceRedazionale=062U0481)
-  
+GRONCHI FANFANI - SULLO Visto, il Guardasigilli: BOSCO Registrato alla Corte dei conti, addi' 30 maggio 1962 Atti del Governo, registro n. 148, foglio n. 51. - VILLA

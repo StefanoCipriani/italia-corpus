@@ -1,19 +1,21 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 19 maggio 1954 n. 691
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 691
+data: 1954-05-19
+titolo: "Erezione in ente morale dell'Accademia nazionale italiana di entomologia, con sede in Firenze."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1954-05-19;691
+codice_redazionale: 054U0691
+vigente: true
+---
 
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 19 maggio 1954 n. 691
-=============================================================
-
-Erezione in ente morale dell'Accademia nazionale italiana di entomologia, con sede in Firenze.
-----------------------------------------------------------------------------------------------
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-691. Decreto del Presidente della Repubblica 19 maggio 1954, col quale, sulla proposta del Ministro per la pubblica istruzione, l'Accademia nazionale italiana di entomologia, con sede in Firenze, viene eretta in ente morale e ne viene approvato lo statuto.  
-  
-Visto, il Guardasigilli: DE PIETRO  
-Registrato alla Corte dei conti, addi' 13 agosto 1954  
-Atti del Governo, registro n. 85, foglio n. 36. - TEMPESTA
+691.
+
+Decreto del Presidente della Repubblica 19 maggio 1954, col quale, sulla proposta del Ministro per la pubblica istruzione, l'Accademia nazionale italiana di entomologia, con sede in Firenze, viene eretta in ente morale e ne viene approvato lo statuto.
+
+Visto, il Guardasigilli: DE PIETRO
+ Registrato alla Corte dei conti, addi' 13 agosto 1954
+ Atti del Governo, registro n. 85, foglio n. 36. - TEMPESTA

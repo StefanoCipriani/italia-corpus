@@ -1,17 +1,17 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 08 aprile 1962 n. 1045
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 1045
+data: 1962-04-08
+titolo: "Erezione in ente morale dell'Associazione \"Centro Internazionale Crocevia\"."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1962-04-08;1045
+codice_redazionale: 062U1045
+vigente: true
+---
 
+## Art. 1.
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 08 aprile 1962 n. 1045
-==============================================================
+N. 1045 Decreto del Presidente della Repubblica 8 aprile 1962, col quale, sulla proposta del Ministro per gli affari esteri, l'Associazione "Centro Internazionale Crocevia", con sede in Roma, viene eretta in ente morale e ne viene approvato lo statuto.
 
-Erezione in ente morale dell'Associazione "Centro Internazionale Crocevia".
----------------------------------------------------------------------------
-
-Art. 1
-------
-
-N. 1045 Decreto del Presidente della Repubblica 8 aprile 1962, col quale, sulla proposta del Ministro per gli affari esteri, l'Associazione "Centro Internazionale Crocevia", con sede in Roma, viene eretta in ente morale e ne viene approvato lo statuto.  
-  
-Visto, il Guardasigilli: BOSCO  
-Registrato alla Corte dei conti, addi' 28 luglio 1962  
-Atti del Governo, registro n. 157, foglio n. 69. - VILLA  
+Visto, il Guardasigilli: BOSCO
+ Registrato alla Corte dei conti, addi' 28 luglio 1962
+ Atti del Governo, registro n. 157, foglio n. 69. - VILLA

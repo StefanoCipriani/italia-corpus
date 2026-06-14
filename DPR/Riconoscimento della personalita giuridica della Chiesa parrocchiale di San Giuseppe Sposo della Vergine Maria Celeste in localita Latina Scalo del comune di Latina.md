@@ -1,19 +1,21 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 12 febbraio 1958 n. 401
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 401
+data: 1958-02-12
+titolo: "Riconoscimento della personalita' giuridica della Chiesa parrocchiale di San Giuseppe Sposo della Vergine Maria Celeste, in localita' Latina Scalo del comune di Latina."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1958-02-12;401
+codice_redazionale: 058U0401
+vigente: true
+---
 
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 12 febbraio 1958 n. 401
-===============================================================
-
-Riconoscimento della personalita' giuridica della Chiesa parrocchiale di San Giuseppe Sposo della Vergine Maria Celeste, in localita' Latina Scalo del comune di Latina.
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-401. Decreto del Presidente della Repubblica 12 febbraio 1958, col quale, sulla proposta del Ministro per l'interno, viene riconosciuta la personalita' giuridica della Chiesa parrocchiale di San Giuseppe Sposo della Vergine Maria Celeste, in localita' Latina Scalo del comune di Latina.  
-  
-Visto, il Guardasigilli: GONELLA  
-Registrato alla Corte dei conti, addi' 21 marzo 1958  
-Atti del Governo, registro n. 111, foglio n. 160. - RELLEVA
+401.
+
+Decreto del Presidente della Repubblica 12 febbraio 1958, col quale, sulla proposta del Ministro per l'interno, viene riconosciuta la personalita' giuridica della Chiesa parrocchiale di San Giuseppe Sposo della Vergine Maria Celeste, in localita' Latina Scalo del comune di Latina.
+
+Visto, il Guardasigilli: GONELLA
+ Registrato alla Corte dei conti, addi' 21 marzo 1958
+ Atti del Governo, registro n. 111, foglio n. 160. - RELLEVA

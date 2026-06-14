@@ -1,19 +1,21 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 21 novembre 1983 n. 885
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 885
+data: 1983-11-21
+titolo: "Riconoscimento della personalita' giuridica della casa religiosa denominata \"Sacro Cuore Betlemite\", in Napoli."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1983-11-21;885
+codice_redazionale: 083U0885
+vigente: true
+---
 
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 21 novembre 1983 n. 885
-===============================================================
-
-Riconoscimento della personalita' giuridica della casa religiosa denominata "Sacro Cuore Betlemite", in Napoli.
----------------------------------------------------------------------------------------------------------------
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-885. Decreto del Presidente della Repubblica 21 novembre 1983, col quale, sulla proposta del Ministro dell'interno, viene riconosciuta la personalita' giuridica della casa religiosa denominata "Sacro Cuore Betlemite", in Napoli.  
-  
-Visto, il Guardasigilli: MARTINAZZOLI  
-Registrato alla Corte dei conti, addi' 8 febbraio 1984  
-Registro n. 6 Interno, foglio n. 149
+885.
+
+Decreto del Presidente della Repubblica 21 novembre 1983, col quale, sulla proposta del Ministro dell'interno, viene riconosciuta la personalita' giuridica della casa religiosa denominata "Sacro Cuore Betlemite", in Napoli.
+
+Visto, il Guardasigilli: MARTINAZZOLI
+ Registrato alla Corte dei conti, addi' 8 febbraio 1984
+ Registro n. 6 Interno, foglio n. 149

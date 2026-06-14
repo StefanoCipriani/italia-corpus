@@ -1,18 +1,20 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 10 gennaio 1950 n. 41
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 41
+data: 1950-01-10
+titolo: "Riconoscimento, agli effetti civili, della erezione della parrocchia di San Giuseppe, in frazione Dattilo del comune di Paceco (Trapani)."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1950-01-10;41
+codice_redazionale: 050U0041
+vigente: true
+---
 
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 10 gennaio 1950 n. 41
-=============================================================
-
-Riconoscimento, agli effetti civili, della erezione della parrocchia di San Giuseppe, in frazione Dattilo del comune di Paceco (Trapani).
------------------------------------------------------------------------------------------------------------------------------------------
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-41. Decreto del Presidente della Repubblica 10 gennaio 1950, col quale, sulla proposta del Ministro per l'interno, viene riconosciuto, agli effetti civili, il decreto del Vescovo di Trapani in data 20 aprile 1948, integrato con successiva dichiarazione, relativo alla erezione della parrocchia di San Giuseppe, in frazione Dattilo del comune di Paceco (Trapani).  
-  
-Visto, il Guardasigilli: PICCIONI  
-Registrato alla Corte dei conti, addi' 27 febbraio 1950
+41.
+
+Decreto del Presidente della Repubblica 10 gennaio 1950, col quale, sulla proposta del Ministro per l'interno, viene riconosciuto, agli effetti civili, il decreto del Vescovo di Trapani in data 20 aprile 1948, integrato con successiva dichiarazione, relativo alla erezione della parrocchia di San Giuseppe, in frazione Dattilo del comune di Paceco (Trapani).
+
+Visto, il Guardasigilli: PICCIONI
+ Registrato alla Corte dei conti, addi' 27 febbraio 1950

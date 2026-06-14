@@ -1,19 +1,21 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 23 maggio 1977 n. 392
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 392
+data: 1977-05-23
+titolo: "Soppressione della fabbriceria della parrocchia di S. Michele arcangelo, in Toscolano Maderno."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1977-05-23;392
+codice_redazionale: 077U0392
+vigente: true
+---
 
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 23 maggio 1977 n. 392
-=============================================================
-
-Soppressione della fabbriceria della parrocchia di S. Michele arcangelo, in Toscolano Maderno.
-----------------------------------------------------------------------------------------------
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-392. Decreto del Presidente della Repubblica 23 maggio 1977, col quale, sulla proposta del Ministro per l'interno, viene soppressa la fabbriceria della parrocchia di S. Michele arcangelo, in localita' Gaino sul Garda del comune di Toscolano Maderno (Brescia).  
-  
-Visto, il Guardasigilli: BONIFACIO  
-Registrato alla Corte dei conti, addi' 5 luglio 1977  
-Registro n. 15 Interno, foglio n. 232
+392.
+
+Decreto del Presidente della Repubblica 23 maggio 1977, col quale, sulla proposta del Ministro per l'interno, viene soppressa la fabbriceria della parrocchia di S. Michele arcangelo, in localita' Gaino sul Garda del comune di Toscolano Maderno (Brescia).
+
+Visto, il Guardasigilli: BONIFACIO
+ Registrato alla Corte dei conti, addi' 5 luglio 1977
+ Registro n. 15 Interno, foglio n. 232

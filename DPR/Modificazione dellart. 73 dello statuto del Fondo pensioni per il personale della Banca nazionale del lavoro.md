@@ -1,16 +1,16 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 19 settembre 1952 n. 1306
-
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 19 settembre 1952 n. 1306
-=================================================================
-
-Modificazione dell'art. 73 dello statuto del Fondo pensioni per il personale della Banca nazionale del lavoro.
---------------------------------------------------------------------------------------------------------------
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 1306
+data: 1952-09-19
+titolo: "Modificazione dell'art. 73 dello statuto del Fondo pensioni per il personale della Banca nazionale del lavoro."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1952-09-19;1306
+codice_redazionale: 052U1306
+vigente: true
+---
 
 IL PRESIDENTE DELLA REPUBBLICA
-------------------------------
 
-Visto l'[art. 12 e seguenti del Codice civile](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art12);
+Visto l'[art. 12 e seguenti del Codice civile](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262#art_12);
 
 Visto lo statuto del Fondo pensioni per il personale della Banca nazionale del lavoro, approvato col proprio decreto 4 novembre 1951, n. 1248;
 
@@ -24,28 +24,14 @@ Ritenuta la opportunita' della modifica statutaria predetta negli interessi degl
 
 Udito il parere del Consiglio di Stato;
 
-Sulla
------
+Sulla proposta del Ministro per il lavoro e la previdenza sociale; Decreta:
 
-proposta del Ministro per il lavoro e la previdenza sociale; Decreta:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-E' approvata la delibera adottata in data 31 gennaio 1952 dal Consiglio di amministrazione del Fondo pensioni per il personale della Banca nazionale del lavoro, con la quale il termine di sei mesi indicato dall'art. 73 dello statuto del Fondo predetto e' prorogato al 15 ottobre 1952.  
-  
+E' approvata la delibera adottata in data 31 gennaio 1952 dal Consiglio di amministrazione del Fondo pensioni per il personale della Banca nazionale del lavoro, con la quale il termine di sei mesi indicato dall'art. 73 dello statuto del Fondo predetto e' prorogato al 15 ottobre 1952.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 19 settembre 1952
+Dato a Roma, addi' 19 settembre 1952
 
-EINAUDI RUBINACCI
-
-Visto, il Guardasigilli: ZOLI
-
-Registrato alla Corte dei conti, addi' 15 ottobre 1952
-
-Atti del Governo, registro n. 58, foglio n. 124. - CARLOMAGNO
+EINAUDI RUBINACCI Visto, il Guardasigilli: ZOLI Registrato alla Corte dei conti, addi' 15 ottobre 1952 Atti del Governo, registro n. 58, foglio n. 124. - CARLOMAGNO

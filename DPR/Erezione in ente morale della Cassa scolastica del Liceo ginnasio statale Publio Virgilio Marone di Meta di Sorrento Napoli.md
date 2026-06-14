@@ -1,19 +1,21 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 21 novembre 1960 n. 1851
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 1851
+data: 1960-11-21
+titolo: "Erezione in ente morale della Cassa scolastica del Liceo ginnasio statale \"Publio Virgilio Marone\" di Meta di Sorrento (Napoli)."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1960-11-21;1851
+codice_redazionale: 060U1851
+vigente: true
+---
 
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 21 novembre 1960 n. 1851
-================================================================
-
-Erezione in ente morale della Cassa scolastica del Liceo ginnasio statale "Publio Virgilio Marone" di Meta di Sorrento (Napoli).
---------------------------------------------------------------------------------------------------------------------------------
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-1851. Decreto del Presidente della Repubblica 21 novembre 1960, col quale, sulla proposta del Ministro per la pubblica istruzione, la Cassa scolastica del Liceo ginnasio statale "Publio Virgilio Marone" di Meta di Sorrento (Napoli) viene eretta in ente morale e ne viene approvato lo statuto.  
-  
-Visto, il Guardasigilli: GONELLA  
-Registrato alla Corte dei conti, addi' 23 febbraio 1961  
-Atti del Governo, registro n. 134, foglio n. 112. - VILLA
+1851.
+
+Decreto del Presidente della Repubblica 21 novembre 1960, col quale, sulla proposta del Ministro per la pubblica istruzione, la Cassa scolastica del Liceo ginnasio statale "Publio Virgilio Marone" di Meta di Sorrento (Napoli) viene eretta in ente morale e ne viene approvato lo statuto.
+
+Visto, il Guardasigilli: GONELLA
+ Registrato alla Corte dei conti, addi' 23 febbraio 1961
+ Atti del Governo, registro n. 134, foglio n. 112. - VILLA

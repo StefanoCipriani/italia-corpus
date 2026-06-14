@@ -1,19 +1,21 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 07 febbraio 1961 n. 357
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 357
+data: 1961-02-07
+titolo: "Erezione in ente morale della Cassa scolastica della Scuola media statale \"Trilussa\" di Roma."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1961-02-07;357
+codice_redazionale: 061U0357
+vigente: true
+---
 
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 07 febbraio 1961 n. 357
-===============================================================
-
-Erezione in ente morale della Cassa scolastica della Scuola media statale "Trilussa" di Roma.
----------------------------------------------------------------------------------------------
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-357. Decreto del Presidente della Repubblica 7 febbraio 1961, col quale, sulla proposta del Ministro per la pubblica Istruzione, la Cassa scolastica della Scuola media statale "Trilussa" di Roma viene eretta in ente morale e ne viene approvato lo statuto.  
-  
-Visto, il Guardasigilli: GONELLA  
-Registrato alla Corte dei conti, addi' 12 maggio 1961  
-Atti del Governo, registro n. 136, foglio n. 125. - VILLA
+357.
+
+Decreto del Presidente della Repubblica 7 febbraio 1961, col quale, sulla proposta del Ministro per la pubblica Istruzione, la Cassa scolastica della Scuola media statale "Trilussa" di Roma viene eretta in ente morale e ne viene approvato lo statuto.
+
+Visto, il Guardasigilli: GONELLA
+ Registrato alla Corte dei conti, addi' 12 maggio 1961
+ Atti del Governo, registro n. 136, foglio n. 125. - VILLA

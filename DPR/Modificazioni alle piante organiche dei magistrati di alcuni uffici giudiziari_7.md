@@ -1,101 +1,95 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 25 maggio 1985 n. 380
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 32
+data: 1981-01-29
+titolo: "Modificazioni alle piante organiche dei magistrati di alcuni uffici giudiziari."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1981-01-29;32
+codice_redazionale: 081U0032
+vigente: true
+---
 
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 25 maggio 1985 n. 380
-=============================================================
-
-Modificazioni alle piante organiche dei magistrati di alcuni uffici giudiziari.
--------------------------------------------------------------------------------
+## Art. 1.
 
 IL PRESIDENTE DELLA REPUBBLICA
-------------------------------
 
-Vista la tabella C relativa alle piante organiche dei magistrati giudicanti e del pubblico ministero addetti ai tribunali ed alle procure della Repubblica, allegata al [decreto presidenziale 31 dicembre 1966, n. 1185](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1966-12-31;1185), e successive variazioni;
+ Viste le tabelle B, C e D relative alle piante organiche dei magistrati giudicanti e del pubblico ministero addetti alle corti di appello, ai tribunali e alle preture, allegate al [decreto presidenziale 31 dicembre 1966, n. 1185](Piante%20organiche%20dei%20magistrati%20addetti%20alle%20Corti%20di%20appello%20alle%20Procure%20generali%20presso%20le%20Corti%20di%20appello%20ai%20Tribunali%20alle%20Procure%20della%20Repubblica%20presso%20i%20Tribunali%20e%20alle%20Preture.md), e successive variazioni;
+ Vista la tabella A allegata alla [legge 9 marzo 1971, n. 35](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1971-03-09;35), relativa alle piante organiche dei magistrati addetti ai tribunali per i minorenni ed alle procure della Repubblica presso gli stessi tribunali;
+ Riconosciuta l'urgenza di potenziare l'organico dei magistrati dei seguenti uffici giudiziari per le unita' a fianco di ciascuno di essi indicate al fine di fronteggiare le accresciute esigenze di servizio:
 
-Vista la tabella A allegata alla [legge 9 marzo 1971, n. 35](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1971-03-09;35), con la quale sono state determinate le piante organiche dei magistrati addetti ai tribunali per i minorenni ed alle procure della Repubblica presso gli stessi tribunali, e successive variazioni;
+ Corti di appello:
+ presidenti di sezione - Bologna 1, Milano 1, Torino 1;
+ consiglieri - Bologna 2, Milano 2, Reggio Calabria 1, Roma 2, Torino 1;
 
-Vista la tabella A allegata alla [legge 12 gennaio 1977, n. 1](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1977-01-12;1), che determina le sedi e le giurisdizioni degli uffici di sorveglianza;
+ Procure generali presso le corti di appello:
+ sostituti procuratori generali - Firenze 1, Torino 1;
 
-Considerata la necessita' di potenziare l'organico dei magistrati dei seguenti uffici giudiziari per le unita' a fianco di ciascuno di essi indicate, al fine di fronteggiare le accresciute esigenze di servizio:
+ Tribunali:
+ presidenti di sezione - Firenze 1, Lecco 1, Marsala 1, Pistoia 1, Prato 1, Sanremo 1, Treviso 1;
+ giudici - Alba 1, Bergamo 1, Brescia 1, Brindisi 1, Busto Arsizio 1, Chiavari 1, Como 1, Cosenza 1, Forli' 1, Ivrea 1, Latina 2, Livorno 1, Lucca 1, Marsala 1, Modena 2, Novara 1, Padova 1, Parma 1, Pisa 1, Pordenone 2, Reggio Emilia 1, Rimini 1, Savona 1, Siracusa 1, Taranto 1, Treviso 1, Udine 1, Venezia 1, Verbania 1, Verona 2, Vicenza 2;
 
-Tribunali per i minorenni:
+ Procure della Repubblica:
+ sostituti - Brescia 1, Brindisi 1, Cassino 1, Catania 1, Como 1, Latina 1, Lecco 1, Marsala 1, Milano 1, Napoli 2, Palermo 2, Reggio Calabria 1, Roma 1, Salerno 1, Santa Maria Capua Vetere 1, Siracusa 1, Venezia 1, Vicenza 1;
 
-giudici: Ancona 1, Bari 1, Bologna 1, Brescia 1, Cagliari 1, Catania 1, Firenze 1, Genova 1, L'Aquila 1, Lecce 1, Milano 1, Napoli 2, Palermo 1, Roma 2, Salerno 1, Torino 1, Trento 1, Trieste 1, Venezia 1;
+ Procura della Repubblica presso il tribunale per i minorenni di Cagliari:
+ sostituti 1;
 
-Procure della Repubblica presso i tribunali per i minorenni:
+ Considerato peraltro che e' necessario contestualmente ridurre l'organico dei magistrati dei seguenti uffici giudiziari, delle unita' a fianco di ciascuno di essi indicate:
 
-sostituti: Ancona 1, Bari 1, Brescia 1, Cagliari 1, Genova 1, L'Aquila 1, Lecce 1, Milano 1, Napoli 1, Palermo 1, Perugia 1, Potenza 1, Roma 1, Torino 1, Trento 1, Venezia 1;
+ Corti di appello:
+ presidenti di sezione - Cagliari 1, Caltanissetta 1, Palermo 1;
+ consiglieri - Bari 1, Cagliari 1, Catanzaro 1, Genova 1, Messina 2, Napoli 2, Palermo 2, Potenza 1;
 
-Uffici di sorveglianza:
+ Tribunali:
+ presidenti di sezione - Aosta 1, Terni 1;
+ giudici - Agrigento 2, Ascoli Piceno 1, Cagliari 1, Catania 1, Catanzaro 1, Cremona 1, Firenze 1, Genova 1, Lecce 1, L'Aquila 1, Imperia 1, Palmi 1, Santa Maria Capua Vetere 1, Sassari 1, Trani 1, Trapani 1, Trieste 1;
 
-magistrati di tribunale: Bari 1, Brescia 1, Catania 1, Catanzaro 1, Firenze 1, Genova 1, Livorno 1, Milano 1, Napoli 1, Palermo 1, Torino 1, Venezia 1;
+ Procure della Repubblica:
+ sostituti - Arezzo 1, Cosenza 1, Messina 1;
 
-Visto il parere espresso al riguardo dal Consiglio superiore della magistratura nella seduta del 10 aprile 1985 e in parziale difformita' dello stesso;
+ Preture:
+ pretori - Bari 1, Bergamo 1, Biella 1, Bologna 2, Cagliari 2, Catanzaro 1, Desio 1, Ferrara 1, Genova 2, La Spezia 1, Lecco 1, Lentini 1, Livorno 1, Milano 4, Napoli 2, Napoli Barra 1, Novara 1, Padova 1, Palermo 2, Pisa i, Pistoia 1, Rimini 1, Sassari 1, Savona 1, Terni 1, Trani 1, Trento 1, Treviglio 1, Varese 1, Venezia 1, Vicenza 1, Vigevano 1;
 
-Ritenuto che due delle unita' necessarie per gli aumenti in questione possono, tenuto conto degli indici di lavoro, essere reperite nel tribunale di Firenze e nella procura della Repubblica presso lo stesso tribunale;
+ Visto il parere espresso al riguardo dal Consiglio superiore della magistratura nella seduta del 18 dicembre 1980;
+ Considerato peraltro, che a seguito di una piu' approfondita valutazione delle esigenze e tenuto conto degli indici di lavoro non si e' ritenuto di poter seguire integralmente le proposte dello stesso Consiglio superiore e che pertanto in parziale difformita' si e' manifestata l'esigenza di opportune modifiche che vengono, per quanto si riferisce agli aumenti, appresso indicate:
 
-Ritenute che altre due delle unita' necessarie per i suddetti aumenti possono essere reperite, tenuto conto degli indici di lavoro, anziche' nei tribunali di Savona e di Rovigo, in quelli di Casale Monferrato e di Isernia;
+ Corti di appello:
+ consiglieri - Roma 2 posti in luogo di 1;
 
-Considerato che per operare i suindicati aumenti e' necessario ridurre l'organico dei magistrati dei seguenti uffici giudiziari, delle unita' a fianco di ciascuno di essi indicate:
+ Tribunali:
+ presidenti di sezione - Treviso 1;
+ giudici - Alba 1, Busto Arsizio 1, Chiavari 1, Cosenza 1, Livorno 1, Marsala 1, Siracusa 1, Taranto 1;
 
-Tribunali:
+ Procure della Repubblica:
+ sostituti - Milano 1, Bergamo - nessun aumento;
 
-presidenti di sezione: Casale Monferrato 1; giudici: Ascoli Piceno 1, Avellino 1, Bari 2, Belluno 1, Bergamo 1, Cagliari 1, Campobasso 1, Catania 1, Catanzaro 1, Firenze 1, Foggia 1, Genova 1, Grosseto 1, Isernia 1, L'Aquila 1, Larino 1, Lecce 2, Milano 4, Napoli 1, Oristano 1, Palermo 1, Perugia 1, Pinerolo 1, Potenza 1, Reggio Emilia 1, Roma 4, Torino 1, Trento 1, Trieste 1, Venezia 1, Voghera 1;
+ Considerato inoltre che in ordine al menzionato parere del Consiglio superiore e sempre a seguito di quanto innanzi formulato, si e' ritenuto di dover provvedere in parziale difformita' anche riguardo alle riduzioni da apportare, riduzioni che vengono qui di seguito indicate:
 
-Procure della Repubblica:
+ Corti di appello:
+ consiglieri - Catanzaro 1 in luogo di 2, Messina 2 in luogo di 1;
 
-sostituti: Ascoli Piceno 1, Bergamo 1, Brescia 1, Firenze 1, Genova 1, L'Aquila 1, Roma 1, Trento 1, Vercelli 1;
+ Tribunali di Casale Monferrato, Catania, Ivrea, Imperia e Trapani - nessuna riduzione concernente i posti di presidente di sezione;
 
-Visto l'art. 1, ultimo comma, della [legge 4 gennaio 1963, n. 1](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1963-01-04;1);
+ Tribunali di Imperia, Palmi e Trapani - riduzione di un posto di giudice;
 
-Sulla
------
+ Tribunali di Napoli e Palermo - nessuna riduzione;
 
-proposta del Ministro di grazia e giustizia; Decreta:
+ Procure della Repubblica:
+ sostituti Arezzo e Messina - riduzione di un posto;
 
-Art. 1
-------
+ Preture di Lugo e Modena - nessuna riduzione;
 
-  
-La tabella C allegata al [decreto del Presidente della Repubblica 31 dicembre 1966, n. 1185](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1966-12-31;1185), e successive variazioni, relativa alle piante organiche dei magistrati giudicanti e del pubblico ministero addetti ai tribunali, alle procure della Repubblica ed agli uffici di sorveglianza, e' modificata, per la parte relativa agli uffici cui si riferisce, come dalla tabella A allegata al presente decreto, vistata dal Ministro proponente.  
+ Preture di Desio, Pistoia, Sassari, Trento, Treviglio, Venezia, Vicenza - riduzione di un posto;
 
-Art. 2
-------
+ Ritenuto inoltre che, per quanto riguarda le preture, non possono essere accolte al momento tutte le proposte di aumento formulate dal Consiglio superiore della magistratura, in vista della necessita' di provvedere con priorita' alle esigenze degli uffici collegiali e delle procure e con riserva di riesaminare in un contesto piu' ampio ed in un momento successivo le esigenze degli uffici in questione;
+ Visto l'art. 1, ultimo comma, della [legge 4 gennaio 1963, n. 1](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1963-01-04;1);
+ Sulla proposta del Ministro di grazia e giustizia;
 
-  
-La tabella A allegata alla [legge 9 marzo 1971, n. 35](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1971-03-09;35), e successive variazioni, relativa alle piante organiche dei magistrati giudicanti e del pubblico ministero addetti ai tribunali per i minorenni ed alle procure della Repubblica presso gli stessi tribunali, e' modificata, per la parte relativa agli uffici cui si riferisce, come dalla tabella B allegata al presente decreto, vistata dal Ministro proponente.  
-  
+ Decreta:
 
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+ Le tabelle B, C e D allegate al [decreto presidenziale 31 dicembre 1966, n. 1185](Piante%20organiche%20dei%20magistrati%20addetti%20alle%20Corti%20di%20appello%20alle%20Procure%20generali%20presso%20le%20Corti%20di%20appello%20ai%20Tribunali%20alle%20Procure%20della%20Repubblica%20presso%20i%20Tribunali%20e%20alle%20Preture.md), e successive variazioni, relative alle piante organiche dei magistrati giudicanti e del pubblico ministero addetti alle corti di appello, ai tribunali ed alle preture, e la tabella A allegata alla [legge 9 marzo 1971, n. 35](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1971-03-09;35), relativa alle piante organiche dei magistrati addetti ai tribunali per i minorenni e alle procure della Repubblica presso gli stessi tribunali, sono modificate, per la parte relativa agli uffici cui si riferiscono, come dalle tabelle A, B, C e D allegate al presente decreto, vistate dal Ministro proponente.
 
-### Dato a Roma, addi' 25 maggio 1985
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 
-PERTINI
+Dato a Roma, addi' 29 gennaio 1981
 
-MARTINAZZOLI, Ministro di grazia e giustizia
-
-Visto, il Guardasigilli: MARTINAZZOLI
-
-Registrato alla Corte dei conti, addi' 24 luglio 1985
-
-Registro n. 34 Giustizia, foglio n. 374
-
-Tabella A
-
- TABELLA A   
-MAGISTRATI GIUDICANTI E DEL PUBBLICO MINISTERO ADDETTI AI TRIBUNALI   
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=085U038000100010110001&dgu=1985-07-30&art.dataPubblicazioneGazzetta=1985-07-30&art.codiceRedazionale=085U0380)
-  
-
-Tabella B
-
- TABELLA B   
-MAGISTRATI GIUDICANTI E DEL PUBBLICO MINISTERO ADDETTI AI TRIBUNALI ED ALLE PROCURE PER I MINORENNI   
-  
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=085U038000200010110001&dgu=1985-07-30&art.dataPubblicazioneGazzetta=1985-07-30&art.codiceRedazionale=085U0380)
-  
+PERTINI SARTI Visto, il Guardasigilli: SARTI Registrato alla Corte dei conti, addi' 20 febbraio 1981 Registro n. 7 Giustizia, foglio n. 17

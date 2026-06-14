@@ -1,19 +1,21 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 23 marzo 1982 n. 365
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 365
+data: 1982-03-23
+titolo: "Riconoscimento della personalita' giuridica della \"Fondazione Carlo Erba\", in Milano."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1982-03-23;365
+codice_redazionale: 082U0365
+vigente: true
+---
 
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 23 marzo 1982 n. 365
-============================================================
-
-Riconoscimento della personalita' giuridica della "Fondazione Carlo Erba", in Milano.
--------------------------------------------------------------------------------------
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-365. Decreto del Presidente della Repubblica 23 marzo 1982, col quale, sulla proposta del Ministro della sanita', viene riconosciuta la personalita' giuridica ed approvato lo statuto della "Fondazione Carlo Erba", in Milano.  
-  
-Visto, il Guardasigilli: DARIDA  
-Registrato alla Corte dei conti, addi' 7 giugno 1982  
-Registro n. 4 Sanita', foglio n. 98
+365.
+
+Decreto del Presidente della Repubblica 23 marzo 1982, col quale, sulla proposta del Ministro della sanita', viene riconosciuta la personalita' giuridica ed approvato lo statuto della "Fondazione Carlo Erba", in Milano.
+
+Visto, il Guardasigilli: DARIDA
+ Registrato alla Corte dei conti, addi' 7 giugno 1982
+ Registro n. 4 Sanita', foglio n. 98

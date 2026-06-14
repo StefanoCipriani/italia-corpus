@@ -1,20 +1,21 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 16 luglio 1985 n. 552
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 203
+data: 1985-03-26
+titolo: "Autorizzazione alla fondazione \"Pro juventute don Carlo Gnocchi\", in Roma, ad accettare un legato."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1985-03-26;203
+codice_redazionale: 085U0203
+vigente: true
+---
 
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 16 luglio 1985 n. 552
-=============================================================
-
-Autorizzazione alla fondazione "Pro juventute don Carlo Gnocchi", in Roma, ad accettare un legato.
---------------------------------------------------------------------------------------------------
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-552. Decreto del Presidente della Repubblica 16 luglio 1985, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la fondazione "Pro juventute don Carlo Gnocchi", in Roma, viene autorizzata ad accettare il legato, consistente nella quota di 1/3 della nuda proprieta' di titoli di Stato (buoni ordinari del Tesoro) valore nominale L. 85.000.000 quota 1/3 L. 28.333.333, disposta dalla sig.ra Montanari Giuseppina Marietta Rosalinda a favore dello istituito "Don Gnocchi" di Milano, che si identifica con la fondazione "Pro juventute don Carlo Gnocchi", come si evince dal verbale 20 novembre 1982 del consiglio di amministrazione della fondazione stessa, per l'acquisto di qualche apparecchiatura scientifica per alleviare le pene dei suoi beneficiati, con testamento olografo 17 aprile 1982 e pubblicato in data 22 giugno 1982, n. 12664 di repertorio e n. 4005 di raccolta, a rogito dott.  
-Vittorio Morandi, notaio in Alessandria, registrato ad Alessandria il 12 luglio 1982 al n. 3119.   
-  
-Visto, il Guardasigilli: MARTINAZZOLI   
-Registrato alla Corte dei conti, addi' 11 ottobre 1985   
-Registro n. 9 Presidenza, foglio n. 69
+203.
+
+Decreto del Presidente della Repubblica 26 marzo 1985, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la fondazione "Pro juventute don Carlo Gnocchi", in Roma, viene autorizzata ad accettare un legato, consistente in appezzamenti di terreno siti nel comune di Sassoferrato, distinti nel nuovo catasto terreni alla partita 2715, del valore peritato di L. 21.000.000, ritenuto congruo dall'ufficio tecnico erariale di Pesaro, disposto dalla sig.na Orciari Wanda a favore della fondazione "Don Gnocchi", che si identifica con la fondazione "Pro juventute don Carlo Gnocchi" come si evince dal verbale del consiglio di amministrazione della fondazione medesima del 20 novembre 1982, con testamento segreto 18 novembre 1972, pubblicato in data 4 maggio 1973, n. 405 di repertorio, a rogito dott. Virginio Reffi, notaio in S. Marino, ed ivi registrato in data 8 maggio 1973 al n. 1200.
+
+Visto, il Guardasigilli: MARTINAZZOLI
+ Registrato alla Corte dei conti, addi' 14 maggio 1985
+ Registro n. 4 Presidenza, foglio n. 291

@@ -1,14 +1,14 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 07 ottobre 1977 n. 1034
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 1034
+data: 1977-10-07
+titolo: "Modificazioni allo statuto dell'Istituto superiore di educazione fisica di L'Aquila."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1977-10-07;1034
+codice_redazionale: 077U1034
+vigente: true
+---
 
+## Art. 1.
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 07 ottobre 1977 n. 1034
-===============================================================
-
-Modificazioni allo statuto dell'Istituto superiore di educazione fisica di L'Aquila.
-------------------------------------------------------------------------------------
-
-Art. 1
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.L. 9 FEBBRAIO 2012, N. 5](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2012-02-09;5),   
-CONVERTITO CON MODIFICAZIONI DALLA [L. 4 APRILE 2012, N. 35](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2012-04-04;35)))
+((PROVVEDIMENTO ABROGATO DAL D.L. 9 FEBBRAIO 2012, N. 5, 
+ CONVERTITO CON MODIFICAZIONI DALLA L. 4 APRILE 2012, N. 35))

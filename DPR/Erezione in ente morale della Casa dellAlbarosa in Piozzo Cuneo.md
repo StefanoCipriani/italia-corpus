@@ -1,19 +1,21 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 settembre 1957 n. 1041
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 1041
+data: 1957-09-02
+titolo: "Erezione in ente morale della \"Casa dell'Albarosa\", in Piozzo (Cuneo)."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1957-09-02;1041
+codice_redazionale: 057U1041
+vigente: true
+---
 
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 settembre 1957 n. 1041
-=================================================================
-
-Erezione in ente morale della "Casa dell'Albarosa", in Piozzo (Cuneo).
-----------------------------------------------------------------------
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-1041. Decreto del Presidente della Repubblica 2 settembre 1957, col quale, sulla proposta del Ministro per l'interno, la "Casa dell'Albarosa", in Piozzo (Cuneo), viene eretta in ente morale e ne viene approvato il relativo statuto organico.  
-  
-Visto, il Guardasigilli: GONELLA  
-Registrato alla Corte dei conti, addi' 17 ottobre 1957  
-Atti del Governo, registro n. 108, foglio n. 86. - RELLEVA
+1041.
+
+Decreto del Presidente della Repubblica 2 settembre 1957, col quale, sulla proposta del Ministro per l'interno, la "Casa dell'Albarosa", in Piozzo (Cuneo), viene eretta in ente morale e ne viene approvato il relativo statuto organico.
+
+Visto, il Guardasigilli: GONELLA
+ Registrato alla Corte dei conti, addi' 17 ottobre 1957
+ Atti del Governo, registro n. 108, foglio n. 86. - RELLEVA

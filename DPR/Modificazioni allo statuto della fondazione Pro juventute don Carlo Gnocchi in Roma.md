@@ -1,19 +1,21 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 12 novembre 1981 n. 942
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 942
+data: 1981-11-12
+titolo: "Modificazioni allo statuto della fondazione \"Pro juventute don Carlo Gnocchi\", in Roma."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1981-11-12;942
+codice_redazionale: 081U0942
+vigente: true
+---
 
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 12 novembre 1981 n. 942
-===============================================================
-
-Modificazioni allo statuto della fondazione "Pro juventute don Carlo Gnocchi", in Roma.
----------------------------------------------------------------------------------------
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-942. Decreto del Presidente della Repubblica 12 novembre 1981, col quale, sulla proposta del Presidente del Consiglio dei Ministri, di concerto con il Ministro dell'interno, vengono approvate le modificazioni agli articoli 2 e 6 dello statuto della fondazione "Pro juventute don Carlo Gnocchi", in Roma, approvato con [decreto del Presidente della Repubblica 11 febbraio 1952, n. 346](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1952-02-11;346).  
-  
-Visto, il Guardasigilli: DARIDA  
-Registrato alla Corte dei conti, addi' 12 febbraio 1982  
-Registro n. 2 Presidenza, foglio n. 100
+942.
+
+Decreto del Presidente della Repubblica 12 novembre 1981, col quale, sulla proposta del Presidente del Consiglio dei Ministri, di concerto con il Ministro dell'interno, vengono approvate le modificazioni agli articoli 2 e 6 dello statuto della fondazione "Pro juventute don Carlo Gnocchi", in Roma, approvato con [decreto del Presidente della Repubblica 11 febbraio 1952, n. 346](Riconoscimento%20della%20personalita%20giuridica%20della%20Fondazione%20Pro%20Juventute%20con%20sede%20in%20Roma.md).
+
+Visto, il Guardasigilli: DARIDA
+ Registrato alla Corte dei conti, addi' 12 febbraio 1982
+ Registro n. 2 Presidenza, foglio n. 100

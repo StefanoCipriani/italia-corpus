@@ -1,19 +1,21 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 25 ottobre 1985 n. 984
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 984
+data: 1985-10-25
+titolo: "Autorizzazione al patronato ACLI, in Roma, ad acquistare un immobile."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1985-10-25;984
+codice_redazionale: 085U0984
+vigente: true
+---
 
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 25 ottobre 1985 n. 984
-==============================================================
-
-Autorizzazione al patronato ACLI, in Roma, ad acquistare un immobile.
----------------------------------------------------------------------
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-984. Decreto del Presidente della Repubblica 25 ottobre 1985, col quale, sulla proposta del Ministro del lavoro e della previdenza sociale, il patronato ACLI, in Roma, viene autorizzato ad acquistare, al prezzo di L. 33.000.000, un immobile sito in Massa, via San Sebastiano n. 11, censito al nuovo catasto edilizio urbano alla partita 12289, mappale 8972/17, di proprieta' della societa' "Iniziative residenziali" S.a.s., da adibire ad uffici provinciali del patronato.   
-  
-Visto, il Guardasigilli: MARTINAZZOLI   
-Registrato alla Corte dei conti, addi' 22 marzo 1986   
-Registro n. 1 Lavoro, foglio n. 237
+984.
+
+Decreto del Presidente della Repubblica 25 ottobre 1985, col quale, sulla proposta del Ministro del lavoro e della previdenza sociale, il patronato ACLI, in Roma, viene autorizzato ad acquistare, al prezzo di L. 33.000.000, un immobile sito in Massa, via San Sebastiano n. 11, censito al nuovo catasto edilizio urbano alla partita 12289, mappale 8972/17, di proprieta' della societa' "Iniziative residenziali" S.a.s., da adibire ad uffici provinciali del patronato. 
+ 
+Visto, il Guardasigilli: MARTINAZZOLI 
+ Registrato alla Corte dei conti, addi' 22 marzo 1986 
+ Registro n. 1 Lavoro, foglio n. 237

@@ -1,20 +1,22 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 01 novembre 1959 n. 1090
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 1090
+data: 1959-11-01
+titolo: "Erezione in ente morale della Cassa scolastica dell'Istituto tecnico industriale statale \"E. Conti\", di Milano."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1959-11-01;1090
+codice_redazionale: 059U1090
+vigente: true
+---
 
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 01 novembre 1959 n. 1090
-================================================================
-
-Erezione in ente morale della Cassa scolastica dell'Istituto tecnico industriale statale "E. Conti", di Milano.
----------------------------------------------------------------------------------------------------------------
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-1090. Decreto del Presidente della Repubblica 1 novembre 1959, col quale, sulla proposta del Ministro per la pubblica istruzione, la Cassa scolastica dello Istituto tecnico industriale statale "E.  
-Conti", di Milano, viene eretta in ente morale e ne viene approvato lo statuto.  
-  
-Visto, il Guardasigilli: GONELLA  
-Registrato alla Corte dei conti, addi' 19 dicembre 1959  
-Atti del Governo, registro n. 122, foglio n. 136. - VILLA
+1090.
+
+Decreto del Presidente della Repubblica 1 novembre 1959, col quale, sulla proposta del Ministro per la pubblica istruzione, la Cassa scolastica dello Istituto tecnico industriale statale "E.
+ Conti", di Milano, viene eretta in ente morale e ne viene approvato lo statuto.
+
+Visto, il Guardasigilli: GONELLA
+ Registrato alla Corte dei conti, addi' 19 dicembre 1959
+ Atti del Governo, registro n. 122, foglio n. 136. - VILLA

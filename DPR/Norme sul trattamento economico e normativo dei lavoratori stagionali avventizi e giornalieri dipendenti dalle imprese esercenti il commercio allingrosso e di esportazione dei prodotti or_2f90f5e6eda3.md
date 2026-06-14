@@ -1,20 +1,20 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 gennaio 1962 n. 982
-
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 gennaio 1962 n. 982
-==============================================================
-
-Norme sul trattamento economico e normativo dei lavoratori stagionali, avventizi e giornalieri dipendenti dalle imprese esercenti il commercio all'ingrosso e di esportazione dei prodotti ortofrutticoli ed agrumari delle province di Pavia, Rovigo, Ravenna, Bologna, Modena, Ascoli Piceno, Bari, Palermo e della citta' di Cesena e circondario.
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 982
+data: 1962-01-02
+titolo: "Norme sul trattamento economico e normativo dei lavoratori stagionali, avventizi e giornalieri dipendenti dalle imprese esercenti il commercio all'ingrosso e di esportazione dei prodotti ortofrutticoli ed agrumari delle province di Pavia, Rovigo, Ravenna, Bologna, Modena, Ascoli Piceno, Bari, Palermo e della citta' di Cesena e circondario."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1962-01-02;982
+codice_redazionale: 062U0982
+vigente: true
+---
 
 IL PRESIDENTE DELLA REPUBBLICA
-------------------------------
 
-Visto l'[art. 87, comma quinto, della Costituzione](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27~art87-com5);
+Visto l'[art. 87, comma quinto, della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87-com5);
 
-Vista la [legge 14 luglio 1959, n. 741](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1959-07-14;741), che delega il Governo ad emanare norme transitorie per garantire minimi di trattamento economico e normativo ai lavoratori;
+Vista la [legge 14 luglio 1959, n. 741](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1959-07-14;741), che delega il Governo ad emanare norme transitorie per garantire minimi di trattamento economico e normativo ai lavoratori;
 
-Vista la [legge 1 ottobre 1960, n. 1027](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1960-10-01;1027), recante modifiche alla predetta [legge 14 luglio 1959, n. 741](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1959-07-14;741);
+Vista la [legge 1 ottobre 1960, n. 1027](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1960-10-01;1027), recante modifiche alla predetta [legge 14 luglio 1959, n. 741](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1959-07-14;741);
 
 Visto il contratto collettivo nazionale 21 aprile 1954, per il personale stagionale, avventizio e giornaliero, dipendente da aziende esercenti il commercio all'ingrosso e di esportazione dei prodotti ortofrutticoli e agrumari;
 
@@ -60,112 +60,26 @@ dei contratti e degli accordi sopra indicati, depositati presso il Ministero del
 
 Sentito il Consiglio dei Ministri;
 
-Sulla
------
+Sulla proposta del Ministro per il lavoro e la previdenza sociale; Decreta:
 
-proposta del Ministro per il lavoro e la previdenza sociale; Decreta:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-I rapporti di lavoro costituiti per le attivita' per le quali sono stati stipulati, per il personale stagionale, avventizio e giornaliero dipendente da aziende esercenti il commercio all'ingrosso e di esportazione dei prodotti ortofrutticoli e agrumari:  
-per la provincia di Pavia, l'accordo collettivo integrativo 15 ottobre 1956;  
-per la provincia di Rovigo, l'accordo collettivo integrativo 31 maggio 1954;  
-per la provincia di Ravenna, l'accordo collettivo integrativo 14 luglio 1959;  
-per la provincia di Bologna, il contratto collettivo integrativo 1 ottobre 1959;  
-per la provincia di Modena, il contratto collettivo integrativo 6 giugno 1959;  
-per la provincia di Ascoli Piceno, il contratto collettivo integrativo 10 luglio 1954;  
-per la provincia di Bari, il contratto collettivo integrativo 11 settembre 1958;  
-per la provincia di Palermo, l'accordo collettivo integrativo 17 ottobre 1958;  
-per la citta' di Cesena e circondario, il contratto collettivo integrativo 31 luglio 1959;  
-sono regolati da norme giuridiche uniformi alle clausole dei contratti e degli accordi collettivi anzidetti, annessi al presente decreto.  
-Dette norme sono integrative di quelle concernenti la disciplina, nazionale della categoria, purche' con esse compatibili.  
-I minimi di trattamento economico e normativo cosi' stabiliti sono inderogabili nei confronti di tutti i lavoratori stagionali, avventizi e giornalieri dipendenti dalle imprese esercenti il commercio all'ingrosso e di esportazione dei prodotti ortofrutticoli e agrumari delle province di Pavia, Rovigo, Ravenna, Bologna, Modena, Ascoli Piceno, Bari, Palermo e della citta' di Cesena e circondario.  
-  
+I rapporti di lavoro costituiti per le attivita' per le quali sono stati stipulati, per il personale stagionale, avventizio e giornaliero dipendente da aziende esercenti il commercio all'ingrosso e di esportazione dei prodotti ortofrutticoli e agrumari:
+ per la provincia di Pavia, l'accordo collettivo integrativo 15 ottobre 1956;
+ per la provincia di Rovigo, l'accordo collettivo integrativo 31 maggio 1954;
+ per la provincia di Ravenna, l'accordo collettivo integrativo 14 luglio 1959;
+ per la provincia di Bologna, il contratto collettivo integrativo 1 ottobre 1959;
+ per la provincia di Modena, il contratto collettivo integrativo 6 giugno 1959;
+ per la provincia di Ascoli Piceno, il contratto collettivo integrativo 10 luglio 1954;
+ per la provincia di Bari, il contratto collettivo integrativo 11 settembre 1958;
+ per la provincia di Palermo, l'accordo collettivo integrativo 17 ottobre 1958;
+ per la citta' di Cesena e circondario, il contratto collettivo integrativo 31 luglio 1959;
+sono regolati da norme giuridiche uniformi alle clausole dei contratti e degli accordi collettivi anzidetti, annessi al presente decreto.
+ Dette norme sono integrative di quelle concernenti la disciplina, nazionale della categoria, purche' con esse compatibili.
+ I minimi di trattamento economico e normativo cosi' stabiliti sono inderogabili nei confronti di tutti i lavoratori stagionali, avventizi e giornalieri dipendenti dalle imprese esercenti il commercio all'ingrosso e di esportazione dei prodotti ortofrutticoli e agrumari delle province di Pavia, Rovigo, Ravenna, Bologna, Modena, Ascoli Piceno, Bari, Palermo e della citta' di Cesena e circondario.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 2 gennaio 1902
+Dato a Roma, addi' 2 gennaio 1902
 
-GRONCHI FANFANI - SULLO
-
-Visto, il Guardasigilli: BOSCO
-
-Registrato alla Corte dei conti, addi' 11 luglio 1962
-
-Atti del Governo, registro n. 153, foglio n. 12. - VILLA
-
-Allegato
-
-CONTRATTO COLLETTIVO INTEGRATIVO 15 OTTOBRE 1956 PER IL PERSONALE STAGIONALE, AVVENTIZIO E GIORNALIERO DIPENDENTE DA AZIENDE ESERCENTI IL COMMERCIO ALLO INGROSSO E DI ESPORTAZIONE DEI PRODOTTI ORTOFRUTTICOLI ED AGRUMARI DELLA PROVINCIA DI PAVIA   
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=062U098200100010110001&dgu=1962-07-31&art.dataPubblicazioneGazzetta=1962-07-31&art.codiceRedazionale=062U0982)
-  
-  
-  
-  
-ACCORDO COLLETTIVO INTEGRATIVO 31 MAGGIO 1954 PER IL PERSONALE DIPENDENTE DALLE AZIENDE COMMERCIALI ESERCENTI LA LAVORAZIONE E L'ESPORTAZIONE DI PRODOTTI ORTOFRUTTICOLI DELLA PROVINCIA DI ROVIGO.   
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=062U098200100010110002&dgu=1962-07-31&art.dataPubblicazioneGazzetta=1962-07-31&art.codiceRedazionale=062U0982)
-  
-  
-  
-  
-ACCORDO COLLETTIVO INTEGRATIVO 14 LUGLIO 1959 PER IL PERSONALE STAGIONALE AVVENTIZIO E GIORNALIERO DIPENDENTE DALLE AZIENDE ESERCENTI IL COMMERCIO ALL'INGROSSO E DI ESPORTAZIONE DI PRODOTTI ORTOFRUTTICOLI DELLA PROVINCIA DI RAVENNA.   
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=062U098200100010110003&dgu=1962-07-31&art.dataPubblicazioneGazzetta=1962-07-31&art.codiceRedazionale=062U0982)
-  
-  
-  
-  
-CONTRATTO COLLETTIVO INTEGRATIVO 1 OTTOBRE 1959 PER I LAVORATORI STAGIONALI, AVVENTIZI E GIORNALIERI DIPENDENTI DA AZIENDE ESERCENTI IL COMMERCIO ALL'INGROSSO E DI ESPORTAZIONE DEI PRODOTTI ORTOFRUTTICOLI E AGRUMARI DELLA PROVINCIA DI BOLOGNA.   
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=062U098200100010110004&dgu=1962-07-31&art.dataPubblicazioneGazzetta=1962-07-31&art.codiceRedazionale=062U0982)
-  
-  
-  
-  
-CONTRATTO COLLETTIVO INTEGRATIVO 6 GIUGNO 1959 PER IL PERSONALE STAGIONALE, AVVENTIZIO E GIORNALIERO DIPENDENTE DA AZIENDE ESERCENTI IL COMMERCIO ALL'INGROSSO E DI ESPORTAZIONE DEI PRODOTTI ORTOFRUTTICOLI E AGRUMARI DELLA PROVINCIA DI MODENA.   
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=062U098200100010110005&dgu=1962-07-31&art.dataPubblicazioneGazzetta=1962-07-31&art.codiceRedazionale=062U0982)
-  
-  
-  
-  
-CONTRATTO COLLETTIVO INTEGRATIVO 10 LUGLIO 1954 PER IL PERSONALE STAGIONALE AVVENTIZIO E GIORNALIERO DIPENDENTE DALLE AZIENDE ESERCENTI IL COMMERCIO ALL'INGROSSO E DI ESPORTAZIONE DEI PRODOTTI ORTOFRUTTICOLI E AGRUMARI DELLA PROVINCIA DI ASCOLI PICENO.   
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=062U098200100010110006&dgu=1962-07-31&art.dataPubblicazioneGazzetta=1962-07-31&art.codiceRedazionale=062U0982)
-  
-  
-  
-  
-CONTRATTO COLLETTIVO INTEGRATIVO 11 SETTEMBRE 1958 PER IL PERSONALE AVVENTIZIO E GIORNALIERO DIPENDENTE DA AZIENDE ESERCENTI IL COMMERCIO ALL'INGROSSO E DI ESPORTAZIONE DEI PRODOTTI ORTOFRUTTICOLI ED AGRUMARI DELLA PROVINCIA DI BARI.   
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=062U098200100010110007&dgu=1962-07-31&art.dataPubblicazioneGazzetta=1962-07-31&art.codiceRedazionale=062U0982)
-  
-  
-  
-  
-ACCORDO COLLETTIVO INTEGRATIVO 17 OTTOBRE 1958 PER IL PERSONALE STAGIONALE AVVENTIZIO E GIORNALIERO DIPENDENTE DA AZIENDE ESERCENTI IL COMMERCIO ALL'INGROSSO E DI ESPORTAZIONE DI PRODOTTI ORTOFRUTTICOLI ED AGRUMARI DELLA PROVINCIA DI PALERMO.   
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=062U098200100010110008&dgu=1962-07-31&art.dataPubblicazioneGazzetta=1962-07-31&art.codiceRedazionale=062U0982)
-  
-  
-  
-  
-CONTRATTO COLLETTIVO INTEGRATIVO 31 LUGLIO 1959 PER IL PERSONALE STAGIONALE, AVVENTIZIO E GIORNALIERO DIPENDENTE DALLE AZIENDE ESERCENTI IL COMMERCIO ALL'INGROSSO E DI ESPORTAZIONE DEI PRODOTTI ORTOFRUTTICOLI ED AGRUMARI DI CESENA E CIRCONDARIO.   
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=062U098200100010110009&dgu=1962-07-31&art.dataPubblicazioneGazzetta=1962-07-31&art.codiceRedazionale=062U0982)
-  
+GRONCHI FANFANI - SULLO Visto, il Guardasigilli: BOSCO Registrato alla Corte dei conti, addi' 11 luglio 1962 Atti del Governo, registro n. 153, foglio n. 12. - VILLA

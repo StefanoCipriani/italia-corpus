@@ -1,14 +1,14 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 24 maggio 1968 n. 760
-
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 24 maggio 1968 n. 760
-=============================================================
-
-Distacco della borgata Planais dal comune di Torviscosa con aggregazione al comune di San Giorgio di Nogaro.
-------------------------------------------------------------------------------------------------------------
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 760
+data: 1968-05-24
+titolo: "Distacco della borgata Planais dal comune di Torviscosa con aggregazione al comune di San Giorgio di Nogaro."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1968-05-24;760
+codice_redazionale: 068U0760
+vigente: true
+---
 
 IL PRESIDENTE DELLA REPUBBLICA
-------------------------------
 
 Vista la istanza in data 11 settembre 1965, con la quale la maggioranza qualificata dei contribuenti della borgata Planais del comune di Torviscova (Udine) ha chiesto la aggregazione della borgata medesima al comune di San Giorgio di Nogaro;
 
@@ -16,35 +16,20 @@ Viste le deliberazioni del consiglio comunale di San Giorgio di Nogaro in data 2
 
 Udito il parere espresso dalla prima sezione del Consiglio di Stato nell'adunanza del 3 aprile 1968;
 
-Visto l'[art. 7 del decreto presidenziale 9 agosto 1966, n. 834](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1966-08-09;834~art7); nonche' gli articoli 34 e 35 del testo unico della legge comunale e provinciale, approvato con [regio decreto 3 marzo 1934, n. 383](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-03-03;383);
+Visto l'[art. 7 del decreto presidenziale 9 agosto 1966, n. 834](Norme%20di%20attuazione%20dello%20Statuto%20speciale%20della%20Regione%20Friuli-Venezia%20Giulia%20in%20materia%20di%20ordinamento%20e%20circoscrizione%20dei%20Comuni%20e%20di%20toponomastica.md); nonche' gli articoli 34 e 35 del testo unico della legge comunale e provinciale, approvato con [regio decreto 3 marzo 1934, n. 383](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20del%20testo%20unico%20della%20legge%20comunale%20e%20provinciale.%20034U0383.md);
 
-Sulla
------
+Sulla proposta del Ministro Segretario di Stato per gli affari dell'interno; Decreta:
 
-proposta del Ministro Segretario di Stato per gli affari dell'interno; Decreta:
+## Art. 1.
 
-Art. 1
-------
+La borgata Planais e' distaccata dal comune di Torviscosa ed aggregata al comune di San Giorgio di Nogaro, con la circoscrizione territoriale risultante dalla pianta planimetrica e dalla relazione descrittiva dei confini, annesse al presente decreto.
 
-  
-La borgata Planais e' distaccata dal comune di Torviscosa ed aggregata al comune di San Giorgio di Nogaro, con la circoscrizione territoriale risultante dalla pianta planimetrica e dalla relazione descrittiva dei confini, annesse al presente decreto.  
+## Art. 2.
 
-Art. 2
-------
-
-  
-Il prefetto della provincia di Udine, sentito il comitato provinciale di controllo, provvedera' alla separazione patrimoniale ed al riparto delle attivita' e passivita'.  
-  
+Il prefetto della provincia di Udine, sentito il comitato provinciale di controllo, provvedera' alla separazione patrimoniale ed al riparto delle attivita' e passivita'.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 24 maggio 1968
+Dato a Roma, addi' 24 maggio 1968
 
-SARAGAT TAVIANI
-
-Visto, il Guardasigilli: REALE
-
-Registrato alla Corte dei conti, addi' 25 giugno 1968
-
-Atti del Governo, registro n. 220, foglio n. 88. - GRECO
+SARAGAT TAVIANI Visto, il Guardasigilli: REALE Registrato alla Corte dei conti, addi' 25 giugno 1968 Atti del Governo, registro n. 220, foglio n. 88. - GRECO

@@ -1,2625 +1,2449 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 27 aprile 1955 n. 547
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 547
+data: 1955-04-27
+titolo: "Norme per la prevenzione degli infortuni sul lavoro."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1955-04-27;547
+codice_redazionale: 055U0547
+vigente: true
+---
 
+## DISPOSIZIONI GENERALI  CAPO I CAMPO DI APPLICAZIONE Attivita' soggette.
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 27 aprile 1955 n. 547
-=============================================================
+TITOLO I
 
-Norme per la prevenzione degli infortuni sul lavoro.
-----------------------------------------------------
+### Art. 1.
 
-CAPO I TITOLO I DISPOSIZIONI GENERALI CAPO I CAMPO DI APPLICAZIONE Attivita' soggette.
---------------------------------------------------------------------------------------
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 9 APRILE 2008, N. 81))
 
-### Art. 1
+Attivita' escluse.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 9 APRILE 2008, N. 81](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-04-09;81)))
+### Art. 2.
 
-CAPO II Attivita' escluse.
---------------------------
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 9 APRILE 2008, N. 81))
 
-### Art. 2
+Definizione di lavoratore subordinato.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 9 APRILE 2008, N. 81](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-04-09;81)))
+### Art. 3.
 
-CAPO III Definizione di lavoratore subordinato.
------------------------------------------------
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 9 APRILE 2008, N. 81))
 
-### Art. 3
+## OBBLIGHI DEI DATORI DI LAVORO E DEI LAVORATORI Obblighi dei datori di lavoro, dei dirigenti e dei preposti.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 9 APRILE 2008, N. 81](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-04-09;81)))
+CAPO II
 
-CAPO IV CAPO II OBBLIGHI DEI DATORI DI LAVORO E DEI LAVORATORI Obblighi dei datori di lavoro, dei dirigenti e dei preposti.
----------------------------------------------------------------------------------------------------------------------------
+### Art. 4.
 
-### Art. 4
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 9 APRILE 2008, N. 81))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 9 APRILE 2008, N. 81](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-04-09;81)))
+### Art. 5.
 
-### Art. 5
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 9 APRILE 2008, N. 81))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 9 APRILE 2008, N. 81](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-04-09;81)))
+Doveri dei lavoratori.
 
-CAPO V Doveri dei lavoratori.
------------------------------
+### Art. 6.
 
-### Art. 6
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 9 APRILE 2008, N. 81))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 9 APRILE 2008, N. 81](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-04-09;81)))
+## OBBLIGHI DEI COSTRUTTORI E DEI COMMERCIANTI Produzione, vendita e noleggio per il mercato interno.
 
-CAPO VI CAPO III OBBLIGHI DEI COSTRUTTORI E DEI COMMERCIANTI Produzione, vendita e noleggio per il mercato interno.
--------------------------------------------------------------------------------------------------------------------
+CAPO III
 
-### Art. 7
+### Art. 7.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 9 APRILE 2008, N. 81](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-04-09;81)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 9 APRILE 2008, N. 81))
 
-CAPO VII TITOLO II AMBIENTI, POSTI DI LAVORO E DI PASSAGGIO CAPO I DISPOSIZIONI DI CARATTERE GENERALE Pavimenti e passaggi
---------------------------------------------------------------------------------------------------------------------------
+## AMBIENTI, POSTI DI LAVORO E DI PASSAGGIO  CAPO I DISPOSIZIONI DI CARATTERE GENERALE Pavimenti e passaggi
 
-### Art. 8
+TITOLO II
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 9 APRILE 2008, N. 81](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-04-09;81)))
+### Art. 8.
 
-CAPO VIII Solai.
-----------------
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 9 APRILE 2008, N. 81))
 
-### Art. 9
+Solai.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 9 APRILE 2008, N. 81](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-04-09;81)))
+### Art. 9.
 
-CAPO IX Aperture nel suolo e nelle pareti.
-------------------------------------------
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 9 APRILE 2008, N. 81))
 
-### Art. 10
+Aperture nel suolo e nelle pareti.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 9 APRILE 2008, N. 81](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-04-09;81)))
+### Art. 10.
 
-CAPO X Posti di lavoro e di passaggio.
---------------------------------------
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 9 APRILE 2008, N. 81))
 
-### Art. 11
+Posti di lavoro e di passaggio.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 9 APRILE 2008, N. 81](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-04-09;81)))
+### Art. 11.
 
-CAPO XI Schermi paraschegge.
-----------------------------
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 9 APRILE 2008, N. 81))
 
-### Art. 12
+Schermi paraschegge.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 9 APRILE 2008, N. 81](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-04-09;81)))
+### Art. 12.
 
-CAPO XII Uscite dai locali di lavoro.
--------------------------------------
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 9 APRILE 2008, N. 81))
 
-### Art. 13
+Uscite dai locali di lavoro.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 9 APRILE 2008, N. 81](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-04-09;81)))
+### Art. 13.
 
-### Art. 14
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 9 APRILE 2008, N. 81))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 9 APRILE 2008, N. 81](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-04-09;81)))
+### Art. 14.
 
-CAPO XIII Spazio destinato al lavoratore.
------------------------------------------
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 9 APRILE 2008, N. 81))
 
-### Art. 15
+Spazio destinato al lavoratore.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 9 APRILE 2008, N. 81](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-04-09;81)))
+### Art. 15.
 
-CAPO XIV CAPO II SCALE FISSE Scale fisse a gradini.
----------------------------------------------------
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 9 APRILE 2008, N. 81))
 
-### Art. 16
+## SCALE FISSE Scale fisse a gradini.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 9 APRILE 2008, N. 81](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-04-09;81)))
+CAPO II
 
-CAPO XV Scale fisse a pioli.
-----------------------------
+### Art. 16.
 
-### Art. 17
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 9 APRILE 2008, N. 81))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 9 APRILE 2008, N. 81](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-04-09;81)))
+Scale fisse a pioli.
 
-CAPO XVI CAPO III SCALE E PONTI SOSPESI Scale semplici portatili
-----------------------------------------------------------------
+### Art. 17.
 
-### Art. 18
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 9 APRILE 2008, N. 81))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 9 APRILE 2008, N. 81](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-04-09;81)))
+## SCALE E PONTI SOSPESI Scale semplici portatili
 
-### Art. 19
+CAPO III
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 9 APRILE 2008, N. 81](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-04-09;81)))
+### Art. 18.
 
-CAPO XVII Scale ad elementi innestati.
---------------------------------------
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 9 APRILE 2008, N. 81))
 
-### Art. 20
+### Art. 19.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 9 APRILE 2008, N. 81](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-04-09;81)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 9 APRILE 2008, N. 81))
 
-CAPO XVIII Scale doppie.
-------------------------
+Scale ad elementi innestati.
 
-### Art. 21
+### Art. 20.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 9 APRILE 2008, N. 81](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-04-09;81)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 9 APRILE 2008, N. 81))
 
-CAPO XIX Scale aeree e ponti mobili sviluppabili.
--------------------------------------------------
+Scale doppie.
 
-### Art. 22
+### Art. 21.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 9 APRILE 2008, N. 81](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-04-09;81)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 9 APRILE 2008, N. 81))
 
-CAPO XX Ponti e sedie sospesi.
-------------------------------
+Scale aeree e ponti mobili sviluppabili.
 
-### Art. 23
+### Art. 22.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 9 APRILE 2008, N. 81](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-04-09;81)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 9 APRILE 2008, N. 81))
 
-CAPO XXI Utensili a mano.
--------------------------
+Ponti e sedie sospesi.
 
-### Art. 24
+### Art. 23.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 9 APRILE 2008, N. 81](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-04-09;81)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 9 APRILE 2008, N. 81))
 
-CAPO XXII Verifiche
--------------------
+Utensili a mano.
 
-### Art. 25
+### Art. 24.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 9 APRILE 2008, N. 81](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-04-09;81)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 9 APRILE 2008, N. 81))
 
-CAPO XXIII CAPO IV PARAPETTI Parapetto normale.
------------------------------------------------
+Verifiche
 
-### Art. 26
+### Art. 25.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 9 APRILE 2008, N. 81](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-04-09;81)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 9 APRILE 2008, N. 81))
 
-CAPO XXIV Protezione delle impalcature, delle passerelle e dei ripiani.
------------------------------------------------------------------------
+## PARAPETTI Parapetto normale.
 
-### Art. 27
+CAPO IV
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 9 APRILE 2008, N. 81](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-04-09;81)))
+### Art. 26.
 
-CAPO XXV CAPO V ILLUMINAZIONE Illuminazione generale.
------------------------------------------------------
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 9 APRILE 2008, N. 81))
 
-### Art. 28
+Protezione delle impalcature, delle passerelle e dei ripiani.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 9 APRILE 2008, N. 81](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-04-09;81)))
+### Art. 27.
 
-CAPO XXVI Illuminazione particolare.
-------------------------------------
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 9 APRILE 2008, N. 81))
 
-### Art. 29
+## ILLUMINAZIONE Illuminazione generale.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 9 APRILE 2008, N. 81](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-04-09;81)))
+CAPO V
 
-CAPO XXVII Deroghe per esigenze tecniche.
------------------------------------------
+### Art. 28.
 
-### Art. 30
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 9 APRILE 2008, N. 81))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 9 APRILE 2008, N. 81](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-04-09;81)))
+Illuminazione particolare.
 
-CAPO XXVIII Illuminazione sussidiaria.
---------------------------------------
+### Art. 29.
 
-### Art. 31
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 9 APRILE 2008, N. 81))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 9 APRILE 2008, N. 81](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-04-09;81)))
+Deroghe per esigenze tecniche.
 
-### Art. 32
+### Art. 30.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 9 APRILE 2008, N. 81](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-04-09;81)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 9 APRILE 2008, N. 81))
 
-CAPO XXIX CAPO VI DIFESA CONTRO GLI INCENDI E LE SCARICHE ATMOSFERICHE Difesa contro gli incendi.
--------------------------------------------------------------------------------------------------
+Illuminazione sussidiaria.
 
-### Art. 33
+### Art. 31.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 9 APRILE 2008, N. 81](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-04-09;81)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 9 APRILE 2008, N. 81))
 
-CAPO XXX Divieti - Mezzi di estinzione - Allontanamento dei lavoratori.
------------------------------------------------------------------------
+### Art. 32.
 
-### Art. 34
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 9 APRILE 2008, N. 81))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 9 APRILE 2008, N. 81](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-04-09;81)))
+## DIFESA CONTRO GLI INCENDI E LE SCARICHE ATMOSFERICHE Difesa contro gli incendi.
 
-### Art. 35
+CAPO VI
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 9 APRILE 2008, N. 81](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-04-09;81)))
+### Art. 33.
 
-CAPO XXXI Lavorazioni pericolose e controllo dei Vigili del fuoco.
-------------------------------------------------------------------
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 9 APRILE 2008, N. 81))
 
-### Art. 36
+Divieti - Mezzi di estinzione - Allontanamento dei lavoratori.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 9 APRILE 2008, N. 81](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-04-09;81)))
+### Art. 34.
 
-### Art. 37
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 9 APRILE 2008, N. 81))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 9 APRILE 2008, N. 81](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-04-09;81)))
+### Art. 35.
 
-CAPO XXXII Scariche atmosferiche.
----------------------------------
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 9 APRILE 2008, N. 81))
 
-### Art. 38
+Lavorazioni pericolose e controllo dei Vigili del fuoco.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 9 APRILE 2008, N. 81](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-04-09;81)))
+### Art. 36.
 
-### Art. 39
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 9 APRILE 2008, N. 81))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 9 APRILE 2008, N. 81](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-04-09;81)))
+### Art. 37.
 
-### Art. 40
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 9 APRILE 2008, N. 81))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 9 APRILE 2008, N. 81](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-04-09;81)))
+Scariche atmosferiche.
 
-CAPO XXXIII TITOLO III NORME GENERALI DI PROTEZIONE DELLE MACCHINE CAPO I DISPOSIZIONI DI CARATTERE GENERALE Protezione e sicurezza delle macchine.
----------------------------------------------------------------------------------------------------------------------------------------------------
+### Art. 38.
 
-### Art. 41
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 9 APRILE 2008, N. 81))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 9 APRILE 2008, N. 81](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-04-09;81)))
+### Art. 39.
 
-CAPO XXXIV Parti salienti degli organi delle macchine.
-------------------------------------------------------
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 9 APRILE 2008, N. 81))
 
-### Art. 42
+### Art. 40.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 9 APRILE 2008, N. 81](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-04-09;81)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 9 APRILE 2008, N. 81))
 
-CAPO XXXV Manovellismi.
------------------------
+## NORME GENERALI DI PROTEZIONE DELLE MACCHINE  CAPO I DISPOSIZIONI DI CARATTERE GENERALE Protezione e sicurezza delle macchine.
 
-### Art. 43
+TITOLO III
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 9 APRILE 2008, N. 81](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-04-09;81)))
+### Art. 41.
 
-CAPO XXXVI Tratti terminali sporgenti degli alberi.
----------------------------------------------------
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 9 APRILE 2008, N. 81))
 
-### Art. 44
+Parti salienti degli organi delle macchine.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 9 APRILE 2008, N. 81](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-04-09;81)))
+### Art. 42.
 
-CAPO XXXVII Protezione in caso di rottura di macchine.
-------------------------------------------------------
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 9 APRILE 2008, N. 81))
 
-### Art. 45
+Manovellismi.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 9 APRILE 2008, N. 81](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-04-09;81)))
+### Art. 43.
 
-CAPO XXXVIII Scuotimenti e vibrazioni delle macchine.
------------------------------------------------------
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 9 APRILE 2008, N. 81))
 
-### Art. 46
+Tratti terminali sporgenti degli alberi.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 9 APRILE 2008, N. 81](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-04-09;81)))
+### Art. 44.
 
-CAPO XXXIX Rimozione temporanea delle protezioni e dei dispositivi di sicurezza.
---------------------------------------------------------------------------------
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 9 APRILE 2008, N. 81))
 
-### Art. 47
+Protezione in caso di rottura di macchine.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 9 APRILE 2008, N. 81](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-04-09;81)))
+### Art. 45.
 
-CAPO XL Divieto di pulire, oliare o ingrassare organi in moto.
---------------------------------------------------------------
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 9 APRILE 2008, N. 81))
 
-### Art. 48
+Scuotimenti e vibrazioni delle macchine.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 9 APRILE 2008, N. 81](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-04-09;81)))
+### Art. 46.
 
-CAPO XLI Divieto di operazioni di riparazione o registrazione su organi in moto.
---------------------------------------------------------------------------------
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 9 APRILE 2008, N. 81))
 
-### Art. 49
+Rimozione temporanea delle protezioni e dei dispositivi di sicurezza.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 9 APRILE 2008, N. 81](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-04-09;81)))
+### Art. 47.
 
-CAPO XLII CAPO II MOTORI Segregazione dei motori.
--------------------------------------------------
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 9 APRILE 2008, N. 81))
 
-### Art. 50
+Divieto di pulire, oliare o ingrassare organi in moto.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 9 APRILE 2008, N. 81](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-04-09;81)))
+### Art. 48.
 
-CAPO XLIII Regolatore automatico di velocita'.
-----------------------------------------------
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 9 APRILE 2008, N. 81))
 
-### Art. 51
+## in moto.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 9 APRILE 2008, N. 81](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-04-09;81)))
+Divieto di operazioni di riparazione o registrazione su organi
 
-CAPO XLIV Messa in moto e arresto dei motori.
----------------------------------------------
+### Art. 49.
 
-### Art. 52
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 9 APRILE 2008, N. 81))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 9 APRILE 2008, N. 81](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-04-09;81)))
+## MOTORI Segregazione dei motori.
 
-### Art. 53
+CAPO II
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 9 APRILE 2008, N. 81](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-04-09;81)))
+### Art. 50.
 
-### Art. 54
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 9 APRILE 2008, N. 81))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 9 APRILE 2008, N. 81](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-04-09;81)))
+Regolatore automatico di velocita'.
 
-CAPO XLV CAPO III TRASMISSIONI E INGRANAGGI Organi ed elementi per la trasmissione del moto.
---------------------------------------------------------------------------------------------
+### Art. 51.
 
-### Art. 55
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 9 APRILE 2008, N. 81))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 9 APRILE 2008, N. 81](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-04-09;81)))
+Messa in moto e arresto dei motori.
 
-CAPO XLVI Alberi, cinghie e funi di trasmissione.
--------------------------------------------------
+### Art. 52.
 
-### Art. 56
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 9 APRILE 2008, N. 81))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 9 APRILE 2008, N. 81](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-04-09;81)))
+### Art. 53.
 
-### Art. 57
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 9 APRILE 2008, N. 81))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 9 APRILE 2008, N. 81](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-04-09;81)))
+### Art. 54.
 
-### Art. 58
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 9 APRILE 2008, N. 81))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 9 APRILE 2008, N. 81](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-04-09;81)))
+## TRASMISSIONI E INGRANAGGI Organi ed elementi per la trasmissione del moto.
 
-CAPO XLVII Ingranaggi.
-----------------------
+CAPO III
 
-### Art. 59
+### Art. 55.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 9 APRILE 2008, N. 81](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-04-09;81)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 9 APRILE 2008, N. 81))
 
-CAPO XLVIII Coni e cilindri di frizione.
-----------------------------------------
+Alberi, cinghie e funi di trasmissione.
 
-### Art. 60
+### Art. 56.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 9 APRILE 2008, N. 81](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-04-09;81)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 9 APRILE 2008, N. 81))
 
-CAPO XLIX Catene di trasmissione.
----------------------------------
+### Art. 57.
 
-### Art. 61
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 9 APRILE 2008, N. 81))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 9 APRILE 2008, N. 81](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-04-09;81)))
+### Art. 58.
 
-CAPO L Montaggio e smontaggio delle cinghie.
---------------------------------------------
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 9 APRILE 2008, N. 81))
 
-### Art. 62
+Ingranaggi.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 9 APRILE 2008, N. 81](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-04-09;81)))
+### Art. 59.
 
-CAPO LI Ganci portacinghie.
----------------------------
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 9 APRILE 2008, N. 81))
 
-### Art. 63
+Coni e cilindri di frizione.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 9 APRILE 2008, N. 81](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-04-09;81)))
+### Art. 60.
 
-CAPO LII Giunzione delle cinghie.
----------------------------------
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 9 APRILE 2008, N. 81))
 
-### Art. 64
+Catene di trasmissione.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 9 APRILE 2008, N. 81](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-04-09;81)))
+### Art. 61.
 
-CAPO LIII Coppie di pulegge fissa e folle.
-------------------------------------------
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 9 APRILE 2008, N. 81))
 
-### Art. 65
+Montaggio e smontaggio delle cinghie.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 9 APRILE 2008, N. 81](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-04-09;81)))
+### Art. 62.
 
-CAPO LIV Disinnesti di sezionamento nelle trasmissioni estese.
---------------------------------------------------------------
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 9 APRILE 2008, N. 81))
 
-### Art. 66
+Ganci portacinghie.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 9 APRILE 2008, N. 81](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-04-09;81)))
+### Art. 63.
 
-CAPO LV Preavviso di avviamento di trasmissioni.
-------------------------------------------------
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 9 APRILE 2008, N. 81))
 
-### Art. 67
+Giunzione delle cinghie.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 9 APRILE 2008, N. 81](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-04-09;81)))
+### Art. 64.
 
-CAPO LVI CAPO IV MACCHINE OPERATRICI E VARIE Protezione degli organi lavoratori e delle zone di operazione delle macchine.
---------------------------------------------------------------------------------------------------------------------------
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 9 APRILE 2008, N. 81))
 
-### Art. 68
+Coppie di pulegge fissa e folle.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 9 APRILE 2008, N. 81](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-04-09;81)))
+### Art. 65.
 
-### Art. 69
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 9 APRILE 2008, N. 81))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 9 APRILE 2008, N. 81](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-04-09;81)))
+Disinnesti di sezionamento nelle trasmissioni estese.
 
-### Art. 70
+### Art. 66.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 9 APRILE 2008, N. 81](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-04-09;81)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 9 APRILE 2008, N. 81))
 
-### Art. 71
+Preavviso di avviamento di trasmissioni.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 9 APRILE 2008, N. 81](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-04-09;81)))
+### Art. 67.
 
-CAPO LVII Blocco degli apparecchi di protezione.
-------------------------------------------------
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 9 APRILE 2008, N. 81))
 
-### Art. 72
+## MACCHINE OPERATRICI E VARIE Protezione degli organi lavoratori e delle zone di operazione delle macchine.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 9 APRILE 2008, N. 81](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-04-09;81)))
+CAPO IV
 
-CAPO LVIII Aperture di alimentazione e di scarico delle macchine.
------------------------------------------------------------------
+### Art. 68.
 
-### Art. 73
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 9 APRILE 2008, N. 81))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 9 APRILE 2008, N. 81](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-04-09;81)))
+### Art. 69.
 
-CAPO LIX Fissaggio degli organi lavoratori a velocita' elevate.
----------------------------------------------------------------
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 9 APRILE 2008, N. 81))
 
-### Art. 74
+### Art. 70.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 9 APRILE 2008, N. 81](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-04-09;81)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 9 APRILE 2008, N. 81))
 
-CAPO LX Protezione contro le proiezioni di materiali.
------------------------------------------------------
+### Art. 71.
 
-### Art. 75
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 9 APRILE 2008, N. 81))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 9 APRILE 2008, N. 81](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-04-09;81)))
+Blocco degli apparecchi di protezione.
 
-CAPO LXI Organi di comando per la messa in moto delle macchine.
----------------------------------------------------------------
+### Art. 72.
 
-### Art. 76
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 9 APRILE 2008, N. 81))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 9 APRILE 2008, N. 81](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-04-09;81)))
+Aperture di alimentazione e di scarico delle macchine.
 
-### Art. 77
+### Art. 73.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 9 APRILE 2008, N. 81](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-04-09;81)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 9 APRILE 2008, N. 81))
 
-CAPO LXII Comando a pedale delle macchine.
-------------------------------------------
+Fissaggio degli organi lavoratori a velocita' elevate.
 
-### Art. 78
+### Art. 74.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 9 APRILE 2008, N. 81](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-04-09;81)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 9 APRILE 2008, N. 81))
 
-CAPO LXIII Innesto e disinnesto delle macchine comandate da trasmissione.
--------------------------------------------------------------------------
+Protezione contro le proiezioni di materiali.
 
-### Art. 79
+### Art. 75.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 9 APRILE 2008, N. 81](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-04-09;81)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 9 APRILE 2008, N. 81))
 
-CAPO LXIV Preavviso di avviamento di macchine complesse.
---------------------------------------------------------
+Organi di comando per la messa in moto delle macchine.
 
-### Art. 80
+### Art. 76.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 9 APRILE 2008, N. 81](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-04-09;81)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 9 APRILE 2008, N. 81))
 
-CAPO LXV Comando con dispositivo di blocco multiplo.
-----------------------------------------------------
+### Art. 77.
 
-### Art. 81
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 9 APRILE 2008, N. 81))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 9 APRILE 2008, N. 81](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-04-09;81)))
+Comando a pedale delle macchine.
 
-CAPO LXVI Blocco della posizione di fermo della macchina.
----------------------------------------------------------
+### Art. 78.
 
-### Art. 82
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 9 APRILE 2008, N. 81))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 9 APRILE 2008, N. 81](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-04-09;81)))
+Innesto e disinnesto delle macchine comandate da trasmissione.
 
-CAPO LXVII Spazio libero oltre i limiti di corsa degli organi a movimento alternativo.
---------------------------------------------------------------------------------------
+### Art. 79.
 
-### Art. 83
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 9 APRILE 2008, N. 81))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 9 APRILE 2008, N. 81](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-04-09;81)))
+Preavviso di avviamento di macchine complesse.
 
-CAPO LXVIII TITOLO IV NORME PARTICOLARI DI PROTEZIONE PER DETERMINATE MACCHINE CAPO I MOLE ABRASIVE Collaudo - Velocita' di uso Coefficiente di sicurezza.
-----------------------------------------------------------------------------------------------------------------------------------------------------------
+### Art. 80.
 
-### Art. 84
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 9 APRILE 2008, N. 81))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 9 APRILE 2008, N. 81](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-04-09;81)))
+Comando con dispositivo di blocco multiplo.
 
-### Art. 85
+### Art. 81.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 9 APRILE 2008, N. 81](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-04-09;81)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 9 APRILE 2008, N. 81))
 
-### Art. 86
+Blocco della posizione di fermo della macchina.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 9 APRILE 2008, N. 81](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-04-09;81)))
+### Art. 82.
 
-CAPO LXIX Molatrici a piu' velocita'.
--------------------------------------
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 9 APRILE 2008, N. 81))
 
-### Art. 87
+## movimento alternativo.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 9 APRILE 2008, N. 81](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-04-09;81)))
+Spazio libero oltre i limiti di corsa degli organi a
 
-CAPO LXX Flange ed altri mezzi di fissaggio delle mole.
--------------------------------------------------------
+### Art. 83.
 
-### Art. 88
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 9 APRILE 2008, N. 81))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 9 APRILE 2008, N. 81](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-04-09;81)))
+## NORME PARTICOLARI DI PROTEZIONE PER DETERMINATE MACCHINE  CAPO I MOLE ABRASIVE Collaudo - Velocita' di uso Coefficiente di sicurezza.
 
-CAPO LXXI Cuffie di protezione.
--------------------------------
+TITOLO IV
 
-### Art. 89
+### Art. 84.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 9 APRILE 2008, N. 81](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-04-09;81)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 9 APRILE 2008, N. 81))
 
-### Art. 90
+### Art. 85.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 9 APRILE 2008, N. 81](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-04-09;81)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 9 APRILE 2008, N. 81))
 
-CAPO LXXII Poggiapezzi.
------------------------
+### Art. 86.
 
-### Art. 91
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 9 APRILE 2008, N. 81))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 9 APRILE 2008, N. 81](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-04-09;81)))
+Molatrici a piu' velocita'.
 
-CAPO LXXIII Protezione contro le schegge.
------------------------------------------
+### Art. 87.
 
-### Art. 92
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 9 APRILE 2008, N. 81))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 9 APRILE 2008, N. 81](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-04-09;81)))
+Flange ed altri mezzi di fissaggio delle mole.
 
-CAPO LXXIV Mole naturali.
--------------------------
+### Art. 88.
 
-### Art. 93
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 9 APRILE 2008, N. 81))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 9 APRILE 2008, N. 81](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-04-09;81)))
+Cuffie di protezione.
 
-CAPO LXXV Pulitrici e levigatrici.
-----------------------------------
+### Art. 89.
 
-### Art. 94
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 9 APRILE 2008, N. 81))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 9 APRILE 2008, N. 81](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-04-09;81)))
+### Art. 90.
 
-CAPO LXXVI CAPO II BOTTALI, IMPASTATRICI GRAMOLATRICI E MACCHINE SIMILI Bottali e macchine simili.
---------------------------------------------------------------------------------------------------
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 9 APRILE 2008, N. 81))
 
-### Art. 95
+Poggiapezzi.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 9 APRILE 2008, N. 81](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-04-09;81)))
+### Art. 91.
 
-### Art. 96
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 9 APRILE 2008, N. 81))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 9 APRILE 2008, N. 81](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-04-09;81)))
+Protezione contro le schegge.
 
-CAPO LXXVII Impastatrici, gramolatrici e simili.
-------------------------------------------------
+### Art. 92.
 
-### Art. 97
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 9 APRILE 2008, N. 81))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 9 APRILE 2008, N. 81](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-04-09;81)))
+Mole naturali.
 
-### Art. 98
+### Art. 93.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 9 APRILE 2008, N. 81](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-04-09;81)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 9 APRILE 2008, N. 81))
 
-CAPO LXXVIII CAPO III MACCHINE DI FUCINATURA E STAMPAGGIO PER URTO Blocco della testa portastampo.
---------------------------------------------------------------------------------------------------
+Pulitrici e levigatrici.
 
-### Art. 99
+### Art. 94.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 9 APRILE 2008, N. 81](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-04-09;81)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 9 APRILE 2008, N. 81))
 
-CAPO LXXIX Schermi di difesa.
------------------------------
+## BOTTALI, IMPASTATRICI GRAMOLATRICI E MACCHINE SIMILI Bottali e macchine simili.
 
-### Art. 100
+CAPO II
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 9 APRILE 2008, N. 81](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-04-09;81)))
+### Art. 95.
 
-CAPO LXXX CAPO IV MACCHINE UTENSILI PER METALLI Torni.
-------------------------------------------------------
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 9 APRILE 2008, N. 81))
 
-### Art. 101
+### Art. 96.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 9 APRILE 2008, N. 81](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-04-09;81)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 9 APRILE 2008, N. 81))
 
-### Art. 102
+Impastatrici, gramolatrici e simili.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 9 APRILE 2008, N. 81](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-04-09;81)))
+### Art. 97.
 
-CAPO LXXXI Piallatrici.
------------------------
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 9 APRILE 2008, N. 81))
 
-### Art. 103
+### Art. 98.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 9 APRILE 2008, N. 81](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-04-09;81)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 9 APRILE 2008, N. 81))
 
-CAPO LXXXII Trapani.
---------------------
+## MACCHINE DI FUCINATURA E STAMPAGGIO PER URTO Blocco della testa portastampo.
 
-### Art. 104
+CAPO III
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 9 APRILE 2008, N. 81](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-04-09;81)))
+### Art. 99.
 
-CAPO LXXXIII Seghe per metalli.
--------------------------------
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 9 APRILE 2008, N. 81))
 
-### Art. 105
+Schermi di difesa.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 9 APRILE 2008, N. 81](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-04-09;81)))
+### Art. 100.
 
-### Art. 106
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 9 APRILE 2008, N. 81))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 9 APRILE 2008, N. 81](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-04-09;81)))
+## MACCHINE UTENSILI PER METALLI Torni.
 
-CAPO LXXXIV CAPO V MACCHINE UTENSILI PER LEGNO E MATERIALI AFFINI Seghe alternative.
-------------------------------------------------------------------------------------
+CAPO IV
 
-### Art. 107
+### Art. 101.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 9 APRILE 2008, N. 81](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-04-09;81)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 9 APRILE 2008, N. 81))
 
-CAPO LXXXV Seghe a nastro.
---------------------------
+### Art. 102.
 
-### Art. 108
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 9 APRILE 2008, N. 81))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 9 APRILE 2008, N. 81](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-04-09;81)))
+Piallatrici.
 
-CAPO LXXXVI Seghe circolari.
-----------------------------
+### Art. 103.
 
-### Art. 109
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 9 APRILE 2008, N. 81))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 9 APRILE 2008, N. 81](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-04-09;81)))
+Trapani.
 
-### Art. 110
+### Art. 104.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 9 APRILE 2008, N. 81](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-04-09;81)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 9 APRILE 2008, N. 81))
 
-CAPO LXXXVII Pialle a filo.
----------------------------
+Seghe per metalli.
 
-### Art. 111
+### Art. 105.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 9 APRILE 2008, N. 81](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-04-09;81)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 9 APRILE 2008, N. 81))
 
-CAPO LXXXVIII Pialle a spessore.
---------------------------------
+### Art. 106.
 
-### Art. 112
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 9 APRILE 2008, N. 81))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 9 APRILE 2008, N. 81](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-04-09;81)))
+## MACCHINE UTENSILI PER LEGNO E MATERIALI AFFINI Seghe alternative.
 
-CAPO LXXXIX Fresatrici da legno.
---------------------------------
+CAPO V
 
-### Art. 113
+### Art. 107.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 9 APRILE 2008, N. 81](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-04-09;81)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 9 APRILE 2008, N. 81))
 
-CAPO XC Lavorazione di piccoli pezzi.
--------------------------------------
+Seghe a nastro.
 
-### Art. 114
+### Art. 108.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 9 APRILE 2008, N. 81](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-04-09;81)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 9 APRILE 2008, N. 81))
 
-CAPO XCI CAPO VI PRESSE E CESOIE Dispositivi per le presse in genere.
----------------------------------------------------------------------
+Seghe circolari.
 
-### Art. 115
+### Art. 109.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 9 APRILE 2008, N. 81](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-04-09;81)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 9 APRILE 2008, N. 81))
 
-### Art. 116
+### Art. 110.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 9 APRILE 2008, N. 81](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-04-09;81)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 9 APRILE 2008, N. 81))
 
-### Art. 117
+Pialle a filo.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 9 APRILE 2008, N. 81](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-04-09;81)))
+### Art. 111.
 
-### Art. 118
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 9 APRILE 2008, N. 81))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 9 APRILE 2008, N. 81](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-04-09;81)))
+Pialle a spessore.
 
-CAPO XCII Presse a bilanciere azionate a mano.
-----------------------------------------------
+### Art. 112.
 
-### Art. 119
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 9 APRILE 2008, N. 81))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 9 APRILE 2008, N. 81](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-04-09;81)))
+Fresatrici da legno.
 
-CAPO XCIII Cesoie a ghigliottina.
----------------------------------
+### Art. 113.
 
-### Art. 120
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 9 APRILE 2008, N. 81))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 9 APRILE 2008, N. 81](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-04-09;81)))
+Lavorazione di piccoli pezzi.
 
-CAPO XCIV Grandi cesoie a ghigliottina.
----------------------------------------
+### Art. 114.
 
-### Art. 121
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 9 APRILE 2008, N. 81))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 9 APRILE 2008, N. 81](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-04-09;81)))
+## PRESSE E CESOIE Dispositivi per le presse in genere.
 
-CAPO XCV Cesoie a coltelli circolari.
--------------------------------------
+CAPO VI
 
-### Art. 122
+### Art. 115.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 9 APRILE 2008, N. 81](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-04-09;81)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 9 APRILE 2008, N. 81))
 
-CAPO XCVI Cesoie a tamburo portacoltelli e simili.
---------------------------------------------------
+### Art. 116.
 
-### Art. 123
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 9 APRILE 2008, N. 81))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 9 APRILE 2008, N. 81](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-04-09;81)))
+### Art. 117.
 
-CAPO XCVII CAPO VII FRANTOI, DISINTEGRATORI, MOLAZZE E POLVERIZZATORI Protezione degli organi lavoratori.
----------------------------------------------------------------------------------------------------------
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 9 APRILE 2008, N. 81))
 
-### Art. 124
+### Art. 118.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 9 APRILE 2008, N. 81](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-04-09;81)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 9 APRILE 2008, N. 81))
 
-CAPO XCVIII Molini a palle e macchine simili.
----------------------------------------------
+Presse a bilanciere azionate a mano.
 
-### Art. 125
+### Art. 119.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 9 APRILE 2008, N. 81](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-04-09;81)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 9 APRILE 2008, N. 81))
 
-CAPO XCIX Frantoi, disintegratori e macchine simili.
-----------------------------------------------------
+Cesoie a ghigliottina.
 
-### Art. 126
+### Art. 120.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 9 APRILE 2008, N. 81](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-04-09;81)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 9 APRILE 2008, N. 81))
 
-CAPO C Molazze.
----------------
+Grandi cesoie a ghigliottina.
 
-### Art. 127
+### Art. 121.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 9 APRILE 2008, N. 81](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-04-09;81)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 9 APRILE 2008, N. 81))
 
-CAPO CI Berte a caduta libera.
-------------------------------
+Cesoie a coltelli circolari.
 
-### Art. 128
+### Art. 122.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 9 APRILE 2008, N. 81](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-04-09;81)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 9 APRILE 2008, N. 81))
 
-CAPO CII CAPO VIII MACCHINE PER CENTRIFUGARE E SIMILI Limiti di velocita' e di carico.
---------------------------------------------------------------------------------------
+Cesoie a tamburo portacoltelli e simili.
 
-### Art. 129
+### Art. 123.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 9 APRILE 2008, N. 81](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-04-09;81)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 9 APRILE 2008, N. 81))
 
-CAPO CIII Coperchio e freno.
-----------------------------
+## FRANTOI, DISINTEGRATORI, MOLAZZE E POLVERIZZATORI Protezione degli organi lavoratori.
 
-### Art. 130
+CAPO VII
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 9 APRILE 2008, N. 81](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-04-09;81)))
+### Art. 124.
 
-CAPO CIV Verifiche periodiche.
-------------------------------
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 9 APRILE 2008, N. 81))
 
-### Art. 131
+Molini a palle e macchine simili.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 9 APRILE 2008, N. 81](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-04-09;81)))
+### Art. 125.
 
-CAPO CV CAPO IX LAMINATOI, RULLATRICI, CALANDRE E CILINDRI Laminatoi, rullatrici, calandre e cilindri in genere.
-----------------------------------------------------------------------------------------------------------------
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 9 APRILE 2008, N. 81))
 
-### Art. 132
+Frantoi, disintegratori e macchine simili.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 9 APRILE 2008, N. 81](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-04-09;81)))
+### Art. 126.
 
-CAPO CVI Disposizioni speciali per laminatoi e calandre molto pericolosi.
--------------------------------------------------------------------------
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 9 APRILE 2008, N. 81))
 
-### Art. 133
+Molazze.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 9 APRILE 2008, N. 81](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-04-09;81)))
+### Art. 127.
 
-CAPO CVII Laminatoi siderurgici e simili.
------------------------------------------
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 9 APRILE 2008, N. 81))
 
-### Art. 134
+Berte a caduta libera.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 9 APRILE 2008, N. 81](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-04-09;81)))
+### Art. 128.
 
-CAPO CVIII CAPO X APRITOI, BATTITOI, CARDE, SFILACCIATRICI, PETTINATRICI E MACCHINE SIMILI Protezione degli organi lavoratori dal contatto occidentale.
--------------------------------------------------------------------------------------------------------------------------------------------------------
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 9 APRILE 2008, N. 81))
 
-### Art. 135
+## MACCHINE PER CENTRIFUGARE E SIMILI Limiti di velocita' e di carico.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 9 APRILE 2008, N. 81](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-04-09;81)))
+CAPO VIII
 
-### Art. 136
+### Art. 129.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 9 APRILE 2008, N. 81](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-04-09;81)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 9 APRILE 2008, N. 81))
 
-CAPO CIX Aperture di carico e scarico.
---------------------------------------
+Coperchio e freno.
 
-### Art. 137
+### Art. 130.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 9 APRILE 2008, N. 81](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-04-09;81)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 9 APRILE 2008, N. 81))
 
-CAPO CX Zona di imbocco dei cilindri alimentatori.
---------------------------------------------------
+Verifiche periodiche.
 
-### Art. 138
+### Art. 131.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 9 APRILE 2008, N. 81](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-04-09;81)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 9 APRILE 2008, N. 81))
 
-CAPO CXI CAPO XI MACCHINE PER FILARE E SIMILI Ingranaggi delle macchine per filare in genere.
----------------------------------------------------------------------------------------------
+## LAMINATOI, RULLATRICI, CALANDRE E CILINDRI Laminatoi, rullatrici, calandre e cilindri in genere.
 
-### Art. 139
+CAPO IX
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 9 APRILE 2008, N. 81](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-04-09;81)))
+### Art. 132.
 
-CAPO CXII Imbocco dei tamburi di comando dei fusi.
---------------------------------------------------
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 9 APRILE 2008, N. 81))
 
-### Art. 140
+Disposizioni speciali per laminatoi e calandre molto pericolosi.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 9 APRILE 2008, N. 81](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-04-09;81)))
+### Art. 133.
 
-CAPO CXIII Montaggio delle funicelle sui tamburi di comando dei fusi.
----------------------------------------------------------------------
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 9 APRILE 2008, N. 81))
 
-### Art. 141
+Laminatoi siderurgici e simili.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 9 APRILE 2008, N. 81](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-04-09;81)))
+### Art. 134.
 
-CAPO CXIV Filatoi automatici intermittenti.
--------------------------------------------
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 9 APRILE 2008, N. 81))
 
-### Art. 142
+## APRITOI, BATTITOI, CARDE, SFILACCIATRICI, PETTINATRICI E MACCHINE SIMILI Protezione degli organi lavoratori dal contatto occidentale.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 9 APRILE 2008, N. 81](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-04-09;81)))
+CAPO X
 
-### Art. 143
+### Art. 135.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 9 APRILE 2008, N. 81](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-04-09;81)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 9 APRILE 2008, N. 81))
 
-CAPO CXV CAPO XII TELAI MECCANICI DI TESSITURA Difesa contro il salto della navetta.
-------------------------------------------------------------------------------------
+### Art. 136.
 
-### Art. 144
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 9 APRILE 2008, N. 81))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 9 APRILE 2008, N. 81](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-04-09;81)))
+Aperture di carico e scarico.
 
-CAPO CXVI Apparecchi guidanavetta.
-----------------------------------
+### Art. 137.
 
-### Art. 145
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 9 APRILE 2008, N. 81))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 9 APRILE 2008, N. 81](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-04-09;81)))
+Zona di imbocco dei cilindri alimentatori.
 
-### Art. 146
+### Art. 138.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 9 APRILE 2008, N. 81](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-04-09;81)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 9 APRILE 2008, N. 81))
 
-### Art. 147
+## MACCHINE PER FILARE E SIMILI Ingranaggi delle macchine per filare in genere.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 9 APRILE 2008, N. 81](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-04-09;81)))
+CAPO XI
 
-CAPO CXVII Reti paranavetta.
-----------------------------
+### Art. 139.
 
-### Art. 148
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 9 APRILE 2008, N. 81))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 9 APRILE 2008, N. 81](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-04-09;81)))
+Imbocco dei tamburi di comando dei fusi.
 
-CAPO CXVIII Trattenuta dei pesi del subbio.
--------------------------------------------
+### Art. 140.
 
-### Art. 149
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 9 APRILE 2008, N. 81))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 9 APRILE 2008, N. 81](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-04-09;81)))
+Montaggio delle funicelle sui tamburi di comando dei fusi.
 
-CAPO CXIX Montaggio e smontaggio dei subbi.
--------------------------------------------
+### Art. 141.
 
-### Art. 150
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 9 APRILE 2008, N. 81))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 9 APRILE 2008, N. 81](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-04-09;81)))
+Filatoi automatici intermittenti.
 
-CAPO CXX Telai per tele e tessuti metallici o di materie diverse.
------------------------------------------------------------------
+### Art. 142.
 
-### Art. 151
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 9 APRILE 2008, N. 81))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 9 APRILE 2008, N. 81](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-04-09;81)))
+### Art. 143.
 
-CAPO CXXI CAPO XIII MACCHINE DIVERSE Ammorbidatrici e distenditrici.
---------------------------------------------------------------------
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 9 APRILE 2008, N. 81))
 
-### Art. 152
+## TELAI MECCANICI DI TESSITURA Difesa contro il salto della navetta.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 9 APRILE 2008, N. 81](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-04-09;81)))
+CAPO XII
 
-CAPO CXXII Macchine per la rottura delle mannelle di canapa e juta.
--------------------------------------------------------------------
+### Art. 144.
 
-### Art. 153
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 9 APRILE 2008, N. 81))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 9 APRILE 2008, N. 81](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-04-09;81)))
+Apparecchi guidanavetta.
 
-CAPO CXXIII Macchine cordatrici.
---------------------------------
+### Art. 145.
 
-### Art. 154
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 9 APRILE 2008, N. 81))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 9 APRILE 2008, N. 81](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-04-09;81)))
+### Art. 146.
 
-CAPO CXXIV Macchine per cucire con filo.
-----------------------------------------
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 9 APRILE 2008, N. 81))
 
-### Art. 155
+### Art. 147.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 9 APRILE 2008, N. 81](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-04-09;81)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 9 APRILE 2008, N. 81))
 
-CAPO CXXV Macchine per cucire con graffe.
------------------------------------------
+Reti paranavetta.
 
-### Art. 156
+### Art. 148.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 9 APRILE 2008, N. 81](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-04-09;81)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 9 APRILE 2008, N. 81))
 
-CAPO CXXVI Macchine per tra filare fili metallici.
---------------------------------------------------
+Trattenuta dei pesi del subbio.
 
-### Art. 157
+### Art. 149.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 9 APRILE 2008, N. 81](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-04-09;81)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 9 APRILE 2008, N. 81))
 
-CAPO CXXVII Macchine con cilindro a lame elicoidali.
-----------------------------------------------------
+Montaggio e smontaggio dei subbi.
 
-### Art. 158
+### Art. 150.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 9 APRILE 2008, N. 81](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-04-09;81)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 9 APRILE 2008, N. 81))
 
-CAPO CXXVIII Trebbiatrici.
---------------------------
+Telai per tele e tessuti metallici o di materie diverse.
 
-### Art. 159
+### Art. 151.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 9 APRILE 2008, N. 81](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-04-09;81)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 9 APRILE 2008, N. 81))
 
-### Art. 160
+## MACCHINE DIVERSE Ammorbidatrici e distenditrici.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 9 APRILE 2008, N. 81](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-04-09;81)))
+CAPO XIII
 
-### Art. 161
+### Art. 152.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 9 APRILE 2008, N. 81](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-04-09;81)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 9 APRILE 2008, N. 81))
 
-### Art. 162
+Macchine per la rottura delle mannelle di canapa e juta.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 9 APRILE 2008, N. 81](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-04-09;81)))
+### Art. 153.
 
-### Art. 163
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 9 APRILE 2008, N. 81))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 9 APRILE 2008, N. 81](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-04-09;81)))
+Macchine cordatrici.
 
-CAPO CXXIX Macchine per imbottigliare liquidi sotto pressione.
---------------------------------------------------------------
+### Art. 154.
 
-### Art. 164
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 9 APRILE 2008, N. 81))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 9 APRILE 2008, N. 81](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-04-09;81)))
+Macchine per cucire con filo.
 
-CAPO CXXX Macchine tipografiche a platina e macchine simili.
-------------------------------------------------------------
+### Art. 155.
 
-### Art. 165
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 9 APRILE 2008, N. 81))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 9 APRILE 2008, N. 81](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-04-09;81)))
+Macchine per cucire con graffe.
 
-CAPO CXXXI F u s t e l l e.
----------------------------
+### Art. 156.
 
-### Art. 166
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 9 APRILE 2008, N. 81))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 9 APRILE 2008, N. 81](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-04-09;81)))
+Macchine per tra filare fili metallici.
 
-CAPO CXXXII Compressori.
-------------------------
+### Art. 157.
 
-### Art. 167
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 9 APRILE 2008, N. 81))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 9 APRILE 2008, N. 81](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-04-09;81)))
+Macchine con cilindro a lame elicoidali.
 
-CAPO CXXXIII TITOLO V MEZZI ED APPARECCHI DI SOLLEVAMENTO DI TRASPORTO E DI IMMAGAZZINAMENTO CAPO I DISPOSIZIONI DI CARATTERE GENERALE Mezzi ed apparecchi di sollevamento e di trasporto.
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+### Art. 158.
 
-### Art. 168
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 9 APRILE 2008, N. 81))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 9 APRILE 2008, N. 81](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-04-09;81)))
+Trebbiatrici.
 
-CAPO CXXXIV Stabilita' del mezzo e del carico.
-----------------------------------------------
+### Art. 159.
 
-### Art. 169
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 9 APRILE 2008, N. 81))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 9 APRILE 2008, N. 81](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-04-09;81)))
+### Art. 160.
 
-CAPO CXXXV Operazioni di carico e scarico.
-------------------------------------------
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 9 APRILE 2008, N. 81))
 
-### Art. 170
+### Art. 161.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 9 APRILE 2008, N. 81](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-04-09;81)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 9 APRILE 2008, N. 81))
 
-CAPO CXXXVI Indicazione della portata.
---------------------------------------
+### Art. 162.
 
-### Art. 171
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 9 APRILE 2008, N. 81))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 9 APRILE 2008, N. 81](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-04-09;81)))
+### Art. 163.
 
-CAPO CXXXVII Ganci.
--------------------
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 9 APRILE 2008, N. 81))
 
-### Art. 172
+Macchine per imbottigliare liquidi sotto pressione.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 9 APRILE 2008, N. 81](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-04-09;81)))
+### Art. 164.
 
-CAPO CXXXVIII Freno.
---------------------
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 9 APRILE 2008, N. 81))
 
-### Art. 173
+Macchine tipografiche a platina e macchine simili.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 9 APRILE 2008, N. 81](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-04-09;81)))
+### Art. 165.
 
-CAPO CXXXIX Arresto automatico in caso di improvvisa mancanza della forza motrice.
-----------------------------------------------------------------------------------
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 9 APRILE 2008, N. 81))
 
-### Art. 174
+F u s t e l l e.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 9 APRILE 2008, N. 81](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-04-09;81)))
+### Art. 166.
 
-CAPO CXL Dispositivi di segnalazione.
--------------------------------------
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 9 APRILE 2008, N. 81))
 
-### Art. 175
+Compressori.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 9 APRILE 2008, N. 81](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-04-09;81)))
+### Art. 167.
 
-CAPO CXLI Organo di avvolgimento delle funi o catene.
------------------------------------------------------
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 9 APRILE 2008, N. 81))
 
-### Art. 176
+## MEZZI ED APPARECCHI DI SOLLEVAMENTO DI TRASPORTO E DI IMMAGAZZINAMENTO  CAPO I DISPOSIZIONI DI CARATTERE GENERALE Mezzi ed apparecchi di sollevamento e di trasporto.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 9 APRILE 2008, N. 81](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-04-09;81)))
+TITOLO V
 
-CAPO CXLII Sedi di avvolgimento delle funi o catene.
-----------------------------------------------------
+### Art. 168.
 
-### Art. 177
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 9 APRILE 2008, N. 81))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 9 APRILE 2008, N. 81](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-04-09;81)))
+Stabilita' del mezzo e del carico.
 
-CAPO CXLIII Rapporto tra i diametri delle funi e quelli dei tamburi e delle pulegge di avvolgimento.
-----------------------------------------------------------------------------------------------------
+### Art. 169.
 
-### Art. 178
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 9 APRILE 2008, N. 81))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 9 APRILE 2008, N. 81](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-04-09;81)))
+Operazioni di carico e scarico.
 
-CAPO CXLIV Coefficienti di sicurezza per funi e catene.
--------------------------------------------------------
+### Art. 170.
 
-### Art. 179
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 9 APRILE 2008, N. 81))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 9 APRILE 2008, N. 81](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-04-09;81)))
+Indicazione della portata.
 
-CAPO CXLV Attacchi ed estremita' libere delle funi.
----------------------------------------------------
+### Art. 171.
 
-### Art. 180
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 9 APRILE 2008, N. 81))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 9 APRILE 2008, N. 81](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-04-09;81)))
+Ganci.
 
-CAPO CXLVI Imbracatura dei carichi.
------------------------------------
+### Art. 172.
 
-### Art. 181
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 9 APRILE 2008, N. 81))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 9 APRILE 2008, N. 81](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-04-09;81)))
+Freno.
 
-CAPO CXLVII Posti di manovra.
------------------------------
+### Art. 173.
 
-### Art. 182
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 9 APRILE 2008, N. 81))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 9 APRILE 2008, N. 81](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-04-09;81)))
+## forza motrice.
 
-CAPO CXLVIII Organi di comando.
--------------------------------
+Arresto automatico in caso di improvvisa mancanza della
 
-### Art. 183
+### Art. 174.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 9 APRILE 2008, N. 81](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-04-09;81)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 9 APRILE 2008, N. 81))
 
-CAPO CXLIX Sollevamento e trasporto persone.
---------------------------------------------
+Dispositivi di segnalazione.
 
-### Art. 184
+### Art. 175.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 9 APRILE 2008, N. 81](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-04-09;81)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 9 APRILE 2008, N. 81))
 
-CAPO CL Avvisi per le modalita' delle manovre.
-----------------------------------------------
+Organo di avvolgimento delle funi o catene.
 
-### Art. 185
+### Art. 176.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 9 APRILE 2008, N. 81](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-04-09;81)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 9 APRILE 2008, N. 81))
 
-CAPO CLI CAPO II GRU, ARGANI, PARANCHI E SIMILI Passaggi e posti di lavoro sottoposti a carichi sospesi.
---------------------------------------------------------------------------------------------------------
+Sedi di avvolgimento delle funi o catene.
 
-### Art. 186
+### Art. 177.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 9 APRILE 2008, N. 81](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-04-09;81)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 9 APRILE 2008, N. 81))
 
-### Art. 187
+## delle pulegge di avvolgimento.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 9 APRILE 2008, N. 81](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-04-09;81)))
+Rapporto tra i diametri delle funi e quelli dei tamburi e
 
-CAPO CLII Piani di scorrimento delle gru a ponte.
--------------------------------------------------
+### Art. 178.
 
-### Art. 188
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 9 APRILE 2008, N. 81))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 9 APRILE 2008, N. 81](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-04-09;81)))
+Coefficienti di sicurezza per funi e catene.
 
-CAPO CLIII Stabilita' e ancoraggio delle gru.
----------------------------------------------
+### Art. 179.
 
-### Art. 189
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 9 APRILE 2008, N. 81))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 9 APRILE 2008, N. 81](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-04-09;81)))
+Attacchi ed estremita' libere delle funi.
 
-CAPO CLIV Arresto di fine corsa delle gru a ponte ed a portale.
----------------------------------------------------------------
+### Art. 180.
 
-### Art. 190
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 9 APRILE 2008, N. 81))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 9 APRILE 2008, N. 81](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-04-09;81)))
+Imbracatura dei carichi.
 
-### Art. 191
+### Art. 181.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 9 APRILE 2008, N. 81](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-04-09;81)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 9 APRILE 2008, N. 81))
 
-CAPO CLV Divieto della discesa libera dei carichi.
---------------------------------------------------
+Posti di manovra.
 
-### Art. 192
+### Art. 182.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 9 APRILE 2008, N. 81](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-04-09;81)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 9 APRILE 2008, N. 81))
 
-CAPO CLVI Difesa delle aperture per il passaggio dei carichi.
--------------------------------------------------------------
+Organi di comando.
 
-### Art. 193
+### Art. 183.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 9 APRILE 2008, N. 81](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-04-09;81)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 9 APRILE 2008, N. 81))
 
-### Art. 194
+Sollevamento e trasporto persone.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 9 APRILE 2008, N. 81](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-04-09;81)))
+### Art. 184.
 
-CAPO CLVII CAPO III ASCENSORI E MONTACARICHI Campo di applicazione.
--------------------------------------------------------------------
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 9 APRILE 2008, N. 81))
 
-### Art. 195
+Avvisi per le modalita' delle manovre.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 9 APRILE 2008, N. 81](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-04-09;81)))
+### Art. 185.
 
-CAPO CLVIII Difesa del vano.
-----------------------------
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 9 APRILE 2008, N. 81))
 
-### Art. 196
+## GRU, ARGANI, PARANCHI E SIMILI Passaggi e posti di lavoro sottoposti a carichi sospesi.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 9 APRILE 2008, N. 81](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-04-09;81)))
+CAPO II
 
-CAPO CLIX Accessi al vano.
---------------------------
+### Art. 186.
 
-### Art. 197
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 9 APRILE 2008, N. 81))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 9 APRILE 2008, N. 81](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-04-09;81)))
+### Art. 187.
 
-CAPO CLX Porte di accesso al vano.
-----------------------------------
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 9 APRILE 2008, N. 81))
 
-### Art. 198
+Piani di scorrimento delle gru a ponte.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 9 APRILE 2008, N. 81](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-04-09;81)))
+### Art. 188.
 
-CAPO CLXI Installazioni particolari.
-------------------------------------
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 9 APRILE 2008, N. 81))
 
-### Art. 199
+Stabilita' e ancoraggio delle gru.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 9 APRILE 2008, N. 81](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-04-09;81)))
+### Art. 189.
 
-CAPO CLXII Pareti e porte della cabina.
----------------------------------------
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 9 APRILE 2008, N. 81))
 
-### Art. 200
+Arresto di fine corsa delle gru a ponte ed a portale.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 9 APRILE 2008, N. 81](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-04-09;81)))
+### Art. 190.
 
-CAPO CLXIII Spazi liberi al fondo ed alla sommita' del vano.
-------------------------------------------------------------
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 9 APRILE 2008, N. 81))
 
-### Art. 201
+### Art. 191.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 9 APRILE 2008, N. 81](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-04-09;81)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 9 APRILE 2008, N. 81))
 
-CAPO CLXIV Posizione dei comandi.
----------------------------------
+Divieto della discesa libera dei carichi.
 
-### Art. 202
+### Art. 192.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 9 APRILE 2008, N. 81](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-04-09;81)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 9 APRILE 2008, N. 81))
 
-CAPO CLXV Apparecchi paracadute.
---------------------------------
+Difesa delle aperture per il passaggio dei carichi.
 
-### Art. 203
+### Art. 193.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 9 APRILE 2008, N. 81](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-04-09;81)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 9 APRILE 2008, N. 81))
 
-CAPO CLXVI Arresti automatici di fine corsa.
---------------------------------------------
+### Art. 194.
 
-### Art. 204
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 9 APRILE 2008, N. 81))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 9 APRILE 2008, N. 81](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-04-09;81)))
+## ASCENSORI E MONTACARICHI Campo di applicazione.
 
-CAPO CLXVII Divieto di discesa libera per apparecchi azionati a motore.
------------------------------------------------------------------------
+CAPO III
 
-### Art. 205
+### Art. 195.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 9 APRILE 2008, N. 81](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-04-09;81)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 9 APRILE 2008, N. 81))
 
-CAPO CLXVIII Carico e scarico dei montacarichi a gravita'.
-----------------------------------------------------------
+Difesa del vano.
 
-### Art. 206
+### Art. 196.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 9 APRILE 2008, N. 81](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-04-09;81)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 9 APRILE 2008, N. 81))
 
-CAPO CLXIX Regolazione della velocita' dei montacarichi.
---------------------------------------------------------
+Accessi al vano.
 
-### Art. 207
+### Art. 197.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 9 APRILE 2008, N. 81](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-04-09;81)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 9 APRILE 2008, N. 81))
 
-CAPO CLXX CAPO IV ELEVATORI E TRASPORTATORI A PIANI MOBILI A TAZZE, A COCLEA, A NASTRO E SIMILI Vani di corsa.
---------------------------------------------------------------------------------------------------------------
+Porte di accesso al vano.
 
-### Art. 208
+### Art. 198.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 9 APRILE 2008, N. 81](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-04-09;81)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 9 APRILE 2008, N. 81))
 
-CAPO CLXXI Dispositivi di arresto.
-----------------------------------
+Installazioni particolari.
 
-### Art. 209
+### Art. 199.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 9 APRILE 2008, N. 81](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-04-09;81)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 9 APRILE 2008, N. 81))
 
-CAPO CLXXII Arresto per improvvisa mancanza di forza motrice.
--------------------------------------------------------------
+Pareti e porte della cabina.
 
-### Art. 210
+### Art. 200.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 9 APRILE 2008, N. 81](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-04-09;81)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 9 APRILE 2008, N. 81))
 
-CAPO CLXXIII Condotti dei trasportatori a coclea.
--------------------------------------------------
+Spazi liberi al fondo ed alla sommita' del vano.
 
-### Art. 211
+### Art. 201.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 9 APRILE 2008, N. 81](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-04-09;81)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 9 APRILE 2008, N. 81))
 
-CAPO CLXXIV Aperture di carico e scarico dei trasportatori.
------------------------------------------------------------
+Posizione dei comandi.
 
-### Art. 212
+### Art. 202.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 9 APRILE 2008, N. 81](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-04-09;81)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 9 APRILE 2008, N. 81))
 
-CAPO CLXXV Apertura di carico e percorso dei piani inclinati (scivoli).
------------------------------------------------------------------------
+Apparecchi paracadute.
 
-### Art. 213
+### Art. 203.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 9 APRILE 2008, N. 81](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-04-09;81)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 9 APRILE 2008, N. 81))
 
-CAPO CLXXVI Spazio sottostante ai trasportatori.
-------------------------------------------------
+Arresti automatici di fine corsa.
 
-### Art. 214
+### Art. 204.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 9 APRILE 2008, N. 81](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-04-09;81)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 9 APRILE 2008, N. 81))
 
-CAPO CLXXVII CAPO V MEZZI ED APPARECCHI DI TRASPORTO MECCANICI Velocita' e percorso.
-------------------------------------------------------------------------------------
+Divieto di discesa libera per apparecchi azionati a motore.
 
-### Art. 215
+### Art. 205.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 9 APRILE 2008, N. 81](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-04-09;81)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 9 APRILE 2008, N. 81))
 
-CAPO CLXXVIII Difese terminali dei binari.
-------------------------------------------
+Carico e scarico dei montacarichi a gravita'.
 
-### Art. 216
+### Art. 206.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 9 APRILE 2008, N. 81](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-04-09;81)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 9 APRILE 2008, N. 81))
 
-CAPO CLXXIX Attacco e distacco dei mezzi di trasporto.
-------------------------------------------------------
+Regolazione della velocita' dei montacarichi.
 
-### Art. 217
+### Art. 207.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 9 APRILE 2008, N. 81](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-04-09;81)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 9 APRILE 2008, N. 81))
 
-CAPO CLXXX Blocco degli organi di comando dei motori elettrici azionanti i mezzi di trasporto.
-----------------------------------------------------------------------------------------------
+## ELEVATORI E TRASPORTATORI A PIANI MOBILI A TAZZE, A COCLEA, A NASTRO E SIMILI Vani di corsa.
 
-### Art. 218
+CAPO IV
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 9 APRILE 2008, N. 81](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-04-09;81)))
+### Art. 208.
 
-CAPO CLXXXI Difese nei piani inclinati.
----------------------------------------
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 9 APRILE 2008, N. 81))
 
-### Art. 219
+Dispositivi di arresto.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 9 APRILE 2008, N. 81](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-04-09;81)))
+### Art. 209.
 
-### Art. 220
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 9 APRILE 2008, N. 81))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 9 APRILE 2008, N. 81](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-04-09;81)))
+Arresto per improvvisa mancanza di forza motrice.
 
-CAPO CLXXXII Sistemazione dei recipienti dei combustibili sui mezzi di trasporto.
----------------------------------------------------------------------------------
+### Art. 210.
 
-### Art. 221
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 9 APRILE 2008, N. 81))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 9 APRILE 2008, N. 81](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-04-09;81)))
+Condotti dei trasportatori a coclea.
 
-CAPO CLXXXIII Maniglie per mezzi di trasporto meccanici.
---------------------------------------------------------
+### Art. 211.
 
-### Art. 222
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 9 APRILE 2008, N. 81))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 9 APRILE 2008, N. 81](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-04-09;81)))
+Aperture di carico e scarico dei trasportatori.
 
-CAPO CLXXXIV Scarico mediante ribaltamento dei veicoli.
--------------------------------------------------------
+### Art. 212.
 
-### Art. 223
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 9 APRILE 2008, N. 81))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 9 APRILE 2008, N. 81](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-04-09;81)))
+Apertura di carico e percorso dei piani inclinati (scivoli).
 
-CAPO CLXXXV Barriere e segnalazioni nelle vie di transito.
-----------------------------------------------------------
+### Art. 213.
 
-### Art. 224
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 9 APRILE 2008, N. 81))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 9 APRILE 2008, N. 81](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-04-09;81)))
+Spazio sottostante ai trasportatori.
 
-CAPO CLXXXVI Illuminazione dei segnali.
----------------------------------------
+### Art. 214.
 
-### Art. 225
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 9 APRILE 2008, N. 81))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 9 APRILE 2008, N. 81](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-04-09;81)))
+## MEZZI ED APPARECCHI DI TRASPORTO MECCANICI Velocita' e percorso.
 
-CAPO CLXXXVII Lavori di riparazione e manutenzione nelle vie di transito.
--------------------------------------------------------------------------
+CAPO V
 
-### Art. 226
+### Art. 215.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 9 APRILE 2008, N. 81](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-04-09;81)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 9 APRILE 2008, N. 81))
 
-### Art. 227
+Difese terminali dei binari.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 9 APRILE 2008, N. 81](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-04-09;81)))
+### Art. 216.
 
-CAPO CLXXXVIII Cautele per spostamenti non controllabili.
----------------------------------------------------------
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 9 APRILE 2008, N. 81))
 
-### Art. 228
+Attacco e distacco dei mezzi di trasporto.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 9 APRILE 2008, N. 81](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-04-09;81)))
+### Art. 217.
 
-CAPO CLXXXIX Teleferiche.
--------------------------
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 9 APRILE 2008, N. 81))
 
-### Art. 229
+## mezzi di trasporto.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 9 APRILE 2008, N. 81](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-04-09;81)))
+Blocco degli organi di comando dei motori elettrici azionanti i
 
-### Art. 230
+### Art. 218.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 9 APRILE 2008, N. 81](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-04-09;81)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 9 APRILE 2008, N. 81))
 
-CAPO CXC Impianti funicolari a lungo percorso.
-----------------------------------------------
+Difese nei piani inclinati.
 
-### Art. 231
+### Art. 219.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 9 APRILE 2008, N. 81](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-04-09;81)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 9 APRILE 2008, N. 81))
 
-### Art. 232
+### Art. 220.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 9 APRILE 2008, N. 81](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-04-09;81)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 9 APRILE 2008, N. 81))
 
-CAPO CXCI TITOLO VI IMPIANTI ED APPARECCHI VARI CAPO I DISPOSIZIONI DI CARATTERE GENERALE Organi di comando e di manovra.
--------------------------------------------------------------------------------------------------------------------------
+Sistemazione dei recipienti dei combustibili sui mezzi di trasporto.
 
-### Art. 233
+### Art. 221.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 9 APRILE 2008, N. 81](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-04-09;81)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 9 APRILE 2008, N. 81))
 
-CAPO CXCII Strumenti indicatori.
---------------------------------
+Maniglie per mezzi di trasporto meccanici.
 
-### Art. 234
+### Art. 222.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 9 APRILE 2008, N. 81](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-04-09;81)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 9 APRILE 2008, N. 81))
 
-CAPO CXCIII Aperture di entrata nei recipienti.
------------------------------------------------
+Scarico mediante ribaltamento dei veicoli.
 
-### Art. 235
+### Art. 223.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 9 APRILE 2008, N. 81](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-04-09;81)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 9 APRILE 2008, N. 81))
 
-CAPO CXCIV Lavori entro tubazioni, canalizzazioni, recipienti e simili nei quali possono esserci gas e vapori tossici od asfissianti.
--------------------------------------------------------------------------------------------------------------------------------------
+Barriere e segnalazioni nelle vie di transito.
 
-### Art. 236
+### Art. 224.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 9 APRILE 2008, N. 81](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-04-09;81)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 9 APRILE 2008, N. 81))
 
-CAPO CXCV Lavori entro tubazioni, canalizzazioni e simili nei quali possono esservi gas, vapori, polveri infiammabili od esplosivi.
------------------------------------------------------------------------------------------------------------------------------------
+Illuminazione dei segnali.
 
-### Art. 237
+### Art. 225.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 9 APRILE 2008, N. 81](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-04-09;81)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 9 APRILE 2008, N. 81))
 
-CAPO CXCVI Accensione dei focolari e dei forni.
------------------------------------------------
+Lavori di riparazione e manutenzione nelle vie di transito.
 
-### Art. 238
+### Art. 226.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 9 APRILE 2008, N. 81](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-04-09;81)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 9 APRILE 2008, N. 81))
 
-CAPO CXCVII Porte dei forni, delle stufe, delle tramogge e simili.
-------------------------------------------------------------------
+### Art. 227.
 
-### Art. 239
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 9 APRILE 2008, N. 81))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 9 APRILE 2008, N. 81](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-04-09;81)))
+Cautele per spostamenti non controllabili.
 
-CAPO CXCVIII Protezione delle pareti esterne a temperatura elevata.
--------------------------------------------------------------------
+### Art. 228.
 
-### Art. 240
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 9 APRILE 2008, N. 81))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 9 APRILE 2008, N. 81](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-04-09;81)))
+Teleferiche.
 
-CAPO CXCIX CAPO II IMPIANTI, APPARECCHI E RECIPIENTI SOGGETTI A PRESSIONE Requisiti di resistenza e di idoneita'.
------------------------------------------------------------------------------------------------------------------
+### Art. 229.
 
-### Art. 241
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 9 APRILE 2008, N. 81))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 9 APRILE 2008, N. 81](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-04-09;81)))
+### Art. 230.
 
-CAPO CC CAPO III VASCHE, CANALIZZAZIONI. TUBAZIONI, SERBATOI, RECIPIENTI, SILOS Disposizioni comuni.
-----------------------------------------------------------------------------------------------------
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 9 APRILE 2008, N. 81))
 
-### Art. 242
+Impianti funicolari a lungo percorso.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 9 APRILE 2008, N. 81](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-04-09;81)))
+### Art. 231.
 
-### Art. 243
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 9 APRILE 2008, N. 81))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 9 APRILE 2008, N. 81](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-04-09;81)))
+### Art. 232.
 
-CAPO CCI Disposizioni generali di sicurezza, per tubazioni e canalizzazioni.
-----------------------------------------------------------------------------
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 9 APRILE 2008, N. 81))
 
-### Art. 244
+## IMPIANTI ED APPARECCHI VARI  CAPO I DISPOSIZIONI DI CARATTERE GENERALE Organi di comando e di manovra.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 9 APRILE 2008, N. 81](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-04-09;81)))
+TITOLO VI
 
-### Art. 245
+### Art. 233.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 9 APRILE 2008, N. 81](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-04-09;81)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 9 APRILE 2008, N. 81))
 
-CAPO CCII Disposizioni speciali per serbatoi tipo silos contenenti materie capaci di sviluppare gas o vapori infiammabili o nocivi.
------------------------------------------------------------------------------------------------------------------------------------
+Strumenti indicatori.
 
-### Art. 246
+### Art. 234.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 9 APRILE 2008, N. 81](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-04-09;81)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 9 APRILE 2008, N. 81))
 
-CAPO CCIII Recipienti, serbatoi, vasche e canalizzazioni per liquidi e materie tossiche, corrosive o comunque dannose.
-----------------------------------------------------------------------------------------------------------------------
+Aperture di entrata nei recipienti.
 
-### Art. 247
+### Art. 235.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 9 APRILE 2008, N. 81](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-04-09;81)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 9 APRILE 2008, N. 81))
 
-CAPO CCIV Recipienti per il trasporto di liquidi o materie infiammabili, corrosive, tossiche o comunque dannose.
-----------------------------------------------------------------------------------------------------------------
+## quali possono esserci gas e vapori tossici od asfissianti.
 
-### Art. 248
+Lavori entro tubazioni, canalizzazioni, recipienti e simili nei
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 9 APRILE 2008, N. 81](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-04-09;81)))
+### Art. 236.
 
-### Art. 249
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 9 APRILE 2008, N. 81))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 9 APRILE 2008, N. 81](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-04-09;81)))
+## possono esservi gas, vapori, polveri infiammabili od esplosivi.
 
-CAPO CCV CAPO IV IMPIANTI ED OPERAZIONI DI SALDATURA O TAGLIO OSSIACETILENICA, OSSIDRICA, ELETTRICA E SIMILI Lavori di saldatura in condizioni di pericolo.
------------------------------------------------------------------------------------------------------------------------------------------------------------
+Lavori entro tubazioni, canalizzazioni e simili nei quali
 
-### Art. 250
+### Art. 237.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 9 APRILE 2008, N. 81](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-04-09;81)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 9 APRILE 2008, N. 81))
 
-CAPO CCVI Saldatura ossiacetilenica, ossidrica e simili.
---------------------------------------------------------
+Accensione dei focolari e dei forni.
 
-### Art. 251
+### Art. 238.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 9 APRILE 2008, N. 81](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-04-09;81)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 9 APRILE 2008, N. 81))
 
-### Art. 252
+Porte dei forni, delle stufe, delle tramogge e simili.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 9 APRILE 2008, N. 81](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-04-09;81)))
+### Art. 239.
 
-### Art. 253
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 9 APRILE 2008, N. 81))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 9 APRILE 2008, N. 81](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-04-09;81)))
+Protezione delle pareti esterne a temperatura elevata.
 
-### Art. 254
+### Art. 240.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 9 APRILE 2008, N. 81](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-04-09;81)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 9 APRILE 2008, N. 81))
 
-CAPO CCVII Saldatura elettrica ed operazioni simili.
-----------------------------------------------------
+## IMPIANTI, APPARECCHI E RECIPIENTI SOGGETTI A PRESSIONE Requisiti di resistenza e di idoneita'.
 
-### Art. 255
+CAPO II
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 9 APRILE 2008, N. 81](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-04-09;81)))
+### Art. 241.
 
-### Art. 256
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 9 APRILE 2008, N. 81))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 9 APRILE 2008, N. 81](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-04-09;81)))
+## VASCHE, CANALIZZAZIONI. TUBAZIONI, SERBATOI, RECIPIENTI, SILOS Disposizioni comuni.
 
-### Art. 257
+CAPO III
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 9 APRILE 2008, N. 81](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-04-09;81)))
+### Art. 242.
 
-### Art. 258
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 9 APRILE 2008, N. 81))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 9 APRILE 2008, N. 81](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-04-09;81)))
+### Art. 243.
 
-CAPO CCVIII Mezzi di protezione individuali e collettivi.
----------------------------------------------------------
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 9 APRILE 2008, N. 81))
 
-### Art. 259
+Disposizioni generali di sicurezza, per tubazioni e canalizzazioni.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 9 APRILE 2008, N. 81](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-04-09;81)))
+### Art. 244.
 
-CAPO CCIX CAPO V FORNI E STUFE DI ESSICCAMENTO O DI MATURAZIONE Pavimenti, piattaforme, passerelle e scale dei forni.
----------------------------------------------------------------------------------------------------------------------
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 9 APRILE 2008, N. 81))
 
-### Art. 260
+### Art. 245.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 9 APRILE 2008, N. 81](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-04-09;81)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 9 APRILE 2008, N. 81))
 
-CAPO CCX Eccesso di temperatura dei posti di lavoro e di manovra dei forni.
----------------------------------------------------------------------------
+## materie capaci di sviluppare gas o vapori infiammabili o nocivi.
 
-### Art. 261
+Disposizioni speciali per serbatoi tipo silos contenenti
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 9 APRILE 2008, N. 81](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-04-09;81)))
+### Art. 246.
 
-CAPO CCXI Bocche e aperture dei forni.
---------------------------------------
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 9 APRILE 2008, N. 81))
 
-### Art. 262
+## materie tossiche, corrosive o comunque dannose.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 9 APRILE 2008, N. 81](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-04-09;81)))
+Recipienti, serbatoi, vasche e canalizzazioni per liquidi e
 
-CAPO CCXII Spruzzi ed investimenti di materiali incandescenti.
---------------------------------------------------------------
+### Art. 247.
 
-### Art. 263
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 9 APRILE 2008, N. 81))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 9 APRILE 2008, N. 81](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-04-09;81)))
+## infiammabili, corrosive, tossiche o comunque dannose.
 
-### Art. 264
+Recipienti per il trasporto di liquidi o materie
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 9 APRILE 2008, N. 81](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-04-09;81)))
+### Art. 248.
 
-CAPO CCXIII Stufe di essiccamento o di maturazione.
----------------------------------------------------
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 9 APRILE 2008, N. 81))
 
-### Art. 265
+### Art. 249.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 9 APRILE 2008, N. 81](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-04-09;81)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 9 APRILE 2008, N. 81))
 
-### Art. 266
+## IMPIANTI ED OPERAZIONI DI SALDATURA O TAGLIO OSSIACETILENICA, OSSIDRICA, ELETTRICA E SIMILI Lavori di saldatura in condizioni di pericolo.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 9 APRILE 2008, N. 81](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-04-09;81)))
+CAPO IV
 
-CAPO CCXIV TITOLO VII IMPIANTI MACCHINE ED APPARECCHI ELETTRICI CAPO I DISPOSIZIONI DI CARATTERE GENERALE Requisiti generali degli impianti elettrici.
-------------------------------------------------------------------------------------------------------------------------------------------------------
+### Art. 250.
 
-### Art. 267
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 9 APRILE 2008, N. 81))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 9 APRILE 2008, N. 81](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-04-09;81)))
+Saldatura ossiacetilenica, ossidrica e simili.
 
-CAPO CCXV Definizione di "alta" e "bassa" tensione.
----------------------------------------------------
+### Art. 251.
 
-### Art. 268
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 9 APRILE 2008, N. 81))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 9 APRILE 2008, N. 81](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-04-09;81)))
+### Art. 252.
 
-CAPO CCXVI Indicazione delle caratteristiche delle macchine e degli apparecchi elettrici.
------------------------------------------------------------------------------------------
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 9 APRILE 2008, N. 81))
 
-### Art. 269
+### Art. 253.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 9 APRILE 2008, N. 81](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-04-09;81)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 9 APRILE 2008, N. 81))
 
-CAPO CCXVII Isolamento elettrico.
----------------------------------
+### Art. 254.
 
-### Art. 270
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 9 APRILE 2008, N. 81))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 9 APRILE 2008, N. 81](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-04-09;81)))
+Saldatura elettrica ed operazioni simili.
 
-CAPO CCXVIII Collegamenti elettrici a terra.
---------------------------------------------
+### Art. 255.
 
-### Art. 271
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 9 APRILE 2008, N. 81))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 9 APRILE 2008, N. 81](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-04-09;81)))
+### Art. 256.
 
-### Art. 272
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 9 APRILE 2008, N. 81))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 9 APRILE 2008, N. 81](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-04-09;81)))
+### Art. 257.
 
-CAPO CCXIX Tappeti e pedane isolanti.
--------------------------------------
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 9 APRILE 2008, N. 81))
 
-### Art. 273
+### Art. 258.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 9 APRILE 2008, N. 81](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-04-09;81)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 9 APRILE 2008, N. 81))
 
-CAPO CCXX Linee elettriche aeree esterne.
------------------------------------------
+Mezzi di protezione individuali e collettivi.
 
-### Art. 274
+### Art. 259.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 9 APRILE 2008, N. 81](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-04-09;81)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 9 APRILE 2008, N. 81))
 
-CAPO CCXXI CAPO II PROTEZIONE CONTRO IL CONTATTO ACCIDENTALE CON CONDUTTORI ED ELEMENTI IN TENSIONE Impiego dei conduttori nudi as "alta" tensione.
----------------------------------------------------------------------------------------------------------------------------------------------------
+## FORNI E STUFE DI ESSICCAMENTO O DI MATURAZIONE Pavimenti, piattaforme, passerelle e scale dei forni.
 
-### Art. 275
+CAPO V
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 9 APRILE 2008, N. 81](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-04-09;81)))
+### Art. 260.
 
-CAPO CCXXII Difese.
--------------------
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 9 APRILE 2008, N. 81))
 
-### Art. 276
+Eccesso di temperatura dei posti di lavoro e di manovra dei forni.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 9 APRILE 2008, N. 81](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-04-09;81)))
+### Art. 261.
 
-### Art. 277
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 9 APRILE 2008, N. 81))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 9 APRILE 2008, N. 81](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-04-09;81)))
+Bocche e aperture dei forni.
 
-### Art. 278
+### Art. 262.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 9 APRILE 2008, N. 81](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-04-09;81)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 9 APRILE 2008, N. 81))
 
-### Art. 279
+Spruzzi ed investimenti di materiali incandescenti.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 9 APRILE 2008, N. 81](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-04-09;81)))
+### Art. 263.
 
-### Art. 280
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 9 APRILE 2008, N. 81))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 9 APRILE 2008, N. 81](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-04-09;81)))
+### Art. 264.
 
-CAPO CCXXIII Rivestimento e protezione dei conduttori ed elementi nudi a bassa tensione.
-----------------------------------------------------------------------------------------
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 9 APRILE 2008, N. 81))
 
-### Art. 281
+Stufe di essiccamento o di maturazione.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 9 APRILE 2008, N. 81](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-04-09;81)))
+### Art. 265.
 
-### Art. 282
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 9 APRILE 2008, N. 81))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 9 APRILE 2008, N. 81](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-04-09;81)))
+### Art. 266.
 
-CAPO CCXXIV Prescrizioni speciali per i conduttori flessibili.
---------------------------------------------------------------
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 9 APRILE 2008, N. 81))
 
-### Art. 283
+## IMPIANTI MACCHINE ED APPARECCHI ELETTRICI  CAPO I DISPOSIZIONI DI CARATTERE GENERALE Requisiti generali degli impianti elettrici.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 9 APRILE 2008, N. 81](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-04-09;81)))
+TITOLO VII
 
-CAPO CCXXV CAPO III PROTEZIONE CONTRO LE SOVRATENSIONI I SOVRACCARICHI DI CORRENTE E LE SCARICHE ATMOSFERICHE Protezione contro le sovratensioni.
--------------------------------------------------------------------------------------------------------------------------------------------------
+### Art. 267.
 
-### Art. 284
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 9 APRILE 2008, N. 81))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 9 APRILE 2008, N. 81](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-04-09;81)))
+Definizione di "alta" e "bassa" tensione.
 
-CAPO CCXXVI Protezione contro i sovraccarichi.
-----------------------------------------------
+### Art. 268.
 
-### Art. 285
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 9 APRILE 2008, N. 81))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 9 APRILE 2008, N. 81](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-04-09;81)))
+## apparecchi elettrici.
 
-### Art. 286
+Indicazione delle caratteristiche delle macchine e degli
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 9 APRILE 2008, N. 81](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-04-09;81)))
+### Art. 269.
 
-CAPO CCXXVII CAPO IV APPARECCHIATURE ELETTRICHE ED ATTREZZATURE RELATIVE Quadri di distribuzione e di manovra.
---------------------------------------------------------------------------------------------------------------
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 9 APRILE 2008, N. 81))
 
-### Art. 287
+Isolamento elettrico.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 9 APRILE 2008, N. 81](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-04-09;81)))
+### Art. 270.
 
-CAPO CCXXVIII Interruttore generale.
-------------------------------------
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 9 APRILE 2008, N. 81))
 
-### Art. 288
+Collegamenti elettrici a terra.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 9 APRILE 2008, N. 81](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-04-09;81)))
+### Art. 271.
 
-CAPO CCXXIX Sezionamento delle parti degli impianti elettrici.
---------------------------------------------------------------
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 9 APRILE 2008, N. 81))
 
-### Art. 289
+### Art. 272.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 9 APRILE 2008, N. 81](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-04-09;81)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 9 APRILE 2008, N. 81))
 
-CAPO CCXXX Interruttori elettrici e simili.
--------------------------------------------
+Tappeti e pedane isolanti.
 
-### Art. 290
+### Art. 273.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 9 APRILE 2008, N. 81](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-04-09;81)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 9 APRILE 2008, N. 81))
 
-### Art. 291
+Linee elettriche aeree esterne.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 9 APRILE 2008, N. 81](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-04-09;81)))
+### Art. 274.
 
-CAPO CCXXXI P u l s a n t i.
-----------------------------
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 9 APRILE 2008, N. 81))
 
-### Art. 292
+## PROTEZIONE CONTRO IL CONTATTO ACCIDENTALE CON CONDUTTORI ED ELEMENTI IN TENSIONE Impiego dei conduttori nudi as "alta" tensione.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 9 APRILE 2008, N. 81](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-04-09;81)))
+CAPO II
 
-CAPO CCXXXII Separatori per alta tensione.
-------------------------------------------
+### Art. 275.
 
-### Art. 293
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 9 APRILE 2008, N. 81))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 9 APRILE 2008, N. 81](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-04-09;81)))
+Difese.
 
-### Art. 294
+### Art. 276.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 9 APRILE 2008, N. 81](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-04-09;81)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 9 APRILE 2008, N. 81))
 
-CAPO CCXXXIII Valvole fusibili.
--------------------------------
+### Art. 277.
 
-### Art. 295
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 9 APRILE 2008, N. 81))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 9 APRILE 2008, N. 81](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-04-09;81)))
+### Art. 278.
 
-CAPO CCXXXIV Interruttori automatici.
--------------------------------------
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 9 APRILE 2008, N. 81))
 
-### Art. 296
+### Art. 279.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 9 APRILE 2008, N. 81](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-04-09;81)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 9 APRILE 2008, N. 81))
 
-CAPO CCXXXV CAPO V MACCHINE, TRASFORMATORI, CONDENSATORI ACCUMULATORI ELETTRICI Copertura delle parti nude in tensione.
------------------------------------------------------------------------------------------------------------------------
+### Art. 280.
 
-### Art. 297
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 9 APRILE 2008, N. 81))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 9 APRILE 2008, N. 81](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-04-09;81)))
+## bassa tensione.
 
-CAPO CCXXXVI Segregazione delle macchine, dei trasformatori e delle apparecchiature elettriche a tensione elevata.
-------------------------------------------------------------------------------------------------------------------
+Rivestimento e protezione dei conduttori ed elementi nudi a
 
-### Art. 298
+### Art. 281.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 9 APRILE 2008, N. 81](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-04-09;81)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 9 APRILE 2008, N. 81))
 
-### Art. 299
+### Art. 282.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 9 APRILE 2008, N. 81](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-04-09;81)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 9 APRILE 2008, N. 81))
 
-CAPO CCXXXVII Pozzetto per raccolta olio dei trasformatori.
------------------------------------------------------------
+Prescrizioni speciali per i conduttori flessibili.
 
-### Art. 300
+### Art. 283.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 9 APRILE 2008, N. 81](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-04-09;81)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 9 APRILE 2008, N. 81))
 
-CAPO CCXXXVIII Protezione dei condensatori.
--------------------------------------------
+## PROTEZIONE CONTRO LE SOVRATENSIONI I SOVRACCARICHI DI CORRENTE E LE SCARICHE ATMOSFERICHE Protezione contro le sovratensioni.
 
-### Art. 301
+CAPO III
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 9 APRILE 2008, N. 81](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-04-09;81)))
+### Art. 284.
 
-CAPO CCXXXIX Accumulatori elettrici.
-------------------------------------
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 9 APRILE 2008, N. 81))
 
-### Art. 302
+Protezione contro i sovraccarichi.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 9 APRILE 2008, N. 81](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-04-09;81)))
+### Art. 285.
 
-### Art. 303
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 9 APRILE 2008, N. 81))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 9 APRILE 2008, N. 81](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-04-09;81)))
+### Art. 286.
 
-CAPO CCXL CAPO VI IMPIANTI DI ILLUMINAZIONE ELETTRICA Limitazione della tensione per gli impianti di illuminazione elettrica.
------------------------------------------------------------------------------------------------------------------------------
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 9 APRILE 2008, N. 81))
 
-### Art. 304
+## APPARECCHIATURE ELETTRICHE ED ATTREZZATURE RELATIVE Quadri di distribuzione e di manovra.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 9 APRILE 2008, N. 81](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-04-09;81)))
+CAPO IV
 
-CAPO CCXLI Lampade e portalampade elettrici.
---------------------------------------------
+### Art. 287.
 
-### Art. 305
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 9 APRILE 2008, N. 81))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 9 APRILE 2008, N. 81](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-04-09;81)))
+Interruttore generale.
 
-### Art. 306
+### Art. 288.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 9 APRILE 2008, N. 81](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-04-09;81)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 9 APRILE 2008, N. 81))
 
-CAPO CCXLII Impianti di illuminazione a tubi luminescenti o fluorescenti.
--------------------------------------------------------------------------
+Sezionamento delle parti degli impianti elettrici.
 
-### Art. 307
+### Art. 289.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 9 APRILE 2008, N. 81](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-04-09;81)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 9 APRILE 2008, N. 81))
 
-### Art. 308
+Interruttori elettrici e simili.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 9 APRILE 2008, N. 81](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-04-09;81)))
+### Art. 290.
 
-CAPO CCXLIII CAPO VII MACCHINE ED APPARECCHI ELETTRICI MOBILI E PORTATILI Derivazioni a spina.
-----------------------------------------------------------------------------------------------
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 9 APRILE 2008, N. 81))
 
-### Art. 309
+### Art. 291.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 9 APRILE 2008, N. 81](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-04-09;81)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 9 APRILE 2008, N. 81))
 
-### Art. 310
+P u l s a n t i.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 9 APRILE 2008, N. 81](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-04-09;81)))
+### Art. 292.
 
-### Art. 311
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 9 APRILE 2008, N. 81))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 9 APRILE 2008, N. 81](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-04-09;81)))
+Separatori per alta tensione.
 
-CAPO CCXLIV Esclusione della corrente ad alta tensione.
--------------------------------------------------------
+### Art. 293.
 
-### Art. 312
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 9 APRILE 2008, N. 81))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 9 APRILE 2008, N. 81](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-04-09;81)))
+### Art. 294.
 
-CAPO CCXLV Limitazione della tensione per l'alimentazione.
-----------------------------------------------------------
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 9 APRILE 2008, N. 81))
 
-### Art. 313
+Valvole fusibili.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 9 APRILE 2008, N. 81](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-04-09;81)))
+### Art. 295.
 
-CAPO CCXLVI Collegamento elettrico a terra.
--------------------------------------------
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 9 APRILE 2008, N. 81))
 
-### Art. 314
+Interruttori automatici.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 9 APRILE 2008, N. 81](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-04-09;81)))
+### Art. 296.
 
-CAPO CCXLVII Isolamento degli utensili.
----------------------------------------
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 9 APRILE 2008, N. 81))
 
-### Art. 315
+## MACCHINE, TRASFORMATORI, CONDENSATORI ACCUMULATORI ELETTRICI Copertura delle parti nude in tensione.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 9 APRILE 2008, N. 81](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-04-09;81)))
+CAPO V
 
-CAPO CCXLVIII Interruttori di comando incorporato.
---------------------------------------------------
+### Art. 297.
 
-### Art. 316
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 9 APRILE 2008, N. 81))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 9 APRILE 2008, N. 81](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-04-09;81)))
+## delle apparecchiature elettriche a tensione elevata.
 
-CAPO CCXLIX Lampade elettriche portatili.
------------------------------------------
+Segregazione delle macchine, dei trasformatori e
 
-### Art. 317
+### Art. 298.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 9 APRILE 2008, N. 81](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-04-09;81)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 9 APRILE 2008, N. 81))
 
-### Art. 318
+### Art. 299.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 9 APRILE 2008, N. 81](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-04-09;81)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 9 APRILE 2008, N. 81))
 
-CAPO CCL CAPO VIII LINEE DI CONTATTO PER TRAZIONE ELETTRICA Divieto dei sistemi di trazione con terza rotaia.
--------------------------------------------------------------------------------------------------------------
+Pozzetto per raccolta olio dei trasformatori.
 
-### Art. 319
+### Art. 300.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 9 APRILE 2008, N. 81](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-04-09;81)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 9 APRILE 2008, N. 81))
 
-CAPO CCLI Altezza minima delle linee elettriche.
-------------------------------------------------
+Protezione dei condensatori.
 
-### Art. 320
+### Art. 301.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 9 APRILE 2008, N. 81](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-04-09;81)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 9 APRILE 2008, N. 81))
 
-CAPO CCLII Sostegni di sospensione dei conduttori.
---------------------------------------------------
+Accumulatori elettrici.
 
-### Art. 321
+### Art. 302.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 9 APRILE 2008, N. 81](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-04-09;81)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 9 APRILE 2008, N. 81))
 
-CAPO CCLIII Cautele contro il contatto delle linee aeree con mezzi di trasporto ordinari.
------------------------------------------------------------------------------------------
+### Art. 303.
 
-### Art. 322
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 9 APRILE 2008, N. 81))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 9 APRILE 2008, N. 81](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-04-09;81)))
+## IMPIANTI DI ILLUMINAZIONE ELETTRICA Limitazione della tensione per gli impianti di illuminazione elettrica.
 
-CAPO CCLIV Interruzione dei circuito di alimentazione.
-------------------------------------------------------
+CAPO VI
 
-### Art. 323
+### Art. 304.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 9 APRILE 2008, N. 81](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-04-09;81)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 9 APRILE 2008, N. 81))
 
-CAPO CCLV CAPO IX COLLEGAMENTI ELETTRICI A TERRA Sezione, connessione e protezione dei conduttori di terra.
------------------------------------------------------------------------------------------------------------
+Lampade e portalampade elettrici.
 
-### Art. 324
+### Art. 305.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 9 APRILE 2008, N. 81](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-04-09;81)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 9 APRILE 2008, N. 81))
 
-### Art. 325
+### Art. 306.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 9 APRILE 2008, N. 81](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-04-09;81)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 9 APRILE 2008, N. 81))
 
-CAPO CCLVI Dispersore per la presa di terra.
---------------------------------------------
+Impianti di illuminazione a tubi luminescenti o fluorescenti.
 
-### Art. 326
+### Art. 307.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 9 APRILE 2008, N. 81](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-04-09;81)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 9 APRILE 2008, N. 81))
 
-CAPO CCLVII Prese di terra degli scaricatori.
----------------------------------------------
+### Art. 308.
 
-### Art. 327
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 9 APRILE 2008, N. 81))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 9 APRILE 2008, N. 81](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-04-09;81)))
+## MACCHINE ED APPARECCHI ELETTRICI MOBILI E PORTATILI Derivazioni a spina.
 
-CAPO CCLVIII Verifiche periodiche.
-----------------------------------
+CAPO VII
 
-### Art. 328
+### Art. 309.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 9 APRILE 2008, N. 81](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-04-09;81)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 9 APRILE 2008, N. 81))
 
-CAPO CCLIX CAPO X INSTALLAZIONI ELETTRICHE IN LUOGHI DOVE ESISTONO PERICOLI DI ESPLOSIONE O DI INCENDIO Divieto di installazioni elettriche.
---------------------------------------------------------------------------------------------------------------------------------------------
+### Art. 310.
 
-### Art. 329
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 9 APRILE 2008, N. 81))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 9 APRILE 2008, N. 81](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-04-09;81)))
+### Art. 311.
 
-CAPO CCLX Installazioni elettriche "antideflagranti" e di tipo stagno.
-----------------------------------------------------------------------
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 9 APRILE 2008, N. 81))
 
-### Art. 330
+Esclusione della corrente ad alta tensione.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 9 APRILE 2008, N. 81](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-04-09;81)))
+### Art. 312.
 
-### Art. 331
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 9 APRILE 2008, N. 81))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 9 APRILE 2008, N. 81](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-04-09;81)))
+Limitazione della tensione per l'alimentazione.
 
-CAPO CCLXI Impianti di illuminazione elettrica di luoghi pericolosi.
---------------------------------------------------------------------
+### Art. 313.
 
-### Art. 332
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 9 APRILE 2008, N. 81))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 9 APRILE 2008, N. 81](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-04-09;81)))
+Collegamento elettrico a terra.
 
-CAPO CCLXII Interruttore generale.
-----------------------------------
+### Art. 314.
 
-### Art. 333
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 9 APRILE 2008, N. 81))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 9 APRILE 2008, N. 81](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-04-09;81)))
+Isolamento degli utensili.
 
-CAPO CCLXIII Lavori sulle installazioni elettriche dei luoghi pericolosi.
--------------------------------------------------------------------------
+### Art. 315.
 
-### Art. 334
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 9 APRILE 2008, N. 81))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 9 APRILE 2008, N. 81](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-04-09;81)))
+Interruttori di comando incorporato.
 
-CAPO CCLXIV Scariche elettrostatiche.
--------------------------------------
+### Art. 316.
 
-### Art. 335
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 9 APRILE 2008, N. 81))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 9 APRILE 2008, N. 81](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-04-09;81)))
+Lampade elettriche portatili.
 
-CAPO CCLXV Verifiche
---------------------
+### Art. 317.
 
-### Art. 336
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 9 APRILE 2008, N. 81))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 9 APRILE 2008, N. 81](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-04-09;81)))
+### Art. 318.
 
-CAPO CCLXVI CAPO XI SCHEMI DELL'IMPIANTO Esposizione schema dell'impianto.
---------------------------------------------------------------------------
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 9 APRILE 2008, N. 81))
 
-### Art. 337
+## LINEE DI CONTATTO PER TRAZIONE ELETTRICA Divieto dei sistemi di trazione con terza rotaia.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 9 APRILE 2008, N. 81](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-04-09;81)))
+CAPO VIII
 
-CAPO CCLXVII Colorazione dei conduttori e indicazione delle loro tensioni.
---------------------------------------------------------------------------
+### Art. 319.
 
-### Art. 338
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 9 APRILE 2008, N. 81))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 9 APRILE 2008, N. 81](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-04-09;81)))
+Altezza minima delle linee elettriche.
 
-CAPO CCLXVIII Divieto di ingresso e avviso di pericolo.
--------------------------------------------------------
+### Art. 320.
 
-### Art. 339
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 9 APRILE 2008, N. 81))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 9 APRILE 2008, N. 81](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-04-09;81)))
+Sostegni di sospensione dei conduttori.
 
-CAPO CCLXIX Chiusura delle officine e delle cabine non presidiate.
-------------------------------------------------------------------
+### Art. 321.
 
-### Art. 340
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 9 APRILE 2008, N. 81))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 9 APRILE 2008, N. 81](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-04-09;81)))
+## trasporto ordinari.
 
-CAPO CCLXX Illuminazione sussidiaria.
--------------------------------------
+Cautele contro il contatto delle linee aeree con mezzi di
 
-### Art. 341
+### Art. 322.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 9 APRILE 2008, N. 81](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-04-09;81)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 9 APRILE 2008, N. 81))
 
-CAPO CCLXXI Deposito di materiali nei locali destinati alle macchine ed apparecchiature elettriche.
----------------------------------------------------------------------------------------------------
+Interruzione dei circuito di alimentazione.
 
-### Art. 342
+### Art. 323.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 9 APRILE 2008, N. 81](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-04-09;81)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 9 APRILE 2008, N. 81))
 
-CAPO CCLXXII Istruzioni sui soccorsi ai colpiti da corrente elettrica.
-----------------------------------------------------------------------
+## COLLEGAMENTI ELETTRICI A TERRA Sezione, connessione e protezione dei conduttori di terra.
 
-### Art. 343
+CAPO IX
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 9 APRILE 2008, N. 81](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-04-09;81)))
+### Art. 324.
 
-CAPO CCLXXIII Lavori su parti in tensione.
-------------------------------------------
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 9 APRILE 2008, N. 81))
 
-### Art. 344
+### Art. 325.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 9 APRILE 2008, N. 81](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-04-09;81)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 9 APRILE 2008, N. 81))
 
-CAPO CCLXXIV Lavori su macchine, apparecchi e condutture elettrici ad alta tensione.
-------------------------------------------------------------------------------------
+Dispersore per la presa di terra.
 
-### Art. 345
+### Art. 326.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 9 APRILE 2008, N. 81](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-04-09;81)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 9 APRILE 2008, N. 81))
 
-### Art. 346
+Prese di terra degli scaricatori.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 9 APRILE 2008, N. 81](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-04-09;81)))
+### Art. 327.
 
-### Art. 347
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 9 APRILE 2008, N. 81))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 9 APRILE 2008, N. 81](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-04-09;81)))
+Verifiche periodiche.
 
-CAPO CCLXXV Esecuzione delle manovre o particolari operazioni.
---------------------------------------------------------------
+### Art. 328.
 
-### Art. 348
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 9 APRILE 2008, N. 81))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 9 APRILE 2008, N. 81](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-04-09;81)))
+## INSTALLAZIONI ELETTRICHE IN LUOGHI DOVE ESISTONO PERICOLI DI ESPLOSIONE O DI INCENDIO Divieto di installazioni elettriche.
 
-### Art. 349
+CAPO X
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 9 APRILE 2008, N. 81](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-04-09;81)))
+### Art. 329.
 
-### Art. 350
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 9 APRILE 2008, N. 81))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 9 APRILE 2008, N. 81](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-04-09;81)))
+Installazioni elettriche "antideflagranti" e di tipo stagno.
 
-CAPO CCLXXVI TITOLO VIII MATERIE E PRODOTTI PERICOLOSI O NOCIVI CAPO I DISPOSIZIONI DI CARATTERE GENERALE Campo di applicazione.
---------------------------------------------------------------------------------------------------------------------------------
+### Art. 330.
 
-### Art. 351
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 9 APRILE 2008, N. 81))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 9 APRILE 2008, N. 81](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-04-09;81)))
+### Art. 331.
 
-CAPO CCLXXVII Affissioni di norme di sicurezza.
------------------------------------------------
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 9 APRILE 2008, N. 81))
 
-### Art. 352
+Impianti di illuminazione elettrica di luoghi pericolosi.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 9 APRILE 2008, N. 81](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-04-09;81)))
+### Art. 332.
 
-CAPO CCLXXVIII Isolamento delle operazioni.
--------------------------------------------
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 9 APRILE 2008, N. 81))
 
-### Art. 353
+Interruttore generale.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 9 APRILE 2008, N. 81](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-04-09;81)))
+### Art. 333.
 
-CAPO CCLXXIX Concentrazioni pericolose - Segnalatori automatici.
-----------------------------------------------------------------
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 9 APRILE 2008, N. 81))
 
-### Art. 354
+Lavori sulle installazioni elettriche dei luoghi pericolosi.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 9 APRILE 2008, N. 81](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-04-09;81)))
+### Art. 334.
 
-CAPO CCLXXX Indicazioni per i recipienti.
------------------------------------------
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 9 APRILE 2008, N. 81))
 
-### Art. 355
+Scariche elettrostatiche.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 9 APRILE 2008, N. 81](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-04-09;81)))
+### Art. 335.
 
-CAPO CCLXXXI Scarti e rifiuti.
-------------------------------
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 9 APRILE 2008, N. 81))
 
-### Art. 356
+Verifiche
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 9 APRILE 2008, N. 81](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-04-09;81)))
+### Art. 336.
 
-CAPO CCLXXXII Pavimenti e pareti.
----------------------------------
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 9 APRILE 2008, N. 81))
 
-### Art. 357
+## SCHEMI DELL'IMPIANTO Esposizione schema dell'impianto.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 9 APRILE 2008, N. 81](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-04-09;81)))
+CAPO XI
 
-CAPO CCLXXXIII CAPO II MATERIE E PRODOTTI INFIAMMABILI O ESPLODENTI Riscaldamenti pericolosi e scintelle.
----------------------------------------------------------------------------------------------------------
+### Art. 337.
 
-### Art. 358
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 9 APRILE 2008, N. 81))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 9 APRILE 2008, N. 81](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-04-09;81)))
+Colorazione dei conduttori e indicazione delle loro tensioni.
 
-CAPO CCLXXXIV Lubrificazione.
------------------------------
+### Art. 338.
 
-### Art. 359
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 9 APRILE 2008, N. 81))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 9 APRILE 2008, N. 81](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-04-09;81)))
+Divieto di ingresso e avviso di pericolo.
 
-CAPO CCLXXXV Riscaldamento dei locali e difesa contro i raggi solari.
----------------------------------------------------------------------
+### Art. 339.
 
-### Art. 360
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 9 APRILE 2008, N. 81))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 9 APRILE 2008, N. 81](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-04-09;81)))
+Chiusura delle officine e delle cabine non presidiate.
 
-CAPO CCLXXXVI Valvole di esplosione nei locali pericolosi.
-----------------------------------------------------------
+### Art. 340.
 
-### Art. 361
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 9 APRILE 2008, N. 81))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 9 APRILE 2008, N. 81](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-04-09;81)))
+Illuminazione sussidiaria.
 
-CAPO CCLXXXVII Produzione di diverse qualita' di gas pericolosi.
-----------------------------------------------------------------
+### Art. 341.
 
-### Art. 362
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 9 APRILE 2008, N. 81))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 9 APRILE 2008, N. 81](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-04-09;81)))
+## ed apparecchiature elettriche.
 
-CAPO CCLXXXVIII Depositi di diverse qualita' di materie o prodotti pericolosi.
-------------------------------------------------------------------------------
+Deposito di materiali nei locali destinati alle macchine
 
-### Art. 363
+### Art. 342.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 9 APRILE 2008, N. 81](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-04-09;81)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 9 APRILE 2008, N. 81))
 
-### Art. 364
+Istruzioni sui soccorsi ai colpiti da corrente elettrica.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 9 APRILE 2008, N. 81](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-04-09;81)))
+### Art. 343.
 
-### Art. 365
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 9 APRILE 2008, N. 81))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 9 APRILE 2008, N. 81](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-04-09;81)))
+Lavori su parti in tensione.
 
-CAPO CCLXXXIX CAPO III MATERIE E PRODOTTI CORROSIVI O AVENTI TEMPERATURE DANNOSE Trasporto ed impiego.
-------------------------------------------------------------------------------------------------------
+### Art. 344.
 
-### Art. 366
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 9 APRILE 2008, N. 81))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 9 APRILE 2008, N. 81](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-04-09;81)))
+## alta tensione.
 
-CAPO CCXC Investimenti da liquidi corrosivi.
---------------------------------------------
+Lavori su macchine, apparecchi e condutture elettrici ad
 
-### Art. 367
+### Art. 345.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 9 APRILE 2008, N. 81](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-04-09;81)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 9 APRILE 2008, N. 81))
 
-CAPO CCXCI Spandimenti di liquidi corrosivi.
---------------------------------------------
+### Art. 346.
 
-### Art. 368
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 9 APRILE 2008, N. 81))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 9 APRILE 2008, N. 81](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-04-09;81)))
+### Art. 347.
 
-CAPO CCXCII CAPO IV MATERIE E PRODOTTI ASFISSIANTI, IRRITANTI, TOSSICI E INFETTANTI Maschere ed apparecchi respiratori.
------------------------------------------------------------------------------------------------------------------------
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 9 APRILE 2008, N. 81))
 
-### Art. 369
+Esecuzione delle manovre o particolari operazioni.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 9 APRILE 2008, N. 81](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-04-09;81)))
+### Art. 348.
 
-CAPO CCXCIII Isolamento locali.
--------------------------------
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 9 APRILE 2008, N. 81))
 
-### Art. 370
+### Art. 349.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 9 APRILE 2008, N. 81](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-04-09;81)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 9 APRILE 2008, N. 81))
 
-CAPO CCXCIV Pulizia locali ed attrezzature.
--------------------------------------------
+### Art. 350.
 
-### Art. 371
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 9 APRILE 2008, N. 81))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 9 APRILE 2008, N. 81](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-04-09;81)))
+## MATERIE E PRODOTTI PERICOLOSI O NOCIVI  CAPO I DISPOSIZIONI DI CARATTERE GENERALE Campo di applicazione.
 
-CAPO CCXCV Accesso ai luoghi con presenza di gas, fumi o vapori asfissianti o tossici.
---------------------------------------------------------------------------------------
+TITOLO VIII
 
-### Art. 372
+### Art. 351.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 9 APRILE 2008, N. 81](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-04-09;81)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 9 APRILE 2008, N. 81))
 
-CAPO CCXCVI CAPO V MATERIE O PRODOTTI TAGLIENTI O PUNGENTI Fabbricazione, manipolazione o impego.
--------------------------------------------------------------------------------------------------
+Affissioni di norme di sicurezza.
 
-### Art. 373
+### Art. 352.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 9 APRILE 2008, N. 81](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-04-09;81)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 9 APRILE 2008, N. 81))
 
-CAPO CCXCVII TITOLO IX MANUTENZIONE E RIPARAZIONE CAPO UNICO Edifici, opere, impianti, macchine ed attrezzature.
-----------------------------------------------------------------------------------------------------------------
+Isolamento delle operazioni.
 
-### Art. 374
+### Art. 353.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 9 APRILE 2008, N. 81](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-04-09;81)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 9 APRILE 2008, N. 81))
 
-CAPO CCXCVIII Lavori di riparazione e manutenzione.
----------------------------------------------------
+Concentrazioni pericolose - Segnalatori automatici.
 
-### Art. 375
+### Art. 354.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 9 APRILE 2008, N. 81](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-04-09;81)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 9 APRILE 2008, N. 81))
 
-CAPO CCXCIX Accesso per i lavori di riparazione e manutenzione a punti pericolosi.
-----------------------------------------------------------------------------------
+Indicazioni per i recipienti.
 
-### Art. 376
+### Art. 355.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 9 APRILE 2008, N. 81](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-04-09;81)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 9 APRILE 2008, N. 81))
 
-CAPO CCC TITOLO X MEZZI PERSONALI DI PROTEZIONE E SOCCORSI D'URGENZA CAPO I DISPOSIZIONI DI CARATTERE GENERALE Mezzi personali di protezione.
----------------------------------------------------------------------------------------------------------------------------------------------
+Scarti e rifiuti.
 
-### Art. 377
+### Art. 356.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 9 APRILE 2008, N. 81](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-04-09;81)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 9 APRILE 2008, N. 81))
 
-CAPO CCCI CAPO II ABBIGLIAMENTO E INDUMENTI DI PROTEZIONE Abbigliamento.
-------------------------------------------------------------------------
+Pavimenti e pareti.
 
-### Art. 378
+### Art. 357.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 9 APRILE 2008, N. 81](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-04-09;81)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 9 APRILE 2008, N. 81))
 
-CAPO CCCII Indumenti di protezione.
------------------------------------
+## MATERIE E PRODOTTI INFIAMMABILI O ESPLODENTI Riscaldamenti pericolosi e scintelle.
 
-### Art. 379
+CAPO II
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 9 APRILE 2008, N. 81](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-04-09;81)))
+### Art. 358.
 
-CAPO CCCIII CAPO III PROTEZIONI PARTICOLARI Protezione dei capelli.
--------------------------------------------------------------------
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 9 APRILE 2008, N. 81))
 
-### Art. 380
+Lubrificazione.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 9 APRILE 2008, N. 81](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-04-09;81)))
+### Art. 359.
 
-CAPO CCCIV
-----------
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 9 APRILE 2008, N. 81))
 
-### Art. 381
+Riscaldamento dei locali e difesa contro i raggi solari.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 9 APRILE 2008, N. 81](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-04-09;81)))
+### Art. 360.
 
-CAPO CCCV
----------
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 9 APRILE 2008, N. 81))
 
-### Art. 382
+Valvole di esplosione nei locali pericolosi.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 9 APRILE 2008, N. 81](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-04-09;81)))
+### Art. 361.
 
-CAPO CCCVI Protezione delle mani.
----------------------------------
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 9 APRILE 2008, N. 81))
 
-### Art. 383
+Produzione di diverse qualita' di gas pericolosi.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 9 APRILE 2008, N. 81](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-04-09;81)))
+### Art. 362.
 
-CAPO CCCVII Protezione dei piedi.
----------------------------------
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 9 APRILE 2008, N. 81))
 
-### Art. 384
+Depositi di diverse qualita' di materie o prodotti pericolosi.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 9 APRILE 2008, N. 81](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-04-09;81)))
+### Art. 363.
 
-CAPO CCCVIII Protezione delle altre parti del corpo.
-----------------------------------------------------
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 9 APRILE 2008, N. 81))
 
-### Art. 385
+### Art. 364.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 9 APRILE 2008, N. 81](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-04-09;81)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 9 APRILE 2008, N. 81))
 
-CAPO CCCIX Cinture di sicurezza.
---------------------------------
+### Art. 365.
 
-### Art. 386
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 9 APRILE 2008, N. 81))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 9 APRILE 2008, N. 81](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-04-09;81)))
+## MATERIE E PRODOTTI CORROSIVI O AVENTI TEMPERATURE DANNOSE Trasporto ed impiego.
 
-CAPO CCCX Maschere respiratorie.
---------------------------------
+CAPO III
 
-### Art. 387
+### Art. 366.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 9 APRILE 2008, N. 81](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-04-09;81)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 9 APRILE 2008, N. 81))
 
-CAPO CCCXI CAPO IV SOCCORSI D'URGENZA Denuncia dell'infortunio e soccorsi d'urgenza.
-------------------------------------------------------------------------------------
+Investimenti da liquidi corrosivi.
 
-### Art. 388
+### Art. 367.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 9 APRILE 2008, N. 81](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-04-09;81)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 9 APRILE 2008, N. 81))
 
-CAPO CCCXII TITOLO XI NORME PENALI CAPO UNICO
----------------------------------------------
+Spandimenti di liquidi corrosivi.
 
-### Art. 389
+### Art. 368.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 9 APRILE 2008, N. 81](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-04-09;81)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 9 APRILE 2008, N. 81))
 
-CAPO CCCXIII Contravvenzioni commesse dai costruttori e dai commercianti.
--------------------------------------------------------------------------
+## MATERIE E PRODOTTI ASFISSIANTI, IRRITANTI, TOSSICI E INFETTANTI Maschere ed apparecchi respiratori.
 
-### Art. 390
+CAPO IV
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 9 APRILE 2008, N. 81](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-04-09;81)))
+### Art. 369.
 
-CAPO CCCXIV Contravvenzioni commesse dai preposti.
---------------------------------------------------
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 9 APRILE 2008, N. 81))
 
-### Art. 391
+Isolamento locali.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 9 APRILE 2008, N. 81](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-04-09;81)))
+### Art. 370.
 
-CAPO CCCXV Contravvenzioni commesse dai lavoratori.
----------------------------------------------------
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 9 APRILE 2008, N. 81))
 
-### Art. 392
+Pulizia locali ed attrezzature.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 9 APRILE 2008, N. 81](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-04-09;81)))
+### Art. 371.
 
-CAPO CCCXVI TITOLO XII DISPOSIZIONI TRANSITORIE E FINALI CAPO I COMMISSIONE CONSULTIVA PERMANENTE PER LA PREVENZIONE DEGLI INFORTUNI E PER L'IGIENE DEL LAVORO Costituzione della Commissione.
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 9 APRILE 2008, N. 81))
 
-### Art. 393
+## o tossici.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 9 APRILE 2008, N. 81](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-04-09;81)))
+Accesso ai luoghi con presenza di gas, fumi o vapori asfissianti
 
-CAPO CCCXVII Compiti della Commissione.
----------------------------------------
+### Art. 372.
 
-### Art. 394
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 9 APRILE 2008, N. 81))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 9 APRILE 2008, N. 81](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-04-09;81)))
+## MATERIE O PRODOTTI TAGLIENTI O PUNGENTI Fabbricazione, manipolazione o impego.
 
-CAPO CCCXVIII CAPO II DEROGHE Deroghe di carattere generale.
-------------------------------------------------------------
+CAPO V
 
-### Art. 395
+### Art. 373.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 9 APRILE 2008, N. 81](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-04-09;81)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 9 APRILE 2008, N. 81))
 
-CAPO CCCXIX Deroghe particolari.
---------------------------------
+## MANUTENZIONE E RIPARAZIONE  CAPO UNICO Edifici, opere, impianti, macchine ed attrezzature.
 
-### Art. 396
+TITOLO IX
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 9 APRILE 2008, N. 81](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-04-09;81)))
+### Art. 374.
 
-CAPO CCCXX Tolleranze.
-----------------------
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 9 APRILE 2008, N. 81))
 
-### Art. 397
+Lavori di riparazione e manutenzione.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 9 APRILE 2008, N. 81](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-04-09;81)))
+### Art. 375.
 
-CAPO CCCXXI CAPO III VERIFICHE E CONTROLLI Attribuzione dei compiti.
---------------------------------------------------------------------
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 9 APRILE 2008, N. 81))
 
-### Art. 398
+## punti pericolosi.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 9 APRILE 2008, N. 81](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-04-09;81)))
+Accesso per i lavori di riparazione e manutenzione a
 
-CAPO CCCXXII Documentazione delle verifiche e dei controlli.
-------------------------------------------------------------
+### Art. 376.
 
-### Art. 399
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 9 APRILE 2008, N. 81))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 9 APRILE 2008, N. 81](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-04-09;81)))
+## MEZZI PERSONALI DI PROTEZIONE E SOCCORSI D'URGENZA  CAPO I DISPOSIZIONI DI CARATTERE GENERALE Mezzi personali di protezione.
 
-CAPO CCCXXIII Determinazione dei luoghi di lavoro.
---------------------------------------------------
+TITOLO X
 
-### Art. 400
+### Art. 377.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 9 APRILE 2008, N. 81](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-04-09;81)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 9 APRILE 2008, N. 81))
 
-CAPO CCCXXIV CAPO IV APPLICAZIONE DELLE NORME Vigilanza.
---------------------------------------------------------
+## ABBIGLIAMENTO E INDUMENTI DI PROTEZIONE Abbigliamento.
 
-### Art. 401
+CAPO II
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 9 APRILE 2008, N. 81](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-04-09;81)))
+### Art. 378.
 
-CAPO CCCXXV Ricorsi.
---------------------
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 9 APRILE 2008, N. 81))
 
-### Art. 402
+Indumenti di protezione.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 9 APRILE 2008, N. 81](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-04-09;81)))
+### Art. 379.
 
-CAPO CCCXXVI Registro infortuni.
---------------------------------
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 9 APRILE 2008, N. 81))
 
-### Art. 403
+## PROTEZIONI PARTICOLARI Protezione dei capelli.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 9 APRILE 2008, N. 81](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-04-09;81)))
+CAPO III
 
-CAPO CCCXXVII Statistica degli infortuni.
------------------------------------------
+### Art. 380.
 
-### Art. 404
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 9 APRILE 2008, N. 81))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 9 APRILE 2008, N. 81](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-04-09;81)))
+### Art. 381.
 
-CAPO CCCXXVIII CAPO V DISPOSIZIONI FINALI Coordinamento con le disposizioni speciali vigenti in materia.
---------------------------------------------------------------------------------------------------------
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 9 APRILE 2008, N. 81))
 
-### Art. 405
+### Art. 382.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 9 APRILE 2008, N. 81](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-04-09;81)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 9 APRILE 2008, N. 81))
 
-CAPO CCCXXIX Decorrenza.
-------------------------
+Protezione delle mani.
 
-### Art. 406
+### Art. 383.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 9 APRILE 2008, N. 81](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-04-09;81)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 9 APRILE 2008, N. 81))
 
-Tabella A
+Protezione dei piedi.
 
- Tabella A   
+### Art. 384.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 9 APRILE 2008, N. 81](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-04-09;81)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 9 APRILE 2008, N. 81))
+
+Protezione delle altre parti del corpo.
+
+### Art. 385.
+
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 9 APRILE 2008, N. 81))
+
+Cinture di sicurezza.
+
+### Art. 386.
+
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 9 APRILE 2008, N. 81))
+
+Maschere respiratorie.
+
+### Art. 387.
+
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 9 APRILE 2008, N. 81))
+
+## SOCCORSI D'URGENZA Denuncia dell'infortunio e soccorsi d'urgenza.
+
+CAPO IV
+
+### Art. 388.
+
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 9 APRILE 2008, N. 81))
+
+## NORME PENALI  CAPO UNICO
+
+TITOLO XI
+
+### Art. 389.
+
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 9 APRILE 2008, N. 81))
+
+Contravvenzioni commesse dai costruttori e dai commercianti.
+
+### Art. 390.
+
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 9 APRILE 2008, N. 81))
+
+Contravvenzioni commesse dai preposti.
+
+### Art. 391.
+
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 9 APRILE 2008, N. 81))
+
+Contravvenzioni commesse dai lavoratori.
+
+### Art. 392.
+
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 9 APRILE 2008, N. 81))
+
+## DISPOSIZIONI TRANSITORIE E FINALI  CAPO I COMMISSIONE CONSULTIVA PERMANENTE PER LA PREVENZIONE DEGLI INFORTUNI E PER L'IGIENE DEL LAVORO Costituzione della Commissione.
+
+TITOLO XII
+
+### Art. 393.
+
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 9 APRILE 2008, N. 81))
+
+Compiti della Commissione.
+
+### Art. 394.
+
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 9 APRILE 2008, N. 81))
+
+## DEROGHE Deroghe di carattere generale.
+
+CAPO II
+
+### Art. 395.
+
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 9 APRILE 2008, N. 81))
+
+Deroghe particolari.
+
+### Art. 396.
+
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 9 APRILE 2008, N. 81))
+
+Tolleranze.
+
+### Art. 397.
+
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 9 APRILE 2008, N. 81))
+
+## VERIFICHE E CONTROLLI Attribuzione dei compiti.
+
+CAPO III
+
+### Art. 398.
+
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 9 APRILE 2008, N. 81))
+
+Documentazione delle verifiche e dei controlli.
+
+### Art. 399.
+
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 9 APRILE 2008, N. 81))
+
+Determinazione dei luoghi di lavoro.
+
+### Art. 400.
+
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 9 APRILE 2008, N. 81))
+
+## APPLICAZIONE DELLE NORME Vigilanza.
+
+CAPO IV
+
+### Art. 401.
+
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 9 APRILE 2008, N. 81))
+
+Ricorsi.
+
+### Art. 402.
+
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 9 APRILE 2008, N. 81))
+
+Registro infortuni.
+
+### Art. 403.
+
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 9 APRILE 2008, N. 81))
+
+Statistica degli infortuni.
+
+### Art. 404.
+
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 9 APRILE 2008, N. 81))
+
+## DISPOSIZIONI FINALI Coordinamento con le disposizioni speciali vigenti in materia.
+
+CAPO V
+
+### Art. 405.
+
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 9 APRILE 2008, N. 81))
+
+Decorrenza.
+
+### Art. 406.
+
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 9 APRILE 2008, N. 81))

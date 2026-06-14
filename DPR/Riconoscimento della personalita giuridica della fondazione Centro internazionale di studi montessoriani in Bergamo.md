@@ -1,19 +1,21 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 27 settembre 1980 n. 931
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 931
+data: 1980-09-27
+titolo: "Riconoscimento della personalita' giuridica della fondazione \"Centro internazionale di studi montessoriani\", in Bergamo."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1980-09-27;931
+codice_redazionale: 080U0931
+vigente: true
+---
 
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 27 settembre 1980 n. 931
-================================================================
-
-Riconoscimento della personalita' giuridica della fondazione "Centro internazionale di studi montessoriani", in Bergamo.
-------------------------------------------------------------------------------------------------------------------------
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-931. Decreto del Presidente della Repubblica 27 settembre 1980, col quale, sulla proposta del Ministro della pubblica istruzione, viene riconosciuta la personalita' giuridica ed approvato lo statuto della fondazione "Centro internazionale di studi montessoriani", in Bergamo.  
-  
-Visto, il Guardasigilli: SARTI  
-Registrato alla Corte dei conti, addi' 30 dicembre 1980  
-Registro n. 122 Istruzione, foglio n. 25
+931.
+
+Decreto del Presidente della Repubblica 27 settembre 1980, col quale, sulla proposta del Ministro della pubblica istruzione, viene riconosciuta la personalita' giuridica ed approvato lo statuto della fondazione "Centro internazionale di studi montessoriani", in Bergamo.
+
+Visto, il Guardasigilli: SARTI
+ Registrato alla Corte dei conti, addi' 30 dicembre 1980
+ Registro n. 122 Istruzione, foglio n. 25

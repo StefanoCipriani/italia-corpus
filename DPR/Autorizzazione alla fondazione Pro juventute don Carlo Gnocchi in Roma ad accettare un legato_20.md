@@ -1,19 +1,21 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 05 aprile 1977 n. 208
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 98
+data: 1977-02-22
+titolo: "Autorizzazione alla fondazione \"Pro juventute don Carlo Gnocchi\", in Roma, ad accettare un legato."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1977-02-22;98
+codice_redazionale: 077U0098
+vigente: true
+---
 
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 05 aprile 1977 n. 208
-=============================================================
-
-Autorizzazione alla fondazione "Pro juventute don Carlo Gnocchi", in Roma, ad accettare un legato.
---------------------------------------------------------------------------------------------------
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-208. Decreto del Presidente della Repubblica 5 aprile 1977, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la fondazione "Pro juventute don Carlo Gnocchi", in Roma, viene autorizzata ad accettare il legato disposto dalla sig.ra Colombo Alessandra con testamento pubblico 20 gennaio 1971, a rogito del notaio dott. Gian Franco Condo' in data 8 marzo 1971, n. 1649/328 di repertorio e registrato il 9 marzo 1971 a Merate (Como) al n. 202, vol. 44, consistente nella somma di L. 500.000.  
-  
-Visto, il Guardasigilli: BONIFACIO  
-Registrato alla Corte dei conti, addi' 10 maggio 1977  
-Registro n. 4 Presidenza, foglio n. 271
+98.
+
+Decreto del Presidente della Repubblica 22 febbraio 1977, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la fondazione "Pro juventute don Carlo Gnocchi", in Roma, viene autorizzata ad accettare il legato disposto dalla sig.ra Maria Reverberi con testamento olografo 18 maggio 1970 pubblicato a rogito notaio dott. Angelo Gallizia in data 22 gennaio 1973, n. 7790/1024 di repertorio, registrato a Lodi il 9 febbraio 1973 con il n. 823, vol. 194, consistente nella nuda proprieta' di un immobile sito in Milano, via Goldoni n. 77 distinto nel nuovo catasto edilizio urbano alla partita 40537, mapp. 337/31 del valore presunto di L. 7.000.000.
+
+Visto, il Guardasigilli: BONIFACIO
+ Registrato alla Corte dei conti, addi' 29 marzo 1977
+ Registro n. 3 Presidenza, foglio n. 260

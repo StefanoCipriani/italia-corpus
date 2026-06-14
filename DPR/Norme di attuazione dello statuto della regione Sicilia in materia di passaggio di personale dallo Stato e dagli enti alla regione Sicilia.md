@@ -1,18 +1,18 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 15 gennaio 1986 n. 50
-
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 15 gennaio 1986 n. 50
-=============================================================
-
-Norme di attuazione dello statuto della regione Sicilia in materia di passaggio di personale dallo Stato e dagli enti alla regione Sicilia.
--------------------------------------------------------------------------------------------------------------------------------------------
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 50
+data: 1986-01-15
+titolo: "Norme di attuazione dello statuto della regione Sicilia in materia di passaggio di personale dallo Stato e dagli enti alla regione Sicilia."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1986-01-15;50
+codice_redazionale: 086U0050
+vigente: true
+---
 
 IL PRESIDENTE DELLA REPUBBLICA
-------------------------------
 
-Visto l'[art. 87 della Costituzione](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27~art87);
+Visto l'[art. 87 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87);
 
-Visto lo statuto della regione Sicilia, approvato con [decreto legislativo 15 maggio 1946, n. 455](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1946-05-15;455), convertito nella [legge costituzionale 26 febbraio 1948, n. 2](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge.costituzionale:1948-02-26;2);
+Visto lo statuto della regione Sicilia, approvato con [decreto legislativo 15 maggio 1946, n. 455](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1946-05-15;455), convertito nella [legge costituzionale 26 febbraio 1948, n. 2](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge.costituzionale:1948-02-26;2);
 
 Viste le determinazioni della commissione paritetica prevista dall'art. 43 del predetto statuto;
 
@@ -20,51 +20,28 @@ Vista la deliberazione del Consiglio dei Ministri, adottata nella riunione del 2
 
 Sulla proposta del Presidente del Consiglio dei Ministri, di concerto con il Ministro del tesoro;
 
-EMANA
------
+EMANA il seguente decreto:
 
-il seguente decreto:
+## Art. 1.
 
-Art. 1
-------
+Il personale dello Stato in servizio presso gli uffici trasferiti alla regione a seguito dell'emanazione delle norme di attuazione passa all'amministrazione regionale secondo criteri e modalita' stabiliti con legge regionale.
+ Le norme di cui al comma precedente si applicano anche nei confronti del personale degli enti le cui attribuzioni sono esercitate dalla regione in virtu' di norme di attuazione.
 
-  
-Il personale dello Stato in servizio presso gli uffici trasferiti alla regione a seguito dell'emanazione delle norme di attuazione passa all'amministrazione regionale secondo criteri e modalita' stabiliti con legge regionale.  
-Le norme di cui al comma precedente si applicano anche nei confronti del personale degli enti le cui attribuzioni sono esercitate dalla regione in virtu' di norme di attuazione.  
+## Art. 2.
 
-Art. 2
-------
+La regione, nel provvedere alla disciplina delle modalita' relative al passaggio del personale che ne faccia richiesta, garantisce lo stato giuridico ed economico gia' raggiunto del personale stesso.
+ L'inquadramento definitivo del personale degli enti avviene in ogni caso coevamente a quello del personale statale.
 
-  
-La regione, nel provvedere alla disciplina delle modalita' relative al passaggio del personale che ne faccia richiesta, garantisce lo stato giuridico ed economico gia' raggiunto del personale stesso.  
-L'inquadramento definitivo del personale degli enti avviene in ogni caso coevamente a quello del personale statale.  
+## Art. 3.
 
-Art. 3
-------
+In conseguenza del passaggio alla regione operato ai sensi degli articoli precedenti, i corrispondenti ruoli dell'amministrazione dello Stato e, ove occorra, degli enti, saranno con decreto del Presidente della Repubblica adeguatamente ridotti.
 
-  
-In conseguenza del passaggio alla regione operato ai sensi degli articoli precedenti, i corrispondenti ruoli dell'amministrazione dello Stato e, ove occorra, degli enti, saranno con decreto del Presidente della Repubblica adeguatamente ridotti.  
+## Art. 4.
 
-Art. 4
-------
-
-  
-I rapporti finanziari conseguenti al passaggio del personale di cui al presente decreto saranno disciplinati in sede di regolamento definitivo dei rapporti finanziari tra lo Stato e la regione.  
-  
+I rapporti finanziari conseguenti al passaggio del personale di cui al presente decreto saranno disciplinati in sede di regolamento definitivo dei rapporti finanziari tra lo Stato e la regione.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 15 gennaio 1986
+Dato a Roma, addi' 15 gennaio 1986
 
-COSSIGA
-
-CRAXI, Presidente del Consiglio dei Ministri
-
-GORIA, Ministro del tesoro
-
-Visto, il Guardasigilli: MARTINAZZOLI
-
-Registrato alla Corte dei conti, addi' 22 febbraio 1986
-
-Atti di Governo, registro n. 58, foglio n. 15
+COSSIGA CRAXI, Presidente del Consiglio dei Ministri GORIA, Ministro del tesoro Visto, il Guardasigilli: MARTINAZZOLI Registrato alla Corte dei conti, addi' 22 febbraio 1986 Atti di Governo, registro n. 58, foglio n. 15

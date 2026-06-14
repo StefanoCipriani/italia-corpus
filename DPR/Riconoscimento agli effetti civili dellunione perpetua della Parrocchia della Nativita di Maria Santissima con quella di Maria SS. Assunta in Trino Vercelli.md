@@ -1,19 +1,21 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 21 dicembre 1965 n. 1613
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 1613
+data: 1965-12-21
+titolo: "Riconoscimento, agli effetti civili, dell'unione perpetua della Parrocchia della Nativita' di Maria Santissima con quella di Maria SS. Assunta, in Trino (Vercelli)."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1965-12-21;1613
+codice_redazionale: 065U1613
+vigente: true
+---
 
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 21 dicembre 1965 n. 1613
-================================================================
-
-Riconoscimento, agli effetti civili, dell'unione perpetua della Parrocchia della Nativita' di Maria Santissima con quella di Maria SS. Assunta, in Trino (Vercelli).
---------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-1613. Decreto del Presidente della Repubblica 21 dicembre 1965, col quale, sulla proposta del Ministro per l'interno, viene riconosciuto, agli effetti civili, il decreto dell'Ordinario diocesano di Vercelli in data 15 febbraio 1965, relativo all'unione perpetua, nella forma "aeque principaliter" della Parrocchia della Nativita' di Maria Santissima in frazione Leri del comune di Trino (Vercelli) con la Parrocchia di Maria Santissima Assunta in frazione Lucedio dello stesso Comune.  
-  
-Visto, il Guardasigilli: REALE  
-Registrato alla Corte dei conti, addi' 20 gennaio 1966  
-Atti del Governo, registro n. 200, foglio n. 16. - VILLA
+1613.
+
+Decreto del Presidente della Repubblica 21 dicembre 1965, col quale, sulla proposta del Ministro per l'interno, viene riconosciuto, agli effetti civili, il decreto dell'Ordinario diocesano di Vercelli in data 15 febbraio 1965, relativo all'unione perpetua, nella forma "aeque principaliter" della Parrocchia della Nativita' di Maria Santissima in frazione Leri del comune di Trino (Vercelli) con la Parrocchia di Maria Santissima Assunta in frazione Lucedio dello stesso Comune.
+
+Visto, il Guardasigilli: REALE
+ Registrato alla Corte dei conti, addi' 20 gennaio 1966
+ Atti del Governo, registro n. 200, foglio n. 16. - VILLA

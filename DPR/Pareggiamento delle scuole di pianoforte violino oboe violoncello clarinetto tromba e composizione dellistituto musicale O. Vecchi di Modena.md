@@ -1,19 +1,21 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 11 agosto 1976 n. 753
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 753
+data: 1976-08-11
+titolo: "Pareggiamento delle scuole di pianoforte, violino, oboe, violoncello, clarinetto, tromba e composizione dell'istituto musicale \"O. Vecchi\" di Modena."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1976-08-11;753
+codice_redazionale: 076U0753
+vigente: true
+---
 
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 11 agosto 1976 n. 753
-=============================================================
-
-Pareggiamento delle scuole di pianoforte, violino, oboe, violoncello, clarinetto, tromba e composizione dell'istituto musicale "O. Vecchi" di Modena.
------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-753. Decreto del Presidente della Repubblica 11 agosto 1976, col quale, sulla proposta del Ministro per la pubblica, istruzione, a decorrere dal 1 ottobre 1975 le scuole di pianoforte, violino, oboe, violoncello, clarinetto, tromba e composizione dell'istituto musicale "O. Vecchi" di Modena sono pareggiate, a tutti gli effetti di legge, alle scuole analoghe dei conservatori musicali statali.  
-  
-Visto, il Guardasigilli: BONIFACIO  
-Registrato alla Corte dei conti, addi' 22 ottobre 1976  
-Atti di Governo, registro n. 10, foglio n. 171
+753.
+
+Decreto del Presidente della Repubblica 11 agosto 1976, col quale, sulla proposta del Ministro per la pubblica, istruzione, a decorrere dal 1 ottobre 1975 le scuole di pianoforte, violino, oboe, violoncello, clarinetto, tromba e composizione dell'istituto musicale "O. Vecchi" di Modena sono pareggiate, a tutti gli effetti di legge, alle scuole analoghe dei conservatori musicali statali.
+
+Visto, il Guardasigilli: BONIFACIO
+ Registrato alla Corte dei conti, addi' 22 ottobre 1976
+ Atti di Governo, registro n. 10, foglio n. 171

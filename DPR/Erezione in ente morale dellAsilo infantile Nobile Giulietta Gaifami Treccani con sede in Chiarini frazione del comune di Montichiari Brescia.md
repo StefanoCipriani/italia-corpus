@@ -1,19 +1,21 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 marzo 1962 n. 258
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 258
+data: 1962-03-31
+titolo: "Erezione in ente morale dell'Asilo infantile \"Nobile Giulietta Gaifami Treccani\", con sede in Chiarini, frazione del comune di Montichiari (Brescia)."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1962-03-31;258
+codice_redazionale: 062U0258
+vigente: true
+---
 
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 marzo 1962 n. 258
-============================================================
-
-Erezione in ente morale dell'Asilo infantile "Nobile Giulietta Gaifami Treccani", con sede in Chiarini, frazione del comune di Montichiari (Brescia).
------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-258. Decreto del Presidente della Repubblica 31 marzo 1962, col quale, silla proposta del Ministro per l'interno, l'Asilo infantile "Nobile Giulietta Gaifami Treccani", con sede in Chiarini, frazione del comune di Montichiari (Brescia), viene eretto in ente morale e ne viene approvato con modificazioni il relativo statuto.  
-  
-Visto, il Guardasigilli: BOSCO  
-Registrato alla Corte dei conti, addi' 11 maggio 1962  
-Atti del Governo, registro n. 146, foglio n. 93. - VILLA
+258.
+
+Decreto del Presidente della Repubblica 31 marzo 1962, col quale, silla proposta del Ministro per l'interno, l'Asilo infantile "Nobile Giulietta Gaifami Treccani", con sede in Chiarini, frazione del comune di Montichiari (Brescia), viene eretto in ente morale e ne viene approvato con modificazioni il relativo statuto.
+
+Visto, il Guardasigilli: BOSCO
+ Registrato alla Corte dei conti, addi' 11 maggio 1962
+ Atti del Governo, registro n. 146, foglio n. 93. - VILLA

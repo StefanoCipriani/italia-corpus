@@ -1,19 +1,21 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 25 febbraio 1957 n. 334
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 334
+data: 1957-02-25
+titolo: "Approvazione del nuovo statuto organico della Federazione colombofila italiana, con sede in Roma."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1957-02-25;334
+codice_redazionale: 057U0334
+vigente: true
+---
 
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 25 febbraio 1957 n. 334
-===============================================================
-
-Approvazione del nuovo statuto organico della Federazione colombofila italiana, con sede in Roma.
--------------------------------------------------------------------------------------------------
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-334. Decreto del Presidente della Repubblica 25 febbraio 1957, col quale, sulla proposta del Ministro per la difesa, viene approvato il nuovo statuto organico della Federazione colombofila italiana, con sede in Roma.   
-  
-Visto, il Guardasigilli: MORO   
-Registrato alla Corte dei conti, addi' 17 maggio 1957   
-Atti del governo, registro n. 105, foglio n. 102. - CARLOMAGNO
+334.
+
+Decreto del Presidente della Repubblica 25 febbraio 1957, col quale, sulla proposta del Ministro per la difesa, viene approvato il nuovo statuto organico della Federazione colombofila italiana, con sede in Roma. 
+ 
+Visto, il Guardasigilli: MORO 
+ Registrato alla Corte dei conti, addi' 17 maggio 1957 
+ Atti del governo, registro n. 105, foglio n. 102. - CARLOMAGNO

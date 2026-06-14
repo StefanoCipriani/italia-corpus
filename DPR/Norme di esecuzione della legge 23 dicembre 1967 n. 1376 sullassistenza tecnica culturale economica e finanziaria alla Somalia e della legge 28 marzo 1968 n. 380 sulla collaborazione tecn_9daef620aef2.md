@@ -1,189 +1,197 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 23 luglio 1971 n. 1324
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 1324
+data: 1971-07-23
+titolo: "Norme di esecuzione della legge 23 dicembre 1967, n. 1376, sull'assistenza tecnica, culturale, economica e finanziaria alla Somalia e della legge 28 marzo 1968, n. 380, sulla collaborazione tecnica bilaterale con i Paesi in via di sviluppo."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1971-07-23;1324
+codice_redazionale: 071U1324
+vigente: true
+---
 
+## DISPOSIZIONI GENERALI
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 23 luglio 1971 n. 1324
-==============================================================
+TITOLO I
 
-Norme di esecuzione della legge 23 dicembre 1967, n. 1376, sull'assistenza tecnica, culturale, economica e finanziaria alla Somalia e della legge 28 marzo 1968, n. 380, sulla collaborazione tecnica bilaterale con i Paesi in via di sviluppo.
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+### Art. 1.
 
-CAPO I TITOLO I DISPOSIZIONI GENERALI
--------------------------------------
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 18 OTTOBRE 1976, N. 1068))
 
-### Art. 1
+### Art. 2.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 18 OTTOBRE 1976, N. 1068](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1976-10-18;1068)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 18 OTTOBRE 1976, N. 1068))
 
-### Art. 2
+### Art. 3.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 18 OTTOBRE 1976, N. 1068](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1976-10-18;1068)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 18 OTTOBRE 1976, N. 1068))
 
-### Art. 3
+## PERSONALE CIVILE DI RUOLO E MILITARE
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 18 OTTOBRE 1976, N. 1068](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1976-10-18;1068)))
+TITOLO II
 
-CAPO II TITOLO II PERSONALE CIVILE DI RUOLO E MILITARE
-------------------------------------------------------
+### Art. 4.
 
-### Art. 4
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 18 OTTOBRE 1976, N. 1068))
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 18 OTTOBRE 1976, N. 1068](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1976-10-18;1068)))
+### Art. 5.
 
-### Art. 5
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 18 OTTOBRE 1976, N. 1068))
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 18 OTTOBRE 1976, N. 1068](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1976-10-18;1068)))
+### Art. 6.
 
-### Art. 6
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 18 OTTOBRE 1976, N. 1068))
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 18 OTTOBRE 1976, N. 1068](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1976-10-18;1068)))
+### Art. 7.
 
-### Art. 7
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 18 OTTOBRE 1976, N. 1068))
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 18 OTTOBRE 1976, N. 1068](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1976-10-18;1068)))
+## PERSONALE A CONTRATTO
 
-CAPO III TITOLO III PERSONALE A CONTRATTO
------------------------------------------
+TITOLO III
 
-### Art. 8
+### Art. 8.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 18 OTTOBRE 1976, N. 1068](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1976-10-18;1068)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 18 OTTOBRE 1976, N. 1068))
 
-### Art. 9
+### Art. 9.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 18 OTTOBRE 1976, N. 1068](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1976-10-18;1068)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 18 OTTOBRE 1976, N. 1068))
 
-### Art. 10
+### Art. 10.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 18 OTTOBRE 1976, N. 1068](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1976-10-18;1068)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 18 OTTOBRE 1976, N. 1068))
 
-### Art. 11
+### Art. 11.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 18 OTTOBRE 1976, N. 1068](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1976-10-18;1068)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 18 OTTOBRE 1976, N. 1068))
 
-### Art. 12
+### Art. 12.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 18 OTTOBRE 1976, N. 1068](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1976-10-18;1068)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 18 OTTOBRE 1976, N. 1068))
 
-### Art. 13
+### Art. 13.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 18 OTTOBRE 1976, N. 1068](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1976-10-18;1068)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 18 OTTOBRE 1976, N. 1068))
 
-### Art. 14
+### Art. 14.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 18 OTTOBRE 1976, N. 1068](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1976-10-18;1068)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 18 OTTOBRE 1976, N. 1068))
 
-### Art. 15
+### Art. 15.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 18 OTTOBRE 1976, N. 1068](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1976-10-18;1068)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 18 OTTOBRE 1976, N. 1068))
 
-### Art. 16
+### Art. 16.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 18 OTTOBRE 1976, N. 1068](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1976-10-18;1068)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 18 OTTOBRE 1976, N. 1068))
 
-### Art. 17
+### Art. 17.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 18 OTTOBRE 1976, N. 1068](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1976-10-18;1068)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 18 OTTOBRE 1976, N. 1068))
 
-### Art. 18
+### Art. 18.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 18 OTTOBRE 1976, N. 1068](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1976-10-18;1068)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 18 OTTOBRE 1976, N. 1068))
 
-### Art. 19
+### Art. 19.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 18 OTTOBRE 1976, N. 1068](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1976-10-18;1068)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 18 OTTOBRE 1976, N. 1068))
 
-### Art. 20
+### Art. 20.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 18 OTTOBRE 1976, N. 1068](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1976-10-18;1068)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 18 OTTOBRE 1976, N. 1068))
 
-### Art. 21
+### Art. 21.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 18 OTTOBRE 1976, N. 1068](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1976-10-18;1068)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 18 OTTOBRE 1976, N. 1068))
 
-### Art. 22
+### Art. 22.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 18 OTTOBRE 1976, N. 1068](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1976-10-18;1068)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 18 OTTOBRE 1976, N. 1068))
 
-### Art. 23
+### Art. 23.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 18 OTTOBRE 1976, N. 1068](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1976-10-18;1068)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 18 OTTOBRE 1976, N. 1068))
 
-### Art. 24
+### Art. 24.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 18 OTTOBRE 1976, N. 1068](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1976-10-18;1068)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 18 OTTOBRE 1976, N. 1068))
 
-### Art. 25
+### Art. 25.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 18 OTTOBRE 1976, N. 1068](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1976-10-18;1068)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 18 OTTOBRE 1976, N. 1068))
 
-CAPO IV TITOLO IV NORME COMUNI AL PERSONALE CIVILE DI RUOLO, MILITARE ED A CONTRATTO
-------------------------------------------------------------------------------------
+## NORME COMUNI AL PERSONALE CIVILE DI RUOLO, MILITARE ED A CONTRATTO
 
-### Art. 26
+TITOLO IV
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 18 OTTOBRE 1976, N. 1068](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1976-10-18;1068)))
+### Art. 26.
 
-CAPO V TITOLO V CONTRIBUTI ED ATTREZZATURA STRUMENTALE
-------------------------------------------------------
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 18 OTTOBRE 1976, N. 1068))
 
-### Art. 27
+## CONTRIBUTI ED ATTREZZATURA STRUMENTALE
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 18 OTTOBRE 1976, N. 1068](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1976-10-18;1068)))
+TITOLO V
 
-### Art. 28
+### Art. 27.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 18 OTTOBRE 1976, N. 1068](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1976-10-18;1068)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 18 OTTOBRE 1976, N. 1068))
 
-### Art. 29
+### Art. 28.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 18 OTTOBRE 1976, N. 1068](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1976-10-18;1068)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 18 OTTOBRE 1976, N. 1068))
 
-### Art. 30
+### Art. 29.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 18 OTTOBRE 1976, N. 1068](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1976-10-18;1068)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 18 OTTOBRE 1976, N. 1068))
 
-### Art. 31
+### Art. 30.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 18 OTTOBRE 1976, N. 1068](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1976-10-18;1068)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 18 OTTOBRE 1976, N. 1068))
 
-### Art. 32
+### Art. 31.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 18 OTTOBRE 1976, N. 1068](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1976-10-18;1068)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 18 OTTOBRE 1976, N. 1068))
 
-### Art. 33
+### Art. 32.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 18 OTTOBRE 1976, N. 1068](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1976-10-18;1068)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 18 OTTOBRE 1976, N. 1068))
 
-CAPO VI TITOLO VI DISPOSIZIONI SPECIALI PER L'ESECUZIONE DELL'ART. 2 DELLA LEGGE 23 DICEMBRE 1967, N. 1376 SULL'ASSISTENZA TECNICA ALLA SOMALIA
------------------------------------------------------------------------------------------------------------------------------------------------
+### Art. 33.
 
-### Art. 34
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 18 OTTOBRE 1976, N. 1068))
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 18 OTTOBRE 1976, N. 1068](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1976-10-18;1068)))
+## DISPOSIZIONI SPECIALI PER L'ESECUZIONE DELL'ART. 2 DELLA LEGGE 23 DICEMBRE 1967, N. 1376 SULL'ASSISTENZA TECNICA ALLA SOMALIA
 
-### Art. 35
+TITOLO VI
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 18 OTTOBRE 1976, N. 1068](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1976-10-18;1068)))
+### Art. 34.
 
-### Art. 36
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 18 OTTOBRE 1976, N. 1068))
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 18 OTTOBRE 1976, N. 1068](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1976-10-18;1068)))
+### Art. 35.
 
-### Art. 37
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 18 OTTOBRE 1976, N. 1068))
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 18 OTTOBRE 1976, N. 1068](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1976-10-18;1068)))
+### Art. 36.
 
-CAPO VII TITOLO VII NORME TRANSITORIE E FINALI
-----------------------------------------------
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 18 OTTOBRE 1976, N. 1068))
 
-### Art. 38
+### Art. 37.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 18 OTTOBRE 1976, N. 1068](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1976-10-18;1068)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 18 OTTOBRE 1976, N. 1068))
 
-### Art. 39
+## NORME TRANSITORIE E FINALI
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 18 OTTOBRE 1976, N. 1068](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1976-10-18;1068)))
+TITOLO VII
 
-### Art. 40
+### Art. 38.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 18 OTTOBRE 1976, N. 1068](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1976-10-18;1068)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 18 OTTOBRE 1976, N. 1068))
+
+### Art. 39.
+
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 18 OTTOBRE 1976, N. 1068))
+
+### Art. 40.
+
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 18 OTTOBRE 1976, N. 1068))

@@ -1,19 +1,21 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 26 settembre 1972 n. 687
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 274
+data: 1972-05-06
+titolo: "Autorizzazione all'Ente nazionale assistenza lavoratori ad acquistare un immobile."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1972-05-06;274
+codice_redazionale: 072U0274
+vigente: true
+---
 
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 26 settembre 1972 n. 687
-================================================================
-
-Autorizzazione all'Ente nazionale assistenza lavoratori ad acquistare un immobile.
-----------------------------------------------------------------------------------
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-687. Decreto del Presidente della Repubblica 26 settembre 1972, col quale, sulla proposta del Presidente del Consiglio dei Ministri, l'Ente nazionale assistenza lavoratori (E.N.A.L.) viene autorizzato ad acquistare dal sig. Alfonso Granozio, al complessivo convenuto prezzo di L. 3.100.000 un immobile costituito dal terraneo sito nel comune di Giffoni Sei Casali (Salerno), frazione di Capitignano, della superficie di mq. 300 circa, dallo stabile ivi costruito, nonche' dalla piccola area tra il terraneo e la variante provinciale per Pupezzano, da destinare a sede del locale circolo E.N.A.L.  
-  
-Visto, il Guardasigilli: GONELLA  
-Registrato alla Corte dei conti, addi' 15 novembre 1972  
-Atti del Governo, registro n. 253, foglio n. 43. - CARUSO
+274.
+
+Decreto del Presidente della Repubblica 6 maggio 1972, col quale, sulla proposta del Presidente del Consiglio dei Ministri, l'Ente nazionale assistenza lavoratori (E.N.A.L.) viene autorizzato ad acquistare al complessivo convenuto prezzo di L. 600.000 dall'Ente morale dopolavoro Ravenna, un fabbricato di piani uno, vani tre, sito in Casal Borsetti (Ravenna), distinto in catasto al foglio n. 31, mappale 58 della sezione di S. Alberto, da servire ad uso diretto dell'ente.
+
+Visto, il Guardasigilli: GONELLA
+ Registrato alla Corte dei conti, addi' 22 giugno 1972
+ Atti del Governo, registro n. 249, foglio n. 95. - VALENTINI

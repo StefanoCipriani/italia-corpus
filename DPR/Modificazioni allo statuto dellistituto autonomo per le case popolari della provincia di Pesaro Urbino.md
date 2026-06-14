@@ -1,19 +1,21 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 24 giugno 1974 n. 600
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 600
+data: 1974-06-24
+titolo: "Modificazioni allo statuto dell'istituto autonomo per le case popolari della provincia di Pesaro Urbino."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1974-06-24;600
+codice_redazionale: 074U0600
+vigente: true
+---
 
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 24 giugno 1974 n. 600
-=============================================================
-
-Modificazioni allo statuto dell'istituto autonomo per le case popolari della provincia di Pesaro Urbino.
---------------------------------------------------------------------------------------------------------
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-600. Decreto del Presidente della Repubblica 24 giugno 1974, col quale, sulla proposta del Ministro per i lavori pubblici, vengono approvate le modificazioni agli articoli 4, 6, 16 e 29 dello statuto dell'Istituto autonomo per le case popolari della provincia di Pesaro Urbino, approvato con [regio decreto 1 aprile 1943, n. 369](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1943-04-01;369).  
-  
-Visto, il Guardasigilli: ZAGARI  
-Registrato alla Corte dei conti, addi' 21 novembre 1974  
-Atti di Governo, registro n. 7, foglio n. 6. - SCIARRETTA
+600.
+
+Decreto del Presidente della Repubblica 24 giugno 1974, col quale, sulla proposta del Ministro per i lavori pubblici, vengono approvate le modificazioni agli articoli 4, 6, 16 e 29 dello statuto dell'Istituto autonomo per le case popolari della provincia di Pesaro Urbino, approvato con [regio decreto 1 aprile 1943, n. 369](../Atti%20normativi%20abrogati%20%28in%20originale%29/Modificazione%20dello%20statuto%20dellIstituto%20fascista%20autonomo%20per%20le%20case%20popolari%20della%20provincia%20di%20Pesaro.%20043U0369.md).
+
+Visto, il Guardasigilli: ZAGARI
+ Registrato alla Corte dei conti, addi' 21 novembre 1974
+ Atti di Governo, registro n. 7, foglio n. 6. - SCIARRETTA

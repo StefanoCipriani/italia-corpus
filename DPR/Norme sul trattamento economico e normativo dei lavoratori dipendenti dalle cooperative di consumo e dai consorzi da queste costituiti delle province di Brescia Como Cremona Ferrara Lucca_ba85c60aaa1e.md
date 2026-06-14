@@ -1,20 +1,20 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 gennaio 1962 n. 837
-
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 gennaio 1962 n. 837
-==============================================================
-
-Norme sul trattamento economico e normativo dei lavoratori dipendenti dalle cooperative di consumo e dai consorzi da queste costituiti delle province di Brescia, Como, Cremona, Ferrara, Lucca, Mantova, Milano, Novara, Pavia, Pisa, Savona, Trento, Udine, Venezia.
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 837
+data: 1962-01-02
+titolo: "Norme sul trattamento economico e normativo dei lavoratori dipendenti dalle cooperative di consumo e dai consorzi da queste costituiti delle province di Brescia, Como, Cremona, Ferrara, Lucca, Mantova, Milano, Novara, Pavia, Pisa, Savona, Trento, Udine, Venezia."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1962-01-02;837
+codice_redazionale: 062U0837
+vigente: true
+---
 
 IL PRESIDENTE DELLA REPUBBLICA
-------------------------------
 
-Visto l'[art. 87, comma quinto, della Costituzione](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27~art87-com5);
+Visto l'[art. 87, comma quinto, della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87-com5);
 
-Vista la [legge 14 luglio 1959, n. 741](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1959-07-14;741), che delega il Governo ad emanare norme transitorie per garantire minimi di trattamento economico e normativo ai lavoratori;
+Vista la [legge 14 luglio 1959, n. 741](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1959-07-14;741), che delega il Governo ad emanare norme transitorie per garantire minimi di trattamento economico e normativo ai lavoratori;
 
-Vista la [legge 1 ottobre 1960, n. 1027](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1960-10-01;1027), recante modifiche alla predetta [Legge 14 luglio 1959, n. 741](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1959-07-14;741);
+Vista la [legge 1 ottobre 1960, n. 1027](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1960-10-01;1027), recante modifiche alla predetta [Legge 14 luglio 1959, n. 741](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1959-07-14;741);
 
 Visto il contratto collettivo nazionale 2 marzo 1955, per il personale dipendente dalle cooperative di consumo e dai consorzi da queste costituiti;
 
@@ -54,164 +54,30 @@ Vista la pubblicazione nell'apposito Bollettino n. 7 della provincia di Brescia,
 
 Sentito il Consiglio dei Ministri;
 
-Sulla,
-------
+Sulla, proposta del Ministro per il lavoro e la previdenza sociale; Decreta:
 
-proposta del Ministro per il lavoro e la previdenza sociale; Decreta:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-I rapporti di lavoro costituiti per l'attivita' per la quale sono stati stipulati i contratti e gli accordi collettivi integrativi sotto elencati, sono regolati da norme giuridiche uniformi alle clausole dei contratti e degli accordi stessi annessi al presente decreto:  
-per la provincia di Brescia, contratto collettivo integrativo 29 settembre 1959, relativo al personale dipendente da cooperative di consumo;  
-per la provincia di Como, contratto collettivo integrativo 30 settembre 1959, relativo al personale dipendente da cooperative di consumo e da consorzi da queste costituiti;  
-per la provincia di Cremona, contratto collettivo integrativo 24 maggio 1956, relativo al personale dipendente da cooperative di consumo e da consorzi da queste costituiti;  
-per la provincia di Ferrara, contratto collettivo integrativo 14 maggio 1959, relativo al personale dipendente da cooperative di consumo;  
-per la provincia di Lucca, contratto collettivo integrativo 23 gennaio 1959, relativo al personale dipendente da cooperative di consumo e da consorzi da queste costituiti;  
-per la provincia di Mantova, contratto collettivo integrativo 12 ottobre 1956, relativo al personale dipendente da cooperative di consumo e da consorzi da queste costituiti;  
-per la provincia di Milano, contratto collettivo integrativo 15 luglio 1960, relativo al personale dipendente da cooperative di consumo e da consorzi da queste costituiti;  
-per la provincia di Novara, contratto collettivo integrativo 23 dicembre 1958, relativo al personale dipendente da cooperative di consumo e da consorzi da queste costituite;  
-per la provincia di Pavia, contratto collettivo integrativo 10 ottobre 1955, relativo al personale dipendente da cooperative di consumo;  
-per la provincia di Pisa, contratto collettivo integrativo 29 settembre 1959, relativo al personale dipendente da cooperative di consumo e da consorzi da queste costituiti;  
-per la provincia di Savona, accordo collettivo integrativo 7 gennaio 1959, relativo al personale dipendente da cooperative di consumo e da consorzi da queste costituiti;  
-per la provincia di Trento, accordo collettivo integrativo 24 settembre 1958, relativo al personale dipendente da cooperative di consumo, e accordo collettivo integrativo 24 giugno 1960, relativo alle famiglie cooperative e al personale da esse dipendente;  
-per la provincia di Udine contratto collettivo integrativo 1 ottobre 1959, relativo al personale dipendente dalle cooperative di consumo;  
-per la provincia di Venezia, contratto collettivo integrativo 23 maggio 1951, relativo al personale dipendente dalle cooperative di consumo.  
-Le norme di cui al primo comma sono integrative di quelle concernenti la disciplina nazionale della categoria, purche' con esse compatibili.  
-I minimi di trattamento economico e normativo cosi' stabiliti sono inderogabili nei confronti di tutti i lavoratori, dipendenti dalle cooperative di consumo e dai consorzi da queste costituiti esercenti le attivita' considerate nei contratti e negli accordi di cui al primo comma, delle province di Brescia, Como, Cremona, Ferrara, Lucca, Mantova, Milano. Novara, Pavia, Pisa, Savona. Trento, Udine, Venezia.  
-  
+I rapporti di lavoro costituiti per l'attivita' per la quale sono stati stipulati i contratti e gli accordi collettivi integrativi sotto elencati, sono regolati da norme giuridiche uniformi alle clausole dei contratti e degli accordi stessi annessi al presente decreto:
+ per la provincia di Brescia, contratto collettivo integrativo 29 settembre 1959, relativo al personale dipendente da cooperative di consumo;
+ per la provincia di Como, contratto collettivo integrativo 30 settembre 1959, relativo al personale dipendente da cooperative di consumo e da consorzi da queste costituiti;
+ per la provincia di Cremona, contratto collettivo integrativo 24 maggio 1956, relativo al personale dipendente da cooperative di consumo e da consorzi da queste costituiti;
+ per la provincia di Ferrara, contratto collettivo integrativo 14 maggio 1959, relativo al personale dipendente da cooperative di consumo;
+ per la provincia di Lucca, contratto collettivo integrativo 23 gennaio 1959, relativo al personale dipendente da cooperative di consumo e da consorzi da queste costituiti;
+ per la provincia di Mantova, contratto collettivo integrativo 12 ottobre 1956, relativo al personale dipendente da cooperative di consumo e da consorzi da queste costituiti;
+ per la provincia di Milano, contratto collettivo integrativo 15 luglio 1960, relativo al personale dipendente da cooperative di consumo e da consorzi da queste costituiti;
+ per la provincia di Novara, contratto collettivo integrativo 23 dicembre 1958, relativo al personale dipendente da cooperative di consumo e da consorzi da queste costituite;
+ per la provincia di Pavia, contratto collettivo integrativo 10 ottobre 1955, relativo al personale dipendente da cooperative di consumo;
+ per la provincia di Pisa, contratto collettivo integrativo 29 settembre 1959, relativo al personale dipendente da cooperative di consumo e da consorzi da queste costituiti;
+ per la provincia di Savona, accordo collettivo integrativo 7 gennaio 1959, relativo al personale dipendente da cooperative di consumo e da consorzi da queste costituiti;
+ per la provincia di Trento, accordo collettivo integrativo 24 settembre 1958, relativo al personale dipendente da cooperative di consumo, e accordo collettivo integrativo 24 giugno 1960, relativo alle famiglie cooperative e al personale da esse dipendente;
+ per la provincia di Udine contratto collettivo integrativo 1 ottobre 1959, relativo al personale dipendente dalle cooperative di consumo;
+ per la provincia di Venezia, contratto collettivo integrativo 23 maggio 1951, relativo al personale dipendente dalle cooperative di consumo.
+ Le norme di cui al primo comma sono integrative di quelle concernenti la disciplina nazionale della categoria, purche' con esse compatibili.
+ I minimi di trattamento economico e normativo cosi' stabiliti sono inderogabili nei confronti di tutti i lavoratori, dipendenti dalle cooperative di consumo e dai consorzi da queste costituiti esercenti le attivita' considerate nei contratti e negli accordi di cui al primo comma, delle province di Brescia, Como, Cremona, Ferrara, Lucca, Mantova, Milano. Novara, Pavia, Pisa, Savona. Trento, Udine, Venezia.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 2 gennaio 1962
+Dato a Roma, addi' 2 gennaio 1962
 
-GRONCHI FANFANI - SULLO
-
-Visto, il Guardasigilli: BOSCO
-
-Registrato alla Corte dei conti, addi' 19 giugno 1962
-
-Atti del Governo, registro n. 151, foglio n. 38. - VILLA
-
-Allegato
-
-CONTRATTO COLLETTIVO 29 SETTEMBRE 1959, INTEGRATIVO DEL CONTRATTO NAZIONALE 2 MARZO 1955, PER IL PERSONALE DIPENDENTE DALLE COOPERATIVE DI CONSUMO DELLA PROVINCIA DI BRESCIA.   
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=062U083700100010110001&dgu=1962-07-19&art.dataPubblicazioneGazzetta=1962-07-19&art.codiceRedazionale=062U0837)
-  
-  
-  
-  
-CONTRATTO COLLETTIVO 30 SETTEMBRE 1959, INTEGRATIVO DEL CONTRATTO COLLETTIVO NAZIONALE 2 MARZO 1955 PER IL PERSONALE DIPENDENTE DALLE COOPERATIVE DI CONSUMO E DAI CONSORZI DA QUESTE COSTITUITI DELLA PROVINCIA DI COMO.   
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=062U083700100010110002&dgu=1962-07-19&art.dataPubblicazioneGazzetta=1962-07-19&art.codiceRedazionale=062U0837)
-  
-  
-  
-  
-CONTRATTO COLLETTIVO 24 MAGGIO 1956, INTEGRATIVO DEL CONTRATTO COLLETTIVO NAZIONALE 2 MARZO 1955, PER IL PERSONALE DIPENDENTE DALLE COOPERATIVE DI CONSUMO E DA CONSORZI DA QUESTE COSTITUITI DELLA PROVINCIA DI CREMONA.   
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=062U083700100010110003&dgu=1962-07-19&art.dataPubblicazioneGazzetta=1962-07-19&art.codiceRedazionale=062U0837)
-  
-  
-  
-  
-CONTRATTO COLLETTIVO 14 MAGGIO 1959. INTEGRATIVO AL CONTRATTO NAZIONALE DI LAVORO 2 MARZO 1955 E SUCCESSIVE MODIFICHE, PER IL PERSONALE DIPENDENTE DA COOPERATIVE DI CONSUMO DELLA PROVINCIA DI FERRARA.   
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=062U083700100010110004&dgu=1962-07-19&art.dataPubblicazioneGazzetta=1962-07-19&art.codiceRedazionale=062U0837)
-  
-  
-  
-  
-ACCORDO COLLETTIVO 23 GENNAIO 1959, INTEGRATIVO DEL CONTRATTO COLLETTIVO NAZIONALE 2 MARZO 1955, PER I DIPENDENTI DALLE COOPERATIVE DI CONSUMO E DA CONSORZI, DA QUESTE COSTITUITI, DELLA PROVINCIA DI LUCCA.   
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=062U083700100010110005&dgu=1962-07-19&art.dataPubblicazioneGazzetta=1962-07-19&art.codiceRedazionale=062U0837)
-  
-  
-  
-  
-CONTRATTO COLLETTIVO 12 OTTOBRE 1956, INTEGRATIVO DEL CONTRATTO COLLETTIVO NAZIONALE 2 MARZO 1955, PER IL PERSONALE DIPENDENTE DALLE COOPERATIVE DI CONSUMO E DA CONSORZI DA QUESTE COSTITUITI DELLA PROVINCIA DI MANTOVA.   
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=062U083700100010110006&dgu=1962-07-19&art.dataPubblicazioneGazzetta=1962-07-19&art.codiceRedazionale=062U0837)
-  
-  
-  
-  
-CONTRATTO COLLETTIVO INTEGRATIVO 15 LUGLIO 1960 PER IL PERSONALE DIPENDENTE DA COOPERATIVE DI CONSUMO E DA CONSORZI DA QUESTE COSTITUITI DELLA PROVINCIA DI MILANO.   
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=062U083700100010110007&dgu=1962-07-19&art.dataPubblicazioneGazzetta=1962-07-19&art.codiceRedazionale=062U0837)
-  
-  
-  
-  
-CONTRATTO COLLETTIVO 23 DICEMBRE 1958, INTEGRATIVO DEL CONTRATTO COLLETTIVO NAZIONALE 2 MARZO 1935, PER I DIPENDENTI DALLE COOPERATIVE DI CONSUMO E DA CONSORZI DA QUESTE COSTITUITI DELLA PROVINCIA DI NOVARA.   
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=062U083700100010110008&dgu=1962-07-19&art.dataPubblicazioneGazzetta=1962-07-19&art.codiceRedazionale=062U0837)
-  
-  
-  
-  
-CONTRATTO COLLETTIVO 10 OTTOBRE 1955, INTEGRATIVO DEL CONTRATTO COLLETTIVO NAZIONALE 2 MARZO 1955, PER IL PERSONALE DIPENDENTE DA COOPERATIVE DI CONSUMO DELLA PROVINCIA DI PAVIA.   
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=062U083700100010110009&dgu=1962-07-19&art.dataPubblicazioneGazzetta=1962-07-19&art.codiceRedazionale=062U0837)
-  
-  
-  
-  
-CONTRATTO COLLETTIVO 29 SETTEMBRE 1959, INTEGRATIVO DEL CONTRATTO COLLETTIVO NAZIONALE 2 MARZO 1955, PER I DIPENDENTI DA COOPERATIVE DI CONSUMO E DA CONSORZI DA QUESTE COSTITUITI DELLA PROVINCIA DI PISA.   
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=062U083700100010110010&dgu=1962-07-19&art.dataPubblicazioneGazzetta=1962-07-19&art.codiceRedazionale=062U0837)
-  
-  
-  
-  
-ACCORDO COLLETTIVO 7 GENNAIO 1959, INTEGRATIVO DEL CONTRATTO COLLETTIVO NAZIONALE 2 MARZO 1955, SUL CONGLOBAMENTO ED INQUADRAMENTO DELLE QUALIFICHE DEL PERSONALE DIPENDENTE DA COOPERATIVE DI CONSUMO E DA CONSORZI DA QUESTE COSTITUITI DELLA PROVINCIA DI SAVONA.   
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=062U083700100010110011&dgu=1962-07-19&art.dataPubblicazioneGazzetta=1962-07-19&art.codiceRedazionale=062U0837)
-  
-  
-  
-  
-ACCORDO COLLETTIVO INTEGRATIVO 24 SETTEMBRE 1958 PER IL PERSONALE DIPENDENTE DALLE COOPERATIVE DI CONSUMO DELLA PROVINCIA DI TRENTO.   
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=062U083700100010110012&dgu=1962-07-19&art.dataPubblicazioneGazzetta=1962-07-19&art.codiceRedazionale=062U0837)
-  
-  
-  
-  
-ACCORDO COLLETTIVO INTEGRATIVO 24 GIUGNO 1960 PER LE FAMIGLIE COOPERATIVE E PER IL PERSONALE DA ESSE DIPENDENTE, DELLA PROVINCIA DI TRENTO.   
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=062U083700100010110013&dgu=1962-07-19&art.dataPubblicazioneGazzetta=1962-07-19&art.codiceRedazionale=062U0837)
-  
-  
-  
-  
-CONTRATTO COLLETTIVO 1 OTTOBRE 1959, INTEGRATIVO DEL CONTRATTO COLLETTIVO NAZIONALE 2 MARZO 1955, PER IL PERSONALE DIPENDENTE DALLE COOPERATIVE DI CONSUMO DELLA PROVINCIA DI UDINE.   
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=062U083700100010110014&dgu=1962-07-19&art.dataPubblicazioneGazzetta=1962-07-19&art.codiceRedazionale=062U0837)
-  
-  
-  
-  
-CONTRATTO COLLETTIVO INTEGRATIVO 23 MAGGIO 1951 PER IL PERSONALE IMPIEGATIZIO E SALARIALE DIPENDENTE DA COOPERATIVE DI CONSUMO DELLA PROVINCIA DI VENEZIA.   
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=062U083700100010110015&dgu=1962-07-19&art.dataPubblicazioneGazzetta=1962-07-19&art.codiceRedazionale=062U0837)
-  
+GRONCHI FANFANI - SULLO Visto, il Guardasigilli: BOSCO Registrato alla Corte dei conti, addi' 19 giugno 1962 Atti del Governo, registro n. 151, foglio n. 38. - VILLA

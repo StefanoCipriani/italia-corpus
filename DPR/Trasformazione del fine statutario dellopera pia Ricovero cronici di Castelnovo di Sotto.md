@@ -1,19 +1,21 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 09 giugno 1970 n. 567
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 567
+data: 1970-06-09
+titolo: "Trasformazione del fine statutario dell'opera pia \"Ricovero cronici\" di Castelnovo di Sotto."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1970-06-09;567
+codice_redazionale: 070U0567
+vigente: true
+---
 
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 09 giugno 1970 n. 567
-=============================================================
-
-Trasformazione del fine statutario dell'opera pia "Ricovero cronici" di Castelnovo di Sotto.
---------------------------------------------------------------------------------------------
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-567. Decreto del Presidente della Repubblica 9 giugno 1970, col quale, sulla proposta del Ministro per la sanita' viene mutato il fine statutario dell'opera pia "Ricovero cronici", di Castelnovo di Sotto, in quello di assistenza ospedaliera. Viene, inoltre, modificato il primo comma dell'art. 2 dello statuto.  
-  
-Visto, il Guardasigilli: REALE  
-Registrato alla Corte dei conti, addi' 31 luglio 1970  
-Atti del Governo, registro n. 236, luglio n. 212. - CARUSO
+567.
+
+Decreto del Presidente della Repubblica 9 giugno 1970, col quale, sulla proposta del Ministro per la sanita' viene mutato il fine statutario dell'opera pia "Ricovero cronici", di Castelnovo di Sotto, in quello di assistenza ospedaliera. Viene, inoltre, modificato il primo comma dell'art. 2 dello statuto.
+
+Visto, il Guardasigilli: REALE
+ Registrato alla Corte dei conti, addi' 31 luglio 1970
+ Atti del Governo, registro n. 236, luglio n. 212. - CARUSO

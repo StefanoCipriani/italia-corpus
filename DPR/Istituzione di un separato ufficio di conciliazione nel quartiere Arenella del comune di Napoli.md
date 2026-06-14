@@ -1,37 +1,29 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 gennaio 1964 n. 69
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 69
+data: 1964-01-30
+titolo: "Istituzione di un separato ufficio di conciliazione nel quartiere \"Arenella\" del comune di Napoli."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1964-01-30;69
+codice_redazionale: 064U0069
+vigente: true
+---
 
+## Art. 1.
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 gennaio 1964 n. 69
-=============================================================
+IL PRESIDENTE DELLA REPUBBLICA
 
-Istituzione di un separato ufficio di conciliazione nel quartiere "Arenella" del comune di Napoli.
---------------------------------------------------------------------------------------------------
+ Vista la deliberazione del commissario straordinario pro-tempore del comune di Napoli in data 2 aprile 1962, n. 2510, assunta con i poteri del Consiglio e superiormente approvata, con la quale si chiede che sia istituito un distinto ufficio di conciliazione con sede nel quartiere "Arenella" dello stesso Comune e competenza sul territorio della relativa sezione municipale;
+ Uditi i pareri favorevoli del presidente della Corte di appello di Napoli e del procuratore generale presso la stessa Corte;
+ Visti gli articoli 20 dell'ordinamento giudiziario, approvato con [regio decreto 30 gennaio 1941, n. 12](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1941-01-30;12), [1](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1941-01-30;1)° della [legge 16 giugno 1892, n. 261](../Atti%20normativi%20abrogati%20%28in%20originale%29/Sui%20conciliatori.%20092U0261.md), e 1 del relativo regolamento, approvato con [regio decreto 26 dicembre 1892, n. 725](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1892-12-26;725);
+ Sulla proposta del Guardasigilli Ministro Segretario di Stato per la grazia e giustizia;
 
-Art. 1
-------
+ Decreta:
 
- IL PRESIDENTE DELLA REPUBBLICA  
-  
-Vista la deliberazione del commissario straordinario pro-tempore del comune di Napoli in data 2 aprile 1962, n. 2510, assunta con i poteri del Consiglio e superiormente approvata, con la quale si chiede che sia istituito un distinto ufficio di conciliazione con sede nel quartiere "Arenella" dello stesso Comune e competenza sul territorio della relativa sezione municipale;  
-Uditi i pareri favorevoli del presidente della Corte di appello di Napoli e del procuratore generale presso la stessa Corte;  
-Visti gli articoli 20 dell'ordinamento giudiziario, approvato con [regio decreto 30 gennaio 1941, n. 12](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1941-01-30;12), [1](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1941-01-30;1)° della [legge 16 giugno 1892, n. 261](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1892-06-16;261), e 1 del relativo regolamento, approvato con [regio decreto 26 dicembre 1892, n. 725](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1892-12-26;725);  
-Sulla proposta del Guardasigilli Ministro Segretario di Stato per la grazia e giustizia;  
-  
-Decreta:  
-  
-E' istituito nel comune di Napoli un ufficio distinto di conciliazione con sede nel quartiere "Arenella" e competenza sul territorio della relativa sezione municipale.  
-Il presente decreto entrera' in vigore nel trentesimo giorno dopo quello della sua pubblicazione nella Gazzetta Ufficiale della Repubblica italiana.  
-  
+ E' istituito nel comune di Napoli un ufficio distinto di conciliazione con sede nel quartiere "Arenella" e competenza sul territorio della relativa sezione municipale.
+ Il presente decreto entrera' in vigore nel trentesimo giorno dopo quello della sua pubblicazione nella Gazzetta Ufficiale della Repubblica italiana.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 30 gennaio 1964
+Dato a Roma, addi' 30 gennaio 1964
 
-SEGNI REALE
-
-Visto, il Guardasigilli: REALE
-
-Registrato alla Corte dei conti, addi' 5 marzo 1964
-
-Atti del Governo, registro n. 181, foglio n. 163. - VILLA
+SEGNI REALE Visto, il Guardasigilli: REALE Registrato alla Corte dei conti, addi' 5 marzo 1964 Atti del Governo, registro n. 181, foglio n. 163. - VILLA

@@ -1,19 +1,21 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 27 maggio 1952 n. 1036
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 1036
+data: 1952-05-27
+titolo: "Autorizzazione alla Casa militare per i veterani delle guerre nazionali in Turate, con sede legale in Como, ad accettare alcuni legati."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1952-05-27;1036
+codice_redazionale: 052U1036
+vigente: true
+---
 
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 27 maggio 1952 n. 1036
-==============================================================
-
-Autorizzazione alla Casa militare per i veterani delle guerre nazionali in Turate, con sede legale in Como, ad accettare alcuni legati.
----------------------------------------------------------------------------------------------------------------------------------------
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-1036. Decreto del Presidente della Repubblica 27 maggio 1952, col quale, sulla proposta del Ministro per la difesa, la Casa militare per i veterani delle guerre nazionali in Turate, con sede legale in Como, viene autorizzata ad accettare i legati disposti in suo favore dalla signora Luigia Candiani vedova Silva.  
-  
-Visto, il Guardasigilli: ZOLI  
-Registrato alla Corte dei conti, addi' 23 luglio 1952  
-Atti del Governo, registro n. 55, foglio n. 135. - CARLOMAGNO
+1036.
+
+Decreto del Presidente della Repubblica 27 maggio 1952, col quale, sulla proposta del Ministro per la difesa, la Casa militare per i veterani delle guerre nazionali in Turate, con sede legale in Como, viene autorizzata ad accettare i legati disposti in suo favore dalla signora Luigia Candiani vedova Silva.
+
+Visto, il Guardasigilli: ZOLI
+ Registrato alla Corte dei conti, addi' 23 luglio 1952
+ Atti del Governo, registro n. 55, foglio n. 135. - CARLOMAGNO

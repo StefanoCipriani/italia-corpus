@@ -1,19 +1,21 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 18 dicembre 1979 n. 709
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 709
+data: 1979-12-18
+titolo: "Riconoscimento della personalita' giuridica della casa religiosa denominata \"Istituto Gesu-Maria\", in Roma."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1979-12-18;709
+codice_redazionale: 079U0709
+vigente: true
+---
 
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 18 dicembre 1979 n. 709
-===============================================================
-
-Riconoscimento della personalita' giuridica della casa religiosa denominata "Istituto Gesu-Maria", in Roma.
------------------------------------------------------------------------------------------------------------
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-709. Decreto del Presidente della Repubblica 18 dicembre 1979, col quale, sulla proposta del Ministro dell'interno, viene riconosciuta la personalita' giuridica della casa religiosa denominata "Istituto Gesu-Maria", in Roma.  
-  
-Visto, il Guardasigilli: MORLINO  
-Registrato alla Corte dei conti, addi' 16 gennaio 1980  
-Registro n. 2 Interno, foglio n. 193
+709.
+
+Decreto del Presidente della Repubblica 18 dicembre 1979, col quale, sulla proposta del Ministro dell'interno, viene riconosciuta la personalita' giuridica della casa religiosa denominata "Istituto Gesu-Maria", in Roma.
+
+Visto, il Guardasigilli: MORLINO
+ Registrato alla Corte dei conti, addi' 16 gennaio 1980
+ Registro n. 2 Interno, foglio n. 193

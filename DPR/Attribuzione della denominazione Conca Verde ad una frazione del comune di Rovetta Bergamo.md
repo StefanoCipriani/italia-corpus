@@ -1,36 +1,28 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 09 dicembre 1962 n. 1837
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 1837
+data: 1962-12-09
+titolo: "Attribuzione della denominazione \"Conca Verde\" ad una frazione del comune di Rovetta (Bergamo)."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1962-12-09;1837
+codice_redazionale: 062U1837
+vigente: true
+---
 
+## Art. 1.
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 09 dicembre 1962 n. 1837
-================================================================
+IL PRESIDENTE DELLA REPUBBLICA
 
-Attribuzione della denominazione "Conca Verde" ad una frazione del comune di Rovetta (Bergamo).
------------------------------------------------------------------------------------------------
+ Vista la deliberazione del Consiglio comunale di Rovetta (Bergamo) in data 9 agosto 1961, n. 53, con la quale e' stato chiesto che alla frazione di quel Comune, ora comunemente indicata con il nome di "Conca Verde" e comprendente le localita' La Madonna di Sommaprada e SS. Cristo, sia attribuita ufficialmente tale denominazione;
+ Vista la deliberazione del Consiglio provinciale di Bergamo in data 26 ottobre 1961, n. 163, con la quale e' stato espresso parere favorevole in merito alla denominazione predetta;
+ Visto l'art. 266 del testo unico della legge comunale e provinciale, approvato con [regio decreto 3 marzo 1934, n. 383](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20del%20testo%20unico%20della%20legge%20comunale%20e%20provinciale.%20034U0383.md);
+ Sulla proposta del Ministro Segretario di Stato per gli affari dell'interno;
 
-Art. 1
-------
+ Decreta:
 
- IL PRESIDENTE DELLA REPUBBLICA  
-  
-Vista la deliberazione del Consiglio comunale di Rovetta (Bergamo) in data 9 agosto 1961, n. 53, con la quale e' stato chiesto che alla frazione di quel Comune, ora comunemente indicata con il nome di "Conca Verde" e comprendente le localita' La Madonna di Sommaprada e SS. Cristo, sia attribuita ufficialmente tale denominazione;  
-Vista la deliberazione del Consiglio provinciale di Bergamo in data 26 ottobre 1961, n. 163, con la quale e' stato espresso parere favorevole in merito alla denominazione predetta;  
-Visto l'art. 266 del testo unico della legge comunale e provinciale, approvato con [regio decreto 3 marzo 1934, n. 383](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-03-03;383);  
-Sulla proposta del Ministro Segretario di Stato per gli affari dell'interno;  
-  
-Decreta:  
-  
-E' attribuita la denominazione "Conca Verde" alla frazione del comune di Rovetta (Bergamo), indicata nelle premesse.  
-  
+ E' attribuita la denominazione "Conca Verde" alla frazione del comune di Rovetta (Bergamo), indicata nelle premesse.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 9 dicembre 1962
+Dato a Roma, addi' 9 dicembre 1962
 
-SEGNI TAVIANI
-
-Visto, il Guardasigilli: BOSCO
-
-Registrato alla Corte dei conti, addi' 16 gennaio 1963
-
-Atti del Governo, registro n. 161, foglio n. 96. - VILLA
+SEGNI TAVIANI Visto, il Guardasigilli: BOSCO Registrato alla Corte dei conti, addi' 16 gennaio 1963 Atti del Governo, registro n. 161, foglio n. 96. - VILLA

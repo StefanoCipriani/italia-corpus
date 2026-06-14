@@ -1,19 +1,21 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 09 giugno 1970 n. 530
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 530
+data: 1970-06-09
+titolo: "Autorizzazione alla Lega nazionale per la difesa del cane, con sede in Milano, ad accettare un legato."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1970-06-09;530
+codice_redazionale: 070U0530
+vigente: true
+---
 
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 09 giugno 1970 n. 530
-=============================================================
-
-Autorizzazione alla Lega nazionale per la difesa del cane, con sede in Milano, ad accettare un legato.
-------------------------------------------------------------------------------------------------------
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-530. Decreto del Presidente della Repubblica 9 giugno 1970, col quale, sulla proposta del Ministro per la sanita', la Lega nazionale per la difesa del cane, con sede in Milano, viene autorizzata ad accettare il legato disposto dalla defunta Ceradelli Pia vedova Pescetto, con testamento olografo del 10 agosto 1957, pubblicato per atto notaio Antonio Rezia il 21 gennaio 1969, consistente nella somma di L. 1.000.000.  
-  
-Visto, il Guardasigilli: REALE  
-Registrato alla Corte dei conti, addi' 15 luglio 1970  
-Atti del Governo, registro n. 236, foglio n. 160. - CARUSO
+530.
+
+Decreto del Presidente della Repubblica 9 giugno 1970, col quale, sulla proposta del Ministro per la sanita', la Lega nazionale per la difesa del cane, con sede in Milano, viene autorizzata ad accettare il legato disposto dalla defunta Ceradelli Pia vedova Pescetto, con testamento olografo del 10 agosto 1957, pubblicato per atto notaio Antonio Rezia il 21 gennaio 1969, consistente nella somma di L. 1.000.000.
+
+Visto, il Guardasigilli: REALE
+ Registrato alla Corte dei conti, addi' 15 luglio 1970
+ Atti del Governo, registro n. 236, foglio n. 160. - CARUSO

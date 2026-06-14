@@ -1,14 +1,14 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 22 maggio 1956 n. 581
-
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 22 maggio 1956 n. 581
-=============================================================
-
-Immissione alla vendita al pubblico della sigaretta di produzione nazionale denominata "Nazionale Esportazione Super".
-----------------------------------------------------------------------------------------------------------------------
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 581
+data: 1956-05-22
+titolo: "Immissione alla vendita al pubblico della sigaretta di produzione nazionale denominata \"Nazionale Esportazione Super\"."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1956-05-22;581
+codice_redazionale: 056U0581
+vigente: true
+---
 
 IL PRESIDENTE DELLA REPUBBLICA
-------------------------------
 
 Visto la legge 17 luglio, n. 907, sul monopolio dei sali e dei tabacchi e successive modificazioni;
 
@@ -16,29 +16,15 @@ Udito il Consiglio di amministrazione dei monopoli di Stato;
 
 Sentito il Consiglio dei Ministri;
 
-Sulla
------
+Sulla proposta del Ministro per le finanze; Decreta:
 
-proposta del Ministro per le finanze; Decreta:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-A decorrere dal 1 luglio 1956 viene iscritto nella tariffa generale di vendita al pubblico dei tabacchi lavorati nazionali il seguente prodotto:  
-sigaretta "Nazionale Esportazione Super" a L. 12.000 il kg. convenzionale.  
-  
+A decorrere dal 1 luglio 1956 viene iscritto nella tariffa generale di vendita al pubblico dei tabacchi lavorati nazionali il seguente prodotto:
+ sigaretta "Nazionale Esportazione Super" a L. 12.000 il kg. convenzionale.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 22 maggio 1956
+Dato a Roma, addi' 22 maggio 1956
 
-GRONCHI SEGNI - ANDREOTTI
-
-Visto, il Guardasigilli: MORO
-
-Registrato alla Corte dei conti, addi' 26 giugno 1956
-
-Atti del Governo, registro n. 98, foglio n. 82. - CARLOMAGNO
+GRONCHI SEGNI - ANDREOTTI Visto, il Guardasigilli: MORO Registrato alla Corte dei conti, addi' 26 giugno 1956 Atti del Governo, registro n. 98, foglio n. 82. - CARLOMAGNO

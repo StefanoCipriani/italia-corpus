@@ -1,19 +1,21 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 07 giugno 1961 n. 639
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 639
+data: 1961-06-07
+titolo: "Riconoscimento della personalita' giuridica della Chiesa di San Giuseppe, nel comune di Corato (Bari)."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1961-06-07;639
+codice_redazionale: 061U0639
+vigente: true
+---
 
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 07 giugno 1961 n. 639
-=============================================================
-
-Riconoscimento della personalita' giuridica della Chiesa di San Giuseppe, nel comune di Corato (Bari).
-------------------------------------------------------------------------------------------------------
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-639. Decreto del Presidente della Repubblica 7 giugno 1961, col quale, sulla proposta del Ministro per l'interno, viene riconosciuta la personalita' giuridica della Chiesa di San Giuseppe, sita nel comune di Corato (Bari).  
-  
-Visto, il Guardasigilli: GONELLA  
-Registrato alla Corte dei conti addi' 11 luglio 1961  
-Atti del Governo, registro n. 137, foglio n. 117. - VILLA
+639.
+
+Decreto del Presidente della Repubblica 7 giugno 1961, col quale, sulla proposta del Ministro per l'interno, viene riconosciuta la personalita' giuridica della Chiesa di San Giuseppe, sita nel comune di Corato (Bari).
+
+Visto, il Guardasigilli: GONELLA
+ Registrato alla Corte dei conti addi' 11 luglio 1961
+ Atti del Governo, registro n. 137, foglio n. 117. - VILLA

@@ -1,19 +1,21 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 13 aprile 1976 n. 562
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 562
+data: 1976-04-13
+titolo: "Riconoscimento della personalita' giuridica dell'associazione \"Giuseppe Ferruccio Montesano\", in Roccapiemonte."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1976-04-13;562
+codice_redazionale: 076U0562
+vigente: true
+---
 
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 13 aprile 1976 n. 562
-=============================================================
-
-Riconoscimento della personalita' giuridica dell'associazione "Giuseppe Ferruccio Montesano", in Roccapiemonte.
----------------------------------------------------------------------------------------------------------------
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-562. Decreto del Presidente della Repubblica 13 aprile 1976, col quale, sulla proposta del Ministro per la pubblica istruzione, viene riconosciuta la personalita' giuridica ed approvato lo statuto dell'associazione "Giuseppe Ferruccio Montesano", in Roccapiemonte (Salerno).  
-  
-Visto, il Guardasigilli: BONIFACIO  
-Registrato alla Corte dei conti, addi' 17 agosto 1976  
-Atti di Governo, registro n. 8, foglio n. 56
+562.
+
+Decreto del Presidente della Repubblica 13 aprile 1976, col quale, sulla proposta del Ministro per la pubblica istruzione, viene riconosciuta la personalita' giuridica ed approvato lo statuto dell'associazione "Giuseppe Ferruccio Montesano", in Roccapiemonte (Salerno).
+
+Visto, il Guardasigilli: BONIFACIO
+ Registrato alla Corte dei conti, addi' 17 agosto 1976
+ Atti di Governo, registro n. 8, foglio n. 56

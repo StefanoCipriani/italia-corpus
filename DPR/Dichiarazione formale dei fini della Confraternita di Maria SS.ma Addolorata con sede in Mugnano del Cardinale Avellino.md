@@ -1,18 +1,20 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 22 febbraio 1949 n. 112
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 112
+data: 1949-02-22
+titolo: "Dichiarazione formale dei fini della Confraternita di Maria SS.ma Addolorata, con sede in Mugnano del Cardinale (Avellino)."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1949-02-22;112
+codice_redazionale: 049U0112
+vigente: true
+---
 
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 22 febbraio 1949 n. 112
-===============================================================
-
-Dichiarazione formale dei fini della Confraternita di Maria SS.ma Addolorata, con sede in Mugnano del Cardinale (Avellino).
----------------------------------------------------------------------------------------------------------------------------
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-112. Decreto del Presidente della, Repubblica 22 febbraio 1949, col quale, sulla, proposta del Ministro per l'interno, viene provveduto alla dichiarazione formale dei fini della Confraternita, di Maria SS.ma, Addolorata, con sede in Mugnano del Cardinale (Avellino).  
-  
-Visto, il Guardasigilli: GRASSI  
-Registrato alla Corte dei conti, addi' 2 aprile 1949
+112.
+
+Decreto del Presidente della, Repubblica 22 febbraio 1949, col quale, sulla, proposta del Ministro per l'interno, viene provveduto alla dichiarazione formale dei fini della Confraternita, di Maria SS.ma, Addolorata, con sede in Mugnano del Cardinale (Avellino).
+
+Visto, il Guardasigilli: GRASSI
+ Registrato alla Corte dei conti, addi' 2 aprile 1949

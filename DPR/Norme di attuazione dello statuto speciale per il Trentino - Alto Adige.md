@@ -1,78 +1,73 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 27 marzo 1952 n. 354
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 354
+data: 1952-03-27
+titolo: "Norme di attuazione dello statuto speciale per il Trentino - Alto Adige."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1952-03-27;354
+codice_redazionale: 052U0354
+vigente: true
+---
 
+### Art. 1.
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 27 marzo 1952 n. 354
-============================================================
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 22 MARZO 1974, N. 278))
 
-Norme di attuazione dello statuto speciale per il Trentino - Alto Adige.
-------------------------------------------------------------------------
+### Art. 2.
 
-CAPO I
-------
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 22 MARZO 1974, N. 278))
 
-### Art. 1
+### Art. 3.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 22 MARZO 1974, N. 278](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1974-03-22;278)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 22 MARZO 1974, N. 278))
 
-### Art. 2
+### Art. 4.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 22 MARZO 1974, N. 278](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1974-03-22;278)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 22 MARZO 1974, N. 278))
 
-### Art. 3
+### Art. 5.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 22 MARZO 1974, N. 278](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1974-03-22;278)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 22 MARZO 1974, N. 278))
 
-### Art. 4
+### Art. 6.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 22 MARZO 1974, N. 278](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1974-03-22;278)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 22 MARZO 1974, N. 278))
 
-### Art. 5
+### Art. 7.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 22 MARZO 1974, N. 278](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1974-03-22;278)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 22 MARZO 1974, N. 278))
 
-### Art. 6
+### Art. 8.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 22 MARZO 1974, N. 278](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1974-03-22;278)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 22 MARZO 1974, N. 278))
 
-### Art. 7
+### Art. 9.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 22 MARZO 1974, N. 278](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1974-03-22;278)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 22 MARZO 1974, N. 278))
 
-### Art. 8
+### Art. 10.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 22 MARZO 1974, N. 278](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1974-03-22;278)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 22 MARZO 1974, N. 278))
 
-### Art. 9
+### Art. 11.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 22 MARZO 1974, N. 278](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1974-03-22;278)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 22 MARZO 1974, N. 278))
 
-### Art. 10
+### Art. 12.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 22 MARZO 1974, N. 278](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1974-03-22;278)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 22 MARZO 1974, N. 278))
 
-### Art. 11
+### Art. 13.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 22 MARZO 1974, N. 278](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1974-03-22;278)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 22 MARZO 1974, N. 278))
 
-### Art. 12
+### Art. 14.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 22 MARZO 1974, N. 278](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1974-03-22;278)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 22 MARZO 1974, N. 278))
 
-### Art. 13
+### Art. 15.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 22 MARZO 1974, N. 278](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1974-03-22;278)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 22 MARZO 1974, N. 278))
 
-### Art. 14
+### Art. 16.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 22 MARZO 1974, N. 278](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1974-03-22;278)))
-
-### Art. 15
-
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 22 MARZO 1974, N. 278](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1974-03-22;278)))
-
-CAPO II
--------
-
-### Art. 16
-
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 22 MARZO 1974, N. 278](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1974-03-22;278)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 22 MARZO 1974, N. 278))

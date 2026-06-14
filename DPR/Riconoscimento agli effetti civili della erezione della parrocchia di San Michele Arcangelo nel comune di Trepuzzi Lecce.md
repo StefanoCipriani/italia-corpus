@@ -1,19 +1,21 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 07 febbraio 1961 n. 120
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 120
+data: 1961-02-07
+titolo: "Riconoscimento, agli effetti civili, della erezione della parrocchia di San Michele Arcangelo, nel comune di Trepuzzi (Lecce)."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1961-02-07;120
+codice_redazionale: 061U0120
+vigente: true
+---
 
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 07 febbraio 1961 n. 120
-===============================================================
-
-Riconoscimento, agli effetti civili, della erezione della parrocchia di San Michele Arcangelo, nel comune di Trepuzzi (Lecce).
-------------------------------------------------------------------------------------------------------------------------------
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-120. Decreto del Presidente della Repubblica 7 febbraio 1961, col quale, sulla proposta del Ministro per l'interno, tiene riconosciuto, agli effetti civili, il decreto dell'Ordinario diocesano di Lecce in data 8 maggio 1960, integrato con dichiarazione del 16 maggio 1960, relativo alla erezione della parrocchia di San Michele Arcangelo, nel comune di Trepuzzi (Lecce).  
-  
-Visto, il Guardasigilli: GONELLA  
-Registrato alla Corte dei conti, addi' 15 marzo 1961  
-Atti del Governo, registro n. 135, foglio n. 46. - VILLA
+120.
+
+Decreto del Presidente della Repubblica 7 febbraio 1961, col quale, sulla proposta del Ministro per l'interno, tiene riconosciuto, agli effetti civili, il decreto dell'Ordinario diocesano di Lecce in data 8 maggio 1960, integrato con dichiarazione del 16 maggio 1960, relativo alla erezione della parrocchia di San Michele Arcangelo, nel comune di Trepuzzi (Lecce).
+
+Visto, il Guardasigilli: GONELLA
+ Registrato alla Corte dei conti, addi' 15 marzo 1961
+ Atti del Governo, registro n. 135, foglio n. 46. - VILLA

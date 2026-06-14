@@ -1,20 +1,20 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 gennaio 1962 n. 539
-
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 gennaio 1962 n. 539
-==============================================================
-
-Norme sul trattamento economico e normativo degli apprendisti dipendenti dalle imprese di distillazione di seconda categoria della provincia di Modena.
--------------------------------------------------------------------------------------------------------------------------------------------------------
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 539
+data: 1962-01-02
+titolo: "Norme sul trattamento economico e normativo degli apprendisti dipendenti dalle imprese di distillazione di seconda categoria della provincia di Modena."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1962-01-02;539
+codice_redazionale: 062U0539
+vigente: true
+---
 
 IL PRESIDENTE DELLA REPUBBLICA
-------------------------------
 
-Visto l'[art. 87, comma quinto, della Costituzione](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27~art87-com5);
+Visto l'[art. 87, comma quinto, della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87-com5);
 
-Vista la [legge 14 luglio 1959, n. 741](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1959-07-14;741), che delega il Governo ad emanare norme transitorie per garantire minimi di trattamento economico e normativo ai lavoratori;
+Vista la [legge 14 luglio 1959, n. 741](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1959-07-14;741), che delega il Governo ad emanare norme transitorie per garantire minimi di trattamento economico e normativo ai lavoratori;
 
-Vista la [legge 1 ottobre 1960, n. 1027](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1960-10-01;1027), recante modifiche alla predetta [legge 14 luglio 1959, n. 741](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1959-07-14;741);
+Vista la [legge 1 ottobre 1960, n. 1027](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1960-10-01;1027), recante modifiche alla predetta [legge 14 luglio 1959, n. 741](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1959-07-14;741);
 
 Visto il contratto collettivo nazionale 15 dicembre 1959, per gli addetti all'industria della distillazione degli spiriti di seconda categoria, degli alcoli in genere e delle acquaviti;
 
@@ -24,36 +24,15 @@ Vista la pubblicazione nell'apposito Bollettino n. 15 della provincia di Modena,
 
 Sentito il Consiglio dei Ministri;
 
-Sulla
------
+Sulla proposta del Ministro per il lavoro e la previdenza sociale; Decreta:
 
-proposta del Ministro per il lavoro e la previdenza sociale; Decreta:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-I rapporti di lavoro costituiti per le attivita' per le quali e' stato stipulato, per la provincia di Modena, l'accordo collettivo 19 novembre 1956, relativo a gli apprendisti dipendenti dalle distillerie di seconda categoria, sono regolati da norme giuridiche uniformi alle clausole dell'accordo anzidetto, annesso al presente decreto, purche' compatibili con quelle concernenti la disciplina nazionale della categoria.  
-I minimi di trattamento economico e normativo cosi' stabiliti sono inderogabili nei confronti di tutti gli apprendisti dipendenti dalle imprese di distillazione di seconda categoria della provincia di Modena.  
+I rapporti di lavoro costituiti per le attivita' per le quali e' stato stipulato, per la provincia di Modena, l'accordo collettivo 19 novembre 1956, relativo a gli apprendisti dipendenti dalle distillerie di seconda categoria, sono regolati da norme giuridiche uniformi alle clausole dell'accordo anzidetto, annesso al presente decreto, purche' compatibili con quelle concernenti la disciplina nazionale della categoria.
+ I minimi di trattamento economico e normativo cosi' stabiliti sono inderogabili nei confronti di tutti gli apprendisti dipendenti dalle imprese di distillazione di seconda categoria della provincia di Modena.
 
 Il presente decreto munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 2 gennaio 1962
+Dato a Roma, addi' 2 gennaio 1962
 
-GRONCHI FANFANI - SULLO
-
-Visto, il Guardasigilli: BOSCO
-
-Registrato alla Corte dei conti, addi' 6 giugno 1962
-
-Atti del Governo, registro n. 148, foglio n. 138. - VILLA
-
-Accordo collettivo
-
-ACCORDO COLLETTIVO 19 NOVEMBRE 1956 PER GLI APPRENDISTI DIPENDENTI DALLE DISTILLERIE DI 2ª CATEGORIA DELLA PROVINCIA DI MODENA.   
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=062U053900100010110001&dgu=1962-06-26&art.dataPubblicazioneGazzetta=1962-06-26&art.codiceRedazionale=062U0539)
-  
+GRONCHI FANFANI - SULLO Visto, il Guardasigilli: BOSCO Registrato alla Corte dei conti, addi' 6 giugno 1962 Atti del Governo, registro n. 148, foglio n. 138. - VILLA

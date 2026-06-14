@@ -1,44 +1,36 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 ottobre 1976 n. 1038
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 1038
+data: 1976-10-30
+titolo: "Trasferimento di un posto di assistente ordinario dalla facolta' di medicina e chirurgia dell'Universita' di Sassari alla medesima facolta' dell'Universita' di Bari."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1976-10-30;1038
+codice_redazionale: 076U1038
+vigente: true
+---
 
+## Art. 1.
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 ottobre 1976 n. 1038
-===============================================================
-
-Trasferimento di un posto di assistente ordinario dalla facolta' di medicina e chirurgia dell'Universita' di Sassari alla medesima facolta' dell'Universita' di Bari.
----------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Art. 1
-------
-
- IL PRESIDENTE DELLA REPUBBLICA   
-  
-Visto l'[art. 2, quarto comma, del decreto legislativo 7 maggio 1948, n. 1172](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1948-05-07;1172~art2-com4), ratificato, con modificazioni, con [legge 24 giugno 1950, n. 465](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1950-06-24;465);   
-Visto l'[art. 18 della legge 24 febbraio 1967, n. 62](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1967-02-24;62~art18);   
-Visto il decreto ministeriale 2 luglio 1949, registrato alla Corte dei conti, addi' 14 ottobre 1949, registro n. 25, foglio n. 229, con il quale e' stato assegnato un posto di assistente ordinario alla cattedra di clinica ostetrica e ginecologica della facolta' di medicina e chirurgia della Universita' di Sassari;   
-Viste le deliberazioni del consiglio della facolta' di medicina e chirurgia e del senato accademico dell'Universita' di Sassari, rispettivamente adottate il 26 ottobre 1976 e 27 ottobre 1976;   
-Viste le deliberazioni del consiglio della facolta' di medicina e chirurgia e del senato accademico dell'Universita' di Bari, rispettivamente adottate il 27 ottobre 1976 e 29 ottobre 1976;   
-Ritenuto che dagli atti sopra richiamati si evidenzia la necessita' di assegnare un posto di assistente ordinario alla cattedra di clinica ostetrica e ginecologica II della facolta' di medicina e chirurgia dell'Universita' di Bari al fine di perequare il rapporto assistenti studenti che allo stato attuale risulta inadeguato alle esigenze didattiche e scientifiche della cattedra interessata;   
-Ritenuto che tale esigenza puo' essere soddisfatta mediante il trasferimento presso la cattedra di clinica ostetrica e ginecologica II della facolta' di medicina e chirurgia dell'Universita' di Bari del posto di assistente ordinario gia' assegnato alla cattedra di clinica ostetrica e ginecologica della stessa facolta' dell'Universita' di Sassari con decreto ministeriale 2 luglio 1949;   
-Considerato che gli organi accademici dell'Universita' di Sassari hanno espresso il proprio nulla osta al trasferimento del posto in questione non ritenendolo essenziale per le esigenze didattiche e scientifiche dell'Universita', ed in particolare della cattedra di clinica ostetrica e ginecologica della facolta' di medicina e chirurgia;   
-Considerato che il posto di assistente ordinario assegnato alla cattedra di clinica ostetrica e ginecologica della facolta' di medicina e chirurgia dell'Universita' di Sassari con il decreto ministeriale 2 luglio 1949, risulta ricoperto dal dott. Sergio Schonauer e che lo stesso ha dichiarato di consentire al proprio trasferimento presso la cattedra di clinica ostetrica e ginecologica II della stessa facolta' dell'Universita' di Bari;   
-Ravvisata, pertanto, l'opportunita' - nell'interesse pubblico - di procedere alla modificazione organica dei posti di assistente ordinario delle predette facolta';   
-Sulla proposta del Ministro Segretario di Stato per la pubblica istruzione;   
-  
-Decreta:   
-  
-A decorrere dal 1 novembre 1976, il posto di assistente ordinario gia' assegnato alla cattedra di clinica ostetrica e ginecologica della facolta' di medicina e chirurgia dell'Universita' di Sassari con il decreto ministeriale 2 luglio 1949, registrato alla Corte dei conti, addi' 14 ottobre 1949, registro n. 25, foglio n. 229, e' attribuito alla cattedra di clinica ostetrica e ginecologica II della stessa facolta' dell'Universita' di Bari.   
-Il dott. Sergio Schonauer, che occupa il posto in qualita' di assistente ordinario, e' trasferito, con il proprio consenso, alla cattedra di clinica ostetrica e ginecologica II della facolta' di medicina e chirurgia dell'Universita' di Bari, a decorrere dal 1 novembre 1976.   
-  
+IL PRESIDENTE DELLA REPUBBLICA 
+ 
+ Visto l'[art. 2, quarto comma, del decreto legislativo 7 maggio 1948, n. 1172](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1948-05-07;1172#art_2-com4), ratificato, con modificazioni, con [legge 24 giugno 1950, n. 465](../DL%20e%20leggi%20di%20conversione/Ratifica%20con%20modificazioni%20del%20decreto%20legislativo%207%20maggio%201948%20n.%201172%20concernente%20listituzione%20di%20ruoli%20del%20personale%20assistente%20tecnico%20subalterno%20infermiere%20e%20portantino%20presentement_765b791e4325.md); 
+ Visto l'[art. 18 della legge 24 febbraio 1967, n. 62](../Atti%20normativi%20abrogati%20%28in%20originale%29/Istituzione%20di%20nuove%20cattedre%20universitarie%20di%20nuovi%20posti%20di%20assistente%20universitario%20e%20nuova%20disciplina%20degli%20incarichi%20di%20insegnamento%20universitario%20e%20degli%20assistenti%20volontari.md); 
+ Visto il decreto ministeriale 2 luglio 1949, registrato alla Corte dei conti, addi' 14 ottobre 1949, registro n. 25, foglio n. 229, con il quale e' stato assegnato un posto di assistente ordinario alla cattedra di clinica ostetrica e ginecologica della facolta' di medicina e chirurgia della Universita' di Sassari; 
+ Viste le deliberazioni del consiglio della facolta' di medicina e chirurgia e del senato accademico dell'Universita' di Sassari, rispettivamente adottate il 26 ottobre 1976 e 27 ottobre 1976; 
+ Viste le deliberazioni del consiglio della facolta' di medicina e chirurgia e del senato accademico dell'Universita' di Bari, rispettivamente adottate il 27 ottobre 1976 e 29 ottobre 1976; 
+ Ritenuto che dagli atti sopra richiamati si evidenzia la necessita' di assegnare un posto di assistente ordinario alla cattedra di clinica ostetrica e ginecologica II della facolta' di medicina e chirurgia dell'Universita' di Bari al fine di perequare il rapporto assistenti studenti che allo stato attuale risulta inadeguato alle esigenze didattiche e scientifiche della cattedra interessata; 
+ Ritenuto che tale esigenza puo' essere soddisfatta mediante il trasferimento presso la cattedra di clinica ostetrica e ginecologica II della facolta' di medicina e chirurgia dell'Universita' di Bari del posto di assistente ordinario gia' assegnato alla cattedra di clinica ostetrica e ginecologica della stessa facolta' dell'Universita' di Sassari con decreto ministeriale 2 luglio 1949; 
+ Considerato che gli organi accademici dell'Universita' di Sassari hanno espresso il proprio nulla osta al trasferimento del posto in questione non ritenendolo essenziale per le esigenze didattiche e scientifiche dell'Universita', ed in particolare della cattedra di clinica ostetrica e ginecologica della facolta' di medicina e chirurgia; 
+ Considerato che il posto di assistente ordinario assegnato alla cattedra di clinica ostetrica e ginecologica della facolta' di medicina e chirurgia dell'Universita' di Sassari con il decreto ministeriale 2 luglio 1949, risulta ricoperto dal dott. Sergio Schonauer e che lo stesso ha dichiarato di consentire al proprio trasferimento presso la cattedra di clinica ostetrica e ginecologica II della stessa facolta' dell'Universita' di Bari; 
+ Ravvisata, pertanto, l'opportunita' - nell'interesse pubblico - di procedere alla modificazione organica dei posti di assistente ordinario delle predette facolta'; 
+ Sulla proposta del Ministro Segretario di Stato per la pubblica istruzione; 
+ 
+ Decreta: 
+ 
+ A decorrere dal 1 novembre 1976, il posto di assistente ordinario gia' assegnato alla cattedra di clinica ostetrica e ginecologica della facolta' di medicina e chirurgia dell'Universita' di Sassari con il decreto ministeriale 2 luglio 1949, registrato alla Corte dei conti, addi' 14 ottobre 1949, registro n. 25, foglio n. 229, e' attribuito alla cattedra di clinica ostetrica e ginecologica II della stessa facolta' dell'Universita' di Bari. 
+ Il dott. Sergio Schonauer, che occupa il posto in qualita' di assistente ordinario, e' trasferito, con il proprio consenso, alla cattedra di clinica ostetrica e ginecologica II della facolta' di medicina e chirurgia dell'Universita' di Bari, a decorrere dal 1 novembre 1976.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 30 ottobre 1976
+Dato a Roma, addi' 30 ottobre 1976
 
-LEONE MALFATTI
-
-Visto, il Guardasigilli: BONIFACIO
-
-Registrato alla Corte dei conti, addi' 14 marzo 1977
-
-Registro n. 28 Istruzione, foglio n. 297
+LEONE MALFATTI Visto, il Guardasigilli: BONIFACIO Registrato alla Corte dei conti, addi' 14 marzo 1977 Registro n. 28 Istruzione, foglio n. 297

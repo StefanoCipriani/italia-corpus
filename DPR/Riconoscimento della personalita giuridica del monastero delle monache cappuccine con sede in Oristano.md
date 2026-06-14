@@ -1,19 +1,21 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 11 febbraio 1972 n. 120
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 120
+data: 1972-02-11
+titolo: "Riconoscimento della personalita' giuridica del monastero delle monache cappuccine, con sede in Oristano."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1972-02-11;120
+codice_redazionale: 072U0120
+vigente: true
+---
 
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 11 febbraio 1972 n. 120
-===============================================================
-
-Riconoscimento della personalita' giuridica del monastero delle monache cappuccine, con sede in Oristano.
----------------------------------------------------------------------------------------------------------
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-120. Decreto del Presidente della Repubblica 11 febbraio 1972, col quale, sulla proposta del Ministro per l'interno, viene riconosciuta la personalita' giuridica del monastero delle monache cappuccine, con sede in Oristano (Cagliari).  
-  
-Visto, il Guardasigilli: GONELLA  
-Registrato alla Corte dei conti, addi' 4 aprile 1972  
-Atti del Governo, registro n. 248, foglio n. 23. - VALENTINI
+120.
+
+Decreto del Presidente della Repubblica 11 febbraio 1972, col quale, sulla proposta del Ministro per l'interno, viene riconosciuta la personalita' giuridica del monastero delle monache cappuccine, con sede in Oristano (Cagliari).
+
+Visto, il Guardasigilli: GONELLA
+ Registrato alla Corte dei conti, addi' 4 aprile 1972
+ Atti del Governo, registro n. 248, foglio n. 23. - VALENTINI

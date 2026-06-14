@@ -1,19 +1,21 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 11 giugno 1965 n. 1105
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 1105
+data: 1965-06-11
+titolo: "Erezione in ente morale della Cassa scolastica della Scuola media statale \"G. Marconi\" di San Giovanni Valdarno (Arezzo)."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1965-06-11;1105
+codice_redazionale: 065U1105
+vigente: true
+---
 
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 11 giugno 1965 n. 1105
-==============================================================
-
-Erezione in ente morale della Cassa scolastica della Scuola media statale "G. Marconi" di San Giovanni Valdarno (Arezzo).
--------------------------------------------------------------------------------------------------------------------------
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-1105. Decreto del Presidente della Repubblica 11 giugno 1965, col quale, sulla proposta del Ministro per la pubblica istruzione, la Cassa scolastica della Scuola media statale "G. Marconi" di San Giovanni Valdarno (Arezzo), viene eretta in ente morale e ne viene approvato lo statuto.  
-  
-Visto, il Guardasigilli: REALE  
-Registrato alla Corte dei conti, addi' 20 settembre 1965  
-Atti del Governo, registro n. 197, foglio n. 41. - VILLA
+1105.
+
+Decreto del Presidente della Repubblica 11 giugno 1965, col quale, sulla proposta del Ministro per la pubblica istruzione, la Cassa scolastica della Scuola media statale "G. Marconi" di San Giovanni Valdarno (Arezzo), viene eretta in ente morale e ne viene approvato lo statuto.
+
+Visto, il Guardasigilli: REALE
+ Registrato alla Corte dei conti, addi' 20 settembre 1965
+ Atti del Governo, registro n. 197, foglio n. 41. - VILLA

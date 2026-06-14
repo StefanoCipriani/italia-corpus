@@ -1,19 +1,21 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 04 agosto 1960 n. 960
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 960
+data: 1960-08-04
+titolo: "Soppressione della Fabbriceria della Chiesa parrocchiale di Santa Maria Assunta, nel comune di Asolo (Treviso)."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1960-08-04;960
+codice_redazionale: 060U0960
+vigente: true
+---
 
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 04 agosto 1960 n. 960
-=============================================================
-
-Soppressione della Fabbriceria della Chiesa parrocchiale di Santa Maria Assunta, nel comune di Asolo (Treviso).
----------------------------------------------------------------------------------------------------------------
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-960. Decreto del Presidente della Repubblica 4 agosto 1960, col quale, sulla proposta del Ministro per l'interno, viene soppressa la Fabbriceria della Chiesa parrocchiale di Santa Maria Assunta, nel comune di Asolo (Treviso).  
-  
-Visto, il Guardasigilli: GONELLA  
-Registrato alla Corte dei conti, addi' 5 settembre 1960  
-Atti del Governo, registro n. 129, foglio n. 15. - VILLA
+960.
+
+Decreto del Presidente della Repubblica 4 agosto 1960, col quale, sulla proposta del Ministro per l'interno, viene soppressa la Fabbriceria della Chiesa parrocchiale di Santa Maria Assunta, nel comune di Asolo (Treviso).
+
+Visto, il Guardasigilli: GONELLA
+ Registrato alla Corte dei conti, addi' 5 settembre 1960
+ Atti del Governo, registro n. 129, foglio n. 15. - VILLA

@@ -1,19 +1,21 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 09 settembre 1978 n. 1121
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 1121
+data: 1978-09-09
+titolo: "Istituzione di un istituto professionale alberghiero di Stato in Aversa."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1978-09-09;1121
+codice_redazionale: 078U1121
+vigente: true
+---
 
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 09 settembre 1978 n. 1121
-=================================================================
-
-Istituzione di un istituto professionale alberghiero di Stato in Aversa.
-------------------------------------------------------------------------
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-1121. Decreto del Presidente della Repubblica 9 settembre 1978, col quale, sulla proposta del Ministro della pubblica istruzione, di concerto con i Ministri dell'interno, del tesoro e del turismo e dello spettacolo, viene istituito in Aversa (Caserta), a decorrere dall'anno scolastico 1978-79, un istituto professionale alberghiero di Stato (scuola avente finalita' ed ordinamento speciali) e ne viene approvata la tabella organica.  
-  
-Visto, il Guardasigilli: MORLINO  
-Registrato alla Corte dei conti, addi' 21 dicembre 1979  
-Registro n. 100 Istruzione, foglio n. 238
+1121.
+
+Decreto del Presidente della Repubblica 9 settembre 1978, col quale, sulla proposta del Ministro della pubblica istruzione, di concerto con i Ministri dell'interno, del tesoro e del turismo e dello spettacolo, viene istituito in Aversa (Caserta), a decorrere dall'anno scolastico 1978-79, un istituto professionale alberghiero di Stato (scuola avente finalita' ed ordinamento speciali) e ne viene approvata la tabella organica.
+
+Visto, il Guardasigilli: MORLINO
+ Registrato alla Corte dei conti, addi' 21 dicembre 1979
+ Registro n. 100 Istruzione, foglio n. 238

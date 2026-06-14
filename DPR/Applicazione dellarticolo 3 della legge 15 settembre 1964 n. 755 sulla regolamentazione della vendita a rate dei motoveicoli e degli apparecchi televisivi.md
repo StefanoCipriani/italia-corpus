@@ -1,23 +1,21 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 29 dicembre 1964 n. 1504
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 1504
+data: 1964-12-29
+titolo: "Applicazione dell'articolo 3 della legge 15 settembre 1964, n. 755, sulla regolamentazione della vendita a rate dei motoveicoli e degli apparecchi televisivi."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1964-12-29;1504
+codice_redazionale: 064U1504
+vigente: true
+---
 
+## Art. 1.
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 29 dicembre 1964 n. 1504
-================================================================
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
 
-Applicazione dell'articolo 3 della legge 15 settembre 1964, n. 755, sulla regolamentazione della vendita a rate dei motoveicoli e degli apparecchi televisivi.
---------------------------------------------------------------------------------------------------------------------------------------------------------------
+## Art. 2.
 
-Art. 1
-------
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
+## Art. 3.
 
-Art. 2
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
-
-Art. 3
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))

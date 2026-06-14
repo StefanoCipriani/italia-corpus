@@ -1,19 +1,21 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 22 novembre 1971 n. 1294
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 1294
+data: 1971-11-22
+titolo: "Riconoscimento della personalita' giuridica della fondazione \"Museo della carta\", con sede in Amalfi."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1971-11-22;1294
+codice_redazionale: 071U1294
+vigente: true
+---
 
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 22 novembre 1971 n. 1294
-================================================================
-
-Riconoscimento della personalita' giuridica della fondazione "Museo della carta", con sede in Amalfi.
------------------------------------------------------------------------------------------------------
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-1294. Decreto del Presidente della Repubblica 22 novembre 1971, col quale, sulla proposta del Ministro per la pubblica istruzione, viene riconosciuta la personalita' giuridica ed approvato lo statuto della fondazione "Museo della carta", con sede in Amalfi.  
-  
-Visto, il Guardasigilli: COLOMBO  
-Registrato alla Corte dei conti, addi' 1 febbraio 1972  
-Atti del Governo, registro n. 246, foglio n. 49. - VALENTINI
+1294.
+
+Decreto del Presidente della Repubblica 22 novembre 1971, col quale, sulla proposta del Ministro per la pubblica istruzione, viene riconosciuta la personalita' giuridica ed approvato lo statuto della fondazione "Museo della carta", con sede in Amalfi.
+
+Visto, il Guardasigilli: COLOMBO
+ Registrato alla Corte dei conti, addi' 1 febbraio 1972
+ Atti del Governo, registro n. 246, foglio n. 49. - VALENTINI

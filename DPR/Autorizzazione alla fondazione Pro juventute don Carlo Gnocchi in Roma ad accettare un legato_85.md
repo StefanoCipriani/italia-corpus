@@ -1,19 +1,21 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 17 giugno 1985 n. 467
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 187
+data: 1985-02-12
+titolo: "Autorizzazione alla fondazione \"Pro juventute don Carlo Gnocchi\", in Roma, ad accettare un legato."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1985-02-12;187
+codice_redazionale: 085U0187
+vigente: true
+---
 
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 17 giugno 1985 n. 467
-=============================================================
-
-Autorizzazione alla fondazione "Pro juventute don Carlo Gnocchi", in Roma, ad accettare un legato.
---------------------------------------------------------------------------------------------------
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-467. Decreto del Presidente della Repubblica 17 giugno 1985, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la fondazione "Pro juventute don Carlo Gnocchi", in Roma, viene autorizzata ad accettare il legato, consistente nella quota di meta' dei titoli Fundus depositati presso la S.A.I., valore complessivo L. 25.252.900 - quota 1/2 = L. 12.626.450, disposto dal sig. Fissore Antonio a favore dell'istituto "Don Gnocchi (mutilatini)", che si identifica con la fondazione "Pro juventute don Carlo Gnocchi", come si evince dal verbale 24 novembre 1979 del consiglio di amministrazione della fondazione stessa, con testamento olografo 6 novembre 1978, pubblicato in data 11 dicembre 1978, n. 67641 di repertorio e numero 41556 di raccolta, a rogito dott. Alberto Occelli, coadiutore temporaneo del dott. Giovanni Battista Picco, notaio in Torino, registrato a Torino il 15 dicembre 1978 al n. 51765.  
-  
-Visto, il Guardasigilli: MARTINAZZOLI  
-Registrato alla Corte dei conti, addi' 2 settembre 1985  
-Registro n. 8 Presidenza, foglio n. 157
+187.
+
+Decreto del Presidente della Repubblica 12 febbraio 1985, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la fondazione "Pro juventute don Carlo Gnocchi", in Roma, viene autorizzata ad accettare il legato, consistente nel 50% degli immobili siti in Besana Brianza, frazione Montesiro, valore attribuito con perizia di parte L. 78.000.000 elevato dall'ufficio tecnico erariale di Milano a lire 100.000.000, disposto dalla sig.ra Margherita Pilotti a favore della Pro juventute don Carlo Gnocchi, che si identifica con la fondazione medesima, come si evince dal verbale del consiglio di amministrazione della stessa del 20 novembre 1981, con testamento olografo 15 dicembre 1980, pubblicato in data 5 marzo 1981, n. 52862/23369 di repertorio, a rogito dottor Martino Gransella, notaio in Gravedona, registrato a Menaggio in data 10 marzo 1981 al n. 259.
+
+Visto, il Guardasigilli: MARTINAZZOLI
+ Registrato alla Corte dei conti, addi' 2 maggio 1985
+ Registro n. 4 Presidenza, foglio n. 86

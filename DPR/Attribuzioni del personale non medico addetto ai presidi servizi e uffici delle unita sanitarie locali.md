@@ -1,20 +1,20 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 07 settembre 1984 n. 821
-
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 07 settembre 1984 n. 821
-================================================================
-
-Attribuzioni del personale non medico addetto ai presidi, servizi e uffici delle unita' sanitarie locali.
----------------------------------------------------------------------------------------------------------
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 821
+data: 1984-09-07
+titolo: "Attribuzioni del personale non medico addetto ai presidi, servizi e uffici delle unita' sanitarie locali."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1984-09-07;821
+codice_redazionale: 084U0821
+vigente: true
+---
 
 IL PRESIDENTE DELLA REPUBBLICA
-------------------------------
 
-Visto l'[art. 87 della Costituzione](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27~art87);
+Visto l'[art. 87 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87);
 
-Visto l'[art. 7 della legge 23 dicembre 1978, n. 833](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-12-23;833~art7), concernente la delega al Governo per la disciplina dello stato giuridico del personale delle unita' sanitarie locali;
+Visto l'[art. 7 della legge 23 dicembre 1978, n. 833](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-12-23;833#art_7), concernente la delega al Governo per la disciplina dello stato giuridico del personale delle unita' sanitarie locali;
 
-Visto il [decreto del Presidente della Repubblica 20 dicembre 1979, n. 761](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1979-12-20;761), concernente lo stato giuridico del personale delle unita' sanitarie locali;
+Visto il [decreto del Presidente della Repubblica 20 dicembre 1979, n. 761](Stato%20giuridico%20del%20personale%20delle%20unita%20sanitarie%20locali.md), concernente lo stato giuridico del personale delle unita' sanitarie locali;
 
 Visto l'art. 63 di detto decreto che ha determinato le attribuzioni del personale medico addetto ai presidi, servizi e uffici delle unita' sanitarie locali;
 
@@ -32,802 +32,574 @@ Vista la deliberazione del Consiglio dei Ministri, adottata nella riunione del 1
 
 Sulla proposta del Ministro della sanita';
 
-EMANA
------
+EMANA il seguente decreto:
 
-il seguente decreto:
+## PERSONALE DEL RUOLO SANITARIO  Capo I PROFILO PROFESSIONALE: FARMACISTI
 
-CAPO I TITOLO I PERSONALE DEL RUOLO SANITARIO Capo I PROFILO PROFESSIONALE: FARMACISTI
---------------------------------------------------------------------------------------
+TITOLO I
 
-### Art. 1
+### Art. 1. — Farmacista dirigente
 
-Farmacista dirigente
+Il farmacista dirigente svolge le attivita' e le prestazioni inerenti alla sua competenza professionale nonche' attivita' di studio, di didattica e di ricerca, di programmazione e di direzione dell'unita' operativa o dipartimentale, servizio multizonale o ufficio complesso affidatogli.
+ A tal fine cura la preparazione e l'attuazione dei piani di lavoro.
+ Nel rispetto dell'autonomia professionale operativa del personale dell'unita' assegnatagli, impartisce istruzioni e direttive sugli adempimenti e sulle prestazioni di carattere farmaceutico e ne verifica l'attuazione. Effettua protocolli dei farmaci e del restante materiale farmaceutico.
+ Puo' avocare alla sua diretta responsabilita' attivita' specifiche, fermo restando l'obbligo di collaborazione da parte del personale appartenente alle altre posizioni funzionali.
+ E' responsabile delle attivita' professionali direttamente espletate nonche' delle istruzioni e delle direttive impartite e dei risultati conseguiti dai servizi sottoposti alla sua verifica.
+ In particolare, in ambiente ospedaliero, presta, ove richiesto dal responsabile del servizio di diagnosi e cura, la sua consulenza al personale medico per la scelta ed il monitoraggio dei farmaci.
+ Nel predisporre i piani operativi deve rispettare criteri di razionale distribuzione del lavoro e di rotazione del personale dipendente nei vari settori di attivita'.
+ Le attivita' svolte dal farmacista dirigente sono soggette esclusivamente a controlli intesi ad accertarne la rispondenza alle leggi ed ai regolamenti; egli redige, altresi', una relazione annuale tecnico-amministrativa sulle attivita' farmaceutiche, comprese quelle concernenti studi, ricerche scientifiche ed attivita' di educazione sanitaria.
 
-  
-  
-Il farmacista dirigente svolge le attivita' e le prestazioni inerenti alla sua competenza professionale nonche' attivita' di studio, di didattica e di ricerca, di programmazione e di direzione dell'unita' operativa o dipartimentale, servizio multizonale o ufficio complesso affidatogli.  
-A tal fine cura la preparazione e l'attuazione dei piani di lavoro.  
-Nel rispetto dell'autonomia professionale operativa del personale dell'unita' assegnatagli, impartisce istruzioni e direttive sugli adempimenti e sulle prestazioni di carattere farmaceutico e ne verifica l'attuazione. Effettua protocolli dei farmaci e del restante materiale farmaceutico.  
-Puo' avocare alla sua diretta responsabilita' attivita' specifiche, fermo restando l'obbligo di collaborazione da parte del personale appartenente alle altre posizioni funzionali.  
-E' responsabile delle attivita' professionali direttamente espletate nonche' delle istruzioni e delle direttive impartite e dei risultati conseguiti dai servizi sottoposti alla sua verifica.  
-In particolare, in ambiente ospedaliero, presta, ove richiesto dal responsabile del servizio di diagnosi e cura, la sua consulenza al personale medico per la scelta ed il monitoraggio dei farmaci.  
-Nel predisporre i piani operativi deve rispettare criteri di razionale distribuzione del lavoro e di rotazione del personale dipendente nei vari settori di attivita'.  
-Le attivita' svolte dal farmacista dirigente sono soggette esclusivamente a controlli intesi ad accertarne la rispondenza alle leggi ed ai regolamenti; egli redige, altresi', una relazione annuale tecnico-amministrativa sulle attivita' farmaceutiche, comprese quelle concernenti studi, ricerche scientifiche ed attivita' di educazione sanitaria.  
+### Art. 2. — Farmacista coadiutore
 
-### Art. 2
+Il farmacista coadiutore svolge funzioni operative autonome, nel rispetto di quanto stabilito nel precedente articolo, nell'area dei servizi a lui affidati, relativamente ad attivita' e prestazioni inerenti alla sua competenza professionale.
+ Svolge, inoltre, attivita' di studio, di didattica, di ricerca e di partecipazione dipartimentale, nel rispetto delle necessita' del lavoro di gruppo e sulla base delle direttive ricevute.
+ E' responsabile delle attivita' professionali direttamente espletate, delle istruzioni e delle direttive impartite, nonche' dei risultati conseguiti dal personale sottoposto alla sua verifica.
+ Il coadiutore sostituisce il farmacista dirigente in caso di assenza, di impedimento e nei casi di urgenza.
+ Tra piu' coadiutori dello stesso servizio, la sostituzione del dirigente spetta al coadiutore con maggiore anzianita' di servizio nella posizione funzionale.
 
-Farmacista coadiutore
+### Art. 3. — Farmacista collaboratore
 
-  
-  
-Il farmacista coadiutore svolge funzioni operative autonome, nel rispetto di quanto stabilito nel precedente articolo, nell'area dei servizi a lui affidati, relativamente ad attivita' e prestazioni inerenti alla sua competenza professionale.  
-Svolge, inoltre, attivita' di studio, di didattica, di ricerca e di partecipazione dipartimentale, nel rispetto delle necessita' del lavoro di gruppo e sulla base delle direttive ricevute.  
-E' responsabile delle attivita' professionali direttamente espletate, delle istruzioni e delle direttive impartite, nonche' dei risultati conseguiti dal personale sottoposto alla sua verifica.  
-Il coadiutore sostituisce il farmacista dirigente in caso di assenza, di impedimento e nei casi di urgenza.  
-Tra piu' coadiutori dello stesso servizio, la sostituzione del dirigente spetta al coadiutore con maggiore anzianita' di servizio nella posizione funzionale.  
+Il farmacista collaboratore svolge le attivita' farmaceutiche affidategli, nonche' le attivita' di studio, di didattica e di ricerca e quelle finalizzate alla sua formazione all'interno dell'area di servizio alla quale e' assegnato, secondo le direttive dei farmacisti appartenenti alle posizioni funzionali superiori.
+ Ha la responsabilita' per le attivita' professionali a lui direttamente affidate e per le istruzioni e direttive impartite, nonche' per i risultati conseguiti.
+ La sua attivita' e' soggetta a controllo e si espleta sulla base di una autonomia operativa nei limiti di quanto stabilito negli articoli precedenti.
 
-### Art. 3
+## PROFILO PROFESSIONALE: VETERINARI
 
-Farmacista collaboratore
+Capo II
 
-  
-  
-Il farmacista collaboratore svolge le attivita' farmaceutiche affidategli, nonche' le attivita' di studio, di didattica e di ricerca e quelle finalizzate alla sua formazione all'interno dell'area di servizio alla quale e' assegnato, secondo le direttive dei farmacisti appartenenti alle posizioni funzionali superiori.  
-Ha la responsabilita' per le attivita' professionali a lui direttamente affidate e per le istruzioni e direttive impartite, nonche' per i risultati conseguiti.  
-La sua attivita' e' soggetta a controllo e si espleta sulla base di una autonomia operativa nei limiti di quanto stabilito negli articoli precedenti.  
+### Art. 4. — Veterinario dirigente
 
-CAPO II Capo II PROFILO PROFESSIONALE: VETERINARI
--------------------------------------------------
+Il veterinario dirigente svolge le attivita' e le prestazioni inerenti alla sua competenza professionale secondo l'area funzionale di appartenenza, nonche' attivita' di studio, di didattica e di ricerca, di programmazione e di direzione dell'unita' operativa o dipartimentale, servizio multizonale o ufficio complesso affidatogli.
+ A tal fine, cura la preparazione e l'attuazione dei piani di lavoro. Nel rispetto dell'autonomia professionale operativa del personale dell'unita' assegnatagli, impartisce istruzioni e direttive sugli adempimenti e sulle prestazioni di carattere veterinario e ne verifica l'attuazione.
+ Puo' avocare alla sua diretta responsabilita' attivita' e prestazioni specifiche, fermo restando l'obbligo di collaborazione da parte del personale appartenente alle altre posizioni funzionali.
+ E' responsabile delle attivita' professionali direttamente espletate, nonche' delle istruzioni e delle direttive impartite e dei risultati conseguiti dai servizi sottoposti alla sua verifica.
+ Nel predisporre i piani operativi deve rispettare criteri di razionale distribuzione del lavoro e di rotazione del personale dipendente nei vari settori di attivita'.
+ Le attivita' svolte dal veterinario dirigente sono soggette esclusivamente a controlli intesi ad accertarne la rispondenza alle leggi ed ai regolamenti; egli redige, altresi' una relazione annuale tecnico-amministrativa sulle attivita' veterinarie, comprese quelle concernenti studi, ricerche scientifiche ed attivita' di educazione sanitaria.
 
-### Art. 4
+### Art. 5. — Veterinario coadiutore
 
-Veterinario dirigente
+Il veterinario coadiutore svolge funzioni operative autonome, nel rispetto di quanto stabilito nel precedente articolo, nell'area dei servizi a lui affidati, relativamente ad attivita' e prestazioni inerenti alla sua competenza professionale. Svolge, inoltre, attivita' di studio, di didattica, di ricerca e di partecipazione dipartimentale, nel rispetto delle necessita' del lavoro di gruppo e sulla base delle direttive ricevute.
+ E' responsabile delle attivita' professionali direttamente espletate, delle istruzioni e delle direttive impartite nonche' dei risultati conseguiti dal personale sottoposto alla sua verifica.
+ Il coadiutore sostituisce il veterinario dirigente in caso di assenza, di impedimento e nei casi di urgenza.
+ Tra piu' coadiutori dello stesso servizio la sostituzione del dirigente spetta al coadiutore con maggiore anzianita' di servizio nella posizione funzionale.
 
-  
-  
-Il veterinario dirigente svolge le attivita' e le prestazioni inerenti alla sua competenza professionale secondo l'area funzionale di appartenenza, nonche' attivita' di studio, di didattica e di ricerca, di programmazione e di direzione dell'unita' operativa o dipartimentale, servizio multizonale o ufficio complesso affidatogli.  
-A tal fine, cura la preparazione e l'attuazione dei piani di lavoro. Nel rispetto dell'autonomia professionale operativa del personale dell'unita' assegnatagli, impartisce istruzioni e direttive sugli adempimenti e sulle prestazioni di carattere veterinario e ne verifica l'attuazione.  
-Puo' avocare alla sua diretta responsabilita' attivita' e prestazioni specifiche, fermo restando l'obbligo di collaborazione da parte del personale appartenente alle altre posizioni funzionali.  
-E' responsabile delle attivita' professionali direttamente espletate, nonche' delle istruzioni e delle direttive impartite e dei risultati conseguiti dai servizi sottoposti alla sua verifica.  
-Nel predisporre i piani operativi deve rispettare criteri di razionale distribuzione del lavoro e di rotazione del personale dipendente nei vari settori di attivita'.  
-Le attivita' svolte dal veterinario dirigente sono soggette esclusivamente a controlli intesi ad accertarne la rispondenza alle leggi ed ai regolamenti; egli redige, altresi' una relazione annuale tecnico-amministrativa sulle attivita' veterinarie, comprese quelle concernenti studi, ricerche scientifiche ed attivita' di educazione sanitaria.  
+### Art. 6. — Veterinario collaboratore
 
-### Art. 5
+Il veterinario collaboratore svolge le attivita' del settore affidatogli nonche' le attivita' di studio, di didattica e di ricerca e quelle finalizzate alla sua formazione, all'interno dell'area dei servizi alla quale e' assegnato secondo le direttive dei veterinari appartenenti alle posizioni funzionali superiori.
+ Ha la responsabilita' per le attivita' professionali a lui direttamente affidate e per le istruzioni e direttive impartite nonche' per i risultati conseguiti.
+ La sua attivita' e' soggetta a controllo e si espleta sulla base di una autonomia operativa nei limiti di quanto stabilito negli articoli precedenti.
 
-Veterinario coadiutore
+## PROFILO PROFESSIONALE: BIOLOGI
 
-  
-  
-Il veterinario coadiutore svolge funzioni operative autonome, nel rispetto di quanto stabilito nel precedente articolo, nell'area dei servizi a lui affidati, relativamente ad attivita' e prestazioni inerenti alla sua competenza professionale. Svolge, inoltre, attivita' di studio, di didattica, di ricerca e di partecipazione dipartimentale, nel rispetto delle necessita' del lavoro di gruppo e sulla base delle direttive ricevute.  
-E' responsabile delle attivita' professionali direttamente espletate, delle istruzioni e delle direttive impartite nonche' dei risultati conseguiti dal personale sottoposto alla sua verifica.  
-Il coadiutore sostituisce il veterinario dirigente in caso di assenza, di impedimento e nei casi di urgenza.  
-Tra piu' coadiutori dello stesso servizio la sostituzione del dirigente spetta al coadiutore con maggiore anzianita' di servizio nella posizione funzionale.  
+Capo III
 
-### Art. 6
+### Art. 7. — Biologo dirigente
 
-Veterinario collaboratore
+Il biologo dirigente svolge le attivita' e le prestazioni inerenti alla sua competenza professionale nonche' attivita' di studio, di didattica e di ricerca, di programmazione e di direzione dell'unita' operativa o dipartimentale, servizio multizonale o ufficio complesso affidatogli.
+ A tal fine, cura la preparazione e l'attuazione dei piani di lavoro. Nel rispetto dell'autonomia professionale operativa del personale dell'unita' assegnatagli impartisce istruzioni e direttive sugli adempimenti e sulle prestazioni di specifica competenza e ne verifica l'attuazione.
+ Puo' avocare alla sua diretta responsabilita' attivita' specifiche, fermo restando l'obbligo di collaborazione da parte del personale appartenente alle altre posizioni funzionali.
+ E' responsabile delle attivita' professionali direttamente espletate, nonche' delle istruzioni e delle direttive impartite e dei risultati conseguiti dai servizi sottoposti alla sua verifica.
+ Nel predisporre i piani operativi deve rispettare criteri di razionale distribuzione del lavoro e di rotazione del personale dipendente nei vari settori di attivita'.
+ Le attivita' svolte dal biologo dirigente sono soggette esclusivamente a controlli intesi ad accertarne la rispondenza alle leggi ed ai regolamenti; egli redige, altresi', una relazione annuale tecnico-amministrativa sulle attivita' di specifica competenza comprese quelle concernenti studi, ricerche scientifiche ed attivita' di educazione sanitaria.
 
-  
-  
-Il veterinario collaboratore svolge le attivita' del settore affidatogli nonche' le attivita' di studio, di didattica e di ricerca e quelle finalizzate alla sua formazione, all'interno dell'area dei servizi alla quale e' assegnato secondo le direttive dei veterinari appartenenti alle posizioni funzionali superiori.  
-Ha la responsabilita' per le attivita' professionali a lui direttamente affidate e per le istruzioni e direttive impartite nonche' per i risultati conseguiti.  
-La sua attivita' e' soggetta a controllo e si espleta sulla base di una autonomia operativa nei limiti di quanto stabilito negli articoli precedenti.  
+### Art. 8. — Biologo coadiutore
 
-CAPO III Capo III PROFILO PROFESSIONALE: BIOLOGI
-------------------------------------------------
+Il biologo coadiutore svolge funzioni operative autonome, nel rispetto di quanto stabilito nel precedente articolo, nell'area dei servizi a lui affidati relativamente ad attivita' e prestazioni inerenti alla sua competenza professionale. Svolge, inoltre, attivita' di studio, di didattica, di ricerca e di partecipazione dipartimentale nel rispetto delle necessita' del lavoro di gruppo e sulla base delle direttive ricevute.
+ E' responsabile delle attivita' professionali direttamente espletate, delle istruzioni e delle direttive impartite nonche' dei risultati conseguiti dal personale sottoposto alla sua verifica.
+ Il coadiutore sostituisce il biologo dirigente in caso di assenza, di impedimento e nei casi di urgenza.
+ Tra piu' coadiutori dello stesso servizio la sostituzione del dirigente spetta al coadiutore con maggiore anzianita' di servizio nella posizione funzionale.
 
-### Art. 7
+### Art. 9. — Biologo collaboratore
 
-Biologo dirigente
+Il biologo collaboratore svolge le attivita' del settore affidatogli nonche' le attivita' di studio, di didattica e di ricerca e quelle finalizzate alla sua formazione all'interno dell'area del servizio alla quale e' assegnato, secondo le direttive dei biologi appartenenti alle posizioni funzionali superiori.
+ Ha la responsabilita' per le attivita' professionali a lui direttamente affidate e per le istruzioni e direttive impartite nonche' per i risultati conseguiti.
+ La sua attivita' e' soggetta a controllo e si espleta sulla base di una autonomia operativa nei limiti di quanto stabilito negli articoli precedenti.
 
-  
-  
-Il biologo dirigente svolge le attivita' e le prestazioni inerenti alla sua competenza professionale nonche' attivita' di studio, di didattica e di ricerca, di programmazione e di direzione dell'unita' operativa o dipartimentale, servizio multizonale o ufficio complesso affidatogli.  
-A tal fine, cura la preparazione e l'attuazione dei piani di lavoro. Nel rispetto dell'autonomia professionale operativa del personale dell'unita' assegnatagli impartisce istruzioni e direttive sugli adempimenti e sulle prestazioni di specifica competenza e ne verifica l'attuazione.  
-Puo' avocare alla sua diretta responsabilita' attivita' specifiche, fermo restando l'obbligo di collaborazione da parte del personale appartenente alle altre posizioni funzionali.  
-E' responsabile delle attivita' professionali direttamente espletate, nonche' delle istruzioni e delle direttive impartite e dei risultati conseguiti dai servizi sottoposti alla sua verifica.  
-Nel predisporre i piani operativi deve rispettare criteri di razionale distribuzione del lavoro e di rotazione del personale dipendente nei vari settori di attivita'.  
-Le attivita' svolte dal biologo dirigente sono soggette esclusivamente a controlli intesi ad accertarne la rispondenza alle leggi ed ai regolamenti; egli redige, altresi', una relazione annuale tecnico-amministrativa sulle attivita' di specifica competenza comprese quelle concernenti studi, ricerche scientifiche ed attivita' di educazione sanitaria.  
+## PROFILO PROFESSIONALE: CHIMICI
 
-### Art. 8
+Capo IV
 
-Biologo coadiutore
-
-  
-  
-Il biologo coadiutore svolge funzioni operative autonome, nel rispetto di quanto stabilito nel precedente articolo, nell'area dei servizi a lui affidati relativamente ad attivita' e prestazioni inerenti alla sua competenza professionale. Svolge, inoltre, attivita' di studio, di didattica, di ricerca e di partecipazione dipartimentale nel rispetto delle necessita' del lavoro di gruppo e sulla base delle direttive ricevute.  
-E' responsabile delle attivita' professionali direttamente espletate, delle istruzioni e delle direttive impartite nonche' dei risultati conseguiti dal personale sottoposto alla sua verifica.  
-Il coadiutore sostituisce il biologo dirigente in caso di assenza, di impedimento e nei casi di urgenza.  
-Tra piu' coadiutori dello stesso servizio la sostituzione del dirigente spetta al coadiutore con maggiore anzianita' di servizio nella posizione funzionale.  
+### Art. 10. — Chimico dirigente
 
-### Art. 9
+Il chimico dirigente svolge le attivita' e le prestazioni inerenti alla sua competenza professionale, nonche' attivita' di studio, di didattica, di ricerca, di programmazione e di direzione dell'unita' operativa o dipartimentale, servizio multizonale o ufficio complesso affidatogli, ivi comprese quelle di controllo e di denuncia previsti dalle vigenti leggi.
+ A tal fine, cura la preparazione e l'attuazione dei piani di lavoro.
+ Nel rispetto dell'autonomia professionale operativa del personale dell'unita' assegnatagli, impartisce istruzioni e direttive sugli adempimenti e sulle prestazioni di specifica competenza e ne verifica l'attuazione.
+ Puo' avocare alla sua diretta responsabilita' attivita' specifiche, fermo restando l'obbligo di collaborazione da parte del personale appartenente alle altre posizioni funzionali.
+ E' responsabile delle attivita' professionali direttamente espletate nonche' delle istruzioni e delle direttive impartite e dei risultati conseguiti dai servizi sottoposti alla sua verifica.
+ Nel predisporre i piani operativi deve rispettare criteri di razionale distribuzione del lavoro e di rotazione del personale dipendente nei vari settori di attivita'.
+ Le attivita' svolte dal chimico dirigente sono soggette esclusivamente a controlli intesi ad accertarne la rispondenza alle leggi ed ai regolamenti; egli redige altresi' una relazione annuale tecnico-amministrativa sulle attivita' di specifica competenza comprese quelle concernenti studi, ricerche scientifiche ed attivita' di educazione sanitaria.
 
-Biologo collaboratore
+### Art. 11. — Chimico coadiutore
 
-  
-  
-Il biologo collaboratore svolge le attivita' del settore affidatogli nonche' le attivita' di studio, di didattica e di ricerca e quelle finalizzate alla sua formazione all'interno dell'area del servizio alla quale e' assegnato, secondo le direttive dei biologi appartenenti alle posizioni funzionali superiori.  
-Ha la responsabilita' per le attivita' professionali a lui direttamente affidate e per le istruzioni e direttive impartite nonche' per i risultati conseguiti.  
-La sua attivita' e' soggetta a controllo e si espleta sulla base di una autonomia operativa nei limiti di quanto stabilito negli articoli precedenti.  
+Il chimico coadiutore svolge funzioni operative autonome, nel rispetto di quanto stabilito nel precedente articolo, nell'area dei servizi a lui affidati, relativamente ad attivita' e prestazioni inerenti alla sua competenza professionale. Svolge, inoltre, attivita' di studio, di didattica, di ricerca e di partecipazione dipartimentale, nel rispetto delle necessita' del lavoro di gruppo e sulla base delle direttive ricevute.
+ E' responsabile delle attivita' professionali direttamente espletate, delle istruzioni e delle direttive impartite, nonche' dei risultati conseguiti dal personale sottoposto alla sua verifica.
+ Il coadiutore sostituisce il chimico dirigente in caso di assenza, di impedimento e nei casi di urgenza.
+ Tra piu' coadiutori dello stesso servizio la sostituzione del dirigente spetta al coadiutore con maggiore anzianita' di servizio nella posizione funzionale.
 
-CAPO IV Capo IV PROFILO PROFESSIONALE: CHIMICI
-----------------------------------------------
+### Art. 12. — Chimico collaboratore
 
-### Art. 10
+Il chimico collaboratore svolge le attivita' professionali affidategli inerenti lo specifico titolo professionale nonche' le attivita' di studio, di didattica e di ricerca e quelle finalizzate alla sua formazione all'interno della area dei servizi alla quale e' assegnato, secondo le direttive dei chimici appartenenti alle posizioni funzionali superiori.
+ Ha la responsabilita' per le attivita' professionali a lui direttamente affidate e per le istruzioni e direttive impartite nonche' per i risultati conseguiti.
+ La sua attivita' e' soggetta a controllo e si espleta sulla base di una autonomia operativa nei limiti di quanto stabilito negli articoli precedenti.
 
-Chimico dirigente
-
-  
-  
-Il chimico dirigente svolge le attivita' e le prestazioni inerenti alla sua competenza professionale, nonche' attivita' di studio, di didattica, di ricerca, di programmazione e di direzione dell'unita' operativa o dipartimentale, servizio multizonale o ufficio complesso affidatogli, ivi comprese quelle di controllo e di denuncia previsti dalle vigenti leggi.  
-A tal fine, cura la preparazione e l'attuazione dei piani di lavoro.  
-Nel rispetto dell'autonomia professionale operativa del personale dell'unita' assegnatagli, impartisce istruzioni e direttive sugli adempimenti e sulle prestazioni di specifica competenza e ne verifica l'attuazione.  
-Puo' avocare alla sua diretta responsabilita' attivita' specifiche, fermo restando l'obbligo di collaborazione da parte del personale appartenente alle altre posizioni funzionali.  
-E' responsabile delle attivita' professionali direttamente espletate nonche' delle istruzioni e delle direttive impartite e dei risultati conseguiti dai servizi sottoposti alla sua verifica.  
-Nel predisporre i piani operativi deve rispettare criteri di razionale distribuzione del lavoro e di rotazione del personale dipendente nei vari settori di attivita'.  
-Le attivita' svolte dal chimico dirigente sono soggette esclusivamente a controlli intesi ad accertarne la rispondenza alle leggi ed ai regolamenti; egli redige altresi' una relazione annuale tecnico-amministrativa sulle attivita' di specifica competenza comprese quelle concernenti studi, ricerche scientifiche ed attivita' di educazione sanitaria.  
+## PROFILO PROFESSIONALE: FISICI
 
-### Art. 11
+Capo V
 
-Chimico coadiutore
+### Art. 13. — Fisico dirigente
 
-  
-  
-Il chimico coadiutore svolge funzioni operative autonome, nel rispetto di quanto stabilito nel precedente articolo, nell'area dei servizi a lui affidati, relativamente ad attivita' e prestazioni inerenti alla sua competenza professionale. Svolge, inoltre, attivita' di studio, di didattica, di ricerca e di partecipazione dipartimentale, nel rispetto delle necessita' del lavoro di gruppo e sulla base delle direttive ricevute.  
-E' responsabile delle attivita' professionali direttamente espletate, delle istruzioni e delle direttive impartite, nonche' dei risultati conseguiti dal personale sottoposto alla sua verifica.  
-Il coadiutore sostituisce il chimico dirigente in caso di assenza, di impedimento e nei casi di urgenza.  
-Tra piu' coadiutori dello stesso servizio la sostituzione del dirigente spetta al coadiutore con maggiore anzianita' di servizio nella posizione funzionale.  
+Il fisico dirigente svolge le attivita' e le prestazioni inerenti alla sua competenza professionale, nonche' attivita' di studio, di didattica e di ricerca, di programmazione e di direzione dell'unita' operativa o dipartimentale, servizio multizonale o ufficio complesso affidatogli.
+ Assicura le prestazioni relative alla radioprotezione, quando comprese nelle competenze del servizio.
+ A tal fine, cura la preparazione e l'attuazione dei piani di lavoro.
+ Nel rispetto dell'autonomia professionale operativa del personale dell'unita' assegnatagli, impartisce istruzioni e direttive sugli adempimenti e sulle prestazioni di specifica competenza e ne verifica l'attuazione.
+ Puo' avocare alla sua diretta responsabilita' attivita' specifiche fermo restando l'obbligo di collaborazione da parte del personale appartenente alle altre posizioni funzionali.
+ E' responsabile delle attivita' professionali direttamente espletate, nonche' delle istruzioni e delle direttive impartite e dei risultati conseguiti dai servizi sottoposti alla sua verifica.
+ Presta, inoltre, nelle strutture sanitarie di diagnosi e cura e riabilitazione la' sua consulenza ove richiesta.
+ Nel predisporre i piani operativi deve rispettare criteri di razionale distribuzione del lavoro e di rotazione del personale dipendente nei vari settori di attivita'.
+ Le attivita' svolte dal fisico dirigente sono soggette esclusivamente a controlli intesi ad accertarne la rispondenza alle leggi ed ai regolamenti; egli redige, altresi', una relazione annuale tecnico-amministrativa sulle attivita' di specifica competenza comprese quelle concernenti studi, ricerche scientifiche ed attivita' di educazione sanitaria.
 
-### Art. 12
+### Art. 14. — Fisico coadiutore
 
-Chimico collaboratore
+Il fisico coadiutore svolge funzioni operative autonome, nel rispetto di quanto stabilito nel precedente articolo, nell'area dei servizi, a lui affidati, relativamente ad attivita' e prestazioni inerenti alla sua competenza professionale. Svolge, inoltre, attivita' di studio, di didattica, di ricerca e di partecipazione dipartimentale, nel rispetto delle necessita' del lavoro di gruppo e sulla base delle direttive ricevute.
+ E' responsabile delle attivita' professionali direttamente espletate, delle istruzioni e delle direttive impartite, nonche' dei risultati conseguiti dal personale sottoposto alla sua verifica.
+ Assicura le prestazioni relative alla radioprotezione, quando comprese nelle competenze del servizio.
+ Il coadiutore sostituisce il fisico dirigente in caso di assenza, di impedimento e nei casi di urgenza.
+ Tra piu' coadiutori dello stesso servizio la sostituzione del dirigente spetta al coadiutore con maggiore anzianita' di servizio nella posizione funzionale.
 
-  
-  
-Il chimico collaboratore svolge le attivita' professionali affidategli inerenti lo specifico titolo professionale nonche' le attivita' di studio, di didattica e di ricerca e quelle finalizzate alla sua formazione all'interno della area dei servizi alla quale e' assegnato, secondo le direttive dei chimici appartenenti alle posizioni funzionali superiori.  
-Ha la responsabilita' per le attivita' professionali a lui direttamente affidate e per le istruzioni e direttive impartite nonche' per i risultati conseguiti.  
-La sua attivita' e' soggetta a controllo e si espleta sulla base di una autonomia operativa nei limiti di quanto stabilito negli articoli precedenti.  
+### Art. 15. — Fisico collaboratore
 
-CAPO V Capo V PROFILO PROFESSIONALE: FISICI
--------------------------------------------
+Il fisico collaboratore svolge le attivita' del settore affidategli, nonche' le attivita' di studio, di didattica e di ricerca e quelle finalizzate alla sua formazione all'interno dell'area dei servizi alla quale e' assegnato, secondo le direttive dei fisici appartenenti alle posizioni funzionali superiori.
+ Assicura le prestazioni relative alla radioprotezione, quando comprese nelle competenze del servizio.
+ Ha la responsabilita' per le attivita' professionali a lui direttamente affidate e per le istruzioni e direttive impartite.
+ La sua attivita' e' soggetta a controllo e si espleta sulla base di una autonomia operativa nei limiti di quanto stabilito dagli articoli precedenti.
 
-### Art. 13
+## PROFILO PROFESSIONALE: PSICOLOGI
 
-Fisico dirigente
+Capo VI
 
-  
-  
-Il fisico dirigente svolge le attivita' e le prestazioni inerenti alla sua competenza professionale, nonche' attivita' di studio, di didattica e di ricerca, di programmazione e di direzione dell'unita' operativa o dipartimentale, servizio multizonale o ufficio complesso affidatogli.  
-Assicura le prestazioni relative alla radioprotezione, quando comprese nelle competenze del servizio.  
-A tal fine, cura la preparazione e l'attuazione dei piani di lavoro.  
-Nel rispetto dell'autonomia professionale operativa del personale dell'unita' assegnatagli, impartisce istruzioni e direttive sugli adempimenti e sulle prestazioni di specifica competenza e ne verifica l'attuazione.  
-Puo' avocare alla sua diretta responsabilita' attivita' specifiche fermo restando l'obbligo di collaborazione da parte del personale appartenente alle altre posizioni funzionali.  
-E' responsabile delle attivita' professionali direttamente espletate, nonche' delle istruzioni e delle direttive impartite e dei risultati conseguiti dai servizi sottoposti alla sua verifica.  
-Presta, inoltre, nelle strutture sanitarie di diagnosi e cura e riabilitazione la' sua consulenza ove richiesta.  
-Nel predisporre i piani operativi deve rispettare criteri di razionale distribuzione del lavoro e di rotazione del personale dipendente nei vari settori di attivita'.  
-Le attivita' svolte dal fisico dirigente sono soggette esclusivamente a controlli intesi ad accertarne la rispondenza alle leggi ed ai regolamenti; egli redige, altresi', una relazione annuale tecnico-amministrativa sulle attivita' di specifica competenza comprese quelle concernenti studi, ricerche scientifiche ed attivita' di educazione sanitaria.  
+### Art. 16. — Psicologo dirigente
 
-### Art. 14
+Lo psicologo dirigente svolge le attivita' e le prestazioni inerenti alla sua competenza professionale nonche' attivita' di studio, di didattica, di ricerca, di programmazione e di direzione dell'unita' operativa o dipartimentale, servizio multizonale o ufficio complesso affidatogli.
+ A tal fine, cura la preparazione ed il coordinamento dei piani di lavoro. Nel rispetto dell'autonomia professionale operativa del personale dell'unita' assegnatagli, impartisce istruzioni e direttive sugli adempimenti e sulle prestazioni di specifica competenza e ne verifica l'attuazione.
+ Puo' avocare alla sua diretta responsabilita' attivita' specifiche, fermo restando l'obbligo di collaborazione da parte del personale appartenente alle altre posizioni funzionali.
+ E' responsabile delle attivita' professionali direttamente espletate nonche' delle istruzioni e delle direttive impartite e dei risultati conseguiti dai servizi sottoposti alla sua verifica.
+ Nel predisporre i piani operativi deve rispettare criteri di razionale distribuzione del lavoro e di rotazione del personale dipendente nei vari settori di attivita'.
+ Le attivita' svolte dallo psicologo dirigente sono soggette esclusivamente a controlli intesi ad accertarne la rispondenza alle leggi ed ai regolamenti; egli redige, altresi', una relazione annuale tecnico-amministrativa sulle attivita' di specifica competenza, comprese quelle concernenti studi, ricerche scientifiche ed attivita' di educazione sanitaria.
 
-Fisico coadiutore
+### Art. 17. — Psicologo coadiutore
 
-  
-  
-Il fisico coadiutore svolge funzioni operative autonome, nel rispetto di quanto stabilito nel precedente articolo, nell'area dei servizi, a lui affidati, relativamente ad attivita' e prestazioni inerenti alla sua competenza professionale. Svolge, inoltre, attivita' di studio, di didattica, di ricerca e di partecipazione dipartimentale, nel rispetto delle necessita' del lavoro di gruppo e sulla base delle direttive ricevute.  
-E' responsabile delle attivita' professionali direttamente espletate, delle istruzioni e delle direttive impartite, nonche' dei risultati conseguiti dal personale sottoposto alla sua verifica.  
-Assicura le prestazioni relative alla radioprotezione, quando comprese nelle competenze del servizio.  
-Il coadiutore sostituisce il fisico dirigente in caso di assenza, di impedimento e nei casi di urgenza.  
-Tra piu' coadiutori dello stesso servizio la sostituzione del dirigente spetta al coadiutore con maggiore anzianita' di servizio nella posizione funzionale.  
+Lo psicologo coadiutore svolge funzioni operative autonome, nel rispetto di quanto stabilito nel precedente articolo, nell'arca dei servizi a lui affidati relativamente alle attivita' e prestazioni inerenti alla sua competenza professionale. Svolge, inoltre, attivita' di studio, di didattica, di ricerca e di partecipazione dipartimentale nel rispetto delle necessita' del lavoro di gruppo e sulla base delle direttive ricevute.
+ E' responsabile delle attivita' professionali direttamente espletate, delle istruzioni e delle direttive impartite nonche' dei risultati conseguiti dal personale sottoposto alla sua verifica.
+ Il coadiutore sostituisce lo psicologo dirigente in caso di assenza, di impedimento e nei casi di urgenza.
+ Tra piu' coadiutori dello stesso servizio la sostituzione del dirigente spetta al coadiutore con maggiore anzianita' di servizio nella posizione funzionale.
 
-### Art. 15
+### Art. 18. — Psicologo collaboratore
 
-Fisico collaboratore
+Lo psicologo collaboratore svolge le attivita' del settore affidatogli nonche' le attivita' di studio, di didattica e di ricerca e quelle finalizzate alla sua formazione all'interno dell'area dei servizi alla quale e' assegnato, secondo le direttive degli psicologi appartenenti alle posizioni funzionali superiori.
+ Ha la responsabilita' per le attivita' professionali a lui direttamente affidate e per le istruzioni e direttive impartite, nonche' per i risultati conseguiti.
+ La sua attivita' e' soggetta a controllo e si espleta sulla base di una autonomia operativa nei limiti di quanto stabilito negli articoli precedenti.
 
-  
-  
-Il fisico collaboratore svolge le attivita' del settore affidategli, nonche' le attivita' di studio, di didattica e di ricerca e quelle finalizzate alla sua formazione all'interno dell'area dei servizi alla quale e' assegnato, secondo le direttive dei fisici appartenenti alle posizioni funzionali superiori.  
-Assicura le prestazioni relative alla radioprotezione, quando comprese nelle competenze del servizio.  
-Ha la responsabilita' per le attivita' professionali a lui direttamente affidate e per le istruzioni e direttive impartite.  
-La sua attivita' e' soggetta a controllo e si espleta sulla base di una autonomia operativa nei limiti di quanto stabilito dagli articoli precedenti.  
+## PROFILO PROFESSIONALE: PERSONALE CON FUNZIONI DIDATTICO-ORGANIZZATIVE
 
-CAPO VI Capo VI PROFILO PROFESSIONALE: PSICOLOGI
-------------------------------------------------
+Capo VII
 
-### Art. 16
+### Art. 19. — Operatore professionale dirigente
 
-Psicologo dirigente
+Il personale con funzioni didattico-organizzative provvede al coordinamento delle attivita' di formazione, professionale del personale o dei servizi assistenziali di competenza.
+ Nell'ambito delle attivita' di formazione, sulla base delle norme che regolano l'organizzazione dei corsi, assicura la direzione didattica dei corsi stessi secondo le disposizioni che li disciplinano.
+ A tal fine, sulla base delle norme vigenti, predispone lo svolgimento degli insegnamenti, ne assicura l'effettuazione e ne controlla l'esecuzione nel rispetto della autonomia professionale operativa del personale docente e delle esigenze del lavoro di gruppo.
+ Stabilisce gli opportuni collegamenti con le attivita' di formazione professionale permanente.
+ Redige annualmente una relazione tecnica sull'attivita' svolta e formula proposte per l'organizzazione dell'insegnamento.
+ Nell'ambito dell'attivita' di organizzazione dei servizi, programma l'utilizzazione del personale secondo le indicazioni dei responsabili dei servizi e dei presidi e verifica l'espletamento delle attivita' del personale medesimo predisponendo, a tal fine, anche i turni di lavoro e collaborando alla formulazione dei piani operativi e dei sistemi di valutazione dei medesimi.
+ Svolge funzioni di didattica nonche' attivita' finalizzate alla propria formazione.
+ Ha la responsabilita' dei propri compiti limitatamente alle prestazioni e alle funzioni che per la normativa vigente e' tenuto ad attuare nonche' per le direttive e le istruzioni impartite e per i risultati conseguiti.
 
-  
-  
-Lo psicologo dirigente svolge le attivita' e le prestazioni inerenti alla sua competenza professionale nonche' attivita' di studio, di didattica, di ricerca, di programmazione e di direzione dell'unita' operativa o dipartimentale, servizio multizonale o ufficio complesso affidatogli.  
-A tal fine, cura la preparazione ed il coordinamento dei piani di lavoro. Nel rispetto dell'autonomia professionale operativa del personale dell'unita' assegnatagli, impartisce istruzioni e direttive sugli adempimenti e sulle prestazioni di specifica competenza e ne verifica l'attuazione.  
-Puo' avocare alla sua diretta responsabilita' attivita' specifiche, fermo restando l'obbligo di collaborazione da parte del personale appartenente alle altre posizioni funzionali.  
-E' responsabile delle attivita' professionali direttamente espletate nonche' delle istruzioni e delle direttive impartite e dei risultati conseguiti dai servizi sottoposti alla sua verifica.  
-Nel predisporre i piani operativi deve rispettare criteri di razionale distribuzione del lavoro e di rotazione del personale dipendente nei vari settori di attivita'.  
-Le attivita' svolte dallo psicologo dirigente sono soggette esclusivamente a controlli intesi ad accertarne la rispondenza alle leggi ed ai regolamenti; egli redige, altresi', una relazione annuale tecnico-amministrativa sulle attivita' di specifica competenza, comprese quelle concernenti studi, ricerche scientifiche ed attivita' di educazione sanitaria.  
+## PERSONALE INFERMIERISTICO: OPERATORE PROFESSIONALE DI I CATEGORIA
 
-### Art. 17
+Capo VIII
 
-Psicologo coadiutore
+### Art. 20. — Operatore professionale coordinatore
 
-  
-  
-Lo psicologo coadiutore svolge funzioni operative autonome, nel rispetto di quanto stabilito nel precedente articolo, nell'arca dei servizi a lui affidati relativamente alle attivita' e prestazioni inerenti alla sua competenza professionale. Svolge, inoltre, attivita' di studio, di didattica, di ricerca e di partecipazione dipartimentale nel rispetto delle necessita' del lavoro di gruppo e sulla base delle direttive ricevute.  
-E' responsabile delle attivita' professionali direttamente espletate, delle istruzioni e delle direttive impartite nonche' dei risultati conseguiti dal personale sottoposto alla sua verifica.  
-Il coadiutore sostituisce lo psicologo dirigente in caso di assenza, di impedimento e nei casi di urgenza.  
-Tra piu' coadiutori dello stesso servizio la sostituzione del dirigente spetta al coadiutore con maggiore anzianita' di servizio nella posizione funzionale.  
+L'operatore professionale coordinatore svolge le attivita' di assistenza diretta attinenti alla sua competenza professionale.
+ Coordina l'attivita' del personale nelle posizioni funzionali di collaboratore e di operatore professionale di II categoria a livello di unita' funzionale ospedaliera e di distretto predisponendone i piani di lavoro, nell'ambito delle direttive impartite dal responsabile o dai responsabili delle unita' operative, nel rispetto dell'autonomia operativa del personale stesso e delle esigenze del lavoro di gruppo.
+ Svolge attivita' di didattica, nonche' attivita' finalizzate alla propria formazione.
+ Ha la responsabilita' professionale dei propri compiti limitatamente alle prestazioni e alle funzioni che per la normativa vigente e' tenuto ad attuare.
 
-### Art. 18
+### Art. 21. — Operatore professionale collaboratore
 
-Psicologo collaboratore
+L'operatore professionale collaboratore, nel rispetto di quanto stabilito nell'articolo precedente, nell'ambito dell'area dei servizi cui e' assegnato, partecipa alla formulazione dei piani di lavoro, e di intervento per la promozione, il mantenimento ed il recupero della salute degli utenti.
+ Secondo le direttive ricevute, svolge le funzioni di specifica competenza attinenti al proprio titolo, professionale assicurando gli interventi previsti dai piani di lavoro.
+ Svolge attivita' di didattica ed attivita' finalizzate alla propria formazione.
+ Ha la responsabilita' professionale dei propri compiti limitatamente alle prestazioni e alle funzioni che per la normativa vigente e' tenuto ad attuare.
 
-  
-  
-Lo psicologo collaboratore svolge le attivita' del settore affidatogli nonche' le attivita' di studio, di didattica e di ricerca e quelle finalizzate alla sua formazione all'interno dell'area dei servizi alla quale e' assegnato, secondo le direttive degli psicologi appartenenti alle posizioni funzionali superiori.  
-Ha la responsabilita' per le attivita' professionali a lui direttamente affidate e per le istruzioni e direttive impartite, nonche' per i risultati conseguiti.  
-La sua attivita' e' soggetta a controllo e si espleta sulla base di una autonomia operativa nei limiti di quanto stabilito negli articoli precedenti.  
+### Art. 22. — Operatore professionale di II categoria
 
-CAPO VII Capo VII PROFILO PROFESSIONALE: PERSONALE CON FUNZIONI DIDATTICO-ORGANIZZATIVE
----------------------------------------------------------------------------------------
+L'operatore professionale di II categoria nel rispetto di quanto stabilito nei precedenti articoli, svolge prestazioni di assistenza secondo i mansionari vigenti, nell'ambito dei piani di lavoro dell'unita' operativa di appartenenza.
+ Ha la responsabilita' professionale dei propri compiti limitatamente alle prestazioni o funzioni che per la normativa vigente e' tenuto ad attuare.
 
-### Art. 19
+## PERSONALE TECNICO SANITARIO: OPERATORE PROFESSIONALE DI I CATEGORIA
 
-Operatore professionale dirigente
+Capo IX
 
-  
-  
-Il personale con funzioni didattico-organizzative provvede al coordinamento delle attivita' di formazione, professionale del personale o dei servizi assistenziali di competenza.  
-Nell'ambito delle attivita' di formazione, sulla base delle norme che regolano l'organizzazione dei corsi, assicura la direzione didattica dei corsi stessi secondo le disposizioni che li disciplinano.  
-A tal fine, sulla base delle norme vigenti, predispone lo svolgimento degli insegnamenti, ne assicura l'effettuazione e ne controlla l'esecuzione nel rispetto della autonomia professionale operativa del personale docente e delle esigenze del lavoro di gruppo.  
-Stabilisce gli opportuni collegamenti con le attivita' di formazione professionale permanente.  
-Redige annualmente una relazione tecnica sull'attivita' svolta e formula proposte per l'organizzazione dell'insegnamento.  
-Nell'ambito dell'attivita' di organizzazione dei servizi, programma l'utilizzazione del personale secondo le indicazioni dei responsabili dei servizi e dei presidi e verifica l'espletamento delle attivita' del personale medesimo predisponendo, a tal fine, anche i turni di lavoro e collaborando alla formulazione dei piani operativi e dei sistemi di valutazione dei medesimi.  
-Svolge funzioni di didattica nonche' attivita' finalizzate alla propria formazione.  
-Ha la responsabilita' dei propri compiti limitatamente alle prestazioni e alle funzioni che per la normativa vigente e' tenuto ad attuare nonche' per le direttive e le istruzioni impartite e per i risultati conseguiti.  
+### Art. 23. — Operatore professionale coordinatore
 
-CAPO VIII Capo VIII PERSONALE INFERMIERISTICO: OPERATORE PROFESSIONALE DI I CATEGORIA
--------------------------------------------------------------------------------------
+L'operatore professionale coordinatore svolge le attivita' attinenti alla sua competenza professionale.
+ Coordina l'attivita' del personale nella posizione funzionale di collaboratore a livello di unita' funzionale predisponendone i piani di lavoro nell'ambito delle direttive impartite dal responsabile o dai responsabili delle unita' operative, nel rispetto dell'autonomia operativa del personale stesso e delle esigenze del lavoro di gruppo.
+ Svolge attivita' di didattica nonche' attivita' finalizzata alla propria formazione.
+ Ha la responsabilita' professionale dei propri compiti limitatamente alle prestazioni e funzioni che per la normativa vigente e' tenuto ad attuare.
 
-### Art. 20
+### Art. 24. — Operatore professionale collaboratore
 
-Operatore professionale coordinatore
+L'operatore professionale collaboratore nel rispetto di quanto stabilito nel precedente articolo nell'ambito dell'unita' operativa cui e' assegnato, partecipa alla formulazione dei piani di lavoro e di intervento.
+ Secondo le direttive ricevute svolge le funzioni di specifica competenza attinenti al proprio titolo professionale, assicurando gli interventi previsti dai piani di lavoro.
+ Svolge attivita' di didattica ed attivita' finalizzate alla propria formazione.
+ Ha la responsabilita' professionale dei propri compiti limitatamente alle prestazioni e alle funzioni che per la normativa vigente e' tenuto ad attuare.
 
-  
-  
-L'operatore professionale coordinatore svolge le attivita' di assistenza diretta attinenti alla sua competenza professionale.  
-Coordina l'attivita' del personale nelle posizioni funzionali di collaboratore e di operatore professionale di II categoria a livello di unita' funzionale ospedaliera e di distretto predisponendone i piani di lavoro, nell'ambito delle direttive impartite dal responsabile o dai responsabili delle unita' operative, nel rispetto dell'autonomia operativa del personale stesso e delle esigenze del lavoro di gruppo.  
-Svolge attivita' di didattica, nonche' attivita' finalizzate alla propria formazione.  
-Ha la responsabilita' professionale dei propri compiti limitatamente alle prestazioni e alle funzioni che per la normativa vigente e' tenuto ad attuare.  
+## PERSONALE DI VIGILANZA E ISPEZIONE: OPERATORE PROFESSIONALE DI I CATEGORIA
 
-### Art. 21
+Capo X
 
-Operatore professionale collaboratore
+### Art. 25. — Operatore professionale coordinatore
 
-  
-  
-L'operatore professionale collaboratore, nel rispetto di quanto stabilito nell'articolo precedente, nell'ambito dell'area dei servizi cui e' assegnato, partecipa alla formulazione dei piani di lavoro, e di intervento per la promozione, il mantenimento ed il recupero della salute degli utenti.  
-Secondo le direttive ricevute, svolge le funzioni di specifica competenza attinenti al proprio titolo, professionale assicurando gli interventi previsti dai piani di lavoro.  
-Svolge attivita' di didattica ed attivita' finalizzate alla propria formazione.  
-Ha la responsabilita' professionale dei propri compiti limitatamente alle prestazioni e alle funzioni che per la normativa vigente e' tenuto ad attuare.  
+L'operatore professionale coordinatore svolge attivita' di vigilanza e ispezione proprie dell'unita' operativa cui e' assegnato.
+ Partecipa all'attivita' di accertamento e controllo analitico di laboratorio dell'unita' operativa cui e' assegnato.
+ Coordina l'attivita' del personale nella posizione di collaboratore predisponendone i piani di lavoro nello ambito delle direttive impartite dal responsabile o dai responsabili dell'unita' operativa nel rispetto della autonomia operativa del personale stesso e delle esigenze del lavoro di gruppo.
+ Svolge attivita' di didattica nonche' attivita' finalizzata alla propria formazione.
+ Ha la responsabilita' professionale dei propri compiti limitatamente alle prestazioni e alle funzioni che per la normativa vigente e' tenuto ad attuare.
 
-### Art. 22
+### Art. 26. — Operatore professionale collaboratore
 
-Operatore professionale di II categoria
+L'operatore professionale collaboratore, nel rispetto di quanto stabilito nell'articolo precedente, nell'ambito dell'unita' operativa cui e' assegnato, partecipa alla formulazione dei piani di lavoro e di intervento.
+ Secondo le direttive ricevute, svolge le attivita' di vigilanza e di ispezione di specifica competenza; partecipa all'attivita' di accertamento e di controllo analitico di laboratorio dell'unita' operativa cui e' assegnato.
+ Assicura gli interventi previsti dai piani di lavoro e riferisce al coordinatore sui risultati dell'attivita' espletata.
+ Svolge attivita' di didattica ed attivita' finalizzata alla propria formazione.
+ Ha la responsabilita' professionale dei propri compiti limitatamente alle prestazioni e alle funzioni che per la normativa vigente e' tenuto ad attuare.
 
-  
-  
-L'operatore professionale di II categoria nel rispetto di quanto stabilito nei precedenti articoli, svolge prestazioni di assistenza secondo i mansionari vigenti, nell'ambito dei piani di lavoro dell'unita' operativa di appartenenza.  
-Ha la responsabilita' professionale dei propri compiti limitatamente alle prestazioni o funzioni che per la normativa vigente e' tenuto ad attuare.  
+## PERSONALE CON FUNZIONI DI RIABILITAZIONE: OPERATORE PROFESSIONALE DI I CATEGORIA
 
-CAPO IX Capo IX PERSONALE TECNICO SANITARIO: OPERATORE PROFESSIONALE DI I CATEGORIA
------------------------------------------------------------------------------------
+Capo XI
 
-### Art. 23
+### Art. 27. — Operatore professionale coordinatore
 
-Operatore professionale coordinatore
+L'operatore professionale coordinatore svolge le attivita' attinenti allo specifico titolo professionale.
+ Coordina l'attivita' del personale delle posizioni funzionali di collaboratore e di operatore professionale di II categoria predisponendone i piani di lavoro, nell'ambito delle direttive impartite dal responsabile o dai responsabili delle unita' operative, nel rispetto dell'autonomia operativa del personale stesso e delle esigenze del lavoro di gruppo.
+ Svolge attivita' di didattica nonche' attivita' finalizzata alla propria formazione.
+ Ha la responsabilita' professionale dei propri compiti limitatamente alle prestazioni e alle funzioni che per la normativa vigente e' tenuto ad attuare.
 
-  
-  
-L'operatore professionale coordinatore svolge le attivita' attinenti alla sua competenza professionale.  
-Coordina l'attivita' del personale nella posizione funzionale di collaboratore a livello di unita' funzionale predisponendone i piani di lavoro nell'ambito delle direttive impartite dal responsabile o dai responsabili delle unita' operative, nel rispetto dell'autonomia operativa del personale stesso e delle esigenze del lavoro di gruppo.  
-Svolge attivita' di didattica nonche' attivita' finalizzata alla propria formazione.  
-Ha la responsabilita' professionale dei propri compiti limitatamente alle prestazioni e funzioni che per la normativa vigente e' tenuto ad attuare.  
+### Art. 28. — Operatore professionale collaboratore
 
-### Art. 24
+L'operatore professionale collaboratore, nel rispetto di quanto stabilito nell'articolo precedente, nell'ambito dell'unita' operativa cui e' assegnato, partecipa alla formulazione dei piani di lavoro e di intervento.
+ Secondo le direttive ricevute svolge le funzioni di specifica competenza attinenti al proprio titolo professionale assicurando gli interventi previsti dai piani di lavoro.
+ Svolge attivita' di didattica e attivita' finalizzata alla propria formazione.
+ Ha la responsabilita' professionale dei propri compiti limitatamente alle prestazioni e alle funzioni che per la normativa vigente e' tenuto ad attuare.
 
-Operatore professionale collaboratore
+### Art. 29. — Operatore professionale di II categoria
 
-  
-  
-L'operatore professionale collaboratore nel rispetto di quanto stabilito nel precedente articolo nell'ambito dell'unita' operativa cui e' assegnato, partecipa alla formulazione dei piani di lavoro e di intervento.  
-Secondo le direttive ricevute svolge le funzioni di specifica competenza attinenti al proprio titolo professionale, assicurando gli interventi previsti dai piani di lavoro.  
-Svolge attivita' di didattica ed attivita' finalizzate alla propria formazione.  
-Ha la responsabilita' professionale dei propri compiti limitatamente alle prestazioni e alle funzioni che per la normativa vigente e' tenuto ad attuare.  
+L'operatore professionale di II categoria, nel rispetto di quanto stabilito nei precedenti articoli, svolge prestazioni massoterapiche attinenti al titolo professionale specifico nell'ambito dei piani di lavoro dell'unita' operativa di appartenenza.
+ Ha la responsabilita' professionale dei propri compiti limitatamente alle prestazioni e funzioni che per la normativa vigente e' tenuto ad attuare.
 
-CAPO X Capo X PERSONALE DI VIGILANZA E ISPEZIONE: OPERATORE PROFESSIONALE DI I CATEGORIA
-----------------------------------------------------------------------------------------
+## RUOLO PROFESSIONALE  Capo I PROFILO PROFESSIONALE: AVVOCATI E PROCURATORI LEGALI
 
-### Art. 25
+TITOLO II
 
-Operatore professionale coordinatore
+### Art. 30. — Avvocato coordinatore
 
-  
-  
-L'operatore professionale coordinatore svolge attivita' di vigilanza e ispezione proprie dell'unita' operativa cui e' assegnato.  
-Partecipa all'attivita' di accertamento e controllo analitico di laboratorio dell'unita' operativa cui e' assegnato.  
-Coordina l'attivita' del personale nella posizione di collaboratore predisponendone i piani di lavoro nello ambito delle direttive impartite dal responsabile o dai responsabili dell'unita' operativa nel rispetto della autonomia operativa del personale stesso e delle esigenze del lavoro di gruppo.  
-Svolge attivita' di didattica nonche' attivita' finalizzata alla propria formazione.  
-Ha la responsabilita' professionale dei propri compiti limitatamente alle prestazioni e alle funzioni che per la normativa vigente e' tenuto ad attuare.  
+L'avvocato coordinatore svolge le attivita' e le prestazioni inerenti alla sua competenza professionale, nonche' attivita' di studio, di didattica e di ricerca, di programmazione e di coordinamento dell'unita' operativa o dipartimentale, servizio multizonale o ufficio complesso affidatogli con autonomia operativa e responsabilita' professionale.
+ A tal fine, cura la preparazione e l'attuazione dei piani di lavoro. Nel rispetto dell'autonomia professionale operativa del personale del servizio assegnatogli, impartisce istruzioni ed esercita la verifica inerente all'attuazione di esse.
+ Nel predisporre i piani operativi deve rispettare criteri di razionale distribuzione del lavoro e di rotazione del personale del servizio nei vari settori di attivita'.
+ Redige una relazione annuale tecnico-amministrativa sulle attivita' di specifica competenza comprese quelle concernenti studi, ricerche scientifiche e proposte per l'adeguamento della unita' operativa ai fini del conseguimento delle attivita' affidategli.
+ Ha la responsabilita' diretta dell'esercizio del mandato professionale a lui affidato.
+ Svolge attivita' finalizzate alla propria formazione professionale.
+ Assicura la consulenza ad altri uffici e servizi.
 
-### Art. 26
+### Art. 31. — Avvocato
 
-Operatore professionale collaboratore
+L'avvocato svolge le attivita' e le prestazioni inerenti alla sua competenza professionale nell'ambito delle istruzioni ricevute dall'avvocato coordinatore e nel rispetto delle necessita' del lavoro di gruppo con autonomia operativa e responsabilita' professionale.
+ Ha la responsabilita' diretta dell'esercizio del mandato professionale a lui affidato.
+ Svolge attivita' di didattica nonche' attivita' finalizzata alla propria formazione professionale.
+ L'avvocato sostituisce l'avvocato coordinatore in caso di assenza, di impedimento e nei casi di urgenza.
+ Tra piu' avvocati dello stesso servizio la sostituzione del coordinatore spetta all'avvocato con maggiore anzianita' di servizio nella posizione funzionale.
 
-  
-  
-L'operatore professionale collaboratore, nel rispetto di quanto stabilito nell'articolo precedente, nell'ambito dell'unita' operativa cui e' assegnato, partecipa alla formulazione dei piani di lavoro e di intervento.  
-Secondo le direttive ricevute, svolge le attivita' di vigilanza e di ispezione di specifica competenza; partecipa all'attivita' di accertamento e di controllo analitico di laboratorio dell'unita' operativa cui e' assegnato.  
-Assicura gli interventi previsti dai piani di lavoro e riferisce al coordinatore sui risultati dell'attivita' espletata.  
-Svolge attivita' di didattica ed attivita' finalizzata alla propria formazione.  
-Ha la responsabilita' professionale dei propri compiti limitatamente alle prestazioni e alle funzioni che per la normativa vigente e' tenuto ad attuare.  
+### Art. 32. — Procuratore legale
 
-CAPO XI Capo XI PERSONALE CON FUNZIONI DI RIABILITAZIONE: OPERATORE PROFESSIONALE DI I CATEGORIA
-------------------------------------------------------------------------------------------------
+Il procuratore legale svolge le attivita' e le prestazioni inerenti alla sua competenza professionale, nello ambito delle istruzioni ricevute dagli avvocati appartenenti alle posizioni funzionali superiori e nel rispetto delle necessita' del lavoro di gruppo, con piena autonomia operativa e responsabilita' professionale.
+ Ha la responsabilita' diretta dell'esercizio del mandato professionale a lui affidato.
+ Svolge attivita' di didattica nonche' attivita' finalizzate alla propria formazione professionale.
 
-### Art. 27
+## PROFILO PROFESSIONALE: INGEGNERI
 
-Operatore professionale coordinatore
+Capo II
 
-  
-  
-L'operatore professionale coordinatore svolge le attivita' attinenti allo specifico titolo professionale.  
-Coordina l'attivita' del personale delle posizioni funzionali di collaboratore e di operatore professionale di II categoria predisponendone i piani di lavoro, nell'ambito delle direttive impartite dal responsabile o dai responsabili delle unita' operative, nel rispetto dell'autonomia operativa del personale stesso e delle esigenze del lavoro di gruppo.  
-Svolge attivita' di didattica nonche' attivita' finalizzata alla propria formazione.  
-Ha la responsabilita' professionale dei propri compiti limitatamente alle prestazioni e alle funzioni che per la normativa vigente e' tenuto ad attuare.  
+### Art. 33. — Ingegnere coordinatore
 
-### Art. 28
+L'ingegnere coordinatore svolge le attivita' e le prestazioni inerenti alla sua competenza professionale, nonche' attivita' di studio, di didattica e di ricerca, di programmazione e di coordinamento dell'unita' operativa o dipartimentale, servizio multizonale o ufficio complesso affidatogli con autonomia operativa e responsabilita' professionale.
+ A tal fine, cura la preparazione e l'attuazione dei piani di lavoro. Nel rispetto dell'autonomia professionale operativa del personale del servizio assegnatogli, impartisce istruzioni ed esercita la verifica inerente all'attuazione di esse.
+ Nel predisporre i piani operativi deve rispettare criteri di razionale distribuzione del lavoro e di rotazione del personale del servizio nei vari settori di attivita'.
+ Redige una relazione annuale tecnico-amministrativa sulle attivita' di specifica competenza comprese quelle concernenti studi, ricerche scientifiche e proposte per l'adeguamento dell'unita' operativa ai fini del conseguimento delle attivita' affidategli.
+ Ha la responsabilita' diretta dell'esercizio del mandato professionale a lui affidato.
+ Svolge attivita' finalizzate alla propria formazione professionale.
+Assicura la consulenza ad altri uffici e servizi.
 
-Operatore professionale collaboratore
+### Art. 34. — Ingegnere
 
-  
-  
-L'operatore professionale collaboratore, nel rispetto di quanto stabilito nell'articolo precedente, nell'ambito dell'unita' operativa cui e' assegnato, partecipa alla formulazione dei piani di lavoro e di intervento.  
-Secondo le direttive ricevute svolge le funzioni di specifica competenza attinenti al proprio titolo professionale assicurando gli interventi previsti dai piani di lavoro.  
-Svolge attivita' di didattica e attivita' finalizzata alla propria formazione.  
-Ha la responsabilita' professionale dei propri compiti limitatamente alle prestazioni e alle funzioni che per la normativa vigente e' tenuto ad attuare.  
+L'ingegnere svolge le attivita' e le prestazioni inerenti alla sua competenza professionale nell'ambito delle istruzioni ricevute dall'ingegnere coordinatore, nel rispetto delle necessita' del lavoro di gruppo, con piena autonomia operativa e responsabilita' professionale.
+ Ha la responsabilita' diretta dell'esercizio del mandato professionale a lui affidato.
+ Svolge attivita' di didattica nonche' attivita' finalizzata alla propria formazione.
+ L'ingegnere sostituisce l'ingegnere coordinatore in caso di assenza, di impedimento e nei casi di urgenza.
+ Tra piu' ingegneri dello stesso servizio la sostituzione del coordinatore spetta all'ingegnere con maggiore anzianita' di servizio nella posizione funzionale.
 
-### Art. 29
+## PROFILO PROFESSIONALE: ARCHITETTI
 
-Operatore professionale di II categoria
+Capo III
 
-  
-  
-L'operatore professionale di II categoria, nel rispetto di quanto stabilito nei precedenti articoli, svolge prestazioni massoterapiche attinenti al titolo professionale specifico nell'ambito dei piani di lavoro dell'unita' operativa di appartenenza.  
-Ha la responsabilita' professionale dei propri compiti limitatamente alle prestazioni e funzioni che per la normativa vigente e' tenuto ad attuare.  
+### Art. 35. — Architetto coordinatore
 
-CAPO XII TITOLO II RUOLO PROFESSIONALE Capo I PROFILO PROFESSIONALE: AVVOCATI E PROCURATORI LEGALI
---------------------------------------------------------------------------------------------------
+L'architetto coordinatore svolge le attivita' e le prestazioni inerenti alla sua competenza professionale, nonche' attivita' di studio, di didattica e di ricerca, di programmazione e di coordinamento dell'unita' operativa o dipartimentale, servizio multizonale o ufficio complesso affidatogli con autonomia operativa e responsabilita' professionale.
+ A tal fine, cura la preparazione e l'attuazione dei piani di lavoro. Nel rispetto dell'autonomia professionale operativa del personale del servizio assegnatogli, impartisce istruzioni ed esercita la verifica inerente all'attuazione di esse.
+ Nel predisporre i piani operativi deve rispettare criteri di razionale distribuzione del lavoro e di rotazione del personale del servizio nei vari settori di attivita'.
+ Redige una relazione annuale tecnico-amministrativa sulle attivita' di specifica competenza comprese quelle concernenti studi, ricerche scientifiche e proposte per l'adeguamento dell'unita' operativa ai fini del conseguimento delle attivita' affidategli.
+ Ha la responsabilita' diretta dell'esercizio del mandato professionale a lui affidato.
+ Svolge attivita' finalizzate alla propria formazione professionale.
+ Assicura la consulenza ad altri uffici e servizi.
 
-### Art. 30
+### Art. 36. — Architetto
 
-Avvocato coordinatore
+L'architetto svolge le attivita' e le prestazioni inerenti alla sua competenza professionale, nell'ambito delle istruzioni ricevute dall'architetto coordinatore nel rispetto delle necessita' del lavoro di gruppo, con piena autonomia operativa e responsabilita' professionale.
+ Ha la responsabilita' diretta dell'esercizio del mandato professionale a lui affidato.
+ Svolge attivita' di didattica nonche' attivita' finalizzate alla propria formazione.
+ L'architetto sostituisce l'architetto coordinatore in caso di assenza, di impedimento e nei casi di urgenza.
+ Tra piu' architetti dello stesso servizio la sostituzione del coordinatore spetta all'architetto con maggiore anzianita' di servizio nella posizione funzionale.
 
-  
-  
-L'avvocato coordinatore svolge le attivita' e le prestazioni inerenti alla sua competenza professionale, nonche' attivita' di studio, di didattica e di ricerca, di programmazione e di coordinamento dell'unita' operativa o dipartimentale, servizio multizonale o ufficio complesso affidatogli con autonomia operativa e responsabilita' professionale.  
-A tal fine, cura la preparazione e l'attuazione dei piani di lavoro. Nel rispetto dell'autonomia professionale operativa del personale del servizio assegnatogli, impartisce istruzioni ed esercita la verifica inerente all'attuazione di esse.  
-Nel predisporre i piani operativi deve rispettare criteri di razionale distribuzione del lavoro e di rotazione del personale del servizio nei vari settori di attivita'.  
-Redige una relazione annuale tecnico-amministrativa sulle attivita' di specifica competenza comprese quelle concernenti studi, ricerche scientifiche e proposte per l'adeguamento della unita' operativa ai fini del conseguimento delle attivita' affidategli.  
-Ha la responsabilita' diretta dell'esercizio del mandato professionale a lui affidato.  
-Svolge attivita' finalizzate alla propria formazione professionale.  
-Assicura la consulenza ad altri uffici e servizi.  
+## PROFILO PROFESSIONALE: GEOLOGI
 
-### Art. 31
+Capo IV
 
-Avvocato
+### Art. 37. — Geologo coordinatore
 
-  
-  
-L'avvocato svolge le attivita' e le prestazioni inerenti alla sua competenza professionale nell'ambito delle istruzioni ricevute dall'avvocato coordinatore e nel rispetto delle necessita' del lavoro di gruppo con autonomia operativa e responsabilita' professionale.  
-Ha la responsabilita' diretta dell'esercizio del mandato professionale a lui affidato.  
-Svolge attivita' di didattica nonche' attivita' finalizzata alla propria formazione professionale.  
-L'avvocato sostituisce l'avvocato coordinatore in caso di assenza, di impedimento e nei casi di urgenza.  
-Tra piu' avvocati dello stesso servizio la sostituzione del coordinatore spetta all'avvocato con maggiore anzianita' di servizio nella posizione funzionale.  
+Il geologo coordinatore svolge le attivita' le prestazioni inerenti alla sua competenza professionale, nonche' attivita' di studio, di didattica e di ricerca, di programmazione e di coordinamento dell'unita operativa o dipartimentale, servizio multizonale o ufficio complesso affidatogli con autonomia operativa e responsabilita' professionale.
+ A tal fine, cura la preparazione e l'attuazione dei piani di lavoro. Nel rispetto dell'autonomia professionale Operativa del personale del servizio assegnatogli, impartisce istruzioni ed esercita la verifica inerente all'attuazione di esse.
+ Nel predisporre i piani operativi deve rispettare criteri di razionale distribuzione del lavoro e di rotazione del personale del servizio nei vari settori di attivita'.
+ Redige una relazione annuale tecnico-amministrativa sulle attivita' di specifica competenza comprese quelle concernenti studi, ricerche scientifiche e proposte per l'adeguamento dell'unita' operativa ai fini del conseguimento delle attivita' affidategli.
+ Ha la responsabilita' diretta dell'esercizio del mandato professionale a lui affidato.
+ Svolge attivita' finalizzate alla propria formazione professionale.
+ Assicura la consulenza ad altri uffici e servizi.
 
-### Art. 32
+### Art. 38. — Geologo
 
-Procuratore legale
+Il geologo svolge le attivita' e le prestazioni inerenti alla sua competenza professionale nell'ambito delle istruzioni ricevute dal geologo coordinatore, nel rispetto delle necessita' del lavoro di gruppo con piena autonomia operativa e responsabilita' professionale.
+ Ha la responsabilita' diretta dell'esercizio del mandato professionale a lui affidato.
+ Svolge attivita' di didattica nonche' attivita' finalizzate alla propria formazione.
+ Il geologo sostituisce il geologo coordinatore in caso di assenza, di impedimento e nei casi di urgenza.
+ Tra piu' geologi dello stesso servizio la sostituzione del coordinatore spetta al geologo con maggiore anzianita' di servizio nella posizione funzionale.
 
-  
-  
-Il procuratore legale svolge le attivita' e le prestazioni inerenti alla sua competenza professionale, nello ambito delle istruzioni ricevute dagli avvocati appartenenti alle posizioni funzionali superiori e nel rispetto delle necessita' del lavoro di gruppo, con piena autonomia operativa e responsabilita' professionale.  
-Ha la responsabilita' diretta dell'esercizio del mandato professionale a lui affidato.  
-Svolge attivita' di didattica nonche' attivita' finalizzate alla propria formazione professionale.  
+### Art. 39. — Profilo professionale: assistenti religiosi
 
-CAPO XIII Capo II PROFILO PROFESSIONALE: INGEGNERI
---------------------------------------------------
+L'assistenza religiosa presso le strutture di ricovero e' assicurata secondo quanto previsto dall'[art. 38 della legge n. 833/78](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978;833#art_38).
 
-### Art. 33
+## RUOLO TECNICO  Capo I PROFILO PROFESSIONALE: ANALISTA
 
-Ingegnere coordinatore
+TITOLO III
 
-  
-  
-L'ingegnere coordinatore svolge le attivita' e le prestazioni inerenti alla sua competenza professionale, nonche' attivita' di studio, di didattica e di ricerca, di programmazione e di coordinamento dell'unita' operativa o dipartimentale, servizio multizonale o ufficio complesso affidatogli con autonomia operativa e responsabilita' professionale.  
-A tal fine, cura la preparazione e l'attuazione dei piani di lavoro. Nel rispetto dell'autonomia professionale operativa del personale del servizio assegnatogli, impartisce istruzioni ed esercita la verifica inerente all'attuazione di esse.  
-Nel predisporre i piani operativi deve rispettare criteri di razionale distribuzione del lavoro e di rotazione del personale del servizio nei vari settori di attivita'.  
-Redige una relazione annuale tecnico-amministrativa sulle attivita' di specifica competenza comprese quelle concernenti studi, ricerche scientifiche e proposte per l'adeguamento dell'unita' operativa ai fini del conseguimento delle attivita' affidategli.  
-Ha la responsabilita' diretta dell'esercizio del mandato professionale a lui affidato.  
-Svolge attivita' finalizzate alla propria formazione professionale.  
-Assicura la consulenza ad altri uffici e servizi.  
+### Art. 40. — Analista dirigente
 
-### Art. 34
+L'analista dirigente svolge le attivita' inerenti alla sua competenza professionale nel campo dei sistemi per l'elaborazione automatica delle informazioni, nonche' attivita' di studio, di didattica e di ricerca, di programmazione e di direzione dell'unita' operativa o dipartimentale, servizio multizonale o ufficio complesso affidatogli.
+ A tal fine, cura la preparazione e l'attuazione dei piani di lavoro. Nel rispetto dell'autonomia professionale operativa del personale dell'unita' assegnatagli impartisce istruzioni e direttive sugli adempimenti e sulle prestazioni di specifica competenza e ne verifica l'attuazione.
+ Puo' avocare alla sua diretta responsabilita' attivita' specifiche, fermo restando l'obbligo di collaborazione da parte del personale appartenente alle altre posizioni funzionali.
+ E' responsabile delle attivita' professionali direttamente espletate nonche' delle istruzioni e delle direttive impartite e dei risultati conseguiti dai servizi sottoposti alla sua verifica.
+ Nel predisporre i piani operativi deve rispettare criteri di razionale distribuzione del lavoro e di rotazione del personale dipendente nei vari settori di attivita'.
+ Le attivita' svolte dall'analista dirigente sono soggette esclusivamente a controlli intesi ad accertarne la rispondenza alle leggi ed ai regolamenti; egli redige, altresi', una relazione annuale tecnico-amministrativa sulle attivita' di specifica competenza comprese quelle concernenti studi, ricerche scientifiche ed attivita' di educazione sanitaria.
 
-Ingegnere
+### Art. 41. — Analista coadiutore
 
-  
-  
-L'ingegnere svolge le attivita' e le prestazioni inerenti alla sua competenza professionale nell'ambito delle istruzioni ricevute dall'ingegnere coordinatore, nel rispetto delle necessita' del lavoro di gruppo, con piena autonomia operativa e responsabilita' professionale.  
-Ha la responsabilita' diretta dell'esercizio del mandato professionale a lui affidato.  
-Svolge attivita' di didattica nonche' attivita' finalizzata alla propria formazione.  
-L'ingegnere sostituisce l'ingegnere coordinatore in caso di assenza, di impedimento e nei casi di urgenza.  
-Tra piu' ingegneri dello stesso servizio la sostituzione del coordinatore spetta all'ingegnere con maggiore anzianita' di servizio nella posizione funzionale.  
+L'analista coadiutore, nel rispetto di quanto stabilito nel precedente articolo, svolge funzioni operative autonome inerenti alla sua competenza professionale, nel campo dei sistemi per l'elaborazione automatica delle informazioni.
+ Svolge, inoltre, attivita' di studio, di didattica, di ricerca e di partecipazione dipartimentale nel rispetto delle necessita' del lavoro di gruppo e sulla base delle direttive ricevute.
+ E' responsabile delle attivita' professionali direttamente espletate, delle istruzioni e delle direttive impartite nonche' dei risultati conseguiti dal personale sottoposto alla sua verifica.
+ Il coadiutore sostituisce l'analista dirigente in caso di assenza, di impedimento e nei casi di urgenza.
+ Tra piu' coadiutori dello stesso servizio, la sostituzione del dirigente spetta al coadiutore con maggiore anzianita' di servizio nella posizione funzionale.
 
-CAPO XIV Capo III PROFILO PROFESSIONALE: ARCHITETTI
----------------------------------------------------
+### Art. 42. — Analista collaboratore
 
-### Art. 35
+L'analista collaboratore svolge le attivita' inerenti alla sua competenza professionale nel campo dei sistemi per l'elaborazione automatica delle informazioni, nell'ambito delle direttive ricevute dagli appartenenti alle posizioni funzionali superiori.
+ Svolge attivita' di studio, di didattica, di ricerca e quelle finalizzate alla sua formazione professionale secondo le direttive degli analisti appartenenti alle posizioni funzionali superiori.
+ Ha la responsabilita' per le attivita' professionali a lui direttamente affidate e per le istruzioni e le direttive impartite nonche' per i risultati conseguiti.
+ La sua attivita' e' soggetta a controllo e si espleta sulla base di un'autonomia operativa nei limiti di quanto stabilito negli articoli precedenti.
 
-Architetto coordinatore
+## PROFILO PROFESSIONALE: STATISTICO
 
-  
-  
-L'architetto coordinatore svolge le attivita' e le prestazioni inerenti alla sua competenza professionale, nonche' attivita' di studio, di didattica e di ricerca, di programmazione e di coordinamento dell'unita' operativa o dipartimentale, servizio multizonale o ufficio complesso affidatogli con autonomia operativa e responsabilita' professionale.  
-A tal fine, cura la preparazione e l'attuazione dei piani di lavoro. Nel rispetto dell'autonomia professionale operativa del personale del servizio assegnatogli, impartisce istruzioni ed esercita la verifica inerente all'attuazione di esse.  
-Nel predisporre i piani operativi deve rispettare criteri di razionale distribuzione del lavoro e di rotazione del personale del servizio nei vari settori di attivita'.  
-Redige una relazione annuale tecnico-amministrativa sulle attivita' di specifica competenza comprese quelle concernenti studi, ricerche scientifiche e proposte per l'adeguamento dell'unita' operativa ai fini del conseguimento delle attivita' affidategli.  
-Ha la responsabilita' diretta dell'esercizio del mandato professionale a lui affidato.  
-Svolge attivita' finalizzate alla propria formazione professionale.  
-Assicura la consulenza ad altri uffici e servizi.  
+Capo II
 
-### Art. 36
+### Art. 43. — Statistico dirigente
 
-Architetto
+Lo statistico dirigente svolge le attivita' inerenti alla sua competenza professionale nonche' attivita' di studio, di didattica e di ricerca, di programmazione e di direzione dell'unita' operativa o dipartimentale, servizio multizonale o ufficio complesso affidatogli.
+ A tal fine, cura la preparazione e l'attuazione dei piani di lavoro. Nel rispetto dell'autonomia professionale operativa del personale dell'unita' assegnatagli impartisce istruzioni e direttive sugli adempimenti e sulle prestazioni di specifica competenza e ne verifica l'attuazione.
+ Puo' avocare alla sua diretta responsabilita' attivita' specifiche, fermo restando l'obbligo di collaborazione da parte del personale appartenente alle altre posizioni funzionali.
+ E' responsabile delle attivita' professionali direttamente espletate, nonche' delle istruzioni e delle direttive impartite e dei risultati conseguiti dai servizi sottoposti alla sua verifica.
+ Nel predisporre i piani operativi deve rispettare criteri di razionale distribuzione del lavoro e di rotazione del personale dipendente nei vari settori di attivita'.
+ Le attivita' svolte dallo statistico dirigente sono soggette esclusivamente a controlli intesi ad accertarne la rispondenza alle leggi ed ai regolamenti; egli redige, altresi', una relazione annuale tecnico-amministrativa sulle attivita' di specifica competenza comprese quelle concernenti studi, ricerche scientifiche ed attivita' di educazione sanitaria.
 
-  
-  
-L'architetto svolge le attivita' e le prestazioni inerenti alla sua competenza professionale, nell'ambito delle istruzioni ricevute dall'architetto coordinatore nel rispetto delle necessita' del lavoro di gruppo, con piena autonomia operativa e responsabilita' professionale.  
-Ha la responsabilita' diretta dell'esercizio del mandato professionale a lui affidato.  
-Svolge attivita' di didattica nonche' attivita' finalizzate alla propria formazione.  
-L'architetto sostituisce l'architetto coordinatore in caso di assenza, di impedimento e nei casi di urgenza.  
-Tra piu' architetti dello stesso servizio la sostituzione del coordinatore spetta all'architetto con maggiore anzianita' di servizio nella posizione funzionale.  
+### Art. 44. — Statistico coadiutore
 
-CAPO XV Capo IV PROFILO PROFESSIONALE: GEOLOGI
-----------------------------------------------
+Lo statistico coadiutore, nel rispetto di quanto stabilito nel precedente articolo, svolge funzioni operative autonome inerenti alla sua competenza professionale.
+ Svolge inoltre attivita' di studio, di didattica, di ricerca e di partecipazione dipartimentale nel rispetto delle necessita' del lavoro di gruppo e sulla base delle direttive ricevute.
+ E' responsabile delle attivita' professionali direttamente espletate, delle istruzioni e delle direttive impartite nonche' dei risultati conseguiti dal personale sottoposto alla sua verifica.
+ Il coadiutore sostituisce lo statistico dirigente in caso di assenza, di impedimento e nei casi di urgenza.
+ Tra piu' coadiutori dello stesso servizio la sostituzione del dirigente spetta al coadiutore con maggiore anzianita' di servizio nella posizione funzionale.
 
-### Art. 37
+### Art. 45. — Statistico collaboratore
 
-Geologo coordinatore
+Lo statistico collaboratore svolge le attivita' inerenti alla sua competenza professionale, nell'ambito delle direttive ricettive dagli appartenenti alle posizioni funzionali superiori.
+ Svolge attivita' di studio, di didattica, di ricerca e quelle finalizzate alla propria formazione professionale secondo le direttive degli statistici appartenenti alle posizioni funzionali superiori.
+ Ha la responsabilita' per le attivita' professionali a lui direttamente affidate e per le istruzioni e le direttive impartite nonche' per i risultati conseguiti.
+ La sua attivita' e' soggetta a controllo e si espleta sulla base di una autonomia operativa nei limiti di quanto stabilito negli articoli precedenti.
 
-  
-  
-Il geologo coordinatore svolge le attivita' le prestazioni inerenti alla sua competenza professionale, nonche' attivita' di studio, di didattica e di ricerca, di programmazione e di coordinamento dell'unita operativa o dipartimentale, servizio multizonale o ufficio complesso affidatogli con autonomia operativa e responsabilita' professionale.  
-A tal fine, cura la preparazione e l'attuazione dei piani di lavoro. Nel rispetto dell'autonomia professionale Operativa del personale del servizio assegnatogli, impartisce istruzioni ed esercita la verifica inerente all'attuazione di esse.  
-Nel predisporre i piani operativi deve rispettare criteri di razionale distribuzione del lavoro e di rotazione del personale del servizio nei vari settori di attivita'.  
-Redige una relazione annuale tecnico-amministrativa sulle attivita' di specifica competenza comprese quelle concernenti studi, ricerche scientifiche e proposte per l'adeguamento dell'unita' operativa ai fini del conseguimento delle attivita' affidategli.  
-Ha la responsabilita' diretta dell'esercizio del mandato professionale a lui affidato.  
-Svolge attivita' finalizzate alla propria formazione professionale.  
-Assicura la consulenza ad altri uffici e servizi.  
+## PROFILO PROFESSIONALE: SOCIOLOGO
 
-### Art. 38
+Capo III
 
-Geologo
+### Art. 46. — Sociologo dirigente
 
-  
-  
-Il geologo svolge le attivita' e le prestazioni inerenti alla sua competenza professionale nell'ambito delle istruzioni ricevute dal geologo coordinatore, nel rispetto delle necessita' del lavoro di gruppo con piena autonomia operativa e responsabilita' professionale.  
-Ha la responsabilita' diretta dell'esercizio del mandato professionale a lui affidato.  
-Svolge attivita' di didattica nonche' attivita' finalizzate alla propria formazione.  
-Il geologo sostituisce il geologo coordinatore in caso di assenza, di impedimento e nei casi di urgenza.  
-Tra piu' geologi dello stesso servizio la sostituzione del coordinatore spetta al geologo con maggiore anzianita' di servizio nella posizione funzionale.  
+Il sociologo dirigente svolge attivita' inerenti alla sua specifica competenza (o qualificazione) professionale, nonche' attivita' di studio, di didattica e di ricerca, di programmazione e di direzione dell'unita' operativa o dipartimentale, servizio multizonale o ufficio complesso affidatogli.
+ A tal fine, cura la preparazione e l'attuazione dei piani di lavoro.
+ Nel rispetto dell'autonomia professionale operativa del personale dell'unita' assegnatagli impartisce istruzioni e direttive sugli adempimenti e sulle prestazioni di specifica competenza e ne verifica l'attuazione.
+ Puo' avocare alla sua diretta responsabilita' attivita' specifiche, fermo restando l'obbligo di collaborazione da parte del personale appartenente alle altre posizioni funzionali.
+ E' responsabile delle attivita' professionali direttamente espletate nonche' delle istruzioni e delle direttive impartite e dei risultati conseguiti dai servizi sottoposti alla sua verifica.
+ Nel predisporre i piani operativi deve rispettare criteri di razionale distribuzione del lavoro e di rotazione del personale dipendente nei vari settori di attivita'.
+ Le attivita' svolte dal sociologo dirigente sono soggette esclusivamente a controlli intesi ad accertarne la rispondenza alle leggi ed ai regolamenti; egli redige, altresi', una relazione annuale tecnico-amministrativa sulle attivita' di specifica competenza comprese quelle concernenti studi, ricerche scientifiche ed attivita' di educazione sanitaria.
 
-### Art. 39
+### Art. 47. — Sociologo coadiutore
 
-Profilo professionale: assistenti religiosi
+Il sociologo coadiutore, nel rispetto di quanto stabilito nel precedente articolo, svolge funzioni operative autonome inerenti alla sua competenza professionale.
+ Svolge, inoltre, attivita' di studio, di didattica, di ricerca e di partecipazione dipartimentale nel rispetto delle necessita' del lavoro di gruppo e sulla base delle direttive ricevute.
+ E' responsabile delle attivita' professionali direttamente espletate, delle istruzioni e delle direttive impartite nonche' dei risultati conseguiti dal personale sottoposto alla sua verifica.
+ Il coadiutore sostituisce il sociologo dirigente in caso di assenza, di impedimento e nei casi di urgenza.
+ Tra piu' coadiutori dello stesso servizio la sostituzione del dirigente spetta al coadiutore con maggiore anzianita' di servizio nella posizione funzionale.
 
-  
-  
-L'assistenza religiosa presso le strutture di ricovero e' assicurata secondo quanto previsto dall'[art. 38 della legge n. 833/78](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978;833~art38).  
+### Art. 48. — Sociologo collaboratore
 
-CAPO XVI TITOLO III RUOLO TECNICO Capo I PROFILO PROFESSIONALE: ANALISTA
-------------------------------------------------------------------------
+Il sociologo collaboratore svolge attivita' inerenti alla sua competenza professionale, nell'ambito delle direttive ricevute dagli appartenenti alle posizioni funzionali superiori.
+ Svolge attivita' di studio, di didattica, di ricerca e quelle finalizzate alla propria formazione professionale secondo le direttive dei sociologi appartenenti alle posizioni funzionali superiori.
+ Ha la responsabilita' per le attivita' professionali a lui direttamente affidate e per le istruzioni e le direttive impartite nonche' per i risultati conseguiti.
 
-### Art. 40
+## PROFILO PROFESSIONALE: ASSISTENTI SOCIALI
 
-Analista dirigente
+Capo IV
 
-  
-  
-L'analista dirigente svolge le attivita' inerenti alla sua competenza professionale nel campo dei sistemi per l'elaborazione automatica delle informazioni, nonche' attivita' di studio, di didattica e di ricerca, di programmazione e di direzione dell'unita' operativa o dipartimentale, servizio multizonale o ufficio complesso affidatogli.  
-A tal fine, cura la preparazione e l'attuazione dei piani di lavoro. Nel rispetto dell'autonomia professionale operativa del personale dell'unita' assegnatagli impartisce istruzioni e direttive sugli adempimenti e sulle prestazioni di specifica competenza e ne verifica l'attuazione.  
-Puo' avocare alla sua diretta responsabilita' attivita' specifiche, fermo restando l'obbligo di collaborazione da parte del personale appartenente alle altre posizioni funzionali.  
-E' responsabile delle attivita' professionali direttamente espletate nonche' delle istruzioni e delle direttive impartite e dei risultati conseguiti dai servizi sottoposti alla sua verifica.  
-Nel predisporre i piani operativi deve rispettare criteri di razionale distribuzione del lavoro e di rotazione del personale dipendente nei vari settori di attivita'.  
-Le attivita' svolte dall'analista dirigente sono soggette esclusivamente a controlli intesi ad accertarne la rispondenza alle leggi ed ai regolamenti; egli redige, altresi', una relazione annuale tecnico-amministrativa sulle attivita' di specifica competenza comprese quelle concernenti studi, ricerche scientifiche ed attivita' di educazione sanitaria.  
+### Art. 49. — Assistente sociale coordinatore
 
-### Art. 41
+L'assistente sociale coordinatore svolge attivita' e prestazioni inerenti alla sua competenza professionale. Coordina l'attivita' del personale nella posizione funzionale di collaboratore.
+ A tal fine, predispone, sulla base delle indicazioni emergenti dagli atti di programmazione dei servizi, i piani di lavoro e di intervento nel rispetto dell'autonomia operativa e delle necessita' del lavoro di gruppo.
+ Assicura i collegamenti funzionali con altri uffici e servizi anche appartenenti ad amministrazioni diverse.
+ Svolge attivita' di didattica nonche' attivita' finalizzate alla propria formazione.
+ Ha la responsabilita' diretta dei propri compiti, limitatamente alle prestazioni e alle funzioni che per la normativa vigente e' tenuto ad attuare e per le direttive impartite al personale collaboratore.
 
-Analista coadiutore
+### Art. 50. — Assistente sociale collaboratore
 
-  
-  
-L'analista coadiutore, nel rispetto di quanto stabilito nel precedente articolo, svolge funzioni operative autonome inerenti alla sua competenza professionale, nel campo dei sistemi per l'elaborazione automatica delle informazioni.  
-Svolge, inoltre, attivita' di studio, di didattica, di ricerca e di partecipazione dipartimentale nel rispetto delle necessita' del lavoro di gruppo e sulla base delle direttive ricevute.  
-E' responsabile delle attivita' professionali direttamente espletate, delle istruzioni e delle direttive impartite nonche' dei risultati conseguiti dal personale sottoposto alla sua verifica.  
-Il coadiutore sostituisce l'analista dirigente in caso di assenza, di impedimento e nei casi di urgenza.  
-Tra piu' coadiutori dello stesso servizio, la sostituzione del dirigente spetta al coadiutore con maggiore anzianita' di servizio nella posizione funzionale.  
+L'assistente sociale collaboratore, nell'unita' operativa cui e' assegnato, partecipa all'elaborazione dei piani di lavoro e di intervento. Svolge le attivita' e gli interventi di servizio sociale previsti dai piani stessi, con autonomia operativa vincolata alle direttive ricevute.
+ Svolge attivita' di didattica e attivita' finalizzata alla propria formazione.
+ Ha la responsabilita' diretta dei propri compiti limitatamente alle prestazioni ed alle funzioni che per la normativa vigente e' tenuto ad attuare.
 
-### Art. 42
+## PROFILO PROFESSIONALE: ASSISTENTI TECNICI
 
-Analista collaboratore
+Capo V
 
-  
-  
-L'analista collaboratore svolge le attivita' inerenti alla sua competenza professionale nel campo dei sistemi per l'elaborazione automatica delle informazioni, nell'ambito delle direttive ricevute dagli appartenenti alle posizioni funzionali superiori.  
-Svolge attivita' di studio, di didattica, di ricerca e quelle finalizzate alla sua formazione professionale secondo le direttive degli analisti appartenenti alle posizioni funzionali superiori.  
-Ha la responsabilita' per le attivita' professionali a lui direttamente affidate e per le istruzioni e le direttive impartite nonche' per i risultati conseguiti.  
-La sua attivita' e' soggetta a controllo e si espleta sulla base di un'autonomia operativa nei limiti di quanto stabilito negli articoli precedenti.  
+### Art. 51. — Assistente tecnico
 
-CAPO XVII Capo II PROFILO PROFESSIONALE: STATISTICO
----------------------------------------------------
+L'assistente tecnico svolge attivita' tecniche e professionali proprie dello specifico titolo professionale che comportano, oltre ad una applicazione concettuale, una valutazione di merito dei casi concreti; svolge compiti di programmazione relativamente alle procedure assegnategli.
+ Sovraintende, nell'ambito delle direttive ricevute, all'attivita' affidatagli coordinando e curando la realizzazione tecnica delle diverse fasi operative nel rispetto delle necessita' del lavoro di gruppo.
+ Partecipa ad attivita' finalizzate alla propria formazione.
+ Ha la responsabilita' diretta dei propri compiti e dell'esercizio della attivita' connessa al mandato professionale affidatogli.
 
-### Art. 43
+## PROFILO PROFESSIONALE: OPERATORI TECNICI
 
-Statistico dirigente
+CAPO VI
 
-  
-  
-Lo statistico dirigente svolge le attivita' inerenti alla sua competenza professionale nonche' attivita' di studio, di didattica e di ricerca, di programmazione e di direzione dell'unita' operativa o dipartimentale, servizio multizonale o ufficio complesso affidatogli.  
-A tal fine, cura la preparazione e l'attuazione dei piani di lavoro. Nel rispetto dell'autonomia professionale operativa del personale dell'unita' assegnatagli impartisce istruzioni e direttive sugli adempimenti e sulle prestazioni di specifica competenza e ne verifica l'attuazione.  
-Puo' avocare alla sua diretta responsabilita' attivita' specifiche, fermo restando l'obbligo di collaborazione da parte del personale appartenente alle altre posizioni funzionali.  
-E' responsabile delle attivita' professionali direttamente espletate, nonche' delle istruzioni e delle direttive impartite e dei risultati conseguiti dai servizi sottoposti alla sua verifica.  
-Nel predisporre i piani operativi deve rispettare criteri di razionale distribuzione del lavoro e di rotazione del personale dipendente nei vari settori di attivita'.  
-Le attivita' svolte dallo statistico dirigente sono soggette esclusivamente a controlli intesi ad accertarne la rispondenza alle leggi ed ai regolamenti; egli redige, altresi', una relazione annuale tecnico-amministrativa sulle attivita' di specifica competenza comprese quelle concernenti studi, ricerche scientifiche ed attivita' di educazione sanitaria.  
+### Art. 52. — Operatore tecnico
 
-### Art. 44
+L'operatore tecnico svolge attivita' tecniche corrispondenti alla qualificazione professionale posseduta, nell'ambito delle direttive ricevute. Provvede all'esecuzione dei compiti affidatigli anche con l'impiego di macchine la cui utilizzazione non comporta valutazione diretta di merito.
+ Svolge, inoltre, attivita' finalizzata alla propria formazione professionale.
 
-Statistico coadiutore
+## PROFILO PROFESSIONALE: AGENTI TECNICI
 
-  
-  
-Lo statistico coadiutore, nel rispetto di quanto stabilito nel precedente articolo, svolge funzioni operative autonome inerenti alla sua competenza professionale.  
-Svolge inoltre attivita' di studio, di didattica, di ricerca e di partecipazione dipartimentale nel rispetto delle necessita' del lavoro di gruppo e sulla base delle direttive ricevute.  
-E' responsabile delle attivita' professionali direttamente espletate, delle istruzioni e delle direttive impartite nonche' dei risultati conseguiti dal personale sottoposto alla sua verifica.  
-Il coadiutore sostituisce lo statistico dirigente in caso di assenza, di impedimento e nei casi di urgenza.  
-Tra piu' coadiutori dello stesso servizio la sostituzione del dirigente spetta al coadiutore con maggiore anzianita' di servizio nella posizione funzionale.  
+Capo VII
 
-### Art. 45
+### Art. 53. — Agente tecnico
 
-Statistico collaboratore
+Il personale con qualifica di "agente tecnico" svolge attivita' che richiede una normale capacita' nella qualificazione professionale posseduta anche con l'uso di macchine che comportino manovra elementare; e' addetto alla conduzione di veicoli e/o alla piccola manutenzione degli stessi.
 
-  
-  
-Lo statistico collaboratore svolge le attivita' inerenti alla sua competenza professionale, nell'ambito delle direttive ricettive dagli appartenenti alle posizioni funzionali superiori.  
-Svolge attivita' di studio, di didattica, di ricerca e quelle finalizzate alla propria formazione professionale secondo le direttive degli statistici appartenenti alle posizioni funzionali superiori.  
-Ha la responsabilita' per le attivita' professionali a lui direttamente affidate e per le istruzioni e le direttive impartite nonche' per i risultati conseguiti.  
-La sua attivita' e' soggetta a controllo e si espleta sulla base di una autonomia operativa nei limiti di quanto stabilito negli articoli precedenti.  
+## RUOLO AMMINISTRATIVO  Capo I PROFILO PROFESSIONALE: DIRETTORI AMMINISTRATIVI
 
-CAPO XVIII Capo III PROFILO PROFESSIONALE: SOCIOLOGO
-----------------------------------------------------
+Titolo IV
 
-### Art. 46
+### Art. 54. — Direttore amministrativo capo servizio
 
-Sociologo dirigente
+Il direttore amministrativo capo servizio svolge funzioni di natura giuridico-amministrativa, economico-finanziaria e organizzativa, nonche' di studio, di didattica e di ricerca, di programmazione e di direzione della struttura amministrativa, o dell'ufficio complesso affidatogli.
+ A tal fine, cura la preparazione e l'attuazione dei, piani di lavoro.
+ Nel rispetto dell'autonomia professionale operativa del personale dell'unita' assegnatagli, impartisce istruzioni e direttive sugli adempimenti e sulle prestazioni di carattere giuridico, amministrativo, economico-finanziario ed organizzativo, verificandone l'attuazione.
+ Puo' avocare alla sua diretta responsabilita' attivita' specifiche, fermo restando l'obbligo di collaborazione da parte del personale appartenente alle altre posizioni funzionali.
+ E' responsabile delle attivita' professionali direttamente espletate nonche' delle istruzioni e delle direttive impartite e dei risultati conseguiti dai servizi sottoposti alla sua verifica.
+ Nel predisporre i piani operativi deve rispettare criteri di razionale distribuzione del lavoro e di rotazione del personale dipendente nei vari settori di attivita'.
+ Redige, altresi', una relazione annuale sulle attivita' a cui e' preposto, comprese quelle concernenti studi, ricerche scientifiche, nonche' di aggiornamento del personale dipendente.
 
-  
-  
-Il sociologo dirigente svolge attivita' inerenti alla sua specifica competenza (o qualificazione) professionale, nonche' attivita' di studio, di didattica e di ricerca, di programmazione e di direzione dell'unita' operativa o dipartimentale, servizio multizonale o ufficio complesso affidatogli.  
-A tal fine, cura la preparazione e l'attuazione dei piani di lavoro.  
-Nel rispetto dell'autonomia professionale operativa del personale dell'unita' assegnatagli impartisce istruzioni e direttive sugli adempimenti e sulle prestazioni di specifica competenza e ne verifica l'attuazione.  
-Puo' avocare alla sua diretta responsabilita' attivita' specifiche, fermo restando l'obbligo di collaborazione da parte del personale appartenente alle altre posizioni funzionali.  
-E' responsabile delle attivita' professionali direttamente espletate nonche' delle istruzioni e delle direttive impartite e dei risultati conseguiti dai servizi sottoposti alla sua verifica.  
-Nel predisporre i piani operativi deve rispettare criteri di razionale distribuzione del lavoro e di rotazione del personale dipendente nei vari settori di attivita'.  
-Le attivita' svolte dal sociologo dirigente sono soggette esclusivamente a controlli intesi ad accertarne la rispondenza alle leggi ed ai regolamenti; egli redige, altresi', una relazione annuale tecnico-amministrativa sulle attivita' di specifica competenza comprese quelle concernenti studi, ricerche scientifiche ed attivita' di educazione sanitaria.  
+### Art. 55. — Direttore amministrativo
 
-### Art. 47
+Il direttore amministrativo svolge funzioni operative autonome nel rispetto di quanto stabilito nel precedente articolo, nell'area dei servizi a lui affidati, relativamente ad attivita' e prestazioni inerenti alla sua competenza professionale; svolge attivita' di studio, di didattica, di ricerca e di partecipazione dipartimentale nel rispetto delle necessita' del lavoro di gruppo e sulla base delle direttive ricevute.
+ E' responsabile delle attivita' professionali direttamente espletate, delle istruzioni e delle direttive impartite nonche' dei risultati conseguiti dal personale sottoposto alla sua verifica.
+ Il direttore amministrativo sostituisce il direttore amministrativo capo servizio in caso di assenza, di impedimento e nei casi di urgenza.
+ Tra piu' direttori amministrativi di servizi appartenenti alla stessa struttura la sostituzione del direttore amministrativo capo servizio spetta al direttore amministrativo con maggiore anzianita' di servizio nella posizione funzionale.
 
-Sociologo coadiutore
+### Art. 56. — Vice direttore amministrativo
 
-  
-  
-Il sociologo coadiutore, nel rispetto di quanto stabilito nel precedente articolo, svolge funzioni operative autonome inerenti alla sua competenza professionale.  
-Svolge, inoltre, attivita' di studio, di didattica, di ricerca e di partecipazione dipartimentale nel rispetto delle necessita' del lavoro di gruppo e sulla base delle direttive ricevute.  
-E' responsabile delle attivita' professionali direttamente espletate, delle istruzioni e delle direttive impartite nonche' dei risultati conseguiti dal personale sottoposto alla sua verifica.  
-Il coadiutore sostituisce il sociologo dirigente in caso di assenza, di impedimento e nei casi di urgenza.  
-Tra piu' coadiutori dello stesso servizio la sostituzione del dirigente spetta al coadiutore con maggiore anzianita' di servizio nella posizione funzionale.  
+Il vice direttore amministrativo svolge funzioni amministrative, economico-finanziarie e organizzative nonche' attivita' di studio, di didattica e di ricerca e quelle finalizzate alla sua formazione, all'interno dell'area del servizio alla quale e' assegnato, secondo le direttive dei dirigenti appartenenti alle posizioni funzionali superiori.
+ E' responsabile delle attivita' professionali a lui direttamente affidate e per le istruzioni e direttive da lui impartite nonche' per i risultati conseguiti.
+ La sua attivita' e' soggetta a controllo e si espleta sulla base di una autonomia operativa nei limiti di quanto stabilito negli articoli precedenti.
+ Il vice direttore amministrativo sostituisce il direttore amministrativo in caso di assenza, di impedimento e nei casi di urgenza.
+ Fra piu' vice direttori amministrativi nella stessa unita' operativa la sostituzione del direttore amministrativo spetta al vice direttore amministrativo con maggiore anzianita' di servizio nella posizione funzionale.
 
-### Art. 48
+## PROFILO PROFESSIONALE: COLLABORATORI AMMINISTRATIVI
 
-Sociologo collaboratore
+Capo II
 
-  
-  
-Il sociologo collaboratore svolge attivita' inerenti alla sua competenza professionale, nell'ambito delle direttive ricevute dagli appartenenti alle posizioni funzionali superiori.  
-Svolge attivita' di studio, di didattica, di ricerca e quelle finalizzate alla propria formazione professionale secondo le direttive dei sociologi appartenenti alle posizioni funzionali superiori.  
-Ha la responsabilita' per le attivita' professionali a lui direttamente affidate e per le istruzioni e le direttive impartite nonche' per i risultati conseguiti.  
+### Art. 57. — Collaboratore coordinatore
 
-CAPO XIX Capo IV PROFILO PROFESSIONALE: ASSISTENTI SOCIALI
-----------------------------------------------------------
+Il collaboratore coordinatore, oltre all'espletamento dei compiti direttamente affidati, assicura, sulla base delle direttive impartite dai livelli funzionali superiori, il coordinamento e il controllo per le attivita' alle quali e' preposto e delle quali risponde direttamente.
+ Nell'ambito dell'unita' operativa coordina l'attivita' degli addetti appartenenti ai livelli funzionali di collaboratore amministrativo e assistente amministrativo fornendo istruzioni e favorendo il metodo del lavoro di gruppo.
+ Formula proposte operative per l'organizzazione del lavoro e per lo snellimento delle procedure.
+ Svolge attivita' finalizzata alla propria formazione e partecipa ad attivita' di studio e programmazione.
 
-### Art. 49
+### Art. 58. — Collaboratore amministrativo
 
-Assistente sociale coordinatore
+Il collaboratore amministrativo svolge, nell'ambito delle direttive impartite dai livelli funzionali superiori, le attivita' che comportano una autonoma elaborazione di atti preliminari e istruttori dei provvedimenti di competenza dell'unita' operativa in cui e' inserito, avvalendosi dell'opera di personale appartenente ai livelli funzionali inferiori con responsabilita' diretta per le attivita' alle quali e' preposto.
+ Collabora con il personale appartenente ai livelli funzionali superiori nelle attivita' di studio e programmazione e partecipa ad attivita' finalizzate alla propria formazione.
 
-  
-  
-L'assistente sociale coordinatore svolge attivita' e prestazioni inerenti alla sua competenza professionale. Coordina l'attivita' del personale nella posizione funzionale di collaboratore.  
-A tal fine, predispone, sulla base delle indicazioni emergenti dagli atti di programmazione dei servizi, i piani di lavoro e di intervento nel rispetto dell'autonomia operativa e delle necessita' del lavoro di gruppo.  
-Assicura i collegamenti funzionali con altri uffici e servizi anche appartenenti ad amministrazioni diverse.  
-Svolge attivita' di didattica nonche' attivita' finalizzate alla propria formazione.  
-Ha la responsabilita' diretta dei propri compiti, limitatamente alle prestazioni e alle funzioni che per la normativa vigente e' tenuto ad attuare e per le direttive impartite al personale collaboratore.  
+## PROFILO PROFESSIONALE: ASSISTENTI AMMINISTRATIVI
 
-### Art. 50
+Capo III
 
-Assistente sociale collaboratore
+### Art. 59. — Assistente amministrativo
 
-  
-  
-L'assistente sociale collaboratore, nell'unita' operativa cui e' assegnato, partecipa all'elaborazione dei piani di lavoro e di intervento. Svolge le attivita' e gli interventi di servizio sociale previsti dai piani stessi, con autonomia operativa vincolata alle direttive ricevute.  
-Svolge attivita' di didattica e attivita' finalizzata alla propria formazione.  
-Ha la responsabilita' diretta dei propri compiti limitatamente alle prestazioni ed alle funzioni che per la normativa vigente e' tenuto ad attuare.  
+L'assistente amministrativo svolge mansioni tecniche, amministrative e contabili che presuppongono una applicazione concettuale e una valutazione di merito dei casi concreti, esplicando i propri compiti anche mediante l'ausilio di apparecchi terminali meccanografici od elettronici (che non richiedono elaborazione autonoma) o di altre macchine. 
+ Esplica, ove richiesto, attivita' di informazione ai cittadini e ricevimento dei documenti; disimpegna mansioni di segreteria e di collaborazione, di programmazione, di studio e partecipa ad attivita' finalizzate alla propria formazione. 
+ Ha responsabilita' diretta per le attivita' alle quali e' preposto.
 
-CAPO XX Capo V PROFILO PROFESSIONALE: ASSISTENTI TECNICI
---------------------------------------------------------
+## PROFILO PROFESSIONALE: COADIUTORI AMMINISTRATIVI
 
-### Art. 51
+Capo IV
 
-Assistente tecnico
+### Art. 60. — Coadiutore amministrativo
 
-  
-  
-L'assistente tecnico svolge attivita' tecniche e professionali proprie dello specifico titolo professionale che comportano, oltre ad una applicazione concettuale, una valutazione di merito dei casi concreti; svolge compiti di programmazione relativamente alle procedure assegnategli.  
-Sovraintende, nell'ambito delle direttive ricevute, all'attivita' affidatagli coordinando e curando la realizzazione tecnica delle diverse fasi operative nel rispetto delle necessita' del lavoro di gruppo.  
-Partecipa ad attivita' finalizzate alla propria formazione.  
-Ha la responsabilita' diretta dei propri compiti e dell'esercizio della attivita' connessa al mandato professionale affidatogli.  
+Il coadiutore amministrativo disimpegna mansioni esecutive che per la loro natura non comportano particolari valutazioni di merito; provvede alla classificazione, alla archiviazione ed al protocollo di atti, anche impiegando metodi di lavoro prestabiliti; disimpegna mansioni di stenografia e di dattilografia; compila documenti, secondo le istruzioni dei superiori o applicando schemi predeterminati; disimpegna compiti di collaborazione semplice di natura contabile, anche con l'ausilio delle relative macchine; esegue, ove richiesto, compiti inerenti la ricezione, la prima verifica e la distribuzione dei documenti presentati e fornisce i relativi chiarimenti.
+ Partecipa ad attivita' finalizzate alla propria formazione.
 
-CAPO XXI CAPO VI PROFILO PROFESSIONALE: OPERATORI TECNICI
----------------------------------------------------------
+## PROFILO PROFESSIONALE: COMMESSO
 
-### Art. 52
+Capo IV
 
-Operatore tecnico
+### Art. 61. — Commesso
 
-  
-  
-L'operatore tecnico svolge attivita' tecniche corrispondenti alla qualificazione professionale posseduta, nell'ambito delle direttive ricevute. Provvede all'esecuzione dei compiti affidatigli anche con l'impiego di macchine la cui utilizzazione non comporta valutazione diretta di merito.  
-Svolge, inoltre, attivita' finalizzata alla propria formazione professionale.  
-
-CAPO XXII Capo VII PROFILO PROFESSIONALE: AGENTI TECNICI
---------------------------------------------------------
-
-### Art. 53
-
-Agente tecnico
-
-  
-  
-Il personale con qualifica di "agente tecnico" svolge attivita' che richiede una normale capacita' nella qualificazione professionale posseduta anche con l'uso di macchine che comportino manovra elementare; e' addetto alla conduzione di veicoli e/o alla piccola manutenzione degli stessi.  
-
-CAPO XXIII Titolo IV RUOLO AMMINISTRATIVO Capo I PROFILO PROFESSIONALE: DIRETTORI AMMINISTRATIVI
-------------------------------------------------------------------------------------------------
-
-### Art. 54
-
-Direttore amministrativo capo servizio
-
-  
-  
-Il direttore amministrativo capo servizio svolge funzioni di natura giuridico-amministrativa, economico-finanziaria e organizzativa, nonche' di studio, di didattica e di ricerca, di programmazione e di direzione della struttura amministrativa, o dell'ufficio complesso affidatogli.  
-A tal fine, cura la preparazione e l'attuazione dei, piani di lavoro.  
-Nel rispetto dell'autonomia professionale operativa del personale dell'unita' assegnatagli, impartisce istruzioni e direttive sugli adempimenti e sulle prestazioni di carattere giuridico, amministrativo, economico-finanziario ed organizzativo, verificandone l'attuazione.  
-Puo' avocare alla sua diretta responsabilita' attivita' specifiche, fermo restando l'obbligo di collaborazione da parte del personale appartenente alle altre posizioni funzionali.  
-E' responsabile delle attivita' professionali direttamente espletate nonche' delle istruzioni e delle direttive impartite e dei risultati conseguiti dai servizi sottoposti alla sua verifica.  
-Nel predisporre i piani operativi deve rispettare criteri di razionale distribuzione del lavoro e di rotazione del personale dipendente nei vari settori di attivita'.  
-Redige, altresi', una relazione annuale sulle attivita' a cui e' preposto, comprese quelle concernenti studi, ricerche scientifiche, nonche' di aggiornamento del personale dipendente.  
-
-### Art. 55
-
-Direttore amministrativo
-
-  
-  
-Il direttore amministrativo svolge funzioni operative autonome nel rispetto di quanto stabilito nel precedente articolo, nell'area dei servizi a lui affidati, relativamente ad attivita' e prestazioni inerenti alla sua competenza professionale; svolge attivita' di studio, di didattica, di ricerca e di partecipazione dipartimentale nel rispetto delle necessita' del lavoro di gruppo e sulla base delle direttive ricevute.  
-E' responsabile delle attivita' professionali direttamente espletate, delle istruzioni e delle direttive impartite nonche' dei risultati conseguiti dal personale sottoposto alla sua verifica.  
-Il direttore amministrativo sostituisce il direttore amministrativo capo servizio in caso di assenza, di impedimento e nei casi di urgenza.  
-Tra piu' direttori amministrativi di servizi appartenenti alla stessa struttura la sostituzione del direttore amministrativo capo servizio spetta al direttore amministrativo con maggiore anzianita' di servizio nella posizione funzionale.  
-
-### Art. 56
-
-Vice direttore amministrativo
-
-  
-  
-Il vice direttore amministrativo svolge funzioni amministrative, economico-finanziarie e organizzative nonche' attivita' di studio, di didattica e di ricerca e quelle finalizzate alla sua formazione, all'interno dell'area del servizio alla quale e' assegnato, secondo le direttive dei dirigenti appartenenti alle posizioni funzionali superiori.  
-E' responsabile delle attivita' professionali a lui direttamente affidate e per le istruzioni e direttive da lui impartite nonche' per i risultati conseguiti.  
-La sua attivita' e' soggetta a controllo e si espleta sulla base di una autonomia operativa nei limiti di quanto stabilito negli articoli precedenti.  
-Il vice direttore amministrativo sostituisce il direttore amministrativo in caso di assenza, di impedimento e nei casi di urgenza.  
-Fra piu' vice direttori amministrativi nella stessa unita' operativa la sostituzione del direttore amministrativo spetta al vice direttore amministrativo con maggiore anzianita' di servizio nella posizione funzionale.  
-
-CAPO XXIV Capo II PROFILO PROFESSIONALE: COLLABORATORI AMMINISTRATIVI
----------------------------------------------------------------------
-
-### Art. 57
-
-Collaboratore coordinatore
-
-  
-  
-Il collaboratore coordinatore, oltre all'espletamento dei compiti direttamente affidati, assicura, sulla base delle direttive impartite dai livelli funzionali superiori, il coordinamento e il controllo per le attivita' alle quali e' preposto e delle quali risponde direttamente.  
-Nell'ambito dell'unita' operativa coordina l'attivita' degli addetti appartenenti ai livelli funzionali di collaboratore amministrativo e assistente amministrativo fornendo istruzioni e favorendo il metodo del lavoro di gruppo.  
-Formula proposte operative per l'organizzazione del lavoro e per lo snellimento delle procedure.  
-Svolge attivita' finalizzata alla propria formazione e partecipa ad attivita' di studio e programmazione.  
-
-### Art. 58
-
-Collaboratore amministrativo
-
-  
-  
-Il collaboratore amministrativo svolge, nell'ambito delle direttive impartite dai livelli funzionali superiori, le attivita' che comportano una autonoma elaborazione di atti preliminari e istruttori dei provvedimenti di competenza dell'unita' operativa in cui e' inserito, avvalendosi dell'opera di personale appartenente ai livelli funzionali inferiori con responsabilita' diretta per le attivita' alle quali e' preposto.  
-Collabora con il personale appartenente ai livelli funzionali superiori nelle attivita' di studio e programmazione e partecipa ad attivita' finalizzate alla propria formazione.  
-
-CAPO XXV Capo III PROFILO PROFESSIONALE: ASSISTENTI AMMINISTRATIVI
-------------------------------------------------------------------
-
-### Art. 59
-
-Assistente amministrativo
-
-  
-  
-L'assistente amministrativo svolge mansioni tecniche, amministrative e contabili che presuppongono una applicazione concettuale e una valutazione di merito dei casi concreti, esplicando i propri compiti anche mediante l'ausilio di apparecchi terminali meccanografici od elettronici (che non richiedono elaborazione autonoma) o di altre macchine.   
-Esplica, ove richiesto, attivita' di informazione ai cittadini e ricevimento dei documenti; disimpegna mansioni di segreteria e di collaborazione, di programmazione, di studio e partecipa ad attivita' finalizzate alla propria formazione.   
-Ha responsabilita' diretta per le attivita' alle quali e' preposto.   
-
-CAPO XXVI Capo IV PROFILO PROFESSIONALE: COADIUTORI AMMINISTRATIVI
-------------------------------------------------------------------
-
-### Art. 60
-
-Coadiutore amministrativo
-
-  
-  
-Il coadiutore amministrativo disimpegna mansioni esecutive che per la loro natura non comportano particolari valutazioni di merito; provvede alla classificazione, alla archiviazione ed al protocollo di atti, anche impiegando metodi di lavoro prestabiliti; disimpegna mansioni di stenografia e di dattilografia; compila documenti, secondo le istruzioni dei superiori o applicando schemi predeterminati; disimpegna compiti di collaborazione semplice di natura contabile, anche con l'ausilio delle relative macchine; esegue, ove richiesto, compiti inerenti la ricezione, la prima verifica e la distribuzione dei documenti presentati e fornisce i relativi chiarimenti.  
-Partecipa ad attivita' finalizzate alla propria formazione.  
-
-CAPO XXVII Capo IV PROFILO PROFESSIONALE: COMMESSO
---------------------------------------------------
-
-### Art. 61
-
-Commesso
-
-  
-  
-Il personale con qualifica di "commesso" disimpegna mansioni che non richiedono una particolare preparazione tecnico-pratica; esegue commissioni e provvede alla distribuzione, allo smistamento e al trasporto di fascicoli, documenti, materiale o oggetti vari di ufficio; provvede al prelievo ed all'inoltro della corrispondenza; e' preposto alla apertura e alla chiusura degli uffici secondo gli orari stabiliti; regola il servizio, anche telefonico e di anticamera, nonche' l'accesso al pubblico negli uffici; cura l'ordine e la conservazione dei locali e delle suppellettili di ufficio, disimpegna mansioni di manovra elementare di macchine ed apparecchiature.  
-  
+Il personale con qualifica di "commesso" disimpegna mansioni che non richiedono una particolare preparazione tecnico-pratica; esegue commissioni e provvede alla distribuzione, allo smistamento e al trasporto di fascicoli, documenti, materiale o oggetti vari di ufficio; provvede al prelievo ed all'inoltro della corrispondenza; e' preposto alla apertura e alla chiusura degli uffici secondo gli orari stabiliti; regola il servizio, anche telefonico e di anticamera, nonche' l'accesso al pubblico negli uffici; cura l'ordine e la conservazione dei locali e delle suppellettili di ufficio, disimpegna mansioni di manovra elementare di macchine ed apparecchiature.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Selva di Val Gardena, addi' 7 settembre 1984
+Dato a Selva di Val Gardena, addi' 7 settembre 1984
 
-PERTINI CRAXI - DEGAN
-
-Visto, il Guardasigilli: MARTINAZZOLI
-
-Registrato alla Corte dei conti, addi' 30 novembre 1984
-
-Atti di Governo, registro n. 52, foglio n. 15
+PERTINI CRAXI - DEGAN Visto, il Guardasigilli: MARTINAZZOLI Registrato alla Corte dei conti, addi' 30 novembre 1984 Atti di Governo, registro n. 52, foglio n. 15

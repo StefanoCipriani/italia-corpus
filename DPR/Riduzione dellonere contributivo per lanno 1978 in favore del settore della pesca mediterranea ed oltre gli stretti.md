@@ -1,14 +1,14 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 09 gennaio 1980 n. 283
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 283
+data: 1980-01-09
+titolo: "Riduzione dell'onere contributivo per l'anno 1978 in favore del settore della pesca mediterranea ed oltre, gli stretti."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1980-01-09;283
+codice_redazionale: 080U0283
+vigente: true
+---
 
+## Art. 1.
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 09 gennaio 1980 n. 283
-==============================================================
-
-Riduzione dell'onere contributivo per l'anno 1978 in favore del settore della pesca mediterranea ed oltre, gli stretti.
------------------------------------------------------------------------------------------------------------------------
-
-Art. 1
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.L. 9 FEBBRAIO 2012, N. 5](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2012-02-09;5),   
-CONVERTITO CON MODIFICAZIONI DALLA [L. 4 APRILE 2012, N. 35](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2012-04-04;35)))
+((PROVVEDIMENTO ABROGATO DAL D.L. 9 FEBBRAIO 2012, N. 5, 
+ CONVERTITO CON MODIFICAZIONI DALLA L. 4 APRILE 2012, N. 35))

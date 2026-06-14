@@ -1,19 +1,21 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 19 gennaio 1960 n. 51
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 51
+data: 1960-01-19
+titolo: "Riconoscimento della personalita' giuridica della Fondazione \"Giuseppe Alberto Pretto e Maria Pretto Cassanello\", con sede in Genova."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1960-01-19;51
+codice_redazionale: 060U0051
+vigente: true
+---
 
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 19 gennaio 1960 n. 51
-=============================================================
-
-Riconoscimento della personalita' giuridica della Fondazione "Giuseppe Alberto Pretto e Maria Pretto Cassanello", con sede in Genova.
--------------------------------------------------------------------------------------------------------------------------------------
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-51. Decreto del Presidente della Repubblica 19 gennaio 1960, col quale, sulla proposta del Ministro per la pubblica istruzione, viene riconosciuta la personalita' giuridica della Fondazione "Giuseppe Alberto Pretto e Maria Pretto Cassanello", con sede in Genova, e ne viene approvato lo statuto organico.  
-  
-Visto, il Guardasigilli: GONELLA  
-Registrato alla Corte dei conti addi' 23 febbraio 1960  
-Atti del Governo, registro n. 124, foglio n. 74. - VILLA
+51.
+
+Decreto del Presidente della Repubblica 19 gennaio 1960, col quale, sulla proposta del Ministro per la pubblica istruzione, viene riconosciuta la personalita' giuridica della Fondazione "Giuseppe Alberto Pretto e Maria Pretto Cassanello", con sede in Genova, e ne viene approvato lo statuto organico.
+
+Visto, il Guardasigilli: GONELLA
+ Registrato alla Corte dei conti addi' 23 febbraio 1960
+ Atti del Governo, registro n. 124, foglio n. 74. - VILLA

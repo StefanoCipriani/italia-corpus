@@ -1,18 +1,20 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 11 gennaio 1951 n. 111
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 111
+data: 1951-01-11
+titolo: "Riconoscimento, agli effetti civili, della erezione della parrocchia di San Francesco d'Assisi, in Grosseto."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1951-01-11;111
+codice_redazionale: 051U0111
+vigente: true
+---
 
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 11 gennaio 1951 n. 111
-==============================================================
-
-Riconoscimento, agli effetti civili, della erezione della parrocchia di San Francesco d'Assisi, in Grosseto.
-------------------------------------------------------------------------------------------------------------
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-111. Decreto del Presidente della Repubblica 11 gennaio 1951, col quale, sulla proposta del Ministro per l'interno, viene riconosciuto, agli effettivi civili, il decreto del Vescovo di Grosseto in data 11 febbraio 1949, integrato con postille 20 luglio 1949 e 20 marzo 1950, relativo all'erezione della parrocchia di San Francesco d'Assisi, in Grosseto.  
-  
-Visto, il Guardasigilli: PICCIONI  
-Registrato alla Corte dei conti, addi' 23 febbraio 1951
+111.
+
+Decreto del Presidente della Repubblica 11 gennaio 1951, col quale, sulla proposta del Ministro per l'interno, viene riconosciuto, agli effettivi civili, il decreto del Vescovo di Grosseto in data 11 febbraio 1949, integrato con postille 20 luglio 1949 e 20 marzo 1950, relativo all'erezione della parrocchia di San Francesco d'Assisi, in Grosseto.
+
+Visto, il Guardasigilli: PICCIONI
+ Registrato alla Corte dei conti, addi' 23 febbraio 1951

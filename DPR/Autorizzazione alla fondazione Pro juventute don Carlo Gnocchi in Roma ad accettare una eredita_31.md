@@ -1,20 +1,27 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 10 gennaio 1985 n. 56
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 1079
+data: 1984-12-05
+titolo: "Autorizzazione alla fondazione \"Pro juventute don Carlo Gnocchi\", in Roma, ad accettare una eredita'."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1984-12-05;1079
+codice_redazionale: 084U1079
+vigente: true
+---
 
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 10 gennaio 1985 n. 56
-=============================================================
-
-Autorizzazione alla fondazione "Pro juventute don Carlo Gnocchi", in Roma, ad accettare una eredita'.
------------------------------------------------------------------------------------------------------
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-56. Decreto del Presidente della Repubblica 10 gennaio 1985, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la fondazione "Pro juventute don Carlo Gnocchi", in Roma, viene autorizzata ad accettare, col beneficio d'inventario, l'eredita', consistente in beni immobili siti nei comuni di Mendrisio e Balera (Canton Ticino) meglio descritti nella perizia redatta dal geom.  
-Paolo Maddaloni in data 5 maggio 1977 e valutati per complessive L. 682.000.000, disposta dalla sig.ra Fumagalli Virginia Maria Carolina a favore dell'opera mutilatini di don Gnocchi, che si identifica con la fondazione "Pro juventute da Carlo Gnocchi", come si evince dal verbale del consiglio d'amministrazione della fondazione stessa in data 5 giugno 1976, con testamento olografo e codicillo del 14 giugno 1967, pubblicato in data 8 maggio 1968, n. 1720 di repertorio, a rogito dott. Waldo Riva, notaio in Lugano.   
-  
-Visto, il Guardasigilli: MARTINAZZOLI   
-Registrato alla Corte dei conti, addi' 25 febbraio 1985   
-Registro n. 2 Presidenza, foglio n. 133
+1079.
+
+Decreto del Presidente della Repubblica 5 dicembre 1984, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la 
+ fondazione "Pro juventute don Carlo Gnocchi", in Roma, viene 
+ autorizzata ad accettare, col beneficio d'inventario, l'eredita',  consistente nella nuda proprieta' di un immobile sito in Novara, 
+ via S. Costa n. 10 ed in beni mobili (saldo conti correnti, valori  in titoli) il tutto per un valore di L. 124.033.200 al netto delle  passivita' e degli usufrutti, disposta dalla sig.ra Sartori Jolanda 
+ con testamento olografo 20 dicembre 1956 e relativa modifica del 21 
+ luglio 1965, pubblicato in data 25 agosto 1982, n. 288160/31352 di  repertorio, a rogito dott. Mario Barberi, notaio in Novara, 
+ registrato a Novara in data 2 settembre 1982 al n. 5483. 
+ 
+Visto, il Guardasigilli: MARTINAZZOLI 
+ Registrato alla Corte dei conti, addi' 14 febbraio 1985 
+ Registro n. 2 Presidenza, foglio n. 34

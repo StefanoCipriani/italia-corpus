@@ -1,19 +1,21 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 20 novembre 1962 n. 1765
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 1765
+data: 1962-11-20
+titolo: "Riconoscimento della personalita' giuridica dell'Abbazia della SS.ma Trinita' della Congregazione Benedettina Cassinese, con sede in Cava dei Tirreni (Salerno)."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1962-11-20;1765
+codice_redazionale: 062U1765
+vigente: true
+---
 
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 20 novembre 1962 n. 1765
-================================================================
-
-Riconoscimento della personalita' giuridica dell'Abbazia della SS.ma Trinita' della Congregazione Benedettina Cassinese, con sede in Cava dei Tirreni (Salerno).
-----------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-1765. Decreto del Presidente della Repubblica 20 novembre 1962, col quale, sulla proposta del Ministro per l'interno, viene riconosciuta la personalita' giuridica dell'Abbazia della SS.ma Trinita' della Congregazione Benedettina Cassinese, con sede in Cava dei Tirreni (Salerno).  
-  
-Visto, il Guardasigilli: BOSCO  
-Registrato alla Corte dei conti, addi' 19 dicembre 1962  
-Atti del Governo, registro n. 161, foglio n. 19. - VILLA
+1765.
+
+Decreto del Presidente della Repubblica 20 novembre 1962, col quale, sulla proposta del Ministro per l'interno, viene riconosciuta la personalita' giuridica dell'Abbazia della SS.ma Trinita' della Congregazione Benedettina Cassinese, con sede in Cava dei Tirreni (Salerno).
+
+Visto, il Guardasigilli: BOSCO
+ Registrato alla Corte dei conti, addi' 19 dicembre 1962
+ Atti del Governo, registro n. 161, foglio n. 19. - VILLA

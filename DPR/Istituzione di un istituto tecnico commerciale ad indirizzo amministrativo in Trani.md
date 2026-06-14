@@ -1,19 +1,21 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 12 agosto 1977 n. 1171
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 1171
+data: 1977-08-12
+titolo: "Istituzione di un istituto tecnico commerciale ad indirizzo amministrativo in Trani."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1977-08-12;1171
+codice_redazionale: 077U1171
+vigente: true
+---
 
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 12 agosto 1977 n. 1171
-==============================================================
-
-Istituzione di un istituto tecnico commerciale ad indirizzo amministrativo in Trani.
-------------------------------------------------------------------------------------
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-1171. Decreto del Presidente della Repubblica 12 agosto 1977, col quale, sulla proposta del Ministro della pubblica istruzione, di concerto con i Ministri dell'interno e del tesoro, viene istituito in Trani (Bari), a decorrere dall'anno scolastico 1977-78, un istituto tecnico commerciale ad indirizzo amministrativo e ne viene approvata la tabella organica.  
-  
-Visto, il Guardasigilli: BONIFACIO  
-Registrato alla Corte dei conti, addi' 5 aprile 1978  
-Registro n. 38 Istruzione, foglio n. 316
+1171.
+
+Decreto del Presidente della Repubblica 12 agosto 1977, col quale, sulla proposta del Ministro della pubblica istruzione, di concerto con i Ministri dell'interno e del tesoro, viene istituito in Trani (Bari), a decorrere dall'anno scolastico 1977-78, un istituto tecnico commerciale ad indirizzo amministrativo e ne viene approvata la tabella organica.
+
+Visto, il Guardasigilli: BONIFACIO
+ Registrato alla Corte dei conti, addi' 5 aprile 1978
+ Registro n. 38 Istruzione, foglio n. 316

@@ -1,18 +1,17 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 marzo 1962 n. 572
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 572
+data: 1962-03-28
+titolo: "Riduzione delle aliquote dei canoni dovuti dalle rivendite di generi di monopolio."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1962-03-28;572
+codice_redazionale: 062U0572
+vigente: true
+---
 
+## Art. 1.
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 marzo 1962 n. 572
-============================================================
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
 
-Riduzione delle aliquote dei canoni dovuti dalle rivendite di generi di monopolio.
-----------------------------------------------------------------------------------
+## Art. 2.
 
-Art. 1
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
-
-Art. 2
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))

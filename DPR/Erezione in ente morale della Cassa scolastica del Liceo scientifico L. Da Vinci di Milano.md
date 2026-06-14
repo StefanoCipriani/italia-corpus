@@ -1,19 +1,21 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 06 ottobre 1953 n. 1176
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 1176
+data: 1953-10-06
+titolo: "Erezione in ente morale della Cassa scolastica del Liceo scientifico \"L. Da Vinci\" di Milano."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1953-10-06;1176
+codice_redazionale: 053U1176
+vigente: true
+---
 
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 06 ottobre 1953 n. 1176
-===============================================================
-
-Erezione in ente morale della Cassa scolastica del Liceo scientifico "L. Da Vinci" di Milano.
----------------------------------------------------------------------------------------------
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-1176. Decreto del Presidente della Repubblica 6 ottobre 1953, col quale, sulla proposta del Ministro per la pubblica istruzione, la Cassa scolastica del Liceo scientifico "L. Da Vinci" di Milano, viene eretta in ente morale e ne viene approvato lo statuto.  
-  
-Visto, il Guardasigilli: AZARA  
-Registrato alla Corte dei conti, addi' 20 aprile 1954  
-Atti del Governo, registro n. 82, foglio n. 128. - CARLOMAGNO
+1176.
+
+Decreto del Presidente della Repubblica 6 ottobre 1953, col quale, sulla proposta del Ministro per la pubblica istruzione, la Cassa scolastica del Liceo scientifico "L. Da Vinci" di Milano, viene eretta in ente morale e ne viene approvato lo statuto.
+
+Visto, il Guardasigilli: AZARA
+ Registrato alla Corte dei conti, addi' 20 aprile 1954
+ Atti del Governo, registro n. 82, foglio n. 128. - CARLOMAGNO

@@ -1,37 +1,29 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 marzo 1962 n. 547
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 547
+data: 1962-03-30
+titolo: "Revoca di dichiarazione di zona di endemia malarica per il comune di Valva."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1962-03-30;547
+codice_redazionale: 062U0547
+vigente: true
+---
 
+## Art. 1.
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 marzo 1962 n. 547
-============================================================
+IL PRESIDENTE DELLA REPUBBLICA
 
-Revoca di dichiarazione di zona di endemia malarica per il comune di Valva.
----------------------------------------------------------------------------
+ Vista la proposta avanzata dal medico provinciale di Salerno, per la revoca della dichiarazione di endemia malarica per il territorio del comune di Valva di quella Provincia, trasmessa unitamente al parere favorevole espresso dal Consiglio provinciale di sanita' nella seduta del 20 gennaio 1961;
+ Visto l'[art. 313 del testo unico delle leggi sanitarie](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265#art_313), approvato con [regio decreto 27 luglio 1934, n. 1265 e l'art. 4](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265#art_4) del regolamento per l'applicazione delle norme volte a diminuire le cause della malaria, approvato con [regio decreto 28 gennaio 1935, n. 93](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20del%20regolamento%20per%20lapplicazione%20delle%20norme%20volte%20a%20diminuire%20le%20cause%20della%20malaria.%20035U0093.md);
+ Visto il [regio decreto 24 marzo 1904, n. 177](../Atti%20normativi%20abrogati%20%28in%20originale%29/Che%20delimita%20talune%20zone%20malariche%20della%20provincia%20di%20Salerno.%20004U0177.md), con il quale, fra l'altro, e' stata stabilita la zona malarica del predetto comune di Valva;
+ Visto la [legge 13 marzo 1958, n. 296](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1958-03-13;296);
+ Sulla proposta del Ministro per la sanita';
 
-Art. 1
-------
+ Decreta:
 
- IL PRESIDENTE DELLA REPUBBLICA  
-  
-Vista la proposta avanzata dal medico provinciale di Salerno, per la revoca della dichiarazione di endemia malarica per il territorio del comune di Valva di quella Provincia, trasmessa unitamente al parere favorevole espresso dal Consiglio provinciale di sanita' nella seduta del 20 gennaio 1961;  
-Visto l'[art. 313 del testo unico delle leggi sanitarie](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265~art313), approvato con [regio decreto 27 luglio 1934, n. 1265 e l'art. 4](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265~art4) del regolamento per l'applicazione delle norme volte a diminuire le cause della malaria, approvato con [regio decreto 28 gennaio 1935, n. 93](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1935-01-28;93);  
-Visto il [regio decreto 24 marzo 1904, n. 177](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1904-03-24;177), con il quale, fra l'altro, e' stata stabilita la zona malarica del predetto comune di Valva;  
-Visto la [legge 13 marzo 1958, n. 296](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1958-03-13;296);  
-Sulla proposta del Ministro per la sanita';  
-  
-Decreta:  
-  
-La dichiarazione di zona di endemia malarica contenuta nel [regio decreto 24 marzo 1904, n. 177](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1904-03-24;177), per il comune di Valva della provincia di Salerno, e' revocata.  
-  
+ La dichiarazione di zona di endemia malarica contenuta nel [regio decreto 24 marzo 1904, n. 177](../Atti%20normativi%20abrogati%20%28in%20originale%29/Che%20delimita%20talune%20zone%20malariche%20della%20provincia%20di%20Salerno.%20004U0177.md), per il comune di Valva della provincia di Salerno, e' revocata.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 30 marzo 1962
+Dato a Roma, addi' 30 marzo 1962
 
-GRONCHI JERVOLINO
-
-Visto, il Guardasigilli: BOSCO
-
-Registrato alla Corte dei conti, addi' 19 giugno 1962
-
-Atti del Governo, registro n. 151, foglio n. 14. - VILLA
+GRONCHI JERVOLINO Visto, il Guardasigilli: BOSCO Registrato alla Corte dei conti, addi' 19 giugno 1962 Atti del Governo, registro n. 151, foglio n. 14. - VILLA

@@ -1,19 +1,21 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 10 maggio 1968 n. 752
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 752
+data: 1968-05-10
+titolo: "Erezione in ente morale della cassa scolastica dell'Istituto tecnico industriale statale di Pavia."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1968-05-10;752
+codice_redazionale: 068U0752
+vigente: true
+---
 
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 10 maggio 1968 n. 752
-=============================================================
-
-Erezione in ente morale della cassa scolastica dell'Istituto tecnico industriale statale di Pavia.
---------------------------------------------------------------------------------------------------
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-752. Decreto del Presidente della Repubblica 10 maggio 1968, col quale, sulla proposta del Ministro per la pubblica istruzione, la cassa scolastica dell'Istituto tecnico industriale statale di Pavia viene eretta in ente morale e ne viene approvato lo statuto.  
-  
-Visto, il Guardasigilli: REALE  
-Registrato alla Corte dei conti, addi' 25 giugno 1968  
-Atti del Governo, registro n. 220, foglio n. 81. - GRECO
+752.
+
+Decreto del Presidente della Repubblica 10 maggio 1968, col quale, sulla proposta del Ministro per la pubblica istruzione, la cassa scolastica dell'Istituto tecnico industriale statale di Pavia viene eretta in ente morale e ne viene approvato lo statuto.
+
+Visto, il Guardasigilli: REALE
+ Registrato alla Corte dei conti, addi' 25 giugno 1968
+ Atti del Governo, registro n. 220, foglio n. 81. - GRECO

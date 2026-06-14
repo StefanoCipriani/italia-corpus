@@ -1,19 +1,21 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 03 giugno 1970 n. 481
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 481
+data: 1970-06-03
+titolo: "Estinzione della \"Corporazione dei piloti del porto di Carloforte\"."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1970-06-03;481
+codice_redazionale: 070U0481
+vigente: true
+---
 
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 03 giugno 1970 n. 481
-=============================================================
-
-Estinzione della "Corporazione dei piloti del porto di Carloforte".
--------------------------------------------------------------------
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-481. Decreto del Presidente della Repubblica 3 giugno 1970, col quale, sulla proposta del Ministro per la marina mercantile, la "Corporazione dei piloti del porto di Carloforte" viene dichiarata estinta.  
-  
-Visto, il Guardasigilli: REALE  
-Registrato alla Corte dei conti, addi' 7 luglio 1970  
-Atti del Governo, registro n. 236, foglio n. 127. - CARUSO
+481.
+
+Decreto del Presidente della Repubblica 3 giugno 1970, col quale, sulla proposta del Ministro per la marina mercantile, la "Corporazione dei piloti del porto di Carloforte" viene dichiarata estinta.
+
+Visto, il Guardasigilli: REALE
+ Registrato alla Corte dei conti, addi' 7 luglio 1970
+ Atti del Governo, registro n. 236, foglio n. 127. - CARUSO

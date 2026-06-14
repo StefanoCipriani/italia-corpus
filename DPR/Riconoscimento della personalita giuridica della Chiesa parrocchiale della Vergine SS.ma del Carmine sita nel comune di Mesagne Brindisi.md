@@ -1,19 +1,21 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 14 luglio 1962 n. 1281
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 1281
+data: 1962-07-14
+titolo: "Riconoscimento della personalita' giuridica della Chiesa parrocchiale della Vergine SS.ma del Carmine, sita nel comune di Mesagne (Brindisi)."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1962-07-14;1281
+codice_redazionale: 062U1281
+vigente: true
+---
 
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 14 luglio 1962 n. 1281
-==============================================================
-
-Riconoscimento della personalita' giuridica della Chiesa parrocchiale della Vergine SS.ma del Carmine, sita nel comune di Mesagne (Brindisi).
----------------------------------------------------------------------------------------------------------------------------------------------
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-1281. Decreto del Presidente della Repubblica 14 luglio 1962, col quale, sulla proposta del Ministro per l'interno, viene riconosciuta la personalita' giuridica della Chiesa parrocchiale della Vergine SS.ma del Carmine, sita nel comune di Mesagne (Brindisi).  
-  
-Visto, il Guardasigilli: BOSCO  
-Registrato alla Corte dei conti, addi' 22 agosto 1962  
-Atti del Governo, registro n. 158, foglio n. 25. - VILLA
+1281.
+
+Decreto del Presidente della Repubblica 14 luglio 1962, col quale, sulla proposta del Ministro per l'interno, viene riconosciuta la personalita' giuridica della Chiesa parrocchiale della Vergine SS.ma del Carmine, sita nel comune di Mesagne (Brindisi).
+
+Visto, il Guardasigilli: BOSCO
+ Registrato alla Corte dei conti, addi' 22 agosto 1962
+ Atti del Governo, registro n. 158, foglio n. 25. - VILLA

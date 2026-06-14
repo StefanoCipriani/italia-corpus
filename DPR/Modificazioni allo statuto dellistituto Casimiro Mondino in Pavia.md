@@ -1,19 +1,21 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 23 maggio 1977 n. 829
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 829
+data: 1977-05-23
+titolo: "Modificazioni allo statuto dell'istituto \"Casimiro Mondino\", in Pavia."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1977-05-23;829
+codice_redazionale: 077U0829
+vigente: true
+---
 
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 23 maggio 1977 n. 829
-=============================================================
-
-Modificazioni allo statuto dell'istituto "Casimiro Mondino", in Pavia.
-----------------------------------------------------------------------
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-829. Decreto del Presidente della Repubblica 23 maggio 1977, col quale, sulla proposta del Ministro per la sanita', vengono approvate le modificazioni allo statuto dell'istituto "Casimiro Mondino", in Pavia.  
-  
-Visto, il Guardasigilli: BONIFACIO  
-Registrato alla Corte dei conti, addi' 9 novembre 1977  
-Registro n. 6 Sanita', foglio n. 296
+829.
+
+Decreto del Presidente della Repubblica 23 maggio 1977, col quale, sulla proposta del Ministro per la sanita', vengono approvate le modificazioni allo statuto dell'istituto "Casimiro Mondino", in Pavia.
+
+Visto, il Guardasigilli: BONIFACIO
+ Registrato alla Corte dei conti, addi' 9 novembre 1977
+ Registro n. 6 Sanita', foglio n. 296

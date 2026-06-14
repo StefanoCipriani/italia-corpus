@@ -1,167 +1,47 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 27 maggio 1967 n. 701
-
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 27 maggio 1967 n. 701
-=============================================================
-
-Nozione di origine di alcuni prodotti ai fini dell'applicazione del Titolo I della Convenzione di Associazione tra la Comunita' Economica Europea e gli Stati africani e malgascio.
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 701
+data: 1967-05-27
+titolo: "Nozione di origine di alcuni prodotti ai fini dell'applicazione del Titolo I della Convenzione di Associazione tra la Comunita' Economica Europea e gli Stati africani e malgascio."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1967-05-27;701
+codice_redazionale: 067U0701
+vigente: true
+---
 
 IL PRESIDENTE DELLA REPUBBLICA
-------------------------------
 
-Vista la [legge 20 maggio 1964, n. 406](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1964-05-20;406), che ratifica e da esecuzione agli Accordi internazionali firmati a Yaounde' il 20 luglio 1963 e agli Atti connessi relativi alla Associazione fra la Comunita' Economica Europea e gli Stati africani e malgascio associati a tale Comunita';
+Vista la [legge 20 maggio 1964, n. 406](../DL%20e%20leggi%20di%20conversione/Ratifica%20ed%20esecuzione%20degli%20Accordi%20internazionali%20firmati%20a%20Yaounde%20il%2020%20luglio%201963%20e%20degli%20Atti%20connessi%20relativi%20allAssociazione%20tra%20la%20Comunita%20economica%20europea%20e%20gli%20Stati%20Africa_1c32570b546c.md), che ratifica e da esecuzione agli Accordi internazionali firmati a Yaounde' il 20 luglio 1963 e agli Atti connessi relativi alla Associazione fra la Comunita' Economica Europea e gli Stati africani e malgascio associati a tale Comunita';
 
-Vista la [Decisione n. 5/66 del 22 aprile 1966](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:31966D0005), relativa alla definizione del concetto "prodotti originari", ai fini dell'applicazione del Titolo I della Convenzione di Associazione, e dei metodi di cooperazione amministrativa;
+Vista la Decisione n. 5/66 del 22 aprile 1966, relativa alla definizione del concetto "prodotti originari", ai fini dell'applicazione del Titolo I della Convenzione di Associazione, e dei metodi di cooperazione amministrativa;
 
-Vista la [Decisione n. 6/66 del 22 aprile 1966](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:31966D0006) relativa alla definizione di cooperazione amministrativa nel settore doganale per l'applicazione della Convenzione di Yaounde';
+Vista la Decisione n. 6/66 del 22 aprile 1966 relativa alla definizione di cooperazione amministrativa nel settore doganale per l'applicazione della Convenzione di Yaounde';
 
-Visto il [decreto del Presidente della Repubblica 24 dicembre 1960, n. 1584](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1960-12-24;1584), che da applicazione alla Decisione del Consiglio dei Ministri della Comunita' Economica Europea del 13 febbraio 1960, che stabilisce la tariffa doganale comune e successive aggiunte e modificazioni;
+Visto il [decreto del Presidente della Repubblica 24 dicembre 1960, n. 1584](Applicazione%20della%20Decisione%20del%20Consiglio%20dei%20Ministri%20delle%20Comunita%20Europee%20del%2013%20febbraio%201960%20che%20stabilisce%20la%20Tariffa%20doganale%20comune.md), che da applicazione alla Decisione del Consiglio dei Ministri della Comunita' Economica Europea del 13 febbraio 1960, che stabilisce la tariffa doganale comune e successive aggiunte e modificazioni;
 
-Vista la tariffa dei dazi doganali di importazione della Repubblica italiana approvata con [decreto del Presidente della Repubblica 26 giugno 1965, n. 723](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1965-06-26;723);
+Vista la tariffa dei dazi doganali di importazione della Repubblica italiana approvata con [decreto del Presidente della Repubblica 26 giugno 1965, n. 723](Approvazione%20della%20nuova%20tariffa%20dei%20dazi%20doganali%20dimportazione.md);
 
 Vista la legge doganale 25 settembre 1940, n. 1424, e successive aggiunte e varianti;
 
-Visto l'art. 3 della citata [legge 20 maggio 1964, n. 406](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1964-05-20;406), che conferisce al Governo la delega ad emanare, fino alla scadenza prevista dall'articolo 59 della Convenzione di Associazione, con decreti aventi valore di legge ordinaria, le norme necessarie a dare esecuzione agli obblighi derivanti dalla Convenzione stessa e dagli atti connessi;
+Visto l'art. 3 della citata [legge 20 maggio 1964, n. 406](../DL%20e%20leggi%20di%20conversione/Ratifica%20ed%20esecuzione%20degli%20Accordi%20internazionali%20firmati%20a%20Yaounde%20il%2020%20luglio%201963%20e%20degli%20Atti%20connessi%20relativi%20allAssociazione%20tra%20la%20Comunita%20economica%20europea%20e%20gli%20Stati%20Africa_1c32570b546c.md), che conferisce al Governo la delega ad emanare, fino alla scadenza prevista dall'articolo 59 della Convenzione di Associazione, con decreti aventi valore di legge ordinaria, le norme necessarie a dare esecuzione agli obblighi derivanti dalla Convenzione stessa e dagli atti connessi;
 
-Visto il [decreto del Presidente della Repubblica 5 agosto 1966, n. 943](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1966-08-05;943), concernente la nozione di prodotti originari ed i metodi di cooperazione amministrativa ai fini dell'applicazione del Titolo I della Convenzione di Associazione sopracitata;
+Visto il [decreto del Presidente della Repubblica 5 agosto 1966, n. 943](Nozione%20di%20prodotti%20originari%20e%20metodi%20di%20cooperazione%20amministrativa%20al%20fini%20dellapplicazione%20del%20Titolo%20I%20della%20Convenzione%20di%20Associazione%20fra%20la%20Comunita%20Economica%20Europea%20e%20gli%20Stati_d8b9d21b8ea5.md), concernente la nozione di prodotti originari ed i metodi di cooperazione amministrativa ai fini dell'applicazione del Titolo I della Convenzione di Associazione sopracitata;
 
-Vista la [Decisione 13/66 del 28 ottobre 1966](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:31966D0013) che apporta modifiche alla [Decisione 5/66 del 22 aprile 1966](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:31966D0005) relativa alla definizione del concetto "prodotti originari" ai fini dell'applicazione del Titolo I della Convenzione di Associazione ed ai metodi di cooperazione amministrativa;
+Vista la Decisione 13/66 del 28 ottobre 1966 che apporta modifiche alla Decisione 5/66 del 22 aprile 1966 relativa alla definizione del concetto "prodotti originari" ai fini dell'applicazione del Titolo I della Convenzione di Associazione ed ai metodi di cooperazione amministrativa;
 
-Visto l'[art. 87 della Costituzione](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27~art87);
+Visto l'[art. 87 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87);
 
-Sulla
------
+Sulla proposta del Ministro per le finanze, di concerto con i Ministri per gli affari esteri, per l'industria, il commercio e l'artigianato, per l'agricoltura e foreste, per il commercio con l'estero; Decreta:
 
-proposta del Ministro per le finanze, di concerto con i Ministri per gli affari esteri, per l'industria, il commercio e l'artigianato, per l'agricoltura e foreste, per il commercio con l'estero; Decreta:
+## Art. 1.
 
-Art. 1
-------
+Gli elenchi di merci compresi negli allegati II, III e IV della Decisione del Consiglio di Associazione numero 5/66 del 22 aprile 1966, alla quale e' stata data esecuzione con [decreto del Presidente della Repubblica 5 agosto 1966, n. 943](Nozione%20di%20prodotti%20originari%20e%20metodi%20di%20cooperazione%20amministrativa%20al%20fini%20dellapplicazione%20del%20Titolo%20I%20della%20Convenzione%20di%20Associazione%20fra%20la%20Comunita%20Economica%20Europea%20e%20gli%20Stati_d8b9d21b8ea5.md), sono sostituiti dagli allegati A, B e C alla Decisione n. 13/66 adottata dal Consiglio di Associazione di cui all'articolo 39 della Convenzione di Associazione fra la Comunita' Economica Europea e gli Stati africani e malgascio, firmata a Yaounde' il 20 luglio 1963 e ratificata con [legge 20 maggio 1964, n. 406](../DL%20e%20leggi%20di%20conversione/Ratifica%20ed%20esecuzione%20degli%20Accordi%20internazionali%20firmati%20a%20Yaounde%20il%2020%20luglio%201963%20e%20degli%20Atti%20connessi%20relativi%20allAssociazione%20tra%20la%20Comunita%20economica%20europea%20e%20gli%20Stati%20Africa_1c32570b546c.md). Tale Decisione fa parte integrante del presente decreto.
 
-  
-Gli elenchi di merci compresi negli allegati II, III e IV della Decisione del Consiglio di Associazione numero 5/66 del 22 aprile 1966, alla quale e' stata data esecuzione con [decreto del Presidente della Repubblica 5 agosto 1966, n. 943](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1966-08-05;943), sono sostituiti dagli allegati A, B e C alla [Decisione n. 13/66](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:31966D0013) adottata dal Consiglio di Associazione di cui all'articolo 39 della Convenzione di Associazione fra la Comunita' Economica Europea e gli Stati africani e malgascio, firmata a Yaounde' il 20 luglio 1963 e ratificata con [legge 20 maggio 1964, n. 406](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1964-05-20;406). Tale Decisione fa parte integrante del presente decreto.  
+## Art. 2.
 
-Art. 2
-------
-
-  
-Il presente decreto entra in vigore il giorno successivo alla sua pubblicazione nella Gazzetta Ufficiale della Repubblica italiana ed ha effetto a partire dalla data del 1 gennaio 1967.  
-  
+Il presente decreto entra in vigore il giorno successivo alla sua pubblicazione nella Gazzetta Ufficiale della Repubblica italiana ed ha effetto a partire dalla data del 1 gennaio 1967.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 27 maggio 1967
+Dato a Roma, addi' 27 maggio 1967
 
-SARAGAT MORO - PRETI - FANFANI - ANDREOTTI - RESTIVO - TOLLOY
-
-Visto, il Guardasigilli: REALE
-
-Registrato alla Corte dei conti, addi' 7 agosto 1967
-
-Atti del Governo, registro n. 212, foglio n. 106. - GRECO
-
-Note
-
- ASSOCIAZIONE C.E.E. - S.A.M.A. -   
-  
-IL CONSIGLIO   
-Bruxelles, 6 dicembre 1966. - CEE-EAMA/232/66 (CA 73)   
-  
-NOTE   
-  
-CONCERNE: [Decisione n. 13/66 del Consiglio](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:31966D0013) di Associazione che modifica la [decisione n. 5/66](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:31966D0005) relativa alla definizione del concetto di "prodotti originari" ai fini dell'applicazione del Titolo I della Convenzione di Associazione e ai metodi di cooperazione amministrativa.   
-  
-1. Nella 4ª sessione, il Consiglio di Associazione, dopo aver dato il proprio accordo sui prodotti provvisoriamente esclusi dall'applicazione della [decisione n. 5/66](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:31966D0005) e sulle modifiche di natura redazionale e linguistica da apportare a tale decisione, ha incaricato il Comitato di Associazione di constatare formalmente se i testi messi a punto dal Segretariato [CEE-EAMA/217/66 (COMA 104)] sono conformi alle decisioni adottate.   
-2. Nella 13ª riunione tenuta il 2 dicembre 1966, il Comitato ha potuto constatare la concordanza del testo sottoposto dal Segretariato con le decisioni adottate dal Consiglio, tenuto conto di talune moiniche apportate alla versione in lingua olandese [doc.  
-CEE-EAMA/230/66 (COMA 116)].   
-3. La versione definitiva della [decisione n. 13/66 del Consiglio](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:31966D0013) di Associazione e' allegata alla presente.   
-  
-
-Decisione-art. 1
-
-  
-  
-  
-ALLEGATO  
-  
-[Decisione n. 13/66 del Consiglio](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:31966D0013) di Associazione che modifica la  
-[Decisione n. 5/66 del Consiglio](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:31966D0005) di Associazione relativa alla  
-definizione del concetto "prodotti originari" ai fini  
-dell'applicazione del Titolo I della Convenzione di Associazione ed  
-ai metodi di cooperazione amministrativa.  
-  
-Il Consiglio di Associazione,  
-  
-Vista la Convenzione di Associazione fra la Comunita' Economica  
-Europea e gli Stati africani e malgascio associati a detta Comunita', e, in particolare le disposizioni del Titolo I,  
-Visto l'accordo relativo ai prodotti di competenza della Comunita'  
-Europea del Carbone e dell'Acciaio allegato alla suddetta Convenzione di Associazione,  
-Vista la dichiarazione dei rappresentanti dei Governi degli Stati  
-membri relativa ai prodotti nucleari ed annessa all'atto finale della suddetta Convenzione (Allegato VII),  
-Visto il Protocollo n. 3 relativo al concetto di "prodotti  
-originari" per l'applicazione della Convenzione di Associazione,  
-Visto il progetto della Commissione della Comunita' Economica  
-Europea,  
-Considerando che dall'adozione, il 22 aprile 1966, della [Decisione  
-n. 5/66](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:31966D0005), si e' verificata la necessita' di apportare varie modificazioni redazionali agli allegati di tale Decisione;  
-Considerando peraltro che il Consiglio di Associazione si e' messo  
-d'accordo sui problemi posti dai prodotti che figurano all'Allegato IV di tale Decisione,  
-  
-Decide:  
-  
-Articolo 1  
-  
-Gli Allegati II, III e IV della [Decisione n. 5/66](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:31966D0005) sono sostituiti  
-dagli Allegati A, B e C riportati qui di seguito.  
-  
-  
-
-Decisione-art. 2
-
-  
-  
-Articolo 2  
-  
-Gli Stati associati, gli Stati membri e la Comunita' sono tenuti ad  
-adottare, per quanto li riguarda, le misure relative all'esecuzione della presente Decisione.  
-La presente Decisione entra in vigore il 1 gennaio 1967.  
-Fatto a Bruxelles, addi' 28 ottobre 1966  
-Il Presidente del Consiglio di Associazione  
-Barnabe KANYARUGURU  
-  
-  
-
-Decisione - Allegato A
-
- ALLEGATO A   
-Alla [Decisione n. 13/66](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:31966D0013)
-  
-  
-ELENCO A   
-  
-Elenco delle lavorazioni o trasformazioni che comportano un cambiamento della voce doganale, ma che non conferiscono il carattere di "prodotti originari" ai prodotti che le subiscono, o lo conferiscono subordinatamente a talune condizioni.   
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=067U070100200030110001&dgu=1967-08-18&art.dataPubblicazioneGazzetta=1967-08-18&art.codiceRedazionale=067U0701)
-  
-
-Decisione - Allegato B
-
- ALLEGATO B   
-  
-ELENCO B   
-  
-Elenco delle lavorazioni o trasformazioni che non danno luogo al cambiamento della voce doganale, ma che tuttavia conferiscono il carattere di "prodotti originari" ai prodotti che ne sono oggetto.   
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=067U070100200040110001&dgu=1967-08-18&art.dataPubblicazioneGazzetta=1967-08-18&art.codiceRedazionale=067U0701)
-  
-
-Decisione - Allegato C
-
- ALLEGATO C   
-  
-Elenco dei prodotti temporaneamente esclusi dall'applicazione della presente Decisione.   
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=067U070100200050110001&dgu=1967-08-18&art.dataPubblicazioneGazzetta=1967-08-18&art.codiceRedazionale=067U0701)
-  
+SARAGAT MORO - PRETI - FANFANI - ANDREOTTI - RESTIVO - TOLLOY Visto, il Guardasigilli: REALE Registrato alla Corte dei conti, addi' 7 agosto 1967 Atti del Governo, registro n. 212, foglio n. 106. - GRECO

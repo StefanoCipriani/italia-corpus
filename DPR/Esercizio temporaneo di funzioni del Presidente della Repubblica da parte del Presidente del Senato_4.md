@@ -1,36 +1,38 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 22 giugno 1995 n. 243
-
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 22 giugno 1995 n. 243
-=============================================================
-
-Esercizio temporaneo di funzioni del Presidente della Repubblica da parte del Presidente del Senato.
-----------------------------------------------------------------------------------------------------
-
-Entrata in vigore del decreto: 8/7/1995
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 6
+data: 1992-01-08
+titolo: "Esercizio temporaneo di funzioni del Presidente della Repubblica da parte del Presidente del Senato."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1992-01-08;6
+codice_redazionale: 092G0013
+vigente: true
+---
 
 IL PRESIDENTE DELLA REPUBBLICA
-------------------------------
 
-Visto l'[art. 86, primo comma, della Costituzione](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27~art86-com1);
+Visto l'[art. 86, primo comma, della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_86-com1);
 
-Considerata
------------
+Considerata la durata e la distanza dal territorio nazionale del viaggio che il Presidente della Repubblica intraprendera' all'estero a decorrere dal 10 gennaio prossimo;
 
-la durata e la distanza dal territorio nazionale della missione ufficiale che il Presidente della Repubblica intraprendera' all'estero a decorrere dal 24 giugno 1995; Decreta:
+Ritenuto che, pertanto, ricorrano le condizioni previste dalla Costituzione per far luogo alla supplenza;
 
-Art. 1
-------
+Sentito il Consiglio dei Ministri;
 
- Le funzioni del Presidente della Repubblica non inerenti allo svolgimento della missione all'estero, sono esercitate, ai sensi dell'[art. 86, primo comma, della Costituzione](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27~art86-com1), dal Presidente del Senato a decorrere dal 24 giugno 1995 e fino al rientro del Capo dello Stato nel territorio nazionale.  
+Sulla proposta del Presidente del Consiglio dei Ministri; Decreta:
+
+## Art. 1.
+
+1.
+
+La supplenza delle funzioni del Presidente della Repubblica, prevista dall'[art. 86, primo comma, della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_86-com1), e' esercitata, per le funzioni non inerenti allo svolgimento della missione all'estero, dal Presidente del Senato con il titolo di "Presidente supplente della Repubblica", a decorrere dal 10 gennaio 1992 e fino al rientro del Capo dello Stato nel territorio nazionale.
+
+AVVERTENZA:
+ Il testo della nota qui pubblicato e' stato redatto ai sensi dell'art. 10, comma 3, del testo unico approvato con [decreto del Presidente della Repubblica 28 dicembre 1985, n. 1092](Approvazione%20del%20testo%20unico%20delle%20disposizioni%20sulla%20promulgazione%20delle%20leggi%20sulla%20emanazione%20dei%20decreti%20del%20Presidente%20della%20Repubblica%20e%20sulle%20pubblicazioni%20ufficiali%20della%20Repubblica%20italiana.md), al solo fine di facilitare la lettura della disposizione di legge alla quale e' operato il rinvio e della quale restano invariati il valore e l'efficacia.
+ Nota alle premesse e all'[art. 1](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_1):
+ - Il [primo comma dell'art. 86 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_86-com1) prevede che le funzioni del Presidente della Repubblica, in ogni caso che egli non possa adempierle, siano esercitate dal Presidente del Senato.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserito nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 22 giugno 1995
+Dato a Roma, addi' 8 gennaio 1992
 
-SCALFARO
-
-DINI, Presidente del Consiglio dei Ministri
-
-Visto, il Guardasigilli: MANCUSO
+COSSIGA ANDREOTTI, Presidente del Consiglio dei Ministri Visto, il Guardasigilli: MARTELLI

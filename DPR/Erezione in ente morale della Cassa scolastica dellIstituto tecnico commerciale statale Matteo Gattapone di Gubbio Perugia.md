@@ -1,19 +1,21 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 14 agosto 1964 n. 996
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 996
+data: 1964-08-14
+titolo: "Erezione, in ente morale della Cassa scolastica dell'Istituto tecnico commerciale statale \"Matteo Gattapone\", di Gubbio (Perugia)."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1964-08-14;996
+codice_redazionale: 064U0996
+vigente: true
+---
 
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 14 agosto 1964 n. 996
-=============================================================
-
-Erezione, in ente morale della Cassa scolastica dell'Istituto tecnico commerciale statale "Matteo Gattapone", di Gubbio (Perugia).
-----------------------------------------------------------------------------------------------------------------------------------
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-996. Decreto del Presidente della Repubblica 14 agosto 1964, col quale, sulla proposta del Ministro per la pubblica istruzione, la Cassa scolastica dell'Istituto tecnico commerciale statale "Matteo Gattapone", di Gubbio (Perugia), viene eretta in ente morale e ne viene approvato lo statuto.  
-  
-Visto, il Guardasigilli: REALE  
-Registrato alla Corte dei conti, addi' 12 ottobre 1964  
-Atti del Governo, registro n. 187, foglio n. 112. - VILLA
+996.
+
+Decreto del Presidente della Repubblica 14 agosto 1964, col quale, sulla proposta del Ministro per la pubblica istruzione, la Cassa scolastica dell'Istituto tecnico commerciale statale "Matteo Gattapone", di Gubbio (Perugia), viene eretta in ente morale e ne viene approvato lo statuto.
+
+Visto, il Guardasigilli: REALE
+ Registrato alla Corte dei conti, addi' 12 ottobre 1964
+ Atti del Governo, registro n. 187, foglio n. 112. - VILLA

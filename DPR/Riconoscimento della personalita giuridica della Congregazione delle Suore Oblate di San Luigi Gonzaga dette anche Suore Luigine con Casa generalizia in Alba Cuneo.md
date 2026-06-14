@@ -1,18 +1,20 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 21 aprile 1949 n. 375
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 375
+data: 1949-04-21
+titolo: "Riconoscimento della personalita' giuridica della Congregazione delle Suore Oblate di San Luigi Gonzaga, dette anche Suore Luigine, con Casa generalizia in Alba (Cuneo)."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1949-04-21;375
+codice_redazionale: 049U0375
+vigente: true
+---
 
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 21 aprile 1949 n. 375
-=============================================================
-
-Riconoscimento della personalita' giuridica della Congregazione delle Suore Oblate di San Luigi Gonzaga, dette anche Suore Luigine, con Casa generalizia in Alba (Cuneo).
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-375. Decreto del Presidente della Repubblica 21 aprile 1949, col quale, sulla proposta del Ministro per l'interno, viene riconosciuti la personalita' giuridica della Congregazione delle Suore Oblate di San Luigi Gonzaga, dette anche Suore Luigine, con Casa generalizia in Alba (Cuneo).  
-  
-Visto, il Guardasigilli: GRASSI  
-Registrato alla Corte dei conti, addi' 24 giugno 1949
+375.
+
+Decreto del Presidente della Repubblica 21 aprile 1949, col quale, sulla proposta del Ministro per l'interno, viene riconosciuti la personalita' giuridica della Congregazione delle Suore Oblate di San Luigi Gonzaga, dette anche Suore Luigine, con Casa generalizia in Alba (Cuneo).
+
+Visto, il Guardasigilli: GRASSI
+ Registrato alla Corte dei conti, addi' 24 giugno 1949

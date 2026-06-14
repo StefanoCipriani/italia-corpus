@@ -1,205 +1,209 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 settembre 1959 n. 1340
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 1340
+data: 1959-09-28
+titolo: "Norme per i concorsi di ammissione e di promozione nelle carriere dell'Amministrazione finanziaria."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1959-09-28;1340
+codice_redazionale: 059U1340
+vigente: true
+---
 
+## CARRIERE DIRETTIVE  SEZIONE I Esami di ammissione
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 settembre 1959 n. 1340
-=================================================================
+CAPO I
 
-Norme per i concorsi di ammissione e di promozione nelle carriere dell'Amministrazione finanziaria.
----------------------------------------------------------------------------------------------------
+### Art. 1.
 
-CAPO I CAPO I CARRIERE DIRETTIVE SEZIONE I Esami di ammissione
---------------------------------------------------------------
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 26 MARZO 2001, N.107))
 
-### Art. 1
+### Art. 2.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 26 MARZO 2001, N.107](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2001-03-26;107)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 26 MARZO 2001, N.107))
 
-### Art. 2
+### Art. 3.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 26 MARZO 2001, N.107](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2001-03-26;107)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 26 MARZO 2001, N.107))
 
-### Art. 3
+### Art. 4.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 26 MARZO 2001, N.107](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2001-03-26;107)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 26 MARZO 2001, N.107))
 
-### Art. 4
+### Art. 5.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 26 MARZO 2001, N.107](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2001-03-26;107)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 26 MARZO 2001, N.107))
 
-### Art. 5
+### Art. 6.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 26 MARZO 2001, N.107](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2001-03-26;107)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 26 MARZO 2001, N.107))
 
-### Art. 6
+### Art. 7.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 26 MARZO 2001, N.107](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2001-03-26;107)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 26 MARZO 2001, N.107))
 
-### Art. 7
+## Esami di promozione
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 26 MARZO 2001, N.107](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2001-03-26;107)))
+SEZIONE II
 
-CAPO II SEZIONE II Esami di promozione
---------------------------------------
+### Art. 8.
 
-### Art. 8
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 26 MARZO 2001, N.107))
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 26 MARZO 2001, N.107](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2001-03-26;107)))
+### Art. 9.
 
-### Art. 9
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 26 MARZO 2001, N.107))
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 26 MARZO 2001, N.107](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2001-03-26;107)))
+### Art. 10.
 
-### Art. 10
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 26 MARZO 2001, N.107))
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 26 MARZO 2001, N.107](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2001-03-26;107)))
+### Art. 11.
 
-### Art. 11
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 26 MARZO 2001, N.107))
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 26 MARZO 2001, N.107](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2001-03-26;107)))
+### Art. 12.
 
-### Art. 12
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 26 MARZO 2001, N.107))
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 26 MARZO 2001, N.107](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2001-03-26;107)))
+### Art. 13.
 
-### Art. 13
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 26 MARZO 2001, N.107))
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 26 MARZO 2001, N.107](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2001-03-26;107)))
+### Art. 14.
 
-### Art. 14
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 26 MARZO 2001, N.107))
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 26 MARZO 2001, N.107](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2001-03-26;107)))
+### Art. 15.
 
-### Art. 15
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 26 MARZO 2001, N.107))
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 26 MARZO 2001, N.107](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2001-03-26;107)))
+### Art. 16.
 
-### Art. 16
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 26 MARZO 2001, N.107))
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 26 MARZO 2001, N.107](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2001-03-26;107)))
+### Art. 17.
 
-### Art. 17
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 26 MARZO 2001, N.107))
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 26 MARZO 2001, N.107](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2001-03-26;107)))
+### Art. 18.
 
-### Art. 18
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 26 MARZO 2001, N.107))
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 26 MARZO 2001, N.107](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2001-03-26;107)))
+## Esami di ammissione e di promozione nelle carriere speciali direttive
 
-CAPO III SEZIONE III Esami di ammissione e di promozione nelle carriere speciali direttive
-------------------------------------------------------------------------------------------
+SEZIONE III
 
-### Art. 19
+### Art. 19.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 26 MARZO 2001, N.107](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2001-03-26;107)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 26 MARZO 2001, N.107))
 
-### Art. 20
+### Art. 20.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 26 MARZO 2001, N.107](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2001-03-26;107)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 26 MARZO 2001, N.107))
 
-### Art. 21
+### Art. 21.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 26 MARZO 2001, N.107](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2001-03-26;107)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 26 MARZO 2001, N.107))
 
-CAPO IV CAPO II CARRIERE DI CONCETTO SEZIONE I Esami di ammissione
-------------------------------------------------------------------
+## CARRIERE DI CONCETTO  SEZIONE I Esami di ammissione
 
-### Art. 22
+CAPO II
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 26 MARZO 2001, N.107](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2001-03-26;107)))
+### Art. 22.
 
-### Art. 23
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 26 MARZO 2001, N.107))
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 26 MARZO 2001, N.107](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2001-03-26;107)))
+### Art. 23.
 
-### Art. 24
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 26 MARZO 2001, N.107))
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 26 MARZO 2001, N.107](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2001-03-26;107)))
+### Art. 24.
 
-### Art. 25
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 26 MARZO 2001, N.107))
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 26 MARZO 2001, N.107](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2001-03-26;107)))
+### Art. 25.
 
-CAPO V SEZIONE II Esami di promozione
--------------------------------------
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 26 MARZO 2001, N.107))
 
-### Art. 26
+## Esami di promozione
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 26 MARZO 2001, N.107](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2001-03-26;107)))
+SEZIONE II
 
-### Art. 27
+### Art. 26.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 26 MARZO 2001, N.107](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2001-03-26;107)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 26 MARZO 2001, N.107))
 
-### Art. 28
+### Art. 27.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 26 MARZO 2001, N.107](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2001-03-26;107)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 26 MARZO 2001, N.107))
 
-CAPO VI CAPO III CARRIERE ESECUTIVE SEZIONE I Esami di ammissione
------------------------------------------------------------------
+### Art. 28.
 
-### Art. 29
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 26 MARZO 2001, N.107))
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 26 MARZO 2001, N.107](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2001-03-26;107)))
+## CARRIERE ESECUTIVE  SEZIONE I Esami di ammissione
 
-### Art. 30
+CAPO III
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 26 MARZO 2001, N.107](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2001-03-26;107)))
+### Art. 29.
 
-CAPO VII SEZIONE II Esami di promozione
----------------------------------------
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 26 MARZO 2001, N.107))
 
-### Art. 31
+### Art. 30.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 26 MARZO 2001, N.107](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2001-03-26;107)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 26 MARZO 2001, N.107))
 
-### Art. 32
+## Esami di promozione
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 26 MARZO 2001, N.107](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2001-03-26;107)))
+SEZIONE II
 
-CAPO VIII CAPO IV CARRIERE DEL PERSONALE AUSILIARIO
----------------------------------------------------
+### Art. 31.
 
-### Art. 33
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 26 MARZO 2001, N.107))
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 26 MARZO 2001, N.107](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2001-03-26;107)))
+### Art. 32.
 
-### Art. 34
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 26 MARZO 2001, N.107))
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 26 MARZO 2001, N.107](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2001-03-26;107)))
+## CARRIERE DEL PERSONALE AUSILIARIO
 
-### Art. 35
+CAPO IV
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 26 MARZO 2001, N.107](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2001-03-26;107)))
+### Art. 33.
 
-### Art. 36
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 26 MARZO 2001, N.107))
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 26 MARZO 2001, N.107](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2001-03-26;107)))
+### Art. 34.
 
-CAPO IX CAPO V DISPOSIZIONI GENERALI E FINALI
----------------------------------------------
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 26 MARZO 2001, N.107))
 
-### Art. 37
+### Art. 35.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 26 MARZO 2001, N.107](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2001-03-26;107)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 26 MARZO 2001, N.107))
 
-### Art. 38
+### Art. 36.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 26 MARZO 2001, N.107](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2001-03-26;107)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 26 MARZO 2001, N.107))
 
-### Art. 39
+## DISPOSIZIONI GENERALI E FINALI
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 26 MARZO 2001, N.107](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2001-03-26;107)))
+CAPO V
 
-### Art. 40
+### Art. 37.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 26 MARZO 2001, N.107](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2001-03-26;107)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 26 MARZO 2001, N.107))
 
-### Art. 41
+### Art. 38.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 26 MARZO 2001, N.107](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2001-03-26;107)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 26 MARZO 2001, N.107))
 
-Quadri
+### Art. 39.
 
- Quadri   
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 26 MARZO 2001, N.107))
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 26 MARZO 2001, N.107](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2001-03-26;107)))
+### Art. 40.
+
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 26 MARZO 2001, N.107))
+
+### Art. 41.
+
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 26 MARZO 2001, N.107))

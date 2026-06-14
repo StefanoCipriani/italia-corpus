@@ -1,19 +1,21 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 05 febbraio 1977 n. 76
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 173
+data: 1976-03-06
+titolo: "Autorizzazione alla fondazione \"Pro juventute don Carlo Gnocchi\", in Roma, ad accettare un legato."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1976-03-06;173
+codice_redazionale: 076U0173
+vigente: true
+---
 
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 05 febbraio 1977 n. 76
-==============================================================
-
-Autorizzazione alla fondazione "Pro juventute don Carlo Gnocchi", in Roma, ad accettare un legato.
---------------------------------------------------------------------------------------------------
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-76. Decreto del Presidente della Repubblica 5 febbraio 1977, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la fondazione "Pro juventute don Carlo Gnocchi", in Roma, viene autorizzata ad accettare il legato disposto dalla sig.ra Cerutti Maria in favore dell'Ente mutilatini di don Gnocchi che si identifica con la fondazione "Pro juventute don Carlo Gnocchi", con testamento pubblico in data 17 maggio 1968, pubblicato a rogito del notaio dottor Mario Barberi in data 11 giugno 1973, n. 221162 di repertorio, registrato a Novara il 14 giugno 1973, con il n. 3297, vol. 381, consistente nella somma di L. 5.000.000.  
-  
-Visto, il Guardasigilli: BONIFACIO  
-Registrato alla Corte dei conti, addi' 14 marzo 1977  
-Registro n. 3 Presidenza, foglio n. 66
+173.
+
+Decreto del Presidente della Repubblica 6 marzo 1976, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la fondazione "Pro juventute don Carlo Gnocchi", in Roma, viene autorizzata ad accettare il legato disposto dal sig. don Giuseppe Lazzari in favore dell'Opera di don Gnocchi, che si identifica con la fondazione "Pro juventute don Carlo Gnocchi", come ha fatto presente la fondazione medesima, con testamento olografo 4 marzo 1972, pubblicato a rogito dott. Gianfranco Palavera, notaio in Gallarate (Milano), in data 26 gennaio 1973, n. 14 di repertorio, n. 1995 di raccolta, registrato a Gallarate il 13 febbraio 1973 con il n. 968, vol. 216, consistente nella somma di L. 3.000.000.
+
+Visto, il Guardasigilli: BONIFACIO
+ Registrato alla Corte dei conti, addi' 24 aprile 1976
+ Atti di Governo, registro n. 5, foglio n. 37

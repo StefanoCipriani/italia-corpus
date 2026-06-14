@@ -1,18 +1,18 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 16 agosto 1952 n. 1321
-
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 16 agosto 1952 n. 1321
-==============================================================
-
-Modificazioni allo statuto del Fondo di previdenza per il personale del Banco di Roma.
---------------------------------------------------------------------------------------
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 1321
+data: 1952-08-16
+titolo: "Modificazioni allo statuto del Fondo di previdenza per il personale del Banco di Roma."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1952-08-16;1321
+codice_redazionale: 052U1321
+vigente: true
+---
 
 IL PRESIDENTE DELLA REPUBBLICA
-------------------------------
 
-Visto l'[art. 12 e seguenti del Codice civile](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art12);
+Visto l'[art. 12 e seguenti del Codice civile](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262#art_12);
 
-Visto il [decreto del Presidente della Repubblica 17 luglio 1951, n. 759](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-07-17;759), con il quale e' stata riconosciuta la personalita' giuridica del Fondo di previdenza per il personale del Banco di Roma e ne e' stato approvato lo statuto;
+Visto il [decreto del Presidente della Repubblica 17 luglio 1951, n. 759](Riconoscimento%20della%20personalita%20giuridica%20del%20Fondo%20di%20previdenza%20per%20il%20personale%20del%20Banco%20di%20Roma%20e%20approvazione%20del%20relativo%20statuto.md), con il quale e' stata riconosciuta la personalita' giuridica del Fondo di previdenza per il personale del Banco di Roma e ne e' stato approvato lo statuto;
 
 Visto il verbale di constatazione di deliberazione - a rogito notaio Carlo Capo, rep. 70010, in data 30 novembre 1951 - da cui risulta che l'assemblea generale degli iscritti al Fondo predetto ha approvato mediante referendum una nuova tabella di stipendi convenzionali per il calcolo dei contributi e delle prestazioni in sostituzione di quella prevista dall'art. 6 dello statuto del Fondo stesso, da applicarsi con effetto dal 1 luglio 1949;
 
@@ -24,43 +24,15 @@ Visti l'estratto autentico del verbale del Consiglio di amministrazione del Banc
 
 Udito il parere del Consiglio di Stato;
 
-Sulla
------
+Sulla proposta del Ministro per il lavoro e la previdenza sociale; Decreta:
 
-proposta del Ministro per il lavoro e la previdenza sociale; Decreta:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-La tabella contemplata dall'art. 6 dello statuto del Fondo di previdenza per il personale del Banco di Roma, approvato con il decreto 17 luglio 1951, n. 759, ed allegata allo statuto medesimo e' sostituita con la tabella annessa al presente decreto e vistata dal Ministro proponente.  
-Agli effetti del calcolo dei contributi e delle prestazioni previsti dallo statuto predetto, la nuova tabella e' applicata a decorrere dal 1 luglio 1949.  
-  
+La tabella contemplata dall'art. 6 dello statuto del Fondo di previdenza per il personale del Banco di Roma, approvato con il decreto 17 luglio 1951, n. 759, ed allegata allo statuto medesimo e' sostituita con la tabella annessa al presente decreto e vistata dal Ministro proponente.
+ Agli effetti del calcolo dei contributi e delle prestazioni previsti dallo statuto predetto, la nuova tabella e' applicata a decorrere dal 1 luglio 1949.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato ad Arpy di Morgex, addi' 16 agosto 1952
+Dato ad Arpy di Morgex, addi' 16 agosto 1952
 
-EINAUDI RUBINACCI
-
-Visto, il Guardasigilli: ZOLI
-
-Registrato alla Corte dei conti, addi' 20 ottobre 1952
-
-Atti del Governo, registro n. 58, foglio n. 125. - CARLOMAGNO
-
-Allegato
-
- Allegato>   
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=052U132100100010110001&dgu=1952-10-28&art.dataPubblicazioneGazzetta=1952-10-28&art.codiceRedazionale=052U1321)
-  
-
-Tabella
-
- TABELLA CONTEMPLATA ALL'ART. 6 COME PARTE INTEGRANTE DELLO STATUTO   
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=052U132100200010110001&dgu=1952-10-28&art.dataPubblicazioneGazzetta=1952-10-28&art.codiceRedazionale=052U1321)
-  
+EINAUDI RUBINACCI Visto, il Guardasigilli: ZOLI Registrato alla Corte dei conti, addi' 20 ottobre 1952 Atti del Governo, registro n. 58, foglio n. 125. - CARLOMAGNO

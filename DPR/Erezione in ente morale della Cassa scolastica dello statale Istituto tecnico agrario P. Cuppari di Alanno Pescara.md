@@ -1,20 +1,22 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 08 febbraio 1954 n. 452
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 452
+data: 1954-02-08
+titolo: "Erezione in ente morale della Cassa scolastica dello statale Istituto tecnico agrario \"P. Cuppari\" di Alanno (Pescara)."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1954-02-08;452
+codice_redazionale: 054U0452
+vigente: true
+---
 
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 08 febbraio 1954 n. 452
-===============================================================
-
-Erezione in ente morale della Cassa scolastica dello statale Istituto tecnico agrario "P. Cuppari" di Alanno (Pescara).
------------------------------------------------------------------------------------------------------------------------
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-452. Decreto del Presidente della Repubblica 8 febbraio 1951, col quale, sulla proposta del Ministro per la pubblica istruzione, la Cassa scolastica dello statale Istituto tecnico agrario "P.  
-Cuppari" di Alanno (Pescara) viene eretta in ente morale e ne viene approvato lo statuto.  
-  
-Visto, il Guardasigilli: DE PIETRO  
-Registrato alla Corte dei conti, addi' 8 luglio 1951  
-Atti del Governo, registro n. 84, foglio n. 57. - CARLOMAGNO
+452.
+
+Decreto del Presidente della Repubblica 8 febbraio 1951, col quale, sulla proposta del Ministro per la pubblica istruzione, la Cassa scolastica dello statale Istituto tecnico agrario "P.
+ Cuppari" di Alanno (Pescara) viene eretta in ente morale e ne viene approvato lo statuto.
+
+Visto, il Guardasigilli: DE PIETRO
+ Registrato alla Corte dei conti, addi' 8 luglio 1951
+ Atti del Governo, registro n. 84, foglio n. 57. - CARLOMAGNO

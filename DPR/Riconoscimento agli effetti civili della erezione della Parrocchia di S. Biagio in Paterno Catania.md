@@ -1,19 +1,21 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 09 maggio 1967 n. 493
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 493
+data: 1967-05-09
+titolo: "Riconoscimento, agli effetti civili, della erezione della Parrocchia di S. Biagio, in Paterno' (Catania)."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1967-05-09;493
+codice_redazionale: 067U0493
+vigente: true
+---
 
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 09 maggio 1967 n. 493
-=============================================================
-
-Riconoscimento, agli effetti civili, della erezione della Parrocchia di S. Biagio, in Paterno' (Catania).
----------------------------------------------------------------------------------------------------------
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-493. Decreto del Presidente della Repubblica 9 maggio 1967, col quale, sulla proposta del Ministro per l'interno, viene riconosciuto, agli effetti civili, il decreto dell'Ordinario diocesano di Catania in data 10 settembre 1965, relativo alla erezione della Parrocchia di S. Biagio, in Paterno' (Catania).  
-  
-Visto, il Guardasigilli: REALE  
-Registrato alla Corte dei conti, addi' 17 giugno 1967  
-Atti del Governo, registro n. 211, foglio n. 143. - GRECO
+493.
+
+Decreto del Presidente della Repubblica 9 maggio 1967, col quale, sulla proposta del Ministro per l'interno, viene riconosciuto, agli effetti civili, il decreto dell'Ordinario diocesano di Catania in data 10 settembre 1965, relativo alla erezione della Parrocchia di S. Biagio, in Paterno' (Catania).
+
+Visto, il Guardasigilli: REALE
+ Registrato alla Corte dei conti, addi' 17 giugno 1967
+ Atti del Governo, registro n. 211, foglio n. 143. - GRECO

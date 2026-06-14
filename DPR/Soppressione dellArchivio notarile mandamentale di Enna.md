@@ -1,39 +1,31 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 09 settembre 1966 n. 787
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 787
+data: 1966-09-09
+titolo: "Soppressione dell'Archivio notarile mandamentale di Enna."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1966-09-09;787
+codice_redazionale: 066U0787
+vigente: true
+---
 
+## Art. 1.
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 09 settembre 1966 n. 787
-================================================================
+IL PRESIDENTE DELLA REPUBBLICA
 
-Soppressione dell'Archivio notarile mandamentale di Enna.
----------------------------------------------------------
+ Visto il [regio decreto 21 dicembre 1884, n. 2845](../Atti%20normativi%20abrogati%20%28in%20originale%29/Che%20istituisce%20un%20Archivio%20notarile%20mandamentale%20nel%20comune%20di%20Castrogiovanni%20084U2845.md), col quale venne istituito l'Archivio notarile mandamentale di Enna;
+ Visto l'[art. 3, primo comma della legge 17 maggio 1952, n. 629](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1952-05-17;629#art_3-com1);
+ Visti gli [articoli 23](Norme%20relative%20allordinamento%20ed%20al%20personale%20degli%20archivi%20di%20Stato.md) e [73 del decreto del Presidente della Repubblica 30 settembre 1963, n. 1409](Norme%20relative%20allordinamento%20ed%20al%20personale%20degli%20archivi%20di%20Stato.md);
+ Visto l'[art. 1 della legge 14 aprile 1957, n. 251](../Atti%20normativi%20abrogati%20%28in%20originale%29/Redazione%20a%20macchina%20di%20atti%20pubblici.md);
+ Considerato che non sussiste piu' alcuna ragione di conservare il predetto Archivio notarile mandamentale essendovi in Enna la sede dell'Archivio distrettuale;
+ Sulla proposta del Guardasigilli Ministro Segretario di Stato per la grazia e la giustizia;
 
-Art. 1
-------
+ Decreta:
 
- IL PRESIDENTE DELLA REPUBBLICA  
-  
-Visto il [regio decreto 21 dicembre 1884, n. 2845](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1884-12-21;2845), col quale venne istituito l'Archivio notarile mandamentale di Enna;  
-Visto l'[art. 3, primo comma della legge 17 maggio 1952, n. 629](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1952-05-17;629~art3-com1);  
-Visti gli [articoli 23](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1963-09-30;1409~art23) e [73 del decreto del Presidente della Repubblica 30 settembre 1963, n. 1409](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1963-09-30;1409~art73);  
-Visto l'[art. 1 della legge 14 aprile 1957, n. 251](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1957-04-14;251~art1);  
-Considerato che non sussiste piu' alcuna ragione di conservare il predetto Archivio notarile mandamentale essendovi in Enna la sede dell'Archivio distrettuale;  
-Sulla proposta del Guardasigilli Ministro Segretario di Stato per la grazia e la giustizia;  
-  
-Decreta:  
-  
-L'Archivio notarile mandamentale di Enna e' soppresso.  
-Gli atti del predetto Archivio, relativi agli ultimi cento anni, saranno depositati nell'Archivio notarile distrettuale di Enna; gli atti notarili, ricevuti dai notai cessati anteriormente al 31 dicembre 1865, dovranno invece versarsi al competente Archivio di Stato.  
-  
+ L'Archivio notarile mandamentale di Enna e' soppresso.
+ Gli atti del predetto Archivio, relativi agli ultimi cento anni, saranno depositati nell'Archivio notarile distrettuale di Enna; gli atti notarili, ricevuti dai notai cessati anteriormente al 31 dicembre 1865, dovranno invece versarsi al competente Archivio di Stato.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 9 settembre 1966
+Dato a Roma, addi' 9 settembre 1966
 
-SARAGAT REALE
-
-Visto, il Guardasigilli: REALE
-
-Registrato alla Corte dei conti, addi' 29 settembre 1966
-
-Atti del Governo, registro n. 206, foglio n. 36. - DI PRETORO
+SARAGAT REALE Visto, il Guardasigilli: REALE Registrato alla Corte dei conti, addi' 29 settembre 1966 Atti del Governo, registro n. 206, foglio n. 36. - DI PRETORO

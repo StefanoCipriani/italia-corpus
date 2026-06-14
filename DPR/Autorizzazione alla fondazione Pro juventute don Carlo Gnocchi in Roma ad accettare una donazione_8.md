@@ -1,19 +1,21 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 marzo 1984 n. 84
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 921
+data: 1982-10-28
+titolo: "Autorizzazione alla fondazione \"Pro juventute don Carlo Gnocchi\", in Roma, ad accettare una donazione."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1982-10-28;921
+codice_redazionale: 082U0921
+vigente: true
+---
 
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 marzo 1984 n. 84
-===========================================================
-
-Autorizzazione alla fondazione "Pro juventute don Carlo Gnocchi", in Roma, ad accettare una donazione.
-------------------------------------------------------------------------------------------------------
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-84. Decreto del Presidente della Repubblica 2 marzo 1984, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la fondazione "Pro juventute don Carlo Gnocchi", in Roma, viene autorizzata ad accettare la donazione, consistente nella quota di meta' dell'immobile sito nel comune di Lurate Caccivio, via Olgiate n. 11, distinto nel nuovo catasto edilizio urbano alla partita 265, foglio 6, mappale 2251 sub 1 e mappale 2251 sub 2, con la pertinente area di cortile, valore attribuito con perizia di parte lire 25.000.000 elevato dall'ufficio tecnico erariale di Como a L. 50.000.000: quota 1/2 = L. 25.000.000, disposta dalla sig.ra Maspero Pierina con atto pubblico 30 novembre 1973, n. 17253/1826 di repertorio, a rogito dott. Ferruccio Brambilla, notaio in Milano, registrato a Busto Arsizio in data 14 dicembre 1973 al n. 3185.  
-  
-Visto, il Guardasigilli: MARTINAZZOLI  
-Registrato alla Corte dei conti, addi' 10 aprile 1984  
-Registro n. 3 Presidenza, foglio n. 344
+921.
+
+Decreto del Presidente della Repubblica 28 ottobre 1982, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la fondazione "Pro juventute don Carlo Gnocchi", in Roma, viene autorizzata ad accettare la donazione, consistente nella nuda proprieta' di un appartamento sito in Milano, via Clusone, 1, censito al nuovo catasto edilizio urbano alla partita 268961, foglio 440, particella 395, sub 34, del valore attribuito di L. 3.500.000, ritenuto congruo dall'ufficio tecnico erariale di Milano, disposta dalla sig.na Ermida Maino con atto 11 gennaio 1980, n. 2943/529 di repertorio, a rogito dott. Ulderico Brambilla, notaio in Milano e registrato a Milano in data 29 gennaio 1980 al n. 1986.
+
+Visto, il Guardasigilli: DARIDA
+ Registrato alla Corte dei conti, addi' 11 dicembre 1982
+ Registro n. 11 Presidenza, foglio n. 181

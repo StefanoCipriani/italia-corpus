@@ -1,19 +1,21 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 16 dicembre 1982 n. 1120
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 780
+data: 1982-08-02
+titolo: "Autorizzazione alla fondazione \"Pro juventute don Carlo Gnocchi\", in Roma, ad accettare un legato."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1982-08-02;780
+codice_redazionale: 082U0780
+vigente: true
+---
 
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 16 dicembre 1982 n. 1120
-================================================================
-
-Autorizzazione alla fondazione "Pro juventute don Carlo Gnocchi", in Roma, ad accettare un legato.
---------------------------------------------------------------------------------------------------
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-1120. Decreto del Presidente della Repubblica 16 dicembre 1982, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la fondazione "Pro juventute don Carlo Gnocchi", in Roma, viene autorizzata ad accettare il legato, consistente in titoli e saldo di libretti di conto corrente al portatore per un valore, al netto delle passivita', di L. 97.014.900, quota 1/4 - L. 24.253.725, disposto dalla sig.na De Martini Giovanna Maria a favore dei mutilatini di don Gnocchi con testamento olografo del 10 aprile 1980, pubblicato in data 19 gennaio 1981, n. 10221 di repertorio e n. 3365 di raccolta, a rogito dott. Morandi Vittorio, notaio in Alessandria, registrato ad Alessandria in data 6 febbraio 1981, al n. 549.  
-  
-Visto, il Guardasigilli: DARIDA  
-Registrato alla Corte dei conti, addi' 18 febbraio 1983  
-Registro n. 2 Presidenza, foglio n. 65
+780.
+
+Decreto del Presidente della Repubblica 2 agosto 1982, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la fondazione "Pro juventute don Carlo Gnocchi", in Roma, viene autorizzata ad accettare il legato, consistente in obbligazioni I.R.I. 5,50% 1963-83 per nominali L. 1.000.000, disposto dalla sig.ra Righettini Maria Giovanna ved. Lucchette a favore della fondazione "Pro juventute", in Milano, che si identifica con la fondazione "Pro juventute don Carlo Gnocchi", come si evince dal verbale del consiglio di amministrazione della fondazione suddetta in data 28 novembre 1980, con testamento olografo 14 aprile 1976, pubblicato il 7 ottobre 1980, n. 11219 di repertorio e n. 1975 di raccolta, a rogito dott. Giuseppe Pedone, notaio in Milano, registrato a Milano il 13 ottobre 1980 al n. 20523/ M. 
+ 
+Visto, il Guardasigilli: DARIDA 
+ Registrato alla Corte dei conti, addi' 21 ottobre 1982 
+ Registro n. 9 Presidenza, foglio n. 251

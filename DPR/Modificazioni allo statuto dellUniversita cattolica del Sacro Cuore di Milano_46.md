@@ -1,26 +1,28 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1977 n. 1260
-
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1977 n. 1260
-===============================================================
-
-Modificazioni allo statuto dell'Universita' cattolica del Sacro Cuore di Milano.
---------------------------------------------------------------------------------
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 1243
+data: 1977-10-31
+titolo: "Modificazioni allo statuto dell'Universita' cattolica del Sacro Cuore di Milano."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1977-10-31;1243
+codice_redazionale: 077U1243
+vigente: true
+---
 
 IL PRESIDENTE DELLA REPUBBLICA
-------------------------------
 
-Veduto lo statuto dell'Universita' cattolica del Sacro Cuore di Milano, approvato con [regio decreto 20 aprile 1939, n. 1163](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1163) e modificato con [regio decreto 26 ottobre 1940, n. 2030](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-26;2030), e successive modificazioni;
+Veduto lo statuto dell'Universita' cattolica del Sacro Cuore di Milano, approvato con [regio decreto 20 aprile 1939, n. 1163](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20del%20nuovo%20statuto%20della%20Universita%20cattolica%20del%20Sacro%20Cuore%20di%20Milano.%20039U1163.md) e modificato con [regio decreto 26 ottobre 1940, n. 2030](../Atti%20normativi%20abrogati%20%28in%20originale%29/Modificazioni%20allo%20statuto%20della%20Universita%20cattolica%20del%20%20Sacro%20Cuore%20%20di%20Milano.%20040U2030.md), e successive modificazioni;
 
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20R.%20decreto-legge%2020%20giugno%201935-XIII%20n.%201071%20contenente%20modifiche%20ed%20aggiornamenti%20al%20testo%20unico%20delle%20leggi%20sullistruzione%20superiore.%20036U0073.md);
 
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
+Veduto il [regio decreto 30 settembre 1938, n. 1652](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disposizioni%20sullordinamento%20didattico%20universitario.%20038U1652.md), e successive modificazioni.
+
+Veduta la [legge 11 aprile 1953, n. 312](../Atti%20normativi%20abrogati%20%28in%20originale%29/Libera%20inclusione%20di%20nuovi%20insegnamenti%20complementari%20negli%20statuti%20delle%20Universita%20e%20degli%20Istituti%20distruzione%20superiore.md);
 
 Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
 
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' cattolica del Sacro Cuore di Milano e convalidati dal Consiglio superiore della pubblica istruzione nel suo parere;
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](https://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592#art_17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' cattolica del Sacro Cuore di Milano e convalidati dal Consiglio superiore della pubblica istruzione nel suo parere;
 
 Sentito il parere del Consiglio superiore della pubblica istruzione;
 
@@ -28,511 +30,401 @@ Sulla proposta del Ministro della pubblica istruzione;
 
 Decreta:
 
-Lo statuto dell'Universita' cattolica del Sacro Cuore di Milano, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+Lo statuto dell'Universita' cattolica del Sacro Cuore di Milano, approvato e modificato con i decreti sopra indicati, e' ulteriormente modificato come appresso:
 
-L'art. 102, relativo alle norme generali per le scuole di specializzazione in medicina e chirurgia, e' modificato nel senso che il secondo e terzo comma sono abrogati e sostituiti dai seguenti:
+Art. 14 - all'elenco degli insegnamenti complementari del corso di laurea in lettere sono aggiunti i seguenti:
 
-"La durata dei corsi di specializzazione non e' suscettibile di abbreviazioni.
+psicologia religiosa;
 
-La frequenza ai corsi teorico-pratici e l'internato sono obbligatori. Alle scuole di specializzazione possono iscriversi solo i laureati in medicina e chirurgia".
+dialettologia italiana;
 
-Art. 103, primo comma - e' modificato nel senso che la scuola di specializzazione in ematologia clinica e di laboratorio muta la denominazione in quella di scuola di specializzazione in ematologia generale.
+epigrafia greca e latina;
 
-Nello stesso art. 103 il quarto ed il quinto comma sono soppressi.
+storia della storiografia antica;
 
-L'art. 104, relativo alla scuola di specializzazione in malattie dell'apparato cardiovascolare, che muta la denominazione in quella di scuola di specializzazione in cardiologia, e' abrogato e sostituito dal seguente:
+Art. 15 - all'elenco degli insegnamenti complementari del corso di laurea in filosofia e' aggiunto l'insegnamento di psicologia religiosa.
 
-Scuola di specializzazione in cardiologia
+Art. 16 - all'elenco degli insegnamenti complementari del corso di laurea in lingue e letterature straniere moderne e' aggiunto l'insegnamento di dialettologia italiana.
 
-Art. 104. - La scuola di specializzazione in cardiologia ha sede presso l'istituto di patologia speciale medica della facolta' di medicina e chirurgia dell'Universita' cattolica del Sacro Cuore e conferisce il diploma di specialista in cardiologia.
+Art. 19 - all'elenco degli insegnamenti complementari del corso di laurea in lingue e letterature straniere e' aggiunto l'insegnamento di fonetica e fonologia.
 
-La direzione della scuola e' affidata al professore di ruolo e fuori ruolo della stessa materia o della materia di cui la cardiologia e' parte. Possono iscriversi alla scuola di specializzazione i laureati in medicina e chirurgia in possesso del diploma di abilitazione all'esercizio professionale rilasciato dall'autorita' competente.
+Art. 21 - nell'elenco degli insegnamenti complementari del corso di laurea in scienze agrarie l'insegnamento complementare di viticoltura e' trasformato da semestrale ad annuale e sono aggiunti i seguenti insegnamenti:
 
-La durata del corso di studi e' di quattro anni e non e' suscettibile di abbreviazioni.
+climatologia agraria;
 
-Il numero massimo degli allievi e' di quindici per anno di corso, e complessivamente di sessanta iscritti per l'intero corso di studi.
+virologia.
 
-L'ammissione al corso avviene per titoli ed esami.
+Dopo l'art. 97 e' inserito, con il conseguente spostamento della numerazione degli articoli successivi, il titolo IV con gli articoli relativi alla istituzione delle scuole di specializzazione della facolta' di agraria.
 
-Le materie di insegnamento sono le seguenti:
+Titolo IV
 
-1° Anno:
+FACOLTA' DI AGRARIA
 
-1) anatomia umana normale ed embriologia dell'apparato cardiovascolare;
+Art. 98. - Le scuole di specializzazione della facolta' di agraria hanno lo scopo di promuovere l'incremento scientifico e pratico delle singole branche delle scienze agrarie e di conferire i diplomi che abilitano al particolare esercizio delle medesime con la qualifica di specialista, a norma dell'art. 178 del testo unico delle leggi sull'istruzione superiore approvato con [regio decreto 31 agosto 1933, n. 1592](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592). La direzione di ciascuna scuola spetta al direttore dell'istituto da cui la scuola prende il nome o da cui essa e' emanazione. La durata dei corsi di specializzazione non e' suscettibile di abbreviazioni.
 
-2) fisiologia dell'apparato cardiovascolare (I);
+Per ciascuna scuola e' fissato il numero massimo di iscrizioni.
 
-3) biochimica e biofisica;
+Potra' inoltre essere stabilito dalle autorita' accademiche un numero minimo di iscrizioni al primo anno indispensabili per lo svolgimento dei corsi. I corsi negli anni successivi saranno portati a termine qualunque sia il numero degli iscritti.
 
-4) semeiotica fisica e strumentale dell'apparato cardiovascolare (I);
+In un manifesto annuale della segreteria vengono esposte le norme dettagliate riguardanti ciascuna scuola.
 
-5) informatica medica e strumentazione biomedica (I);
+Le tasse e soprattasse relative alle scuole di specializzazione sono fissate nella misura seguente:
 
-2° Anno:
+tassa di immatricolazione . . . . . . . . . . . . . . . L. 35.000 tassa annuale di iscrizione . . . . . . . . . . . . . . L. 85.000 soprattassa di esame. . . . . . . . . . . . . . . . . . L. 30.000
 
-1) anatomia patologica (I)
+I contributi sono stabiliti all'inizio di ogni anno dal consiglio di amministrazione, sentito il parere del consiglio di facolta'.
 
-2) fisiologia dell'apparato cardiovascolare (II);
+Scuola di specializzazione in tecnologie lattiero-casearie
 
-3) patologia e clinica cardiovascolare (I);
+Art. 99. - La scuola di specializzazione in tecnologie lattiero-casearie ha lo scopo di promuovere una approfondita conoscenza dei problemi attinenti alla produzione del latte e sue trasformazioni industriali e di fornire agli allievi una specifica esperienza per quanto riguarda l'impostazione e la direzione di attivita' di dimensioni industriali.
 
-4) semeiotica fisica e strumentale dell'apparato cardiovascolare (II);
+Essa conferisce il diploma di specialista in tecnologie lattiero-casearie.
 
-5) informatica medica e strumentazione biomedica (II);
+Art. 100. - Alla scuola di specializzazione sono ammessi i laureati in Scienze agrarie, chimica e medicina veterinaria, in numero non superiore a sei per ogni biennio.
 
-6) radiologia (I);
+Qualora gli aspiranti siano in numero maggiore i candidati dovranno sostenere una prova scritta e attitudinale e l'ammissione sara' determinata in base alla graduatoria.
 
-7) aspetti sociali ed epidemiologici delle malattie cardiovascolari.
+Art. 101. - Il corso di specializzazione ha la durata di anni due durante i quali gli iscritti hanno l'obbligo di frequentare le lezioni e le esercitazioni pratiche, di preparare una tesi scritta su argomento monografico con ricerche personali e di svolgere periodi di internato presso i reparti di tecnologia applicata.
 
-3° Anno:
+Art. 102. - La firma di frequenza e' necessaria per la ammissione agli esami di profitto che saranno sostenuti, in sessione unica, alla fine di ogni anno accademico.
 
-1) anatomia patologica (II);
+Coloro che non superano gli esami del primo anno non saranno ammessi al secondo anno; e' invece concessa la ripetizione degli esami del secondo anno.
 
-2) semeiotica fisica e strumentale dell'apparato cardiovascolare (III);
-
-3) patologia e clinica cardiovascolare (Il);
-
-4) radiologia (II);
-
-5) terapia medica e farmacologia clinica (I).
-
-4° Anno:
-
-1) semeiotica fisica e strumentale dell'apparato cardiovascolare (IV);
-
-2) patologia e clinica cardiovascolare (III);
-
-3) terapia medica e farmacologia clinica (II);
-
-4) terapia chirurgica;
-
-5) terapie intensive cardiologiche.
-
-La frequenza alle lezioni e alle esercitazioni pratiche e' obbligatoria.
-
-Gli allievi che non conseguono le attestazioni di frequenza sul relativo libretto non potranno essere ammessi a sostenere le prove di esame.
-
-Alla fine di ogni corso gli iscritti, per essere ammessi agli anni di corso successivi, devono superare le prove di esame sulle materie impartite durante l'anno.
-
-Al termine del corso di studi per il conseguimento del diploma di specialista in cardiologia gli interessati dovranno superare l'esame di diploma consistente nella dissertazione scritta su un argomento di carattere cardiologico.
-
-L'art. 105, secondo comma, relativo alla scuola di specializzazione in oncologia, e' modificato nel senso che il numero degli iscritti e' stabilito in quarantacinque (45) per l'intero corso di studi.
-
-Art. 106, primo comma - e' modificato nel senso che la scuola di specializzazione in otorinolaringoiatria e patologia cervico-facciale muta la denominazione in quella di scuola di specializzazione in otorinolaringoiatria.
-
-Nello stesso art. 106 il settimo comma e' soppresso.
-
-L'art. 108, relativo alla scuola di specializzazione in patologia generale, e' modificato nel senso che il terzo comma e' soppresso.
-
-Nello stesso art. 108 le denominazioni delle materie di insegnamento del 1° anno di corso "biologia generale (cause patogene: fisiche, chimiche e biologiche)" e "patologia delle infezioni" sono modificate nel modo seguente:
-
-eziologia generale (cause patogene: fisiche, chimiche e biologiche);
-
-patologia delle infezioni.
-
-L'art. 109, terzo comma, relativo alla scuola di specializzazione in anestesiologia e rianimazione, e' modificato nel senso che il numero degli iscritti e' stabilito in settantacinque per l'intero corso di studi.
-
-Art. 110, secondo comma - il numero degli iscritti da ammettere alla scuola di specializzazione in radiologia e' stabilito in ottantaquattro (84) per l'intero corso di studi.
-
-L'art. 111, primo comma, relativo alla scuola di specializzazione in chirurgia vascolare, e' modificato nel senso che il numero degli iscritti e' stabilito in cinquantaquattro (54) per l'intero corso di studi.
-
-L'art. 112, relativo alla scuola di specializzazione in ostetricia e ginecologia, che muta la denominazione in quella di scuola di specializzazione in ginecologia ed ostetricia, e' abrogato e sostituito dal seguente:
-
-Scuola di specializzazione in ginecologia e ostetricia
-
-Art. 112. - La scuola di specializzazione in ginecologia ed ostetricia ha sede presso l'istituto di clinica ostetrica e ginecologica e conferisce il diploma di specialista in ginecologia e ostetricia.
-
-La direzione della scuola e' affidata al professore di ruolo della stessa materia della specializzazione o, in carenza, al professore di ruolo o fuori ruolo di materia affine.
-
-Possono iscriversi alla scuola i laureati in medicina e chirurgia.
-
-E' richiesto, almeno all'inizio del corso, il possesso del diploma di abilitazione all'esercizio professionale rilasciato dall'autorita' competente.
-
-La durata del corso di studi e' di quattro anni e non e' suscettibile di abbreviazioni.
-
-Il numero massimo degli allievi e' di dodici per anno di corso e complessivamente di quarantotto iscritti per l'intero corso di studi.
-
-L'ammissione al corso avviene per titoli ed esami.
-
-Le materie di insegnamento sono le seguenti:
+Art. 103. - La scuola di specializzazione comprende i seguenti insegnamenti:
 
 1° Anno:
 
-elementi di genetica medica;
+chimica lattiero-casearia;
 
-elementi di embriologia; anatomia macro e micro dell'apparato genitale femminile; anatomia delle pelvi;
+microbiologia lattiero-casearia;
 
-elementi di fisiopatologia della riproduzione umana;
+organizzazione aziendale;
 
-fisiologia ostetrica;
+impianti I;
 
-endocrinologia ginecologica ed ostetrica;
-
-semeiotica e diagnostica ostetrica;
-
-patologia ostetrica e ginecologica (I);
-
-lingua straniera (inglese) (I).
+igiene e tecnica della produzione del latte.
 
 2° Anno:
 
-semeiotica e diagnostica ginecologica;
+tecnologia lattiera;
 
-operazioni ostetriche (I);
+tecnologia casearia;
 
-anatomia ed istologia patologica della sfera genitale femminile;
+impianti II;
 
-citologia ginecologica;
+controlli di qualita';
 
-patologia ostetrica e ginecologica (II);
+confezionamento ed imballaggio.
 
-diagnostica di laboratorio in ostetricia e ginecologia;
+Le esercitazioni pratiche sono annesse ai corsi di insegnamento.
 
-lingua straniera (inglese) (II).
+Il periodo di internato, non inferiore a sessanta giorni per ogni anno di corso, si svolgera' presso industrie casearie scelte dalla direzione della scuola.
 
-3° Anno:
+Art. 104. - Il direttore della scuola e' il direttore dell'istituto di microbiologia lattiero-casearia.
 
-puericultura prenatale;
+Gli insegnanti della scuola sono proposti dal direttore della stessa, approvati dalla facolta' e nominati dal rettore. Essi possono essere scelti tra i professori ufficiali, tra i liberi docenti, tra gli aiuti ed assistenti della facolta' di agraria o di altre facolta' dell'Universita' cattolica o dell'Universita' statale o tra persone di riconosciuta competenza anche al di fuori dell'ambito universitario.
 
-immunologia ostetrica e ginecologica;
+Art. 105. - Gli organi della scuola di specializzazione sono:
 
-analgo-anestesia e rianimazione in ostetricia;
+a) il direttore;
 
-operazioni ostetriche (II);
+b) il consiglio.
 
-operazioni ginecologiche (I);
+Scuola di specializzazione in enologia
 
-ostetricia e ginecologia forense;
+Art. 106. - La scuola di specializzazione in enologia si prefigge lo scopo di fornire agli allievi una preparazione teorica e tecnologica qualificata.
 
-terapia medica in ostetricia e ginecologia;
+Art. 107. - Il corso ha la durata di due cicli annuali alla fine dei quali viene conferito il diploma di specialista in enologia.
 
-clinica ostetrica e ginecologica (I);
+Art. 108. - Alla scuola sono ammessi i laureati in scienze agrarie, in chimica pura ed industriale, in ingegneria chimica, in scienze biologiche, in numero non superiore a dieci allievi per ogni anno.
 
-psicosomatica ostetrica e ginecologica;
+Art. 109. - Gli iscritti hanno l'obbligo di frequentare le lezioni e le esercitazioni.
 
-lingua straniera (inglese) (III).
+Gli esami di profitto sono sostenuti alla fine di ogni ciclo.
 
-4° Anno:
+Coloro che non superano gli esami del primo ciclo non sono ammessi al secondo; e' invece concessa la ripetizione degli esami del secondo ciclo.
 
-neonatologia;
+La prova finale per il conseguimento del diploma consiste nella discussione orale di un rapporto sperimentale svolto dal candidato.
 
-urologia ginecologica;
+Art. 110. - Gli insegnamenti impartiti vertono sulle seguenti materie:
 
-radio-diagnostica e terapia fisica in ostetricia e ginecologia; chirurgia addominale;
+1° Ciclo:
 
-operazioni ginecologiche (II);
+viticoltura;
 
-clinica ostetrica e ginecologica;
+chimica enologica;
 
-lingua straniera (inglese) (IV).
+microbiologia enologica;
 
-La frequenza alle lezioni ed alle esercitazioni pratiche e' obbligatoria.
+chimica analitica con esercitazioni.
 
-Gli allievi che non conseguono le attestazioni di frequenza sul relativo libretto non potranno essere ammessi a sostenere le prove di esame.
+2° Ciclo:
 
-Alla fine di ogni anno di corso gli iscritti per essere ammessi agli anni di corso successivi devono superare le prove di esame sulle materie impartite durante l'anno. Per le materie a corsi pluriennali l'esame sara' sostenuto alla fine dei corsi medesimi.
+tecnologia enologica;
 
-Al termine del corso di studi per il conseguimento del diploma di specialista in ginecologia ed ostetricia, gli interessati dovranno superare l'esame di diploma su un argomento attinente alla specializzazione.
+impianti e costruzioni enologiche;
 
-L'art. 113, relativo alla scuola di specializzazione in neurologia, e' modificato nel senso che il sesto comma e' soppresso.
+controlli di qualita';
 
-L'art. 114, relativo alla scuola di specializzazione in psichiatria, e' modificato nel senso che il quinto comma e' soppresso.
+legislazione vitivinicola;
 
-L'art. 119, secondo comma, relativo alla scuola di specializzazione in malattie dell'apparato digerente, e' modificato nel senso che il numero degli iscritti e' stabilito in trenta (30) per l'intero corso di studi.
+organizzazione aziendale e commercializzazione dei vini.
 
-L'art. 125, relativo alla scuola di specializzazione in endocrinologia, e' modificato nel senso che il terzo comma e' soppresso.
+Per ogni ciclo si svolge un periodo di internato di trenta giorni presso complessi enologici scelti dalla direzione della scuola.
 
-Gli articoli 126, 127 e 128, relativi alla scuola di specializzazione in medicina del lavoro, sono abrogati e sostituiti dai seguenti:
+Art. 111. - Il direttore della scuola e' il direttore dell'istituto di enologia.
 
-Scuola di specializzazione in medicina del lavoro
+Gli insegnanti della scuola sono proposti dal direttore della stessa, approvati dalla facolta' e nominati dal rettore. Essi possono essere scelti tra i professori ufficiali, tra i liberi docenti, tra gli aiuti e gli assistenti della facolta' di agraria o di altre facolta' dell'Universita' cattolica o dell'Universita' statale o tra specialisti qualificati al di fiori dell'ambito universitario.
 
-Art. 126. - La scuola di specializzazione in medicina del lavoro ha sede presso l'istituto di medicina del lavoro e conferisce il diploma di specialista in medicina del lavoro.
+Art. 112. - Gli organi della scuola di specializzazione sono:
 
-La direzione della scuola e' affidata al professore di ruolo o fuori ruolo della stessa materia della specializzazione o, in carenza, al professore di ruolo o fuori ruolo di materia affine.
+a) il direttore;
 
-Possono iscriversi alla scuola i laureati in medicina e chirurgia.
+b) il consiglio.
 
-E' richiesto, almeno all'inizio del corso, il possesso del diploma di abilitazione all'esercizio professionale rilasciato dall'autorita' competente.
+Scuola di specializzazione in fitoiatria
 
-La durata del corso di studi e' di quattro anni e non e' suscettibile di abbreviazioni.
+Art. 113. - La scuola fornisce conoscenze fondamentali e specifiche sulla lotta antiparassitaria, in particolare: caratteristiche chimiche e fisiche degli antiparassitari; metabolismo e degradazioni;
 
-Il numero massimo degli allievi e' di quindici per anno di corso e complessivamente di sessanta iscritti per l'intero corso di studi.
+tossicita'; analisi dei formulati e dei residui; fisiologia e patologia vegetale, inclusa la biologia delle piante infestanti; metodi e tecniche di lotta; analisi statistica.
 
-L'ammissione al corso avviene per titoli ed esami.
+Conferisce il diploma di fitoiatria.
 
-Art. 127. - Le materie di insegnamento sono le seguenti:
+Art. 114. - Alla scuola sono ammessi i laureati nella facolta' di scienze, di chimica industriale e scienze agrarie. I candidati dovranno dimostrare sufficiente conoscenza della lingua inglese entro la fine del primo anno di corso.
+
+Il numero massimo degli iscritti e' fissato in sette per ogni anno.
+
+Art. 115. - La scuola di specializzazione ha la durata di due anni, durante i quali gli iscritti hanno l'obbligo di frequentare le lezioni e le esercitazioni pratiche. Al termine del primo e del secondo anno devono essere sostenuti in sessione unica esami di profitto, comprendenti anche prove pratiche. Al secondo anno vengono ammessi solo coloro che hanno superato gli esami del primo.
+
+Per il conseguimento del diploma e' necessaria la presentazione di una relazione scritta sul lavoro svolto.
+
+Art. 116. - Gli insegnamenti impartiti vertono sulle seguenti materie:
 
 1° Anno:
 
-igiene del lavoro (I);
+chimica organica;
 
-fisiologia del lavoro ed ergonomia (I);
+biochimica vegetale;
 
-tecnologia industriale;
+tecnologie;
 
-statistica medica e biometria;
-
-tecniche di laboratorio.
+statistica I;
 
 2° Anno:
 
-patologia e clinica delle malattie da lavoro (I);
+analisi applicata;
 
-igiene del lavoro (II);
+tecniche di lotta;
 
-fisiologia del lavoro ed ergonomia (II);
+statistica II.
 
-psicologia del lavoro;
+I singoli corsi prevedono l'intervento di diversi docenti a seconda delle competenze; seminari ed esercitazioni pratiche sono parte dei corsi di insegnamento.
 
-tossicologia industriale.
+Nel corso di chimica organica verranno studiate: classificazione, nomenclatura, reattivita' e caratteri chimico-fisici dei principi attivi antiparassitari.
 
-3° Anno:
+Nel corso di biochimica vegetale e' compreso lo studio di metabolismo, meccanismo d'azione e tossicita'.
 
-patologia e clinica delle malattie da lavoro (Il);
+L'insegnamento di tecnologie comprendera' lo studio delle formulazioni antiparassitarie e delle tecniche di applicazione.
 
-prevenzione degli infortuni e delle malattie da lavoro (I);
+Saranno date notizie sulla regolamentazione e la legislazione sull'impiego e la commercializzazione.
 
-epidemiologia delle malattie da lavoro;
+Le tecniche di lotta prevedono l'esame, coltura per coltura con riferimento alle colture italiane economicamente piu' importanti, delle specie infestanti, dei metodi di lotta piu' idonei e delle conseguenze ecologiche.
 
-radiobiologia e radioprotezione;
+Art. 117. - Il direttore dell'istituto di chimica della facolta' di agraria e' il direttore della scuola.
 
-dermatologia professionale.
+Art. 118. - I docenti saranno proposti dal direttore della scuola tra gli specialisti esperti nel settore, approvati dal consiglio della facolta' e nominati dal rettore.
 
-4° Anno:
+Il direttore della scuola coordina l'attivita' didattica e di ricerca della scuola.
 
-patologia e clinica delle malattie da lavoro (III);
+Art. 119. - Gli organi della scuola di specializzazione sono:
 
-prevenzione degli infortuni e delle malattie da lavoro (II);
+a) il direttore;
 
-pronto soccorso;
+b) il consiglio.
 
-medicina legale e delle assicurazioni;
+Scuola di specializzazione in viticoltura
 
-organizzazione dei servizi di medicina e igiene del lavoro.
+Art. 120. - La scuola ha lo scopo di dare delle conoscenze fondamentali sulla fisiologia della vite, in modo da portare un miglioramento nella tecnica colturale viticola. In particolare dovranno essere approfonditi il miglioramento genetico sia delle varieta' che dei portinnesti, la nutrizione idrica, minerale e carbonica, la propagazione, le forme di allevamento, la potatura ed i rapporti tra qualita' ed ambiente.
 
-Art. 128. - Le materie fondamentali anzidette potranno essere integrate con insegnamenti facoltativi stabiliti, su proposta del direttore della scuola, di anno in anno.
+Art. 121. - Alla scuola sono ammessi: laureati in scienze agrarie, in biologia, in scienze naturali, in scienze delle preparazioni alimentari ed in chimica. Il numero dei posti disponibili e' fissato in sette per anno. Qualora gli aspiranti siano in numero superiore ai posti disponibili, i candidati dovranno sostenere una prova scritta ed attitudinale e l'ammissione sara' determinata in base alla graduatoria.
 
-La frequenza alle lezioni ed alle esercitazioni pratiche e' obbligatoria.
+Art. 122. - Il corso di specializzazione ha la durata di anni due, durante i quali gli iscritti hanno l'obbligo di frequentare le lezioni e le esercitazioni pratiche.
 
-Gli allievi che non conseguono le attestazioni di frequenza sul relativo libretto non potranno essere ammessi a sostenere le prove di esame.
+Art. 123. - La firma di frequenza e' necessaria per la ammissione agli esami di profitto che saranno sostenuti alla fine di ogni anno accademico. Al termine del biennio, per il conseguimento del diploma, e' prevista una prova di esame finale che vertera' sulla discussione di un lavoro sperimentale condotto dal candidato durante il biennio.
 
-Alla fine di ogni anno di corso gli iscritti per essere ammessi agli anni successivi, devono superare le prove di esame sulle materie impartite durante l'anno.
-
-Per le materie biennali o triennali l'esame sara' sostenuto alla fine del biennio o del triennio.
-
-I corsi saranno integrati ogni anno da periodi obbligatori di tirocinio in servizi di medicina del lavoro e di igiene industriale.
-
-Al termine del corso di studi per il conseguimento del diploma di specialista in medicina del lavoro, gli interessati dovranno superare l'esame di diploma consistente nella dissertazione scritta su un argomento attinente alla specializzazione.
-
-L'art. 129, secondo comma, relativo alla scuola di specializzazione in medicina interna, e' modificato nel senso che il numero degli iscritti e' stabilito in settantacinque (75) per l'intero corso di studi.
-
-Nello stesso art. 129 il quinto e sesto comma sono soppressi.
-
-L'art. 137, relative alla scuola di specializzazione in microbiologia, e' modificato nel senso che il terzo comma e' soppresso.
-
-La scuola di specializzazione in oculistica di cui agli articoli 138, 139, 140, muta la denominazione in quella di scuola di specializzazione in oftalmologia.
-
-Gli articoli 148, 149, 150, 151, 152, 153, relativi alla scuola di specializzazione in chirurgia plastica ricostruttiva, che muta la denominazione in quella di scuola di specializzazione in chirurgia plastica, sono abrogati e sostituiti dai seguenti:
-
-Scuola di specializzazione in chirurgia plastica
-
-Art. 148. - La scuola di specializzazione in chirurgia plastica ha sede presso l'istituto di clinica chirurgica e conferisce il diploma di specialista in chirurgia plastica.
-
-Art. 149. - La direzione della scuola e' affidata al professore di ruolo o fuori ruolo della stessa materia della specializzazione o, in carenza, al professore di ruolo o fuori ruolo della materia affine.
-
-Art. 150. - Possono iscriversi alla scuola di specializzazione i laureati in medicina e chirurgia. E' richiesto almeno all'inizio del corso il possesso del diploma di abilitazione all'esercizio professionale rilasciato dalla autorita' competente.
-
-La durata del corso di studi e' di cinque anni e non e' suscettibile di abbreviazioni.
-
-Il numero massimo degli allievi e' di quattro (4) per anno di corso e complessivamente di venti iscritti per l'intero corso di studi.
-
-L'ammissione al corso avviene per titoli ed esami.
-
-Art. 151. - Le materie di insegnamento sono le seguenti:
+Art. 124. - La scuola di specializzazione comprende i seguenti insegnamenti:
 
 1° Anno:
 
-anatomia ed embriologia con particolare riguardo al capo, al collo, arti superiori ed inferiori, organi genitali;
+anatomia ed ampelografia viticola;
 
-patologia generale (infezioni, flogosi, immunita', etiopatogenesi delle malformazioni congenite, neoplasie maligne e benigne);
+biochimica e fisiologia della vite;
 
-anatomia ed istopatologia, con particolare riferimento alla malattia-ustione e alle neoplasie maligne e benigne;
+metodologia della ricerca viticola;
 
-anestesiologia e rianimazione: concetti generali;
+tecniche moderne di laboratorio;
 
-patologia secondaria;
+geografia viticola;
 
-guarigione delle ferite;
+viticoltura generale (ecologia, propagazione, potatura, ecc.);  genetica e miglioramento della vite;
 
-principi e regole pratiche di chirurgia (strumenti, sterilita', emostasi);
-
-trapianti I;
-
-autoinnesti: indicazioni per l'utilizzazione terapeutica di cute, derma, grasso, fascia, cartilagine, ossa, tendini, segmenti nervosi e tessuti composti;
-
-semeiologia del sistema nervoso periferico.
+nutrizione della vite (idrica, minerale, carbonica).
 
 2° Anno:
 
-anatomia chirurgica;
+entomologia, nematologia ed acarologia viticola;
 
-tecniche e procedure operatorio in chirurgia generale e in chirurgia plastica;
+patologia e virologia viticola;
 
-trapianti II;
+meccanica viticola;
 
-omoinnesti: concetti generali (con particolare riferimento agli aspetti genetici e immunitari);
+tecniche di coltura delle uve da vino, da tavola e da essiccare;
 
-tipizzazione dei tessuti;
+economia del mercato viticolo e cooperazione in viticoltura;
 
-utilizzazione clinica degli omoinnesti;
+legislazione viticola nazionale ed internazionale;
 
-etero-innesti: estensione e limiti della loro utilizzazione clinica;
+enologia.
 
-traumatologia dei tessuti molli;
+Ai corsi di insegnamento saranno annessi seminari, esercitazioni e dimostrazioni pratiche, nei campi sperimentali viticoli ed il laboratorio.
 
-traumi complessi interessanti cute, tessuti molli e ossa;
+Art. 125. - Il direttore della scuola e' il direttore dell'istituto di coltivazioni arboree e viticoltura. Gli insegnanti della scuola sono proposti dal direttore della stessa, approvati dalla facolta' e nominati dal rettore.
 
-shock emorragico;
+Essi possono essere scelti tra i professori ufficiali, tra i liberi docenti, tra gli aiuti e gli assistenti della facolta' di agraria o di altre facolta' dell'Universita' cattolica o dell'Universita' statale o da Universita' e istituti sperimentali stranieri o tra persone di riconosciuta competenza anche al di fuori dell'ambito universitario.
 
-shock traumatico;
+Art. 126. - Gli organi della scuola di specializzazione sono:
 
-shock da ustione;
+a) il direttore;
 
-malattia-ustione: fisiopatologia e clinica I;
+b) il consiglio.
 
-inserti non biologici: estensione e limiti della loro utilizzazione clinica.
+Scuola di specializzazione in alimentazione del bestiame
 
-3° Anno:
+Art. 127. - La scuola deve dare conoscenze fondamentali e specifiche sull'alimentazione degli animali di interesse zootecnico (bovini, suini, ecc.) con particolare rilievo per quanto riguarda: aspetti fisiologici e biochimici della nutrizione; caratteristiche degli alimenti in merito a conservazione, valutazione alimentare, tossicita'; fabbisogno e razionamento degli animali; preparazione degli alimenti, patologia della nutrizione.
 
-malattia-ustione: terapia medica e chirurgica II;
+Art. 128. - Alla scuola sono ammessi: laureati in scienze agrarie, medicina veterinaria, scienze delle produzioni animali, farmacia, chimica, chimica industriale, scienze biologiche, scienze delle produzioni alimentari.
 
-lesioni da raggi;
+Il numero massimo di iscrizioni e' fissato in cinque per anno.
 
-elementi di chirurgia addominale;
+Qualora gli aspiranti siano in numero superiore ai posti disponibili i candidati dovranno sostenere una prova scritta e attitudinale e l'ammissione sara' determinata in base alla graduatoria.
 
-elementi di otorinolaringoiatria;
+Art. 129. - Il corso di specializzazione ha la durata di anni due durante i quali gli iscritti hanno l'obbligo di frequentare le lezioni e le esercitazioni pratiche.
 
-elementi di stomatologia;
+Art. 130. - La firma di frequenza e' necessaria per la ammissione agli esami di profitto che saranno sostenuti alla fine di ogni anno accademico. Al termine del biennio e' prevista una prova di esame finale con la presentazione e discussione di un lavoro sperimentale per il conseguimento del diploma di specialista in alimentazione del bestiame.
 
-elementi di ortopedia generale;
-
-dermatologia generale, con specifico riferimento alle malattie o lesioni congenite di competenza plastica, passibili di trattamento chirurgico I;
-
-elementi di genetica.
-
-4° Anno:
-
-metodologia chirurgica differenziale;
-
-malformazioni congenite del volto, delle mani e degli organi genitali;
-
-agenesie;
-
-chirurgia riparatrice e ricostruttiva della mano;
-
-trattamento chirurgico delle lesioni del volto e delle fratture del massiccio facciale;
-
-trattamento chirurgico delle deformita' congenite e acquisite del naso, delle labbra, del mento, della mandibola, del palato, del pavimento dell'orbita, del padiglione auricolare;
-
-metodologia chirurgica differenziale applicata ai danni anatomici e funzionali derivanti dalla paralisi del settimo;
-
-chirurgia d'urgenza;
-
-dermatologia generale con specifico riferimento alle malattie o lesioni congenite di competenza plastica, passabili di trattamento chirurgico II.
-
-5° Anno:
-
-patologia traumatica delle arterie e dei nervi periferici;
-
-elementi di chirurgia vascolare;
-
-microchirurgia vascolare e nervosa;
-
-elementi di criobiologia e crioterapia;
-
-elementi di fisio-chinesiterapia;
-
-problemi psichiatrici e psicologici in chirurgia plastica;
-
-medicina legale e delle assicurazioni, con particolare riferimento alle deformita' anatomiche e alle menomazioni funzionali di origine traumatica.
-
-Art. 152. - La frequenza alle lezioni ed alle esercitazioni pratiche e' obbligatoria.
-
-Gli allievi che non conseguono l'attestazione di frequenza sul relativo libretto non potranno essere ammessi a sostenere le prove di esame.
-
-E' fatto obbligo agli allievi del primo biennio a presenziare ad un minimo di trenta sedute operatorie per anno; gli allievi del 3°, 4°, 5° anno dovranno partecipare quali primi assistenti ad un numero di cinquanta interventi per anno.
-
-Art. 153. - Alla fine di ogni anno di corso gli iscritti per essere ammessi agli anni di corso successivi devono superare le prove di esame sulle materie impartite durante l'anno; per le materie a corsi pluriennali l'esame sara' sostenuto alla fine dei corsi medesimi.
-
-Al termine del corso di studi per il conseguimento del diploma di specialista in chirurgia plastica, gli interessati dovranno superare l'esame di diploma consistente nella dissertazione scritta di un argomento attinente alla specializzazione.
-
-La scuola di specializzazione in odontoiatria e protesi dentaria di cui agli articoli 154, 155 muta la denominazione in quella di scuola di specializzazione in odontostomatologia.
-
-Dopo l'art. 155, e con il conseguente spostamento della numerazione degli articoli successivi, sono inseriti i seguenti nuovi articoli relativi alla istituzione della scuola di specializzazione in medicina legale e delle assicurazioni.
-
-Scuola di specializzazione in medicina legale e delle assicurazioni Art. 156. - Presso l'istituto di medicina legale e delle assicurazioni e' istituita la scuola di specializzazione in medicina legale e delle assicurazioni.
-
-La durata del corso di studi e' di anni 3 (tre).
-
-Direttore della scuola e' il titolare della cattedra di medicina legale e delle assicurazioni.
-
-Alla scuola possono iscriversi solo i laureati in medicina e chirurgia in numero limitato a quindici per l'intero corso di studi.
-
-Art. 157. - Le materie di insegnamento della scuola sono:
+Art. 131. - La scuola di specializzazione comprende i seguenti insegnamenti:
 
 1° Anno:
 
-medicina legale generale;
+fisiologia animale;
 
-elementi di diritto pubblico e privato;
+biochimica della nutrizione;
 
-tecnica e diagnostica anatomo-patologica generale e medico-legale;
+miglioramento genetico degli animali;
 
-traumatologia medico-legale;
-
-semeiotica medico-legale.
+valutazione degli alimenti.
 
 2° Anno:
 
-medicina legale penalistica;
+tecnica della conservazione degli alimenti;
 
-deontologia medica;
+tecnica mangimistica;
 
-neuropsichiatria medico-legale;
+fisiologia e patologia della nutrizione;
 
-elementi di medicina criminologica e di medicina penitenziaria; indagini di sopralluogo;
+zooeconomia.
 
-identificazione personale.
+Ai corsi di insegnamento sono annesse esercitazioni e dimostrazioni pratiche.
 
-3° Anno:
+Art. 132. - Il direttore della scuola e' il direttore dell'istituto di zootecnica. Gli insegnanti della scuola sono proposti dal direttore della stessa, approvati dalla facolta' e nominati dal rettore. Essi possono essere scelti tra i professori ufficiali, tra i liberi docenti, tra gli aiuti ed assistenti della facolta' di agraria o di altre facolta' dell'Universita' cattolica o dell'Universita' statale o tra persone di riconosciuta competenza anche al di fuori dell'ambito universitario.
 
-medicina legale civilista e canonistica;
+Art. 133. - Gli organi della scuola di specializzazione sono:
 
-tossicologia medico-legale;
+a) il direttore;
 
-tecniche di laboratorio medico-legale ed ematologia forense;
+b) il consiglio.
 
-ostetricia e ginecologia forense;
+Dopo l'art. 133 e' inserita, con il conseguente spostamento della numerazione delle parti e degli articoli successivi, la parte VII, con i relativi titoli ed articoli, concernente la istituzione, presso la facolta' di agraria, della scuola diretta a fini speciali di orticoltura.
 
-elementi di legislazione del lavoro;
+PARTE VII
 
-medicina delle assicurazioni;
+DELLE SCUOLE DIRETTE A FINI SPECIALI
 
-medicina legale militare e pensionistica civile.
+Titolo I
 
-Art. 158. - Gli insegnamenti hanno carattere essenzialmente dimostrativo e di pratica esercitazione e saranno integrati da periodi di internato della durata di almeno sei mesi per anno.
+FACOLTA' DI AGRARIA
 
-Possono essere organizzate inoltre conferenze pratiche da tenersi da docenti di altre materie che abbiano attinenza con gli scopi della scuola.
+Scuola di orticoltura
 
-Art. 159. - Alla fine di ogni anno di corso gli allievi, i quali abbiano frequentato il corso stesso, dovranno sostenere e superare tutti gli esami previsti dal piano degli studi ai fini dell'iscrizione all'anno successivo.
+Art. 134. - La scuola fornisce conoscenze di base e nozioni specifiche sulle piante da orto e sulla loro coltivazione. In particolare verra' curato lo studio della morfologia, della sistematica, della fisiologia, del miglioramento genetico delle piante da orto, delle tecniche delle coltivazioni sia in pieno campo che in serra, dei problemi della difesa fitosanitaria, delle tecniche di conservazione dei prodotti, della commercializzazione degli stessi, ecc. La scuola conferisce il diploma di orticoltore.
 
-Alla fine del triennio gli allievi, i quali abbiano frequentato i corsi ed eseguito le esercitazioni, saranno ammessi alle prove di esame per il conseguimento del diploma.
+Art. 135. - Alla scuola sono ammessi gli aspiranti forniti di diploma di perito agrario e di agrotecnico o di eventuali diplomi rilasciati da scuole medie superiori, di durata almeno quinquennale, ad indirizzo agrario. Cio' al fine di poter presupporre negli iscritti una preparazione di base omogenea.
 
-Gli esami consisteranno in una prova orale teorica e pratica sulle materie di insegnamento e nella discussione di una dissertazione sopra un argomento attinente all'insegnamento della scuola.
+Il numero degli iscritti e' fissato in dieci per ogni anno.
 
-I candidati non riconosciuti idonei all'esame di diploma si potranno ripresentare dopo un altro anno di frequenza alla scuola; se al secondo esame non sara' loro riconosciuta l'idoneita', verranno senz'altro esclusi da ulteriori prove.
+Art. 136. - La scuola ha la durata di due anni.
 
-Art. 160. - Agli allievi i quali abbiano ottenuto l'approvazione nell'esame di diploma verra' rilasciato il diploma di specializzazione in medicina legale e delle assicurazioni, valido a tutti gli effetti di legge.
+Gli iscritti hanno l'obbligo della frequenza. Al termine (del primo anno debbono essere sostenuti gli esami di profitto e le eventuali prove pratiche previste. Al secondo corso vengono ammessi soltanto coloro che hanno superato gli esami del primo anno.
+
+Per essere ammesso all'esame di diploma, consistente nella discussione di un lavoro sperimentale, lo studente deve aver seguito tutti i corsi previsti e superato i rispettivi esami di profitto.
+
+Art. 137. - Le materie di insegnamento della scuola sono:
+
+1° Anno:
+
+botanica generale (morfologia, anatomia e fisiologia);
+
+botanica delle piante orticole;
+
+principi di agronomia e tecnica delle coltivazioni I;
+
+genetica vegetale, miglioramento genetico;
+
+valore alimentare e conservazione degli ortaggi.
+
+2° Anno:
+
+entomologia generale ed orticola;
+
+patologia vegetale;
+
+tecnica delle culture protette e idroponiche;
+
+commercializzazione e marketing degli ortaggi;
+
+principi di agronomia e tecnica delle coltivazioni II.
+
+I singoli corsi prevedono l'intervento di diversi docenti in relazione alla loro competenza specifica; seminari ed esercitazioni pratiche sono parte integrante dei singoli corsi di insegnamento.
+
+Nei corsi di botanica verra' dato molto spazio alla fisiologia delle piante orticole e ai cicli dei principali funghi patogeni.
+
+Nel corso di genetica vegetale e di miglioramento genetico si prevedono numerose esercitazioni pratiche e seminari.
+
+Nei corsi di principi di agronomia e di tecnica delle colture protette e idroponiche sara' data larga parte al lavoro pratico e alla visita ad aziende specializzate.
+
+Nel corso di entomologia verra' affrontato lo studio degli insetti utili e dannosi alle colture orticole e della difesa dei fitofagi.
+
+Nel corso di patologia vegetale si esamineranno i principali agenti patogeni, i danni arrecati e i mezzi di difesa preventiva e curativa.
+
+Nel corso sulla commercializzazione e il marketing verranno impartite nozioni sulle tecniche per le indagini di mercato e le modalita' della commercializzazione degli ortaggi.
+
+Art. 138. - I docenti scelti fra gli specialisti del settore, saranno proposti dal consiglio di facolta'; la loro nomina spetta al rettore.
+
+Direttore della scuola e' il direttore dell'istituto di agronomia.
+
+Spetta al direttore coordinare l'attivita' didattica della scuola.
+
+Art. 139. - Gli organi della scuola sono:
+
+a) il direttore;
+
+b) il consiglio.
+
+Art. 140. - Le tasse e soprattasse relative alla scuola diretta a fini speciali di orticoltura sono fissate nella misura seguente:
+
+tassa di immatricolazione . . . . . . . . . . . . . . . L. 35.000 tassa annuale di iscrizione . . . . . . . . . . . . . . L. 85.000 soprattassa di esame. . . . . . . . . . . . . . . . . . L. 30.000
+
+I contributi sono stabiliti all'inizio di ogni anno dal consiglio di amministrazione, sentito il parere del consiglio di facolta'.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 
@@ -544,295 +436,247 @@ MALFATTI
 
 Visto, il Guardasigilli: BONIFACIO
 
-Registrato
-----------
+Registrato alla Corte dei conti, addi' 15 luglio 1978 Registro n. 75 Istruzione, foglio n. 308
 
-alla Corte dei conti, addi' 9 agosto 1978 Registro n. 89 Istruzione, foglio n. 199
+## Art. 1.
 
-Art. 1
-------
-
- IL PRESIDENTE DELLA REPUBBLICA   
-  
-Veduto lo statuto dell'Universita' cattolica del Sacro Cuore di Milano, approvato con [regio decreto 20 aprile 1939, n. 1163](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1163) e modificato con [regio decreto 26 ottobre 1940, n. 2030](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-26;2030), e successive modificazioni;   
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);   
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);   
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;   
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;   
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' cattolica del Sacro Cuore di Milano e convalidati dal Consiglio superiore della pubblica istruzione nel suo parere;   
-Sentito il parere del Consiglio superiore della pubblica istruzione;   
-Sulla proposta del Ministro della pubblica istruzione;   
-  
-Decreta:   
-  
-Lo statuto dell'Universita' cattolica del Sacro Cuore di Milano, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:   
-L'art. 102, relativo alle norme generali per le scuole di specializzazione in medicina e chirurgia, e' modificato nel senso che il secondo e terzo comma sono abrogati e sostituiti dai seguenti:   
-"La durata dei corsi di specializzazione non e' suscettibile di abbreviazioni.   
-La frequenza ai corsi teorico-pratici e l'internato sono obbligatori. Alle scuole di specializzazione possono iscriversi solo i laureati in medicina e chirurgia".   
-Art. 103, primo comma - e' modificato nel senso che la scuola di specializzazione in ematologia clinica e di laboratorio muta la denominazione in quella di scuola di specializzazione in ematologia generale.   
-Nello stesso art. 103 il quarto ed il quinto comma sono soppressi.   
-L'art. 104, relativo alla scuola di specializzazione in malattie dell'apparato cardiovascolare, che muta la denominazione in quella di scuola di specializzazione in cardiologia, e' abrogato e sostituito dal seguente:   
-  
-Scuola di specializzazione in cardiologia   
-Art. 104. - La scuola di specializzazione in cardiologia ha sede presso l'istituto di patologia speciale medica della facolta' di medicina e chirurgia dell'Universita' cattolica del Sacro Cuore e conferisce il diploma di specialista in cardiologia.   
-La direzione della scuola e' affidata al professore di ruolo e fuori ruolo della stessa materia o della materia di cui la cardiologia e' parte. Possono iscriversi alla scuola di specializzazione i laureati in medicina e chirurgia in possesso del diploma di abilitazione all'esercizio professionale rilasciato dall'autorita' competente.   
-La durata del corso di studi e' di quattro anni e non e' suscettibile di abbreviazioni.   
-Il numero massimo degli allievi e' di quindici per anno di corso, e complessivamente di sessanta iscritti per l'intero corso di studi.   
-L'ammissione al corso avviene per titoli ed esami.   
-Le materie di insegnamento sono le seguenti:   
-1° Anno:   
-1) anatomia umana normale ed embriologia dell'apparato cardiovascolare;   
-2) fisiologia dell'apparato cardiovascolare (I);   
-3) biochimica e biofisica;   
-4) semeiotica fisica e strumentale dell'apparato cardiovascolare (I);   
-5) informatica medica e strumentazione biomedica (I);   
-2° Anno:   
-1) anatomia patologica (I)   
-2) fisiologia dell'apparato cardiovascolare (II);   
-3) patologia e clinica cardiovascolare (I);   
-4) semeiotica fisica e strumentale dell'apparato cardiovascolare (II);   
-5) informatica medica e strumentazione biomedica (II);   
-6) radiologia (I);   
-7) aspetti sociali ed epidemiologici delle malattie cardiovascolari.   
-3° Anno:   
-1) anatomia patologica (II);   
-2) semeiotica fisica e strumentale dell'apparato cardiovascolare (III);   
-3) patologia e clinica cardiovascolare (Il);   
-4) radiologia (II);   
-5) terapia medica e farmacologia clinica (I).   
-4° Anno:   
-1) semeiotica fisica e strumentale dell'apparato cardiovascolare (IV);   
-2) patologia e clinica cardiovascolare (III);   
-3) terapia medica e farmacologia clinica (II);   
-4) terapia chirurgica;   
-5) terapie intensive cardiologiche.   
-La frequenza alle lezioni e alle esercitazioni pratiche e' obbligatoria.   
-Gli allievi che non conseguono le attestazioni di frequenza sul relativo libretto non potranno essere ammessi a sostenere le prove di esame.   
-Alla fine di ogni corso gli iscritti, per essere ammessi agli anni di corso successivi, devono superare le prove di esame sulle materie impartite durante l'anno.   
-Al termine del corso di studi per il conseguimento del diploma di specialista in cardiologia gli interessati dovranno superare l'esame di diploma consistente nella dissertazione scritta su un argomento di carattere cardiologico.   
-L'art. 105, secondo comma, relativo alla scuola di specializzazione in oncologia, e' modificato nel senso che il numero degli iscritti e' stabilito in quarantacinque (45) per l'intero corso di studi.   
-Art. 106, primo comma - e' modificato nel senso che la scuola di specializzazione in otorinolaringoiatria e patologia cervico-facciale muta la denominazione in quella di scuola di specializzazione in otorinolaringoiatria.   
-Nello stesso art. 106 il settimo comma e' soppresso.   
-L'art. 108, relativo alla scuola di specializzazione in patologia generale, e' modificato nel senso che il terzo comma e' soppresso.   
-Nello stesso art. 108 le denominazioni delle materie di insegnamento del 1° anno di corso "biologia generale (cause patogene: fisiche, chimiche e biologiche)" e "patologia delle infezioni" sono modificate nel modo seguente:   
-eziologia generale (cause patogene: fisiche, chimiche e biologiche);   
-patologia delle infezioni.   
-L'art. 109, terzo comma, relativo alla scuola di specializzazione in anestesiologia e rianimazione, e' modificato nel senso che il numero degli iscritti e' stabilito in settantacinque per l'intero corso di studi.   
-Art. 110, secondo comma - il numero degli iscritti da ammettere alla scuola di specializzazione in radiologia e' stabilito in ottantaquattro (84) per l'intero corso di studi.   
-L'art. 111, primo comma, relativo alla scuola di specializzazione in chirurgia vascolare, e' modificato nel senso che il numero degli iscritti e' stabilito in cinquantaquattro (54) per l'intero corso di studi.   
-L'art. 112, relativo alla scuola di specializzazione in ostetricia e ginecologia, che muta la denominazione in quella di scuola di specializzazione in ginecologia ed ostetricia, e' abrogato e sostituito dal seguente:   
-  
-Scuola di specializzazione in ginecologia e ostetricia   
-Art. 112. - La scuola di specializzazione in ginecologia ed ostetricia ha sede presso l'istituto di clinica ostetrica e ginecologica e conferisce il diploma di specialista in ginecologia e ostetricia.   
-La direzione della scuola e' affidata al professore di ruolo della stessa materia della specializzazione o, in carenza, al professore di ruolo o fuori ruolo di materia affine.   
-Possono iscriversi alla scuola i laureati in medicina e chirurgia.  
-E' richiesto, almeno all'inizio del corso, il possesso del diploma di abilitazione all'esercizio professionale rilasciato dall'autorita' competente.   
-La durata del corso di studi e' di quattro anni e non e' suscettibile di abbreviazioni.   
-Il numero massimo degli allievi e' di dodici per anno di corso e complessivamente di quarantotto iscritti per l'intero corso di studi.   
-L'ammissione al corso avviene per titoli ed esami.   
-Le materie di insegnamento sono le seguenti:   
-1° Anno:   
-elementi di genetica medica;   
-elementi di embriologia; anatomia macro e micro dell'apparato genitale femminile; anatomia delle pelvi;   
-elementi di fisiopatologia della riproduzione umana;   
-fisiologia ostetrica;   
-endocrinologia ginecologica ed ostetrica;   
-semeiotica e diagnostica ostetrica;   
-patologia ostetrica e ginecologica (I);   
-lingua straniera (inglese) (I).   
-2° Anno:   
-semeiotica e diagnostica ginecologica;   
-operazioni ostetriche (I);   
-anatomia ed istologia patologica della sfera genitale femminile;   
-citologia ginecologica;   
-patologia ostetrica e ginecologica (II);   
-diagnostica di laboratorio in ostetricia e ginecologia;   
-lingua straniera (inglese) (II).   
-3° Anno:   
-puericultura prenatale;   
-immunologia ostetrica e ginecologica;   
-analgo-anestesia e rianimazione in ostetricia;   
-operazioni ostetriche (II);   
-operazioni ginecologiche (I);   
-ostetricia e ginecologia forense;   
-terapia medica in ostetricia e ginecologia;   
-clinica ostetrica e ginecologica (I);   
-psicosomatica ostetrica e ginecologica;   
-lingua straniera (inglese) (III).   
-4° Anno:   
-neonatologia;   
-urologia ginecologica;   
-radio-diagnostica e terapia fisica in ostetricia e ginecologia; chirurgia addominale;   
-operazioni ginecologiche (II);   
-clinica ostetrica e ginecologica;   
-lingua straniera (inglese) (IV).   
-La frequenza alle lezioni ed alle esercitazioni pratiche e' obbligatoria.   
-Gli allievi che non conseguono le attestazioni di frequenza sul relativo libretto non potranno essere ammessi a sostenere le prove di esame.   
-Alla fine di ogni anno di corso gli iscritti per essere ammessi agli anni di corso successivi devono superare le prove di esame sulle materie impartite durante l'anno. Per le materie a corsi pluriennali l'esame sara' sostenuto alla fine dei corsi medesimi.   
-Al termine del corso di studi per il conseguimento del diploma di specialista in ginecologia ed ostetricia, gli interessati dovranno superare l'esame di diploma su un argomento attinente alla specializzazione.   
-L'art. 113, relativo alla scuola di specializzazione in neurologia, e' modificato nel senso che il sesto comma e' soppresso.   
-L'art. 114, relativo alla scuola di specializzazione in psichiatria, e' modificato nel senso che il quinto comma e' soppresso.   
-L'art. 119, secondo comma, relativo alla scuola di specializzazione in malattie dell'apparato digerente, e' modificato nel senso che il numero degli iscritti e' stabilito in trenta (30) per l'intero corso di studi.   
-L'art. 125, relativo alla scuola di specializzazione in endocrinologia, e' modificato nel senso che il terzo comma e' soppresso.   
-Gli articoli 126, 127 e 128, relativi alla scuola di specializzazione in medicina del lavoro, sono abrogati e sostituiti dai seguenti:   
-  
-Scuola di specializzazione in medicina del lavoro   
-Art. 126. - La scuola di specializzazione in medicina del lavoro ha sede presso l'istituto di medicina del lavoro e conferisce il diploma di specialista in medicina del lavoro.   
-La direzione della scuola e' affidata al professore di ruolo o fuori ruolo della stessa materia della specializzazione o, in carenza, al professore di ruolo o fuori ruolo di materia affine.   
-Possono iscriversi alla scuola i laureati in medicina e chirurgia.   
-E' richiesto, almeno all'inizio del corso, il possesso del diploma di abilitazione all'esercizio professionale rilasciato dall'autorita' competente.   
-La durata del corso di studi e' di quattro anni e non e' suscettibile di abbreviazioni.   
-Il numero massimo degli allievi e' di quindici per anno di corso e complessivamente di sessanta iscritti per l'intero corso di studi.   
-L'ammissione al corso avviene per titoli ed esami.   
-Art. 127. - Le materie di insegnamento sono le seguenti:   
-1° Anno:   
-igiene del lavoro (I);   
-fisiologia del lavoro ed ergonomia (I);   
-tecnologia industriale;   
-statistica medica e biometria;   
-tecniche di laboratorio.   
-2° Anno:   
-patologia e clinica delle malattie da lavoro (I);   
-igiene del lavoro (II);   
-fisiologia del lavoro ed ergonomia (II);   
-psicologia del lavoro;   
-tossicologia industriale.   
-3° Anno:   
-patologia e clinica delle malattie da lavoro (Il);   
-prevenzione degli infortuni e delle malattie da lavoro (I);   
-epidemiologia delle malattie da lavoro;   
-radiobiologia e radioprotezione;   
-dermatologia professionale.   
-4° Anno:   
-patologia e clinica delle malattie da lavoro (III);   
-prevenzione degli infortuni e delle malattie da lavoro (II);   
-pronto soccorso;   
-medicina legale e delle assicurazioni;   
-organizzazione dei servizi di medicina e igiene del lavoro.   
-Art. 128. - Le materie fondamentali anzidette potranno essere integrate con insegnamenti facoltativi stabiliti, su proposta del direttore della scuola, di anno in anno.   
-La frequenza alle lezioni ed alle esercitazioni pratiche e' obbligatoria.   
-Gli allievi che non conseguono le attestazioni di frequenza sul relativo libretto non potranno essere ammessi a sostenere le prove di esame.   
-Alla fine di ogni anno di corso gli iscritti per essere ammessi agli anni successivi, devono superare le prove di esame sulle materie impartite durante l'anno.   
-Per le materie biennali o triennali l'esame sara' sostenuto alla fine del biennio o del triennio.   
-I corsi saranno integrati ogni anno da periodi obbligatori di tirocinio in servizi di medicina del lavoro e di igiene industriale.   
-Al termine del corso di studi per il conseguimento del diploma di specialista in medicina del lavoro, gli interessati dovranno superare l'esame di diploma consistente nella dissertazione scritta su un argomento attinente alla specializzazione.   
-L'art. 129, secondo comma, relativo alla scuola di specializzazione in medicina interna, e' modificato nel senso che il numero degli iscritti e' stabilito in settantacinque (75) per l'intero corso di studi.   
-Nello stesso art. 129 il quinto e sesto comma sono soppressi.   
-L'art. 137, relative alla scuola di specializzazione in microbiologia, e' modificato nel senso che il terzo comma e' soppresso.   
-La scuola di specializzazione in oculistica di cui agli articoli 138, 139, 140, muta la denominazione in quella di scuola di specializzazione in oftalmologia.   
-Gli articoli 148, 149, 150, 151, 152, 153, relativi alla scuola di specializzazione in chirurgia plastica ricostruttiva, che muta la denominazione in quella di scuola di specializzazione in chirurgia plastica, sono abrogati e sostituiti dai seguenti:   
-  
-Scuola di specializzazione in chirurgia plastica   
-Art. 148. - La scuola di specializzazione in chirurgia plastica ha sede presso l'istituto di clinica chirurgica e conferisce il diploma di specialista in chirurgia plastica.   
-Art. 149. - La direzione della scuola e' affidata al professore di ruolo o fuori ruolo della stessa materia della specializzazione o, in carenza, al professore di ruolo o fuori ruolo della materia affine.   
-Art. 150. - Possono iscriversi alla scuola di specializzazione i laureati in medicina e chirurgia. E' richiesto almeno all'inizio del corso il possesso del diploma di abilitazione all'esercizio professionale rilasciato dalla autorita' competente.   
-La durata del corso di studi e' di cinque anni e non e' suscettibile di abbreviazioni.   
-Il numero massimo degli allievi e' di quattro (4) per anno di corso e complessivamente di venti iscritti per l'intero corso di studi.   
-L'ammissione al corso avviene per titoli ed esami.   
-Art. 151. - Le materie di insegnamento sono le seguenti:   
-1° Anno:   
-anatomia ed embriologia con particolare riguardo al capo, al collo, arti superiori ed inferiori, organi genitali;   
-patologia generale (infezioni, flogosi, immunita', etiopatogenesi delle malformazioni congenite, neoplasie maligne e benigne);   
-anatomia ed istopatologia, con particolare riferimento alla malattia-ustione e alle neoplasie maligne e benigne;   
-anestesiologia e rianimazione: concetti generali;   
-patologia secondaria;   
-guarigione delle ferite;   
-principi e regole pratiche di chirurgia (strumenti, sterilita', emostasi);   
-trapianti I;   
-autoinnesti: indicazioni per l'utilizzazione terapeutica di cute, derma, grasso, fascia, cartilagine, ossa, tendini, segmenti nervosi e tessuti composti;   
-semeiologia del sistema nervoso periferico.   
-2° Anno:   
-anatomia chirurgica;   
-tecniche e procedure operatorio in chirurgia generale e in chirurgia plastica;   
-trapianti II;   
-omoinnesti: concetti generali (con particolare riferimento agli aspetti genetici e immunitari);   
-tipizzazione dei tessuti;   
-utilizzazione clinica degli omoinnesti;   
-etero-innesti: estensione e limiti della loro utilizzazione clinica;   
-traumatologia dei tessuti molli;   
-traumi complessi interessanti cute, tessuti molli e ossa;   
-shock emorragico;   
-shock traumatico;   
-shock da ustione;   
-malattia-ustione: fisiopatologia e clinica I;   
-inserti non biologici: estensione e limiti della loro utilizzazione clinica.   
-3° Anno:   
-malattia-ustione: terapia medica e chirurgica II;   
-lesioni da raggi;   
-elementi di chirurgia addominale;   
-elementi di otorinolaringoiatria;   
-elementi di stomatologia;   
-elementi di ortopedia generale;   
-dermatologia generale, con specifico riferimento alle malattie o lesioni congenite di competenza plastica, passibili di trattamento chirurgico I;   
-elementi di genetica.   
-4° Anno:   
-metodologia chirurgica differenziale;   
-malformazioni congenite del volto, delle mani e degli organi genitali;   
-agenesie;   
-chirurgia riparatrice e ricostruttiva della mano;   
-trattamento chirurgico delle lesioni del volto e delle fratture del massiccio facciale;   
-trattamento chirurgico delle deformita' congenite e acquisite del naso, delle labbra, del mento, della mandibola, del palato, del pavimento dell'orbita, del padiglione auricolare;   
-metodologia chirurgica differenziale applicata ai danni anatomici e funzionali derivanti dalla paralisi del settimo;   
-chirurgia d'urgenza;   
-dermatologia generale con specifico riferimento alle malattie o lesioni congenite di competenza plastica, passabili di trattamento chirurgico II.   
-5° Anno:   
-patologia traumatica delle arterie e dei nervi periferici;   
-elementi di chirurgia vascolare;   
-microchirurgia vascolare e nervosa;   
-elementi di criobiologia e crioterapia;   
-elementi di fisio-chinesiterapia;   
-problemi psichiatrici e psicologici in chirurgia plastica;   
-medicina legale e delle assicurazioni, con particolare riferimento alle deformita' anatomiche e alle menomazioni funzionali di origine traumatica.   
-Art. 152. - La frequenza alle lezioni ed alle esercitazioni pratiche e' obbligatoria.   
-Gli allievi che non conseguono l'attestazione di frequenza sul relativo libretto non potranno essere ammessi a sostenere le prove di esame.   
-E' fatto obbligo agli allievi del primo biennio a presenziare ad un minimo di trenta sedute operatorie per anno; gli allievi del 3°, 4°, 5° anno dovranno partecipare quali primi assistenti ad un numero di cinquanta interventi per anno.   
-Art. 153. - Alla fine di ogni anno di corso gli iscritti per essere ammessi agli anni di corso successivi devono superare le prove di esame sulle materie impartite durante l'anno; per le materie a corsi pluriennali l'esame sara' sostenuto alla fine dei corsi medesimi.   
-Al termine del corso di studi per il conseguimento del diploma di specialista in chirurgia plastica, gli interessati dovranno superare l'esame di diploma consistente nella dissertazione scritta di un argomento attinente alla specializzazione.   
-La scuola di specializzazione in odontoiatria e protesi dentaria di cui agli articoli 154, 155 muta la denominazione in quella di scuola di specializzazione in odontostomatologia.   
-Dopo l'art. 155, e con il conseguente spostamento della numerazione degli articoli successivi, sono inseriti i seguenti nuovi articoli relativi alla istituzione della scuola di specializzazione in medicina legale e delle assicurazioni.   
-Scuola di specializzazione in medicina legale e delle assicurazioni Art. 156. - Presso l'istituto di medicina legale e delle assicurazioni e' istituita la scuola di specializzazione in medicina legale e delle assicurazioni.   
-La durata del corso di studi e' di anni 3 (tre).   
-Direttore della scuola e' il titolare della cattedra di medicina legale e delle assicurazioni.   
-Alla scuola possono iscriversi solo i laureati in medicina e chirurgia in numero limitato a quindici per l'intero corso di studi.   
-Art. 157. - Le materie di insegnamento della scuola sono:   
-1° Anno:   
-medicina legale generale;   
-elementi di diritto pubblico e privato;   
-tecnica e diagnostica anatomo-patologica generale e medico-legale;   
-traumatologia medico-legale;   
-semeiotica medico-legale.   
-2° Anno:   
-medicina legale penalistica;   
-deontologia medica;   
-neuropsichiatria medico-legale;   
-elementi di medicina criminologica e di medicina penitenziaria; indagini di sopralluogo;   
-identificazione personale.   
-3° Anno:   
-medicina legale civilista e canonistica;   
-tossicologia medico-legale;   
-tecniche di laboratorio medico-legale ed ematologia forense;   
-ostetricia e ginecologia forense;   
-elementi di legislazione del lavoro;   
-medicina delle assicurazioni;   
-medicina legale militare e pensionistica civile.   
-Art. 158. - Gli insegnamenti hanno carattere essenzialmente dimostrativo e di pratica esercitazione e saranno integrati da periodi di internato della durata di almeno sei mesi per anno.   
-Possono essere organizzate inoltre conferenze pratiche da tenersi da docenti di altre materie che abbiano attinenza con gli scopi della scuola.   
-Art. 159. - Alla fine di ogni anno di corso gli allievi, i quali abbiano frequentato il corso stesso, dovranno sostenere e superare tutti gli esami previsti dal piano degli studi ai fini dell'iscrizione all'anno successivo.   
-Alla fine del triennio gli allievi, i quali abbiano frequentato i corsi ed eseguito le esercitazioni, saranno ammessi alle prove di esame per il conseguimento del diploma.   
-Gli esami consisteranno in una prova orale teorica e pratica sulle materie di insegnamento e nella discussione di una dissertazione sopra un argomento attinente all'insegnamento della scuola.   
-I candidati non riconosciuti idonei all'esame di diploma si potranno ripresentare dopo un altro anno di frequenza alla scuola; se al secondo esame non sara' loro riconosciuta l'idoneita', verranno senz'altro esclusi da ulteriori prove.   
-Art. 160. - Agli allievi i quali abbiano ottenuto l'approvazione nell'esame di diploma verra' rilasciato il diploma di specializzazione in medicina legale e delle assicurazioni, valido a tutti gli effetti di legge.   
-  
+IL PRESIDENTE DELLA REPUBBLICA 
+ 
+ Veduto lo statuto dell'Universita' cattolica del Sacro Cuore di Milano, approvato con [regio decreto 20 aprile 1939, n. 1163](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20del%20nuovo%20statuto%20della%20Universita%20cattolica%20del%20Sacro%20Cuore%20di%20Milano.%20039U1163.md) e modificato con [regio decreto 26 ottobre 1940, n. 2030](../Atti%20normativi%20abrogati%20%28in%20originale%29/Modificazioni%20allo%20statuto%20della%20Universita%20cattolica%20del%20%20Sacro%20Cuore%20%20di%20Milano.%20040U2030.md), e successive modificazioni; 
+ Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592); 
+ Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20R.%20decreto-legge%2020%20giugno%201935-XIII%20n.%201071%20contenente%20modifiche%20ed%20aggiornamenti%20al%20testo%20unico%20delle%20leggi%20sullistruzione%20superiore.%20036U0073.md); 
+ Veduto il [regio decreto 30 settembre 1938, n. 1652](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disposizioni%20sullordinamento%20didattico%20universitario.%20038U1652.md), e successive modificazioni. 
+ Veduta la [legge 11 aprile 1953, n. 312](../Atti%20normativi%20abrogati%20%28in%20originale%29/Libera%20inclusione%20di%20nuovi%20insegnamenti%20complementari%20negli%20statuti%20delle%20Universita%20e%20degli%20Istituti%20distruzione%20superiore.md); 
+ Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta; 
+ Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](https://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592#art_17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' cattolica del Sacro Cuore di Milano e convalidati dal Consiglio superiore della pubblica istruzione nel suo parere; 
+ Sentito il parere del Consiglio superiore della pubblica istruzione; 
+ Sulla proposta del Ministro della pubblica istruzione; 
+ 
+ Decreta: 
+ 
+ Lo statuto dell'Universita' cattolica del Sacro Cuore di Milano, approvato e modificato con i decreti sopra indicati, e' ulteriormente modificato come appresso: 
+ 
+ Art. 14 - all'elenco degli insegnamenti complementari del corso di laurea in lettere sono aggiunti i seguenti: 
+ psicologia religiosa; 
+ dialettologia italiana; 
+ epigrafia greca e latina; 
+ storia della storiografia antica; 
+ Art. 15 - all'elenco degli insegnamenti complementari del corso di laurea in filosofia e' aggiunto l'insegnamento di psicologia religiosa. 
+ Art. 16 - all'elenco degli insegnamenti complementari del corso di laurea in lingue e letterature straniere moderne e' aggiunto l'insegnamento di dialettologia italiana. 
+ Art. 19 - all'elenco degli insegnamenti complementari del corso di laurea in lingue e letterature straniere e' aggiunto l'insegnamento di fonetica e fonologia. 
+ Art. 21 - nell'elenco degli insegnamenti complementari del corso di laurea in scienze agrarie l'insegnamento complementare di viticoltura e' trasformato da semestrale ad annuale e sono aggiunti i seguenti insegnamenti: 
+ climatologia agraria; 
+ virologia. 
+ Dopo l'art. 97 e' inserito, con il conseguente spostamento della numerazione degli articoli successivi, il titolo IV con gli articoli relativi alla istituzione delle scuole di specializzazione della facolta' di agraria. 
+ 
+ Titolo IV 
+ 
+ FACOLTA' DI AGRARIA 
+ 
+ Art. 98. - Le scuole di specializzazione della facolta' di agraria hanno lo scopo di promuovere l'incremento scientifico e pratico delle singole branche delle scienze agrarie e di conferire i diplomi che abilitano al particolare esercizio delle medesime con la qualifica di specialista, a norma dell'art. 178 del testo unico delle leggi sull'istruzione superiore approvato con [regio decreto 31 agosto 1933, n. 1592](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592). La direzione di ciascuna scuola spetta al direttore dell'istituto da cui la scuola prende il nome o da cui essa e' emanazione. La durata dei corsi di specializzazione non e' suscettibile di abbreviazioni. 
+ Per ciascuna scuola e' fissato il numero massimo di iscrizioni.
+Potra' inoltre essere stabilito dalle autorita' accademiche un numero minimo di iscrizioni al primo anno indispensabili per lo svolgimento dei corsi. I corsi negli anni successivi saranno portati a termine qualunque sia il numero degli iscritti. 
+ In un manifesto annuale della segreteria vengono esposte le norme dettagliate riguardanti ciascuna scuola. 
+ Le tasse e soprattasse relative alle scuole di specializzazione sono fissate nella misura seguente: 
+ 
+ tassa di immatricolazione . . . . . . . . . . . . . . . L. 35.000 tassa annuale di iscrizione . . . . . . . . . . . . . . L. 85.000 soprattassa di esame. . . . . . . . . . . . . . . . . . L. 30.000 
+ 
+ I contributi sono stabiliti all'inizio di ogni anno dal consiglio di amministrazione, sentito il parere del consiglio di facolta'. 
+ 
+ Scuola di specializzazione in tecnologie lattiero-casearie 
+ 
+ Art. 99. - La scuola di specializzazione in tecnologie lattiero-casearie ha lo scopo di promuovere una approfondita conoscenza dei problemi attinenti alla produzione del latte e sue trasformazioni industriali e di fornire agli allievi una specifica esperienza per quanto riguarda l'impostazione e la direzione di attivita' di dimensioni industriali. 
+ Essa conferisce il diploma di specialista in tecnologie lattiero-casearie. 
+ Art. 100. - Alla scuola di specializzazione sono ammessi i laureati in Scienze agrarie, chimica e medicina veterinaria, in numero non superiore a sei per ogni biennio. 
+ Qualora gli aspiranti siano in numero maggiore i candidati dovranno sostenere una prova scritta e attitudinale e l'ammissione sara' determinata in base alla graduatoria. 
+ Art. 101. - Il corso di specializzazione ha la durata di anni due durante i quali gli iscritti hanno l'obbligo di frequentare le lezioni e le esercitazioni pratiche, di preparare una tesi scritta su argomento monografico con ricerche personali e di svolgere periodi di internato presso i reparti di tecnologia applicata. 
+ Art. 102. - La firma di frequenza e' necessaria per la ammissione agli esami di profitto che saranno sostenuti, in sessione unica, alla fine di ogni anno accademico. 
+ Coloro che non superano gli esami del primo anno non saranno ammessi al secondo anno; e' invece concessa la ripetizione degli esami del secondo anno. 
+ Art. 103. - La scuola di specializzazione comprende i seguenti insegnamenti: 
+ 1° Anno: 
+ chimica lattiero-casearia; 
+ microbiologia lattiero-casearia; 
+ organizzazione aziendale; 
+ impianti I; 
+ igiene e tecnica della produzione del latte. 
+ 2° Anno: 
+ tecnologia lattiera; 
+ tecnologia casearia; 
+ impianti II; 
+ controlli di qualita'; 
+ confezionamento ed imballaggio. 
+ Le esercitazioni pratiche sono annesse ai corsi di insegnamento. 
+ Il periodo di internato, non inferiore a sessanta giorni per ogni anno di corso, si svolgera' presso industrie casearie scelte dalla direzione della scuola. 
+ Art. 104. - Il direttore della scuola e' il direttore dell'istituto di microbiologia lattiero-casearia. 
+ Gli insegnanti della scuola sono proposti dal direttore della stessa, approvati dalla facolta' e nominati dal rettore. Essi possono essere scelti tra i professori ufficiali, tra i liberi docenti, tra gli aiuti ed assistenti della facolta' di agraria o di altre facolta' dell'Universita' cattolica o dell'Universita' statale o tra persone di riconosciuta competenza anche al di fuori dell'ambito universitario. 
+ Art. 105. - Gli organi della scuola di specializzazione sono: 
+ a) il direttore; 
+ b) il consiglio. 
+ 
+ Scuola di specializzazione in enologia 
+ 
+ Art. 106. - La scuola di specializzazione in enologia si prefigge lo scopo di fornire agli allievi una preparazione teorica e tecnologica qualificata. 
+ Art. 107. - Il corso ha la durata di due cicli annuali alla fine dei quali viene conferito il diploma di specialista in enologia. 
+ Art. 108. - Alla scuola sono ammessi i laureati in scienze agrarie, in chimica pura ed industriale, in ingegneria chimica, in scienze biologiche, in numero non superiore a dieci allievi per ogni anno. 
+ Art. 109. - Gli iscritti hanno l'obbligo di frequentare le lezioni e le esercitazioni. 
+ Gli esami di profitto sono sostenuti alla fine di ogni ciclo.
+Coloro che non superano gli esami del primo ciclo non sono ammessi al secondo; e' invece concessa la ripetizione degli esami del secondo ciclo. 
+ La prova finale per il conseguimento del diploma consiste nella discussione orale di un rapporto sperimentale svolto dal candidato. 
+ Art. 110. - Gli insegnamenti impartiti vertono sulle seguenti materie: 
+ 1° Ciclo: 
+ viticoltura; 
+ chimica enologica; 
+ microbiologia enologica; 
+ chimica analitica con esercitazioni. 
+ 2° Ciclo: 
+ tecnologia enologica; 
+ impianti e costruzioni enologiche; 
+ controlli di qualita'; 
+ legislazione vitivinicola; 
+ organizzazione aziendale e commercializzazione dei vini. 
+ Per ogni ciclo si svolge un periodo di internato di trenta giorni presso complessi enologici scelti dalla direzione della scuola. 
+ Art. 111. - Il direttore della scuola e' il direttore dell'istituto di enologia. 
+ Gli insegnanti della scuola sono proposti dal direttore della stessa, approvati dalla facolta' e nominati dal rettore. Essi possono essere scelti tra i professori ufficiali, tra i liberi docenti, tra gli aiuti e gli assistenti della facolta' di agraria o di altre facolta' dell'Universita' cattolica o dell'Universita' statale o tra specialisti qualificati al di fiori dell'ambito universitario. 
+ Art. 112. - Gli organi della scuola di specializzazione sono: 
+ a) il direttore; 
+ b) il consiglio. 
+ 
+ Scuola di specializzazione in fitoiatria 
+ 
+ Art. 113. - La scuola fornisce conoscenze fondamentali e specifiche sulla lotta antiparassitaria, in particolare: caratteristiche chimiche e fisiche degli antiparassitari; metabolismo e degradazioni; 
+tossicita'; analisi dei formulati e dei residui; fisiologia e patologia vegetale, inclusa la biologia delle piante infestanti; metodi e tecniche di lotta; analisi statistica. 
+ Conferisce il diploma di fitoiatria. 
+ Art. 114. - Alla scuola sono ammessi i laureati nella facolta' di scienze, di chimica industriale e scienze agrarie. I candidati dovranno dimostrare sufficiente conoscenza della lingua inglese entro la fine del primo anno di corso. 
+ Il numero massimo degli iscritti e' fissato in sette per ogni anno.
+ Art. 115. - La scuola di specializzazione ha la durata di due anni, durante i quali gli iscritti hanno l'obbligo di frequentare le lezioni e le esercitazioni pratiche. Al termine del primo e del secondo anno devono essere sostenuti in sessione unica esami di profitto, comprendenti anche prove pratiche. Al secondo anno vengono ammessi solo coloro che hanno superato gli esami del primo. 
+ Per il conseguimento del diploma e' necessaria la presentazione di una relazione scritta sul lavoro svolto. 
+ Art. 116. - Gli insegnamenti impartiti vertono sulle seguenti materie: 
+ 1° Anno: 
+ chimica organica; 
+ biochimica vegetale; 
+ tecnologie; 
+ statistica I; 
+ 2° Anno: 
+ analisi applicata; 
+ tecniche di lotta; 
+ statistica II. 
+ I singoli corsi prevedono l'intervento di diversi docenti a seconda delle competenze; seminari ed esercitazioni pratiche sono parte dei corsi di insegnamento. 
+ Nel corso di chimica organica verranno studiate: classificazione, nomenclatura, reattivita' e caratteri chimico-fisici dei principi attivi antiparassitari. 
+ Nel corso di biochimica vegetale e' compreso lo studio di metabolismo, meccanismo d'azione e tossicita'. 
+ L'insegnamento di tecnologie comprendera' lo studio delle formulazioni antiparassitarie e delle tecniche di applicazione.
+Saranno date notizie sulla regolamentazione e la legislazione sull'impiego e la commercializzazione. 
+ Le tecniche di lotta prevedono l'esame, coltura per coltura con riferimento alle colture italiane economicamente piu' importanti, delle specie infestanti, dei metodi di lotta piu' idonei e delle conseguenze ecologiche. 
+ Art. 117. - Il direttore dell'istituto di chimica della facolta' di agraria e' il direttore della scuola. 
+ Art. 118. - I docenti saranno proposti dal direttore della scuola tra gli specialisti esperti nel settore, approvati dal consiglio della facolta' e nominati dal rettore. 
+ Il direttore della scuola coordina l'attivita' didattica e di ricerca della scuola. 
+ Art. 119. - Gli organi della scuola di specializzazione sono: 
+ a) il direttore; 
+ b) il consiglio. 
+ 
+ Scuola di specializzazione in viticoltura 
+ 
+ Art. 120. - La scuola ha lo scopo di dare delle conoscenze fondamentali sulla fisiologia della vite, in modo da portare un miglioramento nella tecnica colturale viticola. In particolare dovranno essere approfonditi il miglioramento genetico sia delle varieta' che dei portinnesti, la nutrizione idrica, minerale e carbonica, la propagazione, le forme di allevamento, la potatura ed i rapporti tra qualita' ed ambiente. 
+ Art. 121. - Alla scuola sono ammessi: laureati in scienze agrarie, in biologia, in scienze naturali, in scienze delle preparazioni alimentari ed in chimica. Il numero dei posti disponibili e' fissato in sette per anno. Qualora gli aspiranti siano in numero superiore ai posti disponibili, i candidati dovranno sostenere una prova scritta ed attitudinale e l'ammissione sara' determinata in base alla graduatoria. 
+ Art. 122. - Il corso di specializzazione ha la durata di anni due, durante i quali gli iscritti hanno l'obbligo di frequentare le lezioni e le esercitazioni pratiche. 
+ Art. 123. - La firma di frequenza e' necessaria per la ammissione agli esami di profitto che saranno sostenuti alla fine di ogni anno accademico. Al termine del biennio, per il conseguimento del diploma, e' prevista una prova di esame finale che vertera' sulla discussione di un lavoro sperimentale condotto dal candidato durante il biennio. 
+ Art. 124. - La scuola di specializzazione comprende i seguenti insegnamenti: 
+ 1° Anno: 
+ anatomia ed ampelografia viticola; 
+ biochimica e fisiologia della vite; 
+ metodologia della ricerca viticola; 
+ tecniche moderne di laboratorio; 
+ geografia viticola; 
+ viticoltura generale (ecologia, propagazione, potatura, ecc.);  genetica e miglioramento della vite; 
+ nutrizione della vite (idrica, minerale, carbonica). 
+ 2° Anno: 
+ entomologia, nematologia ed acarologia viticola; 
+ patologia e virologia viticola; 
+ meccanica viticola; 
+ tecniche di coltura delle uve da vino, da tavola e da essiccare; 
+ economia del mercato viticolo e cooperazione in viticoltura; 
+ legislazione viticola nazionale ed internazionale; 
+ enologia. 
+ Ai corsi di insegnamento saranno annessi seminari, esercitazioni e dimostrazioni pratiche, nei campi sperimentali viticoli ed il laboratorio. 
+ Art. 125. - Il direttore della scuola e' il direttore dell'istituto di coltivazioni arboree e viticoltura. Gli insegnanti della scuola sono proposti dal direttore della stessa, approvati dalla facolta' e nominati dal rettore. 
+ Essi possono essere scelti tra i professori ufficiali, tra i liberi docenti, tra gli aiuti e gli assistenti della facolta' di agraria o di altre facolta' dell'Universita' cattolica o dell'Universita' statale o da Universita' e istituti sperimentali stranieri o tra persone di riconosciuta competenza anche al di fuori dell'ambito universitario. 
+ Art. 126. - Gli organi della scuola di specializzazione sono: 
+ a) il direttore; 
+ b) il consiglio. 
+ 
+ Scuola di specializzazione in alimentazione del bestiame 
+ 
+ Art. 127. - La scuola deve dare conoscenze fondamentali e specifiche sull'alimentazione degli animali di interesse zootecnico (bovini, suini, ecc.) con particolare rilievo per quanto riguarda: aspetti fisiologici e biochimici della nutrizione; caratteristiche degli alimenti in merito a conservazione, valutazione alimentare, tossicita'; fabbisogno e razionamento degli animali; preparazione degli alimenti, patologia della nutrizione. 
+ Art. 128. - Alla scuola sono ammessi: laureati in scienze agrarie, medicina veterinaria, scienze delle produzioni animali, farmacia, chimica, chimica industriale, scienze biologiche, scienze delle produzioni alimentari. 
+ Il numero massimo di iscrizioni e' fissato in cinque per anno.
+Qualora gli aspiranti siano in numero superiore ai posti disponibili i candidati dovranno sostenere una prova scritta e attitudinale e l'ammissione sara' determinata in base alla graduatoria. 
+ Art. 129. - Il corso di specializzazione ha la durata di anni due durante i quali gli iscritti hanno l'obbligo di frequentare le lezioni e le esercitazioni pratiche. 
+ Art. 130. - La firma di frequenza e' necessaria per la ammissione agli esami di profitto che saranno sostenuti alla fine di ogni anno accademico. Al termine del biennio e' prevista una prova di esame finale con la presentazione e discussione di un lavoro sperimentale per il conseguimento del diploma di specialista in alimentazione del bestiame. 
+ Art. 131. - La scuola di specializzazione comprende i seguenti insegnamenti: 
+ 1° Anno: 
+ fisiologia animale; 
+ biochimica della nutrizione; 
+ miglioramento genetico degli animali; 
+ valutazione degli alimenti. 
+ 2° Anno: 
+ tecnica della conservazione degli alimenti; 
+ tecnica mangimistica; 
+ fisiologia e patologia della nutrizione; 
+ zooeconomia. 
+ Ai corsi di insegnamento sono annesse esercitazioni e dimostrazioni pratiche. 
+ Art. 132. - Il direttore della scuola e' il direttore dell'istituto di zootecnica. Gli insegnanti della scuola sono proposti dal direttore della stessa, approvati dalla facolta' e nominati dal rettore. Essi possono essere scelti tra i professori ufficiali, tra i liberi docenti, tra gli aiuti ed assistenti della facolta' di agraria o di altre facolta' dell'Universita' cattolica o dell'Universita' statale o tra persone di riconosciuta competenza anche al di fuori dell'ambito universitario. 
+ Art. 133. - Gli organi della scuola di specializzazione sono: 
+ a) il direttore; 
+ b) il consiglio. 
+ Dopo l'art. 133 e' inserita, con il conseguente spostamento della numerazione delle parti e degli articoli successivi, la parte VII, con i relativi titoli ed articoli, concernente la istituzione, presso la facolta' di agraria, della scuola diretta a fini speciali di orticoltura. 
+ 
+ PARTE VII 
+ DELLE SCUOLE DIRETTE A FINI SPECIALI 
+ 
+ Titolo I 
+ FACOLTA' DI AGRARIA 
+ 
+ Scuola di orticoltura 
+ 
+ Art. 134. - La scuola fornisce conoscenze di base e nozioni specifiche sulle piante da orto e sulla loro coltivazione. In particolare verra' curato lo studio della morfologia, della sistematica, della fisiologia, del miglioramento genetico delle piante da orto, delle tecniche delle coltivazioni sia in pieno campo che in serra, dei problemi della difesa fitosanitaria, delle tecniche di conservazione dei prodotti, della commercializzazione degli stessi, ecc. La scuola conferisce il diploma di orticoltore. 
+ Art. 135. - Alla scuola sono ammessi gli aspiranti forniti di diploma di perito agrario e di agrotecnico o di eventuali diplomi rilasciati da scuole medie superiori, di durata almeno quinquennale, ad indirizzo agrario. Cio' al fine di poter presupporre negli iscritti una preparazione di base omogenea. 
+ Il numero degli iscritti e' fissato in dieci per ogni anno. 
+ Art. 136. - La scuola ha la durata di due anni. 
+ Gli iscritti hanno l'obbligo della frequenza. Al termine (del primo anno debbono essere sostenuti gli esami di profitto e le eventuali prove pratiche previste. Al secondo corso vengono ammessi soltanto coloro che hanno superato gli esami del primo anno. 
+ Per essere ammesso all'esame di diploma, consistente nella discussione di un lavoro sperimentale, lo studente deve aver seguito tutti i corsi previsti e superato i rispettivi esami di profitto. 
+ Art. 137. - Le materie di insegnamento della scuola sono: 
+ 1° Anno: 
+ botanica generale (morfologia, anatomia e fisiologia); 
+ botanica delle piante orticole; 
+ principi di agronomia e tecnica delle coltivazioni I; 
+ genetica vegetale, miglioramento genetico; 
+ valore alimentare e conservazione degli ortaggi. 
+ 2° Anno: 
+ entomologia generale ed orticola; 
+ patologia vegetale; 
+ tecnica delle culture protette e idroponiche; 
+ commercializzazione e marketing degli ortaggi; 
+ principi di agronomia e tecnica delle coltivazioni II. 
+ I singoli corsi prevedono l'intervento di diversi docenti in relazione alla loro competenza specifica; seminari ed esercitazioni pratiche sono parte integrante dei singoli corsi di insegnamento. 
+ Nei corsi di botanica verra' dato molto spazio alla fisiologia delle piante orticole e ai cicli dei principali funghi patogeni. 
+ Nel corso di genetica vegetale e di miglioramento genetico si prevedono numerose esercitazioni pratiche e seminari. 
+ Nei corsi di principi di agronomia e di tecnica delle colture protette e idroponiche sara' data larga parte al lavoro pratico e alla visita ad aziende specializzate. 
+ Nel corso di entomologia verra' affrontato lo studio degli insetti utili e dannosi alle colture orticole e della difesa dei fitofagi. 
+ Nel corso di patologia vegetale si esamineranno i principali agenti patogeni, i danni arrecati e i mezzi di difesa preventiva e curativa. 
+ Nel corso sulla commercializzazione e il marketing verranno impartite nozioni sulle tecniche per le indagini di mercato e le modalita' della commercializzazione degli ortaggi. 
+ Art. 138. - I docenti scelti fra gli specialisti del settore, saranno proposti dal consiglio di facolta'; la loro nomina spetta al rettore. 
+ Direttore della scuola e' il direttore dell'istituto di agronomia.
+Spetta al direttore coordinare l'attivita' didattica della scuola. 
+ Art. 139. - Gli organi della scuola sono: 
+ a) il direttore; 
+ b) il consiglio. 
+ Art. 140. - Le tasse e soprattasse relative alla scuola diretta a fini speciali di orticoltura sono fissate nella misura seguente: 
+ 
+ tassa di immatricolazione . . . . . . . . . . . . . . . L. 35.000 tassa annuale di iscrizione . . . . . . . . . . . . . . L. 85.000 soprattassa di esame. . . . . . . . . . . . . . . . . . L. 30.000 
+ 
+ I contributi sono stabiliti all'inizio di ogni anno dal consiglio di amministrazione, sentito il parere del consiglio di facolta'.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 31 ottobre 1977
+Dato a Roma, addi' 31 ottobre 1977
 
-LEONE MALFATTI
-
-Visto, il Guardasigilli: BONIFACIO
-
-Registrato alla Corte dei conti, addi' 9 agosto 1978
-
-Registro n. 89 Istruzione, foglio n. 199
+LEONE MALFATTI Visto, il Guardasigilli: BONIFACIO Registrato alla Corte dei conti, addi' 15 luglio 1978 Registro n. 75 Istruzione, foglio n. 308

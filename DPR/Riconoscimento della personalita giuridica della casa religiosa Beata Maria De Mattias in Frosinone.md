@@ -1,19 +1,21 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 05 luglio 1977 n. 650
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 650
+data: 1977-07-05
+titolo: "Riconoscimento della personalita' giuridica della casa religiosa Beata Maria De Mattias, in Frosinone."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1977-07-05;650
+codice_redazionale: 077U0650
+vigente: true
+---
 
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 05 luglio 1977 n. 650
-=============================================================
-
-Riconoscimento della personalita' giuridica della casa religiosa Beata Maria De Mattias, in Frosinone.
-------------------------------------------------------------------------------------------------------
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-650. Decreto del Presidente della Repubblica 5 luglio 1977, col quale, sulla proposta del Ministro per l'interno, viene riconosciuta la personalita' giuridica della casa religiosa Beata Maria De Mattias, in Frosinone.  
-  
-Visto, il Guardasigilli: BONIFACIO  
-Registrato alla Corte dei conti, addi' 21 agosto 1977  
-Registro n. 19 Interno, foglio n. 136
+650.
+
+Decreto del Presidente della Repubblica 5 luglio 1977, col quale, sulla proposta del Ministro per l'interno, viene riconosciuta la personalita' giuridica della casa religiosa Beata Maria De Mattias, in Frosinone.
+
+Visto, il Guardasigilli: BONIFACIO
+ Registrato alla Corte dei conti, addi' 21 agosto 1977
+ Registro n. 19 Interno, foglio n. 136

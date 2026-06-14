@@ -1,19 +1,21 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 09 gennaio 1974 n. 50
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 50
+data: 1974-01-09
+titolo: "Riconoscimento della personalita' giuridica della chiesa parrocchiale di S. Romano diacono e martire, in Milano."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1974-01-09;50
+codice_redazionale: 074U0050
+vigente: true
+---
 
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 09 gennaio 1974 n. 50
-=============================================================
-
-Riconoscimento della personalita' giuridica della chiesa parrocchiale di S. Romano diacono e martire, in Milano.
-----------------------------------------------------------------------------------------------------------------
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-50. Decreto del Presidente della Repubblica 9 gennaio 1974, col quale, sulla proposta del Ministro per l'interno, viene riconosciuta la personalita' giuridica della chiesa parrocchiale di S. Romano diacono e martire, in Milano.  
-  
-Visto, il Guardasigilli: ZAGARI  
-Registrato alla Corte dei conti, addi' 7 marzo 1974  
-Atti di Governo, registro n. 2, foglio n. 10. - SCIARRETTA
+50.
+
+Decreto del Presidente della Repubblica 9 gennaio 1974, col quale, sulla proposta del Ministro per l'interno, viene riconosciuta la personalita' giuridica della chiesa parrocchiale di S. Romano diacono e martire, in Milano.
+
+Visto, il Guardasigilli: ZAGARI
+ Registrato alla Corte dei conti, addi' 7 marzo 1974
+ Atti di Governo, registro n. 2, foglio n. 10. - SCIARRETTA

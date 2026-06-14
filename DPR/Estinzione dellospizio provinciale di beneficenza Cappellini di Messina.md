@@ -1,19 +1,21 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 12 novembre 1968 n. 1302
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 1302
+data: 1968-11-12
+titolo: "Estinzione dell'ospizio provinciale di beneficenza \"Cappellini\" di Messina."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1968-11-12;1302
+codice_redazionale: 068U1302
+vigente: true
+---
 
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 12 novembre 1968 n. 1302
-================================================================
-
-Estinzione dell'ospizio provinciale di beneficenza "Cappellini" di Messina.
----------------------------------------------------------------------------
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-1302. Decreto del Presidente della Repubblica 12 novembre 1968, col quale, sulla proposta del Ministro per l'interno, l'ospizio provinciale di beneficenza "Cappellini" di Messina, viene estinto ed il relativo patrimonio devoluto alla locale amministrazione provinciale.  
-  
-Visto, il Guardasigilli: GONELLA  
-Registrato alla Corte dei conti, addi' 18 dicembre 1968  
-Atti del Governo, registro n. 224, foglio n. 74. - GRECO
+1302.
+
+Decreto del Presidente della Repubblica 12 novembre 1968, col quale, sulla proposta del Ministro per l'interno, l'ospizio provinciale di beneficenza "Cappellini" di Messina, viene estinto ed il relativo patrimonio devoluto alla locale amministrazione provinciale.
+
+Visto, il Guardasigilli: GONELLA
+ Registrato alla Corte dei conti, addi' 18 dicembre 1968
+ Atti del Governo, registro n. 224, foglio n. 74. - GRECO

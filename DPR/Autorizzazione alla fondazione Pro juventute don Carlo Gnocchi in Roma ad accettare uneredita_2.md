@@ -1,19 +1,21 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 10 ottobre 1974 n. 626
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 477
+data: 1974-06-14
+titolo: "Autorizzazione alla fondazione \"Pro juventute don Carlo Gnocchi\", in Roma, ad accettare un'eredita'."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1974-06-14;477
+codice_redazionale: 074U0477
+vigente: true
+---
 
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 10 ottobre 1974 n. 626
-==============================================================
-
-Autorizzazione alla fondazione "Pro juventute don Carlo Gnocchi", in Roma, ad accettare un'eredita'.
-----------------------------------------------------------------------------------------------------
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-626. Decreto del Presidente della Repubblica 10 ottobre 1974, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la fondazione "Pro juventute don Carlo Gnocchi", in Roma, viene autorizzata ad accettare, col beneficio d'inventario, l'eredita' disposta dalla sig.ra Pedrocco Carlotta in Vio con testamento olografo in data 10 agosto 1963, pubblicato il 24 novembre 1970 per atto del dott. Angelo Sandi, notaio in Venezia, n. 26319 di repertorio e n. 2567 di raccolta, registrato a Venezia in data 14 dicembre 1970 al n. 6896 - Vol. 22, in favore dei mutilatini di don Gnocchi che si identificano con la fondazione "Pro juventute don Carlo Gnocchi", consistente nella quota parte di immobili, titoli, buoni postali e depositi bancari vari per un valore presunto di lire 72.880.945.   
-  
-Visto, il Guardasigilli: ZAGARI   
-Registrato alla Corte dei conti, addi' 25 novembre 1974   
-Atti di Governo, registro n. 7, foglio n. 41. - SCIARRETTA
+477.
+
+Decreto del Presidente della Repubblica 14 giugno 1974, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la fondazione "Pro juventute don Carlo Gnocchi", in Roma, viene autorizzata ad accettare, col beneficio d'inventario, l'eredita', consistente in titoli, obbligazioni e denaro per un valore presunto di L. 1.723.260, disposta dalla sig.ra Camera Rosalia con testamento olografo del 15 settembre 1966, pubblicato a rogito del dott. Mario Matraia, notaio in Viareggio, in data 12 maggio 1971, n. 13342 di repertorio e n. 8133 di raccolta, registrato a Viareggio il 17 maggio 1971 al n. 954, vol. 143 atti pubblici.
+
+Visto, il Guardasigilli: ZAGARI
+ Registrato alla Corte dei conti, addi' 26 settembre 1974
+ Atti di Governo, registro n. 5, foglio n. 91. - SCIARRETTA

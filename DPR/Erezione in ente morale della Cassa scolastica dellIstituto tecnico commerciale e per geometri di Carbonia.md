@@ -1,19 +1,21 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 25 settembre 1960 n. 1429
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 1429
+data: 1960-09-25
+titolo: "Erezione in ente morale della Cassa scolastica dell'Istituto tecnico commerciale e per geometri di Carbonia."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1960-09-25;1429
+codice_redazionale: 060U1429
+vigente: true
+---
 
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 25 settembre 1960 n. 1429
-=================================================================
-
-Erezione in ente morale della Cassa scolastica dell'Istituto tecnico commerciale e per geometri di Carbonia.
-------------------------------------------------------------------------------------------------------------
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-1429. Decreto del Presidente della Repubblica 25 settembre 1960, col quale, sulla proposta del Ministro per la pubblica istruzione, la Cassa scolastica dell'Istituto tecnico commerciale e per geometri di Carbonia viene eretta in ente morale e ne viene approvato lo statuto.  
-  
-Visto, il Guardasigilli: GONELLA  
-Registrato alla Corte dei conti, addi' 28 novembre 1960  
-Atti del Governo, registro n. 131, foglio n. 104. - VILLA
+1429.
+
+Decreto del Presidente della Repubblica 25 settembre 1960, col quale, sulla proposta del Ministro per la pubblica istruzione, la Cassa scolastica dell'Istituto tecnico commerciale e per geometri di Carbonia viene eretta in ente morale e ne viene approvato lo statuto.
+
+Visto, il Guardasigilli: GONELLA
+ Registrato alla Corte dei conti, addi' 28 novembre 1960
+ Atti del Governo, registro n. 131, foglio n. 104. - VILLA

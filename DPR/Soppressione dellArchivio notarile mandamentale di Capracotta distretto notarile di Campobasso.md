@@ -1,39 +1,31 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 26 agosto 1959 n. 828
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 828
+data: 1959-08-26
+titolo: "Soppressione dell'Archivio notarile mandamentale di Capracotta (distretto notarile di Campobasso)."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1959-08-26;828
+codice_redazionale: 059U0828
+vigente: true
+---
 
+## Art. 1.
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 26 agosto 1959 n. 828
-=============================================================
+IL PRESIDENTE DELLA REPUBBLICA
 
-Soppressione dell'Archivio notarile mandamentale di Capracotta (distretto notarile di Campobasso).
---------------------------------------------------------------------------------------------------
+ Visto il [regio decreto 9 agosto 1898, n. 377](../Atti%20normativi%20abrogati%20%28in%20originale%29/Che%20istituisce%20un%20archivio%20notarile%20mandamentale%20nel%20Comune%20di%20Capracotta%20capoluogo%20del%20mandamento%20distretto%20dIsernia.%20098U0377.md), con il quale venne istituito l'Archivio notarile mandamentale di Capracotta (distretto notarile di Campobasso);
+ Visto l'art. 248 del regolamento per l'esecuzione della [legge 16 febbraio 1913, n. 89](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1913-02-16;89), riguardante l'ordinamento del notariato e degli archivi notarili, approvato con [regio decreto 10 settembre 1914, n. 1326](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1914-09-10;1326);
+ Viste le deliberazioni dei comuni di Capracotta, Sant'Angelo del Pesco, Pescopennataro, Castel del Giudice, rispettivamente in data 7 aprile 1959, 23 ottobre 1958, 2 novembre 1958, 24 ottobre 1958;
+ Visto il parere del conservatore dell'Archivio notarile distrettuale di Campobasso in data 25 luglio 1959;
+ Visto il parere del procuratore della Repubblica di Isernia in data 28 luglio 1959;
+ Considerato che l'Archivio predetto non svolge piu' alcuna attivita' ne' vi si trovano depositati atti;
+ Silla proposta del Guardasigilli Ministro Segretario di Stato per la grazia e giustizia;
 
-Art. 1
-------
+ Decreta:
 
- IL PRESIDENTE DELLA REPUBBLICA  
-  
-Visto il [regio decreto 9 agosto 1898, n. 377](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1898-08-09;377), con il quale venne istituito l'Archivio notarile mandamentale di Capracotta (distretto notarile di Campobasso);  
-Visto l'art. 248 del regolamento per l'esecuzione della [legge 16 febbraio 1913, n. 89](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1913-02-16;89), riguardante l'ordinamento del notariato e degli archivi notarili, approvato con [regio decreto 10 settembre 1914, n. 1326](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1914-09-10;1326);  
-Viste le deliberazioni dei comuni di Capracotta, Sant'Angelo del Pesco, Pescopennataro, Castel del Giudice, rispettivamente in data 7 aprile 1959, 23 ottobre 1958, 2 novembre 1958, 24 ottobre 1958;  
-Visto il parere del conservatore dell'Archivio notarile distrettuale di Campobasso in data 25 luglio 1959;  
-Visto il parere del procuratore della Repubblica di Isernia in data 28 luglio 1959;  
-Considerato che l'Archivio predetto non svolge piu' alcuna attivita' ne' vi si trovano depositati atti;  
-Silla proposta del Guardasigilli Ministro Segretario di Stato per la grazia e giustizia;  
-  
-Decreta:  
-  
-L'Archivio notarile mandamentale di Capracotta e' soppresso.  
-  
+ L'Archivio notarile mandamentale di Capracotta e' soppresso.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana, E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 26 agosto 1959
+Dato a Roma, addi' 26 agosto 1959
 
-GRONCHI GONELLA
-
-Visto, il Guardasigilli: GONELLA
-
-Registrato alla Corte dei conti, addi' 13 ottobre 1959
-
-Atti del Governo, registro n. 121, foglio n. 34. - RELLEVA
+GRONCHI GONELLA Visto, il Guardasigilli: GONELLA Registrato alla Corte dei conti, addi' 13 ottobre 1959 Atti del Governo, registro n. 121, foglio n. 34. - RELLEVA

@@ -1,19 +1,21 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 09 luglio 1958 n. 951
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 951
+data: 1958-07-09
+titolo: "Erezione in ente morale della Cassa scolastica della Scuola tecnica industriale \"Pietro Gaslini\" di Genova-Bolzaneto."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1958-07-09;951
+codice_redazionale: 058U0951
+vigente: true
+---
 
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 09 luglio 1958 n. 951
-=============================================================
-
-Erezione in ente morale della Cassa scolastica della Scuola tecnica industriale "Pietro Gaslini" di Genova-Bolzaneto.
----------------------------------------------------------------------------------------------------------------------
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-951. Decreto del Presidente della Repubblica 9 luglio 1958, col quale, sulla proposta del Ministro per la pubblica istruzione, la Cassa scolastica della Scuola tecnica industriale "Pietro Gaslini" di Genova-Bolzaneto, viene eretta in ente morale e ne viene approvato lo statuto.  
-  
-Visto, il Guardasigilli: GONELLA  
-Registrato alla Corte dei conti, addi' 17 ottobre 1958  
-Atti del Governo, registro n. 114, foglio n. 87. - RELLEVA
+951.
+
+Decreto del Presidente della Repubblica 9 luglio 1958, col quale, sulla proposta del Ministro per la pubblica istruzione, la Cassa scolastica della Scuola tecnica industriale "Pietro Gaslini" di Genova-Bolzaneto, viene eretta in ente morale e ne viene approvato lo statuto.
+
+Visto, il Guardasigilli: GONELLA
+ Registrato alla Corte dei conti, addi' 17 ottobre 1958
+ Atti del Governo, registro n. 114, foglio n. 87. - RELLEVA

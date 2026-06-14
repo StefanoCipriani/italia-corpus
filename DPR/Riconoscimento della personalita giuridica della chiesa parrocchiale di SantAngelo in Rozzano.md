@@ -1,19 +1,21 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 19 giugno 1978 n. 499
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 499
+data: 1978-06-19
+titolo: "Riconoscimento della personalita' giuridica della chiesa parrocchiale di Sant'Angelo, in Rozzano."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1978-06-19;499
+codice_redazionale: 078U0499
+vigente: true
+---
 
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 19 giugno 1978 n. 499
-=============================================================
-
-Riconoscimento della personalita' giuridica della chiesa parrocchiale di Sant'Angelo, in Rozzano.
--------------------------------------------------------------------------------------------------
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-499. Decreto del Presidente della Repubblica 19 giugno 1978, col quale, sulla proposta del Ministro dell'interno, viene riconosciuta la personalita' giuridica della chiesa parrocchiale di Sant'Angelo, in Rozzano (Milano).  
-  
-Visto, il Guardasigilli: BONIFACIO  
-Registrato alla Corte dei conti, addi' 24 agosto 1978  
-Registro n. 16 Interno, foglio n. 22
+499.
+
+Decreto del Presidente della Repubblica 19 giugno 1978, col quale, sulla proposta del Ministro dell'interno, viene riconosciuta la personalita' giuridica della chiesa parrocchiale di Sant'Angelo, in Rozzano (Milano).
+
+Visto, il Guardasigilli: BONIFACIO
+ Registrato alla Corte dei conti, addi' 24 agosto 1978
+ Registro n. 16 Interno, foglio n. 22

@@ -1,19 +1,21 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 19 ottobre 1956 n. 1373
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 1373
+data: 1956-10-19
+titolo: "Riconoscimento, agli effetti civili, dell'erezione della parrocchia di Maria SS.ma Immacolata nel comune di Camporeale (Palermo)."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1956-10-19;1373
+codice_redazionale: 056U1373
+vigente: true
+---
 
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 19 ottobre 1956 n. 1373
-===============================================================
-
-Riconoscimento, agli effetti civili, dell'erezione della parrocchia di Maria SS.ma Immacolata nel comune di Camporeale (Palermo).
----------------------------------------------------------------------------------------------------------------------------------
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-1373. Decreto del Presidente della Repubblica 19 ottobre 1956, col quale, sulla proposta del Ministro per l'interno, viene riconosciuto, agli effetti civili, il decreto dell'Ordinario diocesano di Monreale in data 1 settembre 1955, relativo alla erezione della parrocchia di Maria SS.ma Immacolata, nel comune di Camporeale (Palermo).  
-  
-Visto, il Guardasigilli: MORO  
-Registrato alla Corte dei conti, addi' 14 dicembre 1956  
-Atti del Governo, registro n. 102, foglio n. 102. - CARLOMAGNO
+1373.
+
+Decreto del Presidente della Repubblica 19 ottobre 1956, col quale, sulla proposta del Ministro per l'interno, viene riconosciuto, agli effetti civili, il decreto dell'Ordinario diocesano di Monreale in data 1 settembre 1955, relativo alla erezione della parrocchia di Maria SS.ma Immacolata, nel comune di Camporeale (Palermo).
+
+Visto, il Guardasigilli: MORO
+ Registrato alla Corte dei conti, addi' 14 dicembre 1956
+ Atti del Governo, registro n. 102, foglio n. 102. - CARLOMAGNO

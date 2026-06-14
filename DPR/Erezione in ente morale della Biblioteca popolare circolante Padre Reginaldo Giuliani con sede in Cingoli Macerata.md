@@ -1,19 +1,21 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 15 luglio 1955 n. 1204
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 1204
+data: 1955-07-15
+titolo: "Erezione in ente morale della Biblioteca popolare circolante \"Padre Reginaldo Giuliani\", con sede in Cingoli (Macerata)."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1955-07-15;1204
+codice_redazionale: 055U1204
+vigente: true
+---
 
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 15 luglio 1955 n. 1204
-==============================================================
-
-Erezione in ente morale della Biblioteca popolare circolante "Padre Reginaldo Giuliani", con sede in Cingoli (Macerata).
-------------------------------------------------------------------------------------------------------------------------
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-1204. Decreto del Presidente della Repubblica 15 luglio 1955, col quale, sulla proposta del Ministro per la pubblica istruzione, la Biblioteca popolare circolante "Padre Reginaldo Giuliani", con sede in Cingoli (Macerata) viene eretta in ente morale e ne viene approvato lo statuto.  
-  
-Visto, il Guardasigilli: MORO  
-Registrato alla Corte dei conti, addi' 2 dicembre 1955  
-Atti del Governo, registro n. 94, foglio n. 58. - CARLOMAGNO
+1204.
+
+Decreto del Presidente della Repubblica 15 luglio 1955, col quale, sulla proposta del Ministro per la pubblica istruzione, la Biblioteca popolare circolante "Padre Reginaldo Giuliani", con sede in Cingoli (Macerata) viene eretta in ente morale e ne viene approvato lo statuto.
+
+Visto, il Guardasigilli: MORO
+ Registrato alla Corte dei conti, addi' 2 dicembre 1955
+ Atti del Governo, registro n. 94, foglio n. 58. - CARLOMAGNO

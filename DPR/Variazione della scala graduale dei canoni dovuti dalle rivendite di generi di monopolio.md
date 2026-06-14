@@ -1,18 +1,17 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 14 settembre 1959 n. 936
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 936
+data: 1959-09-14
+titolo: "Variazione della scala graduale dei canoni dovuti dalle rivendite di generi di monopolio."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1959-09-14;936
+codice_redazionale: 059U0936
+vigente: true
+---
 
+## Art. 1.
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 14 settembre 1959 n. 936
-================================================================
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
 
-Variazione della scala graduale dei canoni dovuti dalle rivendite di generi di monopolio.
------------------------------------------------------------------------------------------
+## Art. 2.
 
-Art. 1
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
-
-Art. 2
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))

@@ -1,20 +1,20 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 11 settembre 1961 n. 1364
-
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 11 settembre 1961 n. 1364
-=================================================================
-
-Norme sul trattamento economico e normativo dei dipendenti dalle imprese artigiane di barbieri, parrucchieri ed affini delle province di Savona e Genova e della citta' di San Remo.
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 1364
+data: 1961-09-11
+titolo: "Norme sul trattamento economico e normativo dei dipendenti dalle imprese artigiane di barbieri, parrucchieri ed affini delle province di Savona e Genova e della citta' di San Remo."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1961-09-11;1364
+codice_redazionale: 061U1364
+vigente: true
+---
 
 IL PRESIDENTE DELLA REPUBBLICA
-------------------------------
 
-Visto l'[art. 87, comma quinto, della Costituzione](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27~art87-com5);
+Visto l'[art. 87, comma quinto, della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87-com5);
 
-Vista la [legge 14 luglio 1959, n. 741](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1959-07-14;741), che delega il Governo ad emanare norme transitorie per garantire minimi di trattamento economico e normativo ai lavoratori;
+Vista la [legge 14 luglio 1959, n. 741](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1959-07-14;741), che delega il Governo ad emanare norme transitorie per garantire minimi di trattamento economico e normativo ai lavoratori;
 
-Vista la [legge 1 ottobre 1960, n. 1027](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1960-10-01;1027), recante modifiche alla predetta [legge 14 luglio 1959, n. 741](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1959-07-14;741);
+Vista la [legge 1 ottobre 1960, n. 1027](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1960-10-01;1027), recante modifiche alla predetta [legge 14 luglio 1959, n. 741](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1959-07-14;741);
 
 Visto il contratto collettivo nazionale 21 novembre 1947 per i dipendenti dia aziende di barbieri e misti, parrucchieri per signora ed affini;
 
@@ -48,104 +48,19 @@ Vista la pubblicazione nell'apposito Bollettino, n. 2 della provincia di Savona,
 
 Sentito il Consiglio dei Ministri;
 
-Sulla
------
+Sulla proposta del Ministro per il lavoro e la previdenza sociale; Decreta:
 
-proposta del Ministro per il lavoro e la previdenza sociale; Decreta:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-I rapporti di lavoro costituiti per le attivita' per le quali sono stati stipulati:  
-- per la provincia di Savona, l'accordo collettivo integrativo 26 novembre 1951, relativo ai lavoranti barbieri e parrucchieri per uomo dipendenti da aziende artigiane, l'accordo collettivo integrativo 17 dicembre 1951, relativo ai lavoranti parrucchieri per signora dipendenti da aziende artigiane, l'accordo collettivo 4 gennaio 1954, relativo ai dipendenti da aziende artigiane di barbieri e parrucchieri, l'accordo collettivo integrativo 15 novembre 1954, relativo ai lavoranti parrucchieri dipendenti da aziende artigiane;  
-- per la provincia di Genova, l'accordo collettivo 19 aprile 1946, relativo agli adeguamenti salariali per i lavoranti barbieri, parrucchieri per uomo e misti, l'accordo collettivo integrativo 21 giugno 1948, relativo ai dipendenti da aziende di barbieri, parrucchieri ed affini l'accordo collettivo 17 giugno 1949, relativo all'aggiornamento delle paghe settimanali dei lavoranti barbieri, parrucchieri ed affini, l'accordo collettivo 27 luglio 1951, relativo all'adeguamento dell'indennita' di contingenza e alla precisazione delle retribuzioni per i lavoranti parrucchieri ed affini;  
-- per la citta' di Sanremo, l'accordo collettivo integrativo 18 agosto 1948, relativo ai dipendenti da botteghe di parrucchiere per uomo, per signora ed affini, l'accordo collettivo integrativo 16 novembre 1949, relativo ai dipendenti da botteghe di parrucchiere per uomo, per signora ed affini;  
-sono regolati da norme giuridiche uniformi alle clausole degli accordi anzidetti, annessi al presente decreto, purche' compatibili con quelle concernenti la disciplina nazionale della categoria.  
-I minimi di trattamento economico e normativo cosi' stabiliti sono inderogabili nei confronti di tutti i lavoratori considerati negli accordi annessi, dipendenti dalle imprese artigiane di barbieri, parrucchieri ed affini delle province di Savona e Genova e della citta' di Sanremo.  
-  
+I rapporti di lavoro costituiti per le attivita' per le quali sono stati stipulati:
+ - per la provincia di Savona, l'accordo collettivo integrativo 26 novembre 1951, relativo ai lavoranti barbieri e parrucchieri per uomo dipendenti da aziende artigiane, l'accordo collettivo integrativo 17 dicembre 1951, relativo ai lavoranti parrucchieri per signora dipendenti da aziende artigiane, l'accordo collettivo 4 gennaio 1954, relativo ai dipendenti da aziende artigiane di barbieri e parrucchieri, l'accordo collettivo integrativo 15 novembre 1954, relativo ai lavoranti parrucchieri dipendenti da aziende artigiane;
+ - per la provincia di Genova, l'accordo collettivo 19 aprile 1946, relativo agli adeguamenti salariali per i lavoranti barbieri, parrucchieri per uomo e misti, l'accordo collettivo integrativo 21 giugno 1948, relativo ai dipendenti da aziende di barbieri, parrucchieri ed affini l'accordo collettivo 17 giugno 1949, relativo all'aggiornamento delle paghe settimanali dei lavoranti barbieri, parrucchieri ed affini, l'accordo collettivo 27 luglio 1951, relativo all'adeguamento dell'indennita' di contingenza e alla precisazione delle retribuzioni per i lavoranti parrucchieri ed affini;
+ - per la citta' di Sanremo, l'accordo collettivo integrativo 18 agosto 1948, relativo ai dipendenti da botteghe di parrucchiere per uomo, per signora ed affini, l'accordo collettivo integrativo 16 novembre 1949, relativo ai dipendenti da botteghe di parrucchiere per uomo, per signora ed affini;
+sono regolati da norme giuridiche uniformi alle clausole degli accordi anzidetti, annessi al presente decreto, purche' compatibili con quelle concernenti la disciplina nazionale della categoria.
+ I minimi di trattamento economico e normativo cosi' stabiliti sono inderogabili nei confronti di tutti i lavoratori considerati negli accordi annessi, dipendenti dalle imprese artigiane di barbieri, parrucchieri ed affini delle province di Savona e Genova e della citta' di Sanremo.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 11 settembre 1961
+Dato a Roma, addi' 11 settembre 1961
 
-GRONCHI FANFANI - SULLO
-
-Visto, il Guardasigilli: GONELLA
-
-Registrato alla Corte dei conti, addi' 12 dicembre 1961
-
-Atti dei Governo, registro n. 142, foglio n. 114. - VILLA
-
-Allegato
-
-ACCORDO COLLETTIVO INTEGRATIVO 26 NOVEMBRE - 1951, PER I LAVORATORI BARBIERI E PARRUCCHIERI PER UOMO DIPENDENTI DA AZIENDE ARTIGIANE DELLA PROVINCIA DI SAVONA.   
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=061U136400100010110001&dgu=1962-01-04&art.dataPubblicazioneGazzetta=1962-01-04&art.codiceRedazionale=061U1364)
-  
-  
-  
-ACCORDO COLLETTIVO INTEGRATIVO 17 DICEMBRE 1951, PER I LAVORANTI PARRUCCHIERI PER SIGNORA DIPENDENTI DA AZIENDE ARTIGIANE DELLA PROVINCIA DI SAVONA.   
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=061U136400100010110002&dgu=1962-01-04&art.dataPubblicazioneGazzetta=1962-01-04&art.codiceRedazionale=061U1364)
-  
-  
-  
-ACCORDO COLLETTIVO INTEGRATIVO 4 GENNAIO 1954, PER I DIPENDENTI DA AZIENDE ARTIGIANE BARBIERI E PARRUCCHIERI DEL COMUNE DI SAVONA.   
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=061U136400100010110003&dgu=1962-01-04&art.dataPubblicazioneGazzetta=1962-01-04&art.codiceRedazionale=061U1364)
-  
-  
-  
-ACCORDO COLLETTIVO 15 NOVEMBRE 1954, PER LAVORANTI PARRUCCHIERI DIPENDENTI DA AZIENDE ARTIGIANE NEL COMUNE DI SAVONA   
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=061U136400100010110004&dgu=1962-01-04&art.dataPubblicazioneGazzetta=1962-01-04&art.codiceRedazionale=061U1364)
-  
-  
-  
-ACCORDO COLLETTIVO 19 APRILE 1946, PER GLI ADEGUAMENTI SALARIALI Al LAVORANTI BARBIERI - PARRUCCHIERI PER UOMO E MISTI DELLA PROVINCIA DI GENOVA.   
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=061U136400100010110005&dgu=1962-01-04&art.dataPubblicazioneGazzetta=1962-01-04&art.codiceRedazionale=061U1364)
-  
-  
-  
-ACCORDO COLLETTIVO INTEGRATIVO 21 GIUGNO 1948 PER I DIPENDENTI DA AZIENDE BARBIERI, PARRUCCHIERI ED AFFINI DELLA PROVINCIA DI GENOVA.   
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=061U136400100010110006&dgu=1962-01-04&art.dataPubblicazioneGazzetta=1962-01-04&art.codiceRedazionale=061U1364)
-  
-  
-  
-ACCORDO COLLETTIVO 17 GIUGNO 1949 PER L'AGGIORNAMENTO DELLE PAGHE SETTIMANALI DEI LAVORANTI BARBIERI E PARRUCCHIERI DELLA PROVINCIA DI GENOVA.   
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=061U136400100010110007&dgu=1962-01-04&art.dataPubblicazioneGazzetta=1962-01-04&art.codiceRedazionale=061U1364)
-  
-  
-  
-ACCORDO 27 LUGLIO 1951 PER L'ADEGUAMENTO DELLA INDENNITA' DI CONTINGENZA E PER LA PRECISAZIONE DELLE RETRIBUZIONI PER I LAVORANTI PARRUCCHIERI ED AFFINI NELLA PROVINCIA DI GENOVA.   
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=061U136400100010110008&dgu=1962-01-04&art.dataPubblicazioneGazzetta=1962-01-04&art.codiceRedazionale=061U1364)
-  
-  
-  
-ACCORDO COLLETTIVO INTEGRATIVO 18 AGOSTO 1948 "PER I DIPENDENTI DA BOTTEGHE DI PARRUCCHIERE PER UOMO, PER SIGNORA ED AFFINI NELLA CITTADI SANREMO.   
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=061U136400100010110009&dgu=1962-01-04&art.dataPubblicazioneGazzetta=1962-01-04&art.codiceRedazionale=061U1364)
-  
-  
-  
-ACCORDO COLLETTIVO INTEGRATIVO 16 NOVEMBRE 1949 PER I DIPENDENTI DA BOTTEGHE DA PARRUCCHIERE PER UOMO E SIGNORA ED AFFINI NELLA CITTADI SANREMO.   
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=061U136400100010110010&dgu=1962-01-04&art.dataPubblicazioneGazzetta=1962-01-04&art.codiceRedazionale=061U1364)
-  
+GRONCHI FANFANI - SULLO Visto, il Guardasigilli: GONELLA Registrato alla Corte dei conti, addi' 12 dicembre 1961 Atti dei Governo, registro n. 142, foglio n. 114. - VILLA

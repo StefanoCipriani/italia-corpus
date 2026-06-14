@@ -1,14 +1,14 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 11 settembre 1956 n. 1175
-
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 11 settembre 1956 n. 1175
-=================================================================
-
-Distacco della frazione "Lista" dal comune di Balocco e sua aggregazione al comune di Formigliana.
---------------------------------------------------------------------------------------------------
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 1175
+data: 1956-09-11
+titolo: "Distacco della frazione \"Lista\" dal comune di Balocco e sua aggregazione al comune di Formigliana."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1956-09-11;1175
+codice_redazionale: 056U1175
+vigente: true
+---
 
 IL PRESIDENTE DELLA REPUBBLICA
-------------------------------
 
 Viste le istanze in data 29 marzo, 5, 17, 26, 29 aprile e 17 giugno 1952, con le quali la maggioranza qualificata dei contribuenti della frazione "Lista" del comune di Balocco (Vercelli) ha chiesto l'aggregazione della frazione medesima al comune di Formigliana;
 
@@ -18,33 +18,18 @@ Visti gli articoli 34 e 35 del testo unico della legge comunale e provinciale 3 
 
 Udito il parere del Consiglio di Stato;
 
-Sulla
------
+Sulla proposta del Ministro Segretario di Stato per gli affari dell'interno; Decreta:
 
-proposta del Ministro Segretario di Stato per gli affari dell'interno; Decreta:
+## Art. 1.
 
-Art. 1
-------
+La frazione "Lista" e' distaccata dal comune di Balocco ed aggregata al comune di Formigliana, con la circoscrizione territoriale risultante dalla pianta planimetrica e dalla relazione descrittiva dei confini annesse al presente decreto.
 
-  
-La frazione "Lista" e' distaccata dal comune di Balocco ed aggregata al comune di Formigliana, con la circoscrizione territoriale risultante dalla pianta planimetrica e dalla relazione descrittiva dei confini annesse al presente decreto.  
+## Art. 2.
 
-Art. 2
-------
-
-  
-Il Prefetto di Vercelli, sentita la Giunta provinciale amministrativa, provvedera' alla separazione patrimoniale ed al riparto delle attivita' e passivita'.  
-  
+Il Prefetto di Vercelli, sentita la Giunta provinciale amministrativa, provvedera' alla separazione patrimoniale ed al riparto delle attivita' e passivita'.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 11 settembre 1956
+Dato a Roma, addi' 11 settembre 1956
 
-GRONCHI TAMBRONI
-
-Visto, il Guardasigilli: MORO
-
-Registrato alla Corte dei conti, addi' 23 ottobre 1956
-
-Atti del Governo, registro n. 101, foglio n. 64. - CARLOMAGNO
+GRONCHI TAMBRONI Visto, il Guardasigilli: MORO Registrato alla Corte dei conti, addi' 23 ottobre 1956 Atti del Governo, registro n. 101, foglio n. 64. - CARLOMAGNO

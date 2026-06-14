@@ -1,19 +1,21 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 03 maggio 1964 n. 517
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 517
+data: 1964-05-03
+titolo: "Riconoscimento della personalita' giuridica dell'Associazione provinciale allevatori di Chieti, con sede in Chieti."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1964-05-03;517
+codice_redazionale: 064U0517
+vigente: true
+---
 
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 03 maggio 1964 n. 517
-=============================================================
-
-Riconoscimento della personalita' giuridica dell'Associazione provinciale allevatori di Chieti, con sede in Chieti.
--------------------------------------------------------------------------------------------------------------------
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-517. Decreto del Presidente della Repubblica 3 maggio 1964, col quale, sulla proposta del Ministro per l'agricoltura e per le foreste, viene riconosciuta la personalita' giuridica dell'Associazione provinciale allevatori di Chieti, con sede in Chieti, e ne viene approvato lo statuto.  
-  
-Visto, il Guardasigilli: REALE  
-Registrato alla Corte dei conti, addi' 27 giugno 1964  
-Atti del Governo, registro n. 184, foglio n. 62. - VILLA
+517.
+
+Decreto del Presidente della Repubblica 3 maggio 1964, col quale, sulla proposta del Ministro per l'agricoltura e per le foreste, viene riconosciuta la personalita' giuridica dell'Associazione provinciale allevatori di Chieti, con sede in Chieti, e ne viene approvato lo statuto.
+
+Visto, il Guardasigilli: REALE
+ Registrato alla Corte dei conti, addi' 27 giugno 1964
+ Atti del Governo, registro n. 184, foglio n. 62. - VILLA

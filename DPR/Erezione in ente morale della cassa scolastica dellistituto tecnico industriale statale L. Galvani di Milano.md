@@ -1,20 +1,22 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 12 febbraio 1968 n. 492
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 492
+data: 1968-02-12
+titolo: "Erezione in ente morale della cassa scolastica dell'istituto tecnico industriale statale \"L. Galvani\" di Milano."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1968-02-12;492
+codice_redazionale: 068U0492
+vigente: true
+---
 
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 12 febbraio 1968 n. 492
-===============================================================
-
-Erezione in ente morale della cassa scolastica dell'istituto tecnico industriale statale "L. Galvani" di Milano.
-----------------------------------------------------------------------------------------------------------------
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-492. Decreto del Presidente della Repubblica 12 febbraio 1968, col quale, sulla proposta del Ministro per la pubblica istruzione, la cassa scolastica dell'istituto tecnico industriale statale "L.  
-Galvani" di Milano viene eretta in ente morale e ne viene approvato lo statuto.  
-  
-Visto, il Guardasigilli: REALE  
-Registrato alla Corte dei conti, addi' 16 aprile 1968  
-Atti del Governo, registro n. 219, foglio n. 2. - GRECO
+492.
+
+Decreto del Presidente della Repubblica 12 febbraio 1968, col quale, sulla proposta del Ministro per la pubblica istruzione, la cassa scolastica dell'istituto tecnico industriale statale "L.
+ Galvani" di Milano viene eretta in ente morale e ne viene approvato lo statuto.
+
+Visto, il Guardasigilli: REALE
+ Registrato alla Corte dei conti, addi' 16 aprile 1968
+ Atti del Governo, registro n. 219, foglio n. 2. - GRECO

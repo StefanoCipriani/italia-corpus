@@ -1,37 +1,29 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 aprile 1951 n. 543
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 543
+data: 1951-04-28
+titolo: "Modificazione della denominazione della \"Provincia del Jonio\" in quella di \"Provincia di Taranto\"."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1951-04-28;543
+codice_redazionale: 051U0543
+vigente: true
+---
 
+## Art. 1.
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 aprile 1951 n. 543
-=============================================================
+IL PRESIDENTE DELLA REPUBBLICA
 
-Modificazione della denominazione della "Provincia del Jonio" in quella di "Provincia di Taranto".
---------------------------------------------------------------------------------------------------
+ Visto il [regio decreto 2 settembre 1923, n. 1911](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-09-02;1911), con il quale venne istituita la "Provincia del Jonio", con capoluogo Taranto;
+ Ritenuta l'opportunita' di modificare tale denominazione in quella di "Provincia di Taranto";
+ Visto il parere favorevole della Deputazione provinciale di Taranto, espresso con [deliberazione n. 844, in data 12 giugno 1950](https://www.normattiva.it/uri-res/N2Ls?urn:nir::delibera:1950-06-12;844);
+ Visto l'art. 266 del testo unico della legge comunale e provinciale, approvato con [regio decreto 3 marzo 1934, n. 383](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20del%20testo%20unico%20della%20legge%20comunale%20e%20provinciale.%20034U0383.md);
+ Sulla proposta del Ministro per l'interno;
 
-Art. 1
-------
+ Decreta:
 
- IL PRESIDENTE DELLA REPUBBLICA  
-  
-Visto il [regio decreto 2 settembre 1923, n. 1911](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-09-02;1911), con il quale venne istituita la "Provincia del Jonio", con capoluogo Taranto;  
-Ritenuta l'opportunita' di modificare tale denominazione in quella di "Provincia di Taranto";  
-Visto il parere favorevole della Deputazione provinciale di Taranto, espresso con [deliberazione n. 844, in data 12 giugno 1950](http://www.normattiva.it/uri-res/N2Ls?urn:nir::delibera:1950-06-12;844);  
-Visto l'art. 266 del testo unico della legge comunale e provinciale, approvato con [regio decreto 3 marzo 1934, n. 383](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-03-03;383);  
-Sulla proposta del Ministro per l'interno;  
-  
-Decreta:  
-  
-La denominazione della "Provincia del Jonio" e' cambiata in quella di "Provincia di Taranto".  
-  
+ La denominazione della "Provincia del Jonio" e' cambiata in quella di "Provincia di Taranto".
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 28 aprile 1951
+Dato a Roma, addi' 28 aprile 1951
 
-EINAUDI SCELBA
-
-Visto, il Guardasigilli: PICCIONI
-
-Registrato alla Corte dei conti, addi' 11 luglio 1951
-
-Atti del Governo, registro n. 40, foglio n. 31. - FRASCA
+EINAUDI SCELBA Visto, il Guardasigilli: PICCIONI Registrato alla Corte dei conti, addi' 11 luglio 1951 Atti del Governo, registro n. 40, foglio n. 31. - FRASCA

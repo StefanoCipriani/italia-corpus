@@ -1,20 +1,21 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 13 novembre 1985 n. 914
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 553
+data: 1985-07-18
+titolo: "Autorizzazione alla fondazione \"Pro juventute don Carlo Gnocchi\", in Roma, ad accettare una eredita'."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1985-07-18;553
+codice_redazionale: 085U0553
+vigente: true
+---
 
+## Art. 1.
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 13 novembre 1985 n. 914
-===============================================================
+N.
 
-Autorizzazione alla fondazione "Pro juventute don Carlo Gnocchi", in Roma, ad accettare una eredita'.
------------------------------------------------------------------------------------------------------
+553.
 
-Art. 1
-------
-
-n.
-
-914. Decreto del Presidente della Repubblica 13 novembre 1985, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la fondazione "Pro juventute don Carlo Gnocchi", in Roma, viene autorizzata ad accettare, col beneficio d'inventario, l'eredita', consistente in beni immobili per un valore peritale complessivo di L. 11.500.000, elevato dall'ufficio tecnico erariale di Milano a L. 14.000.000, disposta dalla sig.ra Pirovano Anna Maria con testamento olografo 22 settembre 1981, pubblicato in data 20 ottobre 1981, n. 5672/122 di repertorio, a rogito dott. Ulderico Brambilla, notaio in Milano, registrato a  
-Milano il 27 ottobre 1981, al n. 19477.  
-  
-Visto, il Guardasigilli: MARTINAZZOLI  
-Registrato alla Corte dei conti, addi' 6 febbraio 1986  
-Registro n. 1 Presidenza, foglio n. 399
+Decreto del Presidente della Repubblica 18 luglio 1985, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la fondazione "Pro juventute don Carlo Gnocchi", in Roma, viene autorizzata ad accettare, col beneficio d'inventario, l'eredita', consistente in titoli azionari, depositi bancari ed altri beni mobili al netto delle passivita' di lire 30.800.000, disposta dalla sig.ra Ogliari Agostina con testamento olografo 7 marzo 1972, pubblicato in data 30 dicembre 1980, n. 20080 di repertorio e n. 4413 di raccolta, a rogito dott. Italo Tarsia, notaio in Milano, registrato a Milano il 14 gennaio 1981 al n. 320. 
+ 
+Visto, il Guardasigilli: MARTINAZZOLI 
+ Registrato alla Corte dei conti, addi' 11 ottobre 1985 
+ Registro n. 9 Presidenza, foglio n. 72

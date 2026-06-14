@@ -1,19 +1,21 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 06 settembre 1983 n. 647
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 647
+data: 1983-09-06
+titolo: "Soppressione dell'archivio notarile comunale di Castelnuovo di Porto."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1983-09-06;647
+codice_redazionale: 083U0647
+vigente: true
+---
 
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 06 settembre 1983 n. 647
-================================================================
-
-Soppressione dell'archivio notarile comunale di Castelnuovo di Porto.
----------------------------------------------------------------------
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-647. Decreto del Presidente della Repubblica 6 settembre 1983, col quale, sulla proposta del Ministro per i beni culturali e ambientali, l'archivio notarile comunale di Castelnuovo di Porto (Roma) viene soppresso.  
-  
-Visto, il Guardasigilli: MARTINAZZOLI  
-Registrato alla Corte dei conti, addi' 5 novembre 1983  
-Registro n. 37 Beni, culturali, foglio n. 9
+647.
+
+Decreto del Presidente della Repubblica 6 settembre 1983, col quale, sulla proposta del Ministro per i beni culturali e ambientali, l'archivio notarile comunale di Castelnuovo di Porto (Roma) viene soppresso.
+
+Visto, il Guardasigilli: MARTINAZZOLI
+ Registrato alla Corte dei conti, addi' 5 novembre 1983
+ Registro n. 37 Beni, culturali, foglio n. 9

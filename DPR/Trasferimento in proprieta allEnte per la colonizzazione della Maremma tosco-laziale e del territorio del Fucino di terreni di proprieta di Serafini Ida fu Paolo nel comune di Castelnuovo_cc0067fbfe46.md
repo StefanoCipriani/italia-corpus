@@ -1,81 +1,51 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 18 dicembre 1952 n. 3580
-
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 18 dicembre 1952 n. 3580
-================================================================
-
-Trasferimento in proprieta' all'Ente per la colonizzazione della Maremma tosco-laziale e del territorio del Fucino di terreni di proprieta' di Serafini Ida fu Paolo, nel comune di Castelnuovo Val di Cecina (Pisa).
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 3580
+data: 1952-12-18
+titolo: "Trasferimento in proprieta' all'Ente per la colonizzazione della Maremma tosco-laziale e del territorio del Fucino di terreni di proprieta' di Serafini Ida fu Paolo, nel comune di Castelnuovo Val di Cecina (Pisa)."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1952-12-18;3580
+codice_redazionale: 052U3580
+vigente: true
+---
 
 IL PRESIDENTE DELLA REPUBBLICA
-------------------------------
 
-Visti gli [articoli 77, comma primo](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27~art77-com1), ed [87, comma quinto, della Costituzione](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27~art87-com5) della Repubblica;
+Visti gli [articoli 77, comma primo](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_77-com1), ed [87, comma quinto, della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87-com5) della Repubblica;
 
-Viste le [leggi 12 maggio 1950, n. 230, 21 ottobre 1950, n. 841, 18 maggio 1951, n. 333, 2 aprile 1952, n. 339 e 16 agosto 1952, n. 1206](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1952-08-16;1206);
+Viste le [leggi 12 maggio 1950, n. 230, 21 ottobre 1950, n. 841, 18 maggio 1951, n. 333, 2 aprile 1952, n. 339 e 16 agosto 1952, n. 1206](../Atti%20normativi%20abrogati%20%28in%20originale%29/Interpretazione%20dellarticolo%204%20della%20legge%2021%20ottobre%201950%20n.%20841%20recante%20norme%20per%20la%20espropriazione%20bonifica%20trasformazione%20ed%20assegnazione%20dei%20terreni%20ai%20contadini.md);
 
-In virtu' della delegazione concessa dagli [articoli 5 della legge 12 maggio 1950, n. 230](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1950-05-12;230~art5), ed 1 e 2 della [legge 21 ottobre 1950, n. 841](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1950-10-21;841);
+In virtu' della delegazione concessa dagli [articoli 5 della legge 12 maggio 1950, n. 230](../Atti%20normativi%20abrogati%20%28in%20originale%29/Provvedimenti%20per%20la%20colonizzazione%20dellAltopiano%20della%20Sila%20e%20dei%20territori%20jonici%20contermini.md), ed 1 e 2 della [legge 21 ottobre 1950, n. 841](../Atti%20normativi%20abrogati%20%28in%20originale%29/Norme%20per%20la%20espropriazione%20bonifica%20trasformazione%20ed%20assegnazione%20dei%20terreni%20ai%20contadini.md);
 
 Visto il proprio decreto 7 febbraio 1951, n. 66;
 
 Visto il piano particolareggiato di espropriazione compilato dall'Ente per la colonizzazione della Maremma tosco-laziale e del territorio del Fucino, nei confronti di Serafini Ida fu Paolo, per i terreni ricadenti nel comune di Castelnuovo Val di Cecina (provincia di Pisa);
 
-Considerato che la sunnominata non e' stata ammessa al beneficio di conservare definitivamente una parte dei terreni oggetto di esproprio, costituenti il terzo residuo di cui all'[art. 9 della legge 21 ottobre 1950, n. 841](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1950-10-21;841~art9), per non aver ottemperato a tutti gli adempimenti previsti in detto articolo;
+Considerato che la sunnominata non e' stata ammessa al beneficio di conservare definitivamente una parte dei terreni oggetto di esproprio, costituenti il terzo residuo di cui all'[art. 9 della legge 21 ottobre 1950, n. 841](../Atti%20normativi%20abrogati%20%28in%20originale%29/Norme%20per%20la%20espropriazione%20bonifica%20trasformazione%20ed%20assegnazione%20dei%20terreni%20ai%20contadini.md), per non aver ottemperato a tutti gli adempimenti previsti in detto articolo;
 
-Udito il parere, in data 6 settembre 1952, espresso dalla Commissione parlamentare, nominata a norma degli [articoli 5 della legge 12 maggio 1950, n. 230](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1950-05-12;230~art5), ed 1 e 2 della [legge 21 ottobre 1950, n. 841](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1950-10-21;841);
+Udito il parere, in data 6 settembre 1952, espresso dalla Commissione parlamentare, nominata a norma degli [articoli 5 della legge 12 maggio 1950, n. 230](../Atti%20normativi%20abrogati%20%28in%20originale%29/Provvedimenti%20per%20la%20colonizzazione%20dellAltopiano%20della%20Sila%20e%20dei%20territori%20jonici%20contermini.md), ed 1 e 2 della [legge 21 ottobre 1950, n. 841](../Atti%20normativi%20abrogati%20%28in%20originale%29/Norme%20per%20la%20espropriazione%20bonifica%20trasformazione%20ed%20assegnazione%20dei%20terreni%20ai%20contadini.md);
 
 Sentito il Consiglio dei Ministri;
 
-Sulla
------
+Sulla proposta del Ministro Segretario di Stato per l'agricoltura e per le foreste; Decreta:
 
-proposta del Ministro Segretario di Stato per l'agricoltura e per le foreste; Decreta:
+## Art. 1.
 
-Art. 1
-------
+E' approvato il piano particolareggiato di espropriazione compilato dall'Ente per la colonizzazione della Maremma tosco-laziale e del territorio del Fucino, nei confronti di Serafini Ida fu Paolo, relativo ai terreni ricadenti nel comune di Castelnuovo Val di Cecina (provincia di Pisa), per una superficie di ettari 43.87.06, specificamente descritti nell'elenco n. 1 allegato al presente decreto.
 
-  
-E' approvato il piano particolareggiato di espropriazione compilato dall'Ente per la colonizzazione della Maremma tosco-laziale e del territorio del Fucino, nei confronti di Serafini Ida fu Paolo, relativo ai terreni ricadenti nel comune di Castelnuovo Val di Cecina (provincia di Pisa), per una superficie di ettari 43.87.06, specificamente descritti nell'elenco n. 1 allegato al presente decreto.  
+## Art. 2.
 
-Art. 2
-------
+I terreni indicati nel precedente articolo sono trasferiti in proprieta' dell'Ente per la colonizzazione della Maremma tosco-laziale e del territorio del Fucino.
 
-  
-I terreni indicati nel precedente articolo sono trasferiti in proprieta' dell'Ente per la colonizzazione della Maremma tosco-laziale e del territorio del Fucino.  
+## Art. 3.
 
-Art. 3
-------
+E' ordinata l'immediata occupazione da parte dell'Ente predetto, dei terreni indicati nei precedenti articoli 1 e 2.
 
-  
-E' ordinata l'immediata occupazione da parte dell'Ente predetto, dei terreni indicati nei precedenti articoli 1 e 2.  
+## Art. 4.
 
-Art. 4
-------
-
-  
-L'elenco dei terreni, con l'indicazione dell'indennita' di espropriazione offerta, munito del visto dei Ministro proponente, forma parte integrante del presente decreto, che entra in vigore il giorno stesso della sua pubblicazione nella Gazzetta Ufficiale della Repubblica italiana.  
-  
+L'elenco dei terreni, con l'indicazione dell'indennita' di espropriazione offerta, munito del visto dei Ministro proponente, forma parte integrante del presente decreto, che entra in vigore il giorno stesso della sua pubblicazione nella Gazzetta Ufficiale della Repubblica italiana.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 18 dicembre 1952
+Dato a Roma, addi' 18 dicembre 1952
 
-EINAUDI DE GASPERI - FANFANI
-
-Visto, il Guardasigilli: ZOLI
-
-Registrato alla Corte dei conti, addi' 15 gennaio 1953
-
-Atti del Governo, registro n. 69, foglio n. 192. - PALLA
-
-Allegato n. 1
-
- ALLEGATO N. 1   
-  
-Elenco dei terreni intestati alla ditta Serafini Ida fu Paolo vedova Testa, in comune di Castelnuovo Val di Cecina (provincia di Pisa), trasferiti in proprieta' dell'Ente per la colonizzazione della Maremma tosco-laziale e del territorio del Fucino, a norma delle [leggi 12 maggio 1950, n. 230, 21 ottobre 1950, n. 841](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1950-10-21;841) e [decreto Presidenziale 7 febbraio 1951, n. 66](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-02-07;66).   
-  
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=052U358000100010110001&dgu=1953-01-19&art.dataPubblicazioneGazzetta=1953-01-19&art.codiceRedazionale=052U3580)
-  
+EINAUDI DE GASPERI - FANFANI Visto, il Guardasigilli: ZOLI Registrato alla Corte dei conti, addi' 15 gennaio 1953 Atti del Governo, registro n. 69, foglio n. 192. - PALLA

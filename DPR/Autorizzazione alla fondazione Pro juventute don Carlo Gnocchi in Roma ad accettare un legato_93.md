@@ -1,19 +1,21 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 10 febbraio 1986 n. 147
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 572
+data: 1985-07-16
+titolo: "Autorizzazione alla fondazione \"Pro juventute don Carlo Gnocchi\", in Roma, ad accettare un legato."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1985-07-16;572
+codice_redazionale: 085U0572
+vigente: true
+---
 
+## Art. 1.
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 10 febbraio 1986 n. 147
-===============================================================
+N.
 
-Autorizzazione alla fondazione "Pro juventute don Carlo Gnocchi", in Roma, ad accettare un legato.
---------------------------------------------------------------------------------------------------
+572.
 
-Art. 1
-------
-
-n.
-
-147. Decreto del Presidente della Repubblica 10 febbraio 1986, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la fondazione "Pro juventute don Carlo Gnocchi", in Roma, viene autorizzata ad accettare il legato, consistente in una somma di L. 27.919.100, disposto dalla sig.ra Catenacci Luigia ved. Mariani con testamento olografo 20 aprile 1983, pubblicato in data 7 luglio 1983, n. 84384/9262 di repertorio, a rogito dott. Acquarone Domenico, notaio in Milano, registrato a Milano in data 21 luglio 1983 al n. 17621.  
-  
-Visto, il Guardasigilli: MARTINAZZOLI  
-Registrato alla Corte dei conti, addi' 22 aprile 1986  
-Registro n. 4 Presidenza, foglio n. 48
+Decreto del Presidente della Repubblica 16 luglio 1985, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la fondazione "Pro juventute don Carlo Gnocchi", in Roma, viene autorizzata ad accettare il legato, consistente nella somma di lire 20.000.000, disposto dalla sig.ra Ponta Giustina Rosita a favore dell'opera "Don Gnocchi" che si identifica con la fondazione "Pro juventute don Carlo Gnocchi", come si evince dal verbale 16 gennaio 1984 del consiglio di amministrazione della fondazione stessa, con testamento pubblico 9 novembre 1982, redatto a rogito dott. Massimo Di Paolo, notaio in Genova, e dallo stesso pubblicato in data 2 marzo 1983 n. 1449 d'ordine e n. 9750 di repertorio, registrato a Genova il 14 marzo 1983 al n. 5223. 
+ 
+Visto, il Guardasigilli: MARTINAZZOLI 
+ Registrato alla Corte dei conti, addi' 11 ottobre 1985 
+ Registro n. 9 Presidenza, foglio n. 77

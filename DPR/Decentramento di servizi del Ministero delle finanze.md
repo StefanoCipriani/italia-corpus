@@ -1,164 +1,164 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 04 febbraio 1955 n. 72
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 72
+data: 1955-02-04
+titolo: "Decentramento di servizi del Ministero delle finanze."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1955-02-04;72
+codice_redazionale: 055U0072
+vigente: true
+---
 
+## Disposizioni generali
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 04 febbraio 1955 n. 72
-==============================================================
+TITOLO I
 
-Decentramento di servizi del Ministero delle finanze.
------------------------------------------------------
+### Art. 1.
 
-CAPO I TITOLO I Disposizioni generali
--------------------------------------
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 26 MARZO 2001, N. 107))
 
-### Art. 1
+## Decentramento di attribuzioni alle Intendenze di finanza
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 26 MARZO 2001, N. 107](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2001-03-26;107)))
+TITOLO II
 
-CAPO II TITOLO II Decentramento di attribuzioni alle Intendenze di finanza
---------------------------------------------------------------------------
+### Art. 2.
 
-### Art. 2
-
- PROVVEDIMENTO ABROGATO DAL [D.P.R. 26 MARZO 2001, N. 107](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2001-03-26;107)
-  
-
+PROVVEDIMENTO ABROGATO DAL [D.P.R. 26 MARZO 2001, N. 107](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:2001-03-26;107)
 ((3))
 
 --------------
 
 AGGIORNAMENTO (3)
 
-Il [D.P.R. 13 febbraio 2001, n. 189](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2001-02-13;189) ha disposto (con l'art. 12, comma 1) che "Ai sensi dell'[articolo 20, comma 4, della legge 15 marzo 1997, n. 59](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997-03-15;59~art20-com4), dalla data di entrata in vigore del presente regolamento sono abrogati [...] nonche' le disposizioni riguardanti l'alienazione di beni mobili dello Stato, contenute nell'[articolo 2 del decreto del Presidente della Repubblica 4 febbraio 1955, n. 72](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1955-02-04;72~art2)"
+Il [D.P.R. 13 febbraio 2001, n. 189](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:2001-02-13;189) ha disposto (con l'art. 12, comma 1) che "Ai sensi dell'[articolo 20, comma 4, della legge 15 marzo 1997, n. 59](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997-03-15;59#art_20-com4), dalla data di entrata in vigore del presente regolamento sono abrogati [...] nonche' le disposizioni riguardanti l'alienazione di beni mobili dello Stato, contenute nell'[articolo 2 del decreto del Presidente della Repubblica 4 febbraio 1955, n. 72](../Atti%20normativi%20abrogati%20%28in%20originale%29/Decentramento%20di%20servizi%20del%20Ministero%20delle%20finanze.md)"
 
-### Art. 3
+### Art. 3.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 26 MARZO 2001, N. 107](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2001-03-26;107)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 26 MARZO 2001, N. 107))
 
-### Art. 4
+### Art. 4.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 26 MARZO 2001, N. 107](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2001-03-26;107)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 26 MARZO 2001, N. 107))
 
-### Art. 5
+### Art. 5.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 26 MARZO 2001, N. 107](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2001-03-26;107)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 26 MARZO 2001, N. 107))
 
-### Art. 6
+### Art. 6.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 26 MARZO 2001, N. 107](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2001-03-26;107)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 26 MARZO 2001, N. 107))
 
-### Art. 7
+### Art. 7.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 26 MARZO 2001, N. 107](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2001-03-26;107)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 26 MARZO 2001, N. 107))
 
-### Art. 8
+### Art. 8.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 26 MARZO 2001, N. 107](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2001-03-26;107)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 26 MARZO 2001, N. 107))
 
-### Art. 9
+### Art. 9.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 26 MARZO 2001, N. 107](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2001-03-26;107)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 26 MARZO 2001, N. 107))
 
-### Art. 10
+### Art. 10.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 26 MARZO 2001, N. 107](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2001-03-26;107)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 26 MARZO 2001, N. 107))
 
-### Art. 11
+### Art. 11.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 26 MARZO 2001, N. 107](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2001-03-26;107)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 26 MARZO 2001, N. 107))
 
-### Art. 12
+### Art. 12.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 26 MARZO 2001, N. 107](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2001-03-26;107)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 26 MARZO 2001, N. 107))
 
-### Art. 13
+### Art. 13.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 26 MARZO 2001, N. 107](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2001-03-26;107)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 26 MARZO 2001, N. 107))
 
-### Art. 14
+### Art. 14.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 26 MARZO 2001, N. 107](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2001-03-26;107)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 26 MARZO 2001, N. 107))
 
-### Art. 15
+### Art. 15.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 26 MARZO 2001, N. 107](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2001-03-26;107)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 26 MARZO 2001, N. 107))
 
-### Art. 16
+### Art. 16.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 26 MARZO 2001, N. 107](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2001-03-26;107)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 26 MARZO 2001, N. 107))
 
-### Art. 17
+### Art. 17.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 26 MARZO 2001, N. 107](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2001-03-26;107)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 26 MARZO 2001, N. 107))
 
-### Art. 18
+### Art. 18.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 26 MARZO 2001, N. 107](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2001-03-26;107)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 26 MARZO 2001, N. 107))
 
-### Art. 19
+### Art. 19.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 26 MARZO 2001, N. 107](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2001-03-26;107)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 26 MARZO 2001, N. 107))
 
-### Art. 20
+### Art. 20.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 26 MARZO 2001, N. 107](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2001-03-26;107)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 26 MARZO 2001, N. 107))
 
-### Art. 21
+### Art. 21.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 26 MARZO 2001, N. 107](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2001-03-26;107)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 26 MARZO 2001, N. 107))
 
-CAPO III TITOLO III Decentramento di attribuzioni agli uffici periferici della Amministrazione delle dogane e delle imposta indirette.
---------------------------------------------------------------------------------------------------------------------------------------
+## Decentramento di attribuzioni agli uffici periferici della Amministrazione delle dogane e delle imposta indirette.
 
-### Art. 22
+TITOLO III
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 26 MARZO 2001, N. 107](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2001-03-26;107)))
+### Art. 22.
 
-### Art. 23
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 26 MARZO 2001, N. 107))
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 26 MARZO 2001, N. 107](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2001-03-26;107)))
+### Art. 23.
 
-### Art. 24
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 26 MARZO 2001, N. 107))
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 26 MARZO 2001, N. 107](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2001-03-26;107)))
+### Art. 24.
 
-### Art. 25
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 26 MARZO 2001, N. 107))
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 26 MARZO 2001, N. 107](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2001-03-26;107)))
+### Art. 25.
 
-### Art. 26
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 26 MARZO 2001, N. 107))
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 26 MARZO 2001, N. 107](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2001-03-26;107)))
+### Art. 26.
 
-### Art. 27
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 26 MARZO 2001, N. 107))
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 26 MARZO 2001, N. 107](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2001-03-26;107)))
+### Art. 27.
 
-### Art. 28
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 26 MARZO 2001, N. 107))
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 26 MARZO 2001, N. 107](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2001-03-26;107)))
+### Art. 28.
 
-### Art. 29
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 26 MARZO 2001, N. 107))
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 26 MARZO 2001, N. 107](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2001-03-26;107)))
+### Art. 29.
 
-### Art. 30
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 26 MARZO 2001, N. 107))
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 26 MARZO 2001, N. 107](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2001-03-26;107)))
+### Art. 30.
 
-### Art. 31
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 26 MARZO 2001, N. 107))
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 26 MARZO 2001, N. 107](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2001-03-26;107)))
+### Art. 31.
 
-CAPO IV TITOLO IV Decentramento di attribuzioni alle prefetture
----------------------------------------------------------------
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 26 MARZO 2001, N. 107))
 
-### Art. 32
+## Decentramento di attribuzioni alle prefetture
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 26 MARZO 2001, N. 107](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2001-03-26;107)))
+TITOLO IV
 
-CAPO V
-------
+### Art. 32.
 
-### Art. 33
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 26 MARZO 2001, N. 107))
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 26 MARZO 2001, N. 107](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2001-03-26;107)))
+### Art. 33.
+
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 26 MARZO 2001, N. 107))

@@ -1,14 +1,14 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 27 ottobre 1962 n. 1658
-
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 27 ottobre 1962 n. 1658
-===============================================================
-
-Rettifica di confine tra i comuni di Canegrate e di San Giorgio su Legnano, in provincia di Milano.
----------------------------------------------------------------------------------------------------
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 1658
+data: 1962-10-27
+titolo: "Rettifica di confine tra i comuni di Canegrate e di San Giorgio su Legnano, in provincia di Milano."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1962-10-27;1658
+codice_redazionale: 062U1658
+vigente: true
+---
 
 IL PRESIDENTE DELLA REPUBBLICA
-------------------------------
 
 Viste le deliberazioni dei Consigli comunali di Canegrate e di San Giorgio su Legnano (Milano) in data 24 aprile 1959, rispettivamente, n. 20 e n. 14, con le quali e' stata chiesta una rettifica di confine fra quel Comuni;
 
@@ -18,35 +18,20 @@ Vista la deliberazione del Consiglio provinciale di Milano in data 16 settembre 
 
 Udito il parere espresso dalla prima sezione del Consiglio di Stato, nell'adunanza del 28 agosto 1962, numero 1822;
 
-Visti gli articoli 32, capoverso, e 35 del testo unico della legge comunale e provinciale, approvato con [regio decreto 3 marzo 1934, n. 383](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-03-03;383);
+Visti gli articoli 32, capoverso, e 35 del testo unico della legge comunale e provinciale, approvato con [regio decreto 3 marzo 1934, n. 383](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20del%20testo%20unico%20della%20legge%20comunale%20e%20provinciale.%20034U0383.md);
 
-Sulla
------
+Sulla proposta del Ministro Segretario di Stato per gli affari dell'interno; Decreta:
 
-proposta del Ministro Segretario di Stato per gli affari dell'interno; Decreta:
+## Art. 1.
 
-Art. 1
-------
+Il confine fra i comuni di Canegrate e di San Giorgio su Legnano, in provincia di Milano, e' rettificato secondo la linea risultante dalla pianta planimetrica e dalla relazione descrittiva, annesse al presente decreto.
 
-  
-Il confine fra i comuni di Canegrate e di San Giorgio su Legnano, in provincia di Milano, e' rettificato secondo la linea risultante dalla pianta planimetrica e dalla relazione descrittiva, annesse al presente decreto.  
+## Art. 2.
 
-Art. 2
-------
-
-  
-Il Prefetto della provincia di Milano, sentita la Giunta provinciale amministrativa, provvedera' alla separazione patrimoniale ed al riparto delle attivita' e passivita' fra i comuni di Canegrate e di San Giorgio su Legnano.  
-  
+Il Prefetto della provincia di Milano, sentita la Giunta provinciale amministrativa, provvedera' alla separazione patrimoniale ed al riparto delle attivita' e passivita' fra i comuni di Canegrate e di San Giorgio su Legnano.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 27 ottobre 1962
+Dato a Roma, addi' 27 ottobre 1962
 
-SEGNI TAVIANI
-
-Visto, il Guardasigilli: BOSCO
-
-Registrato alla Corte dei conti, addi' 6 dicembre 1962
-
-Atti del Governo, registro n. 160, foglio n. 80. - VILLA
+SEGNI TAVIANI Visto, il Guardasigilli: BOSCO Registrato alla Corte dei conti, addi' 6 dicembre 1962 Atti del Governo, registro n. 160, foglio n. 80. - VILLA

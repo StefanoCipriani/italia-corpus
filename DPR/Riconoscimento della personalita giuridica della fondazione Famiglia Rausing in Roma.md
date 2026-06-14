@@ -1,19 +1,21 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 22 novembre 1979 n. 752
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 752
+data: 1979-11-22
+titolo: "Riconoscimento della personalita' giuridica della fondazione \"Famiglia Rausing\", in Roma."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1979-11-22;752
+codice_redazionale: 079U0752
+vigente: true
+---
 
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 22 novembre 1979 n. 752
-===============================================================
-
-Riconoscimento della personalita' giuridica della fondazione "Famiglia Rausing", in Roma.
------------------------------------------------------------------------------------------
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-752. Decreto del Presidente della Repubblica 22 novembre 1979, col quale, sulla proposta del Ministro per i beni culturali e ambientali, viene riconosciuta la personalita' giuridica ed approvato lo statuto della fondazione "Famiglia Rausing", in Roma.  
-  
-Visto, il Guardasigilli: MORLINO  
-Registrato alla Corte dei conti, addi' 29 gennaio 1980  
-Registro n. 1 Beni culturali, foglio n. 367
+752.
+
+Decreto del Presidente della Repubblica 22 novembre 1979, col quale, sulla proposta del Ministro per i beni culturali e ambientali, viene riconosciuta la personalita' giuridica ed approvato lo statuto della fondazione "Famiglia Rausing", in Roma.
+
+Visto, il Guardasigilli: MORLINO
+ Registrato alla Corte dei conti, addi' 29 gennaio 1980
+ Registro n. 1 Beni culturali, foglio n. 367

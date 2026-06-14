@@ -1,19 +1,21 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 08 febbraio 1982 n. 104
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 1007
+data: 1981-12-15
+titolo: "Autorizzazione alla fondazione \"Pro juventute don Carlo Gnocchi\", in Roma, ad accettare un legato."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1981-12-15;1007
+codice_redazionale: 081U1007
+vigente: true
+---
 
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 08 febbraio 1982 n. 104
-===============================================================
-
-Autorizzazione alla fondazione "Pro juventute don Carlo Gnocchi", in Roma, ad accettare un legato.
---------------------------------------------------------------------------------------------------
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-104. Decreto del Presidente della Repubblica 8 febbraio 1982, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la fondazione "Pro juventute don Carlo Gnocchi", in Roma, viene autorizzata ad accettare il legato, consistente in un piccolo locale sito in Genova, vico Superiore del Ferro n. 11/ R, distinto nel nuovo catasto edilizio urbano alla partita n. 28047, foglio 95, mappale 216 sub 5, del valore attribuito di L. 1.800.000, ritenuto congruo dall'ufficio tecnico erariale di Genova, disposto dalla sig.ra Morra Annetta ved. Maggiorotto a favore dei Mutilatini di don Gnocchi, in Genova, con testamento olografo 5 aprile 1976, pubblicato a rogito dott. Pinca Sergio, notaio in Asti, in data 14 febbraio 1977, n. 62208/7899 di repertorio registrato ad Asti il 4 marzo 1977 al n. 1187.  
-  
-Visto, il Guardasigilli: DARIDA  
-Registrato alla Corte dei conti, addi' 20 marzo 1982  
-Registro n. 3 Presidenza, foglio n. 52
+1007.
+
+Decreto del Presidente della Repubblica 15 dicembre 1981, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la fondazione "Pro juventute don Carlo Gnocchi", in Roma, viene autorizzata ad accettare il legato, consistente in buoni del Tesoro del valore nominale di L. 5.000.000, disposto dal signor Cairoli Franco con testamento olografo e codicillo del 5 aprile 1968, pubblicato a rogito dott. Enrico Bevilacqua, notaio in Milano, il 3 ottobre 1977, n. 15065/2.811 di repertorio, registrato a Milano il 12 ottobre 1977, al n. A/4-93799 71/ M serie F.
+
+Visto, il Guardasigilli: DARIDA
+ Registrato alla Corte dei conti, addi' 24 febbraio 1982
+ Registro n. 2 Presidenza, foglio n. 176

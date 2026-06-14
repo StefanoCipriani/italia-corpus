@@ -1,19 +1,21 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 13 agosto 1964 n. 883
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 883
+data: 1964-08-13
+titolo: "Erezione in ente morale dell'Asilo infantile \"Angela Dell'Acqua\", con, sede nel comune di Casciago (Varese)."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1964-08-13;883
+codice_redazionale: 064U0883
+vigente: true
+---
 
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 13 agosto 1964 n. 883
-=============================================================
-
-Erezione in ente morale dell'Asilo infantile "Angela Dell'Acqua", con, sede nel comune di Casciago (Varese).
-------------------------------------------------------------------------------------------------------------
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-883. Decreto del Presidente della Repubblica 13 agosto 1964, col quale, sulla proposta del Ministro per l'interno, l'Asilo infantile "Angela, Dell'Acqua", con sede nel comune di Casciago (Varese), viene eretto in ente morale e ne viene approvato, con modificazioni, lo statuto.  
-  
-Visto, il Guardasigilli: REALE  
-Registrato alla Corte dei conti, addi' 23 settembre 1964  
-Atti del Governo, registro n. 186, foglio n. 139. - CARUSO
+883.
+
+Decreto del Presidente della Repubblica 13 agosto 1964, col quale, sulla proposta del Ministro per l'interno, l'Asilo infantile "Angela, Dell'Acqua", con sede nel comune di Casciago (Varese), viene eretto in ente morale e ne viene approvato, con modificazioni, lo statuto.
+
+Visto, il Guardasigilli: REALE
+ Registrato alla Corte dei conti, addi' 23 settembre 1964
+ Atti del Governo, registro n. 186, foglio n. 139. - CARUSO

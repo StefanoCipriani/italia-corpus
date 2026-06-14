@@ -1,519 +1,530 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 12 febbraio 1965 n. 162
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 162
+data: 1965-02-12
+titolo: "Norme per la repressione delle frodi nella preparazione e nel commercio dei mosti, vini ed aceti."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1965-02-12;162
+codice_redazionale: 065U0162
+vigente: true
+---
 
+## DEFINIZIONI
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 12 febbraio 1965 n. 162
-===============================================================
+CAPITOLO I
 
-Norme per la repressione delle frodi nella preparazione e nel commercio dei mosti, vini ed aceti.
--------------------------------------------------------------------------------------------------
+### Art. 1.
 
-CAPO I CAPITOLO I DEFINIZIONI
------------------------------
+((PROVVEDIMENTO ABROGATO DALLA L. 20 FEBBRAIO 2006, N. 82))
 
-### Art. 1
+### Art. 2.
 
-((PROVVEDIMENTO ABROGATO DALLA [L. 20 FEBBRAIO 2006, N. 82](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2006-02-20;82)))
+((PROVVEDIMENTO ABROGATO DALLA [L. 20 FEBBRAIO 2006, N. 82](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2006-02-20;82)))
 
-### Art. 2
+### Art. 3.
 
-((PROVVEDIMENTO ABROGATO DALLA [L. 20 FEBBRAIO 2006, N. 82](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2006-02-20;82)))  
+((PROVVEDIMENTO ABROGATO DALLA [L. 20 FEBBRAIO 2006, N. 82](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2006-02-20;82)))
 
-### Art. 3
+### Art. 4.
 
-((PROVVEDIMENTO ABROGATO DALLA [L. 20 FEBBRAIO 2006, N. 82](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2006-02-20;82)))  
+((PROVVEDIMENTO ABROGATO DALLA [L. 20 FEBBRAIO 2006, N. 82](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2006-02-20;82)))
 
-### Art. 4
+## DISCIPLINA DELLA PRODUZIONE DEI MOSTI E DEI VINI
 
-((PROVVEDIMENTO ABROGATO DALLA [L. 20 FEBBRAIO 2006, N. 82](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2006-02-20;82)))  
+CAPITOLO II
 
-CAPO II CAPITOLO II DISCIPLINA DELLA PRODUZIONE DEI MOSTI E DEI VINI
---------------------------------------------------------------------
+### Art. 5.
 
-### Art. 5
+((PROVVEDIMENTO ABROGATO DALLA [L. 20 FEBBRAIO 2006, N. 82](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2006-02-20;82)))
 
-((PROVVEDIMENTO ABROGATO DALLA [L. 20 FEBBRAIO 2006, N. 82](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2006-02-20;82)))  
+### Art. 6.
 
-### Art. 6
+((PROVVEDIMENTO ABROGATO DALLA [L. 20 FEBBRAIO 2006, N. 82](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2006-02-20;82)))
 
-((PROVVEDIMENTO ABROGATO DALLA [L. 20 FEBBRAIO 2006, N. 82](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2006-02-20;82)))  
+### Art. 7.
 
-### Art. 7
+((PROVVEDIMENTO ABROGATO DALLA [L. 20 FEBBRAIO 2006, N. 82](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2006-02-20;82)))
 
-((PROVVEDIMENTO ABROGATO DALLA [L. 20 FEBBRAIO 2006, N. 82](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2006-02-20;82)))  
+### Art. 8.
 
-### Art. 8
+((PROVVEDIMENTO ABROGATO DALLA [L. 20 FEBBRAIO 2006, N. 82](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2006-02-20;82)))
 
-((PROVVEDIMENTO ABROGATO DALLA [L. 20 FEBBRAIO 2006, N. 82](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2006-02-20;82)))  
+### Art. 9.
 
-### Art. 9
+((PROVVEDIMENTO ABROGATO DALLA [L. 20 FEBBRAIO 2006, N. 82](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2006-02-20;82)))
 
-((PROVVEDIMENTO ABROGATO DALLA [L. 20 FEBBRAIO 2006, N. 82](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2006-02-20;82)))  
+### Art. 10.
 
-### Art. 10
+((PROVVEDIMENTO ABROGATO DALLA [L. 20 FEBBRAIO 2006, N. 82](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2006-02-20;82)))
 
-((PROVVEDIMENTO ABROGATO DALLA [L. 20 FEBBRAIO 2006, N. 82](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2006-02-20;82)))  
+### Art. 11.
 
-### Art. 11
+((PROVVEDIMENTO ABROGATO DALLA [L. 20 FEBBRAIO 2006, N. 82](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2006-02-20;82)))
 
-((PROVVEDIMENTO ABROGATO DALLA [L. 20 FEBBRAIO 2006, N. 82](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2006-02-20;82)))  
+### Art. 12.
 
-### Art. 12
+((PROVVEDIMENTO ABROGATO DALLA [L. 20 FEBBRAIO 2006, N. 82](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2006-02-20;82)))
 
-((PROVVEDIMENTO ABROGATO DALLA [L. 20 FEBBRAIO 2006, N. 82](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2006-02-20;82)))  
+### Art. 13.
 
-### Art. 13
+((PROVVEDIMENTO ABROGATO DALLA [L. 20 FEBBRAIO 2006, N. 82](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2006-02-20;82)))
 
-((PROVVEDIMENTO ABROGATO DALLA [L. 20 FEBBRAIO 2006, N. 82](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2006-02-20;82)))  
+### Art. 14.
 
-### Art. 14
+((PROVVEDIMENTO ABROGATO DALLA [L. 20 FEBBRAIO 2006, N. 82](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2006-02-20;82)))
 
-((PROVVEDIMENTO ABROGATO DALLA [L. 20 FEBBRAIO 2006, N. 82](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2006-02-20;82)))  
+### Art. 15.
 
-### Art. 15
+((PROVVEDIMENTO ABROGATO DALLA [L. 20 FEBBRAIO 2006, N. 82](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2006-02-20;82)))
 
-((PROVVEDIMENTO ABROGATO DALLA [L. 20 FEBBRAIO 2006, N. 82](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2006-02-20;82)))  
+### Art. 16.
 
-### Art. 16
+((PROVVEDIMENTO ABROGATO DALLA [L. 20 FEBBRAIO 2006, N. 82](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2006-02-20;82)))
 
-((PROVVEDIMENTO ABROGATO DALLA [L. 20 FEBBRAIO 2006, N. 82](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2006-02-20;82)))  
+### Art. 17.
 
-### Art. 17
+((PROVVEDIMENTO ABROGATO DALLA [L. 20 FEBBRAIO 2006, N. 82](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2006-02-20;82)))
 
-((PROVVEDIMENTO ABROGATO DALLA [L. 20 FEBBRAIO 2006, N. 82](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2006-02-20;82)))  
+### Art. 18.
 
-### Art. 18
+((PROVVEDIMENTO ABROGATO DALLA [L. 20 FEBBRAIO 2006, N. 82](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2006-02-20;82)))
 
-((PROVVEDIMENTO ABROGATO DALLA [L. 20 FEBBRAIO 2006, N. 82](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2006-02-20;82)))  
+### Art. 19.
 
-### Art. 19
+((PROVVEDIMENTO ABROGATO DALLA [L. 20 FEBBRAIO 2006, N. 82](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2006-02-20;82)))
 
-((PROVVEDIMENTO ABROGATO DALLA [L. 20 FEBBRAIO 2006, N. 82](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2006-02-20;82)))  
+### Art. 20.
 
-### Art. 20
+((PROVVEDIMENTO ABROGATO DALLA [L. 20 FEBBRAIO 2006, N. 82](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2006-02-20;82)))
 
-((PROVVEDIMENTO ABROGATO DALLA [L. 20 FEBBRAIO 2006, N. 82](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2006-02-20;82)))  
+### Art. 21.
 
-### Art. 21
+((PROVVEDIMENTO ABROGATO DALLA [L. 20 FEBBRAIO 2006, N. 82](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2006-02-20;82)))
 
-((PROVVEDIMENTO ABROGATO DALLA [L. 20 FEBBRAIO 2006, N. 82](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2006-02-20;82)))  
+## DISCIPLINA DEL COMMERCIO DEI MOSTI E DEI VINI
 
-CAPO III CAPITOLO III DISCIPLINA DEL COMMERCIO DEI MOSTI E DEI VINI
--------------------------------------------------------------------
+CAPITOLO III
 
-### Art. 22
+### Art. 22.
 
-((PROVVEDIMENTO ABROGATO DALLA [L. 20 FEBBRAIO 2006, N. 82](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2006-02-20;82)))  
+((PROVVEDIMENTO ABROGATO DALLA [L. 20 FEBBRAIO 2006, N. 82](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2006-02-20;82)))
 
-### Art. 23
+### Art. 23.
 
-((PROVVEDIMENTO ABROGATO DALLA [L. 20 FEBBRAIO 2006, N. 82](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2006-02-20;82)))  
+((PROVVEDIMENTO ABROGATO DALLA [L. 20 FEBBRAIO 2006, N. 82](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2006-02-20;82)))
 
-### Art. 24
+### Art. 24.
 
-((PROVVEDIMENTO ABROGATO DALLA [L. 20 FEBBRAIO 2006, N. 82](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2006-02-20;82)))  
+((PROVVEDIMENTO ABROGATO DALLA [L. 20 FEBBRAIO 2006, N. 82](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2006-02-20;82)))
 
-### Art. 25
+### Art. 25.
 
-((PROVVEDIMENTO ABROGATO DALLA [L. 20 FEBBRAIO 2006, N. 82](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2006-02-20;82)))  
+((PROVVEDIMENTO ABROGATO DALLA [L. 20 FEBBRAIO 2006, N. 82](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2006-02-20;82)))
 
-### Art. 26
+### Art. 26.
 
-((PROVVEDIMENTO ABROGATO DALLA [L. 20 FEBBRAIO 2006, N. 82](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2006-02-20;82)))  
+((PROVVEDIMENTO ABROGATO DALLA [L. 20 FEBBRAIO 2006, N. 82](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2006-02-20;82)))
 
-### Art. 27
+### Art. 27.
 
-((PROVVEDIMENTO ABROGATO DALLA [L. 20 FEBBRAIO 2006, N. 82](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2006-02-20;82)))  
+((PROVVEDIMENTO ABROGATO DALLA [L. 20 FEBBRAIO 2006, N. 82](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2006-02-20;82)))
 
-### Art. 28
+### Art. 28.
 
-((PROVVEDIMENTO ABROGATO DALLA [L. 20 FEBBRAIO 2006, N. 82](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2006-02-20;82)))  
+((PROVVEDIMENTO ABROGATO DALLA [L. 20 FEBBRAIO 2006, N. 82](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2006-02-20;82)))
 
-### Art. 29
+### Art. 29.
 
-((PROVVEDIMENTO ABROGATO DALLA [L. 20 FEBBRAIO 2006, N. 82](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2006-02-20;82)))  
+((PROVVEDIMENTO ABROGATO DALLA [L. 20 FEBBRAIO 2006, N. 82](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2006-02-20;82)))
 
-### Art. 30
+### Art. 30.
 
-((PROVVEDIMENTO ABROGATO DALLA [L. 20 FEBBRAIO 2006, N. 82](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2006-02-20;82)))  
+((PROVVEDIMENTO ABROGATO DALLA [L. 20 FEBBRAIO 2006, N. 82](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2006-02-20;82)))
 
-### Art. 31
+### Art. 31.
 
-((PROVVEDIMENTO ABROGATO DALLA [L. 20 FEBBRAIO 2006, N. 82](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2006-02-20;82)))  
+((PROVVEDIMENTO ABROGATO DALLA [L. 20 FEBBRAIO 2006, N. 82](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2006-02-20;82)))
 
-### Art. 32
+### Art. 32.
 
-((PROVVEDIMENTO ABROGATO DALLA [L. 20 FEBBRAIO 2006, N. 82](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2006-02-20;82)))  
+((PROVVEDIMENTO ABROGATO DALLA [L. 20 FEBBRAIO 2006, N. 82](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2006-02-20;82)))
 
-### Art. 33
+### Art. 33.
 
-((PROVVEDIMENTO ABROGATO DALLA [L. 20 FEBBRAIO 2006, N. 82](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2006-02-20;82)))  
+((PROVVEDIMENTO ABROGATO DALLA [L. 20 FEBBRAIO 2006, N. 82](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2006-02-20;82)))
 
-### Art. 34
+### Art. 34.
 
-((LA [L. 20 FEBBRAIO 2006, N. 82](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2006-02-20;82) HA CONFERMATO L'ABROGAZIONE DEL  
-PRESENTE ARTICOLO))
+((LA L. 20 FEBBRAIO 2006, N. 82 HA CONFERMATO L'ABROGAZIONE DEL
+ PRESENTE ARTICOLO))
 
-### Art. 35
+### Art. 35.
 
-((PROVVEDIMENTO ABROGATO DALLA [L. 20 FEBBRAIO 2006, N. 82](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2006-02-20;82)))  
+((PROVVEDIMENTO ABROGATO DALLA [L. 20 FEBBRAIO 2006, N. 82](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2006-02-20;82)))
 
-CAPO IV CAPITOLO IV DISCIPLINA DEI SOTTOPRODOTTI DELLA VINIFICAZIONE E DELL'ACETO
----------------------------------------------------------------------------------
+## DISCIPLINA DEI SOTTOPRODOTTI DELLA VINIFICAZIONE E DELL'ACETO
 
-### Art. 36
+CAPITOLO IV
 
-((PROVVEDIMENTO ABROGATO DALLA [L. 20 FEBBRAIO 2006, N. 82](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2006-02-20;82)))  
+### Art. 36.
 
-### Art. 37
+((PROVVEDIMENTO ABROGATO DALLA [L. 20 FEBBRAIO 2006, N. 82](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2006-02-20;82)))
 
-((PROVVEDIMENTO ABROGATO DALLA [L. 20 FEBBRAIO 2006, N. 82](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2006-02-20;82)))  
+### Art. 37.
 
-### Art. 38
+((PROVVEDIMENTO ABROGATO DALLA [L. 20 FEBBRAIO 2006, N. 82](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2006-02-20;82)))
 
-((PROVVEDIMENTO ABROGATO DALLA [L. 20 FEBBRAIO 2006, N. 82](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2006-02-20;82)))  
+### Art. 38.
 
-### Art. 39
+((PROVVEDIMENTO ABROGATO DALLA [L. 20 FEBBRAIO 2006, N. 82](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2006-02-20;82)))
 
-((PROVVEDIMENTO ABROGATO DALLA [L. 20 FEBBRAIO 2006, N. 82](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2006-02-20;82)))  
+### Art. 39.
 
-### Art. 40
+((PROVVEDIMENTO ABROGATO DALLA [L. 20 FEBBRAIO 2006, N. 82](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2006-02-20;82)))
 
-((PROVVEDIMENTO ABROGATO DALLA [L. 20 FEBBRAIO 2006, N. 82](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2006-02-20;82)))  
+### Art. 40.
 
-### Art. 41
+((PROVVEDIMENTO ABROGATO DALLA [L. 20 FEBBRAIO 2006, N. 82](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2006-02-20;82)))
 
-((PROVVEDIMENTO ABROGATO DALLA [L. 20 FEBBRAIO 2006, N. 82](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2006-02-20;82)))  
+### Art. 41.
 
-### Art. 42
+((PROVVEDIMENTO ABROGATO DALLA [L. 20 FEBBRAIO 2006, N. 82](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2006-02-20;82)))
 
-((PROVVEDIMENTO ABROGATO DALLA [L. 20 FEBBRAIO 2006, N. 82](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2006-02-20;82)))  
+### Art. 42.
 
-### Art. 43
+((PROVVEDIMENTO ABROGATO DALLA [L. 20 FEBBRAIO 2006, N. 82](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2006-02-20;82)))
 
-((PROVVEDIMENTO ABROGATO DALLA [L. 20 FEBBRAIO 2006, N. 82](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2006-02-20;82)))  
+### Art. 43.
 
-### Art. 44
+((PROVVEDIMENTO ABROGATO DALLA [L. 20 FEBBRAIO 2006, N. 82](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2006-02-20;82)))
 
-((PROVVEDIMENTO ABROGATO DALLA [L. 20 FEBBRAIO 2006, N. 82](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2006-02-20;82)))  
+### Art. 44.
 
-### Art. 45
+((PROVVEDIMENTO ABROGATO DALLA [L. 20 FEBBRAIO 2006, N. 82](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2006-02-20;82)))
 
-((PROVVEDIMENTO ABROGATO DALLA [L. 20 FEBBRAIO 2006, N. 82](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2006-02-20;82)))  
+### Art. 45.
 
-### Art. 46
+((PROVVEDIMENTO ABROGATO DALLA [L. 20 FEBBRAIO 2006, N. 82](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2006-02-20;82)))
 
-((PROVVEDIMENTO ABROGATO DALLA [L. 20 FEBBRAIO 2006, N. 82](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2006-02-20;82)))  
+### Art. 46.
 
-### Art. 47
+((PROVVEDIMENTO ABROGATO DALLA [L. 20 FEBBRAIO 2006, N. 82](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2006-02-20;82)))
 
-((PROVVEDIMENTO ABROGATO DALLA [L. 20 FEBBRAIO 2006, N. 82](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2006-02-20;82)))  
+### Art. 47.
 
-### Art. 48
+((PROVVEDIMENTO ABROGATO DALLA [L. 20 FEBBRAIO 2006, N. 82](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2006-02-20;82)))
 
-((PROVVEDIMENTO ABROGATO DALLA [L. 20 FEBBRAIO 2006, N. 82](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2006-02-20;82)))  
+### Art. 48.
 
-### Art. 49
+((PROVVEDIMENTO ABROGATO DALLA [L. 20 FEBBRAIO 2006, N. 82](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2006-02-20;82)))
 
-((PROVVEDIMENTO ABROGATO DALLA [L. 20 FEBBRAIO 2006, N. 82](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2006-02-20;82)))  
+### Art. 49.
 
-### Art. 50
+((PROVVEDIMENTO ABROGATO DALLA [L. 20 FEBBRAIO 2006, N. 82](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2006-02-20;82)))
 
-((PROVVEDIMENTO ABROGATO DALLA [L. 20 FEBBRAIO 2006, N. 82](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2006-02-20;82)))  
+### Art. 50.
 
-### Art. 51
+((PROVVEDIMENTO ABROGATO DALLA [L. 20 FEBBRAIO 2006, N. 82](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2006-02-20;82)))
 
-((PROVVEDIMENTO ABROGATO DALLA [L. 20 FEBBRAIO 2006, N. 82](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2006-02-20;82)))
+### Art. 51.
 
-### Art. 52
+((PROVVEDIMENTO ABROGATO DALLA L. 20 FEBBRAIO 2006, N. 82))
 
-((PROVVEDIMENTO ABROGATO DALLA [L. 20 FEBBRAIO 2006, N. 82](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2006-02-20;82)))  
+### Art. 52.
 
-### Art. 53
+((PROVVEDIMENTO ABROGATO DALLA [L. 20 FEBBRAIO 2006, N. 82](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2006-02-20;82)))
 
-((PROVVEDIMENTO ABROGATO DALLA [L. 20 FEBBRAIO 2006, N. 82](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2006-02-20;82)))  
+### Art. 53.
 
-### Art. 54
+((PROVVEDIMENTO ABROGATO DALLA [L. 20 FEBBRAIO 2006, N. 82](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2006-02-20;82)))
 
-((PROVVEDIMENTO ABROGATO DALLA [L. 20 FEBBRAIO 2006, N. 82](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2006-02-20;82)))  
+### Art. 54.
 
-### Art. 55
+((PROVVEDIMENTO ABROGATO DALLA [L. 20 FEBBRAIO 2006, N. 82](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2006-02-20;82)))
 
-((PROVVEDIMENTO ABROGATO DALLA [L. 20 FEBBRAIO 2006, N. 82](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2006-02-20;82)))  
+### Art. 55.
 
-CAPO V CAPITOLO V DISCIPLINA DEI PRODOTTI PER USO ENOLOGICO
------------------------------------------------------------
+((PROVVEDIMENTO ABROGATO DALLA [L. 20 FEBBRAIO 2006, N. 82](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2006-02-20;82)))
 
-### Art. 56
+## DISCIPLINA DEI PRODOTTI PER USO ENOLOGICO
 
-((PROVVEDIMENTO ABROGATO DALLA [L. 20 FEBBRAIO 2006, N. 82](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2006-02-20;82)))  
+CAPITOLO V
 
-### Art. 57
+### Art. 56.
 
-((PROVVEDIMENTO ABROGATO DALLA [L. 20 FEBBRAIO 2006, N. 82](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2006-02-20;82)))  
+((PROVVEDIMENTO ABROGATO DALLA [L. 20 FEBBRAIO 2006, N. 82](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2006-02-20;82)))
 
-### Art. 58
+### Art. 57.
 
-((PROVVEDIMENTO ABROGATO DALLA [L. 20 FEBBRAIO 2006, N. 82](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2006-02-20;82)))  
+((PROVVEDIMENTO ABROGATO DALLA [L. 20 FEBBRAIO 2006, N. 82](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2006-02-20;82)))
 
-### Art. 59
+### Art. 58.
 
-((PROVVEDIMENTO ABROGATO DALLA [L. 20 FEBBRAIO 2006, N. 82](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2006-02-20;82)))  
+((PROVVEDIMENTO ABROGATO DALLA [L. 20 FEBBRAIO 2006, N. 82](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2006-02-20;82)))
 
-CAPO VI CAPITOLO VI IMPORTAZIONI, ESPORTAZIONI, REIMPORTAZIONE, TRANSITO
-------------------------------------------------------------------------
+### Art. 59.
 
-### Art. 60
+((PROVVEDIMENTO ABROGATO DALLA [L. 20 FEBBRAIO 2006, N. 82](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2006-02-20;82)))
 
-((PROVVEDIMENTO ABROGATO DALLA [L. 20 FEBBRAIO 2006, N. 82](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2006-02-20;82)))
+## IMPORTAZIONI, ESPORTAZIONI, REIMPORTAZIONE, TRANSITO
 
-### Art. 61
+CAPITOLO VI
 
-((PROVVEDIMENTO ABROGATO DALLA [L. 20 FEBBRAIO 2006, N. 82](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2006-02-20;82)))  
+### Art. 60.
 
-### Art. 62
+((PROVVEDIMENTO ABROGATO DALLA L. 20 FEBBRAIO 2006, N. 82))
 
-((PROVVEDIMENTO ABROGATO DALLA [L. 20 FEBBRAIO 2006, N. 82](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2006-02-20;82)))  
+### Art. 61.
 
-### Art. 63
+((PROVVEDIMENTO ABROGATO DALLA [L. 20 FEBBRAIO 2006, N. 82](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2006-02-20;82)))
 
-((PROVVEDIMENTO ABROGATO DALLA [L. 20 FEBBRAIO 2006, N. 82](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2006-02-20;82)))  
+### Art. 62.
 
-### Art. 64
+((PROVVEDIMENTO ABROGATO DALLA [L. 20 FEBBRAIO 2006, N. 82](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2006-02-20;82)))
 
-((PROVVEDIMENTO ABROGATO DALLA [L. 20 FEBBRAIO 2006, N. 82](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2006-02-20;82)))  
+### Art. 63.
 
-### Art. 65
+((PROVVEDIMENTO ABROGATO DALLA [L. 20 FEBBRAIO 2006, N. 82](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2006-02-20;82)))
 
-((PROVVEDIMENTO ABROGATO DALLA [L. 20 FEBBRAIO 2006, N. 82](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2006-02-20;82)))  
+### Art. 64.
 
-### Art. 66
+((PROVVEDIMENTO ABROGATO DALLA [L. 20 FEBBRAIO 2006, N. 82](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2006-02-20;82)))
 
-((PROVVEDIMENTO ABROGATO DALLA [L. 20 FEBBRAIO 2006, N. 82](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2006-02-20;82)))  
+### Art. 65.
 
-### Art. 67
+((PROVVEDIMENTO ABROGATO DALLA [L. 20 FEBBRAIO 2006, N. 82](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2006-02-20;82)))
 
-((PROVVEDIMENTO ABROGATO DALLA [L. 20 FEBBRAIO 2006, N. 82](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2006-02-20;82)))  
+### Art. 66.
 
-### Art. 68
+((PROVVEDIMENTO ABROGATO DALLA [L. 20 FEBBRAIO 2006, N. 82](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2006-02-20;82)))
 
-((PROVVEDIMENTO ABROGATO DALLA [L. 20 FEBBRAIO 2006, N. 82](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2006-02-20;82)))  
+### Art. 67.
 
-CAPO VII CAPITOLO VII DISPOSIZIONI COMUNI
------------------------------------------
+((PROVVEDIMENTO ABROGATO DALLA [L. 20 FEBBRAIO 2006, N. 82](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2006-02-20;82)))
 
-### Art. 69
+### Art. 68.
 
-((PROVVEDIMENTO ABROGATO DALLA [L. 20 FEBBRAIO 2006, N. 82](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2006-02-20;82)))  
+((PROVVEDIMENTO ABROGATO DALLA [L. 20 FEBBRAIO 2006, N. 82](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2006-02-20;82)))
 
-### Art. 70
+## DISPOSIZIONI COMUNI
 
-((PROVVEDIMENTO ABROGATO DALLA [L. 20 FEBBRAIO 2006, N. 82](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2006-02-20;82)))  
+CAPITOLO VII
 
-### Art. 71
+### Art. 69.
 
-((PROVVEDIMENTO ABROGATO DALLA [L. 20 FEBBRAIO 2006, N. 82](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2006-02-20;82)))  
+((PROVVEDIMENTO ABROGATO DALLA [L. 20 FEBBRAIO 2006, N. 82](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2006-02-20;82)))
 
-### Art. 72
+### Art. 70.
 
-((PROVVEDIMENTO ABROGATO DALLA [L. 20 FEBBRAIO 2006, N. 82](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2006-02-20;82)))  
+((PROVVEDIMENTO ABROGATO DALLA [L. 20 FEBBRAIO 2006, N. 82](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2006-02-20;82)))
 
-### Art. 73
+### Art. 71.
 
-((PROVVEDIMENTO ABROGATO DALLA [L. 20 FEBBRAIO 2006, N. 82](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2006-02-20;82)))  
+((PROVVEDIMENTO ABROGATO DALLA [L. 20 FEBBRAIO 2006, N. 82](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2006-02-20;82)))
 
-### Art. 74
+### Art. 72.
 
-((PROVVEDIMENTO ABROGATO DALLA [L. 20 FEBBRAIO 2006, N. 82](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2006-02-20;82)))  
+((PROVVEDIMENTO ABROGATO DALLA [L. 20 FEBBRAIO 2006, N. 82](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2006-02-20;82)))
 
-CAPO VIII CAPITOLO VIII VIGILANZA
----------------------------------
+### Art. 73.
 
-### Art. 75
+((PROVVEDIMENTO ABROGATO DALLA [L. 20 FEBBRAIO 2006, N. 82](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2006-02-20;82)))
 
-((PROVVEDIMENTO ABROGATO DALLA [L. 20 FEBBRAIO 2006, N. 82](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2006-02-20;82)))  
+### Art. 74.
 
-CAPO IX CAPITOLO IX SANZIONI
-----------------------------
+((PROVVEDIMENTO ABROGATO DALLA [L. 20 FEBBRAIO 2006, N. 82](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2006-02-20;82)))
 
-### Art. 76
+## VIGILANZA
 
-((PROVVEDIMENTO ABROGATO DALLA [L. 20 FEBBRAIO 2006, N. 82](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2006-02-20;82)))
+CAPITOLO VIII
 
-### Art. 77
+### Art. 75.
 
-((PROVVEDIMENTO ABROGATO DALLA [L. 20 FEBBRAIO 2006, N. 82](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2006-02-20;82)))  
+((PROVVEDIMENTO ABROGATO DALLA [L. 20 FEBBRAIO 2006, N. 82](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2006-02-20;82)))
 
-### Art. 78
+## SANZIONI
 
-((PROVVEDIMENTO ABROGATO DALLA [L. 20 FEBBRAIO 2006, N. 82](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2006-02-20;82)))  
+CAPITOLO IX
 
-### Art. 79
+### Art. 76.
 
-((PROVVEDIMENTO ABROGATO DALLA [L. 20 FEBBRAIO 2006, N. 82](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2006-02-20;82)))  
+((PROVVEDIMENTO ABROGATO DALLA L. 20 FEBBRAIO 2006, N. 82))
 
-### Art. 80
+### Art. 77.
 
-((PROVVEDIMENTO ABROGATO DALLA [L. 20 FEBBRAIO 2006, N. 82](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2006-02-20;82)))  
+((PROVVEDIMENTO ABROGATO DALLA [L. 20 FEBBRAIO 2006, N. 82](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2006-02-20;82)))
 
-### Art. 81
+### Art. 78.
 
-((PROVVEDIMENTO ABROGATO DALLA [L. 20 FEBBRAIO 2006, N. 82](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2006-02-20;82)))  
+((PROVVEDIMENTO ABROGATO DALLA [L. 20 FEBBRAIO 2006, N. 82](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2006-02-20;82)))
 
-### Art. 82
+### Art. 79.
 
-((PROVVEDIMENTO ABROGATO DALLA [L. 20 FEBBRAIO 2006, N. 82](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2006-02-20;82)))  
+((PROVVEDIMENTO ABROGATO DALLA [L. 20 FEBBRAIO 2006, N. 82](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2006-02-20;82)))
 
-### Art. 83
+### Art. 80.
 
-((PROVVEDIMENTO ABROGATO DALLA [L. 20 FEBBRAIO 2006, N. 82](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2006-02-20;82)))  
+((PROVVEDIMENTO ABROGATO DALLA [L. 20 FEBBRAIO 2006, N. 82](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2006-02-20;82)))
 
-### Art. 84
+### Art. 81.
 
-((PROVVEDIMENTO ABROGATO DALLA [L. 20 FEBBRAIO 2006, N. 82](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2006-02-20;82)))  
+((PROVVEDIMENTO ABROGATO DALLA [L. 20 FEBBRAIO 2006, N. 82](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2006-02-20;82)))
 
-### Art. 85
+### Art. 82.
 
-((PROVVEDIMENTO ABROGATO DALLA [L. 20 FEBBRAIO 2006, N. 82](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2006-02-20;82)))  
+((PROVVEDIMENTO ABROGATO DALLA [L. 20 FEBBRAIO 2006, N. 82](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2006-02-20;82)))
 
-### Art. 86
+### Art. 83.
 
-((PROVVEDIMENTO ABROGATO DALLA [L. 20 FEBBRAIO 2006, N. 82](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2006-02-20;82)))  
+((PROVVEDIMENTO ABROGATO DALLA [L. 20 FEBBRAIO 2006, N. 82](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2006-02-20;82)))
 
-### Art. 87
+### Art. 84.
 
-((PROVVEDIMENTO ABROGATO DALLA [L. 20 FEBBRAIO 2006, N. 82](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2006-02-20;82)))  
+((PROVVEDIMENTO ABROGATO DALLA [L. 20 FEBBRAIO 2006, N. 82](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2006-02-20;82)))
 
-### Art. 88
+### Art. 85.
 
-((PROVVEDIMENTO ABROGATO DALLA [L. 20 FEBBRAIO 2006, N. 82](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2006-02-20;82)))  
+((PROVVEDIMENTO ABROGATO DALLA [L. 20 FEBBRAIO 2006, N. 82](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2006-02-20;82)))
 
-### Art. 89
+### Art. 86.
 
-((PROVVEDIMENTO ABROGATO DALLA [L. 20 FEBBRAIO 2006, N. 82](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2006-02-20;82)))  
+((PROVVEDIMENTO ABROGATO DALLA [L. 20 FEBBRAIO 2006, N. 82](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2006-02-20;82)))
 
-### Art. 90
+### Art. 87.
 
-((PROVVEDIMENTO ABROGATO DALLA [L. 20 FEBBRAIO 2006, N. 82](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2006-02-20;82)))  
+((PROVVEDIMENTO ABROGATO DALLA [L. 20 FEBBRAIO 2006, N. 82](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2006-02-20;82)))
 
-### Art. 91
+### Art. 88.
 
-((PROVVEDIMENTO ABROGATO DALLA [L. 20 FEBBRAIO 2006, N. 82](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2006-02-20;82)))  
+((PROVVEDIMENTO ABROGATO DALLA [L. 20 FEBBRAIO 2006, N. 82](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2006-02-20;82)))
 
-### Art. 92
+### Art. 89.
 
-((PROVVEDIMENTO ABROGATO DALLA [L. 20 FEBBRAIO 2006, N. 82](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2006-02-20;82)))  
+((PROVVEDIMENTO ABROGATO DALLA [L. 20 FEBBRAIO 2006, N. 82](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2006-02-20;82)))
 
-### Art. 93
+### Art. 90.
 
-((PROVVEDIMENTO ABROGATO DALLA [L. 20 FEBBRAIO 2006, N. 82](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2006-02-20;82)))  
+((PROVVEDIMENTO ABROGATO DALLA [L. 20 FEBBRAIO 2006, N. 82](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2006-02-20;82)))
 
-### Art. 94
+### Art. 91.
 
-((PROVVEDIMENTO ABROGATO DALLA [L. 20 FEBBRAIO 2006, N. 82](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2006-02-20;82)))  
+((PROVVEDIMENTO ABROGATO DALLA [L. 20 FEBBRAIO 2006, N. 82](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2006-02-20;82)))
 
-### Art. 95
+### Art. 92.
 
-((PROVVEDIMENTO ABROGATO DALLA [L. 20 FEBBRAIO 2006, N. 82](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2006-02-20;82)))  
+((PROVVEDIMENTO ABROGATO DALLA [L. 20 FEBBRAIO 2006, N. 82](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2006-02-20;82)))
 
-### Art. 96
+### Art. 93.
 
-((PROVVEDIMENTO ABROGATO DALLA [L. 20 FEBBRAIO 2006, N. 82](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2006-02-20;82)))  
+((PROVVEDIMENTO ABROGATO DALLA [L. 20 FEBBRAIO 2006, N. 82](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2006-02-20;82)))
 
-### Art. 97
+### Art. 94.
 
-((PROVVEDIMENTO ABROGATO DALLA [L. 20 FEBBRAIO 2006, N. 82](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2006-02-20;82)))  
+((PROVVEDIMENTO ABROGATO DALLA [L. 20 FEBBRAIO 2006, N. 82](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2006-02-20;82)))
 
-### Art. 98
+### Art. 95.
 
-((PROVVEDIMENTO ABROGATO DALLA [L. 20 FEBBRAIO 2006, N. 82](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2006-02-20;82)))  
+((PROVVEDIMENTO ABROGATO DALLA [L. 20 FEBBRAIO 2006, N. 82](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2006-02-20;82)))
 
-### Art. 99
+### Art. 96.
 
-((PROVVEDIMENTO ABROGATO DALLA [L. 20 FEBBRAIO 2006, N. 82](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2006-02-20;82)))  
+((PROVVEDIMENTO ABROGATO DALLA [L. 20 FEBBRAIO 2006, N. 82](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2006-02-20;82)))
 
-### Art. 100
+### Art. 97.
 
-((PROVVEDIMENTO ABROGATO DALLA [L. 20 FEBBRAIO 2006, N. 82](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2006-02-20;82)))  
+((PROVVEDIMENTO ABROGATO DALLA [L. 20 FEBBRAIO 2006, N. 82](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2006-02-20;82)))
 
-### Art. 101
+### Art. 98.
 
-((PROVVEDIMENTO ABROGATO DALLA [L. 20 FEBBRAIO 2006, N. 82](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2006-02-20;82)))  
+((PROVVEDIMENTO ABROGATO DALLA [L. 20 FEBBRAIO 2006, N. 82](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2006-02-20;82)))
 
-### Art. 102
+### Art. 99.
 
-((PROVVEDIMENTO ABROGATO DALLA [L. 20 FEBBRAIO 2006, N. 82](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2006-02-20;82)))  
+((PROVVEDIMENTO ABROGATO DALLA [L. 20 FEBBRAIO 2006, N. 82](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2006-02-20;82)))
 
-### Art. 103
+### Art. 100.
 
-((PROVVEDIMENTO ABROGATO DALLA [L. 20 FEBBRAIO 2006, N. 82](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2006-02-20;82)))  
+((PROVVEDIMENTO ABROGATO DALLA [L. 20 FEBBRAIO 2006, N. 82](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2006-02-20;82)))
 
-### Art. 104
+### Art. 101.
 
-((PROVVEDIMENTO ABROGATO DALLA [L. 20 FEBBRAIO 2006, N. 82](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2006-02-20;82)))  
+((PROVVEDIMENTO ABROGATO DALLA [L. 20 FEBBRAIO 2006, N. 82](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2006-02-20;82)))
 
-### Art. 105
+### Art. 102.
 
-((PROVVEDIMENTO ABROGATO DALLA [L. 20 FEBBRAIO 2006, N. 82](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2006-02-20;82)))  
+((PROVVEDIMENTO ABROGATO DALLA [L. 20 FEBBRAIO 2006, N. 82](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2006-02-20;82)))
 
-### Art. 106
+### Art. 103.
 
-((PROVVEDIMENTO ABROGATO DALLA [L. 20 FEBBRAIO 2006, N. 82](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2006-02-20;82)))  
+((PROVVEDIMENTO ABROGATO DALLA [L. 20 FEBBRAIO 2006, N. 82](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2006-02-20;82)))
 
-### Art. 107
+### Art. 104.
 
-((PROVVEDIMENTO ABROGATO DALLA [L. 20 FEBBRAIO 2006, N. 82](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2006-02-20;82)))  
+((PROVVEDIMENTO ABROGATO DALLA [L. 20 FEBBRAIO 2006, N. 82](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2006-02-20;82)))
 
-### Art. 108
+### Art. 105.
 
-((PROVVEDIMENTO ABROGATO DALLA [L. 20 FEBBRAIO 2006, N. 82](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2006-02-20;82)))  
+((PROVVEDIMENTO ABROGATO DALLA [L. 20 FEBBRAIO 2006, N. 82](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2006-02-20;82)))
 
-### Art. 109
+### Art. 106.
 
-((PROVVEDIMENTO ABROGATO DALLA [L. 20 FEBBRAIO 2006, N. 82](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2006-02-20;82)))  
+((PROVVEDIMENTO ABROGATO DALLA [L. 20 FEBBRAIO 2006, N. 82](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2006-02-20;82)))
 
-### Art. 109-bis
+### Art. 107.
 
-((PROVVEDIMENTO ABROGATO DALLA [L. 20 FEBBRAIO 2006, N. 82](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2006-02-20;82)))  
+((PROVVEDIMENTO ABROGATO DALLA [L. 20 FEBBRAIO 2006, N. 82](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2006-02-20;82)))
 
-CAPO X CAPITOLO X DISPOSIZIONI FINALI E TRANSITORIE
----------------------------------------------------
+### Art. 108.
 
-### Art. 110
+((PROVVEDIMENTO ABROGATO DALLA [L. 20 FEBBRAIO 2006, N. 82](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2006-02-20;82)))
 
-((PROVVEDIMENTO ABROGATO DALLA [L. 20 FEBBRAIO 2006, N. 82](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2006-02-20;82)))  
+### Art. 109.
 
-### Art. 111
+((PROVVEDIMENTO ABROGATO DALLA [L. 20 FEBBRAIO 2006, N. 82](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2006-02-20;82)))
 
-((PROVVEDIMENTO ABROGATO DALLA [L. 20 FEBBRAIO 2006, N. 82](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2006-02-20;82)))  
+### Art. 109-bis.
 
-### Art. 112
+((PROVVEDIMENTO ABROGATO DALLA [L. 20 FEBBRAIO 2006, N. 82](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2006-02-20;82)))
 
-((PROVVEDIMENTO ABROGATO DALLA [L. 20 FEBBRAIO 2006, N. 82](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2006-02-20;82)))  
+## DISPOSIZIONI FINALI E TRANSITORIE
 
-### Art. 113
+CAPITOLO X
 
-((PROVVEDIMENTO ABROGATO DALLA [L. 20 FEBBRAIO 2006, N. 82](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2006-02-20;82)))  
+### Art. 110.
 
-### Art. 114
+((PROVVEDIMENTO ABROGATO DALLA [L. 20 FEBBRAIO 2006, N. 82](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2006-02-20;82)))
 
-((PROVVEDIMENTO ABROGATO DALLA [L. 20 FEBBRAIO 2006, N. 82](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2006-02-20;82)))  
+### Art. 111.
 
-### Art. 115
+((PROVVEDIMENTO ABROGATO DALLA [L. 20 FEBBRAIO 2006, N. 82](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2006-02-20;82)))
 
-((PROVVEDIMENTO ABROGATO DALLA [L. 20 FEBBRAIO 2006, N. 82](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2006-02-20;82)))  
+### Art. 112.
 
-### Art. 116
+((PROVVEDIMENTO ABROGATO DALLA [L. 20 FEBBRAIO 2006, N. 82](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2006-02-20;82)))
 
-((PROVVEDIMENTO ABROGATO DALLA [L. 20 FEBBRAIO 2006, N. 82](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2006-02-20;82)))  
+### Art. 113.
 
-### Art. 117
+((PROVVEDIMENTO ABROGATO DALLA [L. 20 FEBBRAIO 2006, N. 82](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2006-02-20;82)))
 
-((PROVVEDIMENTO ABROGATO DALLA [L. 20 FEBBRAIO 2006, N. 82](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2006-02-20;82)))  
+### Art. 114.
 
-### Art. 118
+((PROVVEDIMENTO ABROGATO DALLA [L. 20 FEBBRAIO 2006, N. 82](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2006-02-20;82)))
 
-((PROVVEDIMENTO ABROGATO DALLA [L. 20 FEBBRAIO 2006, N. 82](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2006-02-20;82)))  
+### Art. 115.
 
-### Art. 119
+((PROVVEDIMENTO ABROGATO DALLA [L. 20 FEBBRAIO 2006, N. 82](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2006-02-20;82)))
 
-((PROVVEDIMENTO ABROGATO DALLA [L. 20 FEBBRAIO 2006, N. 82](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2006-02-20;82)))  
+### Art. 116.
+
+((PROVVEDIMENTO ABROGATO DALLA [L. 20 FEBBRAIO 2006, N. 82](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2006-02-20;82)))
+
+### Art. 117.
+
+((PROVVEDIMENTO ABROGATO DALLA [L. 20 FEBBRAIO 2006, N. 82](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2006-02-20;82)))
+
+### Art. 118.
+
+((PROVVEDIMENTO ABROGATO DALLA [L. 20 FEBBRAIO 2006, N. 82](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2006-02-20;82)))
+
+### Art. 119.
+
+((PROVVEDIMENTO ABROGATO DALLA [L. 20 FEBBRAIO 2006, N. 82](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2006-02-20;82)))

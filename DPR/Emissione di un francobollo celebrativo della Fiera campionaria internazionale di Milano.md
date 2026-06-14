@@ -1,18 +1,18 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 18 dicembre 1948 n. 1562
-
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 18 dicembre 1948 n. 1562
-================================================================
-
-Emissione di un francobollo celebrativo della Fiera campionaria internazionale di Milano.
------------------------------------------------------------------------------------------
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 1562
+data: 1948-12-18
+titolo: "Emissione di un francobollo celebrativo della Fiera campionaria internazionale di Milano."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1948-12-18;1562
+codice_redazionale: 048U1562
+vigente: true
+---
 
 IL PRESIDENTE DELLA REPUBBLICA
-------------------------------
 
-Visto l'art. 21 del Codice postale e delle telecomunicazioni, approvato col [regio decreto 27 febbraio 1936, n. 645](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1936-02-27;645);
+Visto l'art. 21 del Codice postale e delle telecomunicazioni, approvato col [regio decreto 27 febbraio 1936, n. 645](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1936-02-27;645);
 
-Visto l'art. 239 del regolamento dei servizi postali (parte 1ª) approvato con [regio decreto 18 aprile 1940, n. 689](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-04-18;689);
+Visto l'art. 239 del regolamento dei servizi postali (parte 1ª) approvato con [regio decreto 18 aprile 1940, n. 689](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20del%20regolamento%20di%20esecuzione%20dei%20titoli%20I%20e%20II%20del%20libro%201%20del%20Codice%20postale%20e%20delle%20telecomunicazioni.%20040U0689.md);
 
 Riconosciuta l'opportunita' che sia emesso uno speciale francobollo per celebrare la Fiera campionaria, internazionale che avra' luogo a Milano nel prossimo anno 1949;
 
@@ -20,33 +20,18 @@ Sentito il Consiglio di amministrazione delle poste e delle telecomunicazioni;
 
 Sentito il Consiglio dei Ministri;
 
-Sulla
------
+Sulla proposta del Ministro per le poste e le telecomunicazioni; Decreta:
 
-proposta del Ministro per le poste e le telecomunicazioni; Decreta:
+## Art. 1.
 
-Art. 1
-------
+E' autorizzata l'emissione di un francobollo celebrativo della Fiera campionaria internazionale che avra' luogo a Milano nel 1949.
 
-  
-E' autorizzata l'emissione di un francobollo celebrativo della Fiera campionaria internazionale che avra' luogo a Milano nel 1949.  
+## Art. 2.
 
-Art. 2
-------
-
-  
-Con decreto del Ministro per le poste e le telecomunicazioni, di concerto col Ministro per il tesoro, verranno precisate le caratteristiche tecniche del francobollo di cui all'art. 1 del presente decreto, e saranno indicati i termini per la validita' e il cambio del francobollo medesimo.  
-  
+Con decreto del Ministro per le poste e le telecomunicazioni, di concerto col Ministro per il tesoro, verranno precisate le caratteristiche tecniche del francobollo di cui all'art. 1 del presente decreto, e saranno indicati i termini per la validita' e il cambio del francobollo medesimo.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 18 dicembre 194
+Dato a Roma, addi' 18 dicembre 194
 
-EINAUDI DE GASPERI - JERVOLINO
-
-Visto, il Guardasigilli: GRASSI
-
-Registrato alla Corte dei conti, addi' 21 gennaio 1949
-
-Atti del Governo, registro n. 26 foglio n. 38 - CONSOLI
+EINAUDI DE GASPERI - JERVOLINO Visto, il Guardasigilli: GRASSI Registrato alla Corte dei conti, addi' 21 gennaio 1949 Atti del Governo, registro n. 26 foglio n. 38 - CONSOLI

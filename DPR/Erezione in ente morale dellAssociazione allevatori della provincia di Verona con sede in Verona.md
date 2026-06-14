@@ -1,19 +1,21 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 23 maggio 1958 n. 722
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 722
+data: 1958-05-23
+titolo: "Erezione in ente morale dell'\"Associazione allevatori della provincia di Verona\", con sede in Verona."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1958-05-23;722
+codice_redazionale: 058U0722
+vigente: true
+---
 
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 23 maggio 1958 n. 722
-=============================================================
-
-Erezione in ente morale dell'"Associazione allevatori della provincia di Verona", con sede in Verona.
------------------------------------------------------------------------------------------------------
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-722. Decreto del Presidente della Repubblica 23 maggio 1958, col quale, sulla proposta del Ministro per l'agricoltura e per le foreste, l'"Associazione allevatori della provincia di Verona", con sede in Verona viene eretta in ente morale e ne viene approvato lo statuto.  
-  
-Visto, il Guardasigilli: GONELLA  
-Registrato alla Corte dei conti, addi' 21 luglio 1958  
-Atti del Governo, registro n. 113, foglio n. 69. - RELLEVA
+722.
+
+Decreto del Presidente della Repubblica 23 maggio 1958, col quale, sulla proposta del Ministro per l'agricoltura e per le foreste, l'"Associazione allevatori della provincia di Verona", con sede in Verona viene eretta in ente morale e ne viene approvato lo statuto.
+
+Visto, il Guardasigilli: GONELLA
+ Registrato alla Corte dei conti, addi' 21 luglio 1958
+ Atti del Governo, registro n. 113, foglio n. 69. - RELLEVA

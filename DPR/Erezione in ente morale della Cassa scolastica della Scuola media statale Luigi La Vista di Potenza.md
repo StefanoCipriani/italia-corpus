@@ -1,19 +1,21 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 22 novembre 1953 n. 1218
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 1218
+data: 1953-11-22
+titolo: "Erezione in ente morale della Cassa scolastica della Scuola media statale \"Luigi La Vista\" di Potenza."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1953-11-22;1218
+codice_redazionale: 053U1218
+vigente: true
+---
 
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 22 novembre 1953 n. 1218
-================================================================
-
-Erezione in ente morale della Cassa scolastica della Scuola media statale "Luigi La Vista" di Potenza.
-------------------------------------------------------------------------------------------------------
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-1218. Decreto del Presidente della Repubblica 22 novembre 1953, col quale, sulla proposta del Ministro per la pubblica istruzione, la Cassa scolastica della Scuola media statale "Luigi La Vista" di Potenza viene eretta in ente morale e ne viene approvato lo statuto.  
-  
-Visto, il Guardasigilli: AZARA  
-Registrato alla Corte dei conti, addi' 10 maggio 1954  
-Atti del Governo, registro n. 83, foglio n. 23. - CARLOMAGNO
+1218.
+
+Decreto del Presidente della Repubblica 22 novembre 1953, col quale, sulla proposta del Ministro per la pubblica istruzione, la Cassa scolastica della Scuola media statale "Luigi La Vista" di Potenza viene eretta in ente morale e ne viene approvato lo statuto.
+
+Visto, il Guardasigilli: AZARA
+ Registrato alla Corte dei conti, addi' 10 maggio 1954
+ Atti del Governo, registro n. 83, foglio n. 23. - CARLOMAGNO

@@ -1,19 +1,21 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 luglio 1954 n. 903
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 903
+data: 1954-07-31
+titolo: "Riconoscimento della personalita' giuridica della Chiesa parrocchiale dei Santi Apostoli Pietro e Paolo, in localita' Trento del comune di Ravenna."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1954-07-31;903
+codice_redazionale: 054U0903
+vigente: true
+---
 
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 luglio 1954 n. 903
-=============================================================
-
-Riconoscimento della personalita' giuridica della Chiesa parrocchiale dei Santi Apostoli Pietro e Paolo, in localita' Trento del comune di Ravenna.
----------------------------------------------------------------------------------------------------------------------------------------------------
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-903. Decreto del Presidente della. Repubblica 31 luglio 1954, col quale, sulla proposta del Ministro per l'interno, viene riconosciuta la personalita' giuridica della Chiesa parrocchiale dei Santi Apostoli Pietro e Paolo, in localita' Trento del comune di Ravenna.  
-  
-Visto, il Guardasigilli: DE PIETRO  
-Registrato alla Corte dei conti, addi' 24 settembre 1954  
-Atti del Governo, registro n. 86, foglio n. 49. - CARLOMAGNO
+903.
+
+Decreto del Presidente della. Repubblica 31 luglio 1954, col quale, sulla proposta del Ministro per l'interno, viene riconosciuta la personalita' giuridica della Chiesa parrocchiale dei Santi Apostoli Pietro e Paolo, in localita' Trento del comune di Ravenna.
+
+Visto, il Guardasigilli: DE PIETRO
+ Registrato alla Corte dei conti, addi' 24 settembre 1954
+ Atti del Governo, registro n. 86, foglio n. 49. - CARLOMAGNO

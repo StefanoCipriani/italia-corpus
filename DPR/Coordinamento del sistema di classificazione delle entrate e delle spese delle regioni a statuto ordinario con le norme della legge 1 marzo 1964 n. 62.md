@@ -1,64 +1,41 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 03 dicembre 1970 n. 1171
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 1171
+data: 1970-12-03
+titolo: "Coordinamento del sistema di classificazione delle entrate e delle spese delle regioni a statuto ordinario con le norme della legge 1 marzo 1964, n. 62."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1970-12-03;1171
+codice_redazionale: 070U1171
+vigente: true
+---
 
+## Art. 1.
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 03 dicembre 1970 n. 1171
-================================================================
+((PROVVEDIMENTO ABROGATO DALLA L. 19 MAGGIO 1976, N. 335 )).
 
-Coordinamento del sistema di classificazione delle entrate e delle spese delle regioni a statuto ordinario con le norme della legge 1 marzo 1964, n. 62.
---------------------------------------------------------------------------------------------------------------------------------------------------------
+## Art. 2.
 
-Art. 1
-------
+((PROVVEDIMENTO ABROGATO DALLA L. 19 MAGGIO 1976, N. 335)).
 
-((PROVVEDIMENTO ABROGATO DALLA [L. 19 MAGGIO 1976, N. 335](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1976-05-19;335) ))
+## Art. 3.
 
-.  
+((PROVVEDIMENTO ABROGATO DALLA L. 19 MAGGIO 1976, N. 335)).
 
-Art. 2
-------
+## Art. 4.
 
-((PROVVEDIMENTO ABROGATO DALLA [L. 19 MAGGIO 1976, N. 335](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1976-05-19;335)))
+((PROVVEDIMENTO ABROGATO DALLA L. 19 MAGGIO 1976, N. 335)).
 
-.  
+## Art. 5.
 
-Art. 3
-------
+((PROVVEDIMENTO ABROGATO DALLA L. 19 MAGGIO 1976, N. 335)).
 
-((PROVVEDIMENTO ABROGATO DALLA [L. 19 MAGGIO 1976, N. 335](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1976-05-19;335)))
+## Art. 6.
 
-.  
+((PROVVEDIMENTO ABROGATO DALLA L. 19 MAGGIO 1976, N. 335)).
 
-Art. 4
-------
+## Art. 7.
 
-((PROVVEDIMENTO ABROGATO DALLA [L. 19 MAGGIO 1976, N. 335](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1976-05-19;335)))
+((PROVVEDIMENTO ABROGATO DALLA L. 19 MAGGIO 1976, N. 335)).
 
-.  
+## Art. 8.
 
-Art. 5
-------
-
-((PROVVEDIMENTO ABROGATO DALLA [L. 19 MAGGIO 1976, N. 335](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1976-05-19;335)))
-
-.  
-
-Art. 6
-------
-
-((PROVVEDIMENTO ABROGATO DALLA [L. 19 MAGGIO 1976, N. 335](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1976-05-19;335)))
-
-.  
-
-Art. 7
-------
-
-((PROVVEDIMENTO ABROGATO DALLA [L. 19 MAGGIO 1976, N. 335](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1976-05-19;335)))
-
-.  
-
-Art. 8
-------
-
-((PROVVEDIMENTO ABROGATO DALLA [L. 19 MAGGIO 1976, N. 335](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1976-05-19;335)))
-
-.  
+((PROVVEDIMENTO ABROGATO DALLA L. 19 MAGGIO 1976, N. 335)).

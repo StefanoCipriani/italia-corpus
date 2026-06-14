@@ -1,36 +1,28 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 03 maggio 1974 n. 315
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 315
+data: 1974-05-03
+titolo: "Istituzione di una corporazione di piloti nel porto di Lipari."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1974-05-03;315
+codice_redazionale: 074U0315
+vigente: true
+---
 
+## Art. 1.
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 03 maggio 1974 n. 315
-=============================================================
+IL PRESIDENTE DELLA REPUBBLICA
 
-Istituzione di una corporazione di piloti nel porto di Lipari.
---------------------------------------------------------------
+ Visto l'[art. 86 del codice della navigazione](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md), approvato con [regio decreto 30 marzo 1942, n. 327](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md);
+ Ritenuta la necessita' di provvedere all'organizzazione del servizio di pilotaggio nel porto di Lipari con l'istituzione di una corporazione di piloti;
+ Udito il parere del Consiglio di Stato;
+ Sulla proposta del Ministro per la marina mercantile;
 
-Art. 1
-------
+ Decreta:
 
- IL PRESIDENTE DELLA REPUBBLICA  
-  
-Visto l'[art. 86 del codice della navigazione](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-03-30;327~art86), approvato con [regio decreto 30 marzo 1942, n. 327](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-03-30;327);  
-Ritenuta la necessita' di provvedere all'organizzazione del servizio di pilotaggio nel porto di Lipari con l'istituzione di una corporazione di piloti;  
-Udito il parere del Consiglio di Stato;  
-Sulla proposta del Ministro per la marina mercantile;  
-  
-Decreta:  
-  
-E' istituita la corporazione dei piloti del porto di Lipari.  
-  
+ E' istituita la corporazione dei piloti del porto di Lipari.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 3 maggio 1974
+Dato a Roma, addi' 3 maggio 1974
 
-LEONE COPPO
-
-Visto, il Guardasigilli: ZAGARI
-
-Registrato alla Corte dei conti, addi' 29 luglio 1974
-
-Atti di Governo, registro n. 4, foglio n. 86. - SCIARRETTA
+LEONE COPPO Visto, il Guardasigilli: ZAGARI Registrato alla Corte dei conti, addi' 29 luglio 1974 Atti di Governo, registro n. 4, foglio n. 86. - SCIARRETTA

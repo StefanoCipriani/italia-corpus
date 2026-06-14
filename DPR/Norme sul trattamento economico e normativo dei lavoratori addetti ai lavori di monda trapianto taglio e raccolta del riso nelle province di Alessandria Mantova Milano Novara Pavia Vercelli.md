@@ -1,20 +1,20 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 11 dicembre 1961 n. 1594
-
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 11 dicembre 1961 n. 1594
-================================================================
-
-Norme sul trattamento economico e normativo dei lavoratori addetti ai lavori di monda, trapianto, taglio e raccolta del riso nelle province di Alessandria, Mantova, Milano, Novara, Pavia, Vercelli.
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 1594
+data: 1961-12-11
+titolo: "Norme sul trattamento economico e normativo dei lavoratori addetti ai lavori di monda, trapianto, taglio e raccolta del riso nelle province di Alessandria, Mantova, Milano, Novara, Pavia, Vercelli."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1961-12-11;1594
+codice_redazionale: 061U1594
+vigente: true
+---
 
 IL PRESIDENTE DELLA REPUBBLICA
-------------------------------
 
-Visto l'[art. 87, comma quinto, della Costituzione](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27~art87-com5);
+Visto l'[art. 87, comma quinto, della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87-com5);
 
-Vista la [legge 14 luglio 1959, n. 741](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1959-07-14;741), che delega il Governo ad emanare norme transitorie per garantire minimi di trattamento economico e normativo ai lavoratori;
+Vista la [legge 14 luglio 1959, n. 741](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1959-07-14;741), che delega il Governo ad emanare norme transitorie per garantire minimi di trattamento economico e normativo ai lavoratori;
 
-Vista la [legge 1 ottobre 1960, n. 1027](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1960-10-01;1027), recante modifiche alla predetta [legge 14 luglio 1959, n. 741](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1959-07-14;741);
+Vista la [legge 1 ottobre 1960, n. 1027](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1960-10-01;1027), recante modifiche alla predetta [legge 14 luglio 1959, n. 741](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1959-07-14;741);
 
 Visti, per le province di Alessandria, Mantova, Milano, Novara, Pavia e Vercelli:
 
@@ -28,55 +28,18 @@ Vista la pubblicazione nell'apposito Bollettino, n. 154 in data 15 maggio 1961, 
 
 Sentito il Consiglio dei Ministri;
 
-Sulla
------
+Sulla proposta del Ministro per il lavoro e la previdenza sociale; Decreta:
 
-proposta del Ministro per il lavoro e la previdenza sociale; Decreta:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-I rapporti di lavoro costituiti per le attivita' per le quali sono stati stipulati, per le province di Alessandria, Mantova, Milano, Novara, Pavia, Vercelli:  
-- il contratto collettivo 25 maggio 1960, relativo alle maestranze addette ai lavori di monda e trapianto del riso;  
-- il contratto collettivo 25 giugno 1960, relativo alle maestranze addette ai lavori di taglio e raccolta del riso;  
-sono regolati da norme giuridiche uniformi alle clausole dei contratti collettivi anzidetti, annessi al presente decreto, nonche' alle clausole, richiamate dal contratto collettivo 25 maggio 1960 ed allo stesso allegate, dell'accordo collettivo indicato nel preambolo.  
-I minimi di trattamento economico p normativo cosi' stabiliti sono inderogabili nei confronti di tutti i lavoratori addetti ai lavori di monda, trapianto, taglio e raccolta del riso nelle province di Alessandria, Mantova, Milano, Novara, Pavia, Vercelli.  
-  
+I rapporti di lavoro costituiti per le attivita' per le quali sono stati stipulati, per le province di Alessandria, Mantova, Milano, Novara, Pavia, Vercelli:
+ - il contratto collettivo 25 maggio 1960, relativo alle maestranze addette ai lavori di monda e trapianto del riso;
+ - il contratto collettivo 25 giugno 1960, relativo alle maestranze addette ai lavori di taglio e raccolta del riso;
+sono regolati da norme giuridiche uniformi alle clausole dei contratti collettivi anzidetti, annessi al presente decreto, nonche' alle clausole, richiamate dal contratto collettivo 25 maggio 1960 ed allo stesso allegate, dell'accordo collettivo indicato nel preambolo.
+ I minimi di trattamento economico p normativo cosi' stabiliti sono inderogabili nei confronti di tutti i lavoratori addetti ai lavori di monda, trapianto, taglio e raccolta del riso nelle province di Alessandria, Mantova, Milano, Novara, Pavia, Vercelli.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 11 dicembre 1961
+Dato a Roma, addi' 11 dicembre 1961
 
-GRONCHI FANFANI - SULLO
-
-Visto, il Guardasigilli: GONELLA
-
-Registrato alla Corte dei conti, addi' 14 febbraio 1962
-
-Atti del Governo, registro n. 143, foglio n. 136. - VILLA
-
-Allegato
-
-CONTRATTO COLLETTIVO 25 MAGGIO 1960 PER LE MAESTRANZE ADDETTE AI LAVORI DI MONDA E TRAPIANTO DEL RISO PER LA CAMPAGNA 1960 NELLE PROVINCE DI ALESSANDRIA, MANTOVA, MILANO, NOVARA, PAVIA E VERCELLI.   
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=061U159400100010110001&dgu=1962-03-02&art.dataPubblicazioneGazzetta=1962-03-02&art.codiceRedazionale=061U1594)
-  
-  
-  
-ACCORDO 30 MAGGIO 1960 RELATIVO ALLE PAGHE GIORNALIERE DA CORRISPONDERE ALLE MONDARISO LOCALI E FORESTIERE IN VIGORE NELLE PROVINCE DI ALESSANDRIA MILANO, MANTOVA, NOVARA, PAVIA E VERCELLI.   
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=061U159400100010110002&dgu=1962-03-02&art.dataPubblicazioneGazzetta=1962-03-02&art.codiceRedazionale=061U1594)
-  
-  
-  
-  
-CONTRATTO COLLETTIVO 25 GIUGNO 1960 PER LE MAESTRANZE ADDETTE AI LAVORI DI TAGLIO E RACCOLTA DEL RISO PER LA CAMPAGNA 1960, NELLE PROVINCE DI ALESSANDRIA, MANTOVA, MILANO, NOVARA, PAVIA E VERCELLI.   
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=061U159400100010110003&dgu=1962-03-02&art.dataPubblicazioneGazzetta=1962-03-02&art.codiceRedazionale=061U1594)
-  
+GRONCHI FANFANI - SULLO Visto, il Guardasigilli: GONELLA Registrato alla Corte dei conti, addi' 14 febbraio 1962 Atti del Governo, registro n. 143, foglio n. 136. - VILLA

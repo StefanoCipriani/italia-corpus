@@ -1,19 +1,21 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 04 luglio 1967 n. 1315
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 1315
+data: 1967-07-04
+titolo: "Approvazione del nuovo statuto della Fondazione \"Ercole Varzi\", con sede in Milano."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1967-07-04;1315
+codice_redazionale: 067U1315
+vigente: true
+---
 
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 04 luglio 1967 n. 1315
-==============================================================
-
-Approvazione del nuovo statuto della Fondazione "Ercole Varzi", con sede in Milano.
------------------------------------------------------------------------------------
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-1315. Decreto del Presidente della Repubblica 4 luglio 1967, col quale, sulla proposta del Ministro per la pubblica istruzione, viene approvato il nuovo statuto della Fondazione "Ercole Varzi", con sede in Milano.  
-  
-Visto, il Guardasigilli: REALE  
-Registrato alla Corte dei conti, addi' 5 gennaio 1968  
-Atti del Governo, registro n. 216, foglio n. 113. - GRECO
+1315.
+
+Decreto del Presidente della Repubblica 4 luglio 1967, col quale, sulla proposta del Ministro per la pubblica istruzione, viene approvato il nuovo statuto della Fondazione "Ercole Varzi", con sede in Milano.
+
+Visto, il Guardasigilli: REALE
+ Registrato alla Corte dei conti, addi' 5 gennaio 1968
+ Atti del Governo, registro n. 216, foglio n. 113. - GRECO

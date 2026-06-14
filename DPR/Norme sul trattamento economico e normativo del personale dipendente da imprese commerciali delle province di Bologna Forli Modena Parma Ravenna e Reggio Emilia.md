@@ -1,20 +1,20 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 gennaio 1962 n. 1139
-
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 gennaio 1962 n. 1139
-===============================================================
-
-Norme sul trattamento economico e normativo del personale dipendente da imprese commerciali delle province di Bologna, Forli', Modena, Parma, Ravenna e Reggio Emilia.
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 1139
+data: 1962-01-02
+titolo: "Norme sul trattamento economico e normativo del personale dipendente da imprese commerciali delle province di Bologna, Forli', Modena, Parma, Ravenna e Reggio Emilia."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1962-01-02;1139
+codice_redazionale: 062U1139
+vigente: true
+---
 
 IL PRESIDENTE DELLA REPUBBLICA
-------------------------------
 
-Visto l'[art. 87, comma quinto, della Costituzione](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27~art87-com5);
+Visto l'[art. 87, comma quinto, della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87-com5);
 
-Vista la [legge 14 luglio 1959, n. 741](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1959-07-14;741), che delega il Governo ad emanare norme transitorie per garantire minimi di trattamento economico e normativo ai lavoratori;
+Vista la [legge 14 luglio 1959, n. 741](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1959-07-14;741), che delega il Governo ad emanare norme transitorie per garantire minimi di trattamento economico e normativo ai lavoratori;
 
-Vista la [legge 1 ottobre 1960, n. 1027](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1960-10-01;1027), recante modifiche alla predetta [legge 14 luglio 1959, n. 741](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1959-07-14;741);
+Vista la [legge 1 ottobre 1960, n. 1027](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1960-10-01;1027), recante modifiche alla predetta [legge 14 luglio 1959, n. 741](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1959-07-14;741);
 
 Visto il contratto collettivo nazionale di lavoro 2 giugno 1958, per il personale dipendente da aziende commerciali;
 
@@ -34,112 +34,24 @@ Vista la pubblicazione nell'apposito Bollettino, n. 5 della provincia di Bologna
 
 Sentito il Consiglio dei Ministri;
 
-Sulla
------
+Sulla proposta del Ministro per il lavoro e la previdenza sociale; Decreta:
 
-proposta del Ministro per il lavoro e la previdenza sociale; Decreta:
+## Articolo unico.
 
-Articolo unico
---------------
+I rapporti di lavoro costituiti per le attivita' commerciali per le quali sono stati stipulati:
+ - per la provincia di Bologna, i contratti collettivi integrativi 13 maggio 1957 e 27 marzo 1959;
+ - per la provincia di Forli', il contratto collettivo integrativo 28 settembre 1959;
+ - per la provincia di Modena, il contratto collettivo integrativo 6 marzo 1959;
+ per la provincia di Parma, il contratto collettivo integrativo 26 marzo 1959;
+ per la provincia di Ravenna, il contratto collettivo integrativo 12 gennaio 1959;
+ per la provincia di Reggio Emilia, il contratto collettivo integrativo 27 giugno 1959 e l'accordo collettivo integrativo 27 giugno 1959;
+sono regolati da norme giuridiche uniformi alle clausole dei contratti e dell'accordo anzidetti, annessi al presente decreto;
 
-  
-  
-I rapporti di lavoro costituiti per le attivita' commerciali per le quali sono stati stipulati:  
-- per la provincia di Bologna, i contratti collettivi integrativi 13 maggio 1957 e 27 marzo 1959;  
-- per la provincia di Forli', il contratto collettivo integrativo 28 settembre 1959;  
-- per la provincia di Modena, il contratto collettivo integrativo 6 marzo 1959;  
-per la provincia di Parma, il contratto collettivo integrativo 26 marzo 1959;  
-per la provincia di Ravenna, il contratto collettivo integrativo 12 gennaio 1959;  
-per la provincia di Reggio Emilia, il contratto collettivo integrativo 27 giugno 1959 e l'accordo collettivo integrativo 27 giugno 1959;  
-sono regolati da norme giuridiche uniformi alle clausole dei contratti e dell'accordo anzidetti, annessi al presente decreto;  
-  
-Dette norme sono integrative di quelle concernenti la disciplina nazionale della categoria, purche' con esse compatibili.  
-I minimi di trattamento economico e normativo cosi' stabiliti sono inderogabili nei confronti di tutti i lavoratori dipendenti dalle imprese commerciali indicate, nei contratti e nell'accordo di cui al primo comma, delle province di Bologna, Forli', Modena, Parma, Ravenna e Reggio Emilia.  
-  
+ Dette norme sono integrative di quelle concernenti la disciplina nazionale della categoria, purche' con esse compatibili.
+ I minimi di trattamento economico e normativo cosi' stabiliti sono inderogabili nei confronti di tutti i lavoratori dipendenti dalle imprese commerciali indicate, nei contratti e nell'accordo di cui al primo comma, delle province di Bologna, Forli', Modena, Parma, Ravenna e Reggio Emilia.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 2 gennaio 1962
+Dato a Roma, addi' 2 gennaio 1962
 
-GRONCHI FANFANI - SULLO
-
-Visto, il Guardasigilli: BOSCO
-
-Registrato alla Corte dei conti, addi' 14 luglio 1962
-
-Atti del Governo, registro n. 155, foglio n. 144. - VILLA
-
-Allegato
-
-CONTRATTO COLLETTIVO INTEGRATIVO 13 MAGGIO 1957 PER LE SPENNATRICI DI POLLAME DIPENDENTI DA AZIENDE ESERCENTI IL COMMERCIO DI POLLAME DELLA PROVINCIA DI BOLOGNA.   
-  
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=062U113900100010110001&dgu=1962-08-13&art.dataPubblicazioneGazzetta=1962-08-13&art.codiceRedazionale=062U1139)
-  
-  
-  
-  
-CONTRATTO COLLETTIVO INTEGRATIVO 27 MARZO 1959, PER I DIPENDENTI DA AZIENDE COMMERCIALI DELLA PROVINCIA DI BOLOGNA.   
-  
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=062U113900100010110002&dgu=1962-08-13&art.dataPubblicazioneGazzetta=1962-08-13&art.codiceRedazionale=062U1139)
-  
-  
-  
-  
-CONTRATTO COLLETTIVO 28 SETTEMBRE 1959, INTEGRATIVO DEL CONTRATTO COLLETTIVO NAZIONALE DI LAVORO 8 GIUGNO 1958, PER I LAVORATORI DEL COMMERCIO DELLA PROVINCIA DI FORLI'.   
-  
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=062U113900100010110003&dgu=1962-08-13&art.dataPubblicazioneGazzetta=1962-08-13&art.codiceRedazionale=062U1139)
-  
-  
-  
-  
-CONTRATTO COLLETTIVO 6 MARZO 1959, INTEGRATIVO DEL CONTRATTO COLLETTIVO NAZIONALE DI LAVORO 28 GIUGNO 1958, PER I DIPENDENTI DELLE AZIENDE COMMERCIALI DELLA PROVINCIA DI MODENA.   
-  
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=062U113900100010110004&dgu=1962-08-13&art.dataPubblicazioneGazzetta=1962-08-13&art.codiceRedazionale=062U1139)
-  
-  
-  
-  
-CONTRATTO COLLETTIVO 26 MARZO 1959, INTEGRATIVO DEL CONTRATTO COLLETTIVO NAZIONALE DI LAVORO 28 GIUGNO 1958, PER IL PERSONALE DIPENDENTE DA AZIENDE COMMERCIALI DELLA PROVINCIA DI PARMA.   
-  
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=062U113900100010110005&dgu=1962-08-13&art.dataPubblicazioneGazzetta=1962-08-13&art.codiceRedazionale=062U1139)
-  
-  
-  
-  
-CONTRATTO COLLETTIVO INTEGRATIVO 12 GENNAIO 1959, PER I DIPENDENTI DA AZIENDE COMMERCIALI DELLA PROVINCIA DI RAVENNA.   
-  
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=062U113900100010110006&dgu=1962-08-13&art.dataPubblicazioneGazzetta=1962-08-13&art.codiceRedazionale=062U1139)
-  
-  
-  
-  
-  
-CONTRATTO COLLETTIVO INTEGRATIVO 27 GIUGNO 1959, PER IL PERSONALE DIPENDENTE DA AZIENDE COMMERCIALI DELLA PROVINCIA DI REGGIO EMILIA.   
-  
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=062U113900100010110007&dgu=1962-08-13&art.dataPubblicazioneGazzetta=1962-08-13&art.codiceRedazionale=062U1139)
-  
-  
-  
-  
-  
-ACCORDO COLLETTIVO INTEGRATIVO 27 GIUGNO 1959 PER IL PERSONALE DIPENDENTE DA AZIENDE COMMERCIALI DELLA PROVINCIA DI REGGIO EMILIA.   
-  
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=062U113900100010110008&dgu=1962-08-13&art.dataPubblicazioneGazzetta=1962-08-13&art.codiceRedazionale=062U1139)
-  
+GRONCHI FANFANI - SULLO Visto, il Guardasigilli: BOSCO Registrato alla Corte dei conti, addi' 14 luglio 1962 Atti del Governo, registro n. 155, foglio n. 144. - VILLA

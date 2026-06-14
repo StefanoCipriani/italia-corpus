@@ -1,19 +1,21 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 25 settembre 1967 n. 1048
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 1048
+data: 1967-09-25
+titolo: "Erezione in ente morale dell'associazione \"Pubblica assistenza croce bianca rapallese\", con sede in Rapallo."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1967-09-25;1048
+codice_redazionale: 067U1048
+vigente: true
+---
 
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 25 settembre 1967 n. 1048
-=================================================================
-
-Erezione in ente morale dell'associazione "Pubblica assistenza croce bianca rapallese", con sede in Rapallo.
-------------------------------------------------------------------------------------------------------------
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-1048. Decreto del Presidente della Repubblica 25 settembre 1967, col quale, sulla proposta del Ministro per l'interno, l'associazione "Pubblica assistenza croce bianca rapallese" con sede in Rapallo, viene eretta in ente morale e ne viene approvato lo statuto.  
-  
-Visto, il Guardasigilli: REALE  
-Registrato alla Corte dei conti, addi' 9 novembre 1967  
-Atti del Governo, registro n. 214, foglio n. 131. - GRECO
+1048.
+
+Decreto del Presidente della Repubblica 25 settembre 1967, col quale, sulla proposta del Ministro per l'interno, l'associazione "Pubblica assistenza croce bianca rapallese" con sede in Rapallo, viene eretta in ente morale e ne viene approvato lo statuto.
+
+Visto, il Guardasigilli: REALE
+ Registrato alla Corte dei conti, addi' 9 novembre 1967
+ Atti del Governo, registro n. 214, foglio n. 131. - GRECO

@@ -1,19 +1,21 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 05 settembre 1975 n. 1154
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 1154
+data: 1975-09-05
+titolo: "Istituzione di una sezione per geometri presso l'istituto tecnico commerciale ad indirizzo amministrativo in Monselice."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1975-09-05;1154
+codice_redazionale: 075U1154
+vigente: true
+---
 
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 05 settembre 1975 n. 1154
-=================================================================
-
-Istituzione di una sezione per geometri presso l'istituto tecnico commerciale ad indirizzo amministrativo in Monselice.
------------------------------------------------------------------------------------------------------------------------
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-1154. Decreto del Presidente della Repubblica 5 settembre 1975, col quale, sulla proposta del Ministro per la pubblica istruzione di concerto con i Ministri per l'interno e per il tesoro, viene istituita in Monselice (Padova), a decorrere dal 1 ottobre 1969, una sezione per geometri presso l'istituto tecnico commerciale ad indirizzo amministrativo e viene approvata la nuova tabella organica dell'istituto.  
-  
-Visto, il Guardasigilli: BONIFACIO  
-Registrato alla Corte dei conti, addi' 16 ottobre 1976  
-Atti di Governo, registro n. 10, foglio n. 60
+1154.
+
+Decreto del Presidente della Repubblica 5 settembre 1975, col quale, sulla proposta del Ministro per la pubblica istruzione di concerto con i Ministri per l'interno e per il tesoro, viene istituita in Monselice (Padova), a decorrere dal 1 ottobre 1969, una sezione per geometri presso l'istituto tecnico commerciale ad indirizzo amministrativo e viene approvata la nuova tabella organica dell'istituto.
+
+Visto, il Guardasigilli: BONIFACIO
+ Registrato alla Corte dei conti, addi' 16 ottobre 1976
+ Atti di Governo, registro n. 10, foglio n. 60

@@ -1,19 +1,21 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 ottobre 1975 n. 717
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 717
+data: 1975-10-30
+titolo: "Riconoscimento della personalita' giuridica della chiesa parrocchiale dei SS. martiri Cosimo e Damiano, in Polignano a Mare."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1975-10-30;717
+codice_redazionale: 075U0717
+vigente: true
+---
 
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 ottobre 1975 n. 717
-==============================================================
-
-Riconoscimento della personalita' giuridica della chiesa parrocchiale dei SS. martiri Cosimo e Damiano, in Polignano a Mare.
-----------------------------------------------------------------------------------------------------------------------------
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-717. Decreto del Presidente della Repubblica 30 ottobre 1975, col quale, sulla proposta del Ministro per l'interno, viene riconosciuta la personalita' giuridica della chiesa parrocchiale dei SS. martiri Cosimo e Damiano, in Polignano a Mare (Bari).  
-  
-Visto, il Guardasigilli: REALE  
-Registrato alla Corte dei conti, addi' 22 dicembre 1975  
-Atti di Governo, registro n. 15, foglio n. 58
+717.
+
+Decreto del Presidente della Repubblica 30 ottobre 1975, col quale, sulla proposta del Ministro per l'interno, viene riconosciuta la personalita' giuridica della chiesa parrocchiale dei SS. martiri Cosimo e Damiano, in Polignano a Mare (Bari).
+
+Visto, il Guardasigilli: REALE
+ Registrato alla Corte dei conti, addi' 22 dicembre 1975
+ Atti di Governo, registro n. 15, foglio n. 58

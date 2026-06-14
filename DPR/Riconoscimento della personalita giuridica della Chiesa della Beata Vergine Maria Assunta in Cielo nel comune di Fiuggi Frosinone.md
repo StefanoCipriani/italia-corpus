@@ -1,19 +1,21 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 14 agosto 1965 n. 1078
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 1078
+data: 1965-08-14
+titolo: "Riconoscimento della personalita' giuridica della Chiesa della \"Beata Vergine Maria Assunta in Cielo\", nel comune di Fiuggi (Frosinone)."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1965-08-14;1078
+codice_redazionale: 065U1078
+vigente: true
+---
 
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 14 agosto 1965 n. 1078
-==============================================================
-
-Riconoscimento della personalita' giuridica della Chiesa della "Beata Vergine Maria Assunta in Cielo", nel comune di Fiuggi (Frosinone).
-----------------------------------------------------------------------------------------------------------------------------------------
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-1078. Decreto del Presidente della Repubblica 14 agosto 1965, col quale, sulla proposta del Ministro per l'interno, viene riconosciuta la personalita' giuridica della Chiesa della "Beata Vergine Maria Assunta in Cielo", sita in localita' "Capo Le Ripe" del comune di Fiuggi (Frosinone).  
-  
-Visto, il Guardasigilli: REALE  
-Registrato alla Corte dei conti, addi' 9 settembre 1965  
-Atti del Governo, registro n. 197, foglio n. 20. - VILLA
+1078.
+
+Decreto del Presidente della Repubblica 14 agosto 1965, col quale, sulla proposta del Ministro per l'interno, viene riconosciuta la personalita' giuridica della Chiesa della "Beata Vergine Maria Assunta in Cielo", sita in localita' "Capo Le Ripe" del comune di Fiuggi (Frosinone).
+
+Visto, il Guardasigilli: REALE
+ Registrato alla Corte dei conti, addi' 9 settembre 1965
+ Atti del Governo, registro n. 197, foglio n. 20. - VILLA

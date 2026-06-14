@@ -1,19 +1,22 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 22 gennaio 1980 n. 95
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 853
+data: 1979-11-28
+titolo: "Autorizzazione alla fondazione \"Pro juventute don Carlo Gnocchi\", in Roma, ad accettare un legato."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1979-11-28;853
+codice_redazionale: 079U0853
+vigente: true
+---
 
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 22 gennaio 1980 n. 95
-=============================================================
-
-Autorizzazione alla fondazione "Pro juventute don Carlo Gnocchi", in Roma, ad accettare un legato.
---------------------------------------------------------------------------------------------------
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-95. Decreto del Presidente della Repubblica 22 gennaio 1980, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la fondazione "Pro juventute don Carlo Gnocchi", in Roma, viene autorizzata ad accettare il legato, consistente in azioni, obbligazioni e libretto di deposito, del valore complessivo lire 19.209.319, disposto dalla sig.ra Maria Zavater ved. Galli con testamento olografo 23 giugno 1975, pubblicato in data 14 luglio 1977, n. 43403 di repertorio, a rogito dott. Mario Matricardi, notaio in Verbania-Pallanza (Novara), registrato a Verbania in data 26 luglio 1977, n. 1750, mod. I, vol. 161.  
-  
-Visto, il Guardasigilli: MORLINO  
-Registrato alla Corte dei conti, addi' 21 marzo 1980  
-Registro n. 2 Presidenza, foglio n. 342
+853.
+
+Decreto del Presidente della Repubblica 28 novembre 1979, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la fondazione "Pro juventute don Carlo Gnocchi", in Roma, viene autorizzata ad accettare il legato, consistente in titoli del valore nominale di L. 3.000.000, disposto a favore dell'istituto per i mutilatini di don Gnocchi, che si identifica con la fondazione "Pro juventute don Carlo Gnocchi", come ha fatto presente la fondazione medesima, dalla sig.ra Aurelia Adele Cazzaniga, con testamento olografo 15 luglio 1971, pubblicato in data 16 dicembre 1976, n. 43632/13073 di repertorio, a rogito dott.
+ Teodoro Berera, notaio in Lecco (Como), registrato a Lecco in data 29 dicembre 1976, n. 2600, vol. 219 A.P.
+
+Visto, il Guardasigilli: MORLINO
+ Registrato alla Corte dei conti, addi' 21 marzo 1980
+ Registro n. 2 Presidenza, foglio n. 340

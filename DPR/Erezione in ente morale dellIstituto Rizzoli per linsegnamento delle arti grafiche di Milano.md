@@ -1,19 +1,21 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 giugno 1954 n. 1229
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 1229
+data: 1954-06-30
+titolo: "Erezione in ente morale dell'Istituto Rizzoli per l'insegnamento delle arti grafiche di Milano."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1954-06-30;1229
+codice_redazionale: 054U1229
+vigente: true
+---
 
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 giugno 1954 n. 1229
-==============================================================
-
-Erezione in ente morale dell'Istituto Rizzoli per l'insegnamento delle arti grafiche di Milano.
------------------------------------------------------------------------------------------------
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-1229. Decreto del Presidente della Repubblica 30 giugno 1954, col quale, sulla proposta del Ministro per la pubblica istruzione, l'Istituto Rizzoli per l'insegnamento delle arti grafiche di Milano viene eretto in ente morale e ne viene approvato lo statuto; con lo stesso decreto, l'Istituto predetto viene autorizzato ad accettare una donazione.  
-  
-Visto, il Guardasigilli: DE PIETRO  
-Registrato alla Corte dei conti, addi' 8 gennaio 1955  
-Atti del Governo, registro n. 88, foglio n. 4. - CARLOMAGNO
+1229.
+
+Decreto del Presidente della Repubblica 30 giugno 1954, col quale, sulla proposta del Ministro per la pubblica istruzione, l'Istituto Rizzoli per l'insegnamento delle arti grafiche di Milano viene eretto in ente morale e ne viene approvato lo statuto; con lo stesso decreto, l'Istituto predetto viene autorizzato ad accettare una donazione.
+
+Visto, il Guardasigilli: DE PIETRO
+ Registrato alla Corte dei conti, addi' 8 gennaio 1955
+ Atti del Governo, registro n. 88, foglio n. 4. - CARLOMAGNO

@@ -1,19 +1,21 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 21 luglio 1960 n. 985
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 985
+data: 1960-07-21
+titolo: "Riconoscimento legale del sistema stenografico \"PitmanFrancini\"."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1960-07-21;985
+codice_redazionale: 060U0985
+vigente: true
+---
 
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 21 luglio 1960 n. 985
-=============================================================
-
-Riconoscimento legale del sistema stenografico "PitmanFrancini".
-----------------------------------------------------------------
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-985. Decreto del Presidente della Repubblica 21 luglio 1960, col quale, sulla proposta del Ministro per la pubblica istruzione, viene stabilito che l'insegnamento della stenografia puo' essere impartito negli Istituti professionali di Stato, nei cui programmi e' compresa detta disciplina, secondo il sistema "PitmanFrancini", oltre che secondo i sistemi Gabelsbergernoe, Cima, Meschini, Stenital  
-  
-Visto, il Guardasigilli: GONELLA  
-Registrato alla Corte dei conti, addi' 8 settembre 1960  
-Atti del Governo, registro n. 129, foglio n. 24. - VILLA
+985.
+
+Decreto del Presidente della Repubblica 21 luglio 1960, col quale, sulla proposta del Ministro per la pubblica istruzione, viene stabilito che l'insegnamento della stenografia puo' essere impartito negli Istituti professionali di Stato, nei cui programmi e' compresa detta disciplina, secondo il sistema "PitmanFrancini", oltre che secondo i sistemi Gabelsbergernoe, Cima, Meschini, Stenital
+
+Visto, il Guardasigilli: GONELLA
+ Registrato alla Corte dei conti, addi' 8 settembre 1960
+ Atti del Governo, registro n. 129, foglio n. 24. - VILLA

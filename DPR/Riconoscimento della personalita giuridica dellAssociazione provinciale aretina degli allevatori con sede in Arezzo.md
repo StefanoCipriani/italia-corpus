@@ -1,19 +1,21 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 29 gennaio 1963 n. 601
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 601
+data: 1963-01-29
+titolo: "Riconoscimento della personalita' giuridica dell'Associazione provinciale aretina degli allevatori, con sede in Arezzo."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1963-01-29;601
+codice_redazionale: 063U0601
+vigente: true
+---
 
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 29 gennaio 1963 n. 601
-==============================================================
-
-Riconoscimento della personalita' giuridica dell'Associazione provinciale aretina degli allevatori, con sede in Arezzo.
------------------------------------------------------------------------------------------------------------------------
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-601. Decreto del Presidente della Repubblica 29 gennaio 1963, col quale, sulla proposta del Ministro per l'agricoltura e le foreste, viene riconosciuta la personalita' giuridica dell'Associazione provinciale aretina degli allevatori, con sede in Arezzo, e ne viene approvato lo statuto.  
-  
-Visto, il Guardasigilli: BOSCO  
-Registrato alla Corte dei conti, addi' 22 aprile 1963  
-Atti del Governo, registro n. 168, foglio n. 24. - VILLA
+601.
+
+Decreto del Presidente della Repubblica 29 gennaio 1963, col quale, sulla proposta del Ministro per l'agricoltura e le foreste, viene riconosciuta la personalita' giuridica dell'Associazione provinciale aretina degli allevatori, con sede in Arezzo, e ne viene approvato lo statuto.
+
+Visto, il Guardasigilli: BOSCO
+ Registrato alla Corte dei conti, addi' 22 aprile 1963
+ Atti del Governo, registro n. 168, foglio n. 24. - VILLA

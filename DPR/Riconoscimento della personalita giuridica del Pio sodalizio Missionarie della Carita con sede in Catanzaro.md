@@ -1,19 +1,21 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 10 marzo 1964 n. 251
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 251
+data: 1964-03-10
+titolo: "Riconoscimento della personalita' giuridica del Pio sodalizio \"Missionarie della Carita'\", con sede in Catanzaro."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1964-03-10;251
+codice_redazionale: 064U0251
+vigente: true
+---
 
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 10 marzo 1964 n. 251
-============================================================
-
-Riconoscimento della personalita' giuridica del Pio sodalizio "Missionarie della Carita'", con sede in Catanzaro.
------------------------------------------------------------------------------------------------------------------
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-251. Decreto del Presidente della Repubblica 10 marzo 1964, col quale, sulla proposta del Ministro per l'interno, viene riconosciuta la personalita' giuridica del Pio sodalizio "Missionarie della Cavita'", con sede in Catanzaro, e ne viene approvato lo statuto.  
-  
-Visto, il Guardasigilli: REALE  
-Registrato alla Corte dei conti, addi' 28 aprile 1964  
-Atti del Governo, registro n. 183, foglio n. 19. - VILLA
+251.
+
+Decreto del Presidente della Repubblica 10 marzo 1964, col quale, sulla proposta del Ministro per l'interno, viene riconosciuta la personalita' giuridica del Pio sodalizio "Missionarie della Cavita'", con sede in Catanzaro, e ne viene approvato lo statuto.
+
+Visto, il Guardasigilli: REALE
+ Registrato alla Corte dei conti, addi' 28 aprile 1964
+ Atti del Governo, registro n. 183, foglio n. 19. - VILLA

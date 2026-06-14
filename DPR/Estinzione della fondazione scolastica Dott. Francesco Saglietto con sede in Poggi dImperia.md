@@ -1,19 +1,21 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 08 aprile 1968 n. 1065
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 1065
+data: 1968-04-08
+titolo: "Estinzione della fondazione scolastica \"Dott. Francesco Saglietto\", con sede in Poggi d'Imperia."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1968-04-08;1065
+codice_redazionale: 068U1065
+vigente: true
+---
 
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 08 aprile 1968 n. 1065
-==============================================================
-
-Estinzione della fondazione scolastica "Dott. Francesco Saglietto", con sede in Poggi d'Imperia.
-------------------------------------------------------------------------------------------------
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-1065. Decreto del Presidente della Repubblica 8 aprile 1968, col quale, sulla proposta del Ministro per la pubblica istruzione, la fondazione scolastica "Dott. Francesco Saglietto", con sede in Poggi d'Imperia, viene dichiarata estinta e il relativo patrimonio devoluto alla cassa scolastica dell'istituto magistrale statale "Amoretti" di Imperia.  
-  
-Visto, il Guardasigilli: GONELLA  
-Registrato alla Corte dei conti, addi' 7 ottobre 1968  
-Atti del Governo, registro n. 223, foglio n. 22. - GRECO
+1065.
+
+Decreto del Presidente della Repubblica 8 aprile 1968, col quale, sulla proposta del Ministro per la pubblica istruzione, la fondazione scolastica "Dott. Francesco Saglietto", con sede in Poggi d'Imperia, viene dichiarata estinta e il relativo patrimonio devoluto alla cassa scolastica dell'istituto magistrale statale "Amoretti" di Imperia.
+
+Visto, il Guardasigilli: GONELLA
+ Registrato alla Corte dei conti, addi' 7 ottobre 1968
+ Atti del Governo, registro n. 223, foglio n. 22. - GRECO

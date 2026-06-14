@@ -1,20 +1,20 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 gennaio 1962 n. 1178
-
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 gennaio 1962 n. 1178
-===============================================================
-
-Norme sul trattamento economico e normativo del personale dipendente da cooperative di consumo della provincia di Grosseto, da cooperative di consumo e da consorzi da queste costituiti della provincia di La Spezia e da cooperative di consumo, consorzi e circoli ricreativi da queste costituiti della provincia di Siena.
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 1178
+data: 1962-01-02
+titolo: "Norme sul trattamento economico e normativo del personale dipendente da cooperative di consumo della provincia di Grosseto, da cooperative di consumo e da consorzi da queste costituiti della provincia di La Spezia e da cooperative di consumo, consorzi e circoli ricreativi da queste costituiti della provincia di Siena."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1962-01-02;1178
+codice_redazionale: 062U1178
+vigente: true
+---
 
 IL PRESIDENTE DELLA REPUBBLICA
-------------------------------
 
-Visto l'[art. 87, comma quinto, della Costituzione](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27~art87-com5);
+Visto l'[art. 87, comma quinto, della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87-com5);
 
-Vista la [legge 14 luglio 1959, n. 741](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1959-07-14;741), che delega il Governo ad emanare norme transitorie per garantire minimi di trattamento economico e normativo ai lavoratori;
+Vista la [legge 14 luglio 1959, n. 741](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1959-07-14;741), che delega il Governo ad emanare norme transitorie per garantire minimi di trattamento economico e normativo ai lavoratori;
 
-Vista la [legge 1 ottobre 1960, n. 1027](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1960-10-01;1027), recante modifiche alla predetta [legge 14 luglio 1959, n. 741](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1959-07-14;741);
+Vista la [legge 1 ottobre 1960, n. 1027](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1960-10-01;1027), recante modifiche alla predetta [legge 14 luglio 1959, n. 741](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1959-07-14;741);
 
 Visto il contratto collettivo nazionale di lavoro 2 marzo 1955, per il personale dipendente da, cooperative di consumo e consorzi da queste costituiti;
 
@@ -36,70 +36,20 @@ Vista la pubblicazione nell'apposito Bollettino, n. 18 della provincia di Grosse
 
 Sentito il Consiglio dei Ministri;
 
-Sulla
------
+Sulla proposta del Ministro per il lavoro e la previdenza sociale; Decreta:
 
-proposta del Ministro per il lavoro e la previdenza sociale; Decreta:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-I rapporti di lavoro costituiti per le attivita' per le quali sono stati stipulati:  
-per la provincia di Grosseto, il contratto collettivo integrativo 24 settembre 1956 e l'accordo collettivo, pari data, relativi ai dipendenti da cooperative di consumo;  
-per la provincia di La Spezia, il contratto collettivo integrativo 28 aprile 1960, relativo al personale dipendente da cooperative di consumo e da consorzi da queste costituiti;  
-per la provincia di Siena, il contratto collettivo integrativo 18 luglio 1958, relativo al personale dipendente da cooperative di consumo, da consorzi e circoli ricreativi da queste costituiti;  
-sono regolati da norme giuridiche uniformi alle clausole dei contratti e dell'accordo anzidetti, annessi al presente decreto.  
-Dette norme sono integrative di quelle concernenti la disciplina, nazionale della categoria, purche' con esse compatibili.  
-I minimi di trattamento economico e normativo cosi' stabiliti sono inderogabili nei confronti di tutti i dipendenti dalle cooperative di consumo della provincia di Grosseto, dalle cooperative di consumo e da consorzi da queste costituiti della provincia di La Spezia e dalle cooperative di consumo, consorzi e circoli ricreativi da queste costituiti della provincia di Siena.  
-  
+I rapporti di lavoro costituiti per le attivita' per le quali sono stati stipulati:
+ per la provincia di Grosseto, il contratto collettivo integrativo 24 settembre 1956 e l'accordo collettivo, pari data, relativi ai dipendenti da cooperative di consumo;
+ per la provincia di La Spezia, il contratto collettivo integrativo 28 aprile 1960, relativo al personale dipendente da cooperative di consumo e da consorzi da queste costituiti;
+ per la provincia di Siena, il contratto collettivo integrativo 18 luglio 1958, relativo al personale dipendente da cooperative di consumo, da consorzi e circoli ricreativi da queste costituiti;
+sono regolati da norme giuridiche uniformi alle clausole dei contratti e dell'accordo anzidetti, annessi al presente decreto.
+ Dette norme sono integrative di quelle concernenti la disciplina, nazionale della categoria, purche' con esse compatibili.
+ I minimi di trattamento economico e normativo cosi' stabiliti sono inderogabili nei confronti di tutti i dipendenti dalle cooperative di consumo della provincia di Grosseto, dalle cooperative di consumo e da consorzi da queste costituiti della provincia di La Spezia e dalle cooperative di consumo, consorzi e circoli ricreativi da queste costituiti della provincia di Siena.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 2 gennaio 1962
+Dato a Roma, addi' 2 gennaio 1962
 
-GRONCHI FANFANI - SULLO
-
-Visto, il Guardasigilli: BOSCO
-
-Registrato alla Corte dei conti, addi' 16 Luglio 1962
-
-Atti del Governo, registro n. 156, foglio n. 38. - VILLA
-
-Allegato
-
-CONTRATTO COLLETTIVO 24 SETTEMBRE 1956, INTEGRATIVO DEL CONTRATTO COLLETTIVO NAZIONALE DI LAVORO 2 MARZO 1955, PER I DIPENDENTI DA COOPERATIVE DI CONSUMO DELLA PROVINCIA DI GROSSETO.   
-  
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=062U117800100010110001&dgu=1962-08-17&art.dataPubblicazioneGazzetta=1962-08-17&art.codiceRedazionale=062U1178)
-  
-  
-  
-  
-ACCORDO COLLETTIVO 24 SETTEMBRE 1956, PER I DIPENDENTI DA COOPERATIVE DI CONSUMO DELLA PROVINCIA DI GROSSETO   
-  
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=062U117800100010110002&dgu=1962-08-17&art.dataPubblicazioneGazzetta=1962-08-17&art.codiceRedazionale=062U1178)
-  
-  
-  
-  
-CONTRATTO COLLETTIVO 28 APRILE 1960, INTEGRATIVO DEL CONTRATTO COLLETTIVO DI LAVORO 2 MARZO 1955, PER IL PERSONALE DIPENDENTE DA COOPERATIVE DI CONSUMO E DA CONSORZI DA QUESTE COSTITUITI, DELLA PROVINCIA DI LA SPEZIA   
-  
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=062U117800100010110003&dgu=1962-08-17&art.dataPubblicazioneGazzetta=1962-08-17&art.codiceRedazionale=062U1178)
-  
-  
-  
-  
-CONTRATTO COLLETTIVO 18 LUGLIO 1958, INTEGRATIVO DEL CONTRATTO COLLETTIVO NAZIONALE DI LAVORO 2 MARZO 1955, PER IL PERSONALE DIPENDENTE DA COOPERATIVE DI CONSUMO, DA CONSORZI E CIRCOLI RICREATIVI DA QUESTE COSTITUITI, DELLA PROVINCIA DI SIENA   
-  
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=062U117800100010110004&dgu=1962-08-17&art.dataPubblicazioneGazzetta=1962-08-17&art.codiceRedazionale=062U1178)
-  
+GRONCHI FANFANI - SULLO Visto, il Guardasigilli: BOSCO Registrato alla Corte dei conti, addi' 16 Luglio 1962 Atti del Governo, registro n. 156, foglio n. 38. - VILLA

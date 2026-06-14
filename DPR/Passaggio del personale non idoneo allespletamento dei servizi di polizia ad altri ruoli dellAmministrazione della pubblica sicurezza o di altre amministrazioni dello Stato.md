@@ -1,18 +1,18 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 24 aprile 1982 n. 339
-
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 24 aprile 1982 n. 339
-=============================================================
-
-Passaggio del personale non idoneo all'espletamento dei servizi di polizia, ad altri ruoli dell'Amministrazione della pubblica sicurezza o di altre amministrazioni dello Stato.
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 339
+data: 1982-04-24
+titolo: "Passaggio del personale non idoneo all'espletamento dei servizi di polizia, ad altri ruoli dell'Amministrazione della pubblica sicurezza o di altre amministrazioni dello Stato."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1982-04-24;339
+codice_redazionale: 082U0339
+vigente: true
+---
 
 IL PRESIDENTE DELLA REPUBBLICA
-------------------------------
 
-Visto l'[art. 87, comma quinto, della Costituzione](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27~art87-com5);
+Visto l'[art. 87, comma quinto, della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87-com5);
 
-Visto l'[art. 36 della legge 1 aprile 1981, n. 121](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1981-04-01;121~art36), concernente il nuovo ordinamento dell'Amministrazione della pubblica sicurezza, con il quale viene conferita delega al Governo per provvedere, tra l'altro, alla determinazione delle modalita' per il passaggio del personale non idoneo all'espletamento dei servizi di polizia ad altri ruoli della Amministrazione della pubblica sicurezza o di altre amministrazioni dello Stato;
+Visto l'[art. 36 della legge 1 aprile 1981, n. 121](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1981-04-01;121#art_36), concernente il nuovo ordinamento dell'Amministrazione della pubblica sicurezza, con il quale viene conferita delega al Governo per provvedere, tra l'altro, alla determinazione delle modalita' per il passaggio del personale non idoneo all'espletamento dei servizi di polizia ad altri ruoli della Amministrazione della pubblica sicurezza o di altre amministrazioni dello Stato;
 
 Sentiti i pareri delle commissioni parlamentari di cui all'art. 109 della stessa legge;
 
@@ -20,141 +20,82 @@ Viste le deliberazioni del Consiglio dei Ministri, adottate nelle riunioni del 5
 
 Sulla proposta del Presidente del Consiglio dei Ministri, di concerto con i Ministri dell'interno e del tesoro;
 
-EMANA
------
+EMANA il seguente decreto:
 
-il seguente decreto:
+## Art. 1.
 
-Art. 1
-------
+Il personale dei ruoli della Polizia di Stato, che espleta funzioni di polizia, giudicato assolutamente inidoneo per motivi di salute, anche dipendenti da causa di servizio, all'assolvimento dei compiti d'istituto puo', a domanda, essere trasferito nelle corrispondenti qualifiche di altri ruoli della Polizia di Stato o di altre amministrazioni dello Stato, sempreche' l'infermita' accertata ne consenta lo ulteriore impiego ((, anche presso la Sezione paralimpica dei gruppi sportivi «Polizia di Stato-Fiamme oro», istituita nell'ambito dei ruoli del personale che espleta attivita' tecnico-scientifica e tecnica.)) 
+ La domanda deve essere presentata al Dipartimento della pubblica sicurezza entro trenta giorni dalla notifica all'interessato del giudizio di inidoneita' assoluta.
 
-  
-  
-Il personale dei ruoli della Polizia di Stato, che espleta funzioni di polizia, giudicato assolutamente inidoneo per motivi di salute, anche dipendenti da causa di servizio, all'assolvimento dei compiti d'istituto puo', a domanda, essere trasferito nelle corrispondenti qualifiche di altri ruoli della Polizia di Stato o di altre amministrazioni dello Stato, sempreche' l'infermita' accertata ne consenta lo ulteriore impiego
+## Art. 2.
 
-((, anche presso la Sezione paralimpica dei gruppi sportivi «Polizia di Stato-Fiamme oro», istituita nell'ambito dei ruoli del personale che espleta attivita' tecnico-scientifica e tecnica.))
+Il personale dei ruoli della Polizia di Stato che espleta funzioni di polizia che abbia riportato un'invalidita' non dipendente da causa di servizio, che non comporti l'inidoneita' assoluta ai compiti d'istituto, puo' essere, a domanda ((o d'ufficio, utilizzato in servizi d'istituto, tra quelli attinenti alle specifiche funzioni proprie della Polizia di Stato, che, per la particolare natura delle attivita' di competenza, siano ritenute, dalla commissione di cui all'articolo 4 del decreto del Presidente della Repubblica 25 ottobre 1981, n. 738, compatibili con la ridotta capacita' lavorativa, ove possibile con destinazione a compiti di livello corrispondente a quello previsto per la qualifica ricoperta, oppure, in mancanza,)), trasferito nelle corrispondenti qualifiche di altri ruoli della Polizia di Stato o di altre amministrazioni dello Stato, ovvero, per esigenze di servizio, d'ufficio nelle corrispondenti qualifiche di altri ruoli della Polizia di Stato, sempreche' l'infermita' accertata ne consenta l'ulteriore impiego, anche presso la Sezione paralimpica dei gruppi sportivi «Polizia di Stato-Fiamme oro», istituita nell'ambito dei ruoli del personale che espleta attivita' tecnico-scientifica e tecnica. 
+ La domanda deve essere presentata al Dipartimento della pubblica sicurezza entro sessanta giorni dalla notifica all'interessato del giudizio di inidoneita'.
 
-  
-La domanda deve essere presentata al Dipartimento della pubblica sicurezza entro trenta giorni dalla notifica all'interessato del giudizio di inidoneita' assoluta.   
+## Art. 3.
 
-Art. 2
-------
+Salvo quanto disposto dal [decreto del Presidente della Repubblica 25 ottobre 1981, n. 738](Utilizzazione%20del%20personale%20delle%20forze%20di%20polizia%20invalido%20per%20causa%20di%20servizio.md), il personale dei ruoli della Polizia di Stato che espleta funzioni di polizia che abbia riportato un'invalidita', dipendente da causa di servizio, che non comporti l'inidoneita' assoluta ai compiti d'istituto, puo', a domanda, essere trasferito nelle corrispondenti qualifiche di altri ruoli della Polizia di Stato o di altre amministrazioni dello Stato, sempreche' la infermita' accertata ne consenta l'ulteriore impiego ((, anche presso la Sezione paralimpica dei gruppi sportivi «Polizia di Stato-Fiamme oro», istituita nell'ambito dei ruoli del personale che espleta attivita' tecnico-scientifica e tecnica.)) 
+ La domanda deve essere presentata al Dipartimento della pubblica sicurezza entro sessanta giorni dalla notifica all'interessato del giudizio di inidoneita'.
 
-  
-  
-Il personale dei ruoli della Polizia di Stato che espleta funzioni di polizia che abbia riportato un'invalidita' non dipendente da causa di servizio, che non comporti l'inidoneita' assoluta ai compiti d'istituto, puo' essere, a domanda
+## Art. 4.
 
-((o d'ufficio, utilizzato in servizi d'istituto, tra quelli attinenti alle specifiche funzioni proprie della Polizia di Stato, che, per la particolare natura delle attivita' di competenza, siano ritenute, dalla commissione di cui all'[articolo 4 del decreto del Presidente della Repubblica 25 ottobre 1981, n. 738](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1981-10-25;738~art4), compatibili con la ridotta capacita' lavorativa, ove possibile con destinazione a compiti di livello corrispondente a quello previsto per la qualifica ricoperta, oppure, in mancanza,))
+Il giudizio di inidoneita' di cui ai precedenti articoli compete alle commissioni mediche previste dagli [articoli 165 e seguenti del decreto del Presidente della Repubblica 29 dicembre 1973, n. 1092](Approvazione%20del%20testo%20unico%20delle%20norme%20sul%20trattamento%20di%20quiescenza%20dei%20dipendenti%20civili%20e%20militari%20dello%20Stato.md).
+ Le commissioni devono, altresi', fornire indicazioni sull'ulteriore utilizzazione del personale, tenendo conto dell'infermita' accertata.
 
-, trasferito nelle corrispondenti qualifiche di altri ruoli della Polizia di Stato o di altre amministrazioni dello Stato, ovvero, per esigenze di servizio, d'ufficio nelle corrispondenti qualifiche di altri ruoli della Polizia di Stato, sempreche' l'infermita' accertata ne consenta l'ulteriore impiego, anche presso la Sezione paralimpica dei gruppi sportivi «Polizia di Stato-Fiamme oro», istituita nell'ambito dei ruoli del personale che espleta attivita' tecnico-scientifica e tecnica.   
-La domanda deve essere presentata al Dipartimento della pubblica sicurezza entro sessanta giorni dalla notifica all'interessato del giudizio di inidoneita'.   
+## Art. 5.
 
-Art. 3
-------
+Il trasferimento, a domanda, del personale di cui agli articoli 1, 2 e 3 nelle corrispondenti qualifiche di altro ruolo della Polizia di Stato, tenuto conto delle esigenze di servizio e' disposto con decreto del Ministro dell'interno sentiti il consiglio di amministrazione o le commissioni di cui all'[art. 69 del decreto del Presidente della Repubblica 24 aprile 1982, n. 335](Ordinamento%20del%20personale%20della%20Polizia%20di%20Stato%20che%20espleta%20funzioni%20di%20polizia.md), in relazione alla qualifica rivestita dall'interessato, nonche' la commissione consultiva di cui all'[art. 4 del decreto del Presidente della Repubblica 25 ottobre 1981, n. 738](Utilizzazione%20del%20personale%20delle%20forze%20di%20polizia%20invalido%20per%20causa%20di%20servizio.md). 
+ ((Il personale di cui al primo comma appartenente al ruolo degli ispettori deve indicare, nella domanda, il settore tecnico nel quale intende transitare. E' comunque ammesso, successivamente, a sostenere la prova prevista per il transito nel settore supporto logistico-amministrativo il personale che non abbia superato la prova teorica o pratica prevista per gli altri settori tecnici.))
 
-  
-  
-Salvo quanto disposto dal [decreto del Presidente della Repubblica 25 ottobre 1981, n. 738](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1981-10-25;738), il personale dei ruoli della Polizia di Stato che espleta funzioni di polizia che abbia riportato un'invalidita', dipendente da causa di servizio, che non comporti l'inidoneita' assoluta ai compiti d'istituto, puo', a domanda, essere trasferito nelle corrispondenti qualifiche di altri ruoli della Polizia di Stato o di altre amministrazioni dello Stato, sempreche' la infermita' accertata ne consenta l'ulteriore impiego
+## Art. 6.
 
-((, anche presso la Sezione paralimpica dei gruppi sportivi «Polizia di Stato-Fiamme oro», istituita nell'ambito dei ruoli del personale che espleta attivita' tecnico-scientifica e tecnica.))
+Il trasferimento d'ufficio del personale di cui all'art. 2 nelle corrispondenti qualifiche di altro ruolo della Polizia di Stato e' disposto con decreto del Ministro dell'interno, sentiti il consiglio di amministrazione o le commissioni di cui all'[art. 69 del decreto del Presidente della Repubblica 24 aprile 1982, n. 335](Ordinamento%20del%20personale%20della%20Polizia%20di%20Stato%20che%20espleta%20funzioni%20di%20polizia.md), in relazione alla qualifica rivestita dall'interessato, nonche' la commissione consultiva di cui all'[art. 4 del decreto del Presidente della Repubblica 25 ottobre 1981, n. 738](Utilizzazione%20del%20personale%20delle%20forze%20di%20polizia%20invalido%20per%20causa%20di%20servizio.md).
+ Nel caso in cui l'interessato non assuma servizio senza giustificato motivo, dopo il trasferimento nell'altro ruolo, decade dall'impiego ai sensi dell'[art. 127, lettera C, del decreto del Presidente della Repubblica 10 gennaio 1957, n. 3](Testo%20unico%20delle%20disposizioni%20concernenti%20lo%20statuto%20degli%20impiegati%20civili%20dello%20Stato.md).
 
-  
-La domanda deve essere presentata al Dipartimento della pubblica sicurezza entro sessanta giorni dalla notifica all'interessato del giudizio di inidoneita'.   
+## Art. 7.
 
-Art. 4
-------
+La commissione consultiva di cui all'[art. 4 del decreto del Presidente della Repubblica 25 ottobre 1981, n. 738](Utilizzazione%20del%20personale%20delle%20forze%20di%20polizia%20invalido%20per%20causa%20di%20servizio.md), esprime il proprio parere sulla idoneita' del personale di cui agli articoli 1, 2 e 3 ad essere impiegato in altro ruolo della Polizia di Stato. 
+ La commissione, ai fini della formulazione del suddetto parere, puo' avvalersi del centro psicotecnico previsto dall'[art. 46 della legge 1° aprile 1981, n. 121](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1981-04-01;121#art_46), ed eventualmente di consulenza di organismi civili e militari e di professionisti estranei all'Amministrazione e tiene conto delle indicazioni fornite dalle commissioni mediche citate all'art. 2 e dell'esito della prova teorica o pratica le cui modalita' sono fissate con decreto del Ministro dell'interno. 
+ Il personale interessato ha diritto di farsi assistere, a proprie spese, da un medico di fiducia. 
+ Il capo della Polizia, direttore generale della pubblica sicurezza, in relazione alla natura della prova cui va sottoposto il personale interessato, puo' chiamare a partecipare alle riunioni della commissione due funzionari appartenenti all'Amministrazione della pubblica sicurezza.
 
-  
-Il giudizio di inidoneita' di cui ai precedenti articoli compete alle commissioni mediche previste dagli [articoli 165 e seguenti del decreto del Presidente della Repubblica 29 dicembre 1973, n. 1092](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1973-12-29;1092~art165).  
-Le commissioni devono, altresi', fornire indicazioni sull'ulteriore utilizzazione del personale, tenendo conto dell'infermita' accertata.
+## Art. 8.
 
-Art. 5
-------
+Il trasferimento del personale di cui agli articoli 1, 2 e 3 nelle corrispondenti qualifiche dei ruoli di altre amministrazioni dello Stato, e' disposto con decreto del Ministro interessato, di concerto col Ministro dell'interno, sentito il consiglio di amministrazione dell'amministrazione ricevente.
+ Quest'ultima puo' sottoporre il personale interessato a visita medica ed a prova teorica o pratica, secondo modalita' da fissarsi con decreto del Ministro competente.
+ L'Amministrazione alla quale e' stata inoltrata la istanza da parte del personale di cui all'art. 1 si dovra' pronunciare entro il termine di 150 giorni dalla data di ricevimento dell'istanza stessa.
+ Qualora nel termine sopra indicato l'Amministrazione non si sia pronunciata, l'istanza si intende accolta.
+ Nel periodo intercorrente, il personale e' collocato in aspettativa con il trattamento economico goduto all'atto del giudizio di non idoneita'.
 
-  
-  
-Il trasferimento, a domanda, del personale di cui agli articoli 1, 2 e 3 nelle corrispondenti qualifiche di altro ruolo della Polizia di Stato, tenuto conto delle esigenze di servizio e' disposto con decreto del Ministro dell'interno sentiti il consiglio di amministrazione o le commissioni di cui all'[art. 69 del decreto del Presidente della Repubblica 24 aprile 1982, n. 335](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1982-04-24;335~art69), in relazione alla qualifica rivestita dall'interessato, nonche' la commissione consultiva di cui all'[art. 4 del decreto del Presidente della Repubblica 25 ottobre 1981, n. 738](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1981-10-25;738~art4).   
+## Art. 9.
 
-((Il personale di cui al primo comma appartenente al ruolo degli ispettori deve indicare, nella domanda, il settore tecnico nel quale intende transitare. E' comunque ammesso, successivamente, a sostenere la prova prevista per il transito nel settore supporto logistico-amministrativo il personale che non abbia superato la prova teorica o pratica prevista per gli altri settori tecnici.))
+Qualora il personale di cui all'art. 1 sia ritenuto non idoneo all'assolvimento dei compiti propri degli altri ruoli della Polizia di Stato odi altre amministrazioni dello Stato, ovvero per esigenze di servizio non sia possibile trasferirlo in altri ruoli della Polizia di Stato o di altre amministrazioni dello Stato, e' dispensato dal servizio ai sensi degli articoli 129 e 130 del testo unico approvato con [decreto del Presidente della Repubblica 10 gennaio 1957, n. 3](Testo%20unico%20delle%20disposizioni%20concernenti%20lo%20statuto%20degli%20impiegati%20civili%20dello%20Stato.md).
 
-Art. 6
-------
+## Art. 10.
 
-  
-Il trasferimento d'ufficio del personale di cui all'art. 2 nelle corrispondenti qualifiche di altro ruolo della Polizia di Stato e' disposto con decreto del Ministro dell'interno, sentiti il consiglio di amministrazione o le commissioni di cui all'[art. 69 del decreto del Presidente della Repubblica 24 aprile 1982, n. 335](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1982-04-24;335~art69), in relazione alla qualifica rivestita dall'interessato, nonche' la commissione consultiva di cui all'[art. 4 del decreto del Presidente della Repubblica 25 ottobre 1981, n. 738](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1981-10-25;738~art4).  
-Nel caso in cui l'interessato non assuma servizio senza giustificato motivo, dopo il trasferimento nell'altro ruolo, decade dall'impiego ai sensi dell'[art. 127, lettera C, del decreto del Presidente della Repubblica 10 gennaio 1957, n. 3](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1957-01-10;3~art127-letc).  
+Il trasferimento in altri ruoli della Polizia di Stato o in altre amministrazioni dello Stato non comporta modifiche delle dotazioni organiche dei ruoli di provenienza o di quelli di destinazione.
+ Il personale trasferito e' inquadrato in soprannumero, riassorbibile con la cessazione dal servizio per qualsiasi causa del personale stesso nella qualifica corrispondente a quella rivestita al momento del trasferimento, conservando la anzianita' nella qualifica ricoperta, l'anzianita' complessivamente maturata e la posizione economica acquisita.
+ In corrispondenza dei posti occupati in soprannumero dal personale trasferito ai sensi del presente decreto legislativo, sono resi indisponibili nella qualifica iniziale del ruolo di provenienza, i posti lasciati liberi da detto personale, fino al riassorbimento del soprannumero.
+ Nel caso in cui il nuovo trattamento spettante a titolo di assegni fissi e continuativi risulti inferiore a quello in godimento allo stesso titolo all'atto del passaggio, la eccedenza e' attribuita sotto forma di scatti aggiuntivi convenzionali di stipendio.
 
-Art. 7
-------
+## Art. 11.
 
-  
-  
-  
-La commissione consultiva di cui all'[art. 4 del decreto del Presidente della Repubblica 25 ottobre 1981, n. 738](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1981-10-25;738~art4), esprime il proprio parere sulla idoneita' del personale di cui agli articoli 1, 2 e 3 ad essere impiegato in altro ruolo della Polizia di Stato.   
-La commissione, ai fini della formulazione del suddetto parere, puo' avvalersi del centro psicotecnico previsto dall'[art. 46 della legge 1° aprile 1981, n. 121](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1981-04-01;121~art46), ed eventualmente di consulenza di organismi civili e militari e di professionisti estranei all'Amministrazione e tiene conto delle indicazioni fornite dalle commissioni mediche citate all'art. 2 e dell'esito della prova teorica o pratica le cui modalita' sono fissate con decreto del Ministro dell'interno.   
-Il personale interessato ha diritto di farsi assistere, a proprie spese, da un medico di fiducia.   
-Il capo della Polizia, direttore generale della pubblica sicurezza, in relazione alla natura della prova cui va sottoposto il personale interessato, puo' chiamare a partecipare alle riunioni della commissione due funzionari appartenenti all'Amministrazione della pubblica sicurezza.   
+Per la progressione di carriera del personale trasferito in altre amministrazioni dello Stato ai sensi degli articoli precedenti, si applicano le disposizioni di cui all'[art. 2 del decreto del Presidente della Repubblica 24 luglio 1981, n. 551](Attuazione%20della%20delega%20prevista%20dallart.%20107%20della%20legge%201%20aprile%201981%20n.%20121%20in%20materia%20di%20passaggio%20ad%20altre%20amministrazioni%20civili%20o%20ad%20altri%20corpi%20militari%20dello%20Stato%20del%20personale%20_c7ec9af88305.md).
 
-Art. 8
-------
+## Art. 12.
 
-  
-Il trasferimento del personale di cui agli articoli 1, 2 e 3 nelle corrispondenti qualifiche dei ruoli di altre amministrazioni dello Stato, e' disposto con decreto del Ministro interessato, di concerto col Ministro dell'interno, sentito il consiglio di amministrazione dell'amministrazione ricevente.  
-Quest'ultima puo' sottoporre il personale interessato a visita medica ed a prova teorica o pratica, secondo modalita' da fissarsi con decreto del Ministro competente.  
-L'Amministrazione alla quale e' stata inoltrata la istanza da parte del personale di cui all'art. 1 si dovra' pronunciare entro il termine di 150 giorni dalla data di ricevimento dell'istanza stessa.  
-Qualora nel termine sopra indicato l'Amministrazione non si sia pronunciata, l'istanza si intende accolta.  
-Nel periodo intercorrente, il personale e' collocato in aspettativa con il trattamento economico goduto all'atto del giudizio di non idoneita'.  
+Il rigetto della domanda del personale di cui agli articoli 2 e 3 ad essere trasferito alle corrispondenti qualifiche di altri ruoli della Polizia di Stato o di altre amministrazioni dello Stato e' disposto con decreto motivato del Ministro dell'interno o del Ministro interessato.
 
-Art. 9
-------
+## Art. 13.
 
-  
-Qualora il personale di cui all'art. 1 sia ritenuto non idoneo all'assolvimento dei compiti propri degli altri ruoli della Polizia di Stato odi altre amministrazioni dello Stato, ovvero per esigenze di servizio non sia possibile trasferirlo in altri ruoli della Polizia di Stato o di altre amministrazioni dello Stato, e' dispensato dal servizio ai sensi degli articoli 129 e 130 del testo unico approvato con [decreto del Presidente della Repubblica 10 gennaio 1957, n. 3](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1957-01-10;3).  
+Il personale di cui ai precedenti articoli, trasferito ad altri ruoli della Polizia di Stato o ad altre amministrazioni dello Stato, non puo' essere riammesso nel ruolo di provenienza.
 
-Art. 10
--------
+## Art. 14. — Clausola finanziaria
 
-  
-Il trasferimento in altri ruoli della Polizia di Stato o in altre amministrazioni dello Stato non comporta modifiche delle dotazioni organiche dei ruoli di provenienza o di quelli di destinazione.  
-Il personale trasferito e' inquadrato in soprannumero, riassorbibile con la cessazione dal servizio per qualsiasi causa del personale stesso nella qualifica corrispondente a quella rivestita al momento del trasferimento, conservando la anzianita' nella qualifica ricoperta, l'anzianita' complessivamente maturata e la posizione economica acquisita.  
-In corrispondenza dei posti occupati in soprannumero dal personale trasferito ai sensi del presente decreto legislativo, sono resi indisponibili nella qualifica iniziale del ruolo di provenienza, i posti lasciati liberi da detto personale, fino al riassorbimento del soprannumero.  
-Nel caso in cui il nuovo trattamento spettante a titolo di assegni fissi e continuativi risulti inferiore a quello in godimento allo stesso titolo all'atto del passaggio, la eccedenza e' attribuita sotto forma di scatti aggiuntivi convenzionali di stipendio.  
-
-Art. 11
--------
-
-  
-Per la progressione di carriera del personale trasferito in altre amministrazioni dello Stato ai sensi degli articoli precedenti, si applicano le disposizioni di cui all'[art. 2 del decreto del Presidente della Repubblica 24 luglio 1981, n. 551](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1981-07-24;551~art2).  
-
-Art. 12
--------
-
-  
-Il rigetto della domanda del personale di cui agli articoli 2 e 3 ad essere trasferito alle corrispondenti qualifiche di altri ruoli della Polizia di Stato o di altre amministrazioni dello Stato e' disposto con decreto motivato del Ministro dell'interno o del Ministro interessato.  
-
-Art. 13
--------
-
-  
-Il personale di cui ai precedenti articoli, trasferito ad altri ruoli della Polizia di Stato o ad altre amministrazioni dello Stato, non puo' essere riammesso nel ruolo di provenienza.  
-
-Art. 14
--------
-
-Clausola finanziaria
-
-  
-  
-All'onere derivante dall'applicazione del presente decreto si provvede, ai sensi dell'[art. 115 della legge 1 aprile 1981, n. 121](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1981-04-01;121~art115), con i fondi stanziati sul cap. 2510 dello stato di previsione del Ministero dell'interno per l'anno finanziario 1982 e corrispondenti capitoli per gli anni successivi.  
-  
+All'onere derivante dall'applicazione del presente decreto si provvede, ai sensi dell'[art. 115 della legge 1 aprile 1981, n. 121](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1981-04-01;121#art_115), con i fondi stanziati sul cap. 2510 dello stato di previsione del Ministero dell'interno per l'anno finanziario 1982 e corrispondenti capitoli per gli anni successivi.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 24 aprile 1982
+Dato a Roma, addi' 24 aprile 1982
 
-PERTINI SPADOLINI - ROGNONI - ANDREATTA
-
-Visto, il Guardasigilli: DARIDA Registrato alla Corte dei conti addi' 25 maggio 1982
-
-Atti di Governo n. 39, foglio n. 22.
+PERTINI SPADOLINI - ROGNONI - ANDREATTA Visto, il Guardasigilli: DARIDA Registrato alla Corte dei conti addi' 25 maggio 1982 Atti di Governo n. 39, foglio n. 22.

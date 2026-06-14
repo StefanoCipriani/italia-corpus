@@ -1,19 +1,21 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 05 novembre 1957 n. 1260
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 1260
+data: 1957-11-05
+titolo: "Riconoscimento della personalita' giuridica della Chiesa ex conventuale di San Domenico, in Regalbuto (Enna)."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1957-11-05;1260
+codice_redazionale: 057U1260
+vigente: true
+---
 
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 05 novembre 1957 n. 1260
-================================================================
-
-Riconoscimento della personalita' giuridica della Chiesa ex conventuale di San Domenico, in Regalbuto (Enna).
--------------------------------------------------------------------------------------------------------------
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-1260. Decreto del Presidente della Repubblica 5 novembre 1957, col quale, sulla proposta del Ministro per l'interno, viene riconosciuta la personalita' giuridica della Chiesa ex conventuale di San Domenico, in Regalbuto (Enna).  
-  
-Visto, il Guardasigilli: GONELLA  
-Registrato alla Corte dei conti, addi' 19 dicembre 1957  
-Atti del Governo, registro n. 109, foglio n. 114. - RELLEVA
+1260.
+
+Decreto del Presidente della Repubblica 5 novembre 1957, col quale, sulla proposta del Ministro per l'interno, viene riconosciuta la personalita' giuridica della Chiesa ex conventuale di San Domenico, in Regalbuto (Enna).
+
+Visto, il Guardasigilli: GONELLA
+ Registrato alla Corte dei conti, addi' 19 dicembre 1957
+ Atti del Governo, registro n. 109, foglio n. 114. - RELLEVA

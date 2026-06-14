@@ -1,19 +1,21 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 01 ottobre 1970 n. 811
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 811
+data: 1970-10-01
+titolo: "Riconoscimento, agli effetti civili, della erezione della parrocchia di S. Leonardo, nel comune di Gioiosa Marea."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1970-10-01;811
+codice_redazionale: 070U0811
+vigente: true
+---
 
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 01 ottobre 1970 n. 811
-==============================================================
-
-Riconoscimento, agli effetti civili, della erezione della parrocchia di S. Leonardo, nel comune di Gioiosa Marea.
------------------------------------------------------------------------------------------------------------------
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-811. Decreto del Presidente della Repubblica 1 ottobre 1970, col quale, sulla proposta del Ministro per l'interno, viene riconosciuto, agli effetti civili, il decreto dell'Ordinario diocesano di Patti in data 22 agosto 1969, integrato con dichiarazioni in data 30 gennaio 1970 e 2 maggio 1970, relativo alla erezione della parrocchia di S. Leonardo, in contrada omonima del comune di Gioiosa Marea (Messina).  
-  
-Visto, il Guardasigilli: REALE  
-Registrato alla Corte dei conti, addi' 17 novembre 1970  
-Atti del Governo, registro n. 238, foglio n. 72. - CARUSO
+811.
+
+Decreto del Presidente della Repubblica 1 ottobre 1970, col quale, sulla proposta del Ministro per l'interno, viene riconosciuto, agli effetti civili, il decreto dell'Ordinario diocesano di Patti in data 22 agosto 1969, integrato con dichiarazioni in data 30 gennaio 1970 e 2 maggio 1970, relativo alla erezione della parrocchia di S. Leonardo, in contrada omonima del comune di Gioiosa Marea (Messina).
+
+Visto, il Guardasigilli: REALE
+ Registrato alla Corte dei conti, addi' 17 novembre 1970
+ Atti del Governo, registro n. 238, foglio n. 72. - CARUSO

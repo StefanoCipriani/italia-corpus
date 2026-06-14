@@ -1,19 +1,21 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 maggio 1966 n. 491
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 491
+data: 1966-05-30
+titolo: "Riconoscimento, agli effetti civili, della erezione della Parrocchia di San Giovanni Evangelista, in Modena."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1966-05-30;491
+codice_redazionale: 066U0491
+vigente: true
+---
 
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 maggio 1966 n. 491
-=============================================================
-
-Riconoscimento, agli effetti civili, della erezione della Parrocchia di San Giovanni Evangelista, in Modena.
-------------------------------------------------------------------------------------------------------------
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-491. Decreto del Presidente della Repubblica 30 maggio 1966, col quale, sulla proposta del Ministro per l'interno, viene riconosciuto, agli effetti civili, il decreto dell'Ordinario diocesano di Modena in data 8 settembre 1964, integrato con due dichiarazioni rispettivamente del 26 settembre 1964, e 1 febbraio 1966, relativo alla erezione della Parrocchia di San Giovanni Evangelista, in Modena.  
-  
-Visto, il Guardasigilli: REALE  
-Registrato alla Corte dei conti, addi' 30 giugno 1966  
-Atti del Governo, registro n. 204, foglio n. 12. - DI PRETORO
+491.
+
+Decreto del Presidente della Repubblica 30 maggio 1966, col quale, sulla proposta del Ministro per l'interno, viene riconosciuto, agli effetti civili, il decreto dell'Ordinario diocesano di Modena in data 8 settembre 1964, integrato con due dichiarazioni rispettivamente del 26 settembre 1964, e 1 febbraio 1966, relativo alla erezione della Parrocchia di San Giovanni Evangelista, in Modena.
+
+Visto, il Guardasigilli: REALE
+ Registrato alla Corte dei conti, addi' 30 giugno 1966
+ Atti del Governo, registro n. 204, foglio n. 12. - DI PRETORO

@@ -1,19 +1,21 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 13 agosto 1964 n. 1240
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 1240
+data: 1964-08-13
+titolo: "Erezione in ente morale della Cassa scolastica del Liceo scientifico statale \"Giovanni da Castiglione\", di Castiglion Fiorentino (Arezzo)."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1964-08-13;1240
+codice_redazionale: 064U1240
+vigente: true
+---
 
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 13 agosto 1964 n. 1240
-==============================================================
-
-Erezione in ente morale della Cassa scolastica del Liceo scientifico statale "Giovanni da Castiglione", di Castiglion Fiorentino (Arezzo).
-------------------------------------------------------------------------------------------------------------------------------------------
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-1240. Decreto del Presidente della Repubblica 13 agosto 1964, col quale, sulla proposta del Ministro per la pubblica istruzione, la Cassa scolastica del Liceo scientifico statale "Giovanni da Castiglione", di Castiglion Fiorentino (Arezzo), viene eretta in ente morale e ne viene approvato lo statuto.  
-  
-Visto, il Guardasigilli: REALE  
-Registrato alla Corte dei conti, addi' 21 novembre 1964  
-Atti del Governo, registro n. 188, foglio n. 107. - VILLA
+1240.
+
+Decreto del Presidente della Repubblica 13 agosto 1964, col quale, sulla proposta del Ministro per la pubblica istruzione, la Cassa scolastica del Liceo scientifico statale "Giovanni da Castiglione", di Castiglion Fiorentino (Arezzo), viene eretta in ente morale e ne viene approvato lo statuto.
+
+Visto, il Guardasigilli: REALE
+ Registrato alla Corte dei conti, addi' 21 novembre 1964
+ Atti del Governo, registro n. 188, foglio n. 107. - VILLA

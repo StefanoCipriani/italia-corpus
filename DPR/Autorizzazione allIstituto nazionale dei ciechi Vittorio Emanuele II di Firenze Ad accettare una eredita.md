@@ -1,18 +1,20 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 19 maggio 1950 n. 705
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 705
+data: 1950-05-19
+titolo: "Autorizzazione all'Istituto nazionale dei ciechi \"Vittorio Emanuele II\" di Firenze Ad accettare una eredita'."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1950-05-19;705
+codice_redazionale: 050U0705
+vigente: true
+---
 
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 19 maggio 1950 n. 705
-=============================================================
-
-Autorizzazione all'Istituto nazionale dei ciechi "Vittorio Emanuele II" di Firenze Ad accettare una eredita'.
--------------------------------------------------------------------------------------------------------------
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-705. Decreto del Presidente della Repubblica 19 maggio 1950, col quale, sulla proposta del Ministro per la pubblica istruzione, l'Istituto nazionale dei ciechi "Vittorio Emanuele II" di Firenze viene autorizzato ad accettare l'eredita' della signora Orlandini Eufemia fu Angiolo di Firenze.  
-  
-Visto, il Guardasigilli: PICCIONI  
-Registrato alla Corte dei conti, addi' 31 agosto 1950
+705.
+
+Decreto del Presidente della Repubblica 19 maggio 1950, col quale, sulla proposta del Ministro per la pubblica istruzione, l'Istituto nazionale dei ciechi "Vittorio Emanuele II" di Firenze viene autorizzato ad accettare l'eredita' della signora Orlandini Eufemia fu Angiolo di Firenze.
+
+Visto, il Guardasigilli: PICCIONI
+ Registrato alla Corte dei conti, addi' 31 agosto 1950

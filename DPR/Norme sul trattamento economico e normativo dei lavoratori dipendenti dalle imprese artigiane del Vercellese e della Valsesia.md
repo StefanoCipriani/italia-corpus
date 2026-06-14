@@ -1,20 +1,20 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 11 dicembre 1961 n. 1627
-
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 11 dicembre 1961 n. 1627
-================================================================
-
-Norme sul trattamento economico e normativo dei lavoratori dipendenti dalle imprese artigiane del Vercellese e della Valsesia.
-------------------------------------------------------------------------------------------------------------------------------
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 1627
+data: 1961-12-11
+titolo: "Norme sul trattamento economico e normativo dei lavoratori dipendenti dalle imprese artigiane del Vercellese e della Valsesia."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1961-12-11;1627
+codice_redazionale: 061U1627
+vigente: true
+---
 
 IL PRESIDENTE DELLA REPUBBLICA
-------------------------------
 
-Visto l'[art. 87, comma quinto, della Costituzione](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27~art87-com5);
+Visto l'[art. 87, comma quinto, della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87-com5);
 
-Vista la [legge 14 luglio 1959, n. 741](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1959-07-14;741), che delega il Governo ad emanare norme transitorie per garantire minimi di trattamento economico e normativo ai lavoratori;
+Vista la [legge 14 luglio 1959, n. 741](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1959-07-14;741), che delega il Governo ad emanare norme transitorie per garantire minimi di trattamento economico e normativo ai lavoratori;
 
-Vista la [legge 1 ottobre 1960, n. 1027](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1960-10-01;1027), recante modifiche alla predetta [legge 14 luglio 1959, n. 741](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1959-07-14;741);
+Vista la [legge 1 ottobre 1960, n. 1027](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1960-10-01;1027), recante modifiche alla predetta [legge 14 luglio 1959, n. 741](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1959-07-14;741);
 
 Visti, per il Vercellese e la Valsesia:
 
@@ -26,42 +26,18 @@ Vista la pubblicazione nell'apposito Bollettino, n. 4 della provincia di Vercell
 
 Sentito il Consiglio dei Ministri;
 
-Sulla
------
+Sulla proposta del Ministro per il lavoro e la previdenza sociale; Decreta:
 
-proposta del Ministro per il lavoro e la previdenza sociale; Decreta:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-I rapporti di lavoro costituiti per le attivita' artigiane per le quali sono stati stipulati, per il Vercellese e la Valsesia:  
-- il contratto collettivo 22 luglio 1958, relativo ai dipendenti da aziende artigiane;  
-- l'accordo collettivo 27 luglio 1959, aggiuntivo al predetto contratto 22 luglio 1958;  
-sono regolati da norme giuridiche uniformi alle clausole del contratto e dell'accordo anzidetti, annessi al presente decreto, purche' compatibili, per quanto riguarda le attivita' artigiane per le quali sono stati stipulati appositi contratti collettivi nazionali, con quelle concernenti la relativa, disciplina nazionale.  
-I minimi di trattamento economico e normativo cosi' stabiliti sono inderogabili nei confronti di tutti i lavoratori dipendenti dalle imprese artigiane esercenti le attivita' indicate nel contratto e nell'accordo di cui al primo comma, del Vercellese e della Valsesia.  
-  
+I rapporti di lavoro costituiti per le attivita' artigiane per le quali sono stati stipulati, per il Vercellese e la Valsesia:
+ - il contratto collettivo 22 luglio 1958, relativo ai dipendenti da aziende artigiane;
+ - l'accordo collettivo 27 luglio 1959, aggiuntivo al predetto contratto 22 luglio 1958;
+sono regolati da norme giuridiche uniformi alle clausole del contratto e dell'accordo anzidetti, annessi al presente decreto, purche' compatibili, per quanto riguarda le attivita' artigiane per le quali sono stati stipulati appositi contratti collettivi nazionali, con quelle concernenti la relativa, disciplina nazionale.
+ I minimi di trattamento economico e normativo cosi' stabiliti sono inderogabili nei confronti di tutti i lavoratori dipendenti dalle imprese artigiane esercenti le attivita' indicate nel contratto e nell'accordo di cui al primo comma, del Vercellese e della Valsesia.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 11 dicembre 1961
+Dato a Roma, addi' 11 dicembre 1961
 
-GRONCHI FANFANI - SULLO
-
-Visto, il Guardasigilli: GONELLA
-
-Registrato alla Corte di conti, addi' 21 febbraio 1962
-
-Atti del Governo, registro n. 143, foglio n. 182. - VILLA
-
-Allegato
-
-CONTRATTO COLLETTIVO 22 LUGLIO 1958 PER I DIPENDENTI DALLE AZIENDE ARTIGIANE DEL VERCELLESE E DELLA VALSESIA.   
-  
-ACCORDO COLLETTIVO 27 LUGLIO 1959 AGGIUNTIVO AL CONTRATTO COLLETTIVO 22 LUGLIO 1958 PER I DIPENDENTI DALLE AZIENDE ARTIGIANE DEL VERCELLESE E DELLA VALSESIA.   
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=061U162700100010110001&dgu=1962-03-13&art.dataPubblicazioneGazzetta=1962-03-13&art.codiceRedazionale=061U1627)
-  
+GRONCHI FANFANI - SULLO Visto, il Guardasigilli: GONELLA Registrato alla Corte di conti, addi' 21 febbraio 1962 Atti del Governo, registro n. 143, foglio n. 182. - VILLA

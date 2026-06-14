@@ -1,18 +1,20 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 19 maggio 1950 n. 464
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 464
+data: 1950-05-19
+titolo: "Riconoscimento della personalita' giuridica del Monastero delle Suore Orsoline, con sede in Benevento."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1950-05-19;464
+codice_redazionale: 050U0464
+vigente: true
+---
 
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 19 maggio 1950 n. 464
-=============================================================
-
-Riconoscimento della personalita' giuridica del Monastero delle Suore Orsoline, con sede in Benevento.
-------------------------------------------------------------------------------------------------------
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-464. Decreto del Presidente della Repubblica 19 maggio 1950, col quale, sulla proposta del Ministro per l'interno, viene riconosciuta la personalita' giuridica del Monastero delle Suore Orsoline, con sede in Benevento.  
-  
-Visto, il Guardasigilli: PICCIONI  
-Registrato alla Corte dei conti, addi' 11 luglio 1950
+464.
+
+Decreto del Presidente della Repubblica 19 maggio 1950, col quale, sulla proposta del Ministro per l'interno, viene riconosciuta la personalita' giuridica del Monastero delle Suore Orsoline, con sede in Benevento.
+
+Visto, il Guardasigilli: PICCIONI
+ Registrato alla Corte dei conti, addi' 11 luglio 1950

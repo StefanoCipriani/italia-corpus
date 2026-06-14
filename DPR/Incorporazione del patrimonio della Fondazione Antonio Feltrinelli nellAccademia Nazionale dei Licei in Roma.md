@@ -1,19 +1,21 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 10 dicembre 1966 n. 1191
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 1191
+data: 1966-12-10
+titolo: "Incorporazione del patrimonio della \"Fondazione Antonio Feltrinelli\" nell'Accademia Nazionale dei Licei, in Roma."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1966-12-10;1191
+codice_redazionale: 066U1191
+vigente: true
+---
 
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 10 dicembre 1966 n. 1191
-================================================================
-
-Incorporazione del patrimonio della "Fondazione Antonio Feltrinelli" nell'Accademia Nazionale dei Licei, in Roma.
------------------------------------------------------------------------------------------------------------------
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-1191. Decreto del Presidente della Repubblica 10 dicembre 1966, col quale, sulla proposta del Ministro per la pubblica istruzione, viene abrogato il [decreto del Presidente della Repubblica 20 ottobre 1949, numero 1015](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1949-10-20;1015), concernente l'erezione in ente morale del patrimonio dell'eredita' Feltrinelli con la denominazione "Fondazione Antonio Feltrinelli", e il patrimonio medesimo viene incorporato nell'Accademia Nazionale dei Lincei, in Roma.  
-  
-Visto, il Guardasigilli: REALE  
-Registrato alla Corte dei conti, addi' 9 gennaio 1967  
-Atti del Governo, registro n. 208, foglio n. 93. - VILLA
+1191.
+
+Decreto del Presidente della Repubblica 10 dicembre 1966, col quale, sulla proposta del Ministro per la pubblica istruzione, viene abrogato il [decreto del Presidente della Repubblica 20 ottobre 1949, numero 1015](Erezione%20in%20ente%20morale%20della%20Fondazione%20Antonio%20Feltrinelli.md), concernente l'erezione in ente morale del patrimonio dell'eredita' Feltrinelli con la denominazione "Fondazione Antonio Feltrinelli", e il patrimonio medesimo viene incorporato nell'Accademia Nazionale dei Lincei, in Roma.
+
+Visto, il Guardasigilli: REALE
+ Registrato alla Corte dei conti, addi' 9 gennaio 1967
+ Atti del Governo, registro n. 208, foglio n. 93. - VILLA

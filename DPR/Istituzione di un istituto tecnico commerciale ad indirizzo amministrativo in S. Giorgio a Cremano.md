@@ -1,19 +1,21 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 settembre 1976 n. 1099
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 1099
+data: 1976-09-30
+titolo: "Istituzione di un istituto tecnico commerciale ad indirizzo amministrativo in S. Giorgio a Cremano."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1976-09-30;1099
+codice_redazionale: 076U1099
+vigente: true
+---
 
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 settembre 1976 n. 1099
-=================================================================
-
-Istituzione di un istituto tecnico commerciale ad indirizzo amministrativo in S. Giorgio a Cremano.
----------------------------------------------------------------------------------------------------
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-1099. Decreto del Presidente della Repubblica 30 settembre 1976, col quale, sulla proposta del Ministro per la pubblica istruzione, di concerto con i Ministri per l'interno e per il tesoro, viene istituito in S. Giorgio a Cremano (Napoli), a decorrere dal 1 ottobre 1976, un istituto tecnico commerciale ad indirizzo amministrativo e ne viene approvata la tabella organica.  
-  
-Visto, il Guardasigilli: BONIFACIO  
-Registrato alla Corte dei conti, addi' 21 ottobre 1977  
-Registro n. 118 Istruzione, foglio n. 11
+1099.
+
+Decreto del Presidente della Repubblica 30 settembre 1976, col quale, sulla proposta del Ministro per la pubblica istruzione, di concerto con i Ministri per l'interno e per il tesoro, viene istituito in S. Giorgio a Cremano (Napoli), a decorrere dal 1 ottobre 1976, un istituto tecnico commerciale ad indirizzo amministrativo e ne viene approvata la tabella organica.
+
+Visto, il Guardasigilli: BONIFACIO
+ Registrato alla Corte dei conti, addi' 21 ottobre 1977
+ Registro n. 118 Istruzione, foglio n. 11

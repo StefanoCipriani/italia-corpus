@@ -1,19 +1,21 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 23 aprile 1952 n. 760
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 760
+data: 1952-04-23
+titolo: "Rettifica di dichiarazione di zona di endemia malarica per il territorio del comune di Campolongo Maggiore (Venezia)."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1952-04-23;760
+codice_redazionale: 052U0760
+vigente: true
+---
 
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 23 aprile 1952 n. 760
-=============================================================
-
-Rettifica di dichiarazione di zona di endemia malarica per il territorio del comune di Campolongo Maggiore (Venezia).
----------------------------------------------------------------------------------------------------------------------
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-760. Decreto del Presidente della Repubblica 23 aprile 1952, col quale, sulla proposta del Presidente del Consiglio dei Ministri, viene rettificata la dichiarazione di zona di endemia malarica contenuta nel [regio decreto 1 giugno 1905, n. 315](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1905-06-01;315).  
-  
-Visto, il Guardasigilli: ZOLI  
-Registrato alla Corte dei conti, addi' 30 giugno 1952  
-Atti del Governo, registro n. 54, foglio n. 127. - FRASCA
+760.
+
+Decreto del Presidente della Repubblica 23 aprile 1952, col quale, sulla proposta del Presidente del Consiglio dei Ministri, viene rettificata la dichiarazione di zona di endemia malarica contenuta nel [regio decreto 1 giugno 1905, n. 315](../Atti%20normativi%20abrogati%20%28in%20originale%29/Che%20dichiara%20zone%20malariche%20talune%20porzioni%20di%20territorio%20nella%20provincia%20di%20Venezia.%20005U0315.md).
+
+Visto, il Guardasigilli: ZOLI
+ Registrato alla Corte dei conti, addi' 30 giugno 1952
+ Atti del Governo, registro n. 54, foglio n. 127. - FRASCA

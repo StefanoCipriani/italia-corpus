@@ -1,19 +1,21 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 03 dicembre 1986 n. 980
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 466
+data: 1985-06-17
+titolo: "Autorizzazione alla fondazione \"Pro juventute don Carlo Gnocchi\", in Roma, ad accettare un'eredita'."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1985-06-17;466
+codice_redazionale: 085U0466
+vigente: true
+---
 
+## Art. 1.
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 03 dicembre 1986 n. 980
-===============================================================
+N.
 
-Autorizzazione alla fondazione "Pro juventute don Carlo Gnocchi", in Roma, ad accettare un'eredita'.
-----------------------------------------------------------------------------------------------------
+466.
 
-Art. 1
-------
+Decreto del Presidente della Repubblica 17 giugno 1985, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la fondazione "Pro juventute don Carlo Gnocchi", in Roma, viene autorizzata ad accettare, col beneficio d'inventario, l'eredita', consistente in un appartamento sito in Cinisello Balsamo (Milano), via Sardegna n. 8/1, distinto al nuovo catasto edilizio urbano alla partita 8378, foglio 45, mappale 277 sub 30, del valore attribuito con perizia di parte di L. 9.000.000, elevato dall'ufficio tecnico erariale di Milano a L. 34.000.000, e in beni mobili come da inventario per L. 16.459.754, totale lire 50.451.754 - passivita' L. 1.165.000, restano lire 49.294.754, disposta dalla sig.ra Martinetti Maria a favore della fondazione "Don Gnocchi", che si identifica con la fondazione "Pro juventute don Carlo Gnocchi", come si evince dal verbale 20 novembre 1981 del consiglio di amministrazione della fondazione stessa, con testamento olografo 10 luglio 1978, pubblicato in data 16 gennaio 1981, n. 4435 di repertorio e n. 733 di raccolta, a rogito dott. Brambilla Ulderico, notaio in Milano, registrato a Milano il 29 gennaio 1981 al n. 2236.
 
-n.
-
-980. Decreto del Presidente della Repubblica 3 dicembre 1986, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la fondazione "Pro juventute don Carlo Gnocchi", in Roma, viene autorizzata ad accettare col beneficio d'inventario l'eredita', consistente nella quota di 1/2 di beni mobili, saldo conti correnti, depositi di titoli, per un valore complessivo di L. 77.851.131, disposta dal sig. Minghetti Giuseppe a favore della pro juventute (Mutilatini don Gnocchi), che si identifica con la fondazione "Pro juventute don Carlo Gnocchi", come si evince dal verbale del consiglio di amministrazione della fondazione stessa in data 16 febbraio 1984, con testamento olografo 14 ottobre 1982, pubblicato in data 15 aprile 1983, n. 25547/945 di repertorio, a rogito dott. Giuseppe Isotti, notaio in Bolzano, registrato a Bolzano in data 2 maggio 1983 al n. 3996.  
-  
-Visto, il Guardasigilli: ROGNONI  
-Registrato alla Corte dei conti, addi' 14 gennaio 1987  
-Registro n. 1 Presidenza, foglio n. 178
+Visto, il Guardasigilli: MARTINAZZOLI
+ Registrato alla Corte dei conti, addi' 2 settembre 1985
+ Registro n. 8 Presidenza, foglio n. 158

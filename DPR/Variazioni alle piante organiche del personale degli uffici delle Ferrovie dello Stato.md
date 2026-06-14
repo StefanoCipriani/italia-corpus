@@ -1,52 +1,31 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 giugno 1950 n. 627
-
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 giugno 1950 n. 627
-=============================================================
-
-Variazioni alle piante organiche del personale degli uffici delle Ferrovie dello Stato.
----------------------------------------------------------------------------------------
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 627
+data: 1950-06-30
+titolo: "Variazioni alle piante organiche del personale degli uffici delle Ferrovie dello Stato."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1950-06-30;627
+codice_redazionale: 050U0627
+vigente: true
+---
 
 IL PRESIDENTE DELLA REPUBBLICA
-------------------------------
 
-Visto l'[art. 10 del decreto legislativo del Capo provvisorio dello Stato 10 luglio 1947, n. 687](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto.legislativo:1947-07-10;687~art10);
+Visto l'[art. 10 del decreto legislativo del Capo provvisorio dello Stato 10 luglio 1947, n. 687](https://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto.legislativo:1947-07-10;687#art_10);
 
-Visto l'[art. 87 della Costituzione](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27~art87);
+Visto l'[art. 87 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87);
 
 Udito il parere del Consiglio di Stato;
 
 Sentito il Consiglio dei Ministri;
 
-Sulla
------
+Sulla proposta del Ministro per i trasporti, di concerto con il Ministro per il tesoro; Decreta:
 
-proposta del Ministro per i trasporti, di concerto con il Ministro per il tesoro; Decreta:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-Le piante organiche del personale degli uffici delle Ferrovie dello Stato, stabilite dall'allegato n. 1 al [regio decreto 12 ottobre 1942, n. 1210](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-10-12;1210), vengono modificate come all'unita tabella, firmata dal Ministro per il tesoro e dal Ministro per i trasporti, fermo restando l'aumento transitorio di cui al [decreto legislativo 19 marzo 1948, n. 178](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1948-03-19;178).  
-  
+Le piante organiche del personale degli uffici delle Ferrovie dello Stato, stabilite dall'allegato n. 1 al [regio decreto 12 ottobre 1942, n. 1210](../Atti%20normativi%20abrogati%20%28in%20originale%29/Modificazioni%20ed%20aggiunte%20al%20regolamento%20del%20personale%20delle%20Ferrovie%20dello%20Stato.%20042U1210.md), vengono modificate come all'unita tabella, firmata dal Ministro per il tesoro e dal Ministro per i trasporti, fermo restando l'aumento transitorio di cui al [decreto legislativo 19 marzo 1948, n. 178](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1948-03-19;178).
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 30 giugno 1950
+Dato a Roma, addi' 30 giugno 1950
 
-EINAUDI DE GASPERI - D'ARAGONA - PELLA
-
-Visto, il Guardasigilli: PICCIONI
-
-Registrato alla Corte dei conti, addi' 23 agosto 1950
-
-Atti del Governo, registro n. 35, foglio n. 64. - CARLOMAGNO
-
-Tabelle
-
-Piante organiche del personale degli uffici delle Ferrovie dello Stato   
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=050U062700100010110001&dgu=1950-08-28&art.dataPubblicazioneGazzetta=1950-08-28&art.codiceRedazionale=050U0627)
-  
+EINAUDI DE GASPERI - D'ARAGONA - PELLA Visto, il Guardasigilli: PICCIONI Registrato alla Corte dei conti, addi' 23 agosto 1950 Atti del Governo, registro n. 35, foglio n. 64. - CARLOMAGNO

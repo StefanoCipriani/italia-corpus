@@ -1,66 +1,51 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 16 giugno 1982 n. 1109
-
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 16 giugno 1982 n. 1109
-==============================================================
-
-Rettifica ai decreti del Presidente della Repubblica 3 febbraio 1981, n. 266 e 28 ottobre 1981, n. 940, concernenti modificazioni allo statuto dell'Universita' degli studi di Firenze.
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 1109
+data: 1982-06-16
+titolo: "Rettifica ai decreti del Presidente della Repubblica 3 febbraio 1981, n. 266 e 28 ottobre 1981, n. 940, concernenti modificazioni allo statuto dell'Universita' degli studi di Firenze."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1982-06-16;1109
+codice_redazionale: 082U1109
+vigente: true
+---
 
 IL PRESIDENTE DELLA REPUBBLICA
-------------------------------
 
-Veduto lo statuto dell'Universita' di Firenze, approvato con [regio decreto 14 ottobre 1926, n. 2406](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2406) e modificato con [regio decreto 13 ottobre 1927, n. 2230](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2230) e successive modificazioni;
+Veduto lo statuto dell'Universita' di Firenze, approvato con [regio decreto 14 ottobre 1926, n. 2406](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20dello%20statuto%20della%20Regia%20universita%20di%20Firenze.%20026U2406.md) e modificato con [regio decreto 13 ottobre 1927, n. 2230](../Atti%20normativi%20abrogati%20%28in%20originale%29/Modificazioni%20allo%20statuto%20della%20Regia%20universita%20di%20Firenze.%20027U2230.md) e successive modificazioni;
 
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20R.%20decreto-legge%2020%20giugno%201935-XIII%20n.%201071%20contenente%20modifiche%20ed%20aggiornamenti%20al%20testo%20unico%20delle%20leggi%20sullistruzione%20superiore.%20036U0073.md);
 
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
+Veduto il [regio decreto 30 settembre 1938, n. 1652](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disposizioni%20sullordinamento%20didattico%20universitario.%20038U1652.md), e successive modificazioni;
 
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
+Veduta la [legge 11 aprile 1953, n. 312](../Atti%20normativi%20abrogati%20%28in%20originale%29/Libera%20inclusione%20di%20nuovi%20insegnamenti%20complementari%20negli%20statuti%20delle%20Universita%20e%20degli%20Istituti%20distruzione%20superiore.md);
 
-Veduto il [decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382);
+Veduto il [decreto del Presidente della Repubblica 11 luglio 1980, n. 382](Riordinamento%20della%20docenza%20universitaria%20relativa%20fascia%20di%20formazione%20nonche%20sperimentazione%20organizzativa%20e%20didattica.md);
 
-Veduto l'[art. 1 del decreto del Presidente della Repubblica 11 giugno 1980, n. 627](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-06-11;627~art1);
+Veduto l'[art. 1 del decreto del Presidente della Repubblica 11 giugno 1980, n. 627](Modificazioni%20allo%20statuto%20dellUniversita%20degli%20studi%20di%20Firenze_116.md);
 
-Veduto l'[art. 2 del decreto del Presidente della Repubblica 3 febbraio 1981, n. 266](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1981-02-03;266~art2);
+Veduto l'[art. 2 del decreto del Presidente della Repubblica 3 febbraio 1981, n. 266](Modificazioni%20allo%20statuto%20dellUniversita%20degli%20studi%20di%20Firenze_117.md);
 
-Veduto l'[art. 1 del decreto del Presidente della Repubblica 28 ottobre 1981, n. 940](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1981-10-28;940~art1);
+Veduto l'[art. 1 del decreto del Presidente della Repubblica 28 ottobre 1981, n. 940](Modificazioni%20allo%20statuto%20dellUniversita%20degli%20studi%20di%20Firenze_123.md);
 
 Veduta la delibera del consiglio di facolta' di economia e commercio del 27 febbraio 1981;
 
-Considerato che l'[art. 2 del decreto del Presidente della Repubblica 3 febbraio 1981, n. 266](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1981-02-03;266~art2), presenta un errore nel senso che dispone il cambio di denominazione di un istituto la cui denominazione era gia' stata cambiata dall'[art. 1 del decreto del Presidente della Repubblica 11 giugno 1980, n. 627](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-06-11;627~art1);
+Considerato che l'[art. 2 del decreto del Presidente della Repubblica 3 febbraio 1981, n. 266](Modificazioni%20allo%20statuto%20dellUniversita%20degli%20studi%20di%20Firenze_117.md), presenta un errore nel senso che dispone il cambio di denominazione di un istituto la cui denominazione era gia' stata cambiata dall'[art. 1 del decreto del Presidente della Repubblica 11 giugno 1980, n. 627](Modificazioni%20allo%20statuto%20dellUniversita%20degli%20studi%20di%20Firenze_116.md);
 
-Considerato, altresi' che l'[art. 1 del decreto del Presidente della Repubblica 28 ottobre 1981, n. 940](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1981-10-28;940~art1), dispone la modifica di statuto gia' apportata con l'[art. 2 del decreto del Presidente della Repubblica 3 febbraio 1981, n. 266](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1981-02-03;266~art2);
+Considerato, altresi' che l'[art. 1 del decreto del Presidente della Repubblica 28 ottobre 1981, n. 940](Modificazioni%20allo%20statuto%20dellUniversita%20degli%20studi%20di%20Firenze_123.md), dispone la modifica di statuto gia' apportata con l'[art. 2 del decreto del Presidente della Repubblica 3 febbraio 1981, n. 266](Modificazioni%20allo%20statuto%20dellUniversita%20degli%20studi%20di%20Firenze_117.md);
 
-Considerata, quindi, la necessita' di provvedere alla rettifica dei [decreti del Presidente della Repubblica 3 febbraio 1981, n. 266](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1981-02-03;266) e [28 ottobre 1981, n. 940](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1981-10-28;940);
+Considerata, quindi, la necessita' di provvedere alla rettifica dei [decreti del Presidente della Repubblica 3 febbraio 1981, n. 266](Modificazioni%20allo%20statuto%20dellUniversita%20degli%20studi%20di%20Firenze_117.md) e [28 ottobre 1981, n. 940](Modificazioni%20allo%20statuto%20dellUniversita%20degli%20studi%20di%20Firenze_123.md);
 
-Sulla
------
+Sulla proposta del Ministro della pubblica istruzione; Decreta:
 
-proposta del Ministro della pubblica istruzione; Decreta:
+## Art. 1.
 
-Art. 1
-------
+L'[art. 2 del decreto del Presidente della Repubblica 3 febbraio 1981, n. 266](Modificazioni%20allo%20statuto%20dellUniversita%20degli%20studi%20di%20Firenze_117.md), e' rettificato nel senso che la denominazione dell'istituto di "matematica attuariale" deve intendersi "matematica generale e finanziaria".
 
-  
-L'[art. 2 del decreto del Presidente della Repubblica 3 febbraio 1981, n. 266](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1981-02-03;266~art2), e' rettificato nel senso che la denominazione dell'istituto di "matematica attuariale" deve intendersi "matematica generale e finanziaria".  
-
-Art. 2
-------
-
-null
+## Art. 2. — null
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 16 giugno 1982
+Dato a Roma, addi' 16 giugno 1982
 
-PERTINI BODRATO
-
-Visto, il Guardasigilli: DARIDA
-
-Registrato alla Corte dei conti, addi' 17 febbraio 1983
-
-Registro n. 12 Istruzione, foglio n. 169
+PERTINI BODRATO Visto, il Guardasigilli: DARIDA Registrato alla Corte dei conti, addi' 17 febbraio 1983 Registro n. 12 Istruzione, foglio n. 169

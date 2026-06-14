@@ -1,35 +1,27 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 05 gennaio 1953 n. 757
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 757
+data: 1953-01-05
+titolo: "Approvazione dell'atto capitolato 27 ottobre 1952 per la concessione alla Societa' per azioni Tramvie della Sardegna dell'impianto e dell'esercizio della tramvia extraurbana Cagliari-Poetto."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1953-01-05;757
+codice_redazionale: 053U0757
+vigente: true
+---
 
+## Art. 1.
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 05 gennaio 1953 n. 757
-==============================================================
+IL PRESIDENTE DELLA REPUBBLICA
 
-Approvazione dell'atto capitolato 27 ottobre 1952 per la concessione alla Societa' per azioni Tramvie della Sardegna dell'impianto e dell'esercizio della tramvia extraurbana Cagliari-Poetto.
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+ Visto il testo unico delle disposizioni di legge per le ferrovie concesse all'industria privata, le tramvie a trazione meccanica e le automobili, approvato con [regio decreto 9 maggio 1912, n. 1447](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1912-05-09;1447), e successive modificazioni;
+ Udito il Consiglio superiore dei lavori pubblici;
+ Sulla proposta del Ministro per i trasporti;
 
-Art. 1
-------
+ Decreta:
 
- IL PRESIDENTE DELLA REPUBBLICA  
-  
-Visto il testo unico delle disposizioni di legge per le ferrovie concesse all'industria privata, le tramvie a trazione meccanica e le automobili, approvato con [regio decreto 9 maggio 1912, n. 1447](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1912-05-09;1447), e successive modificazioni;  
-Udito il Consiglio superiore dei lavori pubblici;  
-Sulla proposta del Ministro per i trasporti;  
-  
-Decreta:  
-  
-E' approvato e reso esecutorio l'atto-capitolato 27 ottobre 1952, stipulato fra il delegato del Ministro per i trasporti, in rappresentanza dello Stato, ed il legale rappresentante della Societa' per azioni Tramvie della Sardegna, per la concessione a questa ultima dell'impianto e dell'esercizio della tramvia extraurbana Cagliari-Poetto.  
-  
+ E' approvato e reso esecutorio l'atto-capitolato 27 ottobre 1952, stipulato fra il delegato del Ministro per i trasporti, in rappresentanza dello Stato, ed il legale rappresentante della Societa' per azioni Tramvie della Sardegna, per la concessione a questa ultima dell'impianto e dell'esercizio della tramvia extraurbana Cagliari-Poetto.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 5 gennaio 1953
+Dato a Roma, addi' 5 gennaio 1953
 
-EINAUDI MALVESTITI
-
-Visto, il Guardasigilli: ZOLI
-
-Registrato alla Corte dei conti, addi' 13 agosto 1953
-
-Atti del Governo, registro n. 78, foglio n. 106. - CARLOMAGNO
+EINAUDI MALVESTITI Visto, il Guardasigilli: ZOLI Registrato alla Corte dei conti, addi' 13 agosto 1953 Atti del Governo, registro n. 78, foglio n. 106. - CARLOMAGNO

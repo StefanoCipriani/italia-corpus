@@ -1,19 +1,21 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 08 ottobre 1976 n. 1107
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 1107
+data: 1976-10-08
+titolo: "Riconoscimento della personalita' giuridica della fondazione \"Fratelli Mete gr. uff. Guglielmo, Adolfo, Oreste ed Alberto\", in Roma."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1976-10-08;1107
+codice_redazionale: 076U1107
+vigente: true
+---
 
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 08 ottobre 1976 n. 1107
-===============================================================
-
-Riconoscimento della personalita' giuridica della fondazione "Fratelli Mete gr. uff. Guglielmo, Adolfo, Oreste ed Alberto", in Roma.
-------------------------------------------------------------------------------------------------------------------------------------
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-1107. Decreto del Presidente della Repubblica 8 ottobre 1976, col quale, sulla proposta del Ministro per la pubblica istruzione, viene riconosciuta la personalita' giuridica ed approvato lo statuto della fondazione "Fratelli Mete gr. uff. Guglielmo, Adolfo, Oreste ed Alberto", in Roma.  
-  
-Visto, il Guardasigilli: BONIFACIO  
-Registrato alla Corte dei conti, addi' 19 novembre 1977  
-Registro n. 128 Istruzione, foglio n. 108
+1107.
+
+Decreto del Presidente della Repubblica 8 ottobre 1976, col quale, sulla proposta del Ministro per la pubblica istruzione, viene riconosciuta la personalita' giuridica ed approvato lo statuto della fondazione "Fratelli Mete gr. uff. Guglielmo, Adolfo, Oreste ed Alberto", in Roma.
+
+Visto, il Guardasigilli: BONIFACIO
+ Registrato alla Corte dei conti, addi' 19 novembre 1977
+ Registro n. 128 Istruzione, foglio n. 108

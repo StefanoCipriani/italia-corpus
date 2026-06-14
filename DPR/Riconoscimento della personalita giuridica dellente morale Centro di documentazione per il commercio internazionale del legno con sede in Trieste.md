@@ -1,19 +1,21 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 15 ottobre 1969 n. 989
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 989
+data: 1969-10-15
+titolo: "Riconoscimento della personalita' giuridica dell'ente morale \"Centro di documentazione per il commercio internazionale del legno\", con sede in Trieste."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1969-10-15;989
+codice_redazionale: 069U0989
+vigente: true
+---
 
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 15 ottobre 1969 n. 989
-==============================================================
-
-Riconoscimento della personalita' giuridica dell'ente morale "Centro di documentazione per il commercio internazionale del legno", con sede in Trieste.
--------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-989. Decreto del Presidente della Repubblica 15 ottobre 1969, col quale, sulla proposta del Ministro per l'industria, il commercio e l'artigianato, viene riconosciuta la personalita' giuridica ed approvato lo statuto dell'ente morale "Centro di documentazione per il commercio internazionale del legno", con sede in Trieste.  
-  
-Visto, il Guardasigilli: GAVA  
-Registrato alla Corte dei conti, addi' 23 dicembre 1969  
-Atti del Governo, registro n. 230, foglio n. 167. - CARUSO
+989.
+
+Decreto del Presidente della Repubblica 15 ottobre 1969, col quale, sulla proposta del Ministro per l'industria, il commercio e l'artigianato, viene riconosciuta la personalita' giuridica ed approvato lo statuto dell'ente morale "Centro di documentazione per il commercio internazionale del legno", con sede in Trieste.
+
+Visto, il Guardasigilli: GAVA
+ Registrato alla Corte dei conti, addi' 23 dicembre 1969
+ Atti del Governo, registro n. 230, foglio n. 167. - CARUSO

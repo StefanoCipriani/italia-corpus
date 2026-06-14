@@ -1,600 +1,614 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 18 febbraio 1971 n. 18
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 18
+data: 1971-02-18
+titolo: "Modifica e aggiornamento di disposizioni legislative in materia doganale, in attuazione della delega conferita al Governo con legge 23 gennaio 1968, n. 29."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1971-02-18;18
+codice_redazionale: 071U0018
+vigente: true
+---
 
+## Disposizioni generali  CAPO I DETERMINAZIONE DEL TERRITORIO DOGANALE
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 18 febbraio 1971 n. 18
-==============================================================
+TITOLO I
 
-Modifica e aggiornamento di disposizioni legislative in materia doganale, in attuazione della delega conferita al Governo con legge 23 gennaio 1968, n. 29.
------------------------------------------------------------------------------------------------------------------------------------------------------------
+### Art. 1.
 
-CAPO I TITOLO I Disposizioni generali CAPO I DETERMINAZIONE DEL TERRITORIO DOGANALE
------------------------------------------------------------------------------------
+((ARTICOLO ABROGATO DAL D.P.R. 23 GENNAIO 1973, N. 43))
 
-### Art. 1
+### Art. 2.
 
-((ARTICOLO ABROGATO DAL [D.P.R. 23 GENNAIO 1973, N. 43](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1973-01-23;43)))
+((ARTICOLO ABROGATO DAL D.P.R. 23 GENNAIO 1973, N. 43))
 
-### Art. 2
+### Art. 3.
 
-((ARTICOLO ABROGATO DAL [D.P.R. 23 GENNAIO 1973, N. 43](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1973-01-23;43)))
+((ARTICOLO ABROGATO DAL D.P.R. 23 GENNAIO 1973, N. 43))
 
-### Art. 3
+### Art. 4.
 
-((ARTICOLO ABROGATO DAL [D.P.R. 23 GENNAIO 1973, N. 43](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1973-01-23;43)))
+((ARTICOLO ABROGATO DAL D.P.R. 23 GENNAIO 1973, N. 43))
 
-### Art. 4
+### Art. 5.
 
-((ARTICOLO ABROGATO DAL [D.P.R. 23 GENNAIO 1973, N. 43](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1973-01-23;43)))
+((ARTICOLO ABROGATO DAL D.P.R. 23 GENNAIO 1973, N. 43))
 
-### Art. 5
+### Art. 6.
 
-((ARTICOLO ABROGATO DAL [D.P.R. 23 GENNAIO 1973, N. 43](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1973-01-23;43)))
+((ARTICOLO ABROGATO DAL D.P.R. 23 GENNAIO 1973, N. 43))
 
-### Art. 6
+## ORGANIZZAZIONE DEI SERVIZI DOGANALI
 
-((ARTICOLO ABROGATO DAL [D.P.R. 23 GENNAIO 1973, N. 43](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1973-01-23;43)))
+CAPO II
 
-CAPO II CAPO II ORGANIZZAZIONE DEI SERVIZI DOGANALI
----------------------------------------------------
+### Art. 7.
 
-### Art. 7
+((ARTICOLO ABROGATO DAL D.P.R. 23 GENNAIO 1973, N. 43))
 
-((ARTICOLO ABROGATO DAL [D.P.R. 23 GENNAIO 1973, N. 43](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1973-01-23;43)))
+### Art. 8.
 
-### Art. 8
+((ARTICOLO ABROGATO DAL D.P.R. 23 GENNAIO 1973, N. 43))
 
-((ARTICOLO ABROGATO DAL [D.P.R. 23 GENNAIO 1973, N. 43](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1973-01-23;43)))
+### Art. 9.
 
-### Art. 9
+((ARTICOLO ABROGATO DAL D.P.R. 23 GENNAIO 1973, N. 43))
 
-((ARTICOLO ABROGATO DAL [D.P.R. 23 GENNAIO 1973, N. 43](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1973-01-23;43)))
+### Art. 10.
 
-### Art. 10
+((ARTICOLO ABROGATO DAL D.P.R. 23 GENNAIO 1973, N. 43))
 
-((ARTICOLO ABROGATO DAL [D.P.R. 23 GENNAIO 1973, N. 43](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1973-01-23;43)))
+### Art. 11.
 
-### Art. 11
+((ARTICOLO ABROGATO DAL D.P.R. 23 GENNAIO 1973, N. 43))
 
-((ARTICOLO ABROGATO DAL [D.P.R. 23 GENNAIO 1973, N. 43](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1973-01-23;43)))
+### Art. 12.
 
-### Art. 12
+((ARTICOLO ABROGATO DAL D.P.R. 23 GENNAIO 1973, N. 43))
 
-((ARTICOLO ABROGATO DAL [D.P.R. 23 GENNAIO 1973, N. 43](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1973-01-23;43)))
+### Art. 13.
 
-### Art. 13
+((ARTICOLO ABROGATO DAL D.P.R. 23 GENNAIO 1973, N. 43))
 
-((ARTICOLO ABROGATO DAL [D.P.R. 23 GENNAIO 1973, N. 43](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1973-01-23;43)))
+### Art. 14.
 
-### Art. 14
+((ARTICOLO ABROGATO DAL D.P.R. 23 GENNAIO 1973, N. 43))
 
-((ARTICOLO ABROGATO DAL [D.P.R. 23 GENNAIO 1973, N. 43](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1973-01-23;43)))
+### Art. 15.
 
-### Art. 15
+((ARTICOLO ABROGATO DAL D.P.R. 23 GENNAIO 1973, N. 43))
 
-((ARTICOLO ABROGATO DAL [D.P.R. 23 GENNAIO 1973, N. 43](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1973-01-23;43)))
+### Art. 16.
 
-### Art. 16
+((ARTICOLO ABROGATO DAL D.P.R. 23 GENNAIO 1973, N. 43))
 
-((ARTICOLO ABROGATO DAL [D.P.R. 23 GENNAIO 1973, N. 43](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1973-01-23;43)))
+### Art. 17.
 
-### Art. 17
+((ARTICOLO ABROGATO DAL D.P.R. 23 GENNAIO 1973, N. 43))
 
-((ARTICOLO ABROGATO DAL [D.P.R. 23 GENNAIO 1973, N. 43](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1973-01-23;43)))
+## POTERI DEGLI ORGANI DOGANALI
 
-CAPO III CAPO III POTERI DEGLI ORGANI DOGANALI
-----------------------------------------------
+CAPO III
 
-### Art. 18
+### Art. 18.
 
-((ARTICOLO ABROGATO DAL [D.P.R. 23 GENNAIO 1973, N. 43](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1973-01-23;43)))
+((ARTICOLO ABROGATO DAL D.P.R. 23 GENNAIO 1973, N. 43))
 
-### Art. 19
+### Art. 19.
 
-((ARTICOLO ABROGATO DAL [D.P.R. 23 GENNAIO 1973, N. 43](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1973-01-23;43)))
+((ARTICOLO ABROGATO DAL D.P.R. 23 GENNAIO 1973, N. 43))
 
-CAPO IV CAPO IV LA RAPPRESENTANZA DEI PROPRIETARI DELLE MERCI Sezione 1ª SPEDIZIONIERI DOGANALI ED ALTRI RAPPRESENTANTI
------------------------------------------------------------------------------------------------------------------------
+## LA RAPPRESENTANZA DEI PROPRIETARI DELLE MERCI  Sezione 1ª SPEDIZIONIERI DOGANALI ED ALTRI RAPPRESENTANTI
 
-### Art. 20
+CAPO IV
 
-((ARTICOLO ABROGATO DAL [D.P.R. 23 GENNAIO 1973, N. 43](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1973-01-23;43)))
+### Art. 20.
 
-### Art. 21
+((ARTICOLO ABROGATO DAL D.P.R. 23 GENNAIO 1973, N. 43))
 
-((ARTICOLO ABROGATO DAL [D.P.R. 23 GENNAIO 1973, N. 43](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1973-01-23;43)))
+### Art. 21.
 
-### Art. 22
+((ARTICOLO ABROGATO DAL D.P.R. 23 GENNAIO 1973, N. 43))
 
-((ARTICOLO ABROGATO DAL [D.P.R. 23 GENNAIO 1973, N. 43](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1973-01-23;43)))
+### Art. 22.
 
-### Art. 23
+((ARTICOLO ABROGATO DAL D.P.R. 23 GENNAIO 1973, N. 43))
 
-((ARTICOLO ABROGATO DAL [D.P.R. 23 GENNAIO 1973, N. 43](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1973-01-23;43)))
+### Art. 23.
 
-### Art. 24
+((ARTICOLO ABROGATO DAL D.P.R. 23 GENNAIO 1973, N. 43))
 
-((ARTICOLO ABROGATO DAL [D.P.R. 23 GENNAIO 1973, N. 43](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1973-01-23;43)))
+### Art. 24.
 
-### Art. 25
+((ARTICOLO ABROGATO DAL D.P.R. 23 GENNAIO 1973, N. 43))
 
-((ARTICOLO ABROGATO DAL [D.P.R. 23 GENNAIO 1973, N. 43](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1973-01-23;43)))
+### Art. 25.
 
-### Art. 26
+((ARTICOLO ABROGATO DAL D.P.R. 23 GENNAIO 1973, N. 43))
 
-((ARTICOLO ABROGATO DAL [D.P.R. 23 GENNAIO 1973, N. 43](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1973-01-23;43)))
+### Art. 26.
 
-CAPO V Sezione 2ª PROCEDURA PER LA NOMINA DEGLI SPEDIZIONIERI DOGANALI
-----------------------------------------------------------------------
+((ARTICOLO ABROGATO DAL D.P.R. 23 GENNAIO 1973, N. 43))
 
-### Art. 27
+## PROCEDURA PER LA NOMINA DEGLI SPEDIZIONIERI DOGANALI
 
-((ARTICOLO ABROGATO DAL [D.P.R. 23 GENNAIO 1973, N. 43](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1973-01-23;43)))
+Sezione 2ª
 
-### Art. 28
+### Art. 27.
 
-((ARTICOLO ABROGATO DAL [D.P.R. 23 GENNAIO 1973, N. 43](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1973-01-23;43)))
+((ARTICOLO ABROGATO DAL D.P.R. 23 GENNAIO 1973, N. 43))
 
-### Art. 29
+### Art. 28.
 
-((ARTICOLO ABROGATO DAL [D.P.R. 23 GENNAIO 1973, N. 43](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1973-01-23;43)))
+((ARTICOLO ABROGATO DAL D.P.R. 23 GENNAIO 1973, N. 43))
 
-### Art. 30
+### Art. 29.
 
-((ARTICOLO ABROGATO DAL [D.P.R. 23 GENNAIO 1973, N. 43](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1973-01-23;43)))
+((ARTICOLO ABROGATO DAL D.P.R. 23 GENNAIO 1973, N. 43))
 
-### Art. 31
+### Art. 30.
 
-((ARTICOLO ABROGATO DAL [D.P.R. 23 GENNAIO 1973, N. 43](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1973-01-23;43)))
+((ARTICOLO ABROGATO DAL D.P.R. 23 GENNAIO 1973, N. 43))
 
-### Art. 32
+### Art. 31.
 
-((ARTICOLO ABROGATO DAL [D.P.R. 23 GENNAIO 1973, N. 43](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1973-01-23;43)))
+((ARTICOLO ABROGATO DAL D.P.R. 23 GENNAIO 1973, N. 43))
 
-### Art. 33
+### Art. 32.
 
-((ARTICOLO ABROGATO DAL [D.P.R. 23 GENNAIO 1973, N. 43](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1973-01-23;43)))
+((ARTICOLO ABROGATO DAL D.P.R. 23 GENNAIO 1973, N. 43))
 
-### Art. 34
+### Art. 33.
 
-((ARTICOLO ABROGATO DAL [D.P.R. 23 GENNAIO 1973, N. 43](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1973-01-23;43)))
+((ARTICOLO ABROGATO DAL D.P.R. 23 GENNAIO 1973, N. 43))
 
-CAPO VI TITOLO II Istituti e procedure doganali CAPO I ESPORTAZIONI ED IMPORTAZIONI TEMPORANEE Sezione 1ª ESPORTAZIONI TEMPORANEE
----------------------------------------------------------------------------------------------------------------------------------
+### Art. 34.
 
-### Art. 35
+((ARTICOLO ABROGATO DAL D.P.R. 23 GENNAIO 1973, N. 43))
 
-((ARTICOLO ABROGATO DAL [D.P.R. 23 GENNAIO 1973, N. 43](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1973-01-23;43)))
+## Istituti e procedure doganali  CAPO I ESPORTAZIONI ED IMPORTAZIONI TEMPORANEE  Sezione 1ª ESPORTAZIONI TEMPORANEE
 
-### Art. 36
+TITOLO II
 
-((ARTICOLO ABROGATO DAL [D.P.R. 23 GENNAIO 1973, N. 43](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1973-01-23;43)))
+### Art. 35.
 
-### Art. 37
+((ARTICOLO ABROGATO DAL D.P.R. 23 GENNAIO 1973, N. 43))
 
-((ARTICOLO ABROGATO DAL [D.P.R. 23 GENNAIO 1973, N. 43](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1973-01-23;43)))
+### Art. 36.
 
-### Art. 38
+((ARTICOLO ABROGATO DAL D.P.R. 23 GENNAIO 1973, N. 43))
 
-((ARTICOLO ABROGATO DAL [D.P.R. 23 GENNAIO 1973, N. 43](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1973-01-23;43)))
+### Art. 37.
 
-### Art. 39
+((ARTICOLO ABROGATO DAL D.P.R. 23 GENNAIO 1973, N. 43))
 
-((ARTICOLO ABROGATO DAL [D.P.R. 23 GENNAIO 1973, N. 43](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1973-01-23;43)))
+### Art. 38.
 
-### Art. 40
+((ARTICOLO ABROGATO DAL D.P.R. 23 GENNAIO 1973, N. 43))
 
-((ARTICOLO ABROGATO DAL [D.P.R. 23 GENNAIO 1973, N. 43](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1973-01-23;43)))
+### Art. 39.
 
-### Art. 41
+((ARTICOLO ABROGATO DAL D.P.R. 23 GENNAIO 1973, N. 43))
 
-((ARTICOLO ABROGATO DAL [D.P.R. 23 GENNAIO 1973, N. 43](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1973-01-23;43)))
+### Art. 40.
 
-### Art. 42
+((ARTICOLO ABROGATO DAL D.P.R. 23 GENNAIO 1973, N. 43))
 
-((ARTICOLO ABROGATO DAL [D.P.R. 23 GENNAIO 1973, N. 43](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1973-01-23;43)))
+### Art. 41.
 
-### Art. 43
+((ARTICOLO ABROGATO DAL D.P.R. 23 GENNAIO 1973, N. 43))
 
-((ARTICOLO ABROGATO DAL [D.P.R. 23 GENNAIO 1973, N. 43](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1973-01-23;43)))
+### Art. 42.
 
-### Art. 44
+((ARTICOLO ABROGATO DAL D.P.R. 23 GENNAIO 1973, N. 43))
 
-((ARTICOLO ABROGATO DAL [D.P.R. 23 GENNAIO 1973, N. 43](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1973-01-23;43)))
+### Art. 43.
 
-### Art. 45
+((ARTICOLO ABROGATO DAL D.P.R. 23 GENNAIO 1973, N. 43))
 
-((ARTICOLO ABROGATO DAL [D.P.R. 23 GENNAIO 1973, N. 43](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1973-01-23;43)))
+### Art. 44.
 
-CAPO VII Sezione 2ª ALTRE DISPOSIZIONI IN MATERIA DI TEMPORANEE IMPORTAZIONI ED ESPORTAZIONI
---------------------------------------------------------------------------------------------
+((ARTICOLO ABROGATO DAL D.P.R. 23 GENNAIO 1973, N. 43))
 
-### Art. 46
+### Art. 45.
 
-((ARTICOLO ABROGATO DAL [D.P.R. 23 GENNAIO 1973, N. 43](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1973-01-23;43)))
+((ARTICOLO ABROGATO DAL D.P.R. 23 GENNAIO 1973, N. 43))
 
-### Art. 47
+## ALTRE DISPOSIZIONI IN MATERIA DI TEMPORANEE IMPORTAZIONI ED ESPORTAZIONI
 
-((ARTICOLO ABROGATO DAL [D.P.R. 23 GENNAIO 1973, N. 43](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1973-01-23;43)))
+Sezione 2ª
 
-### Art. 48
+### Art. 46.
 
-((ARTICOLO ABROGATO DAL [D.P.R. 23 GENNAIO 1973, N. 43](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1973-01-23;43)))
+((ARTICOLO ABROGATO DAL D.P.R. 23 GENNAIO 1973, N. 43))
 
-### Art. 49
+### Art. 47.
 
-((ARTICOLO ABROGATO DAL [D.P.R. 23 GENNAIO 1973, N. 43](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1973-01-23;43)))
+((ARTICOLO ABROGATO DAL D.P.R. 23 GENNAIO 1973, N. 43))
 
-CAPO VIII CAPO II ACCELERAMENTO E SEMPLIFICAZIONE DELLE PROCEDURE Sezione 1ª PROCEDURA SEMPLIFICATA PER LE OPERAZIONI DOGANALI RELATIVE A MERCI PROVENIENTI DALL'ESTERO
------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+### Art. 48.
 
-### Art. 50
+((ARTICOLO ABROGATO DAL D.P.R. 23 GENNAIO 1973, N. 43))
 
-((ARTICOLO ABROGATO DAL [D.P.R. 23 GENNAIO 1973, N. 43](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1973-01-23;43)))
+### Art. 49.
 
-### Art. 51
+((ARTICOLO ABROGATO DAL D.P.R. 23 GENNAIO 1973, N. 43))
 
-((ARTICOLO ABROGATO DAL [D.P.R. 23 GENNAIO 1973, N. 43](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1973-01-23;43)))
+## ACCELERAMENTO E SEMPLIFICAZIONE DELLE PROCEDURE  Sezione 1ª PROCEDURA SEMPLIFICATA PER LE OPERAZIONI DOGANALI RELATIVE A MERCI PROVENIENTI DALL'ESTERO
 
-### Art. 52
+CAPO II
 
-((ARTICOLO ABROGATO DAL [D.P.R. 23 GENNAIO 1973, N. 43](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1973-01-23;43)))
+### Art. 50.
 
-CAPO IX Sezione 2ª PROCEDURA SEMPLIFICATA PER LE OPERAZIONI DOGANALI RELATIVE A MERCI SPEDITE ALL'ESTERO
---------------------------------------------------------------------------------------------------------
+((ARTICOLO ABROGATO DAL D.P.R. 23 GENNAIO 1973, N. 43))
 
-### Art. 53
+### Art. 51.
 
-((ARTICOLO ABROGATO DAL [D.P.R. 23 GENNAIO 1973, N. 43](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1973-01-23;43)))
+((ARTICOLO ABROGATO DAL D.P.R. 23 GENNAIO 1973, N. 43))
 
-### Art. 54
+### Art. 52.
 
-((ARTICOLO ABROGATO DAL [D.P.R. 23 GENNAIO 1973, N. 43](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1973-01-23;43)))
+((ARTICOLO ABROGATO DAL D.P.R. 23 GENNAIO 1973, N. 43))
 
-### Art. 55
+## PROCEDURA SEMPLIFICATA PER LE OPERAZIONI DOGANALI RELATIVE A MERCI SPEDITE ALL'ESTERO
 
-((ARTICOLO ABROGATO DAL [D.P.R. 23 GENNAIO 1973, N. 43](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1973-01-23;43)))
+Sezione 2ª
 
-CAPO X Sezione 3ª MISURE PER FAVORIRE LO SCORRIMENTO DEI TRAFFICI DA E PER L'ESTERO
------------------------------------------------------------------------------------
+### Art. 53.
 
-### Art. 56
+((ARTICOLO ABROGATO DAL D.P.R. 23 GENNAIO 1973, N. 43))
 
-((ARTICOLO ABROGATO DAL [D.P.R. 23 GENNAIO 1973, N. 43](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1973-01-23;43)))
+### Art. 54.
 
-### Art. 57
+((ARTICOLO ABROGATO DAL D.P.R. 23 GENNAIO 1973, N. 43))
 
-((ARTICOLO ABROGATO DAL [D.P.R. 23 GENNAIO 1973, N. 43](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1973-01-23;43)))
+### Art. 55.
 
-### Art. 58
+((ARTICOLO ABROGATO DAL D.P.R. 23 GENNAIO 1973, N. 43))
 
-((ARTICOLO ABROGATO DAL [D.P.R. 23 GENNAIO 1973, N. 43](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1973-01-23;43)))
+## MISURE PER FAVORIRE LO SCORRIMENTO DEI TRAFFICI DA E PER L'ESTERO
 
-### Art. 59
+Sezione 3ª
 
-((ARTICOLO ABROGATO DAL [D.P.R. 23 GENNAIO 1973, N. 43](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1973-01-23;43)))
+### Art. 56.
 
-### Art. 60
+((ARTICOLO ABROGATO DAL D.P.R. 23 GENNAIO 1973, N. 43))
 
-((ARTICOLO ABROGATO DAL [D.P.R. 23 GENNAIO 1973, N. 43](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1973-01-23;43)))
+### Art. 57.
 
-### Art. 61
+((ARTICOLO ABROGATO DAL D.P.R. 23 GENNAIO 1973, N. 43))
 
-((ARTICOLO ABROGATO DAL [D.P.R. 23 GENNAIO 1973, N. 43](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1973-01-23;43)))
+### Art. 58.
 
-### Art. 62
+((ARTICOLO ABROGATO DAL D.P.R. 23 GENNAIO 1973, N. 43))
 
-((ARTICOLO ABROGATO DAL [D.P.R. 23 GENNAIO 1973, N. 43](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1973-01-23;43)))
+### Art. 59.
 
-### Art. 63
+((ARTICOLO ABROGATO DAL D.P.R. 23 GENNAIO 1973, N. 43))
 
-((ARTICOLO ABROGATO DAL [D.P.R. 23 GENNAIO 1973, N. 43](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1973-01-23;43)))
+### Art. 60.
 
-### Art. 64
+((ARTICOLO ABROGATO DAL D.P.R. 23 GENNAIO 1973, N. 43))
 
-((ARTICOLO ABROGATO DAL [D.P.R. 23 GENNAIO 1973, N. 43](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1973-01-23;43)))
+### Art. 61.
 
-### Art. 65
+((ARTICOLO ABROGATO DAL D.P.R. 23 GENNAIO 1973, N. 43))
 
-((ARTICOLO ABROGATO DAL [D.P.R. 23 GENNAIO 1973, N. 43](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1973-01-23;43)))
+### Art. 62.
 
-### Art. 66
+((ARTICOLO ABROGATO DAL D.P.R. 23 GENNAIO 1973, N. 43))
 
-((ARTICOLO ABROGATO DAL [D.P.R. 23 GENNAIO 1973, N. 43](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1973-01-23;43)))
+### Art. 63.
 
-### Art. 67
+((ARTICOLO ABROGATO DAL D.P.R. 23 GENNAIO 1973, N. 43))
 
-((ARTICOLO ABROGATO DAL [D.P.R. 23 GENNAIO 1973, N. 43](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1973-01-23;43)))
+### Art. 64.
 
-### Art. 68
+((ARTICOLO ABROGATO DAL D.P.R. 23 GENNAIO 1973, N. 43))
 
-((ARTICOLO ABROGATO DAL [D.P.R. 23 GENNAIO 1973, N. 43](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1973-01-23;43)))
+### Art. 65.
 
-### Art. 69
+((ARTICOLO ABROGATO DAL D.P.R. 23 GENNAIO 1973, N. 43))
 
-((ARTICOLO ABROGATO DAL [D.P.R. 23 GENNAIO 1973, N. 43](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1973-01-23;43)))
+### Art. 66.
 
-CAPO XI Sezione 4ª ALTRE SEMPLIFICAZIONI
-----------------------------------------
+((ARTICOLO ABROGATO DAL D.P.R. 23 GENNAIO 1973, N. 43))
 
-### Art. 70
+### Art. 67.
 
-((ARTICOLO ABROGATO DAL [D.P.R. 23 GENNAIO 1973, N. 43](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1973-01-23;43)))
+((ARTICOLO ABROGATO DAL D.P.R. 23 GENNAIO 1973, N. 43))
 
-### Art. 71
+### Art. 68.
 
-((ARTICOLO ABROGATO DAL [D.P.R. 23 GENNAIO 1973, N. 43](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1973-01-23;43)))
+((ARTICOLO ABROGATO DAL D.P.R. 23 GENNAIO 1973, N. 43))
 
-CAPO XII CAPO III RISPEDIZIONE ALL'ESTERO O DISTRUZIONE DI MERCI IMPORTATE
---------------------------------------------------------------------------
+### Art. 69.
 
-### Art. 72
+((ARTICOLO ABROGATO DAL D.P.R. 23 GENNAIO 1973, N. 43))
 
-((ARTICOLO ABROGATO DAL [D.P.R. 23 GENNAIO 1973, N. 43](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1973-01-23;43)))
+## ALTRE SEMPLIFICAZIONI
 
-### Art. 73
+Sezione 4ª
 
-((ARTICOLO ABROGATO DAL [D.P.R. 23 GENNAIO 1973, N. 43](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1973-01-23;43)))
+### Art. 70.
 
-### Art. 74
+((ARTICOLO ABROGATO DAL D.P.R. 23 GENNAIO 1973, N. 43))
 
-((ARTICOLO ABROGATO DAL [D.P.R. 23 GENNAIO 1973, N. 43](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1973-01-23;43)))
+### Art. 71.
 
-### Art. 75
+((ARTICOLO ABROGATO DAL D.P.R. 23 GENNAIO 1973, N. 43))
 
-((ARTICOLO ABROGATO DAL [D.P.R. 23 GENNAIO 1973, N. 43](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1973-01-23;43)))
+## RISPEDIZIONE ALL'ESTERO O DISTRUZIONE DI MERCI IMPORTATE
 
-### Art. 76
+CAPO III
 
-((ARTICOLO ABROGATO DAL [D.P.R. 23 GENNAIO 1973, N. 43](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1973-01-23;43)))
+### Art. 72.
 
-CAPO XIII CAPO IV TRATTAMENTO DELLE MERCI ABBANDONATE
------------------------------------------------------
+((ARTICOLO ABROGATO DAL D.P.R. 23 GENNAIO 1973, N. 43))
 
-### Art. 77
+### Art. 73.
 
-((ARTICOLO ABROGATO DAL [D.P.R. 23 GENNAIO 1973, N. 43](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1973-01-23;43)))
+((ARTICOLO ABROGATO DAL D.P.R. 23 GENNAIO 1973, N. 43))
 
-### Art. 78
+### Art. 74.
 
-((ARTICOLO ABROGATO DAL [D.P.R. 23 GENNAIO 1973, N. 43](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1973-01-23;43)))
+((ARTICOLO ABROGATO DAL D.P.R. 23 GENNAIO 1973, N. 43))
 
-### Art. 79
+### Art. 75.
 
-((ARTICOLO ABROGATO DAL [D.P.R. 23 GENNAIO 1973, N. 43](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1973-01-23;43)))
+((ARTICOLO ABROGATO DAL D.P.R. 23 GENNAIO 1973, N. 43))
 
-### Art. 80
+### Art. 76.
 
-((ARTICOLO ABROGATO DAL [D.P.R. 23 GENNAIO 1973, N. 43](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1973-01-23;43)))
+((ARTICOLO ABROGATO DAL D.P.R. 23 GENNAIO 1973, N. 43))
 
-### Art. 81
+## TRATTAMENTO DELLE MERCI ABBANDONATE
 
-((ARTICOLO ABROGATO DAL [D.P.R. 23 GENNAIO 1973, N. 43](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1973-01-23;43)))
+CAPO IV
 
-### Art. 82
+### Art. 77.
 
-((ARTICOLO ABROGATO DAL [D.P.R. 23 GENNAIO 1973, N. 43](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1973-01-23;43)))
+((ARTICOLO ABROGATO DAL D.P.R. 23 GENNAIO 1973, N. 43))
 
-### Art. 83
+### Art. 78.
 
-((ARTICOLO ABROGATO DAL [D.P.R. 23 GENNAIO 1973, N. 43](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1973-01-23;43)))
+((ARTICOLO ABROGATO DAL D.P.R. 23 GENNAIO 1973, N. 43))
 
-CAPO XIV TITOLO III Trattamenti doganali e fiscali particolari CAPO I DISCIPLINA DI DETERMINATI PRODOTTI DI ORIGINE ITALIANA
-----------------------------------------------------------------------------------------------------------------------------
+### Art. 79.
 
-### Art. 84
+((ARTICOLO ABROGATO DAL D.P.R. 23 GENNAIO 1973, N. 43))
 
-((ARTICOLO ABROGATO DAL [D.P.R. 23 GENNAIO 1973, N. 43](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1973-01-23;43)))
+### Art. 80.
 
-CAPO XV CAPO II PROVVISTE E DOTAZIONI DI BORDO DELLE NAVI, DEGLI AEROMOBILI, DEI TRENI INTERNAZIONALI E DEI VEICOLI STRADALI A MOTORE Sezione 1ª PROVVISTE DI BORDO DELLE NAVI E DEGLI AEROMOBILI
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+((ARTICOLO ABROGATO DAL D.P.R. 23 GENNAIO 1973, N. 43))
 
-### Art. 85
+### Art. 81.
 
-((ARTICOLO ABROGATO DAL [D.P.R. 23 GENNAIO 1973, N. 43](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1973-01-23;43)))
+((ARTICOLO ABROGATO DAL D.P.R. 23 GENNAIO 1973, N. 43))
 
-### Art. 86
+### Art. 82.
 
-((ARTICOLO ABROGATO DAL [D.P.R. 23 GENNAIO 1973, N. 43](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1973-01-23;43)))
+((ARTICOLO ABROGATO DAL D.P.R. 23 GENNAIO 1973, N. 43))
 
-### Art. 87
+### Art. 83.
 
-((ARTICOLO ABROGATO DAL [D.P.R. 23 GENNAIO 1973, N. 43](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1973-01-23;43)))
+((ARTICOLO ABROGATO DAL D.P.R. 23 GENNAIO 1973, N. 43))
 
-### Art. 88
+## Trattamenti doganali e fiscali particolari  CAPO I DISCIPLINA DI DETERMINATI PRODOTTI DI ORIGINE ITALIANA
 
-((ARTICOLO ABROGATO DAL [D.P.R. 23 GENNAIO 1973, N. 43](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1973-01-23;43)))
+TITOLO III
 
-### Art. 89
+### Art. 84.
 
-((ARTICOLO ABROGATO DAL [D.P.R. 23 GENNAIO 1973, N. 43](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1973-01-23;43)))
+((ARTICOLO ABROGATO DAL D.P.R. 23 GENNAIO 1973, N. 43))
 
-### Art. 90
+## PROVVISTE E DOTAZIONI DI BORDO DELLE NAVI, DEGLI AEROMOBILI, DEI TRENI INTERNAZIONALI E DEI VEICOLI STRADALI A MOTORE  Sezione 1ª PROVVISTE DI BORDO DELLE NAVI E DEGLI AEROMOBILI
 
-((ARTICOLO ABROGATO DAL [D.P.R. 23 GENNAIO 1973, N. 43](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1973-01-23;43)))
+CAPO II
 
-### Art. 91
+### Art. 85.
 
-((ARTICOLO ABROGATO DAL [D.P.R. 23 GENNAIO 1973, N. 43](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1973-01-23;43)))
+((ARTICOLO ABROGATO DAL D.P.R. 23 GENNAIO 1973, N. 43))
 
-### Art. 92
+### Art. 86.
 
-((ARTICOLO ABROGATO DAL [D.P.R. 23 GENNAIO 1973, N. 43](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1973-01-23;43)))
+((ARTICOLO ABROGATO DAL D.P.R. 23 GENNAIO 1973, N. 43))
 
-### Art. 93
+### Art. 87.
 
-((ARTICOLO ABROGATO DAL [D.P.R. 23 GENNAIO 1973, N. 43](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1973-01-23;43)))
+((ARTICOLO ABROGATO DAL D.P.R. 23 GENNAIO 1973, N. 43))
 
-### Art. 94
+### Art. 88.
 
-((ARTICOLO ABROGATO DAL [D.P.R. 23 GENNAIO 1973, N. 43](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1973-01-23;43)))
+((ARTICOLO ABROGATO DAL D.P.R. 23 GENNAIO 1973, N. 43))
 
-### Art. 95
+### Art. 89.
 
-((ARTICOLO ABROGATO DAL [D.P.R. 23 GENNAIO 1973, N. 43](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1973-01-23;43)))
+((ARTICOLO ABROGATO DAL D.P.R. 23 GENNAIO 1973, N. 43))
 
-### Art. 96
+### Art. 90.
 
-((ARTICOLO ABROGATO DAL [D.P.R. 23 GENNAIO 1973, N. 43](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1973-01-23;43)))
+((ARTICOLO ABROGATO DAL D.P.R. 23 GENNAIO 1973, N. 43))
 
-### Art. 97
+### Art. 91.
 
-((ARTICOLO ABROGATO DAL [D.P.R. 23 GENNAIO 1973, N. 43](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1973-01-23;43)))
+((ARTICOLO ABROGATO DAL D.P.R. 23 GENNAIO 1973, N. 43))
 
-CAPO XVI Sezione 2ª PROVVISTE DI BORDO DEI TRENI INTERNAZIONALI E DEI VEICOLI STRADALI A MOTORE
------------------------------------------------------------------------------------------------
+### Art. 92.
 
-### Art. 98
+((ARTICOLO ABROGATO DAL D.P.R. 23 GENNAIO 1973, N. 43))
 
-((ARTICOLO ABROGATO DAL [D.P.R. 23 GENNAIO 1973, N. 43](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1973-01-23;43)))
+### Art. 93.
 
-### Art. 99
+((ARTICOLO ABROGATO DAL D.P.R. 23 GENNAIO 1973, N. 43))
 
-((ARTICOLO ABROGATO DAL [D.P.R. 23 GENNAIO 1973, N. 43](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1973-01-23;43)))
+### Art. 94.
 
-CAPO XVII Sezione 3ª DOTAZIONE DI BORDO DELLE NAVI, DEGLI AEROMOBILI, DEI TRENI INTERNAZIONALI E DEI VEICOLI STRADALI A MOTORE
-------------------------------------------------------------------------------------------------------------------------------
+((ARTICOLO ABROGATO DAL D.P.R. 23 GENNAIO 1973, N. 43))
 
-### Art. 100
+### Art. 95.
 
-((ARTICOLO ABROGATO DAL [D.P.R. 23 GENNAIO 1973, N. 43](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1973-01-23;43)))
+((ARTICOLO ABROGATO DAL D.P.R. 23 GENNAIO 1973, N. 43))
 
-### Art. 101
+### Art. 96.
 
-((ARTICOLO ABROGATO DAL [D.P.R. 23 GENNAIO 1973, N. 43](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1973-01-23;43)))
+((ARTICOLO ABROGATO DAL D.P.R. 23 GENNAIO 1973, N. 43))
 
-### Art. 102
+### Art. 97.
 
-((ARTICOLO ABROGATO DAL [D.P.R. 23 GENNAIO 1973, N. 43](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1973-01-23;43)))
+((ARTICOLO ABROGATO DAL D.P.R. 23 GENNAIO 1973, N. 43))
 
-### Art. 103
+## PROVVISTE DI BORDO DEI TRENI INTERNAZIONALI E DEI VEICOLI STRADALI A MOTORE
 
-((ARTICOLO ABROGATO DAL [D.P.R. 23 GENNAIO 1973, N. 43](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1973-01-23;43)))
+Sezione 2ª
 
-### Art. 104
+### Art. 98.
 
-((ARTICOLO ABROGATO DAL [D.P.R. 23 GENNAIO 1973, N. 43](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1973-01-23;43)))
+((ARTICOLO ABROGATO DAL D.P.R. 23 GENNAIO 1973, N. 43))
 
-### Art. 105
+### Art. 99.
 
-((ARTICOLO ABROGATO DAL [D.P.R. 23 GENNAIO 1973, N. 43](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1973-01-23;43)))
+((ARTICOLO ABROGATO DAL D.P.R. 23 GENNAIO 1973, N. 43))
 
-### Art. 106
+## DOTAZIONE DI BORDO DELLE NAVI, DEGLI AEROMOBILI, DEI TRENI INTERNAZIONALI E DEI VEICOLI STRADALI A MOTORE
 
-((ARTICOLO ABROGATO DAL [D.P.R. 23 GENNAIO 1973, N. 43](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1973-01-23;43)))
+Sezione 3ª
 
-CAPO XVIII TITOLO IV Contenzioso CAPO I CONTROVERSIE DOGANALI
--------------------------------------------------------------
+### Art. 100.
 
-### Art. 107
+((ARTICOLO ABROGATO DAL D.P.R. 23 GENNAIO 1973, N. 43))
 
-((ARTICOLO ABROGATO DAL [D.P.R. 23 GENNAIO 1973, N. 43](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1973-01-23;43)))
+### Art. 101.
 
-### Art. 108
+((ARTICOLO ABROGATO DAL D.P.R. 23 GENNAIO 1973, N. 43))
 
-((ARTICOLO ABROGATO DAL [D.P.R. 23 GENNAIO 1973, N. 43](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1973-01-23;43)))
+### Art. 102.
 
-### Art. 109
+((ARTICOLO ABROGATO DAL D.P.R. 23 GENNAIO 1973, N. 43))
 
-((ARTICOLO ABROGATO DAL [D.P.R. 23 GENNAIO 1973, N. 43](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1973-01-23;43)))
+### Art. 103.
 
-### Art. 110
+((ARTICOLO ABROGATO DAL D.P.R. 23 GENNAIO 1973, N. 43))
 
-((ARTICOLO ABROGATO DAL [D.P.R. 23 GENNAIO 1973, N. 43](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1973-01-23;43)))
+### Art. 104.
 
-### Art. 111
+((ARTICOLO ABROGATO DAL D.P.R. 23 GENNAIO 1973, N. 43))
 
-((ARTICOLO ABROGATO DAL [D.P.R. 23 GENNAIO 1973, N. 43](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1973-01-23;43)))
+### Art. 105.
 
-### Art. 112
+((ARTICOLO ABROGATO DAL D.P.R. 23 GENNAIO 1973, N. 43))
 
-((ARTICOLO ABROGATO DAL [D.P.R. 23 GENNAIO 1973, N. 43](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1973-01-23;43)))
+### Art. 106.
 
-### Art. 113
+((ARTICOLO ABROGATO DAL D.P.R. 23 GENNAIO 1973, N. 43))
 
-((ARTICOLO ABROGATO DAL [D.P.R. 23 GENNAIO 1973, N. 43](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1973-01-23;43)))
+## Contenzioso  CAPO I CONTROVERSIE DOGANALI
 
-### Art. 114
+TITOLO IV
 
-((ARTICOLO ABROGATO DAL [D.P.R. 23 GENNAIO 1973, N. 43](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1973-01-23;43)))
+### Art. 107.
 
-### Art. 115
+((ARTICOLO ABROGATO DAL D.P.R. 23 GENNAIO 1973, N. 43))
 
-((ARTICOLO ABROGATO DAL [D.P.R. 23 GENNAIO 1973, N. 43](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1973-01-23;43)))
+### Art. 108.
 
-### Art. 116
+((ARTICOLO ABROGATO DAL D.P.R. 23 GENNAIO 1973, N. 43))
 
-((ARTICOLO ABROGATO DAL [D.P.R. 23 GENNAIO 1973, N. 43](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1973-01-23;43)))
+### Art. 109.
 
-### Art. 117
+((ARTICOLO ABROGATO DAL D.P.R. 23 GENNAIO 1973, N. 43))
 
-((ARTICOLO ABROGATO DAL [D.P.R. 23 GENNAIO 1973, N. 43](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1973-01-23;43)))
+### Art. 110.
 
-### Art. 118
+((ARTICOLO ABROGATO DAL D.P.R. 23 GENNAIO 1973, N. 43))
 
-((ARTICOLO ABROGATO DAL [D.P.R. 23 GENNAIO 1973, N. 43](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1973-01-23;43)))
+### Art. 111.
 
-### Art. 119
+((ARTICOLO ABROGATO DAL D.P.R. 23 GENNAIO 1973, N. 43))
 
-((ARTICOLO ABROGATO DAL [D.P.R. 23 GENNAIO 1973, N. 43](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1973-01-23;43)))
+### Art. 112.
 
-CAPO XIX CAPO II RAPPORTI CON AUTORITA' ESTERE IN MATERIA DI CONTENZIOSO DOGANALE
----------------------------------------------------------------------------------
+((ARTICOLO ABROGATO DAL D.P.R. 23 GENNAIO 1973, N. 43))
 
-### Art. 120
+### Art. 113.
 
-((ARTICOLO ABROGATO DAL [D.P.R. 23 GENNAIO 1973, N. 43](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1973-01-23;43)))
+((ARTICOLO ABROGATO DAL D.P.R. 23 GENNAIO 1973, N. 43))
 
-### Art. 121
+### Art. 114.
 
-((ARTICOLO ABROGATO DAL [D.P.R. 23 GENNAIO 1973, N. 43](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1973-01-23;43)))
+((ARTICOLO ABROGATO DAL D.P.R. 23 GENNAIO 1973, N. 43))
 
-CAPO XX TITOLO V Disposizioni finali e transitorie CAPO I DISPOSIZIONI FINALI
------------------------------------------------------------------------------
+### Art. 115.
 
-### Art. 122
+((ARTICOLO ABROGATO DAL D.P.R. 23 GENNAIO 1973, N. 43))
 
-((ARTICOLO ABROGATO DAL [D.P.R. 23 GENNAIO 1973, N. 43](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1973-01-23;43)))
+### Art. 116.
 
-### Art. 123
+((ARTICOLO ABROGATO DAL D.P.R. 23 GENNAIO 1973, N. 43))
 
-(Abrogazione di norme)
+### Art. 117.
 
-  
-  
-A decorrere dalla data indicata nel precedente articolo sono abrogate le seguenti norme:  
-a) gli articoli 1, 2, 9, 10, 11, 12, 13, 17, 26, 56 e 62, comma terzo, della legge doganale 25 settembre 1940, n. 1424;  
-b) gli articoli 14 - punti 15), 16) e 17) - 28 e 29 delle disposizioni preliminari alla tariffa dei dazi doganali di importazione, approvata con [decreto del Presidente della Repubblica 26 giugno 1965, n. 723](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1965-06-26;723), e successive modificazioni;  
-c) gli articoli 2, 3, 6, 9, 14 - primo comma, 17 e 19 del [decreto-legge 18 dicembre 1913, n. 1453](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1913-12-18;1453), convertito nella [legge 17 aprile 1925, n. 473](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1925-04-17;473);  
-d) la [legge 4 giugno 1962, n. 659](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1962-06-04;659);  
-e) il [decreto del Presidente della Repubblica 15 dicembre 1965, n. 1430](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1965-12-15;1430);  
-f) il testo unico delle leggi per la risoluzione delle controversie doganali approvato con [regio decreto 9 aprile 1911, n. 330](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1911-04-09;330), e successive modificazioni;  
-g) gli articoli 4, 5, 6, 19, 20, 35, 36, 37, 38, 39, 75, 76, 77, 78, 79, 80, 81, 82, 83 e 231 del regolamento per l'esecuzione del testo unico delle leggi doganali approvato con [regio decreto 13 febbraio 1896, n. 65](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1896-02-13;65), e successive modificazioni.  
-Oltre a quanto espressamente previsto nel precedente comma, sono abrogate, con la medesima decorrenza, le altre norme legislative e regolamentari incompatibili con quelle del presente decreto.  
+((ARTICOLO ABROGATO DAL D.P.R. 23 GENNAIO 1973, N. 43))
 
-### Art. 124
+### Art. 118.
 
-(Norme sostituite)
+((ARTICOLO ABROGATO DAL D.P.R. 23 GENNAIO 1973, N. 43))
 
-  
-  
-Agli effetti dell'applicazione delle norme che vi fanno riferimento, le disposizioni del testo unico indicato alla lettera f) del precedente articolo si intendono sostituite da quelle del titolo IV, capo I del presente decreto.  
-Agli effetti dell'applicazione dell'art. 101 della legge doganale 25 settembre 1940, n. 1424, l'ultimo comma dell'art. 1 della legge stessa si intende sostituito dall'ultimo comma dell'art. 2 del presente decreto.  
+### Art. 119.
 
-CAPO XXI CAPO II DISPOSIZIONI TRANSITORIE
------------------------------------------
+((ARTICOLO ABROGATO DAL D.P.R. 23 GENNAIO 1973, N. 43))
 
-### Art. 125
+## RAPPORTI CON AUTORITA' ESTERE IN MATERIA DI CONTENZIOSO DOGANALE
 
-((ARTICOLO ABROGATO DAL [D.LGS. 26 SETTEMBRE 2024, N. 141](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2024-09-26;141)))
+CAPO II
 
-### Art. 126
+### Art. 120.
 
-((ARTICOLO ABROGATO DAL [D.LGS. 26 SETTEMBRE 2024, N. 141](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2024-09-26;141)))
+((ARTICOLO ABROGATO DAL D.P.R. 23 GENNAIO 1973, N. 43))
 
-### Art. 127
+### Art. 121.
 
-((ARTICOLO ABROGATO DAL [D.LGS. 26 SETTEMBRE 2024, N. 141](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2024-09-26;141)))
+((ARTICOLO ABROGATO DAL D.P.R. 23 GENNAIO 1973, N. 43))
 
-### Art. 128
+## Disposizioni finali e transitorie  CAPO I DISPOSIZIONI FINALI
 
-((ARTICOLO ABROGATO DAL [D.LGS. 26 SETTEMBRE 2024, N. 141](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2024-09-26;141)))
+TITOLO V
+
+### Art. 122.
+
+((ARTICOLO ABROGATO DAL D.P.R. 23 GENNAIO 1973, N. 43))
+
+### Art. 123. — (Abrogazione di norme)
+
+A decorrere dalla data indicata nel precedente articolo sono abrogate le seguenti norme:
+ a) gli articoli 1, 2, 9, 10, 11, 12, 13, 17, 26, 56 e 62, comma terzo, della legge doganale 25 settembre 1940, n. 1424;
+ b) gli articoli 14 - punti 15), 16) e 17) - 28 e 29 delle disposizioni preliminari alla tariffa dei dazi doganali di importazione, approvata con [decreto del Presidente della Repubblica 26 giugno 1965, n. 723](Approvazione%20della%20nuova%20tariffa%20dei%20dazi%20doganali%20dimportazione.md), e successive modificazioni;
+ c) gli articoli 2, 3, 6, 9, 14 - primo comma, 17 e 19 del [decreto-legge 18 dicembre 1913, n. 1453](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1913-12-18;1453), convertito nella [legge 17 aprile 1925, n. 473](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20Luogotenenziali%20e%20Regi%20aventi%20per%20oggetto%20argomenti%20diversi.%20025U0473.md);
+ d) la [legge 4 giugno 1962, n. 659](../Atti%20normativi%20abrogati%20%28in%20originale%29/Imposizione%20di%20un%20interesse%20suppletivo%20di%20mora%20sulle%20merci%20immesse%20in%20consumo%20a%20scarico%20di%20bollette%20di%20temporanea%20importazione.md);
+ e) il [decreto del Presidente della Repubblica 15 dicembre 1965, n. 1430](Trattamento%20tariffario%20applicabile%20alle%20merci%20reimportate%20a%20seguito%20di%20temporanea%20esportazione%20per%20lavorazione%20o%20riparazione.md);
+ f) il testo unico delle leggi per la risoluzione delle controversie doganali approvato con [regio decreto 9 aprile 1911, n. 330](../Atti%20normativi%20abrogati%20%28in%20originale%29/Che%20approva%20il%20testo%20unico%20delle%20leggi%20per%20la%20risoluzione%20delle%20controversie%20doganali.%20011U0330.md), e successive modificazioni;
+ g) gli articoli 4, 5, 6, 19, 20, 35, 36, 37, 38, 39, 75, 76, 77, 78, 79, 80, 81, 82, 83 e 231 del regolamento per l'esecuzione del testo unico delle leggi doganali approvato con [regio decreto 13 febbraio 1896, n. 65](../Atti%20normativi%20abrogati%20%28in%20originale%29/Che%20approva%20il%20Regolamento%20per%20lesecuzione%20del%20testo%20unico%20delle%20leggi%20doganali.%20096U0065.md), e successive modificazioni.
+ Oltre a quanto espressamente previsto nel precedente comma, sono abrogate, con la medesima decorrenza, le altre norme legislative e regolamentari incompatibili con quelle del presente decreto.
+
+### Art. 124. — (Norme sostituite)
+
+Agli effetti dell'applicazione delle norme che vi fanno riferimento, le disposizioni del testo unico indicato alla lettera f) del precedente articolo si intendono sostituite da quelle del titolo IV, capo I del presente decreto.
+ Agli effetti dell'applicazione dell'art. 101 della legge doganale 25 settembre 1940, n. 1424, l'ultimo comma dell'art. 1 della legge stessa si intende sostituito dall'ultimo comma dell'art. 2 del presente decreto.
+
+## DISPOSIZIONI TRANSITORIE
+
+CAPO II
+
+### Art. 125.
+
+((ARTICOLO ABROGATO DAL D.LGS. 26 SETTEMBRE 2024, N. 141))
+
+### Art. 126.
+
+((ARTICOLO ABROGATO DAL D.LGS. 26 SETTEMBRE 2024, N. 141))
+
+### Art. 127.
+
+((ARTICOLO ABROGATO DAL D.LGS. 26 SETTEMBRE 2024, N. 141))
+
+### Art. 128.
+
+((ARTICOLO ABROGATO DAL D.LGS. 26 SETTEMBRE 2024, N. 141))

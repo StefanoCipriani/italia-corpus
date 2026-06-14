@@ -1,25 +1,21 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 05 dicembre 1984 n. 1079
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 997
+data: 1982-11-27
+titolo: "Autorizzazione alla fondazione \"Pro juventute don Carlo Gnocchi\", in Roma, ad accettare una eredita'."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1982-11-27;997
+codice_redazionale: 082U0997
+vigente: true
+---
 
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 05 dicembre 1984 n. 1079
-================================================================
-
-Autorizzazione alla fondazione "Pro juventute don Carlo Gnocchi", in Roma, ad accettare una eredita'.
------------------------------------------------------------------------------------------------------
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-1079. Decreto del Presidente della Repubblica 5 dicembre 1984, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la   
-fondazione "Pro juventute don Carlo Gnocchi", in Roma, viene   
-autorizzata ad accettare, col beneficio d'inventario, l'eredita', consistente nella nuda proprieta' di un immobile sito in Novara,   
-via S. Costa n. 10 ed in beni mobili (saldo conti correnti, valori in titoli) il tutto per un valore di L. 124.033.200 al netto delle passivita' e degli usufrutti, disposta dalla sig.ra Sartori Jolanda   
-con testamento olografo 20 dicembre 1956 e relativa modifica del 21   
-luglio 1965, pubblicato in data 25 agosto 1982, n. 288160/31352 di repertorio, a rogito dott. Mario Barberi, notaio in Novara,   
-registrato a Novara in data 2 settembre 1982 al n. 5483.   
-  
-Visto, il Guardasigilli: MARTINAZZOLI   
-Registrato alla Corte dei conti, addi' 14 febbraio 1985   
-Registro n. 2 Presidenza, foglio n. 34
+997.
+
+Decreto del Presidente della Repubblica 27 novembre 1982, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la fondazione "Pro juventute don Carlo Gnocchi", in Roma, viene autorizzata ad accettare, col beneficio d'inventario, l'eredita', consistente in beni immobili e mobili per un valore complessivo di L. 36.358.000 al netto delle passivita', disposta dalla sig.na Becchetti Iole Luisa con testamento olografo 30 novembre 1962, pubblicato a rogito dott. Ulderico Brambilla, notaio in Milano, in data 23 luglio 1979, n. 2374/446 di repertorio, e registrato a Milano il 3 agosto 1979 al n. 22228.
+
+Visto, il Guardasigilli: DARIDA
+ Registrato alla Corte dei conti, addi' 12 gennaio 1983
+ Registro n. 1 Presidenza, foglio n. 53

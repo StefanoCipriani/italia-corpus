@@ -1,18 +1,20 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 13 marzo 1950 n. 636
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 636
+data: 1950-03-13
+titolo: "Erezione in ente morale della \"Casa di riposo Achille Morrone\", con sede nel comune di Larino (Campobasso)."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1950-03-13;636
+codice_redazionale: 050U0636
+vigente: true
+---
 
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 13 marzo 1950 n. 636
-============================================================
-
-Erezione in ente morale della "Casa di riposo Achille Morrone", con sede nel comune di Larino (Campobasso).
------------------------------------------------------------------------------------------------------------
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-636. Decreto del Presidente della Repubblica 13 marzo 1950, col quale, sulla proposta del Ministro per l'interno la "Casa di riposo Achille Morrone", con sede nel comune di Larino (Campobasso), viene eretta in ente morale e ne viene approvato lo statuto organico.  
-  
-Visto, il Guardasigilli: PICCIONI  
-Registrato alla Corte dei conti, addi' 10 agosto 1950
+636.
+
+Decreto del Presidente della Repubblica 13 marzo 1950, col quale, sulla proposta del Ministro per l'interno la "Casa di riposo Achille Morrone", con sede nel comune di Larino (Campobasso), viene eretta in ente morale e ne viene approvato lo statuto organico.
+
+Visto, il Guardasigilli: PICCIONI
+ Registrato alla Corte dei conti, addi' 10 agosto 1950

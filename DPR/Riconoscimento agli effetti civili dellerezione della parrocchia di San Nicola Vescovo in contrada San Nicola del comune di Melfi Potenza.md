@@ -1,19 +1,21 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 04 dicembre 1957 n. 1332
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 1332
+data: 1957-12-04
+titolo: "Riconoscimento, agli effetti civili, dell'erezione della parrocchia di San Nicola Vescovo, in contrada San Nicola del comune di Melfi (Potenza)."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1957-12-04;1332
+codice_redazionale: 057U1332
+vigente: true
+---
 
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 04 dicembre 1957 n. 1332
-================================================================
-
-Riconoscimento, agli effetti civili, dell'erezione della parrocchia di San Nicola Vescovo, in contrada San Nicola del comune di Melfi (Potenza).
-------------------------------------------------------------------------------------------------------------------------------------------------
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-1332. Decreto del Presidente della Repubblica 4 dicembre 1957, col quale, sulla proposta del Ministro per l'interno, viene riconosciuto, agli effetti civili, il decreto dell'Ordinario diocesano di Melfi, Rapolla e Venosa in data 1 luglio 1957, integrato con postilla del 4 settembre stesso anno, relativo alla erezione della parrocchia di San Nicola Vescovo, in contrada San Nicola del comune di Melfi (Potenza).  
-  
-Visto, il Guardasigilli: GONELLA  
-Registrato alla Corte dei conti, addi' 16 gennaio 1958  
-Atti del Governo, registro n. 110, foglio n. 21. - RELLEVA
+1332.
+
+Decreto del Presidente della Repubblica 4 dicembre 1957, col quale, sulla proposta del Ministro per l'interno, viene riconosciuto, agli effetti civili, il decreto dell'Ordinario diocesano di Melfi, Rapolla e Venosa in data 1 luglio 1957, integrato con postilla del 4 settembre stesso anno, relativo alla erezione della parrocchia di San Nicola Vescovo, in contrada San Nicola del comune di Melfi (Potenza).
+
+Visto, il Guardasigilli: GONELLA
+ Registrato alla Corte dei conti, addi' 16 gennaio 1958
+ Atti del Governo, registro n. 110, foglio n. 21. - RELLEVA

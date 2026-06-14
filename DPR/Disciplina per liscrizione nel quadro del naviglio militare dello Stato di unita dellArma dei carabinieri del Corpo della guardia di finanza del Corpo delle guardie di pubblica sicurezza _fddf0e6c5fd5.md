@@ -1,18 +1,17 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 dicembre 1973 n. 1199
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 1199
+data: 1973-12-31
+titolo: "Disciplina per l'iscrizione nel quadro del naviglio militare dello Stato di unita' dell'Arma dei carabinieri, del Corpo della guardia di finanza, del Corpo delle guardie di pubblica sicurezza e del Corpo delle capitanerie di porto."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1973-12-31;1199
+codice_redazionale: 073U1199
+vigente: true
+---
 
+## Art. 1.
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 dicembre 1973 n. 1199
-================================================================
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 15 MARZO 2010, N. 66))
 
-Disciplina per l'iscrizione nel quadro del naviglio militare dello Stato di unita' dell'Arma dei carabinieri, del Corpo della guardia di finanza, del Corpo delle guardie di pubblica sicurezza e del Corpo delle capitanerie di porto.
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+## Art. 2.
 
-Art. 1
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 15 MARZO 2010, N. 66](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-03-15;66)))
-
-Art. 2
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 15 MARZO 2010, N. 66](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-03-15;66)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 15 MARZO 2010, N. 66))

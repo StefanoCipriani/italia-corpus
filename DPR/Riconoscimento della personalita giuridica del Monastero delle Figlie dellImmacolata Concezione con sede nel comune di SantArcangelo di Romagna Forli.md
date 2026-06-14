@@ -1,18 +1,20 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 giugno 1951 n. 665
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 665
+data: 1951-06-30
+titolo: "Riconoscimento della personalita' giuridica del Monastero delle Figlie dell'Immacolata Concezione, con sede nel comune di Sant'Arcangelo di Romagna (Forli)."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1951-06-30;665
+codice_redazionale: 051U0665
+vigente: true
+---
 
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 giugno 1951 n. 665
-=============================================================
-
-Riconoscimento della personalita' giuridica del Monastero delle Figlie dell'Immacolata Concezione, con sede nel comune di Sant'Arcangelo di Romagna (Forli).
-------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-665. Decreto del Presidente della Repubblica 30 giugno 1951, col quale, sulla proposta del Ministro per l'interno, viene riconosciuta la personalita' giuridica del Monastero delle Figlie dell'Immacolata Concezione, con sede nel comune di Sant'Arcangelo di Romagna (Forli).  
-  
-Visto, il Guardasigilli: PICCIONI  
-Registrato alla Corte dei conti, addi' 10 agosto 1951
+665.
+
+Decreto del Presidente della Repubblica 30 giugno 1951, col quale, sulla proposta del Ministro per l'interno, viene riconosciuta la personalita' giuridica del Monastero delle Figlie dell'Immacolata Concezione, con sede nel comune di Sant'Arcangelo di Romagna (Forli).
+
+Visto, il Guardasigilli: PICCIONI
+ Registrato alla Corte dei conti, addi' 10 agosto 1951

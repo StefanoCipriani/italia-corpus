@@ -1,19 +1,21 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 marzo 1981 n. 370
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 370
+data: 1981-03-02
+titolo: "Approvazione del nuovo statuto dell'associazione provinciale allevatori di Alessandria."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1981-03-02;370
+codice_redazionale: 081U0370
+vigente: true
+---
 
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 marzo 1981 n. 370
-============================================================
-
-Approvazione del nuovo statuto dell'associazione provinciale allevatori di Alessandria.
----------------------------------------------------------------------------------------
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-370. Decreto del Presidente della Repubblica 2 marzo 1981, col quale, sulla proposta del Ministro dell'agricoltura e delle foreste, viene approvato il nuovo statuto dell'associazione provinciale allevatori di Alessandria, eretta in ente morale con [decreto del Presidente della Repubblica 19 giugno 1958, n. 786](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1958-06-19;786).  
-  
-Visto, il Guardasigilli: SARTI  
-Registrato alla Corte dei conti, addi' 4 luglio 1981  
-Registro n. 8 Agricoltura, foglio n. 350
+370.
+
+Decreto del Presidente della Repubblica 2 marzo 1981, col quale, sulla proposta del Ministro dell'agricoltura e delle foreste, viene approvato il nuovo statuto dell'associazione provinciale allevatori di Alessandria, eretta in ente morale con [decreto del Presidente della Repubblica 19 giugno 1958, n. 786](Riconoscimento%20della%20personalita%20giuridica%20dellAssociazione%20provinciale%20allevatori%20con%20sede%20in%20Alessandria.md).
+
+Visto, il Guardasigilli: SARTI
+ Registrato alla Corte dei conti, addi' 4 luglio 1981
+ Registro n. 8 Agricoltura, foglio n. 350

@@ -1,199 +1,210 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 29 settembre 1979 n. 611
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 611
+data: 1979-09-29
+titolo: "Norme di esecuzione della legge 28 aprile 1976, n. 192, sui corsi della Scuola di guerra dell'Esercito."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1979-09-29;611
+codice_redazionale: 079U0611
+vigente: true
+---
 
+## CORSO DI STATO MAGGIORE  Capo I MODALITA' DI AMMISSIONE AL CORSO DI STATO MAGGIORE DEI CAPITANI DEI RUOLI NORMALI DELLE ARMI DI FANTERIA, CAVALLERIA, ARTIGLIERIA E GENIO.
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 29 settembre 1979 n. 611
-================================================================
+TITOLO I
 
-Norme di esecuzione della legge 28 aprile 1976, n. 192, sui corsi della Scuola di guerra dell'Esercito.
--------------------------------------------------------------------------------------------------------
+### Art. 1.
 
-CAPO I TITOLO I CORSO DI STATO MAGGIORE Capo I MODALITA' DI AMMISSIONE AL CORSO DI STATO MAGGIORE DEI CAPITANI DEI RUOLI NORMALI DELLE ARMI DI FANTERIA, CAVALLERIA, ARTIGLIERIA E GENIO.
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 5 OTTOBRE 2000, N. 297))
 
-### Art. 1
+## MODALITA' DI AMMISSIONE AL CORSO DI STATO MAGGIORE DEI CAPITANI DELL'ARMA DEI CARABINIERI
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 5 OTTOBRE 2000, N. 297](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2000-10-05;297)))
+Capo II
 
-CAPO II Capo II MODALITA' DI AMMISSIONE AL CORSO DI STATO MAGGIORE DEI CAPITANI DELL'ARMA DEI CARABINIERI
----------------------------------------------------------------------------------------------------------
+### Art. 2.
 
-### Art. 2
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 5 OTTOBRE 2000, N. 297))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 5 OTTOBRE 2000, N. 297](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2000-10-05;297)))
+### Art. 3.
 
-### Art. 3
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 5 OTTOBRE 2000, N. 297))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 5 OTTOBRE 2000, N. 297](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2000-10-05;297)))
+### Art. 4.
 
-### Art. 4
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 5 OTTOBRE 2000, N. 297))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 5 OTTOBRE 2000, N. 297](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2000-10-05;297)))
+### Art. 5.
 
-### Art. 5
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 5 OTTOBRE 2000, N. 297))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 5 OTTOBRE 2000, N. 297](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2000-10-05;297)))
+### Art. 6.
 
-### Art. 6
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 5 OTTOBRE 2000, N. 297))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 5 OTTOBRE 2000, N. 297](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2000-10-05;297)))
+### Art. 7.
 
-### Art. 7
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 5 OTTOBRE 2000, N. 297))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 5 OTTOBRE 2000, N. 297](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2000-10-05;297)))
+### Art. 8.
 
-### Art. 8
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 5 OTTOBRE 2000, N. 297))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 5 OTTOBRE 2000, N. 297](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2000-10-05;297)))
+## MODALITA' DI AMMISSIONE AL CORSO DI STATO MAGGIORE DEI CAPITANI DEL RUOLO SPECIALE UNICO DELLE ARMI DI FANTERIA, CAVALLERIA, ARTIGLIERIA E GENIO.
 
-CAPO III Capo III MODALITA' DI AMMISSIONE AL CORSO DI STATO MAGGIORE DEI CAPITANI DEL RUOLO SPECIALE UNICO DELLE ARMI DI FANTERIA, CAVALLERIA, ARTIGLIERIA E GENIO.
--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Capo III
 
-### Art. 9
+### Art. 9.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 5 OTTOBRE 2000, N. 297](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2000-10-05;297)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 5 OTTOBRE 2000, N. 297))
 
-### Art. 10
+### Art. 10.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 5 OTTOBRE 2000, N. 297](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2000-10-05;297)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 5 OTTOBRE 2000, N. 297))
 
-### Art. 11
+### Art. 11.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 5 OTTOBRE 2000, N. 297](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2000-10-05;297)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 5 OTTOBRE 2000, N. 297))
 
-### Art. 12
+### Art. 12.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 5 OTTOBRE 2000, N. 297](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2000-10-05;297)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 5 OTTOBRE 2000, N. 297))
 
-### Art. 13
+### Art. 13.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 5 OTTOBRE 2000, N. 297](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2000-10-05;297)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 5 OTTOBRE 2000, N. 297))
 
-### Art. 14
+### Art. 14.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 5 OTTOBRE 2000, N. 297](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2000-10-05;297)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 5 OTTOBRE 2000, N. 297))
 
-### Art. 15
+### Art. 15.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 5 OTTOBRE 2000, N. 297](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2000-10-05;297)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 5 OTTOBRE 2000, N. 297))
 
-### Art. 16
+### Art. 16.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 5 OTTOBRE 2000, N. 297](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2000-10-05;297)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 5 OTTOBRE 2000, N. 297))
 
-CAPO IV Capo IV SVOLGIMENTO DEL CORSO DI STATO MAGGIORE
--------------------------------------------------------
+## SVOLGIMENTO DEL CORSO DI STATO MAGGIORE
 
-### Art. 17
+Capo IV
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 5 OTTOBRE 2000, N. 297](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2000-10-05;297)))
+### Art. 17.
 
-### Art. 18
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 5 OTTOBRE 2000, N. 297))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 5 OTTOBRE 2000, N. 297](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2000-10-05;297)))
+### Art. 18.
 
-### Art. 19
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 5 OTTOBRE 2000, N. 297))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 5 OTTOBRE 2000, N. 297](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2000-10-05;297)))
+### Art. 19.
 
-### Art. 20
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 5 OTTOBRE 2000, N. 297))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 5 OTTOBRE 2000, N. 297](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2000-10-05;297)))
+### Art. 20.
 
-### Art. 21
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 5 OTTOBRE 2000, N. 297))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 5 OTTOBRE 2000, N. 297](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2000-10-05;297)))
+### Art. 21.
 
-CAPO V Capo V RINVII, DIMISSIONI, ALLONTANAMENTI
-------------------------------------------------
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 5 OTTOBRE 2000, N. 297))
 
-### Art. 22
+## RINVII, DIMISSIONI, ALLONTANAMENTI
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 5 OTTOBRE 2000, N. 297](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2000-10-05;297)))
+Capo V
 
-### Art. 23
+### Art. 22.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 5 OTTOBRE 2000, N. 297](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2000-10-05;297)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 5 OTTOBRE 2000, N. 297))
 
-### Art. 24
+### Art. 23.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 5 OTTOBRE 2000, N. 297](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2000-10-05;297)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 5 OTTOBRE 2000, N. 297))
 
-CAPO VI ((TITOLO I- bis CORSO DI ISTITUTO PER CAPITANI IN SERVIZIO PERMANENTE EFFETTIVO
-DELL'ARMA DEI CARABINIERI. Capo I MODALITA' DI AMMISSIONE AL CORSO DI ISTITUTO))
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+### Art. 24.
 
-### Art. 24-bis
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 5 OTTOBRE 2000, N. 297))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 5 OTTOBRE 2000, N. 297](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2000-10-05;297)))
+## CORSO DI ISTITUTO PER CAPITANI IN SERVIZIO PERMANENTE EFFETTIVO 
+DELL'ARMA DEI CARABINIERI.  Capo I MODALITA' DI AMMISSIONE AL CORSO DI ISTITUTO))
 
-CAPO VII ((Capo II SVOLGIMENTO DEL CORSO DI ISTITUTO))
-------------------------------------------------------
+((TITOLO I- bis
 
-### Art. 24-ter
+### Art. 24-bis.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 5 OTTOBRE 2000, N. 297](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2000-10-05;297)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 5 OTTOBRE 2000, N. 297))
 
-### Art. 24-quater
+## SVOLGIMENTO DEL CORSO DI ISTITUTO))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 5 OTTOBRE 2000, N. 297](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2000-10-05;297)))
+((Capo II
 
-### Art. 24-quinquies
+### Art. 24-ter.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 5 OTTOBRE 2000, N. 297](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2000-10-05;297)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 5 OTTOBRE 2000, N. 297))
 
-CAPO VIII TITOLO II CORSO SUPERIORE DI STATO MAGGIORE Capo I MODALITA' DI AMMISSIONE AL CORSO SUPERIORE DI STATO MAGGIORE
--------------------------------------------------------------------------------------------------------------------------
+### Art. 24-quater.
 
-### Art. 25
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 5 OTTOBRE 2000, N. 297))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 5 OTTOBRE 2000, N. 297](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2000-10-05;297)))
+### Art. 24-quinquies.
 
-### Art. 26
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 5 OTTOBRE 2000, N. 297))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 5 OTTOBRE 2000, N. 297](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2000-10-05;297)))
+## CORSO SUPERIORE DI STATO MAGGIORE  Capo I MODALITA' DI AMMISSIONE AL CORSO SUPERIORE DI STATO MAGGIORE
 
-### Art. 27
+TITOLO II
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 5 OTTOBRE 2000, N. 297](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2000-10-05;297)))
+### Art. 25.
 
-### Art. 28
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 5 OTTOBRE 2000, N. 297))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 5 OTTOBRE 2000, N. 297](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2000-10-05;297)))
+### Art. 26.
 
-### Art. 29
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 5 OTTOBRE 2000, N. 297))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 5 OTTOBRE 2000, N. 297](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2000-10-05;297)))
+### Art. 27.
 
-### Art. 30
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 5 OTTOBRE 2000, N. 297))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 5 OTTOBRE 2000, N. 297](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2000-10-05;297)))
+### Art. 28.
 
-### Art. 31
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 5 OTTOBRE 2000, N. 297))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 5 OTTOBRE 2000, N. 297](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2000-10-05;297)))
+### Art. 29.
 
-CAPO IX Capo II SVOLGIMENTO DEL CORSO SUPERIORE DI STATO MAGGIORE E VALUTAZIONI FINALI
---------------------------------------------------------------------------------------
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 5 OTTOBRE 2000, N. 297))
 
-### Art. 32
+### Art. 30.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 5 OTTOBRE 2000, N. 297](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2000-10-05;297)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 5 OTTOBRE 2000, N. 297))
 
-### Art. 33
+### Art. 31.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 5 OTTOBRE 2000, N. 297](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2000-10-05;297)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 5 OTTOBRE 2000, N. 297))
 
-### Art. 34
+## SVOLGIMENTO DEL CORSO SUPERIORE DI STATO MAGGIORE E VALUTAZIONI FINALI
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 5 OTTOBRE 2000, N. 297](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2000-10-05;297)))
+Capo II
 
-### Art. 35
+### Art. 32.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 5 OTTOBRE 2000, N. 297](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2000-10-05;297)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 5 OTTOBRE 2000, N. 297))
 
-CAPO X Capo III RINVII, DIMISSIONI, ALLONTANAMENTI
---------------------------------------------------
+### Art. 33.
 
-### Art. 36
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 5 OTTOBRE 2000, N. 297))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 5 OTTOBRE 2000, N. 297](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2000-10-05;297)))
+### Art. 34.
+
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 5 OTTOBRE 2000, N. 297))
+
+### Art. 35.
+
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 5 OTTOBRE 2000, N. 297))
+
+## RINVII, DIMISSIONI, ALLONTANAMENTI
+
+Capo III
+
+### Art. 36.
+
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 5 OTTOBRE 2000, N. 297))

@@ -1,19 +1,21 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 10 maggio 1962 n. 516
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 516
+data: 1962-05-10
+titolo: "Riconoscimento della personalita' giuridica della Chiesa parrocchiale dalla Madonna del Divino Amore, sita in localita' Zia Lisa del comune di Catania."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1962-05-10;516
+codice_redazionale: 062U0516
+vigente: true
+---
 
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 10 maggio 1962 n. 516
-=============================================================
-
-Riconoscimento della personalita' giuridica della Chiesa parrocchiale dalla Madonna del Divino Amore, sita in localita' Zia Lisa del comune di Catania.
--------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-516. Decreto del Presidente della Repubblica 10 maggio 1962, col quale sulla proposta del Ministro per l'interno, viene riconosciuta la personalita' giuridica della Chiesa parrocchiale della Madonna del Divino Amore, sita in localita' Zia Lisa del comune di Catania.  
-  
-Visto, il Guardasigilli: BOSCO  
-Registrato alla Corte dei conti, addi' 14 giugno 1962  
-Atti del Governo, registro n. 151, foglio n. 6. - VILLA
+516.
+
+Decreto del Presidente della Repubblica 10 maggio 1962, col quale sulla proposta del Ministro per l'interno, viene riconosciuta la personalita' giuridica della Chiesa parrocchiale della Madonna del Divino Amore, sita in localita' Zia Lisa del comune di Catania.
+
+Visto, il Guardasigilli: BOSCO
+ Registrato alla Corte dei conti, addi' 14 giugno 1962
+ Atti del Governo, registro n. 151, foglio n. 6. - VILLA

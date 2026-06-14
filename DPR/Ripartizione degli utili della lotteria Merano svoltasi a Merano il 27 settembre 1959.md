@@ -1,112 +1,173 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 14 novembre 1959 n. 1072
-
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 14 novembre 1959 n. 1072
-================================================================
-
-Ripartizione degli utili della lotteria "Merano" svoltasi a Merano il 27 settembre 1959.
-----------------------------------------------------------------------------------------
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 1072
+data: 1959-11-14
+titolo: "Ripartizione degli utili della lotteria \"Merano\" svoltasi a Merano il 27 settembre 1959."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1959-11-14;1072
+codice_redazionale: 059U1072
+vigente: true
+---
 
 IL PRESIDENTE DELLA REPUBBLICA
-------------------------------
 
-Vista la [legge 4 agosto 1955, n. 722](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1955-08-04;722);
+Vista la [legge 4 agosto 1955, n. 722](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1955-08-04;722);
 
 Visto il proprio decreto 20 novembre 1948, n. 1677, concernente l'approvazione del regolamento delle lotterie nazionali, modificato con successivi decreti 9 novembre 1952, n. 4468, e 10 maggio 1956, n. 550;
 
-Visto l'[art. 87 della Costituzione](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27~art87);
+Visto l'[art. 87 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87);
 
-Sulla
------
+Sulla proposta del Presidente del Consiglio dei Ministri, di concerto con i Ministri per il bilancio, per le finanze, per l'interno e per il tesoro; Decreta:
 
-proposta del Presidente del Consiglio dei Ministri, di concerto con i Ministri per il bilancio, per le finanze, per l'interno e per il tesoro; Decreta:
-
-Articolo unico
---------------
+## Articolo unico.
 
 Gli utili della lotteria "Merano", svoltasi a Merano il 27 settembre 1959, sono devoluti ai seguenti enti, secondo le quote a fianco di ciascuno indicate:
 
-1. Azienda autonoma di soggiorno e cura Merano (Bolzano). . . . 5,05%
+1.
 
-2. Croce Rossa italiana - Roma. . . . . . . . . . . . . . . . . 3,84%
+Azienda autonoma di soggiorno e cura Merano (Bolzano). . . . 5,05%
 
-3. Comitato "Pro Ossario monumentale dei Caduti per l'Indipendenza Nazionale" - Chieti . . . . . . . . . . . . . . . . . . . . . . 2,31%
+2.
 
-4. Federazione italiana Volontari della Liberta' - Roma . . . . 3,07%
+Croce Rossa italiana - Roma. . . . . . . . . . . . . . . . . 3,84%
 
-5. Associazione Nazionale ex Internati - Roma . . . . . . . . . 3,07%
+3.
 
-6. Federazione italiana contro la Tubercolosi - Roma. . . . . . 2,31%
+Comitato "Pro Ossario monumentale dei Caduti per l'Indipendenza Nazionale" - Chieti . . . . . . . . . . . . . . . . . . . . . . 2,31%
 
-7. Ente assistenza ai cancerosi poveri - Roma . . . . . . . . . 2,31%
+4.
 
-8. Opera Cenacolo Francescano - Reggio Emilia . . . . . . . . . 1,54%
+Federazione italiana Volontari della Liberta' - Roma . . . . 3,07%
 
-9. Istituto Vittorio Veneto per orfani di guerra - Firenze. . . 3,07%
+5.
 
-10. Centro Cattolico di Studi Sociali - Firenze (per La "Casa Alpina" di Gressoney Saint Jean). . . . . . . . . . . . . . . . . . . . 2,31%
+Associazione Nazionale ex Internati - Roma . . . . . . . . . 3,07%
 
-11. Santuario Francescano del Presepio - Greccio (Rieti). . . . 0,77%
+6.
 
-12. Villaggio Turistico Assistenziale per Lavoratori - Bardineto (Savona). . . . . . . . . . . . . . . . . . . . . . . . . . . . 2,31%
+Federazione italiana contro la Tubercolosi - Roma. . . . . . 2,31%
 
-13. Ospizio "Bianculli" - Acerra (Napoli) . . . . . . . . . . . 1,54%
+7.
 
-14. Opera Pia (Ospizio di Napoli) - Napoli. . . . . . . . . . . 1,54%
+Ente assistenza ai cancerosi poveri - Roma . . . . . . . . . 2,31%
 
-15. Asilo Infantile Comunale - Serrastretta (Catanzaro) . . . . 0,77%
+8.
 
-16. Dopolavoro dei Ministeri Finanziari - Roma. . . . . . . . . 3,84%
+Opera Cenacolo Francescano - Reggio Emilia . . . . . . . . . 1,54%
 
-17. Fondazione perpetua Opere Antoniane dell'Ordine dei Frati Minori per Opere di Culto e di Assistenza Cristiana - Roma . . . . . . 3,07%
+9.
 
-18. Villaggio di Ragazzi "San Flaviano" - Ascoli Piceno . . . . 1,54%
+Istituto Vittorio Veneto per orfani di guerra - Firenze. . . 3,07%
 
-19. Opera Pia "Viviani" - Urbino. . . . . . . . . . . . . . . . 1,54%
+10.
 
-20. Centro Studi Alto Adige - Bolzano . . . . . . . . . . . . . 1,54%
+Centro Cattolico di Studi Sociali - Firenze (per La "Casa Alpina" di Gressoney Saint Jean). . . . . . . . . . . . . . . . . . . . 2,31%
 
-21. Congregazione Suore Domenicane, Piccola Casa Divina Provvidenza - Fontanegli (Genova) . . . . . . . . . . . . . . . . . . . . . . 1,54%
+11.
 
-22. Seminario Regionale - Chieti. . . . . . . . . . . . . . . . 1,54%
+Santuario Francescano del Presepio - Greccio (Rieti). . . . 0,77%
 
-23. Opera Pia "Cardinale Ernesto Ruffini" - Palermo . . . . . . 2,31%
+12.
 
-24. A.S.C.I. - Esploratori d'Italia (per il Commissariato regionale ligure) - Genova. . . . . . . . . . . . . . . . . . . . . . . . 1,54%
+Villaggio Turistico Assistenziale per Lavoratori - Bardineto (Savona). . . . . . . . . . . . . . . . . . . . . . . . . . . . 2,31%
 
-25. Ospedale della Beata Vergine della Misericordia - Verrucchio (Forli) . . . . . . . . . . . . . . . . . . . . . . . . . . . . 1,54%
+13.
 
-26. Convitto Maschile - Ortisei (Bolzano) . . . . . . . . . . . 0,77%
+Ospizio "Bianculli" - Acerra (Napoli) . . . . . . . . . . . 1,54%
 
-27. Unione italiana dei Ciechi - Roma . . . . . . . . . . . . . 2,31%
+14.
 
-28. Associazione Nazionale dei Finanzieri in congedo - Roma . . 1,15%
+Opera Pia (Ospizio di Napoli) - Napoli. . . . . . . . . . . 1,54%
 
-29. Associazione per Lavoratrici "Armida Barelli" - Napoli. . . 1,54%
+15.
 
-30. Congregazione Pie Figlie della Sacra Famiglia - Mese (Sondrio) . . . . . . . . . . . . . . . . . . . . . . . . . . . 0,77%
+Asilo Infantile Comunale - Serrastretta (Catanzaro) . . . . 0,77%
 
-31. Colonia Marina Santa Maria Goretti - Anzio (Roma) . . . . . 2,66%
+16.
 
-32. Piccola Casa Figli del Divin Padre - Roma . . . . . . . . . 1,54%
+Dopolavoro dei Ministeri Finanziari - Roma. . . . . . . . . 3,84%
 
-33. Associazione Nazionale Mutilati Civili - Roma . . . . . . . 2,31%
+17.
 
-34. Asilo Infantile - Terzo d'Acqui (Alessandria) . . . . . . . 0,38%
+Fondazione perpetua Opere Antoniane dell'Ordine dei Frati Minori per Opere di Culto e di Assistenza Cristiana - Roma . . . . . . 3,07%
 
-35. Asilo Infantile - Silvano d'Orba (Alessandria . . . . . . . 0,38%
+18.
 
-36. Scuola Materna "Pietrine" - Novi Ligure (Alessandria) . . . 0,38%
+Villaggio di Ragazzi "San Flaviano" - Ascoli Piceno . . . . 1,54%
+
+19.
+
+Opera Pia "Viviani" - Urbino. . . . . . . . . . . . . . . . 1,54%
+
+20.
+
+Centro Studi Alto Adige - Bolzano . . . . . . . . . . . . . 1,54%
+
+21.
+
+Congregazione Suore Domenicane, Piccola Casa Divina Provvidenza - Fontanegli (Genova) . . . . . . . . . . . . . . . . . . . . . . 1,54%
+
+22.
+
+Seminario Regionale - Chieti. . . . . . . . . . . . . . . . 1,54%
+
+23.
+
+Opera Pia "Cardinale Ernesto Ruffini" - Palermo . . . . . . 2,31%
+
+24.
+
+A.S.C.I. - Esploratori d'Italia (per il Commissariato regionale ligure) - Genova. . . . . . . . . . . . . . . . . . . . . . . . 1,54%
+
+25.
+
+Ospedale della Beata Vergine della Misericordia - Verrucchio (Forli) . . . . . . . . . . . . . . . . . . . . . . . . . . . . 1,54%
+
+26.
+
+Convitto Maschile - Ortisei (Bolzano) . . . . . . . . . . . 0,77%
+
+27.
+
+Unione italiana dei Ciechi - Roma . . . . . . . . . . . . . 2,31%
+
+28.
+
+Associazione Nazionale dei Finanzieri in congedo - Roma . . 1,15%
+
+29.
+
+Associazione per Lavoratrici "Armida Barelli" - Napoli. . . 1,54%
+
+30.
+
+Congregazione Pie Figlie della Sacra Famiglia - Mese (Sondrio) . . . . . . . . . . . . . . . . . . . . . . . . . . . 0,77%
+
+31.
+
+Colonia Marina Santa Maria Goretti - Anzio (Roma) . . . . . 2,66%
+
+32.
+
+Piccola Casa Figli del Divin Padre - Roma . . . . . . . . . 1,54%
+
+33.
+
+Associazione Nazionale Mutilati Civili - Roma . . . . . . . 2,31%
+
+34.
+
+Asilo Infantile - Terzo d'Acqui (Alessandria) . . . . . . . 0,38%
+
+35.
+
+Asilo Infantile - Silvano d'Orba (Alessandria . . . . . . . 0,38%
+
+36.
+
+Scuola Materna "Pietrine" - Novi Ligure (Alessandria) . . . 0,38%
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 14 novembre 1959
+Dato a Roma, addi' 14 novembre 1959
 
-GRONCHI SEGNI - TAVIANI - TAMBRONI
-
-Visto, il Guardasigilli: GONELLA
-
-Registrato alla Corte dei conti, addi' 17 dicembre 1959
-
-Atti del Governo, registro n. 122, foglio n. 133. - VILLA
+GRONCHI SEGNI - TAVIANI - TAMBRONI Visto, il Guardasigilli: GONELLA Registrato alla Corte dei conti, addi' 17 dicembre 1959 Atti del Governo, registro n. 122, foglio n. 133. - VILLA

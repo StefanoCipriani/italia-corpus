@@ -1,18 +1,20 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 04 novembre 1950 n. 1066
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 1066
+data: 1950-11-04
+titolo: "Dichiarazione formale dei fini delle Confraternite riunite del SS.mo Sacramento, del SS.mo Rosario, di San Nicolo', di San Francesco di Paola e della Concezione, con sede in Poggio d'Otricoli (Terni)."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1950-11-04;1066
+codice_redazionale: 050U1066
+vigente: true
+---
 
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 04 novembre 1950 n. 1066
-================================================================
-
-Dichiarazione formale dei fini delle Confraternite riunite del SS.mo Sacramento, del SS.mo Rosario, di San Nicolo', di San Francesco di Paola e della Concezione, con sede in Poggio d'Otricoli (Terni).
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-1066. Decreto del Presidente della Repubblica 4 novembre 1950, col quale, sulla proposta del Ministro per l'interno, viene provveduto alla dichiarazione formale dei fini delle Confraternite riunite del SS.mo Sacramento, del SS.mo Rosario, di San Nicolo', di San Francesco di Paola e della Concezione, con sede in Poggio d'Otricoli (Terni).  
-  
-Visto, il Guardasigilli: SEGNI  
-Registrato, alla Corte dei conti, addi' 23 dicembre 1950
+1066.
+
+Decreto del Presidente della Repubblica 4 novembre 1950, col quale, sulla proposta del Ministro per l'interno, viene provveduto alla dichiarazione formale dei fini delle Confraternite riunite del SS.mo Sacramento, del SS.mo Rosario, di San Nicolo', di San Francesco di Paola e della Concezione, con sede in Poggio d'Otricoli (Terni).
+
+Visto, il Guardasigilli: SEGNI
+ Registrato, alla Corte dei conti, addi' 23 dicembre 1950

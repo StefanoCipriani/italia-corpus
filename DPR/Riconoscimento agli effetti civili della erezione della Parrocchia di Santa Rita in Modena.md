@@ -1,19 +1,21 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 06 dicembre 1965 n. 1526
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 1526
+data: 1965-12-06
+titolo: "Riconoscimento, agli effetti civili, della erezione della Parrocchia di Santa Rita, in Modena."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1965-12-06;1526
+codice_redazionale: 065U1526
+vigente: true
+---
 
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 06 dicembre 1965 n. 1526
-================================================================
-
-Riconoscimento, agli effetti civili, della erezione della Parrocchia di Santa Rita, in Modena.
-----------------------------------------------------------------------------------------------
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-1526. Decreto del Presidente della Repubblica 6 dicembre 1965, col quale, sulla proposta del Ministro per l'interno, viene riconosciuto, agli effetti civili, il decreto dell'Ordinario diocesano di Modena in data 1 gennaio 1965, integrato con dichiarazione del 1 aprile 1965, relativo alla erezione della Parrocchia di Santa Rita in Modena; viene, altresi', riconosciuta la personalita' giuridica della Chiesa omonima, sede della Parrocchia stessa.  
-  
-Visto, il Guardasigilli: REALE  
-Registrato alla Corte dei conti, addi' 13 gennaio 1966  
-Atti del Governo, registro n. 199, foglio n. 52. - VILLA
+1526.
+
+Decreto del Presidente della Repubblica 6 dicembre 1965, col quale, sulla proposta del Ministro per l'interno, viene riconosciuto, agli effetti civili, il decreto dell'Ordinario diocesano di Modena in data 1 gennaio 1965, integrato con dichiarazione del 1 aprile 1965, relativo alla erezione della Parrocchia di Santa Rita in Modena; viene, altresi', riconosciuta la personalita' giuridica della Chiesa omonima, sede della Parrocchia stessa.
+
+Visto, il Guardasigilli: REALE
+ Registrato alla Corte dei conti, addi' 13 gennaio 1966
+ Atti del Governo, registro n. 199, foglio n. 52. - VILLA

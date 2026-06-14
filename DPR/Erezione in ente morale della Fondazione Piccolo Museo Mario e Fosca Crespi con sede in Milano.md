@@ -1,19 +1,21 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 21 novembre 1966 n. 1380
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 1380
+data: 1966-11-21
+titolo: "Erezione in ente morale della Fondazione \"Piccolo Museo Mario e Fosca Crespi\", con sede in Milano."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1966-11-21;1380
+codice_redazionale: 066U1380
+vigente: true
+---
 
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 21 novembre 1966 n. 1380
-================================================================
-
-Erezione in ente morale della Fondazione "Piccolo Museo Mario e Fosca Crespi", con sede in Milano.
---------------------------------------------------------------------------------------------------
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-1380. Decreto del Presidente della Repubblica 21 novembre 1966, col quale, sulla proposta del Ministro per la pubblica istruzione, la Fondazione "Piccolo Museo Mario e Fosca Crespi", con sede in Milano, piazza Paolo Ferrari n. 8, viene eretto in ente morale e ne viene approvato lo statuto.  
-  
-Visto, il Guardasigilli: REALE  
-Registrato alla Corte dei conti, addi' 8 giugno 1967  
-Atti del Governo, registro n. 211, foglio n. 106. - GRECO
+1380.
+
+Decreto del Presidente della Repubblica 21 novembre 1966, col quale, sulla proposta del Ministro per la pubblica istruzione, la Fondazione "Piccolo Museo Mario e Fosca Crespi", con sede in Milano, piazza Paolo Ferrari n. 8, viene eretto in ente morale e ne viene approvato lo statuto.
+
+Visto, il Guardasigilli: REALE
+ Registrato alla Corte dei conti, addi' 8 giugno 1967
+ Atti del Governo, registro n. 211, foglio n. 106. - GRECO

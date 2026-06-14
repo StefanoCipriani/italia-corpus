@@ -1,19 +1,21 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 14 febbraio 1985 n. 109
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 109
+data: 1985-02-14
+titolo: "Riconoscimento della personalita' giuridica della fondazione \"Magnoni Trotti\", in Ferrara."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1985-02-14;109
+codice_redazionale: 085U0109
+vigente: true
+---
 
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 14 febbraio 1985 n. 109
-===============================================================
-
-Riconoscimento della personalita' giuridica della fondazione "Magnoni Trotti", in Ferrara.
-------------------------------------------------------------------------------------------
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-109. Decreto del Presidente della Repubblica 14 febbraio 1985, col quale, sulla proposta del Ministro per i beni culturali e ambientali, viene riconosciuta la personalita' giuridica ed approvato lo statuto della fondazione "Magnoni Trotti", in Ferrara.   
-  
-Visto, il Guardasigilli: MARTINAZZOLI   
-Registrato alla Corte dei conti, addi' 21 marzo 1985   
-Registro n. 8 Beni culturali, foglio n. 58
+109.
+
+Decreto del Presidente della Repubblica 14 febbraio 1985, col quale, sulla proposta del Ministro per i beni culturali e ambientali, viene riconosciuta la personalita' giuridica ed approvato lo statuto della fondazione "Magnoni Trotti", in Ferrara. 
+ 
+Visto, il Guardasigilli: MARTINAZZOLI 
+ Registrato alla Corte dei conti, addi' 21 marzo 1985 
+ Registro n. 8 Beni culturali, foglio n. 58

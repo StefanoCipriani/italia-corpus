@@ -1,20 +1,20 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 gennaio 1962 n. 815
-
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 gennaio 1962 n. 815
-==============================================================
-
-Norme sul trattamento economico e normativo dei lavori ranti panettieri dipendenti dalle imprese di panificazione della province di Bari, Catanzaro, Cosenza, Lecce, Messina, Perugia, Reggio Calabria, Terni.
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 815
+data: 1962-01-02
+titolo: "Norme sul trattamento economico e normativo dei lavori ranti panettieri dipendenti dalle imprese di panificazione della province di Bari, Catanzaro, Cosenza, Lecce, Messina, Perugia, Reggio Calabria, Terni."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1962-01-02;815
+codice_redazionale: 062U0815
+vigente: true
+---
 
 IL PRESIDENTE DELLA REPUBBLICA
-------------------------------
 
-Visto l'[art. 87, comma quinto, della Costituzione](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27~art87-com5);
+Visto l'[art. 87, comma quinto, della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87-com5);
 
-Vista la [legge 14 luglio 1959, n. 741](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1959-07-14;741), che delega i Governo ad emanare norme transitorie per garantire minimi di trattamento economico e normativo ai lavoratori;
+Vista la [legge 14 luglio 1959, n. 741](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1959-07-14;741), che delega i Governo ad emanare norme transitorie per garantire minimi di trattamento economico e normativo ai lavoratori;
 
-Vista la [legge 1 ottobre 1960, n. 1027](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1960-10-01;1027), recante modifiche alla predetta [legge 14 luglio 1959, n. 741](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1959-07-14;741);
+Vista la [legge 1 ottobre 1960, n. 1027](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1960-10-01;1027), recante modifiche alla predetta [legge 14 luglio 1959, n. 741](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1959-07-14;741);
 
 Visto il contratto collettivo nazionale 26 luglio 1956, per gli operai dipendenti dalle aziende di panificazione;
 
@@ -62,159 +62,25 @@ Vista la pubblicazione nell'apposito Bollettino, n. 2 della provincia di Bari, i
 
 Sentito il Consiglio dei Ministri;
 
-Sulla
------
+Sulla proposta del Ministro per il lavoro e la previdenza sociale; Decreta:
 
-proposta del Ministro per il lavoro e la previdenza sociale; Decreta:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-I rapporti di lavoro costituiti per l'attivita' per la quale sono stati stipulati:  
-- per la provincia di Bari, il contratto collettivo integrativo 3 giugno 1957, l'accordo collettivo 29 ottobre 1958, l'accordo collettivo 26 giugno 1959;  
-- per la provincia di Catanzaro, il contratto collettivo integrativo 22 ottobre 1954,l'accordo collettivo 30 giugno 1956;  
-- per la provincia di Cosenza, il contratto collettivo integrativo 3 novembre 1950, l'accordo collettivo 24 febbraio 1955, l'accordo collettivo 30 agosto 1956;  
-- per la provincia di Lecce, l'accordo collettivo 24 febbraio 1956;  
-- per la provincia di Messina, il contratto collettivo integrativo 20 novembre 1956,l'accordo collettivo 30 luglio 1958;  
-- per la provincia di Perugia, il contratto collettivo integrativo 9 settembre 1957;  
-- per il comune di Perugia, l'accordo collettivo 29 ottobre 1958;  
-- per la provincia di Reggio Calabria, il contratto collettivo integrativo 3 giugno 1957;  
-- per la provincia di Terni il contratto collettivo integrativo 27 settembre 1959;  
-sono regolati da norme giuridiche uniformi alle clausole dei contratti e degli accordi sopra indicati, annessi al presente decreto, purche' compatibili con quelle concernenti la disciplina nazionale della categoria.  
-I minimi di trattamento economico e normativo cosi' stabiliti sono inderogabili nei confronti di tutti i lavoranti panettieri dipendenti dalle imprese di panificazione delle province di Bari, Catanzaro, Cosenza, Lecce, Messina, Perugia, Reggio Calabria, Terni.  
-  
+I rapporti di lavoro costituiti per l'attivita' per la quale sono stati stipulati:
+ - per la provincia di Bari, il contratto collettivo integrativo 3 giugno 1957, l'accordo collettivo 29 ottobre 1958, l'accordo collettivo 26 giugno 1959;
+ - per la provincia di Catanzaro, il contratto collettivo integrativo 22 ottobre 1954,l'accordo collettivo 30 giugno 1956;
+ - per la provincia di Cosenza, il contratto collettivo integrativo 3 novembre 1950, l'accordo collettivo 24 febbraio 1955, l'accordo collettivo 30 agosto 1956;
+ - per la provincia di Lecce, l'accordo collettivo 24 febbraio 1956;
+ - per la provincia di Messina, il contratto collettivo integrativo 20 novembre 1956,l'accordo collettivo 30 luglio 1958;
+ - per la provincia di Perugia, il contratto collettivo integrativo 9 settembre 1957;
+ - per il comune di Perugia, l'accordo collettivo 29 ottobre 1958;
+ - per la provincia di Reggio Calabria, il contratto collettivo integrativo 3 giugno 1957;
+ - per la provincia di Terni il contratto collettivo integrativo 27 settembre 1959;
+sono regolati da norme giuridiche uniformi alle clausole dei contratti e degli accordi sopra indicati, annessi al presente decreto, purche' compatibili con quelle concernenti la disciplina nazionale della categoria.
+ I minimi di trattamento economico e normativo cosi' stabiliti sono inderogabili nei confronti di tutti i lavoranti panettieri dipendenti dalle imprese di panificazione delle province di Bari, Catanzaro, Cosenza, Lecce, Messina, Perugia, Reggio Calabria, Terni.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 2 gennaio 1962
+Dato a Roma, addi' 2 gennaio 1962
 
-GRONCHI FANFANI - SULLO
-
-Visto, il Guardasigilli: BOSCO
-
-Registrato alla Corte dei conti, addi' 12 giugno 1962
-
-Atti del Governo, registro n. 150, foglio n. 57. - VILLA
-
-Allegato
-
-CONTRATTO COLLETTIVO INTEGRATIVO 3 GIUGNO 1957 PER I LAVORANTI PANETTIERI DIPENDENTI DALLE AZIENDE DELLA PANIFICAZIONE DELLA PROVINCIA DI BARI.   
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=062U081500100010110001&dgu=1962-07-18&art.dataPubblicazioneGazzetta=1962-07-18&art.codiceRedazionale=062U0815)
-  
-  
-  
-  
-ACCORDO COLLETTIVO 29 OTTOBRE 1958 PER I LAVORANTI PANETTIERI DIPENDENTI DALLE AZIENDE DELLA PANIFICAZIONE DELLA PROVINCIA DI BARI.   
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=062U081500100010110002&dgu=1962-07-18&art.dataPubblicazioneGazzetta=1962-07-18&art.codiceRedazionale=062U0815)
-  
-  
-  
-  
-ACCORDO COLLETTIVO 26 GIUGNO 1959 PER I LAVORANTI PANETTIERI DIPENDENTI DALLE AZIENDE DELLA PANIFICAZIONE DELLA PROVINCIA DI BARI.   
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=062U081500100010110003&dgu=1962-07-18&art.dataPubblicazioneGazzetta=1962-07-18&art.codiceRedazionale=062U0815)
-  
-  
-  
-  
-CONTRATTO COLLETTIVO INTEGRATIVO 22 OTTOBRE 1954 PER I LAVORANTI PANETTIERI DELLA PROVINCIA DI CATANZARO.   
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=062U081500100010110004&dgu=1962-07-18&art.dataPubblicazioneGazzetta=1962-07-18&art.codiceRedazionale=062U0815)
-  
-  
-  
-  
-ACCORDO COLLETTIVO 30 GIUGNO 1956 PER L'APPLICAZIONE AI LAVORANTI PANETTIERI DELLA INDENNITA' DI CONTINGENZA NELLA PROVINCIA DI CATANZARO.   
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=062U081500100010110005&dgu=1962-07-18&art.dataPubblicazioneGazzetta=1962-07-18&art.codiceRedazionale=062U0815)
-  
-  
-  
-  
-CONTRATTO COLLETTIVO INTEGRATIVO 3 NOVEMBRE 1950 PER I LAVORANTI PANETTIERI DELLA PROVINCIA DI COSENZA.   
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=062U081500100010110006&dgu=1962-07-18&art.dataPubblicazioneGazzetta=1962-07-18&art.codiceRedazionale=062U0815)
-  
-  
-  
-  
-ACCORDO COLLETTIVO DEL 24 FEBBRAIO 1955, PER I LAVORATORI DIPENDENTI DALLE AZIENDE DI PANIFICAZIONE DELLA PROVINCIA DI COSENZA.   
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=062U081500100010110007&dgu=1962-07-18&art.dataPubblicazioneGazzetta=1962-07-18&art.codiceRedazionale=062U0815)
-  
-  
-  
-  
-ACCORDO COLLETTIVO 30 AGOSTO 1956 PER I LAVORATORI DIPENDENTI DALLE AZIENDE DI PANIFICAZIONE DELLA PROVINCIA DI COSENZA.   
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=062U081500100010110008&dgu=1962-07-18&art.dataPubblicazioneGazzetta=1962-07-18&art.codiceRedazionale=062U0815)
-  
-  
-  
-  
-ACCORDO COLLETTIVO 24 FEBBRAIO 1956 PER I LAVORATORI PANETTIERI DELLA PROVINCIA DI LECCE.   
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=062U081500100010110009&dgu=1962-07-18&art.dataPubblicazioneGazzetta=1962-07-18&art.codiceRedazionale=062U0815)
-  
-  
-  
-  
-CONTRATTO COLLETTIVO INTEGRATIVO 20 NOVEMBRE 1956 PER I LAVORANTI PANETTIERI DIPENDENTI DALLE AZIENDE DI PANIFICAZIONE DELLA PROVINCIA DI MESSINA.   
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=062U081500100010110010&dgu=1962-07-18&art.dataPubblicazioneGazzetta=1962-07-18&art.codiceRedazionale=062U0815)
-  
-  
-  
-  
-ACCORDO COLLETTIVO 30 LUGLIO 1958 PER I LAVORANTI PANETTIERI DIPENDENTI DALLE AZIENDE DI PANIFICAZIONE DELLA PROVINCIA DI MESSINA.   
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=062U081500100010110011&dgu=1962-07-18&art.dataPubblicazioneGazzetta=1962-07-18&art.codiceRedazionale=062U0815)
-  
-  
-  
-  
-CONTRATTO COLLETTIVO INTEGRATIVO 9 SETTEMBRE 1957 PER OPERAI DIPENDENTI DALLE AZIENDE DI PANIFICAZIONE DELLA PROVINCIA DI PERUGIA.   
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=062U081500100010110012&dgu=1962-07-18&art.dataPubblicazioneGazzetta=1962-07-18&art.codiceRedazionale=062U0815)
-  
-  
-  
-  
-ACCORDO COLLETTIVO 29 OTTOBRE 1958 PER IL TRATTAMENTO ECONOMICO DEI DIPENDENTI DA AZIENDE DI PANIFICAZIONE DEL COMUNE DI PERUGIA.   
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=062U081500100010110013&dgu=1962-07-18&art.dataPubblicazioneGazzetta=1962-07-18&art.codiceRedazionale=062U0815)
-  
-  
-  
-  
-CONTRATTO COLLETTIVO INTEGRATIVO 3 GIUGNO 1957 PER I LAVORATORI PANETTIERI DELLA PROVINCIA DI REGGIO CALABRIA.   
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=062U081500100010110014&dgu=1962-07-18&art.dataPubblicazioneGazzetta=1962-07-18&art.codiceRedazionale=062U0815)
-  
-  
-  
-  
-CONTRATTO COLLETTIVO INTEGRATIVO 27 SETTEMBRE 1959 PER I LAVORANTI PANETTIERI DIPENDENTI DALLE AZIENDE DI PANIFICAZIONE DELLA PROVINCIA DI TERNI   
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=062U081500100010110015&dgu=1962-07-18&art.dataPubblicazioneGazzetta=1962-07-18&art.codiceRedazionale=062U0815)
-  
+GRONCHI FANFANI - SULLO Visto, il Guardasigilli: BOSCO Registrato alla Corte dei conti, addi' 12 giugno 1962 Atti del Governo, registro n. 150, foglio n. 57. - VILLA

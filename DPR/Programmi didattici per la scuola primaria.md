@@ -1,19 +1,13 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 14 giugno 1955 n. 503
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 503
+data: 1955-06-14
+titolo: "Programmi didattici per la scuola primaria."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1955-06-14;503
+codice_redazionale: 055U0503
+vigente: true
+---
 
+## Art. 1.
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 14 giugno 1955 n. 503
-=============================================================
-
-Programmi didattici per la scuola primaria.
--------------------------------------------
-
-Art. 1
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 13 DICEMBRE 2010, N. 248](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2010-12-13;248)))
-
-all. 1 - art. 1
-
- Allegato   
-
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 13 DICEMBRE 2010, N. 248](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2010-12-13;248)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))

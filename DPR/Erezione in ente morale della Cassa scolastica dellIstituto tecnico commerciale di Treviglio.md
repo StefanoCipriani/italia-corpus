@@ -1,19 +1,21 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 07 gennaio 1959 n. 888
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 888
+data: 1959-01-07
+titolo: "Erezione in ente morale della Cassa scolastica dell'Istituto tecnico commerciale di Treviglio."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1959-01-07;888
+codice_redazionale: 059U0888
+vigente: true
+---
 
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 07 gennaio 1959 n. 888
-==============================================================
-
-Erezione in ente morale della Cassa scolastica dell'Istituto tecnico commerciale di Treviglio.
-----------------------------------------------------------------------------------------------
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-888. Decreto del Presidente della Repubblica 7 gennaio 1959, col quale, sulla proposta del Ministro per la pubblica istruzione, la Cassa scolastica dell'Istituto tecnico commerciale di Treviglio viene eretta in ente morale e ne viene approvato lo statuto.  
-  
-Visto, il Guardasigilli: GONELLA  
-Registrato alla Corte dei conti, addi' 26 ottobre 1959  
-Atti del Governo, registro n. 121, foglio n. 93. - RELLEVA
+888.
+
+Decreto del Presidente della Repubblica 7 gennaio 1959, col quale, sulla proposta del Ministro per la pubblica istruzione, la Cassa scolastica dell'Istituto tecnico commerciale di Treviglio viene eretta in ente morale e ne viene approvato lo statuto.
+
+Visto, il Guardasigilli: GONELLA
+ Registrato alla Corte dei conti, addi' 26 ottobre 1959
+ Atti del Governo, registro n. 121, foglio n. 93. - RELLEVA

@@ -1,13 +1,13 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 ottobre 1976 n. 889
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 889
+data: 1976-10-28
+titolo: "Modificazioni allo statuto dell'Universita' degli studi di Modena."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1976-10-28;889
+codice_redazionale: 076U0889
+vigente: true
+---
 
+## Art. 1.
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 ottobre 1976 n. 889
-==============================================================
-
-Modificazioni allo statuto dell'Universita' degli studi di Modena.
-------------------------------------------------------------------
-
-Art. 1
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.L. 25 GIUGNO 2008, N. 112](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2008-06-25;112), CONVERTITO CON MODIFICAZIONI DALLA [L. 6 AGOSTO 2008, N. 133](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2008-08-06;133)))
+((PROVVEDIMENTO ABROGATO DAL D.L. 25 GIUGNO 2008, N. 112, CONVERTITO CON MODIFICAZIONI DALLA L. 6 AGOSTO 2008, N. 133))

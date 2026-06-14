@@ -1,19 +1,21 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 10 giugno 1977 n. 520
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 520
+data: 1977-06-10
+titolo: "Riconoscimento della personalita' giuridica della \"Casa di S. Stefano Belbo della congregazione delle figlie di S. Giuseppe\", in Santo Stefano Belbo."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1977-06-10;520
+codice_redazionale: 077U0520
+vigente: true
+---
 
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 10 giugno 1977 n. 520
-=============================================================
-
-Riconoscimento della personalita' giuridica della "Casa di S. Stefano Belbo della congregazione delle figlie di S. Giuseppe", in Santo Stefano Belbo.
------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-520. Decreto del Presidente della Repubblica 10 giugno 1977, col quale, sulla proposta del Ministro per l'interno, viene riconosciuta la personalita' giuridica della "Casa di S. Stefano Belbo della congregazione delle figlie di S. Giuseppe", in Santo Stefano Belbo (Cuneo).  
-  
-Visto, il Guardasigilli: BONIFACIO  
-Registrato alla Corte dei conti, addi' 8 agosto 1977  
-Registro n. 18 Interno, foglio n. 292
+520.
+
+Decreto del Presidente della Repubblica 10 giugno 1977, col quale, sulla proposta del Ministro per l'interno, viene riconosciuta la personalita' giuridica della "Casa di S. Stefano Belbo della congregazione delle figlie di S. Giuseppe", in Santo Stefano Belbo (Cuneo).
+
+Visto, il Guardasigilli: BONIFACIO
+ Registrato alla Corte dei conti, addi' 8 agosto 1977
+ Registro n. 18 Interno, foglio n. 292

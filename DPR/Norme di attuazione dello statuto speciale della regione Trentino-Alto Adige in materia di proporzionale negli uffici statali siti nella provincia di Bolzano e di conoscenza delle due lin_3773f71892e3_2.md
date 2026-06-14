@@ -1,190 +1,71 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 luglio 1978 n. 571
-
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 luglio 1978 n. 571
-=============================================================
-
-Norme di attuazione dello statuto speciale della regione Trentino-Alto Adige in materia di proporzionale negli uffici statali siti nella provincia di Bolzano e di conoscenza delle due lingue nel pubblico impiego.
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 846
+data: 1977-10-19
+titolo: "Norme di attuazione dello statuto speciale della regione Trentino-Alto Adige in materia di proporzionale negli uffici statali siti nella provincia di Bolzano e di conoscenza delle due lingue nel pubblico impiego."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1977-10-19;846
+codice_redazionale: 077U0846
+vigente: true
+---
 
 IL PRESIDENTE DELLA REPUBBLICA
-------------------------------
 
-Visto l'[art. 87, comma quinto, della Costituzione](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27~art87-com5);
+Visto l'[art. 87, comma quinto, della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87-com5);
 
-Visti gli [articoli 89](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1972-08-31;670~art89), [100](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1972-08-31;670~art100) e [107, comma primo, del decreto del Presidente della Repubblica 31 agosto 1972, n. 670](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1972-08-31;670~art107-com1), che approva il testo unico delle leggi costituzionali concernenti lo statuto speciale per il Trentino-Alto Adige;
+Visti gli [articoli 89](Approvazione%20del%20testo%20unico%20delle%20leggi%20costituzionali%20concernenti%20lo%20statuto%20speciale%20per%20il%20Trentino-Alto%20Adige.md), [100](Approvazione%20del%20testo%20unico%20delle%20leggi%20costituzionali%20concernenti%20lo%20statuto%20speciale%20per%20il%20Trentino-Alto%20Adige.md) e [107, comma primo, del decreto del Presidente della Repubblica 31 agosto 1972, n. 670](Approvazione%20del%20testo%20unico%20delle%20leggi%20costituzionali%20concernenti%20lo%20statuto%20speciale%20per%20il%20Trentino-Alto%20Adige.md), che approva il testo unico delle leggi costituzionali concernenti lo statuto speciale per il Trentino-Alto Adige;
 
-Sentita la commissione paritetica per le norme di attuazione prevista dall'[art. 107 del decreto del Presidente della Repubblica 31 agosto 1972, n. 670](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1972-08-31;670~art107);
+Sentita la commissione paritetica per le norme di attuazione prevista dall'[art. 107 del decreto del Presidente della Repubblica 31 agosto 1972, n. 670](Approvazione%20del%20testo%20unico%20delle%20leggi%20costituzionali%20concernenti%20lo%20statuto%20speciale%20per%20il%20Trentino-Alto%20Adige.md);
 
 Sentito il Consiglio dei Ministri;
 
-Sulla
------
+Sulla proposta del Presidente del Consiglio dei Ministri, di concerto con i Ministri per l'interno, per la grazia e giustizia, per le finanze, per il tesoro, per i trasporti, per le poste e le telecomunicazioni e per l'industria, il commercio e l'artigianato; Decreta:
 
-proposta del Presidente del Consiglio dei Ministri, di concerto con i Ministri dell'interno, di grazia e giustizia, del tesoro e delle poste e delle telecomunicazioni; Decreta:
+## Art. 1.
 
-Art. 1
-------
+Il superamento dell'esame di cui al titolo I del [decreto del Presidente della Repubblica 26 luglio 1976, n. 752](Norme%20di%20attuazione%20dello%20statuto%20speciale%20della%20regione%20Trentino-Alto%20Adige%20in%20materia%20di%20proporzionale%20negli%20uffici%20statali%20siti%20nella%20provincia%20di%20Bolzano%20e%20di%20conoscenza%20delle%20due%20lin_3773f71892e3.md), e' valido ai fini della concessione dell'indennita' di cui alla [legge 23 ottobre 1961, n. 1165](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1961-10-23;1165), al personale che non ne sia in godimento alla data di entrata in vigore del presente decreto.
+ ((L'indennita' decorre dal giorno del superamento dell'esame per il personale gia' in servizio e da quello di assunzione in servizio per il personale di nuova nomina)).
+ Gli articoli 2 (escluso l'ultimo comma), 4 e 6 della [legge 23 ottobre 1961, n. 1165](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1961-10-23;1165) ed il [decreto del Presidente della Repubblica 18 agosto 1964, n. 807](Regolamento%20di%20esecuzione%20della%20legge%2023%20ottobre%201961%20n.%201165%20concernente%20indennita%20speciale%20di%201%20lingua%20ai%20magistrati%20ai%20dipendenti%20civili%20dello%20Stato%20compresi%20quelli%20delle%20Amministrazio_285e2fd56a35.md) (esclusi l'ultimo comma dell'art. 15 e gli articoli 16, 17 e 19), sono abrogati.
 
-  
-Il [secondo comma dell'art. 3 del decreto del Presidente della Repubblica 26 luglio 1976, n. 752](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1976-07-26;752~art3-com2), e' modificato come segue:  
-"Le commissioni, nominate per un triennio, sono composte di quattro membri effettivi e quattro supplenti, scelti per meta' tra i cittadini di madre lingua italiana e per meta' tra i cittadini di madre lingua tedesca della provincia di Bolzano".  
+## Art. 2.
 
-Art. 2
-------
+Il superamento dell'esame della conoscenza delle lingue italiana e tedesca svoltosi in base alla normativa in vigore ai fini dell'assunzione nella pubblica amministrazione in provincia di Bolzano, conserva efficacia al fine del disposto dell'[art. 1, primo comma, del decreto del Presidente della Repubblica 26 luglio 1976, n. 752](Norme%20di%20attuazione%20dello%20statuto%20speciale%20della%20regione%20Trentino-Alto%20Adige%20in%20materia%20di%20proporzionale%20negli%20uffici%20statali%20siti%20nella%20provincia%20di%20Bolzano%20e%20di%20conoscenza%20delle%20due%20lin_3773f71892e3.md), nel caso di passaggio di personale da una all'altra amministrazione dello Stato, da queste ad un ente pubblico o viceversa, o ad altro ente pubblico, qualora il passaggio non comporti interruzione nel rapporto di impiego pubblico, ne' l'inquadramento in una carriera superiore a quella per la quale il personale interessato ha superato il citato esame della conoscenza delle lingue italiana e tedesca.
 
-  
-Il [primo comma dell'art. 7 del decreto del Presidente della Repubblica 26 luglio 1976, n. 752](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1976-07-26;752~art7-com1), e' cosi' modificato:  
-"Al fine di favorire il pieno possesso della lingua italiana e di quella tedesca vengono istituiti, d'intesa tra il commissario del Governo per la provincia di Bolzano e la provincia di Bolzano, corsi di addestramento linguistico per i dipendenti delle amministrazioni dello Stato e degli enti pubblici in servizio in provincia di Bolzano.  
-Per il personale in servizio in provincia di Trento in uffici aventi competenza regionale, l'intesa di cui al comma precedente si svolge tra il commissario del Governo per la provincia di Trento e la provincia di Bolzano".  
+## Art. 3.
 
-Art. 3
-------
+Al personale indicato al [primo comma dell'art. 12 del decreto del Presidente della Repubblica 20 gennaio 1973, n. 116](Norme%20di%20attuazione%20dello%20statuto%20speciale%20per%20il%20Trentino-alto%20Adige%20in%20materia%20di%20ordinamento%20scolastico%20in%20provincia%20di%20Bolzano.md), nonche' all'analogo personale delle scuole materne e delle scuole e dei corsi di addestramento e formazione professionale dipendente dalla provincia di Bolzano, non e' richiesta la conoscenza della seconda lingua qualora svolga attivita' nelle scuole la cui lingua d'insegnamento e' quella del gruppo linguistico di appartenenza del personale stesso.
 
-  
-All'[art. 13 del decreto del Presidente della Repubblica 26 luglio 1976, n. 752](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1976-07-26;752~art13), e' aggiunto il seguente comma:  
-"Il commissario del Governo per la provincia di Bolzano e' altresi' delegato ad adottare tutti gli altri provvedimenti ed emanare tutti gli altri atti concernenti il personale di cui al primo comma dell'art. 8 del presente decreto applicando le norme dello stato giuridico dei dipendenti dello Stato, nonche', per il personale dipendente dalle amministrazioni con ordinamento autonomo, le norme previste dai rispettivi stati giuridici fatte salve le particolari disposizioni contenute nel presente decreto".  
+## Art. 4.
 
-Art. 4
-------
+Al concorso per l'iscrizione nell'elenco provinciale dei sostituti portalettere di cui all'[art. 1 della legge 9 gennaio 1973, n. 3](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1973-01-09;3#art_1), nonche' al concorso per fattorini di cui all'art. 2 della citata legge, si applicano le disposizioni di cui al [decreto del Presidente della Repubblica 26 luglio 1976, n. 752](Norme%20di%20attuazione%20dello%20statuto%20speciale%20della%20regione%20Trentino-Alto%20Adige%20in%20materia%20di%20proporzionale%20negli%20uffici%20statali%20siti%20nella%20provincia%20di%20Bolzano%20e%20di%20conoscenza%20delle%20due%20lin_3773f71892e3.md).
 
-  
-Il [terzo comma dell'art. 21 del decreto del Presidente della Repubblica 26 luglio 1976, n. 752](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1976-07-26;752~art21-com3), e' modificato come segue:  
-"I componenti vengono scelti, in relazione ai singoli concorsi, tra il personale appartenente alle categorie sottoindicate, anche se trovasi in posizione di quiescenza, compreso in un elenco formato nell'ambito dell'intesa di cui al secondo comma dell'art. 13:  
-a) magistrati ordinari od amministrativi;  
-b) docenti universitari o di scuola media superiore.  
-c) dipendenti delle pubbliche amministrazioni".  
+## Art. 5.
 
-Art. 5
-------
+I sostituti portalettere gia' iscritti nel relativo elenco provinciale di Bolzano alla data di entrata in vigore del [decreto del Presidente della Repubblica 26 luglio 1976, n. 752](Norme%20di%20attuazione%20dello%20statuto%20speciale%20della%20regione%20Trentino-Alto%20Adige%20in%20materia%20di%20proporzionale%20negli%20uffici%20statali%20siti%20nella%20provincia%20di%20Bolzano%20e%20di%20conoscenza%20delle%20due%20lin_3773f71892e3.md), se residenti in provincia di Bolzano alla data del 20 gennaio 1972, continueranno a prestare servizio nella provincia ai sensi dell'art. 9, primo comma, del citato decreto del Presidente della Repubblica n. 752.
+ Il personale di cui al comma precedente, non residente in provincia di Bolzano alla data del 20 gennaio 1972, e' trasferito nell'elenco dei sostituti portalettere di altra provincia indicata dagli interessati mantenendo l'anzianita' di iscrizione nell'elenco.
+ Il personale di cui al primo comma, qualora abbia i prescritti requisiti, e' ammesso al concorso previsto dalla [legge 9 gennaio 1973, n. 3, art. 2](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1973-01-09;3#art_2), bandito secondo le disposizioni di cui al [decreto del Presidente della Repubblica 26 luglio 1976, n. 752](Norme%20di%20attuazione%20dello%20statuto%20speciale%20della%20regione%20Trentino-Alto%20Adige%20in%20materia%20di%20proporzionale%20negli%20uffici%20statali%20siti%20nella%20provincia%20di%20Bolzano%20e%20di%20conoscenza%20delle%20due%20lin_3773f71892e3.md).
 
-  
-Il [primo comma dell'art. 26 del decreto del Presidente della Repubblica 26 luglio 1976, n. 752](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1976-07-26;752~art26-com1), e' sostituito dal seguente:  
-"Salvo quanto disposto negli articoli precedenti si applicano al personale dei ruoli locali di cui all'art. 8 le disposizioni che disciplinano il trattamento giuridico id economico rispettivamente dei dipendenti dello Stato 5 delle amministrazioni con ordinamento autonomo".  
+## Art. 6.
 
-Art. 6
-------
+Al personale degli uffici giudiziari di cui alla tabella contrassegnata con il n. 1 allegata al presente decreto, si estendono le disposizioni contenute nel [decreto del Presidente della Repubblica 26 luglio 1976, n. 752](Norme%20di%20attuazione%20dello%20statuto%20speciale%20della%20regione%20Trentino-Alto%20Adige%20in%20materia%20di%20proporzionale%20negli%20uffici%20statali%20siti%20nella%20provincia%20di%20Bolzano%20e%20di%20conoscenza%20delle%20due%20lin_3773f71892e3.md).
 
-  
-  
-I colloqui per l'accertamento della conoscenza della lingua italiana o della lingua tedesca previsti dagli [articoli 13](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1973-01-20;116~art13) e [17 del decreto del Presidente della Repubblica 20 gennaio 1973, n. 116](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1973-01-20;116~art17), superati anteriormente alla data di entrata in vigore del [decreto del Presidente della Repubblica 19 ottobre 1977, n. 846](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1977-10-19;846), hanno validita' per i tre anni successivi alla data stessa. (1)
+## Art. 7.
 
-((3))
+La tabella n. 5 concernente la pianta organica dei ruoli del personale dell'amministrazione periferica delle dogane e imposte indirette per gli uffici aventi sede nella provincia di Bolzano, la tabella n. 6, per la parte relativa alla carriera esecutiva del ruolo del personale degli uffici del registro di Bolzano, la tabella n. 9, per la parte relativa al ruolo del personale civile presso la casa circondariale di Bolzano, la tabella n. 10, relativa al personale dell'ufficio provinciale del Ministero dell'industria, del commercio e dell'artigianato e dell'ufficio metrico e del saggio dei metalli preziosi, la tabella n. 20, relativa al personale dell'Azienda autonoma delle ferrovie dello Stato, allegate al [decreto del Presidente della Repubblica 26 luglio 1976, n. 752](Norme%20di%20attuazione%20dello%20statuto%20speciale%20della%20regione%20Trentino-Alto%20Adige%20in%20materia%20di%20proporzionale%20negli%20uffici%20statali%20siti%20nella%20provincia%20di%20Bolzano%20e%20di%20conoscenza%20delle%20due%20lin_3773f71892e3.md), sono sostituite rispettivamente dalle tabelle numeri 2, 3, 4, 5 e 6 allegate al presente decreto.
+ Dopo la tabella n. XXIV relativa al personale uffici locali del Ministero delle poste e delle telecomunicazioni, compresa nella tabella n. 15 allegata al [decreto del Presidente della Repubblica 26 luglio 1976, n. 752](Norme%20di%20attuazione%20dello%20statuto%20speciale%20della%20regione%20Trentino-Alto%20Adige%20in%20materia%20di%20proporzionale%20negli%20uffici%20statali%20siti%20nella%20provincia%20di%20Bolzano%20e%20di%20conoscenza%20delle%20due%20lin_3773f71892e3.md), e' aggiunta la seguente dizione:
+ "Contingente personale non di ruolo - Elenco sostituti portalettere di cui all'[art. 125 del decreto del Presidente della Repubblica 9 agosto 1967, n. 1417](Approvazione%20del%20testo%20unico%20delle%20leggi%20sullordinamento%20degli%20uffici%20locali%20e%20delle%20agenzie%20postali%20e%20telegrafiche%20e%20sullo%20stato%20giuridico%20e%20trattamento%20economico%20del%20relativo%20personale.md), sostituito dall'[art. 1 della legge 9 gennaio 1973, n. 3](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1973-01-09;3#art_1) (pari al 30% del personale in assegno)......... 96".
+ Il titolo della tabella n. 6 allegata al [decreto del Presidente della Repubblica 26 luglio 1976, n. 752](Norme%20di%20attuazione%20dello%20statuto%20speciale%20della%20regione%20Trentino-Alto%20Adige%20in%20materia%20di%20proporzionale%20negli%20uffici%20statali%20siti%20nella%20provincia%20di%20Bolzano%20e%20di%20conoscenza%20delle%20due%20lin_3773f71892e3.md), e' modificato come segue: "Ministero delle finanze - Amministrazione periferica delle tasse e delle imposte indirette sugli affari".
+ La tabella n. 8 allegata al [decreto del Presidente della Repubblica 26 luglio 1976, n. 752](Norme%20di%20attuazione%20dello%20statuto%20speciale%20della%20regione%20Trentino-Alto%20Adige%20in%20materia%20di%20proporzionale%20negli%20uffici%20statali%20siti%20nella%20provincia%20di%20Bolzano%20e%20di%20conoscenza%20delle%20due%20lin_3773f71892e3.md), concernente il ruolo del personale del centro periferico di preelaborazione dei dati del Ministero delle finanze, e' soppressa.
 
----------------
+## Art. 8.
 
-AGGIORNAMENTO (1)
+All'[art. 6, secondo comma, del decreto del Presidente della Repubblica 26 luglio 1976, n. 752](Norme%20di%20attuazione%20dello%20statuto%20speciale%20della%20regione%20Trentino-Alto%20Adige%20in%20materia%20di%20proporzionale%20negli%20uffici%20statali%20siti%20nella%20provincia%20di%20Bolzano%20e%20di%20conoscenza%20delle%20due%20lin_3773f71892e3.md), e' aggiunta la seguente frase: "Le spese di cancelleria e funzionamento delle commissioni di esame sono liquidate dalla provincia salvo rimborso da parte dello Stato di una quota pari alla meta' della spesa stessa".
 
-Il [D.P.R. 4 dicembre 1981, n. 761](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1981-12-04;761) ha disposto (con l'art. 23) che: "Il termine di tre anni per la validita' del colloquio relativo all'accertamento della conoscenza della lingua italiana o della lingua tedesca fissato nell'[art. 6 del decreto del Presidente della Repubblica 31 luglio 1978, n. 571](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1978-07-31;571~art6), e' prorogato di altri tre anni, anche ai fini dell'accesso al ruolo".
+## Art. 9.
 
----------------
-
-AGGIORNAMENTO (3)
-
-E' stato approvato il [D.P.R. 10 febbraio 1983, n. 89](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1983-02-10;89) "Approvazione del testo unificato dei [decreti del Presidente della Repubblica 20 gennaio 1973, n. 116](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1973-01-20;116) e [4 dicembre 1981, n. 761](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1981-12-04;761), concernenti norme di attuazione dello statuto speciale per il Trentino-Alto Adige in materia di ordinamento scolastico in provincia di Bolzano".
-
-Art. 7
-------
-
-  
-Gli organi competenti delle amministrazioni dello Stato di cui al [primo comma dell'art. 8 del decreto del Presidente della Repubblica 26 luglio 1976, n. 752](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1976-07-26;752~art8-com1), danno immediata comunicazione all'ufficio di cui all'art. 24 dello stesso decreto, di ogni provvedimento di destinazione di personale in provincia di Bolzano.  
-Analoga comunicazione, ai fini dell'osservanza delle disposizioni di cui al titolo I del menzionato decreto n. 752, viene data dagli organi competenti degli enti pubblici di cui al primo comma dell'art. 1 e delle amministrazioni dello Stato di cui al secondo comma dello stesso art. 1 del su indicato decreto n. 752, rispettivamente al commissario del Governo per la provincia di Bolzano e a quello per la provincia di Trento.  
-
-((I predetti commissari del Governo, per la parte di rispettiva competenza, danno immediata comunicazione alla regione e alla provincia di Bolzano delle notizie di cui ai precedenti commi.  
-Gli stessi commissari del Governo, la regione e la provincia di Bolzano possono chiedere agli organi competenti della pubblica amministrazione notizie concernenti provvedimenti connessi con l'applicazione del [decreto del Presidente della Repubblica 26 luglio 1976, n. 752](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1976-07-26;752), e successive modificazioni, nonche', alla Presidenza del Consiglio dei Ministri di promuovere l'adozione dei provvedimenti previsti dalle citate norme e la sospensione o la revoca di quelli ritenuti in contrasto con le medesime))
-
-.  
-
-Art. 8
-------
-
-  
-Il titolo primo del [decreto del Presidente della Repubblica 26 luglio 1976, n. 752](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1976-07-26;752), si applica agli enti pubblici costituiti od ordinati con legge o con atti aventi forza di legge. Sono esclusi gli enti pubblici economici che operano in regime di libera concorrenza eccettuate le loro attivita' che costituiscono esercizio di servizio di pubblico interesse in concessione ai sensi del [primo comma dell'art. 100 del decreto del Presidente della Repubblica 31 agosto 1972, n. 670](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1972-08-31;670~art100-com1).  
-
-Art. 9
-------
-
-  
-  
-La tabella 1, concernente gli organici degli uffici giudiziari siti in provincia di Bolzano, allegata al [decreto del Presidente della Repubblica 19 ottobre 1977, n. 846](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1977-10-19;846), e' sostituita con la tabella I allegata al presente decreto.   
-La tabella XII della tabella 14, concernente l'organico degli operatori telefonici dell'Azienda di Stato per i servizi telefonici e l'intera tabella 16 concernente gli organici dei servizi P.T. del Ministero delle poste e delle telecomunicazioni, allegate al [decreto del Presidente della Repubblica 26 luglio 1976, n. 752](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1976-07-26;752), sono sostituite rispettivamente dalle tabelle 2 e 3 allegate al presente decreto.   
-La pianta organica della ragioneria provinciale dello Stato di Bolzano, di cui alla lettera A) della tabella 18 allegata al [decreto del Presidente della Repubblica 26 luglio 1976, n. 752](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1976-07-26;752), e' integrata con la tabella 4 allegata al presente decreto.   
-  
+Gli esami per l'accertamento della conoscenza delle lingue italiana e tedesca previsti da leggi regionali o provinciali e dai regolamenti organici del personale in vigore per gli enti locali della provincia di Bolzano ai fini delle assunzioni comunque strutturate e denominate ad impieghi presso i rispettivi enti, superati anteriormente alla data della prima sessione d'esame di cui all'[art. 6 del decreto del Presidente della Repubblica 26 luglio 1976, n. 752](Norme%20di%20attuazione%20dello%20statuto%20speciale%20della%20regione%20Trentino-Alto%20Adige%20in%20materia%20di%20proporzionale%20negli%20uffici%20statali%20siti%20nella%20provincia%20di%20Bolzano%20e%20di%20conoscenza%20delle%20due%20lin_3773f71892e3.md), hanno validita' per i tre anni successivi all'entrata in vigore del presente decreto.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 31 luglio 1978
+Dato a Roma, addi' 19 ottobre 1977
 
-PERTINI ANDREOTTI - ROGNONI - BONIFACIO - PANDOLFI - GULLOTTI
-
-Visto, il Guardasigilli: BONIFACIO
-
-Registrato alla Corte dei conti, addi' 22 settembre 1978
-
-Atti di Governo, registro n. 18, foglio n. 52
-
-Tabella 1
-
- TABELLA 1   
-  
-MINISTERO DI GRAZIA E GIUSTIZIA   
-ORGANICI UFFICI GIUDIZIARI SITI IN PROVINCIA DI BOLZANO   
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=078U057100100010110001&dgu=1978-09-27&art.dataPubblicazioneGazzetta=1978-09-27&art.codiceRedazionale=078U0571)
-  
-
-Tabella 2
-
-  
-  
-TABELLA 2  
-  
-  
-MINISTERO DELLE POSTE E DELLE TELECOMUNICAZIONI  
-AZIENDA DI STATO PER I SERVIZI TELEFONICI  
-Tabella XII - Operatori telefonici  
-  
-Operatore telefonico superiore ed assistente | |  
-superiore di esercizio ....................... | 293 > 10  
-| 262 |  
-  
-Operatore telefonico principale ed assistente | |  
-principale di esercizio...................... | 242 > 52  
-| 218 |  
-  
-| 203 |  
-Operatore telefonico ........................... | 168 > 61  
-| 144 |  
-  
-  
-
-Tabella 3
-
- TABELLA 3   
-  
-MINISTERO DELLE POSTE E DELLE TELECOMUNICAZIONI   
-AMMINISTRAZIONE DELLE POSTE E DELLE TELECOMUNICAZIONI   
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=078U057100300010110001&dgu=1978-09-27&art.dataPubblicazioneGazzetta=1978-09-27&art.codiceRedazionale=078U0571)
-  
-
-Tabella 4
-
- TABELLA 4   
-  
-  
-  
-MINISTERO DEL TESORO  
-RAGIONERIA PROVINCIALE DELLO STATO  
-Carriera esecutiva tecnica  
-Qualifiche Posti   
-Operatore tecnico superiore ................................... 1  
-Operatore tecnico ............................................. 1  
---- Totale ... 2  
-  
-  
-  
-  
+LEONE ANDREOTTI - COSSIGA - BONIFACIO - PANDOLFI - STAMMATI - LATTANZIO - COLOMBO - DONAT-CATTIN Visto, il Guardasigilli: BONIFACIO Registrato alla Corte dei conti, addi' 23 novembre 1977 Atti di Governo, registro n. 15, foglio n. 26

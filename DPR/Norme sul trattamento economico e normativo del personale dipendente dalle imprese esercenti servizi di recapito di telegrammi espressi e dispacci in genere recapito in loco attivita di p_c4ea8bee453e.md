@@ -1,20 +1,20 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 gennaio 1962 n. 399
-
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 gennaio 1962 n. 399
-==============================================================
-
-Norme sul trattamento economico e normativo del personale dipendente dalle imprese esercenti servizi di recapito di telegrammi, espressi e dispacci in genere, recapito in loco, attivita' di pompe e trasporti funebri e servizi di pulizia pavimenti, vetrine e simili.
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 399
+data: 1962-01-02
+titolo: "Norme sul trattamento economico e normativo del personale dipendente dalle imprese esercenti servizi di recapito di telegrammi, espressi e dispacci in genere, recapito in loco, attivita' di pompe e trasporti funebri e servizi di pulizia pavimenti, vetrine e simili."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1962-01-02;399
+codice_redazionale: 062U0399
+vigente: true
+---
 
 IL PRESIDENTE DELLA REPUBBLICA
-------------------------------
 
-Visto l'[art. 87, comma quinto, della Costituzione](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27~art87-com5);
+Visto l'[art. 87, comma quinto, della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87-com5);
 
-Vista la [legge 14 luglio 1959, n. 741](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1959-07-14;741), che delega il Governo ad emanare norme transitorie per garantire minimi di trattamento economico e normativo ai lavoratori;
+Vista la [legge 14 luglio 1959, n. 741](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1959-07-14;741), che delega il Governo ad emanare norme transitorie per garantire minimi di trattamento economico e normativo ai lavoratori;
 
-Vista la [legge 1 ottobre 1960, n. 1027](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1960-10-01;1027), recante modifiche alla predetta [legge 14 luglio 1959, n. 741](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1959-07-14;741);
+Vista la [legge 1 ottobre 1960, n. 1027](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1960-10-01;1027), recante modifiche alla predetta [legge 14 luglio 1959, n. 741](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1959-07-14;741);
 
 Visto il contratto collettivo nazionale di lavoro 31 agosto 1947, per il personale non impiegatizio dipendente da imprese esercenti le attivita' ed i servizi ausiliari del traffico e trasporti complementari (servizi recapito telegrammi, espressi e dispacci in genere, recapito in loco; attivita' di pompe e trasporti funebri; servizi di pulizia pavimenti, vetrine, ecc.), stipulato tra l'Associazione Nazionale Ausiliari del Traffico e Trasporti Complementari e la Federazione italiana Lavoratori Trasporti ed Ausiliari del Traffico; al quale ha aderito, in data 31 luglio 1960, la Federazione Nazionale Lavoratori Trasporti e Ausiliari del Traffico - C.I.S.Na.L. -;
 
@@ -36,78 +36,20 @@ Vista la pubblicazione nell'apposito Bollettino, numero 140 e n. 41, in data 16 
 
 Sentito il Consiglio dei Ministri;
 
-Sulla
------
+Sulla proposta del Ministro per il lavoro e la previdenza sociale; Decreta:
 
-proposta del Ministro per il lavoro e la previdenza sociale; Decreta:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-I rapporti di lavoro costituiti per le attivita' per le quali sono stati stipulati i contratti e gli accordi sotto elencati sono regolati da norme giuridiche uniformi alle clausole dei contratti e degli accordi stessi, annessi al presente decreto:  
-- contratto collettivo nazionale di lavoro 31 agosto 1947, per il personale non impiegatizio dipendente da imprese esercenti le attivita' e i servizi ausiliari del traffico e trasporti complementari (servizi di recapito di telegrammi, espressi e dispacci in genere, recapito in loco; attivita' di pompe e trasporti funebri; servizi di pulizia pavimenti, vetrine, ecc.) contratto collettivo nazionale di lavoro 30 settembre 1947, per il personale impiegatizio dipendente da imprese esercenti le attivita' e i servizi ausiliari del traffico - trasporti complementari (servizi di recapito telegrammi, espressi e dispacci in genere, recapito in loco; attivita' di pompe e trasporti funebri; servizi di pulizia pavimenti, vetrine, ecc.);  
-- regolamento per la istituzione ed il funzionamento dei Collegi tecnici provinciali e nazionali per le assegnazioni di categoria degli impiegati, allegato al predetto contratto collettivo 30 settembre 1947;  
-- accordo collettivo nazionale 1 febbraio 1955, per il conglobamento e il riassetto zonale delle retribuzioni nel settore delle imprese esercenti servizi recapito telegrammi, espressi, dispacci in genere e recapito in loco;  
-- accordo collettivo nazionale 1 febbraio 1955, per il conglobamento ed il riassetto zonale delle retribuzioni nel settore delle imprese esercenti attivita' di pompe e trasporti funebri;  
-- accordo collettivo nazionale 1 febbraio 1955, per il conglobamento ed il riassetto zonale delle retribuzioni nel settore delle imprese esercenti servizi di pulizia pavimenti, vetrine e simili.  
-I minimi di trattamento economico e normativo cosi' stabiliti sono inderogabili nei confronti di tutto il personale dipendente dalle imprese esercenti servizi di recapito di telegrammi, espressi e dispacci in genere, recapito in loco, attivita' di pompe e trasporti funebri e servizi di pulizia pavimenti, vetrine e simili.  
-  
+I rapporti di lavoro costituiti per le attivita' per le quali sono stati stipulati i contratti e gli accordi sotto elencati sono regolati da norme giuridiche uniformi alle clausole dei contratti e degli accordi stessi, annessi al presente decreto:
+ - contratto collettivo nazionale di lavoro 31 agosto 1947, per il personale non impiegatizio dipendente da imprese esercenti le attivita' e i servizi ausiliari del traffico e trasporti complementari (servizi di recapito di telegrammi, espressi e dispacci in genere, recapito in loco; attivita' di pompe e trasporti funebri; servizi di pulizia pavimenti, vetrine, ecc.) contratto collettivo nazionale di lavoro 30 settembre 1947, per il personale impiegatizio dipendente da imprese esercenti le attivita' e i servizi ausiliari del traffico - trasporti complementari (servizi di recapito telegrammi, espressi e dispacci in genere, recapito in loco; attivita' di pompe e trasporti funebri; servizi di pulizia pavimenti, vetrine, ecc.);
+ - regolamento per la istituzione ed il funzionamento dei Collegi tecnici provinciali e nazionali per le assegnazioni di categoria degli impiegati, allegato al predetto contratto collettivo 30 settembre 1947;
+ - accordo collettivo nazionale 1 febbraio 1955, per il conglobamento e il riassetto zonale delle retribuzioni nel settore delle imprese esercenti servizi recapito telegrammi, espressi, dispacci in genere e recapito in loco;
+ - accordo collettivo nazionale 1 febbraio 1955, per il conglobamento ed il riassetto zonale delle retribuzioni nel settore delle imprese esercenti attivita' di pompe e trasporti funebri;
+ - accordo collettivo nazionale 1 febbraio 1955, per il conglobamento ed il riassetto zonale delle retribuzioni nel settore delle imprese esercenti servizi di pulizia pavimenti, vetrine e simili.
+ I minimi di trattamento economico e normativo cosi' stabiliti sono inderogabili nei confronti di tutto il personale dipendente dalle imprese esercenti servizi di recapito di telegrammi, espressi e dispacci in genere, recapito in loco, attivita' di pompe e trasporti funebri e servizi di pulizia pavimenti, vetrine e simili.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 2 gennaio 1962
+Dato a Roma, addi' 2 gennaio 1962
 
-GRONCHI FANFANI - SULLO
-
-Visto, il Guardasigilli: BOSCO
-
-Registrato alla Corte dei conti, addi' 19 maggio 1962
-
-Atti del Governo, registro n. 147, foglio n. 76. - VILLA
-
-Allegato
-
-CONTRATTO COLLETTIVO NAZIONALE DI LAVORO 31 AGOSTO 1947 PER IL PERSONALE NON IMPIEGATIZIO DIPENDENTE DA IMPRESE ESERCENTI LE ATTIVITA' E E I SERVIZI AUSILIARI DEL TRAFFICO E TRASPORTI COMPLEMENTARI (SERVIZI DI RECAPITO DI TELEGRAMMI, ESPRESSI E DISPACCI IN GENERE, RECAPITO IN LOCO; ATTIVITA' POMPE E TRASPORTI FUNEBRI; SERVIZI DI PULIZIA PAVIMENTI, VETRINE, ECC.).   
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=062U039900100010110001&dgu=1962-06-14&art.dataPubblicazioneGazzetta=1962-06-14&art.codiceRedazionale=062U0399)
-  
-  
-  
-  
-  
-CONTRATTO COLLETTIVO NAZIONALE DI LAVORO 30 SETTEMBRE 1947 PER IL PERSONALE IMPIEGATIZIO DIPENDENTE DA IMPRESE ESERCENTI LE ATTIVITA' E I SERVIZI AUSILIARI DEL TRAFFICO E TRASPORTI COMPLEMENTARI (SERVIZI DI RECAPITO TELEGRAMMI, ESPRESSI E DISPACCI IN GENERE, RECAPITO IN LOCO ATTIVITA' DI POMPE E TRASPORTI FUNEBRI; SERVIZI DI PULIZIA PAVIMENTI, VETRINE, ECC.)   
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=062U039900100010110002&dgu=1962-06-14&art.dataPubblicazioneGazzetta=1962-06-14&art.codiceRedazionale=062U0399)
-  
-  
-  
-  
-  
-ACCORDO COLLETTIVO NAZIONALE 1 febbraio 1955 PER IL CONGLOBAMENTO ED IL RIASSETTO ZONALE DELLE RETRIBUZIONI NEL SETTORE DELLE IMPRESE ESERCENTI SERVIZI RECAPITO TELEGRAMMI, ESPRESSI, DISPACCI IN GENERE E RECAPITO IN LOCO   
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=062U039900100010110003&dgu=1962-06-14&art.dataPubblicazioneGazzetta=1962-06-14&art.codiceRedazionale=062U0399)
-  
-  
-  
-  
-  
-ACCORDO COLLETTIVO NAZIONALE 1 febbraio 1955 PER IL CONGLOBAMENTO ED IL RIASSETTO ZONALE DELLE RETRIBUZIONI NEL SETTORE DELLE IMPRESE ESERCENTI ATTIVITA' DI POMPE E TRASPORTI FUNEBRI   
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=062U039900100010110004&dgu=1962-06-14&art.dataPubblicazioneGazzetta=1962-06-14&art.codiceRedazionale=062U0399)
-  
-  
-  
-  
-  
-ACCORDO COLLETTIVO NAZIONALE 1 febbraio 1955 PER IL CONGLOBAMENTO ED IL RIASSETTO ZONALE DELLE RETRIBUZIONI NEL SETTORE DELLE IMPRESE ESERCENTI SERVIZI DI PULIZIA PAVIMENTI, VETRINE, ECC.   
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=062U039900100010110005&dgu=1962-06-14&art.dataPubblicazioneGazzetta=1962-06-14&art.codiceRedazionale=062U0399)
-  
+GRONCHI FANFANI - SULLO Visto, il Guardasigilli: BOSCO Registrato alla Corte dei conti, addi' 19 maggio 1962 Atti del Governo, registro n. 147, foglio n. 76. - VILLA

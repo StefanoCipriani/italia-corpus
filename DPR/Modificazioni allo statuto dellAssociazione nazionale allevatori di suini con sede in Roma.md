@@ -1,19 +1,21 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 18 luglio 1969 n. 687
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 687
+data: 1969-07-18
+titolo: "Modificazioni allo statuto dell'Associazione nazionale allevatori di suini, con sede in Roma."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1969-07-18;687
+codice_redazionale: 069U0687
+vigente: true
+---
 
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 18 luglio 1969 n. 687
-=============================================================
-
-Modificazioni allo statuto dell'Associazione nazionale allevatori di suini, con sede in Roma.
----------------------------------------------------------------------------------------------
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-687. Decreto del Presidente della Repubblica 18 luglio 1969, col quale, sulla proposta del Ministro per l'agricoltura e le foreste, vengono approvate modificazioni allo statuto dell'Associazione nazionale allevatori di suini, con sede in Roma.  
-  
-Visto, il Guardasigilli: GAVA  
-Registrato alla Corte dei conti, addi' 15 ottobre 1969  
-Atti del Governo, registro n. 229, foglio n. 105. - CARUSO
+687.
+
+Decreto del Presidente della Repubblica 18 luglio 1969, col quale, sulla proposta del Ministro per l'agricoltura e le foreste, vengono approvate modificazioni allo statuto dell'Associazione nazionale allevatori di suini, con sede in Roma.
+
+Visto, il Guardasigilli: GAVA
+ Registrato alla Corte dei conti, addi' 15 ottobre 1969
+ Atti del Governo, registro n. 229, foglio n. 105. - CARUSO

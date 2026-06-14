@@ -1,26 +1,28 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 21 novembre 1984 n. 1085
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 1085
+data: 1984-11-21
+titolo: "Autorizzazione all'Associazione italiana della Croce rossa, in Roma, ad accettare una eredita'."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1984-11-21;1085
+codice_redazionale: 084U1085
+vigente: true
+---
 
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 21 novembre 1984 n. 1085
-================================================================
-
-Autorizzazione all'Associazione italiana della Croce rossa, in Roma, ad accettare una eredita'.
------------------------------------------------------------------------------------------------
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-1085. Decreto del Presidente della Repubblica 21 novembre 1984, col quale, sulla proposta del Ministro della sanita',   
-l'Associazione italiana della Croce rossa, in Roma, viene   
-autorizzata ad accettare, con beneficio d'inventario, l'eredita', consistente in un deposito bancario presso la Cassa di risparmio di   
-L'Aquila di circa L. 750.000 e in suppellettili contenute   
-nell'abitazione della de cuius, disposta dalla sig.na Cinzia   
-Micarelli con testamento olografo 8 dicembre 1973, pubblicato in   
-data 17 maggio 1974, n. 111787 di repertorio, a rogito dott.   
-Giovanni Fanti, notaio in L'Aquila, registrato a L'Aquila in data 22 maggio 1974 al n. 1552/c.   
-  
-Visto, il Guardasigilli: MARTINAZZOLI   
-Registrato alla Corte dei conti, addi' 19 febbraio 1985   
-Registro n. 2 Sanita', foglio n. 127
+1085.
+
+Decreto del Presidente della Repubblica 21 novembre 1984, col quale, sulla proposta del Ministro della sanita', 
+ l'Associazione italiana della Croce rossa, in Roma, viene 
+ autorizzata ad accettare, con beneficio d'inventario, l'eredita',  consistente in un deposito bancario presso la Cassa di risparmio di 
+ L'Aquila di circa L. 750.000 e in suppellettili contenute 
+ nell'abitazione della de cuius, disposta dalla sig.na Cinzia 
+ Micarelli con testamento olografo 8 dicembre 1973, pubblicato in 
+ data 17 maggio 1974, n. 111787 di repertorio, a rogito dott. 
+ Giovanni Fanti, notaio in L'Aquila, registrato a L'Aquila in data  22 maggio 1974 al n. 1552/c. 
+ 
+Visto, il Guardasigilli: MARTINAZZOLI 
+ Registrato alla Corte dei conti, addi' 19 febbraio 1985 
+ Registro n. 2 Sanita', foglio n. 127

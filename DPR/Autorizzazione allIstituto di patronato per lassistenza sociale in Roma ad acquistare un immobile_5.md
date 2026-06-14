@@ -1,19 +1,21 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 16 febbraio 1984 n. 234
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 564
+data: 1983-06-04
+titolo: "Autorizzazione all'Istituto di patronato per l'assistenza sociale, in Roma, ad acquistare un immobile."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1983-06-04;564
+codice_redazionale: 083U0564
+vigente: true
+---
 
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 16 febbraio 1984 n. 234
-===============================================================
-
-Autorizzazione all'Istituto di patronato per l'assistenza sociale, in Roma, ad acquistare un immobile.
-------------------------------------------------------------------------------------------------------
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-234. Decreto del Presidente della Repubblica 16 febbraio 1984, col quale, sulla proposta del Ministro del lavoro e della previdenza sociale, l'Istituto di patronato per l'assistenza sociale (IPAS), in Roma, viene autorizzato ad acquistare, al prezzo di L. 110.000.000, l'immobile rappresentato da due vani oltre l'interrato che comprende tre autorimesse e tre cantine, sito in Sassari, via Principessa Iolanda n. 6, censito al nuovo catasto edilizio urbano al foglio 87, mappale 566 e 449, di proprieta' dei signori Giovanni Luigi ed Angela Maria Scarpa, come da contratto preliminare di compravendita 20 marzo 1977.  
-  
-Visto, il Guardasigilli: MARTINAZZOLI  
-Registrato alla Corte dei conti, addi' 11 giugno 1984  
-Registro n. 8 Lavoro, foglio n. 219
+564.
+
+Decreto del Presidente della Repubblica 4 giugno 1983, col quale, sulla proposta del Ministro del lavoro e della previdenza sociale, l'Istituto di patronato per l'assistenza sociale, in Roma, viene autorizzato ad acquistare, al prezzo di L. 106.000.000, un appartamento di sette locali al primo piano e un locale cantina dello stabile sito in Milano, piazza Tricolore n. 3, censito al nuovo catasto edilizio urbano al foglio 354, mappale 230 sub 20-21, di proprieta' delle signore Maria Grazia, Patrizia, Maria Paola Bevilacqua e Maria Maddalena Pelissa ved. Bevilacqua, come da atto di dichiarazione di terzo acquirente 10 settembre 1976, n. 433707 di repertorio, a rogito dott. Giovanni Lainati, notaio in Milano, registrato a Milano in data 20 settembre 1976 al n. 12683, da adibire ad uffici del patronato.
+
+Visto, il Guardasigilli: MARTINAZZOLI
+ Registrato alla Corte dei conti, addi' 12 ottobre 1983
+ Registro n. 1 Lavoro, foglio n. 206

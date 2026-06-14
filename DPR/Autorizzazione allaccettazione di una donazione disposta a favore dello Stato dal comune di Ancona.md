@@ -1,19 +1,21 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 09 agosto 1960 n. 1340
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 1340
+data: 1960-08-09
+titolo: "Autorizzazione all'accettazione di una donazione disposta a favore dello Stato, dal comune di Ancona."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1960-08-09;1340
+codice_redazionale: 060U1340
+vigente: true
+---
 
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 09 agosto 1960 n. 1340
-==============================================================
-
-Autorizzazione all'accettazione di una donazione disposta a favore dello Stato, dal comune di Ancona.
------------------------------------------------------------------------------------------------------
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-1340. Decreto del Presidente della Repubblica 9 agosto 1960, col quale, sulla proposta del Ministro per le finanze, viene autorizzata l'accettazione della donazione disposta a favore dello Stato dal comune di Ancona, con atto n. 29218 di rep. del notaio Chiorrini dott. Giovanni in data 21 marzo 1958, di un'area della superficie di mq. 1993, sita in quella localita', gia' utilizzata per sedime di case per senza tetto.  
-  
-Visto, il Guardasigilli: GONELLA  
-Registrato alla Corte dei conti, addi' 9 novembre 1960  
-Atti del Governo, registro n. 131, foglio n. 28. - VILLA
+1340.
+
+Decreto del Presidente della Repubblica 9 agosto 1960, col quale, sulla proposta del Ministro per le finanze, viene autorizzata l'accettazione della donazione disposta a favore dello Stato dal comune di Ancona, con atto n. 29218 di rep. del notaio Chiorrini dott. Giovanni in data 21 marzo 1958, di un'area della superficie di mq. 1993, sita in quella localita', gia' utilizzata per sedime di case per senza tetto.
+
+Visto, il Guardasigilli: GONELLA
+ Registrato alla Corte dei conti, addi' 9 novembre 1960
+ Atti del Governo, registro n. 131, foglio n. 28. - VILLA

@@ -1,19 +1,21 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 18 ottobre 1957 n. 1096
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 1096
+data: 1957-10-18
+titolo: "Riconoscimento della personalita' giuridica della Chiesa parrocchiale Maria SS.ma Assunta in Cielo - Cattedrale - in Giovinazzo (Bari)."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1957-10-18;1096
+codice_redazionale: 057U1096
+vigente: true
+---
 
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 18 ottobre 1957 n. 1096
-===============================================================
-
-Riconoscimento della personalita' giuridica della Chiesa parrocchiale Maria SS.ma Assunta in Cielo - Cattedrale - in Giovinazzo (Bari).
----------------------------------------------------------------------------------------------------------------------------------------
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-1096. Decreto del Presidente della Repubblica 18 ottobre 1957, col quale, sulla proposta del Ministro per l'interno, viene riconosciuta la personalita' giuridica della Chiesa parrocchiale Maria SS.ma Assunta in Cielo Cattedrale in Giovinazzo (Bari).   
-  
-Visto, il Guardasigilli: GONELLA   
-Registrato alla Corte dei conti, addi' 14 novembre 1957   
-Atti del Governo, registro n. 109, foglio n. 25. - RELLEVA
+1096.
+
+Decreto del Presidente della Repubblica 18 ottobre 1957, col quale, sulla proposta del Ministro per l'interno, viene riconosciuta la personalita' giuridica della Chiesa parrocchiale Maria SS.ma Assunta in Cielo Cattedrale in Giovinazzo (Bari). 
+ 
+Visto, il Guardasigilli: GONELLA 
+ Registrato alla Corte dei conti, addi' 14 novembre 1957 
+ Atti del Governo, registro n. 109, foglio n. 25. - RELLEVA

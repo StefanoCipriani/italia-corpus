@@ -1,18 +1,17 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 04 dicembre 1954 n. 1355
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 1355
+data: 1954-12-04
+titolo: "Istituzione di un Commissariato per la liquidazione degli usi civici, con sede in Potenza."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1954-12-04;1355
+codice_redazionale: 054U1355
+vigente: true
+---
 
+## Art. 1.
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 04 dicembre 1954 n. 1355
-================================================================
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
 
-Istituzione di un Commissariato per la liquidazione degli usi civici, con sede in Potenza.
-------------------------------------------------------------------------------------------
+## Art. 2.
 
-Art. 1
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
-
-Art. 2
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))

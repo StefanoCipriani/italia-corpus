@@ -1,19 +1,21 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 07 aprile 1963 n. 732
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 732
+data: 1963-04-07
+titolo: "Riconoscimento della personalita' giuridica della Fondazione \"Casa D'Annunzio\", con sede in Pescara."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1963-04-07;732
+codice_redazionale: 063U0732
+vigente: true
+---
 
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 07 aprile 1963 n. 732
-=============================================================
-
-Riconoscimento della personalita' giuridica della Fondazione "Casa D'Annunzio", con sede in Pescara.
-----------------------------------------------------------------------------------------------------
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-732. Decreto del Presidente della Repubblica 7 aprile 1963, col quale, sulla proposta del Ministro per la pubblica istruzione viene riconosciuta la personalita' giuridica della Fondazione "Casa D'Annunzio, con sede in Pescara, e ne viene approvato lo statuto.  
-  
-Visto, il Guardasigilli: BOSCO  
-Registrato alla Corte dei conti, addi' 29 maggio 1963  
-Atti del governo, registro n. 170, foglio n. 11. - VILLA
+732.
+
+Decreto del Presidente della Repubblica 7 aprile 1963, col quale, sulla proposta del Ministro per la pubblica istruzione viene riconosciuta la personalita' giuridica della Fondazione "Casa D'Annunzio, con sede in Pescara, e ne viene approvato lo statuto.
+
+Visto, il Guardasigilli: BOSCO
+ Registrato alla Corte dei conti, addi' 29 maggio 1963
+ Atti del governo, registro n. 170, foglio n. 11. - VILLA

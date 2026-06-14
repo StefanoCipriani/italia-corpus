@@ -1,19 +1,21 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 21 gennaio 1958 n. 222
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 222
+data: 1958-01-21
+titolo: "Autorizzazione all'accettazione della donazione allo Stato, da parte del comune di Bologna, di un'area di terreno."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1958-01-21;222
+codice_redazionale: 058U0222
+vigente: true
+---
 
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 21 gennaio 1958 n. 222
-==============================================================
-
-Autorizzazione all'accettazione della donazione allo Stato, da parte del comune di Bologna, di un'area di terreno.
-------------------------------------------------------------------------------------------------------------------
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-222. Decreto del Presidente della Repubblica 21 gennaio 1958, col quale, sulla proposta del Ministro per le finanze, viene autorizzata l'accettazione della donazione allo Stato, da parte del comune di Bologna, di un'area della superficie di mq. 12.667, sita nella localita', gia' in parte utilizzata per costruzione di case per senza tetto.  
-  
-Visto, il Guardasigilli: GONELLA  
-Registrato alla Corte dei conti, addi' 26 marzo 1958  
-Atti del Governo, registro n. 111, foglio n. 168. - RELLEVA
+222.
+
+Decreto del Presidente della Repubblica 21 gennaio 1958, col quale, sulla proposta del Ministro per le finanze, viene autorizzata l'accettazione della donazione allo Stato, da parte del comune di Bologna, di un'area della superficie di mq. 12.667, sita nella localita', gia' in parte utilizzata per costruzione di case per senza tetto.
+
+Visto, il Guardasigilli: GONELLA
+ Registrato alla Corte dei conti, addi' 26 marzo 1958
+ Atti del Governo, registro n. 111, foglio n. 168. - RELLEVA

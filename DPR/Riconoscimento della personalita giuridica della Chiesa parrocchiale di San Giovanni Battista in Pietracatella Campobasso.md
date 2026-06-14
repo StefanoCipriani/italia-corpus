@@ -1,19 +1,21 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 04 febbraio 1955 n. 205
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 205
+data: 1955-02-04
+titolo: "Riconoscimento della personalita' giuridica della Chiesa parrocchiale di San Giovanni Battista, in Pietracatella (Campobasso)."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1955-02-04;205
+codice_redazionale: 055U0205
+vigente: true
+---
 
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 04 febbraio 1955 n. 205
-===============================================================
-
-Riconoscimento della personalita' giuridica della Chiesa parrocchiale di San Giovanni Battista, in Pietracatella (Campobasso).
-------------------------------------------------------------------------------------------------------------------------------
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-205. Decreto del Presidente della Repubblica 4 febbraio 1955, col quale, sulla proposta del Ministro per l'interno, viene riconosciuta la personalita' giuridica della Chiesa parrocchiale di San Giovanni Battista, in Pietracatella (Campobasso) e la medesima viene autorizzata ad accettare l'eredita' disposta da Giorgio Filomena, consistente in tre appezzamenti di terreno situati in Pietracatella.  
-  
-Visto, il Guardasigilli: DE PIETRO  
-Registrato alla Corte dei conti, addi' 29 marzo 1955  
-Atti del Governo, registro n. 89, foglio n. 207. - CARLOMAGNO
+205.
+
+Decreto del Presidente della Repubblica 4 febbraio 1955, col quale, sulla proposta del Ministro per l'interno, viene riconosciuta la personalita' giuridica della Chiesa parrocchiale di San Giovanni Battista, in Pietracatella (Campobasso) e la medesima viene autorizzata ad accettare l'eredita' disposta da Giorgio Filomena, consistente in tre appezzamenti di terreno situati in Pietracatella.
+
+Visto, il Guardasigilli: DE PIETRO
+ Registrato alla Corte dei conti, addi' 29 marzo 1955
+ Atti del Governo, registro n. 89, foglio n. 207. - CARLOMAGNO

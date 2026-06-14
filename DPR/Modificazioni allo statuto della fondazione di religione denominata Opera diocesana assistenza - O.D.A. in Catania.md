@@ -1,19 +1,21 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 05 novembre 1981 n. 850
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 850
+data: 1981-11-05
+titolo: "Modificazioni allo statuto della fondazione di religione denominata \"Opera diocesana assistenza - O.D.A.\", in Catania."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1981-11-05;850
+codice_redazionale: 081U0850
+vigente: true
+---
 
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 05 novembre 1981 n. 850
-===============================================================
-
-Modificazioni allo statuto della fondazione di religione denominata "Opera diocesana assistenza - O.D.A.", in Catania.
-----------------------------------------------------------------------------------------------------------------------
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-850. Decreto del Presidente della Repubblica 5 novembre 1981, col quale, sulla proposta del Ministro dell'interno, vengono approvate le modificazioni agli articoli 2, 5 e 7 dello statuto della fondazione di religione denominata "Opera diocesana assistenza - O.D.A.", in Catania.  
-  
-Visto, il Guardasigilli: DARIDA  
-Registrato alla Corte dei conti, addi' 9 gennaio 1982  
-Registro n. 1 Interno, foglio n. 122
+850.
+
+Decreto del Presidente della Repubblica 5 novembre 1981, col quale, sulla proposta del Ministro dell'interno, vengono approvate le modificazioni agli articoli 2, 5 e 7 dello statuto della fondazione di religione denominata "Opera diocesana assistenza - O.D.A.", in Catania.
+
+Visto, il Guardasigilli: DARIDA
+ Registrato alla Corte dei conti, addi' 9 gennaio 1982
+ Registro n. 1 Interno, foglio n. 122

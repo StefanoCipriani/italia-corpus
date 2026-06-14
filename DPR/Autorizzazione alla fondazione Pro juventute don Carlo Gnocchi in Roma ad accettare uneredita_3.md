@@ -1,20 +1,21 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 20 giugno 1975 n. 329
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 626
+data: 1974-10-10
+titolo: "Autorizzazione alla fondazione \"Pro juventute don Carlo Gnocchi\", in Roma, ad accettare un'eredita'."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1974-10-10;626
+codice_redazionale: 074U0626
+vigente: true
+---
 
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 20 giugno 1975 n. 329
-=============================================================
-
-Autorizzazione alla fondazione "Pro juventute don Carlo Gnocchi", in Roma, ad accettare un'eredita'.
-----------------------------------------------------------------------------------------------------
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-329. Decreto del Presidente della Repubblica 20 giugno 1975, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la fondazione "Pro juventute don Carlo Gnocchi", in Roma, viene autorizzata ad accettare, col beneficio d'inventario, l'eredita' disposta dalla sig.ra Ida Di Gennaro ved. Tarantini con testamento pubblico del 27 dicembre 1967, reso nota a rogito del notaio dott.  
-Alessandro Chieffi in data 16 marzo 1971, n. 76449 di repertorio, registrato a Napoli il 23 marzo 1971 con il n. 7102, mod. 71/4, consistente nella quota parte dell'asse ereditario del valore presunto di L. 19.000.000, dedotte le passivita'.  
-  
-Visto, il Guardasigilli: REALE  
-Registrato alla Corte dei conti, addi' 30 luglio 1975  
-Atti di Governo, registro n. 11, foglio n. 42
+626.
+
+Decreto del Presidente della Repubblica 10 ottobre 1974, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la fondazione "Pro juventute don Carlo Gnocchi", in Roma, viene autorizzata ad accettare, col beneficio d'inventario, l'eredita' disposta dalla sig.ra Pedrocco Carlotta in Vio con testamento olografo in data 10 agosto 1963, pubblicato il 24 novembre 1970 per atto del dott. Angelo Sandi, notaio in Venezia, n. 26319 di repertorio e n. 2567 di raccolta, registrato a Venezia in data 14 dicembre 1970 al n. 6896 - Vol. 22, in favore dei mutilatini di don Gnocchi che si identificano con la fondazione "Pro juventute don Carlo Gnocchi", consistente nella quota parte di immobili, titoli, buoni postali e depositi bancari vari per un valore presunto di lire 72.880.945. 
+ 
+Visto, il Guardasigilli: ZAGARI 
+ Registrato alla Corte dei conti, addi' 25 novembre 1974 
+ Atti di Governo, registro n. 7, foglio n. 41. - SCIARRETTA

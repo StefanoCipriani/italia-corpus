@@ -1,35 +1,27 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 maggio 1983 n. 475
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 475
+data: 1983-05-31
+titolo: "Concessione all'Ente nazionale italiano per il turismo del patrocinio e dell'assistenza in giudizio dell'Avvocatura dello Stato."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1983-05-31;475
+codice_redazionale: 083U0475
+vigente: true
+---
 
+## Art. 1.
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 maggio 1983 n. 475
-=============================================================
+IL PRESIDENTE DELLA REPUBBLICA
 
-Concessione all'Ente nazionale italiano per il turismo del patrocinio e dell'assistenza in giudizio dell'Avvocatura dello Stato.
---------------------------------------------------------------------------------------------------------------------------------
+ Visto l'art. 43 del testo unico delle leggi e delle norme giuridiche sulla rappresentanza e difesa in giudizio dello Stato e sull'ordinamento dell'Avvocatura dello Stato, approvato con [regio decreto 30 ottobre 1933, n. 1611](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-10-30;1611), modificato dall'[art. 1 della legge 16 novembre 1939, n. 1889](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1939-11-16;1889#art_1), e integrato dall'[art. 11 della legge 3 aprile 1979, n. 103](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1979-04-03;103#art_11);
+ Considerata la opportunita' di autorizzare l'Avvocatura dello Stato ad assumere il patrocinio dell'Ente nazionale italiano per il turismo (ENIT);
+ Sulla proposta del Presidente del Consiglio dei Ministri, di concerto con i Ministri grazia e giustizia e del tesoro;
 
-Art. 1
-------
+ Decreta:
 
- IL PRESIDENTE DELLA REPUBBLICA  
-  
-Visto l'art. 43 del testo unico delle leggi e delle norme giuridiche sulla rappresentanza e difesa in giudizio dello Stato e sull'ordinamento dell'Avvocatura dello Stato, approvato con [regio decreto 30 ottobre 1933, n. 1611](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-10-30;1611), modificato dall'[art. 1 della legge 16 novembre 1939, n. 1889](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1939-11-16;1889~art1), e integrato dall'[art. 11 della legge 3 aprile 1979, n. 103](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1979-04-03;103~art11);  
-Considerata la opportunita' di autorizzare l'Avvocatura dello Stato ad assumere il patrocinio dell'Ente nazionale italiano per il turismo (ENIT);  
-Sulla proposta del Presidente del Consiglio dei Ministri, di concerto con i Ministri grazia e giustizia e del tesoro;  
-  
-Decreta:  
-  
-L'Avvocatura dello Stato e' autorizzata ad assumere la rappresentanza e la difesa dell'Ente nazionale italiano per il turismo (ENIT) nei giudizi attivi e passivi avanti le autorita' giudiziarie, i collegi arbitrali, le giurisdizioni amministrative e speciali.  
-  
+ L'Avvocatura dello Stato e' autorizzata ad assumere la rappresentanza e la difesa dell'Ente nazionale italiano per il turismo (ENIT) nei giudizi attivi e passivi avanti le autorita' giudiziarie, i collegi arbitrali, le giurisdizioni amministrative e speciali.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 31 maggio 1983
+Dato a Roma, addi' 31 maggio 1983
 
-PERTINI FANFANI - DARIDA - GORIA
-
-Visto, il Guardasigilli: DARIDA
-
-Registrato alla Corte dei conti, addi' 8 settembre 1983
-
-Registro n. 7 Presidenza, foglio n. 297
+PERTINI FANFANI - DARIDA - GORIA Visto, il Guardasigilli: DARIDA Registrato alla Corte dei conti, addi' 8 settembre 1983 Registro n. 7 Presidenza, foglio n. 297

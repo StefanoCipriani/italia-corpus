@@ -1,18 +1,20 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 09 giugno 1950 n. 639
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 639
+data: 1950-06-09
+titolo: "Estinzione della \"Fondazione Massa convalescenti del 4° reggimento fanteria\"."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1950-06-09;639
+codice_redazionale: 050U0639
+vigente: true
+---
 
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 09 giugno 1950 n. 639
-=============================================================
-
-Estinzione della "Fondazione Massa convalescenti del 4° reggimento fanteria".
------------------------------------------------------------------------------
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-639. Decreto del Presidente della Repubblica 9 giugno 1950, col quale, sulla proposta del Ministro per la difesa, viene dichiarata estinta la "Fondazione Massa convalescenti del 4° reggimento fanteria".  
-  
-Visto, il Guardasigilli: PICCIONI  
-Registrato alla Corte dei conti, addi' 12 agosto 1950
+639.
+
+Decreto del Presidente della Repubblica 9 giugno 1950, col quale, sulla proposta del Ministro per la difesa, viene dichiarata estinta la "Fondazione Massa convalescenti del 4° reggimento fanteria".
+
+Visto, il Guardasigilli: PICCIONI
+ Registrato alla Corte dei conti, addi' 12 agosto 1950

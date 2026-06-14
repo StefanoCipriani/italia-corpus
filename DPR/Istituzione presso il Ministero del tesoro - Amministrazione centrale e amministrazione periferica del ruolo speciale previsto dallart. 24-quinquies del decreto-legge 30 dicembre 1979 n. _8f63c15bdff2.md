@@ -1,236 +1,70 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 07 settembre 1982 n. 1071
-
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 07 settembre 1982 n. 1071
-=================================================================
-
-Istituzione presso il Ministero del tesoro - Amministrazione centrale e amministrazione periferica, del ruolo speciale previsto dall'art. 24-quinquies del decreto-legge 30 dicembre 1979, n. 663, convertito, con modificazioni, nella legge 29 febbraio 1980, n. 33, e relativa dotazione organica.
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 1071
+data: 1982-09-07
+titolo: "Istituzione presso il Ministero del tesoro - Amministrazione centrale e amministrazione periferica, del ruolo speciale previsto dall'art. 24-quinquies del decreto-legge 30 dicembre 1979, n. 663, convertito, con modificazioni, nella legge 29 febbraio 1980, n. 33, e relativa dotazione organica."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1982-09-07;1071
+codice_redazionale: 082U1071
+vigente: true
+---
 
 IL PRESIDENTE DELLA REPUBBLICA
-------------------------------
 
-Visto l'[art. 24-quinquies del decreto-legge 30 dicembre 1979, n. 633](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1979-12-30;633~art24quinquies), nel testo introdotto dall'art. 1 della legge di conversione 29 febbraio 1980, n. 33, con le integrazioni di cui all'[art. 21 della legge 20 marzo 1980, n. 75](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1980-03-20;75~art21), che prevede l'inquadramento in distinti ruoli speciali del personale degli enti pubblici interessati a provvedimenti di soppressione, scorporo e riforma, nonche' di quello comunque destinato ai ruoli unici di cui al [decreto del Presidente della Repubblica 24 luglio 1977, n. 618](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1977-07-24;618), in base a leggi speciali, che non abbia trovato collocazione presso gli enti pubblici di cui alla tabella A della [legge 20 marzo 1975, n. 70](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1975-03-20;70), ovvero che abbia esercitato la facolta' di opzione nei termini previsti dall'art. 21 della citata [legge 20 marzo 1980, n. 75](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1980-03-20;75);
+Visto l'[art. 24-quinquies del decreto-legge 30 dicembre 1979, n. 633](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1979-12-30;633#art_24quinquies), nel testo introdotto dall'art. 1 della legge di conversione 29 febbraio 1980, n. 33, con le integrazioni di cui all'[art. 21 della legge 20 marzo 1980, n. 75](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1980-03-20;75#art_21), che prevede l'inquadramento in distinti ruoli speciali del personale degli enti pubblici interessati a provvedimenti di soppressione, scorporo e riforma, nonche' di quello comunque destinato ai ruoli unici di cui al [decreto del Presidente della Repubblica 24 luglio 1977, n. 618](Istituzione%20presso%20la%20Presidenza%20del%20Consiglio%20dei%20Ministri%20di%20ruoli%20unici%20di%20impiegati%20ed%20operai.md), in base a leggi speciali, che non abbia trovato collocazione presso gli enti pubblici di cui alla tabella A della [legge 20 marzo 1975, n. 70](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1975-03-20;70), ovvero che abbia esercitato la facolta' di opzione nei termini previsti dall'art. 21 della citata [legge 20 marzo 1980, n. 75](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1980-03-20;75);
 
-Visti i [decreti del Presidente della Repubblica 24 luglio 1977, n. 616](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1977-07-24;616) e [n. 618](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1977-07-24;618);
+Visti i [decreti del Presidente della Repubblica 24 luglio 1977, n. 616](Attuazione%20della%20delega%20di%20cui%20allart.%201%20della%20legge%2022%20luglio%201975%20n.%20382.md) e [n. 618](Istituzione%20presso%20la%20Presidenza%20del%20Consiglio%20dei%20Ministri%20di%20ruoli%20unici%20di%20impiegati%20ed%20operai.md);
 
-Vista la [legge 21 ottobre 1978, n. 641](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-10-21;641);
+Vista la [legge 21 ottobre 1978, n. 641](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2018%20agosto%201978%20n.%20481%20concernente%20fissazione%20al%201%20gennaio%201979%20del%20termine%20previsto%20dallarticolo%20113%20decimo%20comma%20del%20decreto%20del%20_6d42d55be19b.md);
 
-Vista la [legge 23 dicembre 1978, n. 833](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-12-23;833);
+Vista la [legge 23 dicembre 1978, n. 833](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-12-23;833);
 
-Visto l'[art. 5 del decreto-legge 1 luglio 1980, n. 285](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1980-07-01;285~art5), nel testo sostituito dall'articolo unico della legge di conversione 8 agosto 1980, n. 441;
+Visto l'[art. 5 del decreto-legge 1 luglio 1980, n. 285](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1980-07-01;285#art_5), nel testo sostituito dall'articolo unico della legge di conversione 8 agosto 1980, n. 441;
 
-Vista la [legge 20 marzo 1975, n. 70](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1975-03-20;70);
+Vista la [legge 20 marzo 1975, n. 70](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1975-03-20;70);
 
-Visto il [decreto del Presidente della Repubblica 26 maggio 1976, n. 411](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1976-05-26;411), con particolare riguardo alla determinazione dello stato giuridico, nonche' all'attribuzione dell'anzianita' di qualifica;
+Visto il [decreto del Presidente della Repubblica 26 maggio 1976, n. 411](Disciplina%20del%20rapporto%20di%20lavoro%20del%20personale%20degli%20enti%20pubblici%20di%20cui%20alla%20legge%2020%20marzo%201975%20n.%2070.md), con particolare riguardo alla determinazione dello stato giuridico, nonche' all'attribuzione dell'anzianita' di qualifica;
 
-Visto l'[art. 1 del decreto del Presidente della Repubblica 16 ottobre 1979, n. 509](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1979-10-16;509~art1);
+Visto l'[art. 1 del decreto del Presidente della Repubblica 16 ottobre 1979, n. 509](Approvazione%20della%20disciplina%20del%20rapporto%20di%20lavoro%20del%20personale%20degli%20enti%20pubblici%20di%20cui%20alla%20legge%2020%20marzo%201975%20n.%2070%20contenuta%20nellipotesi%20di%20accordo%20del%2031%20luglio%201979%20ad%20eccezio_60a49813039a.md);
 
-Visto il [decreto del Presidente della Repubblica 10 gennaio 1957, n. 3](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1957-01-10;3), e successive modificazioni;
+Visto il [decreto del Presidente della Repubblica 10 gennaio 1957, n. 3](Testo%20unico%20delle%20disposizioni%20concernenti%20lo%20statuto%20degli%20impiegati%20civili%20dello%20Stato.md), e successive modificazioni;
 
-Visto il [decreto del Presidente della Repubblica 28 dicembre 1970, n. 1077](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1970-12-28;1077);
+Visto il [decreto del Presidente della Repubblica 28 dicembre 1970, n. 1077](Riordinamento%20delle%20carriere%20degli%20impiegati%20civili%20dello%20Stato.md);
 
-Visto il [decreto del Presidente della Repubblica 30 giugno 1972, n. 748](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1972-06-30;748), e successive modificazioni;
+Visto il [decreto del Presidente della Repubblica 30 giugno 1972, n. 748](Disciplina%20delle%20funzioni%20dirigenziali%20nelle%20Amministrazioni%20dello%20Stato%20anche%20ad%20ordinamento%20autonomo.md), e successive modificazioni;
 
-Vista la [legge 11 luglio 1980, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1980-07-11;312);
+Vista la [legge 11 luglio 1980, n. 312](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1980-07-11;312);
 
-Visto il [decreto-legge 6 giugno 1981, n. 283](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1981-06-06;283), convertito, con modificazioni, nella [legge 6 agosto 1981, n. 432](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1981-08-06;432);
+Visto il [decreto-legge 6 giugno 1981, n. 283](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1981-06-06;283), convertito, con modificazioni, nella [legge 6 agosto 1981, n. 432](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%206%20giugno%201981%20n.%20283%20concernente%20copertura%20finanziaria%20dei%20decreti%20del%20Presidente%20della%20Repubblica%20di%20attuazione%20degli%20accordi%20con_2423a780c289.md);
 
-Visti gli [articoli 9](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1981-06-09;310~art9) e [14 del decreto del Presidente della Repubblica 9 giugno 1981, n. 310](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1981-06-09;310~art14);
+Visti gli [articoli 9](Corresponsione%20di%20miglioramenti%20economici%20al%20personale%20statale.md) e [14 del decreto del Presidente della Repubblica 9 giugno 1981, n. 310](Corresponsione%20di%20miglioramenti%20economici%20al%20personale%20statale.md);
 
-Visto il decreto del Presidente del Consiglio dei Ministri 7 febbraio 1981, registrato alla [Corte dei conti il 6 agosto 1981](https://e-justice.europa.eu/ecli/ECLI::::), registro n. 7 Presidenza, foglio n. 106, recante norme per la disciplina dell'inquadramento dei ruoli speciali delle amministrazioni dello Stato e le tabelle di equiparazione tra le qualifiche dell'ordinamento statale e le posizioni giuridiche rivestite dal personale negli ordinamenti di provenienza;
+Visto il decreto del Presidente del Consiglio dei Ministri 7 febbraio 1981, registrato alla Corte dei conti il 6 agosto 1981, registro n. 7 Presidenza, foglio n. 106, recante norme per la disciplina dell'inquadramento dei ruoli speciali delle amministrazioni dello Stato e le tabelle di equiparazione tra le qualifiche dell'ordinamento statale e le posizioni giuridiche rivestite dal personale negli ordinamenti di provenienza;
 
-Sulla
------
+Sulla proposta del Ministro del tesoro; Decreta:
 
-proposta del Ministro del tesoro; Decreta:
+## Art. 1.
 
-Art. 1
-------
+In attesa che si provveda alla rideterminazione, per ogni qualifica, delle dotazioni organiche delle singole amministrazioni statali, in attuazione del disposto degli [articoli 5](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1980-07-11;312#art_5) e [133 della legge 11 luglio 1980, n. 312](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1980-07-11;312#art_133), sono istituiti presso il Ministero del tesoro - Amministrazione centrale e amministrazione periferica, i ruoli speciali previsti dall'[art. 24-quinquies del decreto-legge 30 dicembre 1979, n. 663](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1979-12-30;663#art_24quinquies), convertito, con modificazioni, nella [legge 29 febbraio 1980, n. 33](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2030%20dicembre%201979%20n.%20663%20concernente%20provvedimenti%20per%20il%20finanziamento%20del%20Servizio%20sanitario%20nazionale%20per%20la%20previdenza%20per%20il%20c_9d4821b80b65.md).
 
-  
-In attesa che si provveda alla rideterminazione, per ogni qualifica, delle dotazioni organiche delle singole amministrazioni statali, in attuazione del disposto degli [articoli 5](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1980-07-11;312~art5) e [133 della legge 11 luglio 1980, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1980-07-11;312~art133), sono istituiti presso il Ministero del tesoro - Amministrazione centrale e amministrazione periferica, i ruoli speciali previsti dall'[art. 24-quinquies del decreto-legge 30 dicembre 1979, n. 663](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1979-12-30;663~art24quinquies), convertito, con modificazioni, nella [legge 29 febbraio 1980, n. 33](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1980-02-29;33).  
+## Art. 2.
 
-Art. 2
-------
+Le dotazioni organiche dei ruoli speciali di cui al precedente articolo sono fissate nelle tabelle allegate al presente decreto.
+ Nei ruoli speciali e' inquadrato il personale di cui al [terzo comma dell'art. 24-quinquies del decreto-legge 30 dicembre 1979, n. 663](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1979-12-30;663#art_24quinquies-com3), convertito, con modificazioni, nella [legge 29 febbraio 1980, n. 33](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2030%20dicembre%201979%20n.%20663%20concernente%20provvedimenti%20per%20il%20finanziamento%20del%20Servizio%20sanitario%20nazionale%20per%20la%20previdenza%20per%20il%20c_9d4821b80b65.md), come integrato dall'[art. 21 della legge 20 marzo 1980, n. 75](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1980-03-20;75#art_21), assegnato all'amministrazione centrale e a quella periferica del Ministero del tesoro.
 
-  
-Le dotazioni organiche dei ruoli speciali di cui al precedente articolo sono fissate nelle tabelle allegate al presente decreto.  
-Nei ruoli speciali e' inquadrato il personale di cui al [terzo comma dell'art. 24-quinquies del decreto-legge 30 dicembre 1979, n. 663](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1979-12-30;663~art24quinquies-com3), convertito, con modificazioni, nella [legge 29 febbraio 1980, n. 33](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1980-02-29;33), come integrato dall'[art. 21 della legge 20 marzo 1980, n. 75](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1980-03-20;75~art21), assegnato all'amministrazione centrale e a quella periferica del Ministero del tesoro.  
+## Art. 3.
 
-Art. 3
-------
+L'inquadramento nei ruoli speciali e' effettuato, con decorrenza 1 gennaio 1981 o con decorrenze successive in conseguenza della entrata in vigore di ulteriori provvedimenti di soppressione, scorporo o riforma di enti pubblici, con decreto del Ministro del tesoro, nelle qualifiche previste nelle allegate tabelle A e B, sulla base della disciplina generale e delle tabelle di equiparazione fissate con il decreto del Presidente del Consiglio dei Ministri 7 febbraio 1981.
 
-  
-L'inquadramento nei ruoli speciali e' effettuato, con decorrenza 1 gennaio 1981 o con decorrenze successive in conseguenza della entrata in vigore di ulteriori provvedimenti di soppressione, scorporo o riforma di enti pubblici, con decreto del Ministro del tesoro, nelle qualifiche previste nelle allegate tabelle A e B, sulla base della disciplina generale e delle tabelle di equiparazione fissate con il decreto del Presidente del Consiglio dei Ministri 7 febbraio 1981.  
+## Art. 4.
 
-Art. 4
-------
+Al personale inquadrato nei ruoli speciali istituiti con il presente decreto si applicano le disposizioni sul trattamento giuridico ed economico di attivita' di servizio nonche' quello di previdenza e di quiescenza vigenti per i dipendenti civili dello Stato.
 
-  
-Al personale inquadrato nei ruoli speciali istituiti con il presente decreto si applicano le disposizioni sul trattamento giuridico ed economico di attivita' di servizio nonche' quello di previdenza e di quiescenza vigenti per i dipendenti civili dello Stato.  
+## Art. 5.
 
-Art. 5
-------
-
-  
-  
-Con successivi decreti del Presidente della Repubblica potranno essere apportate modifiche alle tabelle allegate al presente decreto in conseguenza della necessita' di inquadramenti da effettuarsi in applicazione del decreto del Presidente del Consiglio dei Ministri 7 febbraio 1981 in qualifiche nella stessa tabella non previste, nonche' in relazione al compimento di processi di mobilita' connessi all'attuazione delle leggi di soppressione, scorporo o riforma degli enti pubblici, non definiti alla data di emanazione del presente decreto.   
-  
+Con successivi decreti del Presidente della Repubblica potranno essere apportate modifiche alle tabelle allegate al presente decreto in conseguenza della necessita' di inquadramenti da effettuarsi in applicazione del decreto del Presidente del Consiglio dei Ministri 7 febbraio 1981 in qualifiche nella stessa tabella non previste, nonche' in relazione al compimento di processi di mobilita' connessi all'attuazione delle leggi di soppressione, scorporo o riforma degli enti pubblici, non definiti alla data di emanazione del presente decreto.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 7 settembre 1982
+Dato a Roma, addi' 7 settembre 1982
 
-PERTINI ANDREATTA
-
-Visto, il Guardasigilli: DARIDA
-
-Registrato alla Corte dei conti, addi' 8 gennaio 1983
-
-Registro n. 2 Tesoro, foglio n. 209
-
-Tabella A
-
- TABELLA A   
-  
-  
-  
-QUALIFICHE E DOTAZIONE ORGANICA DEL PERSONALE DEL RUOLO SPECIALE DEL MINISTERO DEL TESORO - AMMINISTRAZIONE CENTRALE.  
-  
-  
-Posizioni giuridiche Posizione Dotazione dell'ente di provenienza nell'ordinamento statale organica  
---------------------------------------------------------------------  
-RUOLO AMMINISTRATIVO  
---------------------------------------------------------------------  
-Dirigente superiore Dirigente superiore 1  
-(consigliere ministe  
-riale aggiunto))  
-Dirigente Primo dirigente 2  
-(vice consigliere mi  
-nisteriale)  
-Collaboratore 7ª qualifica funzionale 3  
-Assistente amministrativo 7ª qualifica funzionale 4  
-Assistente amministrativo 6ª qualifica funzionale 8  
-e capo sezione (carriera  
-di concetto)  
-Archivista dattilografo 5ª qualifica funzionale 17  
-Coadiutore e archivista 4ª qualifica funzionale 11  
-dattilografo  
-Commesso 2ª qualifica funzionale 2  
---------------------------------------------------------------------  
-RUOLO TECNICO  
---------------------------------------------------------------------  
-Assistente tecnico 7ª qualifica funzionale 2  
-Assistente tecnico 6ª qualifica funzionale 2  
-Operatore tecnico 5ª qualifica funzionale 3  
-Operatore tecnico 4ª qualifica funzionale 4  
-Agente tecnico 3ª qualifica funzionale 2  
-Agente tecnico 2ª qualifica funzionale 1  
-  
-  
-
-Tabella B
-
- TABELLA B   
-  
-  
-
-((QUALIFICHE E DOTAZIONE ORGANICA DEL PERSONALE DEL RUOLO SPECIALE  
-DEL MINISTERO DEL TESORO - AMMINISTRAZIONE PERIFERICA.  
-  
-Posizioni giuridiche Posizione nell'ordinamento Dotazione dell'ente di provenienza statale organica  
--- -- -  
-  
-RUOLO AMMINISTRATIVO  
-  
-Assistente amministrativo  
-con 13 anni di anzianita'  
-nella qualifica. . . . . . . 7a qual. funzionale 2  
-  
-Assistente amministrativo  
-con meno di 13 anni di  
-anzianita' nella qualifica . 6a qual. funzionale 10  
-  
-Archivista dattilografo  
-con 13 anni di anzianita'  
-nella qualifica  
-Archivista dattilografo  
-livello differenziato. . . . 5a qual. funzionale 20  
-  
-Archivista dattilografo  
-Coadiutore . . . . . . . . . 4a qual. funzionale 48  
-Commesso . . . . . . . . . . 2a qual. funzionale 2  
-  
-Personale non di ruolo  
-Avventizio di 2a categoria . 6a qual. funzionale 1  
-  
-RUOLO TECNICO  
-Assistente tecnico  
-coordinatore . . . . . . . . 7a qual. funzionale 1  
-Assistente tecnico con  
-meno di 13 anni di  
-anzianita' nella qualifica . 6a qual. funzionale 3  
-Operatore tecnico. . . . . . 4a qual. funzionale 7  
-Agente tecnico . . . . . . . 2a qual. funzionale 5))
-
-((1a))
-
-----------------
-
-AGGIORNAMENTO (1a)
-
-Il [D.P.R. 31 marzo 1988, n. 187](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1988-03-31;187) ha disposto (con l'art. 1, comma 1) che la presente tabella B viene cosi' modificata a decorrere dal 1° gennaio 1981.  
-  
-  
-TABELLA B   
-
-((QUALIFICHE E DOTAZIONE ORGANICA DEL PERSONALE DEL RUOLO SPECIALE  
-DEL MINISTERO DEL TESORO - AMMINISTRAZIONE PERIFERICA.  
-  
-Posizioni giuridiche Posizione nell'ordinamento Dotazione  
-dell'ente di provenienza statale organica  
--- -- -  
-  
-RUOLO AMMINISTRATIVO  
-  
-Assistente amministrativo  
-con 13 anni di anzianita'  
-nella qualifica. . . . . . . 7a qual. funzionale 2  
-  
-Assistente amministrativo  
-con meno di 13 anni di  
-anzianita' nella qualifica . 6a qual. funzionale 10  
-  
-Archivista dattilografo  
-con 13 anni di anzianita'  
-nella qualifica  
-Archivista dattilografo  
-livello differenziato. . . . 5a qual. funzionale 20  
-  
-Archivista dattilografo  
-Coadiutore  
-Operaio specializzato. . . . 4a qual. funzionale 49  
-Operaio qualificato. . . . . 3a qual. funzionale 12  
-Commesso  
-Operaio comune . . . . . . . 2a qual. funzionale 11  
-  
-Personale non di ruolo  
-Avventizio di 2a categoria . 6a qual. funzionale 1  
-  
-RUOLO TECNICO  
-Assistente tecnico  
-coordinatore . . . . . . . . 7a qual. funzionale 1  
-Assistente tecnico con  
-meno di 13 anni di  
-anzianita' nella qualifica . 6a qual. funzionale 3  
-Operatore tecnico. . . . . . 4a qual. funzionale 7  
-Agente tecnico . . . . . . . 2a qual. funzionale 5))
-
-((1 b))
-
-  
----------------  
-AGGIORNAMENTO (1 b)  
-Il [D.P.R. 31 marzo 1988, n. 187](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1988-03-31;187) ha disposto (con l'art. 2, comma 1) che la presente tabella B viene nuovamente modificata, come indicato, a decorrere dal 9 agosto 1984.
+PERTINI ANDREATTA Visto, il Guardasigilli: DARIDA Registrato alla Corte dei conti, addi' 8 gennaio 1983 Registro n. 2 Tesoro, foglio n. 209

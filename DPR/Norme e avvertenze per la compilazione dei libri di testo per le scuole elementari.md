@@ -1,19 +1,13 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 23 novembre 1955 n. 1388
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 1388
+data: 1955-11-23
+titolo: "Norme e avvertenze per la compilazione dei libri di testo per le scuole elementari."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1955-11-23;1388
+codice_redazionale: 055U1388
+vigente: true
+---
 
+## Art. 1.
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 23 novembre 1955 n. 1388
-================================================================
-
-Norme e avvertenze per la compilazione dei libri di testo per le scuole elementari.
------------------------------------------------------------------------------------
-
-Art. 1
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
-
-Allegato
-
- Allegato   
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))

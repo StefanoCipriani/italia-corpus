@@ -1,20 +1,20 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 gennaio 1962 n. 354
-
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 gennaio 1962 n. 354
-==============================================================
-
-Norme sul trattamento economico e normativo dei lavoranti panettieri dipendenti dalle imprese di panificazione della provincia di Bolzano.
-------------------------------------------------------------------------------------------------------------------------------------------
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 354
+data: 1962-01-02
+titolo: "Norme sul trattamento economico e normativo dei lavoranti panettieri dipendenti dalle imprese di panificazione della provincia di Bolzano."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1962-01-02;354
+codice_redazionale: 062U0354
+vigente: true
+---
 
 IL PRESIDENTE DELLA REPUBBLICA
-------------------------------
 
-Visto l'[art. 87, comma quinto, della Costituzione](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27~art87-com5);
+Visto l'[art. 87, comma quinto, della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87-com5);
 
-Vista la [legge 14 luglio 1959, n. 741](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1959-07-14;741), che delega il Governo ad emanare norme transitorie per garantire minimi di trattamento economico e normativo ai lavoratori;
+Vista la [legge 14 luglio 1959, n. 741](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1959-07-14;741), che delega il Governo ad emanare norme transitorie per garantire minimi di trattamento economico e normativo ai lavoratori;
 
-Vista la [legge 1 ottobre 1960, n. 1027](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1960-10-01;1027), recante modifiche alla predetta [legge 14 luglio 1959, n. 741](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1959-07-14;741);
+Vista la [legge 1 ottobre 1960, n. 1027](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1960-10-01;1027), recante modifiche alla predetta [legge 14 luglio 1959, n. 741](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1959-07-14;741);
 
 Visto il contratto collettivo nazionale 26 luglio 1956, per gli operai dipendenti dalle aziende di panificazione;
 
@@ -46,113 +46,19 @@ Vista la pubblicazione nell'apposito Bollettino, n. 16 della provincia di Bolzan
 
 Sentito il Consiglio dei Ministri;
 
-Sulla
------
+Sulla proposta del Ministro per il lavoro e la previdenza sociale; Decreta:
 
-proposta del Ministro per il lavoro e la previdenza sociale; Decreta:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-I rapporti di lavoro costituiti per l'attivita' per la quale sono stati stipulati, relativamente agli operai dipendenti da aziende di panificazione, i sotto indicati contratti e accordi collettivi integrativi, sono regolati da norme giuridiche uniformi alle clausole dei contratti e degli accordi stessi, annessi al presente decreto:  
-- accordo collettivo 16 ottobre 1950 e accordi collettivi integrativi 19 giugno 1957, 29 luglio 1958 e 12 dicembre 1959, per la provincia di Bolzano;  
-- contratto collettivo integrativo 24 novembre 1950 e accordo collettivo integrativo 13 ottobre 1954, per le circoscrizioni di Bolzano, Bressanone e Brunico;  
-- contratto collettivo integrativo 20 giugno 1956 e accordi collettivi integrativi 3 luglio 1957 e 2 settembre 1958, per il circondario di Merano.  
-Dette norme sono integrative di quelle concernenti la disciplina nazionale della categoria, purche' con esse compatibili.  
-I minimi di trattamento economico e normativo cosi' stabiliti sono inderogabili nei confronti di tutti i lavoranti panettieri dipendenti dalle imprese di panificazione della provincia di Bolzano.  
-  
+I rapporti di lavoro costituiti per l'attivita' per la quale sono stati stipulati, relativamente agli operai dipendenti da aziende di panificazione, i sotto indicati contratti e accordi collettivi integrativi, sono regolati da norme giuridiche uniformi alle clausole dei contratti e degli accordi stessi, annessi al presente decreto:
+ - accordo collettivo 16 ottobre 1950 e accordi collettivi integrativi 19 giugno 1957, 29 luglio 1958 e 12 dicembre 1959, per la provincia di Bolzano;
+ - contratto collettivo integrativo 24 novembre 1950 e accordo collettivo integrativo 13 ottobre 1954, per le circoscrizioni di Bolzano, Bressanone e Brunico;
+ - contratto collettivo integrativo 20 giugno 1956 e accordi collettivi integrativi 3 luglio 1957 e 2 settembre 1958, per il circondario di Merano.
+ Dette norme sono integrative di quelle concernenti la disciplina nazionale della categoria, purche' con esse compatibili.
+ I minimi di trattamento economico e normativo cosi' stabiliti sono inderogabili nei confronti di tutti i lavoranti panettieri dipendenti dalle imprese di panificazione della provincia di Bolzano.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 2 gennaio 1962
+Dato a Roma, addi' 2 gennaio 1962
 
-GRONCHI FANFANI - SULLO
-
-Visto, il Guardasigilli: BOSCO
-
-Registrato alla Corte dei conti, addi' 16 maggio 1962
-
-Atti del Governo, registro n. 147, foglio n. 17. - VILLA
-
-Allegato
-
-ACCORDO COLLETTIVO 16 OTTOBRE 1950 PER LE COMMISSIONI DI QUALIFICA PER I LAVORANTI PANETTIERI DELLA PROVINCIA DI BOLZANO.   
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=062U035400100010110001&dgu=1962-06-11&art.dataPubblicazioneGazzetta=1962-06-11&art.codiceRedazionale=062U0354)
-  
-  
-  
-  
-  
-ACCORDO COLLETTIVO INTEGRATIVO 19 GIUGNO 1957 PER I LAVORANTI PANETTIERI DELLA PROVINCIA DI BOLZANO   
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=062U035400100010110002&dgu=1962-06-11&art.dataPubblicazioneGazzetta=1962-06-11&art.codiceRedazionale=062U0354)
-  
-  
-  
-  
-  
-ACCORDO COLLETTIVO INTEGRATIVO 29 LUGLIO 1958 PER I LAVORANTI PANETTIERI DELLA PROVINCIA DI BOLZANO   
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=062U035400100010110003&dgu=1962-06-11&art.dataPubblicazioneGazzetta=1962-06-11&art.codiceRedazionale=062U0354)
-  
-  
-  
-  
-  
-ACCORDO COLLETTIVO INTEGRATIVO 12 DICEMBRE 1959 PER I LAVORANTI PANETTIERI DELLA PROVINCIA DI BOLZANO   
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=062U035400100010110004&dgu=1962-06-11&art.dataPubblicazioneGazzetta=1962-06-11&art.codiceRedazionale=062U0354)
-  
-  
-  
-  
-  
-CONTRATTO COLLETTIVO INTEGRATIVO 24 NOVEMBRE 1950 PER I LAVORANTI PANETTIERI DELLE CIRCOSCRIZIONI DI BOLZANO, BRESSANONE E BRUNICO   
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=062U035400100010110005&dgu=1962-06-11&art.dataPubblicazioneGazzetta=1962-06-11&art.codiceRedazionale=062U0354)
-  
-  
-  
-  
-  
-ACCORDO COLLETTIVO INTEGRATIVO 13 OTTOBRE 1954 PER I LAVORANTI PANETTIERI DELLE CIRCOSCRIZIONI DI BOLZANO, BRESSANONE E BRUNICO   
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=062U035400100010110006&dgu=1962-06-11&art.dataPubblicazioneGazzetta=1962-06-11&art.codiceRedazionale=062U0354)
-  
-  
-  
-  
-  
-CONTRATTO COLLETTIVO INTEGRATIVO 20 GIUGNO 1956 PER I LAVORANTI PANETTIERI DEL CIRCONDARIO DI MERANO   
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=062U035400100010110007&dgu=1962-06-11&art.dataPubblicazioneGazzetta=1962-06-11&art.codiceRedazionale=062U0354)
-  
-  
-  
-  
-  
-ACCORDO COLLETTIVO INTEGRATIVO 3 LUGLIO 1957 PER I LAVORANTI PANETTIERI DEL CIRCONDARIO DI MERANO   
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=062U035400100010110008&dgu=1962-06-11&art.dataPubblicazioneGazzetta=1962-06-11&art.codiceRedazionale=062U0354)
-  
-  
-  
-  
-  
-ACCORDO COLLETTIVO INTEGRATIVO 2 SETTEMBRE 1958 PER I LAVORANTI PANETTIERI DEL CIRCONDARIO DI MERANO   
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=062U035400100010110009&dgu=1962-06-11&art.dataPubblicazioneGazzetta=1962-06-11&art.codiceRedazionale=062U0354)
-  
+GRONCHI FANFANI - SULLO Visto, il Guardasigilli: BOSCO Registrato alla Corte dei conti, addi' 16 maggio 1962 Atti del Governo, registro n. 147, foglio n. 17. - VILLA

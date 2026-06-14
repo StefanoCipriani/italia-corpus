@@ -1,19 +1,21 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 29 novembre 1965 n. 1553
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 1553
+data: 1965-11-29
+titolo: "Riconoscimento, agli effetti civili, della istituzione di un canonicato semplice, intitolato a San Pietro Apostolo, nel capitolo cattedrale di Chioggia (Venezia)."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1965-11-29;1553
+codice_redazionale: 065U1553
+vigente: true
+---
 
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 29 novembre 1965 n. 1553
-================================================================
-
-Riconoscimento, agli effetti civili, della istituzione di un canonicato semplice, intitolato a San Pietro Apostolo, nel capitolo cattedrale di Chioggia (Venezia).
-------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-1553. Decreto del Presidente della Repubblica 29 novembre 1965, col quale, sulla proposta del Ministro per l'interno, viene riconosciuto, agli effetti civili, il decreto dell'Ordinario diocesano di Chioggia in data 16 luglio 1965, relativo alla istituzione, nel capitolo cattedrale di Chioggia (Venezia), di un canonicato semplice, intitolato a San Pietro Apostolo.  
-  
-Visto, il Guardasigilli: REALE  
-Registrato alla Corte dei conti, addi' 13 gennaio 1966  
-Atti del Governo, registro n. 199, foglio n. 63. - VILLA
+1553.
+
+Decreto del Presidente della Repubblica 29 novembre 1965, col quale, sulla proposta del Ministro per l'interno, viene riconosciuto, agli effetti civili, il decreto dell'Ordinario diocesano di Chioggia in data 16 luglio 1965, relativo alla istituzione, nel capitolo cattedrale di Chioggia (Venezia), di un canonicato semplice, intitolato a San Pietro Apostolo.
+
+Visto, il Guardasigilli: REALE
+ Registrato alla Corte dei conti, addi' 13 gennaio 1966
+ Atti del Governo, registro n. 199, foglio n. 63. - VILLA

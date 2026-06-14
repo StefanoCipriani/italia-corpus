@@ -1,38 +1,33 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 27 agosto 1962 n. 1873
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 1873
+data: 1962-08-27
+titolo: "Modalita' di pagamento delle tasse afferenti le corrispondenze postali e telegrafiche delle Amministrazioni dello Stato."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1962-08-27;1873
+codice_redazionale: 062U1873
+vigente: true
+---
 
+## Art. 1.
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 27 agosto 1962 n. 1873
-==============================================================
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 9 FEBBRAIO 1972, N. 171))
 
-Modalita' di pagamento delle tasse afferenti le corrispondenze postali e telegrafiche delle Amministrazioni dello Stato.
-------------------------------------------------------------------------------------------------------------------------
+## Art. 2.
 
-Art. 1
-------
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 9 FEBBRAIO 1972, N. 171))
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 9 FEBBRAIO 1972, N. 171](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1972-02-09;171)))
+## Art. 3.
 
-Art. 2
-------
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 9 FEBBRAIO 1972, N. 171))
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 9 FEBBRAIO 1972, N. 171](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1972-02-09;171)))
+## Art. 4.
 
-Art. 3
-------
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 9 FEBBRAIO 1972, N. 171))
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 9 FEBBRAIO 1972, N. 171](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1972-02-09;171)))
+## Art. 5.
 
-Art. 4
-------
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 9 FEBBRAIO 1972, N. 171))
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 9 FEBBRAIO 1972, N. 171](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1972-02-09;171)))
+## Art. 6.
 
-Art. 5
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 9 FEBBRAIO 1972, N. 171](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1972-02-09;171)))
-
-Art. 6
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 9 FEBBRAIO 1972, N. 171](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1972-02-09;171)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 9 FEBBRAIO 1972, N. 171))

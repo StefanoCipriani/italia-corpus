@@ -1,24 +1,24 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 24 aprile 1965 n. 1724
-
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 24 aprile 1965 n. 1724
-==============================================================
-
-Trasformazione della Scuola tecnica industriale di Cividale del Friuli in Scuola professionale coordinata con l'Istituto professionale di Stato per l'industria e l'artigianato di Udine.
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 1724
+data: 1965-04-24
+titolo: "Trasformazione della Scuola tecnica industriale di Cividale del Friuli in Scuola professionale coordinata con l'Istituto professionale di Stato per l'industria e l'artigianato di Udine."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1965-04-24;1724
+codice_redazionale: 065U1724
+vigente: true
+---
 
 IL PRESIDENTE DELLA REPUBBLICA
-------------------------------
 
-Veduta la [legge 15 giugno 1931, n. 889](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1931-06-15;889), sul riordinamento dell'istruzione media tecnica;
+Veduta la [legge 15 giugno 1931, n. 889](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1931-06-15;889), sul riordinamento dell'istruzione media tecnica;
 
-Veduto il [regio decreto 3 marzo 1934, n. 383](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-03-03;383), che approva il testo unico della legge comunale e provinciale;
+Veduto il [regio decreto 3 marzo 1934, n. 383](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20del%20testo%20unico%20della%20legge%20comunale%20e%20provinciale.%20034U0383.md), che approva il testo unico della legge comunale e provinciale;
 
-Veduto l'[art. 9 del regio decreto-legge 21 settembre 1938, n. 2038](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1938-09-21;2038~art9), convertito nella [legge 2 giugno 1939, n. 739](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1939-06-02;739);
+Veduto l'[art. 9 del regio decreto-legge 21 settembre 1938, n. 2038](../Atti%20normativi%20abrogati%20%28in%20originale%29/Istituzione%20soppressione%20e%20regificazione%20di%20istituti%20distruzione%20media%20tecnica%20e%20norme%20di%20carattere%20generale%20sullistituzione%20e%20sul%20funzionamento%20degli%20istituti%20medesimi.%20038U2038.md), convertito nella [legge 2 giugno 1939, n. 739](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20approvazione%20complessiva%20dei%20Regi%20decreti-legge%20emanati%20fino%20al%2010%20marzo%201939-XVII%20e%20convalida%20dei%20Regi%20decreti%20emanati%20fino%20alla%20data%20anzidetta%20per%20prelevazioni%20_8f817d3bee75.md);
 
-Veduta la [legge 22 novembre 1961, n. 1282](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1961-11-22;1282);
+Veduta la [legge 22 novembre 1961, n. 1282](../Atti%20normativi%20abrogati%20%28in%20originale%29/Riordinamento%20dei%20servizi%20di%20vigilanza%20contabile%20e%20delle%20carriere%20del%20personale%20non%20insegnante%20delle%20scuole%20e%20degli%20Istituti%20di%20istruzione%20tecnica%20e%20professionale%20e%20dei%20Convitti%20annessi.md);
 
-Veduto il [decreto del Presidente della Repubblica 29 settembre 1954, n. 1567, pubblicato nella Gazzetta Ufficiale n. 164 del 19 luglio 1955](http://www.gazzettaufficiale.it/gazzetta/serie_generale/caricaDettaglio?dataPubblicazioneGazzetta=1955-07-19&numeroGazzetta=164), con il quale a decorrere dal 1 ottobre 1951 e' stato istituito l'istituto professionale di Stato per l'industria e l'artigianato di Udine;
+Veduto il decreto del Presidente della Repubblica 29 settembre 1954, n. 1567, pubblicato nella Gazzetta Ufficiale n. 164 del 19 luglio 1955, con il quale a decorrere dal 1 ottobre 1951 e' stato istituito l'istituto professionale di Stato per l'industria e l'artigianato di Udine;
 
 Considerato che in Cividale del Friuli funziona una Scuola tecnica industriale;
 
@@ -30,116 +30,48 @@ Considerata, inoltre, l'opportunita' di adeguare formalmente l'organizzazione de
 
 Ritenuto che occorre regolarizzare formalmente il funzionamento dell'Istituto professionale per l'industria e l'artigianato di Udine gia' in atto, per ragioni di servizio, secondo il nuovo ordinamento e con il relativo organico dal 1 ottobre 1964;
 
-Sulla
------
+Sulla proposta del Ministro Segretario di Stato per la pubblica istruzione di concerto con quelli per l'interno e per il tesoro; Decreta:
 
-proposta del Ministro Segretario di Stato per la pubblica istruzione di concerto con quelli per l'interno e per il tesoro; Decreta:
+## Art. 1.
 
-Art. 1
-------
+All'[art. 1 del decreto del Presidente della Repubblica 29 settembre 1954, n. 1567](Istituzione%20in%20Udine%20di%20un%20Istituto%20professionale%20per%20lindustria%20e%20per%20lartigianato.md), viene aggiunto il seguente terzo comma:
+ "A decorrere dal 1 ottobre 1964 la Scuola tecnica industriale di Cividale del Friuli e' trasformata in Scuola professionale coordinata con l'istituto professionale di Stato per l'industria e l'artigianato di Udine, salvo il funzionamento, ad esaurimento, dei corsi di scuola tecnica gia' in atto".
 
-  
-All'[art. 1 del decreto del Presidente della Repubblica 29 settembre 1954, n. 1567](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1954-09-29;1567~art1), viene aggiunto il seguente terzo comma:  
-"A decorrere dal 1 ottobre 1964 la Scuola tecnica industriale di Cividale del Friuli e' trasformata in Scuola professionale coordinata con l'istituto professionale di Stato per l'industria e l'artigianato di Udine, salvo il funzionamento, ad esaurimento, dei corsi di scuola tecnica gia' in atto".  
+## Art. 2.
 
-Art. 2
-------
+L'[art. 2 del decreto del Presidente della Repubblica 29 settembre 1954, n. 1567](Istituzione%20in%20Udine%20di%20un%20Istituto%20professionale%20per%20lindustria%20e%20per%20lartigianato.md), e' sostituito dal seguente:
+ "Il predetto Istituto professionale ha lo scopo di preparare personale idoneo all'esercizio delle attivita' di ordine esecutivo nei vari settori dell'industria e dell'artigianato.
+ Esso e' costituito dalle seguenti Scuole professionali, ciascuna delle quali comprende varie sezioni:
+ Scuola professionale per l'industria meccanica, con sezioni per: congegnatore (triennale) n. 8 sezioni;
+ tornitore (triennale);
+ meccanico riparatore di automezzi (triennale);
+ Scuola professionale per l'industria elettrica, con sezioni per: elettricisti in b.t. (triennale) n. 2 sezioni;
+ riparatore apparecchi radio (triennale);
+ Scuola professionale per l'industria edile, con sezioni per:
+ aiuto assistente edile (triennale);
+ muratore (biennale) n. 2 sezioni;
+ carpentiere in legno (biennale);
+ Scuola professionale per l'industria del legno, con sezioni per: mobiliere (triennale) n. 2 sezioni".
 
-  
-L'[art. 2 del decreto del Presidente della Repubblica 29 settembre 1954, n. 1567](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1954-09-29;1567~art2), e' sostituito dal seguente:  
-"Il predetto Istituto professionale ha lo scopo di preparare personale idoneo all'esercizio delle attivita' di ordine esecutivo nei vari settori dell'industria e dell'artigianato.  
-Esso e' costituito dalle seguenti Scuole professionali, ciascuna delle quali comprende varie sezioni:  
-Scuola professionale per l'industria meccanica, con sezioni per: congegnatore (triennale) n. 8 sezioni;  
-tornitore (triennale);  
-meccanico riparatore di automezzi (triennale);  
-Scuola professionale per l'industria elettrica, con sezioni per: elettricisti in b.t. (triennale) n. 2 sezioni;  
-riparatore apparecchi radio (triennale);  
-Scuola professionale per l'industria edile, con sezioni per:  
-aiuto assistente edile (triennale);  
-muratore (biennale) n. 2 sezioni;  
-carpentiere in legno (biennale);  
-Scuola professionale per l'industria del legno, con sezioni per: mobiliere (triennale) n. 2 sezioni".  
+## Art. 3.
 
-Art. 3
-------
+Il disposto dell'[art. 19 del decreto del Presidente della Repubblica 29 settembre 1954, n. 1567](Istituzione%20in%20Udine%20di%20un%20Istituto%20professionale%20per%20lindustria%20e%20per%20lartigianato.md), si applica con effetto dal 1 ottobre 1964 anche al personale direttivo s insegnante che, in possesso dei requisiti richiesti, alla data di pubblicazione del presente decreto nella Gazzetta Ufficiale, si trovi in servizio presso la Scuola professionale coordinata di Cividale del Friuli derivante dalla trasformazione della preesistente Scuola tecnica per l'industria e l'artigianato di Udine.
 
-  
-Il disposto dell'[art. 19 del decreto del Presidente della Repubblica 29 settembre 1954, n. 1567](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1954-09-29;1567~art19), si applica con effetto dal 1 ottobre 1964 anche al personale direttivo s insegnante che, in possesso dei requisiti richiesti, alla data di pubblicazione del presente decreto nella Gazzetta Ufficiale, si trovi in servizio presso la Scuola professionale coordinata di Cividale del Friuli derivante dalla trasformazione della preesistente Scuola tecnica per l'industria e l'artigianato di Udine.  
+## Art. 4.
 
-Art. 4
-------
+Il contributo previsto all'[art. 22 del decreto del Presidente della Repubblica 29 settembre 1954, n. 1567](Istituzione%20in%20Udine%20di%20un%20Istituto%20professionale%20per%20lindustria%20e%20per%20lartigianato.md), e' elevato da L. 66.000.000 a L. 335.800.000.
 
-  
-Il contributo previsto all'[art. 22 del decreto del Presidente della Repubblica 29 settembre 1954, n. 1567](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1954-09-29;1567~art22), e' elevato da L. 66.000.000 a L. 335.800.000.  
+## Art. 5.
 
-Art. 5
-------
+La tabella organica annessa al [decreto del Presidente della Repubblica 29 settembre 1954, n. 1567](Istituzione%20in%20Udine%20di%20un%20Istituto%20professionale%20per%20lindustria%20e%20per%20lartigianato.md), dell'Istituto professionale per l'industria e l'artigianato di Udine viene sostituita da quella annessa al presente decreto.
 
-  
-La tabella organica annessa al [decreto del Presidente della Repubblica 29 settembre 1954, n. 1567](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1954-09-29;1567), dell'Istituto professionale per l'industria e l'artigianato di Udine viene sostituita da quella annessa al presente decreto.  
+## Art. 6.
 
-Art. 6
-------
-
-  
-Il presente decreto ha effetto dal 1 ottobre 1964.  
-La maggiore spesa derivante dall'attuazione del presente decreto gravera' sul cap. 133 dello stato di previsione della spesa del Ministero della pubblica istruzione per il periodo 1 luglio-31 dicembre 1964 e sui capitoli corrispondenti per gli esercizi successivi.  
-  
+Il presente decreto ha effetto dal 1 ottobre 1964.
+ La maggiore spesa derivante dall'attuazione del presente decreto gravera' sul cap. 133 dello stato di previsione della spesa del Ministero della pubblica istruzione per il periodo 1 luglio-31 dicembre 1964 e sui capitoli corrispondenti per gli esercizi successivi.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 24 aprile 1965
+Dato a Roma, addi' 24 aprile 1965
 
-SARAGAT GUI - TAVIANI - COLOMBO - LAMI STARNUTI
-
-Visto, il Guardasigilli: REALE
-
-Registrato alla Corte dei conti, addi' 5 agosto 1966
-
-Atti del Governo, registro n. 204, foglio n. 82. - VILLA
-
-Tabella
-
-Tabella organica dell'istituto professionale di Stato per l'industria e l'artigianato di Udine   
-  
-N. 8 sezioni per congegnatore (triennale);   
-N. 1 sezione per tornitore (triennale);   
-N. 1 sezione per meccanico riparatore di automezzi (triennale);   
-N. 2 sezioni per elettricista in b. t. (triennale);   
-N. 1 sezione per riparatore apparecchi radio (triennale);   
-N. 1 sezione per aiuto assistenza edile (triennale);   
-N. 2 sezioni per muratore (biennale);   
-N. 1 sezione per carpentiere in legno (biennale);   
-N. 2 sezioni per mobiliere (triennale).   
-Per complessive classi N. 70.   
-  
-Numero   
-Qualifica dei posti   
-  
-Personale di ruolo   
-  
-1. Preside................................................ 1   
-2. Cattedre............................................... 20   
-3. Insegnanti T. P. ..................................... 21   
-4. Segretario economo .................................... 2   
-5. Applicati ............................................. 13   
-6. Aiutanti tecnici....................................... 13   
-7. Magazzinieri .......................................... 2   
-8. Personale di servizio ................................. 18   
-  
-Personale incaricato   
-  
-9. Incarichi d'insegnamento per complessive 686 ore settimanali;   
-10. Insegnanti tecnici pratici (1)......................... 20   
-  
-(1) Il trattamento economico e di carriera e' quello previsto per   
-gli insegnanti tecnici pratici degli Istituti tecnici.   
-N.B. - Fermo restando il numero complessivo dei posti di ruolo e di quelli da affidare per incarico, le materie, costituenti le cattedre di insegnamento e le qualifiche da attribuire al personale tecnico saranno determinate con decreto del Ministro per la pubblica istruzione.   
-  
-Visto, d'ordine del Presidente della Repubblica   
-Il Ministro per la pubblica istruzione   
-GUI   
-  
-Il Ministro per il tesoro   
-COLOMBO   
+SARAGAT GUI - TAVIANI - COLOMBO - LAMI STARNUTI Visto, il Guardasigilli: REALE Registrato alla Corte dei conti, addi' 5 agosto 1966 Atti del Governo, registro n. 204, foglio n. 82. - VILLA

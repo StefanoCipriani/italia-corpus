@@ -1,19 +1,21 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 23 maggio 1958 n. 710
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 710
+data: 1958-05-23
+titolo: "Riconoscimento, agli effetti civili, dell'erezione della parrocchia del Patrocinio di San Giuseppe, nel comune di Bosentino (Trento)."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1958-05-23;710
+codice_redazionale: 058U0710
+vigente: true
+---
 
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 23 maggio 1958 n. 710
-=============================================================
-
-Riconoscimento, agli effetti civili, dell'erezione della parrocchia del Patrocinio di San Giuseppe, nel comune di Bosentino (Trento).
--------------------------------------------------------------------------------------------------------------------------------------
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-710. Decreto del Presidente della Repubblica 23 maggio 1958, col quale, sulla proposta del Ministro per l'interno, viene riconosciuto, agli effetti civili, il decreto dell'Ordinario diocesano di Trento in data 11 ottobre 1956, integrato con dichiarazione del 2 gennaio 1958, relativo all'erezione della parrocchia del Patrocinio di San Giuseppe, nel comune di Bosentino (Trento).  
-  
-Visto, il Guardasigilli: GONELLA  
-Registrato alla Corte dei conti, addi' 16 luglio 1958  
-Atti del Governo, registro n. 113, foglio n. 54. - RELLEVA
+710.
+
+Decreto del Presidente della Repubblica 23 maggio 1958, col quale, sulla proposta del Ministro per l'interno, viene riconosciuto, agli effetti civili, il decreto dell'Ordinario diocesano di Trento in data 11 ottobre 1956, integrato con dichiarazione del 2 gennaio 1958, relativo all'erezione della parrocchia del Patrocinio di San Giuseppe, nel comune di Bosentino (Trento).
+
+Visto, il Guardasigilli: GONELLA
+ Registrato alla Corte dei conti, addi' 16 luglio 1958
+ Atti del Governo, registro n. 113, foglio n. 54. - RELLEVA

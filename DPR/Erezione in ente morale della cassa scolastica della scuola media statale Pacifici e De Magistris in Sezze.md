@@ -1,19 +1,21 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 22 aprile 1972 n. 390
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 390
+data: 1972-04-22
+titolo: "Erezione in ente morale della cassa scolastica della scuola media statale \"Pacifici e De Magistris\", in Sezze."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1972-04-22;390
+codice_redazionale: 072U0390
+vigente: true
+---
 
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 22 aprile 1972 n. 390
-=============================================================
-
-Erezione in ente morale della cassa scolastica della scuola media statale "Pacifici e De Magistris", in Sezze.
---------------------------------------------------------------------------------------------------------------
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-390. Decreto del Presidente della Repubblica 22 aprile 1972, col quale, sulla proposta del Ministro per la pubblica istruzione, la cassa scolastica della scuola media statale "Pacifici e De Magistris" di Sezze, viene eretta in ente morale e ne viene approvato lo statuto.  
-  
-Visto, il Guardasigilli: GONELLA  
-Registrato alla Corte dei conti, addi' 25 luglio 1972  
-Atti del Governo, registro n. 250, foglio n. 48. - CARUSO
+390.
+
+Decreto del Presidente della Repubblica 22 aprile 1972, col quale, sulla proposta del Ministro per la pubblica istruzione, la cassa scolastica della scuola media statale "Pacifici e De Magistris" di Sezze, viene eretta in ente morale e ne viene approvato lo statuto.
+
+Visto, il Guardasigilli: GONELLA
+ Registrato alla Corte dei conti, addi' 25 luglio 1972
+ Atti del Governo, registro n. 250, foglio n. 48. - CARUSO

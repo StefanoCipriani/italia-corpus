@@ -1,19 +1,22 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 10 giugno 1977 n. 419
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 329
+data: 1977-05-12
+titolo: "Autorizzazione alla fondazione \"Fondo assistenza, previdenza e premi per il personale dell'Arma dei carabinieri\", in Roma, ad acquistare un immobile."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1977-05-12;329
+codice_redazionale: 077U0329
+vigente: true
+---
 
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 10 giugno 1977 n. 419
-=============================================================
-
-Autorizzazione alla fondazione "Fondo assistenza, previdenza e premi per il personale dell'Arma dei carabinieri", in Roma, ad acquistare un immobile.
------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-419. Decreto del Presidente della Repubblica 10 giugno 1977, col quale, sulla proposta del Ministro per la difesa, la fondazione "Fondo assistenza, previdenza e premi per il personale dell'Arma dei carabinieri", in Roma, viene autorizzata ad acquistare dagli eredi Savoia, al prezzo di L. 339.675.000, il complesso immobiliare denominato "Casina Villegi", sito in Roma, piazza Bligny n. 2, meglio specificato nel contratto preliminare di compravendita 19 novembre 1976, a rogito dott. Alfredo De Martino, notaio in Roma, n. 49883 di repertorio e n. 23397 di raccolta, registrato a Roma, 1° ufficio atti pubblici, il 24 novembre 1976.  
-  
-Visto, il Guardasigilli: BONIFACIO  
-Registrato alla Corte dei conti, addi' 16 luglio 1977  
-Registro n. 17 Difesa, foglio n. 113
+329.
+
+Decreto del Presidente della Repubblica 12 maggio 1977, col quale, sulla proposta del Ministro per la difesa, la fondazione "Fondo assistenza, previdenza e premi per il personale dell'Arma dei carabinieri", in Roma, viene autorizzata ad acquistare dal sig.
+ Gennaro De Flammineis, al prezzo di L. 7.000.000, l'appezzamento di terreno della superficie di mq 706 circa, sito in comune di Ischia (Napoli), accertato nel vigente catasto terreni di quel comune alla partita 6112, foglio n. 8, con la particella 881, meglio specificato nel contratto preliminare di compravendita 23 giugno 1976, a rogito dott. Alfredo De Martino, notaio in Roma, n. 49563 di repertorio e n. 23247 di raccolta, registrato a Roma, 1° ufficio atti pubblici, il 1 luglio 1976.
+
+Visto, il Guardasigilli: BONIFACIO
+ Registrato alla Corte dei conti, addi' 17 giugno 1977
+ Registro n. 13 Difesa, foglio n. 305

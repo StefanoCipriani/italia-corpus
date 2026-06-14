@@ -1,19 +1,21 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 27 aprile 1974 n. 423
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 423
+data: 1974-04-27
+titolo: "Riconoscimento della personalita' giuridica della fondazione Giangiacomo Feltrinelli, in Milano."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1974-04-27;423
+codice_redazionale: 074U0423
+vigente: true
+---
 
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 27 aprile 1974 n. 423
-=============================================================
-
-Riconoscimento della personalita' giuridica della fondazione Giangiacomo Feltrinelli, in Milano.
-------------------------------------------------------------------------------------------------
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-423. Decreto del Presidente della Repubblica 27 aprile 1974, col quale, sulla proposta del Ministro per la pubblica istruzione, viene riconosciuta la personalita' giuridica ed approvato lo statuto della fondazione Giangiacomo Feltrinelli, in Milano.  
-  
-Visto, il Guardasigilli: ZAGARI  
-Registrato alla Corte dei conti, addi' 9 settembre 1974  
-Atti di Governo, registro n. 5, foglio n. 49. - SCIARRETTA
+423.
+
+Decreto del Presidente della Repubblica 27 aprile 1974, col quale, sulla proposta del Ministro per la pubblica istruzione, viene riconosciuta la personalita' giuridica ed approvato lo statuto della fondazione Giangiacomo Feltrinelli, in Milano.
+
+Visto, il Guardasigilli: ZAGARI
+ Registrato alla Corte dei conti, addi' 9 settembre 1974
+ Atti di Governo, registro n. 5, foglio n. 49. - SCIARRETTA

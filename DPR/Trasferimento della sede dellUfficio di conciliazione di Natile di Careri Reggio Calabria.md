@@ -1,37 +1,29 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 21 febbraio 1966 n. 82
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 82
+data: 1966-02-21
+titolo: "Trasferimento della sede dell'Ufficio di conciliazione di Natile di Careri (Reggio Calabria)."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1966-02-21;82
+codice_redazionale: 066U0082
+vigente: true
+---
 
+## Art. 1.
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 21 febbraio 1966 n. 82
-==============================================================
+IL PRESIDENTE DELLA REPUBBLICA
 
-Trasferimento della sede dell'Ufficio di conciliazione di Natile di Careri (Reggio Calabria).
----------------------------------------------------------------------------------------------
+ Vista la deliberazione del commissario prefettizio pro-tempore del comune di Careri in data 6 febbraio 1963, n. 45, assunta con i poteri del Consiglio e superiormente approvata, con la quale si chiede il trasferimento dell'Ufficio di conciliazione dalla frazione Natile Vecchia a quella di Natile Nuova di Careri;
+ Uditi i pareri favorevoli del presidente della Corte d'appello di Catanzaro e del procuratore generale presso la stessa Corte;
+ Visti gli articoli 20 dell'ordinamento giudiziario, approvato con [regio decreto 30 gennaio 1941, n. 12](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1941-01-30;12), [1](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1941-01-30;1) della [legge 16 giugno 1892, n. 261](../Atti%20normativi%20abrogati%20%28in%20originale%29/Sui%20conciliatori.%20092U0261.md), e 1 del relativo regolamento, approvato con [regio decreto 26 dicembre 1892, n. 728](../Atti%20normativi%20abrogati%20%28in%20originale%29/Che%20approva%20il%20regolamento%20per%20lesecuzione%20della%20legge%20sui%20conciliatori.%20092U0728.md);
+ Sulla proposta del Guardasigilli, Ministro Segretario di Stato per la grazia e giustizia;
 
-Art. 1
-------
+ Decreta:
 
- IL PRESIDENTE DELLA REPUBBLICA  
-  
-Vista la deliberazione del commissario prefettizio pro-tempore del comune di Careri in data 6 febbraio 1963, n. 45, assunta con i poteri del Consiglio e superiormente approvata, con la quale si chiede il trasferimento dell'Ufficio di conciliazione dalla frazione Natile Vecchia a quella di Natile Nuova di Careri;  
-Uditi i pareri favorevoli del presidente della Corte d'appello di Catanzaro e del procuratore generale presso la stessa Corte;  
-Visti gli articoli 20 dell'ordinamento giudiziario, approvato con [regio decreto 30 gennaio 1941, n. 12](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1941-01-30;12), [1](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1941-01-30;1) della [legge 16 giugno 1892, n. 261](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1892-06-16;261), e 1 del relativo regolamento, approvato con [regio decreto 26 dicembre 1892, n. 728](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1892-12-26;728);  
-Sulla proposta del Guardasigilli, Ministro Segretario di Stato per la grazia e giustizia;  
-  
-Decreta:  
-  
-L'Ufficio di conciliazione esistente nella frazione Natile Vecchia del comune di Careri e' trasferito nella frazione Natile Nuova di Careri del Comune stesso.  
-Il presente decreto entrera' in vigore nel trentesimo giorno dopo quello della sua pubblicazione nella Gazzetta Ufficiale della Repubblica italiana.  
-  
+ L'Ufficio di conciliazione esistente nella frazione Natile Vecchia del comune di Careri e' trasferito nella frazione Natile Nuova di Careri del Comune stesso.
+ Il presente decreto entrera' in vigore nel trentesimo giorno dopo quello della sua pubblicazione nella Gazzetta Ufficiale della Repubblica italiana.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 21 febbraio 1966
+Dato a Roma, addi' 21 febbraio 1966
 
-SARAGAT REALE
-
-Visto, il Guardasigilli: REALE
-
-Registrato alla Corte dei conti, addi' 2 marzo 1966
-
-Atti del Governo, registro n. 201, foglio n. 102. - VILLA
+SARAGAT REALE Visto, il Guardasigilli: REALE Registrato alla Corte dei conti, addi' 2 marzo 1966 Atti del Governo, registro n. 201, foglio n. 102. - VILLA

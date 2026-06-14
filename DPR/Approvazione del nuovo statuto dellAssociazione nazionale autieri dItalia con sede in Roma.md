@@ -1,19 +1,21 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 15 marzo 1971 n. 248
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 248
+data: 1971-03-15
+titolo: "Approvazione del nuovo statuto dell'Associazione nazionale autieri d'Italia, con sede in Roma."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1971-03-15;248
+codice_redazionale: 071U0248
+vigente: true
+---
 
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 15 marzo 1971 n. 248
-============================================================
-
-Approvazione del nuovo statuto dell'Associazione nazionale autieri d'Italia, con sede in Roma.
-----------------------------------------------------------------------------------------------
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-248. Decreto del Presidente della Repubblica 15 marzo 1971, col quale, sulla proposta del Ministro per la difesa, viene approvato il nuovo statuto dell'Associazione nazionale autieri d'Italia, con sede in Roma.  
-  
-Visto, il Guardasigilli: COLOMBO  
-Registrato alla Corte dei conti, addi' 6 maggio 1971  
-Atti del Governo, registro n. 241, foglio n. 210. - VALENTINI
+248.
+
+Decreto del Presidente della Repubblica 15 marzo 1971, col quale, sulla proposta del Ministro per la difesa, viene approvato il nuovo statuto dell'Associazione nazionale autieri d'Italia, con sede in Roma.
+
+Visto, il Guardasigilli: COLOMBO
+ Registrato alla Corte dei conti, addi' 6 maggio 1971
+ Atti del Governo, registro n. 241, foglio n. 210. - VALENTINI

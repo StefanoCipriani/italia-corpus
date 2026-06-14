@@ -1,19 +1,21 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 11 giugno 1971 n. 785
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 785
+data: 1971-06-11
+titolo: "Approvazione del nuovo statuto dell'Associazione gabinetto di lettura e Societa' d'incoraggiamento, con sede in Padova."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1971-06-11;785
+codice_redazionale: 071U0785
+vigente: true
+---
 
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 11 giugno 1971 n. 785
-=============================================================
-
-Approvazione del nuovo statuto dell'Associazione gabinetto di lettura e Societa' d'incoraggiamento, con sede in Padova.
------------------------------------------------------------------------------------------------------------------------
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-785. Decreto del Presidente della Repubblica 11 giugno 1971, col quale, sulla proposta del Ministro per la pubblica istruzione, la Societa' di cultura e di incoraggiamento, con sede in Padova, assume la denominazione di Associazione gabinetto di lettura e societa' di incoraggiamento, di cui viene approvato lo statuto.  
-  
-Visto, il Guardasigilli: COLOMBO  
-Registrato alla Corte dei conti, addi' 16 settembre 1971  
-Atti del Governo, registro n. 244, foglio n. 108. - CARUSO
+785.
+
+Decreto del Presidente della Repubblica 11 giugno 1971, col quale, sulla proposta del Ministro per la pubblica istruzione, la Societa' di cultura e di incoraggiamento, con sede in Padova, assume la denominazione di Associazione gabinetto di lettura e societa' di incoraggiamento, di cui viene approvato lo statuto.
+
+Visto, il Guardasigilli: COLOMBO
+ Registrato alla Corte dei conti, addi' 16 settembre 1971
+ Atti del Governo, registro n. 244, foglio n. 108. - CARUSO

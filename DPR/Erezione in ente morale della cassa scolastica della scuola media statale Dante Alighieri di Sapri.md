@@ -1,19 +1,21 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 18 gennaio 1968 n. 802
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 802
+data: 1968-01-18
+titolo: "Erezione in ente morale della cassa scolastica della scuola media statale \"Dante Alighieri\" di Sapri."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1968-01-18;802
+codice_redazionale: 068U0802
+vigente: true
+---
 
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 18 gennaio 1968 n. 802
-==============================================================
-
-Erezione in ente morale della cassa scolastica della scuola media statale "Dante Alighieri" di Sapri.
------------------------------------------------------------------------------------------------------
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-802. Decreto del Presidente della Repubblica 18 gennaio 1968, col quale, sulla proposta del Ministro per la pubblica istruzione, la cassa scolastica della scuola media statale "Dante Alighieri", di Sapri (Salerno), viene eretta in ente morale e ne viene approvato lo statuto.  
-  
-Visto, il Guardasigilli: REALE  
-Registrato alla Corte dei conti, addi' 10 luglio 1968  
-Atti del Governo, registro n. 221, foglio n. 1. - GRECO
+802.
+
+Decreto del Presidente della Repubblica 18 gennaio 1968, col quale, sulla proposta del Ministro per la pubblica istruzione, la cassa scolastica della scuola media statale "Dante Alighieri", di Sapri (Salerno), viene eretta in ente morale e ne viene approvato lo statuto.
+
+Visto, il Guardasigilli: REALE
+ Registrato alla Corte dei conti, addi' 10 luglio 1968
+ Atti del Governo, registro n. 221, foglio n. 1. - GRECO

@@ -1,76 +1,47 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 27 novembre 1951 n. 1385
-
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 27 novembre 1951 n. 1385
-================================================================
-
-Trasferimento in proprieta' all'Ente per la colonizzazione della Maremma tosco-laziale e del territorio del Fucino di terreni di proprieta' di Tolomei Di Lippa Mario fu Baldastricca, in comune di Roccastrada (Grosseto).
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 1385
+data: 1951-11-27
+titolo: "Trasferimento in proprieta' all'Ente per la colonizzazione della Maremma tosco-laziale e del territorio del Fucino di terreni di proprieta' di Tolomei Di Lippa Mario fu Baldastricca, in comune di Roccastrada (Grosseto)."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1951-11-27;1385
+codice_redazionale: 051U1385
+vigente: true
+---
 
 IL PRESIDENTE DELLA REPUBBLICA
-------------------------------
 
-Visti gli [articoli 77, comma primo](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27~art77-com1), ed [87, comma quinto, della Costituzione](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27~art87-com5) della Repubblica;
+Visti gli [articoli 77, comma primo](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_77-com1), ed [87, comma quinto, della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87-com5) della Repubblica;
 
-Viste le [leggi 12 maggio 1950, n. 230 e 21 ottobre 1950, n. 841](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1950-10-21;841);
+Viste le [leggi 12 maggio 1950, n. 230 e 21 ottobre 1950, n. 841](../Atti%20normativi%20abrogati%20%28in%20originale%29/Norme%20per%20la%20espropriazione%20bonifica%20trasformazione%20ed%20assegnazione%20dei%20terreni%20ai%20contadini.md);
 
-In virtu' della delegazione concessa dagli [articoli 5 della legge 12 maggio 1950, n. 230](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1950-05-12;230~art5), ed 1 e 2 della [legge 21 ottobre 1950, n. 841](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1950-10-21;841);
+In virtu' della delegazione concessa dagli [articoli 5 della legge 12 maggio 1950, n. 230](../Atti%20normativi%20abrogati%20%28in%20originale%29/Provvedimenti%20per%20la%20colonizzazione%20dellAltopiano%20della%20Sila%20e%20dei%20territori%20jonici%20contermini.md), ed 1 e 2 della [legge 21 ottobre 1950, n. 841](../Atti%20normativi%20abrogati%20%28in%20originale%29/Norme%20per%20la%20espropriazione%20bonifica%20trasformazione%20ed%20assegnazione%20dei%20terreni%20ai%20contadini.md);
 
-Visto il [decreto del Presidente della Repubblica 7 febbraio 1951, n. 66](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-02-07;66);
+Visto il [decreto del Presidente della Repubblica 7 febbraio 1951, n. 66](Norme%20per%20lapplicazione%20della%20legge%2021%20ottobre%201950%20numero%20841%20a%20territori%20del%20Lazio%20della%20Toscana%20e%20dellAbruzzo%20e%20istituzione%20dellEnte%20per%20la%20colonizzazione%20della%20maremma%20tosco-laziale%20e_a740bd2a2259.md);
 
-Udito il parere in data 5 ottobre 1951, della Commissione parlamentare, nominata a norma degli [articoli 5 della legge 12 maggio 1950, n. 230](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1950-05-12;230~art5), ed 1 e 2 della [legge 21 ottobre 1950, n. 841](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1950-10-21;841), la quale ha esaminato i piani particolareggiati di espropriazione compilati dall'Ente per la colonizzazione della Maremma tosco-laziale e del territorio del Fucino, per i terreni ricadenti nel comune di Roccastrada (provincia di Grosseto) della superficie di Ha. 12.83.64 nei confronti di Tolomei Di Lippa Mario fu Baldastricca;
+Udito il parere in data 5 ottobre 1951, della Commissione parlamentare, nominata a norma degli [articoli 5 della legge 12 maggio 1950, n. 230](../Atti%20normativi%20abrogati%20%28in%20originale%29/Provvedimenti%20per%20la%20colonizzazione%20dellAltopiano%20della%20Sila%20e%20dei%20territori%20jonici%20contermini.md), ed 1 e 2 della [legge 21 ottobre 1950, n. 841](../Atti%20normativi%20abrogati%20%28in%20originale%29/Norme%20per%20la%20espropriazione%20bonifica%20trasformazione%20ed%20assegnazione%20dei%20terreni%20ai%20contadini.md), la quale ha esaminato i piani particolareggiati di espropriazione compilati dall'Ente per la colonizzazione della Maremma tosco-laziale e del territorio del Fucino, per i terreni ricadenti nel comune di Roccastrada (provincia di Grosseto) della superficie di Ha. 12.83.64 nei confronti di Tolomei Di Lippa Mario fu Baldastricca;
 
 Sentito il Consiglio dei Ministri;
 
-Sulla
------
+Sulla proposta del Ministro Segretario di Stato per l'agricoltura e le foreste; Decreta:
 
-proposta del Ministro Segretario di Stato per l'agricoltura e le foreste; Decreta:
+## Art. 1.
 
-Art. 1
-------
+Sono approvati i piani particolareggiati di espropriazione compilati dall'Ente per la colonizzazione della Maremma tosco-laziale e del territorio del Fucino, per i terreni ricadenti nel comune di Roccastrada (provincia di Grosseto), della superficie di Ha. 12.83.64 nei confronti di Tolomei Di Lippa Mario fu Baldastricca.
 
-  
-Sono approvati i piani particolareggiati di espropriazione compilati dall'Ente per la colonizzazione della Maremma tosco-laziale e del territorio del Fucino, per i terreni ricadenti nel comune di Roccastrada (provincia di Grosseto), della superficie di Ha. 12.83.64 nei confronti di Tolomei Di Lippa Mario fu Baldastricca.  
+## Art. 2.
 
-Art. 2
-------
+I terreni indicati nel precedente articolo e specificamente designati negli elenchi uniti al presente decreto, sono trasferiti in proprieta' all'Ente per la colonizzazione della Maremma tosco-laziale e del territorio del Fucino.
 
-  
-I terreni indicati nel precedente articolo e specificamente designati negli elenchi uniti al presente decreto, sono trasferiti in proprieta' all'Ente per la colonizzazione della Maremma tosco-laziale e del territorio del Fucino.  
+## Art. 3.
 
-Art. 3
-------
+E' ordinata la immediata occupazione, da parte dell'Ente, dei terreni indicati nei precedenti articoli 1 e 2.
 
-  
-E' ordinata la immediata occupazione, da parte dell'Ente, dei terreni indicati nei precedenti articoli 1 e 2.  
+## Art. 4.
 
-Art. 4
-------
-
-  
-Gli elenchi dei terreni, con l'indicazione dell'indennita', di espropriazione offerta, muniti del visto del Ministro proponente, formano parte integrante del presente decreto, che entra in vigore il giorno stesso della sua pubblicazione nella Gazzetta Ufficiale della Repubblica italiana.  
-  
+Gli elenchi dei terreni, con l'indicazione dell'indennita', di espropriazione offerta, muniti del visto del Ministro proponente, formano parte integrante del presente decreto, che entra in vigore il giorno stesso della sua pubblicazione nella Gazzetta Ufficiale della Repubblica italiana.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 27 novembre 1951
+Dato a Roma, addi' 27 novembre 1951
 
-EINAUDI DE GASPERI - FANFANI
-
-Visto, il Guardasigilli: ZOLI
-
-Registrato alla Corte dei conti, addi' 20 dicembre 1951
-
-Atti del Governo, registro n. 47, foglio n. 92. - FRASCA
-
-Elenco
-
- COMUNE DI ROCCASTRADA (Grosseto)   
-  
-Elenco dei terreni intestati alla ditta Tolomei di Lippa Mario fu Baldastricca trasferiti in proprieta' dell'Ente per la colonizzazione della Maremma tosco-laziale e del territorio del Fucino, a norma delle [leggi 12 maggio 1950, n. 230, 21 ottobre 1950, n. 841](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1950-10-21;841), e [decreto Presidenziale 7 febbraio 1951, n. 66](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-02-07;66).   
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=051U138500100010110001&dgu=1951-12-28&art.dataPubblicazioneGazzetta=1951-12-28&art.codiceRedazionale=051U1385)
-  
+EINAUDI DE GASPERI - FANFANI Visto, il Guardasigilli: ZOLI Registrato alla Corte dei conti, addi' 20 dicembre 1951 Atti del Governo, registro n. 47, foglio n. 92. - FRASCA

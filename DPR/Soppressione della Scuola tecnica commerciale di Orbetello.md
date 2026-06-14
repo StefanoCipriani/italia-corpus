@@ -1,45 +1,31 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 dicembre 1966 n. 1390
-
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 dicembre 1966 n. 1390
-================================================================
-
-Soppressione della Scuola tecnica commerciale di Orbetello.
------------------------------------------------------------
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 1390
+data: 1966-12-31
+titolo: "Soppressione della Scuola tecnica commerciale di Orbetello."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1966-12-31;1390
+codice_redazionale: 066U1390
+vigente: true
+---
 
 IL PRESIDENTE DELLA REPUBBLICA
-------------------------------
 
-Veduta la [legge 15 giugno 1931, n. 889](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1931-06-15;889), sul riordinamento dell'istruzione media tecnica;
+Veduta la [legge 15 giugno 1931, n. 889](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1931-06-15;889), sul riordinamento dell'istruzione media tecnica;
 
-Veduto il [decreto del Presidente della Repubblica 30 settembre 1954, n. 1574](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1954-09-30;1574), riguardante l'istituzione di una Scuola tecnica commerciale in Orbetello;
+Veduto il [decreto del Presidente della Repubblica 30 settembre 1954, n. 1574](Istituzione%20di%20Scuole%20tecniche%20commerciali%20statali%20in%20Alassio%20Avellino%20e%20Orbetello.md), riguardante l'istituzione di una Scuola tecnica commerciale in Orbetello;
 
 Considerato che la Scuola predetta ha cessato di funzionare di fatto dal 1 ottobre 1965;
 
 Riconosciuta la necessita' di provvedere alla soppressione della Scuola stessa;
 
-Sulla
------
+Sulla proposta del Ministro Segretario di Stato per la pubblica istruzione, di concerto con quelli per l'interno e per il tesoro; Decreta:
 
-proposta del Ministro Segretario di Stato per la pubblica istruzione, di concerto con quelli per l'interno e per il tesoro; Decreta:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-A decorrere dal 1 ottobre 1966 la Scuola tecnica commerciale di Orbetello e' soppressa. Il suo patrimonio e' trasferito all'Istituto professionale per il commercio di Grosseto.  
-  
+A decorrere dal 1 ottobre 1966 la Scuola tecnica commerciale di Orbetello e' soppressa. Il suo patrimonio e' trasferito all'Istituto professionale per il commercio di Grosseto.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 31 dicembre 1966
+Dato a Roma, addi' 31 dicembre 1966
 
-SARAGAT GUI - TAVIANI - COLOMBO
-
-Visto, il Guardasigilli: REALE
-
-Registrato alla Corte dei conti, addi' 10 luglio 1967
-
-Atti del Governo, registro n. 212, foglio n. 27. - GRECO
+SARAGAT GUI - TAVIANI - COLOMBO Visto, il Guardasigilli: REALE Registrato alla Corte dei conti, addi' 10 luglio 1967 Atti del Governo, registro n. 212, foglio n. 27. - GRECO

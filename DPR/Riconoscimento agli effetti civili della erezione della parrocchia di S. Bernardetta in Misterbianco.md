@@ -1,20 +1,22 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 aprile 1982 n. 536
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 536
+data: 1982-04-30
+titolo: "Riconoscimento, agli effetti civili, della erezione della parrocchia di \"S. Bernardetta\", in Misterbianco."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1982-04-30;536
+codice_redazionale: 082U0536
+vigente: true
+---
 
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 aprile 1982 n. 536
-=============================================================
-
-Riconoscimento, agli effetti civili, della erezione della parrocchia di "S. Bernardetta", in Misterbianco.
-----------------------------------------------------------------------------------------------------------
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-536. Decreto del Presidente della Repubblica 30 aprile 1982, col quale, sulla proposta del Ministro dell'interno, viene riconosciuto, agli effetti civili, il decreto dell'ordinario diocesano di Catania 18 febbraio 1970, integrato con altro decreto 22 gennaio 1981 e con due dichiarazioni datate 15 dicembre 1980 e 2 febbraio 1981, relativo alla erezione della parrocchia di "S.  
-Bernardetta", in localita' Lineri del comune di Misterbianco (Catania).  
-  
-Visto, il Guardasigilli: DARIDA  
-Registrato alla Corte dei conti, addi' 3 agosto 1982  
-Registro n. 17 Interno, foglio n. 209
+536.
+
+Decreto del Presidente della Repubblica 30 aprile 1982, col quale, sulla proposta del Ministro dell'interno, viene riconosciuto, agli effetti civili, il decreto dell'ordinario diocesano di Catania 18 febbraio 1970, integrato con altro decreto 22 gennaio 1981 e con due dichiarazioni datate 15 dicembre 1980 e 2 febbraio 1981, relativo alla erezione della parrocchia di "S.
+ Bernardetta", in localita' Lineri del comune di Misterbianco (Catania).
+
+Visto, il Guardasigilli: DARIDA
+ Registrato alla Corte dei conti, addi' 3 agosto 1982
+ Registro n. 17 Interno, foglio n. 209

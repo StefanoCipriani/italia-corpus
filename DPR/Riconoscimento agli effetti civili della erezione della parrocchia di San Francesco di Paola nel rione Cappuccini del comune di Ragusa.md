@@ -1,18 +1,20 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 04 novembre 1950 n. 1064
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 1064
+data: 1950-11-04
+titolo: "Riconoscimento, agli effetti civili, della erezione della parrocchia di San Francesco di Paola, nel rione Cappuccini del comune di Ragusa."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1950-11-04;1064
+codice_redazionale: 050U1064
+vigente: true
+---
 
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 04 novembre 1950 n. 1064
-================================================================
-
-Riconoscimento, agli effetti civili, della erezione della parrocchia di San Francesco di Paola, nel rione Cappuccini del comune di Ragusa.
-------------------------------------------------------------------------------------------------------------------------------------------
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-104. Decreto del Presidente della Repubblica 4 novembre 1950, col quale, sulla proposta del Ministro per l'interno, viene riconosciuto, agli effetti civili, il decreto dell'Ordinario diocesano di Siracusa in data 29 settembre 1949, integrato con postilla, relativo alla erezione della parrocchia di San Francesco di Paola, nel rione Cappuccini del comune di Ragusa.  
-  
-Visto, il Guardasigilli: PICCIONI  
-Registrato alla Corte dei conti, addi' 27 dicembre 1950
+104.
+
+Decreto del Presidente della Repubblica 4 novembre 1950, col quale, sulla proposta del Ministro per l'interno, viene riconosciuto, agli effetti civili, il decreto dell'Ordinario diocesano di Siracusa in data 29 settembre 1949, integrato con postilla, relativo alla erezione della parrocchia di San Francesco di Paola, nel rione Cappuccini del comune di Ragusa.
+
+Visto, il Guardasigilli: PICCIONI
+ Registrato alla Corte dei conti, addi' 27 dicembre 1950

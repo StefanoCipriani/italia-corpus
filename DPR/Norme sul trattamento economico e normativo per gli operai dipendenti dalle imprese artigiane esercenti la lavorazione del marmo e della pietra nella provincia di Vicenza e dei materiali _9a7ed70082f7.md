@@ -1,20 +1,20 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 gennaio 1962 n. 1155
-
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 gennaio 1962 n. 1155
-===============================================================
-
-Norme sul trattamento economico e normativo per gli operai dipendenti dalle imprese artigiane esercenti la lavorazione del marmo e della pietra nella provincia di Vicenza e dei materiali lapidei nella provincia di Venezia.
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 1155
+data: 1962-01-02
+titolo: "Norme sul trattamento economico e normativo per gli operai dipendenti dalle imprese artigiane esercenti la lavorazione del marmo e della pietra nella provincia di Vicenza e dei materiali lapidei nella provincia di Venezia."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1962-01-02;1155
+codice_redazionale: 062U1155
+vigente: true
+---
 
 IL PRESIDENTE DELLA REPUBBLICA
-------------------------------
 
-Visto l'[art. 87, comma quinto, della Costituzione](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27~art87-com5);
+Visto l'[art. 87, comma quinto, della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87-com5);
 
-Vista la [legge 14 luglio 1959, n. 741](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1959-07-14;741), che delega il Governo ad emanare norme transitorie per garantire minimi di trattamento economico e normativo ai lavoratori;
+Vista la [legge 14 luglio 1959, n. 741](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1959-07-14;741), che delega il Governo ad emanare norme transitorie per garantire minimi di trattamento economico e normativo ai lavoratori;
 
-Vista la [legge 1 ottobre 1960, n. 1027](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1960-10-01;1027), recante modifiche alla predetta [legge 14 luglio 1959, n. 741](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1959-07-14;741);
+Vista la [legge 1 ottobre 1960, n. 1027](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1960-10-01;1027), recante modifiche alla predetta [legge 14 luglio 1959, n. 741](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1959-07-14;741);
 
 Visto, per la provincia di Vicenza, il contratto collettivo 9 aprile 1969, e relative tabelle, per gli operai dipendenti da aziende artigiane esercenti la, lavorazione dei materiali lapidei, stipulato tra l'Associazione Artigiani e la Camera, del Lavoro, l'Unione Sindacale Provinciale;
 
@@ -24,50 +24,18 @@ Vista la pubblicazione nell'apposito Bollettino, n. 13 della provincia di Vicenz
 
 Sentito il Consiglio dei Ministri;
 
-Sulla
------
+Sulla proposta del Ministro per il lavoro e la previdenza sociale; Decreta:
 
-proposta del Ministro per il lavoro e la previdenza sociale; Decreta:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-I rapporti di lavoro costituiti per l'attivita' per la quale sono stati stipulati, relativamente agli operai dipendenti da aziende artigiane esercenti la lavorazione dei materiali lapidei:  
-- per la provincia di Vicenza, il contratto collettivo 9 aprile 1959;  
-- per la provincia di Venezia, l'accordo collettivo 15 ottobre 1959;  
-sono regolati da norme giuridiche uniformi alle clausole del contratto e dell'accordo collettivi anzidetti.  
-I minimi di trattamento economico e normativo cosi' stabiliti sono inderogabili nei confronti di tutti gli operai dipendenti dalle imprese artigiane esercenti la lavorazione del marmo e della pietra nella provincia di Vicenza e dei materiali lapidei nella provincia di Venezia.  
-  
+I rapporti di lavoro costituiti per l'attivita' per la quale sono stati stipulati, relativamente agli operai dipendenti da aziende artigiane esercenti la lavorazione dei materiali lapidei:
+ - per la provincia di Vicenza, il contratto collettivo 9 aprile 1959;
+ - per la provincia di Venezia, l'accordo collettivo 15 ottobre 1959;
+sono regolati da norme giuridiche uniformi alle clausole del contratto e dell'accordo collettivi anzidetti.
+ I minimi di trattamento economico e normativo cosi' stabiliti sono inderogabili nei confronti di tutti gli operai dipendenti dalle imprese artigiane esercenti la lavorazione del marmo e della pietra nella provincia di Vicenza e dei materiali lapidei nella provincia di Venezia.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta, Ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 2 gennaio 1962
+Dato a Roma, addi' 2 gennaio 1962
 
-GRONCHI FANFANI - SULLO
-
-Visto, il Guardasigilli: BOSCO
-
-Registrato alla Corte dei conti, addi' 14 luglio 1962
-
-Atti del Governo, registro n. 154, foglio n. 63. - VILLA
-
-Allegato
-
-CONTRATTO COLLETTIVO 9 APRILE 1959 PER GLI OPERAI DIPENDENTI DA AZIENDE ARTIGIANE ESERCENTI LA LAVORAZIONE DEI MATERIALI LAPIDEI NELLA PROVINCIA DI VICENZA.   
-  
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=062U115500100010110001&dgu=1962-08-14&art.dataPubblicazioneGazzetta=1962-08-14&art.codiceRedazionale=062U1155)
-  
-  
-  
-  
-ACCORDO COLLETTIVO 15 OTTOBRE 1959 PER GLI OPERAI DIPENDENTI DA AZIENDE ARTIGIANE ESERCENTI LA LAVORAZIONE DEI MATERIALI LAPIDEI DELLA PROVINCIA DI VENEZIA.   
-  
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=062U115500100010110002&dgu=1962-08-14&art.dataPubblicazioneGazzetta=1962-08-14&art.codiceRedazionale=062U1155)
-  
+GRONCHI FANFANI - SULLO Visto, il Guardasigilli: BOSCO Registrato alla Corte dei conti, addi' 14 luglio 1962 Atti del Governo, registro n. 154, foglio n. 63. - VILLA

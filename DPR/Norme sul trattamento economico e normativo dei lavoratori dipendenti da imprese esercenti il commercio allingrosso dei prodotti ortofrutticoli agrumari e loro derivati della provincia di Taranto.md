@@ -1,20 +1,20 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 gennaio 1962 n. 460
-
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 gennaio 1962 n. 460
-==============================================================
-
-Norme sul trattamento economico e normativo dei lavoratori dipendenti da imprese esercenti il commercio all'ingrosso dei prodotti ortofrutticoli, agrumari e loro derivati, della provincia di Taranto.
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 460
+data: 1962-01-02
+titolo: "Norme sul trattamento economico e normativo dei lavoratori dipendenti da imprese esercenti il commercio all'ingrosso dei prodotti ortofrutticoli, agrumari e loro derivati, della provincia di Taranto."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1962-01-02;460
+codice_redazionale: 062U0460
+vigente: true
+---
 
 IL PRESIDENTE DELLA REPUBBLICA
-------------------------------
 
-Visto l'[art. 87, comma quinto, della Costituzione](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27~art87-com5);
+Visto l'[art. 87, comma quinto, della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87-com5);
 
-Vista la [legge 14 luglio 1959, n. 741](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1959-07-14;741), che delega il Governo ad emanare norme transitorie per garantire minimi di trattamento economico e normativo ai lavoratori;
+Vista la [legge 14 luglio 1959, n. 741](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1959-07-14;741), che delega il Governo ad emanare norme transitorie per garantire minimi di trattamento economico e normativo ai lavoratori;
 
-Vista la [legge 1 ottobre 1960, n. 1027](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1960-10-01;1027), recante modifiche alla predetta [legge 14 luglio 1959, n. 741](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1959-07-14;741);
+Vista la [legge 1 ottobre 1960, n. 1027](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1960-10-01;1027), recante modifiche alla predetta [legge 14 luglio 1959, n. 741](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1959-07-14;741);
 
 Visto l'accordo collettivo nazionale 29 aprile 1957, per l'applicazione della scala mobile al settore commercio;
 
@@ -32,47 +32,18 @@ Vista la pubblicazione nell'apposito Bollettino, n. 10 della provincia di Tarant
 
 Sentito il Consiglio dei Ministri;
 
-Sulla
------
+Sulla proposta del Ministro per il lavoro e la previdenza sociale; Decreta:
 
-proposta del Ministro per il lavoro e la previdenza sociale; Decreta:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-I rapporti di lavoro costituiti per le attivita' per le quali sono stati stipulati, per la provincia di Taranto:  
-- l'accordo collettivo 16 ottobre 1948, relativo ai lavoratori dipendenti da aziende esercenti il commercio all'ingrosso di prodotti ortofrutticoli e agrumari;  
-- l'accordo collettivo 29 luglio 1959, relativo ai lavoratori dipendenti da aziende commerciali all'ingrosso di prodotti ortofrutticoli, agrumari e Loro derivati;  
-sono regolati da norme giuridiche uniformi alle clausole degli accordi collettivi anzidetti, annessi al presente decreto, purche' compatibili con quelle concernenti la disciplina nazionale della, categoria.  
-I minimi di trattamento economico e normativo cosi' stabiliti sono inderogabili nei confronti di tutti i lavoratori dipendenti dalle imprese esercenti il commercio all'ingrosso dei prodotti ortofrutticoli, agrumari e loro derivati della, provincia di Taranto.  
-  
+I rapporti di lavoro costituiti per le attivita' per le quali sono stati stipulati, per la provincia di Taranto:
+ - l'accordo collettivo 16 ottobre 1948, relativo ai lavoratori dipendenti da aziende esercenti il commercio all'ingrosso di prodotti ortofrutticoli e agrumari;
+ - l'accordo collettivo 29 luglio 1959, relativo ai lavoratori dipendenti da aziende commerciali all'ingrosso di prodotti ortofrutticoli, agrumari e Loro derivati;
+sono regolati da norme giuridiche uniformi alle clausole degli accordi collettivi anzidetti, annessi al presente decreto, purche' compatibili con quelle concernenti la disciplina nazionale della, categoria.
+ I minimi di trattamento economico e normativo cosi' stabiliti sono inderogabili nei confronti di tutti i lavoratori dipendenti dalle imprese esercenti il commercio all'ingrosso dei prodotti ortofrutticoli, agrumari e loro derivati della, provincia di Taranto.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dai decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 2 gennaio 1962
+Dato a Roma, addi' 2 gennaio 1962
 
-GRONCHI FANFANI - SULLO
-
-Visto, il Guardasigilli: BOSCO
-
-Registrato alla Corte dei conti, addi' 28 maggio 1962
-
-Atti del Governo, registro n. 148, foglio n. 35. - VILLA
-
-Accordo
-
-ACCORDO COLLETTIVO 16 OTTOBRE 1948 PER I LAVORATORI DIPENDENTI DA AZIENDE ESERCENTI IL COMMERCIO ALL'INGROSSO DEI PRODOTTI ORTOFRUTTICOLI ED AGRUMARI DELLA PROVINCIA DI TARANTO   
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=062U046000100010110001&dgu=1962-06-19&art.dataPubblicazioneGazzetta=1962-06-19&art.codiceRedazionale=062U0460)
-  
-  
-  
-ACCORDO COLLETTIVO 29 LUGLIO 1959, PER I LAVORATORI DIPENDENTI DA AZIENDE COMMERCIALI ALL'INGROSSO DI PRODOTTI ORTOFRUTTICOLI, AGRUMARI E LORO DERIVATI DELLA PROVINCIA DI TARANTO.   
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=062U046000100010110002&dgu=1962-06-19&art.dataPubblicazioneGazzetta=1962-06-19&art.codiceRedazionale=062U0460)
-  
+GRONCHI FANFANI - SULLO Visto, il Guardasigilli: BOSCO Registrato alla Corte dei conti, addi' 28 maggio 1962 Atti del Governo, registro n. 148, foglio n. 35. - VILLA

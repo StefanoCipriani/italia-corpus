@@ -1,13 +1,13 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 10 settembre 1969 n. 647
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 647
+data: 1969-09-10
+titolo: "Orientamenti dell'attivita' educativa nelle scuole materne statali."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1969-09-10;647
+codice_redazionale: 069U0647
+vigente: true
+---
 
+## Art. 1.
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 10 settembre 1969 n. 647
-================================================================
-
-Orientamenti dell'attivita' educativa nelle scuole materne statali.
--------------------------------------------------------------------
-
-Art. 1
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))

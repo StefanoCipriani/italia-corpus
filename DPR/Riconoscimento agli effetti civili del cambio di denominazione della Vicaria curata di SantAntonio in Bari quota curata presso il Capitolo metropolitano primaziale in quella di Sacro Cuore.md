@@ -1,19 +1,21 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 19 gennaio 1957 n. 126
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 126
+data: 1957-01-19
+titolo: "Riconoscimento, agli effetti civili, del cambio di denominazione della Vicaria curata di Sant'Antonio, in Bari, quota curata presso il Capitolo metropolitano primaziale, in quella di \"Sacro Cuore\"."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1957-01-19;126
+codice_redazionale: 057U0126
+vigente: true
+---
 
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 19 gennaio 1957 n. 126
-==============================================================
-
-Riconoscimento, agli effetti civili, del cambio di denominazione della Vicaria curata di Sant'Antonio, in Bari, quota curata presso il Capitolo metropolitano primaziale, in quella di "Sacro Cuore".
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-126. Decreto del Presidente della Repubblica 19 gennaio 1957, col quale, sulla proposta del Ministro per l'interno, viene riconosciuto, agli effetti civili, il decreto dell'Ordinario diocesano di Bari in data 30 giugno 1956, col quale si muta la denominazione della Vicaria curata di Sant'Antonio, in Bari, quota curata presso il Capitolo metropolitano primaziale, in quella di "Sacro Cuore".  
-  
-Visto, il Guardasigilli: MORO  
-Registrato alla Corte dei conti, addi' 16 marzo 1957  
-Atti del Governo, registro n. 104, foglio n. 142. - CARLOMAGNO
+126.
+
+Decreto del Presidente della Repubblica 19 gennaio 1957, col quale, sulla proposta del Ministro per l'interno, viene riconosciuto, agli effetti civili, il decreto dell'Ordinario diocesano di Bari in data 30 giugno 1956, col quale si muta la denominazione della Vicaria curata di Sant'Antonio, in Bari, quota curata presso il Capitolo metropolitano primaziale, in quella di "Sacro Cuore".
+
+Visto, il Guardasigilli: MORO
+ Registrato alla Corte dei conti, addi' 16 marzo 1957
+ Atti del Governo, registro n. 104, foglio n. 142. - CARLOMAGNO

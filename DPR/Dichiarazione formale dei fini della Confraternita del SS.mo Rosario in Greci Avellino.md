@@ -1,18 +1,20 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 21 aprile 1948 n. 944
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 944
+data: 1948-04-21
+titolo: "Dichiarazione formale dei fini della Confraternita del SS.mo Rosario, in Greci (Avellino)."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1948-04-21;944
+codice_redazionale: 048U0944
+vigente: true
+---
 
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 21 aprile 1948 n. 944
-=============================================================
-
-Dichiarazione formale dei fini della Confraternita del SS.mo Rosario, in Greci (Avellino).
-------------------------------------------------------------------------------------------
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-944. Decreto del Presidente della Repubblica 21 aprile 1948, col quale, sulla proposta del Ministro per l'interno, viene provveduto alla dichiarazione formale dei fini della Confraternita del SS.mo Rosario, in Greci (Avellino).  
-  
-Visto, il Guardasigilli: GRASSI  
-Registrato alla Corte dei conti, addi' 26 giugno 1948
+944.
+
+Decreto del Presidente della Repubblica 21 aprile 1948, col quale, sulla proposta del Ministro per l'interno, viene provveduto alla dichiarazione formale dei fini della Confraternita del SS.mo Rosario, in Greci (Avellino).
+
+Visto, il Guardasigilli: GRASSI
+ Registrato alla Corte dei conti, addi' 26 giugno 1948

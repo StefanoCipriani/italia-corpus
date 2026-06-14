@@ -1,42 +1,34 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 gennaio 1975 n. 10
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 10
+data: 1975-01-28
+titolo: "Trasferimento di un posto di assistente ordinario dalla facolta' di scienze matematiche, fisiche e naturali dell'Universita' di Padova alla medesima facolta' dell'Universita' di Bologna."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1975-01-28;10
+codice_redazionale: 075U0010
+vigente: true
+---
 
+## Art. 1.
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 gennaio 1975 n. 10
-=============================================================
-
-Trasferimento di un posto di assistente ordinario dalla facolta' di scienze matematiche, fisiche e naturali dell'Universita' di Padova alla medesima facolta' dell'Universita' di Bologna.
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Art. 1
-------
-
- IL PRESIDENTE DELLA REPUBBLICA   
-  
-Visto l'[art. 2, quarto comma, del decreto legislativo 7 maggio 1948, n. 1172](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1948-05-07;1172~art2-com4), ratificato con [legge 24 giugno 1950, n. 465](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1950-06-24;465);   
-Visto il [decreto del Presidente della Repubblica n. 343 del 1° aprile 1967](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1967-04-01;343), concernente la ripartizione dei posti di assistente ordinario di cui alla [legge 24 febbraio 1967, n. 62](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1967-02-24;62);   
-Viste le delibere della facolta' di scienze matematiche, fisiche e naturali e del senato accademico dell'Universita' di Bologna, datate rispettivamente 20 novembre e 15 dicembre 1973;   
-Ritenuta necessaria l'assegnazione di un ulteriore posto di assistente ordinario alla cattedra di chimica generale ed inorganica prima della facolta' di scienze matematiche, fisiche e naturali dell'Universita' di Bologna in considerazione dell'aumentato numero degli iscritti alla predetta facolta' e della rilevanza dell'insegnamento di chimica generale ed inorganica;   
-Ritenuto che l'esigenza puo' essere soddisfatta mediante il trasferimento presso la prima cattedra di chimica generale ed inorganica della facolta' di scienze matematiche, fisiche e naturali dell'Universita' di Bologna di un posto di assistente ordinario assegnato alla cattedra di chimica fisica della facolta' di scienze matematiche, fisiche e naturali dell'Universita' di Padova con decreto del Presidente della Repubblica n. 343, sopra citato;   
-Considerato che l'Universita' di Padova ha dato il suo assenso al trasferimento del posto di assistente assegnato alla cattedra di chimica fisica della facolta' di scienze matematiche, fisiche e naturali con decreto del Presidente della Repubblica n. 343, sopra citato;   
-Considerato che nella citata delibera della facolta' di scienze matematiche, fisiche e naturali dell'Universita' di Bologna e' stata dichiarata l'affinita' della materia di chimica fisica con la chimica generale ed inorganica;   
-Ritenuto che il posto di assistente ordinario assegnato alla cattedra di chimica fisica della facolta' di scienze matematiche, fisiche e naturali dell'Universita' di Padova, con decreto del Presidente della Repubblica n. 343 sopra citato risulta occupato dalla dott.ssa Maria Giovanna Tubertini nata Bettoli che ha dato il suo assenso al trasferimento presso la prima cattedra di chimica generale ed inorganica della facolta' di scienze matematiche, fisiche e naturali dell'Universita' di Bologna;   
-Sulla proposta del Ministro Segretario di Stato per la pubblica istruzione;   
-  
-Decreta:   
-  
-Il posto di assistente gia' assegnato alla cattedra di chimica fisica della facolta' di scienze matematiche fisiche e naturali dell'Universita' di Padova con il [decreto del Presidente della Repubblica n. 343 del 1° aprile 1967](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1967-04-01;343), e' attribuito alla prima cattedra di chimica generale ed inorganica della facolta' di scienze matematiche, fisiche e naturali dell'Universita' di Bologna.   
-La dottoressa Maria Giovanna Tubertini nata Bettoli, che occupa il posto stesso in qualita' di assistente ordinario, viene con il suo consenso trasferita alla prima cattedra di chimica generale ed inorganica della facolta' di scienze matematiche, fisiche e naturali dell'Universita' di Bologna a datare dal 1° novembre 1975.   
-  
+IL PRESIDENTE DELLA REPUBBLICA 
+ 
+ Visto l'[art. 2, quarto comma, del decreto legislativo 7 maggio 1948, n. 1172](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1948-05-07;1172#art_2-com4), ratificato con [legge 24 giugno 1950, n. 465](../DL%20e%20leggi%20di%20conversione/Ratifica%20con%20modificazioni%20del%20decreto%20legislativo%207%20maggio%201948%20n.%201172%20concernente%20listituzione%20di%20ruoli%20del%20personale%20assistente%20tecnico%20subalterno%20infermiere%20e%20portantino%20presentement_765b791e4325.md); 
+ Visto il [decreto del Presidente della Repubblica n. 343 del 1° aprile 1967](Ripartizione%20per%20lanno%20accademico%201966-67%20di%20milleseicentotrentasei%20posti%20di%20assistente%20di%20ruolo%20destinati%20a%20concorso%20riservati%20agli%20assistenti%20straordinari.md), concernente la ripartizione dei posti di assistente ordinario di cui alla [legge 24 febbraio 1967, n. 62](../Atti%20normativi%20abrogati%20%28in%20originale%29/Istituzione%20di%20nuove%20cattedre%20universitarie%20di%20nuovi%20posti%20di%20assistente%20universitario%20e%20nuova%20disciplina%20degli%20incarichi%20di%20insegnamento%20universitario%20e%20degli%20assistenti%20volontari.md); 
+ Viste le delibere della facolta' di scienze matematiche, fisiche e naturali e del senato accademico dell'Universita' di Bologna, datate rispettivamente 20 novembre e 15 dicembre 1973; 
+ Ritenuta necessaria l'assegnazione di un ulteriore posto di assistente ordinario alla cattedra di chimica generale ed inorganica prima della facolta' di scienze matematiche, fisiche e naturali dell'Universita' di Bologna in considerazione dell'aumentato numero degli iscritti alla predetta facolta' e della rilevanza dell'insegnamento di chimica generale ed inorganica; 
+ Ritenuto che l'esigenza puo' essere soddisfatta mediante il trasferimento presso la prima cattedra di chimica generale ed inorganica della facolta' di scienze matematiche, fisiche e naturali dell'Universita' di Bologna di un posto di assistente ordinario assegnato alla cattedra di chimica fisica della facolta' di scienze matematiche, fisiche e naturali dell'Universita' di Padova con decreto del Presidente della Repubblica n. 343, sopra citato; 
+ Considerato che l'Universita' di Padova ha dato il suo assenso al trasferimento del posto di assistente assegnato alla cattedra di chimica fisica della facolta' di scienze matematiche, fisiche e naturali con decreto del Presidente della Repubblica n. 343, sopra citato; 
+ Considerato che nella citata delibera della facolta' di scienze matematiche, fisiche e naturali dell'Universita' di Bologna e' stata dichiarata l'affinita' della materia di chimica fisica con la chimica generale ed inorganica; 
+ Ritenuto che il posto di assistente ordinario assegnato alla cattedra di chimica fisica della facolta' di scienze matematiche, fisiche e naturali dell'Universita' di Padova, con decreto del Presidente della Repubblica n. 343 sopra citato risulta occupato dalla dott.ssa Maria Giovanna Tubertini nata Bettoli che ha dato il suo assenso al trasferimento presso la prima cattedra di chimica generale ed inorganica della facolta' di scienze matematiche, fisiche e naturali dell'Universita' di Bologna; 
+ Sulla proposta del Ministro Segretario di Stato per la pubblica istruzione; 
+ 
+ Decreta: 
+ 
+ Il posto di assistente gia' assegnato alla cattedra di chimica fisica della facolta' di scienze matematiche fisiche e naturali dell'Universita' di Padova con il [decreto del Presidente della Repubblica n. 343 del 1° aprile 1967](Ripartizione%20per%20lanno%20accademico%201966-67%20di%20milleseicentotrentasei%20posti%20di%20assistente%20di%20ruolo%20destinati%20a%20concorso%20riservati%20agli%20assistenti%20straordinari.md), e' attribuito alla prima cattedra di chimica generale ed inorganica della facolta' di scienze matematiche, fisiche e naturali dell'Universita' di Bologna. 
+ La dottoressa Maria Giovanna Tubertini nata Bettoli, che occupa il posto stesso in qualita' di assistente ordinario, viene con il suo consenso trasferita alla prima cattedra di chimica generale ed inorganica della facolta' di scienze matematiche, fisiche e naturali dell'Universita' di Bologna a datare dal 1° novembre 1975.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 28 gennaio 1975
+Dato a Roma, addi' 28 gennaio 1975
 
-LEONE MALFATTI
-
-Visto, il Guardasigilli: REALE
-
-Registrato alla Corte dei conti, addi' 12 febbraio 1975
-
-Atti di Governo, registro n. 8, foglio n. 111
+LEONE MALFATTI Visto, il Guardasigilli: REALE Registrato alla Corte dei conti, addi' 12 febbraio 1975 Atti di Governo, registro n. 8, foglio n. 111

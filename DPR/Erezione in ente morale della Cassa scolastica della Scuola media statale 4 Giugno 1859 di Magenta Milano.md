@@ -1,19 +1,21 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 aprile 1958 n. 885
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 885
+data: 1958-04-02
+titolo: "Erezione in ente morale della Cassa scolastica della Scuola media statale \"4 Giugno 1859\" di Magenta (Milano)."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1958-04-02;885
+codice_redazionale: 058U0885
+vigente: true
+---
 
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 aprile 1958 n. 885
-=============================================================
-
-Erezione in ente morale della Cassa scolastica della Scuola media statale "4 Giugno 1859" di Magenta (Milano).
---------------------------------------------------------------------------------------------------------------
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-885. Decreto del Presidente della Repubblica 2 aprile 1958, col quale, sulla proposta del Ministro per la pubblica istruzione, la Cassa scolastica della Scuola media statale "4 Giugno 1859" di Magenta (Milano) viene eretta in ente morale e ne viene approvato lo statuto.  
-  
-Visto, il Guardasigilli: GONELLA  
-Registrato alla Corte dei conti, addi' 13 settembre 1958  
-Atti del Governo, registro n. 114, foglio n. 19. - RELLEVA
+885.
+
+Decreto del Presidente della Repubblica 2 aprile 1958, col quale, sulla proposta del Ministro per la pubblica istruzione, la Cassa scolastica della Scuola media statale "4 Giugno 1859" di Magenta (Milano) viene eretta in ente morale e ne viene approvato lo statuto.
+
+Visto, il Guardasigilli: GONELLA
+ Registrato alla Corte dei conti, addi' 13 settembre 1958
+ Atti del Governo, registro n. 114, foglio n. 19. - RELLEVA

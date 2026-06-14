@@ -1,14 +1,14 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 05 gennaio 1950 n. 91
-
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 05 gennaio 1950 n. 91
-=============================================================
-
-Riconoscimento della personalita' giuridica dell'Associazione nazionale sinistrati e danneggiati di guerra, con sede in Roma.
------------------------------------------------------------------------------------------------------------------------------
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 91
+data: 1950-01-05
+titolo: "Riconoscimento della personalita' giuridica dell'Associazione nazionale sinistrati e danneggiati di guerra, con sede in Roma."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1950-01-05;91
+codice_redazionale: 050U0091
+vigente: true
+---
 
 IL PRESIDENTE DELLA REPUBBLICA
-------------------------------
 
 Vista l'istanza, dei componenti la presidenza nazionale dell'Associazione sinistrati e danneggiati di guerra, con sede in Roma, per il riconoscimento della personalita' giuridica dell'Associazione stessa;
 
@@ -16,37 +16,22 @@ Visto l'atto costitutivo dell'Ente per notar Egidio Marchese di Roma, n. 4468 di
 
 Visto lo statuto dell'Ente;
 
-Visto l'[art. 12 e seguenti del Codice civile](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art12);
+Visto l'[art. 12 e seguenti del Codice civile](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262#art_12);
 
 Sentito il parere del Consiglio di Stato;
 
-Sulla
------
+Sulla proposta del Presidente del Consiglio dei Ministri, di concerto con il Ministro per di tesoro; Decreta:
 
-proposta del Presidente del Consiglio dei Ministri, di concerto con il Ministro per di tesoro; Decreta:
+## Art. 1.
 
-Art. 1
-------
+E' riconosciuta la personalita' giuridica dell'Associazione nazionale sinistrati e danneggiati di guerra, con sede in Roma.
 
-  
-E' riconosciuta la personalita' giuridica dell'Associazione nazionale sinistrati e danneggiati di guerra, con sede in Roma.  
+## Art. 2.
 
-Art. 2
-------
-
-  
-E' approvato lo statuto composto di ventiquattro articoli, vistato e sottoscritto dal Presidente del Consiglio dei Ministri.  
-  
+E' approvato lo statuto composto di ventiquattro articoli, vistato e sottoscritto dal Presidente del Consiglio dei Ministri.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 5 gennaio 1950
+Dato a Roma, addi' 5 gennaio 1950
 
-EINAUDI DE GASPERI - PELLA
-
-Visto, il Guardasigilli: PICCIONI
-
-Registrato alla Corte dei conti, addi' 22 marzo 1950
-
-Atti del Governo, registro n. 32, foglio n. 44. - FRASCA
+EINAUDI DE GASPERI - PELLA Visto, il Guardasigilli: PICCIONI Registrato alla Corte dei conti, addi' 22 marzo 1950 Atti del Governo, registro n. 32, foglio n. 44. - FRASCA

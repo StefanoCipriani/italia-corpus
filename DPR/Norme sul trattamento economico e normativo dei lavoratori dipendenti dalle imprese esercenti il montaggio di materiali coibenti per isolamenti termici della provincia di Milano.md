@@ -1,20 +1,20 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 gennaio 1962 n. 466
-
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 gennaio 1962 n. 466
-==============================================================
-
-Norme sul trattamento economico e normativo dei lavoratori dipendenti dalle imprese esercenti il montaggio di materiali coibenti per isolamenti termici della provincia di Milano.
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 466
+data: 1962-01-02
+titolo: "Norme sul trattamento economico e normativo dei lavoratori dipendenti dalle imprese esercenti il montaggio di materiali coibenti per isolamenti termici della provincia di Milano."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1962-01-02;466
+codice_redazionale: 062U0466
+vigente: true
+---
 
 IL PRESIDENTE DELLA REPUBBLICA
-------------------------------
 
-Visto l'[art. 87, comma quinto, della Costituzione](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27~art87-com5);
+Visto l'[art. 87, comma quinto, della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87-com5);
 
-Vista la [legge 14 luglio 1959, n. 741](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1959-07-14;741), che delega il Governo ad emanare norme transitorie per garantire minimi di trattamento economico e normativo ai lavoratori;
+Vista la [legge 14 luglio 1959, n. 741](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1959-07-14;741), che delega il Governo ad emanare norme transitorie per garantire minimi di trattamento economico e normativo ai lavoratori;
 
-Vista la [legge 1 ottobre 1960, n. 1027](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1960-10-01;1027), recante modifiche alla predetta [legge 14 luglio 1959, n. 741](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1959-07-14;741);
+Vista la [legge 1 ottobre 1960, n. 1027](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1960-10-01;1027), recante modifiche alla predetta [legge 14 luglio 1959, n. 741](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1959-07-14;741);
 
 Visto l'accordo interconfederale 12 giugno 1954, per il conglobamento e riassetto zonale delle retribuzioni per i settori industriali;
 
@@ -28,48 +28,18 @@ Vista la pubblicazione nell'apposito Bollettino numero 10 della provincia di Mil
 
 Sentito il Consiglio dei Ministri;
 
-Sulla
------
+Sulla proposta del Ministro per il lavoro e la previdenza sociale; Decreta:
 
-proposta del Ministro per il lavoro e la previdenza sociale; Decreta:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-I rapporti di lavoro costituiti per l'attivita' per la quale sono stati stipulati, per la provincia di Milano:  
-il contratto collettivo 17 luglio 1952, relativo agli operai dipendenti dalle imprese esercenti il montaggio di materiali coibenti per isolamenti termici;  
-l'accordo collettivo i novembre 1954, relativo alla attuazione, nei riguardi delle imprese esercenti il montaggio di materiali coibenti per isolamenti termici, dell'accordo 12 giugno 1951 sul conglobamento e sul riassetto zonale;  
-sono regolati da norme giuridiche uniformi alle clausole del contratto e dell'accordo anzidetti, annessi al presente decreto, purche' compatibili con quelle concernenti la disciplina nazionale per il conglobamento e riassetto zonale delle retribuzioni per i settori industriali.  
-I minimi di trattamento economico e normativo cosi' stabiliti sono inderogabili nei confronti di tutti i lavoratori, considerati nel contratto e nell'accordo di cui al primo comma, dipendenti dalle imprese esercenti il montaggio di materiali coibenti per isolamenti termici della provincia di Milano.  
-  
+I rapporti di lavoro costituiti per l'attivita' per la quale sono stati stipulati, per la provincia di Milano:
+ il contratto collettivo 17 luglio 1952, relativo agli operai dipendenti dalle imprese esercenti il montaggio di materiali coibenti per isolamenti termici;
+ l'accordo collettivo i novembre 1954, relativo alla attuazione, nei riguardi delle imprese esercenti il montaggio di materiali coibenti per isolamenti termici, dell'accordo 12 giugno 1951 sul conglobamento e sul riassetto zonale;
+sono regolati da norme giuridiche uniformi alle clausole del contratto e dell'accordo anzidetti, annessi al presente decreto, purche' compatibili con quelle concernenti la disciplina nazionale per il conglobamento e riassetto zonale delle retribuzioni per i settori industriali.
+ I minimi di trattamento economico e normativo cosi' stabiliti sono inderogabili nei confronti di tutti i lavoratori, considerati nel contratto e nell'accordo di cui al primo comma, dipendenti dalle imprese esercenti il montaggio di materiali coibenti per isolamenti termici della provincia di Milano.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 2 gennaio 1982
+Dato a Roma, addi' 2 gennaio 1982
 
-GRONCHI FANFANI - SULLO
-
-Visto, il Guardasigilli: BOSCO
-
-Registrato alla Corte dei conti, addi' 21 maggio 1962
-
-Atti del Governo, registro n. 147, foglio n. 89. - VILLA
-
-Allegato
-
-CONTRATTO COLLETTIVO 17 LUGLIO 1952 PER GLI OPERAI DIPENDENTI DALLE IMPRESE DI MONTAGGIO DI MATERIALI COIBENTI PER ISOLAMENTI TERMICI DELLA PROVINCIA DI MILANO   
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=062U046600100010110001&dgu=1962-06-19&art.dataPubblicazioneGazzetta=1962-06-19&art.codiceRedazionale=062U0466)
-  
-  
-  
-  
-ACCORDO COLLETTIVO 6 NOVEMBRE 1954 PER L'ATTUAZIONE DELL'ACCORDO 12 GIUGNO 1954 SUL CONGLOBAMENTO E SUL RIASSETTO ZONALE NEI RIGUARDI DELLE IMPRESE ESERCENTI IL MONTAGGIO DI MATERIALI COIBENTI PER ISOLAMENTI TERMICI DELLA PROVINCIA DI MILANO.   
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=062U046600100010110002&dgu=1962-06-19&art.dataPubblicazioneGazzetta=1962-06-19&art.codiceRedazionale=062U0466)
-  
+GRONCHI FANFANI - SULLO Visto, il Guardasigilli: BOSCO Registrato alla Corte dei conti, addi' 21 maggio 1962 Atti del Governo, registro n. 147, foglio n. 89. - VILLA

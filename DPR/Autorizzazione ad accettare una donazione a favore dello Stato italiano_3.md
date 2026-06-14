@@ -1,19 +1,21 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 13 luglio 1969 n. 639
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 639
+data: 1969-07-13
+titolo: "Autorizzazione ad accettare una donazione a favore dello Stato italiano."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1969-07-13;639
+codice_redazionale: 069U0639
+vigente: true
+---
 
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 13 luglio 1969 n. 639
-=============================================================
-
-Autorizzazione ad accettare una donazione a favore dello Stato italiano.
-------------------------------------------------------------------------
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-639. Decreto del Presidente della Repubblica 13 luglio 1969, col quale, sulla proposta del Ministro per la pubblica istruzione, viene autorizzata l'accettazione del lascito, consistente in una raccolta bibliografica e in una collezione di costumi ed oggetti etnografici, a favore dello Stato italiano.  
-  
-Visto, il Guardasigilli: GAVA  
-Registrato alla Corte dei conti, addi' 22 settembre 1969  
-Atti del Governo, registro n. 229, foglio n. 44. - GRECO
+639.
+
+Decreto del Presidente della Repubblica 13 luglio 1969, col quale, sulla proposta del Ministro per la pubblica istruzione, viene autorizzata l'accettazione del lascito, consistente in una raccolta bibliografica e in una collezione di costumi ed oggetti etnografici, a favore dello Stato italiano.
+
+Visto, il Guardasigilli: GAVA
+ Registrato alla Corte dei conti, addi' 22 settembre 1969
+ Atti del Governo, registro n. 229, foglio n. 44. - GRECO

@@ -1,19 +1,21 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 12 giugno 1985 n. 465
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 181
+data: 1985-02-12
+titolo: "Autorizzazione alla fondazione \"Pro juventute don Carlo Gnocchi\", in Roma, ad accettare un legato."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1985-02-12;181
+codice_redazionale: 085U0181
+vigente: true
+---
 
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 12 giugno 1985 n. 465
-=============================================================
-
-Autorizzazione alla fondazione "Pro juventute don Carlo Gnocchi", in Roma, ad accettare un legato.
---------------------------------------------------------------------------------------------------
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-465. Decreto del Presidente della Repubblica 12 giugno 1985, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la fondazione "Pro juventute don Carlo Gnocchi", in Roma, viene autorizzata ad accettare il legato, consistente in titoli ordinari per un valore di L. 220.728.000, disposto dal sig. Airoldi Benigno con testamento olografo 1 febbraio 1980, pubblicato in data 2 giugno 1983, n. 10094 di repertorio e n. 1462 di raccolta, a rogito dott. Mario Laimati, notaio in Gallarate (Varese), registrato a Gallarate il 4 agosto 1983 al n. 2486.  
-  
-Visto, il Guardasigilli: MARTINAZZOLI  
-Registrato alla Corte dei conti, addi' 2 settembre 1985  
-Registro n. 8 Presidenza, foglio n. 156
+181.
+
+Decreto del Presidente della Repubblica 12 febbraio 1985, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la fondazione Pro juventute don Carlo Gnocchi", in Roma, viene autorizzata ad accettare il legato, consistente in un immobile sito in Milano, via Quarto Cagnino n. 36, distinto al nuovo catasto edilizio urbano alla partita 9373, foglio 293, particella 90 sub 1+7, del valore peritato di L. 190.000.000 elevato dall'ufficio tecnico erariale di Milano a L. 215.000.000, disposto dalla sig.ra Canavesi Rosa con testamento olografo 5 novembre 1968, pubblicato in data 20 ottobre 1982, n. 24117/2399 di repertorio, a rogito dott. Mario Grossi, notaio in Milano, registrato ad Abbiategrasso in data 9 novembre 1982 al n. 101.
+
+Visto, il Guardasigilli: MARTINAZZOLI
+ Registrato alla Corte dei conti, addi' 2 maggio 1985
+ Registro n. 4 Presidenza, foglio n. 84

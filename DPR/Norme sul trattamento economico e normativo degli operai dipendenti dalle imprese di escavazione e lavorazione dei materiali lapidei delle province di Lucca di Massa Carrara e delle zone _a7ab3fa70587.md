@@ -1,20 +1,20 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 20 luglio 1961 n. 1081
-
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 20 luglio 1961 n. 1081
-==============================================================
-
-Norme sul trattamento economico e normativo degli operai dipendenti dalle imprese di escavazione e lavorazione dei materiali lapidei delle province di Lucca, di Massa Carrara e delle zone della Versilia e della Garfagnana.
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 1081
+data: 1961-07-20
+titolo: "Norme sul trattamento economico e normativo degli operai dipendenti dalle imprese di escavazione e lavorazione dei materiali lapidei delle province di Lucca, di Massa Carrara e delle zone della Versilia e della Garfagnana."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1961-07-20;1081
+codice_redazionale: 061U1081
+vigente: true
+---
 
 IL PRESIDENTE DELLA REPUBBLICA
-------------------------------
 
-Visto l'[art. 87, comma quinto, della Costituzione](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27~art87-com5);
+Visto l'[art. 87, comma quinto, della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87-com5);
 
-Vista la [legge 14 luglio 1959, n. 741](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1959-07-14;741), che delega il Governo ad emanare norme transitorie per garantire minimi di trattamento economico e normativo ai lavoratori;
+Vista la [legge 14 luglio 1959, n. 741](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1959-07-14;741), che delega il Governo ad emanare norme transitorie per garantire minimi di trattamento economico e normativo ai lavoratori;
 
-Vista la [legge 1 ottobre 1960, n. 1027](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1960-10-01;1027), recante modifiche alla predetta [legge 14 luglio 1959, n. 741](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1959-07-14;741);
+Vista la [legge 1 ottobre 1960, n. 1027](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1960-10-01;1027), recante modifiche alla predetta [legge 14 luglio 1959, n. 741](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1959-07-14;741);
 
 Visto il contratto collettivo nazionale 11 luglio 1959, per gli operai dipendenti da aziende esercenti l'attivita' di escavazione e lavorazione dei materiali lapidei;
 
@@ -26,102 +26,19 @@ Vista, la pubblicazione nell'apposito Bollettino, n. 4 della provincia di Lucca,
 
 Sentito il Consiglio dei Ministri;
 
-Sulla
------
+Sulla proposta del Ministro per il lavoro e la previdenza sociale; Decreta:
 
-proposta del Ministro per il lavoro e la previdenza sociale; Decreta:
+## Articolo unico
 
-Articolo unico
---------------
-
-  
-I rapporti di lavoro costituiti per le attivita' per le quali sono stati stipulati:  
-- per la provincia di Lucca, l'accordo collettivo integrativo 1 gennaio 1952, relativo agli operai dipendenti dalle aziende esercenti l'attivita' di escavazione e lavorazione dei materiali lapidei, l'accordo collettivo integrativo 31 agosto 1946, relativo all'orario di lavoro per gli operai addetti alle cave del marmo della Versilia, l'accordo collettivo 30 settembre 1946, relativo alla riduzione dell'orario di lavoro effettivo giornaliero in cava e per il riconoscimento del quarto piovoso per gli operai addetti alle aziende marmifere della Garfagnana, l'accordo collettivo 8 settembre 1947, relativo al calcolo della gratifica natalizia, nonche' all'indennita' di mensa per i lavoratori del marmo addetti alle cave, l'accordo collettivo integrativo 1 aprile 1955, di conglobamento delle retribuzioni degli operai dipendenti dalle aziende marmifere, l'accordo collettivo integrativo 27 febbraio 1956, per l'aumento del 10% dei minimi salariali per la industria del marmo; rispetto a quelli stabiliti dall'accordo interconfederale sul conglobamento;  
-- per la provincia di Massa Carrara, l'accordo collettivo integrativo 30 settembre 1959, per gli operai dipendenti da aziende esercenti l'attivita' di escavazione e lavorazione dei materiali lapidei, l'accordo collettivo integrativo 10 marzo 1952, relativo all'orario di lavoro degli opera filisti delle cave, l'accordo collettivo integrativo 29 agosto 1945, sull'orario di lavoro nelle cave;  
-sono regolati da norme giuridiche uniformi alle clausole degli accordi anzidetti, annessi al presente decreto.  
-Dette norme sono integrative di quelle concernenti la disciplina nazionale della categoria, purche' con esse compatibili.  
-I minimi di trattamento economico e normativo cosi' stabiliti sono inderogabili nei confronti di tutti gli operai dipendenti dalle imprese di escavazione e lavorazione dei materiali lapidei delle province di Lucca, di Massa Carrara e delle zone della Versilia e della Carfagnana.  
-  
+I rapporti di lavoro costituiti per le attivita' per le quali sono stati stipulati:
+ - per la provincia di Lucca, l'accordo collettivo integrativo 1 gennaio 1952, relativo agli operai dipendenti dalle aziende esercenti l'attivita' di escavazione e lavorazione dei materiali lapidei, l'accordo collettivo integrativo 31 agosto 1946, relativo all'orario di lavoro per gli operai addetti alle cave del marmo della Versilia, l'accordo collettivo 30 settembre 1946, relativo alla riduzione dell'orario di lavoro effettivo giornaliero in cava e per il riconoscimento del quarto piovoso per gli operai addetti alle aziende marmifere della Garfagnana, l'accordo collettivo 8 settembre 1947, relativo al calcolo della gratifica natalizia, nonche' all'indennita' di mensa per i lavoratori del marmo addetti alle cave, l'accordo collettivo integrativo 1 aprile 1955, di conglobamento delle retribuzioni degli operai dipendenti dalle aziende marmifere, l'accordo collettivo integrativo 27 febbraio 1956, per l'aumento del 10% dei minimi salariali per la industria del marmo; rispetto a quelli stabiliti dall'accordo interconfederale sul conglobamento;
+ - per la provincia di Massa Carrara, l'accordo collettivo integrativo 30 settembre 1959, per gli operai dipendenti da aziende esercenti l'attivita' di escavazione e lavorazione dei materiali lapidei, l'accordo collettivo integrativo 10 marzo 1952, relativo all'orario di lavoro degli opera filisti delle cave, l'accordo collettivo integrativo 29 agosto 1945, sull'orario di lavoro nelle cave;
+sono regolati da norme giuridiche uniformi alle clausole degli accordi anzidetti, annessi al presente decreto.
+ Dette norme sono integrative di quelle concernenti la disciplina nazionale della categoria, purche' con esse compatibili.
+ I minimi di trattamento economico e normativo cosi' stabiliti sono inderogabili nei confronti di tutti gli operai dipendenti dalle imprese di escavazione e lavorazione dei materiali lapidei delle province di Lucca, di Massa Carrara e delle zone della Versilia e della Carfagnana.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 20 luglio 1961
+Dato a Roma, addi' 20 luglio 1961
 
-GRONCHI FANFANI -- SULLO
-
-Visto, il Guardasigilli: GONELLA
-
-Registrato alla Corte dei conti, addi' 29 settembre 1961
-
-Atti del Governo, registro n. 140, foglio n. 120. - VILLA
-
-Allegato
-
-ACCORDO COLLETTIVO 1 gennaio 1952, INTEGRATIVO DEL CONTRATTO NAZIONALE 1 gennaio 1952 PER GLI OPERAI DIPENDENTI DALLE AZIENDE ESERCENTI L'ATTIVITA' DI ESCAVAZIONE E LAVORAZIONE DEI MATERIALI LAPIDEI DELLA PROVINCIA DI LUCCA   
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=061U108100100010110001&dgu=1961-10-26&art.dataPubblicazioneGazzetta=1961-10-26&art.codiceRedazionale=061U1081)
-  
-  
-  
-  
-ACCORDO COLLETTIVO 31 AGOSTO 1946, RELATIVO ALL'ORARIO DI LAVORO PER GLI OPERAI ADDETTI ALLE CAVE DEL MARMO DELLA VERSILIA   
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=061U108100100010110002&dgu=1961-10-26&art.dataPubblicazioneGazzetta=1961-10-26&art.codiceRedazionale=061U1081)
-  
-  
-  
-  
-ACCORDO COLLETTIVO 30 SETTEMBRE 1946, PER LA RIDUZIONE DELL'ORARIO DI LAVORO EFFETTIVO GIORNALIERO IN CAVA E PER IL RICONOSCIMENTO DEL QUARTO PIOVOSO PER GLI OPERAI ADDETTI ALLE AZIENDE MARMIFERE DELLA GARFAGNANA   
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=061U108100100010110003&dgu=1961-10-26&art.dataPubblicazioneGazzetta=1961-10-26&art.codiceRedazionale=061U1081)
-  
-  
-  
-  
-ACCORDO COLLETTIVO 8 SETTEMBRE 1947, PER IL CALCOLO DELLA GRATIFICA NATALIZIA, NONCHE'' DELL'INDENNITA' DI MENSA, PER I LAVORATORI DEL MARMO ADDETTI ALLE CAVE DELLA PROVINCIA DI LUCCA   
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=061U108100100010110004&dgu=1961-10-26&art.dataPubblicazioneGazzetta=1961-10-26&art.codiceRedazionale=061U1081)
-  
-  
-  
-  
-ACCORDO COLLETTIVO 1 aprile 1955, DI CONGLOBAMENTO DELLE RETRIBUZIONI DEGLI OPERAI DIPENDENTI DALLE AZIENDE MARMIFERE DELLA PROVINCIA DI LUCCA   
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=061U108100100010110005&dgu=1961-10-26&art.dataPubblicazioneGazzetta=1961-10-26&art.codiceRedazionale=061U1081)
-  
-  
-  
-  
-ACCORDO COLLETTIVO 27 FEBBRAIO 1956, PER L'AUMENTO DEL 10% DEI MINIMI SALARIALI PER L'INDUSTRIA DEL MARMO DELLA PROVINCIA DI LUCCA RISPETTO A QUELLI STABILITI DALL'ACCORDO INTERCONFEDERALE SUL CONGLOBAMENTO   
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=061U108100100010110006&dgu=1961-10-26&art.dataPubblicazioneGazzetta=1961-10-26&art.codiceRedazionale=061U1081)
-  
-  
-  
-  
-ACCORDO COLLETTIVO 30 SETTEMBRE 1959, INTEGRATIVO DEL CONTRATTO COLLETTIVO NAZIONALE 11 LUGLIO 1959, PER GLI OPERAI DIPENDENTI DA AZIENDE ESERCENTI L'ATTIVITA' DI ESCAVAZIONE E LAVORAZIONE DEI MATERIALI LAPIDEI DELLA PROVINCIA DI MASSA-CARRARA   
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=061U108100100010110007&dgu=1961-10-26&art.dataPubblicazioneGazzetta=1961-10-26&art.codiceRedazionale=061U1081)
-  
-  
-  
-  
-ACCORDO COLLETTIVO 10 MARZO 1952, RELATIVO ALL'ORARIO DI LAVORO DEGLI OPERAI FILISTI DELLE CAVE DELLA PROVINCIA DI MASSA CARRARA   
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=061U108100100010110008&dgu=1961-10-26&art.dataPubblicazioneGazzetta=1961-10-26&art.codiceRedazionale=061U1081)
-  
-  
-  
-  
-ACCORDO COLLETTIVO 29 AGOSTO 1945, SULL'ORARIO DI LAVORO NELLE CAVE   
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=061U108100100010110009&dgu=1961-10-26&art.dataPubblicazioneGazzetta=1961-10-26&art.codiceRedazionale=061U1081)
-  
+GRONCHI FANFANI -- SULLO Visto, il Guardasigilli: GONELLA Registrato alla Corte dei conti, addi' 29 settembre 1961 Atti del Governo, registro n. 140, foglio n. 120. - VILLA

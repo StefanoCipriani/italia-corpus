@@ -1,19 +1,21 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 27 settembre 1965 n. 1248
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 1248
+data: 1965-09-27
+titolo: "Erezione in ente morale della Cassa scolastica della Scuola media statale \"Giuseppe Gizzi\" di Ceccano."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1965-09-27;1248
+codice_redazionale: 065U1248
+vigente: true
+---
 
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 27 settembre 1965 n. 1248
-=================================================================
-
-Erezione in ente morale della Cassa scolastica della Scuola media statale "Giuseppe Gizzi" di Ceccano.
-------------------------------------------------------------------------------------------------------
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-1248. Decreto del Presidente della Repubblica 27 settembre 1965, col quale, sulla proposta del Ministro per la pubblica istruzione, la Cassa scolastica della Scuola media statale "Giuseppe Gizzi" di Ceccano, viene eretta in ente morale e ne viene approvato lo statuto.  
-  
-Visto, il Guardasigilli: REALE  
-Registrato alla Corte dei conti, addi' 30 ottobre 1965  
-Atti del Governo, registro n. 197, foglio n. 150. - VILLA
+1248.
+
+Decreto del Presidente della Repubblica 27 settembre 1965, col quale, sulla proposta del Ministro per la pubblica istruzione, la Cassa scolastica della Scuola media statale "Giuseppe Gizzi" di Ceccano, viene eretta in ente morale e ne viene approvato lo statuto.
+
+Visto, il Guardasigilli: REALE
+ Registrato alla Corte dei conti, addi' 30 ottobre 1965
+ Atti del Governo, registro n. 197, foglio n. 150. - VILLA

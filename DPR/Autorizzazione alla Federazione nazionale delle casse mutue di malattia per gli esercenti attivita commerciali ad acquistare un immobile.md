@@ -1,20 +1,22 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 04 ottobre 1971 n. 1217
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 1217
+data: 1971-10-04
+titolo: "Autorizzazione alla Federazione nazionale delle casse mutue di malattia per gli esercenti attivita' commerciali ad acquistare un immobile."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1971-10-04;1217
+codice_redazionale: 071U1217
+vigente: true
+---
 
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 04 ottobre 1971 n. 1217
-===============================================================
-
-Autorizzazione alla Federazione nazionale delle casse mutue di malattia per gli esercenti attivita' commerciali ad acquistare un immobile.
-------------------------------------------------------------------------------------------------------------------------------------------
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-1217. Decreto del Presidente della Repubblica 4 ottobre 1971, col quale, sulla proposta del Ministro per il lavoro e la previdenza sociale, la Federazione nazionale delle casse mutue di malattia per gli esercenti attivita' commerciali viene autorizzata ad acquistare per il prezzo di L. 100.000.000 il fabbricato costituito da un piano scantinato, un piano terreno e un primo piano, sito in Roma, piazza V. Bottego, 51, distinto nel nuovo catasto edilizio urbano di Roma alla partita 11801, di proprieta' della signora Elisa Blasi in Iannetti, come da rogito per notaio avv. Giambattista Ghi, rep.  
-n. 5502 del 25 giugno 1963.  
-  
-Visto, il Guardasigilli: COLOMBO  
-Registrato alla Corte dei conti, addi' 7 gennaio 1972  
-Atti del Governo, registro n. 245, foglio n. 227. - VALENTINI
+1217.
+
+Decreto del Presidente della Repubblica 4 ottobre 1971, col quale, sulla proposta del Ministro per il lavoro e la previdenza sociale, la Federazione nazionale delle casse mutue di malattia per gli esercenti attivita' commerciali viene autorizzata ad acquistare per il prezzo di L. 100.000.000 il fabbricato costituito da un piano scantinato, un piano terreno e un primo piano, sito in Roma, piazza V. Bottego, 51, distinto nel nuovo catasto edilizio urbano di Roma alla partita 11801, di proprieta' della signora Elisa Blasi in Iannetti, come da rogito per notaio avv. Giambattista Ghi, rep.
+ n. 5502 del 25 giugno 1963.
+
+Visto, il Guardasigilli: COLOMBO
+ Registrato alla Corte dei conti, addi' 7 gennaio 1972
+ Atti del Governo, registro n. 245, foglio n. 227. - VALENTINI

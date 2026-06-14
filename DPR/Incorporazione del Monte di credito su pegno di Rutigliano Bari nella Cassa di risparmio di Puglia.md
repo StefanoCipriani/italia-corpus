@@ -1,40 +1,32 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 04 settembre 1962 n. 1656
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 1656
+data: 1962-09-04
+titolo: "Incorporazione del Monte di credito su pegno di Rutigliano (Bari) nella Cassa di risparmio di Puglia."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1962-09-04;1656
+codice_redazionale: 062U1656
+vigente: true
+---
 
+## Art. 1.
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 04 settembre 1962 n. 1656
-=================================================================
+IL PRESIDENTE DELLA REPUBBLICA
 
-Incorporazione del Monte di credito su pegno di Rutigliano (Bari) nella Cassa di risparmio di Puglia.
------------------------------------------------------------------------------------------------------
+ Visti il [regio decreto 25 aprile 1929, n. 967](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20del%20testo%20unico%20delle%20leggi%20sulle%20Casse%20di%20risparmio%20e%20sui%20Monti%20di%20pieta%20di%20prima%20categoria.%20029U0967.md), ed il [regio decreto 5 febbraio 1931, n. 225](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20del%20regolamento%20per%20lesecuzione%20del%20Testo%20Unico%20delle%20leggi%20sullordinamento%20delle%20Casse%20di%20risparmio%20e%20dei%20Monti%20di%20pieta%20di%20prima%20categoria.%20031U0225.md);
+ Visto il [regio decreto-legge 12 marzo 1936, n. 375](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1936-03-12;375), e successive modificazioni;
+ Visti la [legge 10 maggio 1938, n. 745](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1938-05-10;745) ed il [regio decreto 25 maggio 1939, n. 1279](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-05-25;1279);
+ Visto il [decreto legislativo del Capo provvisorio dello Stato 17 luglio 1947, n. 691](https://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto.legislativo:1947-07-17;691);
+ Viste le delibere del Consiglio di amministrazione della Cassa di risparmio di Puglia, con sede in Bari, in data 7 luglio 1962, e del commissario provvisorio del Monte di credito su pegno di Rutigliano, di seconda categoria, con sede in Rutigliano (Bari), in data 6 luglio 1962;
+ Sentito il Comitato interministeriale per il credito ed il risparmio;
+ Sulla proposta del Ministro per il tesoro;
 
-Art. 1
-------
+ Decreta:
 
- IL PRESIDENTE DELLA REPUBBLICA  
-  
-Visti il [regio decreto 25 aprile 1929, n. 967](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1929-04-25;967), ed il [regio decreto 5 febbraio 1931, n. 225](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1931-02-05;225);  
-Visto il [regio decreto-legge 12 marzo 1936, n. 375](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1936-03-12;375), e successive modificazioni;  
-Visti la [legge 10 maggio 1938, n. 745](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1938-05-10;745) ed il [regio decreto 25 maggio 1939, n. 1279](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-05-25;1279);  
-Visto il [decreto legislativo del Capo provvisorio dello Stato 17 luglio 1947, n. 691](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto.legislativo:1947-07-17;691);  
-Viste le delibere del Consiglio di amministrazione della Cassa di risparmio di Puglia, con sede in Bari, in data 7 luglio 1962, e del commissario provvisorio del Monte di credito su pegno di Rutigliano, di seconda categoria, con sede in Rutigliano (Bari), in data 6 luglio 1962;  
-Sentito il Comitato interministeriale per il credito ed il risparmio;  
-Sulla proposta del Ministro per il tesoro;  
-  
-Decreta:  
-  
-Il Monte di credito su pegno di Rutigliano, di seconda categoria, con sede in Rutigliano (Bari), e' incorporato nella Cassa di risparmio di Puglia, con sede in Bari.  
-Le modalita' dell'incorporazione saranno approvate con decreto del Ministro per il tesoro, ai sensi dell'[articolo 47, comma primo, del regio decreto-legge 12 marzo 1936, n. 375](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1936-03-12;375~art47-com1), e successive modificazioni, e del [decreto legislativo del Capo provvisorio dello Stato 17 luglio 1947, n. 691](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto.legislativo:1947-07-17;691).  
-  
+ Il Monte di credito su pegno di Rutigliano, di seconda categoria, con sede in Rutigliano (Bari), e' incorporato nella Cassa di risparmio di Puglia, con sede in Bari.
+ Le modalita' dell'incorporazione saranno approvate con decreto del Ministro per il tesoro, ai sensi dell'[articolo 47, comma primo, del regio decreto-legge 12 marzo 1936, n. 375](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1936-03-12;375#art_47-com1), e successive modificazioni, e del [decreto legislativo del Capo provvisorio dello Stato 17 luglio 1947, n. 691](https://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto.legislativo:1947-07-17;691).
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 4 settembre 1962
+Dato a Roma, addi' 4 settembre 1962
 
-SEGNI TREMELLONI
-
-Visto, il Guardasigilli: BOSCO
-
-Registrato alla Corte del conti, addi' 6 dicembre 1962
-
-Atti del Governo, registro n. 160, foglio n. 70. - VILLA
+SEGNI TREMELLONI Visto, il Guardasigilli: BOSCO Registrato alla Corte del conti, addi' 6 dicembre 1962 Atti del Governo, registro n. 160, foglio n. 70. - VILLA

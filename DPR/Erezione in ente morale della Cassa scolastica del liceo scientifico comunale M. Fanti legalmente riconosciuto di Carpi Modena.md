@@ -1,18 +1,20 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 22 febbraio 1948 n. 402
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 402
+data: 1948-02-22
+titolo: "Erezione in ente morale della Cassa scolastica del liceo scientifico comunale \"M. Fanti\", legalmente riconosciuto, di Carpi (Modena)."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1948-02-22;402
+codice_redazionale: 048U0402
+vigente: true
+---
 
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 22 febbraio 1948 n. 402
-===============================================================
-
-Erezione in ente morale della Cassa scolastica del liceo scientifico comunale "M. Fanti", legalmente riconosciuto, di Carpi (Modena).
--------------------------------------------------------------------------------------------------------------------------------------
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-402. Decreto del Presidente della Repubblica 22 febbraio 1948, col quale, sulla proposta del Ministro per la pubblica istruzione, la Cassa scolastica del liceo scientifico comunale "M. Fanti", legalmente riconosciuto, di Carpi (Modena) viene eretta in ente morale e ne viene approvato lo statuto.  
-  
-Visto, il Guardasigilli: GRASSI  
-Registrato alla Corte dei conti, addi' 29 aprile 1948
+402.
+
+Decreto del Presidente della Repubblica 22 febbraio 1948, col quale, sulla proposta del Ministro per la pubblica istruzione, la Cassa scolastica del liceo scientifico comunale "M. Fanti", legalmente riconosciuto, di Carpi (Modena) viene eretta in ente morale e ne viene approvato lo statuto.
+
+Visto, il Guardasigilli: GRASSI
+ Registrato alla Corte dei conti, addi' 29 aprile 1948

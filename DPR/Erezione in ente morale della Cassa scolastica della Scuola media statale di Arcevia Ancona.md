@@ -1,19 +1,21 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 03 luglio 1957 n. 1199
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 1199
+data: 1957-07-03
+titolo: "Erezione in ente morale della Cassa scolastica della Scuola media statale di Arcevia (Ancona)."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1957-07-03;1199
+codice_redazionale: 057U1199
+vigente: true
+---
 
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 03 luglio 1957 n. 1199
-==============================================================
-
-Erezione in ente morale della Cassa scolastica della Scuola media statale di Arcevia (Ancona).
-----------------------------------------------------------------------------------------------
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-1199. Decreto del Presidente della Repubblica 3 luglio 1957, col quale, sulla proposta del Ministro per la pubblica istruzione, la Cassa scolastica della Scuola media statale di Arcevia (Ancona) viene eretta in ente morale e ne viene approvato lo statuto.  
-  
-Visto, il Guardasigilli: GONELLA  
-Registrato alla Corte dei conti, addi' 12 dicembre 1957  
-Atti del Governo, registro n. 109, foglio n. 93. - RELLEVA
+1199.
+
+Decreto del Presidente della Repubblica 3 luglio 1957, col quale, sulla proposta del Ministro per la pubblica istruzione, la Cassa scolastica della Scuola media statale di Arcevia (Ancona) viene eretta in ente morale e ne viene approvato lo statuto.
+
+Visto, il Guardasigilli: GONELLA
+ Registrato alla Corte dei conti, addi' 12 dicembre 1957
+ Atti del Governo, registro n. 109, foglio n. 93. - RELLEVA

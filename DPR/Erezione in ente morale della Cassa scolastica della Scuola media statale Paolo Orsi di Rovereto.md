@@ -1,19 +1,21 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 07 dicembre 1960 n. 1794
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 1794
+data: 1960-12-07
+titolo: "Erezione in ente morale della Cassa scolastica della Scuola media statale \"Paolo Orsi\" di Rovereto."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1960-12-07;1794
+codice_redazionale: 060U1794
+vigente: true
+---
 
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 07 dicembre 1960 n. 1794
-================================================================
-
-Erezione in ente morale della Cassa scolastica della Scuola media statale "Paolo Orsi" di Rovereto.
----------------------------------------------------------------------------------------------------
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-1794. Decreto del Presidente della Repubblica 7 dicembre 1960, col quale sulla proposta del Ministro per la pubblica istruzione, la Cassa scolastica della Scuola media statale "Paolo Orsi" di Rovereto viene eretta in ente morale e ne viene approvato lo statuto.  
-  
-Visto, il Guardasigilli: GONELLA  
-Registrato alla Corte dei conti, addi' 1 febbraio 1961  
-Atti del Governo, registro n. 134, foglio n. 3. - VILLA
+1794.
+
+Decreto del Presidente della Repubblica 7 dicembre 1960, col quale sulla proposta del Ministro per la pubblica istruzione, la Cassa scolastica della Scuola media statale "Paolo Orsi" di Rovereto viene eretta in ente morale e ne viene approvato lo statuto.
+
+Visto, il Guardasigilli: GONELLA
+ Registrato alla Corte dei conti, addi' 1 febbraio 1961
+ Atti del Governo, registro n. 134, foglio n. 3. - VILLA

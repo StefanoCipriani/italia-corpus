@@ -1,37 +1,29 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 26 dicembre 1960 n. 1771
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 1771
+data: 1960-12-26
+titolo: "Soppressione dell'Archivio notarile mandamentale di Calascibetta."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1960-12-26;1771
+codice_redazionale: 060U1771
+vigente: true
+---
 
+## Art. 1.
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 26 dicembre 1960 n. 1771
-================================================================
+IL PRESIDENTE DELLA REPUBBLICA
 
-Soppressione dell'Archivio notarile mandamentale di Calascibetta.
------------------------------------------------------------------
+ Visto il [regio decreto 7 aprile 1887, n. 4441](../Atti%20normativi%20abrogati%20%28in%20originale%29/Viene%20istituito%20un%20Archivio%20notarile%20mandamentale%20nel%20comune%20di%20Calascibetta.%20087U4441.md), con il quale venne istituito l'Archivio notarile mandamentale di Calascibetta (distretto notarile di Enna);
+ Visto l'art. 248 del regolamento per l'esecuzione della [legge 16 febbraio 1913, n. 89](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1913-02-16;89), riguardante l'ordinamento del notariato e degli archivi notarili, approvato con [regio decreto 10 settembre 1914, n. 1326](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1914-09-10;1326);
+ Considerato che il comune di Calascibetta non e' piu' sede di mandamento ([regio decreto 24 marzo 1923, n. 601](../Atti%20normativi%20abrogati%20%28in%20originale%29/Riguardante%20la%20circoscrizione%20giudiziaria%20del%20Regno.%20023U0601.md));
+ Sulla proposta del Guardasigilli, Ministro Segretario di Stato per la grazia e giustizia;
 
-Art. 1
-------
+ Decreta:
 
- IL PRESIDENTE DELLA REPUBBLICA  
-  
-Visto il [regio decreto 7 aprile 1887, n. 4441](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1887-04-07;4441), con il quale venne istituito l'Archivio notarile mandamentale di Calascibetta (distretto notarile di Enna);  
-Visto l'art. 248 del regolamento per l'esecuzione della [legge 16 febbraio 1913, n. 89](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1913-02-16;89), riguardante l'ordinamento del notariato e degli archivi notarili, approvato con [regio decreto 10 settembre 1914, n. 1326](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1914-09-10;1326);  
-Considerato che il comune di Calascibetta non e' piu' sede di mandamento ([regio decreto 24 marzo 1923, n. 601](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-03-24;601));  
-Sulla proposta del Guardasigilli, Ministro Segretario di Stato per la grazia e giustizia;  
-  
-Decreta:  
-  
-L'Archivio notarile mandamentale di Calascibetta e' soppresso.  
-Gli atti e documenti attualmente depositati in detto Archivio dovranno essere conservati nell'Archivio notarile distrettuale di Enna.  
-  
+ L'Archivio notarile mandamentale di Calascibetta e' soppresso.
+ Gli atti e documenti attualmente depositati in detto Archivio dovranno essere conservati nell'Archivio notarile distrettuale di Enna.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 26 dicembre 1960
+Dato a Roma, addi' 26 dicembre 1960
 
-GRONCHI GONELLA
-
-Visto, il Guardasigilli: GONELLA
-
-Registrato alla Corte dei conti, addi' 31 gennaio 1961
-
-Atti del Governo, registro n. 133, foglio n. 129. - VILLA
+GRONCHI GONELLA Visto, il Guardasigilli: GONELLA Registrato alla Corte dei conti, addi' 31 gennaio 1961 Atti del Governo, registro n. 133, foglio n. 129. - VILLA

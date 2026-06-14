@@ -1,19 +1,21 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 19 giugno 1957 n. 1440
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 1440
+data: 1957-06-19
+titolo: "Approvazione del nuovo statuto dell'Ente Produttori Selvaggina \"E.P.S.\"."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1957-06-19;1440
+codice_redazionale: 057U1440
+vigente: true
+---
 
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 19 giugno 1957 n. 1440
-==============================================================
-
-Approvazione del nuovo statuto dell'Ente Produttori Selvaggina "E.P.S.".
-------------------------------------------------------------------------
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-1440. Decreto del Presidente della Repubblica 19 giugno 1957, col quale, sulla proposta del Ministro per l'agricoltura e per le foreste, viene approvato il nuovo statuto dell'Ente Produttori Selvaggina "E.P.S.".  
-  
-Visto, il Guardasigilli: GONELLA  
-Registrato alla Corte dei conti, addi' 21 marzo 1958  
-Atti del Governo, registro n. 111, foglio n. 163. - RELLEVA
+1440.
+
+Decreto del Presidente della Repubblica 19 giugno 1957, col quale, sulla proposta del Ministro per l'agricoltura e per le foreste, viene approvato il nuovo statuto dell'Ente Produttori Selvaggina "E.P.S.".
+
+Visto, il Guardasigilli: GONELLA
+ Registrato alla Corte dei conti, addi' 21 marzo 1958
+ Atti del Governo, registro n. 111, foglio n. 163. - RELLEVA

@@ -1,19 +1,21 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 06 novembre 1964 n. 1326
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 1326
+data: 1964-11-06
+titolo: "Estinzione della \"Casa di riposo per gli anziani delle arti belle Principe Prospero Colonna\", con sede in Roma."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1964-11-06;1326
+codice_redazionale: 064U1326
+vigente: true
+---
 
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 06 novembre 1964 n. 1326
-================================================================
-
-Estinzione della "Casa di riposo per gli anziani delle arti belle Principe Prospero Colonna", con sede in Roma.
----------------------------------------------------------------------------------------------------------------
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-1326. Decreto del Presidente della Repubblica 6 novembre 1964, col quale, sulla proposta del Ministro per l'interno, la "Casa di riposo per gli anziani delle arti belle Principe Prospero Colonna", con sede in Roma, viene estinta ed il suo residuo patrimonio devoluto alla Fondazione Nicolo' Piccolomini, con sede nella stessa citta'.  
-  
-Visto, il Guardasigilli: REALE  
-Registrato alla Corte dei conti, addi' 5 dicembre 1964  
-Atti del Governo, registro n. 188, foglio n. 203. - VILLA
+1326.
+
+Decreto del Presidente della Repubblica 6 novembre 1964, col quale, sulla proposta del Ministro per l'interno, la "Casa di riposo per gli anziani delle arti belle Principe Prospero Colonna", con sede in Roma, viene estinta ed il suo residuo patrimonio devoluto alla Fondazione Nicolo' Piccolomini, con sede nella stessa citta'.
+
+Visto, il Guardasigilli: REALE
+ Registrato alla Corte dei conti, addi' 5 dicembre 1964
+ Atti del Governo, registro n. 188, foglio n. 203. - VILLA

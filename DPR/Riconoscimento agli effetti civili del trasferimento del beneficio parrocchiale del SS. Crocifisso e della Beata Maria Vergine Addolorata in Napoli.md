@@ -1,19 +1,21 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 23 dicembre 1977 n. 1137
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 1137
+data: 1977-12-23
+titolo: "Riconoscimento, agli effetti civili, del trasferimento del beneficio parrocchiale del SS. Crocifisso e della Beata Maria Vergine Addolorata, in Napoli."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1977-12-23;1137
+codice_redazionale: 077U1137
+vigente: true
+---
 
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 23 dicembre 1977 n. 1137
-================================================================
-
-Riconoscimento, agli effetti civili, del trasferimento del beneficio parrocchiale del SS. Crocifisso e della Beata Maria Vergine Addolorata, in Napoli.
--------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-1137. Decreto del Presidente della Repubblica 23 dicembre 1977, col quale, sulla proposta del Ministro per l'interno, viene riconosciuto, agli effetti civili, il decreto dell'ordinario diocesano di Napoli 28 dicembre 1974, integrato con due dichiarazioni datate 1 febbraio e 30 luglio 1975, relativo al trasferimento del beneficio parrocchiale del SS. Crocifisso e della Beata Maria Vergine Addolorata dalla chiesa omonima, in Napoli, alla chiesa di S. Antonio di Padova, in localita' Trecase del comune di Boscotrecase (Napoli).  
-  
-Visto, il Guardasigilli: BONIFACIO  
-Registrato alla Corte dei conti, addi' 17 marzo 1978  
-Registro n. 6 Interno, foglio n. 113
+1137.
+
+Decreto del Presidente della Repubblica 23 dicembre 1977, col quale, sulla proposta del Ministro per l'interno, viene riconosciuto, agli effetti civili, il decreto dell'ordinario diocesano di Napoli 28 dicembre 1974, integrato con due dichiarazioni datate 1 febbraio e 30 luglio 1975, relativo al trasferimento del beneficio parrocchiale del SS. Crocifisso e della Beata Maria Vergine Addolorata dalla chiesa omonima, in Napoli, alla chiesa di S. Antonio di Padova, in localita' Trecase del comune di Boscotrecase (Napoli).
+
+Visto, il Guardasigilli: BONIFACIO
+ Registrato alla Corte dei conti, addi' 17 marzo 1978
+ Registro n. 6 Interno, foglio n. 113

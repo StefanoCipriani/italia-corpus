@@ -1,19 +1,21 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 01 febbraio 1973 n. 137
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 137
+data: 1973-02-01
+titolo: "Riconoscimento della personalita' giuridica della chiesa parrocchiale Regina Pacis, in Milano."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1973-02-01;137
+codice_redazionale: 073U0137
+vigente: true
+---
 
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 01 febbraio 1973 n. 137
-===============================================================
-
-Riconoscimento della personalita' giuridica della chiesa parrocchiale Regina Pacis, in Milano.
-----------------------------------------------------------------------------------------------
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-137. Decreto del Presidente della Repubblica 1 febbraio 1973, col quale, sulla proposta del Ministro per l'interno, viene riconosciuta la personalita' giuridica della chiesa parrocchiale Regina Pacis, in Milano.  
-  
-Visto, il Guardasigilli: GONELLA  
-Registrato alla Corte dei conti, addi' 13 aprile 1973  
-Atti di Governo, registro n. 257, foglio n. 92. - VALENTINI
+137.
+
+Decreto del Presidente della Repubblica 1 febbraio 1973, col quale, sulla proposta del Ministro per l'interno, viene riconosciuta la personalita' giuridica della chiesa parrocchiale Regina Pacis, in Milano.
+
+Visto, il Guardasigilli: GONELLA
+ Registrato alla Corte dei conti, addi' 13 aprile 1973
+ Atti di Governo, registro n. 257, foglio n. 92. - VALENTINI

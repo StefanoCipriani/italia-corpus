@@ -1,38 +1,30 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 23 marzo 1952 n. 533
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 533
+data: 1952-03-23
+titolo: "Classificazione nella rete delle strade statali della strada comunale Arqua' Petrarca, come diramazione della strada statale n. 16."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1952-03-23;533
+codice_redazionale: 052U0533
+vigente: true
+---
 
+## Art. 1.
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 23 marzo 1952 n. 533
-============================================================
+IL PRESIDENTE DELLA REPUBBLICA
 
-Classificazione nella rete delle strade statali della strada comunale Arqua' Petrarca, come diramazione della strada statale n. 16.
------------------------------------------------------------------------------------------------------------------------------------
+ Visto l'[art. 3 del decreto legislativo 17 aprile 1948, n. 547](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1948-04-17;547#art_3);
+ Ritenuta l'opportunita' di classificare nella rete statale la strada comunale che dall'innesto con la strada statale n. 16 termina in Arqua' Petrarca;
+ Visto il voto n. 199 del 29 agosto 1951, del Consiglio di amministrazione dell'Azienda Nazionale Autonoma delle Strade Statali (A.N.A.S.);
+ Visto il voto n. 596 del 5 febbraio 1952, del Consiglio superiore dei lavori pubblici;
+ Sentito il Consiglio dei Ministri;
+ Sulla proposta del Ministro per i lavori pubblici, di concerto col Ministro per il tesoro;
 
-Art. 1
-------
+ Decreta:
 
- IL PRESIDENTE DELLA REPUBBLICA  
-  
-Visto l'[art. 3 del decreto legislativo 17 aprile 1948, n. 547](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1948-04-17;547~art3);  
-Ritenuta l'opportunita' di classificare nella rete statale la strada comunale che dall'innesto con la strada statale n. 16 termina in Arqua' Petrarca;  
-Visto il voto n. 199 del 29 agosto 1951, del Consiglio di amministrazione dell'Azienda Nazionale Autonoma delle Strade Statali (A.N.A.S.);  
-Visto il voto n. 596 del 5 febbraio 1952, del Consiglio superiore dei lavori pubblici;  
-Sentito il Consiglio dei Ministri;  
-Sulla proposta del Ministro per i lavori pubblici, di concerto col Ministro per il tesoro;  
-  
-Decreta:  
-  
-E' classificata nella rete delle strade statali la strada comunale che ha origine al km. 17+550 della strada statale n. 16 e termina ad Arqua' Petrarca, quale diramazione della strada statale n. 16 "Adriatica".  
-  
+ E' classificata nella rete delle strade statali la strada comunale che ha origine al km. 17+550 della strada statale n. 16 e termina ad Arqua' Petrarca, quale diramazione della strada statale n. 16 "Adriatica".
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 23 marzo 1952
+Dato a Roma, addi' 23 marzo 1952
 
-EINAUDI DE GASPERI - ALDISIO PELLA
-
-Visto, il Guardasigilli: ZOLI
-
-Registrato alla Corte dei conti, addi' 23 maggio 1952
-
-Atti del Governo, registro n. 53, foglio n. 111. - CARLOMAGNO
+EINAUDI DE GASPERI - ALDISIO PELLA Visto, il Guardasigilli: ZOLI Registrato alla Corte dei conti, addi' 23 maggio 1952 Atti del Governo, registro n. 53, foglio n. 111. - CARLOMAGNO

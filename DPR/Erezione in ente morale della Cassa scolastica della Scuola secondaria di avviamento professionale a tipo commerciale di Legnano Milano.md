@@ -1,19 +1,21 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 05 marzo 1951 n. 766
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 766
+data: 1951-03-05
+titolo: "Erezione in ente morale della Cassa scolastica della Scuola secondaria di avviamento professionale a tipo commerciale di Legnano (Milano)."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1951-03-05;766
+codice_redazionale: 051U0766
+vigente: true
+---
 
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 05 marzo 1951 n. 766
-============================================================
-
-Erezione in ente morale della Cassa scolastica della Scuola secondaria di avviamento professionale a tipo commerciale di Legnano (Milano).
-------------------------------------------------------------------------------------------------------------------------------------------
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-766. Decreto del Presidente della. Repubblica 5 marzo 1951, col quale, sulla proposta del Ministro per la pubblica istruzione, la Cassa scolastica della Scuola secondaria di avviamento professionale a tipo commerciale di Legnano (Milano) viene eretta in ente morale e ne viene approvato il relativo statuto.  
-  
-Visto, il Guardasigilli: PICCIONI  
-Registrato alla Corte dei conti, addi' 1 settembre 1951  
-Atti del Governo, registro n. 42, foglio n. 3. - CARLOMAGNO
+766.
+
+Decreto del Presidente della. Repubblica 5 marzo 1951, col quale, sulla proposta del Ministro per la pubblica istruzione, la Cassa scolastica della Scuola secondaria di avviamento professionale a tipo commerciale di Legnano (Milano) viene eretta in ente morale e ne viene approvato il relativo statuto.
+
+Visto, il Guardasigilli: PICCIONI
+ Registrato alla Corte dei conti, addi' 1 settembre 1951
+ Atti del Governo, registro n. 42, foglio n. 3. - CARLOMAGNO

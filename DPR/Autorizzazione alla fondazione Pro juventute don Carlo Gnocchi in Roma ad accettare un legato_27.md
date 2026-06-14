@@ -1,19 +1,21 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 13 dicembre 1978 n. 917
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 854
+data: 1978-11-23
+titolo: "Autorizzazione alla fondazione \"Pro juventute don Carlo Gnocchi\", in Roma, ad accettare un legato."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1978-11-23;854
+codice_redazionale: 078U0854
+vigente: true
+---
 
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 13 dicembre 1978 n. 917
-===============================================================
-
-Autorizzazione alla fondazione "Pro juventute don Carlo Gnocchi", in Roma, ad accettare un legato.
---------------------------------------------------------------------------------------------------
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-917. Decreto del Presidente della Repubblica 13 dicembre 1978, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la fondazione "Pro juventute don Carlo Gnocchi", in Roma, viene autorizzata ad accettare il legato disposto dalla sig.ra De Asmundis Paola con testamento olografo 16 agosto 1970, pubblicato a rogito dott. Mario Maestrelli, notaio in Desenzano del Garda (Brescia) in data 4 gennaio 1971, n. 6688 di repertorio e n. 3354 di raccolta, registrato a Lonato (Brescia) l'8 gennaio 1971, al n. 26, vol. 86, consistente in titoli di Stato per un valore nominale di L. 500.000.  
-  
-Visto, il Guardasigilli: BONIFACIO  
-Registrato alla Corte dei conti, addi' 25 gennaio 1979  
-Registro n. 1 Presidenza, foglio n. 209
+854.
+
+Decreto del Presidente della Repubblica 23 novembre 1978, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la fondazione "Pro juventute don Carlo Gnocchi", in Roma, viene autorizzata ad accettare il legato disposto dal cav. lav. Francesco Penotti a favore dell'opera di don Gnocchi per i mutilatini di guerra che si identificano con la fondazione "Pro juventute don Carlo Gnocchi", come ha fatto presente la fondazione medesima, con testamento olografo 24 giugno 1972, pubblicato a rogito notaio dott. Marco Panvini-Rosati di Roma il 1 aprile 1974, n. 98797/41375 di repertorio, registrato a Roma il 3 aprile 1974 al n. 2437, vol. 1790, consistente nella somma di L. 20.000.000.
+
+Visto, il Guardasigilli: BONIFACIO
+ Registrato alla Corte dei conti, addi' 27 dicembre 1978
+ Registro n. 8 Presidenza, foglio n. 130

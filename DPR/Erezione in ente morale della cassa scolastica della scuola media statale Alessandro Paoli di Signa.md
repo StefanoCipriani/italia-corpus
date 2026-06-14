@@ -1,19 +1,21 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 20 febbraio 1968 n. 366
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 366
+data: 1968-02-20
+titolo: "Erezione in ente morale della cassa scolastica della scuola media statale \"Alessandro Paoli\", di Signa."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1968-02-20;366
+codice_redazionale: 068U0366
+vigente: true
+---
 
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 20 febbraio 1968 n. 366
-===============================================================
-
-Erezione in ente morale della cassa scolastica della scuola media statale "Alessandro Paoli", di Signa.
--------------------------------------------------------------------------------------------------------
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-366. Decreto del Presidente della Repubblica 20 febbraio 1968, col quale, sulla proposta del Ministro per la pubblica istruzione, la cassa scolastica della scuola media statale "Alessandro Paoli" di Signa (Firenze) viene eretta in ente morale e ne viene approvato lo statuto.  
-  
-Visto, il Guardasigilli: REALE  
-Registrato alla Corte dei conti, addi' 2 aprile 1968  
-Atti del Governo, registro n. 218, foglio n. 102. - GRECO
+366.
+
+Decreto del Presidente della Repubblica 20 febbraio 1968, col quale, sulla proposta del Ministro per la pubblica istruzione, la cassa scolastica della scuola media statale "Alessandro Paoli" di Signa (Firenze) viene eretta in ente morale e ne viene approvato lo statuto.
+
+Visto, il Guardasigilli: REALE
+ Registrato alla Corte dei conti, addi' 2 aprile 1968
+ Atti del Governo, registro n. 218, foglio n. 102. - GRECO

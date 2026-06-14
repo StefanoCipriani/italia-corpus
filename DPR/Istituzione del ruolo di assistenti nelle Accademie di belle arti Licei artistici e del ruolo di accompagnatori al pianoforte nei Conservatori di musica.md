@@ -1,16 +1,16 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 09 maggio 1961 n. 1696
-
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 09 maggio 1961 n. 1696
-==============================================================
-
-Istituzione del ruolo di assistenti nelle Accademie di belle arti, Licei artistici e del ruolo di accompagnatori al pianoforte nei Conservatori di musica.
-----------------------------------------------------------------------------------------------------------------------------------------------------------
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 1696
+data: 1961-05-09
+titolo: "Istituzione del ruolo di assistenti nelle Accademie di belle arti, Licei artistici e del ruolo di accompagnatori al pianoforte nei Conservatori di musica."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1961-05-09;1696
+codice_redazionale: 061U1696
+vigente: true
+---
 
 IL PRESIDENTE DELLA REPUBBLICA
-------------------------------
 
-Vista la [legge 11 ottobre 1960, n. 1178](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1960-10-11;1178);
+Vista la [legge 11 ottobre 1960, n. 1178](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1960-10-11;1178);
 
 Considerato che esistono nell'Accademia di belle arti di Bologna n. 1 cattedra di ruolo di pittura, n. 1 cattedra di ruolo di scultura, n. 1 cattedra di ruolo di decorazione, n. 1 cattedra di ruolo di scenografia, n. 1 cattedra di ruolo di storia dell'arte, n. 1 cattedra di ruolo di tecniche dell'incisione, n. 1 cattedra di ruolo di anatomia artistica e n. 1 cattedra di ruolo di plastica ornamentale; nell'Accademia di belle arti di Carrara n. 1 cattedra di ruolo di scultura, n. 1 cattedra di ruolo di storia dell'arte, n. 1 cattedra di ruolo di anatomia, artistica; nell'Accademia di belle arti di Firenze n. 4 cattedre di ruolo di pittura, n. 2 cattedre di ruolo di scultura, n. 1 cattedra di ruolo di decorazione, n. 1 cattedra di ruolo di scenografia, n. 1 cattedra di ruolo di storia dell'arte, n. 1 cattedra di ruolo di tecniche dell'incisione, n. 1 cattedra di ruolo di anatomia artistica, n. 1 cattedra di ruolo di plastica ornamentale; nella Accademia di belle arti di Milano n. 3 cattedre di ruolo di pittura, n. 3 cattedre di ruolo di scultura, n. 1 cattedra di ruolo di decorazione, n. 1 cattedra di ruolo di scenografia, n. 1 cattedra di ruolo di storia dell'arte, n. 1 cattedra di ruolo di tecniche dell'incisione, n. 1 cattedra di ruolo di anatomia artistica, n. 1 cattedra di ruolo di plastica ornamentale; nell'Accademia di belle arti di Napoli n. 1 cattedra di ruolo di pittura, n. 2 cattedre di ruolo di scultura, n. 1 cattedra di ruolo di decorazione, n. 1 cattedra di ruolo di scenografia, n. 1 cattedra di ruolo di storia dell'arte, n. 1 cattedra di ruolo di tecniche dell'incisione, n. 1 cattedra di ruolo di anatomia artistica; nell'Accademia di belle arti di Palermo n. 1 cattedra di ruolo di pittura, n. 1 cattedra di ruolo di scultura, n. 1 cattedra di ruolo di decorazione, n. 1 cattedra di ruolo di storia dell'arte, n. 1 cattedra di ruolo di tecniche dell'incisione, n. 1 cattedra di ruolo di anatomia artistica; nell'Accademia di belle arti di Roma n. 3 cattedre di ruolo di pittura, n. 3 cattedre di ruolo di scultura, n. 1 cattedra di ruolo di decorazione, n. 1 cattedra di ruolo di scenografia, n. 1 cattedra di ruolo di storia dell'arte, n. 2 cattedre di ruolo di tecniche dell'incisione, n. 1 cattedra di ruolo di anatomia artistica, n. 1 cattedra di ruolo di plastica ornamentale; nell'Accademia di belle arti di Torino n. 2 cattedre di ruolo di pittura, n. 1 cattedra di ruolo di scultura, n. 1 cattedra di ruolo di decorazione, n. 1 cattedra di ruolo di scenografia, n. 1 cattedra di ruolo di storia dell'arte, n. 1 cattedra di ruolo di tecniche dell'incisione, n. 1 cattedra di ruolo di anatomia artistica, n. 1 cattedra di ruolo di plastica ornamentale; nell'Accademia di belle arti di Venezia n. 2 cattedre di ruolo di pittura, n. 1 cattedra di ruolo di scultura, n. 1 cattedra di ruolo di decorazione, n. 1 cattedra di ruolo di storia dell'arte, n. 1 cattedra di ruolo di tecniche dell'incisione, n. 1 cattedra di ruolo di anatomia artistica, n. 1 cattedra di ruolo di plastica ornamentale;
 
@@ -18,112 +18,28 @@ Considerato che esistono nel Liceo artistico di Bologna n. 3 cattedre di ruolo d
 
 Considerato che esistono nel Conservatorio di musica di Bologna n. 2 cattedre di ruolo di canto; nel Conservatorio di musica di Bolzano n. 1 cattedra di ruolo di canto; nel Conservatorio di musica di Cagliari n. 2 cattedre di ruolo di canto; nel Conservatorio di musica di Firenze n. 2 cattedre di ruolo di canto; nel Conservatorio di musica di Milano n. 3 cattedre di ruolo di canto; nel Conservatorio di musica di Napoli n. 6 cattedre di ruolo di canto; nel Conservatorio di musica di Palermo n. 2 cattedre di ruolo di canto; nel Conservatorio di musica di Parma n. 2 cattedre di ruolo di canto; nel Conservatorio di musica di Pesaro n. 3 cattedre di ruolo di canto; nel Conservatorio di musica di Roma n. 5 cattedre di ruolo di canto: nel Conservatorio di musica di Torino n. 3 cattedre di ruolo di canto; nel Conservatorio di musica di Trieste n. 1 cattedra di ruolo di canto e nel Conservatorio di musica di Venezia n. 2 cattedre di ruolo di canto;
 
-Visto l'[art. 12 del decreto legislativo 7 maggio 1948, n. 1236](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1948-05-07;1236~art12), ratificato con [legge 4 gennaio 1951, n. 28](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1951-01-04;28);
+Visto l'[art. 12 del decreto legislativo 7 maggio 1948, n. 1236](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1948-05-07;1236#art_12), ratificato con [legge 4 gennaio 1951, n. 28](../DL%20e%20leggi%20di%20conversione/Ratifica%20con%20modificazioni%20del%20decreto%20legislativo%207%20maggio%201948%20n.%201236%20concernente%20il%20riordinamento%20della%20Scuola%20nazionale%20di%20danza%20in%20Roma.md);
 
-Sulla
------
+Sulla proposta del Ministro per la pubblica istruzione, di concerto con il Ministro per il tesoro; Decreta:
 
-proposta del Ministro per la pubblica istruzione, di concerto con il Ministro per il tesoro; Decreta:
+## Art. 1.
 
-Art. 1
-------
+Nelle Accademie di belle arti vengono istituiti a decorrere dal 1 luglio 1961, in corrispondenza delle singole cattedre di ruolo di cui alle premesse, complessivamente settantanove posti di assistenti di ruolo distinti per sedi e per cattedre secondo l'allegata tabella A firmata dal Ministro per la pubblica istruzione e dal Ministro per il tesoro.
 
-  
-Nelle Accademie di belle arti vengono istituiti a decorrere dal 1 luglio 1961, in corrispondenza delle singole cattedre di ruolo di cui alle premesse, complessivamente settantanove posti di assistenti di ruolo distinti per sedi e per cattedre secondo l'allegata tabella A firmata dal Ministro per la pubblica istruzione e dal Ministro per il tesoro.  
+## Art. 2.
 
-Art. 2
-------
+Nei Licei artistici vengono istituiti a decorrere dal 1 luglio 1961, in corrispondenza delle singole cattedre di ruolo di materie artistiche di cui alle premesse, complessivamente centonove posti di assistenti di ruolo distinti per sede e per cattedre secondo l'allegata tabella B firmata dal Ministro per la pubblica istruzione e dal Ministro per il tesoro.
 
-  
-Nei Licei artistici vengono istituiti a decorrere dal 1 luglio 1961, in corrispondenza delle singole cattedre di ruolo di materie artistiche di cui alle premesse, complessivamente centonove posti di assistenti di ruolo distinti per sede e per cattedre secondo l'allegata tabella B firmata dal Ministro per la pubblica istruzione e dal Ministro per il tesoro.  
+## Art. 3.
 
-Art. 3
-------
+Nei Conservatori di musica vengono istituiti a decorrere dal 1 luglio 1961, in corrispondenza delle singole cattedre di ruolo di canto complessivamente trentaquattro posti di ruolo di accompagnatori al pianoforte. (Tabella C).
 
-  
-Nei Conservatori di musica vengono istituiti a decorrere dal 1 luglio 1961, in corrispondenza delle singole cattedre di ruolo di canto complessivamente trentaquattro posti di ruolo di accompagnatori al pianoforte. (Tabella C).  
+## Art. 4.
 
-Art. 4
-------
-
-  
-Nell'Accademia nazionale di danza vengono istituti a decorrere dal 1 luglio 1961, in corrispondenza di ciascun anno del corso normale e di ciascun anno del corso di perfezionamento undici posti di ruolo di pianisti accompagnatori.  
-  
+Nell'Accademia nazionale di danza vengono istituti a decorrere dal 1 luglio 1961, in corrispondenza di ciascun anno del corso normale e di ciascun anno del corso di perfezionamento undici posti di ruolo di pianisti accompagnatori.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 9 maggio 1961
+Dato a Roma, addi' 9 maggio 1961
 
-GRONCHI BOSCO - TAVIANI
-
-Visto, il Guardasigilli: GONELLA
-
-Registrato alla Corte dei conti, addi' 26 aprile 1962
-
-Atti del Governo, registro n. 145, foglio n. 65. - VILLA
-
-Tabelle
-
- TABELLA A   
-  
-Posti di ruolo di assistenti delle Accademie di belle arti   
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=061U169600100010110001&dgu=1962-05-08&art.dataPubblicazioneGazzetta=1962-05-08&art.codiceRedazionale=061U1696)
-  
-  
-  
-  
-  
-TABELLA B   
-  
-Posti di ruolo di assistenti dei Licei artistici   
-  
-=====================================================================  
-| NUMERO DEI POSTI  
-|----------------------------------------  
-| | | | Disegno  
-SEDE | Figura | Ornato | Figura | geometrico  
-|disegnata|disegnato|e ornato|prospettiva  
-| | |modellato| e  
-| | | |architettura  
---------------------------------------------------------------------  
-Bologna...................| 3 | 3 | 3 | 2  
-Carrara...................| 1 | 1 | 1 | 1  
-Firenze...................| 3 | 3 | 2 | 4  
-Milano....................| 4 | 4 | 3 | 3  
-Napoli....................| 4 | 3 | 4 | 3  
-Palermo...................| 2 | 2 | 3 | 1  
-Roma......................| 9 | 8 | 6 | 4  
-Torino....................| 3 | 2 | 2 | 2  
-Venezia...................| 2 | 3 | 3 | 2
-  
-  
-  
-  
-Visto, d'ordine del Presidente della Repubblica   
-Il Ministro per la pubblica istruzione   
-BOSCO   
-  
-Il Ministro per il tesoro   
-TAVIANI   
-  
-TABELLA C   
-  
-Posti di ruolo di accompagnatore al pianoforte nei Conservatori di musica   
-
-|  |  |
-| --- | --- |
-| SEDE | Numero dei posti |
-
-  
-  
-  
-  
-Visto, d'ordine del Presidente della Repubblica   
-Il Ministro per la pubblica istruzione   
-BOSCO   
-  
-Il Ministro per il tesoro   
-TAVIANI   
+GRONCHI BOSCO - TAVIANI Visto, il Guardasigilli: GONELLA Registrato alla Corte dei conti, addi' 26 aprile 1962 Atti del Governo, registro n. 145, foglio n. 65. - VILLA

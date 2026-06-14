@@ -1,19 +1,21 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 24 settembre 1968 n. 1314
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 1314
+data: 1968-09-24
+titolo: "Erezione in ente morale della cassa scolastica dell'istituto statale d'arte di Mantova."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1968-09-24;1314
+codice_redazionale: 068U1314
+vigente: true
+---
 
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 24 settembre 1968 n. 1314
-=================================================================
-
-Erezione in ente morale della cassa scolastica dell'istituto statale d'arte di Mantova.
----------------------------------------------------------------------------------------
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-1314. Decreto del Presidente della Repubblica 24 settembre 1968, col quale, sulla proposta del Ministro per la pubblica istruzione, la cassa scolastica dello istituto statale d'arte di Mantova viene eretta in ente morale e ne viene approvato lo statuto.  
-  
-Visto, il Guardasigilli: GONELLA  
-Registrato alla Corte dei conti, addi' 24 dicembre 1968  
-Atti del Governo, registro n. 224, foglio n. 102. - GRECO
+1314.
+
+Decreto del Presidente della Repubblica 24 settembre 1968, col quale, sulla proposta del Ministro per la pubblica istruzione, la cassa scolastica dello istituto statale d'arte di Mantova viene eretta in ente morale e ne viene approvato lo statuto.
+
+Visto, il Guardasigilli: GONELLA
+ Registrato alla Corte dei conti, addi' 24 dicembre 1968
+ Atti del Governo, registro n. 224, foglio n. 102. - GRECO

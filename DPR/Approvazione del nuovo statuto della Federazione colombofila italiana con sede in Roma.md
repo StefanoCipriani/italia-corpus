@@ -1,19 +1,21 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 21 ottobre 1972 n. 873
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 873
+data: 1972-10-21
+titolo: "Approvazione del nuovo statuto della \"Federazione colombofila italiana\" con sede in Roma."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1972-10-21;873
+codice_redazionale: 072U0873
+vigente: true
+---
 
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 21 ottobre 1972 n. 873
-==============================================================
-
-Approvazione del nuovo statuto della "Federazione colombofila italiana" con sede in Roma.
------------------------------------------------------------------------------------------
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-873. Decreto del Presidente della Repubblica 21 ottobre 1972, col quale, sulla proposta del Ministro per la difesa, viene approvato il nuovo statuto della "Federazione colombofila italiana" con sede in Roma.  
-  
-Visto, il Guardasigilli: GONELLA  
-Registrato alla Corte dei conti, addi' 29 dicembre 1972  
-Atti di Governo, registro n. 254, foglio n. 62. - CARUSO
+873.
+
+Decreto del Presidente della Repubblica 21 ottobre 1972, col quale, sulla proposta del Ministro per la difesa, viene approvato il nuovo statuto della "Federazione colombofila italiana" con sede in Roma.
+
+Visto, il Guardasigilli: GONELLA
+ Registrato alla Corte dei conti, addi' 29 dicembre 1972
+ Atti di Governo, registro n. 254, foglio n. 62. - CARUSO

@@ -1,19 +1,21 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 08 ottobre 1959 n. 1125
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 1125
+data: 1959-10-08
+titolo: "Erezione in ente morale della Cassa scolastica della Scuola media statale di Castelleone (Cremona)."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1959-10-08;1125
+codice_redazionale: 059U1125
+vigente: true
+---
 
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 08 ottobre 1959 n. 1125
-===============================================================
-
-Erezione in ente morale della Cassa scolastica della Scuola media statale di Castelleone (Cremona).
----------------------------------------------------------------------------------------------------
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-1125. Decreto del Presidente della Repubblica 8 ottobre 1959, col quale, sulla proposta del Ministro per la pubblica istruzione, la Cassa scolastica della Scuola media statale di Castelleone (Cremona) viene eretta in ente morale e ne viene approvato lo statuto.  
-  
-Visto, il Guardasigilli: GONELLA  
-Registrato alla Corte dei conti, addi' 29 dicembre 1959  
-Atti del Governo, registro n. 122, foglio n. 153. - VILLA
+1125.
+
+Decreto del Presidente della Repubblica 8 ottobre 1959, col quale, sulla proposta del Ministro per la pubblica istruzione, la Cassa scolastica della Scuola media statale di Castelleone (Cremona) viene eretta in ente morale e ne viene approvato lo statuto.
+
+Visto, il Guardasigilli: GONELLA
+ Registrato alla Corte dei conti, addi' 29 dicembre 1959
+ Atti del Governo, registro n. 122, foglio n. 153. - VILLA

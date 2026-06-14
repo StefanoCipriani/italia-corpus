@@ -1,19 +1,21 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 22 dicembre 1955 n. 1484
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 1484
+data: 1955-12-22
+titolo: "Riconoscimento, agli effetti civili, dell'erezione della parrocchia di San Pietro Apostolo, in frazione Villa Pinta del comune di Buglio in Monte (Sondrio)."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1955-12-22;1484
+codice_redazionale: 055U1484
+vigente: true
+---
 
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 22 dicembre 1955 n. 1484
-================================================================
-
-Riconoscimento, agli effetti civili, dell'erezione della parrocchia di San Pietro Apostolo, in frazione Villa Pinta del comune di Buglio in Monte (Sondrio).
-------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-1484. Decreto del Presidente della Repubblica 22 dicembre 1955, col quale, sulla proposta del Ministro per l'interno, viene riconosciuto, agli effetti civili, il decreto dell'Ordinario diocesano di Como in data 28 giugno 1955, integrato con dichiarazione 13 agosto 1955, relativo alla erezione della parrocchia di San Pietro Apostolo, in frazione Villa Pinta del comune di Buglio in Monte (Sondrio).  
-  
-Visto, il Guardasigilli: MORO  
-Registrato alla Corte dei conti, addi' 31 gennaio 1956  
-Atti del Governo, registro n. 95, foglio n. 143. - CARLOMAGNO
+1484.
+
+Decreto del Presidente della Repubblica 22 dicembre 1955, col quale, sulla proposta del Ministro per l'interno, viene riconosciuto, agli effetti civili, il decreto dell'Ordinario diocesano di Como in data 28 giugno 1955, integrato con dichiarazione 13 agosto 1955, relativo alla erezione della parrocchia di San Pietro Apostolo, in frazione Villa Pinta del comune di Buglio in Monte (Sondrio).
+
+Visto, il Guardasigilli: MORO
+ Registrato alla Corte dei conti, addi' 31 gennaio 1956
+ Atti del Governo, registro n. 95, foglio n. 143. - CARLOMAGNO

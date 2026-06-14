@@ -1,57 +1,33 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 settembre 1962 n. 2098
-
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 settembre 1962 n. 2098
-=================================================================
-
-Revisione della pianta organica dell'Istituto d'arte di Roma.
--------------------------------------------------------------
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 2098
+data: 1962-09-30
+titolo: "Revisione della pianta organica dell'Istituto d'arte di Roma."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1962-09-30;2098
+codice_redazionale: 062U2098
+vigente: true
+---
 
 IL PRESIDENTE DELLA REPUBBLICA
-------------------------------
 
-Vista la [legge 9 aprile 1942, n. 163](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1942-04-09;163), concernente lo ordinamento amministrativo e didattico degli istituti e scuole d'arte;
+Vista la [legge 9 aprile 1942, n. 163](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1942-04-09;163), concernente lo ordinamento amministrativo e didattico degli istituti e scuole d'arte;
 
-Visto il [decreto del Presidente della Repubblica 12 giugno 1955, n. 537](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1955-06-12;537), con il quale e' stata approvata la pianta organica dell'Istituto d'arte di Roma;
+Visto il [decreto del Presidente della Repubblica 12 giugno 1955, n. 537](Classifica%20e%20trasformazione%20delle%20Scuole%20darte%20a%20norma%20della%20legge%209%20agosto%201954%20n.%20651.md), con il quale e' stata approvata la pianta organica dell'Istituto d'arte di Roma;
 
 Ritenuta l'opportunita' di adeguare la pianta organica dell'Istituto stesso alle attuali esigenze dello insegnamento;
 
-Sulla
------
+Sulla proposta del Ministro per la pubblica istruzione, di concerto con quello per il tesoro; Decreta:
 
-proposta del Ministro per la pubblica istruzione, di concerto con quello per il tesoro; Decreta:
+## Art. 1.
 
-Art. 1
-------
+A decorrere dal 1 ottobre 1962 la pianta organica dell'Istituto d'arte di Roma allegata al [decreto del Presidente della Repubblica 12 giugno 1955, n. 537](Classifica%20e%20trasformazione%20delle%20Scuole%20darte%20a%20norma%20della%20legge%209%20agosto%201954%20n.%20651.md), e' sostituita da quella annessa al presente decreto e firmata, d'ordine del Presidente della Repubblica, dal Ministro per la pubblica istruzione e da quello per il tesoro.
 
-  
-A decorrere dal 1 ottobre 1962 la pianta organica dell'Istituto d'arte di Roma allegata al [decreto del Presidente della Repubblica 12 giugno 1955, n. 537](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1955-06-12;537), e' sostituita da quella annessa al presente decreto e firmata, d'ordine del Presidente della Repubblica, dal Ministro per la pubblica istruzione e da quello per il tesoro.  
+## Art. 2.
 
-Art. 2
-------
-
-  
-La maggiore spesa di L. 74.300.000 gravera' sul capitolo 242-bis del bilancio del Ministero della pubblica istruzione per l'esercizio finanziario 1962-63 e corrispondenti negli esercizi futuri.  
-  
+La maggiore spesa di L. 74.300.000 gravera' sul capitolo 242-bis del bilancio del Ministero della pubblica istruzione per l'esercizio finanziario 1962-63 e corrispondenti negli esercizi futuri.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 30 settembre 1962
+Dato a Roma, addi' 30 settembre 1962
 
-SEGNI GUI - TREMELLONI
-
-Visto, il Guardasigilli: BOSCO
-
-Registrato alla Corte dei conti, addi' 1 agosto 1963
-
-Atti del Governo, registro n. 172, foglio n. 39. - VILLA
-
-Pianta organica
-
- Pianta organica dell'Istituto d'arte di Roma   
-  
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=062U209800100010110001&dgu=1963-09-11&art.dataPubblicazioneGazzetta=1963-09-11&art.codiceRedazionale=062U2098)
-  
+SEGNI GUI - TREMELLONI Visto, il Guardasigilli: BOSCO Registrato alla Corte dei conti, addi' 1 agosto 1963 Atti del Governo, registro n. 172, foglio n. 39. - VILLA

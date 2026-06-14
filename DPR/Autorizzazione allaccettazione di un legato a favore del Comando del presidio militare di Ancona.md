@@ -1,19 +1,21 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 13 marzo 1957 n. 348
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 348
+data: 1957-03-13
+titolo: "Autorizzazione all'accettazione di un legato a favore del Comando del presidio militare di Ancona."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1957-03-13;348
+codice_redazionale: 057U0348
+vigente: true
+---
 
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 13 marzo 1957 n. 348
-============================================================
-
-Autorizzazione all'accettazione di un legato a favore del Comando del presidio militare di Ancona.
---------------------------------------------------------------------------------------------------
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-348. Decreto del Presidente della Repubblica 13 marzo 3957, col quale, sulla proposta del Ministro per la difesa, viene autorizzata l'accettazione di un legato disposto dal ten. col. di fanteria in congedo cav. Silvio Antinori a favore del Comando del presidio militare di Ancona.  
-  
-Visto, il Guardasigilli: MORO  
-Registrato alla Corte dei conti, addi' 20 maggio 1957  
-Atti del Governo, registro n. 105, foglio n. 127. - CARLOMAGNO
+348.
+
+Decreto del Presidente della Repubblica 13 marzo 3957, col quale, sulla proposta del Ministro per la difesa, viene autorizzata l'accettazione di un legato disposto dal ten. col. di fanteria in congedo cav. Silvio Antinori a favore del Comando del presidio militare di Ancona.
+
+Visto, il Guardasigilli: MORO
+ Registrato alla Corte dei conti, addi' 20 maggio 1957
+ Atti del Governo, registro n. 105, foglio n. 127. - CARLOMAGNO

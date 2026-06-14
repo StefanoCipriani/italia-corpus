@@ -1,34 +1,26 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 16 gennaio 1961 n. 112
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 112
+data: 1961-01-16
+titolo: "Conferimento all'Avvocatura generale dello Stato della rappresentanza in giudizio del Comitato nazionale per la celebrazione del primo Centenario dell'Unita' d'Italia."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1961-01-16;112
+codice_redazionale: 061U0112
+vigente: true
+---
 
+## Art. 1.
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 16 gennaio 1961 n. 112
-==============================================================
+IL PRESIDENTE DELLA REPUBBLICA
 
-Conferimento all'Avvocatura generale dello Stato della rappresentanza in giudizio del Comitato nazionale per la celebrazione del primo Centenario dell'Unita' d'Italia.
------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+ Visto l'art. 43 del testo unico delle leggi e delle norme giuridiche sulla rappresentanza e difesa in giudizio dello Stato e sull'ordinamento dell'Avvocatura dello Stato, approvato con [regio decreto 30 ottobre 1933, n. 1611](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-10-30;1611), modificato dall'[art. 1 della legge 16 novembre 1939, n. 1889](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1939-11-16;1889#art_1);
+ Sulla proposta del Presidente del Consiglio dei Ministri di concerto con il Ministro per la grazia e la giustizia ed il Ministro per il tesoro;
 
-Art. 1
-------
+ Decreta:
 
- IL PRESIDENTE DELLA REPUBBLICA  
-  
-Visto l'art. 43 del testo unico delle leggi e delle norme giuridiche sulla rappresentanza e difesa in giudizio dello Stato e sull'ordinamento dell'Avvocatura dello Stato, approvato con [regio decreto 30 ottobre 1933, n. 1611](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-10-30;1611), modificato dall'[art. 1 della legge 16 novembre 1939, n. 1889](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1939-11-16;1889~art1);  
-Sulla proposta del Presidente del Consiglio dei Ministri di concerto con il Ministro per la grazia e la giustizia ed il Ministro per il tesoro;  
-  
-Decreta:  
-  
-L'Avvocatura dello Stato puo' assumere la rappresentanza e la difesa del Comitato nazionale per le celebrazioni del primo Centenario dell'Unita' d'Italia nei giudizi attivi e passivi davanti le autorita' giudiziarie, i collegi arbitrali e le giurisdizioni amministrative e speciali.  
-  
+ L'Avvocatura dello Stato puo' assumere la rappresentanza e la difesa del Comitato nazionale per le celebrazioni del primo Centenario dell'Unita' d'Italia nei giudizi attivi e passivi davanti le autorita' giudiziarie, i collegi arbitrali e le giurisdizioni amministrative e speciali.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 16 gennaio 1961
+Dato a Roma, addi' 16 gennaio 1961
 
-GRONCHI FANFANI - GONELLA - TAVIANI
-
-Visto, il Guardasigilli: GONELLA
-
-Registrato alla Corte dei conti, addi' 16 marzo 1961
-
-Atti del Governo, registro n. 135, foglio n. 57. - VILLA
+GRONCHI FANFANI - GONELLA - TAVIANI Visto, il Guardasigilli: GONELLA Registrato alla Corte dei conti, addi' 16 marzo 1961 Atti del Governo, registro n. 135, foglio n. 57. - VILLA

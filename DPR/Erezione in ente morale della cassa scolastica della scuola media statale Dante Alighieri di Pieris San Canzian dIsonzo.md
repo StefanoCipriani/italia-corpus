@@ -1,19 +1,21 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 gennaio 1969 n. 66
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 66
+data: 1969-01-28
+titolo: "Erezione in ente morale della cassa scolastica della scuola media statale \"Dante Alighieri\", di Pieris San Canzian d'Isonzo."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1969-01-28;66
+codice_redazionale: 069U0066
+vigente: true
+---
 
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 gennaio 1969 n. 66
-=============================================================
-
-Erezione in ente morale della cassa scolastica della scuola media statale "Dante Alighieri", di Pieris San Canzian d'Isonzo.
-----------------------------------------------------------------------------------------------------------------------------
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-66. Decreto del Presidente della Repubblica 28 gennaio 1969, col quale, sulla proposta del Ministro per la pubblica istruzione, la cassa scolastica della scuola media statale "Dante Alighieri", di Pieris San Canzian d'Isonzo (Gorizia), viene eretta in ente morale e ne viene approvato lo statuto.  
-  
-Visto, il Guardasigilli: GAVA  
-Registrato alla Corte dei conti, addi' 24 marzo 1969  
-Atti del Governo, registro n. 226, foglio n. 1. - GRECO
+66.
+
+Decreto del Presidente della Repubblica 28 gennaio 1969, col quale, sulla proposta del Ministro per la pubblica istruzione, la cassa scolastica della scuola media statale "Dante Alighieri", di Pieris San Canzian d'Isonzo (Gorizia), viene eretta in ente morale e ne viene approvato lo statuto.
+
+Visto, il Guardasigilli: GAVA
+ Registrato alla Corte dei conti, addi' 24 marzo 1969
+ Atti del Governo, registro n. 226, foglio n. 1. - GRECO

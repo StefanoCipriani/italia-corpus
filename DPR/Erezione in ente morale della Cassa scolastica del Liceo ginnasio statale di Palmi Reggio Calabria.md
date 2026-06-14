@@ -1,19 +1,21 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 22 gennaio 1957 n. 372
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 372
+data: 1957-01-22
+titolo: "Erezione in ente morale della Cassa scolastica del Liceo ginnasio statale di Palmi (Reggio Calabria)."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1957-01-22;372
+codice_redazionale: 057U0372
+vigente: true
+---
 
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 22 gennaio 1957 n. 372
-==============================================================
-
-Erezione in ente morale della Cassa scolastica del Liceo ginnasio statale di Palmi (Reggio Calabria).
------------------------------------------------------------------------------------------------------
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-372. Decreto del Presidente della Repubblica 22 gennaio 1957, col quale, sulla proposta del Ministro per la pubblica istruzione, la Cassa scolastica del Liceo-ginnasio statale di Palmi (Reggio Calabria) viene eretta in ente morale e ne viene approvato lo statuto.  
-  
-Visto, il Guardasigilli: MORO  
-Registrato alla Corte dei conti, addi' 23 maggio 1957  
-Atti del Governo, registro n. 105, foglio n. 150. - CARLOMAGNO
+372.
+
+Decreto del Presidente della Repubblica 22 gennaio 1957, col quale, sulla proposta del Ministro per la pubblica istruzione, la Cassa scolastica del Liceo-ginnasio statale di Palmi (Reggio Calabria) viene eretta in ente morale e ne viene approvato lo statuto.
+
+Visto, il Guardasigilli: MORO
+ Registrato alla Corte dei conti, addi' 23 maggio 1957
+ Atti del Governo, registro n. 105, foglio n. 150. - CARLOMAGNO

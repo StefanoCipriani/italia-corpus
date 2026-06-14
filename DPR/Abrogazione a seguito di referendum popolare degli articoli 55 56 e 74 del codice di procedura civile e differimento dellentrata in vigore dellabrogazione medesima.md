@@ -1,22 +1,22 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 09 dicembre 1987 n. 497
-
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 09 dicembre 1987 n. 497
-===============================================================
-
-Abrogazione, a seguito di referendum popolare, degli articoli 55, 56 e 74 del codice di procedura civile e differimento dell'entrata in vigore dell'abrogazione medesima.
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 497
+data: 1987-12-09
+titolo: "Abrogazione, a seguito di referendum popolare, degli articoli 55, 56 e 74 del codice di procedura civile e differimento dell'entrata in vigore dell'abrogazione medesima."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1987-12-09;497
+codice_redazionale: 087U0497
+vigente: true
+---
 
 IL PRESIDENTE DELLA REPUBBLICA
-------------------------------
 
-Visto l'[art. 75 della Costituzione](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27~art75);
+Visto l'[art. 75 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_75);
 
-Visto l'[art. 37 della legge 25 maggio 1970, n. 352](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1970-05-25;352~art37);
+Visto l'[art. 37 della legge 25 maggio 1970, n. 352](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1970-05-25;352#art_37);
 
-Visti gli atti, trasmessi in data 7 dicembre 1987 dall'Ufficio centrale per il referendum presso la Corte di cassazione, relativi alla proclamazione del risultato del referendum indetto con [decreto del Presidente della Repubblica 4 settembre 1987, pubblicato nella Gazzetta Ufficiale n. 210 del 9 settembre 1987](http://www.gazzettaufficiale.it/gazzetta/serie_generale/caricaDettaglio?dataPubblicazioneGazzetta=1987-09-09&numeroGazzetta=210), per l'abrogazione degli [articoli 55](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.procedura.civile:1940-10-28;1443~art55), [56](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.procedura.civile:1940-10-28;1443~art56) e [74 del codice di procedura civile](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.procedura.civile:1940-10-28;1443~art74);
+Visti gli atti, trasmessi in data 7 dicembre 1987 dall'Ufficio centrale per il referendum presso la Corte di cassazione, relativi alla proclamazione del risultato del referendum indetto con decreto del Presidente della Repubblica 4 settembre 1987, pubblicato nella Gazzetta Ufficiale n. 210 del 9 settembre 1987, per l'abrogazione degli [articoli 55](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.procedura.civile:1940-10-28;1443#art_55), [56](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.procedura.civile:1940-10-28;1443#art_56) e [74 del codice di procedura civile](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.procedura.civile:1940-10-28;1443#art_74);
 
-Visto l'[art. 2 della legge 7 agosto 1987, n. 332](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1987-08-07;332~art2);
+Visto l'[art. 2 della legge 7 agosto 1987, n. 332](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1987-08-07;332#art_2);
 
 Ritenuta la necessita' di evitare che, a seguito del risultato dei referendum, la materia della responsabilita' civile dei magistrati resti priva di disciplina specifica;
 
@@ -26,31 +26,20 @@ Vista la deliberazione del Consiglio dei Ministri, adottata nella riunione del 7
 
 Sulla proposta del Presidente del Consiglio dei Ministri e del Ministro di grazia e giustizia;
 
-EMANA
------
+EMANA il seguente decreto:
 
-il seguente decreto:
+## Art. 1.
 
-Art. 1
-------
+1.
 
-1. In esito al referendum indetto con [decreto del Presidente della Repubblica 4 settembre 1987, pubblicato nella Gazzetta Ufficiale n. 210 del 9 settembre 1987](http://www.gazzettaufficiale.it/gazzetta/serie_generale/caricaDettaglio?dataPubblicazioneGazzetta=1987-09-09&numeroGazzetta=210), sono abrogati gli [articoli 55](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.procedura.civile:1940-10-28;1443~art55), [56](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.procedura.civile:1940-10-28;1443~art56) e [74 del codice di procedura civile](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.procedura.civile:1940-10-28;1443~art74).
+In esito al referendum indetto con decreto del Presidente della Repubblica 4 settembre 1987, pubblicato nella Gazzetta Ufficiale n. 210 del 9 settembre 1987, sono abrogati gli [articoli 55](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.procedura.civile:1940-10-28;1443#art_55), [56](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.procedura.civile:1940-10-28;1443#art_56) e [74 del codice di procedura civile](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.procedura.civile:1940-10-28;1443#art_74).
 
-2. L'abrogazione ha effetto decorsi centoventi giorni dalla data di pubblicazione del presente decreto nella Gazzetta Ufficiale.
+2.
+
+L'abrogazione ha effetto decorsi centoventi giorni dalla data di pubblicazione del presente decreto nella Gazzetta Ufficiale.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserito nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 9 dicembre 1987
+Dato a Roma, addi' 9 dicembre 1987
 
-COSSIGA
-
-GORIA, Presidente del Consiglio dei Ministri
-
-VASSALLI, Ministro di grazia e giustizia
-
-Visto, il Guardasigilli: VASSALLI
-
-Registrato alla Corte dei conti, addi' 9 dicembre 1987
-
-Atti di Governo, registro n. 70, foglio n. 18
+COSSIGA GORIA, Presidente del Consiglio dei Ministri VASSALLI, Ministro di grazia e giustizia Visto, il Guardasigilli: VASSALLI Registrato alla Corte dei conti, addi' 9 dicembre 1987 Atti di Governo, registro n. 70, foglio n. 18

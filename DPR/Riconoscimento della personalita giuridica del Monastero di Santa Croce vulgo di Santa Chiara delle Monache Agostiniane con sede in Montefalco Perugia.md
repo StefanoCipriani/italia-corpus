@@ -1,19 +1,21 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 13 novembre 1963 n. 1874
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 1874
+data: 1963-11-13
+titolo: "Riconoscimento della personalita' giuridica del Monastero di Santa Croce (vulgo di Santa Chiara) delle Monache Agostiniane, con sede in Montefalco (Perugia)."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1963-11-13;1874
+codice_redazionale: 063U1874
+vigente: true
+---
 
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 13 novembre 1963 n. 1874
-================================================================
-
-Riconoscimento della personalita' giuridica del Monastero di Santa Croce (vulgo di Santa Chiara) delle Monache Agostiniane, con sede in Montefalco (Perugia).
--------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-1874. Decreto del Presidente della Repubblica 13 novembre 1963, col quale, sulla proposta del Ministro per l'interno, viene riconosciuta la personalita' giuridica del Monastero di Santa Croce (vulgo di Santa Chiara) delle Monache Agostiniane, con sede in Montefalco (Perugia).  
-  
-Visto, il Guardasigilli: BOSCO  
-Registrato alla Corte dei conti, addi' 18 dicembre 1963  
-Atti del governo, registro n. 178, foglio n. 145. - VILLA
+1874.
+
+Decreto del Presidente della Repubblica 13 novembre 1963, col quale, sulla proposta del Ministro per l'interno, viene riconosciuta la personalita' giuridica del Monastero di Santa Croce (vulgo di Santa Chiara) delle Monache Agostiniane, con sede in Montefalco (Perugia).
+
+Visto, il Guardasigilli: BOSCO
+ Registrato alla Corte dei conti, addi' 18 dicembre 1963
+ Atti del governo, registro n. 178, foglio n. 145. - VILLA

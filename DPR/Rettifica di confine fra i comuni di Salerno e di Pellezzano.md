@@ -1,14 +1,14 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 14 ottobre 1958 n. 1303
-
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 14 ottobre 1958 n. 1303
-===============================================================
-
-Rettifica di confine fra i comuni di Salerno e di Pellezzano.
--------------------------------------------------------------
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 1303
+data: 1958-10-14
+titolo: "Rettifica di confine fra i comuni di Salerno e di Pellezzano."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1958-10-14;1303
+codice_redazionale: 058U1303
+vigente: true
+---
 
 IL PRESIDENTE DELLA REPUBBLICA
-------------------------------
 
 Viste le deliberazioni del Consiglio comunale di Salerno in data 24 settembre 1956, n. 106, e del Consiglio comunale di Pellezzano in data 3 ottobre 1957, n. 21, con le quali e' stata chiesta una rettifica di confine fra quei Comuni;
 
@@ -18,35 +18,20 @@ Vista la deliberazione del Consiglio provinciale di Salerno in data 8 gennaio 19
 
 Udito il parere espresso dalla prima Sezione del Consiglio di Stato, nell'adunanza del 30 agosto 1958, n. 1510;
 
-Visti gli articoli 32, capoverso, e 35 del testo unico della legge comunale e provinciale, approvato con [regio decreto 3 marzo 1934, n. 383](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-03-03;383);
+Visti gli articoli 32, capoverso, e 35 del testo unico della legge comunale e provinciale, approvato con [regio decreto 3 marzo 1934, n. 383](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20del%20testo%20unico%20della%20legge%20comunale%20e%20provinciale.%20034U0383.md);
 
-Sulla
------
+Sulla proposta del Ministro Segretario di Stato per gli affari dell'interno; Decreta:
 
-proposta del Ministro Segretario di Stato per gli affari dell'interno; Decreta:
+## Art. 1.
 
-Art. 1
-------
+Il confine tra i comuni di Salerno e di Pellezzano, in provincia di Salerno, e' rettificato secondo la linea risultante dalla pianta planimetrica e dalla relazione descrittiva, annesse al presente decreto.
 
-  
-Il confine tra i comuni di Salerno e di Pellezzano, in provincia di Salerno, e' rettificato secondo la linea risultante dalla pianta planimetrica e dalla relazione descrittiva, annesse al presente decreto.  
+## Art. 2.
 
-Art. 2
-------
-
-  
-Il Prefetto di Salerno, sentita la Giunta provinciale amministrativa, provvedera', con suo decreto, alla separazione patrimoniale ed al riparto delle attivita' e passivita' fra i comuni di Salerno e di Pellezzano.  
-  
+Il Prefetto di Salerno, sentita la Giunta provinciale amministrativa, provvedera', con suo decreto, alla separazione patrimoniale ed al riparto delle attivita' e passivita' fra i comuni di Salerno e di Pellezzano.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 14 ottobre 1958
+Dato a Roma, addi' 14 ottobre 1958
 
-GRONCHI TAMBRONI
-
-Visto, il Guardasigilli: GONELLA
-
-Registrato alla Corte dei conti, addi' 30 aprile 1959
-
-Atti del Governo, registro n. 118, foglio n. 95. - VILLA
+GRONCHI TAMBRONI Visto, il Guardasigilli: GONELLA Registrato alla Corte dei conti, addi' 30 aprile 1959 Atti del Governo, registro n. 118, foglio n. 95. - VILLA

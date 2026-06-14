@@ -1,20 +1,20 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 26 dicembre 1961 n. 1816
-
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 26 dicembre 1961 n. 1816
-================================================================
-
-Norme sul trattamento economico e normativo dei lavoratori addetti alla raccolta delle olive nelle province di Campobasso e Perugia.
-------------------------------------------------------------------------------------------------------------------------------------
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 1816
+data: 1961-12-26
+titolo: "Norme sul trattamento economico e normativo dei lavoratori addetti alla raccolta delle olive nelle province di Campobasso e Perugia."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1961-12-26;1816
+codice_redazionale: 061U1816
+vigente: true
+---
 
 IL PRESIDENTE DELLA REPUBBLICA
-------------------------------
 
-Visto l'[art. 87, comma quinto della Costituzione](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27~art87-com5);
+Visto l'[art. 87, comma quinto della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87-com5);
 
-Vista la [legge 14 luglio 1959, n. 741](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1959-07-14;741), che delega il Governo ad emanare norme transitorie per garantire minimi di trattamento economico e normativo ai lavoratori;
+Vista la [legge 14 luglio 1959, n. 741](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1959-07-14;741), che delega il Governo ad emanare norme transitorie per garantire minimi di trattamento economico e normativo ai lavoratori;
 
-Vista la [legge 1 ottobre 1960, n. 1027](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1960-10-01;1027), recante modifiche alla predetta [legge 14 luglio 1959, n. 741](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1959-07-14;741);
+Vista la [legge 1 ottobre 1960, n. 1027](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1960-10-01;1027), recante modifiche alla predetta [legge 14 luglio 1959, n. 741](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1959-07-14;741);
 
 Visto il patto collettivo nazionale 15 febbraio 1957, per i braccianti agricoli avventizi;
 
@@ -26,49 +26,18 @@ Vista la pubblicazione nell'apposito Bollettino, n. 5 della provincia di Campoba
 
 Sentito il Consiglio dei Ministri;
 
-Sulla
------
+Sulla proposta del Ministro per il lavoro e la previdenza sociale; Decreta:
 
-proposta del Ministro per il lavoro e la previdenza sociale; Decreta:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-I rapporti di lavoro costituiti per l'attivita' per la quale sono stati stipulati, relativamente ai lavorato addetti alla raccolta delle olive:  
-- per la provincia di Campobasso, il contratto collettivo 3 settembre 1957;  
-- per la provincia di Perugia, l'accordo collettivo 7 novembre 1958;  
-sono regolati da norme giuridiche uniformi a e clausole del contratto e dell'accordo anzidetti, annessi a presente decreto, purche' compatibili con quelle concernenti la disciplina nazionale della categoria.  
-I minimi di trattamento economico e normativo cosi' stabiliti sono inderogabili nei confronti di tutti i lavoratori addetti alla raccolta delle olive nelle provinci di Campobasso e Perugia.  
-  
+I rapporti di lavoro costituiti per l'attivita' per la quale sono stati stipulati, relativamente ai lavorato addetti alla raccolta delle olive:
+ - per la provincia di Campobasso, il contratto collettivo 3 settembre 1957;
+ - per la provincia di Perugia, l'accordo collettivo 7 novembre 1958;
+sono regolati da norme giuridiche uniformi a e clausole del contratto e dell'accordo anzidetti, annessi a presente decreto, purche' compatibili con quelle concernenti la disciplina nazionale della categoria.
+ I minimi di trattamento economico e normativo cosi' stabiliti sono inderogabili nei confronti di tutti i lavoratori addetti alla raccolta delle olive nelle provinci di Campobasso e Perugia.
 
 Il presente decreto, munito del sigillo dello Stato sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo chiunque spetti di osservarlo e di farlo osservare.
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 26 dicembre 1961
+Dato a Roma, addi' 26 dicembre 1961
 
-GRONCHI FANFANI - SULLO
-
-Visto, il Guardasigilli: BOSCO
-
-Registrato alla Corte dei conti, addi' i maggio 1962
-
-Atti del Governo, registro n. 148, foglio n. 4. - VILLA
-
-Allegato
-
-CONTRATTO COLLETTIVO 3 SETTEMBRE 1957 PER I LAVORATORI ADDETTI ALLA RACCOLTA DELLE OLIVE NELLA PROVINCIA DI CAMPOBASSO.   
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=061U181600100010110001&dgu=1962-06-05&art.dataPubblicazioneGazzetta=1962-06-05&art.codiceRedazionale=061U1816)
-  
-  
-  
-  
-  
-ACCORDO COLLETTIVO 7 NOVEMBRE 1958 PER I LAVORATORI ADDETTI ALLA RACCOLTA DELLE OLIVE NELLA PROVINCIA DI PERUGIA.   
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=061U181600100010110002&dgu=1962-06-05&art.dataPubblicazioneGazzetta=1962-06-05&art.codiceRedazionale=061U1816)
-  
+GRONCHI FANFANI - SULLO Visto, il Guardasigilli: BOSCO Registrato alla Corte dei conti, addi' i maggio 1962 Atti del Governo, registro n. 148, foglio n. 4. - VILLA

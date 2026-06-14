@@ -1,20 +1,20 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 gennaio 1962 n. 533
-
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 gennaio 1962 n. 533
-==============================================================
-
-Norme sul trattamento economico e normativo dei lavoratori dipendenti dalle imprese che esercitano prevalente mente il commercio con l'estero della Liguria.
-------------------------------------------------------------------------------------------------------------------------------------------------------------
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 533
+data: 1962-01-02
+titolo: "Norme sul trattamento economico e normativo dei lavoratori dipendenti dalle imprese che esercitano prevalente mente il commercio con l'estero della Liguria."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1962-01-02;533
+codice_redazionale: 062U0533
+vigente: true
+---
 
 IL PRESIDENTE DELLA REPUBBLICA
-------------------------------
 
-Visto l'[art. 87, comma quinto, della Costituzione](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27~art87-com5);
+Visto l'[art. 87, comma quinto, della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87-com5);
 
-Vista la [legge 14 luglio 1959, n. 741](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1959-07-14;741), che delega il Governo ad emanare norme transitorie per garantire minimi di trattamento economico e normativo ai lavoratori;
+Vista la [legge 14 luglio 1959, n. 741](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1959-07-14;741), che delega il Governo ad emanare norme transitorie per garantire minimi di trattamento economico e normativo ai lavoratori;
 
-Vista la [legge 1 ottobre 1960, n. 1027](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1960-10-01;1027), recante modifiche alla predetta [legge 14 luglio 1959, n. 741](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1959-07-14;741);
+Vista la [legge 1 ottobre 1960, n. 1027](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1960-10-01;1027), recante modifiche alla predetta [legge 14 luglio 1959, n. 741](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1959-07-14;741);
 
 Visti, per la Liguria:
 
@@ -36,91 +36,15 @@ Vista la pubblicazione nell'apposito Bollettino, n. 18, n. 38 e n. 41 della prov
 
 Sentito il Consiglio dei Ministri;
 
-Sulla
------
+Sulla proposta del Ministro per il lavoro e la previdenza sociale; Decreta:
 
-proposta del Ministro per il lavoro e la previdenza sociale; Decreta:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-I rapporti di lavoro costituiti per l'attivita' per la quale sono stati stipulati relativamente ai lavoratori dipendenti dalle aziende che esercitano prevalentemente il commercio con l'estero della Liguria, il contratto collettivo 30 gennaio 1948, e gli accordi collettivi 28 luglio 1960, 29 luglio 1948, 9 marzo 1950, 16 febbraio 1955, 30 settembre 1959 e 20 luglio 1960, sono regolati dai norme giuridiche uniformi alle clausole del contratto e degli accordi anzidetti, annessi al presente decreto.  
-I minimi di trattamento economico e normativo cosi' stabiliti sono inderogabili nei confronti di tutti i lavoratori dipendenti dalle imprese che esercitano prevalentemente il commercio con l'estero della Liguria.  
-  
+I rapporti di lavoro costituiti per l'attivita' per la quale sono stati stipulati relativamente ai lavoratori dipendenti dalle aziende che esercitano prevalentemente il commercio con l'estero della Liguria, il contratto collettivo 30 gennaio 1948, e gli accordi collettivi 28 luglio 1960, 29 luglio 1948, 9 marzo 1950, 16 febbraio 1955, 30 settembre 1959 e 20 luglio 1960, sono regolati dai norme giuridiche uniformi alle clausole del contratto e degli accordi anzidetti, annessi al presente decreto.
+ I minimi di trattamento economico e normativo cosi' stabiliti sono inderogabili nei confronti di tutti i lavoratori dipendenti dalle imprese che esercitano prevalentemente il commercio con l'estero della Liguria.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella. Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 2 gennaio 1962
+Dato a Roma, addi' 2 gennaio 1962
 
-GRONCHI FANFANI - SULLO
-
-Visto, il Guardasigilli: BOSCO
-
-Registrato alla Corte dei conti, addi' 7 giugno 1962
-
-Atti del Governo, registro n. 149, foglio n. 25. - VILLA
-
-Allegati
-
-CONTRATTO COLLETTIVO REGIONALE 30 GENNAIO 1948 PER I DIPENDENTI DA AZIENDE COMMERCIALI DI IMPORTAZIONE ED ESPORTAZIONE CHE ESERCITANO PREVALENTEMENTE IL COMMERCIO CON L'ESTERO DELLA LIGURIA.   
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=062U053300100010110001&dgu=1962-06-26&art.dataPubblicazioneGazzetta=1962-06-26&art.codiceRedazionale=062U0533)
-  
-  
-  
-  
-  
-ACCORDO COLLETTIVO 28 LUGLIO 1960 CONCERNENTE LA SFERA DI APPLICAZIONE DEL CONTRATTO COLLETTIVO REGIONALE 30 GENNAIO 1948 PER I DIPENDENTI DA AZIENDE COMMERCIALI DI IMPORTAZIONE ED ESPORTAZIONE CHE ESERCITANO PREVALENTEMENTE IL COMMERCIO CON L'ESTERO DELLA LIGURIA.   
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=062U053300100010110002&dgu=1962-06-26&art.dataPubblicazioneGazzetta=1962-06-26&art.codiceRedazionale=062U0533)
-  
-  
-  
-  
-  
-ACCORDO COLLETTIVO INTEGRATIVO REGIONALE 29 LUGLIO 1948 PER I DIPENDENTI DA AZIENDE ESERCENTI IL COMMERCIO CON L'ESTERO DELLA LIGURIA.   
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=062U053300100010110003&dgu=1962-06-26&art.dataPubblicazioneGazzetta=1962-06-26&art.codiceRedazionale=062U0533)
-  
-  
-  
-  
-  
-ACCORDO COLLETTIVO 9 MARZO 1950 PER I DIPENDENTI DI CASE DI COMMERCIO ESTERO DELLA LIGURIA.   
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=062U053300100010110004&dgu=1962-06-26&art.dataPubblicazioneGazzetta=1962-06-26&art.codiceRedazionale=062U0533)
-  
-  
-  
-  
-  
-ACCORDO COLLETTIVO INTEGRATIVO REGIONALE 16 FEBBRAIO 1955 PER I DIPENDENTI DA CASE DI COMMERCIO ESTERO DELLA LIGURIA.   
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=062U053300100010110005&dgu=1962-06-26&art.dataPubblicazioneGazzetta=1962-06-26&art.codiceRedazionale=062U0533)
-  
-  
-  
-  
-  
-ACCORDO COLLETTIVO 30 SETTEMBRE 1959 PER I DIPENDENTI DA CASE DI COMMERCIO ESTERO DELLA LIGURIA.   
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=062U053300100010110006&dgu=1962-06-26&art.dataPubblicazioneGazzetta=1962-06-26&art.codiceRedazionale=062U0533)
-  
-  
-  
-  
-  
-ACCORDO COLLETTIVO REGIONALE 20 LUGLIO 1960 PER I DIPENDENTI DA AZIENDE ESERCENTI IL COMMERCIO ESTERO DELLA LIGURIA   
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=062U053300100010110007&dgu=1962-06-26&art.dataPubblicazioneGazzetta=1962-06-26&art.codiceRedazionale=062U0533)
-  
+GRONCHI FANFANI - SULLO Visto, il Guardasigilli: BOSCO Registrato alla Corte dei conti, addi' 7 giugno 1962 Atti del Governo, registro n. 149, foglio n. 25. - VILLA

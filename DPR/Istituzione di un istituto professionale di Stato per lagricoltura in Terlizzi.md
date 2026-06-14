@@ -1,19 +1,21 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 10 settembre 1980 n. 1257
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 1257
+data: 1980-09-10
+titolo: "Istituzione di un istituto professionale di Stato per l'agricoltura in Terlizzi."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1980-09-10;1257
+codice_redazionale: 080U1257
+vigente: true
+---
 
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 10 settembre 1980 n. 1257
-=================================================================
-
-Istituzione di un istituto professionale di Stato per l'agricoltura in Terlizzi.
---------------------------------------------------------------------------------
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-1257. Decreto del Presidente della Repubblica 10 settembre 1980, col quale, sulla proposta del Ministro della pubblica istruzione di concerto con i Ministri dell'interno, del tesoro e dell'agricoltura e delle foreste, viene istituito in Terlizzi (Bari), a decorrere dall'anno scolastico 1980-81, un istituto professionale di Stato per l'agricoltura (scuola avente finalita' ed ordinamento speciali) e ne viene approvata la tabella organica.  
-  
-Visto, il Guardasigilli: DARIDA  
-Registrato alla Corte dei conti, addi' 21 aprile 1982  
-Registro n. 57 Istruzione, foglio n. 23
+1257.
+
+Decreto del Presidente della Repubblica 10 settembre 1980, col quale, sulla proposta del Ministro della pubblica istruzione di concerto con i Ministri dell'interno, del tesoro e dell'agricoltura e delle foreste, viene istituito in Terlizzi (Bari), a decorrere dall'anno scolastico 1980-81, un istituto professionale di Stato per l'agricoltura (scuola avente finalita' ed ordinamento speciali) e ne viene approvata la tabella organica.
+
+Visto, il Guardasigilli: DARIDA
+ Registrato alla Corte dei conti, addi' 21 aprile 1982
+ Registro n. 57 Istruzione, foglio n. 23

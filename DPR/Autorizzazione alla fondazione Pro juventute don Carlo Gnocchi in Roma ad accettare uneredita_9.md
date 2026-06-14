@@ -1,19 +1,21 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 06 giugno 1977 n. 418
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 415
+data: 1977-05-02
+titolo: "Autorizzazione alla fondazione \"Pro juventute don Carlo Gnocchi\", in Roma, ad accettare un'eredita'."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1977-05-02;415
+codice_redazionale: 077U0415
+vigente: true
+---
 
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 06 giugno 1977 n. 418
-=============================================================
-
-Autorizzazione alla fondazione "Pro juventute don Carlo Gnocchi", in Roma, ad accettare un'eredita'.
-----------------------------------------------------------------------------------------------------
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-418. Decreto del Presidente della Repubblica 6 giugno 1977, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la fondazione "Pro juventute don Carlo Gnocchi", in Roma, viene autorizzata ad accettare, col beneficio d'inventario, l'eredita' disposta dalla sig.ra Prina Pierina, in favore dell'istituto don Gnocchi, che si identifica con la fondazione "Pro juventute don Carlo Gnocchi", con testamento olografo 10 novembre 1965, pubblicato a rogito del notaio dott. Carlo Locatelli di Milano in data 17 ottobre 1974, n. 38595 di repertorio e n. 9564 di raccolta, registrato a Milano il 5 novembre 1974 al n. 16578, serie B, consistente nella somma di lire 8.145.684.  
-  
-Visto, il Guardasigilli: BONIFACIO  
-Registrato alla Corte dei conti, addi' 15 luglio 1977  
-Registro n. 6 Presidenza, foglio n. 250
+415.
+
+Decreto del Presidente della Repubblica 2 maggio 1977, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la fondazione "Pro juventute don Carlo Gnocchi", in Roma, viene autorizzata ad accettare, col beneficio d'inventario, l'eredita' disposta dal sig. Cesare Bellini, con testamento pubblico 5 dicembre 1969, reso noto a rogito notaio dott. Rodolfo Parigi in data 29 ottobre 1973, n. 159960 di repertorio e n. 15066 di raccolta, registrato a Milano il 9 novembre 1973, con il n. 1384/71 M, serie E, consistente in beni mobili e titoli azionari per un valore di L. 67.961.364.
+
+Visto, il Guardasigilli: BONIFACIO
+ Registrato alla Corte dei conti, addi' 15 luglio 1977
+ Registro n. 6 Presidenza, foglio n. 249

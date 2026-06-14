@@ -1,36 +1,28 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 14 aprile 1952 n. 1108
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 1108
+data: 1952-04-14
+titolo: "Collocamento fuori ruolo di un funzionario di grado non superiore al 6° del ruolo amministrativo del Commissariato per il turismi, per essere destinato a prestar servizio presso l'Automobile Club d'Italia."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1952-04-14;1108
+codice_redazionale: 052U1108
+vigente: true
+---
 
+## Art. 1.
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 14 aprile 1952 n. 1108
-==============================================================
+IL PRESIDENTE DELLA REPUBBLICA
 
-Collocamento fuori ruolo di un funzionario di grado non superiore al 6° del ruolo amministrativo del Commissariato per il turismi, per essere destinato a prestar servizio presso l'Automobile Club d'Italia.
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+ Visto il [regio decreto 30 dicembre 1923, n. 2958](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disposizioni%20riguardanti%20la%20posizione%20dei%20funzionari%20fuori%20ruolo.%20023U2958.md);
+ Visto il [regio decreto-legge 10 gennaio 1926, n. 46](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1926-01-10;46), convertito nella [legge 24 maggio 1926, n. 898](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20Regi%20aventi%20per%20oggetto%20argomenti%20diversi.%20026U0898.md);
+ Ritenuta la necessita', per l'interesse che lo Stato ha all'organizzazione ed allo sviluppo dell'automobilismo italiano, di mettere a disposizione dell'Automobile Club d'Italia un funzionario del Commissariato per il turismo;
+ Sulla proposta del Presidente del Consiglio dei Ministri, di concerto con il Ministro per il tesoro;
 
-Art. 1
-------
+ Decreta:
 
- IL PRESIDENTE DELLA REPUBBLICA  
-  
-Visto il [regio decreto 30 dicembre 1923, n. 2958](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;2958);  
-Visto il [regio decreto-legge 10 gennaio 1926, n. 46](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1926-01-10;46), convertito nella [legge 24 maggio 1926, n. 898](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1926-05-24;898);  
-Ritenuta la necessita', per l'interesse che lo Stato ha all'organizzazione ed allo sviluppo dell'automobilismo italiano, di mettere a disposizione dell'Automobile Club d'Italia un funzionario del Commissariato per il turismo;  
-Sulla proposta del Presidente del Consiglio dei Ministri, di concerto con il Ministro per il tesoro;  
-  
-Decreta:  
-  
-E' consentito il collocamento fuori ruolo di un funzionario di grado non superiore al 6° del ruolo amministrativo del Commissariato per il turismo, per essere destinato a prestar servizio presso l'Automobile Club d'Italia.  
-  
+ E' consentito il collocamento fuori ruolo di un funzionario di grado non superiore al 6° del ruolo amministrativo del Commissariato per il turismo, per essere destinato a prestar servizio presso l'Automobile Club d'Italia.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 14 aprile 1952
+Dato a Roma, addi' 14 aprile 1952
 
-EINAUDI DE GASPERI - PELLA
-
-Visto, il Guardasigilli: ZOLI
-
-Registrato alla Corte dei conti, addi' 25 agosto 1952
-
-Atti del Governo, registro n. 57, foglio n. 110. - CARLOMAGNO
+EINAUDI DE GASPERI - PELLA Visto, il Guardasigilli: ZOLI Registrato alla Corte dei conti, addi' 25 agosto 1952 Atti del Governo, registro n. 57, foglio n. 110. - CARLOMAGNO

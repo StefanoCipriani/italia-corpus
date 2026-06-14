@@ -1,20 +1,20 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 27 novembre 1960 n. 1809
-
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 27 novembre 1960 n. 1809
-================================================================
-
-Norme sul trattamento economico e normativo dei lavoratori dipendenti dalle imprese che effettuano le seconde lavorazioni del vetro.
-------------------------------------------------------------------------------------------------------------------------------------
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 1809
+data: 1960-11-27
+titolo: "Norme sul trattamento economico e normativo dei lavoratori dipendenti dalle imprese che effettuano le seconde lavorazioni del vetro."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1960-11-27;1809
+codice_redazionale: 060U1809
+vigente: true
+---
 
 IL PRESIDENTE DELLA REPUBBLICA
-------------------------------
 
-Visto l'[art. 87, comma quinto, della Costituzione](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27~art87-com5);
+Visto l'[art. 87, comma quinto, della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87-com5);
 
-Vista la [legge 14 luglio 1959, n. 741](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1959-07-14;741), che delega il Governo ad emanare norme transitorie per garantire minimi di trattamento economico e normative ai lavoratori;
+Vista la [legge 14 luglio 1959, n. 741](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1959-07-14;741), che delega il Governo ad emanare norme transitorie per garantire minimi di trattamento economico e normative ai lavoratori;
 
-Vista la [legge 1 ottobre 1960, n. 1027](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1960-10-01;1027), recante modifiche alla predetta [legge 14 luglio 1959, n. 741](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1959-07-14;741);
+Vista la [legge 1 ottobre 1960, n. 1027](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1960-10-01;1027), recante modifiche alla predetta [legge 14 luglio 1959, n. 741](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1959-07-14;741);
 
 Visto il contratto nazionale collettivo di lavoro 28 luglio 1959, per le aziende che effettuano le seconde lavorazioni del vetro ed i lavoratori da esse dipendenti, stipulato tra l'Associazione Nazionale degli Industriali del Vetro, con l'assistenza della Confederazione Generale dell'Industria italiana e la Federazione Nazionale Vetrai Ceramisti ed Affini, con l'assistenza della Confederazione Generale italiana del Lavoro, il Sindacato Nazionale Lavoratori Abrasivi Vetro Ceramica e Affini, con l'assistenza della Confederazione italiana Sindacati Lavoratori, l'Unione italiana Lavoratori Vetro, Ceramica e Abrasivi, con l'assistenza dell'Unione italiana del Lavoro; e, in pari data, tra l'Associazione Nazionale degli Industriali del Vetro, con l'assistenza della Confederazione Generale dell'Industria italiana, e la Federazione Nazionale Lavoratori Vetro e Ceramica, con la assistenza della Confederazione italiana Sindacati Nazionali Lavoratori;
 
@@ -28,48 +28,15 @@ Vista la pubblicazione nell'apposito Bollettino, n. 90 del 4 luglio 1960, degli 
 
 Sentito il Consiglio dei Ministri;
 
-Sulla
------
+Sulla proposta del Ministro per il lavoro e la previdenza sociale; Decreta:
 
-proposta del Ministro per il lavoro e la previdenza sociale; Decreta:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-I rapporti di lavoro costituiti per l'attivita' per la quale sono stati stipulati il contratto nazionale collettivo di lavoro 28 luglio 1959 ed il concordato nazionale salariale 28 luglio 1959, relativi alle aziende che effettuano le seconde lavorazioni del vetro ed ai lavoratori da esse dipendenti, sono regolati da norme giuridiche uniformi alle clausole del contratto collettivo e del concordato anzidetti, annessi al presente decreto, nonche' alle clausole, agli stessi allegate, degli atti indicati nel preambolo.  
-I minimi di trattamento economico e normativo cosi' stabiliti sono inderogabili nei confronti di tutti i lavoratori dipendenti dalle imprese che effettuano le seconde lavorazioni del vetro.  
-  
+I rapporti di lavoro costituiti per l'attivita' per la quale sono stati stipulati il contratto nazionale collettivo di lavoro 28 luglio 1959 ed il concordato nazionale salariale 28 luglio 1959, relativi alle aziende che effettuano le seconde lavorazioni del vetro ed ai lavoratori da esse dipendenti, sono regolati da norme giuridiche uniformi alle clausole del contratto collettivo e del concordato anzidetti, annessi al presente decreto, nonche' alle clausole, agli stessi allegate, degli atti indicati nel preambolo.
+ I minimi di trattamento economico e normativo cosi' stabiliti sono inderogabili nei confronti di tutti i lavoratori dipendenti dalle imprese che effettuano le seconde lavorazioni del vetro.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 27 novembre 1960
+Dato a Roma, addi' 27 novembre 1960
 
-GRONCHI FANFANI - SULLO
-
-Visto, il Guardasigilli: GONELLA
-
-Registrato alla Corte dei conti, addi' 26 gennaio 1961
-
-Atti del Governo, registro n. 133, foglio n. 104. -- VILLA
-
-Allegato
-
-CONTRATTO NAZIONALE COLLETTIVO DI LAVORO DEL 28 LUGLIO 1959 PER LE AZIENDE CHE EFFETTUANO LE SECONDE, LAVORAZIONI DEL VETRO ED I LAVORATORI DA ESSE DIPENDENTI.   
-  
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=060U180900100010110001&dgu=1961-02-10&art.dataPubblicazioneGazzetta=1961-02-10&art.codiceRedazionale=060U1809)
-  
-  
-  
-  
-CONCORDATO NAZIONALE SALARIALE 28 LUGLIO 1959 INTEGRATIVO DEL CONTRATTO NAZIONALE COLLETTIVO DI LAVORO 28 LUGLIO 1959 DA VALERE PER LE AZIENDE CHE EFFETTUANO LE SECONDE LAVORAZIONI DEL VETRO ED I LAVORATORI DA ESSE DIPENDENTI.   
-  
-  
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=060U180900100010110002&dgu=1961-02-10&art.dataPubblicazioneGazzetta=1961-02-10&art.codiceRedazionale=060U1809)
-  
+GRONCHI FANFANI - SULLO Visto, il Guardasigilli: GONELLA Registrato alla Corte dei conti, addi' 26 gennaio 1961 Atti del Governo, registro n. 133, foglio n. 104. -- VILLA

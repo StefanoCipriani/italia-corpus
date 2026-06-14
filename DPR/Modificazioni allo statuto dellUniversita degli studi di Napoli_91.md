@@ -1,24 +1,24 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 08 giugno 1971 n. 613
-
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 08 giugno 1971 n. 613
-=============================================================
-
-Modificazioni allo statuto dell'Universita' degli studi di Napoli.
-------------------------------------------------------------------
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 613
+data: 1971-06-08
+titolo: "Modificazioni allo statuto dell'Universita' degli studi di Napoli."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1971-06-08;613
+codice_redazionale: 071U0613
+vigente: true
+---
 
 IL PRESIDENTE DELLA REPUBBLICA
-------------------------------
 
-Veduto lo statuto dell'Universita' degli studi di Napoli, approvato con [regio decreto 20 aprile 1939, n. 1162](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1162) e modificato con [regio decreto 26 ottobre 1940, n. 1904](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-26;1904), e successive modificazioni;
+Veduto lo statuto dell'Universita' degli studi di Napoli, approvato con [regio decreto 20 aprile 1939, n. 1162](../Atti%20normativi%20abrogati%20%28in%20originale%29/Modificazioni%20allo%20statuto%20della%20Regia%20Universita%20di%20Napoli.%20039U1162.md) e modificato con [regio decreto 26 ottobre 1940, n. 1904](../Atti%20normativi%20abrogati%20%28in%20originale%29/Modificazioni%20allo%20statuto%20della%20Regia%20universita%20di%20Napoli.%20040U1904.md), e successive modificazioni;
 
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933; numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933; numero 1592](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20R.%20decreto-legge%2020%20giugno%201935-XIII%20n.%201071%20contenente%20modifiche%20ed%20aggiornamenti%20al%20testo%20unico%20delle%20leggi%20sullistruzione%20superiore.%20036U0073.md);
 
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
+Veduto il [regio decreto 30 settembre 1938, n. 1652](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disposizioni%20sullordinamento%20didattico%20universitario.%20038U1652.md), e successive modificazioni;
 
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
+Veduta la [legge 11 aprile 1953, n. 312](../Atti%20normativi%20abrogati%20%28in%20originale%29/Libera%20inclusione%20di%20nuovi%20insegnamenti%20complementari%20negli%20statuti%20delle%20Universita%20e%20degli%20Istituti%20distruzione%20superiore.md);
 
 Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;
 
@@ -134,7 +134,7 @@ Fisica solare;
 
 Elettromagnetismo;
 
-\* Meccanica celeste;
+* Meccanica celeste;
 
 Magnetofluidodinamica;
 
@@ -146,7 +146,7 @@ Applicazioni della psicologia alla didattica;
 
 Fotobiologia.
 
-Art. 146: all'elenco degli insegnamenti complementari del corso di laurea in matematica - indirizzo generale - sono aggiunti i seguenti: \* Fisica solare;
+Art. 146: all'elenco degli insegnamenti complementari del corso di laurea in matematica - indirizzo generale - sono aggiunti i seguenti: * Fisica solare;
 
 Meccanica celeste;
 
@@ -164,7 +164,7 @@ Nello stesso elenco l'insegnamento di "Astronomia" e' contrassegnato da un aster
 
 Art. 147: all'elenco degli insegnamenti complementari del corso di laurea in matematica - indirizzo didattico - sono aggiunti i seguenti:
 
-\* Fisica solare;
+* Fisica solare;
 
 Meccanica celeste;
 
@@ -182,7 +182,7 @@ Nello stesso elenco l'insegnamento di "Astronomia" e' contrassegnato da un aster
 
 Art. 148: all'elenco degli insegnamenti complementari del corso di laurea in matematica - indirizzo applicativo - sono aggiunti i seguenti:
 
-\* Fisica solare;
+* Fisica solare;
 
 Meccanica celeste;
 
@@ -282,170 +282,158 @@ MISASI
 
 Visto, il Guardasigilli: COLOMBO
 
-Registrato
-----------
+Registrato alla Corte dei conti, addi' 17 agosto 1971 Atti del Governo, registro n. 243, foglio n. 127. - PASQUALUCCI
 
-alla Corte dei conti, addi' 17 agosto 1971 Atti del Governo, registro n. 243, foglio n. 127. - PASQUALUCCI
+## Art. 1.
 
-Art. 1
-------
+IL PRESIDENTE DELLA REPUBBLICA
 
- IL PRESIDENTE DELLA REPUBBLICA  
-  
-Veduto lo statuto dell'Universita' degli studi di Napoli, approvato con [regio decreto 20 aprile 1939, n. 1162](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1162) e modificato con [regio decreto 26 ottobre 1940, n. 1904](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-26;1904), e successive modificazioni;  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933; numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;  
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
-Sentito il parere del Consiglio superiore della pubblica istruzione;  
-Sulla proposta del Ministro per la pubblica istruzione;  
-  
-Decreta:  
-  
-Lo statuto dell'Universita' degli studi di Napoli, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
-  
-Art. 132: all'elenco degli insegnamenti complementari del corso di laurea in chimica - indirizzo organico biologico - sono aggiunti i seguenti:  
-Proprieta' e tecnologie delle materie plastiche;  
-Raffinazione e chimica del petrolio;  
-Chimica delle alte temperature;  
-Catalisi (omogenea ed eterogenea);  
-Termodinamica applicata;  
-Cinetica chimica;  
-Cristallochimica;  
-Chimica dei composti metallo-organici;  
-Didattica della chimica;  
-Fotochimica organica;  
-Meccanica quantistica;  
-Psicologia;  
-Psicologia dell'eta' evolutiva;  
-Applicazioni della psicologia alla didattica.  
-Nello stesso articolo all'elenco degli insegnamenti complementari del suddetto corso di laurea - indirizzo inorganico-chimico-fisico - sono aggiunti i seguenti:  
-Proprieta' e tecnologie delle materie plastiche;  
-Raffinazione e chimica del petrolio;  
-Chimica delle alte temperature;  
-Catalisi (omogenea ed eterogenea);  
-Termodinamica applicata;  
-Cinetica chimica;  
-Cristallochimica;  
-Chimica dei composti metallo-organici;  
-Didattica della chimica;  
-Fotochimica organica;  
-Meccanica quantistica;  
-Psicologia;  
-Psicologia dell'eta' evolutiva;  
-Applicazioni della psicologia alla didattica.  
-  
-Art. 135: all'elenco degli insegnamenti complementari del corso di laurea in chimica industriale sono aggiunti i seguenti:  
-Proprieta' e tecnologie delle materie plastiche;  
-Raffinazione e chimica del petrolio;  
-Chimica delle alte temperature;  
-Catalisi (omogenea ed eterogenea);  
-Termodinamica applicata;  
-Cinetica chimica;  
-Cristallochimica;  
-Chimica dei composti metallo-organici;  
-Didattica della chimica;  
-Fotochimica organica;  
-Meccanica quantistica;  
-Psicologia;  
-Psicologia dell'eta' evolutiva;  
-Applicazioni della psicologia alla didattica;  
-Laboratorio di operazioni fondamentali della chimica industriale;  
-Biochimica industriale.  
-  
-Art. 141: all'elenco degli insegnamenti complementari del corso di laurea in fisica sono aggiunti i seguenti:  
-Tecniche astrofisiche;  
-Fisica solare;  
-Elettromagnetismo;  
-\* Meccanica celeste;  
-Magnetofluidodinamica;  
-Psicologia;  
-Psicologia dell'eta' evolutiva;  
-Applicazioni della psicologia alla didattica;  
-Fotobiologia.  
-  
-Art. 146: all'elenco degli insegnamenti complementari del corso di laurea in matematica - indirizzo generale - sono aggiunti i seguenti: \* Fisica solare;  
-Meccanica celeste;  
-Magnetofluidodinamica;  
-Psicologia;  
-Psicologia dell'eta' evolutiva;  
-Applicazioni della psicologia alla didattica;  
-Elementi di chimica.  
-Nello stesso elenco l'insegnamento di "Astronomia" e' contrassegnato da un asterisco.  
-  
-Art. 147: all'elenco degli insegnamenti complementari del corso di laurea in matematica - indirizzo didattico - sono aggiunti i seguenti:  
-\* Fisica solare;  
-Meccanica celeste;  
-Magnetofluidodinamica;  
-Psicologia;  
-Psicologia dell'eta' evolutiva;  
-Applicazioni della psicologia alla didattica;  
-Elementi di chimica.  
-Nello stesso elenco l'insegnamento di "Astronomia" e' contrassegnato da un asterisco.  
-  
-Art. 148: all'elenco degli insegnamenti complementari del corso di laurea in matematica - indirizzo applicativo - sono aggiunti i seguenti:  
-\* Fisica solare;  
-Meccanica celeste;  
-Magnetofluidodinamica;  
-Psicologia;  
-Psicologia dell'eta' evolutiva;  
-Applicazioni della psicologia alla didattica;  
-Elementi di chimica.  
-Nello stesso elenco l'insegnamento di "Astronomia" e' contrassegnato da un asterisco.  
-  
-Art. 152: all'elenco degli insegnamenti complementari del corso di laurea in scienze naturali sono aggiunti i seguenti:  
-Evoluzione biologica;  
-Complementi di chimica;  
-Complementi di fisica;  
-Complementi di matematica;  
-Biometria;  
-Biochimica vegetale;  
-Fotochimica organica;  
-Fotobiologia;  
-Psicologia;  
-Psicologia dell'eta' evolutiva;  
-Applicazioni della psicologia alla didattica.  
-  
-Art. 156: all'elenco degli insegnamenti complementari del corso di laurea in scienze biologiche sono aggiunti i seguenti:  
-Biochimica applicata;  
-Evoluzione biologica;  
-Complementi di chimica;  
-Complementi di fisica;  
-Complementi di matematica;  
-Biometria;  
-Istochimica;  
-Biochimica vegetale;  
-Fotochimica organica;  
-Fotobiologia;  
-Tossicologia;  
-Chimica e microscopia clinica;  
-Psicologia;  
-Psicologia dell'eta' evolutiva;  
-Applicazioni della psicologia alla didattica.  
-  
-Art. 159: all'elenco degli insegnamenti complementari del corso di laurea in scienze geologiche sono aggiunti i seguenti:  
-Complementi di chimica;  
-Complementi di fisica;  
-Complementi di matematica;  
-Psicologia;  
-Psicologia dell'eta' evolutiva;  
-Applicazione della psicologia alla didattica.  
-  
-Art. 163: dall'elenco degli istituti annessi alla facolta' di scienze matematiche, fisiche e naturali e' soppresso il seguente:  
-Istituto di fisica superiore.  
-  
+ Veduto lo statuto dell'Universita' degli studi di Napoli, approvato con [regio decreto 20 aprile 1939, n. 1162](../Atti%20normativi%20abrogati%20%28in%20originale%29/Modificazioni%20allo%20statuto%20della%20Regia%20Universita%20di%20Napoli.%20039U1162.md) e modificato con [regio decreto 26 ottobre 1940, n. 1904](../Atti%20normativi%20abrogati%20%28in%20originale%29/Modificazioni%20allo%20statuto%20della%20Regia%20universita%20di%20Napoli.%20040U1904.md), e successive modificazioni;
+ Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933; numero 1592](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+ Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20R.%20decreto-legge%2020%20giugno%201935-XIII%20n.%201071%20contenente%20modifiche%20ed%20aggiornamenti%20al%20testo%20unico%20delle%20leggi%20sullistruzione%20superiore.%20036U0073.md);
+ Veduto il [regio decreto 30 settembre 1938, n. 1652](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disposizioni%20sullordinamento%20didattico%20universitario.%20038U1652.md), e successive modificazioni;
+ Veduta la [legge 11 aprile 1953, n. 312](../Atti%20normativi%20abrogati%20%28in%20originale%29/Libera%20inclusione%20di%20nuovi%20insegnamenti%20complementari%20negli%20statuti%20delle%20Universita%20e%20degli%20Istituti%20distruzione%20superiore.md);
+ Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;
+ Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
+ Sentito il parere del Consiglio superiore della pubblica istruzione;
+ Sulla proposta del Ministro per la pubblica istruzione;
+
+ Decreta:
+
+ Lo statuto dell'Universita' degli studi di Napoli, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+
+ Art. 132: all'elenco degli insegnamenti complementari del corso di laurea in chimica - indirizzo organico biologico - sono aggiunti i seguenti:
+ Proprieta' e tecnologie delle materie plastiche;
+ Raffinazione e chimica del petrolio;
+ Chimica delle alte temperature;
+ Catalisi (omogenea ed eterogenea);
+ Termodinamica applicata;
+ Cinetica chimica;
+ Cristallochimica;
+ Chimica dei composti metallo-organici;
+ Didattica della chimica;
+ Fotochimica organica;
+ Meccanica quantistica;
+ Psicologia;
+ Psicologia dell'eta' evolutiva;
+ Applicazioni della psicologia alla didattica.
+ Nello stesso articolo all'elenco degli insegnamenti complementari del suddetto corso di laurea - indirizzo inorganico-chimico-fisico - sono aggiunti i seguenti:
+ Proprieta' e tecnologie delle materie plastiche;
+ Raffinazione e chimica del petrolio;
+ Chimica delle alte temperature;
+ Catalisi (omogenea ed eterogenea);
+ Termodinamica applicata;
+ Cinetica chimica;
+ Cristallochimica;
+ Chimica dei composti metallo-organici;
+ Didattica della chimica;
+ Fotochimica organica;
+ Meccanica quantistica;
+ Psicologia;
+ Psicologia dell'eta' evolutiva;
+ Applicazioni della psicologia alla didattica.
+
+ Art. 135: all'elenco degli insegnamenti complementari del corso di laurea in chimica industriale sono aggiunti i seguenti:
+ Proprieta' e tecnologie delle materie plastiche;
+ Raffinazione e chimica del petrolio;
+ Chimica delle alte temperature;
+ Catalisi (omogenea ed eterogenea);
+ Termodinamica applicata;
+ Cinetica chimica;
+ Cristallochimica;
+ Chimica dei composti metallo-organici;
+ Didattica della chimica;
+ Fotochimica organica;
+ Meccanica quantistica;
+ Psicologia;
+ Psicologia dell'eta' evolutiva;
+ Applicazioni della psicologia alla didattica;
+ Laboratorio di operazioni fondamentali della chimica industriale;
+ Biochimica industriale.
+
+ Art. 141: all'elenco degli insegnamenti complementari del corso di laurea in fisica sono aggiunti i seguenti:
+ Tecniche astrofisiche;
+ Fisica solare;
+ Elettromagnetismo;
+ * Meccanica celeste;
+ Magnetofluidodinamica;
+ Psicologia;
+ Psicologia dell'eta' evolutiva;
+ Applicazioni della psicologia alla didattica;
+ Fotobiologia.
+
+ Art. 146: all'elenco degli insegnamenti complementari del corso di laurea in matematica - indirizzo generale - sono aggiunti i seguenti: * Fisica solare;
+ Meccanica celeste;
+ Magnetofluidodinamica;
+ Psicologia;
+ Psicologia dell'eta' evolutiva;
+ Applicazioni della psicologia alla didattica;
+ Elementi di chimica.
+ Nello stesso elenco l'insegnamento di "Astronomia" e' contrassegnato da un asterisco.
+
+ Art. 147: all'elenco degli insegnamenti complementari del corso di laurea in matematica - indirizzo didattico - sono aggiunti i seguenti:
+ * Fisica solare;
+ Meccanica celeste;
+ Magnetofluidodinamica;
+ Psicologia;
+ Psicologia dell'eta' evolutiva;
+ Applicazioni della psicologia alla didattica;
+ Elementi di chimica.
+ Nello stesso elenco l'insegnamento di "Astronomia" e' contrassegnato da un asterisco.
+
+ Art. 148: all'elenco degli insegnamenti complementari del corso di laurea in matematica - indirizzo applicativo - sono aggiunti i seguenti:
+ * Fisica solare;
+ Meccanica celeste;
+ Magnetofluidodinamica;
+ Psicologia;
+ Psicologia dell'eta' evolutiva;
+ Applicazioni della psicologia alla didattica;
+ Elementi di chimica.
+ Nello stesso elenco l'insegnamento di "Astronomia" e' contrassegnato da un asterisco.
+
+ Art. 152: all'elenco degli insegnamenti complementari del corso di laurea in scienze naturali sono aggiunti i seguenti:
+ Evoluzione biologica;
+ Complementi di chimica;
+ Complementi di fisica;
+ Complementi di matematica;
+ Biometria;
+ Biochimica vegetale;
+ Fotochimica organica;
+ Fotobiologia;
+ Psicologia;
+ Psicologia dell'eta' evolutiva;
+ Applicazioni della psicologia alla didattica.
+
+ Art. 156: all'elenco degli insegnamenti complementari del corso di laurea in scienze biologiche sono aggiunti i seguenti:
+ Biochimica applicata;
+ Evoluzione biologica;
+ Complementi di chimica;
+ Complementi di fisica;
+ Complementi di matematica;
+ Biometria;
+ Istochimica;
+ Biochimica vegetale;
+ Fotochimica organica;
+ Fotobiologia;
+ Tossicologia;
+ Chimica e microscopia clinica;
+ Psicologia;
+ Psicologia dell'eta' evolutiva;
+ Applicazioni della psicologia alla didattica.
+
+ Art. 159: all'elenco degli insegnamenti complementari del corso di laurea in scienze geologiche sono aggiunti i seguenti:
+ Complementi di chimica;
+ Complementi di fisica;
+ Complementi di matematica;
+ Psicologia;
+ Psicologia dell'eta' evolutiva;
+ Applicazione della psicologia alla didattica.
+
+ Art. 163: dall'elenco degli istituti annessi alla facolta' di scienze matematiche, fisiche e naturali e' soppresso il seguente:
+ Istituto di fisica superiore.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 8 giugno 1971
+Dato a Roma, addi' 8 giugno 1971
 
-SARAGAT MISASI
-
-Visto, il Guardasigilli: COLOMBO
-
-Registrato alla Corte dei conti, addi' 17 agosto 1971
-
-Atti del Governo, registro n. 243, foglio n. 127. - PASQUALUCCI
+SARAGAT MISASI Visto, il Guardasigilli: COLOMBO Registrato alla Corte dei conti, addi' 17 agosto 1971 Atti del Governo, registro n. 243, foglio n. 127. - PASQUALUCCI

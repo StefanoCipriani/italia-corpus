@@ -1,19 +1,21 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 dicembre 1967 n. 1452
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 1452
+data: 1967-12-28
+titolo: "Estinzione della fondazione scolastica \"Figli d'Italia\", in Catanzaro."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1967-12-28;1452
+codice_redazionale: 067U1452
+vigente: true
+---
 
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 dicembre 1967 n. 1452
-================================================================
-
-Estinzione della fondazione scolastica "Figli d'Italia", in Catanzaro.
-----------------------------------------------------------------------
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-1452. Decreto del Presidente della Repubblica 28 dicembre 1967, col quale, sulla proposta del Ministro per la pubblica istruzione, la fondazione scolastica "Figli d'Italia", con sede presso il liceo ginnasio statale "Galluppi" di Catanzaro, viene estinta e il relativo patrimonio devoluto alla cassa scolastica del predetto liceo.  
-  
-Visto, il Guardasigilli: REALE  
-Registrato alla Corte dei conti, addi' 13 marzo 1968  
-Atti del Governo, registro n. 218, foglio n. 4. - GRECO
+1452.
+
+Decreto del Presidente della Repubblica 28 dicembre 1967, col quale, sulla proposta del Ministro per la pubblica istruzione, la fondazione scolastica "Figli d'Italia", con sede presso il liceo ginnasio statale "Galluppi" di Catanzaro, viene estinta e il relativo patrimonio devoluto alla cassa scolastica del predetto liceo.
+
+Visto, il Guardasigilli: REALE
+ Registrato alla Corte dei conti, addi' 13 marzo 1968
+ Atti del Governo, registro n. 218, foglio n. 4. - GRECO

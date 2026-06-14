@@ -1,23 +1,25 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 05 dicembre 1984 n. 1099
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 1006
+data: 1984-10-11
+titolo: "Autorizzazione alla fondazione \"Pro juventute don Carlo Gnocchi\", in Roma, ad accettare una donazione."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1984-10-11;1006
+codice_redazionale: 084U1006
+vigente: true
+---
 
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 05 dicembre 1984 n. 1099
-================================================================
-
-Autorizzazione alla fondazione "Pro juventute don Carlo Gnocchi", in Roma, ad accettare una donazione.
-------------------------------------------------------------------------------------------------------
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-1099. Decreto del Presidente della Repubblica 5 dicembre 1984, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la fondazione "Pro juventute don Carlo Gnocchi", in Roma, viene autorizzata ad accettare la donazione consistente in beni immobili siti nel comune di Camogli, frazione Ruta e precisamente:
+1006.
 
-a) fabbricato ad uso abitazione sito in via Aurelia n. 140 (ex 84) censito nel nuovo catasto edilizio urbano alla partita 1889, foglio 6, mappale sub 1 - 16 con annesso piccolo appezzamento di terreno;
-
-b) fabbricato ad uso abitazione in via Romana, 132, censito nel nuovo catasto edilizio urbano alla partita 1889, foglio 6, mappale 56 sub 1 - 3, valore attribuito con perizia di parte L. 280.000.000 elevato dall'ufficio tecnico erariale di Genova a L. 528.000.000 liberi e lire 398.000.000 occupati. La donazione e' stata disposta dall'Istituto figlie di Maria della Divina Provvidenza - Opere femminili don Luigi Guanella - Roma, con atto redatto dal notaio dott. Ulderico Brambilla di Milano 19 novembre 1980, n. 4071/693 di repertorio, registrato a Milano in data 28 novembre 1980 al n. 25625.   
-  
-Visto, il Guardasigilli: MARTINAZZOLI   
-Registrato alla Corte dei conti, addi' 25 febbraio 1985   
-Registro n. 2 Presidenza, foglio n. 134
+Decreto del Presidente della Repubblica 11 ottobre 1984, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la 
+ fondazione "Pro juventute don Carlo Gnocchi", in Roma, viene 
+ autorizzata ad accettare la donazione, consistente nella quota di  2/6 di terreni siti nel comune di Cilavegna (Pavia), distinti nel  nuovo catasto terreni alle partite 3784 e 2671, valore dichiarato  con perizia di parte lire 160.000.000 elevato dall'ufficio tecnico  erariale di Pavia a L. 68.000.000 (quota 2/6 = L. 22.666.666), 
+ disposta dalla sig.ra Montanari Rita con atto in data 19 novembre  1981, n. 5576/902 di repertorio, a rogito dott. Ulderico Brambilla, 
+ notaio in Milano, registrato a Milano in data 23 settembre 1981 al  n. 23539. 
+ 
+Visto, il Guardasigilli: MARTINAZZOLI 
+ Registrato alla Corte dei conti, addi' 25 gennaio 1985 
+ Registro n. 1 Presidenza, foglio n. 179

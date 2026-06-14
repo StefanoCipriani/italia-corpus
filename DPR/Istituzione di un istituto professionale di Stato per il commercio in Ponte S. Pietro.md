@@ -1,19 +1,21 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 08 settembre 1979 n. 1017
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 1017
+data: 1979-09-08
+titolo: "Istituzione di un istituto professionale di Stato per il commercio in Ponte S. Pietro."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1979-09-08;1017
+codice_redazionale: 079U1017
+vigente: true
+---
 
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 08 settembre 1979 n. 1017
-=================================================================
-
-Istituzione di un istituto professionale di Stato per il commercio in Ponte S. Pietro.
---------------------------------------------------------------------------------------
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-1017. Decreto del Presidente della Repubblica 8 settembre 1979, col quale, sulla proposta del Ministro della pubblica istruzione, di concerto con i Ministri dell'interno, del tesoro e dell'industria, del commercio e dell'artigianato, viene istituito in Ponte S. Pietro (Bergamo), a decorrere dall'anno scolastico 1979-80, un istituto professionale di Stato per il commercio (scuola avente finalita' ed ordinamento speciali) e ne viene approvata la tabella organica.  
-  
-Visto, il Guardasigilli: MORLINO  
-Registrato alla Corte dei conti, addi' 16 marzo 1981  
-Registro n. 24 Istruzione, foglio n. 255
+1017.
+
+Decreto del Presidente della Repubblica 8 settembre 1979, col quale, sulla proposta del Ministro della pubblica istruzione, di concerto con i Ministri dell'interno, del tesoro e dell'industria, del commercio e dell'artigianato, viene istituito in Ponte S. Pietro (Bergamo), a decorrere dall'anno scolastico 1979-80, un istituto professionale di Stato per il commercio (scuola avente finalita' ed ordinamento speciali) e ne viene approvata la tabella organica.
+
+Visto, il Guardasigilli: MORLINO
+ Registrato alla Corte dei conti, addi' 16 marzo 1981
+ Registro n. 24 Istruzione, foglio n. 255

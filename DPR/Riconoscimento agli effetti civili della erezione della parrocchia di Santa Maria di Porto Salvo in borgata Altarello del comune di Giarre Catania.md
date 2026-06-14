@@ -1,18 +1,20 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 10 giugno 1948 n. 1048
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 1048
+data: 1948-06-10
+titolo: "Riconoscimento, agli effetti civili, della erezione della parrocchia di Santa Maria di Porto Salvo, in borgata Altarello del comune di Giarre (Catania)."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1948-06-10;1048
+codice_redazionale: 048U1048
+vigente: true
+---
 
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 10 giugno 1948 n. 1048
-==============================================================
-
-Riconoscimento, agli effetti civili, della erezione della parrocchia di Santa Maria di Porto Salvo, in borgata Altarello del comune di Giarre (Catania).
---------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-1048. Decreto del Presidente della Repubblica 10 giugno 1948, col quale, sulla proposta del Ministro per l'interno, viene riconosciuto, agli effetti civili, il decreto del Vescovo di Acireale in data 22 agosto 1945, relativo alla erezione della parrocchia di Santa Maria di Porto Salvo, in borgata Altarello del comune di Giarre (Catania).  
-  
-Visto, il Guardasigilli: GRASSI  
-Registrato alla Corte dei conti, addi' 2 agosto 1948
+1048.
+
+Decreto del Presidente della Repubblica 10 giugno 1948, col quale, sulla proposta del Ministro per l'interno, viene riconosciuto, agli effetti civili, il decreto del Vescovo di Acireale in data 22 agosto 1945, relativo alla erezione della parrocchia di Santa Maria di Porto Salvo, in borgata Altarello del comune di Giarre (Catania).
+
+Visto, il Guardasigilli: GRASSI
+ Registrato alla Corte dei conti, addi' 2 agosto 1948

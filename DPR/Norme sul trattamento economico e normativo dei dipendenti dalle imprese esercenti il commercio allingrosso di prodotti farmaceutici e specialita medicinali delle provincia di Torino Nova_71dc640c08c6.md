@@ -1,20 +1,20 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 gennaio 1962 n. 862
-
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 gennaio 1962 n. 862
-==============================================================
-
-Norme sul trattamento economico e normativo dei dipendenti dalle imprese esercenti il commercio all'ingrosso di prodotti farmaceutici e specialita' medicinali delle provincia di Torino, Novara, Genova, Bergamo, Bologna, Modena, Firenze, Massa Carrara, Perugia, Bari, Brindisi, Lecce, Palermo, Catania, Messina e del territorio di Trieste.
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 862
+data: 1962-01-02
+titolo: "Norme sul trattamento economico e normativo dei dipendenti dalle imprese esercenti il commercio all'ingrosso di prodotti farmaceutici e specialita' medicinali delle provincia di Torino, Novara, Genova, Bergamo, Bologna, Modena, Firenze, Massa Carrara, Perugia, Bari, Brindisi, Lecce, Palermo, Catania, Messina e del territorio di Trieste."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1962-01-02;862
+codice_redazionale: 062U0862
+vigente: true
+---
 
 IL PRESIDENTE DELLA REPUBBLICA
-------------------------------
 
-Visto l'[art. 87, comma quinto, della Costituzione](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27~art87-com5);
+Visto l'[art. 87, comma quinto, della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87-com5);
 
-Vista la [legge 14 luglio 1959, n. 741](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1959-07-14;741), che delega il Governo ad emanare norme transitorie per garantire minimi di trattamento economico e normativo ai lavoratori;
+Vista la [legge 14 luglio 1959, n. 741](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1959-07-14;741), che delega il Governo ad emanare norme transitorie per garantire minimi di trattamento economico e normativo ai lavoratori;
 
-Vista la [legge 1 ottobre 1960, n. 1027](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1960-10-01;1027), recante modifiche alla predetta [legge 14 luglio 1959, n. 741](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1959-07-14;741);
+Vista la [legge 1 ottobre 1960, n. 1027](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1960-10-01;1027), recante modifiche alla predetta [legge 14 luglio 1959, n. 741](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1959-07-14;741);
 
 Visto il contratto collettivo nazionale 17 luglio 1951, per il personale dipendente da aziende esercenti il commercio all'ingrosso di prodotti farmaceutici e specialita' medicinali;
 
@@ -70,204 +70,36 @@ Vista la pubblicazione nell'apposito Bollettino, n. 8 della provincia di Torino,
 
 Sentito il Consiglio dei Ministri;
 
-Sulla
------
+Sulla proposta del Ministro per il lavoro e la previdenza sociale; Decreta:
 
-proposta del Ministro per il lavoro e la previdenza sociale; Decreta:
+## Articolo unico.
 
-Articolo unico
---------------
+I rapporti di lavoro costituiti per le attivita' relative al commercio all'ingrosso di prodotti farmaceutici e specialita' medicinali, per le quali sono stati stipulati:
+ - per la provincia di Torino, il contratto collettivo integrativo 13 febbraio 1959, il protocollo 20 novembre 1956, aggiuntivo al contratto collettivo integrativo 29 maggio 1956;
+ - per la provincia di Novara, il contratto collettivo integrativo 16 febbraio 1959;
+ - per la provincia di Genova, il contratto collettivo integrativo 17 dicembre 1956;
+ - per la provincia di Bergamo, il contratto collettivo integrativo 25 settembre 1956;
+ - per la provincia di Bologna, il contratto collettivo integrativo 19 settembre 1957;
+ - per la provincia di Modena, l'accordo collettivo integrativo 30 giugno 1956;
+ - per la provincia di Firenze, il contratto collettivo integrativo 13 settembre 1956;
+ - per la provincia di Massa-Carrara, il contratto collettivo integrativo 23 luglio 1956;
+ - per la provincia di Perugia, l'accordo collettivo integrativo 30 settembre 1959;
+ - per la provincia di Bari, l'accordo collettivo integrativo 13 luglio 1959;
+ - per la provincia di Brindisi, il contratto collettivo integrativo 1 aprile 1958;
+ - per la provincia di Lecce, l'accordo collettivo integrativo 26 maggio 1955, il contratto collettivo integrativo 20 settembre 1956, l'accordo collettivo integrativo 12 novembre 1957;
+ - per la provincia di Palermo, il contratto collettivo integrativo 2 ottobre 1956;
+ - per la provincia di Catania, l'accordo collettivo integrativo 21 settembre 1959;
+ - per la provincia di Messina, l'accordo collettivo integrativo 30 gennaio 1958;
+ - per il territorio di Trieste, l'accordo collettivo integrativo 1 ottobre 1959, il contratto collettivo integrativo 1 ottobre 1959;
+sono regolati da norme giuridiche uniformi alle clausole dei contratti e degli accordi anzidetti, annessi al presente decreto.
+ Dette norme sono integrative di quelle concernenti la disciplina nazionale della categoria, purche' con esse compatibili.
+ I minimi di trattamento economico e normativo cosi' stabiliti sono inderogabili nei confronti di tutti i lavoratori dipendenti dalle imprese esercenti il commercio all'ingrosso di prodotti farmaceutici e specialita' medicinali delle province di Torino, Novara, Genova, Bergamo, Bologna, Modena, Firenze, Massa-Carrara, Perugia, Bari, Brindisi, Lecce, Palermo, Catania, Messina e del territorio di Trieste.
+ il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta, ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+ Dato a Roma, addi' 2 gennaio 1962
 
-  
-  
-I rapporti di lavoro costituiti per le attivita' relative al commercio all'ingrosso di prodotti farmaceutici e specialita' medicinali, per le quali sono stati stipulati:  
-- per la provincia di Torino, il contratto collettivo integrativo 13 febbraio 1959, il protocollo 20 novembre 1956, aggiuntivo al contratto collettivo integrativo 29 maggio 1956;  
-- per la provincia di Novara, il contratto collettivo integrativo 16 febbraio 1959;  
-- per la provincia di Genova, il contratto collettivo integrativo 17 dicembre 1956;  
-- per la provincia di Bergamo, il contratto collettivo integrativo 25 settembre 1956;  
-- per la provincia di Bologna, il contratto collettivo integrativo 19 settembre 1957;  
-- per la provincia di Modena, l'accordo collettivo integrativo 30 giugno 1956;  
-- per la provincia di Firenze, il contratto collettivo integrativo 13 settembre 1956;  
-- per la provincia di Massa-Carrara, il contratto collettivo integrativo 23 luglio 1956;  
-- per la provincia di Perugia, l'accordo collettivo integrativo 30 settembre 1959;  
-- per la provincia di Bari, l'accordo collettivo integrativo 13 luglio 1959;  
-- per la provincia di Brindisi, il contratto collettivo integrativo 1 aprile 1958;  
-- per la provincia di Lecce, l'accordo collettivo integrativo 26 maggio 1955, il contratto collettivo integrativo 20 settembre 1956, l'accordo collettivo integrativo 12 novembre 1957;  
-- per la provincia di Palermo, il contratto collettivo integrativo 2 ottobre 1956;  
-- per la provincia di Catania, l'accordo collettivo integrativo 21 settembre 1959;  
-- per la provincia di Messina, l'accordo collettivo integrativo 30 gennaio 1958;  
-- per il territorio di Trieste, l'accordo collettivo integrativo 1 ottobre 1959, il contratto collettivo integrativo 1 ottobre 1959;  
-sono regolati da norme giuridiche uniformi alle clausole dei contratti e degli accordi anzidetti, annessi al presente decreto.  
-Dette norme sono integrative di quelle concernenti la disciplina nazionale della categoria, purche' con esse compatibili.  
-I minimi di trattamento economico e normativo cosi' stabiliti sono inderogabili nei confronti di tutti i lavoratori dipendenti dalle imprese esercenti il commercio all'ingrosso di prodotti farmaceutici e specialita' medicinali delle province di Torino, Novara, Genova, Bergamo, Bologna, Modena, Firenze, Massa-Carrara, Perugia, Bari, Brindisi, Lecce, Palermo, Catania, Messina e del territorio di Trieste.  
-il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta, ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.  
-Dato a Roma, addi' 2 gennaio 1962  
-  
-GRONCHI  
-FANFANI - SULLO  
-  
-Visto, il Guardasigilli: BOSCO  
-Registrato alla Corte dei conti, addi' 13 giugno 1962  
-Atti del Governo, registro n. 150, foglio n. 82. - VILLA  
+ GRONCHI
+ FANFANI - SULLO
 
-Allegato
-
-  
-CONTRATTO COLLETTIVO INTEGRATIVO 13 FEBBRAIO 1959, PER I DIPENDENTI DA AZIENDE ESERCENTI IL COMMERCIO ALL'INGROSSO DI PRODOTTI FARMACEUTICI E' SPECIALITA MEDICINALI DELLA PROVINCIA DI TORINO.   
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=062U086200100010110001&dgu=1962-07-23&art.dataPubblicazioneGazzetta=1962-07-23&art.codiceRedazionale=062U0862)
-  
-  
-  
-  
-PROTOCOLLO 20 NOVEMBRE 1956, AGGIUNTIVO AL CONTRATTO COLLETTIVO INTEGRATIVO 29 MAGGIO 1956 PER I DIPENDENTI DA AZIENDE ESERCENTI IL COMMERCIO ALL'INGROSSO DI PRODOTTI FARMACEUTICI E' SPECIALITA MEDICINALI DELLA PROVINCIA DI TORINO.   
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=062U086200100010110002&dgu=1962-07-23&art.dataPubblicazioneGazzetta=1962-07-23&art.codiceRedazionale=062U0862)
-  
-  
-  
-  
-CONTRATTO INTEGRATIVO 16 FEBBRAIO 1959, PER I DIPENDENTI DA AZIENDE COMMERCIALI ALL'INGROSSO DI PRODOTTI FARMACEUTICI E' DI SPECIALITA MEDICINALI DELLA PROVINCIA DI NOVARA.   
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=062U086200100010110003&dgu=1962-07-23&art.dataPubblicazioneGazzetta=1962-07-23&art.codiceRedazionale=062U0862)
-  
-  
-  
-  
-CONTRATTO COLLETTIVO 17 DICEMBRE 1956 DI CONGLOBAMENTO DELLE VOCI DELLA RETRIBUZIONE DEL PERSONALE DIPENDENTE DA AZIENDE ESERCENTI IL COMMERCIO ALL'INGROSSO DI PRODOTTI FARMACEUTICI E' SPECIALITA MEDICINALI DELLA PROVINCIA DI GENOVA.   
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=062U086200100010110004&dgu=1962-07-23&art.dataPubblicazioneGazzetta=1962-07-23&art.codiceRedazionale=062U0862)
-  
-  
-  
-  
-CONTRATTO COLLETTIVO INTEGRATIVO 25 SETTEMBRE 1956 PER I DIPENDENTI DA AZIENDE GROSSISTE DI FARMACEUTICI E' SPECIALITA MEDICINALI DELLA PROVINCIA DI BERGAMO.   
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=062U086200100010110005&dgu=1962-07-23&art.dataPubblicazioneGazzetta=1962-07-23&art.codiceRedazionale=062U0862)
-  
-  
-  
-  
-  
-CONTRATTO COLLETTIVO INTEGRATIVO 19 SETTEMBRE 1957 PER I DIPENDENTI DA AZIENDE ESERCENTI IL COMMERCIO ALL'INGROSSO DI PRODOTTI FARMACEUTICI E SPECIALITA MEDICINALI DELLA PROVINCIA DI BOLOGNA.   
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=062U086200100010110006&dgu=1962-07-23&art.dataPubblicazioneGazzetta=1962-07-23&art.codiceRedazionale=062U0862)
-  
-  
-  
-  
-ACCORDO COLLETTIVO 30 GIUGNO 1956 SUL CONGLOBAMENTO DELLE RETRIBUZIONI DEI DIPENDENTI DA AZIENDE ESERCENTI IL COMMERCIO ALL'INGROSSO DI PRODOTTI FARMACEUTICI E DI SPECIALITA MEDICINALI DELLA PROVINCIA DI MODENA.   
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=062U086200100010110007&dgu=1962-07-23&art.dataPubblicazioneGazzetta=1962-07-23&art.codiceRedazionale=062U0862)
-  
-  
-  
-  
-CONTRATTO COLLETTIVO 13 SETTEMBRE 1956 INTEGRATIVO DEL CONTRATTO PER I DIPENDENTI DA AZIENDE ESERCENTI IL COMMERCIO ALL'INGROSSO DI PRODOTTI FARMACEUTICI E SPECIALITA MEDICINALI DELLA PROVINCIA DI FIRENZE.   
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=062U086200100010110008&dgu=1962-07-23&art.dataPubblicazioneGazzetta=1962-07-23&art.codiceRedazionale=062U0862)
-  
-  
-  
-  
-CONTRATTO COLLETTIVO 23 LUGLIO 1956 PER I DIPENDENTI DA AZIENDE ESERCENTI IL COMMERCIO ALL'INGROSSO DI PRODOTTI FARMACEUTICI E SPECIALITA MEDICINALI DA VALERE PER LA PROVINCIA DI MASSA-CARRARA.   
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=062U086200100010110009&dgu=1962-07-23&art.dataPubblicazioneGazzetta=1962-07-23&art.codiceRedazionale=062U0862)
-  
-  
-  
-  
-ACCORDO COLLETTIVO INTEGRATIVO 30 SETTEMBRE 1959, PER IL TRATTAMENTO ECONOMICO DEL PERSONALE DIPENDENTE DA AZIENDE DISTRIBUTRICI DI SPECIALITA MEDICINALI E PRODOTTI CHIMICI FARMACEUTICI DELLA PROVINCIA DI PERUGIA.   
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=062U086200100010110010&dgu=1962-07-23&art.dataPubblicazioneGazzetta=1962-07-23&art.codiceRedazionale=062U0862)
-  
-  
-  
-  
-ACCORDO COLLETTIVO 13 LUGLIO 1959 INTEGRATIVO DEL CONTRATTO COLLETTIVO NAZIONALE DI LAVORO PER I DIPENDENTI DA AZIENDE DISTRIBUTRICI DI SPECIALITA MEDICINALI E PRODOTTI CHIMICO FARMACEUTICI 17 LUGLIO 1951 DA VALERE PER LA PROVINCIA DI BARI.   
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=062U086200100010110011&dgu=1962-07-23&art.dataPubblicazioneGazzetta=1962-07-23&art.codiceRedazionale=062U0862)
-  
-  
-  
-  
-CONTRATTO COLLETTIVO 1 aprile 1958 INTEGRATIVO DELL'ACCORDO NAZIONALE MODIFICATIVO DEL CONTRATTO COLLETTIVO NAZIONALE DI LAVORO PER IL PERSONALE DIPENDENTE DA AZIENDE ESERCENTI IL COMMERCIO ALL'INGROSSO DEI PRODOTTI FARMACEUTICI E SPECIALITA MEDICINALI DEL 17 LUGLIO 1951 E DI CONGLOBAMENTO DELLE VOCI DI RETRIBUZIONE DELLA PROVINCIA DI BRINDISI.   
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=062U086200100010110012&dgu=1962-07-23&art.dataPubblicazioneGazzetta=1962-07-23&art.codiceRedazionale=062U0862)
-  
-  
-  
-  
-ACCORDO COLLETTIVO INTEGRATIVO 26 MAGGIO 1955, PER LA ESTENSIONE DELLA "SCALA MOBILE" AL PERSONALE DIPENDENTE DA AZIENDE ESERCENTI IL COMMERCIO ALL'INGROSSO DI PRODOTTI FARMACEUTICI E SPECIALITA MEDICINALI, DELLA PROVINCIA DI LECCE.   
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=062U086200100010110013&dgu=1962-07-23&art.dataPubblicazioneGazzetta=1962-07-23&art.codiceRedazionale=062U0862)
-  
-  
-  
-  
-CONTRATTO COLLETTIVO 20 SETTEMBRE 1956 INTEGRATIVO DELL'ACCORDO NAZIONALE MODIFICATIVO DEL CONTRATTO COLLETTIVO NAZIONALE PER IL PERSONALE DIPENDENTE DA AZIENDE ESERCENTI IL COMMERCIO ALL'INGROSSO DI PRODOTTI FARMACEUTICI E SPECIALITA' MEDICINALI DEL 17 LUGLIO 1951 E DI CONGLOBAMENTO DELLE VOCI DI RETRIBUZIONE DELLA PROVINCIA DI LECCE.   
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=062U086200100010110014&dgu=1962-07-23&art.dataPubblicazioneGazzetta=1962-07-23&art.codiceRedazionale=062U0862)
-  
-  
-  
-  
-ACCORDO COLLETTIVO INTEGRATIVO 12 NOVEMBRE 1957 PER IL CONTEGGIO DEGLI SCATTI DI ANZIANITA' DOVUTI AL PERSONALE DIPENDENTE DA AZIENDE ESERCENTI IL COMMERCIO ALL'INGROSSO DI PRODOTTI FARMACEUTICI E SPECIALITA MEDICINALI DELLA PROVINCIA DI LECCE.   
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=062U086200100010110015&dgu=1962-07-23&art.dataPubblicazioneGazzetta=1962-07-23&art.codiceRedazionale=062U0862)
-  
-  
-  
-  
-CONTRATTO COLLETTIVO INTEGRATIVO 2 OTTOBRE 1956 PER IL PERSONALE DIPENDENTE DA AZIENDE GROSSISTI PRODOTTI FARMACEUTICI E SPECIALITA MEDICINALI DELLA PROVINCIA DI PALERMO.   
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=062U086200100010110016&dgu=1962-07-23&art.dataPubblicazioneGazzetta=1962-07-23&art.codiceRedazionale=062U0862)
-  
-  
-  
-  
-ACCORDO COLLETTIVO INTEGRATIVO SALARIALE 21 SETTEMBRE 1959 PER IL PERSONALE DIPENDENTE DALLE AZIENDE COMMERCIALI DI PRODOTTI CHIMICI E SPECIALITA MEDICINALI DELLA PROVINCIA DI CATANIA.   
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=062U086200100010110017&dgu=1962-07-23&art.dataPubblicazioneGazzetta=1962-07-23&art.codiceRedazionale=062U0862)
-  
-  
-  
-  
-ACCORDO 30 GENNAIO 1958 INTEGRATIVO DELL'ACCORDO NAZIONALE DEL 7 MAGGIO 1956 PER LE AZIENDE ESERCENTI IL COMMERCIO ALL'INGROSSO DEI PRODOTTI FARMACEUTICI E SPECIALITA MEDICINALI DELLA PROVINCIA DI MESSINA.   
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=062U086200100010110018&dgu=1962-07-23&art.dataPubblicazioneGazzetta=1962-07-23&art.codiceRedazionale=062U0862)
-  
-  
-  
-  
-ACCORDO COLLETTIVO INTEGRATIVO 1 ottobre 1959, PER IL PERSONALE DIPENDENTE DA AZIENDE ESERCENTI IL COMMERCIO ALL'INGROSSO DI PRODOTTI CHIMICO-FARMACEUTICI E SPECIALITA MEDICINALI DELLA ZONA DI TRIESTE.   
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=062U086200100010110019&dgu=1962-07-23&art.dataPubblicazioneGazzetta=1962-07-23&art.codiceRedazionale=062U0862)
-  
-  
-  
-  
-CONTRATTO COLLETTIVO INTEGRATIVO 1 ottobre 1959, PER IL PERSONALE DIPENDENTE DA GROSSISTI DI SPECIALITA CHIMICO-FARMACEUTICHE DELLA ZONA DI TRIESTE.   
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=062U086200100010110020&dgu=1962-07-23&art.dataPubblicazioneGazzetta=1962-07-23&art.codiceRedazionale=062U0862)
-  
+Visto, il Guardasigilli: BOSCO
+ Registrato alla Corte dei conti, addi' 13 giugno 1962
+ Atti del Governo, registro n. 150, foglio n. 82. - VILLA

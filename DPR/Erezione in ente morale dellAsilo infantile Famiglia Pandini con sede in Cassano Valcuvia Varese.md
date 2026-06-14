@@ -1,19 +1,21 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 14 giugno 1953 n. 580
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 580
+data: 1953-06-14
+titolo: "Erezione in ente morale dell'Asilo infantile \"Famiglia Pandini\", con sede in Cassano Valcuvia (Varese)."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1953-06-14;580
+codice_redazionale: 053U0580
+vigente: true
+---
 
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 14 giugno 1953 n. 580
-=============================================================
-
-Erezione in ente morale dell'Asilo infantile "Famiglia Pandini", con sede in Cassano Valcuvia (Varese).
--------------------------------------------------------------------------------------------------------
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-580. Decreto del Presidente della Repubblica 14 giugno 1953, col quale, sulla proposta del Ministro per l'interno, l'Asilo infantile "Famiglia Pandini", con sede in Cassano Valcuvia (Varese) viene eretto in ente morale e ne viene approvato lo statuto organico.  
-  
-Visto, il Guardasigilli: GONELLA  
-Registrato alla Corte del conti, addi' 4 agosto 1953  
-Atti del Governo, registro n. 78, foglio n. 84. - CARLOMAGNO
+580.
+
+Decreto del Presidente della Repubblica 14 giugno 1953, col quale, sulla proposta del Ministro per l'interno, l'Asilo infantile "Famiglia Pandini", con sede in Cassano Valcuvia (Varese) viene eretto in ente morale e ne viene approvato lo statuto organico.
+
+Visto, il Guardasigilli: GONELLA
+ Registrato alla Corte del conti, addi' 4 agosto 1953
+ Atti del Governo, registro n. 78, foglio n. 84. - CARLOMAGNO

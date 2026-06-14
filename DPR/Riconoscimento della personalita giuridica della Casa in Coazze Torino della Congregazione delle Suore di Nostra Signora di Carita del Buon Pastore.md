@@ -1,19 +1,21 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 04 settembre 1960 n. 1137
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 1137
+data: 1960-09-04
+titolo: "Riconoscimento della personalita' giuridica della Casa, in Coazze (Torino), della Congregazione delle Suore di Nostra Signora di Carita' del Buon Pastore."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1960-09-04;1137
+codice_redazionale: 060U1137
+vigente: true
+---
 
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 04 settembre 1960 n. 1137
-=================================================================
-
-Riconoscimento della personalita' giuridica della Casa, in Coazze (Torino), della Congregazione delle Suore di Nostra Signora di Carita' del Buon Pastore.
-----------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-1137. Decreto del Presidente della Repubblica 4 settembre 1960, col quale, sulla proposta del Ministro per l'interno, viene riconosciuta la personalita' giuridica della Casa, in Coazze (Torino), della Congregazione delle Suore di Nostra Signora di Carita del Buon Pastore.  
-  
-Visto, il Guardasigilli: GONELLA  
-Registrato alla Corte dei conti, addi' 4 ottobre 1960  
-Atti del Governo, registro n. 130, foglio n. 54. - VILLA
+1137.
+
+Decreto del Presidente della Repubblica 4 settembre 1960, col quale, sulla proposta del Ministro per l'interno, viene riconosciuta la personalita' giuridica della Casa, in Coazze (Torino), della Congregazione delle Suore di Nostra Signora di Carita del Buon Pastore.
+
+Visto, il Guardasigilli: GONELLA
+ Registrato alla Corte dei conti, addi' 4 ottobre 1960
+ Atti del Governo, registro n. 130, foglio n. 54. - VILLA

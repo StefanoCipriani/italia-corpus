@@ -1,20 +1,20 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 gennaio 1962 n. 816
-
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 gennaio 1962 n. 816
-==============================================================
-
-Norme sul trattamento economico e normativo per i lavoratori dipendenti dagli stabilimenti balneari delle province di Brindisi, Imperia, Napoli e dagli stabilimenti balneari e colonie della provincia di Savona.
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 816
+data: 1962-01-02
+titolo: "Norme sul trattamento economico e normativo per i lavoratori dipendenti dagli stabilimenti balneari delle province di Brindisi, Imperia, Napoli e dagli stabilimenti balneari e colonie della provincia di Savona."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1962-01-02;816
+codice_redazionale: 062U0816
+vigente: true
+---
 
 DECRETO DEL PRESIDENTE DELLA REPUBBLICA
----------------------------------------
 
-Visto l'[art. 87, comma quinto, della Costituzione](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27~art87-com5);
+Visto l'[art. 87, comma quinto, della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87-com5);
 
-Vista la [legge 14 luglio 1959, n. 741](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1959-07-14;741), che delega il Governo ad emanare norme transitorie per garantire minimi di trattamento economico e normativo ai lavoratori;
+Vista la [legge 14 luglio 1959, n. 741](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1959-07-14;741), che delega il Governo ad emanare norme transitorie per garantire minimi di trattamento economico e normativo ai lavoratori;
 
-Vista la [legge 1 ottobre 1960, n. 1027](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1960-10-01;1027), recante modifiche alla predetta [legge 14 luglio 1959, n. 741](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1959-07-14;741);
+Vista la [legge 1 ottobre 1960, n. 1027](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1960-10-01;1027), recante modifiche alla predetta [legge 14 luglio 1959, n. 741](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1959-07-14;741);
 
 Visto l'accordo nazionale 15 maggio 1959 per l'estensione del trattamento delle festivita' nazionali ed infrasettimanali al personale dipendente da laboratori di pasticceria, da alberghi diurni, da stabilimenti balneari, marini, fluviali, lacuali e piscinali;
 
@@ -32,51 +32,19 @@ Vista la pubblicazione nell'apposito Bollettino, n. 5 della provincia di Brindis
 
 Sentito il Consiglio dei Ministri;
 
-Sulla
------
+Sulla proposta del Ministro per il lavoro e la previdenza sociale; Decreta:
 
-proposta del Ministro per il lavoro e la previdenza sociale; Decreta:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-I rapporti di lavoro costituiti per le attivita' per le quali sono stati stipulati:  
-per la provincia di Brindisi, il contratto collettivo 15 settembre 1959, relativo al personale dipendente da stabilimenti balneari;  
-per la provincia di Imperia, il contratto collettivo 28 luglio 1959, relativo ai dipendenti da stabilimenti balneari per la provincia di Napoli, l'accordo collettivo 2 marzo 1959, relativo ai dipendenti dagli stabilimenti balneari;  
-per la provincia di Savona, il contratto collettivo 1 giugno 1951, relativo ai dipendenti da stabilimenti balneari e colonie;  
-sono regolati da norme giuridiche uniformi alle clausole dei contratti e dell'accordo anzidetti, annessi al predetto decreto, purche' compatibili con quelle concernenti la disciplina nazionale della categoria.  
-I minimi di trattamento economico e normativo cosi' stabiliti sono inderogabili nei confronti di tutti i lavoratori dipendenti dagli stabilimenti balneari delle province di Brindisi, Imperia, Napoli e dagli stabilimenti balneari e colonie della provincia di Savona.  
-  
+I rapporti di lavoro costituiti per le attivita' per le quali sono stati stipulati:
+ per la provincia di Brindisi, il contratto collettivo 15 settembre 1959, relativo al personale dipendente da stabilimenti balneari;
+ per la provincia di Imperia, il contratto collettivo 28 luglio 1959, relativo ai dipendenti da stabilimenti balneari per la provincia di Napoli, l'accordo collettivo 2 marzo 1959, relativo ai dipendenti dagli stabilimenti balneari;
+ per la provincia di Savona, il contratto collettivo 1 giugno 1951, relativo ai dipendenti da stabilimenti balneari e colonie;
+sono regolati da norme giuridiche uniformi alle clausole dei contratti e dell'accordo anzidetti, annessi al predetto decreto, purche' compatibili con quelle concernenti la disciplina nazionale della categoria.
+ I minimi di trattamento economico e normativo cosi' stabiliti sono inderogabili nei confronti di tutti i lavoratori dipendenti dagli stabilimenti balneari delle province di Brindisi, Imperia, Napoli e dagli stabilimenti balneari e colonie della provincia di Savona.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 2 gennaio 1962
+Dato a Roma, addi' 2 gennaio 1962
 
-GRONCHI FANFANI - SULLO
-
-Visto, il Guardasigilli: BOSCO
-
-Registrato alla Corte dei conti, addi' 12 giugno 1962
-
-Atti del Governo, registro n. 150, foglio n. 56. - VILLA
-
-all. 1 - art. 1
-
-CONTRATTO COLLETTIVO DI LAVORO 15 SETTEMBRE 1959 PER IL PERSONALE DIPENDENTE DA STABILIMENTI BALNEARI DELLA PROVINCIA DI BRINDISI.  
-  
-----> [Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=062U081600100010110001&dgu=1962-07-18&art.dataPubblicazioneGazzetta=1962-07-18&art.codiceRedazionale=062U0816) <----   
-  
-CONTRATTO COLLETTIVO DI LAVORO 28 LUGLIO 1959 PER I DIPENDENTI DA STABILIMENTI BALNEARI DELLA PROVINCIA DI IMPERIA.  
-  
-----> [Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=062U081600100010110002&dgu=1962-07-18&art.dataPubblicazioneGazzetta=1962-07-18&art.codiceRedazionale=062U0816) <----   
-  
-ACCORDO COLLETTIVO DI LAVORO 2 MARZO 1959 PER I DIPENDENTI DAGLI STABILIMENTI BALNEARI DELLA PROVINCIA DI NAPOLI.  
-  
-----> [Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=062U081600100010110003&dgu=1962-07-18&art.dataPubblicazioneGazzetta=1962-07-18&art.codiceRedazionale=062U0816) <----   
-  
-CONTRATTO COLLETTIVO DI LAVORO 1 GIUGNO 1951 PER I DIPENDENTI DA STABILIMENTI BALNEARI E COLONIE DELLA PROVINCIA DI SAVONA.  
-  
-----> [Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=062U081600100010110004&dgu=1962-07-18&art.dataPubblicazioneGazzetta=1962-07-18&art.codiceRedazionale=062U0816) <----
+GRONCHI FANFANI - SULLO Visto, il Guardasigilli: BOSCO Registrato alla Corte dei conti, addi' 12 giugno 1962 Atti del Governo, registro n. 150, foglio n. 56. - VILLA

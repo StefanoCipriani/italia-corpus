@@ -1,40 +1,32 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 17 dicembre 1953 n. 1059
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 1059
+data: 1953-12-17
+titolo: "Pareggiamento della scuola interna di musica dell'Orfanotrofio \"Umberto I\" di Salerno."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1953-12-17;1059
+codice_redazionale: 053U1059
+vigente: true
+---
 
+## Art. 1.
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 17 dicembre 1953 n. 1059
-================================================================
+IL PRESIDENTE DELLA REPUBBLICA
 
-Pareggiamento della scuola interna di musica dell'Orfanotrofio "Umberto I" di Salerno.
---------------------------------------------------------------------------------------
+ Visto il [regio decreto 15 maggio 1930, n. 1170](../Atti%20normativi%20abrogati%20%28in%20originale%29/Norme%20per%20il%20pareggiamento%20degli%20Istituti%20musicali.%20030U1170.md);
+ Visto il [regio decreto 11 dicembre 1930, n. 1945](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-12-11;1945);
+ Vista la istanza con cui in data 31 gennaio 1951 il commissario prefettizio dell'Orfanotrofio "Umberto I" di Salerno ha chiesto il pareggiamento della scuola interna di musica ai Conservatori di musica di Stato;
+ Vista la relazione della Commissione tecnico-amministrativa, incaricata dal Ministro per la pubblica istruzione di procedere presso la predetta scuola di musica agli accertamenti di cui al [regio decreto 15 maggio 1930, n. 1170](../Atti%20normativi%20abrogati%20%28in%20originale%29/Norme%20per%20il%20pareggiamento%20degli%20Istituti%20musicali.%20030U1170.md);
+ Considerato che il predetto Orfanotrofio ha adempiuto alle richieste formulate dal Ministero della pubblica istruzione in ordine all'espletamento dei concorsi per il personale direttivo ed insegnante e all'emanazione di un nuovo regolamento interno della scuola suddetta aggiornato di tutte le disposizioni concernenti l'organizzazione degli istituti d'istruzione musicale;
+ Udito il parere della Sezione V del Consiglio superiore della antichita', e belle arti;
+ Sulla proposta del Ministro segretario di Stato per la pubblica istruzione;
 
-Art. 1
-------
+ Decreta:
 
- IL PRESIDENTE DELLA REPUBBLICA  
-  
-Visto il [regio decreto 15 maggio 1930, n. 1170](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-05-15;1170);  
-Visto il [regio decreto 11 dicembre 1930, n. 1945](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-12-11;1945);  
-Vista la istanza con cui in data 31 gennaio 1951 il commissario prefettizio dell'Orfanotrofio "Umberto I" di Salerno ha chiesto il pareggiamento della scuola interna di musica ai Conservatori di musica di Stato;  
-Vista la relazione della Commissione tecnico-amministrativa, incaricata dal Ministro per la pubblica istruzione di procedere presso la predetta scuola di musica agli accertamenti di cui al [regio decreto 15 maggio 1930, n. 1170](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-05-15;1170);  
-Considerato che il predetto Orfanotrofio ha adempiuto alle richieste formulate dal Ministero della pubblica istruzione in ordine all'espletamento dei concorsi per il personale direttivo ed insegnante e all'emanazione di un nuovo regolamento interno della scuola suddetta aggiornato di tutte le disposizioni concernenti l'organizzazione degli istituti d'istruzione musicale;  
-Udito il parere della Sezione V del Consiglio superiore della antichita', e belle arti;  
-Sulla proposta del Ministro segretario di Stato per la pubblica istruzione;  
-  
-Decreta:  
-  
-A decorrere dall'anno scolastico 1953-54 la scuola interna di musica dell'Orfanotrofio "Umberto I" di Salerno, istituita col fine di impartire l'istruzione musicale agli alunni ricoverati e' pareggiata ai Conservatori di musica di Stato limitatamente alle seguenti scuole:  
-violino, violoncello-contrabasso, oboe, flauto, clarinetto, tromba e trombone, corno.  
-  
+ A decorrere dall'anno scolastico 1953-54 la scuola interna di musica dell'Orfanotrofio "Umberto I" di Salerno, istituita col fine di impartire l'istruzione musicale agli alunni ricoverati e' pareggiata ai Conservatori di musica di Stato limitatamente alle seguenti scuole:
+ violino, violoncello-contrabasso, oboe, flauto, clarinetto, tromba e trombone, corno.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana, E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 17 dicembre 1953
+Dato a Roma, addi' 17 dicembre 1953
 
-EINAUDI SEGNI
-
-Visto, il Guardasigilli: AZARA
-
-Registrato alla Corte dei conti, addi' 4 febbraio 1954
-
-Atti dei Governo, registro n. 81, foglio n. 79. - PALLA
+EINAUDI SEGNI Visto, il Guardasigilli: AZARA Registrato alla Corte dei conti, addi' 4 febbraio 1954 Atti dei Governo, registro n. 81, foglio n. 79. - PALLA

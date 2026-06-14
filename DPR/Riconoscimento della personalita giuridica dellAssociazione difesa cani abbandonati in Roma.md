@@ -1,19 +1,21 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 21 ottobre 1980 n. 1153
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 1153
+data: 1980-10-21
+titolo: "Riconoscimento della personalita' giuridica dell'Associazione difesa cani abbandonati, in Roma."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1980-10-21;1153
+codice_redazionale: 080U1153
+vigente: true
+---
 
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 21 ottobre 1980 n. 1153
-===============================================================
-
-Riconoscimento della personalita' giuridica dell'Associazione difesa cani abbandonati, in Roma.
------------------------------------------------------------------------------------------------
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-1153. Decreto del Presidente della Repubblica 21 ottobre 1980, col quale, sulla proposta del Ministro della sanita', viene riconosciuta la personalita' giuridica ed approvato lo statuto dell'Associazione difesa cani abbandonati, in Roma.  
-  
-Visto, il Guardasigilli: DARIDA  
-Registrato alla Corte dei conti, addi' 30 giugno 1981  
-Registro n. 4 Sanita', foglio n. 211
+1153.
+
+Decreto del Presidente della Repubblica 21 ottobre 1980, col quale, sulla proposta del Ministro della sanita', viene riconosciuta la personalita' giuridica ed approvato lo statuto dell'Associazione difesa cani abbandonati, in Roma.
+
+Visto, il Guardasigilli: DARIDA
+ Registrato alla Corte dei conti, addi' 30 giugno 1981
+ Registro n. 4 Sanita', foglio n. 211

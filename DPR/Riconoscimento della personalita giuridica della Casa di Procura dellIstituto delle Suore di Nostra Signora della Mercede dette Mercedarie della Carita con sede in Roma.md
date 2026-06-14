@@ -1,19 +1,21 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 13 gennaio 1956 n. 83
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 83
+data: 1956-01-13
+titolo: "Riconoscimento della personalita' giuridica della Casa di Procura dell'Istituto delle Suore di Nostra Signora della Mercede, dette Mercedarie della Carita', con sede in Roma."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1956-01-13;83
+codice_redazionale: 056U0083
+vigente: true
+---
 
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 13 gennaio 1956 n. 83
-=============================================================
-
-Riconoscimento della personalita' giuridica della Casa di Procura dell'Istituto delle Suore di Nostra Signora della Mercede, dette Mercedarie della Carita', con sede in Roma.
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-83. Decreto del Presidente della Repubblica 13 gennaio 1956, col quale, sulla proposta del Ministro per l'interno, viene riconosciuta la personalita' giuridica della Casa di Procura dell'Istituto delle Suore di Nostra Signora della Mercede, dette Mercedarie della Carita', con sede in Roma.  
-  
-Visto, il Guardasigilli: MORO  
-Registrato alla Corte dei conti, addi' 22 febbraio 1956  
-Atti del Governo, registro n. 96, foglio n. 64. - CARLOMAGNO
+83.
+
+Decreto del Presidente della Repubblica 13 gennaio 1956, col quale, sulla proposta del Ministro per l'interno, viene riconosciuta la personalita' giuridica della Casa di Procura dell'Istituto delle Suore di Nostra Signora della Mercede, dette Mercedarie della Carita', con sede in Roma.
+
+Visto, il Guardasigilli: MORO
+ Registrato alla Corte dei conti, addi' 22 febbraio 1956
+ Atti del Governo, registro n. 96, foglio n. 64. - CARLOMAGNO

@@ -1,13 +1,13 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 10 maggio 1972 n. 971
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 971
+data: 1972-05-10
+titolo: "Varianti all'ordinamento delle scuole militari."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1972-05-10;971
+codice_redazionale: 072U0971
+vigente: true
+---
 
+## Art. 1.
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 10 maggio 1972 n. 971
-=============================================================
-
-Varianti all'ordinamento delle scuole militari.
------------------------------------------------
-
-Art. 1
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 15 MARZO 2010, N. 66](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-03-15;66)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 15 MARZO 2010, N. 66))

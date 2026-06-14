@@ -1,14 +1,14 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 23 agosto 1949 n. 1068
-
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 23 agosto 1949 n. 1068
-==============================================================
-
-Classificazione del territorio dell'Agro Cormonese-Gradiscano, in provincia di Gorizia, tra i comprensori di bonifica di 2ª categoria.
---------------------------------------------------------------------------------------------------------------------------------------
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 1068
+data: 1949-08-23
+titolo: "Classificazione del territorio dell'Agro Cormonese-Gradiscano, in provincia di Gorizia, tra i comprensori di bonifica di 2ª categoria."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1949-08-23;1068
+codice_redazionale: 049U1068
+vigente: true
+---
 
 IL PRESIDENTE DELLA REPUBBLICA
-------------------------------
 
 Ritenuta l'opportunita' di procedere alla classifica del territorio dell'Agro Cormonese-Gradiscano tra i comprensori di bonifica;
 
@@ -16,30 +16,16 @@ Considerato che detto territorio della estensione di 8670 ettari, ricade nella p
 
 Sentito il Comitato speciale per la bonifica;
 
-Visto l'[art. 3 del regio decreto 13 febbraio 1933, n. 215](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-02-13;215~art3);
+Visto l'[art. 3 del regio decreto 13 febbraio 1933, n. 215](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-02-13;215#art_3);
 
-Sulla
------
+Sulla proposta del Ministro per l'agricoltura e per le foreste, di concerto con i Ministri per il tesoro e per i lavori pubblici; Decreta:
 
-proposta del Ministro per l'agricoltura e per le foreste, di concerto con i Ministri per il tesoro e per i lavori pubblici; Decreta:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-Il territorio dell'Agro Cormonese-Gradiscano, della estensione di ettari 8670, ricadente nella parte sudoccidentale della provincia di Gorizia e delimitato come nelle premesse, e' classificato, ai sensi e per gli effetti dell'[art. 2 del regio decreto 13 febbraio 1933, n. 215](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-02-13;215~art2), tra i comprensori di bonifica di seconda categoria sulla base della corografia che, munita del visto del Ministro proponente, forma parte integrante del presente decreto.  
-  
+Il territorio dell'Agro Cormonese-Gradiscano, della estensione di ettari 8670, ricadente nella parte sudoccidentale della provincia di Gorizia e delimitato come nelle premesse, e' classificato, ai sensi e per gli effetti dell'[art. 2 del regio decreto 13 febbraio 1933, n. 215](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-02-13;215#art_2), tra i comprensori di bonifica di seconda categoria sulla base della corografia che, munita del visto del Ministro proponente, forma parte integrante del presente decreto.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 23 agosto 1949
+Dato a Roma, addi' 23 agosto 1949
 
-EINAUDI SEGNI - PELLA - TUPINI
-
-Visto, il Guardasigilli: GRASSI
-
-Registrato alla Corte dei conti, addi' 31 gennaio 1950
-
-Atti del Governo, registro n. 31, foglio n. 77. - FRASCA
+EINAUDI SEGNI - PELLA - TUPINI Visto, il Guardasigilli: GRASSI Registrato alla Corte dei conti, addi' 31 gennaio 1950 Atti del Governo, registro n. 31, foglio n. 77. - FRASCA

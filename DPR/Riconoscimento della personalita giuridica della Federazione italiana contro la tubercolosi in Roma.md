@@ -1,19 +1,21 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 10 gennaio 1984 n. 606
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 606
+data: 1984-01-10
+titolo: "Riconoscimento della personalita' giuridica della Federazione italiana contro la tubercolosi, in Roma."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1984-01-10;606
+codice_redazionale: 084U0606
+vigente: true
+---
 
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 10 gennaio 1984 n. 606
-==============================================================
-
-Riconoscimento della personalita' giuridica della Federazione italiana contro la tubercolosi, in Roma.
-------------------------------------------------------------------------------------------------------
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-606. Decreto del Presidente della Repubblica 10 gennaio 1984, col quale, sulla proposta del Ministro della sanita', viene riconosciuta la personalita' giuridica ed approvato lo statuto della Federazione italiana contro la tubercolosi, in Roma.  
-  
-Visto, il Guardasigilli: MARTINAZZOLI  
-Registrato alla Corte dei conti, addi' 15 settembre 1984  
-Registro n. 6 Sanita', foglio n. 379
+606.
+
+Decreto del Presidente della Repubblica 10 gennaio 1984, col quale, sulla proposta del Ministro della sanita', viene riconosciuta la personalita' giuridica ed approvato lo statuto della Federazione italiana contro la tubercolosi, in Roma.
+
+Visto, il Guardasigilli: MARTINAZZOLI
+ Registrato alla Corte dei conti, addi' 15 settembre 1984
+ Registro n. 6 Sanita', foglio n. 379

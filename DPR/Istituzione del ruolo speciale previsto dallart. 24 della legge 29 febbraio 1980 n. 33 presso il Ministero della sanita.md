@@ -1,28 +1,28 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 luglio 1980 n. 615
-
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 luglio 1980 n. 615
-=============================================================
-
-Istituzione del ruolo speciale previsto dall'art. 24 della legge 29 febbraio 1980, n. 33, presso il Ministero della sanita'.
-----------------------------------------------------------------------------------------------------------------------------
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 615
+data: 1980-07-31
+titolo: "Istituzione del ruolo speciale previsto dall'art. 24 della legge 29 febbraio 1980, n. 33, presso il Ministero della sanita'."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1980-07-31;615
+codice_redazionale: 080U0615
+vigente: true
+---
 
 IL PRESIDENTE DELLA REPUBBLICA
-------------------------------
 
-Visto l'[art. 24 del decreto-legge 30 dicembre 1979, n. 663](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1979-12-30;663~art24), nel testo sostituito dall'art. 1 della legge di conversione 29 febbraio 1980, n. 33;
+Visto l'[art. 24 del decreto-legge 30 dicembre 1979, n. 663](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1979-12-30;663#art_24), nel testo sostituito dall'art. 1 della legge di conversione 29 febbraio 1980, n. 33;
 
-Vista la [legge 23 dicembre 1978, n. 833](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-12-23;833);
+Vista la [legge 23 dicembre 1978, n. 833](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-12-23;833);
 
-Vista la [legge 20 marzo 1975, n. 70](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1975-03-20;70);
+Vista la [legge 20 marzo 1975, n. 70](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1975-03-20;70);
 
-Visto il [decreto del Presidente della Repubblica 10 gennaio 1957, n. 3](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1957-01-10;3), e successive modificazioni;
+Visto il [decreto del Presidente della Repubblica 10 gennaio 1957, n. 3](Testo%20unico%20delle%20disposizioni%20concernenti%20lo%20statuto%20degli%20impiegati%20civili%20dello%20Stato.md), e successive modificazioni;
 
-Visto il [decreto del Presidente della Repubblica 28 dicembre 1970, n. 1077](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1970-12-28;1077);
+Visto il [decreto del Presidente della Repubblica 28 dicembre 1970, n. 1077](Riordinamento%20delle%20carriere%20degli%20impiegati%20civili%20dello%20Stato.md);
 
-Visto il [decreto del Presidente della Repubblica 30 giugno 1972, n. 748](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1972-06-30;748);
+Visto il [decreto del Presidente della Repubblica 30 giugno 1972, n. 748](Disciplina%20delle%20funzioni%20dirigenziali%20nelle%20Amministrazioni%20dello%20Stato%20anche%20ad%20ordinamento%20autonomo.md);
 
-Visto l'[art. 14 del decreto-legge 1 luglio 1980, n. 285](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1980-07-01;285~art14);
+Visto l'[art. 14 del decreto-legge 1 luglio 1980, n. 285](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1980-07-01;285#art_14);
 
 Tenuto conto, ai fini della equiparazione tra le qualifiche dell'ordinamento statale e le posizioni del personale trasferito al Ministero della sanita', dello svolgimento delle carriere e delle funzioni previste rispettivamente dalle norme sullo stato giuridico del personale statale e da quelle degli enti pubblici da cui il predetto personale trasferito proviene;
 
@@ -30,63 +30,29 @@ Sentite, al riguardo, le organizzazioni sindacali rappresentate nel C.N.E.L.;
 
 Sentito il Consiglio dei Ministri;
 
-Sulla
------
+Sulla proposta del Ministro della sanita', di concerto con i Ministri del tesoro e del lavoro e della previdenza sociale; Decreta:
 
-proposta del Ministro della sanita', di concerto con i Ministri del tesoro e del lavoro e della previdenza sociale; Decreta:
+## Art. 1.
 
-Art. 1
-------
+In attesa che si provveda al riordinamento del Ministero della sanita', ai sensi dell'[art. 59 della legge 23 dicembre 1978, n. 833](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-12-23;833#art_59), presso il Ministero della sanita' e' istituito, con decorrenza dal 1 agosto 1980, il ruolo speciale previsto dal [terzo comma dell'art. 24 del decreto-legge 30 dicembre 1979, n. 663](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1979-12-30;663#art_24-com3), convertito, con modificazioni, nella [legge 29 febbraio 1980, n. 33](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2030%20dicembre%201979%20n.%20663%20concernente%20provvedimenti%20per%20il%20finanziamento%20del%20Servizio%20sanitario%20nazionale%20per%20la%20previdenza%20per%20il%20c_9d4821b80b65.md).
 
-  
-In attesa che si provveda al riordinamento del Ministero della sanita', ai sensi dell'[art. 59 della legge 23 dicembre 1978, n. 833](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-12-23;833~art59), presso il Ministero della sanita' e' istituito, con decorrenza dal 1 agosto 1980, il ruolo speciale previsto dal [terzo comma dell'art. 24 del decreto-legge 30 dicembre 1979, n. 663](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1979-12-30;663~art24-com3), convertito, con modificazioni, nella [legge 29 febbraio 1980, n. 33](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1980-02-29;33).  
+## Art. 2.
 
-Art. 2
-------
+La dotazione del ruolo speciale di cui al precedente articolo e' fissata dalla tabella A allegata al presente decreto.
+ Nel ruolo speciale e' inquadrato il personale di cui all'[art. 67 della legge 23 dicembre 1978, n. 833](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-12-23;833#art_67), come modificato dalla [legge 29 febbraio 1980, n. 33](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2030%20dicembre%201979%20n.%20663%20concernente%20provvedimenti%20per%20il%20finanziamento%20del%20Servizio%20sanitario%20nazionale%20per%20la%20previdenza%20per%20il%20c_9d4821b80b65.md), nonche' l'altro personale indicato dai commi primo e secondo dell'art. 24 di quest'ultima legge.
 
-  
-La dotazione del ruolo speciale di cui al precedente articolo e' fissata dalla tabella A allegata al presente decreto.  
-Nel ruolo speciale e' inquadrato il personale di cui all'[art. 67 della legge 23 dicembre 1978, n. 833](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-12-23;833~art67), come modificato dalla [legge 29 febbraio 1980, n. 33](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1980-02-29;33), nonche' l'altro personale indicato dai commi primo e secondo dell'art. 24 di quest'ultima legge.  
+## Art. 3.
 
-Art. 3
-------
-
-  
-  
-L'inquadramento nel ruolo speciale istituito con il presente decreto sara' effettuato con provvedimento del Ministro della sanita', con decorrenza 1 agosto 1980, nelle qualifiche previste nella tabella A del ruolo speciale, corrispondenti alla posizione giuridica rivestita da ciascuna unita' di personale alla data del 31 luglio 1980 negli ordinamenti degli enti di provenienza.   
-L'inquadramento viene effettuato in ordine progressivo in relazione all'anzianita' di qualifica posseduta, e, in caso di pari anzianita', all'eta'.   
-Il personale conserva nel ruolo speciale l'anzianita' di servizio e la qualifica posseduta nell'ordinamento degli enti di provenienza.   
-L'equiparazione tra le qualifiche dell'ordinamento statale e le posizioni del personale inquadrato nel ruolo speciale e' stabilita dall'allegata tabella B.   
-Detto personale conserva il trattamento economico e normativo previsto dalla [legge 20 marzo 1975, n. 70](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1975-03-20;70) e dai relativi accordi sindacali.   
-Le modifiche di posizione in progressione di carriera, conseguenti all'applicazione della [legge 20 marzo 1975, n. 70](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1975-03-20;70) e dei relativi accordi sindacali, hanno rilevanza ai fini dell'equiparazione prevista dalla predetta tabella B.   
-Con decreto del Ministro della sanita', emanato entro il 31 ottobre 1980, sono stabilite le procedure per garantire la progressione in carriera dei dipendenti iscritti nel ruolo speciale in conformita' della disciplina loro applicabile.   
-  
+L'inquadramento nel ruolo speciale istituito con il presente decreto sara' effettuato con provvedimento del Ministro della sanita', con decorrenza 1 agosto 1980, nelle qualifiche previste nella tabella A del ruolo speciale, corrispondenti alla posizione giuridica rivestita da ciascuna unita' di personale alla data del 31 luglio 1980 negli ordinamenti degli enti di provenienza. 
+ L'inquadramento viene effettuato in ordine progressivo in relazione all'anzianita' di qualifica posseduta, e, in caso di pari anzianita', all'eta'. 
+ Il personale conserva nel ruolo speciale l'anzianita' di servizio e la qualifica posseduta nell'ordinamento degli enti di provenienza. 
+ L'equiparazione tra le qualifiche dell'ordinamento statale e le posizioni del personale inquadrato nel ruolo speciale e' stabilita dall'allegata tabella B. 
+ Detto personale conserva il trattamento economico e normativo previsto dalla [legge 20 marzo 1975, n. 70](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1975-03-20;70) e dai relativi accordi sindacali. 
+ Le modifiche di posizione in progressione di carriera, conseguenti all'applicazione della [legge 20 marzo 1975, n. 70](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1975-03-20;70) e dei relativi accordi sindacali, hanno rilevanza ai fini dell'equiparazione prevista dalla predetta tabella B. 
+ Con decreto del Ministro della sanita', emanato entro il 31 ottobre 1980, sono stabilite le procedure per garantire la progressione in carriera dei dipendenti iscritti nel ruolo speciale in conformita' della disciplina loro applicabile.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Selva di Val Gardena, addi' 31 luglio 1980
+Dato a Selva di Val Gardena, addi' 31 luglio 1980
 
-PERTINI COSSIGA - ANIASI - PANDOLFI - FOSCHI
-
-Visto, il Guardasigilli: MORLINO
-
-Registrato alla Corte dei conti, addi' 4 ottobre 1980
-
-Atti di Governo, registro n. 30, foglio n. 1
-
-Tabelle
-
- Tabella A   
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=080U061500100010110001&dgu=1980-10-07&art.dataPubblicazioneGazzetta=1980-10-07&art.codiceRedazionale=080U0615)
-  
-  
-  
-  
-Tabella B   
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=080U061500100010110002&dgu=1980-10-07&art.dataPubblicazioneGazzetta=1980-10-07&art.codiceRedazionale=080U0615)
-  
+PERTINI COSSIGA - ANIASI - PANDOLFI - FOSCHI Visto, il Guardasigilli: MORLINO Registrato alla Corte dei conti, addi' 4 ottobre 1980 Atti di Governo, registro n. 30, foglio n. 1

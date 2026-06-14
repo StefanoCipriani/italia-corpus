@@ -1,19 +1,21 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 07 dicembre 1959 n. 1242
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 1242
+data: 1959-12-07
+titolo: "Riconoscimento della personalita' giuridica della Chiesa parrocchiale di Maria SS.ma Immacolata, detta anche dell'Immacolata Concezione, in localita' Selva del comune di Isola del Liri (Frosinone)."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1959-12-07;1242
+codice_redazionale: 059U1242
+vigente: true
+---
 
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 07 dicembre 1959 n. 1242
-================================================================
-
-Riconoscimento della personalita' giuridica della Chiesa parrocchiale di Maria SS.ma Immacolata, detta anche dell'Immacolata Concezione, in localita' Selva del comune di Isola del Liri (Frosinone).
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-1242. Decreto del Presidente della Repubblica 7 dicembre 1959, col quale, sulla proposta del Ministro per l'interno, viene riconosciuta la personalita' giuridica della Chiesa parrocchiale di Maria SS.ma Immacolata, detta anche dell'Immacolata Concezione, in localita' Selva del comune di Isola del Liri (Frosinone).  
-  
-Visto, il Guardasigilli: GONELLA  
-Registrato alla Corte dei conti, addi' 23 gennaio 1960  
-Atti del Governo, registro n. 123, foglio n. 61. - VILLA
+1242.
+
+Decreto del Presidente della Repubblica 7 dicembre 1959, col quale, sulla proposta del Ministro per l'interno, viene riconosciuta la personalita' giuridica della Chiesa parrocchiale di Maria SS.ma Immacolata, detta anche dell'Immacolata Concezione, in localita' Selva del comune di Isola del Liri (Frosinone).
+
+Visto, il Guardasigilli: GONELLA
+ Registrato alla Corte dei conti, addi' 23 gennaio 1960
+ Atti del Governo, registro n. 123, foglio n. 61. - VILLA

@@ -1,19 +1,21 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 18 novembre 1960 n. 1822
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 1822
+data: 1960-11-18
+titolo: "Approvazione della nuova denominazione e dello statuto dell'Associazione Nazionale Paracadutisti, con sede centrale in Roma."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1960-11-18;1822
+codice_redazionale: 060U1822
+vigente: true
+---
 
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 18 novembre 1960 n. 1822
-================================================================
-
-Approvazione della nuova denominazione e dello statuto dell'Associazione Nazionale Paracadutisti, con sede centrale in Roma.
-----------------------------------------------------------------------------------------------------------------------------
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-1822. Decreto del Presidente della Repubblica 18 novembre 1960, col quale, sulla proposta del Ministro per la difesa, l'Associazione Nazionale Paracadutisti, con sede centrale in Roma, assume la denominazione di Associazione Nazionale Paracadutisti d'Italia (A.N.P.D.I.) e ne viene approvato il nuovo statuto organico.  
-  
-Visto, il Guardasigilli: GONELLA  
-Registrato alla Corte dei conti, addi' 8 febbraio 1961  
-Atti del Governo, registro n. 134, foglio n. 22. - VILLA
+1822.
+
+Decreto del Presidente della Repubblica 18 novembre 1960, col quale, sulla proposta del Ministro per la difesa, l'Associazione Nazionale Paracadutisti, con sede centrale in Roma, assume la denominazione di Associazione Nazionale Paracadutisti d'Italia (A.N.P.D.I.) e ne viene approvato il nuovo statuto organico.
+
+Visto, il Guardasigilli: GONELLA
+ Registrato alla Corte dei conti, addi' 8 febbraio 1961
+ Atti del Governo, registro n. 134, foglio n. 22. - VILLA

@@ -1,20 +1,20 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 09 maggio 1961 n. 726
-
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 09 maggio 1961 n. 726
-=============================================================
-
-Norme sul trattamento economico e normativo dei lavoratori dipendenti dalle imprese esercenti lavanderie, smacchiatorie, tintorie e stirerie di abiti ed indumenti delle province di Milano e Bologna.
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 726
+data: 1961-05-09
+titolo: "Norme sul trattamento economico e normativo dei lavoratori dipendenti dalle imprese esercenti lavanderie, smacchiatorie, tintorie e stirerie di abiti ed indumenti delle province di Milano e Bologna."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1961-05-09;726
+codice_redazionale: 061U0726
+vigente: true
+---
 
 IL PRESIDENTE DELLA REPUBBLICA
-------------------------------
 
-Visto l'[art. 87, comma quinto, della Costituzione](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27~art87-com5);
+Visto l'[art. 87, comma quinto, della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87-com5);
 
-Vista la [legge 14 luglio 1959, n. 741](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1959-07-14;741), che delega il Governo ad emanare norme transitorie per garantire minimi di trattamento economico e normativo ai lavoratori;
+Vista la [legge 14 luglio 1959, n. 741](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1959-07-14;741), che delega il Governo ad emanare norme transitorie per garantire minimi di trattamento economico e normativo ai lavoratori;
 
-Vista la [legge 1 ottobre 1960, n. 1027](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1960-10-01;1027), recante modifiche alla predetta [legge 14 luglio 1959, n. 741](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1959-07-14;741);
+Vista la [legge 1 ottobre 1960, n. 1027](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1960-10-01;1027), recante modifiche alla predetta [legge 14 luglio 1959, n. 741](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1959-07-14;741);
 
 Visto, per le province di Milano e Bologna, il contratto collettivo di lavoro 18 marzo 1949 per le maestranze addette alle aziende esercenti lavanderie, smacchiatorie, tintorie e stirerie di abiti ed indumenti, stipulato tra il Sindacato Interprovinciale di Milano Esercenti Industrie Varie, con l'intervento dell'Associazione Industriale Lombarda e dell'Associazione degli Industriali della Provincia di Bologna, e la Federazione italiana Lavoratori Abbigliamento, con l'intervento dei Sindacati Provinciali di Milano e Bologna, la Federazione Unitaria italiana Liberi Lavoratori Abbigliamento, con l'intervento dei Sindacati Provinciali di Milano e di Bologna; al quale ha aderito la Confederazione italiana Sindacati Nazionali Lavoratori;
 
@@ -34,90 +34,19 @@ Vista la pubblicazione nell'apposito Bollettino, n. 51 in data 11 marzo 1960, n.
 
 Sentito il Consiglio dei Ministri;
 
-Sulla
------
+Sulla proposta del Ministro per il lavoro e la previdenza sociale; Decreta:
 
-proposta del Ministro per il lavoro e la previdenza sociale; Decreta:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-I rapporti di lavoro costituiti per le attivita' per le quali sono stati stipulati:  
-- per le province di Milano e Bologna, il contratto collettivo di lavoro 18 marzo 1949 per le maestranze addette alle aziende esercenti lavanderie, smacchiatorie, tintorie e stirerie di abiti ed indumenti;  
-- per la provincia di Milano, l'accordo collettivo 19 aprile 1949, relativo al trattamento di mensa per le maestranze addette alle aziende esercenti lavanderie, stirerie, tintorie e smacchiatorie di abiti ed indumenti; l'accordo collettivo 21 maggio 1955, per il conglobamento ed il riassetto zonale delle retribuzioni dei dipendenti dalle suddette aziende;  
-- per la provincia di Bologna, l'accordo collettivo, 1 giugno 1949 per le mense aziendali, relativo ai dipendenti dalle aziende esercenti lavanderie, stirerie, tintorie e smacchiatorie di abiti ed indumenti; l'accordo retributivo 15 marzo 1955 per i lavoratori dipendenti dalle suddette aziende;  
-sono regolati da norme giuridiche uniformi alle clausole del contratto e degli accordi anzidetti, annessi al presente decreto.  
-I minimi di trattamento economico e normativo cosi' stabiliti sono inderogabili nei confronti di tutti i lavoratori dipendenti dalle imprese esercenti lavanderie, smacchiatorie, tintorie e stirerie di abiti e indumenti delle province di Milano e Bologna.  
-  
+I rapporti di lavoro costituiti per le attivita' per le quali sono stati stipulati:
+ - per le province di Milano e Bologna, il contratto collettivo di lavoro 18 marzo 1949 per le maestranze addette alle aziende esercenti lavanderie, smacchiatorie, tintorie e stirerie di abiti ed indumenti;
+ - per la provincia di Milano, l'accordo collettivo 19 aprile 1949, relativo al trattamento di mensa per le maestranze addette alle aziende esercenti lavanderie, stirerie, tintorie e smacchiatorie di abiti ed indumenti; l'accordo collettivo 21 maggio 1955, per il conglobamento ed il riassetto zonale delle retribuzioni dei dipendenti dalle suddette aziende;
+ - per la provincia di Bologna, l'accordo collettivo, 1 giugno 1949 per le mense aziendali, relativo ai dipendenti dalle aziende esercenti lavanderie, stirerie, tintorie e smacchiatorie di abiti ed indumenti; l'accordo retributivo 15 marzo 1955 per i lavoratori dipendenti dalle suddette aziende;
+sono regolati da norme giuridiche uniformi alle clausole del contratto e degli accordi anzidetti, annessi al presente decreto.
+ I minimi di trattamento economico e normativo cosi' stabiliti sono inderogabili nei confronti di tutti i lavoratori dipendenti dalle imprese esercenti lavanderie, smacchiatorie, tintorie e stirerie di abiti e indumenti delle province di Milano e Bologna.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 9 maggio 1961
+Dato a Roma, addi' 9 maggio 1961
 
-GRONCHI FANFANI - SULLO
-
-Visto, il Guardasigilli: GONELLA
-
-Registrato alla Corte dei conti, addi' 27 luglio 1961
-
-Atti del Governo, registro n. 137, foglio n. 196. - VILLA
-
-Allegati
-
- CONTRATTO COLLETTIVO DI LAVORO 18 MARZO 1949   
-PER LE MAESTRANZE ADDETTE ALLE AZIENDE ESERCENTI   
-LAVANDERIE, SMACCHIATORIE, TINTORIE E STIRERIE DI ABITI   
-ED INDUMENTI NELLE PROVINCE DI MILANO E BOLOGNA   
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=061U072600100010110001&dgu=1961-08-10&art.dataPubblicazioneGazzetta=1961-08-10&art.codiceRedazionale=061U0726)
-  
-  
-  
-  
-ACCORDO COLLETTIVO 19 APRILE 1949   
-RELATIVO AL TRATTAMENTO DI MENSA PER LE MAESTRANZE   
-ADDETTE ALLE AZIENDE ESERCENTI LAVANDERIE, STIRERIE,   
-TINTORIE E SMACCHIATORIE DI ABITI E DI INDUMENTI   
-NELLA PROVINCIA DI MILANO   
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=061U072600100010110002&dgu=1961-08-10&art.dataPubblicazioneGazzetta=1961-08-10&art.codiceRedazionale=061U0726)
-  
-  
-  
-  
-ACCORDO COLLETTIVO 21 MAGGIO 1955   
-PER IL CONGLOBAMENTO ED IL RIASSETTO ZONALE DELLE   
-RETRIBUZIONI DEI DIPENDENTI DA AZIENDE ESERCENTI   
-LAVANDERIE, STIRERIE, TINTORIE E SMACCHIATORIE DI ABITI   
-ED INDUMENTI NELLA PROVINCIA DI MILANO   
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=061U072600100010110003&dgu=1961-08-10&art.dataPubblicazioneGazzetta=1961-08-10&art.codiceRedazionale=061U0726)
-  
-  
-  
-  
-ACCORDO COLLETTIVO 1 GIUGNO 1949 RELATIVO ALLE MENSE   
-AZIENDALI PER I DIPENDENTI DALLE AZIENDE ESERCENTI   
-LAVANDERIE, STIRERIE, TINTORIE E SMACCHIATORIE DI ABITI   
-ED INDUMENTI NELLA PROVINCIA DI BOLOGNA   
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=061U072600100010110004&dgu=1961-08-10&art.dataPubblicazioneGazzetta=1961-08-10&art.codiceRedazionale=061U0726)
-  
-  
-  
-  
-ACCORDO RETRIBUTIVO 15 MARZO 1955 PER I LAVORATORI   
-DIPENDENTI DALLE AZIENDE ESERCENTI LAVANDERIE,   
-STIRERIE, TINTORIE E SMACCHIATORIE DI ABITI ED INDUMENTI   
-NELLA PROVINCIA DI BOLOGNA   
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=061U072600100010110005&dgu=1961-08-10&art.dataPubblicazioneGazzetta=1961-08-10&art.codiceRedazionale=061U0726)
-  
+GRONCHI FANFANI - SULLO Visto, il Guardasigilli: GONELLA Registrato alla Corte dei conti, addi' 27 luglio 1961 Atti del Governo, registro n. 137, foglio n. 196. - VILLA

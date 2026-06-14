@@ -1,19 +1,21 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 04 agosto 1960 n. 1193
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 1193
+data: 1960-08-04
+titolo: "Erezione in ente morale della Cassa scolastica della Scuola media statale di Grimaldi."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1960-08-04;1193
+codice_redazionale: 060U1193
+vigente: true
+---
 
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 04 agosto 1960 n. 1193
-==============================================================
-
-Erezione in ente morale della Cassa scolastica della Scuola media statale di Grimaldi.
---------------------------------------------------------------------------------------
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-1193. Decreto del Presidente della Repubblica 4 agosto 1960, col quale, sulla proposta del Ministro per la pubblica istruzione, la Cassa scolastica della Scuola media statale di Grimaldi viene eretta in ente morale e ne viene approvato lo statuto.  
-  
-Visto, il Guardasigilli: GONELLA  
-Registrato alla Corte dei conti, addi' 13 ottobre 1960  
-Atti del Governo, registro n. 130, foglio n. 87. - VILLA
+1193.
+
+Decreto del Presidente della Repubblica 4 agosto 1960, col quale, sulla proposta del Ministro per la pubblica istruzione, la Cassa scolastica della Scuola media statale di Grimaldi viene eretta in ente morale e ne viene approvato lo statuto.
+
+Visto, il Guardasigilli: GONELLA
+ Registrato alla Corte dei conti, addi' 13 ottobre 1960
+ Atti del Governo, registro n. 130, foglio n. 87. - VILLA

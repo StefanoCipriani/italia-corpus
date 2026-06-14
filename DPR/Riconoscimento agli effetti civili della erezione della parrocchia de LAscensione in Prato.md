@@ -1,19 +1,21 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 19 giugno 1978 n. 498
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 498
+data: 1978-06-19
+titolo: "Riconoscimento, agli effetti civili, della erezione della parrocchia de \"L'Ascensione\", in Prato."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1978-06-19;498
+codice_redazionale: 078U0498
+vigente: true
+---
 
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 19 giugno 1978 n. 498
-=============================================================
-
-Riconoscimento, agli effetti civili, della erezione della parrocchia de "L'Ascensione", in Prato.
--------------------------------------------------------------------------------------------------
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-498. Decreto del Presidente della Repubblica 19 giugno 1978, col quale, sulla proposta del Ministro dell'interno, viene riconosciuto, agli effetti civili, il decreto dell'ordinario diocesano di Prato 27 maggio 1973, integrato con due dichiarazioni, una di pari data e l'altra del 15 ottobre 1977, relativo all'erezione della parrocchia de "L'Ascensione", in Prato (Firenze).  
-  
-Visto, il Guardasigilli: BONIFACIO  
-Registrato alla Corte dei conti, addi' 24 agosto 1978  
-Registro n. 16 Interno, foglio n. 23
+498.
+
+Decreto del Presidente della Repubblica 19 giugno 1978, col quale, sulla proposta del Ministro dell'interno, viene riconosciuto, agli effetti civili, il decreto dell'ordinario diocesano di Prato 27 maggio 1973, integrato con due dichiarazioni, una di pari data e l'altra del 15 ottobre 1977, relativo all'erezione della parrocchia de "L'Ascensione", in Prato (Firenze).
+
+Visto, il Guardasigilli: BONIFACIO
+ Registrato alla Corte dei conti, addi' 24 agosto 1978
+ Registro n. 16 Interno, foglio n. 23

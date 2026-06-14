@@ -1,19 +1,21 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 09 maggio 1974 n. 665
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 665
+data: 1974-05-09
+titolo: "Riconoscimento della personalita' giuridica della fondazione \"Giacomo Matteotti\", in Roma."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1974-05-09;665
+codice_redazionale: 074U0665
+vigente: true
+---
 
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 09 maggio 1974 n. 665
-=============================================================
-
-Riconoscimento della personalita' giuridica della fondazione "Giacomo Matteotti", in Roma.
-------------------------------------------------------------------------------------------
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-665. Decreto del Presidente della Repubblica 9 maggio 1974, col quale, sulla proposta del Ministro per la pubblica istruzione, viene riconosciuta la personalita' giuridica ed approvato lo statuto, con modificazioni, della fondazione "Giacomo Matteotti", in Roma.  
-  
-Visto, il Guardasigilli: ZAGARI  
-Registrato alla Corte dei conti, addi' 7 dicembre 1974  
-Atti di Governo, registro n. 7, foglio n. 62. - SCIARRETTA
+665.
+
+Decreto del Presidente della Repubblica 9 maggio 1974, col quale, sulla proposta del Ministro per la pubblica istruzione, viene riconosciuta la personalita' giuridica ed approvato lo statuto, con modificazioni, della fondazione "Giacomo Matteotti", in Roma.
+
+Visto, il Guardasigilli: ZAGARI
+ Registrato alla Corte dei conti, addi' 7 dicembre 1974
+ Atti di Governo, registro n. 7, foglio n. 62. - SCIARRETTA

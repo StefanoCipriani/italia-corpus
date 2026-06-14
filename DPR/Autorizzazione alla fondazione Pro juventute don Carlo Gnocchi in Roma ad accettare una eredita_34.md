@@ -1,19 +1,22 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 18 marzo 1985 n. 201
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 192
+data: 1985-02-25
+titolo: "Autorizzazione alla fondazione \"Pro juventute don Carlo Gnocchi\", in Roma, ad accettare una eredita'."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1985-02-25;192
+codice_redazionale: 085U0192
+vigente: true
+---
 
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 18 marzo 1985 n. 201
-============================================================
-
-Autorizzazione alla fondazione "Pro juventute don Carlo Gnocchi", in Roma, ad accettare una eredita'.
------------------------------------------------------------------------------------------------------
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-201. Decreto del Presidente della Repubblica 18 marzo 1985, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la fondazione "Pro juventute don Carlo Gnocchi", in Roma, viene autorizzata ad accettare, col beneficio d'inventario, l'eredita', consistente in un appartamento sito in Milano, viale Lombardia n. 30, distinto nel nuovo catasto edilizio urbano alla partita 108292, foglio 274, particella 282, sub 3, valutato con perizia giurata L. 33.000.000 elevato dall'ufficio tecnico erariale di Milano a L. 51.000.000, disposta dalla sig.ra Russo Maria con testamento olografo 3 aprile 1979, pubblicato in data 13 giugno 1979, n. 30511/5756 di repertorio, a rogito dott. Ermanno Casero, notaio in Milano, registrato a Milano in data 28 giugno 1979 al n. 18245.  
-  
-Visto, il Guardasigilli: MARTINAZZOLI  
-Registrato alla Corte dei conti, addi' 14 maggio 1985  
-Registro n. 4 Presidenza, foglio n. 289
+192.
+
+Decreto del Presidente della Repubblica 25 febbraio 1985, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la fondazione "Pro juventute don Carlo Gnocchi", in Roma, viene autorizzata ad accettare, col beneficio d'inventario, l'eredita', consistente in un fabbricato con annesso terreno sito in Serina (Bergamo), via Cavagna n. 157, iscritto nel nuovo catasto edilizio urbano alla partita n. 5, mappale 723, valore L. 9.500.000, e in beni mobili come da inventario per un valore di L. 4.077.666. I suindicati beni, per un valore complessivo di L. 13.577.666, sono gravati di usufrutto a favore dei coniugi Gabba di Milano.
+ L'eredita' e' stata disposta dal sig. Libero Santo con testamento olografo 29 dicembre 1971, pubblicato in data 5 gennaio 1973, n. 14720 di repertorio, a rogito dott. Ferruccio Brambilla, notaio in Milano, registrato a Busto Arsizio in data 29 gennaio 1973 al n. 430. 
+ 
+Visto, il Guardasigilli: MARTINAZZOLI 
+ Registrato alla Corte dei conti, addi' 2 maggio 1985 
+ Registro n. 4 Presidenza, foglio n. 91

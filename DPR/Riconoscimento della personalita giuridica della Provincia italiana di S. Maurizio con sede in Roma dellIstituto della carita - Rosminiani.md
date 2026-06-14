@@ -1,19 +1,21 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 26 marzo 1968 n. 538
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 538
+data: 1968-03-26
+titolo: "Riconoscimento della personalita' giuridica della Provincia italiana di S. Maurizio, con sede in Roma, dell'\"Istituto della carita' - Rosminiani\"."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1968-03-26;538
+codice_redazionale: 068U0538
+vigente: true
+---
 
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 26 marzo 1968 n. 538
-============================================================
-
-Riconoscimento della personalita' giuridica della Provincia italiana di S. Maurizio, con sede in Roma, dell'"Istituto della carita' - Rosminiani".
---------------------------------------------------------------------------------------------------------------------------------------------------
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-538. Decreto del Presidente della Repubblica 26 marzo 1968, col quale, sulla proposta del Ministro per l'interno, viene riconosciuta la personalita' giuridica della Provincia italiana di S. Maurizio, con sede in Roma, dell'"Istituto della carita' - Rosminiani".  
-  
-Visto, il Guardasigilli: REALE  
-Registrato alla Corte di Conti, addi' 26 aprile 1968  
-Atti del Governo, registro n. 219, foglio n. 72. - GRECO
+538.
+
+Decreto del Presidente della Repubblica 26 marzo 1968, col quale, sulla proposta del Ministro per l'interno, viene riconosciuta la personalita' giuridica della Provincia italiana di S. Maurizio, con sede in Roma, dell'"Istituto della carita' - Rosminiani".
+
+Visto, il Guardasigilli: REALE
+ Registrato alla Corte di Conti, addi' 26 aprile 1968
+ Atti del Governo, registro n. 219, foglio n. 72. - GRECO

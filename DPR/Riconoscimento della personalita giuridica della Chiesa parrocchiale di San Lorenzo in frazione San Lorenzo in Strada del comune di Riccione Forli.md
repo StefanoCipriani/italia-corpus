@@ -1,19 +1,21 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 08 febbraio 1958 n. 388
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 388
+data: 1958-02-08
+titolo: "Riconoscimento della personalita' giuridica della Chiesa parrocchiale di San Lorenzo, in frazione San Lorenzo in Strada del comune di Riccione (Forli')."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1958-02-08;388
+codice_redazionale: 058U0388
+vigente: true
+---
 
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 08 febbraio 1958 n. 388
-===============================================================
-
-Riconoscimento della personalita' giuridica della Chiesa parrocchiale di San Lorenzo, in frazione San Lorenzo in Strada del comune di Riccione (Forli').
---------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-388. Decreto del Presidente della Repubblica 8 febbraio 1958, col quale, sulla proposta del Ministro per l'interno, viene riconosciuta la personalita' giuridica della Chiesa parrocchiale di San Lorenzo, in frazione San Lorenzo in Strada del comune di Riccione (Forli).  
-  
-Visto, il Guardasigilli: GONELLA  
-Registrato alla Corte dei conti, addi' 12 marzo 1958  
-Atti del Governo, registro n. 111, foglio n. 142. - RELLEVA
+388.
+
+Decreto del Presidente della Repubblica 8 febbraio 1958, col quale, sulla proposta del Ministro per l'interno, viene riconosciuta la personalita' giuridica della Chiesa parrocchiale di San Lorenzo, in frazione San Lorenzo in Strada del comune di Riccione (Forli).
+
+Visto, il Guardasigilli: GONELLA
+ Registrato alla Corte dei conti, addi' 12 marzo 1958
+ Atti del Governo, registro n. 111, foglio n. 142. - RELLEVA

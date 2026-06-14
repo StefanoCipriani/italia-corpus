@@ -1,19 +1,21 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 08 marzo 1977 n. 162
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 162
+data: 1977-03-08
+titolo: "Approvazione del nuovo statuto dell'associazione provinciale allevatori di Brescia."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1977-03-08;162
+codice_redazionale: 077U0162
+vigente: true
+---
 
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 08 marzo 1977 n. 162
-============================================================
-
-Approvazione del nuovo statuto dell'associazione provinciale allevatori di Brescia.
------------------------------------------------------------------------------------
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-162. Decreto del Presidente della Repubblica 8 marzo 1977, col quale, sulla proposta del Ministro per la agricoltura e le foreste, viene approvato il nuovo statuto della associazione provinciale allevatori di Brescia, eretta in ente morale con [decreto del Presidente della Repubblica 11 febbraio 1965, n. 242](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1965-02-11;242).  
-  
-Visto, il Guardasigilli: BONIFACIO  
-Registrato alla Corte dei conti, addi' 26 aprile 1977  
-Registro n. 8 Agricoltura, foglio n. 369
+162.
+
+Decreto del Presidente della Repubblica 8 marzo 1977, col quale, sulla proposta del Ministro per la agricoltura e le foreste, viene approvato il nuovo statuto della associazione provinciale allevatori di Brescia, eretta in ente morale con [decreto del Presidente della Repubblica 11 febbraio 1965, n. 242](Riconoscimento%20della%20personalita%20giuridica%20dellAssociazione%20provinciale%20allevatori%20di%20Brescia%20con%20sede%20in%20Brescia.md).
+
+Visto, il Guardasigilli: BONIFACIO
+ Registrato alla Corte dei conti, addi' 26 aprile 1977
+ Registro n. 8 Agricoltura, foglio n. 369

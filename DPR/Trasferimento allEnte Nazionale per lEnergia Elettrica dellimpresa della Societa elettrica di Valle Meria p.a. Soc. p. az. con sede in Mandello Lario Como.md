@@ -1,71 +1,52 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 ottobre 1964 n. 1369
-
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 ottobre 1964 n. 1369
-===============================================================
-
-Trasferimento all'Ente Nazionale per l'Energia Elettrica dell'impresa della "Societa' elettrica di Valle Meria p.a.", Soc. p. az., con sede in Mandello Lario (Como).
----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 1369
+data: 1964-10-30
+titolo: "Trasferimento all'Ente Nazionale per l'Energia Elettrica dell'impresa della \"Societa' elettrica di Valle Meria p.a.\", Soc. p. az., con sede in Mandello Lario (Como)."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1964-10-30;1369
+codice_redazionale: 064U1369
+vigente: true
+---
 
 IL PRESIDENTE DELLA REPUBBLICA
-------------------------------
 
-Vista la [legge 6 dicembre 1962, n. 1643](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1962-12-06;1643), sulla istituzione dell'Ente Nazionale per l'Energia Elettrica e trasferimento ad esso delle imprese esercenti le industrie elettriche;
+Vista la [legge 6 dicembre 1962, n. 1643](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1962-12-06;1643), sulla istituzione dell'Ente Nazionale per l'Energia Elettrica e trasferimento ad esso delle imprese esercenti le industrie elettriche;
 
-Visto il [decreto del Presidente della Repubblica 4 febbraio 1963, n. 36](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1963-02-04;36), contenente norme relative ai trasferimenti all'ENEL delle imprese esercenti le industrie elettriche;
+Visto il [decreto del Presidente della Repubblica 4 febbraio 1963, n. 36](Norme%20relative%20ai%20trasferimenti%20allEnel%20delle%20imprese%20esercenti%20le%20industrie%20elettriche.md), contenente norme relative ai trasferimenti all'ENEL delle imprese esercenti le industrie elettriche;
 
-Visto il [decreto del Presidente della Repubblica 25 febbraio 1963, n. 138](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1963-02-25;138), contenente norme relative agli indennizzi da corrispondere alle imprese assoggettate a trasferimento all'ENEL;
+Visto il [decreto del Presidente della Repubblica 25 febbraio 1963, n. 138](Norme%20relative%20agli%20indennizzi%20da%20corrispondere%20alle%20imprese%20assoggettate%20a%20trasferimento%20allEnel.md), contenente norme relative agli indennizzi da corrispondere alle imprese assoggettate a trasferimento all'ENEL;
 
-Vista la [legge 27 giugno 1964, n. 452](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1964-06-27;452), sul rinnovo di delega al Governo per la emanazione di norme relative all'organizzazione e al trattamento tributario dell'ENEL, e norme integrative della [legge 6 dicembre 1962, n. 1643](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1962-12-06;1643);
+Vista la [legge 27 giugno 1964, n. 452](../Atti%20normativi%20abrogati%20%28in%20originale%29/Rinnovo%20di%20delega%20al%20Governo%20per%20la%20emanazione%20di%20norme%20relative%20allorganizzazione%20e%20al%20trattamento%20tributario%20dellEnte%20nazionale%20per%20lenergia%20elettrica%20e%20norme%20integrative%20della%20legge%206%20_d24ae857abef.md), sul rinnovo di delega al Governo per la emanazione di norme relative all'organizzazione e al trattamento tributario dell'ENEL, e norme integrative della [legge 6 dicembre 1962, n. 1643](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1962-12-06;1643);
 
-Visto l'[art. 76 della Costituzione](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27~art76);
+Visto l'[art. 76 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_76);
 
-Visto l'[art. 87, quinto comma, della Costituzione](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27~art87-com5);
+Visto l'[art. 87, quinto comma, della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87-com5);
 
-Ritenuto che l'impresa appartenente alla "Societa' Elettrica di Valle Meria p. a.", Societa' per Azioni, con sede in Mandello Lario (Como), rientra tra le imprese previste dall'[art. 1 del decreto del Presidente della Repubblica 4 febbraio 1963, n. 36](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1963-02-04;36~art1);
+Ritenuto che l'impresa appartenente alla "Societa' Elettrica di Valle Meria p. a.", Societa' per Azioni, con sede in Mandello Lario (Como), rientra tra le imprese previste dall'[art. 1 del decreto del Presidente della Repubblica 4 febbraio 1963, n. 36](Norme%20relative%20ai%20trasferimenti%20allEnel%20delle%20imprese%20esercenti%20le%20industrie%20elettriche.md);
 
 Sentito il Consiglio dei Ministri;
 
-Sulla
------
+Sulla proposta del Ministro per l'industria ed il commercio; Decreta:
 
-proposta del Ministro per l'industria ed il commercio; Decreta:
+## Art. 1.
 
-Art. 1
-------
+L'impresa della "Societa' Elettrica di Valle Meria p.a.", Soc. p. az., con sede in Mandello Lario (Como), e' trasferita all'Ente Nazionale per l'Energia Elettrica con gli effetti previsti dall'[art. 2 del decreto del Presidente della Repubblica 4 febbraio 1963, n. 36](Norme%20relative%20ai%20trasferimenti%20allEnel%20delle%20imprese%20esercenti%20le%20industrie%20elettriche.md).
+ La consegna dei beni all'Ente Nazionale per l'Energia Elettrica e' effettuata secondo le disposizioni del [decreto del Presidente della Repubblica 4 febbraio 1963, n. 36](Norme%20relative%20ai%20trasferimenti%20allEnel%20delle%20imprese%20esercenti%20le%20industrie%20elettriche.md).
 
-  
-L'impresa della "Societa' Elettrica di Valle Meria p.a.", Soc. p. az., con sede in Mandello Lario (Como), e' trasferita all'Ente Nazionale per l'Energia Elettrica con gli effetti previsti dall'[art. 2 del decreto del Presidente della Repubblica 4 febbraio 1963, n. 36](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1963-02-04;36~art2).  
-La consegna dei beni all'Ente Nazionale per l'Energia Elettrica e' effettuata secondo le disposizioni del [decreto del Presidente della Repubblica 4 febbraio 1963, n. 36](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1963-02-04;36).  
+## Art. 2.
 
-Art. 2
-------
+L'indennizzo e' determinato e corrisposto dall'Ente Nazionale per l'Energia Elettrica secondo le disposizioni della [legge 6 dicembre 1962, n. 1643](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1962-12-06;1643), e del [decreto del Presidente della Repubblica 25 febbraio 1963, n. 138](Norme%20relative%20agli%20indennizzi%20da%20corrispondere%20alle%20imprese%20assoggettate%20a%20trasferimento%20allEnel.md).
 
-  
-L'indennizzo e' determinato e corrisposto dall'Ente Nazionale per l'Energia Elettrica secondo le disposizioni della [legge 6 dicembre 1962, n. 1643](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1962-12-06;1643), e del [decreto del Presidente della Repubblica 25 febbraio 1963, n. 138](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1963-02-25;138).  
+## Art. 3.
 
-Art. 3
-------
+L'Ente Nazionale per l'Energia Elettrica provvede alla restituzione alla "Societa' Elettrica di Valle Meria p.a.", Soc. p. az., con sede in Mandello Lario (Como), dei beni eventualmente non ritenuti, secondo le disposizioni contenute nell'[art. 4 della legge 6 dicembre 1962, n. 1643](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1962-12-06;1643#art_4), e nell'[art. 3 del decreto del Presidente della Repubblica 4 febbraio 1963, n. 36](Norme%20relative%20ai%20trasferimenti%20allEnel%20delle%20imprese%20esercenti%20le%20industrie%20elettriche.md).
 
-  
-L'Ente Nazionale per l'Energia Elettrica provvede alla restituzione alla "Societa' Elettrica di Valle Meria p.a.", Soc. p. az., con sede in Mandello Lario (Como), dei beni eventualmente non ritenuti, secondo le disposizioni contenute nell'[art. 4 della legge 6 dicembre 1962, n. 1643](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1962-12-06;1643~art4), e nell'[art. 3 del decreto del Presidente della Repubblica 4 febbraio 1963, n. 36](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1963-02-04;36~art3).  
+## Art. 4.
 
-Art. 4
-------
-
-  
-Il presente decreto ha effetto dalla data di pubblicazione nella Gazzetta Ufficiale della Repubblica italiana.  
-  
+Il presente decreto ha effetto dalla data di pubblicazione nella Gazzetta Ufficiale della Repubblica italiana.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 30 ottobre 1964
+Dato a Roma, addi' 30 ottobre 1964
 
-Per il Presidente della Repubblica Il Presidente del Senato MERZAGORA MORO - MEDICI
-
-Visto, il Guardasigilli: REALE
-
-Registrato alla Corte dei conti, addi' 2 dicembre 1964
-
-Atti del Governo, registro n. 188, foglio n. 163. - VILLA
+Per il Presidente della Repubblica Il Presidente del Senato MERZAGORA MORO - MEDICI Visto, il Guardasigilli: REALE Registrato alla Corte dei conti, addi' 2 dicembre 1964 Atti del Governo, registro n. 188, foglio n. 163. - VILLA

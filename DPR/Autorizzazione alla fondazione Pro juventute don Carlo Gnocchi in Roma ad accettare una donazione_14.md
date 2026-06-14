@@ -1,19 +1,21 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 03 dicembre 1986 n. 981
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 1028
+data: 1986-10-29
+titolo: "Autorizzazione alla fondazione \"Pro juventute don Carlo Gnocchi\", in Roma, ad accettare una donazione."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1986-10-29;1028
+codice_redazionale: 086U1028
+vigente: true
+---
 
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 03 dicembre 1986 n. 981
-===============================================================
-
-Autorizzazione alla fondazione "Pro juventute don Carlo Gnocchi", in Roma, ad accettare una donazione.
-------------------------------------------------------------------------------------------------------
-
-Art. 1
-------
+## Art. 1.
 
 n.
 
-981. Decreto del Presidente della Repubblica 3 dicembre 1986, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la fondazione "Pro juventute don Carlo Gnocchi", in Roma, viene autorizzata ad accettare la donazione, consistente in un appezzamento di terreno sito nel comune di Cinisello Balsamo, distinto nel nuovo catasto terreni alla partita 4013, valore peritato L. 1.500.000, elevato dall'ufficio tecnico erariale di Milano a L. 3.700.000, disposta dal sig. Pavesi Natale con atto 15 ottobre 1982, n. 7804/1224 di repertorio, a rogito dott. Ulderico Brambilla, notaio in Milano, registrato a Milano in data 22 ottobre 1982 al n. 22289.  
-  
-Visto, il Guardasigilli: ROGNONI  
-Registrato alla Corte dei conti, addi' 14 gennaio 1987  
-Registro n. 1 Presidenza, foglio n. 179
+1028.
+
+Decreto del Presidente della Repubblica 29 ottobre 1986, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la fondazione "Pro juventute don Carlo Gnocchi", in Roma, viene autorizzata ad accettare la donazione, consistente nella quota di 1/2 di un appartamento sito in Roma, via Tiburtina, 208, distinto nel nuovo catasto edilizio urbano alla partita n. 199888, foglio 611, mappale 75 sub 38, del valore attribuito con perizia di parte L. 4.000.000, elevato dall'ufficio tecnico erariale di Roma a L. 21.000.000, quota 1/2 = L. 10.500.000, disposta dalla signora Poddesu Arvida o Elvira con atto 8 aprile 1980, n. 16202 di repertorio e n. 5883 di raccolta, a rogito dott. Violo Osvaldo, notaio in Roma, registrato a Roma l'11 aprile 1980.
+
+Visto, il Guardasigilli: ROGNONI
+ Registrato alla Corte dei conti, addi' 26 febbraio 1987
+ Registro n. 4 Presidenza, foglio n. 114

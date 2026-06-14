@@ -1,19 +1,21 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 11 settembre 1974 n. 754
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 754
+data: 1974-09-11
+titolo: "Modificazioni allo statuto dell'\"Associazione Camphill per l'educazione e l'integrazione dei ritardati mentali\", in Milano."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1974-09-11;754
+codice_redazionale: 074U0754
+vigente: true
+---
 
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 11 settembre 1974 n. 754
-================================================================
-
-Modificazioni allo statuto dell'"Associazione Camphill per l'educazione e l'integrazione dei ritardati mentali", in Milano.
----------------------------------------------------------------------------------------------------------------------------
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-754. Decreto del Presidente della Repubblica 11 settembre 1974, col quale, sulla proposta del Ministro per la sanita', vengono approvate le modificazioni agli articoli 1, 4 e 14 dello statuto dell'"Associazione Camphill per l'educazione e l'integrazione dei ritardati mentali", in Milano, approvato con [decreto del Presidente della Repubblica 25 settembre 1970, n. 1377](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1970-09-25;1377).  
-  
-Visto, il Guardasigilli: ZAGARI  
-Registrato alla Corte dei conti, addi' 27 gennaio 1975  
-Atti di Governo, registro n. 8, foglio n. 28
+754.
+
+Decreto del Presidente della Repubblica 11 settembre 1974, col quale, sulla proposta del Ministro per la sanita', vengono approvate le modificazioni agli articoli 1, 4 e 14 dello statuto dell'"Associazione Camphill per l'educazione e l'integrazione dei ritardati mentali", in Milano, approvato con [decreto del Presidente della Repubblica 25 settembre 1970, n. 1377](Riconoscimento%20della%20personalita%20giuridica%20dellassociazione%20Camphill%20per%20leducazione%20e%20lintegrazione%20dei%20ritardati%20mentali%20con%20sede%20in%20Milano.md).
+
+Visto, il Guardasigilli: ZAGARI
+ Registrato alla Corte dei conti, addi' 27 gennaio 1975
+ Atti di Governo, registro n. 8, foglio n. 28

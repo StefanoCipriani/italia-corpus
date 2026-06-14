@@ -1,19 +1,21 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 07 aprile 1959 n. 1258
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 1258
+data: 1959-04-07
+titolo: "Approvazione del nuovo statuto dell'Accademia medica, con sede in Roma."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1959-04-07;1258
+codice_redazionale: 059U1258
+vigente: true
+---
 
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 07 aprile 1959 n. 1258
-==============================================================
-
-Approvazione del nuovo statuto dell'Accademia medica, con sede in Roma.
------------------------------------------------------------------------
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-1258. Decreto del Presidente della Repubblica 7 aprile 1959, col quale, sulla proposta del Ministro per la pubblica istruzione, viene approvato il nuovo statuto dell'Accademia medica, con sede in Roma.  
-  
-Visto, il Guardasigilli: GONELLA  
-Registrato alla Corte dei conti, addi' 3 febbraio 1960  
-Atti del Governo, registro n. 124, foglio n. 27. - VILLA
+1258.
+
+Decreto del Presidente della Repubblica 7 aprile 1959, col quale, sulla proposta del Ministro per la pubblica istruzione, viene approvato il nuovo statuto dell'Accademia medica, con sede in Roma.
+
+Visto, il Guardasigilli: GONELLA
+ Registrato alla Corte dei conti, addi' 3 febbraio 1960
+ Atti del Governo, registro n. 124, foglio n. 27. - VILLA

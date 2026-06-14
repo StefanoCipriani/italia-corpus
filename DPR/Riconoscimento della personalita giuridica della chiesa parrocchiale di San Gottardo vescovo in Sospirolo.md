@@ -1,19 +1,21 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 07 luglio 1981 n. 700
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 700
+data: 1981-07-07
+titolo: "Riconoscimento della personalita' giuridica della chiesa parrocchiale di San Gottardo vescovo, in Sospirolo."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1981-07-07;700
+codice_redazionale: 081U0700
+vigente: true
+---
 
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 07 luglio 1981 n. 700
-=============================================================
-
-Riconoscimento della personalita' giuridica della chiesa parrocchiale di San Gottardo vescovo, in Sospirolo.
-------------------------------------------------------------------------------------------------------------
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-700. Decreto del Presidente della Repubblica 7 luglio 1981, col quale, sulla proposta del Ministro dell'interno, viene riconosciuta la personalita' giuridica della chiesa parrocchiale di San Gottardo vescovo, in frazione S. Gottardo del comune di Sospirolo (Belluno).  
-  
-Visto, il Guardasigilli: DARIDA  
-Registrato alla Corte dei conti, addi' 28 novembre 1981.  
-Registro n. 18 Interno, foglio n. 143
+700.
+
+Decreto del Presidente della Repubblica 7 luglio 1981, col quale, sulla proposta del Ministro dell'interno, viene riconosciuta la personalita' giuridica della chiesa parrocchiale di San Gottardo vescovo, in frazione S. Gottardo del comune di Sospirolo (Belluno).
+
+Visto, il Guardasigilli: DARIDA
+ Registrato alla Corte dei conti, addi' 28 novembre 1981.
+ Registro n. 18 Interno, foglio n. 143

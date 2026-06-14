@@ -1,19 +1,21 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 20 settembre 1977 n. 858
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 858
+data: 1977-09-20
+titolo: "Riconoscimento della personalita' giuridica della chiesa parrocchiale di Santa Maria Assunta, in Sospirolo."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1977-09-20;858
+codice_redazionale: 077U0858
+vigente: true
+---
 
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 20 settembre 1977 n. 858
-================================================================
-
-Riconoscimento della personalita' giuridica della chiesa parrocchiale di Santa Maria Assunta, in Sospirolo.
------------------------------------------------------------------------------------------------------------
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-858. Decreto del Presidente della Repubblica 20 settembre 1977, col quale, sulla proposta del Ministro per l'interno, viene riconosciuta la personalita' giuridica della chiesa parrocchiale di Santa Maria Assunta, in frazione Gron del comune di Sospirolo (Belluno).  
-  
-Visto, il Guardasigilli: BONIFACIO  
-Registrato alla Corte dei conti, addi' 18 novembre 1977  
-Registro n. 24 Interno, foglio n. 53
+858.
+
+Decreto del Presidente della Repubblica 20 settembre 1977, col quale, sulla proposta del Ministro per l'interno, viene riconosciuta la personalita' giuridica della chiesa parrocchiale di Santa Maria Assunta, in frazione Gron del comune di Sospirolo (Belluno).
+
+Visto, il Guardasigilli: BONIFACIO
+ Registrato alla Corte dei conti, addi' 18 novembre 1977
+ Registro n. 24 Interno, foglio n. 53

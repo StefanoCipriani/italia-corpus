@@ -1,20 +1,20 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 gennaio 1962 n. 1008
-
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 gennaio 1962 n. 1008
-===============================================================
-
-Norme sul trattamento economico e normativo dei presidenti delle cooperative di produzione e lavoro, esercenti l'industria edilizia e bracciantile, della provincia di Reggio Emilia.
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 1008
+data: 1962-01-02
+titolo: "Norme sul trattamento economico e normativo dei presidenti delle cooperative di produzione e lavoro, esercenti l'industria edilizia e bracciantile, della provincia di Reggio Emilia."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1962-01-02;1008
+codice_redazionale: 062U1008
+vigente: true
+---
 
 IL PRESIDENTE DELLA REPUBBLICA
-------------------------------
 
-Visto l'[art. 87, comma quinto, nella Costituzione](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27~art87-com5);
+Visto l'[art. 87, comma quinto, nella Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87-com5);
 
-Vista la [legge 14 luglio 1959, n. 741](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1959-07-14;741), che delega il Governo ad emanare norme transitorie per garantire minimi di trattamento economico e normativo ai lavoratori;
+Vista la [legge 14 luglio 1959, n. 741](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1959-07-14;741), che delega il Governo ad emanare norme transitorie per garantire minimi di trattamento economico e normativo ai lavoratori;
 
-Vista la [legge 1 ottobre 1960, n. 1027](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1960-10-01;1027), recante modifiche alla predetta [legge 14 luglio 1959, n. 741](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1959-07-14;741);
+Vista la [legge 1 ottobre 1960, n. 1027](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1960-10-01;1027), recante modifiche alla predetta [legge 14 luglio 1959, n. 741](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1959-07-14;741);
 
 Visto, per la provincia di Reggio Emilia, l'accordo collettivo 27 marzo 1957, relativo ai presidenti delle cooperative di produzione e lavoro esercenti l'industria edilizia e bracciantile, stipulato tra la Federazione Provinciale delle Cooperative - Settore Produzione e Lavoro e la Camera Confederale del Lavoro - F.I.L.L.E.A. -, la Confederazione italiana Sindacati Lavoratori - F.I.L.C.A. -, l'Unione italiana Lavoratori - F.E.N.E.A. -;
 
@@ -22,38 +22,15 @@ Vista la pubblicazione nell'apposito Bollettino, n. 13 della provincia di Reggio
 
 Sentito il Consiglio dei Ministri;
 
-Sulla
------
+Sulla proposta del Ministro per il lavoro e la previdenza sociale; Decreta:
 
-proposta del Ministro per il lavoro e la previdenza sociale; Decreta:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-I rapporti di lavoro costituiti per le attivita' per le quali e' stato stipulato, per la provincia di Reggio Emilia, l'accordo collettivo 27 marzo 1957, relativo ai presidenti delle cooperative di produzione e lavoro, esercenti l'industria edilizia e bracciantile, sono regolati da norme giuridiche uniformi alle clausole dell'accordo collettivo anzidetto, annesso al presente decreto.  
-I minimi di trattamento economico e normativo cosi' stabiliti sono inderogabili nei confronti di tutti i presidenti delle cooperative di produzione e lavoro, esercenti l'industria edilizia e bracciantile, della provincia di Reggio Emilia.  
-  
+I rapporti di lavoro costituiti per le attivita' per le quali e' stato stipulato, per la provincia di Reggio Emilia, l'accordo collettivo 27 marzo 1957, relativo ai presidenti delle cooperative di produzione e lavoro, esercenti l'industria edilizia e bracciantile, sono regolati da norme giuridiche uniformi alle clausole dell'accordo collettivo anzidetto, annesso al presente decreto.
+ I minimi di trattamento economico e normativo cosi' stabiliti sono inderogabili nei confronti di tutti i presidenti delle cooperative di produzione e lavoro, esercenti l'industria edilizia e bracciantile, della provincia di Reggio Emilia.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e del decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 2 gennaio 1962
+Dato a Roma, addi' 2 gennaio 1962
 
-GRONCHI FANFANI - SULLO
-
-Visto, il Guardasigilli: BOSCO
-
-Registrato alla Corte dei conti, addi' 11 luglio 1962
-
-Atti del Governo, registro n. 153, foglio n. 24 - VILLA
-
-Accordo
-
-ACCORDO COLLETTIVO 27 MARZO 1957, PER I PRESIDENTI DELLE COOPERATIVE DI PRODUZIONE E LAVORO, ESERCENTI L'INDUSTRIA EDILIZIA E BRACCIANTILE, DELLA PROVINCIA DI REGGIO EMILIA.   
-  
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=062U100800100010110001&dgu=1962-08-02&art.dataPubblicazioneGazzetta=1962-08-02&art.codiceRedazionale=062U1008)
-  
+GRONCHI FANFANI - SULLO Visto, il Guardasigilli: BOSCO Registrato alla Corte dei conti, addi' 11 luglio 1962 Atti del Governo, registro n. 153, foglio n. 24 - VILLA

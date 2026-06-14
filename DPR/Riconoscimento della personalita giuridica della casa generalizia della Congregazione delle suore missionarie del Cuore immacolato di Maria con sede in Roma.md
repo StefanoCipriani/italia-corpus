@@ -1,19 +1,21 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 14 giugno 1971 n. 760
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 760
+data: 1971-06-14
+titolo: "Riconoscimento della personalita' giuridica della casa generalizia della Congregazione delle suore missionarie del Cuore immacolato di Maria, con sede in Roma."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1971-06-14;760
+codice_redazionale: 071U0760
+vigente: true
+---
 
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 14 giugno 1971 n. 760
-=============================================================
-
-Riconoscimento della personalita' giuridica della casa generalizia della Congregazione delle suore missionarie del Cuore immacolato di Maria, con sede in Roma.
----------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-760. Decreto del Presidente della Repubblica 14 giugno 1971, col quale, sulla proposta del Ministro per l'interno, viene riconosciuta la personalita' giuridica della casa generalizia della Congregazione delle suore missionarie del Cuore Immacolato di Maria, con sede in Roma.  
-  
-Visto, il Guardasigilli: COLOMBO  
-Registrato alla Corte dei conti, addi' 3 settembre 1971  
-Atti del Governo, registro n. 244, foglio n. 83. - PASQUALUCCI
+760.
+
+Decreto del Presidente della Repubblica 14 giugno 1971, col quale, sulla proposta del Ministro per l'interno, viene riconosciuta la personalita' giuridica della casa generalizia della Congregazione delle suore missionarie del Cuore Immacolato di Maria, con sede in Roma.
+
+Visto, il Guardasigilli: COLOMBO
+ Registrato alla Corte dei conti, addi' 3 settembre 1971
+ Atti del Governo, registro n. 244, foglio n. 83. - PASQUALUCCI

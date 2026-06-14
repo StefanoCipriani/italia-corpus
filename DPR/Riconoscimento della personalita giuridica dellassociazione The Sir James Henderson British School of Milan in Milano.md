@@ -1,19 +1,21 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 03 giugno 1980 n. 1001
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 1001
+data: 1980-06-03
+titolo: "Riconoscimento della personalita' giuridica dell'associazione \"The Sir James Henderson British School of Milan\", in Milano."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1980-06-03;1001
+codice_redazionale: 080U1001
+vigente: true
+---
 
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 03 giugno 1980 n. 1001
-==============================================================
-
-Riconoscimento della personalita' giuridica dell'associazione "The Sir James Henderson British School of Milan", in Milano.
----------------------------------------------------------------------------------------------------------------------------
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-1001. Decreto del Presidente della Repubblica 3 giugno 1980, col quale, sulla proposta del Ministro della pubblica istruzione, viene riconosciuta la personalita' giuridica ed approvato lo statuto dell'associazione "The Sir James Henderson British School of Milan", in Milano.  
-  
-Visto, il Guardasigilli: SARTI  
-Registrato alla Corte dei conti, addi' 21 gennaio 1981  
-Registro n. 4 Istruzione, foglio n. 240.
+1001.
+
+Decreto del Presidente della Repubblica 3 giugno 1980, col quale, sulla proposta del Ministro della pubblica istruzione, viene riconosciuta la personalita' giuridica ed approvato lo statuto dell'associazione "The Sir James Henderson British School of Milan", in Milano.
+
+Visto, il Guardasigilli: SARTI
+ Registrato alla Corte dei conti, addi' 21 gennaio 1981
+ Registro n. 4 Istruzione, foglio n. 240.

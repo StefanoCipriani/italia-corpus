@@ -1,18 +1,20 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 16 agosto 1948 n. 1234
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 1234
+data: 1948-08-16
+titolo: "Riconoscimento, agli effetti civili, della erezione della parrocchia di Sant'Isidoro Agricola, in localita' Preselle del comune di Scansano (Grosseto)."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1948-08-16;1234
+codice_redazionale: 048U1234
+vigente: true
+---
 
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 16 agosto 1948 n. 1234
-==============================================================
-
-Riconoscimento, agli effetti civili, della erezione della parrocchia di Sant'Isidoro Agricola, in localita' Preselle del comune di Scansano (Grosseto).
--------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-1234. Decreto del Presidente della Repubblica 16 agosto 1948, col quale, sulla proposta del Ministro per l'interno, viene riconosciuto, agli effetti civili, il decreto del Vescovo di Sovana e Pitigliano in data 6 aprile 1947, relativo all'erezione della parrocchia di Sant'Isidoro Agricola, in localita' Preselle del comune di Scansano (Grosseto).  
-  
-Visto, il Guardasigilli: GRASSI  
-Registrato alla Corte, dei conti addi' 11 ottobre 1948
+1234.
+
+Decreto del Presidente della Repubblica 16 agosto 1948, col quale, sulla proposta del Ministro per l'interno, viene riconosciuto, agli effetti civili, il decreto del Vescovo di Sovana e Pitigliano in data 6 aprile 1947, relativo all'erezione della parrocchia di Sant'Isidoro Agricola, in localita' Preselle del comune di Scansano (Grosseto).
+
+Visto, il Guardasigilli: GRASSI
+ Registrato alla Corte, dei conti addi' 11 ottobre 1948

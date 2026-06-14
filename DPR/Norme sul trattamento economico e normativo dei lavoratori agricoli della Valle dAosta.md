@@ -1,20 +1,20 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 26 dicembre 1961 n. 1822
-
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 26 dicembre 1961 n. 1822
-================================================================
-
-Norme sul trattamento economico e normativo dei lavoratori agricoli della Valle d'Aosta.
-----------------------------------------------------------------------------------------
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 1822
+data: 1961-12-26
+titolo: "Norme sul trattamento economico e normativo dei lavoratori agricoli della Valle d'Aosta."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1961-12-26;1822
+codice_redazionale: 061U1822
+vigente: true
+---
 
 IL PRESIDENTE DELLA REPUBBLICA
-------------------------------
 
-Visto l'[art. 87, comma quinto, della Costituzione](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27~art87-com5);
+Visto l'[art. 87, comma quinto, della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87-com5);
 
-Vista la [legge 14 luglio 1959, n. 741](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1959-07-14;741), che delega il Governo ad emanare norme transitorie per garantire minimi di trattamento economico e normativo ai lavoratori;
+Vista la [legge 14 luglio 1959, n. 741](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1959-07-14;741), che delega il Governo ad emanare norme transitorie per garantire minimi di trattamento economico e normativo ai lavoratori;
 
-Vista la [legge 10 ottobre 1960, n. 1027](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1960-10-10;1027), recante modifiche alla predetta [legge 14 luglio 1959, n. 741](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1959-07-14;741);
+Vista la [legge 10 ottobre 1960, n. 1027](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1960-10-10;1027), recante modifiche alla predetta [legge 14 luglio 1959, n. 741](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1959-07-14;741);
 
 Visto l'accordo nazionale di scala mobile 24 settembre 1952, per i salari agricoli;
 
@@ -28,37 +28,15 @@ Vista la pubblicazione nell'apposito Bollettino, n. 2 di Aosta, in data 6 settem
 
 Sentito il Consiglio dei Ministri;
 
-Sulla
------
+Sulla proposta del Ministro per il lavoro e la previdenza sociale; Decreta:
 
-proposta del Ministro per il lavoro e la previdenza sociale; Decreta:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-I rapporti di lavoro costituiti per le attivita' per il quali e' stato stipulato il contratto collettivo 13 marzo 1959, per i salariati e braccianti agricoli della Valle d'Aosta, sono regolati da norme giuridiche uniforme alle clausole del contratto anzidetto, annesso al presente decreto, purche' compatibili con quelle concernenti la disciplina, nazionale di categoria.  
-I minimi di trattamento economico e normativo cosi' stabiliti sono inderogabili nei confronti di tutti i lavoratori considerati nel contratto di cui al 1° comma dipendenti dalle imprese agricole della Valle d'Aosta  
-  
+I rapporti di lavoro costituiti per le attivita' per il quali e' stato stipulato il contratto collettivo 13 marzo 1959, per i salariati e braccianti agricoli della Valle d'Aosta, sono regolati da norme giuridiche uniforme alle clausole del contratto anzidetto, annesso al presente decreto, purche' compatibili con quelle concernenti la disciplina, nazionale di categoria.
+ I minimi di trattamento economico e normativo cosi' stabiliti sono inderogabili nei confronti di tutti i lavoratori considerati nel contratto di cui al 1° comma dipendenti dalle imprese agricole della Valle d'Aosta
 
 Il presente decreto, munito del sigillo dello Stato sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo i chiunque spetti di osservarlo e di farlo osservare.
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 26 dicembre 1961
+Dato a Roma, addi' 26 dicembre 1961
 
-GRONCHI FANFANI - SULLO
-
-Visto, il Guardasigilli: BOSCO
-
-Registrato alla Corte dei conti, addi' 9 maggio 1962
-
-Atti del Governo, registro n. 146, foglio n. 49. - VILLA
-
-Contratto
-
-CONTRATTO INTEGRATIVO REGIONALE 13 MARZO 1959 PER I SALARIATI E BRACCIANTI AGRICOLI DELLA VALLE D'AOSTA.   
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=061U182200100010110001&dgu=1962-06-05&art.dataPubblicazioneGazzetta=1962-06-05&art.codiceRedazionale=061U1822)
-  
+GRONCHI FANFANI - SULLO Visto, il Guardasigilli: BOSCO Registrato alla Corte dei conti, addi' 9 maggio 1962 Atti del Governo, registro n. 146, foglio n. 49. - VILLA

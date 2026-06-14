@@ -1,93 +1,77 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 08 gennaio 1979 n. 32
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 32
+data: 1979-01-08
+titolo: "((Norme di applicazione per i brevetti europei e per i brevetti comunitari))."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1979-01-08;32
+codice_redazionale: 079U0032
+vigente: true
+---
 
+## Art. 1.
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 08 gennaio 1979 n. 32
-=============================================================
+((PROVVEDIMENTO ABROGATO DAL D. LGS. 10 FEBBRAIO 2005, N. 30))
 
-((Norme di applicazione per i brevetti europei e per i brevetti comunitari)).
------------------------------------------------------------------------------
+## Art. 2.
 
-Art. 1
-------
+((PROVVEDIMENTO ABROGATO DAL D. LGS. 10 FEBBRAIO 2005, N. 30))
 
-((PROVVEDIMENTO ABROGATO DAL [D. LGS. 10 FEBBRAIO 2005, N. 30](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-02-10;30)))
+## Art. 3.
 
-Art. 2
-------
+((PROVVEDIMENTO ABROGATO DAL D. LGS. 10 FEBBRAIO 2005, N. 30))
 
-((PROVVEDIMENTO ABROGATO DAL [D. LGS. 10 FEBBRAIO 2005, N. 30](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-02-10;30)))
+## Art. 3-bis.
 
-Art. 3
-------
+((PROVVEDIMENTO ABROGATO DAL D. LGS. 10 FEBBRAIO 2005, N. 30))
 
-((PROVVEDIMENTO ABROGATO DAL [D. LGS. 10 FEBBRAIO 2005, N. 30](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-02-10;30)))
+## Art. 4.
 
-Art. 3-bis
-----------
+((PROVVEDIMENTO ABROGATO DAL D. LGS. 10 FEBBRAIO 2005, N. 30))
 
-((PROVVEDIMENTO ABROGATO DAL [D. LGS. 10 FEBBRAIO 2005, N. 30](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-02-10;30)))
+## Art. 5.
 
-Art. 4
-------
+((PROVVEDIMENTO ABROGATO DAL D. LGS. 10 FEBBRAIO 2005, N. 30))
 
-((PROVVEDIMENTO ABROGATO DAL [D. LGS. 10 FEBBRAIO 2005, N. 30](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-02-10;30)))
+## Art. 6.
 
-Art. 5
-------
+((PROVVEDIMENTO ABROGATO DAL D. LGS. 10 FEBBRAIO 2005, N. 30))
 
-((PROVVEDIMENTO ABROGATO DAL [D. LGS. 10 FEBBRAIO 2005, N. 30](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-02-10;30)))
+## Art. 7.
 
-Art. 6
-------
+((PROVVEDIMENTO ABROGATO DAL D. LGS. 10 FEBBRAIO 2005, N. 30))
 
-((PROVVEDIMENTO ABROGATO DAL [D. LGS. 10 FEBBRAIO 2005, N. 30](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-02-10;30)))
+## Art. 8.
 
-Art. 7
-------
+((PROVVEDIMENTO ABROGATO DAL D. LGS. 10 FEBBRAIO 2005, N. 30))
 
-((PROVVEDIMENTO ABROGATO DAL [D. LGS. 10 FEBBRAIO 2005, N. 30](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-02-10;30)))
+## Art. 9.
 
-Art. 8
-------
+((PROVVEDIMENTO ABROGATO DAL D. LGS. 10 FEBBRAIO 2005, N. 30))
 
-((PROVVEDIMENTO ABROGATO DAL [D. LGS. 10 FEBBRAIO 2005, N. 30](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-02-10;30)))
+## Art. 10.
 
-Art. 9
-------
+((PROVVEDIMENTO ABROGATO DAL D. LGS. 10 FEBBRAIO 2005, N. 30))
 
-((PROVVEDIMENTO ABROGATO DAL [D. LGS. 10 FEBBRAIO 2005, N. 30](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-02-10;30)))
+## Art. 11.
 
-Art. 10
--------
+((PROVVEDIMENTO ABROGATO DAL D. LGS. 10 FEBBRAIO 2005, N. 30))
 
-((PROVVEDIMENTO ABROGATO DAL [D. LGS. 10 FEBBRAIO 2005, N. 30](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-02-10;30)))
+## Art. 12.
 
-Art. 11
--------
+((PROVVEDIMENTO ABROGATO DAL D. LGS. 10 FEBBRAIO 2005, N. 30))
 
-((PROVVEDIMENTO ABROGATO DAL [D. LGS. 10 FEBBRAIO 2005, N. 30](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-02-10;30)))
+## Art. 13.
 
-Art. 12
--------
+((PROVVEDIMENTO ABROGATO DAL D. LGS. 10 FEBBRAIO 2005, N. 30))
 
-((PROVVEDIMENTO ABROGATO DAL [D. LGS. 10 FEBBRAIO 2005, N. 30](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-02-10;30)))
+## Art. 14.
 
-Art. 13
--------
+((PROVVEDIMENTO ABROGATO DAL D. LGS. 10 FEBBRAIO 2005, N. 30))
 
-((PROVVEDIMENTO ABROGATO DAL [D. LGS. 10 FEBBRAIO 2005, N. 30](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-02-10;30)))
+## Art. 14-bis.
 
-Art. 14
--------
+((PROVVEDIMENTO ABROGATO DAL D. LGS. 10 FEBBRAIO 2005, N. 30))
 
-((PROVVEDIMENTO ABROGATO DAL [D. LGS. 10 FEBBRAIO 2005, N. 30](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-02-10;30)))
+## Art. 15.
 
-Art. 14-bis
------------
-
-((PROVVEDIMENTO ABROGATO DAL [D. LGS. 10 FEBBRAIO 2005, N. 30](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-02-10;30)))
-
-Art. 15
--------
-
-((PROVVEDIMENTO ABROGATO DAL [D. LGS. 10 FEBBRAIO 2005, N. 30](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-02-10;30)))
+((PROVVEDIMENTO ABROGATO DAL D. LGS. 10 FEBBRAIO 2005, N. 30))

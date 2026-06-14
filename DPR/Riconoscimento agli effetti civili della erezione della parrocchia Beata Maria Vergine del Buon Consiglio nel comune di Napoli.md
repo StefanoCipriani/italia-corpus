@@ -1,19 +1,21 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 11 agosto 1968 n. 1012
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 1012
+data: 1968-08-11
+titolo: "Riconoscimento, agli effetti civili, della erezione della parrocchia \"Beata Maria Vergine del Buon Consiglio\", nel comune di Napoli."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1968-08-11;1012
+codice_redazionale: 068U1012
+vigente: true
+---
 
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 11 agosto 1968 n. 1012
-==============================================================
-
-Riconoscimento, agli effetti civili, della erezione della parrocchia "Beata Maria Vergine del Buon Consiglio", nel comune di Napoli.
-------------------------------------------------------------------------------------------------------------------------------------
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-1012. Decreto del Presidente della Repubblica 11 agosto 1968, col quale, sulla proposta del Ministro per l'interno, viene riconosciuto, agli effetti civili, il decreto dell'Amministratore apostolico di Pozzuoli in data 1 novembre 1964, integrato con dichiarazioni rispettivamente del 19 settembre 1966 e del 5 febbraio 1968 relativo alla erezione della parrocchia "Beata Maria Vergine del Buon Consiglio", nel rione Lauro di Napoli.  
-  
-Visto, il Guardasigilli: GONELLA  
-Registrato alla Corte dei conti, addi' 28 settembre 1968  
-Atti del Governo, registro n. 222, foglio n. 206. - GRECO
+1012.
+
+Decreto del Presidente della Repubblica 11 agosto 1968, col quale, sulla proposta del Ministro per l'interno, viene riconosciuto, agli effetti civili, il decreto dell'Amministratore apostolico di Pozzuoli in data 1 novembre 1964, integrato con dichiarazioni rispettivamente del 19 settembre 1966 e del 5 febbraio 1968 relativo alla erezione della parrocchia "Beata Maria Vergine del Buon Consiglio", nel rione Lauro di Napoli.
+
+Visto, il Guardasigilli: GONELLA
+ Registrato alla Corte dei conti, addi' 28 settembre 1968
+ Atti del Governo, registro n. 222, foglio n. 206. - GRECO

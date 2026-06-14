@@ -1,18 +1,20 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 febbraio 1950 n. 605
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 605
+data: 1950-02-02
+titolo: "Erezione in ente morale del \"Pio Istituto Ricci\", con sede nel comune di Mortara (Pavia)."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1950-02-02;605
+codice_redazionale: 050U0605
+vigente: true
+---
 
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 febbraio 1950 n. 605
-===============================================================
-
-Erezione in ente morale del "Pio Istituto Ricci", con sede nel comune di Mortara (Pavia).
------------------------------------------------------------------------------------------
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-605. Decreto del Presidente, della Repubblica 2 febbraio 1950, col quale, sulla proposta del Ministro per l'interno, il "Pio Istituto Ricci", con sede nel comune di Mortara (prov. di Pavia) viene eretto in ente morale e ne viene approvato lo statuto organico.  
-  
-Visto, il Guardasigilli: PICCIONI  
-Registrato alla Corte dei conti, addi' 4 agosto 1950
+605.
+
+Decreto del Presidente, della Repubblica 2 febbraio 1950, col quale, sulla proposta del Ministro per l'interno, il "Pio Istituto Ricci", con sede nel comune di Mortara (prov. di Pavia) viene eretto in ente morale e ne viene approvato lo statuto organico.
+
+Visto, il Guardasigilli: PICCIONI
+ Registrato alla Corte dei conti, addi' 4 agosto 1950

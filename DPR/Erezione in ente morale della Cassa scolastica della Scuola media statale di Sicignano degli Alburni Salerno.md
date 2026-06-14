@@ -1,19 +1,21 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 17 ottobre 1961 n. 1391
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 1391
+data: 1961-10-17
+titolo: "Erezione in ente morale della Cassa scolastica della Scuola media statale di Sicignano degli Alburni (Salerno)."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1961-10-17;1391
+codice_redazionale: 061U1391
+vigente: true
+---
 
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 17 ottobre 1961 n. 1391
-===============================================================
-
-Erezione in ente morale della Cassa scolastica della Scuola media statale di Sicignano degli Alburni (Salerno).
----------------------------------------------------------------------------------------------------------------
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-1391. Decreto del Presidente della Repubblica 17 ottobre 1961, col quale, sulla proposta del Ministro per la pubblica istruzione viene eretta in ente morale La Cassa scolastica della Scuola medio statale di Sicignano degli Alburni (Salerno) e ne viene approvato lo statuto.  
-  
-Visto, il Guardasigilli: GONELLA  
-Registrato alla Corte dei conti, addi' 20 dicembre 1961  
-Atti del Governo, registro n. 142, foglio n. 135 - VILLA
+1391.
+
+Decreto del Presidente della Repubblica 17 ottobre 1961, col quale, sulla proposta del Ministro per la pubblica istruzione viene eretta in ente morale La Cassa scolastica della Scuola medio statale di Sicignano degli Alburni (Salerno) e ne viene approvato lo statuto.
+
+Visto, il Guardasigilli: GONELLA
+ Registrato alla Corte dei conti, addi' 20 dicembre 1961
+ Atti del Governo, registro n. 142, foglio n. 135 - VILLA

@@ -1,19 +1,21 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 06 maggio 1974 n. 399
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 399
+data: 1974-05-06
+titolo: "Riconoscimento della personalita' giuridica dell'associazione denominata \"Istituto accademico di Roma\"."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1974-05-06;399
+codice_redazionale: 074U0399
+vigente: true
+---
 
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 06 maggio 1974 n. 399
-=============================================================
-
-Riconoscimento della personalita' giuridica dell'associazione denominata "Istituto accademico di Roma".
--------------------------------------------------------------------------------------------------------
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-399. Decreto del Presidente della Repubblica 6 maggio 1974, col quale, sulla proposta del Ministro per la pubblica istruzione, viene riconosciuta la personalita' giuridica ed approvato lo statuto dell'associazione denominata "Istituto accademico di Roma".  
-  
-Visto, il Guardasigilli: ZAGARI  
-Registrato alla Corte dei conti, addi' 22 agosto 1974  
-Atti di Governo, registro n. 5, foglio n. 18. - SCIARRETTA
+399.
+
+Decreto del Presidente della Repubblica 6 maggio 1974, col quale, sulla proposta del Ministro per la pubblica istruzione, viene riconosciuta la personalita' giuridica ed approvato lo statuto dell'associazione denominata "Istituto accademico di Roma".
+
+Visto, il Guardasigilli: ZAGARI
+ Registrato alla Corte dei conti, addi' 22 agosto 1974
+ Atti di Governo, registro n. 5, foglio n. 18. - SCIARRETTA

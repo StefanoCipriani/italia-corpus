@@ -1,19 +1,21 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 08 maggio 1955 n. 478
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 478
+data: 1955-05-08
+titolo: "Approvazione dello statuto dell'Ente Nazionale Assistenza Lavoratori (E.N.A.L.)."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1955-05-08;478
+codice_redazionale: 055U0478
+vigente: true
+---
 
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 08 maggio 1955 n. 478
-=============================================================
-
-Approvazione dello statuto dell'Ente Nazionale Assistenza Lavoratori (E.N.A.L.).
---------------------------------------------------------------------------------
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-478. Decreto del Presidente della Repubblica 8 maggio 1955, col quale, sulla proposta del Presidente del Consiglio dei Ministri, viene approvato e reso esecutivo lo statuto dell'Ente Nazionale Assistenza Lavoratori (E.N.A.L.).  
-  
-Visto, il Guardasigilli: DE PIETRO  
-Registrato alla Corte dei conti, addi' 6 giugno 1955  
-Atti del Governo, registro n. 91, foglio n. 19 - CARLOMAGNO
+478.
+
+Decreto del Presidente della Repubblica 8 maggio 1955, col quale, sulla proposta del Presidente del Consiglio dei Ministri, viene approvato e reso esecutivo lo statuto dell'Ente Nazionale Assistenza Lavoratori (E.N.A.L.).
+
+Visto, il Guardasigilli: DE PIETRO
+ Registrato alla Corte dei conti, addi' 6 giugno 1955
+ Atti del Governo, registro n. 91, foglio n. 19 - CARLOMAGNO

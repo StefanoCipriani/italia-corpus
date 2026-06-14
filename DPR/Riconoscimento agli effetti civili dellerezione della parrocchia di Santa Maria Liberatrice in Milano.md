@@ -1,19 +1,21 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 24 maggio 1957 n. 560
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 560
+data: 1957-05-24
+titolo: "Riconoscimento, agli effetti civili, dell'erezione della parrocchia di Santa Maria Liberatrice, in Milano."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1957-05-24;560
+codice_redazionale: 057U0560
+vigente: true
+---
 
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 24 maggio 1957 n. 560
-=============================================================
-
-Riconoscimento, agli effetti civili, dell'erezione della parrocchia di Santa Maria Liberatrice, in Milano.
-----------------------------------------------------------------------------------------------------------
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-560. Decreto del Presidente della Repubblica 24 maggio 1957, col quale, sulla proposta del Ministro per l'interno, viene riconosciuto, agli effetti civili, il decreto dell'Ordinario diocesano di Milano in data 3 maggio 1956, relativo alla erezione della parrocchia di Santa Maria Liberatrice, in Milano.  
-  
-Visto, il Guardasigilli: GONELLA  
-Registrato alla Corte dei conti, addi' 16 luglio 1957  
-Atti del Governo, registro n. 106, foglio n. 186. - CARLOMAGNO
+560.
+
+Decreto del Presidente della Repubblica 24 maggio 1957, col quale, sulla proposta del Ministro per l'interno, viene riconosciuto, agli effetti civili, il decreto dell'Ordinario diocesano di Milano in data 3 maggio 1956, relativo alla erezione della parrocchia di Santa Maria Liberatrice, in Milano.
+
+Visto, il Guardasigilli: GONELLA
+ Registrato alla Corte dei conti, addi' 16 luglio 1957
+ Atti del Governo, registro n. 106, foglio n. 186. - CARLOMAGNO

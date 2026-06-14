@@ -1,20 +1,20 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 26 dicembre 1961 n. 1797
-
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 26 dicembre 1961 n. 1797
-================================================================
-
-Norme sul trattamento economico e normativo dei lavoranti panettieri dipendenti dalle imprese di panificazione delle province di Genova, Imperia, La Spezia, Savona.
---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 1797
+data: 1961-12-26
+titolo: "Norme sul trattamento economico e normativo dei lavoranti panettieri dipendenti dalle imprese di panificazione delle province di Genova, Imperia, La Spezia, Savona."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1961-12-26;1797
+codice_redazionale: 061U1797
+vigente: true
+---
 
 IL PRESIDENTE DELLA REPUBBLICA
-------------------------------
 
-Visto l'[art. 87, comma quinto della Costituzione](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27~art87-com5);
+Visto l'[art. 87, comma quinto della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87-com5);
 
-Vista la [legge 14 luglio 1959, n. 741](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1959-07-14;741), che delega il Governo ad emanare norme transitorie per garantire minimi di trattamento economico 3 normativo ai lavoratori;
+Vista la [legge 14 luglio 1959, n. 741](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1959-07-14;741), che delega il Governo ad emanare norme transitorie per garantire minimi di trattamento economico 3 normativo ai lavoratori;
 
-Vista la [legge 1 ottobre 1960, n. 1027](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1960-10-01;1027), recante modifiche alla predetta [legge 14 luglio 1959, n. 741](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1959-07-14;741);
+Vista la [legge 1 ottobre 1960, n. 1027](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1960-10-01;1027), recante modifiche alla predetta [legge 14 luglio 1959, n. 741](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1959-07-14;741);
 
 Visto il contratto collettivo nazionale 26 luglio 1956, per gli operai dipendenti dalle aziende di panificazione;
 
@@ -42,96 +42,20 @@ Vista la pubblicazione nell'apposito Bollettino, n. 12 della provincia di Genova
 
 Sentito il Consiglio dei Ministri;
 
-Sulla
------
+Sulla proposta del Ministro per il lavoro e la previdenza sociale; Decreta:
 
-proposta del Ministro per il lavoro e la previdenza sociale; Decreta:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-I rapporti di lavoro costituiti per le attivita' per le quali sono stati stipulati, relativamente ai lavoranti panettieri:  
-- per la provincia di Genova, il contratto collettivo integrativo 6 agosto 1945, il contratto collettivo integrativo 11 agosto 1959;  
-- per la provincia di Imperia, il contratto collettivo integrativo 25 settembre 1959;  
-- per la provincia di La Spezia, il contratto collettivo integrativo 15 novembre 1950, l'accordo collettivo 9 gennaio 1959;  
-- per la provincia di Savona, l'accordo collettivo 27 giugno 1956, il contratto collettivo integrativo 1 luglio 1958;  
-sono regolati da norme giuridiche uniformi alle clausole dei contratti e degli accordi collettivi anzidetti, annessi al presente decreto, purche' compatibili con quelle concernenti la disciplina nazionale della categoria.  
-I minimi di trattamento economico e normativo cosi' stabiliti sono inderogabili nei confronti di tutti i lavoranti panettieri dipendenti dalle imprese di panificazione delle province di Genova Imperia, La Spezia, Savona.  
-  
+I rapporti di lavoro costituiti per le attivita' per le quali sono stati stipulati, relativamente ai lavoranti panettieri:
+ - per la provincia di Genova, il contratto collettivo integrativo 6 agosto 1945, il contratto collettivo integrativo 11 agosto 1959;
+ - per la provincia di Imperia, il contratto collettivo integrativo 25 settembre 1959;
+ - per la provincia di La Spezia, il contratto collettivo integrativo 15 novembre 1950, l'accordo collettivo 9 gennaio 1959;
+ - per la provincia di Savona, l'accordo collettivo 27 giugno 1956, il contratto collettivo integrativo 1 luglio 1958;
+sono regolati da norme giuridiche uniformi alle clausole dei contratti e degli accordi collettivi anzidetti, annessi al presente decreto, purche' compatibili con quelle concernenti la disciplina nazionale della categoria.
+ I minimi di trattamento economico e normativo cosi' stabiliti sono inderogabili nei confronti di tutti i lavoranti panettieri dipendenti dalle imprese di panificazione delle province di Genova Imperia, La Spezia, Savona.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 26 dicembre 1961
+Dato a Roma, addi' 26 dicembre 1961
 
-GRONCHI FANFANI - SULLO
-
-Visto, il Guardasigilli: BOSCO
-
-Registrato alla Corte dei conti, addi' 4 maggio 1962
-
-Atti del Governo, registro n. 146, foglio n. 2. - VILLA
-
-Allegato
-
-CONTRATTO COLLETTIVO INTEGRATIVO 6 AGOSTO 1948 PER GLI OPERAI DIPENDENTI DALLE AZIENDE DI PANIFICAZIONE DI GENOVA E PROVINCIA.   
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=061U179700100010110001&dgu=1962-06-01&art.dataPubblicazioneGazzetta=1962-06-01&art.codiceRedazionale=061U1797)
-  
-  
-  
-  
-  
-CONTRATTO COLLETTIVO INTEGRATIVO 11 AGOSTO 1959 PER I LAVORANTI PANETTIERI DELLA PROVINCIA DI GENOVA   
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=061U179700100010110002&dgu=1962-06-01&art.dataPubblicazioneGazzetta=1962-06-01&art.codiceRedazionale=061U1797)
-  
-  
-  
-  
-  
-CONTRATTO COLLETTIVO INTEGRATIVO 25 SETTEMBRE 1959 PER GLI OPERAI DIPENDENTI DALLE AZIENDE DI PANIFICAZIONE DELLA PROVINCIA DI IMPERIA   
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=061U179700100010110003&dgu=1962-06-01&art.dataPubblicazioneGazzetta=1962-06-01&art.codiceRedazionale=061U1797)
-  
-  
-  
-  
-  
-CONTRATTO COLLETTIVO INTEGRATIVO 15 NOVEMBRE 1950, PER I LAVORANTI PANETTIERI DELLA PROVINCIA DI LA SPEZIA   
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=061U179700100010110004&dgu=1962-06-01&art.dataPubblicazioneGazzetta=1962-06-01&art.codiceRedazionale=061U1797)
-  
-  
-  
-  
-  
-ACCORDO COLLETTIVO 9 GENNAIO 1959 PER I LAVORANTI PANETTIERI DELLA PROVINCIA DI LA SPEZIA   
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=061U179700100010110005&dgu=1962-06-01&art.dataPubblicazioneGazzetta=1962-06-01&art.codiceRedazionale=061U1797)
-  
-  
-  
-  
-  
-ACCORDO COLLETTIVO 27 GIUGNO 1956 PER L'AGGIORNAMENTO DELLA INDENNITA' DI CONTINGENZA AI LAVORATORI PANETTIERI DELLA PROVINCIA DI SAVONA   
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=061U179700100010110006&dgu=1962-06-01&art.dataPubblicazioneGazzetta=1962-06-01&art.codiceRedazionale=061U1797)
-  
-  
-  
-  
-  
-CONTRATTO COLLETTIVO INTEGRATIVO 1 LUGLIO 1958 PER GLI OPERAI PANETTIERI DELLA PROVINCIA DI SAVONA   
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=061U179700100010110007&dgu=1962-06-01&art.dataPubblicazioneGazzetta=1962-06-01&art.codiceRedazionale=061U1797)
-  
+GRONCHI FANFANI - SULLO Visto, il Guardasigilli: BOSCO Registrato alla Corte dei conti, addi' 4 maggio 1962 Atti del Governo, registro n. 146, foglio n. 2. - VILLA

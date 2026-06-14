@@ -1,14 +1,14 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 29 settembre 1983 n. 563
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 563
+data: 1983-09-29
+titolo: "Modificazioni allo statuto dell'Universita' degli studi di Udine."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1983-09-29;563
+codice_redazionale: 083U0563
+vigente: true
+---
 
+## Art. 1.
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 29 settembre 1983 n. 563
-================================================================
-
-Modificazioni allo statuto dell'Universita' degli studi di Udine.
------------------------------------------------------------------
-
-Art. 1
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.L. 9 FEBBRAIO 2012, N. 5](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2012-02-09;5),   
-CONVERTITO CON MODIFICAZIONI DALLA [L. 4 APRILE 2012, N. 35](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2012-04-04;35)))
+((PROVVEDIMENTO ABROGATO DAL D.L. 9 FEBBRAIO 2012, N. 5, 
+ CONVERTITO CON MODIFICAZIONI DALLA L. 4 APRILE 2012, N. 35))

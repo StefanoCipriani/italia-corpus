@@ -1,19 +1,21 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 09 dicembre 1970 n. 1297
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 1297
+data: 1970-12-09
+titolo: "Riconoscimento della personalita' giuridica della chiesa di Santa Maria degli Angeli, detta \"del Paradiso\", con sede in Modena."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1970-12-09;1297
+codice_redazionale: 070U1297
+vigente: true
+---
 
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 09 dicembre 1970 n. 1297
-================================================================
-
-Riconoscimento della personalita' giuridica della chiesa di Santa Maria degli Angeli, detta "del Paradiso", con sede in Modena.
--------------------------------------------------------------------------------------------------------------------------------
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-1297. Decreto del Presidente della Repubblica 9 dicembre 1970, col quale, sulla proposta del Ministro per l'interno, viene riconosciuta la personalita' giuridica della chiesa di Santa Maria degli Angeli, detta "del Paradiso", con sede in Modena, con il patrimonio destinatole dalla soc. an. "Geminia" S.p.a., sedente in Modena.  
-  
-Visto, il Guardasigilli: REALE  
-Registrato alla Corte dei conti, addi' 2 febbraio 1971  
-Atti del Governo, registro n. 240, foglio n. 145. - CARUSO
+1297.
+
+Decreto del Presidente della Repubblica 9 dicembre 1970, col quale, sulla proposta del Ministro per l'interno, viene riconosciuta la personalita' giuridica della chiesa di Santa Maria degli Angeli, detta "del Paradiso", con sede in Modena, con il patrimonio destinatole dalla soc. an. "Geminia" S.p.a., sedente in Modena.
+
+Visto, il Guardasigilli: REALE
+ Registrato alla Corte dei conti, addi' 2 febbraio 1971
+ Atti del Governo, registro n. 240, foglio n. 145. - CARUSO

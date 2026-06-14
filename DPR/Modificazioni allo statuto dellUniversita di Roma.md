@@ -1,20 +1,20 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 20 ottobre 1949 n. 1178
-
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 20 ottobre 1949 n. 1178
-===============================================================
-
-Modificazioni allo statuto dell'Universita' di Roma.
-----------------------------------------------------
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 1178
+data: 1949-10-20
+titolo: "Modificazioni allo statuto dell'Universita' di Roma."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1949-10-20;1178
+codice_redazionale: 049U1178
+vigente: true
+---
 
 IL PRESIDENTE DELLA REPUBBLICA
-------------------------------
 
-Veduto lo statuto dell'Universita' di Roma, approvato con [regio decreto 14 ottobre 1926, n. 2319](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2319), e modificato con i [regi decreti 13 ottobre 1927, n. 2819](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2819); [20 settembre 1928, n. 3018](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1928-09-20;3018); [31 ottobre 1929, n. 2483](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1929-10-31;2483); [30 ottobre 1930, n. 1828](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-30;1828); [1 ottobre 1931, n. 1329](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1931-10-01;1329); [22 ottobre 1931, n. 17](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1931-10-22;17).4; 22 ottobre 1932, n. 2090; 26 ottobre 1933, n. 2391; 27 dicembre 1934, n. 2419; 1 ottobre 1906, n. 2498; 27 ottobre 1937, n. 2619; 20 aprile 1939, n. 1350; 26 ottobre 1939, n. 1734; 26 ottobre 1940, n. 2069;, 4 maggio 1942, n. 565; 24 luglio 1942, n. 964; 24 agosto 1942, n. 1098; 24 ottobre 1942, n. 1672; e con [decreti del Capo provvisorio dello Stato 12 febbraio 1947, n. 461](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto:1947-02-12;461); [31 dicembre 1947, n. 1758 e con decreto del Presidente della Repubblica](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1947-12-31;1758) [18 luglio 1949, n. 882](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1949-07-18;882);
+Veduto lo statuto dell'Universita' di Roma, approvato con [regio decreto 14 ottobre 1926, n. 2319](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20dello%20statuto%20della%20Regia%20Universita%20di%20Roma.%20026U2319.md), e modificato con i [regi decreti 13 ottobre 1927, n. 2819](../Atti%20normativi%20abrogati%20%28in%20originale%29/Modificazioni%20allo%20statuto%20della%20Regia%20universita%20di%20Roma.%20027U2819.md); [20 settembre 1928, n. 3018](../Atti%20normativi%20abrogati%20%28in%20originale%29/Modificazioni%20allo%20statuto%20della%20Regia%20universita%20di%20Roma.%20028U3018.md); [31 ottobre 1929, n. 2483](../Atti%20normativi%20abrogati%20%28in%20originale%29/Modifiche%20allo%20statuto%20della%20Regia%20universita%20di%20Roma.%20029U2483.md); [30 ottobre 1930, n. 1828](../Atti%20normativi%20abrogati%20%28in%20originale%29/Modifiche%20allo%20statuto%20della%20Regia%20universita%20di%20Roma.%20030U1828.md); [1 ottobre 1931, n. 1329](../Atti%20normativi%20abrogati%20%28in%20originale%29/Modifiche%20allo%20statuto%20della%20Regia%20universita%20di%20Roma.%20031U1329.md); [22 ottobre 1931, n. 17](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1931-10-22;17).4; 22 ottobre 1932, n. 2090; 26 ottobre 1933, n. 2391; 27 dicembre 1934, n. 2419; 1 ottobre 1906, n. 2498; 27 ottobre 1937, n. 2619; 20 aprile 1939, n. 1350; 26 ottobre 1939, n. 1734; 26 ottobre 1940, n. 2069;, 4 maggio 1942, n. 565; 24 luglio 1942, n. 964; 24 agosto 1942, n. 1098; 24 ottobre 1942, n. 1672; e con [decreti del Capo provvisorio dello Stato 12 febbraio 1947, n. 461](https://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto:1947-02-12;461); [31 dicembre 1947, n. 1758 e con decreto del Presidente della Repubblica](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1947-12-31;1758) [18 luglio 1949, n. 882](Modificazioni%20dello%20statuto%20dellUniversita%20degli%20studi%20di%20Roma.md);
 
-Veduto il testo unico delle leggi sulla istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1502](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1502);
+Veduto il testo unico delle leggi sulla istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1502](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1502);
 
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
+Veduto il [regio decreto 30 settembre 1938, n. 1652](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disposizioni%20sullordinamento%20didattico%20universitario.%20038U1652.md), e successive modificazioni;
 
 Vedute le proposte relative alla modifica allo statuto formulate dalle autorita' accademiche della Universita' predetta;
 
@@ -22,74 +22,60 @@ Riconosciuta la necessita' di approvare le nuove modificazioni proposte;
 
 Sentito il parere del Consiglio superiore della pubblica istruzione;
 
-Sulla
------
+Sulla proposta del Ministro per la pubblica istruzione; Decreta:
 
-proposta del Ministro per la pubblica istruzione; Decreta:
+## Articolo unico.
 
-Articolo unico
---------------
+Lo statuto dell'Universita' di Roma, approvato e modificato con i decreti sopra indicati e' cosi' ulteriormente modificato:
 
-  
-  
-Lo statuto dell'Universita' di Roma, approvato e modificato con i decreti sopra indicati e' cosi' ulteriormente modificato:  
-  
-Titolo XIV - Scuola d'ingegneria aeronautica - Articolo 137: la denominazione dell'insegnamento di "Aeronautica generale" viene modificata in quella di "Meccanica del volo".  
-Nello stesso art. 137 viene soppresso dalle materie della predetta Scuola l'insegnamento di "balistica ed armi aeronautiche".  
-L'art. 137, pertanto, viene cosi' modificato;  
-Le materie d'insegnamento nella Scuola di ingegneria aeronautica sono le seguenti:  
-1) meccanica del volo (con esercitazioni di laboratorio);  
-2) aerodinamica (con esercitazioni di laboratorio);  
-3) costruzioni aeronautiche (con esercitazioni di laboratorio);  
-4) motori d'aviazione (con esercitazioni, laboratorio e sala montaggio);  
-5) aerologia;  
-6) diritto aeronautico;  
-7) elementi costruttivi dei velivoli;  
-8) elementi costruttivi dei motori;  
-9) tecnologia dei materiali dei velivoli (con esercitazioni di laboratorio);  
-10) tecnologia dei materiali dei motori (con esercitazioni di laboratorio);  
-11) complementi di termodinamica tecnica;  
-12) accessori e istallazioni dei motori;  
-13) collaudo e strumenti di bordo;  
-14) economia dei trasporti aerei.  
-Tali insegnamenti sono suddivisi come appresso tra il ramo velivoli e il ramo motori:  
-Ramo velivoli Ramo motori  
-Meccanica del volo (con Meccanica del volo (con  
-esercitazioni e labora- esercitazioni e labora-  
-torio) torio)  
-Aerodinamica (con eser- Aerodinamica (con eser-  
-citazioni e laborato- citazioni e laborato-  
-rio) rio)  
-Costruzioni aeronautiche Costruzioni aeronautiche  
-(con esercitazioni e (con esercitazioni e  
-laboratorio) laboratorio)  
-Motori d'aviazione (con Motori d'aviazione (con  
-esercitazioni e labora- esercitazioni, labora-  
-torio e sala montaggio) torio e sala montaggio)  
-Aerologia Dinamica dei motori  
-Diritto aeronautico Diritto aeronautico  
-Elementi costruttivi dei Elementi costruttivi dei  
-velivoli motori  
-Tecnologia dei materiali Tecnologia dei materiali  
-dei velivoli (con eser- dei motori (con eserci-  
-citazioni e laborato- tazioni e laboratorio)  
-rio)  
-Economia trasporti aerei Termodinamica  
-Accessori e istallazioni Accessori e istallazioni  
-dei motori dei motori  
-Collaudo e strumenti di Prove e collaudo dei mo-  
-bordo tori  
-  
+ Titolo XIV - Scuola d'ingegneria aeronautica - Articolo 137: la denominazione dell'insegnamento di "Aeronautica generale" viene modificata in quella di "Meccanica del volo".
+ Nello stesso art. 137 viene soppresso dalle materie della predetta Scuola l'insegnamento di "balistica ed armi aeronautiche".
+ L'art. 137, pertanto, viene cosi' modificato;
+ Le materie d'insegnamento nella Scuola di ingegneria aeronautica sono le seguenti:
+ 1) meccanica del volo (con esercitazioni di laboratorio);
+ 2) aerodinamica (con esercitazioni di laboratorio);
+ 3) costruzioni aeronautiche (con esercitazioni di laboratorio);
+ 4) motori d'aviazione (con esercitazioni, laboratorio e sala montaggio);
+ 5) aerologia;
+ 6) diritto aeronautico;
+ 7) elementi costruttivi dei velivoli;
+ 8) elementi costruttivi dei motori;
+ 9) tecnologia dei materiali dei velivoli (con esercitazioni di laboratorio);
+ 10) tecnologia dei materiali dei motori (con esercitazioni di laboratorio);
+ 11) complementi di termodinamica tecnica;
+ 12) accessori e istallazioni dei motori;
+ 13) collaudo e strumenti di bordo;
+ 14) economia dei trasporti aerei.
+ Tali insegnamenti sono suddivisi come appresso tra il ramo velivoli e il ramo motori:
+ Ramo velivoli Ramo motori
+Meccanica del volo (con Meccanica del volo (con
+ esercitazioni e labora- esercitazioni e labora-
+ torio) torio)
+Aerodinamica (con eser- Aerodinamica (con eser-
+ citazioni e laborato- citazioni e laborato-
+ rio) rio)
+Costruzioni aeronautiche Costruzioni aeronautiche
+ (con esercitazioni e (con esercitazioni e
+ laboratorio) laboratorio)
+Motori d'aviazione (con Motori d'aviazione (con
+ esercitazioni e labora- esercitazioni, labora-
+ torio e sala montaggio) torio e sala montaggio)
+Aerologia Dinamica dei motori
+Diritto aeronautico Diritto aeronautico
+Elementi costruttivi dei Elementi costruttivi dei
+ velivoli motori
+Tecnologia dei materiali Tecnologia dei materiali
+ dei velivoli (con eser- dei motori (con eserci-
+ citazioni e laborato- tazioni e laboratorio)
+ rio)
+Economia trasporti aerei Termodinamica
+Accessori e istallazioni Accessori e istallazioni
+ dei motori dei motori
+Collaudo e strumenti di Prove e collaudo dei mo-
+ bordo tori
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 20 ottobre 1949
+Dato a Roma, addi' 20 ottobre 1949
 
-EINAUDI GONELLA
-
-Visto, il Guardasigilli: GRASSI
-
-Registrato alla Corte dei conti, addi' 16 maggio 1930
-
-Atti del Governo, registro n. 33, foglio n. 15. - FRASCA
+EINAUDI GONELLA Visto, il Guardasigilli: GRASSI Registrato alla Corte dei conti, addi' 16 maggio 1930 Atti del Governo, registro n. 33, foglio n. 15. - FRASCA

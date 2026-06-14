@@ -1,38 +1,30 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 15 ottobre 1964 n. 1610
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 1610
+data: 1964-10-15
+titolo: "Trasferimento del territorio della provincia di Belluno dalla circoscrizione territoriale del Commissariato per la liquidazione degli usi civici con sede in Trieste a quello con sede in Venezia che comprende le province di Belluno, Padova, Rovigo, Treviso, Venezia, Verona e Vicenza."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1964-10-15;1610
+codice_redazionale: 064U1610
+vigente: true
+---
 
+## Art. 1.
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 15 ottobre 1964 n. 1610
-===============================================================
+IL PRESIDENTE DELLA REPUBBLICA
 
-Trasferimento del territorio della provincia di Belluno dalla circoscrizione territoriale del Commissariato per la liquidazione degli usi civici con sede in Trieste a quello con sede in Venezia che comprende le province di Belluno, Padova, Rovigo, Treviso, Venezia, Verona e Vicenza.
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+ Visto l'[art. 27 della legge 16 giugno 1927, n. 1766](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20R.%20decreto%2022%20maggio%201924%20n.%20751%20riguardante%20il%20riordinamento%20degli%20usi%20civici%20nel%20Regno%20del%20R.%20decreto%2028%20agosto%201924%20n.%201484%20che%20modifica%20lart.%2026%20del%20R.%20decret_728733510b66.md), sul riordinamento degli usi civici;
+ Visto il [decreto del Presidente della Repubblica del 19 aprile 1958, n. 536](Modificazioni%20alle%20circoscrizioni%20territoriali%20dei%20Commissariati%20per%20la%20liquidazione%20degli%20Usi%20civici%20con%20sede%20in%20Trieste%20Venezia%20Milano%20Bologna%20Roma%20e%20Napoli.md), che modifica le circoscrizioni territoriali dei Commissariati per la liquidazione degli usi civici con sede in Trieste, Venezia, Milano, Bologna, Roma e Napoli;
+ Visto lo Statuto speciale della Regione Friuli-Venezia Giulia di cui alla [legge costituzionale 31 gennaio 1963, n. 1](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge.costituzionale:1963-01-31;1);
+ Considerato che la circoscrizione territoriale del Commissariato per la liquidazione degli usi civici con sede in Trieste comprende oltre i territori delle province di Gorizia e di Udine e dei comuni di Trieste, Duino-Aurisina, Monrupino, Muggia, San Dorligo della Valle e Sgonico, che costituiscono il territorio della Regione Friuli-Venezia Giulia, anche il territorio della provincia di Belluno;
+ Considerato che per effetto dello Statuto anzidetto le funzioni amministrative, in materia di usi civici, nel territorio della Regione, sono esercitate dalla Regione Friuli-Venezia Giulia e che pertanto si ravvisa la necessita' di trasferire il territorio della provincia di Belluno, non compreso nel territorio della Regione, dalla circoscrizione territoriale del Commissariato per la liquidazione degli usi civici con sede in Trieste a quella del Commissariato per la liquidazione degli usi civici con sede in Venezia;
+ Sulla proposta del Ministro Segretario di Stato per l'agricoltura e per le foreste;
 
-Art. 1
-------
+ Decreta:
 
- IL PRESIDENTE DELLA REPUBBLICA  
-  
-Visto l'[art. 27 della legge 16 giugno 1927, n. 1766](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1927-06-16;1766~art27), sul riordinamento degli usi civici;  
-Visto il [decreto del Presidente della Repubblica del 19 aprile 1958, n. 536](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1958-04-19;536), che modifica le circoscrizioni territoriali dei Commissariati per la liquidazione degli usi civici con sede in Trieste, Venezia, Milano, Bologna, Roma e Napoli;  
-Visto lo Statuto speciale della Regione Friuli-Venezia Giulia di cui alla [legge costituzionale 31 gennaio 1963, n. 1](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge.costituzionale:1963-01-31;1);  
-Considerato che la circoscrizione territoriale del Commissariato per la liquidazione degli usi civici con sede in Trieste comprende oltre i territori delle province di Gorizia e di Udine e dei comuni di Trieste, Duino-Aurisina, Monrupino, Muggia, San Dorligo della Valle e Sgonico, che costituiscono il territorio della Regione Friuli-Venezia Giulia, anche il territorio della provincia di Belluno;  
-Considerato che per effetto dello Statuto anzidetto le funzioni amministrative, in materia di usi civici, nel territorio della Regione, sono esercitate dalla Regione Friuli-Venezia Giulia e che pertanto si ravvisa la necessita' di trasferire il territorio della provincia di Belluno, non compreso nel territorio della Regione, dalla circoscrizione territoriale del Commissariato per la liquidazione degli usi civici con sede in Trieste a quella del Commissariato per la liquidazione degli usi civici con sede in Venezia;  
-Sulla proposta del Ministro Segretario di Stato per l'agricoltura e per le foreste;  
-  
-Decreta:  
-  
-Il territorio della provincia di Belluno e' trasferito dalla circoscrizione territoriale del Commissariato per la liquidazione degli usi civici con sede in Trieste a quella del Commissariato per la liquidazione degli usi civici con sede in Venezia, che pertanto comprende le province di Belluno, Padova, Rovigo, Treviso, Venezia, Verona e Vicenza.  
-  
+ Il territorio della provincia di Belluno e' trasferito dalla circoscrizione territoriale del Commissariato per la liquidazione degli usi civici con sede in Trieste a quella del Commissariato per la liquidazione degli usi civici con sede in Venezia, che pertanto comprende le province di Belluno, Padova, Rovigo, Treviso, Venezia, Verona e Vicenza.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 15 ottobre 1964
+Dato a Roma, addi' 15 ottobre 1964
 
-Per il Presidente della Repubblica Il Presidente del Senato MERZAGORA FERRARI AGGRADI
-
-Visto, il Guardasigilli: REALE
-
-Registrato alla Corte dei conti, addi' 15 febbraio 1965
-
-Atti del Governo, registro n. 190, foglio n. 99. - VILLA
+Per il Presidente della Repubblica Il Presidente del Senato MERZAGORA FERRARI AGGRADI Visto, il Guardasigilli: REALE Registrato alla Corte dei conti, addi' 15 febbraio 1965 Atti del Governo, registro n. 190, foglio n. 99. - VILLA

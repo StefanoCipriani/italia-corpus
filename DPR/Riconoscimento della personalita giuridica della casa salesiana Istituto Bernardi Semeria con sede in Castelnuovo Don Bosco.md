@@ -1,19 +1,21 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 22 agosto 1969 n. 670
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 670
+data: 1969-08-22
+titolo: "Riconoscimento della personalita' giuridica della casa salesiana \"Istituto Bernardi Semeria\", con sede in Castelnuovo Don Bosco."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1969-08-22;670
+codice_redazionale: 069U0670
+vigente: true
+---
 
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 22 agosto 1969 n. 670
-=============================================================
-
-Riconoscimento della personalita' giuridica della casa salesiana "Istituto Bernardi Semeria", con sede in Castelnuovo Don Bosco.
---------------------------------------------------------------------------------------------------------------------------------
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-670. Decreto del Presidente della Repubblica 22 agosto 1969, col quale, sulla proposta del Ministro per l'interno, viene riconosciuta la personalita' giuridica della casa salesiana "Istituto Bernardi Semeria", con sede in Castelnuovo Don Bosco (Asti).  
-  
-Visto, il Guardasigilli: GAVA  
-Registrato alla Corte dei conti, addi' 9 ottobre 1969  
-Atti del Governo, registro n. 229, foglio n. 92. - CARUSO
+670.
+
+Decreto del Presidente della Repubblica 22 agosto 1969, col quale, sulla proposta del Ministro per l'interno, viene riconosciuta la personalita' giuridica della casa salesiana "Istituto Bernardi Semeria", con sede in Castelnuovo Don Bosco (Asti).
+
+Visto, il Guardasigilli: GAVA
+ Registrato alla Corte dei conti, addi' 9 ottobre 1969
+ Atti del Governo, registro n. 229, foglio n. 92. - CARUSO

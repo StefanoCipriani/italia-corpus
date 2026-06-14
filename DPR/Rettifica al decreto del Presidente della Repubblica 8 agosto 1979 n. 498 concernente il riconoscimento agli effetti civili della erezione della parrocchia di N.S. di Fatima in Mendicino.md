@@ -1,23 +1,25 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 15 gennaio 1980 n. 99
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 99
+data: 1980-01-15
+titolo: "Rettifica al decreto del Presidente della Repubblica 8 agosto 1979, n. 498, concernente il riconoscimento, agli effetti civili della erezione della parrocchia di N.S. di Fatima, in Mendicino."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1980-01-15;99
+codice_redazionale: 080U0099
+vigente: true
+---
 
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 15 gennaio 1980 n. 99
-=============================================================
-
-Rettifica al decreto del Presidente della Repubblica 8 agosto 1979, n. 498, concernente il riconoscimento, agli effetti civili della erezione della parrocchia di N.S. di Fatima, in Mendicino.
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-99. Decreto del Presidente della Repubblica 15 gennaio 1980, col quale, sulla proposta del Ministro dell'interno, il decreto del [Presidente della Repubblica 8 agosto 1979, n. 498](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1979-08-08;498), concernente il riconoscimento, agli effetti civili, del decreto dell'ordinario diocesano di Cosenza 7 ottobre 1973, integrato con altro decreto 3 luglio 1975 e con due dichiarazioni 17 ottobre 1974 e 22 dicembre 1976, relativo:
+99.
 
-a) all'erezione della parrocchia di N.S. di Fatima, in Mendicino (Cosenza), con il trasferimento in essa, con la denominazione anzidetta, del beneficio parrocchiale di S. Giovanni Battista, in Paterno Calabro (Cosenza);
+Decreto del Presidente della Repubblica 15 gennaio 1980, col quale, sulla proposta del Ministro dell'interno, il decreto del [Presidente della Repubblica 8 agosto 1979, n. 498](Riconoscimento%20agli%20effetti%20civili%20della%20erezione%20della%20parrocchia%20di%20N.S.%20di%20Fatima%20in%20Mendicino.md), concernente il riconoscimento, agli effetti civili, del decreto dell'ordinario diocesano di Cosenza 7 ottobre 1973, integrato con altro decreto 3 luglio 1975 e con due dichiarazioni 17 ottobre 1974 e 22 dicembre 1976, relativo:
+                        a)
+                            all'erezione della parrocchia di N.S. di Fatima, in Mendicino (Cosenza), con il trasferimento in essa, con la denominazione anzidetta, del beneficio parrocchiale di S. Giovanni Battista, in Paterno Calabro (Cosenza);
+                        b)
+                            all'incorporazione del territorio della parrocchia di S. Giovanni Battista, in Paterno Calabro, nella limitrofa parrocchia di N.S. del Rosario di Fatima, in Mendicino, viene rettificato nel punto b) del dispositivo nel senso che il territorio della parrocchia di S. Giovanni Battista, in Paterno Calabro, viene incorporato nella limitrofa parrocchia dei SS. Pietro e Paolo, nello stesso comune.
 
-b) all'incorporazione del territorio della parrocchia di S. Giovanni Battista, in Paterno Calabro, nella limitrofa parrocchia di N.S. del Rosario di Fatima, in Mendicino, viene rettificato nel punto b) del dispositivo nel senso che il territorio della parrocchia di S. Giovanni Battista, in Paterno Calabro, viene incorporato nella limitrofa parrocchia dei SS. Pietro e Paolo, nello stesso comune.  
-  
-Visto, il Guardasigilli: MORLINO  
-Registrato alla Corte dei conti, addi' 24 marzo 1980  
-Registro n. 6 Interno, foglio n. 135
+Visto, il Guardasigilli: MORLINO
+ Registrato alla Corte dei conti, addi' 24 marzo 1980
+ Registro n. 6 Interno, foglio n. 135

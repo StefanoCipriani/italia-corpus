@@ -1,138 +1,80 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 05 dicembre 1980 n. 1227
-
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 05 dicembre 1980 n. 1227
-================================================================
-
-Modificazioni allo statuto dell'Universita' cattolica del Sacro Cuore di Milano.
---------------------------------------------------------------------------------
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 1011
+data: 1980-09-10
+titolo: "Modificazioni allo statuto dell'Universita' cattolica del Sacro Cuore di Milano."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1980-09-10;1011
+codice_redazionale: 080U1011
+vigente: true
+---
 
 IL PRESIDENTE DELLA REPUBBLICA
-------------------------------
 
-Veduto lo statuto dell'Universita' cattolica del Sacro Cuore di Milano, approvato con [regio decreto 20 aprile 1939, n. 1163](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1163) e modificato con [regio decreto 26 ottobre 1940, n. 2030](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-26;2030), e successive modificazioni;
+Veduto lo statuto dell'Universita' cattolica del Sacro Cuore di Milano, approvato con [regio decreto 20 aprile 1939, n. 1163](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20del%20nuovo%20statuto%20della%20Universita%20cattolica%20del%20Sacro%20Cuore%20di%20Milano.%20039U1163.md), e modificato con [regio decreto 26 ottobre 1940, n. 2030](../Atti%20normativi%20abrogati%20%28in%20originale%29/Modificazioni%20allo%20statuto%20della%20Universita%20cattolica%20del%20%20Sacro%20Cuore%20%20di%20Milano.%20040U2030.md), e successive modificazioni;
 
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20R.%20decreto-legge%2020%20giugno%201935-XIII%20n.%201071%20contenente%20modifiche%20ed%20aggiornamenti%20al%20testo%20unico%20delle%20leggi%20sullistruzione%20superiore.%20036U0073.md);
 
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
+Veduto il [regio decreto 30 settembre 1938, n. 1652](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disposizioni%20sullordinamento%20didattico%20universitario.%20038U1652.md), e successive modificazioni;
 
-Veduta la [legge 22 maggio 1978, n. 217](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-05-22;217);
+Veduta la [legge 11 aprile 1953, n. 312](../Atti%20normativi%20abrogati%20%28in%20originale%29/Libera%20inclusione%20di%20nuovi%20insegnamenti%20complementari%20negli%20statuti%20delle%20Universita%20e%20degli%20Istituti%20distruzione%20superiore.md);
 
-Veduto il [decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382);
+Vedute le proposte di modifica dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
 
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
-
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' cattolica del Sacro Cuore di Milano e convalidati dal Consiglio universitario nazionale nel suo parere;
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](https://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592#art_17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' cattolica del Sacro Cuore di Milano e convalidati dal Consiglio universitario nazionale nel suo parere;
 
 Sentito il parere del Consiglio universitario nazionale;
 
-Veduta la necessita' di adeguare la norma sulla direzione delle scuole di perfezionamento, di specializzazione e delle scuole dirette a fini speciali a quanto disposto dall'art. 16 del citato [decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382);
+Sulla proposta del Ministro della pubblica istruzione;
 
-Sulla
------
+Decreta: Lo statuto dell'Universita' cattolica del Sacro Cuore di Milano, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
 
-proposta del Ministro della pubblica istruzione; Decreta:
+## Articolo unico
 
-Articolo unico
---------------
+Dopo l'art. 184, con il conseguente spostamento della numerazione degli articoli successivi, sono inseriti i seguenti nuovi articoli relativi all'istituzione della scuola diretta a fini speciali per la preparazione di personale tecnico specializzato in cosmetologia. 
+ 
+ Scuola per la preparazione di personale tecnico specializzato in cosmetologia 
+ 
+ Art. 185. - E' istituita presso l'istituto di clinica dermosifilopatica della facolta' di medicina e chirurgia dell'Universita' cattolica del Sacro Cuore una scuola per la preparazione di personale tecnico specializzato in cosmetologia. La scuola ha lo scopo di impartire agli allievi con unita' di indirizzo e metodo scientifico tutte le nozioni teoriche e pratiche per ben esercitare l'attivita' di cosmetologo. 
+ Art. 186. - La durata del corso degli studi della scuola e' di due anni accademici. Alla scuola possono essere ammessi allievi di ambo i sessi aventi il diploma di scuola media di 2° grado che abbiano compiuto il 17° anno di eta'. 
+ Art. 187. - Al primo anno della scuola si accede previo esame di cultura generale ed attitudinale davanti ad una commissione composta dal direttore della scuola e da due insegnanti della scuola stessa.
+L'esame di ammissione avra' luogo entro il mese di ottobre di ciascun anno in un giorno stabilito dalla facolta' di medicina e chirurgia su proposta del direttore della scuola. 
+ Art. 188. - Il numero massimo degli allievi che possono essere ammessi ad ogni anno di corso della scuola e' di trenta. 
+ Art. 189. - Il direttore della scuola e' il direttore dell'istituto di clinica dermosifilopatica dell'Universita' cattolica del Sacro Cuore che puo' nominare direttore dei corsi uno dei docenti della scuola. La scuola e' sotto la vigilanza della facolta' di medicina e chirurgia. Gli insegnanti della scuola sono proposti dal direttore della stessa, approvati dalla facolta' di medicina e chirurgia e nominati dal rettore. 
+ Essi possono essere scelti fra i professori ufficiali, tra i docenti, tra gli aiuti e gli assistenti della facolta' di medicina e chirurgia e di altra facolta' dell'Universita' cattolica del Sacro Cuore o di altre Universita', o tra persone di riconosciuta competenza anche al di fuori dell'ambito universitario. 
+ Art. 190. - Le materie di insegnamento sono le seguenti: 
+ 1° Anno: 
+ dermatologia estetica; 
+ chimica cosmetologica; 
+ igiene cosmetologica; 
+ cosmetologia applicata; 
+ nozioni di fisica. 
+ 2° Anno: 
+ nozioni di patologia dermatologica; 
+ massoterapia cosmetologica; 
+ nozioni di dermatologia correttiva. 
+ Art. 191. - La frequenza alle lezioni teoriche e alle esercitazioni pratiche e' obbligatoria. Per la validita' dell'anno scolastico l'allievo deve partecipare ai due terzi delle lezioni sia teoriche che pratiche. 
+ Art. 192. - Le lezioni verranno impartite agli allievi nelle aule messe a disposizione della clinica dermosifilopatica. I programmi di insegnamento e gli orari vengono predisposti dal direttore della scuola ed approvati dal consiglio della facolta' di medicina e chirurgia. La sorveglianza degli iscritti, per quanto riguarda la loro attivita' pratica, spetta al direttore della scuola. Il tirocinio sara' compiuto dagli allievi sotto la guida degli insegnanti della scuola, presso l'istituto di clinica dermosifilopatica dell'Universita' cattolica del Sacro Cuore, nonche' presso la sezione di fisioterapia (clinica ortopedica), l'istituto di biochimica, l'istituto di farmacologia. 
+ Art. 193. - Per essere ammessi a sostenere gli esami di diploma gli allievi dovranno avere seguito i corsi, superati gli esami in tutti gli insegnamenti prescritti e avere compiuto, con esito favorevole, tutte le esercitazioni pratiche previste. Non possono essere ammessi al secondo anno gli allievi che non hanno superato gli esami attinenti alle materie del primo corso. 
+ Art. 194. - Le commissioni per gli esami di profitto sono nominate dal preside della facolta' di medicina e chirurgia su proposta del direttore della scuola. Le commissioni sono composte da tre membri: dal professore ufficiale della materia, presidente, dal professore ufficiale della materia affine e da un libero docente cultore della materia. 
+ Ogni commissario ha a disposizione 10 punti. 
+ Art. 195. - L'esame di diploma consiste in un esame orale sui temi trattati durante i corsi ed eventualmente in una prova pratica stabilita dalla commissione esaminatrice. L'esame di diploma viene sostenuto davanti a una commissione di cinque membri scelti fra i docenti della scuola nominati dal preside della facolta' di medicina e chirurgia su proposta del direttore della scuola. Ogni commissario ha a disposizione 10 punti; i candidati non riconosciuti idonei possono ripresentarsi all'esame di diploma dopo un altro anno di frequenza nella scuola, ma se al secondo esame non sara' loro riconosciuta l'idoneita', essi saranno senz'altro esclusi da ulteriori prove. Agli allievi che avranno superato l'esame finale viene rilasciato il diploma di tecnico cosmetologo. 
+ Art. 196. - Alle spese occorrenti per il funzionamento della scuola si provvede con contributi eventualmente concessi da Ministeri, dalle regioni, da enti pubblici e privati e dalle seguenti tasse, soprattasse e contributi degli iscritti: 
+ 
+ 
 
-  
-  
-Lo statuto dell'Universita' cattolica del Sacro Cuore di Milano, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:   
-Dopo l'art. 155, e con il conseguente spostamento della numerazione successiva, e' inserito il seguente nuovo articolo relativo alla istituzione della scuola di specializzazione in farmacologia:   
-  
-Scuola di specializzazione in farmacologia   
-  
-Art. 156. - La scuola di specializzazione in farmacologia rilascia i seguenti diplomi:   
-a) specialista in farmacologia; indirizzo: "farmacologia di base";   
-b) specialista in farmacologia; indirizzo: "farmacologia Clinica";   
-c) specialista in farmacologia; indirizzo: "tossicologia".   
-La scuola ha durata di quattro anni: i primi due anni sono comuni, il secondo biennio e' diverso nei tre indirizzi previsti: di "farmacologia di base" di "farmacologia clinica", di "tossicologia".   
-Il numero massimo degli iscritti e' fissato in quindici per ciascun anno di corso, da ripartire tra i tre indirizzi previsti. Al momento della iscrizione al terzo anno i candidati dovranno scegliere l'indirizzo che intendono seguire. Non sono ammesse abbreviazioni di corso. Per la iscrizione alla scuola e' necessaria la laurea in medicina e chirurgia ed avere superato l'esame di Stato in medicina.  
-L'ammissione alla scuola e' fatta in base ai titoli e ad apposito esame.   
-La facolta', considerato il numero degli iscritti e le possibilita' didattiche, puo' attivare anche un solo indirizzo della scuola.   
-Le materie di insegnamento sono:   
-1° Anno:   
-chimica organica;   
-statistica medica;   
-farmacologia generale;   
-biologia e farmacologia cellulare;   
-immunologia;   
-biologia molecolare dei procarioti e dei virus;   
-saggi e dosaggi farmacologici;   
-inglese scientifico.   
-2° Anno:   
-basi di farmacocinetica;   
-farmacologia speciale;   
-chemioterapia antibatterica, antivirale, antineoplastica, antifungina, antiparassitaria;   
-principi di tossicologia, con elementi di tossicologia da ambienti da lavoro, da additivi;   
-tecniche chimico-fisiche, immunologiche, radioisotopiche;   
-inglese scientifico;   
-statistica e programmazione.   
-3° Anno:   
-a) INDIRIZZO "FARMACOLOGIA DI BASE":   
-farmacologia speciale;   
-farmacologia molecolare;   
-chemioterapia sperimentale;   
-immunofarmacologia;   
-tecniche ed analisi critica degli "screening" di farmaci "in vivo" ed "in vitro";   
-biochimica, fisiologia e farmacologia comparata.   
-b) INDIRIZZO "FARMACOLOGIA CLINICA":   
-organizzazione di un laboratorio di farmacologia   
-clinica e sua funzione;   
-farmacologia clinica e tecniche di sperimentazione clinica; farmacologia speciale, in connessione con la patologia dei   
-singoli organi ed apparati con la pratica   
-clinica I;   
-biodisponibilita' dei farmaci;   
-farmacocinetica e biochimica clinica.   
-c) INDIRIZZO "TOSSICOLOGIA":   
-tossicologia sperimentale;   
-cancerogenesi e teratogenesi;   
-tossicologia dell'ambiente e misure di prevenzione;   
-chimica tossicologica e tecniche di riconoscimento di sostanze tossiche;   
-anatomia ed istopatologia degli stati tossici;   
-epidemiologia;   
-terapia e prevenzione degli stati tossici I.   
-4° Anno:   
-a) INDIRIZZO "FARMACOLOGIA DI BASE":   
-farmacologia speciale;   
-modelli sperimentali di malattie umane;   
-metodi di allevamento, incrocio e stabulazione degli animali da laboratorio;   
-principi di sperimentazione sull'uomo e farmacologia preclinica;   
-legislazione in campo di farmaci.   
-b) INDIRIZZO "FARMACOLOGIA CLINICA":   
-farmacologia speciale in connessione con la patologia degli organi e con la pratica clinica II;   
-farmacologia in eta' prenatale, perinatale ed in geriatria; chemioterapia clinica;   
-deontologia e legislazione in campo di farmacologia clinica.   
-c) INDIRIZZO "TOSSICOLOGIA":   
-tossicologia sistematica;   
-terapia e prevenzione degli stati tossici II;   
-tossicologia nutrizionale;   
-tossicologia da abuso di farmaci;   
-organizzazione di centri antiveleni ed antidroga;   
-legislazione concernente la tossicologia individuale e di ambiente.   
-Ciascun corso di lezioni e' accompagnato da esercitazioni pratiche.  
-Gli insegnamenti vengono integrati da conferenze riguardanti specifici argomenti e problemi farmacoterapici e tossicologici di attualita'.   
-Frequenza: l'insegnamento si svolge normalmente secondo il calendario universitario durante il periodo delle lezioni. La durata del corso si prolunga tuttavia per tutto l'anno solare, senza interruzioni, per la pratica di laboratorio e clinica, che si esplica attraverso l'esercitazione pratica nei reparti.   
-La frequenza ai corsi ed all'esercitazione pratica nei reparti sono obbligatori.   
-L'indirizzo di "farmacologia clinica" e di "tossicologia" prevede una esercitazione pratica nei reparti di almeno un anno in una clinica specializzata. Per essere ammesso all'anno successivo il candidato, al termine di ogni anno, deve superare un esame di profitto comprensivo delle materie di insegnamento dell'anno frequentato. Superati gli esami di profitto prescritti per il 4° anno, il candidato viene ammesso all'esame per il diploma di specializzazione, che consiste nella discussione orale di una dissertazione scritta su di un tema originale approvato dal direttore della scuola.   
-La direzione della scuola e' affidata a professore ordinario, straordinario o fuori ruolo che insegni anche nella scuola stessa. In caso di motivato impedimento la direzione della scuola e' affidata a professore associato, che pure insegni nella scuola medesima.   
-Il direttore puo' durare in carica quattro anni e puo' essere rieletto. Il direttore nomina un vice-direttore responsabile della attivita' didattica e scientifica per ogni indirizzo attivato.   
-Sede ed organizzazione della scuola: le lezioni teoriche e le esercitazioni di laboratorio hanno luogo nei locali messi a disposizione dall'istituto di farmacologia.   
-Per quanto non regolato dagli articoli di cui sopra, si fa riferimento alle norme generali dello statuto della Universita' cattolica.   
-  
+tassa di immatricolazione (da versare
+una volta sola) . . . . . . . . . . . . . . . . . . . . . . .L. 50.000
+tassa annuale di iscrizione . . . . . . . . . . . . . . . . .L. 20.000
+soprattassa annuale di esame. . . . . . . . . . . . . . . . .L. 10.000
+contributi di laboratorio. . . . . . . . . . . . . . . . . .L. 100.000
+tassa erariale di diploma. . . . . . . . . . . . . . . . . . .L. 6.000
+libretto e tessera. . . . . . . . . . . . . . . . . . . . . .L. 10.000
+ L. 200.000
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 5 dicembre 1980
+Dato a Roma, addi' 10 settembre 1980
 
-PERTINI BODRATO
-
-Visto, il Guardasigilli: SARTI
-
-Registrato alla Corte dei conti, addi' 17 ottobre 1981
-
-Registro n. 96 Istruzione, foglio n. 356
+PERTINI SARTI Visto, il Guardasigilli: SARTI Registrato alla Corte dei conti, addi' 21 gennaio 1981 Registro n. 4 Istruzione, foglio n. 241

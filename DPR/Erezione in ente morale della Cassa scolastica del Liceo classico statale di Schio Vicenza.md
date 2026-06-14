@@ -1,19 +1,21 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 22 gennaio 1955 n. 211
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 211
+data: 1955-01-22
+titolo: "Erezione in ente morale della Cassa scolastica del Liceo classico statale di Schio (Vicenza)."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1955-01-22;211
+codice_redazionale: 055U0211
+vigente: true
+---
 
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 22 gennaio 1955 n. 211
-==============================================================
-
-Erezione in ente morale della Cassa scolastica del Liceo classico statale di Schio (Vicenza).
----------------------------------------------------------------------------------------------
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-211. Decreto del Presidente della Repubblica 22 gennaio 1955, col quale, sulla proposta del Ministro per la pubblica istruzione, la Cassa scolastica del Liceo classico statale di Schio (Vicenza) viene eretta in ente morale e ne viene approvato lo statuto.  
-  
-Visto, il Guardasigilli: DE PIETRO  
-Registrato alla Corte dei conti, addi' 26 marzo 1955  
-Atti del Governo, registro n. 89, foglio n. 172. - CARLOMAGNO
+211.
+
+Decreto del Presidente della Repubblica 22 gennaio 1955, col quale, sulla proposta del Ministro per la pubblica istruzione, la Cassa scolastica del Liceo classico statale di Schio (Vicenza) viene eretta in ente morale e ne viene approvato lo statuto.
+
+Visto, il Guardasigilli: DE PIETRO
+ Registrato alla Corte dei conti, addi' 26 marzo 1955
+ Atti del Governo, registro n. 89, foglio n. 172. - CARLOMAGNO

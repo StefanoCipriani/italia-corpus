@@ -1,20 +1,20 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 09 maggio 1961 n. 740
-
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 09 maggio 1961 n. 740
-=============================================================
-
-Norme sul trattamento economico e normativo degli operai dipendenti dalle imprese edili ed affini delle province di Bergamo, Brescia, Como, Cremona, Mantova, Milano, Pavia, Sondrio e Varese.
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 740
+data: 1961-05-09
+titolo: "Norme sul trattamento economico e normativo degli operai dipendenti dalle imprese edili ed affini delle province di Bergamo, Brescia, Como, Cremona, Mantova, Milano, Pavia, Sondrio e Varese."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1961-05-09;740
+codice_redazionale: 061U0740
+vigente: true
+---
 
 IL PRESIDENTE DELLA REPUBBLICA
-------------------------------
 
-Visto l'[art. 87, comma quinto, della Costituzione](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27~art87-com5);
+Visto l'[art. 87, comma quinto, della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87-com5);
 
-Vista la [legge 14 luglio 1959, n. 741](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1959-07-14;741), che delega il Governo ad emanare norme transitorie per garantire minimi di trattamento economico e normativo ai lavoratori;
+Vista la [legge 14 luglio 1959, n. 741](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1959-07-14;741), che delega il Governo ad emanare norme transitorie per garantire minimi di trattamento economico e normativo ai lavoratori;
 
-Vista la [legge 1 ottobre 1960, n. 1027](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1960-10-01;1027), recante modifiche alla predetta [legge 14 luglio 1959, n. 741](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1959-07-14;741);
+Vista la [legge 1 ottobre 1960, n. 1027](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1960-10-01;1027), recante modifiche alla predetta [legge 14 luglio 1959, n. 741](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1959-07-14;741);
 
 Visto il contratto collettivo nazionale di lavoro 24 luglio 1959 per gli operai addetti alle industrie edilizia ed affini;
 
@@ -48,128 +48,33 @@ Vista la pubblicazione nell'apposito Bollettino, n. 1 della provincia di Bergamo
 
 Sentito il Consiglio dei Ministri;
 
-Sulla
------
+Sulla proposta del Ministro per il lavoro e la previdenza sociale; Decreta:
 
-proposta del Ministro per il lavoro e la previdenza sociale; Decreta:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-I rapporti di lavoro, costituiti per le attivita' edili ed affini per le quali sono stati stipulati, relativamente agli operai:  
-- per la provincia di Bergamo, il contratto collettivo integrativo 2 ottobre 1959;  
-- per la provincia di Brescia, il contratto collettivo integrativo 24 settembre 1959;  
-- per la provincia di Como, esclusi il Comune ed il circondario di Lecco, il contratto collettivo integrativo 1 ottobre 1959 ed il contratto collettivo integrativo 18 marzo 1953, artt. 1 e 2;  
-- per Lecco e Circondario, l'accordo collettivo integrativo 1 ottobre 1959;  
-- per la provincia di Cremona, il contratto collettivo integrativo 28 settembre 1959;  
-- per la provincia di Mantova, l'accordo collettivo integrativo 30 settembre 1959;  
-- per la provincia di Milano, l'accordo collettivo integrativo 22 settembre 1959;  
-- per la provincia di Pavia, il contratto collettivo integrativo 26 settembre 1959;  
-- per la provincia di Sondrio, il contratto collettivo integrativo 29 settembre 1959;  
-- per la provincia di Varese, il contratto collettivo integrativo 29 settembre 1959;  
-sono regolati da norme giuridiche uniformi alle clausole dei contratti e degli accordi anzidetti, annessi al presente decreto.  
-Dette norme sono integrative di quelle concernenti la disciplina nazionale della categoria, purche' con esse compatibili.  
-I minimi di trattamento economico e normativo cosi' stabiliti sono inderogabili nei confronti di tutti gli operai dipendenti dalle imprese edili ed affini delle province di Bergamo, Brescia, Como, Cremona, Mantova, Milano, Pavia, Sondrio e Varese.
-
-((1))
-
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-### Dato a Roma, addi' 9 maggio 1961
-
-GRONCHI FANFANI - SULLO
-
-Visto, il Guardasigilli: GONELLA
-
-Registrato alla Corte dei conti, addi' 27 luglio 1961
-
-Atti del Governo, registro n. 137, foglio n. 199. -- VILLA
+I rapporti di lavoro, costituiti per le attivita' edili ed affini per le quali sono stati stipulati, relativamente agli operai:
+ - per la provincia di Bergamo, il contratto collettivo integrativo 2 ottobre 1959;
+ - per la provincia di Brescia, il contratto collettivo integrativo 24 settembre 1959;
+ - per la provincia di Como, esclusi il Comune ed il circondario di Lecco, il contratto collettivo integrativo 1 ottobre 1959 ed il contratto collettivo integrativo 18 marzo 1953, artt. 1 e 2;
+ - per Lecco e Circondario, l'accordo collettivo integrativo 1 ottobre 1959;
+ - per la provincia di Cremona, il contratto collettivo integrativo 28 settembre 1959;
+ - per la provincia di Mantova, l'accordo collettivo integrativo 30 settembre 1959;
+ - per la provincia di Milano, l'accordo collettivo integrativo 22 settembre 1959;
+ - per la provincia di Pavia, il contratto collettivo integrativo 26 settembre 1959;
+ - per la provincia di Sondrio, il contratto collettivo integrativo 29 settembre 1959;
+ - per la provincia di Varese, il contratto collettivo integrativo 29 settembre 1959;
+sono regolati da norme giuridiche uniformi alle clausole dei contratti e degli accordi anzidetti, annessi al presente decreto.
+ Dette norme sono integrative di quelle concernenti la disciplina nazionale della categoria, purche' con esse compatibili.
+ I minimi di trattamento economico e normativo cosi' stabiliti sono inderogabili nei confronti di tutti gli operai dipendenti dalle imprese edili ed affini delle province di Bergamo, Brescia, Como, Cremona, Mantova, Milano, Pavia, Sondrio e Varese. ((1))
 
 ---------------
 
 AGGIORNAMENTO (1)
 
-La Corte Costituzionale, con sentenza 27 febbraio-17 marzo 1969, n. 34 (in G.U. 1a s.s. 26/03/1969, n. 78), ha dichiarato "l'illegittimita' costituzionale dell'articolo unico del [decreto del Presidente della Repubblica 9 maggio 1961, n. 740](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1961-05-09;740), nella parte in cui rende obbligatorio erga omnes il terzo comma dell'art. 7 dell'accordo collettivo 22 settembre 1959, integrativo del contratto collettivo nazionale di lavoro 24 luglio 1959, da valere per gli operai dipendenti dalle imprese delle industrie edilizia e affini della provincia di Milano."
+La Corte Costituzionale, con sentenza 27 febbraio-17 marzo 1969, n. 34 (in G.U. 1a s.s. 26/03/1969, n. 78), ha dichiarato "l'illegittimita' costituzionale dell'articolo unico del [decreto del Presidente della Repubblica 9 maggio 1961, n. 740](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1961-05-09;740), nella parte in cui rende obbligatorio erga omnes il terzo comma dell'art. 7 dell'accordo collettivo 22 settembre 1959, integrativo del contratto collettivo nazionale di lavoro 24 luglio 1959, da valere per gli operai dipendenti dalle imprese delle industrie edilizia e affini della provincia di Milano."
 
-Allegati
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 
-CONTRATTO COLLETTIVO 2 OTTOBRE 1959, INTEGRATIVO DEL CONTRATTO COLLETTIVO NAZIONALE DI LAVORO 24 LUGLIO 1959, DA VALERE PER GLI OPERAI ADDETTI ALLE INDUSTRIE EDILIZIA ED AFFINI DELLA PROVINCIA DI BERGAMO   
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=061U074000100010110001&dgu=1961-08-14&art.dataPubblicazioneGazzetta=1961-08-14&art.codiceRedazionale=061U0740)
-  
-  
-  
-  
-CONTRATTO COLLETTIVO DI LAVORO 24 SETTEMBRE 1959, INTEGRATIVO DEL CONTRATTO COLLETTIVO NAZIONALE DI LAVORO 24 LUGLIO 1959, PER GLI OPERAI ADDETTI ALLE INDUSTRIE EDILIZIA ED AFFINI DELLA PROVINCIA DI BRESCIA   
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=061U074000100010110002&dgu=1961-08-14&art.dataPubblicazioneGazzetta=1961-08-14&art.codiceRedazionale=061U0740)
-  
-  
-  
-  
-CONTRATTO COLLETTIVO 1 ottobre 1959, INTEGRATIVO DEL CONTRATTO COLLETTIVO NAZIONALE DI LAVORO 24 LUGLIO 1959, DA VALERE PER GLI OPERAI DIPENDENTI DALLE IMPRESE DELLE INDUSTRIE EDILIZIA ED AFFINI DELLA PROVINCIA DI COMO   
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=061U074000100010110003&dgu=1961-08-14&art.dataPubblicazioneGazzetta=1961-08-14&art.codiceRedazionale=061U0740)
-  
-  
-  
-  
-ACCORDO COLLETTIVO 1 ottobre 1959, INTEGRATIVO DEL CONTRATTO NAZIONALE DI LAVORO 24 LUGLIO 1959, DA VALERE PER GLI OPERAI DIPENDENTI DALLE IMPRESE EDILI DI LECCO E ZONA DI GIURISDIZIONE   
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=061U074000100010110004&dgu=1961-08-14&art.dataPubblicazioneGazzetta=1961-08-14&art.codiceRedazionale=061U0740)
-  
-  
-  
-  
-CONTRATTO COLLETTIVO 28 SETTEMBRE 1959, INTEGRATIVO DEL CONTRATTO COLLETTIVO NAZIONALE DI LAVORO 24 LUGLIO 1959, DA VALERE PER GLI OPERAI ADDETTI ALLE INDUSTRIE EDILIZIA ED AFFINI DELLA PROVINCIA DI CREMONA   
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=061U074000100010110005&dgu=1961-08-14&art.dataPubblicazioneGazzetta=1961-08-14&art.codiceRedazionale=061U0740)
-  
-  
-  
-  
-ACCORDO COLLETTIVO 30 SETTEMBRE 1959, INTEGRATIVO DEL CONTRATTO COLLETTIVO NAZIONALE DI LAVORO 24 LUGLIO 1959, DA VALERE PER GLI OPERAI DELLE INDUSTRIE EDILIZIA ED AFFINI DELLA PROVINCIA DI MANTOVA   
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=061U074000100010110006&dgu=1961-08-14&art.dataPubblicazioneGazzetta=1961-08-14&art.codiceRedazionale=061U0740)
-  
-  
-  
-  
-ACCORDO COLLETTIVO 22 SETTEMBRE 1959, INTEGRATIVO DEL CONTRATTO COLLETTIVO NAZIONALE DI LAVORO 21 LUGLIO 1959, DA VALERE PER GLI OPERAI DIPENDENTI DALLE IMPRESE DELLE INDUSTRIE EDILIZIA ED AFFINI DELLA PROVINCIA DI MILANO   
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=061U074000100010110007&dgu=1961-08-14&art.dataPubblicazioneGazzetta=1961-08-14&art.codiceRedazionale=061U0740)
-  
-  
-  
-  
-CONTRATTO COLLETTIVO 26 SETTEMBRE 1959, INTEGRATIVO DEL CONTRATTO COLLETTIVO NAZIONALE DI LAVORO 24 LUGLIO 1959, DA VALERE PER GLI OPERAI DIPENDENTI DALLE IMPRESE DELLE INDUSTRIE EDILIZIA ED AFFINI DELLA PROVINCIA DI PAVIA   
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=061U074000100010110008&dgu=1961-08-14&art.dataPubblicazioneGazzetta=1961-08-14&art.codiceRedazionale=061U0740)
-  
-  
-  
-  
-CONTRATTO COLLETTIVO 29 SETTEMBRE 1959, INTEGRATIVO DEL CONTRATTO COLLETTIVO NAZIONALE DI LAVORO 24 LUGLIO 1959, DA VALERE PER GLI OPERAI ADDETTI ALLE INDUSTRIE EDILIZIA ED AFFINI DELLA PROVINCIA DI SONDRIO   
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=061U074000100010110009&dgu=1961-08-14&art.dataPubblicazioneGazzetta=1961-08-14&art.codiceRedazionale=061U0740)
-  
-  
-  
-  
-CONTRATTO COLLETTIVO 29 SETTEMBRE 1959, INTEGRATIVO DEL CONTRATTO COLLETTIVO NAZIONALE DI LAVORO 24 LUGLIO 1959, DA VALERE PER GLI OPERAI ADDETTI ALLE INDUSTRIE EDILIZIA ED AFFINI DELLA PROVINCIA DI VARESE.   
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=061U074000100010110010&dgu=1961-08-14&art.dataPubblicazioneGazzetta=1961-08-14&art.codiceRedazionale=061U0740)
-  
+Dato a Roma, addi' 9 maggio 1961
+
+GRONCHI FANFANI - SULLO Visto, il Guardasigilli: GONELLA Registrato alla Corte dei conti, addi' 27 luglio 1961 Atti del Governo, registro n. 137, foglio n. 199. -- VILLA

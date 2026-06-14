@@ -1,19 +1,21 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 20 giugno 1984 n. 651
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 951
+data: 1983-12-19
+titolo: "Autorizzazione alla fondazione \"Pro juventute don Carlo Gnocchi\", in Roma, ad accettare un legato."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1983-12-19;951
+codice_redazionale: 083U0951
+vigente: true
+---
 
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 20 giugno 1984 n. 651
-=============================================================
-
-Autorizzazione alla fondazione "Pro juventute don Carlo Gnocchi", in Roma, ad accettare un legato.
---------------------------------------------------------------------------------------------------
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-651. Decreto del Presidente della Repubblica 20 giugno 1984, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la fondazione "Pro juventute don Carlo Gnocchi", in Roma, viene autorizzata ad accettare il legato, consistente nella somma di lire 15.000.000, disposto dal sig. Picozzi Alessandro con testamento olografo 6 ottobre 1980, pubblicato in data 7 maggio 1981, n. 132021 di repertorio e n. 5425 di raccolta, a rogito dott. Michele Palermo-Patera, notaio in Milano, registrato a Milano il 15 maggio 1982 al n. 12610.  
-  
-Visto, il Guardasigilli: MARTINAZZOLI  
-Registrato alla Corte dei conti, addi' 27 settembre 1984  
-Registro n. 8 Presidenza, foglio n. 91
+951.
+
+Decreto del Presidente della Repubblica 19 dicembre 1983, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la fondazione "Pro juventute don Carlo Gnocchi", in Roma, viene autorizzata ad accettare il legato, consistente in buoni del Tesoro per un valore complessivo di L. 300.000.000, disposto dalla sig.na Marazzi Castiglioni Brambilla Giovanna con testamento olografo 10 novembre 1977, pubblicato in data 22 aprile 1981, n. 474653/2970 di repertorio, a rogito dott. Giovanni Lainati, notaio in Milano, registrato a Milano in data 8 maggio 1981 al n. 9936.
+
+Visto, il Guardasigilli: MARTINAZZOLI
+ Registrato alla Corte dei conti, addi' 15 febbraio 1984
+ Registro n. 2 Presidenza, foglio n. 131

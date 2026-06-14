@@ -1,134 +1,105 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 19 giugno 1979 n. 421
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 421
+data: 1979-06-19
+titolo: "Coordinamento delle disposizioni regolanti la contabilita' delle province e dei comuni con le disposizioni di cui alla legge 5 agosto 1978, n. 468 e di cui alla legge 19 maggio 1976, n. 335."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1979-06-19;421
+codice_redazionale: 079U0421
+vigente: true
+---
 
+## Art. 1.
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 19 giugno 1979 n. 421
-=============================================================
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 25 FEBBRAIO 1995, N. 77))
 
-Coordinamento delle disposizioni regolanti la contabilita' delle province e dei comuni con le disposizioni di cui alla legge 5 agosto 1978, n. 468 e di cui alla legge 19 maggio 1976, n. 335.
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+## Art. 2.
 
-Art. 1
-------
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 25 FEBBRAIO 1995, N. 77))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 25 FEBBRAIO 1995, N. 77](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1995-02-25;77)))
+## Art. 3.
 
-Art. 2
-------
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 25 FEBBRAIO 1995, N. 77))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 25 FEBBRAIO 1995, N. 77](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1995-02-25;77)))
+## Art. 4.
 
-Art. 3
-------
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 25 FEBBRAIO 1995, N. 77))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 25 FEBBRAIO 1995, N. 77](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1995-02-25;77)))
+## Art. 5.
 
-Art. 4
-------
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 25 FEBBRAIO 1995, N. 77))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 25 FEBBRAIO 1995, N. 77](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1995-02-25;77)))
+## Art. 6.
 
-Art. 5
-------
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 25 FEBBRAIO 1995, N. 77))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 25 FEBBRAIO 1995, N. 77](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1995-02-25;77)))
+## Art. 7.
 
-Art. 6
-------
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 25 FEBBRAIO 1995, N. 77))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 25 FEBBRAIO 1995, N. 77](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1995-02-25;77)))
+## Art. 8.
 
-Art. 7
-------
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 25 FEBBRAIO 1995, N. 77))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 25 FEBBRAIO 1995, N. 77](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1995-02-25;77)))
+## Art. 9.
 
-Art. 8
-------
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 25 FEBBRAIO 1995, N. 77))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 25 FEBBRAIO 1995, N. 77](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1995-02-25;77)))
+## Art. 10.
 
-Art. 9
-------
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 25 FEBBRAIO 1995, N. 77))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 25 FEBBRAIO 1995, N. 77](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1995-02-25;77)))
+## Art. 11.
 
-Art. 10
--------
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 25 FEBBRAIO 1995, N. 77))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 25 FEBBRAIO 1995, N. 77](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1995-02-25;77)))
+## Art. 12.
 
-Art. 11
--------
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 25 FEBBRAIO 1995, N. 77))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 25 FEBBRAIO 1995, N. 77](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1995-02-25;77)))
+## Art. 13.
 
-Art. 12
--------
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 25 FEBBRAIO 1995, N. 77))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 25 FEBBRAIO 1995, N. 77](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1995-02-25;77)))
+## Art. 14.
 
-Art. 13
--------
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 25 FEBBRAIO 1995, N. 77))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 25 FEBBRAIO 1995, N. 77](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1995-02-25;77)))
+## Art. 15.
 
-Art. 14
--------
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 25 FEBBRAIO 1995, N. 77))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 25 FEBBRAIO 1995, N. 77](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1995-02-25;77)))
+## Art. 16.
 
-Art. 15
--------
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 25 FEBBRAIO 1995, N. 77))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 25 FEBBRAIO 1995, N. 77](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1995-02-25;77)))
+## Art. 17.
 
-Art. 16
--------
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 25 FEBBRAIO 1995, N. 77))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 25 FEBBRAIO 1995, N. 77](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1995-02-25;77)))
+## Art. 18.
 
-Art. 17
--------
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 25 FEBBRAIO 1995, N. 77))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 25 FEBBRAIO 1995, N. 77](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1995-02-25;77)))
+## Art. 19.
 
-Art. 18
--------
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 25 FEBBRAIO 1995, N. 77))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 25 FEBBRAIO 1995, N. 77](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1995-02-25;77)))
+## Art. 20.
 
-Art. 19
--------
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 25 FEBBRAIO 1995, N. 77))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 25 FEBBRAIO 1995, N. 77](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1995-02-25;77)))
+## Art. 21.
 
-Art. 20
--------
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 25 FEBBRAIO 1995, N. 77))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 25 FEBBRAIO 1995, N. 77](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1995-02-25;77)))
+## Art. 22.
 
-Art. 21
--------
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 25 FEBBRAIO 1995, N. 77))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 25 FEBBRAIO 1995, N. 77](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1995-02-25;77)))
+## Art. 23.
 
-Art. 22
--------
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 25 FEBBRAIO 1995, N. 77))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 25 FEBBRAIO 1995, N. 77](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1995-02-25;77)))
+## Art. 24.
 
-Art. 23
--------
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 25 FEBBRAIO 1995, N. 77](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1995-02-25;77)))
-
-Art. 24
--------
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 25 FEBBRAIO 1995, N. 77](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1995-02-25;77)))
-
-Allegato A
-
- Allegato A   
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 25 FEBBRAIO 1995, N. 77](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1995-02-25;77)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 25 FEBBRAIO 1995, N. 77))

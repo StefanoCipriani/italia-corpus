@@ -1,19 +1,21 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 23 giugno 1970 n. 637
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 632
+data: 1970-06-23
+titolo: "Autorizzazione all'Istituto nazionale per l'addestramento ed il perfezionamento dei lavoratori dell'industria, con sede in Roma, ad acquistare un appezzamento di terreno."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1970-06-23;632
+codice_redazionale: 070U0632
+vigente: true
+---
 
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 23 giugno 1970 n. 637
-=============================================================
-
-Autorizzazione all'Istituto nazionale per l'addestramento ed il perfezionamento dei lavoratori dell'industria, con sede in Roma, ad acquistare un appezzamento di terreno.
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-637. Decreto del Presidente della Repubblica 23 giugno 1970, col quale, sulla proposta del Ministro per il lavoro e la previdenza sociale, l'Istituto nazionale per l'addestramento ed il perfezionamento dei lavoratori dell'industria (INAPLI), con sede in Roma, viene autorizzato ad acquistare, dal comune di Lecce, un appezzamento di terreno edificatorio, di mq. 1090 circa, sito nel predetto comune e distinto in catasto al foglio di mappa n. 211, particella n. 761, alle condizioni ed agli effetti come da atto pubblico di compravendita per segretario generale del comune di Lecce Enrico Riano', repertorio n. 115 del 13 febbraio 1965.  
-  
-Visto, il Guardasigilli: REALE  
-Registrato alla Corte dei conti, addi' 20 agosto 1970  
-Atti del Governo, registro n. 237, foglio n. 45. - CARUSO
+632.
+
+Decreto del Presidente della Repubblica 23 giugno 1970, col quale, sulla proposta del Ministro per il lavoro e la previdenza sociale, l'Istituto nazionale per l'addestramento ed il perfezionamento dei lavoratori dell'industria (INAPLI), con sede in Roma, viene autorizzato ad acquistare dalle signore Agnese Munzi ved. Bruguier Calderai e Aristea Bruguier Calderai, l'appezzamento di terreno edificatorio di mq. 5507, sito in Pescia, localita' Stazione e distinto in catasto alla partita n. 1084, foglio n. 86, particelle n. 161 e n. 163.
+
+Visto, il Guardasigilli: REALE
+ Registrato alla Corte dei conti, addi' 20 agosto 1970
+ Atti del Governo, registro n. 237, foglio n. 44. - CARUSO

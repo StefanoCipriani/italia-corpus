@@ -1,64 +1,60 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 06 giugno 2001 n. 379
-
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 06 giugno 2001 n. 379
-=============================================================
-
-Disposizioni regolamentari in materia edilizia. (Testo C)
----------------------------------------------------------
-
-Entrata in vigore del decreto: 01/01/2002.  
-  
-L'atto e' integrato con le correzioni apportate dall'avviso di rettifica pubblicato in G.U. 13/11/2001, n. 264 durante il periodo di "vacatio legis". E' possibile visualizzare la versione originaria accedendo al pdf della relativa Gazzetta Ufficiale di pubblicazione.
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 379
+data: 2001-06-06
+titolo: "Disposizioni regolamentari in materia edilizia. (Testo C)"
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:2001-06-06;379
+codice_redazionale: 001G0428
+vigente: true
+---
 
 IL PRESIDENTE DELLA REPUBBLICA
-------------------------------
 
-Visto l'[articolo 87, comma quinto, della Costituzione](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27~art87-com5);
+Visto l'[articolo 87, comma quinto, della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87-com5);
 
-Visto l'[articolo 17, comma 2, della legge 23 agosto 1988, n. 400](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400~art17-com2);
+Visto l'[articolo 17, comma 2, della legge 23 agosto 1988, n. 400](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400#art_17-com2);
 
-Visto l'[articolo 7 della legge 8 marzo 1999, n. 50](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1999-03-08;50~art7), come modificato dall'[articolo 1, comma 6, lettere d)](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2000-11-24;340~art1-com6-letd) ed [e), della legge 24 novembre 2000, n. 340](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2000-11-24;340~art1-com6-lete);
+Visto l'[articolo 7 della legge 8 marzo 1999, n. 50](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1999-03-08;50#art_7), come modificato dall'[articolo 1, comma 6, lettere d)](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2000-11-24;340#art_1-com6-letd) ed [e), della legge 24 novembre 2000, n. 340](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2000-11-24;340#art_1-com6-lete);
 
-Visto il punto 2 dell'allegato n. 3 della [legge 8 marzo 1999, n. 50](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1999-03-08;50);
+Visto il punto 2 dell'allegato n. 3 della [legge 8 marzo 1999, n. 50](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1999-03-08;50);
 
-Visto l'[articolo 20 della legge 15 marzo 1997, n. 59](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997-03-15;59~art20), allegato 1, n. 105 e n. 112-quinquies;
+Visto l'[articolo 20 della legge 15 marzo 1997, n. 59](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997-03-15;59#art_20), allegato 1, n. 105 e n. 112-quinquies;
 
-Visto l'[articolo 1 della legge 16 giugno 1998, n. 191](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1998-06-16;191~art1);
+Visto l'[articolo 1 della legge 16 giugno 1998, n. 191](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1998-06-16;191#art_1);
 
-Vista la [legge 24 novembre 2000, n. 340](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2000-11-24;340), allegato A, numeri 12, 14, 46, 47, 48, 51 e 52;
+Vista la [legge 24 novembre 2000, n. 340](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2000-11-24;340), allegato A, numeri 12, 14, 46, 47, 48, 51 e 52;
 
-Visti gli [articoli 14](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-08-07;241~art14), [16](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-08-07;241~art16), [19](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-08-07;241~art19) e [20 della legge 7 agosto 1990, n. 241](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-08-07;241~art20), e successive modificazioni;
+Visti gli [articoli 14](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-08-07;241#art_14), [16](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-08-07;241#art_16), [19](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-08-07;241#art_19) e [20 della legge 7 agosto 1990, n. 241](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-08-07;241#art_20), e successive modificazioni;
 
-Vista la [legge 17 agosto 1942, n. 1150](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1942-08-17;1150), e successive modificazioni;
+Vista la [legge 17 agosto 1942, n. 1150](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1942-08-17;1150), e successive modificazioni;
 
-Vista la [legge 28 gennaio 1977, n. 10](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1977-01-28;10), e successive modificazioni;
+Vista la [legge 28 gennaio 1977, n. 10](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1977-01-28;10), e successive modificazioni;
 
-Vista la [legge 28 febbraio 1985, n. 47](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1985-02-28;47), e successive modificazioni;
+Vista la [legge 28 febbraio 1985, n. 47](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1985-02-28;47), e successive modificazioni;
 
-Visto il [decreto legislativo 18 agosto 2000, n. 267](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2000-08-18;267);
+Visto il [decreto legislativo 18 agosto 2000, n. 267](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2000-08-18;267);
 
-Visto il [decreto-legge 23 gennaio 1982, n. 9](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1982-01-23;9), convertito, con modificazioni, dalla [legge 25 marzo 1982, n. 94](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1982-03-25;94);
+Visto il [decreto-legge 23 gennaio 1982, n. 9](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1982-01-23;9), convertito, con modificazioni, dalla [legge 25 marzo 1982, n. 94](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2023%20gennaio%201982%20n.%209%20concernente%20norme%20per%20ledilizia%20residenziale%20e%20provvidenze%20in%20materia%20di%20sfratti.md);
 
-Visto l'[articolo 4 del decreto-legge 5 ottobre 1993, n. 398](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1993-10-05;398~art4), convertito, con modificazioni, dalla [legge 4 dicembre 1993, n. 493](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-12-04;493), e successive modificazioni;
+Visto l'[articolo 4 del decreto-legge 5 ottobre 1993, n. 398](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1993-10-05;398#art_4), convertito, con modificazioni, dalla [legge 4 dicembre 1993, n. 493](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%205%20ottobre%201993%20n.%20398%20recante%20disposizioni%20per%20laccelerazione%20degli%20investimenti%20a%20sostegno%20delloccupazione%20e%20per%20la%20semplificazio_99f0122da236.md), e successive modificazioni;
 
-Visto il [decreto legislativo 29 ottobre 1999, n. 490](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1999-10-29;490);
+Visto il [decreto legislativo 29 ottobre 1999, n. 490](../Atti%20normativi%20abrogati%20%28in%20originale%29/Testo%20unico%20delle%20disposizioni%20legislative%20in%20materia%20di%20beni%20culturali%20e%20ambientali%20a%20norma%20dellarticolo%201%20della%20legge%208%20ottobre%201997%20n.%20352.md);
 
-Visto il [regio decreto 27 luglio 1934, n. 1265](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265), e successive modificazioni;
+Visto il [regio decreto 27 luglio 1934, n. 1265](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265), e successive modificazioni;
 
-Vista la [legge 5 novembre 1971, n. 1086](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1971-11-05;1086), e successive modificazioni;
+Vista la [legge 5 novembre 1971, n. 1086](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1971-11-05;1086), e successive modificazioni;
 
-Vista la [legge 2 febbraio 1974, n. 64](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1974-02-02;64), e successive modificazioni;
+Vista la [legge 2 febbraio 1974, n. 64](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1974-02-02;64), e successive modificazioni;
 
-Vista la [legge 9 gennaio 1989, n. 13](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1989-01-09;13), e successive modificazioni;
+Vista la [legge 9 gennaio 1989, n. 13](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1989-01-09;13), e successive modificazioni;
 
-Visto l'[articolo 24 della legge 5 febbraio 1992, n. 104](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1992-02-05;104~art24), e successive modificazioni;
+Visto l'[articolo 24 della legge 5 febbraio 1992, n. 104](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1992-02-05;104#art_24), e successive modificazioni;
 
-Vista la [legge 5 marzo 1990, n. 46](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-03-05;46), e successive modificazioni;
+Vista la [legge 5 marzo 1990, n. 46](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-03-05;46), e successive modificazioni;
 
 Viste le preliminari deliberazioni del Consiglio dei Ministri, adottate nelle riunioni del 16 febbraio 2001 e del 4 aprile 2001;
 
-Sentita la Conferenza unificata ai sensi dell'[articolo 9, comma 3, del decreto legislativo 28 agosto 1997, n. 281](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1997-08-28;281~art9-com3);
+Sentita la Conferenza unificata ai sensi dell'[articolo 9, comma 3, del decreto legislativo 28 agosto 1997, n. 281](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1997-08-28;281#art_9-com3);
 
 Udito il parere del Consiglio di Stato, espresso nella Sezione consultiva per gli atti normativi nell'adunanza generale del 29 marzo 2001;
 
@@ -68,1039 +64,895 @@ Vista la deliberazione del Consiglio dei Ministri, adottata nella riunione del 2
 
 Su proposta del Presidente del Consiglio dei Ministri e del Ministro per la funzione pubblica, di concerto con i Ministri per gli affari regionali, per i lavori pubblici, per i beni e le attivita' culturali;
 
-Emana
------
+Emana il seguente regolamento:
 
-il seguente regolamento:
+## ATTIVITA' EDILIZIA  Titolo I DISPOSIZIONI GENERALI  Capo I Attivita' edilizia
 
-CAPO I Parte I ATTIVITA' EDILIZIA Titolo I DISPOSIZIONI GENERALI Capo I Attivita' edilizia
-------------------------------------------------------------------------------------------
+Parte I
 
-### Art. 1
+### Art. 1. — (L)
+ Ambito di applicazione
 
-(L)  
-Ambito di applicazione
+### Art. 2.
 
-### Art. 2
+Competenze delle regioni e degli enti locali
 
-  
-Competenze delle regioni e degli enti locali  
+### Art. 3. — (L)
+ Definizioni degli interventi edilizi
 
-### Art. 3
+### Art. 4. — (L)
+ Regolamenti edilizi comunali
 
-(L)  
-Definizioni degli interventi edilizi
-
-### Art. 4
-
-(L)  
-Regolamenti edilizi comunali
-
-### Art. 5
-
-(R)   
-Sportello unico per l'edilizia   
+### Art. 5. — (R) 
+ Sportello unico per l'edilizia 
 (decreto-legge 5 ottobre 1993, n. 398, art. 4, commi 1, 2, 3, 4, 5 e 6, convertito, con modificazioni, dalla legge 4 dicembre 1993, n. 493; art. 220, regio decreto 27 luglio 1934, n. 1265)
 
-1. Le amministrazioni comunali, nell'ambito della propria autonomia organizzativa, provvedono, anche mediante esercizio in forma associata delle strutture ai sensi del Capo V, titolo II del [decreto legislativo 18 agosto 2000, n. 267](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2000-08-18;267), ovvero accorpamento, disarticolazione, soppressione di uffici o organi gia' esistenti, a costituire un ufficio denominato sportello unico per l'edilizia, che cura tutti i rapporti fra il privato, l'amministrazione e, ove occorra, le altre amministrazioni tenute a pronunciarsi in ordine all'intervento edilizio oggetto della richiesta di permesso o di denuncia di inizio attivita'.
+1.
 
-2. Tale ufficio provvede in particolare:
+Le amministrazioni comunali, nell'ambito della propria autonomia organizzativa, provvedono, anche mediante esercizio in forma associata delle strutture ai sensi del Capo V, titolo II del [decreto legislativo 18 agosto 2000, n. 267](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2000-08-18;267), ovvero accorpamento, disarticolazione, soppressione di uffici o organi gia' esistenti, a costituire un ufficio denominato sportello unico per l'edilizia, che cura tutti i rapporti fra il privato, l'amministrazione e, ove occorra, le altre amministrazioni tenute a pronunciarsi in ordine all'intervento edilizio oggetto della richiesta di permesso o di denuncia di inizio attivita'.
 
-a) alla ricezione delle denunce di inizio attivita' e delle domande per il rilascio di permessi di costruire e di ogni altro atto di assenso comunque denominato in materia di attivita' edilizia, ivi compreso il certificato di agibilita', nonche' dei progetti approvati dalla Soprintendenza ai sensi e per gli effetti degli [articoli 36](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1999-10-29;490~art36), [38](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1999-10-29;490~art38) e [46 del decreto legislativo 29 ottobre 1999, n. 490](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1999-10-29;490~art46);
+2.
 
-b) a fornire informazioni sulle materie di cui al punto a), anche mediante predisposizione di un archivio informatico contenente i necessari elementi normativi, che consenta a chi vi abbia interesse l'accesso gratuito, anche in via telematica, alle informazioni sugli adempimenti necessari per lo svolgimento delle procedure previste dal presente regolamento, all'elenco delle domande presentate, allo stato del loro iter procedurale, nonche' a tutte le possibili informazioni utili disponibili;
+Tale ufficio provvede in particolare:
+                            a)
+                                alla ricezione delle denunce di inizio attivita' e delle domande per il rilascio di permessi di costruire e di ogni altro atto di assenso comunque denominato in materia di attivita' edilizia, ivi compreso il certificato di agibilita', nonche' dei progetti approvati dalla Soprintendenza ai sensi e per gli effetti degli [articoli 36](../Atti%20normativi%20abrogati%20%28in%20originale%29/Testo%20unico%20delle%20disposizioni%20legislative%20in%20materia%20di%20beni%20culturali%20e%20ambientali%20a%20norma%20dellarticolo%201%20della%20legge%208%20ottobre%201997%20n.%20352.md), [38](../Atti%20normativi%20abrogati%20%28in%20originale%29/Testo%20unico%20delle%20disposizioni%20legislative%20in%20materia%20di%20beni%20culturali%20e%20ambientali%20a%20norma%20dellarticolo%201%20della%20legge%208%20ottobre%201997%20n.%20352.md) e [46 del decreto legislativo 29 ottobre 1999, n. 490](../Atti%20normativi%20abrogati%20%28in%20originale%29/Testo%20unico%20delle%20disposizioni%20legislative%20in%20materia%20di%20beni%20culturali%20e%20ambientali%20a%20norma%20dellarticolo%201%20della%20legge%208%20ottobre%201997%20n.%20352.md);
+                            b)
+                                a fornire informazioni sulle materie di cui al punto a), anche mediante predisposizione di un archivio informatico contenente i necessari elementi normativi, che consenta a chi vi abbia interesse l'accesso gratuito, anche in via telematica, alle informazioni sugli adempimenti necessari per lo svolgimento delle procedure previste dal presente regolamento, all'elenco delle domande presentate, allo stato del loro iter procedurale, nonche' a tutte le possibili informazioni utili disponibili;
+                            c)
+                                all'adozione, nelle medesime materie, dei provvedimenti in tema di accesso ai documenti amministrativi in favore di chiunque vi abbia interesse ai sensi dell'[articolo 22 e seguenti della legge 7 agosto 1990, n. 241](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-08-07;241#art_22), nonche' delle norme comunali di attuazione;
+                            d)
+                                al rilascio dei permessi di costruire, dei certificati di agibilita', nonche' delle certificazioni attestanti le prescrizioni normative e le determinazioni provvedimentali a carattere urbanistico, paesaggistico ambientale, edilizio e di qualsiasi altro tipo comunque rilevanti ai fini degli interventi di trasformazione edilizia del territorio;
+                            e)
+                                alla cura dei rapporti tra l'amministrazione comunale, il privato e le altre amministrazioni chiamate a pronunciarsi in ordine all'intervento edilizio oggetto dell'istanza o denuncia, con particolare riferimento agli adempimenti connessi all'applicazione della parte II del testo unico.
 
-c) all'adozione, nelle medesime materie, dei provvedimenti in tema di accesso ai documenti amministrativi in favore di chiunque vi abbia interesse ai sensi dell'[articolo 22 e seguenti della legge 7 agosto 1990, n. 241](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-08-07;241~art22), nonche' delle norme comunali di attuazione;
+3.
 
-d) al rilascio dei permessi di costruire, dei certificati di agibilita', nonche' delle certificazioni attestanti le prescrizioni normative e le determinazioni provvedimentali a carattere urbanistico, paesaggistico ambientale, edilizio e di qualsiasi altro tipo comunque rilevanti ai fini degli interventi di trasformazione edilizia del territorio;
+Ai fini del rilascio del permesso di costruire o del certificato di agibilita', l'ufficio di cui al comma 1 acquisisce direttamente, ove questi non siano stati gia' allegati dal richiedente:
+                            a)
+                                il parere dell'A.S.L. nel caso in cui non possa essere sostituito da una autocertificazione ai sensi dell'articolo 20, comma 1;
+                            b)
+                                il parere dei Vigili del fuoco, ove necessario, in ordine al rispetto della normativa antincendio.
 
-e) alla cura dei rapporti tra l'amministrazione comunale, il privato e le altre amministrazioni chiamate a pronunciarsi in ordine all'intervento edilizio oggetto dell'istanza o denuncia, con particolare riferimento agli adempimenti connessi all'applicazione della parte II del testo unico.
+4.
 
-3. Ai fini del rilascio del permesso di costruire o del certificato di agibilita', l'ufficio di cui al comma 1 acquisisce direttamente, ove questi non siano stati gia' allegati dal richiedente:
+L'ufficio cura altresi' gli incombenti necessari ai fini dell'acquisizione, anche mediante conferenza di servizi ai sensi degli [articoli 14](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-08-07;241#art_14), [14-bis](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-08-07;241#art_14bis), [14-ter](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-08-07;241#art_14ter), [14-quater della legge 7 agosto 1990, n. 241](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-08-07;241#art_14quater), degli atti di assenso, comunque denominati, necessari ai fini della realizzazione dell'intervento edilizio. Nel novero di detti assensi rientrano, in particolare:
+                            a)
+                                le autorizzazioni e certificazioni del competente ufficio tecnico della regione, per le costruzioni in zone sismiche di cui agli articoli 61, 94 e 62;
+                            b)
+                                l'assenso dell'amministrazione militare per le costruzioni nelle zone di salvaguardia contigue ad opere di difesa dello Stato o a stabilimenti militari, ((di cui all'articolo 333 del codice dell'ordinamento militare));
+                            c)
+                                l'autorizzazione del direttore della circoscrizione doganale in caso di costruzione, spostamento e modifica di edifici nelle zone di salvaguardia in prossimita' della linea doganale e nel mare territoriale, ai sensi e per gli effetti dell'[articolo 19 del decreto legislativo 8 novembre 1990, n. 374](../Atti%20normativi%20abrogati%20%28in%20originale%29/Riordinamento%20degli%20istituti%20doganali%20e%20revisione%20delle%20procedure%20di%20accertamento%20e%20controllo%20in%20attuazione%20delle%20direttive%20n.%2079-695-CEE%20del%2024%20luglio%201979%20e%20n.%2082-57-CEE%20del%2017%20dicembre_8f7b60df9167.md);
+                            d)
+                                l'autorizzazione dell'autorita' competente per le costruzioni su terreni confinanti con il demanio marittimo, ai sensi e per gli effetti dell'[articolo 55 del codice della navigazione](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md);
+                            e)
+                                gli atti di assenso, comunque denominati, previsti per gli interventi edilizi su immobili vincolati ai sensi degli articoli 21, 23, 24, e 151 del [decreto legislativo 29 ottobre 1999, n. 490](../Atti%20normativi%20abrogati%20%28in%20originale%29/Testo%20unico%20delle%20disposizioni%20legislative%20in%20materia%20di%20beni%20culturali%20e%20ambientali%20a%20norma%20dellarticolo%201%20della%20legge%208%20ottobre%201997%20n.%20352.md), fermo restando che, in caso di dissenso manifestato dall'amministrazione preposta alla tutela dei beni culturali, si procede ai sensi dell'[articolo 25 del decreto legislativo 29 ottobre 1999, n. 490](../Atti%20normativi%20abrogati%20%28in%20originale%29/Testo%20unico%20delle%20disposizioni%20legislative%20in%20materia%20di%20beni%20culturali%20e%20ambientali%20a%20norma%20dellarticolo%201%20della%20legge%208%20ottobre%201997%20n.%20352.md);
+                            f)
+                                il parere vincolante della Commissione per la salvaguardia di Venezia, ai sensi e per gli effetti dell'[articolo 6 della legge 16 aprile 1973, n. 171](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1973-04-16;171#art_6), e successive modificazioni, salvi i casi in cui vi sia stato l'adeguamento al piano comprensoriale previsto dall'articolo 5 della stessa legge, per l'attivita' edilizia nella laguna veneta, nonche' nel territorio dei centri storici di Chioggia e di Sottomarina e nelle isole di Pellestrina, Lido e Sant'Erasmo;
+                            g)
+                                il parere dell'autorita' competente in tema di assetti e vincoli idrogeologici;
+                            h)
+                                gli assensi in materia di servitu' viarie, ferroviarie, portuali ed aeroportuali;
+                            i)
+                                il nulla-osta dell'autorita' competente ai sensi dell'[articolo 13 della legge 6 dicembre 1991, n. 394](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1991-12-06;394#art_13), in tema di aree naturali protette.
 
-a) il parere dell'A.S.L. nel caso in cui non possa essere sostituito da una autocertificazione ai sensi dell'articolo 20, comma 1;
+## TITOLI ABILITATIVI Capo I Disposizioni generali
 
-b) il parere dei Vigili del fuoco, ove necessario, in ordine al rispetto della normativa antincendio.
+Titolo II
 
-4. L'ufficio cura altresi' gli incombenti necessari ai fini dell'acquisizione, anche mediante conferenza di servizi ai sensi degli [articoli 14](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-08-07;241~art14), [14-bis](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-08-07;241~art14bis), [14-ter](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-08-07;241~art14ter), [14-quater della legge 7 agosto 1990, n. 241](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-08-07;241~art14quater), degli atti di assenso, comunque denominati, necessari ai fini della realizzazione dell'intervento edilizio. Nel novero di detti assensi rientrano, in particolare:
+### Art. 6. — (L)
+ Attivita' edilizia libera
 
-a) le autorizzazioni e certificazioni del competente ufficio tecnico della regione, per le costruzioni in zone sismiche di cui agli articoli 61, 94 e 62;
+### Art. 7. — (L)
+ Attivita' edilizia delle pubbliche amministrazioni
 
-b) l'assenso dell'amministrazione militare per le costruzioni nelle zone di salvaguardia contigue ad opere di difesa dello Stato o a stabilimenti militari,
+### Art. 8. — (L)
+ Attivita' edilizia dei privati su aree demaniali
 
-((di cui all'[articolo 333 del codice dell'ordinamento militare](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-03-15;66~art333)))
+### Art. 9. — (L)
+ Attivita' edilizia in assenza di pianificazione urbanistica
 
-;
+## Permesso di costruire Sezione I Nozione e caratteristiche
 
-c) l'autorizzazione del direttore della circoscrizione doganale in caso di costruzione, spostamento e modifica di edifici nelle zone di salvaguardia in prossimita' della linea doganale e nel mare territoriale, ai sensi e per gli effetti dell'[articolo 19 del decreto legislativo 8 novembre 1990, n. 374](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1990-11-08;374~art19);
+Capo II
 
-d) l'autorizzazione dell'autorita' competente per le costruzioni su terreni confinanti con il demanio marittimo, ai sensi e per gli effetti dell'[articolo 55 del codice della navigazione](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-03-30;327~art55);
+### Art. 10. — (L)
 
-e) gli atti di assenso, comunque denominati, previsti per gli interventi edilizi su immobili vincolati ai sensi degli articoli 21, 23, 24, e 151 del [decreto legislativo 29 ottobre 1999, n. 490](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1999-10-29;490), fermo restando che, in caso di dissenso manifestato dall'amministrazione preposta alla tutela dei beni culturali, si procede ai sensi dell'[articolo 25 del decreto legislativo 29 ottobre 1999, n. 490](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1999-10-29;490~art25);
+ Interventi subordinati a permesso di costruire
 
-f) il parere vincolante della Commissione per la salvaguardia di Venezia, ai sensi e per gli effetti dell'[articolo 6 della legge 16 aprile 1973, n. 171](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1973-04-16;171~art6), e successive modificazioni, salvi i casi in cui vi sia stato l'adeguamento al piano comprensoriale previsto dall'articolo 5 della stessa legge, per l'attivita' edilizia nella laguna veneta, nonche' nel territorio dei centri storici di Chioggia e di Sottomarina e nelle isole di Pellestrina, Lido e Sant'Erasmo;
+### Art. 11. — (L)
+ Caratteristiche del permesso di costruire
 
-g) il parere dell'autorita' competente in tema di assetti e vincoli idrogeologici;
+### Art. 12. — (L) 
+ Presupposti per il rilascio del permesso di costruire
 
-h) gli assensi in materia di servitu' viarie, ferroviarie, portuali ed aeroportuali;
+### Art. 13. — (L)
+ Competenza al rilascio del permesso di costruire
 
-i) il nulla-osta dell'autorita' competente ai sensi dell'[articolo 13 della legge 6 dicembre 1991, n. 394](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1991-12-06;394~art13), in tema di aree naturali protette.
+### Art. 14. — (L)
+ Permesso di costruire in deroga agli strumenti urbanistici
 
-CAPO II Titolo II TITOLI ABILITATIVI Capo I Disposizioni generali
------------------------------------------------------------------
-
-### Art. 6
-
-(L)  
-Attivita' edilizia libera
-
-### Art. 7
-
-(L)  
-Attivita' edilizia delle pubbliche amministrazioni
-
-### Art. 8
-
-(L)  
-Attivita' edilizia dei privati su aree demaniali
-
-### Art. 9
-
-(L)  
-Attivita' edilizia in assenza di pianificazione urbanistica
-
-CAPO III Capo II Permesso di costruire Sezione I Nozione e caratteristiche
---------------------------------------------------------------------------
-
-### Art. 10
-
-(L)  
-  
-Interventi subordinati a permesso di costruire
-
-### Art. 11
-
-(L)  
-Caratteristiche del permesso di costruire
-
-### Art. 12
-
-(L)   
-Presupposti per il rilascio del permesso di costruire
-
-### Art. 13
-
-(L)  
-Competenza al rilascio del permesso di costruire
-
-### Art. 14
-
-(L)  
-Permesso di costruire in deroga agli strumenti urbanistici
-
-### Art. 15
-
-(R)  
-Efficacia temporale e decadenza del permesso di costruire (legge  
+### Art. 15. — (R)
+Efficacia temporale e decadenza del permesso di costruire (legge
 28 gennaio 1977, n. 10, art. 4, commi 3, 4 e 5; legge 17 agosto 1942, n. 1150, art. 31, comma 11)
 
-1. Nel permesso di costruire sono indicati i termini di inizio e di ultimazione dei lavori.
+1.
 
-2. Il termine per l'inizio dei lavori non puo' essere superiore ad un anno dal rilascio del titolo; quello di ultimazione, entro il quale l'opera deve essere completata non puo' superare i tre anni dall'inizio dei lavori. Entrambi i termini possono essere prorogati, con provvedimento motivato, per fatti sopravvenuti estranei alla volonta' del titolare del permesso. Decorsi tali termini il permesso decade di diritto per la parte non eseguita, tranne che, anteriormente alla scadenza venga richiesta una proroga. La proroga puo' essere accordata, con provvedimento motivato, esclusivamente in considerazione della mole dell'opera da realizzare o delle sue particolari caratteristiche tecnico-costruttive, ovvero quando si tratti di opere pubbliche il cui finanziamento sia previsto in piu' esercizi finanziari.
+Nel permesso di costruire sono indicati i termini di inizio e di ultimazione dei lavori.
 
-3. La realizzazione della parte dell'intervento non ultimata nel termine stabilito e' subordinata al rilascio di nuovo permesso per le opere ancora da eseguire, salvo che le stesse non rientrino tra quelle realizzabili mediante denuncia di inizio attivita' ai sensi dell'articolo 22. Si procede altresi', ove necessario, al ricalcolo del contributo di costruzione.
+2.
 
-4. Il permesso decade con l'entrata in vigore di contrastanti previsioni urbanistiche, salvo che i lavori siano gia' iniziati e vengano completati entro il termine di tre anni dalla data di inizio.
+Il termine per l'inizio dei lavori non puo' essere superiore ad un anno dal rilascio del titolo; quello di ultimazione, entro il quale l'opera deve essere completata non puo' superare i tre anni dall'inizio dei lavori. Entrambi i termini possono essere prorogati, con provvedimento motivato, per fatti sopravvenuti estranei alla volonta' del titolare del permesso. Decorsi tali termini il permesso decade di diritto per la parte non eseguita, tranne che, anteriormente alla scadenza venga richiesta una proroga. La proroga puo' essere accordata, con provvedimento motivato, esclusivamente in considerazione della mole dell'opera da realizzare o delle sue particolari caratteristiche tecnico-costruttive, ovvero quando si tratti di opere pubbliche il cui finanziamento sia previsto in piu' esercizi finanziari.
 
-CAPO IV Sezione II Contributo di costruzione
---------------------------------------------
+3.
 
-### Art. 16
+La realizzazione della parte dell'intervento non ultimata nel termine stabilito e' subordinata al rilascio di nuovo permesso per le opere ancora da eseguire, salvo che le stesse non rientrino tra quelle realizzabili mediante denuncia di inizio attivita' ai sensi dell'articolo 22. Si procede altresi', ove necessario, al ricalcolo del contributo di costruzione.
 
-(L)  
-Contributo per il rilascio del permesso di costruire
+4.
 
-### Art. 17
+Il permesso decade con l'entrata in vigore di contrastanti previsioni urbanistiche, salvo che i lavori siano gia' iniziati e vengano completati entro il termine di tre anni dalla data di inizio.
 
-(L)  
-Riduzione o esonero dal contributo di costruzione
+## Contributo di costruzione
 
-### Art. 18
+Sezione II
 
-(L)  
-Convenzione-tipo
+### Art. 16. — (L)
+ Contributo per il rilascio del permesso di costruire
 
-### Art. 19
+### Art. 17. — (L)
+ Riduzione o esonero dal contributo di costruzione
 
-(L)  
+### Art. 18. — (L)
+ Convenzione-tipo
+
+### Art. 19. — (L)
 Contributo di costruzione per opere o impianti non destinati alla residenza
 
-CAPO V Sezione III Procedimento
--------------------------------
+## Procedimento
 
-### Art. 20
+Sezione III
 
-(R)  
+### Art. 20. — (R)
 Procedimento per il rilascio del permesso di costruire (decreto-legge 5 ottobre 1993, n. 398, art. 4, commi 1, 2, 3 e 4, convertito, con modificazioni, dalla legge 4 dicembre 1993, n. 493)
 
-1. La domanda per il rilascio del permesso di costruire, sottoscritta da uno dei soggetti legittimati ai sensi dell'articolo 11, va presentata allo sportello unico corredata da un'attestazione concernente il titolo di legittimazione, dagli elaborati progettuali richiesti dal regolamento edilizio, e quando ne ricorrano i presupposti, dagli altri documenti previsti dalla parte II, nonche' da un'autocertificazione circa la conformita' del progetto alle norme igienico-sanitarie nel caso in cui il progetto riguardi interventi di edilizia residenziale ovvero la verifica in ordine a tale conformita' non comporti valutazioni tecnico-discrezionali.
+1.
 
-2. Lo sportello unico comunica entro dieci giorni al richiedente il nominativo del responsabile del procedimento ai sensi degli [articoli 4](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-08-07;241~art4) e [5 della legge 7 agosto 1990, n. 241](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-08-07;241~art5), e successive modificazioni.  
+La domanda per il rilascio del permesso di costruire, sottoscritta da uno dei soggetti legittimati ai sensi dell'articolo 11, va presentata allo sportello unico corredata da un'attestazione concernente il titolo di legittimazione, dagli elaborati progettuali richiesti dal regolamento edilizio, e quando ne ricorrano i presupposti, dagli altri documenti previsti dalla parte II, nonche' da un'autocertificazione circa la conformita' del progetto alle norme igienico-sanitarie nel caso in cui il progetto riguardi interventi di edilizia residenziale ovvero la verifica in ordine a tale conformita' non comporti valutazioni tecnico-discrezionali.
+
+2.
+
+Lo sportello unico comunica entro dieci giorni al richiedente il nominativo del responsabile del procedimento ai sensi degli [articoli 4](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-08-07;241#art_4) e [5 della legge 7 agosto 1990, n. 241](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-08-07;241#art_5), e successive modificazioni.
 L'esame delle domande si svolge secondo l'ordine cronologico di presentazione.
 
-3. Entro sessanta giorni dalla presentazione della domanda, il responsabile del procedimento cura l'istruttoria, acquisisce, avvalendosi dello sportello unico, i prescritti pareri dagli uffici comunali, nonche' i pareri di cui all'articolo 5, comma 3, sempre che gli stessi non siano gia' stati allegati alla domanda dal richiedente e, valutata la conformita' del progetto alla normativa vigente, formula una proposta di provvedimento, corredata da una dettagliata relazione, con la qualificazione tecnico-giuridica dell'intervento richiesto.
+3.
 
-4. Il responsabile del procedimento, qualora ritenga che ai fini del rilascio del permesso di costruire sia necessario apportare modifiche di modesta entita' rispetto al progetto originario, puo', nello stesso termine di cui al comma 3, richiedere tali modifiche, illustrandone le ragioni. L'interessato si pronuncia sulla richiesta di modifica entro il termine fissato e, in caso di adesione, e' tenuto ad integrare la documentazione nei successivi quindici giorni.  
+Entro sessanta giorni dalla presentazione della domanda, il responsabile del procedimento cura l'istruttoria, acquisisce, avvalendosi dello sportello unico, i prescritti pareri dagli uffici comunali, nonche' i pareri di cui all'articolo 5, comma 3, sempre che gli stessi non siano gia' stati allegati alla domanda dal richiedente e, valutata la conformita' del progetto alla normativa vigente, formula una proposta di provvedimento, corredata da una dettagliata relazione, con la qualificazione tecnico-giuridica dell'intervento richiesto.
+
+4.
+
+Il responsabile del procedimento, qualora ritenga che ai fini del rilascio del permesso di costruire sia necessario apportare modifiche di modesta entita' rispetto al progetto originario, puo', nello stesso termine di cui al comma 3, richiedere tali modifiche, illustrandone le ragioni. L'interessato si pronuncia sulla richiesta di modifica entro il termine fissato e, in caso di adesione, e' tenuto ad integrare la documentazione nei successivi quindici giorni.
 La richiesta di cui al presente comma sospende, fino al relativo esito, il decorso del termine di cui al comma 3.
 
-5. Il termine di cui al comma 3 puo' essere interrotto una sola volta dal responsabile del procedimento, entro quindici giorni dalla presentazione della domanda, esclusivamente per la motivata richiesta di documenti che integrino o completino la documentazione presentata e che non siano gia' nella disponibilita' dell'amministrazione o che questa non possa acquisire autonomamente. In tal caso, il termine ricomincia a decorrere dalla data di ricezione della documentazione integrativa.
+5.
 
-6. Nell'ipotesi in cui, ai fini della realizzazione dell'intervento, sia necessario acquisire atti di assenso, comunque denominati, di altre amministrazioni, diverse da quelle di cui all'articolo 5, comma 3, il competente ufficio comunale convoca una conferenza di servizi ai sensi degli [articoli 14](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-08-07;241~art14), [14-bis](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-08-07;241~art14bis), [14-ter](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-08-07;241~art14ter), [14-quater della legge 7 agosto 1990, n. 241](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-08-07;241~art14quater), e successive modificazioni. Qualora si tratti di opere pubbliche incidenti su beni culturali, si applica l'[articolo 25 del decreto legislativo 29 ottobre 1999, n. 490](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1999-10-29;490~art25).
+Il termine di cui al comma 3 puo' essere interrotto una sola volta dal responsabile del procedimento, entro quindici giorni dalla presentazione della domanda, esclusivamente per la motivata richiesta di documenti che integrino o completino la documentazione presentata e che non siano gia' nella disponibilita' dell'amministrazione o che questa non possa acquisire autonomamente. In tal caso, il termine ricomincia a decorrere dalla data di ricezione della documentazione integrativa.
 
-7. Il provvedimento finale, che lo sportello unico provvede a notificare all'interessato, e' adottato dal dirigente o dal responsabile dell'ufficio, entro quindici giorni dalla proposta di cui al comma 3, ovvero dall'esito della conferenza di servizi di cui al comma 6. Dell'avvenuto rilascio del permesso di costruire e' data notizia al pubblico mediante affissione all'albo pretorio. Gli estremi del permesso di costruire sono indicati nel cartello esposto presso il cantiere, secondo le modalita' stabilite dal regolamento edilizio.
+6.
 
-8. I termini di cui ai commi 3 e 5 sono raddoppiati per i comuni con piu' di 100.000 abitanti, nonche' per i progetti particolarmente complessi secondo la motivata risoluzione del responsabile del procedimento.
+Nell'ipotesi in cui, ai fini della realizzazione dell'intervento, sia necessario acquisire atti di assenso, comunque denominati, di altre amministrazioni, diverse da quelle di cui all'articolo 5, comma 3, il competente ufficio comunale convoca una conferenza di servizi ai sensi degli [articoli 14](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-08-07;241#art_14), [14-bis](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-08-07;241#art_14bis), [14-ter](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-08-07;241#art_14ter), [14-quater della legge 7 agosto 1990, n. 241](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-08-07;241#art_14quater), e successive modificazioni. Qualora si tratti di opere pubbliche incidenti su beni culturali, si applica l'[articolo 25 del decreto legislativo 29 ottobre 1999, n. 490](../Atti%20normativi%20abrogati%20%28in%20originale%29/Testo%20unico%20delle%20disposizioni%20legislative%20in%20materia%20di%20beni%20culturali%20e%20ambientali%20a%20norma%20dellarticolo%201%20della%20legge%208%20ottobre%201997%20n.%20352.md).
 
-9. Decorso inutilmente il termine per l'adozione del provvedimento conclusivo, sulla domanda di permesso di costruire si intende formato il silenzio-rifiuto.
+7.
 
-10. Il procedimento previsto dal presente articolo si applica anche al procedimento per il rilascio del permesso di costruire in deroga agli strumenti urbanistici, a seguito dell'approvazione della deliberazione consiliare di cui all'articolo 14.
+Il provvedimento finale, che lo sportello unico provvede a notificare all'interessato, e' adottato dal dirigente o dal responsabile dell'ufficio, entro quindici giorni dalla proposta di cui al comma 3, ovvero dall'esito della conferenza di servizi di cui al comma 6. Dell'avvenuto rilascio del permesso di costruire e' data notizia al pubblico mediante affissione all'albo pretorio. Gli estremi del permesso di costruire sono indicati nel cartello esposto presso il cantiere, secondo le modalita' stabilite dal regolamento edilizio.
 
-### Art. 21
+8.
 
-(R)  
-  
-Intervento sostitutivo regionale (decreto-legge 5 ottobre 1993, n.  
+I termini di cui ai commi 3 e 5 sono raddoppiati per i comuni con piu' di 100.000 abitanti, nonche' per i progetti particolarmente complessi secondo la motivata risoluzione del responsabile del procedimento.
+
+9.
+
+Decorso inutilmente il termine per l'adozione del provvedimento conclusivo, sulla domanda di permesso di costruire si intende formato il silenzio-rifiuto.
+
+10.
+
+Il procedimento previsto dal presente articolo si applica anche al procedimento per il rilascio del permesso di costruire in deroga agli strumenti urbanistici, a seguito dell'approvazione della deliberazione consiliare di cui all'articolo 14.
+
+### Art. 21. — (R)
+
+Intervento sostitutivo regionale (decreto-legge 5 ottobre 1993, n.
 398, art. 4, commi 5 e 6, convertito, con modificazioni, dalla legge 4 dicembre 1993, n. 493)
 
-1. In caso di mancata adozione, entro i termini previsti dall'articolo 20, del provvedimento conclusivo del procedimento per il rilascio del permesso di costruire, l'interessato puo', con atto notificato o trasmesso in piego raccomandato con avviso di ricevimento, richiedere allo sportello unico che il dirigente o il responsabile dell'ufficio di cui all'articolo 13, si pronunci entro quindici giorni dalla ricezione dell'istanza. Di tale istanza viene data notizia al sindaco a cura del responsabile del procedimento.  
+1.
+
+In caso di mancata adozione, entro i termini previsti dall'articolo 20, del provvedimento conclusivo del procedimento per il rilascio del permesso di costruire, l'interessato puo', con atto notificato o trasmesso in piego raccomandato con avviso di ricevimento, richiedere allo sportello unico che il dirigente o il responsabile dell'ufficio di cui all'articolo 13, si pronunci entro quindici giorni dalla ricezione dell'istanza. Di tale istanza viene data notizia al sindaco a cura del responsabile del procedimento.
 Resta comunque ferma la facolta' di impugnare in sede giurisdizionale il silenzio-rifiuto formatosi sulla domanda di permesso di costruire.
 
-2. Decorso inutilmente anche il termine di cui al comma 1, l'interessato puo' inoltrare richiesta di intervento sostitutivo al competente organo regionale, il quale, nei successivi quindici giorni, nomina un commissario ad acta che provvede nel termine di sessanta giorni. Trascorso inutilmente anche quest'ultimo termine, sulla domanda di intervento sostitutivo si intende formato il silenzio-rifiuto.
+2.
 
-CAPO VI Capo III Denuncia di inizio attivita'
----------------------------------------------
+Decorso inutilmente anche il termine di cui al comma 1, l'interessato puo' inoltrare richiesta di intervento sostitutivo al competente organo regionale, il quale, nei successivi quindici giorni, nomina un commissario ad acta che provvede nel termine di sessanta giorni. Trascorso inutilmente anche quest'ultimo termine, sulla domanda di intervento sostitutivo si intende formato il silenzio-rifiuto.
 
-### Art. 22
+## Denuncia di inizio attivita'
 
-(L)  
-Interventi subordinati a denuncia di inizio attivita'
+Capo III
 
-### Art. 23
+### Art. 22. — (L)
+ Interventi subordinati a denuncia di inizio attivita'
 
-(R)  
+### Art. 23. — (R)
 Disciplina della denuncia di inizio attivita' (legge 24 dicembre 1993, n. 537, art. 2, comma 10, che sostituisce l'art. 19 della legge 7 agosto 1990, n. 241; decreto-legge 5 ottobre 1993, n. 398, art. 4, commi 8-bis, 9, 10, 11, 14, e 15, come modificato dall'art. 2, comma 60, della legge 23 dicembre 1996, n. 662, nel testo risultante dalle modifiche introdotte dall'art. 10 del decreto-legge 31 dicembre 1996, n. 669)
 
-1. Il proprietario dell'immobile o chi abbia titolo per presentare la denuncia di inizio attivita', almeno trenta giorni prima dell'effettivo inizio dei lavori, presenta allo sportello unico la denuncia, accompagnata da una dettagliata relazione a firma di un progettista abilitato e dagli opportuni elaborati progettuali, che asseveri la conformita' delle opere da realizzare agli strumenti urbanistici adottati o approvati ed ai regolamenti edilizi vigenti, nonche' il rispetto delle norme di sicurezza e di quelle igienico-sanitarie.
+1.
 
-2. La denuncia di inizio attivita' e' corredata dall'indicazione dell'impresa cui si intende affidare i lavori ed e' sottoposta al termine massimo di efficacia pari a tre anni. La realizzazione della parte non ultimata dell'intervento e' subordinata a nuova denuncia.  
+Il proprietario dell'immobile o chi abbia titolo per presentare la denuncia di inizio attivita', almeno trenta giorni prima dell'effettivo inizio dei lavori, presenta allo sportello unico la denuncia, accompagnata da una dettagliata relazione a firma di un progettista abilitato e dagli opportuni elaborati progettuali, che asseveri la conformita' delle opere da realizzare agli strumenti urbanistici adottati o approvati ed ai regolamenti edilizi vigenti, nonche' il rispetto delle norme di sicurezza e di quelle igienico-sanitarie.
+
+2.
+
+La denuncia di inizio attivita' e' corredata dall'indicazione dell'impresa cui si intende affidare i lavori ed e' sottoposta al termine massimo di efficacia pari a tre anni. La realizzazione della parte non ultimata dell'intervento e' subordinata a nuova denuncia.
 L'interessato e' comunque tenuto a comunicare allo sportello unico la data di ultimazione dei lavori.
 
-3. Qualora l'immobile oggetto dell'intervento sia sottoposto ad un vincolo la cui tutela compete, anche in via di delega, alla stessa amministrazione comunale, il termine di trenta giorni di cui al comma 1 decorre dal rilascio del relativo atto di assenso. Ove tale atto non sia favorevole, la denuncia e' priva di effetti.
+3.
 
-4. Qualora l'immobile oggetto dell'intervento sia sottoposto ad un vincolo la cui tutela non compete all'amministrazione comunale, ove il parere favorevole del soggetto preposto alla tutela non sia allegato alla denuncia, il competente ufficio comunale convoca una conferenza di servizi ai sensi degli [articoli 14](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-08-07;241~art14), [14-bis](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-08-07;241~art14bis), [14-ter](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-08-07;241~art14ter), [14-quater, della legge 7 agosto 1990, n. 241](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-08-07;241~art14quater). Il termine di trenta giorni di cui al comma 1 decorre dall'esito della conferenza. In caso di esito non favorevole, la denuncia e' priva di effetti.
+Qualora l'immobile oggetto dell'intervento sia sottoposto ad un vincolo la cui tutela compete, anche in via di delega, alla stessa amministrazione comunale, il termine di trenta giorni di cui al comma 1 decorre dal rilascio del relativo atto di assenso. Ove tale atto non sia favorevole, la denuncia e' priva di effetti.
 
-5. La sussistenza del titolo e' provata con la copia della denuncia di inizio attivita' da cui risulti la data di ricevimento della denuncia, l'elenco di quanto presentato a corredo del progetto, l'attestazione del professionista abilitato, nonche' gli atti di assenso eventualmente necessari.
+4.
 
-6. Il dirigente o il responsabile del competente ufficio comunale, ove entro il termine indicato al comma 1 sia riscontrata l'assenza di una o piu' delle condizioni stabilite, notifica all'interessato l'ordine motivato di non effettuare il previsto intervento, e, in caso di falsa attestazione del professionista abilitato, informa l'autorita' giudiziaria e il consiglio dell'ordine di appartenenza.  
+Qualora l'immobile oggetto dell'intervento sia sottoposto ad un vincolo la cui tutela non compete all'amministrazione comunale, ove il parere favorevole del soggetto preposto alla tutela non sia allegato alla denuncia, il competente ufficio comunale convoca una conferenza di servizi ai sensi degli [articoli 14](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-08-07;241#art_14), [14-bis](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-08-07;241#art_14bis), [14-ter](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-08-07;241#art_14ter), [14-quater, della legge 7 agosto 1990, n. 241](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-08-07;241#art_14quater). Il termine di trenta giorni di cui al comma 1 decorre dall'esito della conferenza. In caso di esito non favorevole, la denuncia e' priva di effetti.
+
+5.
+
+La sussistenza del titolo e' provata con la copia della denuncia di inizio attivita' da cui risulti la data di ricevimento della denuncia, l'elenco di quanto presentato a corredo del progetto, l'attestazione del professionista abilitato, nonche' gli atti di assenso eventualmente necessari.
+
+6.
+
+Il dirigente o il responsabile del competente ufficio comunale, ove entro il termine indicato al comma 1 sia riscontrata l'assenza di una o piu' delle condizioni stabilite, notifica all'interessato l'ordine motivato di non effettuare il previsto intervento, e, in caso di falsa attestazione del professionista abilitato, informa l'autorita' giudiziaria e il consiglio dell'ordine di appartenenza.
 E' comunque salva la facolta' di ripresentare la denuncia di inizio di attivita', con le modifiche o le integrazioni necessarie per renderla conforme alla normativa urbanistica ed edilizia.
 
-7. Ultimato l'intervento, il progettista o un tecnico abilitato rilascia un certificato di collaudo finale, che va presentato allo sportello unico, con il quale si attesta la conformita' dell'opera al progetto presentato con la denuncia di inizio attivita'.
+7.
 
-CAPO VII Titolo III AGIBILITA' DEGLI EDIFICI Capo I Certificato di agibilita'
------------------------------------------------------------------------------
+Ultimato l'intervento, il progettista o un tecnico abilitato rilascia un certificato di collaudo finale, che va presentato allo sportello unico, con il quale si attesta la conformita' dell'opera al progetto presentato con la denuncia di inizio attivita'.
 
-### Art. 24
+## AGIBILITA' DEGLI EDIFICI Capo I Certificato di agibilita'
 
-(L)  
-Certificato di agibilita'
+Titolo III
 
-### Art. 25
+### Art. 24. — (L)
+ Certificato di agibilita'
 
-(R)   
-Procedimento di rilascio del certificato di agibilita'   
-(decreto del Presidente della Repubblica 22 aprile 1994, n. 425;   
-legge 5 novembre 1971, n. 1086, articoli 7 e 8)
+### Art. 25. — (R) 
+ Procedimento di rilascio del certificato di agibilita' 
+ (decreto del Presidente della Repubblica 22 aprile 1994, n. 425; 
+ legge 5 novembre 1971, n. 1086, articoli 7 e 8)
 
-1. Entro quindici giorni dall'ultimazione dei lavori di finitura dell'intervento, il soggetto di cui all'articolo 24, comma 3, e' tenuto a presentare allo sportello unico la domanda di rilascio del certificato di agibilita', corredata della seguente documentazione:
+1.
 
-a) richiesta di accatastamento dell'edificio, sottoscritta dallo stesso richiedente il certificato di agibilita', che lo sportello unico provvede a trasmettere al catasto;
+Entro quindici giorni dall'ultimazione dei lavori di finitura dell'intervento, il soggetto di cui all'articolo 24, comma 3, e' tenuto a presentare allo sportello unico la domanda di rilascio del certificato di agibilita', corredata della seguente documentazione:
+                            a)
+                                richiesta di accatastamento dell'edificio, sottoscritta dallo stesso richiedente il certificato di agibilita', che lo sportello unico provvede a trasmettere al catasto;
+                            b)
+                                dichiarazione sottoscritta dallo stesso richiedente il certificato di agibilita' di conformita' dell'opera rispetto al progetto approvato, nonche' in ordine alla avvenuta prosciugatura dei muri e della salubrita' degli ambienti;
+                            c)
+                                dichiarazione dell'impresa installatrice che attesta la conformita' degli impianti installati negli edifici adibiti ad uso civile alle prescrizioni di cui agli [articoli 113](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1991-01-09;10#art_113) e [127](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1991-01-09;10#art_127), nonche' all'[articolo 1 della legge 9 gennaio 1991, n. 10](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1991-01-09;10#art_1), ovvero certificato di collaudo degli stessi, ove previsto, ovvero ancora certificazione di conformita' degli impianti prevista dagli articoli 111 e 126 del presente testo unico.
 
-b) dichiarazione sottoscritta dallo stesso richiedente il certificato di agibilita' di conformita' dell'opera rispetto al progetto approvato, nonche' in ordine alla avvenuta prosciugatura dei muri e della salubrita' degli ambienti;
+2.
 
-c) dichiarazione dell'impresa installatrice che attesta la conformita' degli impianti installati negli edifici adibiti ad uso civile alle prescrizioni di cui agli [articoli 113](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1991-01-09;10~art113) e [127](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1991-01-09;10~art127), nonche' all'[articolo 1 della legge 9 gennaio 1991, n. 10](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1991-01-09;10~art1), ovvero certificato di collaudo degli stessi, ove previsto, ovvero ancora certificazione di conformita' degli impianti prevista dagli articoli 111 e 126 del presente testo unico.
+Lo sportello unico comunica al richiedente, entro dieci giorni dalla ricezione della domanda di cui al comma 1, il nominativo del responsabile del procedimento ai sensi degli [articoli 4](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-08-07;241#art_4) e [5 della legge 7 agosto 1990, n. 241](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-08-07;241#art_5).
 
-2. Lo sportello unico comunica al richiedente, entro dieci giorni dalla ricezione della domanda di cui al comma 1, il nominativo del responsabile del procedimento ai sensi degli [articoli 4](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-08-07;241~art4) e [5 della legge 7 agosto 1990, n. 241](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-08-07;241~art5).
+3.
 
-3. Entro trenta giorni dalla ricezione della domanda di cui al comma 1, il dirigente o il responsabile del competente ufficio comunale, previa eventuale ispezione dell'edificio, rilascia il certificato di agibilita' verificata la seguente documentazione:
+Entro trenta giorni dalla ricezione della domanda di cui al comma 1, il dirigente o il responsabile del competente ufficio comunale, previa eventuale ispezione dell'edificio, rilascia il certificato di agibilita' verificata la seguente documentazione:
+                            a)
+                                certificato di collaudo statico di cui all'articolo 67;
+                            b)
+                                certificato del competente ufficio tecnico della regione, di cui all'articolo 62, attestante la conformita' delle opere eseguite nelle zone sismiche alle disposizioni di cui al capo IV della parte II;
+                            c)
+                                la documentazione indicata al comma 1;
+                            d)
+                                dichiarazione di conformita' delle opere realizzate alla normativa vigente in materia di accessibilita' e superamento delle barriere architettoniche di cui all'articolo 77, nonche' all'articolo 82.
 
-a) certificato di collaudo statico di cui all'articolo 67;
+4.
 
-b) certificato del competente ufficio tecnico della regione, di cui all'articolo 62, attestante la conformita' delle opere eseguite nelle zone sismiche alle disposizioni di cui al capo IV della parte II;
+Trascorso inutilmente il termine di cui al comma 3, l'agibilita' si intende attestata nel caso sia stato rilasciato il parere dell'A.S.L. di cui all'articolo 5, comma 3, lettera a). In caso di autodichiarazione, il termine per la formazione del silenzio assenso e' di sessanta giorni.
 
-c) la documentazione indicata al comma 1;
+5.
 
-d) dichiarazione di conformita' delle opere realizzate alla normativa vigente in materia di accessibilita' e superamento delle barriere architettoniche di cui all'articolo 77, nonche' all'articolo 82.
+Il termine di cui al comma 3 puo' essere interrotto una sola volta dal responsabile del procedimento, entro quindici giorni dalla domanda, esclusivamente per la richiesta di documentazione integrativa, che non sia gia' nella disponibilita' dell'amministrazione o che non possa essere acquisita autonomamente.
+In tal caso, il termine di trenta giorni ricomincia a decorrere dalla data di ricezione della documentazione integrativa. 
+ 
+--------------- 
+Nota redazionale 
+ Il testo del presente articolo e' gia' integrato con le correzioni apportate dall'avviso di rettifica pubblicato in G.U. 13/11/2001, n. 264 durante il periodo di "vacatio legis". 
+ E' possibile visualizzare il testo originario accedendo alla versione pdf della relativa Gazzetta di pubblicazione.
 
-4. Trascorso inutilmente il termine di cui al comma 3, l'agibilita' si intende attestata nel caso sia stato rilasciato il parere dell'A.S.L. di cui all'articolo 5, comma 3, lettera a). In caso di autodichiarazione, il termine per la formazione del silenzio assenso e' di sessanta giorni.
+### Art. 26. — (L)
+ Dichiarazione di inagibilita'
 
-5. Il termine di cui al comma 3 puo' essere interrotto una sola volta dal responsabile del procedimento, entro quindici giorni dalla domanda, esclusivamente per la richiesta di documentazione integrativa, che non sia gia' nella disponibilita' dell'amministrazione o che non possa essere acquisita autonomamente.  
-In tal caso, il termine di trenta giorni ricomincia a decorrere dalla data di ricezione della documentazione integrativa.   
-  
----------------   
-Nota redazionale   
-Il testo del presente articolo e' gia' integrato con le correzioni apportate dall'avviso di rettifica pubblicato in G.U. 13/11/2001, n. 264 durante il periodo di "vacatio legis".   
-E' possibile visualizzare il testo originario accedendo alla versione pdf della relativa Gazzetta di pubblicazione.
+## VIGILANZA SULL'ATTIVITA' URBANISTICO EDILIZIA, RESPONSABILITA' E SANZIONI Capo I Vigilanza sull'attivita' urbanistico-edilizia e responsabilita'
 
-### Art. 26
+Titolo IV
 
-(L)  
-Dichiarazione di inagibilita'
+### Art. 27. — (L)
+ Vigilanza sull'attivita' urbanistico-edilizia
 
-CAPO VIII Titolo IV VIGILANZA SULL'ATTIVITA' URBANISTICO EDILIZIA, RESPONSABILITA' E SANZIONI Capo I Vigilanza sull'attivita' urbanistico-edilizia e responsabilita'
---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+### Art. 28. — (L)
+ Vigilanza su opere di amministrazioni statali
 
-### Art. 27
-
-(L)  
-Vigilanza sull'attivita' urbanistico-edilizia
-
-### Art. 28
-
-(L)  
-Vigilanza su opere di amministrazioni statali
-
-### Art. 29
-
-(L)  
-Responsabilita' del titolare del permesso di costruire, del committente, del costruttore e del direttore dei lavori, nonche'  
+### Art. 29. — (L)
+Responsabilita' del titolare del permesso di costruire, del committente, del costruttore e del direttore dei lavori, nonche'
 anche del progettista per le opere subordinate a denuncia di inizio attivita'.
 
-CAPO IX Capo II Sanzioni
-------------------------
+## Sanzioni
 
-### Art. 30
+Capo II
 
-(L)  
-Lottizzazione abusiva
+### Art. 30. — (L)
+ Lottizzazione abusiva
 
-### Art. 31
-
-(L)  
+### Art. 31. — (L)
 Interventi eseguiti in assenza di permesso di costruire in totale difformita' o con variazioni essenziali
 
-### Art. 32
+### Art. 32. — (L)
+ Determinazione delle variazioni essenziali
 
-(L)  
-Determinazione delle variazioni essenziali
-
-### Art. 33
-
-(L)  
+### Art. 33. — (L)
 Interventi di ristrutturazione edilizia in assenza di permesso di costruire o in totale difformita'
 
-### Art. 34
-
-(L)  
+### Art. 34. — (L)
 Interventi eseguiti in parziale difformita' dal permesso di costruire
 
-### Art. 35
-
-(L)  
+### Art. 35. — (L)
 Interventi abusivi realizzati su suoli di proprieta' dello Stato o di enti pubblici
 
-### Art. 36
+### Art. 36. — (L)
+ Accertamento di conformita'
 
-(L)  
-Accertamento di conformita'
-
-### Art. 37
-
-(L)  
+### Art. 37. — (L)
 Interventi eseguiti in assenza o in difformita' dalla denuncia di inizio attivita' e accertamento di conformita'
 
-### Art. 38
+### Art. 38. — (L)
+ Interventi eseguiti in base a permesso annullato
 
-(L)  
-Interventi eseguiti in base a permesso annullato
+### Art. 39. — (L)
+ Annullamento del permesso di costruire da parte della regione
 
-### Art. 39
-
-(L)  
-Annullamento del permesso di costruire da parte della regione
-
-### Art. 40
-
-(L)  
+### Art. 40. — (L)
 Sospensione o demolizione di interventi abusivi da parte della regione
 
-### Art. 41
+### Art. 41. — (L)
+ Demolizione di opere abusive
 
-(L)  
-Demolizione di opere abusive
+### Art. 42. — (L)
+ Ritardato od omesso versamento del contributo di costruzione
 
-### Art. 42
+### Art. 43. — (L)
+ Riscossione
 
-(L)  
-Ritardato od omesso versamento del contributo di costruzione
+### Art. 44. — (L)
+ Sanzioni penali
 
-### Art. 43
-
-(L)  
-Riscossione
-
-### Art. 44
-
-(L)  
-Sanzioni penali
-
-### Art. 45
-
-(L)  
+### Art. 45. — (L)
 Norme relative all'azione penale (legge 28 febbraio 1985, n. 47, art. 22)
 
-### Art. 46
+### Art. 46.
 
-  
-Nullita' degli atti giuridici relativi ad edifici la cui costruzione abusiva sia iniziata dopo il 17 marzo 1985  
+Nullita' degli atti giuridici relativi ad edifici la cui costruzione abusiva sia iniziata dopo il 17 marzo 1985
 
-### Art. 47
+### Art. 47. — (L)
+ Sanzioni a carico dei notai
 
-(L)  
-Sanzioni a carico dei notai
+### Art. 48. — (L)
+ Aziende erogatrici di servizi pubblici
 
-### Art. 48
+## Disposizioni fiscali
 
-(L)  
-Aziende erogatrici di servizi pubblici
+Capo III
 
-CAPO X Capo III Disposizioni fiscali
-------------------------------------
+### Art. 49. — (L)
+ Disposizioni fiscali
 
-### Art. 49
+### Art. 50. — (L)
+ Agevolazioni tributarie in caso di sanatoria
 
-(L)  
-Disposizioni fiscali
+### Art. 51. — (L)
+ Finanziamenti pubblici e sanatoria
 
-### Art. 50
+## NORMATIVA TECNICA PER L'EDILIZIA Capo I Disposizioni di carattere generale
 
-(L)  
-Agevolazioni tributarie in caso di sanatoria
+Parte II
 
-### Art. 51
+### Art. 52. — (L)
+ Tipo di strutture e norme tecniche
 
-(L)  
-Finanziamenti pubblici e sanatoria
+### Art. 53. — (L)
+ Definizioni
 
-CAPO XI Parte II NORMATIVA TECNICA PER L'EDILIZIA Capo I Disposizioni di carattere generale
--------------------------------------------------------------------------------------------
+### Art. 54. — (L)
+ Sistemi costruttivi
 
-### Art. 52
+### Art. 55. — (L)
+ Edifici in muratura
 
-(L)  
-Tipo di strutture e norme tecniche
+### Art. 56. — (L)
+ Edifici con struttura a pannelli portanti
 
-### Art. 53
+### Art. 57. — (L)
+ Edifici con strutture intelaiate
 
-(L)  
-Definizioni
-
-### Art. 54
-
-(L)  
-Sistemi costruttivi
-
-### Art. 55
-
-(L)  
-Edifici in muratura
-
-### Art. 56
-
-(L)  
-Edifici con struttura a pannelli portanti
-
-### Art. 57
-
-(L)  
-Edifici con strutture intelaiate
-
-### Art. 58
-
-(L)  
+### Art. 58. — (L)
 Produzione in serie in stabilimenti di manufatti in conglomerato normale e precompresso e di manufatti complessi in metallo
 
-### Art. 59
+### Art. 59. — (L)
+ Laboratori
 
-(L)  
-Laboratori
+### Art. 60. — (L)
+ Emanazione di norme tecniche
 
-### Art. 60
+### Art. 61. — (L)
+ Abitati da consolidare
 
-(L)  
-Emanazione di norme tecniche
+### Art. 62. — (L)
+ Utilizzazione di edifici
 
-### Art. 61
+### Art. 63. — (L)
+ Opere pubbliche
 
-(L)  
-Abitati da consolidare
+## Disciplina delle opere di conglomerato cementizio armato, normale e precompresso ed a struttura metallica Sezione I Adempimenti
 
-### Art. 62
+Capo II
 
-(L)  
-Utilizzazione di edifici
+### Art. 64. — (L)
+ Progettazione, direzione, esecuzione, responsabilita'
 
-### Art. 63
+### Art. 65. — (R)
+ Denuncia dei lavori di realizzazione e relazione
+ a struttura ultimata di opere di conglomerato cementizio
+ armato, normale e precompresso ed a struttura metallica
+ (legge n. 1086 del 1971, articoli 4 e 6)
 
-(L)  
-Opere pubbliche
+1.
 
-CAPO XII Capo II Disciplina delle opere di conglomerato cementizio armato, normale e precompresso ed a struttura metallica Sezione I Adempimenti
-------------------------------------------------------------------------------------------------------------------------------------------------
+Le opere di conglomerato cementizio armato, normale e precompresso ed a struttura metallica, prima del loro inizio, ((devono essere denunciate dal costruttore allo sportello unico)), che provvede a trasmettere tale denuncia al competente ufficio tecnico regionale.
 
-### Art. 64
+2.
 
-(L)  
-Progettazione, direzione, esecuzione, responsabilita'
+Nella denuncia devono essere indicati i nomi ed i recapiti del committente, del progettista delle strutture, del direttore dei lavori e del costruttore.
 
-### Art. 65
+3.
 
-(R)  
-Denuncia dei lavori di realizzazione e relazione  
-a struttura ultimata di opere di conglomerato cementizio  
-armato, normale e precompresso ed a struttura metallica  
-(legge n. 1086 del 1971, articoli 4 e 6)
+Alla denuncia devono essere allegati:
+                            a)
+                                il progetto dell'opera in triplice copia, firmato dal progettista, dal quale risultino in modo chiaro ed esauriente le calcolazioni eseguite, l'ubicazione, il tipo, le dimensioni delle strutture, e quanto altro occorre per definire l'opera sia nei riguardi dell'esecuzione sia nei riguardi della conoscenza delle condizioni di sollecitazione;
+                            b)
+                                una relazione illustrativa in triplice copia firmata dal progettista e dal direttore dei lavori, dalla quale risultino le caratteristiche, le qualita' e le dosature dei materiali che verranno impiegati nella costruzione.
 
-1. Le opere di conglomerato cementizio armato, normale e precompresso ed a struttura metallica, prima del loro inizio,
+4.
 
-((devono essere denunciate dal costruttore allo sportello unico))
+((Lo sportello unico restituisce al costruttore)), all'atto stesso della presentazione, una copia del progetto e della relazione con l'attestazione dell'avvenuto deposito.
 
-, che provvede a trasmettere tale denuncia al competente ufficio tecnico regionale.
+5.
 
-2. Nella denuncia devono essere indicati i nomi ed i recapiti del committente, del progettista delle strutture, del direttore dei lavori e del costruttore.
+Anche le varianti che nel corso dei lavori si intendano introdurre alle opere di cui al comma 1, previste nel progetto originario, devono essere denunciate, prima di dare inizio alla loro esecuzione, allo sportello unico nella forma e con gli allegati previsti nel presente articolo.
 
-3. Alla denuncia devono essere allegati:
+6.
 
-a) il progetto dell'opera in triplice copia, firmato dal progettista, dal quale risultino in modo chiaro ed esauriente le calcolazioni eseguite, l'ubicazione, il tipo, le dimensioni delle strutture, e quanto altro occorre per definire l'opera sia nei riguardi dell'esecuzione sia nei riguardi della conoscenza delle condizioni di sollecitazione;
+A strutture ultimate, entro il termine di sessanta giorni, il direttore dei lavori deposita presso lo sportello unico una relazione, redatta in triplice copia, sull'adempimento degli obblighi di cui ai commi 1, 2 e 3, esponendo:
+                            a)
+                                i certificati delle prove sui materiali impiegati emessi da laboratori di cui all'articolo 59;
+                            b)
+                                per le opere in conglomerato armato precompresso, ogni indicazione inerente alla tesatura dei cavi ed ai sistemi di messa in coazione;
+                            c)
+                                l'esito delle eventuali prove di carico, allegando le copie dei relativi verbali firmate per copia conforme.
 
-b) una relazione illustrativa in triplice copia firmata dal progettista e dal direttore dei lavori, dalla quale risultino le caratteristiche, le qualita' e le dosature dei materiali che verranno impiegati nella costruzione.
+7.
 
-4. 
+Lo sportello unico restituisce al direttore dei lavori, all'atto stesso della presentazione, una copia della relazione di cui al comma 6 con l'attestazione dell'avvenuto deposito, e provvede a trasmettere una copia di tale relazione al competente ufficio tecnico regionale.
 
-((Lo sportello unico restituisce al costruttore))
+8.
 
-, all'atto stesso della presentazione, una copia del progetto e della relazione con l'attestazione dell'avvenuto deposito.
+Il direttore dei lavori consegna al collaudatore la relazione, unitamente alla restante documentazione di cui al comma 6.
 
-5. Anche le varianti che nel corso dei lavori si intendano introdurre alle opere di cui al comma 1, previste nel progetto originario, devono essere denunciate, prima di dare inizio alla loro esecuzione, allo sportello unico nella forma e con gli allegati previsti nel presente articolo.
+### Art. 66. — (L)
+ Documenti in cantiere
 
-6. A strutture ultimate, entro il termine di sessanta giorni, il direttore dei lavori deposita presso lo sportello unico una relazione, redatta in triplice copia, sull'adempimento degli obblighi di cui ai commi 1, 2 e 3, esponendo:
+### Art. 67. — (L, comma 1, 2, 4 e 8; R, i commi 3, 5, 6 e 7)
+ Collaudo statico (legge 5 novembre 1971, n. 1086, articoli 7 e 8)
 
-a) i certificati delle prove sui materiali impiegati emessi da laboratori di cui all'articolo 59;
+1.
 
-b) per le opere in conglomerato armato precompresso, ogni indicazione inerente alla tesatura dei cavi ed ai sistemi di messa in coazione;
+-
 
-c) l'esito delle eventuali prove di carico, allegando le copie dei relativi verbali firmate per copia conforme.
+2.
 
-7. Lo sportello unico restituisce al direttore dei lavori, all'atto stesso della presentazione, una copia della relazione di cui al comma 6 con l'attestazione dell'avvenuto deposito, e provvede a trasmettere una copia di tale relazione al competente ufficio tecnico regionale.
+-
 
-8. Il direttore dei lavori consegna al collaudatore la relazione, unitamente alla restante documentazione di cui al comma 6.
+3.
 
-### Art. 66
-
-(L)  
-Documenti in cantiere
-
-### Art. 67
-
-(L, comma 1, 2, 4 e 8; R, i commi 3, 5, 6 e 7)  
-Collaudo statico (legge 5 novembre 1971, n. 1086, articoli 7 e 8)
-
-1. -
-
-2. -
-
-3. Contestualmente alla denuncia prevista dall'articolo 65, il  
+Contestualmente alla denuncia prevista dall'articolo 65, il
 direttore dei lavori e' tenuto a presentare presso lo sportello unico l'atto di nomina del collaudatore scelto dal committente e la contestuale dichiarazione di accettazione dell'incarico, corredati da certificazione attestante le condizioni di cui al comma 2.
 
-4. -
+4.
 
-5. Completata la struttura con la copertura dell'edificio, il  
+-
+
+5.
+
+Completata la struttura con la copertura dell'edificio, il
 direttore dei lavori ne da' comunicazione allo sportello unico e al collaudatore che ha sessanta giorni di tempo per effettuare il collaudo.
 
-6. In corso d'opera possono essere eseguiti collaudi parziali motivati da difficolta' tecniche e da complessita' esecutive dell'opera, fatto salvo quanto previsto da specifiche disposizioni.
+6.
 
-7. Il collaudatore redige, sotto la propria responsabilita', il certificato di collaudo in tre copie che invia al competente ufficio tecnico regionale e al committente, dandone contestuale comunicazione allo sportello unico.
+In corso d'opera possono essere eseguiti collaudi parziali motivati da difficolta' tecniche e da complessita' esecutive dell'opera, fatto salvo quanto previsto da specifiche disposizioni.
 
-8. -
+7.
 
-CAPO XIII Sezione II Vigilanza
-------------------------------
+Il collaudatore redige, sotto la propria responsabilita', il certificato di collaudo in tre copie che invia al competente ufficio tecnico regionale e al committente, dandone contestuale comunicazione allo sportello unico.
 
-### Art. 68
+8.
 
-(L)  
-Controlli
+-
 
-### Art. 69
+## Vigilanza
 
-(L)  
-Accertamenti delle violazioni
+Sezione II
 
-### Art. 70
+### Art. 68. — (L)
+ Controlli
 
-(L)  
-Sospensione dei lavori
+### Art. 69. — (L)
+ Accertamenti delle violazioni
 
-CAPO XIV Sezione III Norme penali
----------------------------------
+### Art. 70. — (L)
+ Sospensione dei lavori
 
-### Art. 71
+## Norme penali
 
-(L)  
-Lavori abusivi
+Sezione III
 
-### Art. 72
+### Art. 71. — (L)
+ Lavori abusivi
 
-(L)  
-Omessa denuncia dei lavori
+### Art. 72. — (L)
+ Omessa denuncia dei lavori
 
-### Art. 73
+### Art. 73. — (L)
+ Responsabilita' del direttore dei lavori
 
-(L)  
-Responsabilita' del direttore dei lavori
+### Art. 74. — (L)
+ Responsabilita' del collaudatore
 
-### Art. 74
+### Art. 75. — (L)
+ Mancanza del certificato di collaudo
 
-(L)  
-Responsabilita' del collaudatore
+### Art. 76. — (L)
+ Comunicazione della sentenza
 
-### Art. 75
+## Disposizioni per favorire il superamento e l'eliminazione delle barriere architettoniche negli edifici privati, pubblici e privati aperti al pubblico Sezione I Eliminazione delle barriere architettoniche negli edifici privati
 
-(L)  
-Mancanza del certificato di collaudo
+Capo III
 
-### Art. 76
+### Art. 77. — (L)
+ Progettazione di nuovi edifici e ristrutturazione di interi edifici
 
-(L)  
-Comunicazione della sentenza
+### Art. 78. — (L)
+ Deliberazioni sull'eliminazione delle barriere architettoniche
 
-CAPO XV Capo III Disposizioni per favorire il superamento e l'eliminazione delle barriere architettoniche negli edifici privati, pubblici e privati aperti al pubblico Sezione I Eliminazione delle barriere architettoniche negli edifici privati
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-### Art. 77
-
-(L)  
-Progettazione di nuovi edifici e ristrutturazione di interi edifici
-
-### Art. 78
-
-(L)  
-Deliberazioni sull'eliminazione delle barriere architettoniche
-
-### Art. 79
-
-(L)  
+### Art. 79. — (L)
 Opere finalizzate all'eliminazione delle barriere architettoniche realizzate in deroga ai regolamenti edilizi
 
-### Art. 80
-
-(L)  
+### Art. 80. — (L)
 Rispetto delle norme antisismiche, antincendio e di prevenzione degli infortuni
 
-### Art. 81
+### Art. 81. — (L)
+ Certificazioni
 
-(L)  
-Certificazioni
+## Eliminazione o superamento delle barriere architettoniche negli edifici pubblici e privati aperti al pubblico
 
-CAPO XVI Sezione II Eliminazione o superamento delle barriere architettoniche negli edifici pubblici e privati aperti al pubblico
----------------------------------------------------------------------------------------------------------------------------------
+Sezione II
 
-### Art. 82
+### Art. 82.
 
-  
-Eliminazione o superamento delle barriere architettoniche negli edifici pubblici e privati aperti al pubblico  
+Eliminazione o superamento delle barriere architettoniche negli edifici pubblici e privati aperti al pubblico
 
-CAPO XVII Capo IV Provvedimenti per le costruzioni con particolari prescrizioni per le zone sismiche Sezione I Norme per le costruzioni in zone sismiche
---------------------------------------------------------------------------------------------------------------------------------------------------------
+## Provvedimenti per le costruzioni con particolari prescrizioni per le zone sismiche Sezione I Norme per le costruzioni in zone sismiche
 
-### Art. 83
+Capo IV
 
-(L)  
-Opere disciplinate e gradi di sismicita'
+### Art. 83. — (L)
+ Opere disciplinate e gradi di sismicita'
 
-### Art. 84
+### Art. 84. — (L)
+ Contenuto delle norme tecniche
 
-(L)  
-Contenuto delle norme tecniche
+### Art. 85. — (L)
+ Azioni sismiche
 
-### Art. 85
+### Art. 86. — (L)
+ Verifica delle strutture
 
-(L)  
-Azioni sismiche
+### Art. 87. — (L)
+ Verifica delle fondazioni
 
-### Art. 86
+### Art. 88. — (L)
+ Deroghe
 
-(L)  
-Verifica delle strutture
+### Art. 89. — (L)
+ Parere sugli strumenti urbanistici
 
-### Art. 87
+### Art. 90. — (L)
+ Sopraelevazioni
 
-(L)  
-Verifica delle fondazioni
+### Art. 91. — (L)
+ Riparazioni
 
-### Art. 88
+### Art. 92. — (L)
+ Edifici di speciale importanza artistica
 
-(L)  
-Deroghe
+## Vigilanza sulle costruzioni in zone sismiche
 
-### Art. 89
+Sezione II
 
-(L)  
-Parere sugli strumenti urbanistici
-
-### Art. 90
-
-(L)  
-Sopraelevazioni
-
-### Art. 91
-
-(L)  
-Riparazioni
-
-### Art. 92
-
-(L)  
-Edifici di speciale importanza artistica
-
-CAPO XVIII Sezione II Vigilanza sulle costruzioni in zone sismiche
-------------------------------------------------------------------
-
-### Art. 93
-
-(R)  
+### Art. 93. — (R)
 Denuncia dei lavori e presentazione dei progetti di costruzioni in zone sismiche (legge n. 64 del 1974, articoli 17 e 19)
 
-1. Nelle zone sismiche di cui all'articolo 83, chiunque intenda procedere a costruzioni, riparazioni e sopraelevazioni, e' tenuto a darne preavviso scritto allo sportello unico, che provvede a trasmetterne copia al competente ufficio tecnico della regione, indicando il proprio domicilio, il nome e la residenza del progettista, del direttore dei lavori e dell'appaltatore.
+1.
 
-2. Alla domanda deve essere allegato il progetto, in doppio esemplare e debitamente firmato da un ingegnere, architetto, geometra o perito edile iscritto nell'albo, nei limiti delle rispettive competenze, nonche' dal direttore dei lavori.
+Nelle zone sismiche di cui all'articolo 83, chiunque intenda procedere a costruzioni, riparazioni e sopraelevazioni, e' tenuto a darne preavviso scritto allo sportello unico, che provvede a trasmetterne copia al competente ufficio tecnico della regione, indicando il proprio domicilio, il nome e la residenza del progettista, del direttore dei lavori e dell'appaltatore.
 
-3. Il contenuto minimo del progetto e' determinato dal competente ufficio tecnico della regione. In ogni caso il progetto deve essere esauriente per planimetria, piante, prospetti e sezioni ed accompagnato da una relazione tecnica, dal fascicolo dei calcoli delle strutture portanti, sia in fondazione sia in elevazione, e dai disegni dei particolari esecutivi delle strutture.
+2.
 
-4. Al progetto deve inoltre essere allegata una relazione sulla fondazione, nella quale devono essere illustrati i criteri seguiti nella scelta del tipo di fondazione, le ipotesi assunte, i calcoli svolti nei riguardi del complesso terreno-opera di fondazione.
+Alla domanda deve essere allegato il progetto, in doppio esemplare e debitamente firmato da un ingegnere, architetto, geometra o perito edile iscritto nell'albo, nei limiti delle rispettive competenze, nonche' dal direttore dei lavori.
 
-5. La relazione sulla fondazione deve essere corredata da grafici o da documentazioni, in quanto necessari.
+3.
 
-6. In ogni comune deve essere tenuto un registro delle denunzie dei lavori di cui al presente articolo.
+Il contenuto minimo del progetto e' determinato dal competente ufficio tecnico della regione. In ogni caso il progetto deve essere esauriente per planimetria, piante, prospetti e sezioni ed accompagnato da una relazione tecnica, dal fascicolo dei calcoli delle strutture portanti, sia in fondazione sia in elevazione, e dai disegni dei particolari esecutivi delle strutture.
 
-7. Il registro deve essere esibito, costantemente aggiornato, a semplice richiesta, ai funzionari, ufficiali ed agenti indicati nell'articolo 103.
+4.
 
-### Art. 94
+Al progetto deve inoltre essere allegata una relazione sulla fondazione, nella quale devono essere illustrati i criteri seguiti nella scelta del tipo di fondazione, le ipotesi assunte, i calcoli svolti nei riguardi del complesso terreno-opera di fondazione.
 
-(L)  
-Autorizzazione per l'inizio dei lavori
+5.
 
-CAPO XIX Sezione III Repressione delle violazioni
--------------------------------------------------
+La relazione sulla fondazione deve essere corredata da grafici o da documentazioni, in quanto necessari.
 
-### Art. 95
+6.
 
-(L)  
-Sanzioni penali
+In ogni comune deve essere tenuto un registro delle denunzie dei lavori di cui al presente articolo.
 
-### Art. 96
+7.
 
-(L)  
-Accertamento delle violazioni
+Il registro deve essere esibito, costantemente aggiornato, a semplice richiesta, ai funzionari, ufficiali ed agenti indicati nell'articolo 103.
 
-### Art. 97
+### Art. 94. — (L)
+ Autorizzazione per l'inizio dei lavori
 
-(L)  
-Sospensione dei lavori
+## Repressione delle violazioni
 
-### Art. 98
+Sezione III
 
-(L)  
-Procedimento penale
+### Art. 95. — (L)
+ Sanzioni penali
 
-### Art. 99
+### Art. 96. — (L)
+ Accertamento delle violazioni
 
-(L)  
-Esecuzione d'ufficio
+### Art. 97. — (L)
+ Sospensione dei lavori
 
-### Art. 100
+### Art. 98. — (L)
+ Procedimento penale
 
-(L)   
-Competenza della Regione
+### Art. 99. — (L)
+ Esecuzione d'ufficio
 
-  
-  
----------------   
-Nota redazionale   
-Il testo del presente articolo e' gia' integrato con le correzioni apportate dall'avviso di rettifica pubblicato in G.U. 13/11/2001, n. 264 durante il periodo di "vacatio legis".   
-E' possibile visualizzare il testo originario accedendo alla versione pdf della relativa Gazzetta di pubblicazione.   
+### Art. 100. — (L) 
+ Competenza della Regione
 
-### Art. 101
+--------------- 
+Nota redazionale 
+ Il testo del presente articolo e' gia' integrato con le correzioni apportate dall'avviso di rettifica pubblicato in G.U. 13/11/2001, n. 264 durante il periodo di "vacatio legis". 
+ E' possibile visualizzare il testo originario accedendo alla versione pdf della relativa Gazzetta di pubblicazione.
 
-(L)  
+### Art. 101. — (L)
 Comunicazione del provvedimento al competente ufficio tecnico della regione
 
-### Art. 102
+### Art. 102. — (L)
+ Modalita' per l'esecuzione d'ufficio
 
-(L)  
-Modalita' per l'esecuzione d'ufficio
+### Art. 103. — (L)
+ Vigilanza per l'osservanza delle norme tecniche
 
-### Art. 103
+## Disposizioni finali
 
-(L)  
-Vigilanza per l'osservanza delle norme tecniche
+Sezione IV
 
-CAPO XX Sezione IV Disposizioni finali
---------------------------------------
+### Art. 104. — (L)
+ Costruzioni in corso in zone sismiche di nuova classificazione
 
-### Art. 104
+### Art. 105. — (L)
+ Costruzioni eseguite col sussidio dello Stato
 
-(L)  
-Costruzioni in corso in zone sismiche di nuova classificazione
+### Art. 106. — (L)
+ Esenzione per le opere eseguite dal genio militare
 
-### Art. 105
+## Norme per la sicurezza degli impianti
 
-(L)  
-Costruzioni eseguite col sussidio dello Stato
+Capo V
 
-### Art. 106
+### Art. 107. — (L)
+ Ambito di applicazione
 
-(L)  
-Esenzione per le opere eseguite dal genio militare
+### Art. 108. — (L)
+ Soggetti abilitati
 
-CAPO XXI Capo V Norme per la sicurezza degli impianti
------------------------------------------------------
+### Art. 109. — (L)
+ Requisiti tecnico-professionali
 
-### Art. 107
+### Art. 110. — (L, commi 1 e 2 - R, comma 3)
+ Progettazione degli impianti (legge 18 maggio 1990, n. 46, art. 6)
 
-(L)  
-Ambito di applicazione
+1.
 
-### Art. 108
+-
 
-(L)  
-Soggetti abilitati
+2.
 
-### Art. 109
+-
 
-(L)  
-Requisiti tecnico-professionali
+3.
 
-### Art. 110
-
-(L, commi 1 e 2 - R, comma 3)  
-Progettazione degli impianti (legge 18 maggio 1990, n. 46, art. 6)
-
-1. -
-
-2. -
-
-3. Il progetto, di cui al comma 1, deve essere depo-sitato presso  
+Il progetto, di cui al comma 1, deve essere depo-sitato presso
 lo sportello unico contestualmente al progetto edilizio.
 
-### Art. 111
+### Art. 111. — (R)
+ Misure di semplificazione per il collaudo degli impianti installati
 
-(R)  
-Misure di semplificazione per il collaudo degli impianti installati
+1.
 
-1. Nel caso in cui la normativa vigente richieda il certificato di collaudo degli impianti installati il committente e' esonerato dall'obbligo di presentazione dei progetti degli impianti di cui ai commi 1, lettere a), b), c), e) e g), e 2 dell'articolo 107 se, prima dell'inizio dei lavori, dichiari di volere effettuare il collaudo degli impianti con le modalita' previste dal comma 2.
+Nel caso in cui la normativa vigente richieda il certificato di collaudo degli impianti installati il committente e' esonerato dall'obbligo di presentazione dei progetti degli impianti di cui ai commi 1, lettere a), b), c), e) e g), e 2 dell'articolo 107 se, prima dell'inizio dei lavori, dichiari di volere effettuare il collaudo degli impianti con le modalita' previste dal comma 2.
 
-2. Il collaudo degli impianti puo' essere effettuato a cura di professionisti abilitati, non intervenuti in alcun modo nella progettazione, direzione ed esecuzione dell'opera, i quali attestano che i lavori realizzati sono conformi ai progetti approvati e alla normativa vigente in materia. In questo caso la certificazione redatta viene trasmessa allo sportello unico a cura del direttore dei lavori.
+2.
 
-3. Resta salvo il potere dell'amministrazione di procedere all'effettuazione dei controlli successivi e di applicare, in caso di falsita' delle attestazioni, le sanzioni previste dalla normativa vigente.
+Il collaudo degli impianti puo' essere effettuato a cura di professionisti abilitati, non intervenuti in alcun modo nella progettazione, direzione ed esecuzione dell'opera, i quali attestano che i lavori realizzati sono conformi ai progetti approvati e alla normativa vigente in materia. In questo caso la certificazione redatta viene trasmessa allo sportello unico a cura del direttore dei lavori.
 
-### Art. 112
+3.
 
-(L)   
-Installazione degli impianti
+Resta salvo il potere dell'amministrazione di procedere all'effettuazione dei controlli successivi e di applicare, in caso di falsita' delle attestazioni, le sanzioni previste dalla normativa vigente.
 
-### Art. 113
+### Art. 112. — (L) 
+ Installazione degli impianti
 
-(L)  
-Dichiarazione di conformita'
+### Art. 113. — (L)
+ Dichiarazione di conformita'
 
-### Art. 114
+### Art. 114. — (L)
+ Responsabilita' del committente o del proprietario
 
-(L)  
-Responsabilita' del committente o del proprietario
+### Art. 115. — (L)
+ Certificato di agibilita'
 
-### Art. 115
+### Art. 116. — (L)
+ Ordinaria manutenzione degli impianti e cantieri
 
-(L)  
-Certificato di agibilita'
-
-### Art. 116
-
-(L)  
-Ordinaria manutenzione degli impianti e cantieri
-
-### Art. 117
-
-(R)  
+### Art. 117. — (R)
 Deposito presso lo sportello unico della dichiarazione di conformita' o del certificato di collaudo (legge 18 maggio 1990, n. 46, art. 13)
 
-1. Qualora nuovi impianti tra quelli di cui ai com-mi 1, lettere a), b), c), e), e g), e 2 dell'articolo 107 vengano installati in edifici per i quali e' gia' stato rilasciato il certificato di agibilita', l'impresa installatrice deposita presso lo sportello unico, entro trenta giorni dalla conclusione dei lavori, il progetto di rifacimento dell'impianto e la dichiarazione di conformita' o il certificato di collaudo degli impianti installati, ove previsto da altre norme o dal regolamento di attuazione di cui all'articolo 119.
+1.
 
-2. In caso di rifacimento parziale di impianti, il progetto e la dichiarazione di conformita' o il certificato di collaudo, ove previsto, si riferiscono alla sola parte degli impianti oggetto dell'opera di rifacimento. Nella relazione di cui all'articolo 113 deve essere espressamente indicata la compatibilita' con gli impianti preesistenti.
+Qualora nuovi impianti tra quelli di cui ai com-mi 1, lettere a), b), c), e), e g), e 2 dell'articolo 107 vengano installati in edifici per i quali e' gia' stato rilasciato il certificato di agibilita', l'impresa installatrice deposita presso lo sportello unico, entro trenta giorni dalla conclusione dei lavori, il progetto di rifacimento dell'impianto e la dichiarazione di conformita' o il certificato di collaudo degli impianti installati, ove previsto da altre norme o dal regolamento di attuazione di cui all'articolo 119.
 
-3. In alternativa al deposito del progetto, di cui al comma 1, e' possibile ricorrere alla certificazione di conformita' dei lavori ai progetti approvati di cui all'articolo 111.
+2.
 
-### Art. 118
+In caso di rifacimento parziale di impianti, il progetto e la dichiarazione di conformita' o il certificato di collaudo, ove previsto, si riferiscono alla sola parte degli impianti oggetto dell'opera di rifacimento. Nella relazione di cui all'articolo 113 deve essere espressamente indicata la compatibilita' con gli impianti preesistenti.
 
-(L)   
-Verifiche
+3.
 
-### Art. 119
+In alternativa al deposito del progetto, di cui al comma 1, e' possibile ricorrere alla certificazione di conformita' dei lavori ai progetti approvati di cui all'articolo 111.
 
-(L)  
-Regolamento di attuazione
+### Art. 118. — (L) 
+ Verifiche
 
-### Art. 120
+### Art. 119. — (L)
+ Regolamento di attuazione
 
-(L)  
-Sanzioni
+### Art. 120. — (L)
+ Sanzioni
 
-### Art. 121
+### Art. 121. — (L)
+ Abrogazione e adeguamento dei regolamenti comunali e regionali
 
-(L)  
-Abrogazione e adeguamento dei regolamenti comunali e regionali
+## Norme per il contenimento del consumo di energia negli edifici
 
-CAPO XXII Capo VI Norme per il contenimento del consumo di energia negli edifici
---------------------------------------------------------------------------------
+Capo VI
 
-### Art. 122
+### Art. 122. — (L)
+ Ambito di applicazione
 
-(L)  
-Ambito di applicazione
+### Art. 123. — (L)
+ Progettazione, messa in opera ed esercizio di edifici e di impianti
 
-### Art. 123
+### Art. 124. — (L)
+ Limiti ai consumi di energia
 
-(L)  
-Progettazione, messa in opera ed esercizio di edifici e di impianti
+### Art. 125. — (L - R, commi 1 e 3) 
+ Denuncia dei lavori, relazione tecnica e progettazione degli 
+Impianti e delle opere relativi alle fonti rinnovabili di energia, al risparmio e all'uso razionale dell'energia 
+ (legge 9 gennaio 1991, n. 10, art. 28)
 
-### Art. 124
+1.
 
-(L)  
-Limiti ai consumi di energia
+Il proprietario dell'edificio, o chi ne ha titolo, deve depositare presso lo sportello unico, in duplice copia la denuncia dell'inizio dei lavori relativi alle opere di cui agli articoli 122 e 123, il progetto delle opere stesse corredato da una relazione tecnica, sottoscritta dal progettista o dai progettisti, che ne attesti la rispondenza alle prescrizioni del presente Capo.
 
-### Art. 125
+2.
 
-(L - R, commi 1 e 3)   
-Denuncia dei lavori, relazione tecnica e progettazione degli   
-Impianti e delle opere relativi alle fonti rinnovabili di energia, al risparmio e all'uso razionale dell'energia   
-(legge 9 gennaio 1991, n. 10, art. 28)
+- 
+ 3. a documentazione deve essere compilata secondo le modalita' stabilite con proprio decreto dal Ministro delle attivita' produttive. Una copia della documentazione e' conservata dallo sportello unico ai fini dei controlli e delle verifiche di cui all'articolo 131. Altra copia della documentazione, restituita dallo sportello unico con l'attestazione dell'avvenuto deposito, deve essere consegnata a cura del proprietario dell'edificio, o di chi ne ha titolo, al direttore dei lavori ovvero, nel caso l'esistenza di questi non sia prevista dalla legislazione vigente, all'esecutore dei lavori. Il direttore ovvero l'esecutore dei lavori sono responsabili della conservazione di tale documentazione in cantiere. 
+ 
+--------------- 
+Nota redazionale 
+ Il testo del presente articolo e' gia' integrato con le correzioni apportate dall'avviso di rettifica pubblicato in G.U. 13/11/2001, n. 264 durante il periodo di "vacatio legis". 
+ E' possibile visualizzare il testo originario accedendo alla versione pdf della relativa Gazzetta di pubblicazione.
 
-1. Il proprietario dell'edificio, o chi ne ha titolo, deve depositare presso lo sportello unico, in duplice copia la denuncia dell'inizio dei lavori relativi alle opere di cui agli articoli 122 e 123, il progetto delle opere stesse corredato da una relazione tecnica, sottoscritta dal progettista o dai progettisti, che ne attesti la rispondenza alle prescrizioni del presente Capo.
+### Art. 126. — (R)
+ Certificazione di impianti
 
-2. -   
-3. a documentazione deve essere compilata secondo le modalita' stabilite con proprio decreto dal Ministro delle attivita' produttive. Una copia della documentazione e' conservata dallo sportello unico ai fini dei controlli e delle verifiche di cui all'articolo 131. Altra copia della documentazione, restituita dallo sportello unico con l'attestazione dell'avvenuto deposito, deve essere consegnata a cura del proprietario dell'edificio, o di chi ne ha titolo, al direttore dei lavori ovvero, nel caso l'esistenza di questi non sia prevista dalla legislazione vigente, all'esecutore dei lavori. Il direttore ovvero l'esecutore dei lavori sono responsabili della conservazione di tale documentazione in cantiere.   
-  
----------------   
-Nota redazionale   
-Il testo del presente articolo e' gia' integrato con le correzioni apportate dall'avviso di rettifica pubblicato in G.U. 13/11/2001, n. 264 durante il periodo di "vacatio legis".   
-E' possibile visualizzare il testo originario accedendo alla versione pdf della relativa Gazzetta di pubblicazione.
+1.
 
-### Art. 126
+Il committente e' esonerato dall'obbligo di presentazione del progetto di cui all'articolo 125 se, prima dell'inizio dei lavori, dichiari di volersi avvalere della facolta' di cui all'articolo 111, comma 2.
 
-(R)  
-Certificazione di impianti
-
-1. Il committente e' esonerato dall'obbligo di presentazione del progetto di cui all'articolo 125 se, prima dell'inizio dei lavori, dichiari di volersi avvalere della facolta' di cui all'articolo 111, comma 2.
-
-### Art. 127
-
-(R)  
+### Art. 127. — (R)
 Certificazione delle opere e collaudo (legge 9 gennaio 1991, n. 10, art. 29)
 
-1. Per la certificazione e il collaudo delle opere previste dal presente capo si applicano le corrispondenti disposizioni di cui al capo quinto della parte seconda.
+1.
 
-### Art. 128
+Per la certificazione e il collaudo delle opere previste dal presente capo si applicano le corrispondenti disposizioni di cui al capo quinto della parte seconda.
 
-(L)  
-Certificazione energetica degli edifici
+### Art. 128. — (L)
+ Certificazione energetica degli edifici
 
-### Art. 129
+### Art. 129. — (L)
+ Esercizio e manutenzione degli impianti
 
-(L)  
-Esercizio e manutenzione degli impianti
+### Art. 130. — (L)
+ Certificazioni e informazioni ai consumatori
 
-### Art. 130
+### Art. 131. — (L)
+ Controlli e verifiche
 
-(L)  
-Certificazioni e informazioni ai consumatori
+### Art. 132. — (L)
+ Sanzioni
 
-### Art. 131
+### Art. 133. — (L)
+ Provvedimenti di sospensione dei lavori
 
-(L)  
-Controlli e verifiche
+### Art. 134. — (L)
+ Irregolarita' rilevate dall'acquirente o dal conduttore
 
-### Art. 132
+### Art. 135. — (L)
+ Applicazione
 
-(L)  
-Sanzioni
+## DISPOSIZIONI FINALI Capo I Disposizioni finali
 
-### Art. 133
+Parte III
 
-(L)  
-Provvedimenti di sospensione dei lavori
+### Art. 136. — [(L, commi 1 e 2, lettere a), b), c), d), e), f), g), h), i), l) - R comma 2, lettera m)] 
+ Abrogazioni
 
-### Art. 134
+1.
 
-(L)  
-Irregolarita' rilevate dall'acquirente o dal conduttore
+- 
+ 2. m) [Decreto del Presidente della Repubblica 22 aprile 1994, n. 425](Regolamento%20recante%20disciplina%20dei%20procedimenti%20di%20autorizzazione%20allabitabilita%20di%20collaudo%20statico%20e%20di%20iscrizione%20al%20catasto.md). 
+ 
+--------------- 
+Nota redazionale 
+ Il testo del presente articolo e' gia' integrato con le correzioni apportate dall'avviso di rettifica pubblicato in G.U. 13/11/2001, n. 264 durante il periodo di "vacatio legis". 
+ E' possibile visualizzare il testo originario accedendo alla versione pdf della relativa Gazzetta di pubblicazione.
 
-### Art. 135
+### Art. 137. — (L)
+ Norme che rimangono in vigore
 
-(L)  
-Applicazione
-
-CAPO XXIII Parte III DISPOSIZIONI FINALI Capo I Disposizioni finali
--------------------------------------------------------------------
-
-### Art. 136
-
-[(L, commi 1 e 2, lettere a), b), c), d), e), f), g), h), i), l) - R comma 2, lettera m)]   
-Abrogazioni
-
-1. -   
-2. m) [Decreto del Presidente della Repubblica 22 aprile 1994, n. 425](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1994-04-22;425).   
-  
----------------   
-Nota redazionale   
-Il testo del presente articolo e' gia' integrato con le correzioni apportate dall'avviso di rettifica pubblicato in G.U. 13/11/2001, n. 264 durante il periodo di "vacatio legis".   
-E' possibile visualizzare il testo originario accedendo alla versione pdf della relativa Gazzetta di pubblicazione.
-
-### Art. 137
-
-(L)  
-Norme che rimangono in vigore
-
-### Art. 138
-
-(L)  
-Entrata in vigore del testo unico
+### Art. 138. — (L)
+ Entrata in vigore del testo unico
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserito nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 6 giugno 2001
+Dato a Roma, addi' 6 giugno 2001
 
-CIAMPI
-
-Amato, Presidente del Consiglio dei Ministri
-
-Bassanini, Ministro per la funzione pubblica
-
-Loiero, Ministro per gli affari regionali
-
-Nesi, Ministro dei lavori pubblici
-
-Melandri, Ministro per i beni e le attivita' culturali
-
-Visto, il Guardasigilli: Castelli Registrato alla Corte dei conti il 20 settembre 2001 Ufficio di controllo sugli atti dei Ministeri delle infrastrutture
-
-ed assetto del territorio, registro n. 5, foglio n. 194
+CIAMPI Amato, Presidente del Consiglio dei Ministri Bassanini, Ministro per la funzione pubblica Loiero, Ministro per gli affari regionali Nesi, Ministro dei lavori pubblici Melandri, Ministro per i beni e le attivita' culturali Visto, il Guardasigilli: Castelli Registrato alla Corte dei conti il 20 settembre 2001 Ufficio di controllo sugli atti dei Ministeri delle infrastrutture ed assetto del territorio, registro n. 5, foglio n. 194

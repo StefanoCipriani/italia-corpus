@@ -1,16 +1,16 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 04 luglio 1967 n. 640
-
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 04 luglio 1967 n. 640
-=============================================================
-
-Assegnazione di uno dei nuovi posti di professore universitario di ruolo istituiti, per l'anno accademico 1967-68, con la legge 24 febbraio 1967, n. 62.
---------------------------------------------------------------------------------------------------------------------------------------------------------
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 640
+data: 1967-07-04
+titolo: "Assegnazione di uno dei nuovi posti di professore universitario di ruolo istituiti, per l'anno accademico 1967-68, con la legge 24 febbraio 1967, n. 62."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1967-07-04;640
+codice_redazionale: 067U0640
+vigente: true
+---
 
 IL PRESIDENTE DELLA REPUBBLICA
-------------------------------
 
-Veduta la [legge 24 febbraio 1967, n. 62, che all'art. 1](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1967-02-24;62~art1) istituisce, tra l'altro, per l'anno accademico 1967-68, centocinquanta nuovi posti di professore universitario di ruolo destinati:
+Veduta la [legge 24 febbraio 1967, n. 62, che all'art. 1](../Atti%20normativi%20abrogati%20%28in%20originale%29/Istituzione%20di%20nuove%20cattedre%20universitarie%20di%20nuovi%20posti%20di%20assistente%20universitario%20e%20nuova%20disciplina%20degli%20incarichi%20di%20insegnamento%20universitario%20e%20degli%20assistenti%20volontari.md) istituisce, tra l'altro, per l'anno accademico 1967-68, centocinquanta nuovi posti di professore universitario di ruolo destinati:
 
 nella misura del 5 per cento (e, cioe', in numero di otto) per le esigenze delle Facolta' e Scuole delle Universita' e degli Istituti di istruzione universitaria istituiti dopo il 31 dicembre 1965;
 
@@ -20,39 +20,24 @@ nella misura del 10 per cento dopo le detrazioni di cui sopra (e cioe' in numero
 
 per la restante parte (e cioe' in numero di ottantanove), per la ripartizione tra le Facolta' e Scuole per il normale incremento degli organici;
 
-Veduto il [decreto del Presidente della Repubblica 4 aprile 1967, n. 372, che all'art. 1](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1967-04-04;372~art1) ha ripartito fra le Facolta' e Scuole ottantasette posti di professore universitario di ruolo dei centocinquanta istituiti per lo anno accademico 1967-68 dall'art. 1 della citata legge n. 62;
+Veduto il [decreto del Presidente della Repubblica 4 aprile 1967, n. 372, che all'art. 1](Ripartizione%20di%20ottantasette%20del%20centocinquanta%20posti%20di%20professore%20universitario%20di%20ruolo%20istituiti%20con%20la%20legge%2024%20febbraio%201967%20n.%2062%20con%20decorrenza%20dallanno%20accademico%201967-68.md) ha ripartito fra le Facolta' e Scuole ottantasette posti di professore universitario di ruolo dei centocinquanta istituiti per lo anno accademico 1967-68 dall'art. 1 della citata legge n. 62;
 
 Veduto, in particolare, l'art. 2 del medesimo decreto del Presidente della Repubblica n. 372, con il quale si faceva riserva di ripartire, con successivo provvedimento, i rimanenti sessantatre posti di professore universitario di ruolo;
 
 Veduta la motivata richiesta della Facolta' di ingegneria dell'Universita' di Roma, formulata con riferimento ai singoli corsi di laurea e corredata dei pareri del Senato accademico e del Consiglio di amministrazione, per l'assegnazione dei posti di ruolo in questione;
 
-Sulla
------
+Sulla proposta del Ministro per la pubblica istruzione; Decreta:
 
-proposta del Ministro per la pubblica istruzione; Decreta:
+## Art. 1.
 
-Art. 1
-------
+Con effetto dall'anno accademico 1967-68 viene assegnato alla Facolta' di ingegneria dell'Universita' di Roma un posto di professore universitario di ruolo dei sessantatre non ripartiti con il citato decreto del Presidente della Repubblica n. 372.
 
-  
-Con effetto dall'anno accademico 1967-68 viene assegnato alla Facolta' di ingegneria dell'Universita' di Roma un posto di professore universitario di ruolo dei sessantatre non ripartiti con il citato decreto del Presidente della Repubblica n. 372.  
+## Art. 2.
 
-Art. 2
-------
-
-  
-I rimanenti posti istituiti per l'anno accademico 1967-68 saranno assegnati con successivo provvedimento.  
-  
+I rimanenti posti istituiti per l'anno accademico 1967-68 saranno assegnati con successivo provvedimento.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 4 luglio 1967
+Dato a Roma, addi' 4 luglio 1967
 
-SARAGAT GUI
-
-Visto, il Guardasigilli: REALE
-
-Registrato alla Corte dei conti, addi' 26 luglio 1967
-
-Atti del Governo, registro n. 212, foglio n. 80. - GRECO
+SARAGAT GUI Visto, il Guardasigilli: REALE Registrato alla Corte dei conti, addi' 26 luglio 1967 Atti del Governo, registro n. 212, foglio n. 80. - GRECO

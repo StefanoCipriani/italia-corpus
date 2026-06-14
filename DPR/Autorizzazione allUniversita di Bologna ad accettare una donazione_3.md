@@ -1,18 +1,20 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 17 luglio 1949 n. 794
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 794
+data: 1949-07-17
+titolo: "Autorizzazione all'Universita' di Bologna ad accettare una donazione."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1949-07-17;794
+codice_redazionale: 049U0794
+vigente: true
+---
 
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 17 luglio 1949 n. 794
-=============================================================
-
-Autorizzazione all'Universita' di Bologna ad accettare una donazione.
----------------------------------------------------------------------
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-794. Decreto del Presidente della Repubblica 17 luglio 1949, col quale, sulla proposta del Ministro per la pubblica istruzione, l'Universita' di Bologna viene autorizzata ad accettare la donazione della somma di L. 40.000 nominali, in titoli di Rendita italiana 5%, disposta in suo favore dalla ditta G. Battistini e C., con atto pubblico in data 23 marzo 1946, per l'istituzione di un premio di studio triennale da intitolarsi "Premio Annibale Battistini", a favore di laureati in farmacia.  
-  
-Visto, il Guardasigilli: GRASSI  
-Registrato alla Corte dei conti, addi' 26 ottobre 1949
+794.
+
+Decreto del Presidente della Repubblica 17 luglio 1949, col quale, sulla proposta del Ministro per la pubblica istruzione, l'Universita' di Bologna viene autorizzata ad accettare la donazione della somma di L. 40.000 nominali, in titoli di Rendita italiana 5%, disposta in suo favore dalla ditta G. Battistini e C., con atto pubblico in data 23 marzo 1946, per l'istituzione di un premio di studio triennale da intitolarsi "Premio Annibale Battistini", a favore di laureati in farmacia.
+
+Visto, il Guardasigilli: GRASSI
+ Registrato alla Corte dei conti, addi' 26 ottobre 1949

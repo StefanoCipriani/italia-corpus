@@ -1,19 +1,21 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 05 ottobre 1974 n. 617
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 617
+data: 1974-10-05
+titolo: "Riconoscimento della personalita' giuridica dell'Associazione provinciale allevatori, in Asti."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1974-10-05;617
+codice_redazionale: 074U0617
+vigente: true
+---
 
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 05 ottobre 1974 n. 617
-==============================================================
-
-Riconoscimento della personalita' giuridica dell'Associazione provinciale allevatori, in Asti.
-----------------------------------------------------------------------------------------------
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-617. Decreto del Presidente della Repubblica 5 ottobre 1974, col quale, sulla proposta del Ministro per l'agricoltura e le foreste, viene riconosciuta la personalita' giuridica ed approvato lo statuto dell'Associazione provinciale allevatori, in Asti.  
-  
-Visto, il Guardasigilli: ZAGARI  
-Registrato alla Corte dei conti, addi' 25 novembre 1974  
-Atti di Governo, registro n. 7, foglio n. 42. - SCIARRETTA
+617.
+
+Decreto del Presidente della Repubblica 5 ottobre 1974, col quale, sulla proposta del Ministro per l'agricoltura e le foreste, viene riconosciuta la personalita' giuridica ed approvato lo statuto dell'Associazione provinciale allevatori, in Asti.
+
+Visto, il Guardasigilli: ZAGARI
+ Registrato alla Corte dei conti, addi' 25 novembre 1974
+ Atti di Governo, registro n. 7, foglio n. 42. - SCIARRETTA

@@ -1,19 +1,21 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 05 giugno 1961 n. 909
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 909
+data: 1961-06-05
+titolo: "Approvazione della sostituzione dell'art. 9 dello statuto della \"Societa' italiana di scienze veterinarie\", con sede in Bologna."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1961-06-05;909
+codice_redazionale: 061U0909
+vigente: true
+---
 
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 05 giugno 1961 n. 909
-=============================================================
-
-Approvazione della sostituzione dell'art. 9 dello statuto della "Societa' italiana di scienze veterinarie", con sede in Bologna.
---------------------------------------------------------------------------------------------------------------------------------
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-909. Decreto del Presidente della Repubblica 5 giugno 1961, col quale, sulla proposta del Ministro per la pubblica istruzione, viene approvata la sostituzione dell'art. 9 dello statuto della "Societa' italiana di scienze veterinarie", con sede in Bologna.  
-  
-Visto, il Guardasigilli: GONELLA  
-Registrato alla Corte dei conti, addi' 5 settembre 1961  
-Atti del Governo, registro n. 140, foglio n. 10. - VILLA
+909.
+
+Decreto del Presidente della Repubblica 5 giugno 1961, col quale, sulla proposta del Ministro per la pubblica istruzione, viene approvata la sostituzione dell'art. 9 dello statuto della "Societa' italiana di scienze veterinarie", con sede in Bologna.
+
+Visto, il Guardasigilli: GONELLA
+ Registrato alla Corte dei conti, addi' 5 settembre 1961
+ Atti del Governo, registro n. 140, foglio n. 10. - VILLA

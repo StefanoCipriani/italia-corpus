@@ -1,20 +1,22 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 marzo 1976 n. 172
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 66
+data: 1976-01-28
+titolo: "Autorizzazione alla fondazione \"Pro juventute don Carlo Gnocchi\", in Roma, ad accettare un legato."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1976-01-28;66
+codice_redazionale: 076U0066
+vigente: true
+---
 
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 marzo 1976 n. 172
-============================================================
-
-Autorizzazione alla fondazione "Pro juventute don Carlo Gnocchi", in Roma, ad accettare un legato.
---------------------------------------------------------------------------------------------------
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-172. Decreto del Presidente della Repubblica 2 marzo 1976, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la fondazione "Pro juventute don Carlo Gnocchi", in Roma, viene autorizzata ad accettare il legato disposto dalla sig.na Anna Consonni in favore dell'Istituto mutilatini don Gnocchi di Pessano (Milano), dipendente dalla fondazione "Pro juventute don Carlo Gnocchi" come ha fatto presente la fondazione medesima, con testamento olografo 22 febbraio 1969, pubblicato a rogito dott.  
-Domenico Moretti, notaio in Milano, in data 8 ottobre 1971, n. 100725/20815 di repertorio, ed ivi registrato il 16 ottobre 1971 con il n. 17734, vol. G, consistente in un appartamento sito in Gorgonzola (Milano), via Argenzia n. 8, identificato all'ufficio tecnico erariale di Milano con scheda n. 0724779, mapp. 216 - 216-A, e foglio 9, mappali 12 e 74.  
-  
-Visto, il Guardasigilli: BONIFACIO  
-Registrato alla Corte dei conti, addi' 24 aprile 1976  
-Atti di Governo, registro n. 5, foglio n. 38
+66.
+
+Decreto del Presidente della Repubblica 28 gennaio 1976, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la fondazione "Pro juventute don Carlo Gnocchi", in Roma, viene autorizzata ad accettare il legato disposto dal sig. Ettore Cavosi con testamento olografo 14 dicembre 1967, pubblicato a rogito dott.
+ Fabriano Rossi notaio in Cles (Trento), in data 12 dicembre 1972, n. 14075/2805 di repertorio, registrato a Cles il 2 gennaio 1973 con il n. 6, vol. 58, consistente nella somma di lire 16.146.875.
+
+Visto, il Guardasigilli: BONIFACIO
+ Registrato alla Corte dei conti, addi' 13 marzo 1976
+ Atti di Governo, registro n. 4, foglio n. 11

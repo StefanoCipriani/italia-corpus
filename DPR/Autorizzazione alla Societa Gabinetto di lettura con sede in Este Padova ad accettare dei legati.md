@@ -1,20 +1,22 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 10 maggio 1956 n. 738
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 738
+data: 1956-05-10
+titolo: "Autorizzazione alla Societa' \"Gabinetto di lettura\", con sede in Este (Padova) ad accettare dei legati."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1956-05-10;738
+codice_redazionale: 056U0738
+vigente: true
+---
 
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 10 maggio 1956 n. 738
-=============================================================
-
-Autorizzazione alla Societa' "Gabinetto di lettura", con sede in Este (Padova) ad accettare dei legati.
--------------------------------------------------------------------------------------------------------
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-738. Decreto del Presidente della Repubblica 10 maggio 1956, col quale, sulla proposta del Ministro per la pubblica istruzione, la Societa' "Gabinetto di lettura", con sede in Este, viene autorizzata ad accettare i legati disposti in suo favore dal cav.  
-Virgilio Francesco.  
-  
-Visto, il Guardasigilli: MORO  
-Registrato alla Corte dei conti, addi' 17 luglio 1956  
-Atti del Governo, registro n. 99, foglio n. 92. - CARLOMAGNO
+738.
+
+Decreto del Presidente della Repubblica 10 maggio 1956, col quale, sulla proposta del Ministro per la pubblica istruzione, la Societa' "Gabinetto di lettura", con sede in Este, viene autorizzata ad accettare i legati disposti in suo favore dal cav.
+ Virgilio Francesco.
+
+Visto, il Guardasigilli: MORO
+ Registrato alla Corte dei conti, addi' 17 luglio 1956
+ Atti del Governo, registro n. 99, foglio n. 92. - CARLOMAGNO

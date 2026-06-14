@@ -1,26 +1,26 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 06 agosto 1970 n. 707
-
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 06 agosto 1970 n. 707
-=============================================================
-
-Modificazioni allo statuto dell'Universita' degli studi di Siena.
------------------------------------------------------------------
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 707
+data: 1970-08-06
+titolo: "Modificazioni allo statuto dell'Universita' degli studi di Siena."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1970-08-06;707
+codice_redazionale: 070U0707
+vigente: true
+---
 
 IL PRESIDENTE DELLA REPUBBLICA
-------------------------------
 
-Veduto lo statuto dell'Universita' degli studi di Siena, approvato con [regio decreto 13 ottobre 1927, n. 2831](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2831) e modificato con [regio decreto 31 ottobre 1929, n. 2395](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1929-10-31;2395), e successive modificazioni;
+Veduto lo statuto dell'Universita' degli studi di Siena, approvato con [regio decreto 13 ottobre 1927, n. 2831](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20dello%20statuto%20della%20Regia%20universita%20di%20Siena.%20027U2831.md) e modificato con [regio decreto 31 ottobre 1929, n. 2395](../Atti%20normativi%20abrogati%20%28in%20originale%29/Modifiche%20allo%20statuto%20della%20Regia%20universita%20di%20Siena.%20029U2395.md), e successive modificazioni;
 
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
-Veduto il regio decreto-legge 20 giugno. 1935, n. 1071, convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
+Veduto il regio decreto-legge 20 giugno. 1935, n. 1071, convertito nella [legge 2 gennaio 1936, n. 73](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20R.%20decreto-legge%2020%20giugno%201935-XIII%20n.%201071%20contenente%20modifiche%20ed%20aggiornamenti%20al%20testo%20unico%20delle%20leggi%20sullistruzione%20superiore.%20036U0073.md);
 
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
+Veduto il [regio decreto 30 settembre 1938, n. 1652](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disposizioni%20sullordinamento%20didattico%20universitario.%20038U1652.md), e successive modificazioni;
 
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
+Veduta la [legge 11 aprile 1953, n. 312](../Atti%20normativi%20abrogati%20%28in%20originale%29/Libera%20inclusione%20di%20nuovi%20insegnamenti%20complementari%20negli%20statuti%20delle%20Universita%20e%20degli%20Istituti%20distruzione%20superiore.md);
 
-Veduta la [legge 11 dicembre 1969, n. 910](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1969-12-11;910);
+Veduta la [legge 11 dicembre 1969, n. 910](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1969-12-11;910);
 
 Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;
 
@@ -28,113 +28,22 @@ Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
 
 Sentito il parere del Consiglio superiore della pubblica istruzione;
 
-Sulla
------
+Sulla proposta del Ministro per la pubblica istruzione; Decreta:
 
-proposta del Ministro per la pubblica istruzione; Decreta:
+## Art. 1.
 
-Art. 1
-------
+La tabella II annessa al [regio decreto 30 settembre 1938, n. 1652](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disposizioni%20sullordinamento%20didattico%20universitario.%20038U1652.md), e' integrata nel senso che la facolta' di scienze economiche e bancarie rilascia anche la laurea in scienze statistiche ed economiche, il cui ordinamento e' riportato nella tabella VII-bis.
 
-  
-La tabella II annessa al [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e' integrata nel senso che la facolta' di scienze economiche e bancarie rilascia anche la laurea in scienze statistiche ed economiche, il cui ordinamento e' riportato nella tabella VII-bis.  
+## Art. 2.
 
-Art. 2
-------
+A decorrere dall'anno accademico 1970-71 e' istituito presso la facolta' di scienze economiche e bancarie dell'Universita' di Siena il corso di laurea in scienze statistiche ed economiche.
 
-  
-A decorrere dall'anno accademico 1970-71 e' istituito presso la facolta' di scienze economiche e bancarie dell'Universita' di Siena il corso di laurea in scienze statistiche ed economiche.  
+## Art. 3.
 
-Art. 3
-------
-
-  
-Lo statuto dell'Universita' degli studi di Siena, approvato e modificato con i decreti suindicati e' ulteriormente modificato come dal testo annesso al presente decreto - vistato dal Ministro per la pubblica istruzione - contenente le norme relative all'ordinamento del corso di studi della laurea in scienze statistiche ed economiche.  
-  
+Lo statuto dell'Universita' degli studi di Siena, approvato e modificato con i decreti suindicati e' ulteriormente modificato come dal testo annesso al presente decreto - vistato dal Ministro per la pubblica istruzione - contenente le norme relative all'ordinamento del corso di studi della laurea in scienze statistiche ed economiche.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 6 agosto 1970
+Dato a Roma, addi' 6 agosto 1970
 
-SARAGAT MISASI
-
-Visto, il Guardasigilli: REALE
-
-Registrato alla Corte dei conti, addi' 29 settembre 1970
-
-Atti del Governo, registro n. 237, foglio n. 118. - GRECO
-
-Allegato
-
- ALLEGATO   
-  
-Testo delle modifiche dello statuto dell'Universita' degli studi di Siena, relativo alla istituzione del corso di laurea in scienze statistiche ed economiche.   
-  
-Art. 30. - E' abrogato e sostituito dal seguente:   
-La facolta' conferisce:   
-1) la laurea in scienze economiche e bancarie;   
-2) la laurea in scienze economiche;   
-3) la laurea in scienze statistiche ed economiche.   
-La durata del corso di studi per la laurea in scienze economiche e bancarie, per la laurea in scienze economiche e per la laurea in scienze statistiche ed economiche e' di quattro anni.   
-Titolo di ammissione: quello previsto dalle leggi vigenti.   
-Dopo l'art. 39 e con il conseguente spostamento della successiva numerazione sono aggiunti i seguenti nuovi articoli relativi alla istituzione del corso di laurea in scienze statistiche ed economiche.   
-  
-Laurea in scienze statistiche ed economiche   
-Art. 40. Sono insegnamenti fondamentali:   
-1) Istituzioni di analisi matematica;   
-2) Analisi matematica;   
-3) Geometria analitica;   
-4) Calcolo delle probabilita';   
-5) Istituzioni di statistica;   
-6) Statistica;   
-7) Statistica metodologica;   
-8) Demografia;   
-9) e 10) Economia politica (biennale);   
-11) Politica economica e finanziaria;   
-12) Istituzioni di statistica economica;   
-13) Statistica economica;   
-14) Economia d'azienda;   
-15) Statistica aziendale e analisi di mercato;   
-16) Controllo statistico delle qualita' e statistica industriale;  
-17) Istituzioni di diritto privato;   
-18) Istituzioni di diritto pubblico;   
-19) Teoria dei campioni.   
-Sono insegnamenti complementari:   
-1) Geografia economica;   
-2) Statistica sociale;   
-3) Sociologia;   
-4) Scienza delle finanze;   
-5) Econometria;   
-6) Contabilita' economica nazionale;   
-7) Diritto commerciale;   
-8) Diritto del lavoro;   
-9) Matematica finanziaria e istituzioni di matematica attuariale;  
-10) Teoria tecnica della elaborazione automatica dei dati;   
-11) Ricerca operativa;   
-12) Teoria dei sistemi;   
-13) Psicologia sperimentale;   
-14) Antropologia;   
-15) Statistica medica e biometria;   
-16) Statistica applicata alle scienze fisiche;   
-17) Genetica;   
-18) Diritto pubblico dell'economia;   
-19) Storia della statistica;   
-20) Economia dei trasporti.   
-Gli insegnamenti complementari possono essere scelti dallo studente anche fra le discipline impartite in altre facolta' dell'ateneo, previa approvazione del preside della facolta'. Detta approvazione deve essere richiesta entro il 31 dicembre di ogni anno.   
-Per essere ammesso all'esame di laurea lo studente deve aver seguito i corsi e superato gli esami di tutti gli insegnamenti fondamentali e di almeno tre complementari. Deve anche aver superato gli esami di due lingue straniere moderne, dei quali almeno uno di lingua francese o inglese o tedesca presso la facolta' di scienze economiche e bancarie, e l'altro di lingua il cui insegnamento sia impartito presso qualsiasi facolta' dell'ateneo.   
-Per essere iscritto al secondo anno lo studente deve aver superato almeno due esami fondamentali del primo anno.   
-Per l'insegnamento biennale di economia politica e' prescritto l'esame alla fine di ciascun corso annuale, dovendosi il primo considerare propedeutico al secondo.   
-Art. 41. - Gli esami di: istituzioni di matematica, analisi matematica, geometria analitica, calcolo delle probabilita', istituzioni di statistica, statistica, economia politica (1° esame), istituzioni di statistica economica, statistica economica, istituzioni di diritto pubblico, istituzioni di diritto privato, debbono essere superati prima degli altri esami fondamentali.   
-Gli esami di istituzioni di analisi matematica e di geometria analitica dovranno essere superati prima degli esami di analisi matematica e statistica.   
-L'esame di istituzioni di statistica dovra' essere superato prima degli esami di statistica, di demografia e di statistica economica.   
-L'esame di analisi matematica dovra' essere superato prima dell'esame di calcolo delle probabilita'.   
-Gli esami di economia politica (1° esame) e di istituzioni di statistica economica dovranno essere superati prima dell'esame di statistica economica.   
-L'esame di economia politica (2° esame) dovra' essere superato prima dell'esame di politica economica.   
-L'esame di laurea consiste nella discussione di una dissertazione scritta, svolta sul tema approvato dal professore della materia e nella discussione di almeno due su tre temi orali scelti dal candidato vertenti su materie fondamentali del suo corso di studi e parimenti approvati dai professori delle rispettive materie.   
-Uno di questi temi deve riguardare la statistica metodologica ed uno la statistica applicata.   
-  
-Visto, d'ordine del Presidente della Repubblica   
-Il Ministro per la pubblica istruzione   
-  
-MISASI   
+SARAGAT MISASI Visto, il Guardasigilli: REALE Registrato alla Corte dei conti, addi' 29 settembre 1970 Atti del Governo, registro n. 237, foglio n. 118. - GRECO

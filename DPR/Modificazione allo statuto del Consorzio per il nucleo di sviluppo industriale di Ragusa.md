@@ -1,38 +1,30 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 11 dicembre 1968 n. 1497
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 1497
+data: 1968-12-11
+titolo: "Modificazione allo statuto del Consorzio per il nucleo di sviluppo industriale di Ragusa."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1968-12-11;1497
+codice_redazionale: 068U1497
+vigente: true
+---
 
+## Art. 1.
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 11 dicembre 1968 n. 1497
-================================================================
+IL PRESIDENTE DELLA REPUBBLICA
 
-Modificazione allo statuto del Consorzio per il nucleo di sviluppo industriale di Ragusa.
------------------------------------------------------------------------------------------
+ Visto il [decreto del Presidente della Repubblica del 3 aprile 1963, n. 791](Approvazione%20dello%20statuto%20del%20Consorzio%20per%20il%20nucleo%20di%20sviluppo%20industriale%20in%20Ragusa.md), con il quale e' stato approvato lo statuto del Consorzio per il nucleo di sviluppo industriale di Ragusa;
+ Vista la [delibera n. 1 del 18 febbraio 1967](https://www.normattiva.it/uri-res/N2Ls?urn:nir::delibera:1967-02-18;1) del consiglio generale del Consorzio per il nucleo di sviluppo industriale di Ragusa;
+ Vista la nota del [Ministero dell'industria, commercio e artigianato n. 101777/72 del 6 giugno 1968](https://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.industria.commercio.artigianato::1968-06-06;101777);
+ Visto l'[art. 145 del testo unico 30 giugno 1967, numero 1523](https://www.normattiva.it/uri-res/N2Ls?urn:nir:::1967-06-30;1523#art_145);
+ Vista la deliberazione del 19 settembre 1968 del Comitato dei Ministri per il Mezzogiorno con l'intervento del Ministro per l'interno;
+ Sulla proposta del Presidente del Consiglio dei Ministri;
 
-Art. 1
-------
+ Decreta:
 
- IL PRESIDENTE DELLA REPUBBLICA  
-  
-Visto il [decreto del Presidente della Repubblica del 3 aprile 1963, n. 791](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1963-04-03;791), con il quale e' stato approvato lo statuto del Consorzio per il nucleo di sviluppo industriale di Ragusa;  
-Vista la [delibera n. 1 del 18 febbraio 1967](http://www.normattiva.it/uri-res/N2Ls?urn:nir::delibera:1967-02-18;1) del consiglio generale del Consorzio per il nucleo di sviluppo industriale di Ragusa;  
-Vista la nota del [Ministero dell'industria, commercio e artigianato n. 101777/72 del 6 giugno 1968](http://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.industria.commercio.artigianato::1968-06-06;101777);  
-Visto l'[art. 145 del testo unico 30 giugno 1967, numero 1523](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1967-06-30;1523~art145);  
-Vista la deliberazione del 19 settembre 1968 del Comitato dei Ministri per il Mezzogiorno con l'intervento del Ministro per l'interno;  
-Sulla proposta del Presidente del Consiglio dei Ministri;  
-  
-Decreta:  
-  
-E' approvata la modifica apportata agli articoli 5, 7 e 8 dello statuto del Consorzio per il nucleo di sviluppo industriale di Ragusa nei termini indicati dalla [delibera n. 1 del 18 febbraio 1967](http://www.normattiva.it/uri-res/N2Ls?urn:nir::delibera:1967-02-18;1) del consiglio generale del consorzio stesso.  
-  
+ E' approvata la modifica apportata agli articoli 5, 7 e 8 dello statuto del Consorzio per il nucleo di sviluppo industriale di Ragusa nei termini indicati dalla [delibera n. 1 del 18 febbraio 1967](https://www.normattiva.it/uri-res/N2Ls?urn:nir::delibera:1967-02-18;1) del consiglio generale del consorzio stesso.
 
 Il presente decreto munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 11 dicembre 1968
+Dato a Roma, addi' 11 dicembre 1968
 
-SARAGAT LEONE
-
-Visto, il Guardasigilli: GAVA
-
-Registrato alla Corte dei conti, addi' 22 marzo 1969
-
-Atti del Governo, registro n. 225, foglio n. 165. - GRECO
+SARAGAT LEONE Visto, il Guardasigilli: GAVA Registrato alla Corte dei conti, addi' 22 marzo 1969 Atti del Governo, registro n. 225, foglio n. 165. - GRECO

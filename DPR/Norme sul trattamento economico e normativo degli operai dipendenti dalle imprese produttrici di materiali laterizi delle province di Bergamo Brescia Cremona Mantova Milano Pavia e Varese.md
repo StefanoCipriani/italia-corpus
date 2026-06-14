@@ -1,20 +1,20 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 09 maggio 1961 n. 759
-
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 09 maggio 1961 n. 759
-=============================================================
-
-Norme sul trattamento economico e normativo degli operai dipendenti dalle imprese produttrici di materiali laterizi delle province di Bergamo, Brescia, Cremona, Mantova, Milano, Pavia e Varese.
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 759
+data: 1961-05-09
+titolo: "Norme sul trattamento economico e normativo degli operai dipendenti dalle imprese produttrici di materiali laterizi delle province di Bergamo, Brescia, Cremona, Mantova, Milano, Pavia e Varese."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1961-05-09;759
+codice_redazionale: 061U0759
+vigente: true
+---
 
 IL PRESIDENTE DELLA REPUBBLICA
-------------------------------
 
-Visto l'[art. 87, comma quinto della Costituzione](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27~art87-com5);
+Visto l'[art. 87, comma quinto della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87-com5);
 
-Vista la [legge 14 luglio 1959, n. 741](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1959-07-14;741), che delega il Governo ad emanare norme transitorie per garantire i minimi di trattamento economico e normativo ai lavoratori;
+Vista la [legge 14 luglio 1959, n. 741](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1959-07-14;741), che delega il Governo ad emanare norme transitorie per garantire i minimi di trattamento economico e normativo ai lavoratori;
 
-Vista la [legge 1 ottobre 1960, n. 1027](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1960-10-01;1027), recante modifiche alla predetta [legge 14 luglio 1959, n. 741](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1959-07-14;741);
+Vista la [legge 1 ottobre 1960, n. 1027](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1960-10-01;1027), recante modifiche alla predetta [legge 14 luglio 1959, n. 741](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1959-07-14;741);
 
 Visto il contratto collettivo nazionale di lavoro 18 dicembre 1957 per gli operai dipendenti dalle aziende produttrici di materiali laterizi;
 
@@ -36,126 +36,24 @@ Vista la pubblicazione nell'apposito Bollettino, n. 1 della provincia di Bergamo
 
 Sentito il Consiglio dei Ministri;
 
-Sulla
------
+Sulla proposta del Ministro per il lavoro e la previdenza sociale; Decreta:
 
-proposta del Ministro per il lavoro e la previdenza sociale; Decreta:
+## Articolo unico
 
-Articolo unico
---------------
-
-  
-I rapporti di lavoro costituiti per l'attivita' di produzione di materiali laterizi per la quale sono stati stipulati:  
-per la provincia di Bergamo, il contratto collettivo integrativo 23 maggio 1955;  
-per la provincia di Brescia, il contratto collettivo integrativo 28 febbraio 1958;  
-per la provincia di Cremona, l'accordo collettivo integrativo 1 giugno 1955, il contratto collettivo integrativo 3 ottobre 1958;  
-per la provincia di Mantova, il contratto collettivo integrativa 10 febbraio 1958;  
-per la provincia di Milano, il contratto collettivo integrativo 2 maggio 1958;  
-per la provincia di Pavia, il contratto collettivo integrativo 8 aprile 1955;  
-per la provincia di Varese, il contratto collettivo integrativo 1 settembre 1958;  
-sono regolati da norme giuridiche uniformi alle clausole dei contratti e dell'accordo anzidetti, annessi al presente decreto.  
-Dette norme sono integrative di quelle concernenti la disciplina nazionale della categoria, purche' con esse compatibili.  
-I minimi di trattamento economico e normativo cosi' stabiliti sono inderogabili nei confronti di tutti gli operai dipendenti, dalle imprese produttrici di materiali laterizi delle province di Bergamo, Brescia, Cremona, Mantova, Milano, Pavia e Varese.  
-  
+I rapporti di lavoro costituiti per l'attivita' di produzione di materiali laterizi per la quale sono stati stipulati:
+ per la provincia di Bergamo, il contratto collettivo integrativo 23 maggio 1955;
+ per la provincia di Brescia, il contratto collettivo integrativo 28 febbraio 1958;
+ per la provincia di Cremona, l'accordo collettivo integrativo 1 giugno 1955, il contratto collettivo integrativo 3 ottobre 1958;
+ per la provincia di Mantova, il contratto collettivo integrativa 10 febbraio 1958;
+ per la provincia di Milano, il contratto collettivo integrativo 2 maggio 1958;
+ per la provincia di Pavia, il contratto collettivo integrativo 8 aprile 1955;
+ per la provincia di Varese, il contratto collettivo integrativo 1 settembre 1958;
+ sono regolati da norme giuridiche uniformi alle clausole dei contratti e dell'accordo anzidetti, annessi al presente decreto.
+ Dette norme sono integrative di quelle concernenti la disciplina nazionale della categoria, purche' con esse compatibili.
+ I minimi di trattamento economico e normativo cosi' stabiliti sono inderogabili nei confronti di tutti gli operai dipendenti, dalle imprese produttrici di materiali laterizi delle province di Bergamo, Brescia, Cremona, Mantova, Milano, Pavia e Varese.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 9 maggio 1961
+Dato a Roma, addi' 9 maggio 1961
 
-GRONCHI FANFANI - SULLO
-
-Visto, il Guardasigilli: GONELLA
-
-Registrato alla Corte dei conti, addi' 9 agosto 1961
-
-AttI del Governo, registro n. 138, foglio n. 47. - DI PRETORO
-
-Allegati
-
- CONTRATTO COLLETTIVO 23 MAGGIO 1955 INTEGRATIVO   
-DEL CONTRATTO COLLETTIVO NAZIONALE DI LAVORO   
-DELL'11 NOVEMBRE 1954, PER GLI OPERAI DIPENDENTI   
-DALLE AZIENDE PRODUTTRICI DI MATERIALI LATERIZI   
-DELLA PROVINCIA DI BERGAMO   
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=061U075900100010110001&dgu=1961-08-17&art.dataPubblicazioneGazzetta=1961-08-17&art.codiceRedazionale=061U0759)
-  
-  
-  
-  
-CONTRATTO COLLETTIVO 28 FEBBRAIO 1958 INTEGRATIVO   
-DEL CONTRATTO NAZIONALE DI LAVORO 18 DICEMBRE 1957,   
-PER GLI ADDETTI ALL'INDUSTRIA DEI LATERIZI DELLA   
-PROVINCIA DI BRESCIA   
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=061U075900100010110002&dgu=1961-08-17&art.dataPubblicazioneGazzetta=1961-08-17&art.codiceRedazionale=061U0759)
-  
-  
-  
-  
-ACCORDO COLLETTIVO 1 giugno 1955   
-PER LE MAESTRANZE (PALTINI) ADDETTI ALLE FORNACI   
-DELLA PROVINCIA DI CREMONA   
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=061U075900100010110003&dgu=1961-08-17&art.dataPubblicazioneGazzetta=1961-08-17&art.codiceRedazionale=061U0759)
-  
-  
-  
-  
-CONTRATTO COLLETTIVO 3 OTTOBRE 1958 INTEGRATIVO DEL   
-CONTRATTO NAZIONALE DI LAVORO 18 DICEMBRE 1957 PER   
-GLI ADDETTI ALL'INDUSTRIA DEI LATERIZI DELLA   
-PROVINCIA DI CREMONA   
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=061U075900100010110004&dgu=1961-08-17&art.dataPubblicazioneGazzetta=1961-08-17&art.codiceRedazionale=061U0759)
-  
-  
-  
-  
-CONTRATTO COLLETTIVO 10 FEBBRAIO 1958 INTEGRATIVO   
-DEL CONTRATTO NAZIONALE COLLETTIVO DI LAVORO   
-18 DICEMBRE 1957 PER GLI OPERAI DELL'INDUSTRIA   
-DEI LATERIZI DELLA PROVINCIA DI MANTOVA   
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=061U075900100010110005&dgu=1961-08-17&art.dataPubblicazioneGazzetta=1961-08-17&art.codiceRedazionale=061U0759)
-  
-  
-  
-  
-CONTRATTO COLLETTIVO 2 MAGGIO 1958 INTEGRATIVO   
-DEL CONTRATTO COLLETTIVO NAZIONALE DI LAVORO   
-18 DICEMBRE 1957, PER GLI OPERAI ADDETTI ALL'INDUSTRIA   
-DEI LATERIZI DELLA PROVINCIA DI MILANO   
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=061U075900100010110006&dgu=1961-08-17&art.dataPubblicazioneGazzetta=1961-08-17&art.codiceRedazionale=061U0759)
-  
-  
-  
-  
-CONTRATTO COLLETTIVO 8 APRILE 1955 INTEGRATIVO   
-DAL CONTRATTO NAZIONALE DI LAVORO 11 NOVEMBRE 1954,   
-PER GLI OPERAI DIPENDENTI DALLE AZIENDE PRODUTTRICI   
-DI MATERIALI LATERIZI DELLA PROVINCIA DI PAVIA   
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=061U075900100010110007&dgu=1961-08-17&art.dataPubblicazioneGazzetta=1961-08-17&art.codiceRedazionale=061U0759)
-  
-  
-  
-  
-CONTRATTO COLLETTIVO 1 settembre 1958 INTEGRATIVO   
-DEL CONTRATTO COLLETTIVO NAZIONALE DI LAVORO   
-18 DICEMBRE 1957 PER GLI OPERAI ADDETTI ALL'INDUSTRIA   
-DEI LATERIZI DELLA PROVINCIA DI VARESE   
-  
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=061U075900100010110008&dgu=1961-08-17&art.dataPubblicazioneGazzetta=1961-08-17&art.codiceRedazionale=061U0759)
-  
+GRONCHI FANFANI - SULLO Visto, il Guardasigilli: GONELLA Registrato alla Corte dei conti, addi' 9 agosto 1961 AttI del Governo, registro n. 138, foglio n. 47. - DI PRETORO

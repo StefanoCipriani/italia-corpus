@@ -1,19 +1,21 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 18 agosto 1962 n. 1404
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 1404
+data: 1962-08-18
+titolo: "Riconoscimento della personalita' giuridica della Chiesa parrocchiale di Santa Lucia al Fortino, nel comune di Catania."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1962-08-18;1404
+codice_redazionale: 062U1404
+vigente: true
+---
 
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 18 agosto 1962 n. 1404
-==============================================================
-
-Riconoscimento della personalita' giuridica della Chiesa parrocchiale di Santa Lucia al Fortino, nel comune di Catania.
------------------------------------------------------------------------------------------------------------------------
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-1401. Decreto del Presidente della Repubblica 18 agosto 1962, col quale, sulla proposta del Ministro per l'interno viene riconosciuta la personalita' giuridica della Chiesa parrocchiale di Santa Lucia al Fortino, nel comune di Catania.  
-  
-Visto, il Guardasigilli: BOSCO  
-Registrato alla Corte dei conti, addi' 21 settembre 1962  
-Atti del Governo registro n. 139, foglio n. 4. - VILLA
+1401.
+
+Decreto del Presidente della Repubblica 18 agosto 1962, col quale, sulla proposta del Ministro per l'interno viene riconosciuta la personalita' giuridica della Chiesa parrocchiale di Santa Lucia al Fortino, nel comune di Catania.
+
+Visto, il Guardasigilli: BOSCO
+ Registrato alla Corte dei conti, addi' 21 settembre 1962
+ Atti del Governo registro n. 139, foglio n. 4. - VILLA

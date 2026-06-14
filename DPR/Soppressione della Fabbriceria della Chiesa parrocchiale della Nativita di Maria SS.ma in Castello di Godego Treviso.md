@@ -1,19 +1,21 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 22 marzo 1960 n. 331
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 331
+data: 1960-03-22
+titolo: "Soppressione della Fabbriceria della Chiesa parrocchiale della Nativita' di Maria SS.ma, in Castello di Godego (Treviso)."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1960-03-22;331
+codice_redazionale: 060U0331
+vigente: true
+---
 
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 22 marzo 1960 n. 331
-============================================================
-
-Soppressione della Fabbriceria della Chiesa parrocchiale della Nativita' di Maria SS.ma, in Castello di Godego (Treviso).
--------------------------------------------------------------------------------------------------------------------------
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-331. Decreto del Presidente della Repubblica 22 marzo 1960, col quale, sulla proposta del Ministro per l'interno, viene soppressa la Fabbriceria della Chiesa parrocchiale della Nativita' di Maria SS.ma, in Castello di Godego, (Treviso).  
-  
-Visto, il Guardasigilli: GONELLA  
-Registrato alla Corte dei conti, addi' 20 aprile 1960  
-Atti del Governo, registro n. 125, foglio n. 216. - VILLA
+331.
+
+Decreto del Presidente della Repubblica 22 marzo 1960, col quale, sulla proposta del Ministro per l'interno, viene soppressa la Fabbriceria della Chiesa parrocchiale della Nativita' di Maria SS.ma, in Castello di Godego, (Treviso).
+
+Visto, il Guardasigilli: GONELLA
+ Registrato alla Corte dei conti, addi' 20 aprile 1960
+ Atti del Governo, registro n. 125, foglio n. 216. - VILLA

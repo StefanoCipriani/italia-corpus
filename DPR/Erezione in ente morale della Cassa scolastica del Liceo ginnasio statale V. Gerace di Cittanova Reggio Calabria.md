@@ -1,19 +1,21 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 giugno 1959 n. 836
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 836
+data: 1959-06-30
+titolo: "Erezione in ente morale della Cassa scolastica del Liceo ginnasio statale \"V. Gerace\" di Cittanova (Reggio Calabria)."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1959-06-30;836
+codice_redazionale: 059U0836
+vigente: true
+---
 
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 giugno 1959 n. 836
-=============================================================
-
-Erezione in ente morale della Cassa scolastica del Liceo ginnasio statale "V. Gerace" di Cittanova (Reggio Calabria).
----------------------------------------------------------------------------------------------------------------------
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-836. Decreto del Presidente della Repubblica 30 giugno 1959, col quale, sulla proposta del Ministro per la pubblica istruzione, la Cassa scolastica del Liceo ginnasio statale "V. Gerace" di Cittanova (Reggio Calabria) viene eretta in ente morale e ne viene approvato lo statuto.  
-  
-Visto, il Guardasigilli: GONELLA  
-Registrato alla Corte dei conti, addi' 13 ottobre 1959  
-Atti del Governo, registro n. 121, foglio n. 45. - RELLEVA
+836.
+
+Decreto del Presidente della Repubblica 30 giugno 1959, col quale, sulla proposta del Ministro per la pubblica istruzione, la Cassa scolastica del Liceo ginnasio statale "V. Gerace" di Cittanova (Reggio Calabria) viene eretta in ente morale e ne viene approvato lo statuto.
+
+Visto, il Guardasigilli: GONELLA
+ Registrato alla Corte dei conti, addi' 13 ottobre 1959
+ Atti del Governo, registro n. 121, foglio n. 45. - RELLEVA

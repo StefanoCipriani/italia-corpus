@@ -1,18 +1,17 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 10 febbraio 1953 n. 277
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 277
+data: 1953-02-10
+titolo: "Composizione della Commissione prevista dall'art. 1 del decreto legislativo luogotenenziale 12 aprile 1946, n. 605."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1953-02-10;277
+codice_redazionale: 053U0277
+vigente: true
+---
 
+## Art. 1.
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 10 febbraio 1953 n. 277
-===============================================================
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 15 MARZO 2010, N. 66))
 
-Composizione della Commissione prevista dall'art. 1 del decreto legislativo luogotenenziale 12 aprile 1946, n. 605.
--------------------------------------------------------------------------------------------------------------------
+## Art. 2.
 
-Art. 1
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 15 MARZO 2010, N. 66](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-03-15;66)))
-
-Art. 2
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 15 MARZO 2010, N. 66](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-03-15;66)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 15 MARZO 2010, N. 66))

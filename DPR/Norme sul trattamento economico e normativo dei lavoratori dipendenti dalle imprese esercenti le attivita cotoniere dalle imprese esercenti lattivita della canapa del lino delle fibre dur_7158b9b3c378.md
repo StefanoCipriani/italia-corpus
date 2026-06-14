@@ -1,20 +1,20 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 gennaio 1962 n. 523
-
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 gennaio 1962 n. 523
-==============================================================
-
-Norme sul trattamento economico e normativo dei lavoratori dipendenti: dalle imprese esercenti le attivita' cotoniere; dalle imprese esercenti l'attivita' della canapa, del lino, delle fibre dure e dei semilavorati di canapa macerata, stigliatura canapa verde e grezzo; dalle imprese esercenti l'attivita' della tessitura della seta e delle fibre artificiali e sintetiche; dalle imprese esercenti l'attivita' della lana, del feltro tessuto, del feltro battuto e degli articoli da caccia dalle imprese esercenti l'attivita' della tessitura delle fibre artificiali e sintetiche; dalle imprese esercenti l'attivita' della tintoria, stamperia, apparecchiatura e coesionatura della seta, del rajon e delle altre fibre, per conto proprio e per conto terzi; dalle imprese esercenti l'attivita' della filatura dei cascami di seta; dalle imprese esercenti l'attivita' jutiera; dalle imprese dei tessili vari, da quelle amiantiere, nonche' dalle imprese delle province di Como e Torino fabbricanti tappeti; dalle imprese esercenti l'attivita' di tintoria, candeggio, stampa, mercerizzazione e finissaggio.
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 523
+data: 1962-01-02
+titolo: "Norme sul trattamento economico e normativo dei lavoratori dipendenti: dalle imprese esercenti le attivita' cotoniere; dalle imprese esercenti l'attivita' della canapa, del lino, delle fibre dure e dei semilavorati di canapa macerata, stigliatura canapa verde e grezzo; dalle imprese esercenti l'attivita' della tessitura della seta e delle fibre artificiali e sintetiche; dalle imprese esercenti l'attivita' della lana, del feltro tessuto, del feltro battuto e degli articoli da caccia dalle imprese esercenti l'attivita' della tessitura delle fibre artificiali e sintetiche; dalle imprese esercenti l'attivita' della tintoria, stamperia, apparecchiatura e coesionatura della seta, del rajon e delle altre fibre, per conto proprio e per conto terzi; dalle imprese esercenti l'attivita' della filatura dei cascami di seta; dalle imprese esercenti l'attivita' jutiera; dalle imprese dei tessili vari, da quelle amiantiere, nonche' dalle imprese delle province di Como e Torino fabbricanti tappeti; dalle imprese esercenti l'attivita' di tintoria, candeggio, stampa, mercerizzazione e finissaggio."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1962-01-02;523
+codice_redazionale: 062U0523
+vigente: true
+---
 
 IL PRESIDENTE DELLA REPUBBLICA
-------------------------------
 
-Visto l'[art. 87, comma quinto, della Costituzione](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27~art87-com5);
+Visto l'[art. 87, comma quinto, della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87-com5);
 
-Vista la [legge 14 luglio 1959, n. 741](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1959-07-14;741), che delega il Governo ad emanare norme transitorie per garantire minimi di trattamento economico e normativo ai lavoratori;
+Vista la [legge 14 luglio 1959, n. 741](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1959-07-14;741), che delega il Governo ad emanare norme transitorie per garantire minimi di trattamento economico e normativo ai lavoratori;
 
-Vista la [legge 1 ottobre 1960, n. 1027](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1960-10-01;1027), recante modifiche alla predetta [legge 14 luglio 1959, n. 741](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1959-07-14;741);
+Vista la [legge 1 ottobre 1960, n. 1027](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1960-10-01;1027), recante modifiche alla predetta [legge 14 luglio 1959, n. 741](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1959-07-14;741);
 
 Visti i contratti collettivi nazionali di lavoro 31 luglio 1959, e relativo allegato, per i lavoratori dipendenti: dalle aziende industriali cotoniere; dalle aziende esercenti l'industria della canapa, del lino, delle fibre dure e dei semilavorati di canapa macerata, stigliatura canapa verde e grezzo, dalle aziende esercenti la tessitura della seta e delle fibre artificiali e sintetiche; dalle aziende esercenti l'industria della lana, del feltro tessuto del feltro battuto e degli articoli da caccia; delle aziende esercenti l'industria della tessitura delle fibre artificiali e sintetiche; dalle aziende esercenti l'industria della tintoria, stamperia, apparecchiatura e coesionatura della seta, del rajon e delle altre fibre, per conto proprio e per conto terzi; dalle aziende esercenti l'industria della filatura dei cascami di seta; dalle aziende esercenti l'industria jutiera; dalle aziende dell'industria dei tessili vari; dalle aziende industriali di tintoria, candeggio, stampa mercerizzazione e finissaggio, stipulati tra l'Associazione Cotoniera italiana, l'Associazione Canapieri, l'Associazione italiana Fabbricanti Seterie, il Sindacato Nazionale dell'Industria Laniera italiana, l'Associazione Tessiture italiane Fibre Artificiali e Sintetiche, l'Associazione Nazionale degli Industriali Tintori, Stampatori, Apparecchiatori e Coesionatori di Seta e Rajon, l'Associazione degli Industriali Filatori di Cascami di Seta; l'Associazione italiana Industriali Jutieri, l'Associazione Nazionale Produttori Tessili Vari, l'Associazione Nazionale degli Industriali Tintori, Stampatori e Finitori, con l'assistenza della Confederazione Generale dell'Industria italiana e la Federazione italiana Lavoratori Tessili, con l'assistenza della Confederazione italiana Sindacati Lavoratori, la Federazione Impiegati Operai Tessili, con l'assistenza della Confederazione Generale italiana del Lavoro, l'Unione italiana Lavoratori Tessili, con l'assistenza dell'Unione italiana del Lavoro; e, in pari data, tra le suddette Organizzazioni datoriali e la Federazione Tessile della C.I.S.N.A.L.;
 
@@ -50,169 +50,35 @@ Vista la pubblicazione nell'apposito Bollettino, n. 158 del 31 maggio 1961, n. 1
 
 Sentito il Consiglio dei Ministri;
 
-Sulla
------
+Sulla proposta del Ministro per il lavoro e la previdenza sociale; Decreta:
 
-proposta del Ministro per il lavoro e la previdenza sociale; Decreta:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-I rapporti di lavoro costituiti per le attivita' per le quali sono stati stipulati i contratti e gli accordi sottoelencati sono regolati da norme giuridiche uniformi alle clausole dei contratti e degli accordi stessi, annessi al presente decreto;  
-- contratti collettivi nazionali di lavoro 31 luglio 1959, riprodotti in un unico testo, relativi ai lavoratori dipendenti: dalle aziende industriali cotoniere; dalle aziende esercenti la industria della canapa, del lino, delle fibre dure e dei semilavorati di canapa macerata, stigliatura canapa verde e grezzo; dalle aziende esercenti la tessitura della seta e delle fibre artificiali e sintetiche; dalle aziende esercenti l'industria della lana, del feltro tessuto, del feltro battuto e degli articoli da caccia; dalle aziende esercenti l'industria della tessitura delle fibre artificiali e sintetiche; dalle aziende esercenti l'industria della tintoria, stamperia, apparecchiatura e coesionatura della seta, del rajon e delle altre fibre, per conto proprio e per conto terzi; dalle aziende esercenti l'industria della filatura dei cascami di seta; dalle aziende esercenti la industria jutiera, dalle aziende dell'industria dei tessili vari; dalle aziende industriali di tintoria, candeggio, stampa, mercerizzazione e finissaggio:  
-- contratto collettivo di lavoro 23 dicembre 1959, relativo al personale addetto alle industrie fabbricanti tappeti delle province di Como e Torino;  
-- contratto collettivo nazionale di lavoro 5 febbraio 1960, relativo al personale addetto alle aziende industriali cotoniere;  
-- contratto collettivo nazionale di lavoro 5 febbraio 1960, relativo al personale addetto alle aziende esercenti l'industria della canapa, del lino, delle fibre dure e dei semilavorati di canapa macerata, stigliatura canapa verde e grezzo;  
-- contratto collettivo nazionale di lavoro 5 febbraio 1960, relativo al personale addetto alle aziende esercenti l'industria della tessitura della seta e delle fibre artificiali e sintetiche;  
-- contratto collettivo nazionale di lavoro 5 febbraio 1960, relativo al personale addetto alle aziende esercenti l'industria della lana, del feltro tessuto, del feltro battuto e degli articoli da caccia;  
-- contratto collettivo nazionale di lavoro 5 febbraio 1960, relativo al personale addetto alle aziende esercenti l'industria della tessitura delle fibre artificiali e sintetiche;  
-- contratto collettivo nazionale di lavoro 5 febbraio 1960, relativo al personale addetto alle aziende esercenti l'industria della tintoria, stamperia, apparecchiatura e coesionatura della seta, del rajon e delle altre fibre, per conto proprio e di terzi;  
-- contratto collettivo nazionale di lavoro 5 febbraio 1960, relativo al personale addetto alle aziende esercenti l'industria della filatura dei cascami di seta;  
-- contratto collettivo nazionale di lavoro 5 febbraio 1960, relativo al personale addetto alle aziende esercenti l'industria jutiera;  
-- contratto collettivo nazionale di lavoro 5 febbraio 1960, relativo al personale addetto alle aziende esercenti le industrie dei tessili vari;  
-- accordo collettivo 5 febbraio 1960, relativo allo aumento di una particolare indennita' a favore degli operai addetti all'industria amiantiera, settore tessili vari;  
-- contratto collettivo nazionale di lavoro 5 febbraio 1960, relativo al personale addetto alle aziende esercenti l'industria della tintoria, candeggio, stampa, mercerizzazione e finissaggio;  
-- accordo 5 febbraio 1960, relativo alla parita' retributiva tra lavoratori e lavoratrici, richiamato dai precedenti contratti collettivi stipulati in pari data.  
-I minimi di trattamento economico e normativo cosi' stabiliti sono inderogabili nei confronti di tutti i lavoratori dipendenti: dalle imprese esercenti le attivita' cotoniere; dalle imprese esercenti l'attivita' della canapa, del lino, delle fibre dure e dei semi-lavorati di canapa macerata, stigliatura canapa verde e grezzo; dalle imprese esercenti l'attivita' di tessitura della seta e delle fibre artificiali e sintetiche; dalle imprese esercenti l'attivita' della lana del feltro tessuto, del feltro battuto e degli articoli da caccia; dalle imprese esercenti l'attivita' della tessitura delle fibre artificiali e sintetiche; dalle imprese esercenti l'attivita' della tintoria, stamperia, apparecchiatura e coesionatura della seta, del rajon e delle altre fibre, per conto proprio e per conto terzi; dalle imprese esercenti l'attivita' della filatura dei cascami di seta; dalle imprese esercenti l'attivita' jutiera; dalle imprese dei tessili vari, da quelle amiantiere, nonche' dalle imprese delle province di Como e Torino fabbricanti tappeti; dalle imprese esercenti l'attivita' di tintoria, candeggio, stampa, mercerizzazione e finissaggio.
-
-((1))
-
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-### Dato a Roma addi' 2 gennaio 1962
-
-GRONCHI FANFANI - SULLO
-
-Visto, il Guardasigilli: BOSCO
-
-Registrato alla Corte dei conti, addi' 7 giugno 1962
-
-Atti del Governo, registro n. 149, foglio n. 20. - VILLA
+I rapporti di lavoro costituiti per le attivita' per le quali sono stati stipulati i contratti e gli accordi sottoelencati sono regolati da norme giuridiche uniformi alle clausole dei contratti e degli accordi stessi, annessi al presente decreto;
+ - contratti collettivi nazionali di lavoro 31 luglio 1959, riprodotti in un unico testo, relativi ai lavoratori dipendenti: dalle aziende industriali cotoniere; dalle aziende esercenti la industria della canapa, del lino, delle fibre dure e dei semilavorati di canapa macerata, stigliatura canapa verde e grezzo; dalle aziende esercenti la tessitura della seta e delle fibre artificiali e sintetiche; dalle aziende esercenti l'industria della lana, del feltro tessuto, del feltro battuto e degli articoli da caccia; dalle aziende esercenti l'industria della tessitura delle fibre artificiali e sintetiche; dalle aziende esercenti l'industria della tintoria, stamperia, apparecchiatura e coesionatura della seta, del rajon e delle altre fibre, per conto proprio e per conto terzi; dalle aziende esercenti l'industria della filatura dei cascami di seta; dalle aziende esercenti la industria jutiera, dalle aziende dell'industria dei tessili vari; dalle aziende industriali di tintoria, candeggio, stampa, mercerizzazione e finissaggio:
+ - contratto collettivo di lavoro 23 dicembre 1959, relativo al personale addetto alle industrie fabbricanti tappeti delle province di Como e Torino;
+ - contratto collettivo nazionale di lavoro 5 febbraio 1960, relativo al personale addetto alle aziende industriali cotoniere;
+ - contratto collettivo nazionale di lavoro 5 febbraio 1960, relativo al personale addetto alle aziende esercenti l'industria della canapa, del lino, delle fibre dure e dei semilavorati di canapa macerata, stigliatura canapa verde e grezzo;
+ - contratto collettivo nazionale di lavoro 5 febbraio 1960, relativo al personale addetto alle aziende esercenti l'industria della tessitura della seta e delle fibre artificiali e sintetiche;
+ - contratto collettivo nazionale di lavoro 5 febbraio 1960, relativo al personale addetto alle aziende esercenti l'industria della lana, del feltro tessuto, del feltro battuto e degli articoli da caccia;
+ - contratto collettivo nazionale di lavoro 5 febbraio 1960, relativo al personale addetto alle aziende esercenti l'industria della tessitura delle fibre artificiali e sintetiche;
+ - contratto collettivo nazionale di lavoro 5 febbraio 1960, relativo al personale addetto alle aziende esercenti l'industria della tintoria, stamperia, apparecchiatura e coesionatura della seta, del rajon e delle altre fibre, per conto proprio e di terzi;
+ - contratto collettivo nazionale di lavoro 5 febbraio 1960, relativo al personale addetto alle aziende esercenti l'industria della filatura dei cascami di seta;
+ - contratto collettivo nazionale di lavoro 5 febbraio 1960, relativo al personale addetto alle aziende esercenti l'industria jutiera;
+ - contratto collettivo nazionale di lavoro 5 febbraio 1960, relativo al personale addetto alle aziende esercenti le industrie dei tessili vari;
+ - accordo collettivo 5 febbraio 1960, relativo allo aumento di una particolare indennita' a favore degli operai addetti all'industria amiantiera, settore tessili vari;
+ - contratto collettivo nazionale di lavoro 5 febbraio 1960, relativo al personale addetto alle aziende esercenti l'industria della tintoria, candeggio, stampa, mercerizzazione e finissaggio;
+ - accordo 5 febbraio 1960, relativo alla parita' retributiva tra lavoratori e lavoratrici, richiamato dai precedenti contratti collettivi stipulati in pari data.
+ I minimi di trattamento economico e normativo cosi' stabiliti sono inderogabili nei confronti di tutti i lavoratori dipendenti: dalle imprese esercenti le attivita' cotoniere; dalle imprese esercenti l'attivita' della canapa, del lino, delle fibre dure e dei semi-lavorati di canapa macerata, stigliatura canapa verde e grezzo; dalle imprese esercenti l'attivita' di tessitura della seta e delle fibre artificiali e sintetiche; dalle imprese esercenti l'attivita' della lana del feltro tessuto, del feltro battuto e degli articoli da caccia; dalle imprese esercenti l'attivita' della tessitura delle fibre artificiali e sintetiche; dalle imprese esercenti l'attivita' della tintoria, stamperia, apparecchiatura e coesionatura della seta, del rajon e delle altre fibre, per conto proprio e per conto terzi; dalle imprese esercenti l'attivita' della filatura dei cascami di seta; dalle imprese esercenti l'attivita' jutiera; dalle imprese dei tessili vari, da quelle amiantiere, nonche' dalle imprese delle province di Como e Torino fabbricanti tappeti; dalle imprese esercenti l'attivita' di tintoria, candeggio, stampa, mercerizzazione e finissaggio.((1))
 
 ---------------
 
 AGGIORNAMENTO (1)
 
-La Corte Costituzionale con sentenza 23-29 marzo 1972, n. 59 (in G.U. 1a s.s. 5/4/1972, n. 90) ha dichiarato "l'illegittimita' costituzionale dell'articolo unico del [d.P.R. 2 gennaio 1962, n. 523](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1962-01-02;523), nella parte in cui rende obbligatori erga omnes gli artt. 23, parte seconda, e 5, parte terza, del contratto collettivo nazionale di lavoro per i dipendenti delle industrie tessili del 31 luglio 1959, nonche' gli artt. 1-5 del relativo accordo allegato, che disciplinano la devoluzione preventiva ad un collegio tecnico di tutte le questioni concernenti l'appartenenza del personale, in base alle mansioni effettivamente svolte, alle diverse categorie e l'attribuzione della qualifica di impiegato e d'intermedio".
+La Corte Costituzionale con sentenza 23-29 marzo 1972, n. 59 (in G.U. 1a s.s. 5/4/1972, n. 90) ha dichiarato "l'illegittimita' costituzionale dell'articolo unico del [d.P.R. 2 gennaio 1962, n. 523](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1962-01-02;523), nella parte in cui rende obbligatori erga omnes gli artt. 23, parte seconda, e 5, parte terza, del contratto collettivo nazionale di lavoro per i dipendenti delle industrie tessili del 31 luglio 1959, nonche' gli artt. 1-5 del relativo accordo allegato, che disciplinano la devoluzione preventiva ad un collegio tecnico di tutte le questioni concernenti l'appartenenza del personale, in base alle mansioni effettivamente svolte, alle diverse categorie e l'attribuzione della qualifica di impiegato e d'intermedio".
 
-all. 1 - art. 1
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=v062U05230010001011000102&dgu=1962-06-25&art.dataPubblicazioneGazzetta=1962-06-25&art.codiceRedazionale=062U0523)
-  
-  
+Dato a Roma addi' 2 gennaio 1962
 
-((1))
-
-  
-  
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=v062U05230010001011000202&dgu=1962-06-25&art.dataPubblicazioneGazzetta=1962-06-25&art.codiceRedazionale=062U0523)
-  
-  
-  
-  
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=v062U05230010001011000302&dgu=1962-06-25&art.dataPubblicazioneGazzetta=1962-06-25&art.codiceRedazionale=062U0523)
-  
-  
-  
-  
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=v062U05230010001011000402&dgu=1962-06-25&art.dataPubblicazioneGazzetta=1962-06-25&art.codiceRedazionale=062U0523)
-  
-  
-  
-  
-  
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=v062U05230010001011000502&dgu=1962-06-25&art.dataPubblicazioneGazzetta=1962-06-25&art.codiceRedazionale=062U0523)
-  
-  
-  
-  
-  
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=v062U05230010001011000602&dgu=1962-06-25&art.dataPubblicazioneGazzetta=1962-06-25&art.codiceRedazionale=062U0523)
-  
-  
-  
-  
-  
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=v062U05230010001011000702&dgu=1962-06-25&art.dataPubblicazioneGazzetta=1962-06-25&art.codiceRedazionale=062U0523)
-  
-  
-  
-  
-  
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=v062U05230010001011000802&dgu=1962-06-25&art.dataPubblicazioneGazzetta=1962-06-25&art.codiceRedazionale=062U0523)
-  
-  
-  
-  
-  
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=v062U05230010001011000902&dgu=1962-06-25&art.dataPubblicazioneGazzetta=1962-06-25&art.codiceRedazionale=062U0523)
-  
-  
-  
-  
-  
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=v062U05230010001011001002&dgu=1962-06-25&art.dataPubblicazioneGazzetta=1962-06-25&art.codiceRedazionale=062U0523)
-  
-  
-  
-  
-  
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=v062U05230010001011001102&dgu=1962-06-25&art.dataPubblicazioneGazzetta=1962-06-25&art.codiceRedazionale=062U0523)
-  
-  
-  
-  
-  
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=v062U05230010001011001202&dgu=1962-06-25&art.dataPubblicazioneGazzetta=1962-06-25&art.codiceRedazionale=062U0523)
-  
-  
-  
-  
-  
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=v062U05230010001011001302&dgu=1962-06-25&art.dataPubblicazioneGazzetta=1962-06-25&art.codiceRedazionale=062U0523)
-  
-  
-  
-  
-  
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=v062U05230010001011001402&dgu=1962-06-25&art.dataPubblicazioneGazzetta=1962-06-25&art.codiceRedazionale=062U0523)
-  
-  
-
-((1))
-
---------------
-
-AGGIORNAMENTO (1)
-
-La Corte Costituzionale con sentenza 23-29 marzo 1972, n. 59 (in G.U. 1a s.s. 5/4/1972, n. 90)ha dichiarato "l'illegittimita' costituzionale dell'articolo unico del [d.P.R. 2 gennaio 1962, n. 523](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1962-01-02;523), nella parte in cui rende obbligatori erga omnes gli artt. 23, parte seconda, e 5, parte terza, del contratto collettivo nazionale di lavoro per i dipendenti delle industrie tessili del 31 luglio 1959, nonche' gli artt. 1-5 del relativo accordo allegato, che disciplinano la devoluzione preventiva ad un collegio tecnico di tutte le questioni concernenti l'appartenenza del personale, in base alle mansioni effettivamente svolte, alle diverse categorie e l'attribuzione della qualifica di impiegato e d'intermedio".
+GRONCHI FANFANI - SULLO Visto, il Guardasigilli: BOSCO Registrato alla Corte dei conti, addi' 7 giugno 1962 Atti del Governo, registro n. 149, foglio n. 20. - VILLA

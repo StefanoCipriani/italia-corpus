@@ -1,19 +1,21 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 04 marzo 1969 n. 196
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 196
+data: 1969-03-04
+titolo: "Erezione in ente morale della cassa scolastica dell'istituto tecnico nautico \"N. Sauro\" di La Spezia."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1969-03-04;196
+codice_redazionale: 069U0196
+vigente: true
+---
 
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 04 marzo 1969 n. 196
-============================================================
-
-Erezione in ente morale della cassa scolastica dell'istituto tecnico nautico "N. Sauro" di La Spezia.
------------------------------------------------------------------------------------------------------
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-196. Decreto del Presidente della Repubblica 4 marzo 1969, col quale, sulla proposta del Ministro per la pubblica istruzione, la cassa scolastica dell'istituto tecnico nautico "N. Sauro" di La Spezia viene eretta in ente morale e ne viene approvato lo statuto.  
-  
-Visto, il Guardasigilli: GAVA  
-Registrato alla Corte dei conti, addi' 7 maggio 1969  
-Atti del Governo, registro n. 226, foglio n. 143. - GRECO
+196.
+
+Decreto del Presidente della Repubblica 4 marzo 1969, col quale, sulla proposta del Ministro per la pubblica istruzione, la cassa scolastica dell'istituto tecnico nautico "N. Sauro" di La Spezia viene eretta in ente morale e ne viene approvato lo statuto.
+
+Visto, il Guardasigilli: GAVA
+ Registrato alla Corte dei conti, addi' 7 maggio 1969
+ Atti del Governo, registro n. 226, foglio n. 143. - GRECO

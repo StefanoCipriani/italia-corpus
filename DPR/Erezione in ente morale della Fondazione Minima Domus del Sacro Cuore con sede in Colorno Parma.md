@@ -1,19 +1,21 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 15 dicembre 1965 n. 1521
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 1521
+data: 1965-12-15
+titolo: "Erezione in ente morale della Fondazione \"Minima Domus del Sacro Cuore\", con sede in Colorno (Parma)."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1965-12-15;1521
+codice_redazionale: 065U1521
+vigente: true
+---
 
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 15 dicembre 1965 n. 1521
-================================================================
-
-Erezione in ente morale della Fondazione "Minima Domus del Sacro Cuore", con sede in Colorno (Parma).
------------------------------------------------------------------------------------------------------
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-1521. Decreto del Presidente della Repubblica 15 dicembre 1965, col quale, sulla proposta del Ministro per l'interno, la Fondazione "Minima Domus del Sacro Cuore", con sede in Colorno (Parma), viene eretta in ente morale e ne viene approvato lo statuto.  
-  
-Visto, il Guardasigilli: REALE  
-Registrato alla Corte dei conti, addi' 15 gennaio 1966  
-Atti del Governo, registro n. 199, foglio n. 87. - VILLA
+1521.
+
+Decreto del Presidente della Repubblica 15 dicembre 1965, col quale, sulla proposta del Ministro per l'interno, la Fondazione "Minima Domus del Sacro Cuore", con sede in Colorno (Parma), viene eretta in ente morale e ne viene approvato lo statuto.
+
+Visto, il Guardasigilli: REALE
+ Registrato alla Corte dei conti, addi' 15 gennaio 1966
+ Atti del Governo, registro n. 199, foglio n. 87. - VILLA

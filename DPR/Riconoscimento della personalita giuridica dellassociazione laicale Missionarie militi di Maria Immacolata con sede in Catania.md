@@ -1,19 +1,21 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 27 marzo 1973 n. 388
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 388
+data: 1973-03-27
+titolo: "Riconoscimento della personalita' giuridica dell'associazione laicale \"Missionarie militi di Maria Immacolata\", con sede in Catania."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1973-03-27;388
+codice_redazionale: 073U0388
+vigente: true
+---
 
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 27 marzo 1973 n. 388
-============================================================
-
-Riconoscimento della personalita' giuridica dell'associazione laicale "Missionarie militi di Maria Immacolata", con sede in Catania.
-------------------------------------------------------------------------------------------------------------------------------------
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-388. Decreto del Presidente della Repubblica 27 marzo 1973, col quale, sulla proposta del Ministro per l'interno, viene riconosciuta la personalita' giuridica ed approvato lo statuto dell'associazione laicale "Missionarie militi di Maria Immacolata", con sede in Catania.  
-  
-Visto, il Guardasigilli: GONELLA  
-Registrato alla Corte dei conti, addi' 9 luglio 1973  
-Atti di Governo, registro n. 258, foglio n. 160. - CARUSO
+388.
+
+Decreto del Presidente della Repubblica 27 marzo 1973, col quale, sulla proposta del Ministro per l'interno, viene riconosciuta la personalita' giuridica ed approvato lo statuto dell'associazione laicale "Missionarie militi di Maria Immacolata", con sede in Catania.
+
+Visto, il Guardasigilli: GONELLA
+ Registrato alla Corte dei conti, addi' 9 luglio 1973
+ Atti di Governo, registro n. 258, foglio n. 160. - CARUSO

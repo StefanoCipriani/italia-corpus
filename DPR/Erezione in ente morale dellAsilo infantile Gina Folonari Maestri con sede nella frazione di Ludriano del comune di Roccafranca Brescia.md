@@ -1,19 +1,21 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 giugno 1957 n. 767
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 767
+data: 1957-06-30
+titolo: "Erezione in ente morale dell'Asilo infantile \"Gina Folonari Maestri\"; con sede nella frazione di Ludriano del comune di Roccafranca (Brescia)."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1957-06-30;767
+codice_redazionale: 057U0767
+vigente: true
+---
 
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 giugno 1957 n. 767
-=============================================================
-
-Erezione in ente morale dell'Asilo infantile "Gina Folonari Maestri"; con sede nella frazione di Ludriano del comune di Roccafranca (Brescia).
-----------------------------------------------------------------------------------------------------------------------------------------------
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-767. Decreto del Presidente della Repubblica 30 giugno 1957, col quale, sulla proposta del Ministro per l'interno, l'Asilo infantile "Gina Folonari Maestri", con sede nella frazione di Ludriano del comune di Roccafranca (Brescia), viene eretto in ente morale e ne viene approvato il relativo statuto organico.  
-  
-Visto, il Guardasigilli: GONELLA  
-Registrato alla Corte dei conti, addi' 24 agosto 1957  
-Atti del Governo, registro n. 107, foglio n. 70. - RELLEVA
+767.
+
+Decreto del Presidente della Repubblica 30 giugno 1957, col quale, sulla proposta del Ministro per l'interno, l'Asilo infantile "Gina Folonari Maestri", con sede nella frazione di Ludriano del comune di Roccafranca (Brescia), viene eretto in ente morale e ne viene approvato il relativo statuto organico.
+
+Visto, il Guardasigilli: GONELLA
+ Registrato alla Corte dei conti, addi' 24 agosto 1957
+ Atti del Governo, registro n. 107, foglio n. 70. - RELLEVA

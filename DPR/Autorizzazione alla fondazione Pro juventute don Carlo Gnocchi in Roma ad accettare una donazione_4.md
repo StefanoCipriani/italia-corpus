@@ -1,23 +1,21 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 13 dicembre 1978 n. 918
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 916
+data: 1978-12-05
+titolo: "Autorizzazione alla fondazione \"Pro juventute don Carlo Gnocchi\", in Roma, ad accettare una donazione."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1978-12-05;916
+codice_redazionale: 078U0916
+vigente: true
+---
 
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 13 dicembre 1978 n. 918
-===============================================================
-
-Autorizzazione alla fondazione "Pro juventute don Carlo Gnocchi", in Roma, ad accettare una donazione.
-------------------------------------------------------------------------------------------------------
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-918. Decreto del Presidente della Repubblica 13 dicembre 1978, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la fondazione "Pro juventute don Carlo Gnocchi", in Roma, viene autorizzata ad accettare la donazione disposta dai fratelli Grossi Luigi, Aldo, Anita, Maria, Giulio e Bruno, con atto 26 giugno 1973, n. 16284/1686 di repertorio, registrato a Busto Arsizio (Varese) il 5 luglio 1973 al n. 5797, vol. 275, a rogito dott. Ferruccio Brambilla, notaio in Milano, consistente nella quota di 24/28 dei seguenti beni immobili:
+916.
 
-a) comune di Portoferraio (Livorno) - partita catastale 2462: 1) fabbricato rurale foglio 13, part. 16/2, di vani 12 in pessime condizioni, cadente e abbandonato; 2) terreni agricoli foglio 13, part. 21; foglio 26, part. 352, 366, 424, 425; foglio 27, part. 189; foglio 31, part. 4, per complessivi ettari 4.59.35;
+Decreto del Presidente della Repubblica 5 dicembre 1978, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la fondazione "Pro juventute don Carlo Gnocchi", in Roma, viene autorizzata ad accettare la donazione disposta dalla sig.ra Matilde Corridori con atto 15 dicembre 1972, n. 14257/1467 di repertorio, registrato a Busto Arsizio (Varese) il 23 dicembre 1972 al n. 3049, vol. 152 A. P., a rogito dott. Ferruccio Brambilla, in Milano, consistente in un appartamento sito in Milano, via Fauche' n. 11, composto di un locale, oltre i servizi, con annesso vano cantina, distinto al nuovo catasto edilizio urbano alla partita 45758, foglio 261, mappale 362 sub 7, di vani utili 2,5, del valore di L. 4.000.000.
 
-b) comune di Capolivieri (Livorno): terreni agricoli distinti al catasto al foglio 29, mapp. 80, 95, 96, 97, 98 e 337, per complessivi ettari 1.29.30, il tutto per un valore complessivo di lire 6.500.000.  
-  
-Visto, il Guardasigilli: BONIFACIO  
-Registrato alla Corte dei conti, addi' 25 gennaio 1979  
-Registro n. 1 Presidenza, foglio n. 207
+Visto, il Guardasigilli: BONIFACIO
+ Registrato alla Corte dei conti, addi' 25 gennaio 1979
+ Registro n. 1 Presidenza, foglio n. 208

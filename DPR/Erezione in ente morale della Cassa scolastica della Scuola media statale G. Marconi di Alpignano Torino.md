@@ -1,19 +1,21 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 13 dicembre 1964 n. 1541
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 1541
+data: 1964-12-13
+titolo: "Erezione in ente morale della Cassa scolastica della Scuola media statale \"G. Marconi\", di Alpignano (Torino)."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1964-12-13;1541
+codice_redazionale: 064U1541
+vigente: true
+---
 
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 13 dicembre 1964 n. 1541
-================================================================
-
-Erezione in ente morale della Cassa scolastica della Scuola media statale "G. Marconi", di Alpignano (Torino).
---------------------------------------------------------------------------------------------------------------
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-1541. Decreto del Presidente della Repubblica 13 dicembre 1964, col quale, sulla proposta del Ministro per la pubblica istruzione, la Cassa scolastica della Scuola media statale "G. Marconi", di Alpignano (Torino), viene eretta in ente morale e ne viene approvato lo statuto.  
-  
-Visto, il Guardasigilli: REALE  
-Registrato alla Corte dei conti, addi' 22 gennaio 1965  
-Atti del Governo, registro n. 190, foglio n. 44. - VILLA
+1541.
+
+Decreto del Presidente della Repubblica 13 dicembre 1964, col quale, sulla proposta del Ministro per la pubblica istruzione, la Cassa scolastica della Scuola media statale "G. Marconi", di Alpignano (Torino), viene eretta in ente morale e ne viene approvato lo statuto.
+
+Visto, il Guardasigilli: REALE
+ Registrato alla Corte dei conti, addi' 22 gennaio 1965
+ Atti del Governo, registro n. 190, foglio n. 44. - VILLA

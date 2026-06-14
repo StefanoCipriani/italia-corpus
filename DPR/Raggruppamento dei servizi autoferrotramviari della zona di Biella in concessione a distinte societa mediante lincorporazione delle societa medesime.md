@@ -1,22 +1,22 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 24 ottobre 1955 n. 1349
-
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 24 ottobre 1955 n. 1349
-===============================================================
-
-Raggruppamento dei servizi autoferrotramviari della zona di Biella, in concessione a distinte societa', mediante l'incorporazione delle societa' medesime.
-----------------------------------------------------------------------------------------------------------------------------------------------------------
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 1349
+data: 1955-10-24
+titolo: "Raggruppamento dei servizi autoferrotramviari della zona di Biella, in concessione a distinte societa', mediante l'incorporazione delle societa' medesime."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1955-10-24;1349
+codice_redazionale: 055U1349
+vigente: true
+---
 
 IL PRESIDENTE DELLA REPUBBLICA
-------------------------------
 
 Vista la convenzione 5 novembre 1889, approvata e resa esecutoria con regio decreto 8 novembre stesso anno, con la quale venne accordata alla Societa' generale delle Ferrovie economiche di Bruxelles la concessione della costruzione ed esercizio delle ferrovie Biella-Balma, Biella-Vallemosso e Biella-Mongrando;
 
-Vista la convenzione 7 marzo 1922, approvata e resa esecutiva con [regio decreto 25 aprile 1922, n. 635](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1922-04-25;635), con la quale la Societa' anonima per la tramvia Biella-Oropa, ora Societa' anonima Biella-Oropa per trazione elettrica (S.A.B.O.T.E.), venne riconosciuta subingredita alla Societa' generale delle Ferrovie economiche di Bruxelles nella concessione della ferrovia Biella-Mongrando e la ferrovia stessa venne declassificata in tramvia extraurbana;
+Vista la convenzione 7 marzo 1922, approvata e resa esecutiva con [regio decreto 25 aprile 1922, n. 635](../Atti%20normativi%20abrogati%20%28in%20originale%29/Che%20approva%20latto%20aggiuntivo%207%20marzo%201922%20per%20il%20riconoscimento%20della%20cessione%20della%20ferrovia%20Biella-Mongrando%20e%20per%20la%20elettrificazione%20della%20stessa.%20022U0635.md), con la quale la Societa' anonima per la tramvia Biella-Oropa, ora Societa' anonima Biella-Oropa per trazione elettrica (S.A.B.O.T.E.), venne riconosciuta subingredita alla Societa' generale delle Ferrovie economiche di Bruxelles nella concessione della ferrovia Biella-Mongrando e la ferrovia stessa venne declassificata in tramvia extraurbana;
 
-Vista la convenzione 7 gennaio 1925, approvata e resa esecutoria con [regio decreto 1 maggio 1925, n. 859](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1925-05-01;859), con la quale venne accordata alla Societa' anonima Biella-Oropa per trazione elettrica la concessione della costruzione ed esercizio della tramvia extraurbana Biella-Sandigliano;
+Vista la convenzione 7 gennaio 1925, approvata e resa esecutoria con [regio decreto 1 maggio 1925, n. 859](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20della%20convenzione%207%20gennaio%201925%20per%20la%20concessione%20della%20costruzione%20e%20dellesercizio%20della%20tramvia%20elettrica%20Biella-Gaglianico-Sandigliano.%20025U0859.md), con la quale venne accordata alla Societa' anonima Biella-Oropa per trazione elettrica la concessione della costruzione ed esercizio della tramvia extraurbana Biella-Sandigliano;
 
-Vista la convenzione 5 luglio 1926, approvata e resa esecutiva con [regio decreto 29 luglio 1926, n. 1436](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-07-29;1436), con la quale venne accordata alla suddetta Societa' la concessione della costruzione ed esercizio della tramvia extraurbana Sandigliano-Barriana in prosecuzione di quella Biella-Sandigliano;
+Vista la convenzione 5 luglio 1926, approvata e resa esecutiva con [regio decreto 29 luglio 1926, n. 1436](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20ed%20esecuzione%20dellatto%20aggiuntivo%205%20luglio%201926%20per%20la%20concessione%20alla%20%20Societa%20Biella-Oropa%20per%20trazione%20elettrica%20%20dellimpianto%20e%20dellesercizio%20della%20tranvia%20elettrica%20Bie_78e57f36432a.md), con la quale venne accordata alla suddetta Societa' la concessione della costruzione ed esercizio della tramvia extraurbana Sandigliano-Barriana in prosecuzione di quella Biella-Sandigliano;
 
 Visto il regio decreto 21 aprile 1901, con il quale i signori Catella Eugenio, Perrone Maggiorino e Botto Salvio vennero autorizzati a costruire ed esercitare la tramvia extraurbana Biella-Oropa alle condizioni previste nel relativo disciplinare;
 
@@ -26,41 +26,24 @@ Visto l'atto in data 29 dicembre 1954 a rogito dottor Casale Telesforo Celestino
 
 Vista la delibera in data 28 gennaio 1955, con la quale l'assemblea straordinaria della Societa' ferrovie elettriche biellesi ha deciso, tra l'altro, di modificare la denominazione della Societa' stessa in quella di Aziende trasporti autoferrotramviari S.p.A.;
 
-Visto il testo unico delle disposizioni di legge per le ferrovie concesse all'industria privata, le tramvie a trazione meccanica e le automobili, approvato con [regio decreto 9 maggio 1912, n. 1447](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1912-05-09;1447), e le successive aggiunte e modifiche;
+Visto il testo unico delle disposizioni di legge per le ferrovie concesse all'industria privata, le tramvie a trazione meccanica e le automobili, approvato con [regio decreto 9 maggio 1912, n. 1447](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1912-05-09;1447), e le successive aggiunte e modifiche;
 
-Sulla
------
+Sulla proposta dei Ministri per i trasporti ed il tesoro; Decreta:
 
-proposta dei Ministri per i trasporti ed il tesoro; Decreta:
+## Art. 1.
 
-Art. 1
-------
+Fermo restando per i pubblici servizi di trasporto, dei quali era concessionaria la Societa' incorporata, l'obbligo di tenere contabilita' separate e fermi pure restando, per i detti pubblici servizi, le condizioni dei rispettivi atti di concessione e tutte le prescrizioni successivamente imposte, e' riconosciuta, alle condizioni di cui all'atto 29 dicembre 1954 per notar Casale Telesforo, la fusione della Societa' anonima Biella-Oropa per trazione elettrica con la Societa' ferrovie elettriche biellesi, ora Societa' per azioni aziende trasporti autoferrotramviari, mediante l'incorporazione della prima nella seconda.
 
-  
-Fermo restando per i pubblici servizi di trasporto, dei quali era concessionaria la Societa' incorporata, l'obbligo di tenere contabilita' separate e fermi pure restando, per i detti pubblici servizi, le condizioni dei rispettivi atti di concessione e tutte le prescrizioni successivamente imposte, e' riconosciuta, alle condizioni di cui all'atto 29 dicembre 1954 per notar Casale Telesforo, la fusione della Societa' anonima Biella-Oropa per trazione elettrica con la Societa' ferrovie elettriche biellesi, ora Societa' per azioni aziende trasporti autoferrotramviari, mediante l'incorporazione della prima nella seconda.  
+## Art. 2.
 
-Art. 2
-------
+Al personale che, per effetto dell'intervenuta incorporazione, passera' alle dipendenze della Societa' incorporante dovra' essere assicurato, per quanto possibile, un trattamento non inferiore a quello attualmente goduto ed il rispetto dei diritti acquisiti.
 
-  
-Al personale che, per effetto dell'intervenuta incorporazione, passera' alle dipendenze della Societa' incorporante dovra' essere assicurato, per quanto possibile, un trattamento non inferiore a quello attualmente goduto ed il rispetto dei diritti acquisiti.  
+## Art. 3.
 
-Art. 3
-------
-
-  
-L'Amministrazione governativa si riserva di apportare ai programmi d'esercizio delle varie linee attualmente in concessione alla predetta Societa' incorporante quelle modifiche che si rendessero necessarie per un migliore coordinamento dei servizi autoferrotramviari della zona.  
-  
+L'Amministrazione governativa si riserva di apportare ai programmi d'esercizio delle varie linee attualmente in concessione alla predetta Societa' incorporante quelle modifiche che si rendessero necessarie per un migliore coordinamento dei servizi autoferrotramviari della zona.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 24 ottobre 1955
+Dato a Roma, addi' 24 ottobre 1955
 
-GRONCHI ANGELINI - GAVA
-
-Visto, il Guardasigilli: MORO
-
-Registrato alla Corte dei conti, addi' 7 gennaio 1956
-
-Atti del Governo, registro n. 95, foglio n. 16. - CARLOMAGNO
+GRONCHI ANGELINI - GAVA Visto, il Guardasigilli: MORO Registrato alla Corte dei conti, addi' 7 gennaio 1956 Atti del Governo, registro n. 95, foglio n. 16. - CARLOMAGNO

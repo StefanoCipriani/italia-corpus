@@ -1,38 +1,30 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 04 novembre 1951 n. 1732
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 1732
+data: 1951-11-04
+titolo: "Modificazione ai ruoli organici dei posti di professore di ruolo nelle Facolta' di ingegneria e di architettura del Politecnico di Milano."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1951-11-04;1732
+codice_redazionale: 051U1732
+vigente: true
+---
 
+## Art. 1.
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 04 novembre 1951 n. 1732
-================================================================
+IL PRESIDENTE DELLA REPUBBLICA
 
-Modificazione ai ruoli organici dei posti di professore di ruolo nelle Facolta' di ingegneria e di architettura del Politecnico di Milano.
-------------------------------------------------------------------------------------------------------------------------------------------
+ Visto l'art. 63 dei testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+ Riconosciuta l'opportunita' di modificare, per esigenze didattiche, il riparto dei posti di professore di ruolo assegnati alle Facolta' di ingegneria e a quella di architettura del Politecnico di Milano, di cui al [regio decreto 29 luglio 1937, n. 1451](../Atti%20normativi%20abrogati%20%28in%20originale%29/Attuazione%20delle%20norme%20di%20cui%20allart.%201%20del%20R.%20decreto-legge%2020%20giugno%201935%20n.%201071%20nei%20riguardi%20del%20Regio%20politecnico%20di%20Milano.%20037U1451.md), e successive modificazioni;
+ Visto il parere espresso dal Consiglio superiore della pubblica istruzione, nella adunanza, del 10 ottobre 1951;
+ Sulla proposta del Ministro per la pubblica istruzione;
 
-Art. 1
-------
+ Decreta:
 
- IL PRESIDENTE DELLA REPUBBLICA  
-  
-Visto l'art. 63 dei testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
-Riconosciuta l'opportunita' di modificare, per esigenze didattiche, il riparto dei posti di professore di ruolo assegnati alle Facolta' di ingegneria e a quella di architettura del Politecnico di Milano, di cui al [regio decreto 29 luglio 1937, n. 1451](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1937-07-29;1451), e successive modificazioni;  
-Visto il parere espresso dal Consiglio superiore della pubblica istruzione, nella adunanza, del 10 ottobre 1951;  
-Sulla proposta del Ministro per la pubblica istruzione;  
-  
-Decreta:  
-  
-Con effetto dall'anno accademico 1951-1952, i ruoli organici dei posti di professore di ruolo nelle Facolta' di ingegneria e di architettura del Politecnico di Milano, di cui al [regio decreto 29 luglio 1937, n. 1451](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1937-07-29;1451), e successive modificazioni, sono modificati come appresso:  
-Facolta' di ingegneria - posti di ruolo 24;  
-Facolta' di architettura - posti di ruolo 4.  
-  
+ Con effetto dall'anno accademico 1951-1952, i ruoli organici dei posti di professore di ruolo nelle Facolta' di ingegneria e di architettura del Politecnico di Milano, di cui al [regio decreto 29 luglio 1937, n. 1451](../Atti%20normativi%20abrogati%20%28in%20originale%29/Attuazione%20delle%20norme%20di%20cui%20allart.%201%20del%20R.%20decreto-legge%2020%20giugno%201935%20n.%201071%20nei%20riguardi%20del%20Regio%20politecnico%20di%20Milano.%20037U1451.md), e successive modificazioni, sono modificati come appresso:
+ Facolta' di ingegneria - posti di ruolo 24;
+ Facolta' di architettura - posti di ruolo 4.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 4 novembre 1951
+Dato a Roma, addi' 4 novembre 1951
 
-EINAUDI SEGNI
-
-Visto, il Guardasigilli: ZOLI
-
-Registrato alla Corte dei conti, addi' 20 febbraio 1952
-
-Atti del Governo, registro n. 50, foglio n. 42. - FRASCA
+EINAUDI SEGNI Visto, il Guardasigilli: ZOLI Registrato alla Corte dei conti, addi' 20 febbraio 1952 Atti del Governo, registro n. 50, foglio n. 42. - FRASCA

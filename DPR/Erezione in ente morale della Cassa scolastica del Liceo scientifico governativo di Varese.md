@@ -1,18 +1,20 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 marzo 1948 n. 685
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 685
+data: 1948-03-30
+titolo: "Erezione in ente morale della Cassa scolastica del Liceo scientifico governativo di Varese."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1948-03-30;685
+codice_redazionale: 048U0685
+vigente: true
+---
 
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 marzo 1948 n. 685
-============================================================
-
-Erezione in ente morale della Cassa scolastica del Liceo scientifico governativo di Varese.
--------------------------------------------------------------------------------------------
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-685. Decreto del Presidente della Repubblica 30 marzo 1948, col quale, sulla proposta del Ministro per la pubblica istruzione, la Cassa scolastica del Liceo scientifico governativo di Varese viene eretta in ente morale e ne viene approvato il relativo statuto.  
-  
-Visto, il Guardasigilli: GRASSI  
-Registrato alla Corte dei conti, addi' 20 aprile 1948
+685.
+
+Decreto del Presidente della Repubblica 30 marzo 1948, col quale, sulla proposta del Ministro per la pubblica istruzione, la Cassa scolastica del Liceo scientifico governativo di Varese viene eretta in ente morale e ne viene approvato il relativo statuto.
+
+Visto, il Guardasigilli: GRASSI
+ Registrato alla Corte dei conti, addi' 20 aprile 1948

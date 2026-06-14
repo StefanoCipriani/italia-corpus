@@ -1,39 +1,31 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 20 luglio 1978 n. 921
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 921
+data: 1978-07-20
+titolo: "Trasferimento di un posto di assistente ordinario dalla facolta' di scienze matematiche, fisiche e naturali dell'Universita' di Genova alla stessa facolta' dell'Universita' di Parma."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1978-07-20;921
+codice_redazionale: 078U0921
+vigente: true
+---
 
+## Art. 1.
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 20 luglio 1978 n. 921
-=============================================================
+IL PRESIDENTE DELLA REPUBBLICA
 
-Trasferimento di un posto di assistente ordinario dalla facolta' di scienze matematiche, fisiche e naturali dell'Universita' di Genova alla stessa facolta' dell'Universita' di Parma.
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+ Vista la [legge 12 febbraio 1977, n. 34](../Atti%20normativi%20abrogati%20%28in%20originale%29/Nuove%20norme%20sulla%20ripartizione%20dei%20posti%20di%20assistente%20di%20ruolo%20e%20sullassegnazione%20degli%20assistenti%20inquadrati%20in%20soprannumero%20ai%20sensi%20dellarticolo%203%20del%20decreto-legge%201%20ottobre%201973%20n.%20_c64ede146292.md);
+ Visto il [decreto del Presidente della Repubblica 1 aprile 1967, n. 343](Ripartizione%20per%20lanno%20accademico%201966-67%20di%20milleseicentotrentasei%20posti%20di%20assistente%20di%20ruolo%20destinati%20a%20concorso%20riservati%20agli%20assistenti%20straordinari.md), con il quale e' stato assegnato un posto di assistente ordinario alla cattedra di meccanica razionale della facolta' di scienze matematiche, fisiche e naturali dell'Universita' di Genova;
+ Vista la deliberazione del consiglio della facolta' di scienze matematiche, fisiche e naturali dell'Universita' di Parma, adottata il 12 luglio 1972, con cui si propone che il posto di cui sopra venga assegnato alla cattedra di meccanica razionale della stessa facolta' al fine di perequare il rapporto assistenti studenti che allo stato attuale risulta inadeguato alle esigenze didattiche e scientifiche della cattedra interessata;
+ Vista la deliberazione del consiglio della facolta' di scienze matematiche, fisiche e naturali dell'Universita' di Genova, adottata il 14 aprile 1978, che consente al passaggio del posto di assistente ordinario alla cattedra di meccanica razionale della stessa facolta' della Universita' di Parma;
+ Considerato che il posto di assistente ordinario assegnato alla cattedra di meccanica razionale della facolta' di scienze matematiche, fisiche e naturali dell'Universita' di Genova con il decreto del Presidente della Repubblica n. 343 sopracitato, risulta attualmente ricoperto dalla dott.ssa Carla Calvi Parisetti e che la stessa ha espresso il proprio consenso ad essere assegnata alla medesima cattedra della stessa facolta' dell'Universita' di Parma;
+ Ravvisata, pertanto, l'opportunita', nell'interesse pubblico, di procedere alla modificazione organica dei posti di assistente ordinario delle predette facolta';
+ Sulla proposta del Ministro della pubblica istruzione;
 
-Art. 1
-------
+ Decreta:
 
- IL PRESIDENTE DELLA REPUBBLICA  
-  
-Vista la [legge 12 febbraio 1977, n. 34](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1977-02-12;34);  
-Visto il [decreto del Presidente della Repubblica 1 aprile 1967, n. 343](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1967-04-01;343), con il quale e' stato assegnato un posto di assistente ordinario alla cattedra di meccanica razionale della facolta' di scienze matematiche, fisiche e naturali dell'Universita' di Genova;  
-Vista la deliberazione del consiglio della facolta' di scienze matematiche, fisiche e naturali dell'Universita' di Parma, adottata il 12 luglio 1972, con cui si propone che il posto di cui sopra venga assegnato alla cattedra di meccanica razionale della stessa facolta' al fine di perequare il rapporto assistenti studenti che allo stato attuale risulta inadeguato alle esigenze didattiche e scientifiche della cattedra interessata;  
-Vista la deliberazione del consiglio della facolta' di scienze matematiche, fisiche e naturali dell'Universita' di Genova, adottata il 14 aprile 1978, che consente al passaggio del posto di assistente ordinario alla cattedra di meccanica razionale della stessa facolta' della Universita' di Parma;  
-Considerato che il posto di assistente ordinario assegnato alla cattedra di meccanica razionale della facolta' di scienze matematiche, fisiche e naturali dell'Universita' di Genova con il decreto del Presidente della Repubblica n. 343 sopracitato, risulta attualmente ricoperto dalla dott.ssa Carla Calvi Parisetti e che la stessa ha espresso il proprio consenso ad essere assegnata alla medesima cattedra della stessa facolta' dell'Universita' di Parma;  
-Ravvisata, pertanto, l'opportunita', nell'interesse pubblico, di procedere alla modificazione organica dei posti di assistente ordinario delle predette facolta';  
-Sulla proposta del Ministro della pubblica istruzione;  
-  
-Decreta:  
-  
-A decorrere dalla data del presente decreto, il posto di assistente ordinario gia' assegnato alla cattedra di meccanica razionale della facolta' di scienze matematiche, fisiche e naturali dell'Universita' di Genova con il [decreto del Presidente della Repubblica 1 aprile 1967, n. 343](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1967-04-01;343), e' attribuito alla cattedra omonima della stessa facolta' dell'Universita' di Parma, unitamente alla titolare dott.ssa Carla Calvi Parisetti.  
-  
+ A decorrere dalla data del presente decreto, il posto di assistente ordinario gia' assegnato alla cattedra di meccanica razionale della facolta' di scienze matematiche, fisiche e naturali dell'Universita' di Genova con il [decreto del Presidente della Repubblica 1 aprile 1967, n. 343](Ripartizione%20per%20lanno%20accademico%201966-67%20di%20milleseicentotrentasei%20posti%20di%20assistente%20di%20ruolo%20destinati%20a%20concorso%20riservati%20agli%20assistenti%20straordinari.md), e' attribuito alla cattedra omonima della stessa facolta' dell'Universita' di Parma, unitamente alla titolare dott.ssa Carla Calvi Parisetti.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 20 luglio 1978
+Dato a Roma, addi' 20 luglio 1978
 
-PERTINI PEDINI
-
-Visto, il Guardasigilli: BONIFACIO
-
-Registrato alla Corte dei conti, addi' 27 gennaio 1979
-
-Registro n. 1 Istruzione, foglio n. 287
+PERTINI PEDINI Visto, il Guardasigilli: BONIFACIO Registrato alla Corte dei conti, addi' 27 gennaio 1979 Registro n. 1 Istruzione, foglio n. 287

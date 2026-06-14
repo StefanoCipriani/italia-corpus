@@ -1,20 +1,20 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 gennaio 1962 n. 1218
-
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 gennaio 1962 n. 1218
-===============================================================
-
-Norme sul trattamento economico e normativo per i dipendenti da esercizi di caffe', bars, bottiglierie, birrerie, buffets di stazione, gelaterie, fiaschetterie e dia ogni altro esercizio similare ove si somministrano bevande di cui all'art. 86 della legge di P.S., da negozi di pasticceria e confetteria, reparti di pasticceria e confetteria annessi a pubblici esercizi delle province di Alessandria, Gorizia, Grosseto, L'Aquila, Matera, Palermo, Ravenna, Rieti, Savona, Siena e Vercelli, con esclusione della zona Biellese.
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 1218
+data: 1962-01-02
+titolo: "Norme sul trattamento economico e normativo per i dipendenti da esercizi di caffe', bars, bottiglierie, birrerie, buffets di stazione, gelaterie, fiaschetterie e dia ogni altro esercizio similare ove si somministrano bevande di cui all'art. 86 della legge di P.S., da negozi di pasticceria e confetteria, reparti di pasticceria e confetteria annessi a pubblici esercizi delle province di Alessandria, Gorizia, Grosseto, L'Aquila, Matera, Palermo, Ravenna, Rieti, Savona, Siena e Vercelli, con esclusione della zona Biellese."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1962-01-02;1218
+codice_redazionale: 062U1218
+vigente: true
+---
 
 IL PRESIDENTE DELLA REPUBBLICA
-------------------------------
 
-Visto l'[art. 87, comma quinto, della Costituzione](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27~art87-com5);
+Visto l'[art. 87, comma quinto, della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87-com5);
 
-Vista la [legge 14 luglio 1959, n. 741](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1959-07-14;741), che delega il Governo ad emanare norme transitorie per garantire minimi di trattamento economico e normativo ai lavoratori;
+Vista la [legge 14 luglio 1959, n. 741](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1959-07-14;741), che delega il Governo ad emanare norme transitorie per garantire minimi di trattamento economico e normativo ai lavoratori;
 
-Vista la [legge 1 ottobre 1960, n. 1027](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1960-10-01;1027), recante modifiche alla predetta [legge 14 luglio 1959, n. 741](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1959-07-14;741);
+Vista la [legge 1 ottobre 1960, n. 1027](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1960-10-01;1027), recante modifiche alla predetta [legge 14 luglio 1959, n. 741](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1959-07-14;741);
 
 Visto il contratto collettivo nazionale di lavoro 15 maggio 1959, per i dipendenti da aziende di caffe', bars, bottiglierie, birrerie, buffets di stazione, gelaterie, fiaschetterie e di ogni altro esercizio similare ove si somministrino bevande, contemplate nell'art. 86 della legge di P.S., negozi di pasticceria e confetteria, reparti di pasticceria e confetteria annessi a pubblici esercizi;
 
@@ -72,216 +72,29 @@ Vista la pubblicazione nell'apposito Bollettino, n. 6 della provincia di Alessan
 
 Sentito il Consiglio dei Ministri;
 
-Sulla
------
+Sulla proposta del Ministro per il lavoro e la previdenza sociale; Decreta:
 
-proposta del Ministro per il lavoro e la previdenza sociale; Decreta:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-I rapporti di lavoro costituiti per le attivita' per le quali sono stati stipulati i contratti e gli accordi collettivi sottoelencati sono regolati da norme giuridiche uniformi alle clausole dei contratti e degli accordi stessi, annessi al presente decreto, purche' compatibili con quelle concernenti la disciplina nazionale della categoria:  
-- per la provincia di Alessandria, contratto collettivo integrativo 1 agosto 1960, relativo ai dipendenti a caffe', bars, birrerie, bottiglierie, gelaterie, pasticcerie ed esercizi similari;  
-- per la provincia di Gorizia, accordo collettivo integrativo 30 aprile 1948, relativo al personale impiegatizio e non impiegatizio dipendente da aziende di caffe', bars, birrerie, bottiglierie, gelaterie, pasticcerie, confetterie e similari, nonche' da negozi di pasticceria e confetteria e da reparti di pasticceria e confetteria annessi a pubblici esercizi;  
-- per la provincia di Gorizia, escluso il comune di Grado, accordo collettivo 13 giugno 1951, relativo al personale indicato nel suddetto contratto collettivo 30 aprile 1948, e accordo collettivo 31 luglio 1959, relativo ai lavoratori dipendenti da esercizi di caffe', bars, gelaterie, birrerie, pasticcerie, bomboniere ed esercizi similari;  
-- per la provincia di Grosseto, contratto collettivo integrativo 1 agosto 1960, relativo ai dipendenti da aziende di caffe', bars, bottiglierie, birrerie, buffets di stazione, gelaterie, fiaschetterie e da ogni altro esercizio similare ove si somministrano bevande, contemplate dall'art. 86 della legge di P.S., negozi di pasticceria e confetteria, reparti di pasticceria e confetteria annessi a pubblici esercizi;  
-- per la provincia di L'Aquila, accordo collettivo 2 agosto 1949, relativo alla fissazione del minimo salariale per il personale con qualifica di barista, o banconiere, alle dipendenze di pubblici esercizi, e accordo collettivo integrativo 9 dicembre 1949, relativo ai dipendenti da aziende di caffe', bars, bottiglierie, birrerie, buffets di stazione, gelaterie, fiaschetterie e da ogni altro esercizio similare ove si somministrano bevande contemplate dall'art. 86 della legge di P.S., negozi di pasticceria, reparti di pasticceria annessi a pubblici esercizi;  
-- per la citta' di Avezzano, accordo collettivo 28 ottobre 1953, relativo ai dipendenti da caffe' e bars;  
-- per la citta' di L'Aquila, accordo collettivo 14 gennaio 1951, relativo all'applicazione della scala mobile al personale dipendente da pubblici esercizi;  
-- per la citta' di Sulmona, accordo collettivo 3 giugno 1954, relativo all'applicazione della scala mobile al personale dipendente da pubblici esercizi, e accordo collettivo 22 gennaio 1959, relativo al trattamento economico dei dipendenti da caffe', bars, gelaterie, pasticcerie, confetterie ed esercizi similari;  
-- per la provincia di Matera, contratto collettivo integrativo 1 ottobre 1959, relativo ai dipendenti da aziende di caffe', bars, bottiglierie, birrerie, gelaterie ed ogni altro esercizio similare ove si somministrano bevande contemplate nell'art. 86 della legge di P.S.;  
-- per la provincia di Palermo, contratto collettivo integrativo 2 ottobre 1959, relativo ai dipendenti da caffe', bars, birrerie, bottiglierie, gelaterie, pasticcerie, confetterie ed esercizi similari;  
-- per la provincia di Ravenna, contratto collettivo integrativo 29 luglio 1959, relativo ai dipendenti da caffe', bars, bottiglierie, birrerie, buffets di stazione, gelaterie, fiaschetterie ed ogni altro esercizio similare munito di licenza di P.S.;  
-- per la provincia di Rieti, accordo collettivo integrativo 2 dicembre 1950, relativo ai dipendenti da caffe', bars, birrerie, bottiglierie, gelaterie, pasticcerie e da ogni altro esercizio similare;  
-- per la provincia di Savona, accordo collettivo integrativo 30 maggio 1955, relativo al personale dipendente da caffe', bars, bottiglierie, birrerie, gelaterie, confetterie ed ogni altro esercizio similare - per la provincia di Siena, accordo collettivo integrativo 24 settembre 1952, relativo ai dipendenti da caffe', bar, birrerie, bottiglierie, gelaterie, confetterie;  
-- per la provincia di Vercelli, con esclusione della zona Biellese, accordo collettivo 12 gennaio 1953, relativo a tutto il personale a paga fissa dipendente dai caffe', bars ed esercizi similari.  
-I minimi di trattamento economico e normativo cosi' stabiliti sono inderogabili nei confronti di tutti i dipendenti dalle imprese esercenti le attivita' considerate nei contratti e negli accordi collettivi di cui al primo comma, delle province di Alessandria, Gorizia, Grosseto, L'Aquila, Matera, Palermo, Ravenna, Rieti, Savona, Siena e Vercelli, con esclusione della zona Biellese.  
-  
+I rapporti di lavoro costituiti per le attivita' per le quali sono stati stipulati i contratti e gli accordi collettivi sottoelencati sono regolati da norme giuridiche uniformi alle clausole dei contratti e degli accordi stessi, annessi al presente decreto, purche' compatibili con quelle concernenti la disciplina nazionale della categoria:
+ - per la provincia di Alessandria, contratto collettivo integrativo 1 agosto 1960, relativo ai dipendenti a caffe', bars, birrerie, bottiglierie, gelaterie, pasticcerie ed esercizi similari;
+ - per la provincia di Gorizia, accordo collettivo integrativo 30 aprile 1948, relativo al personale impiegatizio e non impiegatizio dipendente da aziende di caffe', bars, birrerie, bottiglierie, gelaterie, pasticcerie, confetterie e similari, nonche' da negozi di pasticceria e confetteria e da reparti di pasticceria e confetteria annessi a pubblici esercizi;
+ - per la provincia di Gorizia, escluso il comune di Grado, accordo collettivo 13 giugno 1951, relativo al personale indicato nel suddetto contratto collettivo 30 aprile 1948, e accordo collettivo 31 luglio 1959, relativo ai lavoratori dipendenti da esercizi di caffe', bars, gelaterie, birrerie, pasticcerie, bomboniere ed esercizi similari;
+ - per la provincia di Grosseto, contratto collettivo integrativo 1 agosto 1960, relativo ai dipendenti da aziende di caffe', bars, bottiglierie, birrerie, buffets di stazione, gelaterie, fiaschetterie e da ogni altro esercizio similare ove si somministrano bevande, contemplate dall'art. 86 della legge di P.S., negozi di pasticceria e confetteria, reparti di pasticceria e confetteria annessi a pubblici esercizi;
+ - per la provincia di L'Aquila, accordo collettivo 2 agosto 1949, relativo alla fissazione del minimo salariale per il personale con qualifica di barista, o banconiere, alle dipendenze di pubblici esercizi, e accordo collettivo integrativo 9 dicembre 1949, relativo ai dipendenti da aziende di caffe', bars, bottiglierie, birrerie, buffets di stazione, gelaterie, fiaschetterie e da ogni altro esercizio similare ove si somministrano bevande contemplate dall'art. 86 della legge di P.S., negozi di pasticceria, reparti di pasticceria annessi a pubblici esercizi;
+ - per la citta' di Avezzano, accordo collettivo 28 ottobre 1953, relativo ai dipendenti da caffe' e bars;
+ - per la citta' di L'Aquila, accordo collettivo 14 gennaio 1951, relativo all'applicazione della scala mobile al personale dipendente da pubblici esercizi;
+ - per la citta' di Sulmona, accordo collettivo 3 giugno 1954, relativo all'applicazione della scala mobile al personale dipendente da pubblici esercizi, e accordo collettivo 22 gennaio 1959, relativo al trattamento economico dei dipendenti da caffe', bars, gelaterie, pasticcerie, confetterie ed esercizi similari;
+ - per la provincia di Matera, contratto collettivo integrativo 1 ottobre 1959, relativo ai dipendenti da aziende di caffe', bars, bottiglierie, birrerie, gelaterie ed ogni altro esercizio similare ove si somministrano bevande contemplate nell'art. 86 della legge di P.S.;
+ - per la provincia di Palermo, contratto collettivo integrativo 2 ottobre 1959, relativo ai dipendenti da caffe', bars, birrerie, bottiglierie, gelaterie, pasticcerie, confetterie ed esercizi similari;
+ - per la provincia di Ravenna, contratto collettivo integrativo 29 luglio 1959, relativo ai dipendenti da caffe', bars, bottiglierie, birrerie, buffets di stazione, gelaterie, fiaschetterie ed ogni altro esercizio similare munito di licenza di P.S.;
+ - per la provincia di Rieti, accordo collettivo integrativo 2 dicembre 1950, relativo ai dipendenti da caffe', bars, birrerie, bottiglierie, gelaterie, pasticcerie e da ogni altro esercizio similare;
+ - per la provincia di Savona, accordo collettivo integrativo 30 maggio 1955, relativo al personale dipendente da caffe', bars, bottiglierie, birrerie, gelaterie, confetterie ed ogni altro esercizio similare - per la provincia di Siena, accordo collettivo integrativo 24 settembre 1952, relativo ai dipendenti da caffe', bar, birrerie, bottiglierie, gelaterie, confetterie;
+ - per la provincia di Vercelli, con esclusione della zona Biellese, accordo collettivo 12 gennaio 1953, relativo a tutto il personale a paga fissa dipendente dai caffe', bars ed esercizi similari.
+ I minimi di trattamento economico e normativo cosi' stabiliti sono inderogabili nei confronti di tutti i dipendenti dalle imprese esercenti le attivita' considerate nei contratti e negli accordi collettivi di cui al primo comma, delle province di Alessandria, Gorizia, Grosseto, L'Aquila, Matera, Palermo, Ravenna, Rieti, Savona, Siena e Vercelli, con esclusione della zona Biellese.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 2 gennaio 1962
+Dato a Roma, addi' 2 gennaio 1962
 
-GRONCHI FANFANI - SULLO
-
-Visto, il Guardasigilli: BOSCO
-
-Registrato alla Corte dei conti, addi' 16 luglio 1962
-
-Atti del Governo, registro n. 156, foglio n. 34. - VILLA
-
-Allegato
-
-CONTRATTO COLLETTIVO 1 agosto 1960, INTEGRATIVO DEL CONTRATTO COLLETTIVO NAZIONALE DI LAVORO 15 MAGGIO 1959, PER DIPENDENTI DA CAFFE', BARS, BIRRERIE, BOTTIGLIERIE, GELATERIE, PASTICCERIE ED ESERCIZI SIMILARI DELLA PROVINCIA DI ALESSANDRIA   
-  
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=062U121800100010110001&dgu=1962-08-21&art.dataPubblicazioneGazzetta=1962-08-21&art.codiceRedazionale=062U1218)
-  
-  
-  
-  
-ACCORDO COLLETTIVO 30 APRILE 1948, INTEGRATIVO DEL CONTRATTO COLLETTIVO NAZIONALE DI LAVORO 27 GENNAIO 1948, PER IL PERSONALE IMPIEGATIZIO E NON IMPIEGATIZIO DIPENDENTE DA AZIENDE DI CAFFE', BARS, BIRRERIE, BOTTIGLIERIE, GELATERIE, PASTICCERIE, CONFETTERIE E SIMILARI, NONCHE' DA NEGOZI DI PASTICCERIA E CONFETTERIA E DA REPARTI DI PASTICCERIA E CONFETTERIA ANNESSI A, PUBBLICI ESERCIZI DELLA PROVINCIA DI GORIZIA   
-  
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=062U121800100010110002&dgu=1962-08-21&art.dataPubblicazioneGazzetta=1962-08-21&art.codiceRedazionale=062U1218)
-  
-  
-  
-  
-ACCORDO COLLETTIVO 13 GIUGNO 1951 PER IL PERSONALE IMPIEGATIZIO E NON IMPIEGATIZIO DIPENDENTE DA AZIENDE DI CAFFE, BARS, BIRRERIE, BOTTIGLIERIE, GELATERIE, PASTICCERIE, CONFETTERIE E SIMILARI, NONCHE' DA NEGOZI DI PASTICCERIA E CONFETTERIA E DA REPARTI DI PASTICCERIA E CONFETTERIA ANNESSI A PUBBLICI ESERCIZI DELLA PROVINCIA DI GORIZIA, ESCLUSO IL COMUNE DI GRADO   
-  
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=062U121800100010110003&dgu=1962-08-21&art.dataPubblicazioneGazzetta=1962-08-21&art.codiceRedazionale=062U1218)
-  
-  
-  
-  
-ACCORDO COLLETTIVO 31 LUGLIO 1959 PER I LAVORATORI DIPENDENTI DA ESERCIZI DI CAFFE, BARS, GELATERIE, BIRRERIE, PASTICCERIE, BOMBONERIE ED ESERCIZI SIMILARI DELLA PROVINCIA DI GORIZIA (ESCLUSO IL COMUNE DI GRADO)   
-  
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=062U121800100010110004&dgu=1962-08-21&art.dataPubblicazioneGazzetta=1962-08-21&art.codiceRedazionale=062U1218)
-  
-  
-  
-  
-  
-CONTRATTO COLLETTIVO 1 AGOSTO 1960, INTEGRATIVO DEL CONTRATTO COLLETTIVO NAZIONALE DI LAVORO 15 MAGGIO 1959, PER I DIPENDENTI DA CAFFE', BARS, BOTTIGLIERIE, BIRRERIE, BUFFETS DI STAZIONE, GELATERIE, FIASCHETTERIE E DA OGNI ALTRO ESERCIZIO SIMILARE OVE SI SOMMINISTRANO BEVANDE, CONTEMPLATE NELL'ART. 86 DELLA LEGGE DI P.S., NEGOZI DI PASTICCERIA, CONFETTERIA, REPARTI DI PASTICCERIA E CONFETTERIA ANNESSI A PUBBLICI ESERCIZI DELLA PROVINCIA DI GROSSETO   
-  
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=062U121800100010110005&dgu=1962-08-21&art.dataPubblicazioneGazzetta=1962-08-21&art.codiceRedazionale=062U1218)
-  
-  
-  
-  
-  
-ACCORDO COLLETTIVO 2 AGOSTO 1949, PER LA FISSAZIONE DEL MINIMO SALARIALE PER IL PERSONALE CON QUALIFICA DI BARISTA O BANCONIERE ALLE DIPENDENZE DEI PUBBLICI ESERCIZI DELLA PROVINCIA DI L'AQUILA   
-  
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=062U121800100010110006&dgu=1962-08-21&art.dataPubblicazioneGazzetta=1962-08-21&art.codiceRedazionale=062U1218)
-  
-  
-  
-  
-ACCORDO COLLETTIVO 9 DICEMBRE 1949, INTEGRATIVO DEL CONTRATTO COLLETTIVO NAZIONALE DI LAVORO 27 DICEMBRE 1948, PER I DIPENDENTI DA AZIENDE DI CAFFE', BARS, BOTTIGLIERIE, BIRRERIE, BUFFETS DI STAZIONE, GELATERIE, FIASCHETTERIE E DA OGNI ALTRO ESERCIZIO SIMILARE OVE SI SOMMINISTRANO BEVANDE CONTEMPLATE DALL'ART. 86 DELLA LEGGE DI P.S., NEGOZI DI PASTICCERIA, REPARTI DI PASTICCERIA ANNESSI A PUBBLICI ESERCIZI DELLA PROVINCIA DI L'AQUILA   
-  
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=062U121800100010110007&dgu=1962-08-21&art.dataPubblicazioneGazzetta=1962-08-21&art.codiceRedazionale=062U1218)
-  
-  
-  
-  
-ACCORDO COLLETTIVO 28 OTTOBRE 1953, PER I DIPENDENTI DA CAFFE' E BARS DELLA CITTA' DI AVEZZANO   
-  
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=062U121800100010110008&dgu=1962-08-21&art.dataPubblicazioneGazzetta=1962-08-21&art.codiceRedazionale=062U1218)
-  
-  
-  
-  
-ACCORDO COLLETTIVO 14 GENNAIO 1954, PER L'APPLICAZIONE DELLA SCALA MOBILE PER IL PERSONALE DIPENDENTE DA PUBBLICI ESERCIZI DELLA CITTA' DI L'AQUILA   
-  
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=062U121800100010110009&dgu=1962-08-21&art.dataPubblicazioneGazzetta=1962-08-21&art.codiceRedazionale=062U1218)
-  
-  
-  
-  
-ACCORDO COLLETTIVO 3 GIUGNO 1954, PER L'APPLICAZIONE DELLA SCALA MOBILE PER IL PERSONALE DIPENDENTE DA PUBBLICI ESERCIZI DELLA CITTADI SULMONA   
-  
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=062U121800100010110010&dgu=1962-08-21&art.dataPubblicazioneGazzetta=1962-08-21&art.codiceRedazionale=062U1218)
-  
-  
-  
-  
-ACCORDO COLLETTIVO 22 GENNAIO 1959, SUL TRATTAMENTO ECONOMICO DEI DIPENDENTI DA CAFFE, BARS, GELATERIE, PASTICCERIE, CONFETTERIE ED ESERCIZI SIMILARI DI SULMONA   
-  
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=062U121800100010110011&dgu=1962-08-21&art.dataPubblicazioneGazzetta=1962-08-21&art.codiceRedazionale=062U1218)
-  
-  
-  
-  
-CONTRATTO COLLETTIVO 1 OTTOBRE 1959, INTEGRATIVO DEL CONTRATTO COLLETTIVO NAZIONALE DI LAVORO 15 MAGGIO 1959, PER I DIPENDENTI DA AZIENDE DI CAFFE, BARS, BOTTIGLIERIE, BIRRERIE, GELATERIE ED OGNI ALTRO ESERCIZIO SIMILARE OVE SI SOMMINISTRANO BEVANDE CONTEMPLATE NELL'ART. 86 DELLA LEGGE DI P.S., DELLA PROVINCIA DI MATERA   
-  
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=062U121800100010110012&dgu=1962-08-21&art.dataPubblicazioneGazzetta=1962-08-21&art.codiceRedazionale=062U1218)
-  
-  
-  
-  
-CONTRATTO COLLETTIVO 2 OTTOBRE 1959, INTEGRATIVO DEL CONTRATTO COLLETTIVO NAZIONALE DI LAVORO 15 MAGGIO 1959, PER I DIPENDENTI DA CAFFE', BARS, BIRRERIE, BOTTIGLIERIE, GELATERIE, PASTICCERIE, CONFETTERIE ED ESERCIZI SIMILARI DELLA PROVINCIA DI PALERMO   
-  
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=062U121800100010110013&dgu=1962-08-21&art.dataPubblicazioneGazzetta=1962-08-21&art.codiceRedazionale=062U1218)
-  
-  
-  
-  
-CONTRATTO COLLETTIVO 29 LUGLIO 1959, INTEGRATIVO DEL CONTRATTO COLLETTIVO NAZIONALE DI LAVORO 15 MAGGIO 1959, PER I DIPENDENTI DA CAFFE', BARS, BOTTIGLIERIE, BIRRERIE, BUFFETS DI STAZIONE, GELATERIE, FIASCHETTERIE ED OGNI ALTRO ESERCIZIO SIMILARE MUNITO DI LICENZA DI P.S., DELLA PROVINCIA DI RAVENNA   
-  
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=062U121800100010110014&dgu=1962-08-21&art.dataPubblicazioneGazzetta=1962-08-21&art.codiceRedazionale=062U1218)
-  
-  
-  
-  
-ACCORDO COLLETTIVO 2 DICEMBRE 1950, INTEGRATIVO DEL CONTRATTO COLLETTIVO NAZIONALE DI LAVORO 27 GENNAIO 1948, PER I DIPENDENTI DA CAFFE', BARS, BIRRERIE, BOTTIGLIERIE, GELATERIE, PASTICCERIE, E DA OGNI ALTRO ESERCIZIO SIMILARE DELLA PROVINCIA DI RIETI   
-  
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=062U121800100010110015&dgu=1962-08-21&art.dataPubblicazioneGazzetta=1962-08-21&art.codiceRedazionale=062U1218)
-  
-  
-  
-  
-ACCORDO COLLETTIVO 30 MAGGIO 1955, INTEGRATIVO DEL CONTRATTO COLLETTIVO NAZIONALE DI LAVORO 23 OTTOBRE 1954, PER IL PERSONALE DIPENDENTE DA CAFFE', BARS, BOTTIGLIERIE, BIRRERIE, GELATERIE CONFETTERIE ED OGNI ALTRO ESERCIZIO SIMILARE DELLA PROVINCIA DI SAVONA   
-  
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=062U121800100010110016&dgu=1962-08-21&art.dataPubblicazioneGazzetta=1962-08-21&art.codiceRedazionale=062U1218)
-  
-  
-  
-  
-ACCORDO COLLETTIVO 24 SETTEMBRE 1952, INTEGRATIVO DEL CONTRATTO COLLETTIVO NAZIONALE 27 GENNAIO 1948, PER I DIPENDENTI DA CAFFE', BARS, BIRRERIE, BOTTIGLIERIE, GELATERIE, CONFETTERIE DELLA PROVINCIA DI SIENA   
-  
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=062U121800100010110017&dgu=1962-08-21&art.dataPubblicazioneGazzetta=1962-08-21&art.codiceRedazionale=062U1218)
-  
-  
-  
-  
-ACCORDO COLLETTIVO 12 GENNAIO 1953 PER TUTTO IL PERSONALE A PAGA FISSA, DIPENDENTE DAI CAFFE', BARS ED ESERCIZI SIMILARI DELLA PROVINCIA DI VERCELLI CON ESCLUSIONE DELLA ZONA BIELLESE   
-  
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=062U121800100010110018&dgu=1962-08-21&art.dataPubblicazioneGazzetta=1962-08-21&art.codiceRedazionale=062U1218)
-  
-  
-  
-  
-CONTRATTO COLLETTIVO 4 GENNAIO 1954 PER I DIPENDENTI DELLE AZIENDE ARTIGIANE ESERCENTI L'ATTIVITA' DI PULIZIA NELLA PROVINCIA DI FIRENZE, ESCLUSO IL MANDAMENTO DI PRATO   
-  
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=062U121800100010110019&dgu=1962-08-21&art.dataPubblicazioneGazzetta=1962-08-21&art.codiceRedazionale=062U1218)
-  
+GRONCHI FANFANI - SULLO Visto, il Guardasigilli: BOSCO Registrato alla Corte dei conti, addi' 16 luglio 1962 Atti del Governo, registro n. 156, foglio n. 34. - VILLA

@@ -1,22 +1,22 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 04 settembre 1969 n. 724
-
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 04 settembre 1969 n. 724
-================================================================
-
-Modificazioni allo statuto dell'Universita' degli studi di Pisa.
-----------------------------------------------------------------
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 724
+data: 1969-09-04
+titolo: "Modificazioni allo statuto dell'Universita' degli studi di Pisa."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1969-09-04;724
+codice_redazionale: 069U0724
+vigente: true
+---
 
 IL PRESIDENTE DELLA REPUBBLICA
-------------------------------
 
-Veduto lo statuto dell'Universita' degli studi di Pisa, approvato con [regio decreto 14 ottobre 1926, n. 2278](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2278) e modificato con [regio decreto 13 ottobre 1927, n. 2225](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2225), e successive modificazioni;
+Veduto lo statuto dell'Universita' degli studi di Pisa, approvato con [regio decreto 14 ottobre 1926, n. 2278](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20dello%20statuto%20della%20Regia%20universita%20di%20Pisa.%20026U2278.md) e modificato con [regio decreto 13 ottobre 1927, n. 2225](../Atti%20normativi%20abrogati%20%28in%20originale%29/Modificazioni%20allo%20statuto%20della%20Regia%20universita%20di%20Pisa.%20027U2225.md), e successive modificazioni;
 
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20R.%20decreto-legge%2020%20giugno%201935-XIII%20n.%201071%20contenente%20modifiche%20ed%20aggiornamenti%20al%20testo%20unico%20delle%20leggi%20sullistruzione%20superiore.%20036U0073.md);
 
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
+Veduto il [regio decreto 30 settembre 1938, n. 1652](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disposizioni%20sullordinamento%20didattico%20universitario.%20038U1652.md), e successive modificazioni;
 
 Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;
 
@@ -46,44 +46,32 @@ FERRARI AGGRADI
 
 Visto, il Guardasigilli: GAVA
 
-Registrato
-----------
+Registrato alla Corte dei conti, addi' 27 ottobre 1969 Atti del Governo, registro n. 229, foglio n. 141. - CARUSO
 
-alla Corte dei conti, addi' 27 ottobre 1969 Atti del Governo, registro n. 229, foglio n. 141. - CARUSO
+## Art. 1.
 
-Art. 1
-------
+IL PRESIDENTE DELLA REPUBBLICA
 
- IL PRESIDENTE DELLA REPUBBLICA  
-  
-Veduto lo statuto dell'Universita' degli studi di Pisa, approvato con [regio decreto 14 ottobre 1926, n. 2278](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2278) e modificato con [regio decreto 13 ottobre 1927, n. 2225](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2225), e successive modificazioni;  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;  
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
-Sentito il parere del Consiglio superiore della pubblica istruzione;  
-Sulla proposta del Ministro per la pubblica istruzione  
-  
-Decreta:  
-  
-Lo statuto dell'universita' degli studi di Pisa approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
-  
-L'ordinamento della scuola speciale per archeologi preistorici, classici e medioevalisti e' modificato nel senso che il primo comma dell'art. 157 e l'ultimo comma dell'art. 161 sono abrogati e sostituiti dai seguenti:  
-  
-Art. 157 (primo comma). - "Possono iscriversi alla scuola, speciale: i laureati in lettere e filosofia, gli studenti della stessa facolta' che abbiano compiuto il secondo anno del corso di laurea in lettere o del corso di laurea in filosofia, e ne abbiano superato tutti gli esami consigliati, nonche', limitatamente all'indirizzo preistorico, i laureati in scienze naturali e in scienze geologiche e gli studenti che abbiano compiuto il secondo anno del corso in geologia e ne abbiano superato tutti gli esami consigliati".  
-Art. 161 (ultimo comma). - "Nel biennio di studi e' previsto un periodo minimo di due mesi riservato a un servizio volontario prestato dagli iscritti presso una soprintendenza alle antichita' per gli archeologi preistorici e classici, o, per gli archeologi medioevalisti, presso una soprintendenza ai monumenti e alle gallerie".  
-  
+ Veduto lo statuto dell'Universita' degli studi di Pisa, approvato con [regio decreto 14 ottobre 1926, n. 2278](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20dello%20statuto%20della%20Regia%20universita%20di%20Pisa.%20026U2278.md) e modificato con [regio decreto 13 ottobre 1927, n. 2225](../Atti%20normativi%20abrogati%20%28in%20originale%29/Modificazioni%20allo%20statuto%20della%20Regia%20universita%20di%20Pisa.%20027U2225.md), e successive modificazioni;
+ Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+ Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20R.%20decreto-legge%2020%20giugno%201935-XIII%20n.%201071%20contenente%20modifiche%20ed%20aggiornamenti%20al%20testo%20unico%20delle%20leggi%20sullistruzione%20superiore.%20036U0073.md);
+ Veduto il [regio decreto 30 settembre 1938, n. 1652](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disposizioni%20sullordinamento%20didattico%20universitario.%20038U1652.md), e successive modificazioni;
+ Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;
+ Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
+ Sentito il parere del Consiglio superiore della pubblica istruzione;
+ Sulla proposta del Ministro per la pubblica istruzione
+
+ Decreta:
+
+ Lo statuto dell'universita' degli studi di Pisa approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+
+ L'ordinamento della scuola speciale per archeologi preistorici, classici e medioevalisti e' modificato nel senso che il primo comma dell'art. 157 e l'ultimo comma dell'art. 161 sono abrogati e sostituiti dai seguenti:
+
+ Art. 157 (primo comma). - "Possono iscriversi alla scuola, speciale: i laureati in lettere e filosofia, gli studenti della stessa facolta' che abbiano compiuto il secondo anno del corso di laurea in lettere o del corso di laurea in filosofia, e ne abbiano superato tutti gli esami consigliati, nonche', limitatamente all'indirizzo preistorico, i laureati in scienze naturali e in scienze geologiche e gli studenti che abbiano compiuto il secondo anno del corso in geologia e ne abbiano superato tutti gli esami consigliati".
+ Art. 161 (ultimo comma). - "Nel biennio di studi e' previsto un periodo minimo di due mesi riservato a un servizio volontario prestato dagli iscritti presso una soprintendenza alle antichita' per gli archeologi preistorici e classici, o, per gli archeologi medioevalisti, presso una soprintendenza ai monumenti e alle gallerie".
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 4 settembre 1969
+Dato a Roma, addi' 4 settembre 1969
 
-SARAGAT FERRARI AGGRADI
-
-Visto, il Guardasigilli: GAVA
-
-Registrato alla Corte dei conti, addi' 27 ottobre 1969
-
-Atti del Governo, registro n. 229, foglio n. 141. - CARUSO
+SARAGAT FERRARI AGGRADI Visto, il Guardasigilli: GAVA Registrato alla Corte dei conti, addi' 27 ottobre 1969 Atti del Governo, registro n. 229, foglio n. 141. - CARUSO

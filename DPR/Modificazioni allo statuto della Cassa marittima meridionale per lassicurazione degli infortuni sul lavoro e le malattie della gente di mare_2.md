@@ -1,19 +1,21 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 marzo 1961 n. 460
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 460
+data: 1961-03-31
+titolo: "Modificazioni allo statuto della Cassa marittima meridionale per l'assicurazione degli infortuni sul lavoro e le malattie della gente di mare."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1961-03-31;460
+codice_redazionale: 061U0460
+vigente: true
+---
 
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 marzo 1961 n. 460
-============================================================
-
-Modificazioni allo statuto della Cassa marittima meridionale per l'assicurazione degli infortuni sul lavoro e le malattie della gente di mare.
-----------------------------------------------------------------------------------------------------------------------------------------------
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-460. Decreto del Presidente della Repubblica 31 marzo 1961, col quale, sulla proposta del Ministro per il lavoro e la previdenza sociale, di concerto con il Ministro per la marina mercantile, viene ulteriormente modificato lo statuto della Cassa marittima meridionale per l'assicurazione degli infortuni e le malattie della gente di mare.  
-  
-Visto, il Guardasigilli: GONELLA  
-Registrato alla Corte dei conti, addi' 3 giugno 1961  
-Atti del Governo, registro n. 137, foglio n. 2. - VILLA
+460.
+
+Decreto del Presidente della Repubblica 31 marzo 1961, col quale, sulla proposta del Ministro per il lavoro e la previdenza sociale, di concerto con il Ministro per la marina mercantile, viene ulteriormente modificato lo statuto della Cassa marittima meridionale per l'assicurazione degli infortuni e le malattie della gente di mare.
+
+Visto, il Guardasigilli: GONELLA
+ Registrato alla Corte dei conti, addi' 3 giugno 1961
+ Atti del Governo, registro n. 137, foglio n. 2. - VILLA

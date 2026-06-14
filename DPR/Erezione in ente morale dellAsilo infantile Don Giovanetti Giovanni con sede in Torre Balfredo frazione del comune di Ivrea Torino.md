@@ -1,19 +1,21 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 07 dicembre 1958 n. 1250
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 1250
+data: 1958-12-07
+titolo: "Erezione in ente morale dell'Asilo infantile \"Don Giovanetti Giovanni\", con sede in Torre Balfredo, frazione del comune di Ivrea (Torino)."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1958-12-07;1250
+codice_redazionale: 058U1250
+vigente: true
+---
 
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 07 dicembre 1958 n. 1250
-================================================================
-
-Erezione in ente morale dell'Asilo infantile "Don Giovanetti Giovanni", con sede in Torre Balfredo, frazione del comune di Ivrea (Torino).
-------------------------------------------------------------------------------------------------------------------------------------------
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-1250. Decreto del Presidente della Repubblica 7 dicembre 1958, col quale, sulla proposta del Ministro per l'interno, l'Asilo infantile "Don Giovanetti Giovanni", con sede in Torre Balfredo, frazione del comune di Ivrea (Torino), viene eretto in ente morale e ne viene approvato lo statuto organico.  
-  
-Visto, il Guardasigilli: GONELLA  
-Registrato alla Corte del conti, addi' 8 febbraio 1959  
-Atti del Governo, registro n. 116, foglio n. 63. - RELLEVA
+1250.
+
+Decreto del Presidente della Repubblica 7 dicembre 1958, col quale, sulla proposta del Ministro per l'interno, l'Asilo infantile "Don Giovanetti Giovanni", con sede in Torre Balfredo, frazione del comune di Ivrea (Torino), viene eretto in ente morale e ne viene approvato lo statuto organico.
+
+Visto, il Guardasigilli: GONELLA
+ Registrato alla Corte del conti, addi' 8 febbraio 1959
+ Atti del Governo, registro n. 116, foglio n. 63. - RELLEVA

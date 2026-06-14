@@ -1,22 +1,22 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 22 marzo 1961 n. 196
-
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 22 marzo 1961 n. 196
-============================================================
-
-Modificazione allo statuto dell'Istituto superiore di magistero di Salerno.
----------------------------------------------------------------------------
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 196
+data: 1961-03-22
+titolo: "Modificazione allo statuto dell'Istituto superiore di magistero di Salerno."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1961-03-22;196
+codice_redazionale: 061U0196
+vigente: true
+---
 
 IL PRESIDENTE DELLA REPUBBLICA
-------------------------------
 
-Veduto lo statuto dell'Istituto superiore di magistero "C. Cuomo" di Salerno, approvato con [decreto del Presidente della Repubblica 9 ottobre 1951, n. 1300](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-10-09;1300), e modificato con [decreto del Presidente della Repubblica 4 febbraio 1955, n. 124](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1955-02-04;124), e successivi;
+Veduto lo statuto dell'Istituto superiore di magistero "C. Cuomo" di Salerno, approvato con [decreto del Presidente della Repubblica 9 ottobre 1951, n. 1300](Approvazione%20del%20nuovo%20statuto%20dellIstituto%20universitario%20di%20magistero%20G.%20Cuomo%20di%20Salerno.md), e modificato con [decreto del Presidente della Repubblica 4 febbraio 1955, n. 124](Modificazioni%20allo%20statuto%20dellIstituto%20universitario%20di%20magistero%20G.%20Cuomo%20di%20Salerno.md), e successivi;
 
-Veduto il testo unico delle leggi sull'istruzione superiore approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+Veduto il testo unico delle leggi sull'istruzione superiore approvato con [regio decreto 31 agosto 1933, n. 1592](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20R.%20decreto-legge%2020%20giugno%201935-XIII%20n.%201071%20contenente%20modifiche%20ed%20aggiornamenti%20al%20testo%20unico%20delle%20leggi%20sullistruzione%20superiore.%20036U0073.md);
 
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
+Veduto il [regio decreto 30 settembre 1938, n. 1652](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disposizioni%20sullordinamento%20didattico%20universitario.%20038U1652.md), e successive modificazioni;
 
 Veduta la proposta di modifiche dello statuto formulata dalle autorita' accademiche dell'Istituto anzidetto, intesa ad ottenere la soppressione del comma terzo dell'art. 1 dello statuto, che limita l'ammissione all'Istituto solamente alla popolazione scolastica maschile;
 
@@ -24,28 +24,14 @@ Udito il parere della Sezione prima del Consiglio superiore della pubblica istru
 
 Riconosciuta la necessita' di accogliere la predetta proposta, in considerazione delle particolari e vive esigenze della popolazione scolastica femminile in rapporto alla distribuzione territoriale degli Istituti superiori di magistero, nell'Italia meridionale;
 
-Sulla
------
+Sulla proposta del Ministro per la pubblica istruzione; Decreta:
 
-proposta del Ministro per la pubblica istruzione; Decreta:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-Il comma terzo dell'art. 1 dello statuto dell'Istituto superiore di magistero di Salerno, approvato e modificato con i decreti suindicati, e' abrogato.  
-  
+Il comma terzo dell'art. 1 dello statuto dell'Istituto superiore di magistero di Salerno, approvato e modificato con i decreti suindicati, e' abrogato.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma addi' 22 marzo 1961
+Dato a Roma addi' 22 marzo 1961
 
-GRONCHI BOSCO
-
-Visto, il Guardasigilli: GONELLA
-
-Registrato alla Corte dei conti, addi' 6 aprile 1961
-
-Atti del Governo, registro n. 136, foglio n. 8. - VILLA
+GRONCHI BOSCO Visto, il Guardasigilli: GONELLA Registrato alla Corte dei conti, addi' 6 aprile 1961 Atti del Governo, registro n. 136, foglio n. 8. - VILLA

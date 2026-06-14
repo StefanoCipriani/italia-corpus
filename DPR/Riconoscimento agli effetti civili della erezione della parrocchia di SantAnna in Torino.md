@@ -1,18 +1,20 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 22 gennaio 1948 n. 233
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 233
+data: 1948-01-22
+titolo: "Riconoscimento, agli effetti civili, della erezione della parrocchia di Sant'Anna, in Torino."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1948-01-22;233
+codice_redazionale: 048U0233
+vigente: true
+---
 
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 22 gennaio 1948 n. 233
-==============================================================
-
-Riconoscimento, agli effetti civili, della erezione della parrocchia di Sant'Anna, in Torino.
----------------------------------------------------------------------------------------------
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-233. Decreto del Presidente della Repubblica 22 gennaio 1945, col quale, sulla, proposta del Ministro per l'interno, viene riconosciuto, agli effetti civili, il decreto del Cardinale Arcivescovo di Torino in data 25 novembre 1946, integrato con postilla 18 dicembre stesso anno, relativo all'erezione della parrocchia di Sant'Anna, in Torino.  
-  
-Visto, il Guardasigilli: GRASSI  
-Registrato alla Corte dei conti, addi' 3 aprile 1948
+233.
+
+Decreto del Presidente della Repubblica 22 gennaio 1945, col quale, sulla, proposta del Ministro per l'interno, viene riconosciuto, agli effetti civili, il decreto del Cardinale Arcivescovo di Torino in data 25 novembre 1946, integrato con postilla 18 dicembre stesso anno, relativo all'erezione della parrocchia di Sant'Anna, in Torino.
+
+Visto, il Guardasigilli: GRASSI
+ Registrato alla Corte dei conti, addi' 3 aprile 1948

@@ -1,19 +1,19 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 08 febbraio 1982 n. 100
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 1006
+data: 1981-12-11
+titolo: "Autorizzazione alla fondazione \"Pro juventute don Carlo Gnocchi\" in Roma ad accettare un legato."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1981-12-11;1006
+codice_redazionale: 081U1006
+vigente: true
+---
 
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 08 febbraio 1982 n. 100
-===============================================================
-
-Autorizzazione alla fondazione "Pro juventute don Carlo Gnocchi", in Roma, ad accettare un legato.
---------------------------------------------------------------------------------------------------
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-100. Decreto del Presidente della Repubblica 8 febbraio 1982, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la fondazione "Pro juventute don Carlo Gnocchi", in Roma, viene autorizzata ad accettare il legato, consistente in un negozio sito in Milano, via G. Pascoli n. 18, distinto nel nuovo catasto edilizio urbano alla partita 64183, foglio 317, mappale 364 sub 1, del valore attribuito di L. 22.000.000 elevato dall'ufficio tecnico erariale di Milano a lire 45.750.000, disposto dalla sig.ra Lucia Ortensia Duilia Ferradini ved. Soresina con testamento olografo 30 ottobre 1972, pubblicato a rogito dott. Gaudenzio Traspadini, notaio in Milano, il 22 marzo 1979, numero 23440/3298 di repertorio, registrato a Milano in data 26 marzo 1979 al n. A/4-08039/71 MN.  
-  
-Visto, il Guardasigilli: DARIDA  
-Registrato alla Corte dei conti, addi' 20 marzo 1982  
-Registro n. 3 Presidenza, foglio n. 53
+1006.
+
+Decreto del Presidente della Repubblica 11 dicembre 1981, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la fondazione "Pro juventute don Carlo Gnocchi", in Roma, viene autorizzata ad accettare il legato, consistente in titoli obbligazionari IRI del valore di L. 10.000.000, disposto a favore dalla sig.ra Cantini Elisabetta ved. Bardelstein a favore dei mutilatini di don Gnocchi con testamento olografo del 25 luglio 1976 pubblicato a rogito dottor Gianfranco Franchini, notaio in Milano, il 28 gennaio 1977, n. 63651 di repertorio, registrato a Milano il 10 febbraio 1977, al n. 01795 serie D.
+
+Visto, il Guardasigilli: DARIDA

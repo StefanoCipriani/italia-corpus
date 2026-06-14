@@ -1,19 +1,21 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 11 giugno 1971 n. 759
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 759
+data: 1971-06-11
+titolo: "Erezione in ente morale dell'associazione \"Pro senectute\", con sede in Luserna S. Giovanni."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1971-06-11;759
+codice_redazionale: 071U0759
+vigente: true
+---
 
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 11 giugno 1971 n. 759
-=============================================================
-
-Erezione in ente morale dell'associazione "Pro senectute", con sede in Luserna S. Giovanni.
--------------------------------------------------------------------------------------------
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-759. Decreto del Presidente della Repubblica 11 giugno 1971, col quale, sulla proposta del Ministro per l'interno, l'associazione "Pro senectute", con sede in Luserna S. Giovanni (Torino), viene eretta in ente morale e ne viene approvato lo statuto.  
-  
-Visto, il Guardasigilli: COLOMBO  
-Registrato alla Corte dei conti, addi' 1 settembre 1971  
-Atti del Governo, registro n. 244, foglio n. 75. - PASQUALUCCI
+759.
+
+Decreto del Presidente della Repubblica 11 giugno 1971, col quale, sulla proposta del Ministro per l'interno, l'associazione "Pro senectute", con sede in Luserna S. Giovanni (Torino), viene eretta in ente morale e ne viene approvato lo statuto.
+
+Visto, il Guardasigilli: COLOMBO
+ Registrato alla Corte dei conti, addi' 1 settembre 1971
+ Atti del Governo, registro n. 244, foglio n. 75. - PASQUALUCCI

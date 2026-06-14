@@ -1,19 +1,21 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 09 dicembre 1958 n. 1261
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 1261
+data: 1958-12-09
+titolo: "Riconoscimento della personalita' giuridica dell'Ente denominato \"Comitato costruzione nuove Chiese parrocchiali della Diocesi di Milano\", con sede in Milano."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1958-12-09;1261
+codice_redazionale: 058U1261
+vigente: true
+---
 
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 09 dicembre 1958 n. 1261
-================================================================
-
-Riconoscimento della personalita' giuridica dell'Ente denominato "Comitato costruzione nuove Chiese parrocchiali della Diocesi di Milano", con sede in Milano.
---------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-1261. Decreto del Presidente della Repubblica 9 dicembre 1958, col quale, sulla proposta del Ministro per l'interno, viene riconosciuta la personalita' giuridica dell'Ente denominato "Comitato costruzione nuove Chiese parrocchiali della Diocesi di Milano", con sede in Milano, e ne viene approvato lo statuto.  
-  
-Visto, il Guardasigilli: GONELLA  
-Registrato alla Corte dei conti, addi' 18 febbraio 1959  
-Atti del Governo, registro n. 116, foglio n. 113. - RELLEVA
+1261.
+
+Decreto del Presidente della Repubblica 9 dicembre 1958, col quale, sulla proposta del Ministro per l'interno, viene riconosciuta la personalita' giuridica dell'Ente denominato "Comitato costruzione nuove Chiese parrocchiali della Diocesi di Milano", con sede in Milano, e ne viene approvato lo statuto.
+
+Visto, il Guardasigilli: GONELLA
+ Registrato alla Corte dei conti, addi' 18 febbraio 1959
+ Atti del Governo, registro n. 116, foglio n. 113. - RELLEVA

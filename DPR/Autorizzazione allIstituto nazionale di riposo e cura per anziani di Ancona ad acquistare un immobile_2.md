@@ -1,19 +1,21 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 03 settembre 1974 n. 532
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 487
+data: 1974-02-12
+titolo: "Autorizzazione all'Istituto nazionale di riposo e cura per anziani di Ancona ad acquistare un immobile."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1974-02-12;487
+codice_redazionale: 074U0487
+vigente: true
+---
 
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 03 settembre 1974 n. 532
-================================================================
-
-Autorizzazione all'Istituto nazionale di riposo e cura per anziani di Ancona ad acquistare un immobile.
--------------------------------------------------------------------------------------------------------
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-532. Decreto del Presidente della Repubblica 3 settembre 1974, col quale, sulla proposta del Ministro per la sanita', l'Istituto nazionale di riposo e cura per anziani di Ancona viene autorizzato ad acquistare l'appezzamento di terreno di mq. 15.000 sito in Roma, via Cassia n. 1169, distinto in catasto ai fogli 205 e 202, particella 55, intestato alla ditta Sansoni-De Angelis, al prezzo di L. 13.200 al mq.   
-  
-Visto, il Guardasigilli: ZAGARI   
-Registrato alla Corte dei conti, addi' 26 ottobre 1974   
-Atti di Governo, registro n. 6, foglio n. 39. - SCIARRETTA
+487.
+
+Decreto del Presidente della Repubblica 12 febbraio 1974, col quale, sulla proposta del Ministro per la sanita', l'Istituto nazionale di riposo e cura per anziani di Ancona viene autorizzato ad acquistare, al prezzo di L. 250.000.000, uno stabile sito in Roma, via Antonio Musa n. 10, distinto alla zona B 2 del vigente nuovo piano regolatore di Roma, per adibirlo a propria sede legale con relativi uffici e per destinare i rimanenti locali all'occupazione da parte del centro geriatrico di Roma, dipendente dall'ente medesimo. 
+ 
+Visto, il Guardasigilli: ZAGARI 
+ Registrato alla Corte dei conti, addi' 7 ottobre 1974 
+ Atti di Governo, registro n. 6, foglio n. 3. - SCIARRETTA

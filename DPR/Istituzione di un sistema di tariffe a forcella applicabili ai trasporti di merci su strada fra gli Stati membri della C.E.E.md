@@ -1,74 +1,69 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 29 dicembre 1969 n. 1228
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 1228
+data: 1969-12-29
+titolo: "Istituzione di un sistema di tariffe a forcella applicabili ai trasporti di merci su strada fra gli Stati membri della C.E.E."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1969-12-29;1228
+codice_redazionale: 069U1228
+vigente: true
+---
 
+### Art. 1.
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 29 dicembre 1969 n. 1228
-================================================================
+((PROVVEDIMENTO ABROGATO DAL [D.L. 25 GIUGNO 2008 N. 112](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2008-06-25;112), CONVERTITO CON MODIFICAZIONI, DALLA [L. 6 AGOSTO 2008 N. 133](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2025%20giugno%202008%20n.%20112%20recante%20disposizioni%20urgenti%20per%20lo%20sviluppo%20economico%20la%20semplificazione%20la%20competitivita%20la%20stabilizzazion_29f97015e2f4.md)))
 
-Istituzione di un sistema di tariffe a forcella applicabili ai trasporti di merci su strada fra gli Stati membri della C.E.E.
------------------------------------------------------------------------------------------------------------------------------
+### Art. 2.
 
-CAPO I
-------
+((PROVVEDIMENTO ABROGATO DAL [D.L. 25 GIUGNO 2008 N. 112](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2008-06-25;112), CONVERTITO CON MODIFICAZIONI, DALLA [L. 6 AGOSTO 2008 N. 133](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2025%20giugno%202008%20n.%20112%20recante%20disposizioni%20urgenti%20per%20lo%20sviluppo%20economico%20la%20semplificazione%20la%20competitivita%20la%20stabilizzazion_29f97015e2f4.md)))
 
-### Art. 1
+### Art. 3.
 
-((PROVVEDIMENTO ABROGATO DAL [D.L. 25 GIUGNO 2008 N. 112](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2008-06-25;112), CONVERTITO CON MODIFICAZIONI, DALLA [L. 6 AGOSTO 2008 N. 133](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2008-08-06;133)))  
+((PROVVEDIMENTO ABROGATO DAL [D.L. 25 GIUGNO 2008 N. 112](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2008-06-25;112), CONVERTITO CON MODIFICAZIONI, DALLA [L. 6 AGOSTO 2008 N. 133](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2025%20giugno%202008%20n.%20112%20recante%20disposizioni%20urgenti%20per%20lo%20sviluppo%20economico%20la%20semplificazione%20la%20competitivita%20la%20stabilizzazion_29f97015e2f4.md)))
 
-### Art. 2
+### Art. 4.
 
-((PROVVEDIMENTO ABROGATO DAL [D.L. 25 GIUGNO 2008 N. 112](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2008-06-25;112), CONVERTITO CON MODIFICAZIONI, DALLA [L. 6 AGOSTO 2008 N. 133](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2008-08-06;133)))  
+((PROVVEDIMENTO ABROGATO DAL [D.L. 25 GIUGNO 2008 N. 112](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2008-06-25;112), CONVERTITO CON MODIFICAZIONI, DALLA [L. 6 AGOSTO 2008 N. 133](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2025%20giugno%202008%20n.%20112%20recante%20disposizioni%20urgenti%20per%20lo%20sviluppo%20economico%20la%20semplificazione%20la%20competitivita%20la%20stabilizzazion_29f97015e2f4.md)))
 
-### Art. 3
+### Art. 5.
 
-((PROVVEDIMENTO ABROGATO DAL [D.L. 25 GIUGNO 2008 N. 112](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2008-06-25;112), CONVERTITO CON MODIFICAZIONI, DALLA [L. 6 AGOSTO 2008 N. 133](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2008-08-06;133)))  
+((PROVVEDIMENTO ABROGATO DAL [D.L. 25 GIUGNO 2008 N. 112](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2008-06-25;112), CONVERTITO CON MODIFICAZIONI, DALLA [L. 6 AGOSTO 2008 N. 133](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2025%20giugno%202008%20n.%20112%20recante%20disposizioni%20urgenti%20per%20lo%20sviluppo%20economico%20la%20semplificazione%20la%20competitivita%20la%20stabilizzazion_29f97015e2f4.md)))
 
-### Art. 4
+### Art. 6.
 
-((PROVVEDIMENTO ABROGATO DAL [D.L. 25 GIUGNO 2008 N. 112](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2008-06-25;112), CONVERTITO CON MODIFICAZIONI, DALLA [L. 6 AGOSTO 2008 N. 133](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2008-08-06;133)))  
+((PROVVEDIMENTO ABROGATO DAL [D.L. 25 GIUGNO 2008 N. 112](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2008-06-25;112), CONVERTITO CON MODIFICAZIONI, DALLA [L. 6 AGOSTO 2008 N. 133](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2025%20giugno%202008%20n.%20112%20recante%20disposizioni%20urgenti%20per%20lo%20sviluppo%20economico%20la%20semplificazione%20la%20competitivita%20la%20stabilizzazion_29f97015e2f4.md)))
 
-### Art. 5
+### Art. 7.
 
-((PROVVEDIMENTO ABROGATO DAL [D.L. 25 GIUGNO 2008 N. 112](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2008-06-25;112), CONVERTITO CON MODIFICAZIONI, DALLA [L. 6 AGOSTO 2008 N. 133](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2008-08-06;133)))  
+((PROVVEDIMENTO ABROGATO DAL [D.L. 25 GIUGNO 2008 N. 112](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2008-06-25;112), CONVERTITO CON MODIFICAZIONI, DALLA [L. 6 AGOSTO 2008 N. 133](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2025%20giugno%202008%20n.%20112%20recante%20disposizioni%20urgenti%20per%20lo%20sviluppo%20economico%20la%20semplificazione%20la%20competitivita%20la%20stabilizzazion_29f97015e2f4.md)))
 
-### Art. 6
+### Art. 8.
 
-((PROVVEDIMENTO ABROGATO DAL [D.L. 25 GIUGNO 2008 N. 112](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2008-06-25;112), CONVERTITO CON MODIFICAZIONI, DALLA [L. 6 AGOSTO 2008 N. 133](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2008-08-06;133)))  
+((PROVVEDIMENTO ABROGATO DAL [D.L. 25 GIUGNO 2008 N. 112](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2008-06-25;112), CONVERTITO CON MODIFICAZIONI, DALLA [L. 6 AGOSTO 2008 N. 133](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2025%20giugno%202008%20n.%20112%20recante%20disposizioni%20urgenti%20per%20lo%20sviluppo%20economico%20la%20semplificazione%20la%20competitivita%20la%20stabilizzazion_29f97015e2f4.md)))
 
-### Art. 7
+### Art. 9.
 
-((PROVVEDIMENTO ABROGATO DAL [D.L. 25 GIUGNO 2008 N. 112](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2008-06-25;112), CONVERTITO CON MODIFICAZIONI, DALLA [L. 6 AGOSTO 2008 N. 133](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2008-08-06;133)))  
+((PROVVEDIMENTO ABROGATO DAL [D.L. 25 GIUGNO 2008 N. 112](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2008-06-25;112), CONVERTITO CON MODIFICAZIONI, DALLA [L. 6 AGOSTO 2008 N. 133](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2025%20giugno%202008%20n.%20112%20recante%20disposizioni%20urgenti%20per%20lo%20sviluppo%20economico%20la%20semplificazione%20la%20competitivita%20la%20stabilizzazion_29f97015e2f4.md)))
 
-CAPO II
--------
+### Art. 10.
 
-### Art. 8
+((PROVVEDIMENTO ABROGATO DAL [D.L. 25 GIUGNO 2008 N. 112](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2008-06-25;112), CONVERTITO CON MODIFICAZIONI, DALLA [L. 6 AGOSTO 2008 N. 133](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2025%20giugno%202008%20n.%20112%20recante%20disposizioni%20urgenti%20per%20lo%20sviluppo%20economico%20la%20semplificazione%20la%20competitivita%20la%20stabilizzazion_29f97015e2f4.md)))
 
-((PROVVEDIMENTO ABROGATO DAL [D.L. 25 GIUGNO 2008 N. 112](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2008-06-25;112), CONVERTITO CON MODIFICAZIONI, DALLA [L. 6 AGOSTO 2008 N. 133](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2008-08-06;133)))  
+### Art. 11.
 
-### Art. 9
+((PROVVEDIMENTO ABROGATO DAL [D.L. 25 GIUGNO 2008 N. 112](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2008-06-25;112), CONVERTITO CON MODIFICAZIONI, DALLA [L. 6 AGOSTO 2008 N. 133](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2025%20giugno%202008%20n.%20112%20recante%20disposizioni%20urgenti%20per%20lo%20sviluppo%20economico%20la%20semplificazione%20la%20competitivita%20la%20stabilizzazion_29f97015e2f4.md)))
 
-((PROVVEDIMENTO ABROGATO DAL [D.L. 25 GIUGNO 2008 N. 112](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2008-06-25;112), CONVERTITO CON MODIFICAZIONI, DALLA [L. 6 AGOSTO 2008 N. 133](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2008-08-06;133)))  
+### Art. 12.
 
-### Art. 10
+((PROVVEDIMENTO ABROGATO DAL [D.L. 25 GIUGNO 2008 N. 112](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2008-06-25;112), CONVERTITO CON MODIFICAZIONI, DALLA [L. 6 AGOSTO 2008 N. 133](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2025%20giugno%202008%20n.%20112%20recante%20disposizioni%20urgenti%20per%20lo%20sviluppo%20economico%20la%20semplificazione%20la%20competitivita%20la%20stabilizzazion_29f97015e2f4.md)))
 
-((PROVVEDIMENTO ABROGATO DAL [D.L. 25 GIUGNO 2008 N. 112](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2008-06-25;112), CONVERTITO CON MODIFICAZIONI, DALLA [L. 6 AGOSTO 2008 N. 133](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2008-08-06;133)))  
+### Art. 13.
 
-### Art. 11
+((PROVVEDIMENTO ABROGATO DAL [D.L. 25 GIUGNO 2008 N. 112](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2008-06-25;112), CONVERTITO CON MODIFICAZIONI, DALLA [L. 6 AGOSTO 2008 N. 133](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2025%20giugno%202008%20n.%20112%20recante%20disposizioni%20urgenti%20per%20lo%20sviluppo%20economico%20la%20semplificazione%20la%20competitivita%20la%20stabilizzazion_29f97015e2f4.md)))
 
-((PROVVEDIMENTO ABROGATO DAL [D.L. 25 GIUGNO 2008 N. 112](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2008-06-25;112), CONVERTITO CON MODIFICAZIONI, DALLA [L. 6 AGOSTO 2008 N. 133](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2008-08-06;133)))  
+### Art. 14.
 
-### Art. 12
+((PROVVEDIMENTO ABROGATO DAL [D.L. 25 GIUGNO 2008 N. 112](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2008-06-25;112), CONVERTITO CON MODIFICAZIONI, DALLA [L. 6 AGOSTO 2008 N. 133](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2025%20giugno%202008%20n.%20112%20recante%20disposizioni%20urgenti%20per%20lo%20sviluppo%20economico%20la%20semplificazione%20la%20competitivita%20la%20stabilizzazion_29f97015e2f4.md)))
 
-((PROVVEDIMENTO ABROGATO DAL [D.L. 25 GIUGNO 2008 N. 112](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2008-06-25;112), CONVERTITO CON MODIFICAZIONI, DALLA [L. 6 AGOSTO 2008 N. 133](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2008-08-06;133)))  
+### Art. 15.
 
-### Art. 13
-
-((PROVVEDIMENTO ABROGATO DAL [D.L. 25 GIUGNO 2008 N. 112](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2008-06-25;112), CONVERTITO CON MODIFICAZIONI, DALLA [L. 6 AGOSTO 2008 N. 133](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2008-08-06;133)))  
-
-### Art. 14
-
-((PROVVEDIMENTO ABROGATO DAL [D.L. 25 GIUGNO 2008 N. 112](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2008-06-25;112), CONVERTITO CON MODIFICAZIONI, DALLA [L. 6 AGOSTO 2008 N. 133](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2008-08-06;133)))  
-
-### Art. 15
-
-((PROVVEDIMENTO ABROGATO DAL [D.L. 25 GIUGNO 2008 N. 112](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2008-06-25;112), CONVERTITO CON MODIFICAZIONI, DALLA [L. 6 AGOSTO 2008 N. 133](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2008-08-06;133)))  
+((PROVVEDIMENTO ABROGATO DAL [D.L. 25 GIUGNO 2008 N. 112](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2008-06-25;112), CONVERTITO CON MODIFICAZIONI, DALLA [L. 6 AGOSTO 2008 N. 133](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2025%20giugno%202008%20n.%20112%20recante%20disposizioni%20urgenti%20per%20lo%20sviluppo%20economico%20la%20semplificazione%20la%20competitivita%20la%20stabilizzazion_29f97015e2f4.md)))

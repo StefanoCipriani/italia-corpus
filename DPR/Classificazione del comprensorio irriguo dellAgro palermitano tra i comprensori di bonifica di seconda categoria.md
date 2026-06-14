@@ -1,18 +1,18 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 gennaio 1949 n. 645
-
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 gennaio 1949 n. 645
-==============================================================
-
-Classificazione del comprensorio irriguo dell'Agro palermitano tra i comprensori di bonifica di seconda categoria.
-------------------------------------------------------------------------------------------------------------------
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 645
+data: 1949-01-31
+titolo: "Classificazione del comprensorio irriguo dell'Agro palermitano tra i comprensori di bonifica di seconda categoria."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1949-01-31;645
+codice_redazionale: 049U0645
+vigente: true
+---
 
 IL PRESIDENTE DELLA REPUBBLICA
-------------------------------
 
-Visto l'[art. 2 del decreto legislativo Presidenziale 22 giugno 1946, n. 40](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto.legislativo:1946-06-22;40~art2);
+Visto l'[art. 2 del decreto legislativo Presidenziale 22 giugno 1946, n. 40](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto.legislativo:1946-06-22;40#art_2);
 
-Ritenuta l'opportunita' di procedere alla classifica del territorio dell'Agro palermitano tra i comprensori di bonifica di seconda categoria, ai sensi e per gli effetti del [regio decreto 13 febbraio 1933, n. 215](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-02-13;215);
+Ritenuta l'opportunita' di procedere alla classifica del territorio dell'Agro palermitano tra i comprensori di bonifica di seconda categoria, ai sensi e per gli effetti del [regio decreto 13 febbraio 1933, n. 215](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-02-13;215);
 
 Visti gli atti predisposti dall'Ente di colonizzazione del latifondo siciliano;
 
@@ -22,28 +22,14 @@ Considerato che detto territorio, ricadente in provincia di Palermo, e' delimita
 
 Ritenuto che sussistono le condizioni previste dal citato art. 2 per provvedere alla classifica del territorio anzidetto;
 
-Sulla
------
+Sulla proposta del Ministro per l'agricoltura e per le foreste, di concerto con i Ministri per il tesoro e per i lavori pubblici; Decreta:
 
-proposta del Ministro per l'agricoltura e per le foreste, di concerto con i Ministri per il tesoro e per i lavori pubblici; Decreta:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-Il comprensorio irriguo dell'Agro palermitano e' classificato tra i comprensori di bonifica di seconda categoria.  
-  
+Il comprensorio irriguo dell'Agro palermitano e' classificato tra i comprensori di bonifica di seconda categoria.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 31 gennaio 1949
+Dato a Roma, addi' 31 gennaio 1949
 
-EINAUDI SEGNI - PELLA - TUPINI
-
-Visto, il Guardasigilli: GRASSI
-
-Registrato alla Corte dei conti, addi' 17 settembre 1949
-
-Atti del Governo, registro n. 29, foglio n. 150. - FRASCA
+EINAUDI SEGNI - PELLA - TUPINI Visto, il Guardasigilli: GRASSI Registrato alla Corte dei conti, addi' 17 settembre 1949 Atti del Governo, registro n. 29, foglio n. 150. - FRASCA

@@ -1,19 +1,21 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 maggio 1977 n. 379
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 379
+data: 1977-05-02
+titolo: "Approvazione del nuovo statuto dell'associazione provinciale allevatori di Macerata."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1977-05-02;379
+codice_redazionale: 077U0379
+vigente: true
+---
 
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 maggio 1977 n. 379
-=============================================================
-
-Approvazione del nuovo statuto dell'associazione provinciale allevatori di Macerata.
-------------------------------------------------------------------------------------
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-379. Decreto dei Presidente della Repubblica 2 maggio 1977, col quale, sulla proposta del Ministro per l'agricoltura e le foreste, viene approvato il nuovo statuto dell'associazione provinciale allevatori di Macerata, eretta in ente morale con [decreto del Presidente della Repubblica 19 marzo 1959, n. 264](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1959-03-19;264).  
-  
-Visto, il Guardasigilli: BONIFACIO  
-Registrato alla Corte dei conti, addi' 2 luglio 1977  
-Registro n. 12 Agricoltura, foglio n. 127
+379.
+
+Decreto dei Presidente della Repubblica 2 maggio 1977, col quale, sulla proposta del Ministro per l'agricoltura e le foreste, viene approvato il nuovo statuto dell'associazione provinciale allevatori di Macerata, eretta in ente morale con [decreto del Presidente della Repubblica 19 marzo 1959, n. 264](Riconoscimento%20della%20personalita%20giuridica%20dellAssociazione%20provinciale%20allevatori%20con%20sede%20in%20Macerata.md).
+
+Visto, il Guardasigilli: BONIFACIO
+ Registrato alla Corte dei conti, addi' 2 luglio 1977
+ Registro n. 12 Agricoltura, foglio n. 127

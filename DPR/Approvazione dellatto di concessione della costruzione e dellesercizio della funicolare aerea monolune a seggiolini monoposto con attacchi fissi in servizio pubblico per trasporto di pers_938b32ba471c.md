@@ -1,38 +1,30 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 18 ottobre 1955 n. 1529
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 1529
+data: 1955-10-18
+titolo: "Approvazione dell'atto di concessione della costruzione e dell'esercizio della funicolare aerea monolune a seggiolini monoposto con attacchi fissi in servizio pubblico per trasporto di persone da Recoaro Terme a Recoaro Mille."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1955-10-18;1529
+codice_redazionale: 055U1529
+vigente: true
+---
 
+## Art. 1.
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 18 ottobre 1955 n. 1529
-===============================================================
+IL PRESIDENTE DELLA REPUBBLICA
 
-Approvazione dell'atto di concessione della costruzione e dell'esercizio della funicolare aerea monolune a seggiolini monoposto con attacchi fissi in servizio pubblico per trasporto di persone da Recoaro Terme a Recoaro Mille.
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+ Vista la [legge 23 giugno 1927, n. 1110](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1927-06-23;1110);
+ Visto il [regio decreto-legge 24 novembre 1930, n. 1632](../Atti%20normativi%20abrogati%20%28in%20originale%29/Modificazioni%20alla%20legge%2023%20giugno%201927%20n.%201110%20sulle%20funicolari%20aeree%20e%20ascensori%20in%20servizio%20pubblico.%20030U1632.md), convertito nella [legge 17 aprile 1931, n. 526](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20R.%20decreto-legge%2024%20novembre%201930%20n.%201632%20concernente%20modificazioni%20alla%20legge%20sulle%20funicolari%20aeree%20ed%20ascensori%20in%20servizio%20pubblico.%20031U0526.md);
+ Visto il [regio decreto-legge 29 luglio 1938, n. 1121](../Atti%20normativi%20abrogati%20%28in%20originale%29/Unificazione%20del%20regime%20tributario%20per%20lautomobilismo%20industriale.%20038U1121.md);
+ Visto il testo unico delle disposizioni di legge per le ferrovie concesse all'industria privata, le tramvie a trazione meccanica e le automobili, approvato con [regio decreto 9 maggio 1912, n. 1447](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1912-05-09;1447), e successive modificazioni;
+ Visto il parere della Commissione per le funicolari aeree e terrestri;
+ Sulla proposta del Ministro per i trasporti;
 
-Art. 1
-------
+ Decreta:
 
- IL PRESIDENTE DELLA REPUBBLICA  
-  
-Vista la [legge 23 giugno 1927, n. 1110](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1927-06-23;1110);  
-Visto il [regio decreto-legge 24 novembre 1930, n. 1632](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1930-11-24;1632), convertito nella [legge 17 aprile 1931, n. 526](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1931-04-17;526);  
-Visto il [regio decreto-legge 29 luglio 1938, n. 1121](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1938-07-29;1121);  
-Visto il testo unico delle disposizioni di legge per le ferrovie concesse all'industria privata, le tramvie a trazione meccanica e le automobili, approvato con [regio decreto 9 maggio 1912, n. 1447](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1912-05-09;1447), e successive modificazioni;  
-Visto il parere della Commissione per le funicolari aeree e terrestri;  
-Sulla proposta del Ministro per i trasporti;  
-  
-Decreta:  
-  
-E' approvato e reso esecutorio l'atto capitolato stipulato il 9 settembre 1955 tra il delegato del Ministro per i trasporti in rappresentanza dello Stato e il rappresentante del comune di Recoaro Terme, per la concessione, a quest'ultimo, della costruzione e dell'esercizio della funicolare aerea monofune a seggiolini monoposto con attacchi fissi in servizio pubblico per trasporto di persone da Recoaro Terme a Recoaro Mille.  
-  
+ E' approvato e reso esecutorio l'atto capitolato stipulato il 9 settembre 1955 tra il delegato del Ministro per i trasporti in rappresentanza dello Stato e il rappresentante del comune di Recoaro Terme, per la concessione, a quest'ultimo, della costruzione e dell'esercizio della funicolare aerea monofune a seggiolini monoposto con attacchi fissi in servizio pubblico per trasporto di persone da Recoaro Terme a Recoaro Mille.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 18 ottobre 1955
+Dato a Roma, addi' 18 ottobre 1955
 
-GRONCHI ANGELINI
-
-Visto, il Guardasigilli: MORO
-
-Registrato alla Corte dei conti, addi' 15 marzo 1956
-
-Atti del Governo, registro n. 96, foglio n. 97. - CARLOMAGNO
+GRONCHI ANGELINI Visto, il Guardasigilli: MORO Registrato alla Corte dei conti, addi' 15 marzo 1956 Atti del Governo, registro n. 96, foglio n. 97. - CARLOMAGNO

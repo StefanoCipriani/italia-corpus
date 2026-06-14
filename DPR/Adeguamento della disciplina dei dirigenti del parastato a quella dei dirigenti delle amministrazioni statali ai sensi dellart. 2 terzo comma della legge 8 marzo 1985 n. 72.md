@@ -1,100 +1,81 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 05 dicembre 1987 n. 551
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 551
+data: 1987-12-05
+titolo: "Adeguamento della disciplina dei dirigenti del parastato a quella dei dirigenti delle amministrazioni statali, ai sensi dell'art. 2, terzo comma, della legge 8 marzo 1985, n. 72."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1987-12-05;551
+codice_redazionale: 087G0748
+vigente: true
+---
 
+## Art. 1.
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 05 dicembre 1987 n. 551
-===============================================================
+((IL D.LGS. 30 MARZO 2001, N. 165 HA CONFERMATO L'ABROGAZIONE DEL PRESENTE PROVVEDIMENTO))
 
-Adeguamento della disciplina dei dirigenti del parastato a quella dei dirigenti delle amministrazioni statali, ai sensi dell'art. 2, terzo comma, della legge 8 marzo 1985, n. 72.
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+## Art. 2.
 
-Entrata in vigore del decreto: 13/1/1988
+((IL D.LGS. 30 MARZO 2001, N. 165 HA CONFERMATO L'ABROGAZIONE DEL PRESENTE PROVVEDIMENTO))
 
-Art. 1
-------
+## Art. 3.
 
-((IL [D.LGS. 30 MARZO 2001, N. 165](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2001-03-30;165) HA CONFERMATO L'ABROGAZIONE DEL PRESENTE PROVVEDIMENTO))
+((IL D.LGS. 30 MARZO 2001, N. 165 HA CONFERMATO L'ABROGAZIONE DEL PRESENTE PROVVEDIMENTO))
 
-Art. 2
-------
+## Art. 4.
 
-((IL [D.LGS. 30 MARZO 2001, N. 165](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2001-03-30;165) HA CONFERMATO L'ABROGAZIONE DEL PRESENTE PROVVEDIMENTO))
+((IL D.LGS. 30 MARZO 2001, N. 165 HA CONFERMATO L'ABROGAZIONE DEL PRESENTE PROVVEDIMENTO))
 
-Art. 3
-------
+## Art. 5.
 
-((IL [D.LGS. 30 MARZO 2001, N. 165](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2001-03-30;165) HA CONFERMATO L'ABROGAZIONE DEL PRESENTE PROVVEDIMENTO))
+((IL D.LGS. 30 MARZO 2001, N. 165 HA CONFERMATO L'ABROGAZIONE DEL PRESENTE PROVVEDIMENTO))
 
-Art. 4
-------
+## Art. 6.
 
-((IL [D.LGS. 30 MARZO 2001, N. 165](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2001-03-30;165) HA CONFERMATO L'ABROGAZIONE DEL PRESENTE PROVVEDIMENTO))
+((IL D.LGS. 30 MARZO 2001, N. 165 HA CONFERMATO L'ABROGAZIONE DEL PRESENTE PROVVEDIMENTO))
 
-Art. 5
-------
+## Art. 7.
 
-((IL [D.LGS. 30 MARZO 2001, N. 165](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2001-03-30;165) HA CONFERMATO L'ABROGAZIONE DEL PRESENTE PROVVEDIMENTO))
+((IL D.LGS. 30 MARZO 2001, N. 165 HA CONFERMATO L'ABROGAZIONE DEL PRESENTE PROVVEDIMENTO))
 
-Art. 6
-------
+## Art. 8.
 
-((IL [D.LGS. 30 MARZO 2001, N. 165](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2001-03-30;165) HA CONFERMATO L'ABROGAZIONE DEL PRESENTE PROVVEDIMENTO))
+((IL D.LGS. 30 MARZO 2001, N. 165 HA CONFERMATO L'ABROGAZIONE DEL PRESENTE PROVVEDIMENTO))
 
-Art. 7
-------
+## Art. 9.
 
-((IL [D.LGS. 30 MARZO 2001, N. 165](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2001-03-30;165) HA CONFERMATO L'ABROGAZIONE DEL PRESENTE PROVVEDIMENTO))
+((IL D.LGS. 30 MARZO 2001, N. 165 HA CONFERMATO L'ABROGAZIONE DEL PRESENTE PROVVEDIMENTO))
 
-Art. 8
-------
+## Art. 10.
 
-((IL [D.LGS. 30 MARZO 2001, N. 165](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2001-03-30;165) HA CONFERMATO L'ABROGAZIONE DEL PRESENTE PROVVEDIMENTO))
+((IL D.LGS. 30 MARZO 2001, N. 165 HA CONFERMATO L'ABROGAZIONE DEL PRESENTE PROVVEDIMENTO))
 
-Art. 9
-------
+## Art. 11.
 
-((IL [D.LGS. 30 MARZO 2001, N. 165](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2001-03-30;165) HA CONFERMATO L'ABROGAZIONE DEL PRESENTE PROVVEDIMENTO))
+((IL D.LGS. 30 MARZO 2001, N. 165 HA CONFERMATO L'ABROGAZIONE DEL PRESENTE PROVVEDIMENTO))
 
-Art. 10
--------
+## Art. 12.
 
-((IL [D.LGS. 30 MARZO 2001, N. 165](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2001-03-30;165) HA CONFERMATO L'ABROGAZIONE DEL PRESENTE PROVVEDIMENTO))
+((IL D.LGS. 30 MARZO 2001, N. 165 HA CONFERMATO L'ABROGAZIONE DEL PRESENTE PROVVEDIMENTO))
 
-Art. 11
--------
+## Art. 13.
 
-((IL [D.LGS. 30 MARZO 2001, N. 165](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2001-03-30;165) HA CONFERMATO L'ABROGAZIONE DEL PRESENTE PROVVEDIMENTO))
+((IL D.LGS. 30 MARZO 2001, N. 165 HA CONFERMATO L'ABROGAZIONE DEL PRESENTE PROVVEDIMENTO))
 
-Art. 12
--------
+## Art. 14.
 
-((IL [D.LGS. 30 MARZO 2001, N. 165](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2001-03-30;165) HA CONFERMATO L'ABROGAZIONE DEL PRESENTE PROVVEDIMENTO))
+((IL D.LGS. 30 MARZO 2001, N. 165 HA CONFERMATO L'ABROGAZIONE DEL PRESENTE PROVVEDIMENTO))
 
-Art. 13
--------
+## Art. 15.
 
-((IL [D.LGS. 30 MARZO 2001, N. 165](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2001-03-30;165) HA CONFERMATO L'ABROGAZIONE DEL PRESENTE PROVVEDIMENTO))
+((IL D.LGS. 30 MARZO 2001, N. 165 HA CONFERMATO L'ABROGAZIONE DEL PRESENTE PROVVEDIMENTO))
 
-Art. 14
--------
+## Art. 16.
 
-((IL [D.LGS. 30 MARZO 2001, N. 165](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2001-03-30;165) HA CONFERMATO L'ABROGAZIONE DEL PRESENTE PROVVEDIMENTO))
+((IL D.LGS. 30 MARZO 2001, N. 165 HA CONFERMATO L'ABROGAZIONE DEL PRESENTE PROVVEDIMENTO))
 
-Art. 15
--------
+## Art. 17.
 
-((IL [D.LGS. 30 MARZO 2001, N. 165](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2001-03-30;165) HA CONFERMATO L'ABROGAZIONE DEL PRESENTE PROVVEDIMENTO))
+((IL D.LGS. 30 MARZO 2001, N. 165 HA CONFERMATO L'ABROGAZIONE DEL PRESENTE PROVVEDIMENTO))
 
-Art. 16
--------
+## Art. 18.
 
-((IL [D.LGS. 30 MARZO 2001, N. 165](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2001-03-30;165) HA CONFERMATO L'ABROGAZIONE DEL PRESENTE PROVVEDIMENTO))
-
-Art. 17
--------
-
-((IL [D.LGS. 30 MARZO 2001, N. 165](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2001-03-30;165) HA CONFERMATO L'ABROGAZIONE DEL PRESENTE PROVVEDIMENTO))
-
-Art. 18
--------
-
-((IL [D.LGS. 30 MARZO 2001, N. 165](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2001-03-30;165) HA CONFERMATO L'ABROGAZIONE DEL PRESENTE PROVVEDIMENTO))
+((IL D.LGS. 30 MARZO 2001, N. 165 HA CONFERMATO L'ABROGAZIONE DEL PRESENTE PROVVEDIMENTO))

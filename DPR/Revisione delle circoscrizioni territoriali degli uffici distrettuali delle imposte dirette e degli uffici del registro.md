@@ -1,77 +1,45 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 26 ottobre 1972 n. 644
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 644
+data: 1972-10-26
+titolo: "Revisione delle circoscrizioni territoriali degli uffici distrettuali delle imposte dirette e degli uffici del registro."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1972-10-26;644
+codice_redazionale: 072U0644
+vigente: true
+---
 
+## Art. 1.
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 26 ottobre 1972 n. 644
-==============================================================
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 26 MARZO 2001, N.107))
 
-Revisione delle circoscrizioni territoriali degli uffici distrettuali delle imposte dirette e degli uffici del registro.
-------------------------------------------------------------------------------------------------------------------------
+## Art. 2.
 
-Art. 1
-------
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 26 MARZO 2001, N.107))
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 26 MARZO 2001, N.107](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2001-03-26;107)))
+## Art. 3.
 
-Art. 2
-------
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 26 MARZO 2001, N.107))
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 26 MARZO 2001, N.107](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2001-03-26;107)))
+## Art. 4.
 
-Art. 3
-------
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 26 MARZO 2001, N.107))
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 26 MARZO 2001, N.107](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2001-03-26;107)))
+## Art. 5.
 
-Art. 4
-------
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 26 MARZO 2001, N.107))
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 26 MARZO 2001, N.107](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2001-03-26;107)))
+## Art. 6.
 
-Art. 5
-------
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 26 MARZO 2001, N.107))
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 26 MARZO 2001, N.107](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2001-03-26;107)))
+## Art. 7.
 
-Art. 6
-------
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 26 MARZO 2001, N.107))
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 26 MARZO 2001, N.107](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2001-03-26;107)))
+## Art. 8.
 
-Art. 7
-------
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 26 MARZO 2001, N.107))
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 26 MARZO 2001, N.107](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2001-03-26;107)))
+## Art. 9.
 
-Art. 8
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 26 MARZO 2001, N.107](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2001-03-26;107)))
-
-Art. 9
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 26 MARZO 2001, N.107](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2001-03-26;107)))
-
-Tabella A
-
- Allegato  
-
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 26 MARZO 2001, N.107](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2001-03-26;107)))
-
-Tabella B
-
- Allegato  
-
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 26 MARZO 2001, N.107](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2001-03-26;107)))
-
-Tabella C
-
- Allegato   
-
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 26 MARZO 2001, N.107](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2001-03-26;107)))
-
-Tabella D
-
- Allegato   
-
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 26 MARZO 2001, N.107](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2001-03-26;107)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 26 MARZO 2001, N.107))

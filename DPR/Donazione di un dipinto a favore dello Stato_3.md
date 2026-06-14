@@ -1,19 +1,21 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 04 settembre 1969 n. 738
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 738
+data: 1969-09-04
+titolo: "Donazione di un dipinto a favore dello Stato."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1969-09-04;738
+codice_redazionale: 069U0738
+vigente: true
+---
 
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 04 settembre 1969 n. 738
-================================================================
-
-Donazione di un dipinto a favore dello Stato.
----------------------------------------------
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-738. Decreto del Presidente della Repubblica 4 settembre 1969, col quale, sulla proposta del Ministro per la pubblica istruzione, viene autorizzata l'accettazione, a favore dello Stato, della donazione di un dipinto raffigurante "Madonna col Bambino" di Albrecht Dürer, disposta dal prof. Luigi Magnani.   
-  
-Visto, il Guardasigilli: GAVA   
-Registrato alla Corte dei conti, addi' 27 ottobre 1969   
-Atti del Governo, registro n. 229, foglio n. 149. - CARUSO
+738.
+
+Decreto del Presidente della Repubblica 4 settembre 1969, col quale, sulla proposta del Ministro per la pubblica istruzione, viene autorizzata l'accettazione, a favore dello Stato, della donazione di un dipinto raffigurante "Madonna col Bambino" di Albrecht Dürer, disposta dal prof. Luigi Magnani. 
+ 
+Visto, il Guardasigilli: GAVA 
+ Registrato alla Corte dei conti, addi' 27 ottobre 1969 
+ Atti del Governo, registro n. 229, foglio n. 149. - CARUSO

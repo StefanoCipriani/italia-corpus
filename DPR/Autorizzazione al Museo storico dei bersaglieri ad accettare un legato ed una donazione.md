@@ -1,19 +1,21 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 settembre 1959 n. 963
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 963
+data: 1959-09-02
+titolo: "Autorizzazione al Museo storico dei bersaglieri ad accettare un legato ed una donazione."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1959-09-02;963
+codice_redazionale: 059U0963
+vigente: true
+---
 
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 settembre 1959 n. 963
-================================================================
-
-Autorizzazione al Museo storico dei bersaglieri ad accettare un legato ed una donazione.
-----------------------------------------------------------------------------------------
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-963. Decreto del Presidente della Repubblica 2 settembre 1959, col quale, sulla proposta del Ministro per la difesa, il Museo storico dei bersaglieri viene autorizzato ad accettare un legato di L. 50.000 ed una donazione di L. 450.000.  
-  
-Visto, il Guardasigilli: GONELLA  
-Registrato alla Corte dei conti, addi' 13 novembre 1959  
-Atti del Governo, registro n. 122, foglio n. 12. - VILLA
+963.
+
+Decreto del Presidente della Repubblica 2 settembre 1959, col quale, sulla proposta del Ministro per la difesa, il Museo storico dei bersaglieri viene autorizzato ad accettare un legato di L. 50.000 ed una donazione di L. 450.000.
+
+Visto, il Guardasigilli: GONELLA
+ Registrato alla Corte dei conti, addi' 13 novembre 1959
+ Atti del Governo, registro n. 122, foglio n. 12. - VILLA

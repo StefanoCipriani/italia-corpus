@@ -1,19 +1,21 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 22 luglio 1980 n. 788
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 721
+data: 1980-07-22
+titolo: "Autorizzazione alla fondazione \"Pro juventute don Carlo Gnocchi\", in Roma, ad accettare un legato."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1980-07-22;721
+codice_redazionale: 080U0721
+vigente: true
+---
 
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 22 luglio 1980 n. 788
-=============================================================
-
-Autorizzazione alla fondazione "Pro juventute don Carlo Gnocchi", in Roma, ad accettare un legato.
---------------------------------------------------------------------------------------------------
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-788. Decreto del Presidente della Repubblica 22 luglio 1980, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la fondazione "Pro juventute don Carlo Gnocchi", in Roma, viene autorizzata ad accettare il legato, consistente in libretti bancari e beni mobili per un valore complessivo di L. 26.954.431, disposto dalla sig.ra Girardi Maria ved. Leiss De Leimburg a favore dell'opera mutilatini di don Gnocchi, che si identifica con la fondazione "Pro juventute don Carlo Gnocchi", come ha fatto presente la fondazione medesima, con testamento olografo 15 agosto 1977, pubblicato in data 26 settembre 1978, n. 17260 di repertorio, a rogito dott. Anna Maria Callari Bennati, notaio in Torino, registrato a Torino in data 2 ottobre 1978 al n. 39960.  
-  
-Visto, il Guardasigilli: SARTI  
-Registrato alla Corte dei conti, addi' 21 novembre 1980  
-Registro n. 9 Presidenza, foglio n. 9
+721.
+
+Decreto del Presidente della Repubblica 22 luglio 1980, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la fondazione "Pro juventute don Carlo Gnocchi", in Roma, viene autorizzata ad accettare il legato a favore dell'Istituto don Carlo Gnocchi che si identifica con la fondazione don Carlo Gnocchi, come ha fatto presente la fondazione medesima, consistente in un immobile sito in Bologna, via Riva Reno n. 104, distinto nel nuovo catasto edilizio urbano alla partita n. 20027, foglio 81, mappale 330 sub 2, 3 e 14 e mappale 531, valutato in lire 32.400.000 con perizia giurata del geom. Maddaloni Pietro ed elevato a L. 65.000.000 dall'ufficio tecnico erariale di Bologna, disposto dalla sig.ra Dora Cuppini con testamento olografo 24 luglio 1975 pubblicato in data 7 maggio 1976, n. 40114 di repertorio, n. 20410 di fascicolo, a rogito dott. Malaguti Carlo, notaio in Bologna, registrato a Bologna il 25 maggio 1976 al n. 7230.
+
+Visto, il Guardasigilli: MORLINO
+ Registrato alla Corte dei conti, addi' 27 ottobre 1980
+ Registro n. 8 Presidenza, foglio n. 199

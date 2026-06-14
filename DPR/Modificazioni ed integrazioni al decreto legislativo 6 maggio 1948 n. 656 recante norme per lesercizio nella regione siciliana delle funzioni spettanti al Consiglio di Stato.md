@@ -1,28 +1,25 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 05 aprile 1978 n. 204
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 204
+data: 1978-04-05
+titolo: "Modificazioni ed integrazioni al decreto legislativo 6 maggio 1948, n. 656, recante norme per l'esercizio nella regione siciliana delle funzioni spettanti al Consiglio di Stato."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1978-04-05;204
+codice_redazionale: 078U0204
+vigente: true
+---
 
+## Art. 1.
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 05 aprile 1978 n. 204
-=============================================================
+(( PROVVEDIMENTO ABROGATO DAL D.LGS. 24 DICEMBRE 2003, N. 373 ))
 
-Modificazioni ed integrazioni al decreto legislativo 6 maggio 1948, n. 656, recante norme per l'esercizio nella regione siciliana delle funzioni spettanti al Consiglio di Stato.
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+## Art. 2.
 
-Art. 1
-------
+(( PROVVEDIMENTO ABROGATO DAL D.LGS. 24 DICEMBRE 2003, N. 373 ))
 
-(( PROVVEDIMENTO ABROGATO DAL [D.LGS. 24 DICEMBRE 2003, N. 373](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2003-12-24;373) ))
+## Art. 3.
 
-Art. 2
-------
+(( PROVVEDIMENTO ABROGATO DAL D.LGS. 24 DICEMBRE 2003, N. 373 ))
 
-(( PROVVEDIMENTO ABROGATO DAL [D.LGS. 24 DICEMBRE 2003, N. 373](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2003-12-24;373) ))
+## Art. 4.
 
-Art. 3
-------
-
-(( PROVVEDIMENTO ABROGATO DAL [D.LGS. 24 DICEMBRE 2003, N. 373](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2003-12-24;373) ))
-
-Art. 4
-------
-
-(( PROVVEDIMENTO ABROGATO DAL [D.LGS. 24 DICEMBRE 2003, N. 373](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2003-12-24;373) ))
+(( PROVVEDIMENTO ABROGATO DAL D.LGS. 24 DICEMBRE 2003, N. 373 ))

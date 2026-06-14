@@ -1,18 +1,18 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 24 novembre 1982 n. 934
-
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 24 novembre 1982 n. 934
-===============================================================
-
-Modificazione all'art. 3 del regio decreto 8 aprile 1940, n. 830, recante ordinamento dell'Ufficio legislativo del Ministero di grazia e giustizia.
----------------------------------------------------------------------------------------------------------------------------------------------------
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 934
+data: 1982-11-24
+titolo: "Modificazione all'art. 3 del regio decreto 8 aprile 1940, n. 830, recante ordinamento dell'Ufficio legislativo del Ministero di grazia e giustizia."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1982-11-24;934
+codice_redazionale: 082U0934
+vigente: true
+---
 
 IL PRESIDENTE DELLA REPUBBLICA
-------------------------------
 
-Visto l'[art. 87 della Costituzione](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27~art87);
+Visto l'[art. 87 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87);
 
-Visto il [regio decreto 8 aprile 1940, n. 830](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-04-08;830), contenente l'ordinamento dell'Ufficio legislativo del Ministero di grazia e giustizia;
+Visto il [regio decreto 8 aprile 1940, n. 830](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-04-08;830), contenente l'ordinamento dell'Ufficio legislativo del Ministero di grazia e giustizia;
 
 Udito il parere del Consiglio di Stato;
 
@@ -20,29 +20,16 @@ Vista la deliberazione del Consiglio dei Ministri, adottata nella riunione dell'
 
 Sulla proposta del Ministro di grazia e giustizia;
 
-EMANA
------
+EMANA il seguente decreto:
 
-il seguente decreto:
+## Articolo unico
 
-Articolo unico
---------------
-
-  
-L'[art. 3 del regio decreto 8 aprile 1940, n. 830](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-04-08;830~art3), e' sostituito dal seguente:  
-"L'Ufficio legislativo e' diretto da un magistrato di cassazione nominato alle funzioni superiori. Fanno parte dell'Ufficio un magistrato di cassazione e sei magistrati di qualifica non superiore a magistrato di corte d'appello, appartenenti al personale addetto al Ministero. L'assegnazione all'Ufficio e' disposta con decreto del Ministro. Il decreto di assegnazione all'Ufficio puo' essere in ogni tempo revocato.  
-In caso di assenza o impedimento del magistrato dirigente l'Ufficio, le funzioni vicarie sono esercitate dal magistrato di cassazione o da uno dei magistrati di appello designati dal Ministro".  
-  
+L'[art. 3 del regio decreto 8 aprile 1940, n. 830](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-04-08;830#art_3), e' sostituito dal seguente:
+ "L'Ufficio legislativo e' diretto da un magistrato di cassazione nominato alle funzioni superiori. Fanno parte dell'Ufficio un magistrato di cassazione e sei magistrati di qualifica non superiore a magistrato di corte d'appello, appartenenti al personale addetto al Ministero. L'assegnazione all'Ufficio e' disposta con decreto del Ministro. Il decreto di assegnazione all'Ufficio puo' essere in ogni tempo revocato.
+ In caso di assenza o impedimento del magistrato dirigente l'Ufficio, le funzioni vicarie sono esercitate dal magistrato di cassazione o da uno dei magistrati di appello designati dal Ministro".
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 24 novembre 1982
+Dato a Roma, addi' 24 novembre 1982
 
-PERTINI SPADOLINI - DARIDA
-
-Visto, il Guardasigilli: DARIDA
-
-Registrato alla Corte dei conti, addi' 23 dicembre 1982
-
-Atti di Governo, registro n. 44, foglio n. 26
+PERTINI SPADOLINI - DARIDA Visto, il Guardasigilli: DARIDA Registrato alla Corte dei conti, addi' 23 dicembre 1982 Atti di Governo, registro n. 44, foglio n. 26

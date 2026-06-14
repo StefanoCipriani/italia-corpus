@@ -1,19 +1,21 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 22 aprile 1980 n. 246
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 246
+data: 1980-04-22
+titolo: "Approvazione del nuovo statuto dell'associazione provinciale allevatori di Frosinone."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1980-04-22;246
+codice_redazionale: 080U0246
+vigente: true
+---
 
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 22 aprile 1980 n. 246
-=============================================================
-
-Approvazione del nuovo statuto dell'associazione provinciale allevatori di Frosinone.
--------------------------------------------------------------------------------------
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-246. Decreto del Presidente della Repubblica 22 aprile 1980, col quale, sulla proposta del Ministro della agricoltura e delle foreste, viene approvato il nuovo statuto dell'associazione provinciale allevatori di Frosinone, eretta in ente morale con [decreto del Presidente della Repubblica 1 settembre 1972, n. 836](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1972-09-01;836).  
-  
-Visto, il Guardasigilli: MORLINO  
-Registrato alla Corte dei conti, addi' 5 giugno 1980  
-Registro n. 8 Agricoltura, foglio n. 223
+246.
+
+Decreto del Presidente della Repubblica 22 aprile 1980, col quale, sulla proposta del Ministro della agricoltura e delle foreste, viene approvato il nuovo statuto dell'associazione provinciale allevatori di Frosinone, eretta in ente morale con [decreto del Presidente della Repubblica 1 settembre 1972, n. 836](Riconoscimento%20della%20personalita%20giuridica%20dellAssociazione%20provinciale%20allevatori%20con%20sede%20in%20Frosinone.md).
+
+Visto, il Guardasigilli: MORLINO
+ Registrato alla Corte dei conti, addi' 5 giugno 1980
+ Registro n. 8 Agricoltura, foglio n. 223

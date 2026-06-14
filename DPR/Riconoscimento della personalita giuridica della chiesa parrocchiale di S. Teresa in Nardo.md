@@ -1,19 +1,21 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 marzo 1972 n. 303
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 303
+data: 1972-03-31
+titolo: "Riconoscimento della personalita' giuridica della chiesa parrocchiale di S. Teresa, in Nardo'."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1972-03-31;303
+codice_redazionale: 072U0303
+vigente: true
+---
 
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 marzo 1972 n. 303
-============================================================
-
-Riconoscimento della personalita' giuridica della chiesa parrocchiale di S. Teresa, in Nardo'.
-----------------------------------------------------------------------------------------------
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-303. Decreto del Presidente della Repubblica 31 marzo 1972, col quale, sulla proposta del Ministro per l'interno, viene riconosciuta la personalita' giuridica della chiesa parrocchiale di S. Teresa, in Nardo' (Lecce).  
-  
-Visto, il Guardasigilli: GONELLA  
-Registrato alla Corte dei conti, addi' 20 giugno 1972  
-Atti del Governo, registro n. 249, foglio n. 87. - VALENTINI
+303.
+
+Decreto del Presidente della Repubblica 31 marzo 1972, col quale, sulla proposta del Ministro per l'interno, viene riconosciuta la personalita' giuridica della chiesa parrocchiale di S. Teresa, in Nardo' (Lecce).
+
+Visto, il Guardasigilli: GONELLA
+ Registrato alla Corte dei conti, addi' 20 giugno 1972
+ Atti del Governo, registro n. 249, foglio n. 87. - VALENTINI

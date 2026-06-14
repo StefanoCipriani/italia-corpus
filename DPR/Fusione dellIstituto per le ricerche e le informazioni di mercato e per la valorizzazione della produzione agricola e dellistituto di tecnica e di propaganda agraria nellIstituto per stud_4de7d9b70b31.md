@@ -1,73 +1,61 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 maggio 1987 n. 278
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 278
+data: 1987-05-28
+titolo: "Fusione dell'Istituto per le ricerche e le informazioni di mercato e per la valorizzazione della produzione agricola e dell'istituto di tecnica e di propaganda agraria nell'Istituto per studi, ricerche e informazioni sul mercato agricolo."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1987-05-28;278
+codice_redazionale: 087U0278
+vigente: true
+---
 
+## Art. 1.
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 maggio 1987 n. 278
-=============================================================
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 31 MARZO 2001, N. 200 ))
 
-Fusione dell'Istituto per le ricerche e le informazioni di mercato e per la valorizzazione della produzione agricola e dell'istituto di tecnica e di propaganda agraria nell'Istituto per studi, ricerche e informazioni sul mercato agricolo.
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+## Art. 2.
 
-Art. 1
-------
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 31 MARZO 2001, N. 200 ))
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 31 MARZO 2001, N. 200](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2001-03-31;200) ))
+## Art. 3.
 
-Art. 2
-------
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 31 MARZO 2001, N. 200 ))
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 31 MARZO 2001, N. 200](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2001-03-31;200) ))
+## Art. 4.
 
-Art. 3
-------
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 31 MARZO 2001, N. 200 ))
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 31 MARZO 2001, N. 200](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2001-03-31;200) ))
+## Art. 5.
 
-Art. 4
-------
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 31 MARZO 2001, N. 200 ))
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 31 MARZO 2001, N. 200](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2001-03-31;200) ))
+## Art. 6.
 
-Art. 5
-------
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 31 MARZO 2001, N. 200 ))
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 31 MARZO 2001, N. 200](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2001-03-31;200) ))
+## Art. 7.
 
-Art. 6
-------
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 31 MARZO 2001, N. 200 ))
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 31 MARZO 2001, N. 200](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2001-03-31;200) ))
+## Art. 8.
 
-Art. 7
-------
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 31 MARZO 2001, N. 200 ))
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 31 MARZO 2001, N. 200](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2001-03-31;200) ))
+## Art. 9.
 
-Art. 8
-------
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 31 MARZO 2001, N. 200 ))
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 31 MARZO 2001, N. 200](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2001-03-31;200) ))
+## Art. 10.
 
-Art. 9
-------
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 31 MARZO 2001, N. 200 ))
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 31 MARZO 2001, N. 200](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2001-03-31;200) ))
+## Art. 11.
 
-Art. 10
--------
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 31 MARZO 2001, N. 200 ))
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 31 MARZO 2001, N. 200](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2001-03-31;200) ))
+## Art. 12.
 
-Art. 11
--------
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 31 MARZO 2001, N. 200 ))
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 31 MARZO 2001, N. 200](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2001-03-31;200) ))
+## Art. 13.
 
-Art. 12
--------
-
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 31 MARZO 2001, N. 200](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2001-03-31;200) ))
-
-Art. 13
--------
-
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 31 MARZO 2001, N. 200](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2001-03-31;200) ))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 31 MARZO 2001, N. 200 ))

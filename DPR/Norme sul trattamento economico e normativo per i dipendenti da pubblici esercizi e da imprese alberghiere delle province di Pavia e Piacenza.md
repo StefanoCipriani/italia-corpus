@@ -1,20 +1,20 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 gennaio 1962 n. 894
-
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 gennaio 1962 n. 894
-==============================================================
-
-Norme sul trattamento economico e normativo per i dipendenti da pubblici esercizi e da imprese alberghiere delle province di Pavia e Piacenza.
-----------------------------------------------------------------------------------------------------------------------------------------------
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 894
+data: 1962-01-02
+titolo: "Norme sul trattamento economico e normativo per i dipendenti da pubblici esercizi e da imprese alberghiere delle province di Pavia e Piacenza."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1962-01-02;894
+codice_redazionale: 062U0894
+vigente: true
+---
 
 IL PRESIDENTE DELLA REPUBBLICA
-------------------------------
 
-Visto l'[art. 87, comma quinto, della Costituzione](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27~art87-com5);
+Visto l'[art. 87, comma quinto, della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87-com5);
 
-Vista la [legge 14 luglio 1959, n. 741](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1959-07-14;741), che delega il Governo ad emanare norme transitorie per garantire minimi di trattamento economico e normativo ai lavoratori;
+Vista la [legge 14 luglio 1959, n. 741](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1959-07-14;741), che delega il Governo ad emanare norme transitorie per garantire minimi di trattamento economico e normativo ai lavoratori;
 
-Vista la [legge 1 ottobre 1960, n. 1027](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1960-10-01;1027), recante modifiche alla predetta [legge 14 luglio 1959, n. 741](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1959-07-14;741);
+Vista la [legge 1 ottobre 1960, n. 1027](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1960-10-01;1027), recante modifiche alla predetta [legge 14 luglio 1959, n. 741](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1959-07-14;741);
 
 Visto il contratto collettivo nazionale di lavoro 15 maggio 1959 per i dipendenti da aziende di ristoranti, trattorie, piccole pensioni, locande, piccole trattorie e osterie con cucina che abbiano non piu' di nove camere per alloggio;
 
@@ -44,66 +44,19 @@ Vista la pubblicazione nell'apposito Bollettino, n. 3 e n. 4 della provincia di 
 
 Sentito il Consiglio dei Ministri;
 
-Sulla
------
+Sulla proposta del Ministro per il lavoro e la previdenza sociale; Decreta:
 
-proposta del Ministro per il lavoro e la previdenza sociale; Decreta:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-I rapporti di lavoro costituiti per le attivita' per le quali sono stati stipulati:  
-- per la provincia di Pavia, l'accordo collettivo 20 dicembre 1949, relativo ad personale dipendente dalle aziende di ristorante, alberghi, trattorie, pensioni, locande, piccole trattorie e osterie con cucina; l'accordo collettivo integrativo 20 dicembre 1949, relativo ai personale dipendente da aziende di caffe', bars, bottiglierie, ed esercizi similari; l'accordo collettivo 4 marzo 1952, relativo alla rivalutazione dei salari e degli stipendi per il personale dipendente dai pubblici esercizi;  
-- per la provincia di Piacenza, l'accordo collettivo 1 agosto 1958, relativo ai dipendenti da ristoranti, trattorie, osterie con cucina ed esercizi similari, da caffe', bars, birrerie, pasticcerie, gelaterie, ed esercizi similari, da alberghi e locande;  
-sono regolati da norme giuridiche uniformi alle clausole degli accordi anzidetti, annessi al presente decreto.  
-Dette norme sono integrative di quelle concernenti la disciplina nazionale della rispettiva categoria, purche' con esse compatibili.  
-I minimi di trattamento economico e normativo cosi' stabiliti sono inderogabili nei confronti di tutti i dipendenti dalle imprese esercenti le attivita' indicate negli accordi collettivi di cui al primo comma, delle province di Pavia e Piacenza.  
-  
+I rapporti di lavoro costituiti per le attivita' per le quali sono stati stipulati:
+ - per la provincia di Pavia, l'accordo collettivo 20 dicembre 1949, relativo ad personale dipendente dalle aziende di ristorante, alberghi, trattorie, pensioni, locande, piccole trattorie e osterie con cucina; l'accordo collettivo integrativo 20 dicembre 1949, relativo ai personale dipendente da aziende di caffe', bars, bottiglierie, ed esercizi similari; l'accordo collettivo 4 marzo 1952, relativo alla rivalutazione dei salari e degli stipendi per il personale dipendente dai pubblici esercizi;
+ - per la provincia di Piacenza, l'accordo collettivo 1 agosto 1958, relativo ai dipendenti da ristoranti, trattorie, osterie con cucina ed esercizi similari, da caffe', bars, birrerie, pasticcerie, gelaterie, ed esercizi similari, da alberghi e locande;
+ sono regolati da norme giuridiche uniformi alle clausole degli accordi anzidetti, annessi al presente decreto.
+ Dette norme sono integrative di quelle concernenti la disciplina nazionale della rispettiva categoria, purche' con esse compatibili.
+ I minimi di trattamento economico e normativo cosi' stabiliti sono inderogabili nei confronti di tutti i dipendenti dalle imprese esercenti le attivita' indicate negli accordi collettivi di cui al primo comma, delle province di Pavia e Piacenza.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 2 gennaio 1962
+Dato a Roma, addi' 2 gennaio 1962
 
-GRONCHI FANFANI - SULLO
-
-Visto, il Guardasigilli: BOSCO
-
-Registrato alla Corte dei conti, addi' 23 giugno 1962
-
-Atti del Governo, registro n. 151, foglio n. 57. - VILLA
-
-Accordi collettivi
-
-  
-ACCORDO COLLETTIVO 20 DICEMBRE 1949 PER IL PERSONALE DIPENDENTE DALLE AZIENDE DI RISTORANTE, ALBERGHI, TRATTORIE, PENSIONI, LOCANDE, PICCOLE TRATTORIE E OSTERIE CON CUCINA DELLA PROVINCIA DI PAVIA.   
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=062U089400100010110001&dgu=1962-07-25&art.dataPubblicazioneGazzetta=1962-07-25&art.codiceRedazionale=062U0894)
-  
-  
-  
-  
-ACCORDO COLLETTIVO 20 DICEMBRE 1949, INTEGRATIVO DEL CONTRATTO COLLETTIVO NAZIONALE DI LAVORO 27 GENNAIO 1948, PER IL PERSONALE DIPENDENTE DA AZIENDE DI CAFFE, BARS, BOTTIGLIERIE ED ESERCIZI SIMILARI DELLA PROVINCIA DI PAVIA.   
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=062U089400100010110002&dgu=1962-07-25&art.dataPubblicazioneGazzetta=1962-07-25&art.codiceRedazionale=062U0894)
-  
-  
-  
-  
-ACCORDO COLLETTIVO 4 MARZO 1952 DI RIVALUTAZIONE DEI SALARI E DEGLI STIPENDI PER IL PERSONALE DIPENDENTE DAI PUBBLICI ESERCIZI DELLA PROVINCIA DI PAVIA.   
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=062U089400100010110003&dgu=1962-07-25&art.dataPubblicazioneGazzetta=1962-07-25&art.codiceRedazionale=062U0894)
-  
-  
-  
-  
-ACCORDO COLLETTIVO 1 AGOSTO 1958, PER I DIPENDENTI DA RISTORANTI, TRATTORIE, OSTERIE CON CUCINA ED ESERCIZI SIMILARI, DA CAFFE, BARS, BIRRERIE, PASTICCERIE, GELATERIE, ED ESERCIZI SIMILARI, DA ALBERGHI E LOCANDE DELLA PROVINCIA DI PIACENZA.   
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=062U089400100010110004&dgu=1962-07-25&art.dataPubblicazioneGazzetta=1962-07-25&art.codiceRedazionale=062U0894)
-  
+GRONCHI FANFANI - SULLO Visto, il Guardasigilli: BOSCO Registrato alla Corte dei conti, addi' 23 giugno 1962 Atti del Governo, registro n. 151, foglio n. 57. - VILLA

@@ -1,20 +1,22 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 24 luglio 1973 n. 577
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 577
+data: 1973-07-24
+titolo: "Modificazioni allo statuto della fondazione \"Dott. Genserico Fontana - capitano dei carabinieri - medaglia d'oro al valor militare\", con sede in Roma."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1973-07-24;577
+codice_redazionale: 073U0577
+vigente: true
+---
 
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 24 luglio 1973 n. 577
-=============================================================
-
-Modificazioni allo statuto della fondazione "Dott. Genserico Fontana - capitano dei carabinieri - medaglia d'oro al valor militare", con sede in Roma.
-------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-577. Decreto del Presidente della Repubblica 24 luglio 1973, col quale, sulla proposta del Ministro per la difesa, viene approvato il nuovo testo dell'art. 6 dello statuto della fondazione "Dott.  
-Genserico Fontana - capitano dei carabinieri - medaglia d'oro al valor militare", con sede in Roma.  
-  
-Visto, il Guardasigilli: ZAGARI  
-Registrato alla Corte dei conti, addi' 20 settembre 1973  
-Atti di Governo, registro n. 260, foglio n. 38. - VALENTINI
+577.
+
+Decreto del Presidente della Repubblica 24 luglio 1973, col quale, sulla proposta del Ministro per la difesa, viene approvato il nuovo testo dell'art. 6 dello statuto della fondazione "Dott.
+ Genserico Fontana - capitano dei carabinieri - medaglia d'oro al valor militare", con sede in Roma.
+
+Visto, il Guardasigilli: ZAGARI
+ Registrato alla Corte dei conti, addi' 20 settembre 1973
+ Atti di Governo, registro n. 260, foglio n. 38. - VALENTINI

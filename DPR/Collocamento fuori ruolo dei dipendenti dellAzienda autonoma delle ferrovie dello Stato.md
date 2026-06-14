@@ -1,23 +1,21 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 21 febbraio 1968 n. 477
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 477
+data: 1968-02-21
+titolo: "Collocamento fuori ruolo dei dipendenti dell'Azienda autonoma delle ferrovie dello Stato."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1968-02-21;477
+codice_redazionale: 068U0477
+vigente: true
+---
 
+## Art. 1.
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 21 febbraio 1968 n. 477
-===============================================================
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
 
-Collocamento fuori ruolo dei dipendenti dell'Azienda autonoma delle ferrovie dello Stato.
------------------------------------------------------------------------------------------
+## Art. 2.
 
-Art. 1
-------
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 13 DICEMBRE 2010, N. 248](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2010-12-13;248)))
+## Art. 3.
 
-Art. 2
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 13 DICEMBRE 2010, N. 248](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2010-12-13;248)))
-
-Art. 3
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 13 DICEMBRE 2010, N. 248](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2010-12-13;248)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))

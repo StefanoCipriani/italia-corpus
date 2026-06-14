@@ -1,19 +1,21 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 22 gennaio 1957 n. 833
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 833
+data: 1957-01-22
+titolo: "Erezione in ente morale della Cassa scolastica del Liceo-ginnasio statale \"Pietro Orseolo II\" di Venezia-Lido."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1957-01-22;833
+codice_redazionale: 057U0833
+vigente: true
+---
 
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 22 gennaio 1957 n. 833
-==============================================================
-
-Erezione in ente morale della Cassa scolastica del Liceo-ginnasio statale "Pietro Orseolo II" di Venezia-Lido.
---------------------------------------------------------------------------------------------------------------
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-833. Decreto del Presidente della Repubblica 22 gennaio 1957, col quale, sulla proposta del Ministro per la pubblica istruzione, la Cassa scolastica del Liceo-ginnasio statale "Pietro Orseolo II" di Venezia-Lido viene eretta in ente morale e ne viene approvato lo statuto.  
-  
-Visto, il Guardasigilli: MORO  
-Registrato alla Corte dei conti, addi' 18 settembre 1957  
-Atti del Governo, registro n. 107, foglio n. 140. - RELLEVA
+833.
+
+Decreto del Presidente della Repubblica 22 gennaio 1957, col quale, sulla proposta del Ministro per la pubblica istruzione, la Cassa scolastica del Liceo-ginnasio statale "Pietro Orseolo II" di Venezia-Lido viene eretta in ente morale e ne viene approvato lo statuto.
+
+Visto, il Guardasigilli: MORO
+ Registrato alla Corte dei conti, addi' 18 settembre 1957
+ Atti del Governo, registro n. 107, foglio n. 140. - RELLEVA

@@ -1,20 +1,22 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 19 marzo 1973 n. 318
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 318
+data: 1973-03-19
+titolo: "Autorizzazione alla fondazione scuola professionale Luigi Ripamonti, in Como, ad acquistare un immobile."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1973-03-19;318
+codice_redazionale: 073U0318
+vigente: true
+---
 
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 19 marzo 1973 n. 318
-============================================================
-
-Autorizzazione alla fondazione scuola professionale Luigi Ripamonti, in Como, ad acquistare un immobile.
---------------------------------------------------------------------------------------------------------
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-318. Decreto del Presidente della Repubblica 19 marzo 1973, col quale, sulla proposta del Ministro per la pubblica istruzione, la fondazione scuola professionale Luigi Ripamonti, in Como, viene autorizzata ad acquistare la quota immobiliare di un terreno sita nel comune di Como, via Belvedere sezione Camerlata, catasto terreni pag. 4383, mappale 120 sub A, della superficie catastale di mq. 14.890 di proprieta' della signora Girardoni Gemma ved.  
-Terragni di Como per il prezzo di L. 72.575.000.  
-  
-Visto, il Guardasigilli: GONELLA  
-Registrato alla Corte dei conti, addi' 14 giugno 1973  
-Atti di Governo, registro n. 258, foglio n. 116. - VALENTINI
+318.
+
+Decreto del Presidente della Repubblica 19 marzo 1973, col quale, sulla proposta del Ministro per la pubblica istruzione, la fondazione scuola professionale Luigi Ripamonti, in Como, viene autorizzata ad acquistare la quota immobiliare di un terreno sita nel comune di Como, via Belvedere sezione Camerlata, catasto terreni pag. 4383, mappale 120 sub A, della superficie catastale di mq. 14.890 di proprieta' della signora Girardoni Gemma ved.
+ Terragni di Como per il prezzo di L. 72.575.000.
+
+Visto, il Guardasigilli: GONELLA
+ Registrato alla Corte dei conti, addi' 14 giugno 1973
+ Atti di Governo, registro n. 258, foglio n. 116. - VALENTINI

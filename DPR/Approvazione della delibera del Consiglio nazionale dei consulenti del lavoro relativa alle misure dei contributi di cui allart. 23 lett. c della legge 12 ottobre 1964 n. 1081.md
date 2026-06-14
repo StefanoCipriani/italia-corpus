@@ -1,20 +1,20 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 13 giugno 1967 n. 718
-
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 13 giugno 1967 n. 718
-=============================================================
-
-Approvazione della delibera del Consiglio nazionale dei consulenti del lavoro relativa alle misure dei contributi di cui all'art. 23, lett. c) della legge 12 ottobre 1964, n. 1081.
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 718
+data: 1967-06-13
+titolo: "Approvazione della delibera del Consiglio nazionale dei consulenti del lavoro relativa alle misure dei contributi di cui all'art. 23, lett. c) della legge 12 ottobre 1964, n. 1081."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1967-06-13;718
+codice_redazionale: 067U0718
+vigente: true
+---
 
 IL PRESIDENTE DELLA REPUBBLICA
-------------------------------
 
-Visto l'[art. 87, comma quinto, della Costituzione](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27~art87-com5);
+Visto l'[art. 87, comma quinto, della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87-com5);
 
-Visto l'[art. 23 della legge 12 ottobre 1964, n. 1081](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1964-10-12;1081~art23), istitutiva dell'Albo dei consulenti del lavoro;
+Visto l'[art. 23 della legge 12 ottobre 1964, n. 1081](../Atti%20normativi%20abrogati%20%28in%20originale%29/Istituzione%20dellalbo%20dei%20consulenti%20del%20lavoro.md), istitutiva dell'Albo dei consulenti del lavoro;
 
-Vista la delibera del 26 ottobre 1965, con la quale il Consiglio nazionale dei consulenti del lavoro, confermando la delibera precedentemente adottata al riguardo dalla Commissione centrale dei consulenti del lavoro, di cui all'[art. 26 della legge 12 ottobre 1964, n. 1081](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1964-10-12;1081~art26), ha stabilito, su proposta dei Consigli provinciali degli albi la misura dei contributi dovuti dai consulenti del lavoro ai sensi dell'art. 23, lett. c), della legge stessa;
+Vista la delibera del 26 ottobre 1965, con la quale il Consiglio nazionale dei consulenti del lavoro, confermando la delibera precedentemente adottata al riguardo dalla Commissione centrale dei consulenti del lavoro, di cui all'[art. 26 della legge 12 ottobre 1964, n. 1081](../Atti%20normativi%20abrogati%20%28in%20originale%29/Istituzione%20dellalbo%20dei%20consulenti%20del%20lavoro.md), ha stabilito, su proposta dei Consigli provinciali degli albi la misura dei contributi dovuti dai consulenti del lavoro ai sensi dell'art. 23, lett. c), della legge stessa;
 
 Udito il parere del Consiglio di Stato;
 
@@ -22,64 +22,14 @@ Vista la delibera del 4 gennaio 1967, con la quale il Consiglio nazionale dei co
 
 Sentito il Consiglio dei Ministri;
 
-Sulla
------
+Sulla proposta del Ministro per il lavoro e la previdenza sociale; Decreta:
 
-proposta del Ministro per il lavoro e la previdenza sociale; Decreta:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-Si approva la delibera del 4 gennaio 1967, annessa al presente decreto, con la quale il Consiglio nazionale dei consulenti del lavoro ha stabilito la misura del contributo posto a carico dei consulenti del lavoro per a iscrizione all'albo provinciale, di quello da corrispondersi annualmente dagli iscritti e della quota necessaria per il funzionamento del Consiglio nazionale, nonche' la misura dei contributi da versare all'albo provinciale per il rilascio dei certificati o attestazioni.  
-  
+Si approva la delibera del 4 gennaio 1967, annessa al presente decreto, con la quale il Consiglio nazionale dei consulenti del lavoro ha stabilito la misura del contributo posto a carico dei consulenti del lavoro per a iscrizione all'albo provinciale, di quello da corrispondersi annualmente dagli iscritti e della quota necessaria per il funzionamento del Consiglio nazionale, nonche' la misura dei contributi da versare all'albo provinciale per il rilascio dei certificati o attestazioni.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 13 giugno 1967
+Dato a Roma, addi' 13 giugno 1967
 
-SARAGAT MORO - BOSCO
-
-Visto, il Guardasigilli: REALE
-
-Registrato alla Corte dei conti, addi' 9 agosto 1967
-
-Atti del Governo, registro n. 212, foglio n. 128. - GRECO
-
-Allegato
-
- CONSIGLIO NAZIONALE CONSULENTI DEL LAVORO   
-  
-Estratto del verbale di riunione del Consiglio nazionale del 4 gennaio 1967   
-  
-(Omissis).   
-  
-Il Consiglio nazionale dell'Albo dei consulenti del lavoro riunito in Roma il 4 gennaio 1967:   
-Visto l'[art. 23, lettera c), della legge 12 ottobre 1964, n. 1081](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1964-10-12;1081~art23-letc), istitutiva dell'Albo dei consulenti del lavoro;   
-Vista la deliberazione del 26 ottobre 1965, con la quale e' stata determinata la misura dei contributi di cui all'art. 14, lettera i), ed all'art. 23, lettera c), della citata legge n. 1081;   
-Visto il [parere del Consiglio di Stato del 24 novembre 1966](https://e-justice.europa.eu/ecli/ECLI::::), concernente la deliberazione del 26 ottobre 1965, con il quale sono stati formulati rilievi circa la particolare destinazione di parte dei fondi per il funzionamento del Consiglio nazionale;   
-Considerata l'opportunita' di adeguare la deliberazione del 26 ottobre 1965 ai rilievi formulati dal Consiglio di Stato;   
-  
-Delibera:   
-  
-a) a parziale modifica di quanto stabilito dalla deliberazione del 26 ottobre 1965, la quota annua per il funzionamento del Consiglio nazionale dell'Albo dei consulenti del lavoro e' ridotta da L. 7.000 a L. 5.000 per gli Albi di residenza e da L. 3.500 a L. 2.500 per gli Albi di non residenza;   
-b) in conseguenza di quanto deliberato sub lettera a), la misura dei contributi di cui all'[art. 14, lettera i)](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1964-10-12;1081~art14-leti), e all'[art. 23, lettera c), della legge 12 ottobre 1964, n. 1081](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1964-10-12;1081~art23-letc), resta stabilita come segue:   
-1) contributo per l'iscrizione all'Albo provinciale L. 10.000 2) contributo annuo per il funzionamento dell'Albo   
-provinciale.............................................. " 13.000 3) quota annua per il funzionamento del Consiglio   
-nazionale dei consulenti del lavoro...................... " 5.000 4) contributo per il rilascio dei certificati ed   
-attestazioni............................................. " 500   
-  
-Per quanto concerne i consulenti del lavoro, i quali, per essere in possesso di autorizzazione valevole per piu' Province devono chiedere l'iscrizione in piu' Albi provinciali, la quota intera dei suddetti contributi deve essere versata solo all'Albo di residenza o, in mancanza, a quello dove il consulente dichiara di svolgere la principale attivita', mentre agli altri Albi nei quali si chiede la iscrizione, verra' versata la meta' dei suddetti contributi e precisamente:   
-1) contributo per l'iscrizione all'Albo provinciale L. 5.000 2) contributo annuo per il funzionamento del Consi-   
-glio provinciale......................................... " 6.500 3) quota annua per il funzionamento del Consiglio   
-nazionale consulenti del lavoro.......................... " 2.500   
-  
-(Omissis).   
-  
-Roma, addi' 5 gennaio 1967   
-  
-Il presidente: Cesare ORSINI   
-  
-Il segretario: Paolo MARCECA   
+SARAGAT MORO - BOSCO Visto, il Guardasigilli: REALE Registrato alla Corte dei conti, addi' 9 agosto 1967 Atti del Governo, registro n. 212, foglio n. 128. - GRECO

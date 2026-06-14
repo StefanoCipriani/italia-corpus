@@ -1,22 +1,22 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 10 maggio 1982 n. 487
-
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 10 maggio 1982 n. 487
-=============================================================
-
-Attuazione della direttiva (CEE) n. 78/669 relativa alle procedure di aggiudicazione degli appalti dei lavori pubblici.
------------------------------------------------------------------------------------------------------------------------
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 487
+data: 1982-05-10
+titolo: "Attuazione della direttiva (CEE) n. 78/669 relativa alle procedure di aggiudicazione degli appalti dei lavori pubblici."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1982-05-10;487
+codice_redazionale: 082U0487
+vigente: true
+---
 
 IL PRESIDENTE DELLA REPUBBLICA
-------------------------------
 
-Visti gli [articoli 76](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27~art76) e [87 della Costituzione](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27~art87);
+Visti gli [articoli 76](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_76) e [87 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87);
 
-Vista la [legge 9 febbraio 1982, n. 42](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1982-02-09;42), recante delega al Governo ad emanare norme per l'attuazione delle direttive della Comunita' economica europea;
+Vista la [legge 9 febbraio 1982, n. 42](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1982-02-09;42), recante delega al Governo ad emanare norme per l'attuazione delle direttive della Comunita' economica europea;
 
-Vista la [direttiva n. 78/669 del 2 agosto 1978](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:31978L0669), emanata dal Consiglio della Comunita' economica europea avente ad oggetto le procedure di aggiudicazione degli appalti dei lavori pubblici;
+Vista la [direttiva n. 78/669 del 2 agosto 1978](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1978;669), emanata dal Consiglio della Comunita' economica europea avente ad oggetto le procedure di aggiudicazione degli appalti dei lavori pubblici;
 
-Considerato che in data 25 febbraio 1982, ai termini dell'[art. 1 della legge 9 febbraio 1982, n. 42](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1982-02-09;42~art1), e' stato inviato lo schema del presente provvedimento ai Presidenti della Camera dei deputati e del Senato della Repubblica per gli adempimenti ivi previsti;
+Considerato che in data 25 febbraio 1982, ai termini dell'[art. 1 della legge 9 febbraio 1982, n. 42](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1982-02-09;42#art_1), e' stato inviato lo schema del presente provvedimento ai Presidenti della Camera dei deputati e del Senato della Repubblica per gli adempimenti ivi previsti;
 
 Tenuto conto che non sono state formulate osservazioni in sede parlamentare;
 
@@ -26,35 +26,20 @@ Sulla proposta del Ministro per il coordinamento interno delle politiche comunit
 
 Vista la deliberazione del Consiglio dei Ministri, adottata nella riunione del 30 aprile 1982;
 
-EMANA
------
+EMANA il seguente decreto:
 
-il seguente decreto:
+## Art. 1.
 
-Art. 1
-------
+Il [primo comma dell'art. 1 della legge 8 agosto 1977, n. 584](../Atti%20normativi%20abrogati%20%28in%20originale%29/Norme%20di%20adeguamento%20delle%20procedure%20di%20aggiudicazione%20degli%20appalti%20di%20lavori%20pubblici%20alle%20direttive%20della%20Comunita%20economica%20europea.md), e' modificato come segue:
+ "La presente legge disciplina gli appalti per lavori pubblici, d'importo superiore ad 1.000.000 di unita' di conto europee, IVA esclusa, da aggiudicarsi dallo Stato, dalle aziende autonome e dagli enti pubblici.
+ Il controvalore in moneta nazionale dell'unita' di conto europea da assumere a base per la determinazione dell'importo indicato al precedente comma, pubblicato nella "Gazzetta Ufficiale" delle Comunita' europee nei primi giorni di novembre, ha effetto per due anni a decorrere dal primo gennaio successivo. Tale controvalore e' altresi' pubblicato nella Gazzetta Ufficiale della Repubblica a cura del Ministero del tesoro".
 
-  
-Il [primo comma dell'art. 1 della legge 8 agosto 1977, n. 584](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1977-08-08;584~art1-com1), e' modificato come segue:  
-"La presente legge disciplina gli appalti per lavori pubblici, d'importo superiore ad 1.000.000 di unita' di conto europee, IVA esclusa, da aggiudicarsi dallo Stato, dalle aziende autonome e dagli enti pubblici.  
-Il controvalore in moneta nazionale dell'unita' di conto europea da assumere a base per la determinazione dell'importo indicato al precedente comma, pubblicato nella "Gazzetta Ufficiale" delle Comunita' europee nei primi giorni di novembre, ha effetto per due anni a decorrere dal primo gennaio successivo. Tale controvalore e' altresi' pubblicato nella Gazzetta Ufficiale della Repubblica a cura del Ministero del tesoro".  
+## Art. 2.
 
-Art. 2
-------
-
-  
-Il presente decreto entra in vigore il giorno successivo a quello della sua pubblicazione nella Gazzetta Ufficiale della Repubblica italiana.  
-  
+Il presente decreto entra in vigore il giorno successivo a quello della sua pubblicazione nella Gazzetta Ufficiale della Repubblica italiana.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 10 maggio 1982
+Dato a Roma, addi' 10 maggio 1982
 
-PERTINI SPADOLINI - ABIS - COLOMBO - ANDREATTA - NICOLAZZI - DARIDA
-
-Visto, il Guardasigilli: DARIDA
-
-Registrato alla Corte dei conti, addi' 27 luglio 1982
-
-Atti di Governo, registro n. 41, foglio n. 7
+PERTINI SPADOLINI - ABIS - COLOMBO - ANDREATTA - NICOLAZZI - DARIDA Visto, il Guardasigilli: DARIDA Registrato alla Corte dei conti, addi' 27 luglio 1982 Atti di Governo, registro n. 41, foglio n. 7

@@ -1,19 +1,21 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 14 giugno 1968 n. 852
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 852
+data: 1968-06-14
+titolo: "Riconoscimento, agli effetti civili, della erezione della parrocchia di S. Giuseppe Benedetto Cottolengo, in Genova."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1968-06-14;852
+codice_redazionale: 068U0852
+vigente: true
+---
 
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 14 giugno 1968 n. 852
-=============================================================
-
-Riconoscimento, agli effetti civili, della erezione della parrocchia di S. Giuseppe Benedetto Cottolengo, in Genova.
---------------------------------------------------------------------------------------------------------------------
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-852. Decreto del Presidente della Repubblica 14 giugno 1968, col quale, sulla proposta del Ministro per l'interno, viene riconosciuto, agli effetti civili, il decreto dell'Ordinario diocesano di Genova in data 14 maggio 1967, integrato con dichiarazione del 25 agosto 1967, relativo alla erezione della parrocchia di S. Giuseppe benedetto Cottolengo, in Genova.  
-  
-Visto, il Guardasigilli: GONELLA  
-Registrato alla Corte dei conti, addi' 25 luglio 1968  
-Atti del Governo, registro n. 222, foglio n. 22. - GRECO
+852.
+
+Decreto del Presidente della Repubblica 14 giugno 1968, col quale, sulla proposta del Ministro per l'interno, viene riconosciuto, agli effetti civili, il decreto dell'Ordinario diocesano di Genova in data 14 maggio 1967, integrato con dichiarazione del 25 agosto 1967, relativo alla erezione della parrocchia di S. Giuseppe benedetto Cottolengo, in Genova.
+
+Visto, il Guardasigilli: GONELLA
+ Registrato alla Corte dei conti, addi' 25 luglio 1968
+ Atti del Governo, registro n. 222, foglio n. 22. - GRECO

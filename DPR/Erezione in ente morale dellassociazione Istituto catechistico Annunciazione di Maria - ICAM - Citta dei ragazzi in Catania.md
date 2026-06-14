@@ -1,19 +1,21 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 ottobre 1976 n. 828
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 828
+data: 1976-10-02
+titolo: "Erezione in ente morale dell'associazione \"Istituto catechistico Annunciazione di Maria - ICAM - Citta' dei ragazzi\", in Catania."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1976-10-02;828
+codice_redazionale: 076U0828
+vigente: true
+---
 
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 ottobre 1976 n. 828
-==============================================================
-
-Erezione in ente morale dell'associazione "Istituto catechistico Annunciazione di Maria - ICAM - Citta' dei ragazzi", in Catania.
----------------------------------------------------------------------------------------------------------------------------------
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-828. Decreto del Presidente della Repubblica 2 ottobre 1976, col quale, sulla proposta del Ministro per l'interno, l'associazione "Istituto catechistico Annunciazione di Maria - ICAM - Citta' dei ragazzi", in Catania, viene eretta in ente morale e ne viene approvato lo statuto.  
-  
-Visto, il Guardasigilli: BONIFACIO  
-Registrato alla Corte dei conti, addi' 4 dicembre 1976  
-Registro n. 22 Interno, foglio n. 146
+828.
+
+Decreto del Presidente della Repubblica 2 ottobre 1976, col quale, sulla proposta del Ministro per l'interno, l'associazione "Istituto catechistico Annunciazione di Maria - ICAM - Citta' dei ragazzi", in Catania, viene eretta in ente morale e ne viene approvato lo statuto.
+
+Visto, il Guardasigilli: BONIFACIO
+ Registrato alla Corte dei conti, addi' 4 dicembre 1976
+ Registro n. 22 Interno, foglio n. 146

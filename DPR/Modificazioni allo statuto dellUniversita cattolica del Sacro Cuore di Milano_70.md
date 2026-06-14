@@ -1,65 +1,116 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 ottobre 1982 n. 1111
-
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 ottobre 1982 n. 1111
-===============================================================
-
-Modificazioni allo statuto dell'Universita' cattolica del Sacro Cuore di Milano.
---------------------------------------------------------------------------------
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 1036
+data: 1982-10-25
+titolo: "Modificazioni allo statuto dell'Universita' cattolica del Sacro Cuore di Milano."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1982-10-25;1036
+codice_redazionale: 082U1036
+vigente: true
+---
 
 IL PRESIDENTE DELLA REPUBBLICA
-------------------------------
 
-Veduto lo statuto dell'Universita' cattolica del Sacro Cuore di Milano, approvato con [regio decreto 20 aprile 1939, n. 1163](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1163), e successive modificazioni;
+Veduto lo statuto dell'Universita' cattolica del Sacro Cuore di Milano approvato con [regio decreto 20 aprile 1939, n. 1163](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20del%20nuovo%20statuto%20della%20Universita%20cattolica%20del%20Sacro%20Cuore%20di%20Milano.%20039U1163.md), e successive modificazioni;
 
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20R.%20decreto-legge%2020%20giugno%201935-XIII%20n.%201071%20contenente%20modifiche%20ed%20aggiornamenti%20al%20testo%20unico%20delle%20leggi%20sullistruzione%20superiore.%20036U0073.md);
 
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
+Veduto il [regio decreto 30 settembre 1938, n. 1652](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disposizioni%20sullordinamento%20didattico%20universitario.%20038U1652.md), e successive modificazioni;
 
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
+Veduta la [legge 11 aprile 1953, n. 312](../Atti%20normativi%20abrogati%20%28in%20originale%29/Libera%20inclusione%20di%20nuovi%20insegnamenti%20complementari%20negli%20statuti%20delle%20Universita%20e%20degli%20Istituti%20distruzione%20superiore.md);
 
-Veduto il [decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382);
+Veduto il [decreto del Presidente della Repubblica 11 luglio 1980, n. 382](Riordinamento%20della%20docenza%20universitaria%20relativa%20fascia%20di%20formazione%20nonche%20sperimentazione%20organizzativa%20e%20didattica.md);
 
 Vedute le proposte di modifica dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
 
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' cattolica del Sacro Cuore di Milano e convalidati dal Consiglio universitario nazionale nel suo parere;
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](https://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592#art_17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' cattolica del Sacro Cuore di Milano e convalidati dal Consiglio universitario nazionale nel suo parere;
 
 Sentito il parere del Consiglio universitario nazionale;
 
 Sulla proposta del Ministro della pubblica istruzione;
 
-Decreta:
---------
+Decreta: Lo statuto dell'Universita' cattolica del Sacro Cuore di Milano, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
 
-Lo statuto dell'Universita' cattolica del Sacro Cuore di Milano, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+## Articolo unico
 
-Articolo unico
---------------
-
-  
-L'art. 11, concernente il corso di laurea in scienze politiche, e' modificato come segue:  
-nell'elenco delle discipline obbligatorie del biennio specialistico per l'indirizzo politico-amministrativo e' aggiunto l'insegnamento di "economia politica (corso superiore)" ed e' depennato l'insegnamento di "diritto internazionale";  
-nell'elenco delle discipline obbligatorie del biennio specialistico per l'indirizzo politico-economico e' aggiunto l'insegnamento di "organizzazione internazionale" ed e' depennato l'insegnamento di "diritto Internazionale";  
-nell'elenco delle discipline obbligatorie del biennio specialistico per l'indirizzo politico internazionale e' aggiunto l'insegnamento di "economia politica (corso superiore)";  
-nell'elenco delle discipline obbligatorie del biennio specialistico per l'indirizzo politico-sociale e' aggiunto l'insegnamento di "economia politica (corso superiore)" ed e' depennato l'insegnamento di "politica del lavoro e legislazione sociale";  
-nell'elenco degli insegnamenti complementari sono inserite le seguenti discipline:  
-diritto internazionale;  
-politica del lavoro e legislazione sociale;  
-teoria dell'impresa e della societa' industriale;  
-economia delle materie prime.  
-  
+Nel titolo IX, il punto 1. - Laurea in matematica (indirizzo didattico) e l'art. 24, concernente l'ordinamento di tale corso di laurea, sono soppressi e sostituiti come segue: 
+ 
+ 1. - LAUREA IN MATEMATICA 
+ (indirizzi didattico ed applicativo) 
+ Art. 24. - Titoli di ammissione al corso di laurea in matematica sono quelli stabiliti dall'[art. 1 della legge 11 dicembre 1969, n. 910](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1969-12-11;910#art_1). I corsi di studio si distinguono in due indirizzi: didattico e applicativo. Gli insegnamenti sono i seguenti: 
+ 
+ Insegnamenti fondamentali 
+ 1° BIENNIO (comune ai due indirizzi). 
+ 1° Anno: 
+ 1) analisi matematica I; 
+ 2) geometria I; 
+ 3) algebra; 
+ 4) fisica generale I. 
+ 2° Anno: 
+ 5) analisi matematica II; 
+ 6) geometria II; 
+ 7) fisica generale II; 
+ 8) meccanica razionale. 
+ Per ciascuno degli insegnamenti sopra elencati vi e' un esame finale. 
+ Gli insegnamenti fondamentali sopra elencati sono accompagnati ciascuno da un corso di esercitazioni che ne e' parte integrante. 
+ I corsi di analisi matematica, di geometria, di fisica generale non devono essere considerati come dei comuni corsi biennali; essi constano ciascuno di due parti annuali distinte, la prima propedeutica alla seconda; e con esami distinti il primo propedeutico al secondo. 
+ Potranno essere iscritti al secondo anno quegli studenti che abbiano superato almeno due degli esami di analisi matematica I, geometria I, algebra. 
+ 2° BIENNIO (insegnamenti comuni ai due indirizzi). 
+ 3° Anno: 
+ 9) istituzioni di analisi superiore; 
+ 10) istituzioni di geometria superiore; 
+ 11) istituzioni di fisica matematica. 
+ Dovranno inoltre essere seguiti i seguenti corsi: 
+ a) per l'indirizzo didattico: 
+ 12) matematiche elementari da un punto di vista superiore; 
+ b) per l'indirizzo applicativo: 
+ 12) teoria ed applicazioni delle macchine calcolatrici. 
+ 4° Anno: 
+ a) per l'indirizzo didattico: 
+ 13) matematiche complementari; 
+ 14-15) due insegnamenti complementari di cui almeno uno ad 
+indirizzo fisico (fra quelli effettivamente impartiti di anno in anno); 
+ b) per l'indirizzo applicativo: 
+ 13) analisi numerica; 
+ 14-15) due insegnamenti complementari di cui almeno uno 
+ad indirizzo fisico (fra quelli effettivamente impartiti di anno in anno). 
+ Insegnamenti complementari: 
+ a) per l'indirizzo didattico: 
+ 1) chimica con esercitazioni di laboratorio (per 
+fisici); 
+ 2) elaboratori elettronici; 
+ 3) fisica superiore; 
+ 4) istituzioni di fisica teorica; 
+ 5) logica matematica; 
+ 6) matematica finanziaria attuariale; 
+ 7) pedagogia delle scienze matematiche, fisiche e 
+naturali; 
+ 8) statistica matematica; 
+ 9) storia della matematica; 
+ 10) struttura della materia; 
+ 11) algebra superiore; 
+ 12) analisi funzionale; 
+ 13) geometria differenziale; 
+ 14) topologia; 
+ 15) meccanica superiore; 
+ 16) preparazione di esperienze didattiche; 
+ b) per l'indirizzo applicativo: 
+ 1) statistica matematica; 
+ 2) calcolo delle probabilita'; 
+ 3) economia matematica; 
+ 4) biomatematica; 
+ 5) logica matematica; 
+ 6) matematica finanziaria attuariale; 
+ 7) ricerca operativa; 
+ 8) teoria dei linguaggi; 
+ 9) teoria dei sistemi; 
+ 10) fisica matematica; 
+ 11) meccanica superiore. 
+ Per essere ammesso all'esame di laurea lo studente deve aver seguito i corsi e superato gli esami di tutti gli insegnamenti previsti dall'ordinamento dell'indirizzo prescelto.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 28 ottobre 1982
+Dato a Roma, addi' 25 ottobre 1982
 
-PERTINI BODRATO
-
-Visto, il Guardasigilli: DARIDA
-
-Registrato alla Corte dei conti, addi' 17 febbraio 1983
-
-Registro n. 12 Istruzione, foglio n. 172
+PERTINI BODRATO Visto, il Guardasigilli: DARIDA Registrato alla Corte dei conti, addi' 10 gennaio 1983 Registro n. 1 Istruzione, foglio n. 24

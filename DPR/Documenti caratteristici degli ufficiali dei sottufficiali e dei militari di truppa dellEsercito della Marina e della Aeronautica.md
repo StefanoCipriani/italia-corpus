@@ -1,103 +1,101 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 15 giugno 1965 n. 1431
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 1431
+data: 1965-06-15
+titolo: "Documenti caratteristici degli ufficiali, dei sottufficiali e dei militari di truppa dell'Esercito, della Marina e della Aeronautica."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1965-06-15;1431
+codice_redazionale: 065U1431
+vigente: true
+---
 
+## Documenti caratteristici per gli ufficiali
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 15 giugno 1965 n. 1431
-==============================================================
+CAPO I
 
-Documenti caratteristici degli ufficiali, dei sottufficiali e dei militari di truppa dell'Esercito, della Marina e della Aeronautica.
--------------------------------------------------------------------------------------------------------------------------------------
+### Art. 1.
 
-CAPO I CAPO I Documenti caratteristici per gli ufficiali
---------------------------------------------------------
+((PROVVEDIMENTO ABROGATO DAL [D.P.R. 8 AGOSTO 2002, N. 213](../Atti%20normativi%20abrogati%20%28in%20originale%29/Regolamento%20recante%20disciplina%20per%20la%20redazione%20dei%20documenti%20caratteristici%20del%20personale%20appartenente%20allEsercito%20alla%20Marina%20allAeronautica%20e%20allArma%20dei%20carabinieri.md)))
 
-### Art. 1
+### Art. 2.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 8 AGOSTO 2002, N. 213](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2002-08-08;213)))  
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 8 AGOSTO 2002, N. 213))
 
-### Art. 2
+### Art. 3.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 8 AGOSTO 2002, N. 213](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2002-08-08;213)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 8 AGOSTO 2002, N. 213))
 
-### Art. 3
+### Art. 4.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 8 AGOSTO 2002, N. 213](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2002-08-08;213)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 8 AGOSTO 2002, N. 213))
 
-### Art. 4
+### Art. 5.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 8 AGOSTO 2002, N. 213](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2002-08-08;213)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 8 AGOSTO 2002, N. 213))
 
-### Art. 5
+### Art. 6.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 8 AGOSTO 2002, N. 213](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2002-08-08;213)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 8 AGOSTO 2002, N. 213))
 
-### Art. 6
+### Art. 7.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 8 AGOSTO 2002, N. 213](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2002-08-08;213)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 8 AGOSTO 2002, N. 213))
 
-### Art. 7
+### Art. 8.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 8 AGOSTO 2002, N. 213](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2002-08-08;213)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 8 AGOSTO 2002, N. 213))
 
-### Art. 8
+### Art. 9.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 8 AGOSTO 2002, N. 213](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2002-08-08;213)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 8 AGOSTO 2002, N. 213))
 
-### Art. 9
+### Art. 10.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 8 AGOSTO 2002, N. 213](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2002-08-08;213)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 8 AGOSTO 2002, N. 213))
 
-### Art. 10
+### Art. 11.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 8 AGOSTO 2002, N. 213](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2002-08-08;213)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 8 AGOSTO 2002, N. 213))
 
-### Art. 11
+### Art. 12.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 8 AGOSTO 2002, N. 213](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2002-08-08;213)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 8 AGOSTO 2002, N. 213))
 
-### Art. 12
+### Art. 13.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 8 AGOSTO 2002, N. 213](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2002-08-08;213)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 8 AGOSTO 2002, N. 213))
 
-### Art. 13
+### Art. 14.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 8 AGOSTO 2002, N. 213](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2002-08-08;213)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 8 AGOSTO 2002, N. 213))
 
-### Art. 14
+## Documenti caratteristici per sottufficiali
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 8 AGOSTO 2002, N. 213](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2002-08-08;213)))
+CAPO II
 
-CAPO II CAPO II Documenti caratteristici per sottufficiali
-----------------------------------------------------------
+### Art. 15.
 
-### Art. 15
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 8 AGOSTO 2002, N. 213))
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 8 AGOSTO 2002, N. 213](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2002-08-08;213)))
+### Art. 16.
 
-### Art. 16
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 8 AGOSTO 2002, N. 213))
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 8 AGOSTO 2002, N. 213](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2002-08-08;213)))
+### Art. 17.
 
-### Art. 17
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 8 AGOSTO 2002, N. 213))
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 8 AGOSTO 2002, N. 213](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2002-08-08;213)))
+### Art. 18.
 
-### Art. 18
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 8 AGOSTO 2002, N. 213))
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 8 AGOSTO 2002, N. 213](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2002-08-08;213)))
+## Documenti caratteristici per i militari di truppa
 
-CAPO III CAPO III Documenti caratteristici per i militari di truppa
--------------------------------------------------------------------
+CAPO III
 
-### Art. 19
+### Art. 19.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 8 AGOSTO 2002, N. 213](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2002-08-08;213)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 8 AGOSTO 2002, N. 213))
 
-### Art. 20
+### Art. 20.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 8 AGOSTO 2002, N. 213](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2002-08-08;213)))
-
-Modelli
-
- Modelli   
-
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 8 AGOSTO 2002, N. 213](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2002-08-08;213)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 8 AGOSTO 2002, N. 213))

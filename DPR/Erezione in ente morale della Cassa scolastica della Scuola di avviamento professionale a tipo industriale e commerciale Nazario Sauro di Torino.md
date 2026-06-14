@@ -1,19 +1,21 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 27 novembre 1951 n. 1811
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 1811
+data: 1951-11-27
+titolo: "Erezione in ente morale della Cassa scolastica della Scuola di avviamento professionale a tipo industriale e commerciale \"Nazario Sauro\" di Torino."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1951-11-27;1811
+codice_redazionale: 051U1811
+vigente: true
+---
 
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 27 novembre 1951 n. 1811
-================================================================
-
-Erezione in ente morale della Cassa scolastica della Scuola di avviamento professionale a tipo industriale e commerciale "Nazario Sauro" di Torino.
----------------------------------------------------------------------------------------------------------------------------------------------------
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-180. Decreto del Presidente della Repubblica 27 novembre 1951, col quale, sulla proposta del Ministro per la pubblica istruzione, la Cassa scolastica della Scuola di avviamento professionale a tipo industriale e commerciale "Nazario Sauri" di Torino, viene eretta in ente morale e ne viene approvato lo statuto.  
-  
-Visto, il Guardasigilli: ZOLI  
-Registrato alla Corte dei conti, addi' 17 aprile 1952  
-Atti del Governo, registro n. 51, foglio n. 67. - FRASCA
+180.
+
+Decreto del Presidente della Repubblica 27 novembre 1951, col quale, sulla proposta del Ministro per la pubblica istruzione, la Cassa scolastica della Scuola di avviamento professionale a tipo industriale e commerciale "Nazario Sauri" di Torino, viene eretta in ente morale e ne viene approvato lo statuto.
+
+Visto, il Guardasigilli: ZOLI
+ Registrato alla Corte dei conti, addi' 17 aprile 1952
+ Atti del Governo, registro n. 51, foglio n. 67. - FRASCA

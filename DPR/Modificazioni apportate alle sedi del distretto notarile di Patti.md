@@ -1,37 +1,29 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 27 novembre 1957 n. 1242
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 1242
+data: 1957-11-27
+titolo: "Modificazioni apportate alle sedi del distretto notarile di Patti."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1957-11-27;1242
+codice_redazionale: 057U1242
+vigente: true
+---
 
+## Art. 1.
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 27 novembre 1957 n. 1242
-================================================================
+IL PRESIDENTE DELLA REPUBBLICA
 
-Modificazioni apportate alle sedi del distretto notarile di Patti.
-------------------------------------------------------------------
+ Visto l'[art. 4 della legge 16 febbraio 1913, n. 89](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1913-02-16;89#art_4);
+ Visto il [decreto Presidenziale 18 gennaio 1954, n. 18](Revisione%20della%20tabella%20che%20determina%20il%20numero%20e%20la%20residenza%20dei%20notari.md), sulla revisione della tabella che determina il numero e la residenza dei notai;
+ Ritenuta la necessita' di sopprimere le sedi notarili nei comuni di Galati Mamertino, di Piraino, di Sinagra, di Ucria e di Pettineo, dei distretti notarili riuniti di Patti e Mistretta;
+ Visti i pareri del Consiglio notarile di Patti e della Corte d'appello di Messina;
+ Sulla proposta del Guardasigilli, Ministro Segretario di Stato per la grazia e giustizia;
 
-Art. 1
-------
+ Decreta:
 
- IL PRESIDENTE DELLA REPUBBLICA  
-  
-Visto l'[art. 4 della legge 16 febbraio 1913, n. 89](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1913-02-16;89~art4);  
-Visto il [decreto Presidenziale 18 gennaio 1954, n. 18](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1954-01-18;18), sulla revisione della tabella che determina il numero e la residenza dei notai;  
-Ritenuta la necessita' di sopprimere le sedi notarili nei comuni di Galati Mamertino, di Piraino, di Sinagra, di Ucria e di Pettineo, dei distretti notarili riuniti di Patti e Mistretta;  
-Visti i pareri del Consiglio notarile di Patti e della Corte d'appello di Messina;  
-Sulla proposta del Guardasigilli, Ministro Segretario di Stato per la grazia e giustizia;  
-  
-Decreta:  
-  
-La tabella che determina il numero e la residenza dei notai, approvata con [decreto Presidenziale 18 gennaio 1954, n. 18](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1954-01-18;18), e' modificata nel senso che sono soppresse le sedi notarili nei comuni di Galati Mamertino, di Piraino, di Sinagra, di Ucria e di Pettineo, del distretto notarile di Patti.  
-  
+ La tabella che determina il numero e la residenza dei notai, approvata con [decreto Presidenziale 18 gennaio 1954, n. 18](Revisione%20della%20tabella%20che%20determina%20il%20numero%20e%20la%20residenza%20dei%20notari.md), e' modificata nel senso che sono soppresse le sedi notarili nei comuni di Galati Mamertino, di Piraino, di Sinagra, di Ucria e di Pettineo, del distretto notarile di Patti.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 27 novembre 1957
+Dato a Roma, addi' 27 novembre 1957
 
-GRONCHI GONELLA
-
-Visto, il Guardasigilli: GONELLA
-
-Registrato alla Corte dei conti, addi' 27 dicembre 1957
-
-Atti del Governo, registro n. 109, foglio n. 152. - RELLEVA
+GRONCHI GONELLA Visto, il Guardasigilli: GONELLA Registrato alla Corte dei conti, addi' 27 dicembre 1957 Atti del Governo, registro n. 109, foglio n. 152. - RELLEVA

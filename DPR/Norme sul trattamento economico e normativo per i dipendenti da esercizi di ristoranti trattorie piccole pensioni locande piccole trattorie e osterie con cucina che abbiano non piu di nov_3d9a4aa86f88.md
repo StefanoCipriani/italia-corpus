@@ -1,20 +1,20 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 gennaio 1962 n. 1156
-
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 gennaio 1962 n. 1156
-===============================================================
-
-Norme sul trattamento economico e normativo per i dipendenti da esercizi di ristoranti, trattorie, piccole pensioni, locande, piccole trattorie e osterie con cucina che abbiano non piu' di nove camere per alloggio, caffe', bars, bottiglierie, birrerie, buffets di stazione, gelaterie, fiaschetterie e da ogni altro esercizio similare ove si somministrano bevande di cui all'art. 86 della legge di P.S., da negozi di pasticceria e confetteria, reparti di pasticceria e confetteria annessi a pubblici esercizi delle province di Ancona, Bari, Belluno, Bolzano, Brescia, Catania, Ferrara, Firenze, Lucca, Macerata, Milano, Napoli, Novara, Padova, Parma, Pistoia, Reggio Calabria, Reggio Emilia, Roma, Taranto, Terni, Torino, Trento, Treviso, Venezia, Verona e Vicenza.
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 1156
+data: 1962-01-02
+titolo: "Norme sul trattamento economico e normativo per i dipendenti da esercizi di ristoranti, trattorie, piccole pensioni, locande, piccole trattorie e osterie con cucina che abbiano non piu' di nove camere per alloggio, caffe', bars, bottiglierie, birrerie, buffets di stazione, gelaterie, fiaschetterie e da ogni altro esercizio similare ove si somministrano bevande di cui all'art. 86 della legge di P.S., da negozi di pasticceria e confetteria, reparti di pasticceria e confetteria annessi a pubblici esercizi delle province di Ancona, Bari, Belluno, Bolzano, Brescia, Catania, Ferrara, Firenze, Lucca, Macerata, Milano, Napoli, Novara, Padova, Parma, Pistoia, Reggio Calabria, Reggio Emilia, Roma, Taranto, Terni, Torino, Trento, Treviso, Venezia, Verona e Vicenza."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1962-01-02;1156
+codice_redazionale: 062U1156
+vigente: true
+---
 
 IL PRESIDENTE DELLA REPUBBLICA
-------------------------------
 
-Visto l'[art. 87, comma quinto, della Costituzione](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27~art87-com5);
+Visto l'[art. 87, comma quinto, della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87-com5);
 
-Vista la [legge 14 luglio 1959, n. 741](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1959-07-14;741), che delega il Governo ad emanare norme transitorie per garantire minimi di trattamento economico e normativo ai lavoratori;
+Vista la [legge 14 luglio 1959, n. 741](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1959-07-14;741), che delega il Governo ad emanare norme transitorie per garantire minimi di trattamento economico e normativo ai lavoratori;
 
-Vista la [legge 1 ottobre 1960, n. 1027](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1960-10-01;1027), recante modifiche alla predetta [legge 14 luglio 1959, n. 741](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1959-07-14;741);
+Vista la [legge 1 ottobre 1960, n. 1027](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1960-10-01;1027), recante modifiche alla predetta [legge 14 luglio 1959, n. 741](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1959-07-14;741);
 
 Visto il contratto collettivo nazionale di lavoro 15 maggio 1959, per i dipendenti da aziende di ristoranti, trattorie, piccole pensioni, locande, piccole trattorie e osterie con cucina che abbiano non piu' di nove camere per alloggio;
 
@@ -192,597 +192,72 @@ Vista la pubblicazione nell'apposito Bollettino, n. 4 della provincia di Ancona,
 
 Sentito il Consiglio dei Ministri;
 
-Sulla
------
+Sulla proposta del Ministro per il lavoro e la previdenza sociale; Decreta:
 
-proposta del Ministro per il lavoro e la previdenza sociale; Decreta:
+## Articolo unico.
 
-Articolo unico
---------------
+I rapporti di lavoro costituiti per le attivita' per le quali sono stati stipulati i contratti e gli accordi collettivi sottoelencati sono regolati da norme giuridiche uniformi alle clausole dei contratti e degli accordi stessi, annessi al presente decreto, purche' compatibili con quelle concernenti la disciplina nazionale della categoria:
 
-  
-  
-I rapporti di lavoro costituiti per le attivita' per le quali sono stati stipulati i contratti e gli accordi collettivi sottoelencati sono regolati da norme giuridiche uniformi alle clausole dei contratti e degli accordi stessi, annessi al presente decreto, purche' compatibili con quelle concernenti la disciplina nazionale della categoria:  
-  
-- per la provincia di Ancona, contratto collettivo integrativo 15 febbraio 1960, relativo al personale dipendente da ristoranti e trattorie, e contratto collettivo integrativo 15 febbraio 1960, relativo al personale dipendente da caffe', bars, birrerie, gelaterie, pasticcerie e sale da ballo;  
-  
-- per la provincia di Bari, accordo collettivo integrativo 16 febbraio 1959, relativo al personale dipendente da ristoranti, trattorie ed esercizi similari, e accordo collettivo integrativo 3 agosto 1959, relativo al personale dipendente da caffe', bars, birrerie, gelaterie, pasticcerie e sale da ballo;  
-  
-- per la provincia di Belluno, contratto collettivo integrativo 1 agosto 1951, relativo ai dipendenti da ristoranti, trattorie, osterie con cucina ed esercizi similari, e contratto collettivo integrativo 1 agosto 1951, relativo ai dipendenti da caffe', bars, birrerie ed esercizi similari;  
-  
-- per la provincia di Bolzano, accordo collettivo integrativo 1 settembre 1959, relativo ai dipendenti da ristoranti, trattorie ed esercizi similari, caffe', bars, bottiglierie, gelaterie, birrerie e pasticcerie;  
-  
-- per la provincia di Brescia, contratto collettivo integrativo 23 settembre 1959, relativo ai dipendenti (la ristoranti, trattorie, piccole pensioni, locande, piccole trattorie e osterie con cucina che abbiano non piu' di nove camere per alloggio, e contratto collettivo integrativo 28 settembre 1959, relativo ai dipendenti da caffe', bars, birrerie, bottiglierie, gelaterie, pasticcerie, confetterie ed esercizi similari;  
-  
-- per la provincia di Catania, accordo collettivo integrativo 13 giugno 1949 e accordo collettivo 26 maggio 1950, relativi al personale interno dei ristoranti, trattorie, piccole trattorie e osterie con cucina, accordo collettivo 28 giugno 1954, relativo ai lavoranti addetti ai servizi extra dei bars e pasticcerie, accordo collettivo 15 aprile 1957, relativo al personale addetto ai servizi speciali dei caffe', bars c pasticcerie, accordo collettivo 21 settembre 1959, relativo al personale non impiegatizio dei bars, caffe' e pasticcerie;  
-  
-- per la provincia di Ferrara, contratto collettivo integrativo 2 luglio 1958, relativo ai dipendenti da ristoranti, trattorie, piccole pensioni, locande, piccole trattorie e osterie con cucina che abbiano non piu' di nove camere per alloggio, e contratto collettivo integrativo 2 luglio 1958, relativo ai dipendenti da caffe', bars, bottiglierie, birrerie, buffets di stazione, gelaterie, fiaschetterie e da ogni altro esercizio similare;  
-  
-- per la provincia di Firenze, accordo collettivo integrativo 22 dicembre 1956, relativo ai dipendenti da ristoranti, trattorie ed esercizi similari, e accordo collettivo integrativo 22, dicembre 1956, relativo ai dipendenti da caffe', bars, pasticcerie;  
-  
-- per la provincia di Lucca, accordo collettivo integrativo 1 ottobre 1959, relativo ai dipendenti da ristoranti e trattorie, e accordo collettivo integrativo 1 ottobre 1959, relativo ai dipendenti da aziende di caffe', bars, bottiglierie, birrerie, buffets di stazione, gelaterie ed ogni altro esercizio similare ove si somministrino bevande contemplate nell'art. 86 della legge di P.S., negozi di pasticceria e confetteria, reparti di pasticceria e confetteria annessi a pubblici esercizi;  
-  
-- per la provincia di Macerata, contratto collettivo integrativo 18 giugno 1955, relativo ai dipendenti da ristoranti, trattorie, pensioni, locande e similari, e contratto collettivo integrativo 31 maggio 1955, relativo ai dipendenti da bars, caffe', bottiglierie, gelaterie, pasticcerie, confetterie ed ogni altro pubblico esercizio similare;  
-  
-- per la provincia di Milano, accordo collettivo integrativo 15 novembre 1956, relativo ai dipendenti da ristoranti, trattorie, piccole pensioni, locande, osterie con cucina ed esercizi similari, e accordo collettivo integrativo 19 luglio 1956, relativo ai dipendenti da caffe', bars birrerie, bottiglierie, gelaterie, pasticcerie, confetterie e similari;  
-  
-- per la provincia di Napoli, accordo collettivo integrativo 25 settembre 1959, relativo ai dipendenti da ristoranti, trattorie, osterie con cucina ed esercizi similari, piccole pensioni e locande, e accordo collettivo 2 febbraio 1954, relativo ai dipendenti da caffe', bars, birrerie, bottiglierie, gelaterie e pasticcerie;  
-  
-- per la provincia di Novara, accordi collettivi 20 dicembre 1946 e 21 luglio 1949, concernenti le indennita' di carovita per i dipendenti da aziende commerciali, accordo collettivo integrativo 1 ottobre 1959, relativo al personale dipendente da ristoranti, trattorie, osterie con cucina ed esercizi similari, e accordo collettivo integrativo 1 ottobre 1959, relativo ai dipendenti da caffe', bars, birrerie, pasticcerie, gelaterie, locali notturni, bottiglierie e sale da ballo;  
-  
-- per la provincia di Padova, contratto collettivo integrativo 1 ottobre 1959, relativo ai dipendenti da ristoranti, trattorie, piccole pensioni, locande, piccole trattorie e osterie con cucina, caffe', bar, bottiglierie, birrerie, buffets di stazione, gelaterie, fiaschetterie e da ogni altro esercizio similare ove si somministrano bevande di cui all'art. 86 della legge P.S., da negozi di pasticceria e confetteria, reparti di pasticceria e confetteria annessi a pubblici esercizi;  
-  
-- per la provincia di Parma, contratto collettivo integrativo 1 luglio 1960, relativo ai dipendenti da ristoranti e trattorie, e contratto collettivo integrativo 23 settembre 1959, relativo ai dipendenti da caffe', bars, bottiglierie, confetterie, gelaterie ed ogni altro esercizi similare;  
-  
-- per la provincia di Pistoia, accordo collettivo integrativo 27 luglio 1959, relativo ai dipendenti da ristoranti, trattorie ed esercizi similari, accordo collettivo integrativo 27 luglio 1959, relativo ai dipendenti da caffe', bar, birrerie, gelaterie e sale da ballo, e accordo collettivo 27 luglio 1959, concernente il frazionamento del riposo settimanale negli esercizi pubblici:  
-  
-- per la provincia di Reggio Calabria, contratto collettivo integrativo 29 settembre 1959, relativo ai dipendenti da ristoranti e trattorie, e contratto collettivo integrativo 2 ottobre 1959, relativo ai dipendenti da caffe', bars, birrerie, gelaterie, pasticcerie, sale da ballo ed esercizi similari;  
-  
-- per la provincia di Reggio Emilia, contratto collettivo integrativo 15 maggio 1954, relativo al personale dipendente da ristoranti, trattorie ed esercizi similari, e contratto collettivo integrativo 15 maggio 1954, relativo ai dipendenti da caffe', bars, birrerie, bottiglierie, pasticcerie ed esercizi similari;  
-  
-- per la provincia di Roma, accordo collettivo integrativo 30 settembre 1959, relativo ai dipendenti da ristoranti e trattorie rosticcerie ed esercizi similari, e accordo collettivo integrativo 14 marzo 1955, relativo ai dipendenti da aziende di caffe', bars, bottiglierie, birrerie, buffets di stazione, gelaterie, fiaschetterie e di ogni altro esercizio similare ove si somministrino bevande contemplate, nell'art. 86 della legge di P.S., negozi di pasticceria e confetteria, reparti di pasticceria e confetteria annessi a pubblici esercizi;  
-  
-- per il comune di Roma, accordo collettivo 1 ottobre 1959, concernente le retribuzioni degli apprendisti barista e degli altri dipendenti da caffe', bars e pasticceri;  
-  
-- per la provincia di Taranto, contratto collettivo integrativo 17, 19, 20 e 28 settembre 1959, relativo ai dipendenti da aziende di ristoranti, trattorie, piccole pensioni, locande, piccole trattorie ed osterie con cucina che abbiano non piu' di nove camere per alloggio, e contratto collettivo integrativo 20, 23 e 26 settembre 1959, relativo ai dipendenti da caffe', bars, birrerie, gelaterie, pasticcerie e sale da ballo;  
-  
-- per la provincia di Terni, accordo collettivo integrativo 14 giugno 1957, relativo ai dipendenti da pubblici esercizi (ristoranti e trattorie, piccole pensioni, locande, piccole trattorie e osterie con cucina che abbiano non piu' di nove camere per alloggio), e accordo collettivo integrativo 17 dicembre 1956, relativo ai dipendenti da pubblici esercizi, (caffe', bars, pasticcerie ed esercizi similari);  
-  
-- per la provincia di Torino, accordo collettivo 8 febbraio 1951, concernente l'adeguamento salariale per i dipendenti dei pubblici esercizi, contratto collettivo integrativo 28 settembre 1956, relativo al personale dipendente da ristoranti, trattorie ed esercizi similari, e contratto collettivo integrativo 8 marzo 1951, relativo al personale dipendente da caffe', bars, birrerie, bottiglierie, gelaterie, negozi di pasticceria e confetteria ed ogni altro esercizio similare;  
-  
-- per la provincia di Trento, accordo collettivo 25 giugno 1959, relativo ai lavoratori dipendenti da pubblici esercizi, ristoranti e similari;  
-  
-- per la provincia di Treviso, accordo collettivo integrativo 17 dicembre 1956, relativo ai dipendenti da aziende di ristorante, trattorie, piccole pensioni, locande, piccole trattorie e osterie con cucina che abbiano non piu' di 9 camere per alloggio, e contratto collettivo integrativo 30 marzo 1960, relativo ai dipendenti da caffe', bars, birrerie, gelaterie, pasticcerie e sale da ballo;  
-  
-- per la provincia di Venezia, contratto collettivo integrativo 15 giugno 1956, relativo ai dipendenti da ristoranti, trattorie, osterie con cucina ed esercizi similari, caffe', bars, pasticcerie e confetterie;  
-  
-- per la provincia di Verona, accordo collettivo 20 luglio 1959, relativo al personale interno e impiegatizio dipendente da pubblici esercizi;  
-  
-- per la provincia di Vicenza, accordo collettivo 23 novembre 1951, relativo ai dipendenti da ristoranti, trattorie ed esercizi similari, e accordo collettivo 15 giugno 1954, relativo ai dipendenti da caffe', bars, birrerie, bottiglierie, gelaterie, pasticcerie, confetterie ed ogni altro esercizio similare.  
-  
-I minimi di trattamento economico e normativo cosi' stabiliti sono inderogabili nei confronti di tutti i lavoratori dipendenti dalle imprese esercenti le attivita' considerate negli accordi e nei contratti collettivi di cui al primo comma, delle province di Ancona, Bari, Belluno, Bolzano, Brescia, Catania, Ferrara, Firenze, Lucca, Macerata, Milano, Napoli, Novara, Padova, Parma, Pistoia, Reggio Calabria, Reggio Emilia, Roma, Taranto, Terni, Torino, Trento, Treviso, Venezia, Verona e Vicenza.  
-  
+ - per la provincia di Ancona, contratto collettivo integrativo 15 febbraio 1960, relativo al personale dipendente da ristoranti e trattorie, e contratto collettivo integrativo 15 febbraio 1960, relativo al personale dipendente da caffe', bars, birrerie, gelaterie, pasticcerie e sale da ballo;
+
+ - per la provincia di Bari, accordo collettivo integrativo 16 febbraio 1959, relativo al personale dipendente da ristoranti, trattorie ed esercizi similari, e accordo collettivo integrativo 3 agosto 1959, relativo al personale dipendente da caffe', bars, birrerie, gelaterie, pasticcerie e sale da ballo;
+
+ - per la provincia di Belluno, contratto collettivo integrativo 1 agosto 1951, relativo ai dipendenti da ristoranti, trattorie, osterie con cucina ed esercizi similari, e contratto collettivo integrativo 1 agosto 1951, relativo ai dipendenti da caffe', bars, birrerie ed esercizi similari;
+
+ - per la provincia di Bolzano, accordo collettivo integrativo 1 settembre 1959, relativo ai dipendenti da ristoranti, trattorie ed esercizi similari, caffe', bars, bottiglierie, gelaterie, birrerie e pasticcerie;
+
+ - per la provincia di Brescia, contratto collettivo integrativo 23 settembre 1959, relativo ai dipendenti (la ristoranti, trattorie, piccole pensioni, locande, piccole trattorie e osterie con cucina che abbiano non piu' di nove camere per alloggio, e contratto collettivo integrativo 28 settembre 1959, relativo ai dipendenti da caffe', bars, birrerie, bottiglierie, gelaterie, pasticcerie, confetterie ed esercizi similari;
+
+ - per la provincia di Catania, accordo collettivo integrativo 13 giugno 1949 e accordo collettivo 26 maggio 1950, relativi al personale interno dei ristoranti, trattorie, piccole trattorie e osterie con cucina, accordo collettivo 28 giugno 1954, relativo ai lavoranti addetti ai servizi extra dei bars e pasticcerie, accordo collettivo 15 aprile 1957, relativo al personale addetto ai servizi speciali dei caffe', bars c pasticcerie, accordo collettivo 21 settembre 1959, relativo al personale non impiegatizio dei bars, caffe' e pasticcerie;
+
+ - per la provincia di Ferrara, contratto collettivo integrativo 2 luglio 1958, relativo ai dipendenti da ristoranti, trattorie, piccole pensioni, locande, piccole trattorie e osterie con cucina che abbiano non piu' di nove camere per alloggio, e contratto collettivo integrativo 2 luglio 1958, relativo ai dipendenti da caffe', bars, bottiglierie, birrerie, buffets di stazione, gelaterie, fiaschetterie e da ogni altro esercizio similare;
+
+ - per la provincia di Firenze, accordo collettivo integrativo 22 dicembre 1956, relativo ai dipendenti da ristoranti, trattorie ed esercizi similari, e accordo collettivo integrativo 22, dicembre 1956, relativo ai dipendenti da caffe', bars, pasticcerie;
+
+ - per la provincia di Lucca, accordo collettivo integrativo 1 ottobre 1959, relativo ai dipendenti da ristoranti e trattorie, e accordo collettivo integrativo 1 ottobre 1959, relativo ai dipendenti da aziende di caffe', bars, bottiglierie, birrerie, buffets di stazione, gelaterie ed ogni altro esercizio similare ove si somministrino bevande contemplate nell'art. 86 della legge di P.S., negozi di pasticceria e confetteria, reparti di pasticceria e confetteria annessi a pubblici esercizi;
+
+ - per la provincia di Macerata, contratto collettivo integrativo 18 giugno 1955, relativo ai dipendenti da ristoranti, trattorie, pensioni, locande e similari, e contratto collettivo integrativo 31 maggio 1955, relativo ai dipendenti da bars, caffe', bottiglierie, gelaterie, pasticcerie, confetterie ed ogni altro pubblico esercizio similare;
+
+ - per la provincia di Milano, accordo collettivo integrativo 15 novembre 1956, relativo ai dipendenti da ristoranti, trattorie, piccole pensioni, locande, osterie con cucina ed esercizi similari, e accordo collettivo integrativo 19 luglio 1956, relativo ai dipendenti da caffe', bars birrerie, bottiglierie, gelaterie, pasticcerie, confetterie e similari;
+
+ - per la provincia di Napoli, accordo collettivo integrativo 25 settembre 1959, relativo ai dipendenti da ristoranti, trattorie, osterie con cucina ed esercizi similari, piccole pensioni e locande, e accordo collettivo 2 febbraio 1954, relativo ai dipendenti da caffe', bars, birrerie, bottiglierie, gelaterie e pasticcerie;
+
+ - per la provincia di Novara, accordi collettivi 20 dicembre 1946 e 21 luglio 1949, concernenti le indennita' di carovita per i dipendenti da aziende commerciali, accordo collettivo integrativo 1 ottobre 1959, relativo al personale dipendente da ristoranti, trattorie, osterie con cucina ed esercizi similari, e accordo collettivo integrativo 1 ottobre 1959, relativo ai dipendenti da caffe', bars, birrerie, pasticcerie, gelaterie, locali notturni, bottiglierie e sale da ballo;
+
+ - per la provincia di Padova, contratto collettivo integrativo 1 ottobre 1959, relativo ai dipendenti da ristoranti, trattorie, piccole pensioni, locande, piccole trattorie e osterie con cucina, caffe', bar, bottiglierie, birrerie, buffets di stazione, gelaterie, fiaschetterie e da ogni altro esercizio similare ove si somministrano bevande di cui all'art. 86 della legge P.S., da negozi di pasticceria e confetteria, reparti di pasticceria e confetteria annessi a pubblici esercizi;
+
+ - per la provincia di Parma, contratto collettivo integrativo 1 luglio 1960, relativo ai dipendenti da ristoranti e trattorie, e contratto collettivo integrativo 23 settembre 1959, relativo ai dipendenti da caffe', bars, bottiglierie, confetterie, gelaterie ed ogni altro esercizi similare;
+
+ - per la provincia di Pistoia, accordo collettivo integrativo 27 luglio 1959, relativo ai dipendenti da ristoranti, trattorie ed esercizi similari, accordo collettivo integrativo 27 luglio 1959, relativo ai dipendenti da caffe', bar, birrerie, gelaterie e sale da ballo, e accordo collettivo 27 luglio 1959, concernente il frazionamento del riposo settimanale negli esercizi pubblici:
+
+ - per la provincia di Reggio Calabria, contratto collettivo integrativo 29 settembre 1959, relativo ai dipendenti da ristoranti e trattorie, e contratto collettivo integrativo 2 ottobre 1959, relativo ai dipendenti da caffe', bars, birrerie, gelaterie, pasticcerie, sale da ballo ed esercizi similari;
+
+ - per la provincia di Reggio Emilia, contratto collettivo integrativo 15 maggio 1954, relativo al personale dipendente da ristoranti, trattorie ed esercizi similari, e contratto collettivo integrativo 15 maggio 1954, relativo ai dipendenti da caffe', bars, birrerie, bottiglierie, pasticcerie ed esercizi similari;
+
+ - per la provincia di Roma, accordo collettivo integrativo 30 settembre 1959, relativo ai dipendenti da ristoranti e trattorie rosticcerie ed esercizi similari, e accordo collettivo integrativo 14 marzo 1955, relativo ai dipendenti da aziende di caffe', bars, bottiglierie, birrerie, buffets di stazione, gelaterie, fiaschetterie e di ogni altro esercizio similare ove si somministrino bevande contemplate, nell'art. 86 della legge di P.S., negozi di pasticceria e confetteria, reparti di pasticceria e confetteria annessi a pubblici esercizi;
+
+ - per il comune di Roma, accordo collettivo 1 ottobre 1959, concernente le retribuzioni degli apprendisti barista e degli altri dipendenti da caffe', bars e pasticceri;
+
+ - per la provincia di Taranto, contratto collettivo integrativo 17, 19, 20 e 28 settembre 1959, relativo ai dipendenti da aziende di ristoranti, trattorie, piccole pensioni, locande, piccole trattorie ed osterie con cucina che abbiano non piu' di nove camere per alloggio, e contratto collettivo integrativo 20, 23 e 26 settembre 1959, relativo ai dipendenti da caffe', bars, birrerie, gelaterie, pasticcerie e sale da ballo;
+
+ - per la provincia di Terni, accordo collettivo integrativo 14 giugno 1957, relativo ai dipendenti da pubblici esercizi (ristoranti e trattorie, piccole pensioni, locande, piccole trattorie e osterie con cucina che abbiano non piu' di nove camere per alloggio), e accordo collettivo integrativo 17 dicembre 1956, relativo ai dipendenti da pubblici esercizi, (caffe', bars, pasticcerie ed esercizi similari);
+
+ - per la provincia di Torino, accordo collettivo 8 febbraio 1951, concernente l'adeguamento salariale per i dipendenti dei pubblici esercizi, contratto collettivo integrativo 28 settembre 1956, relativo al personale dipendente da ristoranti, trattorie ed esercizi similari, e contratto collettivo integrativo 8 marzo 1951, relativo al personale dipendente da caffe', bars, birrerie, bottiglierie, gelaterie, negozi di pasticceria e confetteria ed ogni altro esercizio similare;
+
+ - per la provincia di Trento, accordo collettivo 25 giugno 1959, relativo ai lavoratori dipendenti da pubblici esercizi, ristoranti e similari;
+
+ - per la provincia di Treviso, accordo collettivo integrativo 17 dicembre 1956, relativo ai dipendenti da aziende di ristorante, trattorie, piccole pensioni, locande, piccole trattorie e osterie con cucina che abbiano non piu' di 9 camere per alloggio, e contratto collettivo integrativo 30 marzo 1960, relativo ai dipendenti da caffe', bars, birrerie, gelaterie, pasticcerie e sale da ballo;
+
+ - per la provincia di Venezia, contratto collettivo integrativo 15 giugno 1956, relativo ai dipendenti da ristoranti, trattorie, osterie con cucina ed esercizi similari, caffe', bars, pasticcerie e confetterie;
+
+ - per la provincia di Verona, accordo collettivo 20 luglio 1959, relativo al personale interno e impiegatizio dipendente da pubblici esercizi;
+
+ - per la provincia di Vicenza, accordo collettivo 23 novembre 1951, relativo ai dipendenti da ristoranti, trattorie ed esercizi similari, e accordo collettivo 15 giugno 1954, relativo ai dipendenti da caffe', bars, birrerie, bottiglierie, gelaterie, pasticcerie, confetterie ed ogni altro esercizio similare.
+
+ I minimi di trattamento economico e normativo cosi' stabiliti sono inderogabili nei confronti di tutti i lavoratori dipendenti dalle imprese esercenti le attivita' considerate negli accordi e nei contratti collettivi di cui al primo comma, delle province di Ancona, Bari, Belluno, Bolzano, Brescia, Catania, Ferrara, Firenze, Lucca, Macerata, Milano, Napoli, Novara, Padova, Parma, Pistoia, Reggio Calabria, Reggio Emilia, Roma, Taranto, Terni, Torino, Trento, Treviso, Venezia, Verona e Vicenza.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 2 gennaio 1962
+Dato a Roma, addi' 2 gennaio 1962
 
-GRONCHI FANFANI - SULLO
-
-Visto, il Guardasigilli: BOSCO
-
-Registrato alla Corte dei conti, addi' 14 luglio 1962
-
-Atti del Governo, registro n. 154, foglio n. 71. - VILLA
-
-Allegato
-
-CONTRATTO COLLETTIVO 15 FEBBRAIO 1960, INTEGRATIVO DEL CONTRATTO COLLETTIVO NAZIONALE DI LAVORO 15 MAGGIO 1959, PER IL PERSONALE DIPENDENTE DA CAFFE, BARS, BIRRERIE, GELATERIE, PASTICCERIE E SALE DA BALLO DELLA PROVINCIA DI ANCONA   
-  
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=062U115600100010110001&dgu=1962-08-14&art.dataPubblicazioneGazzetta=1962-08-14&art.codiceRedazionale=062U1156)
-  
-  
-  
-  
-CONTRATTO COLLETTIVO 15 FEBBRAIO 1960, INTEGRATIVO DEL CONTRATTO COLLETTIVO NAZIONALE DI LAVORO 15 MAGGIO 1959 PER IL PERSONALE DIPENDENTE DA RISTORANTI E TRATTORIE DELLA PROVINCIA DI ANCONA   
-  
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=062U115600100010110002&dgu=1962-08-14&art.dataPubblicazioneGazzetta=1962-08-14&art.codiceRedazionale=062U1156)
-  
-  
-  
-  
-ACCORDO COLLETTIVO 16 FEBBRAIO 1959, INTEGRATIVO DEL CONTRATTO COLLETTIVO NAZIONALE DI LAVORO 23 OTTOBRE 1954, PER IL PERSONALE DIPENDENTE DA RISTORANTI, TRATTORIE ED ESERCIZI SIMILARI DELLA PROVINCIA DI BARI   
-  
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=062U115600100010110003&dgu=1962-08-14&art.dataPubblicazioneGazzetta=1962-08-14&art.codiceRedazionale=062U1156)
-  
-  
-  
-  
-ACCORDO COLLETTIVO 3 AGOSTO 1959, INTEGRATIVO DEL CONTRATTO COLLETTIVO NAZIONALE DI LAVORO 23 OTTOBRE 1954 E SUCCESSIVE MODIFICAZIONI, PER IL PERSONALE DIPENDENTE DA CAFFE, BARS, BIRRERIE, GELATERIE, PASTICCERIE E SALE DA BALLO DELLA PROVINCIA DI BARI   
-  
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=062U115600100010110004&dgu=1962-08-14&art.dataPubblicazioneGazzetta=1962-08-14&art.codiceRedazionale=062U1156)
-  
-  
-  
-  
-CONTRATTO COLLETTIVO 1 AGOSTO 1951, INTEGRATIVO DEL CONTRATTO COLLETTIVO NAZIONALE DI LAVORO 27 GENNAIO 1948, PER I DIPENDENTI DA RISTORANTI, TRATTORIE, OSTERIE CON, CUCINA ED ESERCIZI SIMILARI DELLA PROVINCIA DI BELLUNO   
-  
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=062U115600100010110005&dgu=1962-08-14&art.dataPubblicazioneGazzetta=1962-08-14&art.codiceRedazionale=062U1156)
-  
-  
-  
-  
-CONTRATTO COLLETTIVO 1 AGOSTO 1951, INTEGRATIVO DEL CONTRATTO COLLETTIVO NAZIONALE DI LAVORO 27 GENNAIO 1948, PER I DIPENDENTI DA CAFFE', BARS, BIRRERIE ED ESERCIZI SIMILARI DELLA PROVINCIA DI BELLUNO   
-  
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=062U115600100010110006&dgu=1962-08-14&art.dataPubblicazioneGazzetta=1962-08-14&art.codiceRedazionale=062U1156)
-  
-  
-  
-  
-ACCORDO COLLETTIVO 1 SETTEMBRE 1959, INTEGRATIVO DEI CONTRATTI COLLETTIVI NAZIONALI DI LAVORO 15 MAGGIO 1959, PER I DIPENDENTI DA RISTORANTI, TRATTORIE ED ESERCIZI SIMILARI, CAFFE, BARS, BOTTIGLIERIE, GELATERIE, BIRRERIE E PASTICCERIE DELLA PROVINCIA DI BOLZANO   
-  
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=062U115600100010110007&dgu=1962-08-14&art.dataPubblicazioneGazzetta=1962-08-14&art.codiceRedazionale=062U1156)
-  
-  
-  
-  
-CONTRATTO COLLETTIVO 23 SETTEMBRE 1959 INTEGRATIVO DEL CONTRATTO COLLETTIVO NAZIONALE DI LAVORO 15 MAGGIO 1959, PER I DIPENDENTI DA RISTORANTI, TRATTORIE, PICCOLE PENSIONI, LOCANDE, PICCOLE TRATTORIE E OSTERIE CON CUCINA CHE ABBIANO NON PIU' DI NOVE CASIERE PER ALLOGGIO, DELLA PROVINCIA DI BRESCIA   
-  
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=062U115600100010110008&dgu=1962-08-14&art.dataPubblicazioneGazzetta=1962-08-14&art.codiceRedazionale=062U1156)
-  
-  
-  
-  
-CONTRATTO COLLETTIVO 28 SETTEMBRE 1959 INTEGRATIVO DEL CONTRATTO COLLETTIVO NAZIONALE DI LAVORO 15 MAGGIO 1959, PER I DIPENDENTI DA CAFFE, BARS, BIRRERIE, BOTTIGLIERIE, GELATERIE, PASTICCERIE, CONFETTERIE ED ESERCIZI SIMILARI DELLA PROVINCIA DI BRESCIA   
-  
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=062U115600100010110009&dgu=1962-08-14&art.dataPubblicazioneGazzetta=1962-08-14&art.codiceRedazionale=062U1156)
-  
-  
-  
-  
-ACCORDO COLLETTIVO 13 GIUGNO 1949, INTEGRATIVO DEL CONTRATTO COLLETTIVO NAZIONALE DI LAVORO 27 GENNAIO 1948, PER IL PERSONALE INTERNO DEI RISTORANTI, TRATTORIE, PICCOLE TRATTORIE E OSTERIE CON CUCINA DELLA PROVINCIA DI CATANIA   
-  
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=062U115600100010110010&dgu=1962-08-14&art.dataPubblicazioneGazzetta=1962-08-14&art.codiceRedazionale=062U1156)
-  
-  
-  
-  
-ACCORDO COLLETTIVO 26 MAGGIO 1950, PER IL PERSONALE INTERNO DEI RISTORANTI, TRATTORIE, PICCOLE TRATTORIE E OSTERIE CON CUCINA DELLA PROVINCIA DI CATANIA   
-  
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=062U115600100010110011&dgu=1962-08-14&art.dataPubblicazioneGazzetta=1962-08-14&art.codiceRedazionale=062U1156)
-  
-  
-  
-  
-ACCORDO COLLETTIVO 28 GIUGNO 1954, PER I LAVORANTI ADDETTI Al SERVIZI EXTRA DEI BARS, E PASTICCERIE DELLA PROVINCIA DI CATANIA   
-  
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=062U115600100010110012&dgu=1962-08-14&art.dataPubblicazioneGazzetta=1962-08-14&art.codiceRedazionale=062U1156)
-  
-  
-  
-  
-ACCORDO COLLETTIVO 15 APRILE 1957, DA VALERE PER IL PERSONALE ADDETTO Al SERVIZI SPECIALI (BANCHETTI, MATRIMONI E SIMILARI) DEI CAFFE, BARS, E PASTICCERIE DELLA PROVINCIA DI CATANIA   
-  
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=062U115600100010110013&dgu=1962-08-14&art.dataPubblicazioneGazzetta=1962-08-14&art.codiceRedazionale=062U1156)
-  
-  
-  
-  
-ACCORDO COLLETTIVO 21 SETTEMBRE 1959, PER IL PERSONALE NON IMPIEGATIZIO DEI BARS, CAFFE E PASTICCERIE DELLA PROVINCIA DI CATANIA   
-  
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=062U115600100010110014&dgu=1962-08-14&art.dataPubblicazioneGazzetta=1962-08-14&art.codiceRedazionale=062U1156)
-  
-  
-  
-  
-CONTRATTO COLLETTIVO 2 LUGLIO 1958 INTEGRATIVO DEL CONTRATTO COLLETTIVO NAZIONALE DI LAVORO 3 OTTOBRE 1954, PER I DIPENDENTI DA RISTORANTI, TRATTORIE, PICCOLE PENSIONI, LOCANDE, PICCOLE TRATTORIE E OSTERIE CON CUCINA CHE ABBIANO NON PIU' DI NOVE CAMERE PER ALLOGGIO DELLA PROVINCIA DI FERRARA   
-  
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=062U115600100010110015&dgu=1962-08-14&art.dataPubblicazioneGazzetta=1962-08-14&art.codiceRedazionale=062U1156)
-  
-  
-  
-  
-CONTRATTO COLLETTIVO 2 LUGLIO 1958 INTEGRATIVO DEL CONTRATTO COLLETTIVO NAZIONALE DI LAVORO 23 OTTOBRE 1954, PER I DIPENDENTI DA CAFFE, BARS, BOTTIGLIERIE, BIRRERIE, BUFFETS DI STAZIONE, GELATERIE, FIASCHETTERIE E DA OGNI ALTRO ESERCIZIO SIMILARE DELLA PROVINCIA DI FERRARA   
-  
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=062U115600100010110016&dgu=1962-08-14&art.dataPubblicazioneGazzetta=1962-08-14&art.codiceRedazionale=062U1156)
-  
-  
-  
-  
-ACCORDO COLLETTIVO 22 DICEMBRE 1956, INTEGRATIVO DEL CONTRATTO COLLETTIVO NAZIONALE DI LAVORO 23 OTTOBRE 1954, PER I DIPENDENTI DA RISTORANTI, TRATTORIE ED ESERCIZI SIMILARI DELLA PROVINCIA DI FIRENZE   
-  
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=062U115600100010110017&dgu=1962-08-14&art.dataPubblicazioneGazzetta=1962-08-14&art.codiceRedazionale=062U1156)
-  
-  
-  
-  
-ACCORDO COLLETTIVO 22 DICEMBRE 1956, INTEGRATIVO DEL CONTRATTO COLLETTIVO NAZIONALE DI LAVORO 23 OTTOBRE 1954, PER I DIPENDENTI DA CAFFE, BARS, PASTICCERIE, DELLA PROVINCIA DI FIRENZE   
-  
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=062U115600100010110018&dgu=1962-08-14&art.dataPubblicazioneGazzetta=1962-08-14&art.codiceRedazionale=062U1156)
-  
-  
-  
-  
-ACCORDO COLLETTIVO 1 OTTOBRE 1959, INTEGRATIVO DEL CONTRATTO COLLETTIVO NAZIONALE DI LAVORO 15 MAGGIO 1959, PER I DIPENDENTI DA RISTORANTI E TRATTORIE DELLA PROVINCIA DI LUCCA   
-  
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=062U115600100010110019&dgu=1962-08-14&art.dataPubblicazioneGazzetta=1962-08-14&art.codiceRedazionale=062U1156)
-  
-  
-  
-  
-ACCORDO COLLETTIVO 1 OTTOBRE 1959, INTEGRATIVO DEL CONTRATTO COLLETTIVO NAZIONALE DI LAVORO 15 MAGGIO 1959, PER I DIPENDENTI DA CAFFE, BARS, BOTTIGLIERIE, BIRRERIE, BUFFET DI STAZIONE, GELATERIE, ED OGNI ALTRO ESERCIZIO SIMILARE OVE SI SOMMINISTRANO BEVANDE CONTEMPLATE NELL'ART. 86 DELLA LEGGE DI P.S., NEGOZI DI PASTICCERIA E CONFETTERIA, REPARTI DI PASTICCERIA E CONFETTERIA ANNESSI A PUBBLICI ESERCIZI, DA VALERE NELLA PROVINCIA DI LUCCA   
-  
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=062U115600100010110020&dgu=1962-08-14&art.dataPubblicazioneGazzetta=1962-08-14&art.codiceRedazionale=062U1156)
-  
-  
-  
-  
-CONTRATTO COLLETTIVO 18 GIUGNO 1955, INTEGRATIVO DEL CONTRATTO COLLETTIVO NAZIONALE DI LAVORO 23 OTTOBRE 1954, PER I DIPENDENTI DA RISTORANTI, TRATTORIE, PENSIONI, LOCANDE E SIMILARI DELLA PROVINCIA DI MACERATA   
-  
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=062U115600100010110021&dgu=1962-08-14&art.dataPubblicazioneGazzetta=1962-08-14&art.codiceRedazionale=062U1156)
-  
-  
-  
-  
-CONTRATTO COLLETTIVO 31 MAGGIO 1955, INTEGRATIVO DEL CONTRATTO COLLETTIVO NAZIONALE DI LAVORO 23 OTTOBRE 1954, PER I DIPENDENTI DA BARS, CAFFE, BOTTIGLIERIE, GELATERIE, PASTICCERIE, CONFETTERIE ED OGNI ALTRO PUBBLICO ESERCIZIO SIMILARE DELLA PROVINCIA DI MACERATA   
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=062U115600100010110022&dgu=1962-08-14&art.dataPubblicazioneGazzetta=1962-08-14&art.codiceRedazionale=062U1156)
-  
-  
-  
-  
-ACCORDO COLLETTIVO 15 NOVEMBRE 1956, INTEGRATIVO DEL CONTRATTO COLLETTIVO NAZIONALE DI LAVORO 23 OTTOBRE 1954 PER I DIPENDENTI DA RISTORANTI, TRATTORIE, PICCOLE PENSIONI, LOCANDE, OSTERIE CON CUCINA ED ESERCIZI SIMILARI DELLA PROVINCIA DI MILANO   
-  
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=062U115600100010110023&dgu=1962-08-14&art.dataPubblicazioneGazzetta=1962-08-14&art.codiceRedazionale=062U1156)
-  
-  
-  
-  
-ACCORDO COLLETTIVO 19 LUGLIO 1956, INTEGRATIVO DEL CONTRATTO COLLETTIVO NAZIONALE DI LAVORO 23 OTTOBRE 1954 PER I DIPENDENTI DA CAFFE, BARS, BIRRERIE, BOTTIGLIERIE, GELATERIE, PASTICCERIE, CONFETTERIE E SIMILARI DELLA PROVINCIA DI MILANO   
-  
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=062U115600100010110024&dgu=1962-08-14&art.dataPubblicazioneGazzetta=1962-08-14&art.codiceRedazionale=062U1156)
-  
-  
-  
-  
-ACCORDO COLLETTIVO 25 SETTEMBRE 1959, INTEGRATIVO DEL CONTRATTO COLLETTIVO NAZIONALE DI LAVORO 15 MAGGIO 1959, PER I DIPENDENTI DA RISTORANTI, TRATTORIE, OSTERIE CON CUCINA ED ESERCIZI SIMILARI, PICCOLE PENSIONI E LOCANDE DELLA PROVINCIA DI NAPOLI   
-  
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=062U115600100010110025&dgu=1962-08-14&art.dataPubblicazioneGazzetta=1962-08-14&art.codiceRedazionale=062U1156)
-  
-  
-  
-  
-ACCORDO COLLETTIVO 2 FEBBRAIO 1954, PER I DIPENDENTI DA CAFFE, BARS, BIRRERIE, BOTTIGLIERIE, GELATERIE, PASTICCERIE DELLA PROVINCIA DI NAPOLI   
-  
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=062U115600100010110026&dgu=1962-08-14&art.dataPubblicazioneGazzetta=1962-08-14&art.codiceRedazionale=062U1156)
-  
-  
-  
-  
-ACCORDO COLLETTIVO 20 DICEMBRE 1946, CONCERNENTE LE INDENNITA' DI CARO-VITA PER I DIPENDENTI DA AZIENDE COMMERCIALI DELLA PROVINCIA DI NOVARA   
-  
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=062U115600100010110027&dgu=1962-08-14&art.dataPubblicazioneGazzetta=1962-08-14&art.codiceRedazionale=062U1156)
-  
-  
-  
-  
-ACCORDO COLLETTIVO 21 LUGLIO 1949, CONCERNENTE LE INDENNITA' DI CARO-VITA PER I DIPENDENTI DA AZIENDE COMMERCIALI DELLA PROVINCIA DI NOVARA   
-  
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=062U115600100010110028&dgu=1962-08-14&art.dataPubblicazioneGazzetta=1962-08-14&art.codiceRedazionale=062U1156)
-  
-  
-  
-  
-ACCORDO COLLETTIVO 1 OTTOBRE 1959, INTEGRATIVO DEL CONTRATTO COLLETTIVO NAZIONALE DI LAVORO 15 MAGGIO 1959, PER IL PERSONALE DIPENDENTE DA RISTORANTI, TRATTORIE, OSTERIE CON CUCINA ED ESERCIZI SIMILARI DELLA PROVINCIA DI NOVARA   
-  
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=062U115600100010110029&dgu=1962-08-14&art.dataPubblicazioneGazzetta=1962-08-14&art.codiceRedazionale=062U1156)
-  
-  
-  
-  
-ACCORDO COLLETTIVO 1 OTTOBRE 1959, INTEGRATIVO DEL CONTRATTO COLLETTIVO NAZIONALE DI LAVORO 15 MAGGIO 1959, PER IL PERSONALE DIPENDENTE DA CAFFE, BARS, BIRRERIE, PASTICCERIE, GELATERIE, LOCALI NOTTURNI, BOTTIGLIERIE E SALE DA BALLO DELLA PROVINCIA DI NOVARA   
-  
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=062U115600100010110030&dgu=1962-08-14&art.dataPubblicazioneGazzetta=1962-08-14&art.codiceRedazionale=062U1156)
-  
-  
-  
-  
-CONTRATTO COLLETTIVO 1 OTTOBRE 1959, INTEGRATIVO DEL CONTRATTO COLLETTIVO NAZIONALE DI LAVORO 15 MAGGIO 1959; PER I DIPENDENTI DA RISTORANTI, TRATTORIE, PICCOLE PENSIONI, LOCANDE, PICCOLE TRATTORIE E OSTERIE CON CUCINA, E DEL CONTRATTO COLLETTIVO NAZIONALE DI LAVORO 15 MAGGIO 1959, PER I DIPENDENTI DA CAFFE, BARS, BOTTIGLIERIE, BIRRERIE, BUFFETS DI STAZIONE, GELATERIE, FIASCHETTERIE, E DA OGNI ALTRO ESERCIZIO SIMILARE OVE SI SOMMINISTRANO BEVANDE DI CUI ALL'ART. 86 DELLA LEGGE P.S., DA NEGOZI DI PASTICCERIA E CONFETTERIA, REPARTI DI PASTICCERIA E CONFETTERIA ANNESSI A PUBBLICI ESERCIZI DELLA PROVINCIA DI PADOVA   
-  
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=062U115600100010110031&dgu=1962-08-14&art.dataPubblicazioneGazzetta=1962-08-14&art.codiceRedazionale=062U1156)
-  
-  
-  
-  
-CONTRATTO COLLETTIVO 1 LUGLIO 1960, INTEGRATIVO DEL CONTRATTO COLLETTIVO NAZIONALE DI LAVORO, PER I DIPENDENTI DA RISTORANTI E TRATTORIE DELLA PROVINCI DI PARMA   
-  
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=062U115600100010110032&dgu=1962-08-14&art.dataPubblicazioneGazzetta=1962-08-14&art.codiceRedazionale=062U1156)
-  
-  
-  
-  
-CONTRATTO COLLETTIVO 23 SETTEMBRE 1959, INTEGRATIVO DEL CONTRATTO COLLETTIVO NAZIONALE DI LAVORO 15 MAGGIO 1959, PER I DIPENDENTI DA CAFFE, BARS, BOTTIGLIERIE, CONFETTERIE, GELATERIE ED OGNI ALTRO ESERCIZIO SIMILARE DELLA PROVINCIA DI PARMA   
-  
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=062U115600100010110033&dgu=1962-08-14&art.dataPubblicazioneGazzetta=1962-08-14&art.codiceRedazionale=062U1156)
-  
-  
-  
-  
-ACCORDO COLLETTIVO 27 LUGLIO 1959, INTEGRATIVO DEL CONTRATTO COLLETTIVO NAZIONALE 15 MAGGIO 1959, PER I DIPENDENTI DA RISTORANTI, TRATTORIE ED ESERCIZI SIMILARI DELLA PROVINCIA DI PISTOIA   
-  
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=062U115600100010110034&dgu=1962-08-14&art.dataPubblicazioneGazzetta=1962-08-14&art.codiceRedazionale=062U1156)
-  
-  
-  
-  
-ACCORDO COLLETTIVO 27 LUGLIO 1959, INTEGRATIVO DEL CONTRATTO COLLETTIVO NAZIONALE 15 MAGGIO 1959, PER I DIPENDENTI DA CAFFE, BARS, BIRRERIE, GELATERIE E SALE DA BALLO, DELLA PROVINCIA DI PISTOIA.   
-  
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=062U115600100010110035&dgu=1962-08-14&art.dataPubblicazioneGazzetta=1962-08-14&art.codiceRedazionale=062U1156)
-  
-  
-  
-  
-ACCORDO COLLETTIVO 27 LUGLIO 1959 SUL FRAZIONAMENTO DEL RIPOSO SETTIMANALE NEGLI ESERCIZI PUBBLICI DELLA PROVINCIA DI PISTOIA   
-  
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=062U115600100010110036&dgu=1962-08-14&art.dataPubblicazioneGazzetta=1962-08-14&art.codiceRedazionale=062U1156)
-  
-  
-  
-  
-CONTRATTO COLLETTIVO 29 SETTEMBRE 1959, INTEGRATIVO DEL CONTRATTO COLLETTIVO NAZIONALE DI LAVORO 5 MAGGIO 1959, PER I DIPENDENTI DA RISTORANTI E TRATTORIE DELLA PROVINCIA DI REGGIO CALABRIA   
-  
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=062U115600100010110037&dgu=1962-08-14&art.dataPubblicazioneGazzetta=1962-08-14&art.codiceRedazionale=062U1156)
-  
-  
-  
-  
-CONTRATTO COLLETTIVO 2 OTTOBRE 1959, INTEGRATIVO DEL CONTRATTO COLLETTIVO NAZIONALE DI LAVORO 15 MAGGIO 1959, PER I DIPENDENTI DA CAFFE, BARS, BIRRERIE, GELATERIE, PASTICCERIE, SALE DA BALLO ED ESERCIZI SIMILARI DELLA PROVINCIA DI REGGIO CALABRIA   
-  
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=062U115600100010110038&dgu=1962-08-14&art.dataPubblicazioneGazzetta=1962-08-14&art.codiceRedazionale=062U1156)
-  
-  
-  
-  
-CONTRATTO COLLETTIVO 15 MAGGIO 1954, INTEGRATIVO DEL CONTRATTO COLLETTIVO NAZIONALE DI LAVORO 27 GENNAIO 1948, PER IL PERSONALE DIPENDENTE DA RISTORANTI, TRATTORIE ED ESERCIZI SIMILARI DELLA PROVINCIA DI REGGIO EMILIA   
-  
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=062U115600100010110039&dgu=1962-08-14&art.dataPubblicazioneGazzetta=1962-08-14&art.codiceRedazionale=062U1156)
-  
-  
-  
-  
-CONTRATTO COLLETTIVO 15 MAGGIO 1954, INTEGRATIVO DEL CONTRATTO COLLETTIVO NAZIONALE DI LAVORO 27 GENNAIO 1948, PER IL PERSONALE DIPENDENTE DA CAFFE, BARS, BIRRERIE, BOTTIGLIERIE, PASTICCERIE ED ESERCIZI SIMILARI DELLA PROVINCIA DI REGGIO EMILIA   
-  
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=062U115600100010110040&dgu=1962-08-14&art.dataPubblicazioneGazzetta=1962-08-14&art.codiceRedazionale=062U1156)
-  
-  
-  
-  
-ACCORDO COLLETTIVO 30 SETTEMBRE 1959 INTEGRATIVO DEL CONTRATTO COLLETTIVO NAZIONALE DI LAVORO 15 MAGGIO 1959 PER I DIPENDENTI DA RISTORANTI, TRATTORIE, ROSTICCERIE ED ESERCIZI SIMILARI DELLA PROVINCIA DI ROMA   
-  
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=062U115600100010110041&dgu=1962-08-14&art.dataPubblicazioneGazzetta=1962-08-14&art.codiceRedazionale=062U1156)
-  
-  
-  
-  
-ACCORDO COLLETTIVO 14 MARZO 1955, INTEGRATIVO DEL CONTRATTO COLLETTIVO NAZIONALE DI LAVORO 23 OTTOBRE 1954, PER I DIPENDENTI DA AZIENDE DI CAFFE, BARS, BOTTIGLIERIE, BIRRERIE, BUFFETS DI STAZIONE, GELATERIE, FIASCHETTERIE E DI OGNI ALTRO ESERCIZIO SIMILARE OVE SI SOMMINISTRANO BEVANDE CONTEMPLATE NELL'ART. 86 DELLA LEGGE DI P.S., NEGOZI DI PASTICCERIA E CONFETTERIA, REPARTI DI PASTICCERIA E CONFETTERIA ANNESSI A PUBBLICI ESERCIZI, DELLA PROVINCIA DI ROMA   
-  
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=062U115600100010110042&dgu=1962-08-14&art.dataPubblicazioneGazzetta=1962-08-14&art.codiceRedazionale=062U1156)
-  
-  
-  
-  
-ACCORDO COLLETTIVO 1 OTTOBRE 1959, PER LE RETRIBUZIONI DEGLI APPRENDISTI A BARISTA E DEGLI ALTRI DIPENDENTI DA CAFFE, BARS E PASTICCERIE DI ROMA   
-  
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=062U115600100010110043&dgu=1962-08-14&art.dataPubblicazioneGazzetta=1962-08-14&art.codiceRedazionale=062U1156)
-  
-  
-  
-  
-CONTRATTO COLLETTIVO 17 SETTEMBRE 1959, INTEGRATIVO DEL CONTRATTO COLLETTIVO NAZIONALE DI LAVORO 15 MAGGIO 1959, PER I DIPENDENTI DA AZIENDE DI RISTORANTI, TRATTORIE, PICCOLE PENSIONI, LOCANDE, PICCOLE TRATTORIE ED OSTERIE CON CUCINA CHE ABBIANO NON PIU' DI NOVE CAMERE PER ALLOGGIO DELLA PROVINCIA DI TARANTO   
-  
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=062U115600100010110044&dgu=1962-08-14&art.dataPubblicazioneGazzetta=1962-08-14&art.codiceRedazionale=062U1156)
-  
-  
-  
-  
-CONTRATTO COLLETTIVO 20 SETTEMBRE 1959, INTEGRATIVO DEL CONTRATTO COLLETTIVO NAZIONALE DI LAVORO 15 MAGGIO 1959, PER I DIPENDENTI DA CAFFE, BARS, BIRRERIE, GELATERIE, PASTICCERIE, SALE DA BALLO DELLA PROVINCIA DI TARANTO   
-  
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=062U115600100010110045&dgu=1962-08-14&art.dataPubblicazioneGazzetta=1962-08-14&art.codiceRedazionale=062U1156)
-  
-  
-  
-  
-ACCORDO COLLETTIVO 14 GIUGNO 1957, INTEGRATIVO DEL CONTRATTO COLLETTIVO NAZIONALE DI LAVORO 23 OTTOBRE 1954 PER I DIPENDENTI DA PUBBLICI ESERCIZI (RISTORANTI E TRATTORIE, PICCOLE PENSIONI, LOCANDE, PICCOLE TRATTORIE E OSTERIE CON CUCINA CHE ABBIANO NON PIU' DI 9 CAMERE PER ALLOGGIO) DELLA PROVINCIA DI TERNI   
-  
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=062U115600100010110046&dgu=1962-08-14&art.dataPubblicazioneGazzetta=1962-08-14&art.codiceRedazionale=062U1156)
-  
-  
-  
-  
-ACCORDO COLLETTIVO 17 DICEMBRE 1956, INTEGRATIVO DEL CONTRATTO COLLETTIVO NAZIONALE DI LAVORO 23 OTTOBRE 1954, PER I DIPENDENTI DA PUBBLICI ESERCIZI (CAFFE, BARS, PASTICCERIE ED ESERCIZI SIMILARI) DELLA PROVINCIA DI TERNI   
-  
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=062U115600100010110047&dgu=1962-08-14&art.dataPubblicazioneGazzetta=1962-08-14&art.codiceRedazionale=062U1156)
-  
-  
-  
-  
-ACCORDO COLLETTIVO 8 FEBBRAIO 1951, CONCERNENTE L'ADEGUAMENTO SALARIALE PER I DIPENDENTI DAI PUBBLICI ESERCIZI DELLA PROVINCIA DI TORINO   
-  
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=062U115600100010110048&dgu=1962-08-14&art.dataPubblicazioneGazzetta=1962-08-14&art.codiceRedazionale=062U1156)
-  
-  
-  
-  
-CONTRATTO COLLETTIVO 28 SETTEMBRE 1956, INTEGRATIVO DEL CONTRATTO COLLETTIVO NAZIONALE DI LAVORO 23 OTTOBRE 1954, PER IL PERSONALE DIPENDENTE DA RISTORANTI, TRATTORIE ED ESERCIZI SIMILARI DELLA PROVINCIA DI TORINO   
-  
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=062U115600100010110049&dgu=1962-08-14&art.dataPubblicazioneGazzetta=1962-08-14&art.codiceRedazionale=062U1156)
-  
-  
-  
-  
-CONTRATTO COLLETTIVO 8 MARZO 1957, INTEGRATIVO DEL CONTRATTO COLLETTIVO NAZIONALE DI LAVORO 23 OTTOBRE 1954, PER IL PERSONALE DIPENDENTE DA CAFFE, BARS, BIRRERIE, BOTTIGLIERIE, GELATERIE, NEGOZI DI PASTICCERIA E CONFETTERIA ED OGNI ALTRO ESERCIZIO SIMILARE DELLA PROVINCIA DI TORINO   
-  
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=062U115600100010110050&dgu=1962-08-14&art.dataPubblicazioneGazzetta=1962-08-14&art.codiceRedazionale=062U1156)
-  
-  
-  
-  
-ACCORDO COLLETTIVO 25 GIUGNO 1959, PER I LAVORATORI DIPENDENTI DA PUBBLICI ESERCIZI, RISTORANTI E SIMILARI DELLA PROVINCIA DI TRENTO   
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=062U115600100010110051&dgu=1962-08-14&art.dataPubblicazioneGazzetta=1962-08-14&art.codiceRedazionale=062U1156)
-  
-  
-  
-  
-ACCORDO COLLETTIVO 17 DICEMBRE 1956, INTEGRATIVO DEL CONTRATTO COLLETTIVO NAZIONALE DI LAVORO 23 OTTOBRE 1954, PER I DIPENDENTI DA AZIENDE DI RISTORANTE, TRATTORIE, PICCOLE PENSIONI, LOCANDE, PICCOLE TRATTORIE E OSTERIE CON CUCINA CHE ABBIANO NON PIU' DI NOVE CAMERE PER ALLOGGIO, DELLA PROVINCIA DI TREVISO   
-  
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=062U115600100010110052&dgu=1962-08-14&art.dataPubblicazioneGazzetta=1962-08-14&art.codiceRedazionale=062U1156)
-  
-  
-  
-  
-CONTRATTO COLLETTIVO 30 MARZO 1960 INTEGRATIVO DEL CONTRATTO COLLETTIVO NAZIONALE DI LAVORO 15 MAGGIO 1959, PER IL PERSONALE DIPENDENTE DA CAFFE, BARS, BIRRERIE, GELATERIE, PASTICCERIE, SALE DA BALLO DELLA PROVINCIA DI TREVISO   
-  
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=062U115600100010110053&dgu=1962-08-14&art.dataPubblicazioneGazzetta=1962-08-14&art.codiceRedazionale=062U1156)
-  
-  
-  
-  
-CONTRATTO COLLETTIVO 15 GIUGNO 1956, INTEGRATIVO DEL CONTRATTO COLLETTIVO NAZIONALE DI LAVORO 23 OTTOBRE 1954, PER I DIPENDENTI DA RISTORANTI, TRATTORIE, OSTERIE CON CUCINA ED ESERCIZI SIMILARI, CAFFE, BARS, PASTICCERIE, CONFETTERIE DELLA PROVINCIA DI VENEZIA   
-  
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=062U115600100010110054&dgu=1962-08-14&art.dataPubblicazioneGazzetta=1962-08-14&art.codiceRedazionale=062U1156)
-  
-  
-  
-  
-ACCORDO COLLETTIVO 20 LUGLIO 1959, DA VALERE PER IL PERSONALE INTERNO E IMPIEGATIZIO DIPENDENTE DA PUBBLICI ESERCIZI DELLA PROVINCIA DI VERONA   
-  
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=062U115600100010110055&dgu=1962-08-14&art.dataPubblicazioneGazzetta=1962-08-14&art.codiceRedazionale=062U1156)
-  
-  
-  
-  
-ACCORDO COLLETTIVO 23 NOVEMBRE 1951, PER DIPENDENTI DA RISTORANTI, TRATTORIE ED ESERCIZI SIMILARI DELLA PROVINCIA DI VICENZA   
-  
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=062U115600100010110056&dgu=1962-08-14&art.dataPubblicazioneGazzetta=1962-08-14&art.codiceRedazionale=062U1156)
-  
-  
-  
-  
-ACCORDO COLLETTIVO 15 GIUGNO 1954, PER I DIPENDENTI A CAFFE, BARS, BIRRERIE, BOTTIGLIERIE, GELATERIE, PASTICCERIE CONFETTERIE ED OGNI ALTRO ESERCIZIO SIMILARE DELLA PROVINCIA DI VICENZA   
-  
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=062U115600100010110057&dgu=1962-08-14&art.dataPubblicazioneGazzetta=1962-08-14&art.codiceRedazionale=062U1156)
-  
+GRONCHI FANFANI - SULLO Visto, il Guardasigilli: BOSCO Registrato alla Corte dei conti, addi' 14 luglio 1962 Atti del Governo, registro n. 154, foglio n. 71. - VILLA

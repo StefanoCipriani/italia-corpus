@@ -1,41 +1,33 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 luglio 1981 n. 757
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 757
+data: 1981-07-31
+titolo: "Rettifica al decreto del presidente della Repubblica 19 ottobre 1977, n. 1122, concernente modificazioni allo statuto dell'Universita' degli studi di Torino."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1981-07-31;757
+codice_redazionale: 081U0757
+vigente: true
+---
 
+## Art. 1.
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 luglio 1981 n. 757
-=============================================================
+IL PRESIDENTE DELLA REPUBBLICA
 
-Rettifica al decreto del presidente della Repubblica 19 ottobre 1977, n. 1122, concernente modificazioni allo statuto dell'Universita' degli studi di Torino.
--------------------------------------------------------------------------------------------------------------------------------------------------------------
+ Veduto lo statuto dell'Universita' di Torino, approvato con [regio decreto 14 ottobre 1926, n. 2284](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20dello%20statuto%20della%20Regia%20universita%20di%20Torino.%20026U2284.md) e modificato con [regio decreto 13 ottobre 1927, n. 2788](../Atti%20normativi%20abrogati%20%28in%20originale%29/Modificazioni%20allo%20statuto%20della%20Regia%20universita%20di%20Torino.%20027U2788.md), e successive modificazioni;
+ Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+ Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20R.%20decreto-legge%2020%20giugno%201935-XIII%20n.%201071%20contenente%20modifiche%20ed%20aggiornamenti%20al%20testo%20unico%20delle%20leggi%20sullistruzione%20superiore.%20036U0073.md);
+ Veduto il [regio decreto 30 settembre 1938, n. 1652](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disposizioni%20sullordinamento%20didattico%20universitario.%20038U1652.md), e successive modificazioni;
+ Veduta la [legge 11 aprile 1953, n. 312](../Atti%20normativi%20abrogati%20%28in%20originale%29/Libera%20inclusione%20di%20nuovi%20insegnamenti%20complementari%20negli%20statuti%20delle%20Universita%20e%20degli%20Istituti%20distruzione%20superiore.md);
+ Veduto il [decreto del Presidente della Repubblica 19 ottobre 1977, n. 1122](Modificazioni%20allo%20statuto%20dellUniversita%20degli%20studi%20di%20Torino_106.md);
+ Veduta la rettorale n. 21750 del 30 gennaio 1981;
+ Considerata la necessita' di provvedere alla rettifica del citato decreto del Presidente della Repubblica n. 1122;
+ Sulla proposta del Ministro della pubblica istruzione;
 
-Art. 1
-------
+ Decreta:
 
- IL PRESIDENTE DELLA REPUBBLICA  
-  
-Veduto lo statuto dell'Universita' di Torino, approvato con [regio decreto 14 ottobre 1926, n. 2284](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2284) e modificato con [regio decreto 13 ottobre 1927, n. 2788](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2788), e successive modificazioni;  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
-Veduto il [decreto del Presidente della Repubblica 19 ottobre 1977, n. 1122](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1977-10-19;1122);  
-Veduta la rettorale n. 21750 del 30 gennaio 1981;  
-Considerata la necessita' di provvedere alla rettifica del citato decreto del Presidente della Repubblica n. 1122;  
-Sulla proposta del Ministro della pubblica istruzione;  
-  
-Decreta:  
-  
-Il [decreto del Presidente della Repubblica 19 ottobre 1977, n. 1122](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1977-10-19;1122), e' rettificato nel senso che nell'elenco degli insegnamenti complementari del corso di laurea in scienze politiche l'insegnamento di "istituzioni di politiche comparate" deve intendersi "istituzioni politiche comparate".  
-  
+ Il [decreto del Presidente della Repubblica 19 ottobre 1977, n. 1122](Modificazioni%20allo%20statuto%20dellUniversita%20degli%20studi%20di%20Torino_106.md), e' rettificato nel senso che nell'elenco degli insegnamenti complementari del corso di laurea in scienze politiche l'insegnamento di "istituzioni di politiche comparate" deve intendersi "istituzioni politiche comparate".
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 31 luglio 1981
+Dato a Roma, addi' 31 luglio 1981
 
-PERTINI BODRATO
-
-Visto, il Guardasigilli: DARIDA
-
-Registrato alla Corte dei conti, addi' 11 dicembre 1981
-
-Registro n. 123 Istruzione, foglio n. 376
+PERTINI BODRATO Visto, il Guardasigilli: DARIDA Registrato alla Corte dei conti, addi' 11 dicembre 1981 Registro n. 123 Istruzione, foglio n. 376

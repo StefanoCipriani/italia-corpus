@@ -1,19 +1,21 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 06 luglio 1960 n. 817
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 817
+data: 1960-07-06
+titolo: "Soppressione della Fabbriceria della Chiesa parrocchiale dei Santi Pietro e Paolo Apostoli, in Camposampiero (Padova)."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1960-07-06;817
+codice_redazionale: 060U0817
+vigente: true
+---
 
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 06 luglio 1960 n. 817
-=============================================================
-
-Soppressione della Fabbriceria della Chiesa parrocchiale dei Santi Pietro e Paolo Apostoli, in Camposampiero (Padova).
-----------------------------------------------------------------------------------------------------------------------
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-817. Decreto del Presidente della Repubblica 6 luglio 1960, col quale, sulla proposta del Ministro per l'interno, viene soppressa la Fabbriceria della Chiesa parrocchiale dei Santi Pietro e Paolo Apostoli, in Camposampiero (Padova).  
-  
-Visto, il Guardasigilli: GONELLA  
-Registrato alla Corte dei conti, addi' 5 agosto 1960  
-Atti del Governo, registro n. 128, foglio n. 131. - VILLA
+817.
+
+Decreto del Presidente della Repubblica 6 luglio 1960, col quale, sulla proposta del Ministro per l'interno, viene soppressa la Fabbriceria della Chiesa parrocchiale dei Santi Pietro e Paolo Apostoli, in Camposampiero (Padova).
+
+Visto, il Guardasigilli: GONELLA
+ Registrato alla Corte dei conti, addi' 5 agosto 1960
+ Atti del Governo, registro n. 128, foglio n. 131. - VILLA

@@ -1,19 +1,21 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 24 luglio 1971 n. 1018
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 1018
+data: 1971-07-24
+titolo: "Riconoscimento della personalita' giuridica della chiesa santuario della Beata Vergine delle Grazie, in Piove di Sacco."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1971-07-24;1018
+codice_redazionale: 071U1018
+vigente: true
+---
 
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 24 luglio 1971 n. 1018
-==============================================================
-
-Riconoscimento della personalita' giuridica della chiesa santuario della Beata Vergine delle Grazie, in Piove di Sacco.
------------------------------------------------------------------------------------------------------------------------
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-1018. Decreto del Presidente della Repubblica 24 luglio 1971, col quale, sulla proposta del Ministro per l'interno, viene riconosciuta la personalita' giuridica della chiesa santuario della Beata Vergine delle Grazie, in Piove di Sacco (Padova).  
-  
-Visto, il Guardasigilli: COLOMBO  
-Registrato alla Corte dei conti, addi' 25 novembre 1971 -  
-Atti del Governo, registro n. 245, foglio n. 103. - CARUSO
+1018.
+
+Decreto del Presidente della Repubblica 24 luglio 1971, col quale, sulla proposta del Ministro per l'interno, viene riconosciuta la personalita' giuridica della chiesa santuario della Beata Vergine delle Grazie, in Piove di Sacco (Padova).
+
+Visto, il Guardasigilli: COLOMBO
+ Registrato alla Corte dei conti, addi' 25 novembre 1971 -
+ Atti del Governo, registro n. 245, foglio n. 103. - CARUSO

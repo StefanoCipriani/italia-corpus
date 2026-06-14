@@ -1,18 +1,20 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 giugno 1950 n. 1029
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 1029
+data: 1950-06-28
+titolo: "Istituzione di una Rappresentanza presso l'Organizzazione del Trattato Nord Atlantico (N.A.T.O.), con sede a Londra."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1950-06-28;1029
+codice_redazionale: 050U1029
+vigente: true
+---
 
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 giugno 1950 n. 1029
-==============================================================
-
-Istituzione di una Rappresentanza presso l'Organizzazione del Trattato Nord Atlantico (N.A.T.O.), con sede a Londra.
---------------------------------------------------------------------------------------------------------------------
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-1029. Decreto del Presidente della Repubblica 28 giugno 1950, con il quale, sulla proposta del Ministro per gli affari esteri, viene istituita una Rappresentanza presso l'Organizzazione del Trattato Nord Atlantico (N.A.T.O.), con sede a Londra.  
-  
-Visto, il Guardasigilli: PICCIONI  
-Registrato alla Corte dei conti, addi' 27 dicembre 1950
+1029.
+
+Decreto del Presidente della Repubblica 28 giugno 1950, con il quale, sulla proposta del Ministro per gli affari esteri, viene istituita una Rappresentanza presso l'Organizzazione del Trattato Nord Atlantico (N.A.T.O.), con sede a Londra.
+
+Visto, il Guardasigilli: PICCIONI
+ Registrato alla Corte dei conti, addi' 27 dicembre 1950

@@ -1,19 +1,21 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 06 gennaio 1961 n. 133
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 133
+data: 1961-01-06
+titolo: "Erezione in ente morale della Cassa scolastica della Scuola statale di avviamento professionale a tipo industriale di Santo Stefano di Cadore (Belluno)."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1961-01-06;133
+codice_redazionale: 061U0133
+vigente: true
+---
 
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 06 gennaio 1961 n. 133
-==============================================================
-
-Erezione in ente morale della Cassa scolastica della Scuola statale di avviamento professionale a tipo industriale di Santo Stefano di Cadore (Belluno).
---------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-133. Decreto del Presidente della Repubblica 6 gennaio 1961, col quale, sulla proposta del Ministro per la pubblica istruzione, la Cassa scolastica della Scuola statale di avviamento professionale a tipo industriale di Santo Stefano di Cadore (Belluno) viene eretta in ente morale e ne viene approvato lo statuto.  
-  
-Visto, il Guardasigilli: GONELLA  
-Registrato alla Corte dei conti, addi' 15 marzo 1961  
-Atti del Governo, registro n. 135, foglio n. 30. - VILLA
+133.
+
+Decreto del Presidente della Repubblica 6 gennaio 1961, col quale, sulla proposta del Ministro per la pubblica istruzione, la Cassa scolastica della Scuola statale di avviamento professionale a tipo industriale di Santo Stefano di Cadore (Belluno) viene eretta in ente morale e ne viene approvato lo statuto.
+
+Visto, il Guardasigilli: GONELLA
+ Registrato alla Corte dei conti, addi' 15 marzo 1961
+ Atti del Governo, registro n. 135, foglio n. 30. - VILLA

@@ -1,18 +1,20 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 21 agosto 1949 n. 910
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 910
+data: 1949-08-21
+titolo: "Autorizzazione all'Accademia nazionale di San Luca ad accettare una donazione."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1949-08-21;910
+codice_redazionale: 049U0910
+vigente: true
+---
 
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 21 agosto 1949 n. 910
-=============================================================
-
-Autorizzazione all'Accademia nazionale di San Luca ad accettare una donazione.
-------------------------------------------------------------------------------
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-910. Decreto del Presidente della. Repubblica 21 agosto 1949, col quale, sulla proposta del Ministro per la pubblica istruzione, l'Accademia nazionale di San Luca, viene autorizzata ad accettare la donazione di L. 50.000 (cinquecentomila) disposta in suo favore dallo scultore Pietro Canonica, per l'assegnazione di un premio biennale mediante concorso.  
-  
-Visto, il Guardasigilli: GRASSI  
-Registrato alla Corte dei conti, addi' 9 dicembre 1949
+910.
+
+Decreto del Presidente della. Repubblica 21 agosto 1949, col quale, sulla proposta del Ministro per la pubblica istruzione, l'Accademia nazionale di San Luca, viene autorizzata ad accettare la donazione di L. 50.000 (cinquecentomila) disposta in suo favore dallo scultore Pietro Canonica, per l'assegnazione di un premio biennale mediante concorso.
+
+Visto, il Guardasigilli: GRASSI
+ Registrato alla Corte dei conti, addi' 9 dicembre 1949

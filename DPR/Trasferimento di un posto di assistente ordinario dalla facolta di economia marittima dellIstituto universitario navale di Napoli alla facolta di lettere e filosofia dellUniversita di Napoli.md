@@ -1,44 +1,36 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1975 n. 996
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 996
+data: 1975-10-31
+titolo: "Trasferimento di un posto di assistente ordinario dalla facolta' di economia marittima dell'Istituto universitario navale di Napoli alla facolta' di lettere e filosofia dell'Universita' di Napoli."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1975-10-31;996
+codice_redazionale: 075U0996
+vigente: true
+---
 
+## Art. 1.
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1975 n. 996
-==============================================================
+IL PRESIDENTE DELLA REPUBBLICA
 
-Trasferimento di un posto di assistente ordinario dalla facolta' di economia marittima dell'Istituto universitario navale di Napoli alla facolta' di lettere e filosofia dell'Universita' di Napoli.
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+ Visto l'[art. 2, quarto comma, del decreto legislativo 7 maggio 1948, n. 1172](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1948-05-07;1172#art_2-com4), ratificato, con modificazioni, con [legge 24 giugno 1950, n. 465](../DL%20e%20leggi%20di%20conversione/Ratifica%20con%20modificazioni%20del%20decreto%20legislativo%207%20maggio%201948%20n.%201172%20concernente%20listituzione%20di%20ruoli%20del%20personale%20assistente%20tecnico%20subalterno%20infermiere%20e%20portantino%20presentement_765b791e4325.md);
+ Visto l'[art. 18 della legge 24 febbraio 1967, n. 62](../Atti%20normativi%20abrogati%20%28in%20originale%29/Istituzione%20di%20nuove%20cattedre%20universitarie%20di%20nuovi%20posti%20di%20assistente%20universitario%20e%20nuova%20disciplina%20degli%20incarichi%20di%20insegnamento%20universitario%20e%20degli%20assistenti%20volontari.md);
+ Visto il [decreto del Presidente della Repubblica 1 aprile 1967, n. 343](Ripartizione%20per%20lanno%20accademico%201966-67%20di%20milleseicentotrentasei%20posti%20di%20assistente%20di%20ruolo%20destinati%20a%20concorso%20riservati%20agli%20assistenti%20straordinari.md), con il quale e' stato assegnato un posto di assistente ordinario - riservato agli assistenti straordinari - alla cattedra di statistica metodologica ed economica della facolta' di economia marittima dell'Istituto universitario navale di Napoli;
+ Viste le delibere del consiglio della facolta' di economia marittima dell'Istituto universitario navale di Napoli che, nelle adunanze del 16 dicembre 1974 e del 30 giugno 1975, ha espresso parere favorevole al trasferimento del predetto posto di assistente ordinario dalla cattedra di statistica metodologica ed economica all'insegnamento di statistica del corso di laurea in sociologia della facolta' di lettere e filosofia presso l'Universita' di Napoli, con decorrenza 1 novembre 1975;
+ Viste le delibere del senato accademico dell'Istituto universitario navale di Napoli che, nella adunanza dell'8 febbraio 1975, ha ribadito quanto deliberato dal consiglio della facolta' in merito al trasferimento del posto in parola;
+ Viste le delibere del consiglio della facolta' di lettere e filosofia dell'Universita' di Napoli che, nelle adunanze del 7 marzo e del 7 luglio 1975 ha espresso parere favorevole al trasferimento del posto in parola, unitamente al titolare della cattedra, dott.
+Antonio Mango;
+ Vista la delibera del senato accademico dell'Universita' di Napoli che, nell'adunanza del 12 luglio 1975, ha ribadito il parere favorevole espresso dal consiglio della facolta' di lettere e filosofia;
+ Ravvisata l'opportunita' - nell'interesse pubblico - di procedere al trasferimento di cui trattasi;
+ Vista la dichiarazione di affinita' fra le due citate materie;
+ Visto il consenso espresso dall'interessato al suo trasferimento;
+ Sulla proposta del Ministro, Segretario di Stato per la pubblica istruzione;
 
-Art. 1
-------
+ Decreta:
 
- IL PRESIDENTE DELLA REPUBBLICA  
-  
-Visto l'[art. 2, quarto comma, del decreto legislativo 7 maggio 1948, n. 1172](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1948-05-07;1172~art2-com4), ratificato, con modificazioni, con [legge 24 giugno 1950, n. 465](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1950-06-24;465);  
-Visto l'[art. 18 della legge 24 febbraio 1967, n. 62](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1967-02-24;62~art18);  
-Visto il [decreto del Presidente della Repubblica 1 aprile 1967, n. 343](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1967-04-01;343), con il quale e' stato assegnato un posto di assistente ordinario - riservato agli assistenti straordinari - alla cattedra di statistica metodologica ed economica della facolta' di economia marittima dell'Istituto universitario navale di Napoli;  
-Viste le delibere del consiglio della facolta' di economia marittima dell'Istituto universitario navale di Napoli che, nelle adunanze del 16 dicembre 1974 e del 30 giugno 1975, ha espresso parere favorevole al trasferimento del predetto posto di assistente ordinario dalla cattedra di statistica metodologica ed economica all'insegnamento di statistica del corso di laurea in sociologia della facolta' di lettere e filosofia presso l'Universita' di Napoli, con decorrenza 1 novembre 1975;  
-Viste le delibere del senato accademico dell'Istituto universitario navale di Napoli che, nella adunanza dell'8 febbraio 1975, ha ribadito quanto deliberato dal consiglio della facolta' in merito al trasferimento del posto in parola;  
-Viste le delibere del consiglio della facolta' di lettere e filosofia dell'Universita' di Napoli che, nelle adunanze del 7 marzo e del 7 luglio 1975 ha espresso parere favorevole al trasferimento del posto in parola, unitamente al titolare della cattedra, dott.  
-Antonio Mango;  
-Vista la delibera del senato accademico dell'Universita' di Napoli che, nell'adunanza del 12 luglio 1975, ha ribadito il parere favorevole espresso dal consiglio della facolta' di lettere e filosofia;  
-Ravvisata l'opportunita' - nell'interesse pubblico - di procedere al trasferimento di cui trattasi;  
-Vista la dichiarazione di affinita' fra le due citate materie;  
-Visto il consenso espresso dall'interessato al suo trasferimento;  
-Sulla proposta del Ministro, Segretario di Stato per la pubblica istruzione;  
-  
-Decreta:  
-  
-A decorrere dal 1 novembre 1975, il posto di assistente ordinario, gia' assegnato alla cattedra di statistica metodologica ed economica della facolta' di economia marittima dell'Istituto universitario navale di Napoli e' trasferito all'insegnamento di statistica (corso di laurea in sociologia) della facolta' di lettere e filosofia dell'Universita' di Napoli, unitamente al titolare dott. Antonio Mango.  
-  
+ A decorrere dal 1 novembre 1975, il posto di assistente ordinario, gia' assegnato alla cattedra di statistica metodologica ed economica della facolta' di economia marittima dell'Istituto universitario navale di Napoli e' trasferito all'insegnamento di statistica (corso di laurea in sociologia) della facolta' di lettere e filosofia dell'Universita' di Napoli, unitamente al titolare dott. Antonio Mango.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 31 ottobre 1975
+Dato a Roma, addi' 31 ottobre 1975
 
-LEONE MALFATTI
-
-Visto, il Guardasigilli: REALE
-
-Registrato alla Corte dei conti, addi' 14 maggio 1976
-
-Atti di Governo, registro n. 6, foglio n. 2
+LEONE MALFATTI Visto, il Guardasigilli: REALE Registrato alla Corte dei conti, addi' 14 maggio 1976 Atti di Governo, registro n. 6, foglio n. 2

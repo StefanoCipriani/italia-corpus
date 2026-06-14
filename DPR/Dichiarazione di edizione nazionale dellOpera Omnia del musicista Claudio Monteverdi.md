@@ -1,38 +1,30 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 09 marzo 1962 n. 719
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 719
+data: 1962-03-09
+titolo: "Dichiarazione di edizione nazionale dell'\"Opera Omnia\" del musicista Claudio Monteverdi."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1962-03-09;719
+codice_redazionale: 062U0719
+vigente: true
+---
 
+## Art. 1.
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 09 marzo 1962 n. 719
-============================================================
+IL PRESIDENTE DELLA REPUBBLICA
 
-Dichiarazione di edizione nazionale dell'"Opera Omnia" del musicista Claudio Monteverdi.
-----------------------------------------------------------------------------------------
+ Ritenuto che il Centro di cultura musicale del Conservatorio di musica "Benedetto Marcello" di Venezia ha assunto l'iniziativa di curare sotto la direzione di un apposito Comitato di studiosi l'"Opera Omnia" di Claudio Monteverdi;
+ Considerato che tale iniziativa merita incoraggiamento per le finalita' che si propone e perche' rappresenta un doveroso tributo alla memoria dell'insigne musicista;
+ Visto l'[art. 20 della legge 30 dicembre 1947, n. 1477](../Atti%20normativi%20abrogati%20%28in%20originale%29/Riordinamento%20dei%20Corpi%20consultivi%20del%20Ministero%20della%20pubblica%20istruzione.md);
+ Udito il parere del Consiglio superiore delle accademie e biblioteche;
+ Sentito il Consiglio dei Ministri;
+ Sulla proposta del Ministro Segretario di Stato per la pubblica istruzione;
 
-Art. 1
-------
+ Decreta:
 
- IL PRESIDENTE DELLA REPUBBLICA  
-  
-Ritenuto che il Centro di cultura musicale del Conservatorio di musica "Benedetto Marcello" di Venezia ha assunto l'iniziativa di curare sotto la direzione di un apposito Comitato di studiosi l'"Opera Omnia" di Claudio Monteverdi;  
-Considerato che tale iniziativa merita incoraggiamento per le finalita' che si propone e perche' rappresenta un doveroso tributo alla memoria dell'insigne musicista;  
-Visto l'[art. 20 della legge 30 dicembre 1947, n. 1477](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1947-12-30;1477~art20);  
-Udito il parere del Consiglio superiore delle accademie e biblioteche;  
-Sentito il Consiglio dei Ministri;  
-Sulla proposta del Ministro Segretario di Stato per la pubblica istruzione;  
-  
-Decreta:  
-  
-La pubblicazione dell'"Opera Omnia" da farsi a cura del Centro musicale del Conservatorio di musica, "Benedetto Marcello" di Venezia sotto la direzione di apposito Comitato e dichiarata "Edizione Nazionale".  
-  
+ La pubblicazione dell'"Opera Omnia" da farsi a cura del Centro musicale del Conservatorio di musica, "Benedetto Marcello" di Venezia sotto la direzione di apposito Comitato e dichiarata "Edizione Nazionale".
 
 Il presente decreto, munito del sigillo dello Stato, saia inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 9 marzo 1962
+Dato a Roma, addi' 9 marzo 1962
 
-GRONCHI FANFANI - GUI
-
-Visto, il Guardasigilli: BOSCO
-
-Registrato alla Corte dei conti, addi' 6 luglio 1962
-
-Atti del Governo, registro n. 153, foglio n. 2. - VILLA
+GRONCHI FANFANI - GUI Visto, il Guardasigilli: BOSCO Registrato alla Corte dei conti, addi' 6 luglio 1962 Atti del Governo, registro n. 153, foglio n. 2. - VILLA

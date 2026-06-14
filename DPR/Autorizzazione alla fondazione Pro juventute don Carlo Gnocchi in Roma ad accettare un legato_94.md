@@ -1,19 +1,22 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 10 febbraio 1986 n. 164
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 619
+data: 1985-07-16
+titolo: "Autorizzazione alla fondazione \"Pro juventute don Carlo Gnocchi\", in Roma, ad accettare un legato."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1985-07-16;619
+codice_redazionale: 085U0619
+vigente: true
+---
 
+## Art. 1.
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 10 febbraio 1986 n. 164
-===============================================================
+N.
 
-Autorizzazione alla fondazione "Pro juventute don Carlo Gnocchi", in Roma, ad accettare un legato.
---------------------------------------------------------------------------------------------------
+619.
 
-Art. 1
-------
-
-n.
-
-164. Decreto del Presidente della Repubblica 10 febbraio 1986, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la fondazione "Pro juventute don Carlo Gnocchi", in Roma, viene autorizzata ad accettare il legato, consistente nella somma di L. 20.000.000, disposto dalla sig.ra Carugati Margherita con testamento olografo 6 luglio 1971, pubblicato in data 13 gennaio 1984, n. 8303/700 di repertorio, a rogito dott. Antonio Tremolada, notaio in Milano, registrato a Milano in data 19 gennaio 1984 al n. 00808.  
-  
-Visto, il Guardasigilli: MARTINAZZOLI  
-Registrato alla Corte dei conti, addi' 22 aprile 1986  
-Registro n. 4 Presidenza, foglio n. 49
+Decreto del Presidente della Repubblica 16 luglio 1985, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la fondazione "Pro juventute don Carlo Gnocchi", in Roma, viene autorizzata ad accettare il legato, consistente in un appartamento sito in Parma, viale Rustici n. 42, distinto nel nuovo catasto edilizio urbano alla partita 5217, foglio 17, mappale 170 sub. 6, valore attribuito con perizia di parte L. 33.000.000 elevato dall'ufficio tecnico erariale di Parma a L. 39.000.000, disposto dalla sig.ra Giuseppina Carpi a favore dell'istituto don Gnocchi, via Saffi (che si identifica con la fondazione "Pro juventute don Carlo Gnocchi", come si evince dal verbale del consiglio di amministrazione della fondazione medesima in data 20 novembre 1981), con testamento olografo 25 agosto 1980, pubblicato in data 20 giugno 1981, n. 97910/11356 di repertorio, a rogito dott.
+ Giuseppe Marchi, notaio in Parma, registrato a Parma in data 1 luglio 1981 al n. 4813. 
+ 
+Visto, il Guardasigilli: MARTINAZZOLI 
+ Registrato alla Corte dei conti, addi' 25 ottobre 1985 
+ Registro n. 9 Presidenza, foglio n. 215

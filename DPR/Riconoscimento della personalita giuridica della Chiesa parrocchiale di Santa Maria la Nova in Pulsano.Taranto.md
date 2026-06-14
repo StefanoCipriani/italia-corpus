@@ -1,19 +1,21 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 05 giugno 1965 n. 823
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 823
+data: 1965-06-05
+titolo: "Riconoscimento della personalita' giuridica della Chiesa parrocchiale di \"Santa Maria la Nova\", in Pulsano.(Taranto)."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1965-06-05;823
+codice_redazionale: 065U0823
+vigente: true
+---
 
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 05 giugno 1965 n. 823
-=============================================================
-
-Riconoscimento della personalita' giuridica della Chiesa parrocchiale di "Santa Maria la Nova", in Pulsano.(Taranto).
----------------------------------------------------------------------------------------------------------------------
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-823. Decreto del Presidente della Repubblica 5 giugno 1965, col quale, sulla proposta del Ministro per l'interno, viene riconosciuta la personalita' giuridica della Chiesa parrocchiale di "Santa Maria la Nova", in Pulsano (Taranto).  
-  
-Visto, il Guardasigilli: REALE  
-Registrato alla Corte dei conti, addi' 5 luglio 1965  
-Atti del Governo, registro n. 195, foglio n. 61. - VILLA
+823.
+
+Decreto del Presidente della Repubblica 5 giugno 1965, col quale, sulla proposta del Ministro per l'interno, viene riconosciuta la personalita' giuridica della Chiesa parrocchiale di "Santa Maria la Nova", in Pulsano (Taranto).
+
+Visto, il Guardasigilli: REALE
+ Registrato alla Corte dei conti, addi' 5 luglio 1965
+ Atti del Governo, registro n. 195, foglio n. 61. - VILLA

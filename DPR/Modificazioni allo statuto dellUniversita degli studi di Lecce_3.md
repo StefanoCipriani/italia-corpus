@@ -1,13 +1,13 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 10 settembre 1969 n. 764
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 764
+data: 1969-09-10
+titolo: "Modificazioni allo statuto dell'Universita' degli studi di Lecce."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1969-09-10;764
+codice_redazionale: 069U0764
+vigente: true
+---
 
+## Art. 1.
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 10 settembre 1969 n. 764
-================================================================
-
-Modificazioni allo statuto dell'Universita' degli studi di Lecce.
------------------------------------------------------------------
-
-Art. 1
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 13 DICEMBRE 2010, N. 248](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2010-12-13;248)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))

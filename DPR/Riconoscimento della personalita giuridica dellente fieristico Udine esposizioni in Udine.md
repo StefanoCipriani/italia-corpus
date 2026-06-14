@@ -1,19 +1,21 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1979 n. 880
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 880
+data: 1979-10-31
+titolo: "Riconoscimento della personalita' giuridica dell'ente fieristico \"Udine esposizioni\", in Udine."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1979-10-31;880
+codice_redazionale: 079U0880
+vigente: true
+---
 
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1979 n. 880
-==============================================================
-
-Riconoscimento della personalita' giuridica dell'ente fieristico "Udine esposizioni", in Udine.
------------------------------------------------------------------------------------------------
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-880. Decreto del Presidente della Repubblica 31 ottobre 1979, col quale, sulla proposta del Ministro dell'industria, del commercio e dell'artigianato, viene riconosciuta la personalita' giuridica ed approvato lo statuto dell'ente fieristico "Udine esposizioni", in Udine.  
-  
-Visto, il Guardasigilli: MORLINO  
-Registrato alla Corte dei conti, addi' 7 marzo 1980  
-Registro n. 2 Industria, foglio n. 194
+880.
+
+Decreto del Presidente della Repubblica 31 ottobre 1979, col quale, sulla proposta del Ministro dell'industria, del commercio e dell'artigianato, viene riconosciuta la personalita' giuridica ed approvato lo statuto dell'ente fieristico "Udine esposizioni", in Udine.
+
+Visto, il Guardasigilli: MORLINO
+ Registrato alla Corte dei conti, addi' 7 marzo 1980
+ Registro n. 2 Industria, foglio n. 194

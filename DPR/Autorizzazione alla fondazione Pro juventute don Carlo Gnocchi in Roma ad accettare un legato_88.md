@@ -1,19 +1,21 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 16 luglio 1985 n. 564
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 465
+data: 1985-06-12
+titolo: "Autorizzazione alla fondazione \"Pro juventute don Carlo Gnocchi\", in Roma, ad accettare un legato."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1985-06-12;465
+codice_redazionale: 085U0465
+vigente: true
+---
 
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 16 luglio 1985 n. 564
-=============================================================
-
-Autorizzazione alla fondazione "Pro juventute don Carlo Gnocchi", in Roma, ad accettare un legato.
---------------------------------------------------------------------------------------------------
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-564. Decreto del Presidente della Repubblica 16 luglio 1985, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la fondazione "Pro juventute don Carlo Gnocchi", in Roma, viene autorizzata ad accettare il legato, consistente in un quarto della quota residua dell'assegnazione ad altri legatari del ricavato della vendita di un immobile sito in Roma, via Fratelli Ruspoli n. 2 ed annesso box ed altri beni mobili per un totale di L. 47.872.000, come risulta dal prospetto della consistenza, disposto dalla sig.ra Del Barba Maria con testamento olografo 23 luglio 1981, pubblicato il 12 maggio 1982, n. 75394 di repertorio e n. 9847 di raccolta, a rogito dottor Franco Ventura, notaio in Roma, registrato a Roma il 17 maggio 1982 al n. 419031.  
-  
-Visto, il Guardasigilli: MARTINAZZOLI  
-Registrato alla Corte dei conti, addi' 11 ottobre 1985  
-Registro n. 9 Presidenza, foglio n. 67
+465.
+
+Decreto del Presidente della Repubblica 12 giugno 1985, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la fondazione "Pro juventute don Carlo Gnocchi", in Roma, viene autorizzata ad accettare il legato, consistente in titoli ordinari per un valore di L. 220.728.000, disposto dal sig. Airoldi Benigno con testamento olografo 1 febbraio 1980, pubblicato in data 2 giugno 1983, n. 10094 di repertorio e n. 1462 di raccolta, a rogito dott. Mario Laimati, notaio in Gallarate (Varese), registrato a Gallarate il 4 agosto 1983 al n. 2486.
+
+Visto, il Guardasigilli: MARTINAZZOLI
+ Registrato alla Corte dei conti, addi' 2 settembre 1985
+ Registro n. 8 Presidenza, foglio n. 156

@@ -1,19 +1,21 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 27 novembre 1951 n. 1700
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 1700
+data: 1951-11-27
+titolo: "Autorizzazione all'Istituto dei ciechi \"Francesco Cavazza\" di Bologna ad accettare una donazione."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1951-11-27;1700
+codice_redazionale: 051U1700
+vigente: true
+---
 
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 27 novembre 1951 n. 1700
-================================================================
-
-Autorizzazione all'Istituto dei ciechi "Francesco Cavazza" di Bologna ad accettare una donazione.
--------------------------------------------------------------------------------------------------
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-1700. Decreto del Presidente della Repubblica 27 novembre 1951, col quale, sulla proposta del Ministro per la pubblica istruzione, l'Istituto dei ciechi "Francesco Cavazza" di Bologna, viene autorizzato ad accettare la donazione di L. 1.500.000 (lire unmilionecinquecentomila) in buoni del Tesoro novennali, disposta in suo favore da persona che desidera mantenere l'incognito.  
-  
-Visto, il Guardasigilli: ZOLI  
-Registrato alla Corte dei conti, addi' 7 febbraio 1952  
-Atti del Governo, registro n. 50, foglio n. 18. - FRASCA
+1700.
+
+Decreto del Presidente della Repubblica 27 novembre 1951, col quale, sulla proposta del Ministro per la pubblica istruzione, l'Istituto dei ciechi "Francesco Cavazza" di Bologna, viene autorizzato ad accettare la donazione di L. 1.500.000 (lire unmilionecinquecentomila) in buoni del Tesoro novennali, disposta in suo favore da persona che desidera mantenere l'incognito.
+
+Visto, il Guardasigilli: ZOLI
+ Registrato alla Corte dei conti, addi' 7 febbraio 1952
+ Atti del Governo, registro n. 50, foglio n. 18. - FRASCA

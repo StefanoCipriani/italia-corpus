@@ -1,76 +1,47 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 18 dicembre 1951 n. 1640
-
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 18 dicembre 1951 n. 1640
-================================================================
-
-Trasferimento in proprieta' all'Ente per lo sviluppo dell'irrigazione e la trasformazione fondiaria in Puglia e Lucania - Sezione speciale per la riforma fondiaria - di terreni di proprieta' di La Greca Teresa fu Federico, in comune di Ascoli Satriano (Foggia).
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 1640
+data: 1951-12-18
+titolo: "Trasferimento in proprieta' all'Ente per lo sviluppo dell'irrigazione e la trasformazione fondiaria in Puglia e Lucania - Sezione speciale per la riforma fondiaria - di terreni di proprieta' di La Greca Teresa fu Federico, in comune di Ascoli Satriano (Foggia)."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1951-12-18;1640
+codice_redazionale: 051U1640
+vigente: true
+---
 
 IL PRESIDENTE DELLA REPUBBLICA
-------------------------------
 
-Visti gli [articoli 77, comma primo](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27~art77-com1), ed [87, comma quinto, della Costituzione](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27~art87-com5) della Repubblica;
+Visti gli [articoli 77, comma primo](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_77-com1), ed [87, comma quinto, della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87-com5) della Repubblica;
 
-Viste le [leggi 12 maggio 1950, n. 230 e 21 ottobre 1950, n. 841](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1950-10-21;841);
+Viste le [leggi 12 maggio 1950, n. 230 e 21 ottobre 1950, n. 841](../Atti%20normativi%20abrogati%20%28in%20originale%29/Norme%20per%20la%20espropriazione%20bonifica%20trasformazione%20ed%20assegnazione%20dei%20terreni%20ai%20contadini.md);
 
-In virtu' della delegazione concessa dagli articoli della [legge 12 maggio 1950, n. 230](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1950-05-12;230), ed 1 e 2 della [legge 21 ottobre 1950, n. 841](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1950-10-21;841);
+In virtu' della delegazione concessa dagli articoli della [legge 12 maggio 1950, n. 230](../Atti%20normativi%20abrogati%20%28in%20originale%29/Provvedimenti%20per%20la%20colonizzazione%20dellAltopiano%20della%20Sila%20e%20dei%20territori%20jonici%20contermini.md), ed 1 e 2 della [legge 21 ottobre 1950, n. 841](../Atti%20normativi%20abrogati%20%28in%20originale%29/Norme%20per%20la%20espropriazione%20bonifica%20trasformazione%20ed%20assegnazione%20dei%20terreni%20ai%20contadini.md);
 
 Visto il proprio decreto 7 febbraio 1951, n. 67;
 
-Udito il parere, in data 25 ottobre 1951, della Commissione parlamentare, nominata a norma degli [articoli 5 della legge 12 maggio 1950, n. 230 ed 1](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1950-05-12;1~art5) e 2 della [legge 21 ottobre 1950, n. 841](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1950-10-21;841), la quale ha esaminato il piano particolareggiato di espropriazione n. 16, compilato dall'Ente per lo sviluppo della irrigazione e la trasformazione fondiaria in Puglia e Lucania - Sezione speciale per la riforma fondiaria - per i terreni ricadenti nel Comune di Ascoli Satriano (provincia di Foggia), della superficie di Ha. 325.81.52, nei confronti della ditta La Greca Teresa fu Federico;
+Udito il parere, in data 25 ottobre 1951, della Commissione parlamentare, nominata a norma degli [articoli 5 della legge 12 maggio 1950, n. 230 ed 1](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1950-05-12;1#art_5) e 2 della [legge 21 ottobre 1950, n. 841](../Atti%20normativi%20abrogati%20%28in%20originale%29/Norme%20per%20la%20espropriazione%20bonifica%20trasformazione%20ed%20assegnazione%20dei%20terreni%20ai%20contadini.md), la quale ha esaminato il piano particolareggiato di espropriazione n. 16, compilato dall'Ente per lo sviluppo della irrigazione e la trasformazione fondiaria in Puglia e Lucania - Sezione speciale per la riforma fondiaria - per i terreni ricadenti nel Comune di Ascoli Satriano (provincia di Foggia), della superficie di Ha. 325.81.52, nei confronti della ditta La Greca Teresa fu Federico;
 
 Sentito il Consiglio dei Ministri;
 
-Sulla
------
+Sulla proposta del Ministro Segretario di Stato per l'agricoltura e le foreste; Decreta:
 
-proposta del Ministro Segretario di Stato per l'agricoltura e le foreste; Decreta:
+## Art. 1.
 
-Art. 1
-------
+E' approvato il piano particolareggiato di espropriazione n. 16, compilato dall'Ente per lo sviluppo della irrigazione e la trasformazione fondiaria in Puglia e Lucania - Sezione speciale per la riforma fondiaria - per i terreni ricadenti nel comune di Ascoli Satriano (provincia di Foggia), della superficie di Ha. 325.81.52, nei confronti della ditta La Greca Teresa fu Federico.
 
-  
-E' approvato il piano particolareggiato di espropriazione n. 16, compilato dall'Ente per lo sviluppo della irrigazione e la trasformazione fondiaria in Puglia e Lucania - Sezione speciale per la riforma fondiaria - per i terreni ricadenti nel comune di Ascoli Satriano (provincia di Foggia), della superficie di Ha. 325.81.52, nei confronti della ditta La Greca Teresa fu Federico.  
+## Art. 2.
 
-Art. 2
-------
+I terreni, indicati nel precedente articolo e specificamente designati nell'elenco unito al presente decreto, sono trasferiti in proprieta' all'Ente per lo sviluppo dell'irrigazione e la trasformazione fondiaria in Puglia, e Lucania - Sezione speciale per la riforma fondiaria.
 
-  
-I terreni, indicati nel precedente articolo e specificamente designati nell'elenco unito al presente decreto, sono trasferiti in proprieta' all'Ente per lo sviluppo dell'irrigazione e la trasformazione fondiaria in Puglia, e Lucania - Sezione speciale per la riforma fondiaria.  
+## Art. 3.
 
-Art. 3
-------
+E' ordinata la immediata occupazione, da parte dell'Ente, dei terreni indicati nei precedenti articoli 1 e 2.
 
-  
-E' ordinata la immediata occupazione, da parte dell'Ente, dei terreni indicati nei precedenti articoli 1 e 2.  
+## Art. 4.
 
-Art. 4
-------
-
-  
-L'elenco dei terreni, con l'indicazione dell'indennita' di espropriazione offerta, munito del visto del Ministro proponente, forma parte integrante del presente decreto, che entra in vigore il giorno stesso della sua pubblicazione nella Gazzetta Ufficiale della Repubblica italiana.  
-  
+L'elenco dei terreni, con l'indicazione dell'indennita' di espropriazione offerta, munito del visto del Ministro proponente, forma parte integrante del presente decreto, che entra in vigore il giorno stesso della sua pubblicazione nella Gazzetta Ufficiale della Repubblica italiana.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 18 dicembre 1951
+Dato a Roma, addi' 18 dicembre 1951
 
-EINAUDI DE GASPERI - FANFANI
-
-Visto, il Guardasigilli: ZOLI
-
-Registrato alla Corte dei conti, addi' 26 gennaio 1952
-
-Atti del Governo, registro n. 49, foglio n. 47. - FRASCA
-
-Elenco
-
- COMUNE DI ASCOLI SATRIANO (Foggia)   
-  
-Elenco dei terreni espropriati nei confronti di La Greca Teresa fu Federico a norma delle [leggi 12 maggio 1950, n. 230, 21 ottobre 1950, n. 841](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1950-10-21;841) e D.P. 7 febbraio 1951, n. 67.   
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=051U164000100010110001&dgu=1952-02-04&art.dataPubblicazioneGazzetta=1952-02-04&art.codiceRedazionale=051U1640)
-  
+EINAUDI DE GASPERI - FANFANI Visto, il Guardasigilli: ZOLI Registrato alla Corte dei conti, addi' 26 gennaio 1952 Atti del Governo, registro n. 49, foglio n. 47. - FRASCA

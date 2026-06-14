@@ -1,244 +1,229 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 24 aprile 1982 n. 340
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 340
+data: 1982-04-24
+titolo: "Ordinamento del personale e organizzazione degli uffici dell'Amministrazione civile del Ministero dell'interno."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1982-04-24;340
+codice_redazionale: 082U0340
+vigente: true
+---
 
+## ORGANIZZAZIONE DEGLI UFFICI DELLA AMMINISTRAZIONE CIVILE DELL'INTERNO  Capo I ORGANIZZAZIONE DEGLI UFFICI CENTRALI
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 24 aprile 1982 n. 340
-=============================================================
+TITOLO I
 
-Ordinamento del personale e organizzazione degli uffici dell'Amministrazione civile del Ministero dell'interno.
----------------------------------------------------------------------------------------------------------------
+### Art. 1.
 
-CAPO I TITOLO I ORGANIZZAZIONE DEGLI UFFICI DELLA AMMINISTRAZIONE CIVILE DELL'INTERNO Capo I ORGANIZZAZIONE DEGLI UFFICI CENTRALI
----------------------------------------------------------------------------------------------------------------------------------
+((PROVVEDIMENTO ABROGATO DAL [D.P.R. 7 SETTEMBRE 2001, N.398](../Atti%20normativi%20abrogati%20%28in%20originale%29/Regolamento%20recante%20lorganizzazione%20degli%20uffici%20centrali%20di%20livello%20dirigenziale%20generale%20del%20Ministero%20dellinterno.md) ))
 
-### Art. 1
+### Art. 2.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 7 SETTEMBRE 2001, N.398](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2001-09-07;398) ))  
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 7 SETTEMBRE 2001, N.398 ))
 
-### Art. 2
+### Art. 3.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 7 SETTEMBRE 2001, N.398](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2001-09-07;398) ))
+((PROVVEDIMENTO ABROGATO DAL [D.P.R. 7 SETTEMBRE 2001, N.398](../Atti%20normativi%20abrogati%20%28in%20originale%29/Regolamento%20recante%20lorganizzazione%20degli%20uffici%20centrali%20di%20livello%20dirigenziale%20generale%20del%20Ministero%20dellinterno.md) ))
 
-### Art. 3
+### Art. 4.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 7 SETTEMBRE 2001, N.398](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2001-09-07;398) ))  
+((PROVVEDIMENTO ABROGATO DAL [D.P.R. 7 SETTEMBRE 2001, N.398](../Atti%20normativi%20abrogati%20%28in%20originale%29/Regolamento%20recante%20lorganizzazione%20degli%20uffici%20centrali%20di%20livello%20dirigenziale%20generale%20del%20Ministero%20dellinterno.md) ))
 
-### Art. 4
+### Art. 5.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 7 SETTEMBRE 2001, N.398](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2001-09-07;398) ))  
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 7 SETTEMBRE 2001, N.398 ))
 
-### Art. 5
+### Art. 6.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 7 SETTEMBRE 2001, N.398](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2001-09-07;398) ))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 7 SETTEMBRE 2001, N.398 ))
 
-### Art. 6
+## ORGANIZZAZIONE PERIFERICA
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 7 SETTEMBRE 2001, N.398](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2001-09-07;398) ))
+Capo II
 
-CAPO II Capo II ORGANIZZAZIONE PERIFERICA
------------------------------------------
+### Art. 7.
 
-### Art. 7
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 7 SETTEMBRE 2001, N. 398))
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 7 SETTEMBRE 2001, N. 398](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2001-09-07;398)))
+### Art. 8.
 
-### Art. 8
+((PROVVEDIMENTO ABROGATO DAL [D.P.R. 7 SETTEMBRE 2001, N.398](../Atti%20normativi%20abrogati%20%28in%20originale%29/Regolamento%20recante%20lorganizzazione%20degli%20uffici%20centrali%20di%20livello%20dirigenziale%20generale%20del%20Ministero%20dellinterno.md) ))
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 7 SETTEMBRE 2001, N.398](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2001-09-07;398) ))  
+## ORDINAMENTO DEL PERSONALE DELLA AMMINISTRAZIONE CIVILE DELL'INTERNO  Capo I DISPOSIZIONI GENERALI
 
-CAPO III TITOLO II ORDINAMENTO DEL PERSONALE DELLA AMMINISTRAZIONE CIVILE DELL'INTERNO Capo I DISPOSIZIONI GENERALI
--------------------------------------------------------------------------------------------------------------------
+TITOLO II
 
-### Art. 9
+### Art. 9.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 7 SETTEMBRE 2001, N.398](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2001-09-07;398) ))  
+((PROVVEDIMENTO ABROGATO DAL [D.P.R. 7 SETTEMBRE 2001, N.398](../Atti%20normativi%20abrogati%20%28in%20originale%29/Regolamento%20recante%20lorganizzazione%20degli%20uffici%20centrali%20di%20livello%20dirigenziale%20generale%20del%20Ministero%20dellinterno.md) ))
 
-### Art. 10
+### Art. 10.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 7 SETTEMBRE 2001, N.398](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2001-09-07;398) ))  
+((PROVVEDIMENTO ABROGATO DAL [D.P.R. 7 SETTEMBRE 2001, N.398](../Atti%20normativi%20abrogati%20%28in%20originale%29/Regolamento%20recante%20lorganizzazione%20degli%20uffici%20centrali%20di%20livello%20dirigenziale%20generale%20del%20Ministero%20dellinterno.md) ))
 
-### Art. 11
+### Art. 11.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 7 SETTEMBRE 2001, N.398](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2001-09-07;398) ))  
+((PROVVEDIMENTO ABROGATO DAL [D.P.R. 7 SETTEMBRE 2001, N.398](../Atti%20normativi%20abrogati%20%28in%20originale%29/Regolamento%20recante%20lorganizzazione%20degli%20uffici%20centrali%20di%20livello%20dirigenziale%20generale%20del%20Ministero%20dellinterno.md) ))
 
-### Art. 12
+### Art. 12.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 7 SETTEMBRE 2001, N.398](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2001-09-07;398) ))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 7 SETTEMBRE 2001, N.398 ))
 
-CAPO IV Capo II ORDINAMENTO DEL PERSONALE INDICATO NELLA TABELLA I
-------------------------------------------------------------------
+## ORDINAMENTO DEL PERSONALE INDICATO NELLA TABELLA I
 
-### Art. 13
+Capo II
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 7 SETTEMBRE 2001, N.398](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2001-09-07;398) ))  
+### Art. 13.
 
-### Art. 14
+((PROVVEDIMENTO ABROGATO DAL [D.P.R. 7 SETTEMBRE 2001, N.398](../Atti%20normativi%20abrogati%20%28in%20originale%29/Regolamento%20recante%20lorganizzazione%20degli%20uffici%20centrali%20di%20livello%20dirigenziale%20generale%20del%20Ministero%20dellinterno.md) ))
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 7 SETTEMBRE 2001, N.398](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2001-09-07;398) ))
+### Art. 14.
 
-### Art. 15
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 7 SETTEMBRE 2001, N.398 ))
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 7 SETTEMBRE 2001, N.398](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2001-09-07;398) ))  
+### Art. 15.
 
-### Art. 16
+((PROVVEDIMENTO ABROGATO DAL [D.P.R. 7 SETTEMBRE 2001, N.398](../Atti%20normativi%20abrogati%20%28in%20originale%29/Regolamento%20recante%20lorganizzazione%20degli%20uffici%20centrali%20di%20livello%20dirigenziale%20generale%20del%20Ministero%20dellinterno.md) ))
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 7 SETTEMBRE 2001, N.398](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2001-09-07;398) ))  
+### Art. 16.
 
-### Art. 17
+((PROVVEDIMENTO ABROGATO DAL [D.P.R. 7 SETTEMBRE 2001, N.398](../Atti%20normativi%20abrogati%20%28in%20originale%29/Regolamento%20recante%20lorganizzazione%20degli%20uffici%20centrali%20di%20livello%20dirigenziale%20generale%20del%20Ministero%20dellinterno.md) ))
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 7 SETTEMBRE 2001, N.398](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2001-09-07;398) ))
+### Art. 17.
 
-### Art. 18
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 7 SETTEMBRE 2001, N.398 ))
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 7 SETTEMBRE 2001, N.398](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2001-09-07;398) ))  
+### Art. 18.
 
-### Art. 19
+((PROVVEDIMENTO ABROGATO DAL [D.P.R. 7 SETTEMBRE 2001, N.398](../Atti%20normativi%20abrogati%20%28in%20originale%29/Regolamento%20recante%20lorganizzazione%20degli%20uffici%20centrali%20di%20livello%20dirigenziale%20generale%20del%20Ministero%20dellinterno.md) ))
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 7 SETTEMBRE 2001, N.398](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2001-09-07;398) ))  
+### Art. 19.
 
-CAPO V Capo III ORDINAMENTO DEL PERSONALE PREVISTO DALLA TABELLA II
--------------------------------------------------------------------
+((PROVVEDIMENTO ABROGATO DAL [D.P.R. 7 SETTEMBRE 2001, N.398](../Atti%20normativi%20abrogati%20%28in%20originale%29/Regolamento%20recante%20lorganizzazione%20degli%20uffici%20centrali%20di%20livello%20dirigenziale%20generale%20del%20Ministero%20dellinterno.md) ))
 
-### Art. 20
+## ORDINAMENTO DEL PERSONALE PREVISTO DALLA TABELLA II
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 7 SETTEMBRE 2001, N.398](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2001-09-07;398) ))  
+Capo III
 
-### Art. 21
+### Art. 20.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 7 SETTEMBRE 2001, N.398](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2001-09-07;398) ))  
+((PROVVEDIMENTO ABROGATO DAL [D.P.R. 7 SETTEMBRE 2001, N.398](../Atti%20normativi%20abrogati%20%28in%20originale%29/Regolamento%20recante%20lorganizzazione%20degli%20uffici%20centrali%20di%20livello%20dirigenziale%20generale%20del%20Ministero%20dellinterno.md) ))
 
-### Art. 22
+### Art. 21.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 7 SETTEMBRE 2001, N.398](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2001-09-07;398) ))  
+((PROVVEDIMENTO ABROGATO DAL [D.P.R. 7 SETTEMBRE 2001, N.398](../Atti%20normativi%20abrogati%20%28in%20originale%29/Regolamento%20recante%20lorganizzazione%20degli%20uffici%20centrali%20di%20livello%20dirigenziale%20generale%20del%20Ministero%20dellinterno.md) ))
 
-### Art. 23
+### Art. 22.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 7 SETTEMBRE 2001, N.398](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2001-09-07;398) ))  
+((PROVVEDIMENTO ABROGATO DAL [D.P.R. 7 SETTEMBRE 2001, N.398](../Atti%20normativi%20abrogati%20%28in%20originale%29/Regolamento%20recante%20lorganizzazione%20degli%20uffici%20centrali%20di%20livello%20dirigenziale%20generale%20del%20Ministero%20dellinterno.md) ))
 
-### Art. 24
+### Art. 23.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 7 SETTEMBRE 2001, N.398](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2001-09-07;398) ))  
+((PROVVEDIMENTO ABROGATO DAL [D.P.R. 7 SETTEMBRE 2001, N.398](../Atti%20normativi%20abrogati%20%28in%20originale%29/Regolamento%20recante%20lorganizzazione%20degli%20uffici%20centrali%20di%20livello%20dirigenziale%20generale%20del%20Ministero%20dellinterno.md) ))
 
-CAPO VI TITOLO III DISCIPLINA DELLA CONTINUITA' DEI SERVIZI ESSENZIALI
-----------------------------------------------------------------------
+### Art. 24.
 
-### Art. 25
+((PROVVEDIMENTO ABROGATO DAL [D.P.R. 7 SETTEMBRE 2001, N.398](../Atti%20normativi%20abrogati%20%28in%20originale%29/Regolamento%20recante%20lorganizzazione%20degli%20uffici%20centrali%20di%20livello%20dirigenziale%20generale%20del%20Ministero%20dellinterno.md) ))
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 7 SETTEMBRE 2001, N.398](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2001-09-07;398) ))
+## DISCIPLINA DELLA CONTINUITA' DEI SERVIZI ESSENZIALI
 
-### Art. 26
+TITOLO III
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 7 SETTEMBRE 2001, N.398](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2001-09-07;398) ))  
+### Art. 25.
 
-### Art. 27
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 7 SETTEMBRE 2001, N.398 ))
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 7 SETTEMBRE 2001, N.398](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2001-09-07;398) ))  
+### Art. 26.
 
-CAPO VII TITOLO IV DISPOSIZIONI TRANSITORIE E FINALI Capo I DISPOSIZIONI TRANSITORIE
-------------------------------------------------------------------------------------
+((PROVVEDIMENTO ABROGATO DAL [D.P.R. 7 SETTEMBRE 2001, N.398](../Atti%20normativi%20abrogati%20%28in%20originale%29/Regolamento%20recante%20lorganizzazione%20degli%20uffici%20centrali%20di%20livello%20dirigenziale%20generale%20del%20Ministero%20dellinterno.md) ))
 
-### Art. 28
+### Art. 27.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 7 SETTEMBRE 2001, N.398](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2001-09-07;398) ))  
+((PROVVEDIMENTO ABROGATO DAL [D.P.R. 7 SETTEMBRE 2001, N.398](../Atti%20normativi%20abrogati%20%28in%20originale%29/Regolamento%20recante%20lorganizzazione%20degli%20uffici%20centrali%20di%20livello%20dirigenziale%20generale%20del%20Ministero%20dellinterno.md) ))
 
-### Art. 29
+## DISPOSIZIONI TRANSITORIE E FINALI  Capo I DISPOSIZIONI TRANSITORIE
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 7 SETTEMBRE 2001, N.398](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2001-09-07;398) ))  
+TITOLO IV
 
-### Art. 30
+### Art. 28.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 7 SETTEMBRE 2001, N.398](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2001-09-07;398) ))  
+((PROVVEDIMENTO ABROGATO DAL [D.P.R. 7 SETTEMBRE 2001, N.398](../Atti%20normativi%20abrogati%20%28in%20originale%29/Regolamento%20recante%20lorganizzazione%20degli%20uffici%20centrali%20di%20livello%20dirigenziale%20generale%20del%20Ministero%20dellinterno.md) ))
 
-### Art. 31
+### Art. 29.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 7 SETTEMBRE 2001, N.398](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2001-09-07;398) ))  
+((PROVVEDIMENTO ABROGATO DAL [D.P.R. 7 SETTEMBRE 2001, N.398](../Atti%20normativi%20abrogati%20%28in%20originale%29/Regolamento%20recante%20lorganizzazione%20degli%20uffici%20centrali%20di%20livello%20dirigenziale%20generale%20del%20Ministero%20dellinterno.md) ))
 
-### Art. 32
+### Art. 30.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 7 SETTEMBRE 2001, N.398](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2001-09-07;398) ))  
+((PROVVEDIMENTO ABROGATO DAL [D.P.R. 7 SETTEMBRE 2001, N.398](../Atti%20normativi%20abrogati%20%28in%20originale%29/Regolamento%20recante%20lorganizzazione%20degli%20uffici%20centrali%20di%20livello%20dirigenziale%20generale%20del%20Ministero%20dellinterno.md) ))
 
-### Art. 33
+### Art. 31.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 7 SETTEMBRE 2001, N.398](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2001-09-07;398) ))  
+((PROVVEDIMENTO ABROGATO DAL [D.P.R. 7 SETTEMBRE 2001, N.398](../Atti%20normativi%20abrogati%20%28in%20originale%29/Regolamento%20recante%20lorganizzazione%20degli%20uffici%20centrali%20di%20livello%20dirigenziale%20generale%20del%20Ministero%20dellinterno.md) ))
 
-### Art. 34
+### Art. 32.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 7 SETTEMBRE 2001, N.398](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2001-09-07;398) ))  
+((PROVVEDIMENTO ABROGATO DAL [D.P.R. 7 SETTEMBRE 2001, N.398](../Atti%20normativi%20abrogati%20%28in%20originale%29/Regolamento%20recante%20lorganizzazione%20degli%20uffici%20centrali%20di%20livello%20dirigenziale%20generale%20del%20Ministero%20dellinterno.md) ))
 
-### Art. 35
+### Art. 33.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 7 SETTEMBRE 2001, N.398](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2001-09-07;398) ))  
+((PROVVEDIMENTO ABROGATO DAL [D.P.R. 7 SETTEMBRE 2001, N.398](../Atti%20normativi%20abrogati%20%28in%20originale%29/Regolamento%20recante%20lorganizzazione%20degli%20uffici%20centrali%20di%20livello%20dirigenziale%20generale%20del%20Ministero%20dellinterno.md) ))
 
-### Art. 36
+### Art. 34.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 7 SETTEMBRE 2001, N.398](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2001-09-07;398) ))  
+((PROVVEDIMENTO ABROGATO DAL [D.P.R. 7 SETTEMBRE 2001, N.398](../Atti%20normativi%20abrogati%20%28in%20originale%29/Regolamento%20recante%20lorganizzazione%20degli%20uffici%20centrali%20di%20livello%20dirigenziale%20generale%20del%20Ministero%20dellinterno.md) ))
 
-### Art. 37
+### Art. 35.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 7 SETTEMBRE 2001, N.398](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2001-09-07;398) ))
+((PROVVEDIMENTO ABROGATO DAL [D.P.R. 7 SETTEMBRE 2001, N.398](../Atti%20normativi%20abrogati%20%28in%20originale%29/Regolamento%20recante%20lorganizzazione%20degli%20uffici%20centrali%20di%20livello%20dirigenziale%20generale%20del%20Ministero%20dellinterno.md) ))
 
-### Art. 38
+### Art. 36.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 7 SETTEMBRE 2001, N.398](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2001-09-07;398) ))  
+((PROVVEDIMENTO ABROGATO DAL [D.P.R. 7 SETTEMBRE 2001, N.398](../Atti%20normativi%20abrogati%20%28in%20originale%29/Regolamento%20recante%20lorganizzazione%20degli%20uffici%20centrali%20di%20livello%20dirigenziale%20generale%20del%20Ministero%20dellinterno.md) ))
 
-### Art. 39
+### Art. 37.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 7 SETTEMBRE 2001, N.398](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2001-09-07;398) ))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 7 SETTEMBRE 2001, N.398 ))
 
-### Art. 40
+### Art. 38.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 7 SETTEMBRE 2001, N.398](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2001-09-07;398) ))  
+((PROVVEDIMENTO ABROGATO DAL [D.P.R. 7 SETTEMBRE 2001, N.398](../Atti%20normativi%20abrogati%20%28in%20originale%29/Regolamento%20recante%20lorganizzazione%20degli%20uffici%20centrali%20di%20livello%20dirigenziale%20generale%20del%20Ministero%20dellinterno.md) ))
 
-### Art. 41
+### Art. 39.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 7 SETTEMBRE 2001, N.398](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2001-09-07;398) ))  
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 7 SETTEMBRE 2001, N.398 ))
 
-### Art. 42
+### Art. 40.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 7 SETTEMBRE 2001, N.398](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2001-09-07;398) ))
+((PROVVEDIMENTO ABROGATO DAL [D.P.R. 7 SETTEMBRE 2001, N.398](../Atti%20normativi%20abrogati%20%28in%20originale%29/Regolamento%20recante%20lorganizzazione%20degli%20uffici%20centrali%20di%20livello%20dirigenziale%20generale%20del%20Ministero%20dellinterno.md) ))
 
-CAPO VIII Capo II DISPOSIZIONI FINALI
--------------------------------------
+### Art. 41.
 
-### Art. 43
+((PROVVEDIMENTO ABROGATO DAL [D.P.R. 7 SETTEMBRE 2001, N.398](../Atti%20normativi%20abrogati%20%28in%20originale%29/Regolamento%20recante%20lorganizzazione%20degli%20uffici%20centrali%20di%20livello%20dirigenziale%20generale%20del%20Ministero%20dellinterno.md) ))
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 7 SETTEMBRE 2001, N.398](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2001-09-07;398) ))  
+### Art. 42.
 
-### Art. 44
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 7 SETTEMBRE 2001, N.398 ))
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 7 SETTEMBRE 2001, N.398](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2001-09-07;398) ))  
+## DISPOSIZIONI FINALI
 
-### Art. 45
+Capo II
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 7 SETTEMBRE 2001, N.398](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2001-09-07;398) ))
+### Art. 43.
 
-### Art. 46
+((PROVVEDIMENTO ABROGATO DAL [D.P.R. 7 SETTEMBRE 2001, N.398](../Atti%20normativi%20abrogati%20%28in%20originale%29/Regolamento%20recante%20lorganizzazione%20degli%20uffici%20centrali%20di%20livello%20dirigenziale%20generale%20del%20Ministero%20dellinterno.md) ))
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 7 SETTEMBRE 2001, N.398](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2001-09-07;398) ))  
+### Art. 44.
 
-### Art. 47
+((PROVVEDIMENTO ABROGATO DAL [D.P.R. 7 SETTEMBRE 2001, N.398](../Atti%20normativi%20abrogati%20%28in%20originale%29/Regolamento%20recante%20lorganizzazione%20degli%20uffici%20centrali%20di%20livello%20dirigenziale%20generale%20del%20Ministero%20dellinterno.md) ))
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 7 SETTEMBRE 2001, N.398](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2001-09-07;398) ))
+### Art. 45.
 
-Tabella I
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 7 SETTEMBRE 2001, N.398 ))
 
- Allegato   
+### Art. 46.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 7 SETTEMBRE 2001, N. 398](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2001-09-07;398)))
+((PROVVEDIMENTO ABROGATO DAL [D.P.R. 7 SETTEMBRE 2001, N.398](../Atti%20normativi%20abrogati%20%28in%20originale%29/Regolamento%20recante%20lorganizzazione%20degli%20uffici%20centrali%20di%20livello%20dirigenziale%20generale%20del%20Ministero%20dellinterno.md) ))
 
-Tabella II
+### Art. 47.
 
- Allegato   
-
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 7 SETTEMBRE 2001, N.398](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2001-09-07;398)))
-
-Tabella III
-
- Allegato   
-
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 7 SETTEMBRE 2001, N.398](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2001-09-07;398) ))
-
-Tabella IV
-
- Allegato   
-
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 7 SETTEMBRE 2001, N. 398](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2001-09-07;398)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 7 SETTEMBRE 2001, N.398 ))

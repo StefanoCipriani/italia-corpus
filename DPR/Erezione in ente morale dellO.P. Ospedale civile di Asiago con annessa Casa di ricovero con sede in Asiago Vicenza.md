@@ -1,19 +1,21 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 06 marzo 1960 n. 571
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 571
+data: 1960-03-06
+titolo: "Erezione in ente morale dell'O.P. \"Ospedale civile di Asiago con annessa Casa di ricovero\", con sede in Asiago (Vicenza)."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1960-03-06;571
+codice_redazionale: 060U0571
+vigente: true
+---
 
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 06 marzo 1960 n. 571
-============================================================
-
-Erezione in ente morale dell'O.P. "Ospedale civile di Asiago con annessa Casa di ricovero", con sede in Asiago (Vicenza).
--------------------------------------------------------------------------------------------------------------------------
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-571. Decreto del Presidente della Repubblica 6 marzo 1960, col quale, sulla proposta del Ministro per l'interno, l'O.P. "Ospedale civile di Asiago con annessa Casa di ricovero", con sede in Asiago (Vicenza) viene eretta in ente morale e ne viene approvato lo statuto organico.  
-  
-Visto, il Guardasigilli: GONELLA  
-Registrato alla Corte dei conti, addi' 15 giugno 1960  
-Atti del Governo, registro n. 127, foglio n. 60. - VILLA
+571.
+
+Decreto del Presidente della Repubblica 6 marzo 1960, col quale, sulla proposta del Ministro per l'interno, l'O.P. "Ospedale civile di Asiago con annessa Casa di ricovero", con sede in Asiago (Vicenza) viene eretta in ente morale e ne viene approvato lo statuto organico.
+
+Visto, il Guardasigilli: GONELLA
+ Registrato alla Corte dei conti, addi' 15 giugno 1960
+ Atti del Governo, registro n. 127, foglio n. 60. - VILLA

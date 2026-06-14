@@ -1,19 +1,21 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 14 marzo 1962 n. 1179
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 1179
+data: 1962-03-14
+titolo: "Modificazione allo statuto della Cassa speciale di previdenza fra gli agenti delle Ferrovie Nord-Milano, con sede in Milano."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1962-03-14;1179
+codice_redazionale: 062U1179
+vigente: true
+---
 
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 14 marzo 1962 n. 1179
-=============================================================
-
-Modificazione allo statuto della Cassa speciale di previdenza fra gli agenti delle Ferrovie Nord-Milano, con sede in Milano.
-----------------------------------------------------------------------------------------------------------------------------
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-1179. Decreto del Presidente della Repubblica 14 marzo 1962, col quale, sulla proposta del Ministro per il lavoro e la previdenza sociale, di concerto con il Ministro per i trasporti, viene modificato lo statuto della Cassa speciale di previdenza fra gli agenti delle Ferrovie Nord - Milano, con sede in Milano.  
-  
-Visto, il Guardasigilli: BOSCO  
-Registrato alla Corte dei conti, addi' 3 agosto 1962  
-Atti del Governo, registro n. 157, foglio n. 86. - VILLA
+1179.
+
+Decreto del Presidente della Repubblica 14 marzo 1962, col quale, sulla proposta del Ministro per il lavoro e la previdenza sociale, di concerto con il Ministro per i trasporti, viene modificato lo statuto della Cassa speciale di previdenza fra gli agenti delle Ferrovie Nord - Milano, con sede in Milano.
+
+Visto, il Guardasigilli: BOSCO
+ Registrato alla Corte dei conti, addi' 3 agosto 1962
+ Atti del Governo, registro n. 157, foglio n. 86. - VILLA

@@ -1,19 +1,21 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 18 marzo 1965 n. 415
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 415
+data: 1965-03-18
+titolo: "Riconoscimento della personalita' giuridica della Chiesa ex-conventuale di San Francesco d'Assisi, in Forio (Napoli)."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1965-03-18;415
+codice_redazionale: 065U0415
+vigente: true
+---
 
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 18 marzo 1965 n. 415
-============================================================
-
-Riconoscimento della personalita' giuridica della Chiesa ex-conventuale di San Francesco d'Assisi, in Forio (Napoli).
----------------------------------------------------------------------------------------------------------------------
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-415. Decreto del Presidente della Repubblica 18 marzo 1965, col quale, sulla proposta del Ministro per l'interno, viene riconosciuta la personalita' giuridica della Chiesa, ex-conventuale di San Francesco d'Assisi, in Forio (Napoli).  
-  
-Visto, il Guardasigilli: REALE  
-Registrato alla Corte dei conti, addi' 29 aprile 1963  
-Atti del Governo, registro n. 192, foglio n. 1532. - VILLA
+415.
+
+Decreto del Presidente della Repubblica 18 marzo 1965, col quale, sulla proposta del Ministro per l'interno, viene riconosciuta la personalita' giuridica della Chiesa, ex-conventuale di San Francesco d'Assisi, in Forio (Napoli).
+
+Visto, il Guardasigilli: REALE
+ Registrato alla Corte dei conti, addi' 29 aprile 1963
+ Atti del Governo, registro n. 192, foglio n. 1532. - VILLA

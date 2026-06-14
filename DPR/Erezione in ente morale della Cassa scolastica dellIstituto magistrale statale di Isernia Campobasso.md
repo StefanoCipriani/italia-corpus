@@ -1,19 +1,21 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 06 giugno 1957 n. 1189
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 1189
+data: 1957-06-06
+titolo: "Erezione in ente morale della Cassa scolastica dell'Istituto magistrale statale di Isernia (Campobasso)."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1957-06-06;1189
+codice_redazionale: 057U1189
+vigente: true
+---
 
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 06 giugno 1957 n. 1189
-==============================================================
-
-Erezione in ente morale della Cassa scolastica dell'Istituto magistrale statale di Isernia (Campobasso).
---------------------------------------------------------------------------------------------------------
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-1189. Decreto del Presidente della Repubblica 6 giugno 1957, col quale, sulla proposta del Ministro per la pubblica istruzione, la Cassa scolastica dell'Istituto magistrale statale di Isernia (Campobasso) viene eretta in ente morale e ne viene approvato lo statuto.  
-  
-Visto, il Guardasigilli: GONELLA  
-Registrato alla Corte dei conti, addi' 12 dicembre 1957  
-Atti del Governo, registro n. 109, foglio n. 98. - RELLEVA
+1189.
+
+Decreto del Presidente della Repubblica 6 giugno 1957, col quale, sulla proposta del Ministro per la pubblica istruzione, la Cassa scolastica dell'Istituto magistrale statale di Isernia (Campobasso) viene eretta in ente morale e ne viene approvato lo statuto.
+
+Visto, il Guardasigilli: GONELLA
+ Registrato alla Corte dei conti, addi' 12 dicembre 1957
+ Atti del Governo, registro n. 109, foglio n. 98. - RELLEVA

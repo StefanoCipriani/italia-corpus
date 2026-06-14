@@ -1,20 +1,20 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 26 dicembre 1961 n. 1711
-
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 26 dicembre 1961 n. 1711
-================================================================
-
-Norme sul trattamento economico e normativo dei lavoratori dipendenti dalle imprese artigiane delle province di Parma e Ravenna.
---------------------------------------------------------------------------------------------------------------------------------
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 1711
+data: 1961-12-26
+titolo: "Norme sul trattamento economico e normativo dei lavoratori dipendenti dalle imprese artigiane delle province di Parma e Ravenna."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1961-12-26;1711
+codice_redazionale: 061U1711
+vigente: true
+---
 
 IL PRESIDENTE DELLA REPUBBLICA
-------------------------------
 
-Visto l'[art. 87, comma quinto, della Costituzione](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27~art87-com5);
+Visto l'[art. 87, comma quinto, della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87-com5);
 
-Vista la [legge 1 luglio 1959, n. 711](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1959-07-01;711), che delega il Governo ad emanare norme transitorie per garantire minimi di trattamento economico e normativo ai lavoratori;
+Vista la [legge 1 luglio 1959, n. 711](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1959-07-01;711), che delega il Governo ad emanare norme transitorie per garantire minimi di trattamento economico e normativo ai lavoratori;
 
-Vista la [legge 1 ottobre 1960, n. 1027](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1960-10-01;1027), recante modifiche alla predetta [legge 14 luglio 1959, n. 741](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1959-07-14;741);
+Vista la [legge 1 ottobre 1960, n. 1027](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1960-10-01;1027), recante modifiche alla predetta [legge 14 luglio 1959, n. 741](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1959-07-14;741);
 
 Visti, per la provincia di Parma:
 
@@ -46,139 +46,18 @@ Vista la pubblicazione nell'apposito Bollettino, n. 6, 7, 8, 9, 32, della provin
 
 Sentito il Consiglio dei Ministri;
 
-Sulla
------
+Sulla proposta del Ministro per il lavoro e la previdenza sociale; Decreta:
 
-proposta del Ministro per il lavoro e la previdenza sociale; Decreta:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-I rapporti di lavoro costituiti per le attivita' artigiane per le quali sono stati stipulati:  
-- per la provincia di Parma, l'accordo collettivo 9 aprile 1956, relativo alla misura della paga base e della indennita' di contingenza, l'accordo collettivo 13 giugno 1956, relativo alla valutazione della indennita' di mensa nel computo delle varie indennita', l'accordo collettivo 22 novembre 1956, relativo al pagamento della gratifica natalizia, il contratto collettivo 18 ottobre 1957, relativo al trattamento dei dipendenti dalle aziende artigiane del marmo, l'accordo collettivo 8 luglio 1958, relativo al conglobamento della paga base e della indennita' di mensa, il contratto collettivo 11 luglio 1958, relativo ai dipendenti dalle aziende artigiane del settore legno ed affini, il contratto collettivo 21 luglio 1958, relativo ai dipendenti dalle aziende artigiane del settore ferro-metalli, l'accordo collettivo 25 maggio 1959, relativo alla misura della indennita' di contingenza, il contratto collettivo i ottobre 1959, relativo ai lavoratori dipendenti dai caseifici artigiani;  
-- per la provincia di Ravenna, l'accordo collettivo 27 ottobre 1947, relativo ai dipendenti dalle aziende tipografiche, l'accordo collettivo 16 maggio 1956, relativo all'indennita' di mensa per i dipendenti dalle aziende artigiane del legno, l'accordo collettivo 21 maggio 1956, relativo all'indennita' di mensa, per i dipendenti dalle aziende artigiane di installazione di impianti idraulici;  
-sono regolati da norme giuridiche uniformi alle clausole dei contratti ed accordi anzidetti, annessi al presente decreto, purche' compatibili, per quanto riguarda le attivita' artigiane per le quali sono stati stipulati appositi contratti collettivi nazionali, con quelle concernenti la relativa disciplina nazionale.  
-I minimi di trattamento economico e normativo cosi' stabiliti sono inderogabili nei confronti di tutti i lavoratori dipendenti dalle imprese artigiane esercenti le attivita' indicate nei contratti ed accordi di cui al primo comma, delle province di Parma e Ravenna.  
-  
+I rapporti di lavoro costituiti per le attivita' artigiane per le quali sono stati stipulati:
+ - per la provincia di Parma, l'accordo collettivo 9 aprile 1956, relativo alla misura della paga base e della indennita' di contingenza, l'accordo collettivo 13 giugno 1956, relativo alla valutazione della indennita' di mensa nel computo delle varie indennita', l'accordo collettivo 22 novembre 1956, relativo al pagamento della gratifica natalizia, il contratto collettivo 18 ottobre 1957, relativo al trattamento dei dipendenti dalle aziende artigiane del marmo, l'accordo collettivo 8 luglio 1958, relativo al conglobamento della paga base e della indennita' di mensa, il contratto collettivo 11 luglio 1958, relativo ai dipendenti dalle aziende artigiane del settore legno ed affini, il contratto collettivo 21 luglio 1958, relativo ai dipendenti dalle aziende artigiane del settore ferro-metalli, l'accordo collettivo 25 maggio 1959, relativo alla misura della indennita' di contingenza, il contratto collettivo i ottobre 1959, relativo ai lavoratori dipendenti dai caseifici artigiani;
+ - per la provincia di Ravenna, l'accordo collettivo 27 ottobre 1947, relativo ai dipendenti dalle aziende tipografiche, l'accordo collettivo 16 maggio 1956, relativo all'indennita' di mensa per i dipendenti dalle aziende artigiane del legno, l'accordo collettivo 21 maggio 1956, relativo all'indennita' di mensa, per i dipendenti dalle aziende artigiane di installazione di impianti idraulici;
+sono regolati da norme giuridiche uniformi alle clausole dei contratti ed accordi anzidetti, annessi al presente decreto, purche' compatibili, per quanto riguarda le attivita' artigiane per le quali sono stati stipulati appositi contratti collettivi nazionali, con quelle concernenti la relativa disciplina nazionale.
+ I minimi di trattamento economico e normativo cosi' stabiliti sono inderogabili nei confronti di tutti i lavoratori dipendenti dalle imprese artigiane esercenti le attivita' indicate nei contratti ed accordi di cui al primo comma, delle province di Parma e Ravenna.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 26 dicembre 1961
+Dato a Roma, addi' 26 dicembre 1961
 
-GRONCHI FANFANI - SULLO
-
-Visto, il Guardasigilli: BOSCO
-
-Registrato alla Corte dei conti, addi' 17 aprile 1962
-
-Atti del Governo, registro n. 145, foglio n. 50. - VILLA
-
-Allegato
-
-ACCORDO COLLETTIVO 9 APRILE 1956 SULLA MISURA DELLA PAGA BASE E DELL'INDENNITA' DI CONTINGENZA, PER I DIPENDENTI DALLE AZIENDE ARTIGIANE DELLA PROVINCIA DI PARMA.   
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=061U171100100010110001&dgu=1962-05-12&art.dataPubblicazioneGazzetta=1962-05-12&art.codiceRedazionale=061U1711)
-  
-  
-  
-  
-  
-ACCORDO COLLETTIVO 13 GIUGNO 1956 SULLA VALUTAZIONE DELLA INDENNITA' DI MENSA NEL COMPUTO DELLE VARIE INDENNITA' PER I DIPENDENTI DA AZIENDE ARTIGIANE DELLA PROVINCIA DI PARMA.   
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=061U171100100010110002&dgu=1962-05-12&art.dataPubblicazioneGazzetta=1962-05-12&art.codiceRedazionale=061U1711)
-  
-  
-  
-  
-  
-ACCORDO COLLETTIVO 22 NOVEMBRE 1956 SUL PAGAMENTO DELLA GRATIFICA NATALIZIA, AI DIPENDENTI DALLE AZIENDE ARTIGIANE DELLA PROVINCIA DI PARMA.   
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=061U171100100010110003&dgu=1962-05-12&art.dataPubblicazioneGazzetta=1962-05-12&art.codiceRedazionale=061U1711)
-  
-  
-  
-  
-  
-CONTRATTO COLLETTIVO 18 OTTOBRE 1957 PER I DIPENDENTI DALLE AZIENDE ARTIGIANE DEL MARMO DELLA PROVINCIA DI PARMA.   
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=061U171100100010110004&dgu=1962-05-12&art.dataPubblicazioneGazzetta=1962-05-12&art.codiceRedazionale=061U1711)
-  
-  
-  
-  
-  
-ACCORDO COLLETTIVO 8 LUGLIO 1958, PER IL CONGLOBAMENTO DELLA PAGA BASE E DELLA INDENNITA' DI MENSA DEI DIPENDENTI DA AZIENDE ARTIGIANE DELLA PROVINCIA DI PARMA.   
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=061U171100100010110005&dgu=1962-05-12&art.dataPubblicazioneGazzetta=1962-05-12&art.codiceRedazionale=061U1711)
-  
-  
-  
-  
-  
-CONTRATTO COLLETTIVO 11 LUGLIO 1958, PER I DIPENDENTI DALLE AZIENDE ARTIGIANE DEL SETTORE LEGNO ED AFFINI DELLA PROVINCIA DI PARMA.   
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=061U171100100010110006&dgu=1962-05-12&art.dataPubblicazioneGazzetta=1962-05-12&art.codiceRedazionale=061U1711)
-  
-  
-  
-  
-  
-CONTRATTO COLLETTIVO 21 LUGLIO 1958 PER I DIPENDENTI DALLE AZIENDE ARTIGIANE DEL SETTORE FERRO-METALLI DELLA PROVINCIA DI PARMA.   
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=061U171100100010110007&dgu=1962-05-12&art.dataPubblicazioneGazzetta=1962-05-12&art.codiceRedazionale=061U1711)
-  
-  
-  
-  
-  
-ACCORDO COLLETTIVO 25 MAGGIO 1959 SULLA MISURA DELLA INDENNITA' DI CONTINGENZA, PER I DIPENDENTI DALLE AZIENDE ARTIGIANE, DELLA PROVINCIA DI PARMA.   
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=061U171100100010110008&dgu=1962-05-12&art.dataPubblicazioneGazzetta=1962-05-12&art.codiceRedazionale=061U1711)
-  
-  
-  
-  
-  
-CONTRATTO COLLETTIVO I OTTOBRE 1959 PER I LAVORATORI DIPENDENTI DAI CASEIFICI ARTIGIANI DELLA PROVINCIA DI PARMA.   
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=061U171100100010110009&dgu=1962-05-12&art.dataPubblicazioneGazzetta=1962-05-12&art.codiceRedazionale=061U1711)
-  
-  
-  
-  
-  
-ACCORDO COLLETTIVO 27 OTTOBRE 1947 PER I DIPENDENTI DALLE AZIENDE TIPOGRAFICHE ARTIGIANE DELLA PROVINCIA DI RAVENNA.   
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=061U171100100010110010&dgu=1962-05-12&art.dataPubblicazioneGazzetta=1962-05-12&art.codiceRedazionale=061U1711)
-  
-  
-  
-  
-  
-ACCORDO COLLETTIVO 16 MAGGIO 1956 RELATIVO ALL'INDENNITA' DI MENSA PER I DIPENDENTI DALLE AZIENDE ARTIGIANE DEL LEGNO DELLA PROVINCIA DI RAVENNA.   
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=061U171100100010110011&dgu=1962-05-12&art.dataPubblicazioneGazzetta=1962-05-12&art.codiceRedazionale=061U1711)
-  
-  
-  
-  
-  
-ACCORDO COLLETTIVO 21 MAGGIO 1956 RELATIVO ALL'INDENNITA' DI MENSA PER I DIPENDENTI DALLE AZIENDE ARTIGIANE DI INSTALLAZIONE DI IMPIANTI IDRAULICI DELLA PROVINCIA DI RAVENNA.   
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=061U171100100010110012&dgu=1962-05-12&art.dataPubblicazioneGazzetta=1962-05-12&art.codiceRedazionale=061U1711)
-  
+GRONCHI FANFANI - SULLO Visto, il Guardasigilli: BOSCO Registrato alla Corte dei conti, addi' 17 aprile 1962 Atti del Governo, registro n. 145, foglio n. 50. - VILLA

@@ -1,25 +1,17 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 11 gennaio 1957 n. 363
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 363
+data: 1957-01-11
+titolo: "Revisione dei ruoli organici del personale dipendente dall'Amministrazione autonoma delle poste e delle telecomunicazioni."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1957-01-11;363
+codice_redazionale: 057U0363
+vigente: true
+---
 
+## Art. 1.
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 11 gennaio 1957 n. 363
-==============================================================
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
 
-Revisione dei ruoli organici del personale dipendente dall'Amministrazione autonoma delle poste e delle telecomunicazioni.
---------------------------------------------------------------------------------------------------------------------------
+## Art. 2.
 
-Art. 1
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 13 DICEMBRE 2010, N. 248](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2010-12-13;248)))
-
-Art. 2
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 13 DICEMBRE 2010, N. 248](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2010-12-13;248)))
-
-Tabelle
-
- Tabelle   
-  
-
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 13 DICEMBRE 2010, N. 248](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2010-12-13;248)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))

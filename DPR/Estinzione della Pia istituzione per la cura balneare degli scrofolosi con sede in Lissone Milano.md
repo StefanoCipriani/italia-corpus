@@ -1,19 +1,21 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 17 dicembre 1962 n. 1973
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 1973
+data: 1962-12-17
+titolo: "Estinzione della Pia istituzione per la cura balneare degli scrofolosi, con sede in Lissone (Milano)."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1962-12-17;1973
+codice_redazionale: 062U1973
+vigente: true
+---
 
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 17 dicembre 1962 n. 1973
-================================================================
-
-Estinzione della Pia istituzione per la cura balneare degli scrofolosi, con sede in Lissone (Milano).
------------------------------------------------------------------------------------------------------
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-1973. Decreto del Presidente della Repubblica 17 dicembre 1962, col quale, sulla proposta del Ministro per l'interno, la Pia istituzione per la cura balneare degli scrofolosi, con sede in Lissone (Milano), viene dichiarata estinta ed il residuo patrimonio e' devoluto all'E.C.A. di Lissone.  
-  
-Visto, il Guardasigilli: BOSCO  
-Registrato alla Corte dei conti, addi' 7 febbraio 1963  
-Atti del Governo, registro n. 163, foglio n. 28. - VILLA
+1973.
+
+Decreto del Presidente della Repubblica 17 dicembre 1962, col quale, sulla proposta del Ministro per l'interno, la Pia istituzione per la cura balneare degli scrofolosi, con sede in Lissone (Milano), viene dichiarata estinta ed il residuo patrimonio e' devoluto all'E.C.A. di Lissone.
+
+Visto, il Guardasigilli: BOSCO
+ Registrato alla Corte dei conti, addi' 7 febbraio 1963
+ Atti del Governo, registro n. 163, foglio n. 28. - VILLA

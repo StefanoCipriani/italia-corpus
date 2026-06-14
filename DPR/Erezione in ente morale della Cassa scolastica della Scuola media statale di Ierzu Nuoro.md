@@ -1,19 +1,21 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 23 gennaio 1956 n. 433
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 433
+data: 1956-01-23
+titolo: "Erezione in ente morale della Cassa scolastica della Scuola media statale di Ierzu (Nuoro)."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1956-01-23;433
+codice_redazionale: 056U0433
+vigente: true
+---
 
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 23 gennaio 1956 n. 433
-==============================================================
-
-Erezione in ente morale della Cassa scolastica della Scuola media statale di Ierzu (Nuoro).
--------------------------------------------------------------------------------------------
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-433. Decreto del Presidente della Repubblica 23 gennaio 1956, col quale, sulla proposta del Ministro per la pubblica istruzione, la Cassa scolastica della Scuola media statale di Ierzu (Nuoro) viene eretta in ente morale e ne viene approvato lo statuto.  
-  
-Visto, il Guardasigilli: MORO  
-Registrato alla Corte dei conti, addi' 18 maggio 1956  
-Atti del Governo, registro n. 97, foglio n. 171. - CARLOMAGNO
+433.
+
+Decreto del Presidente della Repubblica 23 gennaio 1956, col quale, sulla proposta del Ministro per la pubblica istruzione, la Cassa scolastica della Scuola media statale di Ierzu (Nuoro) viene eretta in ente morale e ne viene approvato lo statuto.
+
+Visto, il Guardasigilli: MORO
+ Registrato alla Corte dei conti, addi' 18 maggio 1956
+ Atti del Governo, registro n. 97, foglio n. 171. - CARLOMAGNO

@@ -1,32 +1,32 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 14 maggio 1982 n. 782
-
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 14 maggio 1982 n. 782
-=============================================================
-
-Modificazioni al decreto del Presidente della Repubblica 15 novembre 1963, n. 2063, sulla costituzione delle cattedre nella scuola media.
------------------------------------------------------------------------------------------------------------------------------------------
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 782
+data: 1982-05-14
+titolo: "Modificazioni al decreto del Presidente della Repubblica 15 novembre 1963, n. 2063, sulla costituzione delle cattedre nella scuola media."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1982-05-14;782
+codice_redazionale: 082U0782
+vigente: true
+---
 
 IL PRESIDENTE DELLA REPUBBLICA
-------------------------------
 
-Visto l'[art. 87, quinto comma, della Costituzione](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27~art87-com5);
+Visto l'[art. 87, quinto comma, della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87-com5);
 
-Visto l'[art 13 della legge 31 dicembre 1962, n. 1859](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1962-12-31;1859~art13);
+Visto l'[art 13 della legge 31 dicembre 1962, n. 1859](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1962-12-31;1859#art_13);
 
-Visto il [decreto del Presidente della Repubblica 15 novembre 1963, n. 2063](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1963-11-15;2063);
+Visto il [decreto del Presidente della Repubblica 15 novembre 1963, n. 2063](Materie%20e%20gruppi%20di%20materie%20per%20le%20quali%20possono%20istituirsi%20nella%20scuola%20media%20statale%20cattedre%20di%20ruolo%20o%20incarichi%20di%20insegnamento%20nonche%20le%20condizioni%20per%20listituzione%20delle%20cattedre%20e_3ecb41f23d2e.md);
 
-Visto il [decreto del Presidente della Repubblica 5 aprile 1966, n. 1037, pubblicato nella Gazzetta Ufficiale n. 308 del 7 dicembre 1966](http://www.gazzettaufficiale.it/gazzetta/serie_generale/caricaDettaglio?dataPubblicazioneGazzetta=1966-12-07&numeroGazzetta=308);
+Visto il decreto del Presidente della Repubblica 5 aprile 1966, n. 1037, pubblicato nella Gazzetta Ufficiale n. 308 del 7 dicembre 1966;
 
-Visto il [decreto-legge 19 giugno 1970, n. 366](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1970-06-19;366), convertito, con modificazioni, nella [legge 26 luglio 1970, n. 571](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1970-07-26;571);
+Visto il [decreto-legge 19 giugno 1970, n. 366](../Atti%20normativi%20abrogati%20%28in%20originale%29/Istituzione%20delle%20cattedre%20non%20licenziabilita%20degli%20insegnanti%20non%20di%20ruolo%20riserve%20dei%20posti%20e%20sospensione%20degli%20esami%20di%20abilitazione%20allinsegnamento%20nelle%20scuole%20ed%20istituti%20di%20istruzi_e758853ee60b.md), convertito, con modificazioni, nella [legge 26 luglio 1970, n. 571](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2019%20giugno%201970%20n.%20366%20concernente%20la%20istituzione%20delle%20cattedre%20la%20non%20licenziabilita%20degli%20insegnanti%20non%20di%20ruolo%20le%20riserve%20dei_d39fc5e3af44.md);
 
-Vista la [legge 16 giugno 1977, n. 348](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1977-06-16;348);
+Vista la [legge 16 giugno 1977, n. 348](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1977-06-16;348);
 
-Visti i decreti ministeriali 9 febbraio 1979 con i quali sono stabiliti, tra l'altro, i nuovi orari di insegnamento per la scuola media statale, per le scuole medie annesse agli istituti d'arte e ai conservatori di musica, pubblicati nel supplemento alla [Gazzetta Ufficiale n. 50 del 20 febbraio 1979](http://www.gazzettaufficiale.it/gazzetta/serie_generale/caricaDettaglio?dataPubblicazioneGazzetta=1979-02-20&numeroGazzetta=50);
+Visti i decreti ministeriali 9 febbraio 1979 con i quali sono stabiliti, tra l'altro, i nuovi orari di insegnamento per la scuola media statale, per le scuole medie annesse agli istituti d'arte e ai conservatori di musica, pubblicati nel supplemento alla Gazzetta Ufficiale n. 50 del 20 febbraio 1979;
 
-Visto l'[art. 4 del decreto-legge 6 settembre 1979, n. 434](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1979-09-06;434~art4), convertito, con modificazioni, nella [legge 8 novembre 1979, n. 566](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1979-11-08;566);
+Visto l'[art. 4 del decreto-legge 6 settembre 1979, n. 434](../Atti%20normativi%20abrogati%20%28in%20originale%29/Proroga%20degli%20incarichi%20annuali%20del%20personale%20docente%20e%20non%20docente%20e%20delle%20nomine%20degli%20esperti%20negli%20istituti%20tecnici%20e%20professionali.%20Disposizioni%20particolari%20per%20gli%20insegnanti%20di%20edu_aaf3c02bf4d9_2.md), convertito, con modificazioni, nella [legge 8 novembre 1979, n. 566](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%206%20settembre%201979%20n.%20434%20concernente%20la%20proroga%20degli%20incarichi%20annuali%20del%20personale%20docente%20e%20non%20docente%20e%20delle%20nomine%20degli%20es_dea174de2c8e.md);
 
-Considerata l'opportunita' di modificare la tabella organica allegata al precedente [decreto del Presidente della Repubblica n. 2063/63](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1963;2063);
+Considerata l'opportunita' di modificare la tabella organica allegata al precedente [decreto del Presidente della Repubblica n. 2063/63](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1963;2063);
 
 Udito il parere del Consiglio nazionale della pubblica istruzione;
 
@@ -34,59 +34,16 @@ Udito il parere del Consiglio di Stato;
 
 Vista la deliberazione del Consiglio dei Ministri, adottata nella riunione del 23 aprile 1982;
 
-Sulla
------
+Sulla proposta del Ministro della pubblica istruzione, di concerto con il Ministro del tesoro; Decreta:
 
-proposta del Ministro della pubblica istruzione, di concerto con il Ministro del tesoro; Decreta:
+## Articolo unico
 
-Articolo unico
---------------
-
-  
-E' approvata la tabella allegata al presente decreto, vista e firmata dal Ministro della pubblica istruzione e dal Ministro del tesoro, nella quale sono, per la scuola media statale:  
-a) indicate le materie o gruppi di materie che costituiscono cattedre di ruolo o incarichi di insegnamento;  
-b) stabilite le condizioni per l'istituzione delle cattedre, nonche' precisati gli obblighi d'insegnamento.  
-  
+E' approvata la tabella allegata al presente decreto, vista e firmata dal Ministro della pubblica istruzione e dal Ministro del tesoro, nella quale sono, per la scuola media statale:
+ a) indicate le materie o gruppi di materie che costituiscono cattedre di ruolo o incarichi di insegnamento;
+ b) stabilite le condizioni per l'istituzione delle cattedre, nonche' precisati gli obblighi d'insegnamento.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti, di osservarlo e di farlo osservare.
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 14 maggio 1982
+Dato a Roma, addi' 14 maggio 1982
 
-PERTINI SPADOLINI - BODRATO - ANDREATTA
-
-Visto, il Guardasigilli: DARIDA
-
-Registrato alla Corte dei conti, addi' 26 ottobre 1982
-
-Atti di Governo, registro n. 43, foglio n. 24
-
-Tabella
-
- TABELLA ORGANICA DELLA SCUOLA MEDIA   
-  
-Materie o gruppi di materie costituenti cattedre di ruolo o incarichi d'insegnamento. Condizione per la istituzione delle cattedre. Obblighi d'insegnamento.   
-  
-  
-|Condizioni per l'istituzione della Materie o gruppi di materie |cattedra. Obblighi d'insegnamento
-
-|  |  |
-| --- | --- |
-| 1) Religione (1) | Un'ora settimanale di lezione per classe. |
-| 2) italiano, storia, educazione civica, geografia | Due cattedre per ogni corso. Un docente assumera' l'italiano nella prima classe e l'italiano, la storia, l'educazione civica e la geografia nella terza classe (ore 18 settimanali); l'altro docente assumera' la storia, l'educazione civica e la geografia nella prima classe e l'italiano, la storia, l'educa- zione civica e la geografia nella seconda classe (15 ore settima- nali). Ogni anno i due docenti si avvicenderanno. |
-| 3) Lingua straniera. . . | Una cattedra ogni due corsi (ore 18 settimanali). Con l'obbligo d'insegnamento. Nelle classi di due corsi completi. |
-| 4) Scienze matematiche, chimiche, fisiche e naturali | Una cattedra per ogni corso (ore 18 settimanali). Con l'obbligo d'insegnamento nelle classi di un corso. |
-| 5) Educazione tecnica . | Una cattedra ogni 6 gruppi di alunni costituiti ai sensi del- l'art. 4 del decreto-legge 6 set- tembre 1979, n. 434, convertito, con modificazioni, nella [legge 8 novembre 1979, n. 566](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1979-11-08;566) (ore 18 settimanali). Con l'obbligo di insegnamento nei sei gruppi. Comunque, ogni classe non puo' dare origine alla formazione di piu' di due gruppi. |
-| 6) Educazione artistica . | Una cattedra ogni tre corsi,oppure per ogni due corsi e tre classi collaterali (ore 18 settimanali), con l'obbligo d'insegnamento nei tre corsi oppure in due corsi e tre classi collaterali. Nelle scuole medie funzionanti presso gli istituti d'arte non si istituisce cattedra; l'insegna- mento si svolge presso l'istituto cui e' annessa la scuola media ed e' affidato al professore di disegno dal vero o di disegno geometrico e architettonico nonche' al professore di plastica dell'istituto d'arte. Qualora ri- sultino ore eccedenti l'orario di obbligo, dette ore sono affidate per incarico agli stessi o ad altri professori di disegno dal vero o di disegno geometrico e architettonico. |
-| 7) Educazione musicale . | Una cattedra ogni tre corsi,ovvero ogni due corsi e tre classi collaterali (ore 18 settimanali) con l'obbligo d'insegnamento nelle classi dei tre corsi oppure nei due corsi e nelle tre classi collaterali. Nelle scuole medie funzionanti presso i conservatori di musica, qualora l'inserimento degli alunni nel corso di teoria, solfeggio e dettato musicale o in quello di strumento musicale determini il superamento del limite previsto dall'[art. 15 del regio decreto 11 dicembre 1930, n. 1945](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-12-11;1945~art15), l'insegnamento viene affidato per incarico. |
-
-  
-  
-(1) Non costituisce cattedra.  
-  
-Il Ministro della pubblica istruzione  
-BODRATO  
-  
-Il Ministro del tesoro  
-ANDREATTA   
-  
+PERTINI SPADOLINI - BODRATO - ANDREATTA Visto, il Guardasigilli: DARIDA Registrato alla Corte dei conti, addi' 26 ottobre 1982 Atti di Governo, registro n. 43, foglio n. 24

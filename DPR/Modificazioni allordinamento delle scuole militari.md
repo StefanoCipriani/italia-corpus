@@ -1,13 +1,13 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 09 marzo 1976 n. 471
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 471
+data: 1976-03-09
+titolo: "Modificazioni all'ordinamento delle scuole militari."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1976-03-09;471
+codice_redazionale: 076U0471
+vigente: true
+---
 
+## Art. 1.
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 09 marzo 1976 n. 471
-============================================================
-
-Modificazioni all'ordinamento delle scuole militari.
-----------------------------------------------------
-
-Art. 1
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 15 MARZO 2010, N. 66](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-03-15;66)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 15 MARZO 2010, N. 66))

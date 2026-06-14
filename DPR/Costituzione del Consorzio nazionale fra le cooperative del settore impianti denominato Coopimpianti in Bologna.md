@@ -1,20 +1,22 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 21 dicembre 1978 n. 1081
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 1081
+data: 1978-12-21
+titolo: "Costituzione del Consorzio nazionale fra le cooperative del settore impianti denominato Coopimpianti, in Bologna."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1978-12-21;1081
+codice_redazionale: 078U1081
+vigente: true
+---
 
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 21 dicembre 1978 n. 1081
-================================================================
-
-Costituzione del Consorzio nazionale fra le cooperative del settore impianti denominato Coopimpianti, in Bologna.
------------------------------------------------------------------------------------------------------------------
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-1081. Decreto del Presidente della Repubblica 21 dicembre 1978, col quale, sulla proposta del Ministro del lavoro e della previdenza sociale di concerto con il Ministro dei lavori pubblici, viene costituito il Consorzio nazionale fra le cooperative del settore impianti denominato Coopimpianti, in Bologna, e ne  
-viene approvato lo statuto.  
-  
-Visto, il Guardasigilli: MORLINO  
-Registrato alla Corte dei conti, addi' 12 giugno 1979  
-Registro n. 1 Lavoro, foglio n. 72
+1081.
+
+Decreto del Presidente della Repubblica 21 dicembre 1978, col quale, sulla proposta del Ministro del lavoro e della previdenza sociale di concerto con il Ministro dei lavori pubblici, viene costituito il Consorzio nazionale fra le cooperative del settore impianti denominato Coopimpianti, in Bologna, e ne
+ viene approvato lo statuto.
+
+Visto, il Guardasigilli: MORLINO
+ Registrato alla Corte dei conti, addi' 12 giugno 1979
+ Registro n. 1 Lavoro, foglio n. 72

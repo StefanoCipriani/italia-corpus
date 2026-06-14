@@ -1,19 +1,21 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 09 aprile 1965 n. 720
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 720
+data: 1965-04-09
+titolo: "Erezione, in ente morale della Cassa scolastica della Scuola media statale \"Tito Minniti\" di Napoli-Fuorigrotta."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1965-04-09;720
+codice_redazionale: 065U0720
+vigente: true
+---
 
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 09 aprile 1965 n. 720
-=============================================================
-
-Erezione, in ente morale della Cassa scolastica della Scuola media statale "Tito Minniti" di Napoli-Fuorigrotta.
-----------------------------------------------------------------------------------------------------------------
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-720. Decreto del Presidente della Repubblica 9 aprile 1965, col quale, sulla proposta del Ministro per la pubblica istruzione, la Cassa scolastica della Scuola media statale "Tito Minniti" di Napoli-Fuorigrotta viene eretta in ente morale e ne viene approvato lo statuto.  
-  
-Visto, il Guardasigilli: REALE  
-Registrato alla Corte dei conti, addi' 24 giugno 1965  
-Atti del Governo, registro n. 194, foglio n. 20. - VILLA
+720.
+
+Decreto del Presidente della Repubblica 9 aprile 1965, col quale, sulla proposta del Ministro per la pubblica istruzione, la Cassa scolastica della Scuola media statale "Tito Minniti" di Napoli-Fuorigrotta viene eretta in ente morale e ne viene approvato lo statuto.
+
+Visto, il Guardasigilli: REALE
+ Registrato alla Corte dei conti, addi' 24 giugno 1965
+ Atti del Governo, registro n. 194, foglio n. 20. - VILLA

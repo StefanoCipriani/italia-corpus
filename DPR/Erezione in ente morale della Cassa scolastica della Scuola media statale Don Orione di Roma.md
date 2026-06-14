@@ -1,19 +1,21 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 14 agosto 1964 n. 1101
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 1101
+data: 1964-08-14
+titolo: "Erezione in ente morale della Cassa scolastica della Scuola media statale \"Don Orione\", di Roma."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1964-08-14;1101
+codice_redazionale: 064U1101
+vigente: true
+---
 
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 14 agosto 1964 n. 1101
-==============================================================
-
-Erezione in ente morale della Cassa scolastica della Scuola media statale "Don Orione", di Roma.
-------------------------------------------------------------------------------------------------
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-1101. Decreto del Presidente della Repubblica 14 agosto 1964, col quale, sulla proposta del Ministro per la pubblica istruzione, la Cassa scolastica della Scuola media statale "Don Orione", di Roma, viene eretta in ente morale e ne viene approvato lo statuto.  
-  
-Visto, il Guardasigilli: REALE  
-Registrato alla Corte dei conti, addi' 28 ottobre 1964  
-Atti del Governo, registro n. 187, foglio n. 180. - VILLA
+1101.
+
+Decreto del Presidente della Repubblica 14 agosto 1964, col quale, sulla proposta del Ministro per la pubblica istruzione, la Cassa scolastica della Scuola media statale "Don Orione", di Roma, viene eretta in ente morale e ne viene approvato lo statuto.
+
+Visto, il Guardasigilli: REALE
+ Registrato alla Corte dei conti, addi' 28 ottobre 1964
+ Atti del Governo, registro n. 187, foglio n. 180. - VILLA

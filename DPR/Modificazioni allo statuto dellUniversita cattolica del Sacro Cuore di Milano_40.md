@@ -1,22 +1,22 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 ottobre 1974 n. 653
-
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 ottobre 1974 n. 653
-==============================================================
-
-Modificazioni allo statuto dell'Universita' cattolica del Sacro Cuore di Milano.
---------------------------------------------------------------------------------
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 642
+data: 1974-04-09
+titolo: "Modificazioni allo statuto dell'Universita' cattolica del \"Sacro Cuore\" di Milano."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1974-04-09;642
+codice_redazionale: 074U0642
+vigente: true
+---
 
 IL PRESIDENTE DELLA REPUBBLICA
-------------------------------
 
-Veduto lo statuto dell'Universita' cattolica del Sacro Cuore di Milano, approvato con [regio decreto 20 aprile 1939, n. 1163](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1163) e modificato con [regio decreto 26 ottobre 1940, n. 2030](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-26;2030), e successive modificazioni;
+Veduto lo statuto dell'Universita' cattolica del "Sacro Cuore" di Milano, approvato con [regio decreto 20 aprile 1939, n. 1163](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20del%20nuovo%20statuto%20della%20Universita%20cattolica%20del%20Sacro%20Cuore%20di%20Milano.%20039U1163.md), e modificato con [regio decreto 26 ottobre 1940, n. 2030](../Atti%20normativi%20abrogati%20%28in%20originale%29/Modificazioni%20allo%20statuto%20della%20Universita%20cattolica%20del%20%20Sacro%20Cuore%20%20di%20Milano.%20040U2030.md), e successive modificazioni;
 
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20R.%20decreto-legge%2020%20giugno%201935-XIII%20n.%201071%20contenente%20modifiche%20ed%20aggiornamenti%20al%20testo%20unico%20delle%20leggi%20sullistruzione%20superiore.%20036U0073.md);
 
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
+Veduto il [regio decreto 30 settembre 1938, n. 1652](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disposizioni%20sullordinamento%20didattico%20universitario.%20038U1652.md), e successive modificazioni;
 
 Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
 
@@ -28,105 +28,139 @@ Sulla proposta del Ministro per la pubblica istruzione;
 
 Decreta:
 
-Lo statuto dell'Universita' cattolica del Sacro Cuore di Milano, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+Lo statuto dell'Universita' cattolica del "Sacro Cuore" di Milano, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
 
-L'art. 104, relativo alla scuola di specializzazione in radiologia, e' abrogato e sostituito dal seguente:
+L'ordinamento della scuola di specializzazione in "Radiologia" e' modificato nel senso che il numero degli iscritti da ammettere alla scuola suddetta e' stabilito in ottantaquattro per l'intero corso di studi.
 
-Scuola di specializzazione in radiologia
+Dopo l'art. 97, e con il conseguente spostamento della numerazione degli articoli successivi, sono inseriti i seguenti nuovi articoli relativi alla istituzione della scuola di specializzazione in neurochirurgia.
 
-Art. 104. - La scuola rilascia i seguenti diplomi di specializzazione: in radiologia e radiologia diagnostica.
+Scuola di specializzazione in neurochirurgia
 
-La scuola e' riservata ai laureati in medicina e chirurgia che possono essere accolti in numero massimo di dodici per ciascun anno di corso per radiologia e radiologia diagnostica (totale 42).
+Art. 98. - La scuola di specializzazione in neurochirurgia ha sede presso l'istituto di neurochirurgia.
 
-La durata dei corsi per il conseguimento del diploma di specializzazione in radiologia e' di quattro anni.
+Il corso degli studi della predetta scuola ha la durata di quattro anni.
 
-Gli insegnamenti sono i seguenti:
+Potra' esservi ammesso un numero di undici allievi, complessivo per i quattro anni di corso.
 
-a) Matematica, fisica, nozioni di statistica e informatica (annuale) comprendente: richiami di matematica e fisica generale; costituzione della materia; produzione, assorbimento e misura delle radiazioni; statistica applicata alla medicina; informatica e cibernetica applicata alla radiologia;
+Art. 99. - Per la iscrizione alla scuola di specializzazione il candidato dovra' esibire un attestato di frequenza effettiva di almeno un anno in un istituto di patologia chirurgica o di clinica chirurgica.
 
-b) Radiodiagnostica (triennale) comprendente: principi generali di radiodiagnostica; apparecchi, strumenti e tecnica radiodiagnostica; tecnica e fisiologia applicata alla radiodiagnostica; i mezzi di contrasto artificiale in radiodiagnostica - effetti collaterali connessi con il loro impiego e loro terapia; semeiotica radiologica; diagnostica differenziale radiologica; dimostrazioni autoptiche di pazienti sottoposti ad esami radiologici; dimostrazioni di casistica clinica;
+Art. 100. - Le norme per l'iscrizione, gli esami, per le tasse, ecc. sono quelle generali per le scuole di specializzazione e di perfezionamento dello statuto dell'Universita' cattolica del "Sacro Cuore".
 
-c) Radiobiologia (annuale) comprendente: radiobiologia generale; danni da radiazioni e radiopatie;
+Art. 101. - Gli insegnamenti che vengono impartiti nella scuola sono i seguenti:
 
-d) Protezioni radiologiche, legislazione sanitaria e problemi di tecnica ospedaliera applicati alla radiologia (annuale) comprendente:
+Annuali:
 
-legislazione sanitaria applicata alla radiologia; compiti e responsabilita' medicolegali del radiologo; radioprotezione fisica e dosimetria ad essa connessa; fattori che influenzano l'effetto biologico delle radiazioni e problemi connessi con le radioprotezioni; radioprotezione chimica; problemi tecnici e funzionali inerenti la progettazione, organizzazione ed attivazione dei reparti radiologici;
+Neuroanatomia (1° corso);
 
-e) Radioterapia e terapia fisica (triennale) comprendente: radiobiologia applicata; fondamenti generali di radioterapia e terapia fisica; istopatologia speciale dei tumori; nozioni sugli apparecchi e strumenti per la radioterapia; tecnica e metodica radioterapica; dosimetria; clinica radioterapica; fondamenti generali di chemioterapia oncologica; chemioterapia clinica dei tumori e sua associazione alla radioterapia; dimostrazione di casistica clinica;
+Neurofisiologia (1° corso);
 
-f) Medicina nucleare (biennale) comprendente: elementi di medicina nucleare; istrumentario, tecnica e metodica dell'impiego dei radioisotopi in medicina nucleare; dosimetria dei radioisotopi somministrati per via interna; diagnostica con radioisotopi somministrati per via interna; radioterapia metabolica; dimostrazioni di casistica clinica.
+Clinica neurologica (1° corso);
 
-I singoli insegnamenti, tenuti da uno o piu' docenti, a seconda di quanto opportuno al loro migliore svolgimento e completati da conferenze, dimostrazioni pratiche e, ove opportuno e possibile, da visite ad istituzioni di particolare interesse, sono cosi' distribuiti nei quattro anni di corso:
+Elementi di psichiatria (1° corso);
 
-1° Anno (tronco comune):
+Neuro-oftalmologia (2° corso);
 
-Matematica, fisica, nozioni di statistica ed informatica;
+Neuro-otoiatria (2° corso);
 
-Radiobiologia;
+Elettroencefalografia ed elettromiografia (2° corso);
 
-Protezioni radiologiche, legislazione sanitaria e problemi di tecnica ospedaliera applicati alla radiologia;
+Anestesiologia (3° corso);
 
-Radiodiagnostica (I).
+Neuropatologia (3° corso);
 
-2° Anno:
+Neurochirurgia infantile (3° corso);
 
-Radiodiagnostica (II);
+Tecniche operatorie (4° corso);
 
-Radioterapia e terapia fisica (I).
+Chirurgia stereotassica (4° corso);
 
-3° Anno:
+Neurochirurgia spinale (4° corso);
 
-Radiodiagnostica (III);
+Neurotraumatologia (4° corso).
 
-Radioterapia e terapia fisica (II);
+Biennali:
 
-Medicina nucleare (I).
+Neuroradiologia (3° e 4° corso).
 
-4° Anno:
+Quadriennali:
 
-Radioterapia e terapia fisica (III);
+Clinica neurochirurgica (1°, 2°, 3°, 4° corso).
 
-Medicina nucleare (II).
+I detti insegnamenti saranno integrati da esercitazioni cliniche e di laboratorio.
 
-La durata dei corsi per il conseguimento del diploma di specializzazione in radiologia diagnostica e' di tre anni.
+Art. 102. - Gli insegnamenti della scuola si svolgono secondo l'ordine seguente:
 
-Gli insegnamenti sono i seguenti:
+1° Corso:
 
-a) Matematica, fisica, nozioni di statistica e informatica (annuale) comprendente: richiami di matematica e fisica generale; costituzione della materia; produzione, assorbimento e misura delle radiazioni; statistica applicata alla medicina; informatica e cibernetica applicate alla radiologia;
+1) Neuroanatomia;
 
-b) Radiodiagnostica (triennale) comprendente: principi generali di radiodiagnostica; apparecchi, strumenti e tecnica radiodiagnostica; tecnica e fisiologia applicate alla radiodiagnostica; i mezzi di contrasto artificiale in radiodiagnostica - effetti collaterali connessi con il loro impiego e loro terapia; semeiotica radiologica; diagnostica differenziale radiologica; dimostrazioni autoptiche di pazienti sottoposti ad esami radiologici; dimostrazioni di casistica clinica;
+2) Neuro-fisiologia;
 
-c) Radiobiologia (annuale) comprendente: radiobiologia generale; danni da radiazioni e radiopatie;
+3) Clinica neurologica;
 
-d) Protezioni radiologiche, legislazione sanitaria e problemi di tecnica ospedaliera applicati alla radiologia (annuale) comprendente:
+4) Elementi di psichiatria;
 
-legislazione sanitaria applicata alla radiologia; compiti e responsabilita' medico-legali del radiologo; radioprotezione fisica e dosimetria ad essa connessa; fattori che influenzano l'effetto biologico delle radiazioni e problemi connessi con le radioprotezioni; radioprotezione chimica; problemi tecnici e funzionali inerenti la progettazione, organizzazione ed attivazione dei reparti radiologici.
+5) Clinica neurochirurgica.
 
-I singoli insegnamenti, tenuti da uno o piu' docenti a seconda di quanto opportuno al loro svolgimento e completati da conferenze e dimostrazioni pratiche, sono cosi' distribuiti nei tre anni di corso:
+Alla fine dell'anno gli specializzandi dovranno superare gli esami di profitto sulle materie di cui ai numeri 1), 2), 3) e 4).
 
-1° Anno (tronco comune):
+2° Corso:
 
-Matematica, fisica, nozioni di statistica ed informatica;
+1) Neuro-oftalmologia;
 
-Radiobiologia;
+2) Neuro-otoiatria;
 
-Protezioni radiologiche, legislazione sanitaria e problemi di tecnica ospedaliera applicati alla radiologia;
+3) Elettroencefalografia ed elettromiografia;
 
-Radiodiagnostica (I).
+4) Clinica neurochirurgica.
 
-2° Anno:
+Alla fine dell'anno gli specializzandi dovranno superare gli esami di profitto sulle materie di cui ai numeri 1), 2) e 3).
 
-Radiodiagnostica (II)
+3° Corso:
 
-3° Anno:
+1) Anestesiologia;
 
-Radiodiagnostica (III).
+2) Neuropatologia;
 
-Per essere ammessi agli esami di diploma in radiologia e in radiologia diagnostica gli iscritti, oltre ad aver compiuto un congruo periodo di internato, devono aver superato un esame su ciascuna materia d'insegnamento ed elaborato una tesi scritta su di un argomento radiologico concordato con il direttore della scuola.
+3) Neuroradiologia;
 
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+4) Neurochirurgia infantile;
 
-Dato a Roma, addi' 28 ottobre 1974
+5) Clinica neurochirurgica.
+
+Alla fine dell'anno gli specializzandi dovranno superare gli esami di profitto sulle materie di cui ai numeri 1), 2) e 4).
+
+4° Corso:
+
+1) Tecniche operatorie;
+
+2) Neuroradiologia;
+
+3) Neurotraumatologia;
+
+4) Chirurgia stereotassica;
+
+5) Clinica neurochirurgica;
+
+6) Neurochirurgia spinale.
+
+Alla fine dell'anno gli specializzandi dovranno superare gli esami di profitto sulle materie di cui ai numeri 1), 2), 3), 4) e 5).
+
+Art. 103. - La frequenza alla scuola e' obbligatoria durante l'anno accademico.
+
+Gli allievi sono tenuti a frequentare assiduamente le lezioni, il reparto ed i laboratori dell'istituto di neurochirurgia secondo l'orario stabilito dal consiglio di facolta' al principio dell'anno accademico ed a partecipare attivamente alle esercitazioni cliniche e di laboratorio. Il direttore della scuola di specializzazione potra' disporre che gli allievi frequentino per determinati periodi le lezioni ed esercitazioni di laboratorio in altri istituti della Universita'.
+
+L'allievo che non abbia soddisfatto gli obblighi imposti da questo articolo non sara' ammesso a sostenere gli esami.
+
+Art. 104. - Alla fine del 4° corso gli allievi devono superare l'esame di diploma.
+
+Questo consistera' nella presentazione e discussione di una tesi scritta su un tema di neurochirurgia preventivamente approvato dal direttore della scuola.
+
+Agli allievi che abbiano ottenuto l'approvazione dell'esame finale, verra' rilasciato il diploma, che attribuisce la qualifica di specialista in neurochirurgia, valido a tutti gli effetti di legge.
+
+II presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+
+Dato a Roma, addi' 9 aprile 1974
 
 LEONE
 
@@ -134,99 +168,110 @@ MALFATTI
 
 Visto, il Guardasigilli: ZAGARI
 
-Registrato
-----------
+Registrato alla Corte dei conti, addi' 7 dicembre 1974 Atti di Governo, registro n. 7, foglio n. 61. - SCIARRETTA
 
-alla Corte dei conti, addi' 7 dicembre 1974 Atti di Governo, registro n. 7, foglio n. 65. - SCIARRETTA
+## Art. 1.
 
-Art. 1
-------
-
- IL PRESIDENTE DELLA REPUBBLICA   
-  
-Veduto lo statuto dell'Universita' cattolica del Sacro Cuore di Milano, approvato con [regio decreto 20 aprile 1939, n. 1163](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1163) e modificato con [regio decreto 26 ottobre 1940, n. 2030](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-26;2030), e successive modificazioni;   
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);   
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);   
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;   
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;   
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;   
-Sentito il parere del Consiglio superiore della pubblica istruzione;   
-Sulla proposta del Ministro per la pubblica istruzione;   
-  
-Decreta:   
-  
-Lo statuto dell'Universita' cattolica del Sacro Cuore di Milano, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:   
-  
-L'art. 104, relativo alla scuola di specializzazione in radiologia, e' abrogato e sostituito dal seguente:   
-  
-Scuola di specializzazione in radiologia   
-  
-Art. 104. - La scuola rilascia i seguenti diplomi di specializzazione: in radiologia e radiologia diagnostica.   
-La scuola e' riservata ai laureati in medicina e chirurgia che possono essere accolti in numero massimo di dodici per ciascun anno di corso per radiologia e radiologia diagnostica (totale 42).   
-La durata dei corsi per il conseguimento del diploma di specializzazione in radiologia e' di quattro anni.   
-  
-Gli insegnamenti sono i seguenti:   
-a) Matematica, fisica, nozioni di statistica e informatica (annuale) comprendente: richiami di matematica e fisica generale; costituzione della materia; produzione, assorbimento e misura delle radiazioni; statistica applicata alla medicina; informatica e cibernetica applicata alla radiologia;   
-b) Radiodiagnostica (triennale) comprendente: principi generali di radiodiagnostica; apparecchi, strumenti e tecnica radiodiagnostica; tecnica e fisiologia applicata alla radiodiagnostica; i mezzi di contrasto artificiale in radiodiagnostica - effetti collaterali connessi con il loro impiego e loro terapia; semeiotica radiologica; diagnostica differenziale radiologica; dimostrazioni autoptiche di pazienti sottoposti ad esami radiologici; dimostrazioni di casistica clinica;   
-c) Radiobiologia (annuale) comprendente: radiobiologia generale; danni da radiazioni e radiopatie;   
-d) Protezioni radiologiche, legislazione sanitaria e problemi di tecnica ospedaliera applicati alla radiologia (annuale) comprendente:   
-legislazione sanitaria applicata alla radiologia; compiti e responsabilita' medicolegali del radiologo; radioprotezione fisica e dosimetria ad essa connessa; fattori che influenzano l'effetto biologico delle radiazioni e problemi connessi con le radioprotezioni; radioprotezione chimica; problemi tecnici e funzionali inerenti la progettazione, organizzazione ed attivazione dei reparti radiologici;   
-e) Radioterapia e terapia fisica (triennale) comprendente: radiobiologia applicata; fondamenti generali di radioterapia e terapia fisica; istopatologia speciale dei tumori; nozioni sugli apparecchi e strumenti per la radioterapia; tecnica e metodica radioterapica; dosimetria; clinica radioterapica; fondamenti generali di chemioterapia oncologica; chemioterapia clinica dei tumori e sua associazione alla radioterapia; dimostrazione di casistica clinica;   
-f) Medicina nucleare (biennale) comprendente: elementi di medicina nucleare; istrumentario, tecnica e metodica dell'impiego dei radioisotopi in medicina nucleare; dosimetria dei radioisotopi somministrati per via interna; diagnostica con radioisotopi somministrati per via interna; radioterapia metabolica; dimostrazioni di casistica clinica.   
-I singoli insegnamenti, tenuti da uno o piu' docenti, a seconda di quanto opportuno al loro migliore svolgimento e completati da conferenze, dimostrazioni pratiche e, ove opportuno e possibile, da visite ad istituzioni di particolare interesse, sono cosi' distribuiti nei quattro anni di corso:   
-  
-1° Anno (tronco comune):   
-Matematica, fisica, nozioni di statistica ed informatica;   
-Radiobiologia;   
-Protezioni radiologiche, legislazione sanitaria e problemi di tecnica ospedaliera applicati alla radiologia;   
-Radiodiagnostica (I).   
-  
-2° Anno:   
-Radiodiagnostica (II);   
-Radioterapia e terapia fisica (I).   
-  
-3° Anno:   
-Radiodiagnostica (III);   
-Radioterapia e terapia fisica (II);   
-Medicina nucleare (I).   
-  
-4° Anno:   
-Radioterapia e terapia fisica (III);   
-Medicina nucleare (II).   
-La durata dei corsi per il conseguimento del diploma di specializzazione in radiologia diagnostica e' di tre anni.   
-  
-Gli insegnamenti sono i seguenti:   
-a) Matematica, fisica, nozioni di statistica e informatica (annuale) comprendente: richiami di matematica e fisica generale; costituzione della materia; produzione, assorbimento e misura delle radiazioni; statistica applicata alla medicina; informatica e cibernetica applicate alla radiologia;   
-b) Radiodiagnostica (triennale) comprendente: principi generali di radiodiagnostica; apparecchi, strumenti e tecnica radiodiagnostica; tecnica e fisiologia applicate alla radiodiagnostica; i mezzi di contrasto artificiale in radiodiagnostica - effetti collaterali connessi con il loro impiego e loro terapia; semeiotica radiologica; diagnostica differenziale radiologica; dimostrazioni autoptiche di pazienti sottoposti ad esami radiologici; dimostrazioni di casistica clinica;   
-c) Radiobiologia (annuale) comprendente: radiobiologia generale; danni da radiazioni e radiopatie;   
-d) Protezioni radiologiche, legislazione sanitaria e problemi di tecnica ospedaliera applicati alla radiologia (annuale) comprendente:   
-legislazione sanitaria applicata alla radiologia; compiti e responsabilita' medico-legali del radiologo; radioprotezione fisica e dosimetria ad essa connessa; fattori che influenzano l'effetto biologico delle radiazioni e problemi connessi con le radioprotezioni; radioprotezione chimica; problemi tecnici e funzionali inerenti la progettazione, organizzazione ed attivazione dei reparti radiologici.   
-I singoli insegnamenti, tenuti da uno o piu' docenti a seconda di quanto opportuno al loro svolgimento e completati da conferenze e dimostrazioni pratiche, sono cosi' distribuiti nei tre anni di corso:   
-  
-1° Anno (tronco comune):   
-Matematica, fisica, nozioni di statistica ed informatica;   
-Radiobiologia;   
-Protezioni radiologiche, legislazione sanitaria e problemi di tecnica ospedaliera applicati alla radiologia;   
-Radiodiagnostica (I).   
-  
-2° Anno:   
-Radiodiagnostica (II)   
-  
-3° Anno:   
-Radiodiagnostica (III).   
-  
-Per essere ammessi agli esami di diploma in radiologia e in radiologia diagnostica gli iscritti, oltre ad aver compiuto un congruo periodo di internato, devono aver superato un esame su ciascuna materia d'insegnamento ed elaborato una tesi scritta su di un argomento radiologico concordato con il direttore della scuola.   
-  
-
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-### Dato a Roma, addi' 28 ottobre 1974
-
-LEONE MALFATTI
-
-Visto, il Guardasigilli: ZAGARI
-
-Registrato alla Corte dei conti, addi' 7 dicembre 1974
-
-Atti di Governo, registro n. 7, foglio n. 65. - SCIARRETTA
+IL PRESIDENTE DELLA REPUBBLICA 
+ 
+ Veduto lo statuto dell'Universita' cattolica del "Sacro Cuore" di Milano, approvato con [regio decreto 20 aprile 1939, n. 1163](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20del%20nuovo%20statuto%20della%20Universita%20cattolica%20del%20Sacro%20Cuore%20di%20Milano.%20039U1163.md), e modificato con [regio decreto 26 ottobre 1940, n. 2030](../Atti%20normativi%20abrogati%20%28in%20originale%29/Modificazioni%20allo%20statuto%20della%20Universita%20cattolica%20del%20%20Sacro%20Cuore%20%20di%20Milano.%20040U2030.md), e successive modificazioni; 
+ Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592); 
+ Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20R.%20decreto-legge%2020%20giugno%201935-XIII%20n.%201071%20contenente%20modifiche%20ed%20aggiornamenti%20al%20testo%20unico%20delle%20leggi%20sullistruzione%20superiore.%20036U0073.md); 
+ Veduto il [regio decreto 30 settembre 1938, n. 1652](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disposizioni%20sullordinamento%20didattico%20universitario.%20038U1652.md), e successive modificazioni; 
+ Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta; 
+ Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte; 
+ Sentito il parere del Consiglio superiore della pubblica istruzione; 
+ Sulla proposta del Ministro per la pubblica istruzione; 
+ 
+ Decreta: 
+ 
+ Lo statuto dell'Universita' cattolica del "Sacro Cuore" di Milano, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso: 
+ 
+ L'ordinamento della scuola di specializzazione in "Radiologia" e' modificato nel senso che il numero degli iscritti da ammettere alla scuola suddetta e' stabilito in ottantaquattro per l'intero corso di studi. 
+ Dopo l'art. 97, e con il conseguente spostamento della numerazione degli articoli successivi, sono inseriti i seguenti nuovi articoli relativi alla istituzione della scuola di specializzazione in neurochirurgia. 
+ 
+ Scuola di specializzazione in neurochirurgia 
+ 
+ Art. 98. - La scuola di specializzazione in neurochirurgia ha sede presso l'istituto di neurochirurgia. 
+ Il corso degli studi della predetta scuola ha la durata di quattro anni. 
+ Potra' esservi ammesso un numero di undici allievi, complessivo per i quattro anni di corso. 
+ Art. 99. - Per la iscrizione alla scuola di specializzazione il candidato dovra' esibire un attestato di frequenza effettiva di almeno un anno in un istituto di patologia chirurgica o di clinica chirurgica. 
+ Art. 100. - Le norme per l'iscrizione, gli esami, per le tasse, ecc. sono quelle generali per le scuole di specializzazione e di perfezionamento dello statuto dell'Universita' cattolica del "Sacro Cuore". 
+ Art. 101. - Gli insegnamenti che vengono impartiti nella scuola sono i seguenti: 
+ 
+ Annuali: 
+ Neuroanatomia (1° corso); 
+ Neurofisiologia (1° corso); 
+ Clinica neurologica (1° corso); 
+ Elementi di psichiatria (1° corso); 
+ Neuro-oftalmologia (2° corso); 
+ Neuro-otoiatria (2° corso); 
+ Elettroencefalografia ed elettromiografia (2° corso); 
+ Anestesiologia (3° corso); 
+ Neuropatologia (3° corso); 
+ Neurochirurgia infantile (3° corso); 
+ Tecniche operatorie (4° corso); 
+ Chirurgia stereotassica (4° corso); 
+ Neurochirurgia spinale (4° corso); 
+ Neurotraumatologia (4° corso). 
+ 
+ Biennali: 
+ Neuroradiologia (3° e 4° corso). 
+ 
+ Quadriennali: 
+ Clinica neurochirurgica (1°, 2°, 3°, 4° corso). 
+ 
+ I detti insegnamenti saranno integrati da esercitazioni cliniche e di laboratorio. 
+ Art. 102. - Gli insegnamenti della scuola si svolgono secondo l'ordine seguente: 
+ 
+ 1° Corso: 
+ 1) Neuroanatomia; 
+ 2) Neuro-fisiologia; 
+ 3) Clinica neurologica; 
+ 4) Elementi di psichiatria; 
+ 5) Clinica neurochirurgica. 
+ 
+ Alla fine dell'anno gli specializzandi dovranno superare gli esami di profitto sulle materie di cui ai numeri 1), 2), 3) e 4). 
+ 
+ 2° Corso: 
+ 1) Neuro-oftalmologia; 
+ 2) Neuro-otoiatria; 
+ 3) Elettroencefalografia ed elettromiografia; 
+ 4) Clinica neurochirurgica. 
+ 
+ Alla fine dell'anno gli specializzandi dovranno superare gli esami di profitto sulle materie di cui ai numeri 1), 2) e 3). 
+ 
+ 3° Corso: 
+ 1) Anestesiologia; 
+ 2) Neuropatologia; 
+ 3) Neuroradiologia; 
+ 4) Neurochirurgia infantile; 
+ 5) Clinica neurochirurgica. 
+ 
+ Alla fine dell'anno gli specializzandi dovranno superare gli esami di profitto sulle materie di cui ai numeri 1), 2) e 4). 
+ 
+ 4° Corso: 
+ 1) Tecniche operatorie; 
+ 2) Neuroradiologia; 
+ 3) Neurotraumatologia; 
+ 4) Chirurgia stereotassica; 
+ 5) Clinica neurochirurgica; 
+ 6) Neurochirurgia spinale. 
+ 
+ Alla fine dell'anno gli specializzandi dovranno superare gli esami di profitto sulle materie di cui ai numeri 1), 2), 3), 4) e 5). 
+ Art. 103. - La frequenza alla scuola e' obbligatoria durante l'anno accademico. 
+ Gli allievi sono tenuti a frequentare assiduamente le lezioni, il reparto ed i laboratori dell'istituto di neurochirurgia secondo l'orario stabilito dal consiglio di facolta' al principio dell'anno accademico ed a partecipare attivamente alle esercitazioni cliniche e di laboratorio. Il direttore della scuola di specializzazione potra' disporre che gli allievi frequentino per determinati periodi le lezioni ed esercitazioni di laboratorio in altri istituti della Universita'. 
+ L'allievo che non abbia soddisfatto gli obblighi imposti da questo articolo non sara' ammesso a sostenere gli esami. 
+ Art. 104. - Alla fine del 4° corso gli allievi devono superare l'esame di diploma. 
+ Questo consistera' nella presentazione e discussione di una tesi scritta su un tema di neurochirurgia preventivamente approvato dal direttore della scuola. 
+ Agli allievi che abbiano ottenuto l'approvazione dell'esame finale, verra' rilasciato il diploma, che attribuisce la qualifica di specialista in neurochirurgia, valido a tutti gli effetti di legge. 
+ II presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare. 
+ Dato a Roma, addi' 9 aprile 1974 
+ 
+ LEONE 
+ 
+ MALFATTI 
+ 
+Visto, il Guardasigilli: ZAGARI 
+ Registrato alla Corte dei conti, addi' 7 dicembre 1974 
+ Atti di Governo, registro n. 7, foglio n. 61. - SCIARRETTA

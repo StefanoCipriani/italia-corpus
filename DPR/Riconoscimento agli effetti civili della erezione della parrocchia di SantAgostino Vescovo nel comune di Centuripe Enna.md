@@ -1,19 +1,21 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 18 ottobre 1958 n. 1164
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 1164
+data: 1958-10-18
+titolo: "Riconoscimento, agli effetti civili, della erezione della parrocchia di Sant'Agostino Vescovo, nel comune di Centuripe (Enna)."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1958-10-18;1164
+codice_redazionale: 058U1164
+vigente: true
+---
 
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 18 ottobre 1958 n. 1164
-===============================================================
-
-Riconoscimento, agli effetti civili, della erezione della parrocchia di Sant'Agostino Vescovo, nel comune di Centuripe (Enna).
-------------------------------------------------------------------------------------------------------------------------------
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-1164. Decreto del Presidente della Repubblica 18 ottobre 1958, col quale, sulla proposta del Ministro per l'interno, viene riconosciuto, agli effetti civili, il decreto dell'Ordinario diocesano di Nicosia in data 18 marzo 1958, integrato con dichiarazione del 10 aprile stesso anno, relativo alla erezione della parrocchia di Sant'Agostino Vescovo, nel comune di Centuripe (Enna).  
-  
-Visto, il Guardasigilli: GONELLA  
-Registrato alla Corte dei conti, addi' 18 dicembre 1958  
-Atti del Governo, registro n. 115, foglio n. 100. - RELLEVA
+1164.
+
+Decreto del Presidente della Repubblica 18 ottobre 1958, col quale, sulla proposta del Ministro per l'interno, viene riconosciuto, agli effetti civili, il decreto dell'Ordinario diocesano di Nicosia in data 18 marzo 1958, integrato con dichiarazione del 10 aprile stesso anno, relativo alla erezione della parrocchia di Sant'Agostino Vescovo, nel comune di Centuripe (Enna).
+
+Visto, il Guardasigilli: GONELLA
+ Registrato alla Corte dei conti, addi' 18 dicembre 1958
+ Atti del Governo, registro n. 115, foglio n. 100. - RELLEVA

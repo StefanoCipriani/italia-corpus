@@ -1,77 +1,47 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 12 agosto 1951 n. 886
-
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 12 agosto 1951 n. 886
-=============================================================
-
-Trasferimento in proprieta' all'Opera per la valorizzazione della Sila di terreni di proprieta' di Berlingieri Anselmo fu Annibale, in comune di Umbriatico (Catanzaro).
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 886
+data: 1951-08-12
+titolo: "Trasferimento in proprieta' all'Opera per la valorizzazione della Sila di terreni di proprieta' di Berlingieri Anselmo fu Annibale, in comune di Umbriatico (Catanzaro)."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1951-08-12;886
+codice_redazionale: 051U0886
+vigente: true
+---
 
 IL PRESIDENTE DELLA REPUBBLICA
-------------------------------
 
-Visti gli [articoli 77, comma primo](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27~art77-com1), ed [87, comma quinto, della Costituzione](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27~art87-com5) della Repubblica;
+Visti gli [articoli 77, comma primo](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_77-com1), ed [87, comma quinto, della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87-com5) della Repubblica;
 
-Vista la [legge 12 maggio 1950, n. 230, e l'art. 16](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1950-05-12;230~art16) della [legge 21 ottobre 1950, n. 841](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1950-10-21;841);
+Vista la [legge 12 maggio 1950, n. 230, e l'art. 16](../Atti%20normativi%20abrogati%20%28in%20originale%29/Provvedimenti%20per%20la%20colonizzazione%20dellAltopiano%20della%20Sila%20e%20dei%20territori%20jonici%20contermini.md) della [legge 21 ottobre 1950, n. 841](../Atti%20normativi%20abrogati%20%28in%20originale%29/Norme%20per%20la%20espropriazione%20bonifica%20trasformazione%20ed%20assegnazione%20dei%20terreni%20ai%20contadini.md);
 
-In virtu' della delegazione concessa con l'[art. 5 della legge 12 maggio 1950, n. 230](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1950-05-12;230~art5);
+In virtu' della delegazione concessa con l'[art. 5 della legge 12 maggio 1950, n. 230](../Atti%20normativi%20abrogati%20%28in%20originale%29/Provvedimenti%20per%20la%20colonizzazione%20dellAltopiano%20della%20Sila%20e%20dei%20territori%20jonici%20contermini.md);
 
-Udito il parere, in data 28 giugno 1951, della Commissione parlamentare, nominata a norma dell'[art. 5 della legge 12 maggio 1950, n. 230](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1950-05-12;230~art5), la quale ha esaminato il piano particolareggiato di espropriazione, compilato dall'Opera per la valorizzazione della Sila, per i terreni ricadenti nel comune di Umbriatico (Catanzaro), della superficie di Ha. 126.01.90, nei confronti di Berlingieri Anselmo fu Annibale;
+Udito il parere, in data 28 giugno 1951, della Commissione parlamentare, nominata a norma dell'[art. 5 della legge 12 maggio 1950, n. 230](../Atti%20normativi%20abrogati%20%28in%20originale%29/Provvedimenti%20per%20la%20colonizzazione%20dellAltopiano%20della%20Sila%20e%20dei%20territori%20jonici%20contermini.md), la quale ha esaminato il piano particolareggiato di espropriazione, compilato dall'Opera per la valorizzazione della Sila, per i terreni ricadenti nel comune di Umbriatico (Catanzaro), della superficie di Ha. 126.01.90, nei confronti di Berlingieri Anselmo fu Annibale;
 
 Sentito il Consiglio dei Ministri;
 
-Sulla
------
+Sulla proposta del Ministro Segretario di Stato per l'agricoltura e le foreste; Decreta:
 
-proposta del Ministro Segretario di Stato per l'agricoltura e le foreste; Decreta:
+## Art. 1.
 
-Art. 1
-------
+E' approvato il piano particolareggiato di espropriazione, compilato dall'Opera per la valorizzazione della Sila, per i terreni ricadenti nel comune di Umbriatico (Catanzaro), della superficie di Ha. 126.01.90, nei confronti di Berlingieri Anselmo fu Annibale.
 
-  
-E' approvato il piano particolareggiato di espropriazione, compilato dall'Opera per la valorizzazione della Sila, per i terreni ricadenti nel comune di Umbriatico (Catanzaro), della superficie di Ha. 126.01.90, nei confronti di Berlingieri Anselmo fu Annibale.  
+## Art. 2.
 
-Art. 2
-------
+E' ordinata la immediata occupazione, da parte dell'Opera per la valorizzazione della Sila, dei terreni di cui al precedente art. 1, confinanti:
+ il primo corpo, della superficie di Ha. 64.92.40, a nord e nord-est, con il limite intercomunale di Crucoli; a sud-ovest, con la comunale Bonito; ad est, con il limite intercomunale di Ciro'; ad ovest, con la comunale Scalone-Crucoli;
+ il secondo corpo, della superficie di Ha. 61.09.50, a nord-est, con la comunale Bonito; a sud-ovest, con il fosso Bonito; a sud-est, con il fosso Guadarotta; a nord-ovest, con la proprieta' di Maiorano Alfonso di Saverio livellario al comune di Umbriatico.
 
-  
-E' ordinata la immediata occupazione, da parte dell'Opera per la valorizzazione della Sila, dei terreni di cui al precedente art. 1, confinanti:  
-il primo corpo, della superficie di Ha. 64.92.40, a nord e nord-est, con il limite intercomunale di Crucoli; a sud-ovest, con la comunale Bonito; ad est, con il limite intercomunale di Ciro'; ad ovest, con la comunale Scalone-Crucoli;  
-il secondo corpo, della superficie di Ha. 61.09.50, a nord-est, con la comunale Bonito; a sud-ovest, con il fosso Bonito; a sud-est, con il fosso Guadarotta; a nord-ovest, con la proprieta' di Maiorano Alfonso di Saverio livellario al comune di Umbriatico.  
+## Art. 3.
 
-Art. 3
-------
+I terreni di cui sopra sono trasferiti in proprieta' all'Opera per la valorizzazione della Sila.
 
-  
-I terreni di cui sopra sono trasferiti in proprieta' all'Opera per la valorizzazione della Sila.  
+## Art. 4.
 
-Art. 4
-------
-
-  
-L'elenco dei terreni, compresi nel piano di espropriazione di cui all'art. 1, con l'indicazione dell'indennita' offerta, munito del visto del Ministro proponente, forma parte integrante del presente decreto, che entra in vigore il giorno stesso della sua pubblicazione nella Gazzetta Ufficiale della Repubblica italiana.  
-  
+L'elenco dei terreni, compresi nel piano di espropriazione di cui all'art. 1, con l'indicazione dell'indennita' offerta, munito del visto del Ministro proponente, forma parte integrante del presente decreto, che entra in vigore il giorno stesso della sua pubblicazione nella Gazzetta Ufficiale della Repubblica italiana.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 12 agosto 1951
+Dato a Roma, addi' 12 agosto 1951
 
-EINAUDI DE GASPERI - FANFANI
-
-Visto, il Guardasigilli: ZOLI
-
-Registrato alla Corte dei conti, addi' 13 settembre 1951
-
-Atti del Governo, registro n. 43, foglio n. 50. - CARLOMAGNO
-
-Elenco
-
- COMUNE DI UMBRIATICO (Catanzaro)   
-  
-Elenco dei terreni espropriati nei confronti di Berlingieri Anselmo fu Annibale a termini degli [articoli 1](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1950-05-12;230~art1) e [2 della legge 12 maggio 1950, n. 230](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1950-05-12;230~art2).   
-  
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=051U088600100010110001&dgu=1951-09-14&art.dataPubblicazioneGazzetta=1951-09-14&art.codiceRedazionale=051U0886)
-  
+EINAUDI DE GASPERI - FANFANI Visto, il Guardasigilli: ZOLI Registrato alla Corte dei conti, addi' 13 settembre 1951 Atti del Governo, registro n. 43, foglio n. 50. - CARLOMAGNO

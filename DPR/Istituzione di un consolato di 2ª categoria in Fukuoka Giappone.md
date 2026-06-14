@@ -1,39 +1,26 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 13 dicembre 1978 n. 966
-
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 13 dicembre 1978 n. 966
-===============================================================
-
-Istituzione di un consolato di 2ª categoria in Fukuoka (Giappone).
-------------------------------------------------------------------
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 966
+data: 1978-12-13
+titolo: "Istituzione di un consolato di 2ª categoria in Fukuoka (Giappone)."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1978-12-13;966
+codice_redazionale: 078U0966
+vigente: true
+---
 
 IL PRESIDENTE DELLA REPUBBLICA
-------------------------------
 
-Visti gli [articoli 30](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1967-01-05;18~art30) e [42 del decreto del Presidente della Repubblica 5 gennaio 1967, n. 18](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1967-01-05;18~art42), relativo all'ordinamento dell'Amministrazione degli affari esteri;
+Visti gli [articoli 30](Ordinamento%20dellAmministrazione%20degli%20affari%20esteri.md) e [42 del decreto del Presidente della Repubblica 5 gennaio 1967, n. 18](Ordinamento%20dellAmministrazione%20degli%20affari%20esteri.md), relativo all'ordinamento dell'Amministrazione degli affari esteri;
 
-Sulla
------
+Sulla proposta del Ministro degli affari esteri; Decreta:
 
-proposta del Ministro degli affari esteri; Decreta:
+## Articolo unico
 
-Articolo unico
---------------
-
-  
-E' istituito in Fukuoka (Giappone) un consolato di 2ª categoria alle dipendenze dell'ambasciata d'Italia in Tokyo e con la seguente circoscrizione territoriale: l'isola di Kyushu (con le prefetture di Fukuoka, Kagashima, Kumamoto, Miyazaki, Nagasaki, Oita e Saga), l'isola di Okinawa (con la prefettura di Okinawa) e la provincia di Yamaguchi nell'isola di Honshu (con la prefettura di Yamaguchi).  
-Il presente decreto ha decorrenza dalla data di pubblicazione nella Gazzetta Ufficiale.  
-  
+E' istituito in Fukuoka (Giappone) un consolato di 2ª categoria alle dipendenze dell'ambasciata d'Italia in Tokyo e con la seguente circoscrizione territoriale: l'isola di Kyushu (con le prefetture di Fukuoka, Kagashima, Kumamoto, Miyazaki, Nagasaki, Oita e Saga), l'isola di Okinawa (con la prefettura di Okinawa) e la provincia di Yamaguchi nell'isola di Honshu (con la prefettura di Yamaguchi).
+ Il presente decreto ha decorrenza dalla data di pubblicazione nella Gazzetta Ufficiale.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 13 dicembre 1978
+Dato a Roma, addi' 13 dicembre 1978
 
-PERTINI FORLANI
-
-Visto, il Guardasigilli: BONIFACIO
-
-Registrato alla Corte dei conti, addi' 10 febbraio 1979
-
-Registro n. 462 Esteri, foglio n. 277
+PERTINI FORLANI Visto, il Guardasigilli: BONIFACIO Registrato alla Corte dei conti, addi' 10 febbraio 1979 Registro n. 462 Esteri, foglio n. 277

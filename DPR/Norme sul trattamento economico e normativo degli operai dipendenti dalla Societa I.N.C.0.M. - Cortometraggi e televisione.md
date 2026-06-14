@@ -1,20 +1,20 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 gennaio 1962 n. 644
-
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 gennaio 1962 n. 644
-==============================================================
-
-Norme sul trattamento economico e normativo degli operai dipendenti dalla Societa' I.N.C.0.M. - Cortometraggi e televisione.
-----------------------------------------------------------------------------------------------------------------------------
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 644
+data: 1962-01-02
+titolo: "Norme sul trattamento economico e normativo degli operai dipendenti dalla Societa' I.N.C.0.M. - Cortometraggi e televisione."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1962-01-02;644
+codice_redazionale: 062U0644
+vigente: true
+---
 
 IL PRESIDENTE DELLA REPUBBLICA
-------------------------------
 
-Visto l'[art. 87, comma quinto, della Costituzione](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27~art87-com5);
+Visto l'[art. 87, comma quinto, della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87-com5);
 
-Vista la [legge 14 luglio 1959, n. 741](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1959-07-14;741), che delega il Governo ad emanare norme transitorie per garantire minimi di trattamento economico e normativo ai lavoratori;
+Vista la [legge 14 luglio 1959, n. 741](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1959-07-14;741), che delega il Governo ad emanare norme transitorie per garantire minimi di trattamento economico e normativo ai lavoratori;
 
-Vista la [legge 1 ottobre 1960, n. 1027](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1960-10-01;1027), recante modifiche alla predetta [legge 14 luglio 1959, n. 741](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1959-07-14;741);
+Vista la [legge 1 ottobre 1960, n. 1027](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1960-10-01;1027), recante modifiche alla predetta [legge 14 luglio 1959, n. 741](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1959-07-14;741);
 
 Visto il contratto collettivo nazionale 15 febbraio 1960 per il personale operaio (maestranze) addetto ai teatri di posa;
 
@@ -28,44 +28,15 @@ Vista la pubblicazione nell'apposito Bollettino n. 194, in data 12 agosto 1961, 
 
 Sentito il Consiglio dei Ministri;
 
-Sulla
------
+Sulla proposta del Ministro per il lavoro e la previdenza sociale; Decreta:
 
-proposta del Ministro per il lavoro e la previdenza sociale; Decreta:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-I rapporti di lavoro costituiti per l'attivita' per la quale sono stati stipulati il contratto collettivo aziendale 21 gennaio 1957 e l'accordo collettivo aziendale 14 maggio 1960, relativi agli operai dipendenti dalla Societa' I.N.C.O.M. - Cortometraggi e Televisione - sono regolati da norme giuridiche uniformi alle clausole del contratto e dell'accordo anzidetti, annessi al presente decreto.  
-I minimi di trattamento economico e normativo cosi' stabiliti sono inderogabili nei confronti di tutti gli operai dipendenti dalla Societa' I.N.C.O.M. - Cortometraggi e Televisione.  
-  
+I rapporti di lavoro costituiti per l'attivita' per la quale sono stati stipulati il contratto collettivo aziendale 21 gennaio 1957 e l'accordo collettivo aziendale 14 maggio 1960, relativi agli operai dipendenti dalla Societa' I.N.C.O.M. - Cortometraggi e Televisione - sono regolati da norme giuridiche uniformi alle clausole del contratto e dell'accordo anzidetti, annessi al presente decreto.
+ I minimi di trattamento economico e normativo cosi' stabiliti sono inderogabili nei confronti di tutti gli operai dipendenti dalla Societa' I.N.C.O.M. - Cortometraggi e Televisione.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e del decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 2 gennaio 1962
+Dato a Roma, addi' 2 gennaio 1962
 
-GRONCHI FANFANI - SULLO
-
-Visto, il Guardasigilli: BOSCO
-
-Registrato alla Corte dei conti, addi' 7 giugno 1962
-
-Atti del Governo, registro n. 149, foglio n. 22. - VILLA
-
-Allegato
-
-CONTRATTO COLLETTIVO AZIENDALE 21 GENNAIO 1957 PER GLI OPERAI DIPENDENTI DALLA SOCIETA' I.N.C.O.M. - CORTOMETRAGGI E TELEVISIONE - S. P. A.   
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=062U064400100010110001&dgu=1962-07-06&art.dataPubblicazioneGazzetta=1962-07-06&art.codiceRedazionale=062U0644)
-  
-  
-  
-ACCORDO COLLETTIVO AZIENDALE 14 MAGGIO 1960 PER GLI OPERAI DIPENDENTI DALLA SOCIETA' I.N.C.O.M. - CORTOMETRAGGI E TELEVISIONE - S. P. A.   
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=062U064400100010110002&dgu=1962-07-06&art.dataPubblicazioneGazzetta=1962-07-06&art.codiceRedazionale=062U0644)
-  
+GRONCHI FANFANI - SULLO Visto, il Guardasigilli: BOSCO Registrato alla Corte dei conti, addi' 7 giugno 1962 Atti del Governo, registro n. 149, foglio n. 22. - VILLA

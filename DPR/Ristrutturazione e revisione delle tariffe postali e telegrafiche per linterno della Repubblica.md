@@ -1,54 +1,17 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 24 febbraio 1975 n. 37
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 37
+data: 1975-02-24
+titolo: "Ristrutturazione e revisione delle tariffe postali e telegrafiche per l'interno della Repubblica."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1975-02-24;37
+codice_redazionale: 075U0037
+vigente: true
+---
 
+## Art. 1.
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 24 febbraio 1975 n. 37
-==============================================================
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 17 OTTOBRE 1976, N. 718))
 
-Ristrutturazione e revisione delle tariffe postali e telegrafiche per l'interno della Repubblica.
--------------------------------------------------------------------------------------------------
+## Art. 2.
 
-Art. 1
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 17 OTTOBRE 1976, N. 718](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1976-10-17;718)))
-
-Art. 2
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 17 OTTOBRE 1976, N. 718](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1976-10-17;718)))
-
-Tabella A
-
- TABELLA A   
-
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 17 OTTOBRE 1976, N. 718](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1976-10-17;718)))
-
-Tabella B
-
- TABELLA B   
-
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 17 OTTOBRE 1976, N. 718](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1976-10-17;718)))
-
-Tabella C
-
- TABELLA C   
-
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 17 OTTOBRE 1976, N. 718](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1976-10-17;718)))
-
-Tabella D
-
- TABELLA D   
-
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 17 OTTOBRE 1976, N. 718](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1976-10-17;718)))
-
-Tabella E
-
- TABELLA E   
-
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 17 OTTOBRE 1976, N. 718](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1976-10-17;718)))
-
-Tabella A 1
-
- TABELLA A 1   
-
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 17 OTTOBRE 1976, N. 718](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1976-10-17;718)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 17 OTTOBRE 1976, N. 718))

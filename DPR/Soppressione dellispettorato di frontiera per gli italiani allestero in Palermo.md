@@ -1,58 +1,41 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 27 gennaio 1970 n. 1464
-
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 27 gennaio 1970 n. 1464
-===============================================================
-
-Soppressione dell'ispettorato di frontiera per gli italiani all'estero in Palermo.
-----------------------------------------------------------------------------------
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 1464
+data: 1970-01-27
+titolo: "Soppressione dell'ispettorato di frontiera per gli italiani all'estero in Palermo."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1970-01-27;1464
+codice_redazionale: 070U1464
+vigente: true
+---
 
 IL PRESIDENTE DELLA REPUBBLICA
-------------------------------
 
-Visto il testo unico dei provvedimenti sull'emigrazione e sulla tutela giuridica degli emigranti, approvato con [regio decreto-legge 13 novembre 1919, n. 2205](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1919-11-13;2205), convertito con la [legge 17 aprile 1925, n. 473](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1925-04-17;473);
+Visto il testo unico dei provvedimenti sull'emigrazione e sulla tutela giuridica degli emigranti, approvato con [regio decreto-legge 13 novembre 1919, n. 2205](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1919-11-13;2205), convertito con la [legge 17 aprile 1925, n. 473](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20Luogotenenziali%20e%20Regi%20aventi%20per%20oggetto%20argomenti%20diversi.%20025U0473.md);
 
-Visto il [regio decreto 12 luglio 1940, n. 1157](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-07-12;1157), concernente la modificazione della denominazione e dell'ordinamento degli ispettorati ed uffici dell'emigrazione nel territorio dello Stato;
+Visto il [regio decreto 12 luglio 1940, n. 1157](../Atti%20normativi%20abrogati%20%28in%20originale%29/Modificazione%20della%20denominazione%20e%20dellordinamento%20degli%20Ispettorati%20ed%20Uffici%20dellemigrazione%20nel%20Regno.%20040U1157.md), concernente la modificazione della denominazione e dell'ordinamento degli ispettorati ed uffici dell'emigrazione nel territorio dello Stato;
 
-Visto l'art. 5 del testo unico, approvato con [regio decreto-legge 13 novembre 1919, n. 2205](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1919-11-13;2205), convertito con la [legge 17 aprile 1925, n. 473](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1925-04-17;473), che istituisce in Palermo un ispettorato di frontiera per gli italiani all'estero;
+Visto l'art. 5 del testo unico, approvato con [regio decreto-legge 13 novembre 1919, n. 2205](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1919-11-13;2205), convertito con la [legge 17 aprile 1925, n. 473](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20Luogotenenziali%20e%20Regi%20aventi%20per%20oggetto%20argomenti%20diversi.%20025U0473.md), che istituisce in Palermo un ispettorato di frontiera per gli italiani all'estero;
 
 Constatato il venir meno delle esigenze di carattere obiettivo che giustificano il mantenimento, in Palermo, di un ispettorato di frontiera per gli italiani all'estero;
 
-Visto l'[art. 59 del decreto del Presidente della Repubblica 5 gennaio 1967, n. 18](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1967-01-05;18~art59), sull'ordinamento dell'Amministrazione degli affari esteri;
+Visto l'[art. 59 del decreto del Presidente della Repubblica 5 gennaio 1967, n. 18](Ordinamento%20dellAmministrazione%20degli%20affari%20esteri.md), sull'ordinamento dell'Amministrazione degli affari esteri;
 
-Sulla
------
+Sulla proposta del Ministro per gli affari esteri, d'intesa con i Ministri per il tesoro e per il lavoro e la previdenza sociale; Decreta:
 
-proposta del Ministro per gli affari esteri, d'intesa con i Ministri per il tesoro e per il lavoro e la previdenza sociale; Decreta:
+## Art. 1.
 
-Art. 1
-------
+L'ispettorato di frontiera per gli italiani all'estero in Palermo e' soppresso.
 
-  
-L'ispettorato di frontiera per gli italiani all'estero in Palermo e' soppresso.  
+## Art. 2.
 
-Art. 2
-------
+Le funzioni svolte dal predetto ispettorato saranno devolute, in tutto o in parte, ad uffici di amministrazioni diverse dall'Amministrazione degli affari esteri, con le modalita' previste dall'[art. 59, terzo comma, del decreto del Presidente della Repubblica 5 gennaio 1967, n. 18](Ordinamento%20dellAmministrazione%20degli%20affari%20esteri.md).
 
-  
-Le funzioni svolte dal predetto ispettorato saranno devolute, in tutto o in parte, ad uffici di amministrazioni diverse dall'Amministrazione degli affari esteri, con le modalita' previste dall'[art. 59, terzo comma, del decreto del Presidente della Repubblica 5 gennaio 1967, n. 18](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1967-01-05;18~art59-com3).  
+## Art. 3.
 
-Art. 3
-------
-
-  
-Il presente decreto entrera' in vigore il trentesimo giorno successivo a quello della sua pubblicazione nella Gazzetta Ufficiale.  
-  
+Il presente decreto entrera' in vigore il trentesimo giorno successivo a quello della sua pubblicazione nella Gazzetta Ufficiale.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 27 gennaio 1970
+Dato a Roma, addi' 27 gennaio 1970
 
-SARAGAT MORO - COLOMBO - DONAT-CATTIN
-
-Visto, il Guardasigilli: COLOMBO
-
-Registrato alla Corte dei conti, addi' 29 maggio 1971
-
-Atti del Governo, registro n. 42, foglio n. 46. - VALENTINI
+SARAGAT MORO - COLOMBO - DONAT-CATTIN Visto, il Guardasigilli: COLOMBO Registrato alla Corte dei conti, addi' 29 maggio 1971 Atti del Governo, registro n. 42, foglio n. 46. - VALENTINI

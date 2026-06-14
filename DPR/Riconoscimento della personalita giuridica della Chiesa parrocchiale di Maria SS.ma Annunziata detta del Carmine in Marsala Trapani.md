@@ -1,19 +1,21 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 08 aprile 1963 n. 699
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 699
+data: 1963-04-08
+titolo: "Riconoscimento della personalita' giuridica della Chiesa parrocchiale di Maria SS.ma Annunziata, detta del Carmine, in Marsala (Trapani)."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1963-04-08;699
+codice_redazionale: 063U0699
+vigente: true
+---
 
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 08 aprile 1963 n. 699
-=============================================================
-
-Riconoscimento della personalita' giuridica della Chiesa parrocchiale di Maria SS.ma Annunziata, detta del Carmine, in Marsala (Trapani).
------------------------------------------------------------------------------------------------------------------------------------------
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-699. Decreto del Presidente della Repubblica 8 aprile 1963, col quale, sulla proposta del Ministro per l'interno, viene riconosciuta la personalita' giuridica della Chiesa parrocchiale di Maria SS.ma Annunziata, detta del Carmine, in Marsala (Trapani).  
-  
-Visto, il Guardasigilli: BOSCO  
-Registrato alla Corte dei conti, addi' 15 maggio 1983  
-Atti del Governo, registro n. 169, foglio n. 41. - VILLA
+699.
+
+Decreto del Presidente della Repubblica 8 aprile 1963, col quale, sulla proposta del Ministro per l'interno, viene riconosciuta la personalita' giuridica della Chiesa parrocchiale di Maria SS.ma Annunziata, detta del Carmine, in Marsala (Trapani).
+
+Visto, il Guardasigilli: BOSCO
+ Registrato alla Corte dei conti, addi' 15 maggio 1983
+ Atti del Governo, registro n. 169, foglio n. 41. - VILLA

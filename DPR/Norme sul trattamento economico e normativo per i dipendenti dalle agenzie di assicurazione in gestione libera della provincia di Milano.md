@@ -1,20 +1,20 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 gennaio 1962 n. 657
-
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 gennaio 1962 n. 657
-==============================================================
-
-Norme sul trattamento economico e normativo per i dipendenti dalle agenzie di assicurazione in gestione libera della provincia di Milano.
------------------------------------------------------------------------------------------------------------------------------------------
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 657
+data: 1962-01-02
+titolo: "Norme sul trattamento economico e normativo per i dipendenti dalle agenzie di assicurazione in gestione libera della provincia di Milano."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1962-01-02;657
+codice_redazionale: 062U0657
+vigente: true
+---
 
 IL PRESIDENTE DELLA REPUBBLICA
-------------------------------
 
-Visto l'[art. 87, comma quinto, della Costituzione](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27~art87-com5);
+Visto l'[art. 87, comma quinto, della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87-com5);
 
-Vista la [legge 14 luglio 1959, n. 741](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1959-07-14;741), che delega il Governo ad emanare norme transitorie per garantire minimi di Trattamento economico e normativo ai lavoratori;
+Vista la [legge 14 luglio 1959, n. 741](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1959-07-14;741), che delega il Governo ad emanare norme transitorie per garantire minimi di Trattamento economico e normativo ai lavoratori;
 
-Vista la [legge 1 ottobre 1960 n. 1027](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1960-10-01;1027), recante modifiche alla predetta [legge 14 luglio 1959, n. 741](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1959-07-14;741);
+Vista la [legge 1 ottobre 1960 n. 1027](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1960-10-01;1027), recante modifiche alla predetta [legge 14 luglio 1959, n. 741](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1959-07-14;741);
 
 Visto il contratto collettivo nazionale di lavoro 25 maggio 1954, per i dipendenti dagli agenti di assicurazione;
 
@@ -28,38 +28,16 @@ Vista la pubblicazione nell'apposito Bollettino, n. 31 della provincia di Milano
 
 Sentito il Consiglio dei Ministri;
 
-Sulla
------
+Sulla proposta del Ministro per il lavoro e la previdenza sociale; Decreta:
 
-proposta del Ministro per il lavoro e la previdenza sociale; Decreta:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-I rapporti di lavoro costituiti per le attivita' per le quali e' stato stipulato, per la provincia di Milano, l'accordo collettivo integrativo 22 febbraio 1955, relativo al personale delle agenzie di assicurazione in gestione libera, sono regolati da norme giuridiche uniformi alle clausole dell'accordo anzidetto, annesso al presente decreto.  
-Dette norme sono integrative di quelle concernenti disciplina nazionale della categoria, purche' con esse compatibili.  
-I minimi di trattamento economico e normativo cosi' stabiliti sono inderogabili nei confronti di tutti i dipendenti dalle agenzie di assicurazione in gestione libera della provincia di Milano.  
-  
+I rapporti di lavoro costituiti per le attivita' per le quali e' stato stipulato, per la provincia di Milano, l'accordo collettivo integrativo 22 febbraio 1955, relativo al personale delle agenzie di assicurazione in gestione libera, sono regolati da norme giuridiche uniformi alle clausole dell'accordo anzidetto, annesso al presente decreto.
+ Dette norme sono integrative di quelle concernenti disciplina nazionale della categoria, purche' con esse compatibili.
+ I minimi di trattamento economico e normativo cosi' stabiliti sono inderogabili nei confronti di tutti i dipendenti dalle agenzie di assicurazione in gestione libera della provincia di Milano.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 2 gennaio 1962
+Dato a Roma, addi' 2 gennaio 1962
 
-GRONCHI FANFANI - SULLO
-
-Visto, il Guardasigilli: BOSCO
-
-Registrato alla Corte dei conti, addi' 6 giugno 1962
-
-Atti del Governo, registro n. 148, foglio n. 114. - VILLA
-
-Accordo Collettivo
-
-ACCORDO COLLETTIVO 22 FEBBRAIO 1955, INTEGRATIVO DEL CONTRATTO COLLETTIVO NAZIONALE DI LAVORO 25 MAGGIO 1954 E SUCCESSIVE MODIFICHE, PER IL PERSONALE DIPENDENTE DALLE AGENZIE DI ASSICURAZIONE IN GESTIONE LIBERA DELLA PROVINCIA DI MILANO.   
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=062U065700100010110001&dgu=1962-07-06&art.dataPubblicazioneGazzetta=1962-07-06&art.codiceRedazionale=062U0657)
-  
+GRONCHI FANFANI - SULLO Visto, il Guardasigilli: BOSCO Registrato alla Corte dei conti, addi' 6 giugno 1962 Atti del Governo, registro n. 148, foglio n. 114. - VILLA

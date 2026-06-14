@@ -1,19 +1,21 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 12 febbraio 1985 n. 181
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 811
+data: 1984-09-14
+titolo: "Autorizzazione alla fondazione \"Pro juventute don Carlo Gnocchi\", in Roma, ad accettare un legato."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1984-09-14;811
+codice_redazionale: 084U0811
+vigente: true
+---
 
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 12 febbraio 1985 n. 181
-===============================================================
-
-Autorizzazione alla fondazione "Pro juventute don Carlo Gnocchi", in Roma, ad accettare un legato.
---------------------------------------------------------------------------------------------------
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-181. Decreto del Presidente della Repubblica 12 febbraio 1985, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la fondazione Pro juventute don Carlo Gnocchi", in Roma, viene autorizzata ad accettare il legato, consistente in un immobile sito in Milano, via Quarto Cagnino n. 36, distinto al nuovo catasto edilizio urbano alla partita 9373, foglio 293, particella 90 sub 1+7, del valore peritato di L. 190.000.000 elevato dall'ufficio tecnico erariale di Milano a L. 215.000.000, disposto dalla sig.ra Canavesi Rosa con testamento olografo 5 novembre 1968, pubblicato in data 20 ottobre 1982, n. 24117/2399 di repertorio, a rogito dott. Mario Grossi, notaio in Milano, registrato ad Abbiategrasso in data 9 novembre 1982 al n. 101.  
-  
-Visto, il Guardasigilli: MARTINAZZOLI  
-Registrato alla Corte dei conti, addi' 2 maggio 1985  
-Registro n. 4 Presidenza, foglio n. 84
+811.
+
+Decreto del Presidente della Repubblica 14 settembre 1984, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la fondazione "Pro juventute don Carlo Gnocchi" in Roma, viene autorizzata ad accettare il legato, consistente nella somma di L. 200.000.000, disposto dal sig. Gerevini Marino a favore dell'istituto "Don Gnocchi", che si identifica con la fondazione "Pro juventute don Carlo Gnocchi", come si evince dal verbale del consiglio di amministrazione della fondazione stessa in data 20 novembre 1982, con testamento pubblico 9 novembre 1981, redatto a rogito dott. Ottorino Mancini, notaio in Cremona, e dallo stesso pubblicato il 2 marzo 1982, n. 6633 di repertorio, n. 5074 di raccolta, registrato a Cremona il 2 marzo 1982 al n. 720.
+
+Visto, il Guardasigilli: MARTINAZZOLI
+ Registrato alla Corte dei conti, addi' 24 novembre 1984
+ Registro n. 10 Presidenza, foglio n. 186

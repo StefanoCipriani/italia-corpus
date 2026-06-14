@@ -1,20 +1,22 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 12 settembre 1978 n. 673
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 673
+data: 1978-09-12
+titolo: "Riconoscimento della personalita' giuridica della casa salesiana di S. Giovanni Bosco, denominata \"Opere sociali don Bosco per l'educazione giovanile e popolare\", in Bari."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1978-09-12;673
+codice_redazionale: 078U0673
+vigente: true
+---
 
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 12 settembre 1978 n. 673
-================================================================
-
-Riconoscimento della personalita' giuridica della casa salesiana di S. Giovanni Bosco, denominata "Opere sociali don Bosco per l'educazione giovanile e popolare", in Bari.
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-673. Decreto del Presidente della Repubblica 12 settembre 1978, col quale, sulla proposta del Ministro dell'interno, viene riconosciuta la personalita' giuridica della casa salesiana di S.  
-Giovanni Bosco denominata "Opere sociali don Bosco per l'educazione giovanile e popolare", in Bari.  
-  
-Visto, il Guardasigilli: BONIFACIO  
-Registrato alla Corte dei conti, addi' 2 novembre 1978  
-Registro n. 20 Interno, foglio n. 3
+673.
+
+Decreto del Presidente della Repubblica 12 settembre 1978, col quale, sulla proposta del Ministro dell'interno, viene riconosciuta la personalita' giuridica della casa salesiana di S.
+ Giovanni Bosco denominata "Opere sociali don Bosco per l'educazione giovanile e popolare", in Bari.
+
+Visto, il Guardasigilli: BONIFACIO
+ Registrato alla Corte dei conti, addi' 2 novembre 1978
+ Registro n. 20 Interno, foglio n. 3

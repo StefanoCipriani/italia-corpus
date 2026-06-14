@@ -1,134 +1,57 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 23 giugno 1961 n. 733
-
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 23 giugno 1961 n. 733
-=============================================================
-
-Modificazioni delle tariffe postali per l'interno della Repubblica.
--------------------------------------------------------------------
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 733
+data: 1961-06-23
+titolo: "Modificazioni delle tariffe postali per l'interno della Repubblica."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1961-06-23;733
+codice_redazionale: 061U0733
+vigente: true
+---
 
 IL PRESIDENTE DELLA REPUBBLICA
-------------------------------
 
-Visto l'art. 8 del Codice postale e delle telecomunicazioni, approvato con [regio decreto 27 febbraio 1936, n. 645](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1936-02-27;645);
+Visto l'art. 8 del Codice postale e delle telecomunicazioni, approvato con [regio decreto 27 febbraio 1936, n. 645](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1936-02-27;645);
 
-Visto il [decreto dei Presidente della Repubblica 2 agosto 1948, n. 1052](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1948-08-02;1052);
+Visto il [decreto dei Presidente della Repubblica 2 agosto 1948, n. 1052](Tariffe%20postali%20per%20linterno%20della%20Repubblica.md);
 
-Visto il [decreto del Presidente della Repubblica 5 aprile 1949, n. 111](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1949-04-05;111);
+Visto il [decreto del Presidente della Repubblica 5 aprile 1949, n. 111](Variazioni%20al%20decreto%20del%20Presidente%20della%20Repubblica%202%20agosto%201948%20n.%201052%20concernente%20le%20tariffe%20postali%20per%20linterno%20della%20Repubblica.md);
 
-Visto il [decreto del Presidente della Repubblica 22 gennaio 1950, n. 193](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1950-01-22;193);
+Visto il [decreto del Presidente della Repubblica 22 gennaio 1950, n. 193](Modificazioni%20alle%20tariffe%20dei%20pacchi%20postali%20ed%20istituzione%20di%20un%20diritto%20di%20ricevuta%20nei%20servizi%20della%20corrispondenza%20pacchi%20e%20vaglia.md);
 
-Visto il credito del [Presidente della Repubblica 29 giugno 1951, n. 582](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica::1951-06-29;582);
+Visto il credito del [Presidente della Repubblica 29 giugno 1951, n. 582](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica::1951-06-29;582);
 
-Visto il [decreto del Presidente della Repubblica 2 agosto 1952, n. 1316](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1952-08-02;1316);
+Visto il [decreto del Presidente della Repubblica 2 agosto 1952, n. 1316](Variazioni%20ad%20alcune%20voci%20delle%20tariffe%20postali%20per%20linterno.md);
 
 Visto decreto del Presidente della Repubblica 30 giugno 1054, n. 819;
 
-Visto il [decreto del Presidente della Repubblica 10 ottobre 1955, n. 1099](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1955-10-10;1099);
+Visto il [decreto del Presidente della Repubblica 10 ottobre 1955, n. 1099](Modificazioni%20ad%20alcune%20voci%20delle%20tariffe%20postali%20ed%20ai%20limiti%20di%20peso%20dimensione%20valore%20e%20assegno%20per%20gli%20oggetti%20affidati%20allAmministrazione%20delle%20poste%20e%20per%20le%20operazioni%20ad%20essa%20richieste.md);
 
-Visto il [decreto del Presidente della Repubblica 20 marzo 1957, n. 333](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1957-03-20;333);
+Visto il [decreto del Presidente della Repubblica 20 marzo 1957, n. 333](Tariffa%20per%20la%20spedizione%20degli%20estratti%20di%20conto%20delle%20Amministrazioni%20dei%20giornali%20e%20delle%20cedole%20di%20commissioni%20librarie%20dirette%20alle%20Amministrazioni%20dei%20giornali.md);
 
-Visto il [decreto del Presidente della Repubblica 24 marzo 1957, n. 366](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1957-03-24;366);
+Visto il [decreto del Presidente della Repubblica 24 marzo 1957, n. 366](Determinazione%20dei%20tagli%20dei%20vaglia%20postali%20a%20taglio%20fisso%20e%20delle%20relative%20tasse.md);
 
-Visto il [decreto del Presidente della Repubblica 5 settembre 1957, n. 855](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1957-09-05;855);
+Visto il [decreto del Presidente della Repubblica 5 settembre 1957, n. 855](Modificazioni%20ad%20alcune%20voci%20delle%20tariffe%20postali%20e%20telegrafiche.md);
 
-Visto il [decreto del Presidente della Repubblica 8 agosto 1959, n. 675](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1959-08-08;675);
+Visto il [decreto del Presidente della Repubblica 8 agosto 1959, n. 675](Modificazioni%20ad%20alcune%20voci%20delle%20tariffe%20postali%20e%20telegrafiche_2.md);
 
-Visto il [decreto del Presidente della Repubblica 18 maggio 1960, n. 561](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1960-05-18;561);
+Visto il [decreto del Presidente della Repubblica 18 maggio 1960, n. 561](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1960-05-18;561);
 
 Sentito il Consiglio di amministrazione delle poste e delle telecomunicazioni;
 
 Sentito il Consiglio dei Ministri;
 
-Sulla
------
+Sulla proposta del Ministro per le poste e le telecomunicazioni di concerto con quello per il tesoro; Decreta:
 
-proposta del Ministro per le poste e le telecomunicazioni di concerto con quello per il tesoro; Decreta:
+## Art. 1.
 
-Art. 1
-------
+Le voci 9 e 34 della tabella n. 1 e la voce n. 9 della rubrica "limiti massimi di peso" e la rubrica "dimensioni minime" della tabella n. 2 allegate al [decreto del Presidente della Repubblica 2 agosto 1948, n. 1052](Tariffe%20postali%20per%20linterno%20della%20Repubblica.md), concernenti, rispettivamente, le tariffe postali per l'interno della. Repubblica ed i limiti di peso, dimensioni, valore ed assegno per gli oggetti affidati all'Amministrazione delle poste e delle telecomunicazioni e per la operazioni ad essa richieste, gia', modificato con i [decreti del Presidente della Repubblica 5 aprile 1949, n. 111](Variazioni%20al%20decreto%20del%20Presidente%20della%20Repubblica%202%20agosto%201948%20n.%201052%20concernente%20le%20tariffe%20postali%20per%20linterno%20della%20Repubblica.md); [22 gennaio 1950, n. 193](Modificazioni%20alle%20tariffe%20dei%20pacchi%20postali%20ed%20istituzione%20di%20un%20diritto%20di%20ricevuta%20nei%20servizi%20della%20corrispondenza%20pacchi%20e%20vaglia.md); [29 giugno 1951, n. 582](Variazioni%20alle%20tariffe%20postali%20per%20linterno%20della%20Repubblica.md); [2 agosto 1952, n. 1346](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1952-08-02;1346); [30 giugno 1954, n. 819](Modificazione%20alla%20voce%202%20della%20tabella%20n.%201%20delle%20tariffe%20postali%20allegata%20al%20decreto%20del%20Presidente%20della%20Repubblica%2029%20giugno%201951%20n.%20582.md); [10 ottobre 1955, n. 1099](Modificazioni%20ad%20alcune%20voci%20delle%20tariffe%20postali%20ed%20ai%20limiti%20di%20peso%20dimensione%20valore%20e%20assegno%20per%20gli%20oggetti%20affidati%20allAmministrazione%20delle%20poste%20e%20per%20le%20operazioni%20ad%20essa%20richieste.md); [20 marzo 1957, n. 333](Tariffa%20per%20la%20spedizione%20degli%20estratti%20di%20conto%20delle%20Amministrazioni%20dei%20giornali%20e%20delle%20cedole%20di%20commissioni%20librarie%20dirette%20alle%20Amministrazioni%20dei%20giornali.md); [24 marzo 1957, n. 366](Determinazione%20dei%20tagli%20dei%20vaglia%20postali%20a%20taglio%20fisso%20e%20delle%20relative%20tasse.md); [5 settembre 1957, n. 855](Modificazioni%20ad%20alcune%20voci%20delle%20tariffe%20postali%20e%20telegrafiche.md); [8 agosto 1959, n. 675](Modificazioni%20ad%20alcune%20voci%20delle%20tariffe%20postali%20e%20telegrafiche_2.md); [18 maggio 1960, n. 564](Modificazioni%20ad%20alcune%20voci%20delle%20tariffe%20postali.md), sono sostituite dalle corrispondenti di cui agli allegati A e B al presente decreto, firmato dal Ministro per le poste e le telecomunicazioni.
 
-  
-Le voci 9 e 34 della tabella n. 1 e la voce n. 9 della rubrica "limiti massimi di peso" e la rubrica "dimensioni minime" della tabella n. 2 allegate al [decreto del Presidente della Repubblica 2 agosto 1948, n. 1052](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1948-08-02;1052), concernenti, rispettivamente, le tariffe postali per l'interno della. Repubblica ed i limiti di peso, dimensioni, valore ed assegno per gli oggetti affidati all'Amministrazione delle poste e delle telecomunicazioni e per la operazioni ad essa richieste, gia', modificato con i [decreti del Presidente della Repubblica 5 aprile 1949, n. 111](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1949-04-05;111); [22 gennaio 1950, n. 193](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1950-01-22;193); [29 giugno 1951, n. 582](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-06-29;582); [2 agosto 1952, n. 1346](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1952-08-02;1346); [30 giugno 1954, n. 819](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1954-06-30;819); [10 ottobre 1955, n. 1099](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1955-10-10;1099); [20 marzo 1957, n. 333](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1957-03-20;333); [24 marzo 1957, n. 366](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1957-03-24;366); [5 settembre 1957, n. 855](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1957-09-05;855); [8 agosto 1959, n. 675](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1959-08-08;675); [18 maggio 1960, n. 564](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1960-05-18;564), sono sostituite dalle corrispondenti di cui agli allegati A e B al presente decreto, firmato dal Ministro per le poste e le telecomunicazioni.  
+## Art. 2.
 
-Art. 2
-------
-
-  
-Il presente decreto entra in vigore il primo giorno del mese successivo a quello della sua pubblicazione nella Gazzetta Ufficiale.  
-  
+Il presente decreto entra in vigore il primo giorno del mese successivo a quello della sua pubblicazione nella Gazzetta Ufficiale.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 23 giugno 1961
+Dato a Roma, addi' 23 giugno 1961
 
-GRONCHI FANFANI - SPALLINO - TAVIANI
-
-Visto, il Guardasigilli: GONELLA
-
-Registrato alla Corte dei conti, addi' 8 agosto 1961
-
-Atti del Governo, registro n. 138, foglio n. 34. - DI PRETORO
-
-Allegato A
-
- ALLEGATO A   
-(voci sostituite nella tabella n. 1)   
-  
-  
-9. - Partecipazione di nascita, morte, matrimonio e   
-simili a stampa:   
-a) semplici, interamente stampate su di un foglio e   
-senza aggiunta di altre comunicazioni...................... L. 13 b) con comunicazioni od inviti, stampati sul medesimo   
-foglio o su apposito separato cartoncino................... " 25   
-  
-34. - Sopratassa di trasporto aereo:   
-lettere, biglietti postali, cartoline con corrispon-   
-denza epistolare - L.C. - (se il trasporto aereo e espres-   
-samente richiesto dagli utenti) per ogni 5 grammi o   
-frazione................................................... " 10   
-  
-E in facolta dell' Amministrazione di effettuare il trasporto   
-per via aerea dei suddetti oggetti anche senza sopratassa, qualora il peso di essi non superi i 5 grammi, compatibilmente con la dispo- nibilita dei mezzi aerei e sempreche se ne ravvisi la convenienza ai fini del piu celere inoltro.   
-  
-Altri oggetti - A.O. - (cartoline illustrate, biglietti   
-da visita, partecipazioni, carte punteggiate ad uso dei   
-ciechi, carte manoscritte, fatture, stampe in genere, cam-   
-pioni e pacchetti):   
-per ogni 30 grammi o frazione.......... L. 5   
-  
-Pacchi (di peso non superiore a Kg. 5) sopratassa:   
-fino a 1000 grammi................................... " 220 per ogni 500 grammi o frazione in piu'................ " 11   
-0   
-  
-I pacchi inviati per via aerea sono recapitati per espresso e debbono essere gravati, in aggiunta alla sopratassa di trasporto aereo, del relativo diritto fisso di L. 120. Sia la sopratassa che il diritto fisso di cui sopra debbono essere aggiunti all' ammontare della tariffa ordinaria (per i pacchi aerei non e ammessa l' assicu- razione).   
-  
-  
-Visto, il Ministro per le poste e telecomunicazione   
-SPALLINO   
-
-Allegato B
-
- ALLEGATO B   
-(voci sostituite nella tabella n. 2)   
-  
-  
-LIMITI MASSIMI DI PESO   
-  
-9. - a) stampe augurali contenenti convenevoli redatti   
-interamente a stampa....................................... gr. 50 b) partecipazioni di nascita, morte, matrimonio, ecc.   
-interamente stampate su di un foglio e senza aggiunta di   
-altre comunicazioni........................................ " 50 c) partecipazioni di nascita, morte, matrimonio, ecc.   
-con comunicazioni od inviti stampati sul medesimo foglio o   
-su apposito separato cartoncino............................ " 65   
-  
-  
-DIMENSIONI MINIME   
-  
-a) le corrispondenze di qualsiasi specie debbono presentare per l'indirizzo e per l'indicazione di servizio una superficie non inferiore a cm. 10 x 7;   
-b) il volume dei pacchi postali non puo' essere inferiore a un decimetro cubo.   
-  
-  
-Visto, il Ministro per le poste e le telecomunicazioni   
-SPALLINO   
+GRONCHI FANFANI - SPALLINO - TAVIANI Visto, il Guardasigilli: GONELLA Registrato alla Corte dei conti, addi' 8 agosto 1961 Atti del Governo, registro n. 138, foglio n. 34. - DI PRETORO

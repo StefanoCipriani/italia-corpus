@@ -1,39 +1,31 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 10 dicembre 1954 n. 1328
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 1328
+data: 1954-12-10
+titolo: "Assegnazione di fondi allo stato di previsione della spesa del Ministero della pubblica istruzione per l'esercizio finanziario 1954-55 a norma dell'art. 41, primo comma, del regio decreto 18 novembre 1923, n. 2440, sull'amministrazione del patrimonio e sulla contabilita generale dello Stato."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1954-12-10;1328
+codice_redazionale: 054U1328
+vigente: true
+---
 
+## Art. 1.
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 10 dicembre 1954 n. 1328
-================================================================
+IL PRESIDENTE DELLA REPUBBLICA
 
-Assegnazione di fondi allo stato di previsione della spesa del Ministero della pubblica istruzione per l'esercizio finanziario 1954-55 a norma dell'art. 41, primo comma, del regio decreto 18 novembre 1923, n. 2440, sull'amministrazione del patrimonio e sulla contabilita generale dello Stato.
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+ Visto l'[art. 41, primo comma, del regio decreto 18 novembre 1923, n. 2440](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-18;2440#art_41-com1), sull'amministrazione del patrimonio e sulla contabilita' generale dello Stato;
+ Visto l'[art. 87, comma quinto, della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87-com5);
+ Viste le [leggi 31 luglio 1954, n. 612 e n. 631](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1954-07-31;631);
+ Sentito il Consiglio dei Ministri;
+ Sulla proposta del Ministro Segretario di Stato per il tesoro;
 
-Art. 1
-------
+ Decreta:
 
- IL PRESIDENTE DELLA REPUBBLICA  
-  
-Visto l'[art. 41, primo comma, del regio decreto 18 novembre 1923, n. 2440](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-18;2440~art41-com1), sull'amministrazione del patrimonio e sulla contabilita' generale dello Stato;  
-Visto l'[art. 87, comma quinto, della Costituzione](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27~art87-com5);  
-Viste le [leggi 31 luglio 1954, n. 612 e n. 631](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1954-07-31;631);  
-Sentito il Consiglio dei Ministri;  
-Sulla proposta del Ministro Segretario di Stato per il tesoro;  
-  
-Decreta:  
-  
-Nello stato di previsione della spesa del Ministero della pubblica istruzione, per l'esercizio finanziario 1954-55 viene apportata la seguente variazione in aumento:  
-Cap. n. 75. - "Stipendi ed altri assegni al per-  
-sonale di ruolo, ecc. " . . . . . . . . . . . . . L. 1.650.000.0 00  
-  
+ Nello stato di previsione della spesa del Ministero della pubblica istruzione, per l'esercizio finanziario 1954-55 viene apportata la seguente variazione in aumento:
+ Cap. n. 75. - "Stipendi ed altri assegni al per-
+ sonale di ruolo, ecc. " . . . . . . . . . . . . . L. 1.650.000.0 00
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 10 dicembre 1954
+Dato a Roma, addi' 10 dicembre 1954
 
-EINAUDI SCELBA - GAVA
-
-Visto, il Guardasigilli: DE PIETRO
-
-Registrato alla Corte dei conti, addi' 2 febbraio 1955
-
-Atti del Governo, registro n. 88, foglio n. 108. - CARLOMAGNO
+EINAUDI SCELBA - GAVA Visto, il Guardasigilli: DE PIETRO Registrato alla Corte dei conti, addi' 2 febbraio 1955 Atti del Governo, registro n. 88, foglio n. 108. - CARLOMAGNO

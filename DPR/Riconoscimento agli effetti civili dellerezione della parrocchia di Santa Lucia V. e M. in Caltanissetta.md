@@ -1,19 +1,21 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 05 dicembre 1955 n. 1430
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 1430
+data: 1955-12-05
+titolo: "Riconoscimento, agli effetti civili, dell'erezione della parrocchia di Santa Lucia V. e M., in Caltanissetta."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1955-12-05;1430
+codice_redazionale: 055U1430
+vigente: true
+---
 
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 05 dicembre 1955 n. 1430
-================================================================
-
-Riconoscimento, agli effetti civili, dell'erezione della parrocchia di Santa Lucia V. e M., in Caltanissetta.
--------------------------------------------------------------------------------------------------------------
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-1430. Decreto del Presidente della Repubblica 5 dicembre 1955, col quale, sulla proposta del Ministro per l'interno, viene riconosciuto, agli effetti civili, il decreto dell'Ordinario diocesano di Caltanissetta in data 24 giugno 1954, integrato con due postille rispettivamente del 21 giugno e 20 luglio 1955, relativo all'erezione della parrocchia di Santa Lucia V. e M., in Caltanissetta e viene riconosciuta, la personalita' giuridica della Chiesa omonima, sede della parrocchia, stessa.  
-  
-Visto, il Guardasigilli: MORO  
-Registrato alla Corte dei conti, addi' 24 gennaio 1956  
-Atti del Governo, registro n. 95, foglio n. 107. - E. GRECO
+1430.
+
+Decreto del Presidente della Repubblica 5 dicembre 1955, col quale, sulla proposta del Ministro per l'interno, viene riconosciuto, agli effetti civili, il decreto dell'Ordinario diocesano di Caltanissetta in data 24 giugno 1954, integrato con due postille rispettivamente del 21 giugno e 20 luglio 1955, relativo all'erezione della parrocchia di Santa Lucia V. e M., in Caltanissetta e viene riconosciuta, la personalita' giuridica della Chiesa omonima, sede della parrocchia, stessa.
+
+Visto, il Guardasigilli: MORO
+ Registrato alla Corte dei conti, addi' 24 gennaio 1956
+ Atti del Governo, registro n. 95, foglio n. 107. - E. GRECO

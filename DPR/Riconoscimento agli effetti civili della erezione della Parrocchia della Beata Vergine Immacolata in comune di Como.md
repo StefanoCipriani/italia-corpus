@@ -1,19 +1,21 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 01 agosto 1965 n. 1039
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 1039
+data: 1965-08-01
+titolo: "Riconoscimento, agli effetti civili, della erezione della Parrocchia della Beata Vergine Immacolata, in comune di Como."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1965-08-01;1039
+codice_redazionale: 065U1039
+vigente: true
+---
 
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 01 agosto 1965 n. 1039
-==============================================================
-
-Riconoscimento, agli effetti civili, della erezione della Parrocchia della Beata Vergine Immacolata, in comune di Como.
------------------------------------------------------------------------------------------------------------------------
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-1039. Decreto del Presidente della Repubblica 10 agosto 1965, col quale, sulla proposta del Ministro per l'interno, viene riconosciuto, agli effetti civili, il decreto dell'Ordinario diocesano di Conto in data 1 luglio 1964, integrato con dichiarazione di pari data, relativo alla erezione della Parrocchia della Beata Vergine Immacolata in frazione Ponte Chiasso del comune di Como.  
-  
-Visto, il Guardasigilli: REALE  
-Registrato alla Corte dei conti, addi' 1 settembre 1965  
-Atti del Governo, registro n. 196, foglio 95. - VILLA
+1039.
+
+Decreto del Presidente della Repubblica 10 agosto 1965, col quale, sulla proposta del Ministro per l'interno, viene riconosciuto, agli effetti civili, il decreto dell'Ordinario diocesano di Conto in data 1 luglio 1964, integrato con dichiarazione di pari data, relativo alla erezione della Parrocchia della Beata Vergine Immacolata in frazione Ponte Chiasso del comune di Como.
+
+Visto, il Guardasigilli: REALE
+ Registrato alla Corte dei conti, addi' 1 settembre 1965
+ Atti del Governo, registro n. 196, foglio 95. - VILLA

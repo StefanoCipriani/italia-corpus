@@ -1,19 +1,21 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 09 luglio 1976 n. 666
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 787
+data: 1975-10-15
+titolo: "Autorizzazione all'Ente nazionale ACLI per l'istruzione professionale, in Roma, ad accettare una donazione."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1975-10-15;787
+codice_redazionale: 075U0787
+vigente: true
+---
 
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 09 luglio 1976 n. 666
-=============================================================
-
-Autorizzazione all'Ente nazionale ACLI per l'istruzione professionale, in Roma, ad accettare una donazione.
------------------------------------------------------------------------------------------------------------
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-666. Decreto del Presidente della Repubblica 9 luglio 1976, col quale, sulla proposta del Ministro per il lavoro e la previdenza sociale, l'Ente nazionale ACLI per l'istruzione professionale (ENAIP), in Roma, viene autorizzato ad accettare una donazione, consistente in un appezzamento di terreno di mq 13310 sito nel comune di Novoli (Lecce), distinto nel catasto rustico alla partita 3011, foglio 2, particella 139, disposta dal comune di Novoli con atto in data 10 aprile 1974, n. 105531 di repertorio, a rogito dott. Vladimiro Gloria, notaio in Lecce, da destinare alla costruzione di un centro di addestramento professionale per lavoratori.  
-  
-Visto, il Guardasigilli: BONIFACIO  
-Registrato alla Corte dei conti, addi' 22 settembre 1976  
-Atti di Governo, registro n. 9, foglio n. 20
+787.
+
+Decreto del Presidente della Repubblica 15 ottobre 1975, col quale, sulla proposta del Ministro per il lavoro e la previdenza sociale, l'Ente nazionale ACLI per l'istruzione professionale (ENAIP), in Roma, viene autorizzato ad accettare dalla S.p.a. "Societa' immobiliare opere sociali" (S.I.O.S.), in Roma, la donazione di un appezzamento di terreno edificatorio sito nel comune di Roma, quartiere Centocelle, della superficie di mq. 505 e sovrastante immobile composto di 4 piani piu' attico, per vani complessivi 18 piu' servizi e disimpegni con altro adiacente relitto di terreno di mq 209,65 destinati secondo il piano regolatore generale del comune di Roma del 1931 a strada, come da atto di donazione per rogito notar Giuseppe Intersimone di Roma del 25 luglio 1961, n. 41980 di repertorio, da destinare a centro di addestramento professionale per giovani apprendisti e per lavoratori adulti.
+
+Visto, il Guardasigilli: REALE
+ Registrato alla Corte dei conti, addi' 17 gennaio 1976
+ Atti di Governo, registro n. 1, foglio n. 42

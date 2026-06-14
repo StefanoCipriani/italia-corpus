@@ -1,19 +1,21 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 18 ottobre 1971 n. 1202
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 1202
+data: 1971-10-18
+titolo: "Riconoscimento della personalita' giuridica della fondazione \"Claudio Monteverdi\", con sede in Cremona."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1971-10-18;1202
+codice_redazionale: 071U1202
+vigente: true
+---
 
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 18 ottobre 1971 n. 1202
-===============================================================
-
-Riconoscimento della personalita' giuridica della fondazione "Claudio Monteverdi", con sede in Cremona.
--------------------------------------------------------------------------------------------------------
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-1202. Decreto del Presidente della Repubblica 18 ottobre 1971, col quale, sulla proposta del Ministro per la pubblica istruzione, viene riconosciuta la personalita' giuridica ed approvato lo statuto della fondazione "Claudio Monteverdi", con sede in Cremona.  
-  
-Visto, il Guardasigilli: COLOMBO  
-Registrato alla Corte dei conti, addi' 5 gennaio 1972  
-Atti del Governo, registro n. 245, foglio n. 213. - VALENTINI
+1202.
+
+Decreto del Presidente della Repubblica 18 ottobre 1971, col quale, sulla proposta del Ministro per la pubblica istruzione, viene riconosciuta la personalita' giuridica ed approvato lo statuto della fondazione "Claudio Monteverdi", con sede in Cremona.
+
+Visto, il Guardasigilli: COLOMBO
+ Registrato alla Corte dei conti, addi' 5 gennaio 1972
+ Atti del Governo, registro n. 245, foglio n. 213. - VALENTINI

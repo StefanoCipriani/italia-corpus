@@ -1,18 +1,20 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 04 aprile 1948 n. 404
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 404
+data: 1948-04-04
+titolo: "Istituzione di un Consolato di 2ª categoria in Hanoi e di un Vice consolato di 2ª categoria in Reims; elevazione a Consolato di 2ª categoria del Vice consolato di 2ª categoria in Basse Terre e soppressione dei Vice consolati di 2ª categoria in Auch, in Metz e in Montpellier."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1948-04-04;404
+codice_redazionale: 048U0404
+vigente: true
+---
 
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 04 aprile 1948 n. 404
-=============================================================
-
-Istituzione di un Consolato di 2ª categoria in Hanoi e di un Vice consolato di 2ª categoria in Reims; elevazione a Consolato di 2ª categoria del Vice consolato di 2ª categoria in Basse Terre e soppressione dei Vice consolati di 2ª categoria in Auch, in Metz e in Montpellier.
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-404. Decreto del Presidente della Repubblica 4 aprile 1948, col quale, sulla proposta del Ministro per gli affari esteri, vengono istituiti un Consolato di 2ª categoria in Hanoi e un Vice consolato di 2ª categoria in Reims; il Vice consolato di 2ª categoria in Basse Terre viene elevato a Consolato di 2ª categoria ed i Vice consolati di 2ª categoria in Auch, in Metz e in Montpellier vengono soppressi.  
-  
-Visto, il Guardasigilli: GRASSI  
-Registrato alla Corte dei conti, addi' 27 aprile 1948
+404.
+
+Decreto del Presidente della Repubblica 4 aprile 1948, col quale, sulla proposta del Ministro per gli affari esteri, vengono istituiti un Consolato di 2ª categoria in Hanoi e un Vice consolato di 2ª categoria in Reims; il Vice consolato di 2ª categoria in Basse Terre viene elevato a Consolato di 2ª categoria ed i Vice consolati di 2ª categoria in Auch, in Metz e in Montpellier vengono soppressi.
+
+Visto, il Guardasigilli: GRASSI
+ Registrato alla Corte dei conti, addi' 27 aprile 1948

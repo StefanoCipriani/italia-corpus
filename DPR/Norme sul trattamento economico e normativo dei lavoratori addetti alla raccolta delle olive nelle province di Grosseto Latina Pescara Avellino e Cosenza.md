@@ -1,20 +1,20 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 27 novembre 1960 n. 1776
-
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 27 novembre 1960 n. 1776
-================================================================
-
-Norme sul trattamento economico e normativo dei lavoratori addetti alla raccolta delle olive nelle province di Grosseto, Latina, Pescara, Avellino e Cosenza.
--------------------------------------------------------------------------------------------------------------------------------------------------------------
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 1776
+data: 1960-11-27
+titolo: "Norme sul trattamento economico e normativo dei lavoratori addetti alla raccolta delle olive nelle province di Grosseto, Latina, Pescara, Avellino e Cosenza."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1960-11-27;1776
+codice_redazionale: 060U1776
+vigente: true
+---
 
 IL PRESIDENTE DELLA REPUBBLICA
-------------------------------
 
-Visto l'[art. 87, comma quinto, della Costituzione](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27~art87-com5);
+Visto l'[art. 87, comma quinto, della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87-com5);
 
-Vista la [legge 14 luglio 1959, n. 741](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1959-07-14;741), che delega il Governo ad emanare norme transitorie per garantire minimi di trattamento economico e normativo ai lavoratori;
+Vista la [legge 14 luglio 1959, n. 741](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1959-07-14;741), che delega il Governo ad emanare norme transitorie per garantire minimi di trattamento economico e normativo ai lavoratori;
 
-Vista la [legge 1 ottobre 1960, n. 1027](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1960-10-01;1027), recante modifiche alla predetta [legge 14 luglio 1959, n. 741](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1959-07-14;741);
+Vista la [legge 1 ottobre 1960, n. 1027](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1960-10-01;1027), recante modifiche alla predetta [legge 14 luglio 1959, n. 741](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1959-07-14;741);
 
 Visto il patto collettivo nazionale di lavoro 15 febbraio 1957, per i braccianti agricoli avventizi;
 
@@ -32,82 +32,15 @@ Vista la pubblicazione nell'apposito Bollettino, n. 5 della provincia di Grosset
 
 Sentito il Consiglio dei Ministri;
 
-Sulla
------
+Sulla proposta del Ministro per il lavoro e la previdenza sociale; Decreta:
 
-proposta del Ministro per il lavoro e la previdenza sociale; Decreta:
+## Articolo unico
 
-Articolo unico
---------------
-
-  
-I rapporti di lavoro costituiti per l'attivita' per la quale sono stati stipulati i contratti e gli accordi indicati nel preambolo sono regolati da norme giuridiche uniformi alle clausole dei contratti e degli accordi anzidetti, annessi al presente decreto, purche' compatibili con la disciplina nazionale della categoria.  
-I minimi di trattamento economico e normativo cosi' stabiliti sono inderogabili nei confronti di tutti i lavoratori addetti alla raccolta delle olive nelle province di Grosseto, Latina, Pescara, Avellino e Cosenza.  
-  
+I rapporti di lavoro costituiti per l'attivita' per la quale sono stati stipulati i contratti e gli accordi indicati nel preambolo sono regolati da norme giuridiche uniformi alle clausole dei contratti e degli accordi anzidetti, annessi al presente decreto, purche' compatibili con la disciplina nazionale della categoria.
+ I minimi di trattamento economico e normativo cosi' stabiliti sono inderogabili nei confronti di tutti i lavoratori addetti alla raccolta delle olive nelle province di Grosseto, Latina, Pescara, Avellino e Cosenza.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 27 novembre 1960
+Dato a Roma, addi' 27 novembre 1960
 
-GRONCHI FANFANI - SULLO
-
-Visto, il Guardasigilli: GONELLA
-
-Registrato alla Corte dei conti, addi' 23 gennaio 1961
-
-Atti del Governo, registro n. 133, foglio n. 91. - VILLA
-
-Allegato
-
-ACCORDO 27 DICEMBRE 1952 PER LA DETERMINAZIONE DEL COMPENSO IN NATURA PER LE RACCOGLITRICI DI OLIVE DELLA PROVINCIA DI GROSSETO.   
-  
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=060U177600100010110001&dgu=1961-02-03&art.dataPubblicazioneGazzetta=1961-02-03&art.codiceRedazionale=060U1776)
-  
-  
-  
-  
-CONTRATTO COLLETTIVO DI LAVORO 12 OTTOBRE 1952 PER GLI ADDETTI ALLA RACCOLTA DELLE OLIVE NELLA PROVINCIA DI LATINA (CAMPAGNA OLEARIA 1952-53).   
-  
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=060U177600100010110002&dgu=1961-02-03&art.dataPubblicazioneGazzetta=1961-02-03&art.codiceRedazionale=060U1776)
-  
-  
-  
-  
-CONTRATTO COLLETTIVO DI LAVORO 3 FEBBRAIO 1955 PER I LAVORATORI ADDETTI ALLA COGLITURA DELLE OLIVE NELLA PROVINCIA DI PESCARA.   
-  
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=060U177600100010110003&dgu=1961-02-03&art.dataPubblicazioneGazzetta=1961-02-03&art.codiceRedazionale=060U1776)
-  
-  
-  
-  
-ACCORDO 21 OTTOBRE 1955 PER LA DETERMINAZIONE DELLE VARIAZIONI DI SCALA MOBILE E DELLA MAGGIORAZIONE FORFETTARIA PER FESTIVITA' INFRASETTIMANALI PER I LAVORATORI ADDETTI ALLA COGLITURA DELLE OLIVE NELLA PROVINCIA DI PESCARA.   
-  
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=060U177600100010110004&dgu=1961-02-03&art.dataPubblicazioneGazzetta=1961-02-03&art.codiceRedazionale=060U1776)
-  
-  
-  
-  
-CONTRATTO COLLETTIVO DI LAVORO 23 NOVEMBRE 1958 PER I RACCOGLITORI E LE RACCOGLITRICI DI OLIVE DELLA PROVINCIA DI AVELLINO.   
-  
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=060U177600100010110005&dgu=1961-02-03&art.dataPubblicazioneGazzetta=1961-02-03&art.codiceRedazionale=060U1776)
-  
-  
-  
-  
-CONTRATTO COLLETTIVO DI LAVORO 3 DICEMBRE 1957 PER LE ADDETTE ALLA RACCOLTA DELLE OLIVE IN PROVINCIA DI COSENZA NELLA CAMPAGNA OLIVICOLA 1957-1958.   
-  
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=060U177600100010110006&dgu=1961-02-03&art.dataPubblicazioneGazzetta=1961-02-03&art.codiceRedazionale=060U1776)
-  
+GRONCHI FANFANI - SULLO Visto, il Guardasigilli: GONELLA Registrato alla Corte dei conti, addi' 23 gennaio 1961 Atti del Governo, registro n. 133, foglio n. 91. - VILLA

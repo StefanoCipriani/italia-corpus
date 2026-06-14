@@ -1,20 +1,20 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 gennaio 1962 n. 1068
-
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 gennaio 1962 n. 1068
-===============================================================
-
-Norme sul trattamento economico e normative dei lavoratori dipendenti dalle imprese esercenti lavanderie, smacchiatorie, tintorie e stirerie di abiti ed indumenti delle province di Firenze, escluso il mandamento di Prato, Modena, Reggio Emilia, dalle imprese esercenti lavanderie, tintorie e pulitura a secco di abiti e indumenti della provincia di Padova e dalle imprese esercenti lavanderie della provincia di Treviso.
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 1068
+data: 1962-01-02
+titolo: "Norme sul trattamento economico e normative dei lavoratori dipendenti dalle imprese esercenti lavanderie, smacchiatorie, tintorie e stirerie di abiti ed indumenti delle province di Firenze, escluso il mandamento di Prato, Modena, Reggio Emilia, dalle imprese esercenti lavanderie, tintorie e pulitura a secco di abiti e indumenti della provincia di Padova e dalle imprese esercenti lavanderie della provincia di Treviso."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1962-01-02;1068
+codice_redazionale: 062U1068
+vigente: true
+---
 
 IL PRESIDENTE DELLA REPUBBLICA
-------------------------------
 
-Visto l'[art. 87, comma quinto, della Costituzione](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27~art87-com5);
+Visto l'[art. 87, comma quinto, della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87-com5);
 
-Vista la [legge 14 luglio 1959, n. 741](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1959-07-14;741), che delega il Governo ad emanare norme transitorie per garantire minimi di trattamento economico e normativo ai lavoratori;
+Vista la [legge 14 luglio 1959, n. 741](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1959-07-14;741), che delega il Governo ad emanare norme transitorie per garantire minimi di trattamento economico e normativo ai lavoratori;
 
-Vista la [legge 1 ottobre 1960, n. 1027](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1960-10-01;1027), recante modifiche alla predetta [legge 14 luglio 1959, n. 741](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1959-07-14;741);
+Vista la [legge 1 ottobre 1960, n. 1027](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1960-10-01;1027), recante modifiche alla predetta [legge 14 luglio 1959, n. 741](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1959-07-14;741);
 
 Visto, per la provincia di Firenze, escluso il mandamento di Prato, il contratto collettivo 1 agosto 1957, e relativi allegati, per le maestranze addette alle aziende esercenti lavanderie, tintorie, stirerie e smacchiatorie di abiti e indumenti, stipulato tra l'Associazione Provinciale degli Industriali e l'Unione Provinciale del Lavoro - C.I.S.N.A.L. -, e in pari data, tra l'Associazione Provinciale degli Industriali e il Sindacato Provinciale dei Lavoratori dell'Abbigliamento - C.G.I.L. -, l'Unione Sindacale Provinciale - C.I.S.L. -, la Camera Sindacale Provinciale - U.I.L. -;
 
@@ -34,83 +34,21 @@ Vista la pubblicazione nell'apposito Bollettino, n. 1 della provincia di Firenze
 
 Sentito il Consiglio dei Ministri;
 
-Sulla
------
+Sulla proposta del Ministro per il lavoro e la previdenza sociale; Decreta:
 
-proposta del Ministro per il lavoro e la previdenza sociale; Decreta:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-I rapporti di lavoro costituiti per le attivita' per le quali sono stati stipulati:  
-- per la provincia di Firenze, il contratto collettivo 1 agosto 1957, relativo alle maestranze addette alle aziende esercenti lavanderie, tintorie, stirerie e smacchiatorie di abiti e indumenti;  
-- per la provincia di Modena, il contratto collettivo 31 luglio 1954, relativo alle maestranze addette alle aziende esercenti lavanderie, stirerie, tintorie e smacchiatorie di abiti e indumenti;  
-- per la provincia di Padova, il contratto collettivo e l'accordo collettivo 2 gennaio 1959, relativi alle maestranze addette alle aziende esercenti tintorie, lavanderie e pulitura a secco di abiti e indumenti;  
-- per la provincia di Reggio Emilia, il contratto collettivo 26 marzo 1950, relativo alle maestranze addette alle aziende esercenti lavanderie, stirerie, tintorie e smacchiatorie di abiti e indumenti;  
-- per la provincia di Treviso, l'accordo collettivo salariale 10 agosto 1954, relativo alle maestranze addette alle aziende esercenti lavanderie;  
-sono regolati da norme giuridiche uniformi alle clausole dei contratti e degli accordi anzidetti, annessi al presente decreto.  
-I minimi di trattamento economico e normativo cosi' stabiliti sono inderogabili nei confronti di tutti i lavoratori dipendenti dalle imprese esercenti lavanderie, smacchiatorie, tintorie e stirerie di abiti e indumenti delle province di Firenze escluso il mandamento di Prato, Modena, Reggio Emilia, dalle imprese esercenti lavanderie, tintorie e pulitura a secco di abiti e indumenti della provincia di Padova e dalle imprese esercenti lavanderie della provincia di Treviso.  
-  
+I rapporti di lavoro costituiti per le attivita' per le quali sono stati stipulati:
+ - per la provincia di Firenze, il contratto collettivo 1 agosto 1957, relativo alle maestranze addette alle aziende esercenti lavanderie, tintorie, stirerie e smacchiatorie di abiti e indumenti;
+ - per la provincia di Modena, il contratto collettivo 31 luglio 1954, relativo alle maestranze addette alle aziende esercenti lavanderie, stirerie, tintorie e smacchiatorie di abiti e indumenti;
+ - per la provincia di Padova, il contratto collettivo e l'accordo collettivo 2 gennaio 1959, relativi alle maestranze addette alle aziende esercenti tintorie, lavanderie e pulitura a secco di abiti e indumenti;
+ - per la provincia di Reggio Emilia, il contratto collettivo 26 marzo 1950, relativo alle maestranze addette alle aziende esercenti lavanderie, stirerie, tintorie e smacchiatorie di abiti e indumenti;
+ - per la provincia di Treviso, l'accordo collettivo salariale 10 agosto 1954, relativo alle maestranze addette alle aziende esercenti lavanderie;
+sono regolati da norme giuridiche uniformi alle clausole dei contratti e degli accordi anzidetti, annessi al presente decreto.
+ I minimi di trattamento economico e normativo cosi' stabiliti sono inderogabili nei confronti di tutti i lavoratori dipendenti dalle imprese esercenti lavanderie, smacchiatorie, tintorie e stirerie di abiti e indumenti delle province di Firenze escluso il mandamento di Prato, Modena, Reggio Emilia, dalle imprese esercenti lavanderie, tintorie e pulitura a secco di abiti e indumenti della provincia di Padova e dalle imprese esercenti lavanderie della provincia di Treviso.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 2 gennaio 1962
+Dato a Roma, addi' 2 gennaio 1962
 
-GRONCHI FANFANI - SULLO
-
-Visto, il Guardasigilli: BOSCO
-
-Registrato alla Corte dei conti, addi' 14 luglio 1962
-
-Atti del Governo, registro n. 155, foglio n. 16. - VILLA
-
-Allegato
-
-CONTRATTO COLLETTIVO 1 AGOSTO 1957 PER LE MAESTRANZE ADDETTE ALLE AZIENDE ESERCENTI LE LAVANDERIE, TINTORIE, STIRERIE E SMACCHIATORIE DI ABITI ED INDUMENTI DELLA PROVINCIA DI FIRENZE, ESCLUSO IL MANDAMENTO DI PRATO.   
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=062U106800100010110001&dgu=1962-08-07&art.dataPubblicazioneGazzetta=1962-08-07&art.codiceRedazionale=062U1068)
-  
-  
-  
-  
-CONTRATTO COLLETTIVO 31 LUGLIO 1954 PER LE MAESTRANZE ADDETTE ALLE AZIENDE ESERCENTI LAVANDERIE, STIRERIE, TINTORIE E SMACCHIATORIE DI ABITI E INDUMENTI DELLA PROVINCIA DI MODENA.   
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=062U106800100010110002&dgu=1962-08-07&art.dataPubblicazioneGazzetta=1962-08-07&art.codiceRedazionale=062U1068)
-  
-  
-  
-  
-CONTRATTO COLLETTIVO 2 GENNAIO 1959 PER LE MAESTRANZE ADDETTE ALLE AZIENDE ESERCENTI TINTORIE, LAVANDERIE, PULITURA A SECCO DI ABITI ED INDUMENTI DELLA PROVINCIA DI PADOVA.   
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=062U106800100010110003&dgu=1962-08-07&art.dataPubblicazioneGazzetta=1962-08-07&art.codiceRedazionale=062U1068)
-  
-  
-  
-  
-ACCORDO COLLETTIVO 2 GENNAIO 1959 PER LE MAESTRANZE ADDETTE ALLE AZIENDE ESERCENTI TINTORIE, LAVANDERIE E PULITURA A SECCO DI ABITI ED INDUMENTI DELLA PROVINCIA DI PADOVA.   
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=062U106800100010110004&dgu=1962-08-07&art.dataPubblicazioneGazzetta=1962-08-07&art.codiceRedazionale=062U1068)
-  
-  
-  
-  
-CONTRATTO COLLETTIVO 26 MARZO 1950 PER LE MAESTRANZE ADDETTE ALLE AZIENDE ESERCENTI LE LAVANDERIE, STIRERIE, TINTORIE E SMACCHIATORIE DI ABITI E INDUMENTI DELLA PROVINCIA DI REGGIO EMILIA.   
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=062U106800100010110005&dgu=1962-08-07&art.dataPubblicazioneGazzetta=1962-08-07&art.codiceRedazionale=062U1068)
-  
-  
-  
-  
-ACCORDO COLLETTIVO SALARIALE 10 AGOSTO 1954 PER LE MAESTRANZE ADDETTE ALLE AZIENDE ESERCENTI LAVANDERIE DELLA PROVINCIA DI TREVISO.   
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=062U106800100010110006&dgu=1962-08-07&art.dataPubblicazioneGazzetta=1962-08-07&art.codiceRedazionale=062U1068)
-  
+GRONCHI FANFANI - SULLO Visto, il Guardasigilli: BOSCO Registrato alla Corte dei conti, addi' 14 luglio 1962 Atti del Governo, registro n. 155, foglio n. 16. - VILLA

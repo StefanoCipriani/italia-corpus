@@ -1,19 +1,21 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 18 luglio 1978 n. 545
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 545
+data: 1978-07-18
+titolo: "Riconoscimento della personalita' giuridica dell'istituto Sacro Cuore delle ancelle del Sacro Cuore di Gesu', in Imola."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1978-07-18;545
+codice_redazionale: 078U0545
+vigente: true
+---
 
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 18 luglio 1978 n. 545
-=============================================================
-
-Riconoscimento della personalita' giuridica dell'istituto Sacro Cuore delle ancelle del Sacro Cuore di Gesu', in Imola.
------------------------------------------------------------------------------------------------------------------------
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-545. Decreto del Presidente della Repubblica 18 luglio 1978, col quale, sulla proposta del Ministro dell'interno, viene riconosciuta la personalita' giuridica dell'istituto Sacro Cuore delle ancelle del Sacro Cuore di Gesu', in Imola (Bologna).  
-  
-Visto, il Guardasigilli: BONIFACIO  
-Registrato alla Corte dei conti, addi' 11 settembre 1978  
-Registro n. 16 Interno, foglio n. 315
+545.
+
+Decreto del Presidente della Repubblica 18 luglio 1978, col quale, sulla proposta del Ministro dell'interno, viene riconosciuta la personalita' giuridica dell'istituto Sacro Cuore delle ancelle del Sacro Cuore di Gesu', in Imola (Bologna).
+
+Visto, il Guardasigilli: BONIFACIO
+ Registrato alla Corte dei conti, addi' 11 settembre 1978
+ Registro n. 16 Interno, foglio n. 315

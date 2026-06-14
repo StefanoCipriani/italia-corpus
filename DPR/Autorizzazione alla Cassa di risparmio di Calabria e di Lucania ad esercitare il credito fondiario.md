@@ -1,20 +1,20 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 18 giugno 1962 n. 967
-
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 18 giugno 1962 n. 967
-=============================================================
-
-Autorizzazione alla Cassa di risparmio di Calabria e di Lucania ad esercitare il credito fondiario.
----------------------------------------------------------------------------------------------------
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 967
+data: 1962-06-18
+titolo: "Autorizzazione alla Cassa di risparmio di Calabria e di Lucania ad esercitare il credito fondiario."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1962-06-18;967
+codice_redazionale: 062U0967
+vigente: true
+---
 
 IL PRESIDENTE DELLA REPUBBLICA
-------------------------------
 
-Visti il testo unico delle leggi sul credito fondiario, approvato con [regio decreto 16 luglio 1905, n. 646](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1905-07-16;646) e successive modificazioni e integrazioni;
+Visti il testo unico delle leggi sul credito fondiario, approvato con [regio decreto 16 luglio 1905, n. 646](../Atti%20normativi%20abrogati%20%28in%20originale%29/Che%20approva%20lannesso%20testo%20unico%20delle%20leggi%20sul%20credito%20fondiario.%20005U0646.md) e successive modificazioni e integrazioni;
 
-Visti il regolamento per l'esecuzione del predetto testo unico, approvato con [regio decreto 5 maggio 1910, n. 472](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1910-05-05;472) e successive modificazioni e integrazioni;
+Visti il regolamento per l'esecuzione del predetto testo unico, approvato con [regio decreto 5 maggio 1910, n. 472](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1910-05-05;472) e successive modificazioni e integrazioni;
 
-Visti il [regio decreto-legge 12 marzo 1936, n. 375](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1936-03-12;375) e successive modificazioni, nonche' il [decreto legislativo del Capo provvisorio dello Stato 17 luglio 1947, n. 691](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto.legislativo:1947-07-17;691);
+Visti il [regio decreto-legge 12 marzo 1936, n. 375](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1936-03-12;375) e successive modificazioni, nonche' il [decreto legislativo del Capo provvisorio dello Stato 17 luglio 1947, n. 691](https://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto.legislativo:1947-07-17;691);
 
 Vista la deliberazione in data 29 ottobre 1961, adottata dal Consiglio di amministrazione della Cassa di risparmio di Calabria e di Lucania, con sede in Cosenza; con la quale la Cassa stessa chiede di poter esercitare il credito fondiario in conformita' delle disposizioni vigenti in materia;
 
@@ -22,39 +22,22 @@ Sentito il Comitato interministeriale per il credito ed il risparmio;
 
 Udito il parere del Consiglio di Stato
 
-Sulla
------
+Sulla proposta del Ministro per il tesoro; Decreta:
 
-proposta del Ministro per il tesoro; Decreta:
+## Art. 1.
 
-Art. 1
-------
+La Cassa di risparmio di Calabria e di Lucania, con sede in Cosenza, e' autorizzata ad esercitare, nel territorio delle Province in cui ha proprie filiali, il credito fondiario in conformita' delle disposizioni vigenti in materia.
 
-  
-La Cassa di risparmio di Calabria e di Lucania, con sede in Cosenza, e' autorizzata ad esercitare, nel territorio delle Province in cui ha proprie filiali, il credito fondiario in conformita' delle disposizioni vigenti in materia.  
+## Art. 2.
 
-Art. 2
-------
+Per l'espletamento delle operazioni di cui all'articolo precedente, la Cassa di risparmio di Calabria e di Lucania istituira' una separata gestione avente propria contabilita' e proprio bilancio.
 
-  
-Per l'espletamento delle operazioni di cui all'articolo precedente, la Cassa di risparmio di Calabria e di Lucania istituira' una separata gestione avente propria contabilita' e proprio bilancio.  
+## Art. 3.
 
-Art. 3
-------
-
-  
-La Cassa di risparmio di Calabria e di Lucania dovra' assegnare alla gestione di credito fondiario un fondo di dotazione di almeno L. 500.000.000.  
-  
+La Cassa di risparmio di Calabria e di Lucania dovra' assegnare alla gestione di credito fondiario un fondo di dotazione di almeno L. 500.000.000.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 18 giugno 1962
+Dato a Roma, addi' 18 giugno 1962
 
-SEGNI TREMELLONI
-
-Visto, il Guardasigilli: BOSCO
-
-Registrato alla Corte dei conti, addi' 25 luglio 1962
-
-Atti del Governo, registro n. 157, foglio n. 52. - VILLA
+SEGNI TREMELLONI Visto, il Guardasigilli: BOSCO Registrato alla Corte dei conti, addi' 25 luglio 1962 Atti del Governo, registro n. 157, foglio n. 52. - VILLA

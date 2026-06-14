@@ -1,19 +1,21 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 03 maggio 1956 n. 670
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 670
+data: 1956-05-03
+titolo: "Erezione in ente morale della Cassa scolastica della Scuola media statale di via Eolo di Torre Annunziata (Napoli)."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1956-05-03;670
+codice_redazionale: 056U0670
+vigente: true
+---
 
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 03 maggio 1956 n. 670
-=============================================================
-
-Erezione in ente morale della Cassa scolastica della Scuola media statale di via Eolo di Torre Annunziata (Napoli).
--------------------------------------------------------------------------------------------------------------------
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-670. Decreto del Presidente della Repubblica 3 maggio 1956, col quale, sulla proposta del Ministro per la pubblica istruzione, la Cassa scolastica della Scuola media statale di via Eolo di Torre Annunziata (Napoli) viene eretta in ente morale e ne viene approvato lo statuto.  
-  
-Visto, il Guardasigilli: MORO  
-Registrato alla Corte dei conti, addi' 6 luglio 1956  
-Atti del Governo, registro n. 99, foglio n. 28. - CARLOMAGNO
+670.
+
+Decreto del Presidente della Repubblica 3 maggio 1956, col quale, sulla proposta del Ministro per la pubblica istruzione, la Cassa scolastica della Scuola media statale di via Eolo di Torre Annunziata (Napoli) viene eretta in ente morale e ne viene approvato lo statuto.
+
+Visto, il Guardasigilli: MORO
+ Registrato alla Corte dei conti, addi' 6 luglio 1956
+ Atti del Governo, registro n. 99, foglio n. 28. - CARLOMAGNO

@@ -1,18 +1,17 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 23 dicembre 1966 n. 1341
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 1341
+data: 1966-12-23
+titolo: "Determinazione dei comandi e dei reparti territoriali della Guardia di finanza."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1966-12-23;1341
+codice_redazionale: 066U1341
+vigente: true
+---
 
+## Art. 1.
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 23 dicembre 1966 n. 1341
-================================================================
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 18 MAGGIO 1970, N. 467))
 
-Determinazione dei comandi e dei reparti territoriali della Guardia di finanza.
--------------------------------------------------------------------------------
+## Art. 2.
 
-Art. 1
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 18 MAGGIO 1970, N. 467](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1970-05-18;467)))
-
-Art. 2
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 18 MAGGIO 1970, N. 467](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1970-05-18;467)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 18 MAGGIO 1970, N. 467))

@@ -1,19 +1,21 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 gennaio 1958 n. 384
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 384
+data: 1958-01-28
+titolo: "Autorizzazione alla Societa' italiana degli Autori ed Editori (S.I.A.E.) ad acquistare alcuni immobili per adibirli a sede delle Agenzie principali di Cagliari e Bologna."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1958-01-28;384
+codice_redazionale: 058U0384
+vigente: true
+---
 
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 gennaio 1958 n. 384
-==============================================================
-
-Autorizzazione alla Societa' italiana degli Autori ed Editori (S.I.A.E.) ad acquistare alcuni immobili per adibirli a sede delle Agenzie principali di Cagliari e Bologna.
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-384. Decreto del Presidente della Repubblica 28 gennaio 1958, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la Societa' italiana degli Autori ed Editori (S.I.A.E.) viene autorizzata ad acquistare alcuni immobili per adibirli a sede delle Agenzie principali di Cagliari e Bologna.  
-  
-Visto, il Guardasigilli: GONELLA  
-Registrato alla Corte dei conti, addi' 10 aprile 1958  
-Atti del Governo, registro n. 112, foglio n. 3. - RELLEVA
+384.
+
+Decreto del Presidente della Repubblica 28 gennaio 1958, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la Societa' italiana degli Autori ed Editori (S.I.A.E.) viene autorizzata ad acquistare alcuni immobili per adibirli a sede delle Agenzie principali di Cagliari e Bologna.
+
+Visto, il Guardasigilli: GONELLA
+ Registrato alla Corte dei conti, addi' 10 aprile 1958
+ Atti del Governo, registro n. 112, foglio n. 3. - RELLEVA

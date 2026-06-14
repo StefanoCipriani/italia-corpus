@@ -1,18 +1,20 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 04 novembre 1950 n. 1089
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 1089
+data: 1950-11-04
+titolo: "Riconoscimento della personalita' giuridica della Fondazione di religione denominata \"Gusmana Romanengo\", in Asti."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1950-11-04;1089
+codice_redazionale: 050U1089
+vigente: true
+---
 
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 04 novembre 1950 n. 1089
-================================================================
-
-Riconoscimento della personalita' giuridica della Fondazione di religione denominata "Gusmana Romanengo", in Asti.
-------------------------------------------------------------------------------------------------------------------
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-1089. Decreto del Presidente della Repubblica 4 novembre 1950, col quale, sulla proposta del Ministro per l'interno, viene riconosciuta la personalita' giuridica della Fondazione di religione denominata "Gusmana Romanengo", in Asti. La Fondazione stessa viene autorizzata ad accettare le donazioni disposte in suo favore da Rolla Rosazza Rosalinda ed altre, e ne viene approvato lo statuto.  
-  
-Visto, il Guardasigilli: SEGNI  
-Registrato alla Corte dei conti, addi' 11 gennaio 1951
+1089.
+
+Decreto del Presidente della Repubblica 4 novembre 1950, col quale, sulla proposta del Ministro per l'interno, viene riconosciuta la personalita' giuridica della Fondazione di religione denominata "Gusmana Romanengo", in Asti. La Fondazione stessa viene autorizzata ad accettare le donazioni disposte in suo favore da Rolla Rosazza Rosalinda ed altre, e ne viene approvato lo statuto.
+
+Visto, il Guardasigilli: SEGNI
+ Registrato alla Corte dei conti, addi' 11 gennaio 1951

@@ -1,18 +1,20 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 10 gennaio 1950 n. 37
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 37
+data: 1950-01-10
+titolo: "Riconoscimento della personalita' giuridica dell'Istituto Salesiano dell'Immacolata, con sede in Firenze."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1950-01-10;37
+codice_redazionale: 050U0037
+vigente: true
+---
 
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 10 gennaio 1950 n. 37
-=============================================================
-
-Riconoscimento della personalita' giuridica dell'Istituto Salesiano dell'Immacolata, con sede in Firenze.
----------------------------------------------------------------------------------------------------------
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-37. Decreto del Presidente della Repubblica 10 gennaio 1950, col quale, sulla proposta del Ministro per l'interno, viene riconosciuta la personalita' giuridica dell'Istituto Salesiano dell'Immacolata, con sede in Firenze.  
-  
-Visto, il Guardasigilli: PICCIONI  
-Registrato alla Corte dei conti, addi' 25 febbraio 1950
+37.
+
+Decreto del Presidente della Repubblica 10 gennaio 1950, col quale, sulla proposta del Ministro per l'interno, viene riconosciuta la personalita' giuridica dell'Istituto Salesiano dell'Immacolata, con sede in Firenze.
+
+Visto, il Guardasigilli: PICCIONI
+ Registrato alla Corte dei conti, addi' 25 febbraio 1950

@@ -1,20 +1,20 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 gennaio 1962 n. 158
-
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 gennaio 1962 n. 158
-==============================================================
-
-Norme sul trattamento economico e normativo dei lavoratori addetti alla vendita e dei lavoratori porta-pane dipendenti dalle imprese di panificazione e dalle imprese di rivendita di aree delle province di Brescia e Padova.
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 158
+data: 1962-01-02
+titolo: "Norme sul trattamento economico e normativo dei lavoratori addetti alla vendita e dei lavoratori porta-pane dipendenti dalle imprese di panificazione e dalle imprese di rivendita di aree delle province di Brescia e Padova."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1962-01-02;158
+codice_redazionale: 062U0158
+vigente: true
+---
 
 IL PRESIDENTE DELLA REPUBBLICA
-------------------------------
 
-Visto l'[art. 87, comma quinto, della Costituzione](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27~art87-com5);
+Visto l'[art. 87, comma quinto, della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87-com5);
 
-Vista la [legge 11 luglio 1959, n. 741](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1959-07-11;741), che delega il Governo ad emanare norme transitorie per garantire un limite di trattamento economico e normativo ai lavoratori;
+Vista la [legge 11 luglio 1959, n. 741](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1959-07-11;741), che delega il Governo ad emanare norme transitorie per garantire un limite di trattamento economico e normativo ai lavoratori;
 
-Vista la [legge 1 ottobre 1960, n. 1027](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1960-10-01;1027), recante modifiche alla predetta [legge 14 luglio 1959, n. 741](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1959-07-14;741);
+Vista la [legge 1 ottobre 1960, n. 1027](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1960-10-01;1027), recante modifiche alla predetta [legge 14 luglio 1959, n. 741](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1959-07-14;741);
 
 Visto l'accordo collettivo nazionale 29 aprile 1957, per l'applicazione della scala mobile al settore del commercio;
 
@@ -32,58 +32,18 @@ Vista la pubblicazione nell'apposito Bollettino, n. 12 della provincia di Bresci
 
 Sentito il Consiglio dei Ministri;
 
-Sulla
------
+Sulla proposta del Ministro per il lavoro e la previdenza sociale; Decreta:
 
-proposta del Ministro per il lavoro e la previdenza sociale; Decreta:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-I rapporti di lavoro costituiti per le attivita' per le quali sono stati stipulati:  
-per la provincia di Brescia, l'accordo collettivo 28 giugno 1950, relativo ai lavoratori porta-pane l'accordo collettivo 13 maggio 1952, relativo al personale addetto alla vendita nelle fornerie e rivendite di pane;  
-per la provincia di Padova, l'accordo collettivo 20 settembre 1956, per il personale di banco ed i fornitori portapane dipendenti da aziende di panificazioni e rivendite di pane;  
-sono regolati da norme giuridiche uniformi alle clausole degli accordi anzidetti, annessi al presente decreto, purche' compatibili, per quanto riguarda le rivendite di pane non annesse ai forni, con quelle concernenti la disciplina nazionale di categoria.  
-I minimi di trattamento economico e normativo cosi' stabiliti sono inderogabili nei confronti di tutti i lavoratori addetti alla vendita e dei lavoratori portapane, dipendenti dalle imprese di panificazione e dalle imprese rivendita di pane delle province di Brescia e Padova.  
-  
+I rapporti di lavoro costituiti per le attivita' per le quali sono stati stipulati:
+ per la provincia di Brescia, l'accordo collettivo 28 giugno 1950, relativo ai lavoratori porta-pane l'accordo collettivo 13 maggio 1952, relativo al personale addetto alla vendita nelle fornerie e rivendite di pane;
+ per la provincia di Padova, l'accordo collettivo 20 settembre 1956, per il personale di banco ed i fornitori portapane dipendenti da aziende di panificazioni e rivendite di pane;
+sono regolati da norme giuridiche uniformi alle clausole degli accordi anzidetti, annessi al presente decreto, purche' compatibili, per quanto riguarda le rivendite di pane non annesse ai forni, con quelle concernenti la disciplina nazionale di categoria.
+ I minimi di trattamento economico e normativo cosi' stabiliti sono inderogabili nei confronti di tutti i lavoratori addetti alla vendita e dei lavoratori portapane, dipendenti dalle imprese di panificazione e dalle imprese rivendita di pane delle province di Brescia e Padova.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta Ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 2 gennaio 1962
+Dato a Roma, addi' 2 gennaio 1962
 
-GRONCHI FANFANI - SULLO
-
-Visto, il Guardasigilli: BOSCO
-
-Registrato alla Corte dei conti, addi' 28 marzo 1962.
-
-Atti del Governo, registro n. 141, foglio n. 112. - VILLA
-
-Accordo
-
-ACCORDO COLLETTIVO 28 GIUGNO 1950 PER I LAVORATORI PORTA-PANE DELLA PROVINCIA DI BRESCIA   
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=062U015800100010110001&dgu=1962-04-27&art.dataPubblicazioneGazzetta=1962-04-27&art.codiceRedazionale=062U0158)
-  
-  
-  
-  
-  
-ACCORDO COLLETTIVO 13 MAGGIO 1952 PER IL PERSONALE ADDETTO ALLA VENDITA NELLE FORNERIE E RIVENDITE DI PANE DELLA PROVINCIA DI BRESCIA.   
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=062U015800100010110002&dgu=1962-04-27&art.dataPubblicazioneGazzetta=1962-04-27&art.codiceRedazionale=062U0158)
-  
-  
-  
-  
-  
-ACCORDO COLLETTIVO 20 SETTEMBRE 1956 PER IL PERSONALE DI BANCO ED I FATTORINI-PORTAPANE DIPENDENTI DA AZIENDE DI PANIFICAZIONE E RIVENDITE PANE DELLA PROVINCIA DI PADOVA.   
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=062U015800100010110003&dgu=1962-04-27&art.dataPubblicazioneGazzetta=1962-04-27&art.codiceRedazionale=062U0158)
-  
+GRONCHI FANFANI - SULLO Visto, il Guardasigilli: BOSCO Registrato alla Corte dei conti, addi' 28 marzo 1962. Atti del Governo, registro n. 141, foglio n. 112. - VILLA

@@ -1,18 +1,20 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 19 maggio 1950 n. 815
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 815
+data: 1950-05-19
+titolo: "Erezione in ente morale dell'Asilo infantile \"Alfonso Vascellari\", con sede nel comune di Chiarano (Treviso)."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1950-05-19;815
+codice_redazionale: 050U0815
+vigente: true
+---
 
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 19 maggio 1950 n. 815
-=============================================================
-
-Erezione in ente morale dell'Asilo infantile "Alfonso Vascellari", con sede nel comune di Chiarano (Treviso).
--------------------------------------------------------------------------------------------------------------
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-815. Decreto del Presidente della Repubblica 19 maggio 1950, col quale, sulla proposta del Ministro per l'interno, l'Asilo infantile "Alfonso Vascellari", con sede nel comune di Chiarano (Treviso), viene eretto in ente morale e ne viene approvato lo statuto organico.  
-  
-Visto, il Guardasigilli: PICCIONI  
-Registrato alla Corte dei conti, addi' 2 ottobre 1950
+815.
+
+Decreto del Presidente della Repubblica 19 maggio 1950, col quale, sulla proposta del Ministro per l'interno, l'Asilo infantile "Alfonso Vascellari", con sede nel comune di Chiarano (Treviso), viene eretto in ente morale e ne viene approvato lo statuto organico.
+
+Visto, il Guardasigilli: PICCIONI
+ Registrato alla Corte dei conti, addi' 2 ottobre 1950

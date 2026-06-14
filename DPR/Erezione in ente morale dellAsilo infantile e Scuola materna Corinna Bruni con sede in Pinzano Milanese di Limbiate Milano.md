@@ -1,18 +1,20 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 21 novembre 1949 n. 1205
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 1205
+data: 1949-11-21
+titolo: "Erezione in ente morale dell'Asilo infantile e Scuola materna \"Corinna Bruni\", con sede in Pinzano Milanese di Limbiate (Milano)."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1949-11-21;1205
+codice_redazionale: 049U1205
+vigente: true
+---
 
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 21 novembre 1949 n. 1205
-================================================================
-
-Erezione in ente morale dell'Asilo infantile e Scuola materna "Corinna Bruni", con sede in Pinzano Milanese di Limbiate (Milano).
----------------------------------------------------------------------------------------------------------------------------------
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-1205. Decreto del Presidente della Repubblica 21 novembre 1949, col quale, sulla proposta del Ministro per l'interno, l'Asilo infantile e Scuola materna "Corinna Bruni", con sede in Pinzano Milanese di Limbiate (Milano), viene eretta in ente morale e ne viene approvato lo statuto organico.  
-  
-Visto, il Guardasigilli: PICCIONI  
-Registrato alla Corte dei conti, addi' 2 ottobre 1950
+1205.
+
+Decreto del Presidente della Repubblica 21 novembre 1949, col quale, sulla proposta del Ministro per l'interno, l'Asilo infantile e Scuola materna "Corinna Bruni", con sede in Pinzano Milanese di Limbiate (Milano), viene eretta in ente morale e ne viene approvato lo statuto organico.
+
+Visto, il Guardasigilli: PICCIONI
+ Registrato alla Corte dei conti, addi' 2 ottobre 1950

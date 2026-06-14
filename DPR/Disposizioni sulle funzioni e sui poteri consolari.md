@@ -1,438 +1,445 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 05 gennaio 1967 n. 200
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 200
+data: 1967-01-05
+titolo: "Disposizioni sulle funzioni e sui poteri consolari."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1967-01-05;200
+codice_redazionale: 067U0200
+vigente: true
+---
 
+## DISPOSIZIONI INTRODUTTIVE
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 05 gennaio 1967 n. 200
-==============================================================
+TITOLO I
 
-Disposizioni sulle funzioni e sui poteri consolari.
----------------------------------------------------
+### Art. 1.
 
-CAPO I TITOLO I DISPOSIZIONI INTRODUTTIVE
------------------------------------------
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 3 FEBBRAIO 2011, N. 71))
 
-### Art. 1
+### Art. 2.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 3 FEBBRAIO 2011, N. 71](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2011-02-03;71)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 3 FEBBRAIO 2011, N. 71))
 
-### Art. 2
+### Art. 3.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 3 FEBBRAIO 2011, N. 71](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2011-02-03;71)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 3 FEBBRAIO 2011, N. 71))
 
-### Art. 3
+### Art. 4.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 3 FEBBRAIO 2011, N. 71](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2011-02-03;71)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 3 FEBBRAIO 2011, N. 71))
 
-### Art. 4
+### Art. 5.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 3 FEBBRAIO 2011, N. 71](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2011-02-03;71)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 3 FEBBRAIO 2011, N. 71))
 
-### Art. 5
+### Art. 6.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 3 FEBBRAIO 2011, N. 71](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2011-02-03;71)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 3 FEBBRAIO 2011, N. 71))
 
-### Art. 6
+### Art. 7.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 3 FEBBRAIO 2011, N. 71](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2011-02-03;71)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 3 FEBBRAIO 2011, N. 71))
 
-### Art. 7
+## DELLE FUNZIONI E DEI POTERI CONSOLARI  Capo I STATO CIVILE E FUNZIONI NOTARILI
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 3 FEBBRAIO 2011, N. 71](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2011-02-03;71)))
+TITOLO II
 
-CAPO II TITOLO II DELLE FUNZIONI E DEI POTERI CONSOLARI Capo I STATO CIVILE E FUNZIONI NOTARILI
------------------------------------------------------------------------------------------------
+### Art. 8.
 
-### Art. 8
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 3 FEBBRAIO 2011, N. 71))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 3 FEBBRAIO 2011, N. 71](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2011-02-03;71)))
+### Art. 9.
 
-### Art. 9
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 3 FEBBRAIO 2011, N. 71))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 3 FEBBRAIO 2011, N. 71](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2011-02-03;71)))
+### Art. 10.
 
-### Art. 10
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 3 FEBBRAIO 2011, N. 71))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 3 FEBBRAIO 2011, N. 71](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2011-02-03;71)))
+### Art. 11.
 
-### Art. 11
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 3 FEBBRAIO 2011, N. 71))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 3 FEBBRAIO 2011, N. 71](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2011-02-03;71)))
+### Art. 12.
 
-### Art. 12
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 3 FEBBRAIO 2011, N. 71))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 3 FEBBRAIO 2011, N. 71](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2011-02-03;71)))
+### Art. 13.
 
-### Art. 13
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 3 FEBBRAIO 2011, N. 71))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 3 FEBBRAIO 2011, N. 71](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2011-02-03;71)))
+### Art. 14.
 
-### Art. 14
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 3 FEBBRAIO 2011, N. 71))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 3 FEBBRAIO 2011, N. 71](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2011-02-03;71)))
+### Art. 15.
 
-### Art. 15
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 3 FEBBRAIO 2011, N. 71))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 3 FEBBRAIO 2011, N. 71](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2011-02-03;71)))
+### Art. 16.
 
-### Art. 16
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 3 FEBBRAIO 2011, N. 71))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 3 FEBBRAIO 2011, N. 71](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2011-02-03;71)))
+### Art. 17.
 
-### Art. 17
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 3 FEBBRAIO 2011, N. 71))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 3 FEBBRAIO 2011, N. 71](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2011-02-03;71)))
+### Art. 18.
 
-### Art. 18
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 3 FEBBRAIO 2011, N. 71))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 3 FEBBRAIO 2011, N. 71](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2011-02-03;71)))
+### Art. 19.
 
-### Art. 19
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 3 FEBBRAIO 2011, N. 71))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 3 FEBBRAIO 2011, N. 71](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2011-02-03;71)))
+## PASSAPORTI, RIMPATRI E SUSSIDI
 
-CAPO III Capo II PASSAPORTI, RIMPATRI E SUSSIDI
------------------------------------------------
+Capo II
 
-### Art. 20
+### Art. 20.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 3 FEBBRAIO 2011, N. 71](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2011-02-03;71)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 3 FEBBRAIO 2011, N. 71))
 
-### Art. 21
+### Art. 21.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 3 FEBBRAIO 2011, N. 71](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2011-02-03;71)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 3 FEBBRAIO 2011, N. 71))
 
-### Art. 22
+### Art. 22.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 3 FEBBRAIO 2011, N. 71](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2011-02-03;71)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 3 FEBBRAIO 2011, N. 71))
 
-### Art. 23
+### Art. 23.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 3 FEBBRAIO 2011, N. 71](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2011-02-03;71)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 3 FEBBRAIO 2011, N. 71))
 
-### Art. 24
+### Art. 24.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 3 FEBBRAIO 2011, N. 71](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2011-02-03;71)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 3 FEBBRAIO 2011, N. 71))
 
-### Art. 25
+### Art. 25.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 3 FEBBRAIO 2011, N. 71](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2011-02-03;71)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 3 FEBBRAIO 2011, N. 71))
 
-### Art. 26
+### Art. 26.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 3 FEBBRAIO 2011, N. 71](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2011-02-03;71)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 3 FEBBRAIO 2011, N. 71))
 
-### Art. 27
+### Art. 27.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 3 FEBBRAIO 2011, N. 71](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2011-02-03;71)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 3 FEBBRAIO 2011, N. 71))
 
-### Art. 28
+### Art. 28.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 3 FEBBRAIO 2011, N. 71](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2011-02-03;71)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 3 FEBBRAIO 2011, N. 71))
 
-CAPO IV Capo III ATTRIBUZIONI IN MATERIA DI CONTROVERSIE, DI ASSISTENZA GIUDIZIARIA E DI GIURISDIZIONE VOLONTARIA
------------------------------------------------------------------------------------------------------------------
+## ATTRIBUZIONI IN MATERIA DI CONTROVERSIE, DI ASSISTENZA GIUDIZIARIA E DI GIURISDIZIONE VOLONTARIA
 
-### Art. 29
+Capo III
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 3 FEBBRAIO 2011, N. 71](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2011-02-03;71)))
+### Art. 29.
 
-### Art. 30
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 3 FEBBRAIO 2011, N. 71))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 3 FEBBRAIO 2011, N. 71](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2011-02-03;71)))
+### Art. 30.
 
-### Art. 31
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 3 FEBBRAIO 2011, N. 71))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 3 FEBBRAIO 2011, N. 71](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2011-02-03;71)))
+### Art. 31.
 
-### Art. 32
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 3 FEBBRAIO 2011, N. 71))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 3 FEBBRAIO 2011, N. 71](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2011-02-03;71)))
+### Art. 32.
 
-### Art. 33
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 3 FEBBRAIO 2011, N. 71))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 3 FEBBRAIO 2011, N. 71](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2011-02-03;71)))
+### Art. 33.
 
-### Art. 34
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 3 FEBBRAIO 2011, N. 71))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 3 FEBBRAIO 2011, N. 71](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2011-02-03;71)))
+### Art. 34.
 
-### Art. 35
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 3 FEBBRAIO 2011, N. 71))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 3 FEBBRAIO 2011, N. 71](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2011-02-03;71)))
+### Art. 35.
 
-### Art. 36
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 3 FEBBRAIO 2011, N. 71))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 3 FEBBRAIO 2011, N. 71](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2011-02-03;71)))
+### Art. 36.
 
-CAPO V Capo IV AMMINISTRAZIONE DI INTERESSI PRIVATI
----------------------------------------------------
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 3 FEBBRAIO 2011, N. 71))
 
-### Art. 37
+## AMMINISTRAZIONE DI INTERESSI PRIVATI
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 3 FEBBRAIO 2011, N. 71](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2011-02-03;71)))
+Capo IV
 
-### Art. 38
+### Art. 37.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 3 FEBBRAIO 2011, N. 71](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2011-02-03;71)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 3 FEBBRAIO 2011, N. 71))
 
-### Art. 39
+### Art. 38.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 3 FEBBRAIO 2011, N. 71](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2011-02-03;71)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 3 FEBBRAIO 2011, N. 71))
 
-### Art. 40
+### Art. 39.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 3 FEBBRAIO 2011, N. 71](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2011-02-03;71)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 3 FEBBRAIO 2011, N. 71))
 
-### Art. 41
+### Art. 40.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 3 FEBBRAIO 2011, N. 71](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2011-02-03;71)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 3 FEBBRAIO 2011, N. 71))
 
-### Art. 42
+### Art. 41.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 3 FEBBRAIO 2011, N. 71](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2011-02-03;71)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 3 FEBBRAIO 2011, N. 71))
 
-### Art. 43
+### Art. 42.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 3 FEBBRAIO 2011, N. 71](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2011-02-03;71)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 3 FEBBRAIO 2011, N. 71))
 
-### Art. 44
+### Art. 43.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 3 FEBBRAIO 2011, N. 71](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2011-02-03;71)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 3 FEBBRAIO 2011, N. 71))
 
-CAPO VI Capo V ATTRIBUZIONI IN MATERIA DI NAVIGAZIONE
------------------------------------------------------
+### Art. 44.
 
-### Art. 45
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 3 FEBBRAIO 2011, N. 71))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 3 FEBBRAIO 2011, N. 71](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2011-02-03;71)))
+## ATTRIBUZIONI IN MATERIA DI NAVIGAZIONE
 
-### Art. 46
+Capo V
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 3 FEBBRAIO 2011, N. 71](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2011-02-03;71)))
+### Art. 45.
 
-### Art. 47
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 3 FEBBRAIO 2011, N. 71))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 3 FEBBRAIO 2011, N. 71](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2011-02-03;71)))
+### Art. 46.
 
-### Art. 48
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 3 FEBBRAIO 2011, N. 71))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 3 FEBBRAIO 2011, N. 71](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2011-02-03;71)))
+### Art. 47.
 
-CAPO VII Capo VI ATTRIBUZIONI DI CARATTERE AMMINISTRATIVO
----------------------------------------------------------
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 3 FEBBRAIO 2011, N. 71))
 
-### Art. 49
+### Art. 48.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 3 FEBBRAIO 2011, N. 71](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2011-02-03;71)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 3 FEBBRAIO 2011, N. 71))
 
-### Art. 50
+## ATTRIBUZIONI DI CARATTERE AMMINISTRATIVO
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 3 FEBBRAIO 2011, N. 71](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2011-02-03;71)))
+Capo VI
 
-### Art. 51
+### Art. 49.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 3 FEBBRAIO 2011, N. 71](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2011-02-03;71)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 3 FEBBRAIO 2011, N. 71))
 
-### Art. 52
+### Art. 50.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 3 FEBBRAIO 2011, N. 71](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2011-02-03;71)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 3 FEBBRAIO 2011, N. 71))
 
-### Art. 53
+### Art. 51.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 3 FEBBRAIO 2011, N. 71](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2011-02-03;71)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 3 FEBBRAIO 2011, N. 71))
 
-### Art. 54
+### Art. 52.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 3 FEBBRAIO 2011, N. 71](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2011-02-03;71)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 3 FEBBRAIO 2011, N. 71))
 
-### Art. 55
+### Art. 53.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 3 FEBBRAIO 2011, N. 71](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2011-02-03;71)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 3 FEBBRAIO 2011, N. 71))
 
-CAPO VIII Capo VII DISPOSIZIONI COMUNI
---------------------------------------
+### Art. 54.
 
-### Art. 56
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 3 FEBBRAIO 2011, N. 71))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 3 FEBBRAIO 2011, N. 71](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2011-02-03;71)))
+### Art. 55.
 
-### Art. 57
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 3 FEBBRAIO 2011, N. 71))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 3 FEBBRAIO 2011, N. 71](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2011-02-03;71)))
+## DISPOSIZIONI COMUNI
 
-### Art. 58
+Capo VII
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 3 FEBBRAIO 2011, N. 71](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2011-02-03;71)))
+### Art. 56.
 
-### Art. 59
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 3 FEBBRAIO 2011, N. 71))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 3 FEBBRAIO 2011, N. 71](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2011-02-03;71)))
+### Art. 57.
 
-### Art. 60
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 3 FEBBRAIO 2011, N. 71))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 3 FEBBRAIO 2011, N. 71](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2011-02-03;71)))
+### Art. 58.
 
-### Art. 61
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 3 FEBBRAIO 2011, N. 71))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 3 FEBBRAIO 2011, N. 71](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2011-02-03;71)))
+### Art. 59.
 
-### Art. 62
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 3 FEBBRAIO 2011, N. 71))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 3 FEBBRAIO 2011, N. 71](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2011-02-03;71)))
+### Art. 60.
 
-### Art. 63
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 3 FEBBRAIO 2011, N. 71))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 3 FEBBRAIO 2011, N. 71](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2011-02-03;71)))
+### Art. 61.
 
-### Art. 64
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 3 FEBBRAIO 2011, N. 71))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 3 FEBBRAIO 2011, N. 71](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2011-02-03;71)))
+### Art. 62.
 
-CAPO IX TITOLO III NORME DI ESECUZIONE Capo I DISPOSIZIONE INTRODUTTIVA
------------------------------------------------------------------------
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 3 FEBBRAIO 2011, N. 71))
 
-### Art. 65
+### Art. 63.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 3 FEBBRAIO 2011, N. 71](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2011-02-03;71)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 3 FEBBRAIO 2011, N. 71))
 
-CAPO X Capo II DISPOSIZIONI COMUNI
-----------------------------------
+### Art. 64.
 
-### Art. 66
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 3 FEBBRAIO 2011, N. 71))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 3 FEBBRAIO 2011, N. 71](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2011-02-03;71)))
+## NORME DI ESECUZIONE  Capo I DISPOSIZIONE INTRODUTTIVA
 
-### Art. 67
+TITOLO III
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 3 FEBBRAIO 2011, N. 71](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2011-02-03;71)))
+### Art. 65.
 
-### Art. 68
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 3 FEBBRAIO 2011, N. 71))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 3 FEBBRAIO 2011, N. 71](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2011-02-03;71)))
+## DISPOSIZIONI COMUNI
 
-### Art. 69
+Capo II
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 3 FEBBRAIO 2011, N. 71](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2011-02-03;71)))
+### Art. 66.
 
-### Art. 70
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 3 FEBBRAIO 2011, N. 71))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 3 FEBBRAIO 2011, N. 71](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2011-02-03;71)))
+### Art. 67.
 
-### Art. 71
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 3 FEBBRAIO 2011, N. 71))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 3 FEBBRAIO 2011, N. 71](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2011-02-03;71)))
+### Art. 68.
 
-### Art. 72
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 3 FEBBRAIO 2011, N. 71))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 3 FEBBRAIO 2011, N. 71](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2011-02-03;71)))
+### Art. 69.
 
-### Art. 73
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 3 FEBBRAIO 2011, N. 71))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 3 FEBBRAIO 2011, N. 71](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2011-02-03;71)))
+### Art. 70.
 
-### Art. 74
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 3 FEBBRAIO 2011, N. 71))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 3 FEBBRAIO 2011, N. 71](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2011-02-03;71)))
+### Art. 71.
 
-### Art. 75
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 3 FEBBRAIO 2011, N. 71))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 3 FEBBRAIO 2011, N. 71](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2011-02-03;71)))
+### Art. 72.
 
-### Art. 76
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 3 FEBBRAIO 2011, N. 71))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 3 FEBBRAIO 2011, N. 71](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2011-02-03;71)))
+### Art. 73.
 
-CAPO XI Capo III DISPOSIZIONI PARTICOLARI
------------------------------------------
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 3 FEBBRAIO 2011, N. 71))
 
-### Art. 77
+### Art. 74.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 3 FEBBRAIO 2011, N. 71](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2011-02-03;71)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 3 FEBBRAIO 2011, N. 71))
 
-### Art. 78
+### Art. 75.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 3 FEBBRAIO 2011, N. 71](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2011-02-03;71)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 3 FEBBRAIO 2011, N. 71))
 
-### Art. 79
+### Art. 76.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 3 FEBBRAIO 2011, N. 71](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2011-02-03;71)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 3 FEBBRAIO 2011, N. 71))
 
-### Art. 80
+## DISPOSIZIONI PARTICOLARI
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 3 FEBBRAIO 2011, N. 71](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2011-02-03;71)))
+Capo III
 
-### Art. 81
+### Art. 77.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 3 FEBBRAIO 2011, N. 71](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2011-02-03;71)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 3 FEBBRAIO 2011, N. 71))
 
-### Art. 82
+### Art. 78.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 3 FEBBRAIO 2011, N. 71](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2011-02-03;71)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 3 FEBBRAIO 2011, N. 71))
 
-### Art. 83
+### Art. 79.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 3 FEBBRAIO 2011, N. 71](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2011-02-03;71)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 3 FEBBRAIO 2011, N. 71))
 
-### Art. 84
+### Art. 80.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 3 FEBBRAIO 2011, N. 71](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2011-02-03;71)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 3 FEBBRAIO 2011, N. 71))
 
-### Art. 85
+### Art. 81.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 3 FEBBRAIO 2011, N. 71](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2011-02-03;71)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 3 FEBBRAIO 2011, N. 71))
 
-### Art. 86
+### Art. 82.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 3 FEBBRAIO 2011, N. 71](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2011-02-03;71)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 3 FEBBRAIO 2011, N. 71))
 
-### Art. 87
+### Art. 83.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 3 FEBBRAIO 2011, N. 71](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2011-02-03;71)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 3 FEBBRAIO 2011, N. 71))
 
-### Art. 88
+### Art. 84.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 3 FEBBRAIO 2011, N. 71](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2011-02-03;71)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 3 FEBBRAIO 2011, N. 71))
 
-### Art. 89
+### Art. 85.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 3 FEBBRAIO 2011, N. 71](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2011-02-03;71)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 3 FEBBRAIO 2011, N. 71))
 
-### Art. 90
+### Art. 86.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 3 FEBBRAIO 2011, N. 71](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2011-02-03;71)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 3 FEBBRAIO 2011, N. 71))
 
-### Art. 91
+### Art. 87.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 3 FEBBRAIO 2011, N. 71](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2011-02-03;71)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 3 FEBBRAIO 2011, N. 71))
 
-CAPO XII Capo IV DIRITTI CONSOLARI
-----------------------------------
+### Art. 88.
 
-### Art. 92
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 3 FEBBRAIO 2011, N. 71))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 3 FEBBRAIO 2011, N. 71](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2011-02-03;71)))
+### Art. 89.
 
-### Art. 93
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 3 FEBBRAIO 2011, N. 71))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 3 FEBBRAIO 2011, N. 71](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2011-02-03;71)))
+### Art. 90.
 
-### Art. 94
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 3 FEBBRAIO 2011, N. 71))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 3 FEBBRAIO 2011, N. 71](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2011-02-03;71)))
+### Art. 91.
 
-CAPO XIII TITOLO IV NORME FINALI
---------------------------------
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 3 FEBBRAIO 2011, N. 71))
 
-### Art. 95
+## DIRITTI CONSOLARI
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 3 FEBBRAIO 2011, N. 71](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2011-02-03;71)))
+Capo IV
 
-### Art. 96
+### Art. 92.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 3 FEBBRAIO 2011, N. 71](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2011-02-03;71)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 3 FEBBRAIO 2011, N. 71))
 
-Tabella
+### Art. 93.
 
- Tabella   
-  
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 3 FEBBRAIO 2011, N. 71))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 3 FEBBRAIO 2011, N. 71](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2011-02-03;71)))
+### Art. 94.
+
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 3 FEBBRAIO 2011, N. 71))
+
+## NORME FINALI
+
+TITOLO IV
+
+### Art. 95.
+
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 3 FEBBRAIO 2011, N. 71))
+
+### Art. 96.
+
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 3 FEBBRAIO 2011, N. 71))

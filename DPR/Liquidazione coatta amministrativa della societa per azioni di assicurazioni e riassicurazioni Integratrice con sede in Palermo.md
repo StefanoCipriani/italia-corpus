@@ -1,24 +1,24 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 01 marzo 1974 n. 90
-
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 01 marzo 1974 n. 90
-===========================================================
-
-Liquidazione coatta amministrativa della societa' per azioni di assicurazioni e riassicurazioni "Integratrice", con sede in Palermo.
-------------------------------------------------------------------------------------------------------------------------------------
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 90
+data: 1974-03-01
+titolo: "Liquidazione coatta amministrativa della societa' per azioni di assicurazioni e riassicurazioni \"Integratrice\", con sede in Palermo."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1974-03-01;90
+codice_redazionale: 074U0090
+vigente: true
+---
 
 IL PRESIDENTE DELLA REPUBBLICA
-------------------------------
 
-Visto il testo unico delle leggi sull'esercizio delle assicurazioni private, approvato con [decreto del Presidente della Repubblica 13 febbraio 1959, n. 449](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1959-02-13;449);
+Visto il testo unico delle leggi sull'esercizio delle assicurazioni private, approvato con [decreto del Presidente della Repubblica 13 febbraio 1959, n. 449](Approvazione%20del%20testo%20unico%20delle%20leggi%20sullesercizio%20delle%20assicurazioni%20private.md);
 
-Visto il regolamento approvato con [regio decreto 4 gennaio 1925, n. 63](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1925-01-04;63), modificato con i [regi decreti 4 marzo 1926, n. 519](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-03-04;519), e [22 aprile 1940, n. 469](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-04-22;469);
+Visto il regolamento approvato con [regio decreto 4 gennaio 1925, n. 63](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20del%20regolamento%20per%20lesecuzione%20del%20R.%20decreto-legge%2029%20aprile%201923%20n.%20966%20concernente%20lesercizio%20delle%20assicurazioni%20private.%20025U0063.md), modificato con i [regi decreti 4 marzo 1926, n. 519](../Atti%20normativi%20abrogati%20%28in%20originale%29/Modificazione%20al%20regolamento%20approvato%20con%20R.%20decreto%204%20gennaio%201925%20n.%2063%20concernente%20lesercizio%20delle%20assicurazioni%20private.%20026U0519.md), e [22 aprile 1940, n. 469](../Atti%20normativi%20abrogati%20%28in%20originale%29/Modificazioni%20al%20regolamento%20sulle%20assicurazioni%20private%20approvato%20con%20R.%20decreto%204%20gennaio%201925%20n.%2063.%20040U0469.md);
 
-Visto il decreto dell'assessore per l'industria ed il commercio della Regione siciliana 18 giugno 1971, con il quale la societa' per azioni di assicurazioni e riassicurazioni "Integratrice", con sede e direzione generale a Palermo, e' stata autorizzata ad esercitare l'attivita' in diversi rami delle assicurazioni contro i danni, nell'ambito del territorio della Regione siciliana, in virtu' dell'[art. 17 del regio decreto legislativo 15 maggio 1946, n. 455](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legislativo:1946-05-15;455~art17), che ha approvato lo statuto della Regione siciliana, e dell'[art. 4 del decreto del Presidente della Repubblica 5 novembre 1949, n. 1182](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1949-11-05;1182~art4), concernente le norme di attuazione del predetto statuto nelle materie relative all'industria e al commercio;
+Visto il decreto dell'assessore per l'industria ed il commercio della Regione siciliana 18 giugno 1971, con il quale la societa' per azioni di assicurazioni e riassicurazioni "Integratrice", con sede e direzione generale a Palermo, e' stata autorizzata ad esercitare l'attivita' in diversi rami delle assicurazioni contro i danni, nell'ambito del territorio della Regione siciliana, in virtu' dell'[art. 17 del regio decreto legislativo 15 maggio 1946, n. 455](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legislativo:1946-05-15;455#art_17), che ha approvato lo statuto della Regione siciliana, e dell'[art. 4 del decreto del Presidente della Repubblica 5 novembre 1949, n. 1182](Norme%20di%20attuazione%20dello%20Statuto%20della%20Regione%20siciliana%20nelle%20materie%20relative%20allindustria%20ed%20al%20commercio.md), concernente le norme di attuazione del predetto statuto nelle materie relative all'industria e al commercio;
 
 Vista la lettera n. 659, in data 9 gennaio 1974, con la quale l'assessorato dell'industria e del commercio della Regione siciliana propone la messa in liquidazione coatta amministrativa della predetta societa' per azioni integratrice";
 
-Ritenuto, in particolare, che dall'esame degli atti trasmessi dal predetto assessorato risulta che la societa' in questione si trova sotto la gestione di un amministratore giudiziario nominato in [data 10 luglio 1973 dalla corte d'appello](https://e-justice.europa.eu/ecli/ECLI::::) di Palermo nella persona dell'avv. Nicola Piazza, per i seguenti motivi:
+Ritenuto, in particolare, che dall'esame degli atti trasmessi dal predetto assessorato risulta che la societa' in questione si trova sotto la gestione di un amministratore giudiziario nominato in data 10 luglio 1973 dalla corte d'appello di Palermo nella persona dell'avv. Nicola Piazza, per i seguenti motivi:
 
 i libri sociali sono stati tenuti irregolarmente non solo sotto l'aspetto formale, ma anche e soprattutto sotto quello sostanziale;
 
@@ -26,7 +26,7 @@ mancano vari documenti probatori e numerose inadempienze ed omissioni hanno impe
 
 il bilancio al 31 dicembre 1971 e' stato redatto da un solo amministratore e non e' stato corredato dalla relazione del consiglio di amministrazione e del collegio sindacale ne' da un minimo di documentazione che ne consentisse l'esame e le conseguenti verifiche; il collegio dei sindaci non e' stato in grado di esercitare il controllo sulla societa' in quanto non ha mai potuto disporre della documentazione necessaria;
 
-un amministratore appartenente al gruppo di maggioranza dell'azionariato, e' rimasto in carica anche dopo aver rinunziato all'ufficio, contro il disposto dell'[art. 2385 del codice civile](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art2385);
+un amministratore appartenente al gruppo di maggioranza dell'azionariato, e' rimasto in carica anche dopo aver rinunziato all'ufficio, contro il disposto dell'[art. 2385 del codice civile](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262#art_2385);
 
 Ritenuto che dalla citata lettera n. 659 dell'assessorato risulta altresi' che la societa' per azioni "Integratrice":
 
@@ -36,7 +36,7 @@ ha fornito giustificazioni solo su alcuni dei numerosi esposti pervenuti circa i
 
 non ha rispettato i limiti territoriali previsti dal decreto di autorizzazione che limitava l'attivita' al territorio della Regione siciliana e cio' per i rapporti instaurati con una societa' di mutuo soccorso denominata anch'essa "Integratrice" con la quale avrebbe stipulato un particolare contratto ripetutamente richiesto e mai esibito all'assessorato;
 
-non ha provveduto a versare il contributo dovuto al "Fondo di garanzia per le vittime della strada" e ad immettere la quota di spettanza nel fondo consortile, previsti dalla [legge 24 dicembre 1969, n. 990](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1969-12-24;990);
+non ha provveduto a versare il contributo dovuto al "Fondo di garanzia per le vittime della strada" e ad immettere la quota di spettanza nel fondo consortile, previsti dalla [legge 24 dicembre 1969, n. 990](../Atti%20normativi%20abrogati%20%28in%20originale%29/Assicurazione%20obbligatoria%20della%20responsabilita%20civile%20derivante%20dalla%20circolazione%20dei%20veicoli%20a%20motore%20e%20dei%20natanti.md);
 
 non ha provveduto, a norma dell'art. 40 del testo unico sull'esercizio delle assicurazioni, ad integrare la cauzione costituita inizialmente a favore degli assicurati;
 
@@ -64,39 +64,22 @@ Visti la lettera n. 68/1434.11, in data 7 gennaio 1974, dell'ufficio legislativo
 
 Sentita la commissione consultiva per le assicurazioni private, la quale nell'adunanza del 7 febbraio 1974 ha espresso parere favorevole alla messa in liquidazione coatta della societa' di cui trattasi;
 
-Sulla
------
+Sulla proposta del Ministro per l'industria, il commercio e l'artigianato; Decreta:
 
-proposta del Ministro per l'industria, il commercio e l'artigianato; Decreta:
+## Art. 1.
 
-Art. 1
-------
+La societa' per azioni di assicurazioni e riassicurazioni "Integratrice", con sede e direzione generale a Palermo, ai sensi e agli effetti dell'art. 72 del testo unico per l'esercizio delle assicurazioni private, approvato con [decreto del Presidente della Repubblica 13 febbraio 1959, n. 449](Approvazione%20del%20testo%20unico%20delle%20leggi%20sullesercizio%20delle%20assicurazioni%20private.md), e' posta in liquidazione coatta amministrativa e ne e' nominato commissario liquidatore l'avv. Nicola Piazza.
 
-  
-La societa' per azioni di assicurazioni e riassicurazioni "Integratrice", con sede e direzione generale a Palermo, ai sensi e agli effetti dell'art. 72 del testo unico per l'esercizio delle assicurazioni private, approvato con [decreto del Presidente della Repubblica 13 febbraio 1959, n. 449](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1959-02-13;449), e' posta in liquidazione coatta amministrativa e ne e' nominato commissario liquidatore l'avv. Nicola Piazza.  
+## Art. 2.
 
-Art. 2
-------
+Il commissario liquidatore potra' provvedere con apposita convenzione e salva l'applicazione del terzo comma dell'art. 83 del citato testo unico, al trasferimento di ufficio del portafoglio assicurativo della societa' per azioni "Integratrice" ai sensi e con le modalita' previste dall'art. 88 dello stesso testo unico.
 
-  
-Il commissario liquidatore potra' provvedere con apposita convenzione e salva l'applicazione del terzo comma dell'art. 83 del citato testo unico, al trasferimento di ufficio del portafoglio assicurativo della societa' per azioni "Integratrice" ai sensi e con le modalita' previste dall'art. 88 dello stesso testo unico.  
+## Art. 3.
 
-Art. 3
-------
-
-  
-Al commissario liquidatore spetta, a carico della liquidazione, oltre al rimborso delle spese, un compenso la cui misura sara' stabilita con successivo decreto.  
-  
+Al commissario liquidatore spetta, a carico della liquidazione, oltre al rimborso delle spese, un compenso la cui misura sara' stabilita con successivo decreto.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 1 marzo 1974
+Dato a Roma, addi' 1 marzo 1974
 
-LEONE DE MITA
-
-Visto, il Guardasigilli: ZAGARI
-
-Registrato alla Corte dei conti, addi' 3 aprile 1974
-
-Atti di Governo, registro n. 2, foglio n. 69. - SCIARRETTA
+LEONE DE MITA Visto, il Guardasigilli: ZAGARI Registrato alla Corte dei conti, addi' 3 aprile 1974 Atti di Governo, registro n. 2, foglio n. 69. - SCIARRETTA

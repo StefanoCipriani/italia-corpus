@@ -1,172 +1,166 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 12 dicembre 1948 n. 1414
-
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 12 dicembre 1948 n. 1414
-================================================================
-
-Norme di attuazione dello Statuto speciale per il Trentino-Alto Adige.
-----------------------------------------------------------------------
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 1414
+data: 1948-12-12
+titolo: "Norme di attuazione dello Statuto speciale per il Trentino-Alto Adige."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1948-12-12;1414
+codice_redazionale: 048U1414
+vigente: true
+---
 
 IL PRESIDENTE DELLA REPUBBLICA.
--------------------------------
 
-Visto l'[art. 87 della Costituzione](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27~art87);
+Visto l'[art. 87 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87);
 
-Visto l'[art. 95 della legge costituzionale 26 febbraio 1948, n. 5](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge.costituzionale:1948-02-26;5~art95);
+Visto l'[art. 95 della legge costituzionale 26 febbraio 1948, n. 5](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge.costituzionale:1948-02-26;5#art_95);
 
 Sentito il Consiglio dei Ministri;
 
-Sulla
------
+Sulla proposta del Presidente del Consiglio dei Ministri, di concerto con i Ministri per l'interno, per le finanze e per il tesoro; Decreta:
 
-proposta del Presidente del Consiglio dei Ministri, di concerto con i Ministri per l'interno, per le finanze e per il tesoro; Decreta:
+## Degli organi della Regione.
 
-CAPO I TITOLO I Degli organi della Regione.
--------------------------------------------
+TITOLO I
 
-### Art. 1
+### Art. 1.
 
-((ARTICOLO ABROGATO DAL [D.P.R. 1 FEBBRAIO 1973, N. 49](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1973-02-01;49)))
+((ARTICOLO ABROGATO DAL D.P.R. 1 FEBBRAIO 1973, N. 49))
 
-### Art. 2
+### Art. 2.
 
-((ARTICOLO ABROGATO DAL [D.P.R. 1 FEBBRAIO 1973, N. 49](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1973-02-01;49)))
+((ARTICOLO ABROGATO DAL D.P.R. 1 FEBBRAIO 1973, N. 49))
 
-### Art. 3
+### Art. 3.
 
-((ARTICOLO ABROGATO DAL [D.P.R. 1 FEBBRAIO 1973, N. 49](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1973-02-01;49)))
+((ARTICOLO ABROGATO DAL D.P.R. 1 FEBBRAIO 1973, N. 49))
 
-### Art. 4
+### Art. 4.
 
-((ARTICOLO ABROGATO DAL [D.P.R. 1 FEBBRAIO 1973, N. 49](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1973-02-01;49)))
+((ARTICOLO ABROGATO DAL D.P.R. 1 FEBBRAIO 1973, N. 49))
 
-### Art. 5
+### Art. 5.
 
-((ARTICOLO ABROGATO DAL [D.P.R. 1 FEBBRAIO 1973, N. 49](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1973-02-01;49)))
+((ARTICOLO ABROGATO DAL D.P.R. 1 FEBBRAIO 1973, N. 49))
 
-### Art. 6
+### Art. 6.
 
-((ARTICOLO ABROGATO DAL [D.P.R. 1 FEBBRAIO 1973, N. 49](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1973-02-01;49)))
+((ARTICOLO ABROGATO DAL D.P.R. 1 FEBBRAIO 1973, N. 49))
 
-### Art. 7
+### Art. 7.
 
-((ARTICOLO ABROGATO DAL [D.P.R. 1 FEBBRAIO 1973, N. 49](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1973-02-01;49)))
+((ARTICOLO ABROGATO DAL D.P.R. 1 FEBBRAIO 1973, N. 49))
 
-### Art. 8
+### Art. 8.
 
-((ARTICOLO ABROGATO DAL [D.P.R. 1 FEBBRAIO 1973, N. 49](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1973-02-01;49)))
+((ARTICOLO ABROGATO DAL D.P.R. 1 FEBBRAIO 1973, N. 49))
 
-### Art. 9
+### Art. 9.
 
-((ARTICOLO ABROGATO DAL [D.P.R. 1 FEBBRAIO 1973, N. 49](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1973-02-01;49)))
+((ARTICOLO ABROGATO DAL D.P.R. 1 FEBBRAIO 1973, N. 49))
 
-### Art. 10
+### Art. 10.
 
-((ARTICOLO ABROGATO DAL [D.P.R. 1 FEBBRAIO 1973, N. 49](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1973-02-01;49)))
+((ARTICOLO ABROGATO DAL D.P.R. 1 FEBBRAIO 1973, N. 49))
 
-CAPO II TITOLO II Degli organi della Provincia.
------------------------------------------------
+## Degli organi della Provincia.
 
-### Art. 11
+TITOLO II
 
-((ARTICOLO ABROGATO DAL [D.P.R. 1 FEBBRAIO 1973, N. 49](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1973-02-01;49)))
+### Art. 11.
 
-### Art. 12
+((ARTICOLO ABROGATO DAL D.P.R. 1 FEBBRAIO 1973, N. 49))
 
-  
-Qualora il presidente della Giunta provinciale ometta di prendere i provvedimenti previsti dal [secondo comma dell'art. 46 della legge costituzionale 26 febbraio 1948, n. 5](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge.costituzionale:1948-02-26;5~art46-com2), la facolta' di prendere i provvedimenti stessi spetta al Commissario del Governo.  
-In caso di inadempienza del sindaco, provvede il presidente della Giunta provinciale.  
+### Art. 12.
 
-CAPO III TITOLO III Delle leggi e dei regolamenti regionali e provinciali.
---------------------------------------------------------------------------
+Qualora il presidente della Giunta provinciale ometta di prendere i provvedimenti previsti dal [secondo comma dell'art. 46 della legge costituzionale 26 febbraio 1948, n. 5](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge.costituzionale:1948-02-26;5#art_46-com2), la facolta' di prendere i provvedimenti stessi spetta al Commissario del Governo.
+ In caso di inadempienza del sindaco, provvede il presidente della Giunta provinciale.
 
-### Art. 13
+## Delle leggi e dei regolamenti regionali e provinciali.
 
-((ARTICOLO ABROGATO DAL [D.P.R. 1 FEBBRAIO 1973, N. 49](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1973-02-01;49)))
+TITOLO III
 
-### Art. 14
+### Art. 13.
 
-((ARTICOLO ABROGATO DAL [D.P.R. 1 FEBBRAIO 1973, N. 49](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1973-02-01;49)))
+((ARTICOLO ABROGATO DAL D.P.R. 1 FEBBRAIO 1973, N. 49))
 
-### Art. 15
+### Art. 14.
 
-((ARTICOLO ABROGATO DAL [D.P.R. 1 FEBBRAIO 1973, N. 49](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1973-02-01;49)))
+((ARTICOLO ABROGATO DAL D.P.R. 1 FEBBRAIO 1973, N. 49))
 
-CAPO IV TITOLO IV Detta rappresentanza del Governo nella regione.
------------------------------------------------------------------
+### Art. 15.
 
-### Art. 16
+((ARTICOLO ABROGATO DAL D.P.R. 1 FEBBRAIO 1973, N. 49))
 
-((ARTICOLO ABROGATO DAL [D.P.R. 1 FEBBRAIO 1973, N. 49](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1973-02-01;49)))
+## Detta rappresentanza del Governo nella regione.
 
-### Art. 17
+TITOLO IV
 
-((ARTICOLO ABROGATO DAL [D.P.R. 1 FEBBRAIO 1973, N. 49](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1973-02-01;49)))
+### Art. 16.
 
-### Art. 18
+((ARTICOLO ABROGATO DAL D.P.R. 1 FEBBRAIO 1973, N. 49))
 
-((ARTICOLO ABROGATO DAL [D.P.R. 1 FEBBRAIO 1973, N. 49](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1973-02-01;49)))
+### Art. 17.
 
-### Art. 19
+((ARTICOLO ABROGATO DAL D.P.R. 1 FEBBRAIO 1973, N. 49))
 
-((ARTICOLO ABROGATO DAL [D.P.R. 1 FEBBRAIO 1973, N. 49](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1973-02-01;49)))
+### Art. 18.
 
-### Art. 20
+((ARTICOLO ABROGATO DAL D.P.R. 1 FEBBRAIO 1973, N. 49))
 
-((ARTICOLO ABROGATO DAL [D.P.R. 1 FEBBRAIO 1973, N. 49](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1973-02-01;49)))
+### Art. 19.
 
-### Art. 21
+((ARTICOLO ABROGATO DAL D.P.R. 1 FEBBRAIO 1973, N. 49))
 
-((ARTICOLO ABROGATO DAL [D.P.R. 1 FEBBRAIO 1973, N. 49](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1973-02-01;49)))
+### Art. 20.
 
-### Art. 22
+((ARTICOLO ABROGATO DAL D.P.R. 1 FEBBRAIO 1973, N. 49))
 
-((ARTICOLO ABROGATO DAL [D.P.R. 1 FEBBRAIO 1973, N. 49](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1973-02-01;49)))
+### Art. 21.
 
-CAPO V TITOLO V Disposizioni transitorie.
------------------------------------------
+((ARTICOLO ABROGATO DAL D.P.R. 1 FEBBRAIO 1973, N. 49))
 
-### Art. 23
+### Art. 22.
 
-((ARTICOLO ABROGATO DAL [D.P.R. 1 FEBBRAIO 1973, N. 49](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1973-02-01;49)))
+((ARTICOLO ABROGATO DAL D.P.R. 1 FEBBRAIO 1973, N. 49))
 
-### Art. 24
+## Disposizioni transitorie.
 
-((ARTICOLO ABROGATO DAL [D.P.R. 1 FEBBRAIO 1973, N. 49](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1973-02-01;49)))
+TITOLO V
 
-### Art. 25
+### Art. 23.
 
-((ARTICOLO ABROGATO DAL [D.P.R. 1 FEBBRAIO 1973, N. 49](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1973-02-01;49)))
+((ARTICOLO ABROGATO DAL D.P.R. 1 FEBBRAIO 1973, N. 49))
 
-### Art. 26
+### Art. 24.
 
-((ARTICOLO ABROGATO DAL [D.P.R. 1 FEBBRAIO 1973, N. 49](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1973-02-01;49)))
+((ARTICOLO ABROGATO DAL D.P.R. 1 FEBBRAIO 1973, N. 49))
 
-### Art. 27
+### Art. 25.
 
-((ARTICOLO ABROGATO DAL [D.P.R. 1 FEBBRAIO 1973, N. 49](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1973-02-01;49)))
+((ARTICOLO ABROGATO DAL D.P.R. 1 FEBBRAIO 1973, N. 49))
 
-### Art. 28
+### Art. 26.
 
-((ARTICOLO ABROGATO DAL [D.P.R. 1 FEBBRAIO 1973, N. 49](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1973-02-01;49)))
+((ARTICOLO ABROGATO DAL D.P.R. 1 FEBBRAIO 1973, N. 49))
 
-### Art. 29
+### Art. 27.
 
-((ARTICOLO ABROGATO DAL [D.P.R. 1 FEBBRAIO 1973, N. 49](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1973-02-01;49)))
+((ARTICOLO ABROGATO DAL D.P.R. 1 FEBBRAIO 1973, N. 49))
 
-### Art. 30
+### Art. 28.
 
-((ARTICOLO ABROGATO DAL [D.P.R. 1 FEBBRAIO 1973, N. 49](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1973-02-01;49)))
+((ARTICOLO ABROGATO DAL D.P.R. 1 FEBBRAIO 1973, N. 49))
+
+### Art. 29.
+
+((ARTICOLO ABROGATO DAL D.P.R. 1 FEBBRAIO 1973, N. 49))
+
+### Art. 30.
+
+((ARTICOLO ABROGATO DAL D.P.R. 1 FEBBRAIO 1973, N. 49))
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 12 dicembre 1948
+Dato a Roma, addi' 12 dicembre 1948
 
-EINAUDI DE GASPERI SCELBA VANONI - PELLA
-
-Visto, il Guardasigilli: GRASSI
-
-Registrato alla Corte del conti, addi' 13 dicembre 1948
-
-Atti del Governo, registro n. 25, foglio n. 83. - FRASCA
+EINAUDI DE GASPERI SCELBA VANONI - PELLA Visto, il Guardasigilli: GRASSI Registrato alla Corte del conti, addi' 13 dicembre 1948 Atti del Governo, registro n. 25, foglio n. 83. - FRASCA

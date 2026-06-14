@@ -1,19 +1,21 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 06 dicembre 1968 n. 1454
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 1454
+data: 1968-12-06
+titolo: "Riconoscimento della personalita' giuridica della fondazione \"Giovanni Rava\", in Serravalle Sesia."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1968-12-06;1454
+codice_redazionale: 068U1454
+vigente: true
+---
 
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 06 dicembre 1968 n. 1454
-================================================================
-
-Riconoscimento della personalita' giuridica della fondazione "Giovanni Rava", in Serravalle Sesia.
---------------------------------------------------------------------------------------------------
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-1454. Decreto del Presidente della Repubblica 6 dicembre 1968, col quale, sulla proposta del Ministro per la pubblica istruzione, viene riconosciuta la personalita' giuridica ed approvato lo statuto della fondazione "Giovanni Rava", in Serravalle Sesia.  
-  
-Visto, il Guardasigilli: GAVA  
-Registrato alla Corte dei Conti, addi' 28 febbraio 1969  
-Atti del Governo, registro n. 225, foglio n. 101. - GRECO
+1454.
+
+Decreto del Presidente della Repubblica 6 dicembre 1968, col quale, sulla proposta del Ministro per la pubblica istruzione, viene riconosciuta la personalita' giuridica ed approvato lo statuto della fondazione "Giovanni Rava", in Serravalle Sesia.
+
+Visto, il Guardasigilli: GAVA
+ Registrato alla Corte dei Conti, addi' 28 febbraio 1969
+ Atti del Governo, registro n. 225, foglio n. 101. - GRECO

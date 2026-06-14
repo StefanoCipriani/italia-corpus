@@ -1,20 +1,22 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 16 luglio 1985 n. 619
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 552
+data: 1985-07-16
+titolo: "Autorizzazione alla fondazione \"Pro juventute don Carlo Gnocchi\", in Roma, ad accettare un legato."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1985-07-16;552
+codice_redazionale: 085U0552
+vigente: true
+---
 
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 16 luglio 1985 n. 619
-=============================================================
-
-Autorizzazione alla fondazione "Pro juventute don Carlo Gnocchi", in Roma, ad accettare un legato.
---------------------------------------------------------------------------------------------------
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-619. Decreto del Presidente della Repubblica 16 luglio 1985, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la fondazione "Pro juventute don Carlo Gnocchi", in Roma, viene autorizzata ad accettare il legato, consistente in un appartamento sito in Parma, viale Rustici n. 42, distinto nel nuovo catasto edilizio urbano alla partita 5217, foglio 17, mappale 170 sub. 6, valore attribuito con perizia di parte L. 33.000.000 elevato dall'ufficio tecnico erariale di Parma a L. 39.000.000, disposto dalla sig.ra Giuseppina Carpi a favore dell'istituto don Gnocchi, via Saffi (che si identifica con la fondazione "Pro juventute don Carlo Gnocchi", come si evince dal verbale del consiglio di amministrazione della fondazione medesima in data 20 novembre 1981), con testamento olografo 25 agosto 1980, pubblicato in data 20 giugno 1981, n. 97910/11356 di repertorio, a rogito dott.  
-Giuseppe Marchi, notaio in Parma, registrato a Parma in data 1 luglio 1981 al n. 4813.   
-  
-Visto, il Guardasigilli: MARTINAZZOLI   
-Registrato alla Corte dei conti, addi' 25 ottobre 1985   
-Registro n. 9 Presidenza, foglio n. 215
+552.
+
+Decreto del Presidente della Repubblica 16 luglio 1985, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la fondazione "Pro juventute don Carlo Gnocchi", in Roma, viene autorizzata ad accettare il legato, consistente nella quota di 1/3 della nuda proprieta' di titoli di Stato (buoni ordinari del Tesoro) valore nominale L. 85.000.000 quota 1/3 L. 28.333.333, disposta dalla sig.ra Montanari Giuseppina Marietta Rosalinda a favore dello istituito "Don Gnocchi" di Milano, che si identifica con la fondazione "Pro juventute don Carlo Gnocchi", come si evince dal verbale 20 novembre 1982 del consiglio di amministrazione della fondazione stessa, per l'acquisto di qualche apparecchiatura scientifica per alleviare le pene dei suoi beneficiati, con testamento olografo 17 aprile 1982 e pubblicato in data 22 giugno 1982, n. 12664 di repertorio e n. 4005 di raccolta, a rogito dott.
+ Vittorio Morandi, notaio in Alessandria, registrato ad Alessandria il 12 luglio 1982 al n. 3119. 
+ 
+Visto, il Guardasigilli: MARTINAZZOLI 
+ Registrato alla Corte dei conti, addi' 11 ottobre 1985 
+ Registro n. 9 Presidenza, foglio n. 69

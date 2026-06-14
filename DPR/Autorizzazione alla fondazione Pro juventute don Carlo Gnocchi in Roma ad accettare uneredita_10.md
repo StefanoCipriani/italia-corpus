@@ -1,21 +1,21 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 22 novembre 1977 n. 995
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 418
+data: 1977-06-06
+titolo: "Autorizzazione alla fondazione \"Pro juventute don Carlo Gnocchi\", in Roma, ad accettare un'eredita'."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1977-06-06;418
+codice_redazionale: 077U0418
+vigente: true
+---
 
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 22 novembre 1977 n. 995
-===============================================================
-
-Autorizzazione alla fondazione "Pro juventute don Carlo Gnocchi", in Roma, ad accettare un'eredita'.
-----------------------------------------------------------------------------------------------------
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-995. Decreto del Presidente della Repubblica 22 novembre 1977, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la fondazione "Pro juventute don Carlo Gnocchi", in Roma, viene autorizzata ad accettare, col beneficio d'inventario, l'eredita' disposta dalla sig.ra Angiolini Maria ved. Caldara con testamento olografo 2 marzo 1968, pubblicato a rogito dott. Moretti Domenico, notaio in Milano, il 22 novembre 1974, n. 112634/22756 di repertorio, registrato a Milano il 3 dicembre 1974 al n. 20322, serie D, consistente: in un immobile sito in Genova-Quinto, via Marussig 31/16, riportato nel nuovo catasto edilizio urbano alla partita 98979 foglio 3, mapp.  
-584 sul 32, piano 2°, zona VI, cat. A/3, classe 5, ed in beni mobili, titoli, obbligazioni, conti correnti, suppellettili e mobili d'arredamento ecc., il tutto per un valore di L. 16.388.692, come rilevato dalla perizia di stima 10 maggio 1976 del geom.  
-Roberto Oldini e dagli inventari redatti dal notaio Sansone in data 16 luglio 1975, n. 6913/165 di repertorio, 21 luglio 1975, n. 7013/165 di repertorio e 6 agosto 1975, n. 7205/165 di repertorio.  
-  
-Visto, il Guardasigilli: BONIFACIO  
-Registrato alla Corte dei conti, addi' 6 gennaio 1978  
-Registro n. 1 Presidenza, foglio n. 5
+418.
+
+Decreto del Presidente della Repubblica 6 giugno 1977, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la fondazione "Pro juventute don Carlo Gnocchi", in Roma, viene autorizzata ad accettare, col beneficio d'inventario, l'eredita' disposta dalla sig.ra Prina Pierina, in favore dell'istituto don Gnocchi, che si identifica con la fondazione "Pro juventute don Carlo Gnocchi", con testamento olografo 10 novembre 1965, pubblicato a rogito del notaio dott. Carlo Locatelli di Milano in data 17 ottobre 1974, n. 38595 di repertorio e n. 9564 di raccolta, registrato a Milano il 5 novembre 1974 al n. 16578, serie B, consistente nella somma di lire 8.145.684.
+
+Visto, il Guardasigilli: BONIFACIO
+ Registrato alla Corte dei conti, addi' 15 luglio 1977
+ Registro n. 6 Presidenza, foglio n. 250

@@ -1,19 +1,21 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 ottobre 1982 n. 921
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 414
+data: 1982-05-14
+titolo: "Autorizzazione alla fondazione \"Pro juventute don Carlo Gnocchi\", in Roma, ad accettare una donazione."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1982-05-14;414
+codice_redazionale: 082U0414
+vigente: true
+---
 
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 ottobre 1982 n. 921
-==============================================================
-
-Autorizzazione alla fondazione "Pro juventute don Carlo Gnocchi", in Roma, ad accettare una donazione.
-------------------------------------------------------------------------------------------------------
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-921. Decreto del Presidente della Repubblica 28 ottobre 1982, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la fondazione "Pro juventute don Carlo Gnocchi", in Roma, viene autorizzata ad accettare la donazione, consistente nella nuda proprieta' di un appartamento sito in Milano, via Clusone, 1, censito al nuovo catasto edilizio urbano alla partita 268961, foglio 440, particella 395, sub 34, del valore attribuito di L. 3.500.000, ritenuto congruo dall'ufficio tecnico erariale di Milano, disposta dalla sig.na Ermida Maino con atto 11 gennaio 1980, n. 2943/529 di repertorio, a rogito dott. Ulderico Brambilla, notaio in Milano e registrato a Milano in data 29 gennaio 1980 al n. 1986.  
-  
-Visto, il Guardasigilli: DARIDA  
-Registrato alla Corte dei conti, addi' 11 dicembre 1982  
-Registro n. 11 Presidenza, foglio n. 181
+414.
+
+Decreto del Presidente della Repubblica 14 maggio 1982, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la fondazione "Pro juventute don Carlo Gnocchi", in Roma, viene autorizzata ad accettare la donazione, disposta dalla sig.ra Marani Oresta ved. Lotterio, con atto redatto dal notaio dott. Cesare Gallavresi di Milano in data 23 gennaio 1979, n. 67475/22839 di repertorio, registrato a Milano il 26 gennaio 1979 al n. A/ 2396, consistente in un fabbricato urbano sito in Brissago Valtravaglia, via Piave n. 5 censito nel nuovo catasto edilizio urbano alla partita 251 foglio 6 mappale 512 e circostante terreno censito nel nuovo catasto terreni alla partita 832, foglio 6, mappale 265 di Ha. 0.33.70, del valore attribuito dal perito di parte di L. 27.000.000 ritenuto congruo dall'ufficio tecnico erariale di Varese.
+
+Visto, il Guardasigilli: DARIDA
+ Registrato alla Corte dei conti, addi' 30 giugno 1982
+ Registro n. 6 Presidenza, foglio n. 68

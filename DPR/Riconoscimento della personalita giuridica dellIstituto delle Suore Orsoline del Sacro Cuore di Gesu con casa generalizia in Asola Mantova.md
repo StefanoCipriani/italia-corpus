@@ -1,18 +1,20 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 22 gennaio 1948 n. 746
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 746
+data: 1948-01-22
+titolo: "Riconoscimento della personalita' giuridica dell'Istituto delle Suore Orsoline del Sacro Cuore di Gesu', con casa generalizia in Asola (Mantova)."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1948-01-22;746
+codice_redazionale: 048U0746
+vigente: true
+---
 
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 22 gennaio 1948 n. 746
-==============================================================
-
-Riconoscimento della personalita' giuridica dell'Istituto delle Suore Orsoline del Sacro Cuore di Gesu', con casa generalizia in Asola (Mantova).
--------------------------------------------------------------------------------------------------------------------------------------------------
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-746. Decreto del Presidente della Repubblica 22 gennaio 1948, col quale, sulla proposta del Ministro per l'interno, viene riconosciuta la personalita' giuridica dell'Istituto delle Suore Orsoline del Sacro Cuore di Gesu', con casa generalizia in Asola (Mantova).  
-  
-Visto, il Guardasigilli: GRASSI  
-Registrato alla Corte dei conti, addi' 1 giugno 1948
+746.
+
+Decreto del Presidente della Repubblica 22 gennaio 1948, col quale, sulla proposta del Ministro per l'interno, viene riconosciuta la personalita' giuridica dell'Istituto delle Suore Orsoline del Sacro Cuore di Gesu', con casa generalizia in Asola (Mantova).
+
+Visto, il Guardasigilli: GRASSI
+ Registrato alla Corte dei conti, addi' 1 giugno 1948

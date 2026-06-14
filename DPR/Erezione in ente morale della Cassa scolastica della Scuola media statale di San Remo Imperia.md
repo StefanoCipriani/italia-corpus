@@ -1,19 +1,21 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 08 novembre 1957 n. 1400
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 1400
+data: 1957-11-08
+titolo: "Erezione in ente morale della Cassa scolastica della Scuola media statale di San Remo (Imperia)."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1957-11-08;1400
+codice_redazionale: 057U1400
+vigente: true
+---
 
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 08 novembre 1957 n. 1400
-================================================================
-
-Erezione in ente morale della Cassa scolastica della Scuola media statale di San Remo (Imperia).
-------------------------------------------------------------------------------------------------
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-1400. Decreto del Presidente della Repubblica 8 novembre 1957, col quale, sulla proposta del Ministro per la pubblica istruzione, la Cassa scolastica della Scuola media statale di San Remo (Imperia) viene eretta in ente morale e ne viene approvato lo statuto.  
-  
-Visto, il Guardasigilli: GONELLA  
-Registrato alla Corte dei conti, addi' 20 febbraio 1958  
-Atti del Governo, registro n. 111, foglio n. 69. - RELLEVA
+1400.
+
+Decreto del Presidente della Repubblica 8 novembre 1957, col quale, sulla proposta del Ministro per la pubblica istruzione, la Cassa scolastica della Scuola media statale di San Remo (Imperia) viene eretta in ente morale e ne viene approvato lo statuto.
+
+Visto, il Guardasigilli: GONELLA
+ Registrato alla Corte dei conti, addi' 20 febbraio 1958
+ Atti del Governo, registro n. 111, foglio n. 69. - RELLEVA

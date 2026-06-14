@@ -1,19 +1,21 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 20 aprile 1960 n. 781
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 781
+data: 1960-04-20
+titolo: "Erezione in ente morale dell'Asilo infantile \"Lorenzo e Giovanni Graziani\", con sede in Montecilfone (Campobasso)."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1960-04-20;781
+codice_redazionale: 060U0781
+vigente: true
+---
 
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 20 aprile 1960 n. 781
-=============================================================
-
-Erezione in ente morale dell'Asilo infantile "Lorenzo e Giovanni Graziani", con sede in Montecilfone (Campobasso).
-------------------------------------------------------------------------------------------------------------------
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-781. Decreto del Presidente della Repubblica 20 aprile 1960, col quale, sulla proposta del Ministro per l'interno, l'Asilo infantile "Lorenzo e Giovanni Graziani", con sede in Montecilfone (Campobasso) viene eretto in ente morale e ne viene approvato il relativo statuto organico.  
-  
-Visto, il Guardasigilli: GONELLA  
-Registrato alla Corte dei conti, addi' 1 agosto 1960  
-Atti del Governo, registro n. 128, foglio n. 107. - VILLA
+781.
+
+Decreto del Presidente della Repubblica 20 aprile 1960, col quale, sulla proposta del Ministro per l'interno, l'Asilo infantile "Lorenzo e Giovanni Graziani", con sede in Montecilfone (Campobasso) viene eretto in ente morale e ne viene approvato il relativo statuto organico.
+
+Visto, il Guardasigilli: GONELLA
+ Registrato alla Corte dei conti, addi' 1 agosto 1960
+ Atti del Governo, registro n. 128, foglio n. 107. - VILLA

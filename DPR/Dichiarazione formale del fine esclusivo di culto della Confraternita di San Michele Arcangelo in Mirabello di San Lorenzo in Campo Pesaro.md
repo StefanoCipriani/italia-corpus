@@ -1,19 +1,21 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 07 giugno 1956 n. 834
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 834
+data: 1956-06-07
+titolo: "Dichiarazione formale del fine esclusivo di culto della Confraternita di San Michele Arcangelo, in Mirabello di San Lorenzo in Campo (Pesaro)."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1956-06-07;834
+codice_redazionale: 056U0834
+vigente: true
+---
 
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 07 giugno 1956 n. 834
-=============================================================
-
-Dichiarazione formale del fine esclusivo di culto della Confraternita di San Michele Arcangelo, in Mirabello di San Lorenzo in Campo (Pesaro).
-----------------------------------------------------------------------------------------------------------------------------------------------
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-834. Decreto del Presidente della Repubblica 7 giugno 1956, col quale, sulla proposta del Ministro per l'interno, viene provveduto alla dichiarazione formale del fine esclusivo di culto della Confraternita di San Michele Arcangelo, in Mirabello di San Lorenzo in Campo (Pesaro).  
-  
-Visto, il Guardasigilli: MORO  
-Registrato alla Corte dei conti, addi' 26 luglio 1956  
-Atti del Governo, registro n. 99, foglio n. 141. - CARLOMAGNO
+834.
+
+Decreto del Presidente della Repubblica 7 giugno 1956, col quale, sulla proposta del Ministro per l'interno, viene provveduto alla dichiarazione formale del fine esclusivo di culto della Confraternita di San Michele Arcangelo, in Mirabello di San Lorenzo in Campo (Pesaro).
+
+Visto, il Guardasigilli: MORO
+ Registrato alla Corte dei conti, addi' 26 luglio 1956
+ Atti del Governo, registro n. 99, foglio n. 141. - CARLOMAGNO

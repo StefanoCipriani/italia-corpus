@@ -1,19 +1,21 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 19 febbraio 1960 n. 300
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 300
+data: 1960-02-19
+titolo: "Erezione in ente morale della Cassa scolastica dell'Istituto tecnico commerciale di Thiene."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1960-02-19;300
+codice_redazionale: 060U0300
+vigente: true
+---
 
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 19 febbraio 1960 n. 300
-===============================================================
-
-Erezione in ente morale della Cassa scolastica dell'Istituto tecnico commerciale di Thiene.
--------------------------------------------------------------------------------------------
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-300. Decreto del Presidente della Repubblica 19 gennaio 1960, col quale, sulla proposta del Ministro per la pubblica istruzione la Cassa scolastica dell'Istituto tecnico commerciale di Thiene viene eretta in ente morale e ne viene approvato lo statuto.  
-  
-Visto, il Guardasigilli: GONELLA  
-Registrato alla Corte dei conti, addi' 8 aprile 1960  
-Atti del Governo, registro n. 125, foglio n. 181. - VILLA
+300.
+
+Decreto del Presidente della Repubblica 19 gennaio 1960, col quale, sulla proposta del Ministro per la pubblica istruzione la Cassa scolastica dell'Istituto tecnico commerciale di Thiene viene eretta in ente morale e ne viene approvato lo statuto.
+
+Visto, il Guardasigilli: GONELLA
+ Registrato alla Corte dei conti, addi' 8 aprile 1960
+ Atti del Governo, registro n. 125, foglio n. 181. - VILLA

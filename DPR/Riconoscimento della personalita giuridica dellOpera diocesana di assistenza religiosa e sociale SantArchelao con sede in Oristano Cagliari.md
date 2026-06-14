@@ -1,19 +1,21 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 20 maggio 1966 n. 484
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 484
+data: 1966-05-20
+titolo: "Riconoscimento della personalita' giuridica dell'Opera diocesana di assistenza religiosa e sociale \"Sant'Archelao\", con sede in Oristano (Cagliari)."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1966-05-20;484
+codice_redazionale: 066U0484
+vigente: true
+---
 
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 20 maggio 1966 n. 484
-=============================================================
-
-Riconoscimento della personalita' giuridica dell'Opera diocesana di assistenza religiosa e sociale "Sant'Archelao", con sede in Oristano (Cagliari).
-----------------------------------------------------------------------------------------------------------------------------------------------------
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-484. Decreto del Presidente della Repubblica 20 maggio 1966, col quale, sulla proposta del Ministro per l'interno, viene riconosciuta la personalita' giuridica dell'Opera diocesana di assistenza religiosa e sociale "Sant'Archelao", con sede in Oristano (Cagliari), e ne viene approvato lo statuto.  
-  
-Visto, il Guardasigilli: REALE  
-Registrato alla Corte dei conti, addi' 30 giugno 1966  
-Atti del Governo, registro n. 204, foglio n. 3. - DI PRETORO
+484.
+
+Decreto del Presidente della Repubblica 20 maggio 1966, col quale, sulla proposta del Ministro per l'interno, viene riconosciuta la personalita' giuridica dell'Opera diocesana di assistenza religiosa e sociale "Sant'Archelao", con sede in Oristano (Cagliari), e ne viene approvato lo statuto.
+
+Visto, il Guardasigilli: REALE
+ Registrato alla Corte dei conti, addi' 30 giugno 1966
+ Atti del Governo, registro n. 204, foglio n. 3. - DI PRETORO

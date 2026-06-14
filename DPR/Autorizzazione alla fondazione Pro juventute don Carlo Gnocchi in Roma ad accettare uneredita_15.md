@@ -1,19 +1,21 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 16 dicembre 1986 n. 982
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 980
+data: 1986-12-03
+titolo: "Autorizzazione alla fondazione \"Pro juventute don Carlo Gnocchi\", in Roma, ad accettare un'eredita'."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1986-12-03;980
+codice_redazionale: 086U0980
+vigente: true
+---
 
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 16 dicembre 1986 n. 982
-===============================================================
-
-Autorizzazione alla fondazione "Pro juventute don Carlo Gnocchi", in Roma, ad accettare un'eredita'.
-----------------------------------------------------------------------------------------------------
-
-Art. 1
-------
+## Art. 1.
 
 n.
 
-982. Decreto del Presidente della Repubblica 3 dicembre 1986, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la fondazione "Pro juventute don Carlo Gnocchi", in Roma, viene autorizzata ad accettare col beneficio d'inventario l'eredita', consistente in un appartamento sito in Roma, viale Angelico n. 38, distinto nel nuovo catasto edilizio urbano alla partita 104084, foglio 400, mappale 119, sub 7, valutato con perizia di parte L. 72.500.000, elevate dall'ufficio tecnico erariale a L. 170.000.000, nonche' in titoli, conti correnti, ecc., come da inventario, per un importo complessivo determinato, al netto delle passivita', in L. 239.849.707, disposta dalla sig.ra Santoro Maria ved. Saturnini a favore dell'Opera don Gnocchi, che si identifica con la fondazione "Pro juventute don Carlo Gnocchi" come si evince dal verbale del consiglio di amministrazione della fondazione medesima in data 3 dicembre 1977, con testamento olografo e codicillo 4 aprile 1967, pubblicato in data 22 marzo 1977, n. 17509/4948 di repertorio, a rogito dott. Fulvio Scuccimarra, notaio in Roma, registrato a Roma in data 30 marzo 1977.  
-  
-Visto, il Guardasigilli: ROGNONI  
-Registrato alla Corte dei conti, addi' 13 gennaio 1987  
-Registro n. 1 Presidenza, foglio n. 175
+980.
+
+Decreto del Presidente della Repubblica 3 dicembre 1986, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la fondazione "Pro juventute don Carlo Gnocchi", in Roma, viene autorizzata ad accettare col beneficio d'inventario l'eredita', consistente nella quota di 1/2 di beni mobili, saldo conti correnti, depositi di titoli, per un valore complessivo di L. 77.851.131, disposta dal sig. Minghetti Giuseppe a favore della pro juventute (Mutilatini don Gnocchi), che si identifica con la fondazione "Pro juventute don Carlo Gnocchi", come si evince dal verbale del consiglio di amministrazione della fondazione stessa in data 16 febbraio 1984, con testamento olografo 14 ottobre 1982, pubblicato in data 15 aprile 1983, n. 25547/945 di repertorio, a rogito dott. Giuseppe Isotti, notaio in Bolzano, registrato a Bolzano in data 2 maggio 1983 al n. 3996.
+
+Visto, il Guardasigilli: ROGNONI
+ Registrato alla Corte dei conti, addi' 14 gennaio 1987
+ Registro n. 1 Presidenza, foglio n. 178

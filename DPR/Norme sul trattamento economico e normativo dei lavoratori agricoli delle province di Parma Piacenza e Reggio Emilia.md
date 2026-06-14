@@ -1,20 +1,20 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 27 giugno 1961 n. 881
-
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 27 giugno 1961 n. 881
-=============================================================
-
-Norme sul trattamento economico e normativo dei lavoratori agricoli delle province di Parma, Piacenza e Reggio Emilia.
-----------------------------------------------------------------------------------------------------------------------
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 881
+data: 1961-06-27
+titolo: "Norme sul trattamento economico e normativo dei lavoratori agricoli delle province di Parma, Piacenza e Reggio Emilia."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1961-06-27;881
+codice_redazionale: 061U0881
+vigente: true
+---
 
 IL PRESIDENTE DELLA REPUBBLICA
-------------------------------
 
-Visto l'[art. 87, comma quinto, della Costituzione](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27~art87-com5);
+Visto l'[art. 87, comma quinto, della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87-com5);
 
-Vista la [legge 14 luglio 1959, n. 741](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1959-07-14;741), che delega il Governo ad emanare norme transitorie per garantire minimi di trattamento economico e normativo ai lavoratori;
+Vista la [legge 14 luglio 1959, n. 741](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1959-07-14;741), che delega il Governo ad emanare norme transitorie per garantire minimi di trattamento economico e normativo ai lavoratori;
 
-Vista la [legge 1 ottobre 1960, n. 1027](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1960-10-01;1027), recante modifiche alla predetta [legge 14 luglio 1959, n. 741](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1959-07-14;741);
+Vista la [legge 1 ottobre 1960, n. 1027](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1960-10-01;1027), recante modifiche alla predetta [legge 14 luglio 1959, n. 741](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1959-07-14;741);
 
 Visto l'accordo nazionale di scala mobile 24 settembre 1952, per i salari agricoli;
 
@@ -46,98 +46,19 @@ Vista la pubblicazione nell'apposito Bollettino, n. 21 della provincia di Parma,
 
 Sentito il Consiglio dei Ministri;
 
-Sulla
------
+Sulla proposta del Ministro per il lavoro e la previdenza sociale; Decreta:
 
-proposta del Ministro per il lavoro e la previdenza sociale; Decreta:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-I rapporti di lavoro costituiti per le attivita' per le quali sono stati stipulati:  
-- per la provincia di Parma, l'accordo collettivo 12 giugno 1959 per le tariffe di mietitura e trebbiatura, il contratto collettivo 2 ottobre 1950 per i salariati fissi, semifissi e salariati in famiglia, il contratto collettivo 2 ottobre 1959 per i braccianti agricoli avventizi;  
-- per la provincia di Piacenza, il contratto collettivo 31 agosto 1959 per i salariati e braccianti agricoli fissi, il contratto collettivo 31 agosto 1959 per i braccianti agricoli avventizi;  
-- per la provincia di Reggio Emilia, l'accordo collettivo 23 giugno 1959 per gli addetti ai lavori di monda e trapianto del riso, il contratto collettivo 25 giugno 1959 per i braccianti agricoli avventizi, il contratto collettivo 1 ottobre 1959 per i salariati fissi;  
-sono regolati da norme giuridiche uniformi alle clausole dei contratti ed accordi anzidetti, annessi al presente decreto, purche' compatibili con quelle concernenti la disciplina nazionale della categoria.  
-I minimi di trattamento economico e normativo cosi' stabiliti sono inderogabili nei confronti di tutti i lavoratori considerati nei contratti ed accordi di cui al primo comma, dipendenti dalle imprese agricole delle province di Parma, Piacenza e Reggio Emilia.  
-  
+I rapporti di lavoro costituiti per le attivita' per le quali sono stati stipulati:
+ - per la provincia di Parma, l'accordo collettivo 12 giugno 1959 per le tariffe di mietitura e trebbiatura, il contratto collettivo 2 ottobre 1950 per i salariati fissi, semifissi e salariati in famiglia, il contratto collettivo 2 ottobre 1959 per i braccianti agricoli avventizi;
+ - per la provincia di Piacenza, il contratto collettivo 31 agosto 1959 per i salariati e braccianti agricoli fissi, il contratto collettivo 31 agosto 1959 per i braccianti agricoli avventizi;
+ - per la provincia di Reggio Emilia, l'accordo collettivo 23 giugno 1959 per gli addetti ai lavori di monda e trapianto del riso, il contratto collettivo 25 giugno 1959 per i braccianti agricoli avventizi, il contratto collettivo 1 ottobre 1959 per i salariati fissi;
+ sono regolati da norme giuridiche uniformi alle clausole dei contratti ed accordi anzidetti, annessi al presente decreto, purche' compatibili con quelle concernenti la disciplina nazionale della categoria.
+ I minimi di trattamento economico e normativo cosi' stabiliti sono inderogabili nei confronti di tutti i lavoratori considerati nei contratti ed accordi di cui al primo comma, dipendenti dalle imprese agricole delle province di Parma, Piacenza e Reggio Emilia.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 27 giugno 1961
+Dato a Roma, addi' 27 giugno 1961
 
-GRONCHI FANFANI - SULLO
-
-Visto, il Guardasigilli: GONELLA
-
-Registrato alla Corte dei conti, addi' 9 agosto 1961
-
-Atti del Governo, registro n. 138, foglio n. 48. - DI PRETORO
-
-Allegato
-
-ACCORDO COLLETTIVO 12 GIUGNO 1959, PER LE TARIFFE DI MIETITURA E TREBBIATURA PER LA PROVINCIA DI PARMA   
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=061U088100100010110001&dgu=1961-09-05&art.dataPubblicazioneGazzetta=1961-09-05&art.codiceRedazionale=061U0881)
-  
-  
-  
-  
-CONTRATTO COLLETTIVO 2 OTTOBRE 1959, PER I SALARIATI FISSI, SEMIFISSI E SALARIATI IN FAMIGLIA DELLA PROVINCIA DI PARMA   
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=061U088100100010110002&dgu=1961-09-05&art.dataPubblicazioneGazzetta=1961-09-05&art.codiceRedazionale=061U0881)
-  
-  
-  
-  
-CONTRATTO COLLETTIVO 2 OTTOBRE 1959, PER I BRACCIANTI AGRICOLI AVVENTIZI DELLA PROVINCIA DI PARMA   
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=061U088100100010110003&dgu=1961-09-05&art.dataPubblicazioneGazzetta=1961-09-05&art.codiceRedazionale=061U0881)
-  
-  
-  
-  
-CONTRATTO COLLETTIVO 31 AGOSTO 1959, PER I SALARIATI E BRACCIANTI AGRICOLI FISSI DELLA PROVINCIA DI PIACENZA   
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=061U088100100010110004&dgu=1961-09-05&art.dataPubblicazioneGazzetta=1961-09-05&art.codiceRedazionale=061U0881)
-  
-  
-  
-  
-CONTRATTO COLLETTIVO 31 AGOSTO 1959, PER I BRACCIANTI AGRICOLI AVVENTIZI DELLA PROVINCIA DI PIACENZA   
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=061U088100100010110005&dgu=1961-09-05&art.dataPubblicazioneGazzetta=1961-09-05&art.codiceRedazionale=061U0881)
-  
-  
-  
-  
-ACCORDO COLLETTIVO 23 GIUGNO 1959, PER GLI ADDETTI AI LAVORI DI MONDA E TRAPIANTO DEL RISO DELLA PROVINCIA DI REGGIO EMILIA   
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=061U088100100010110006&dgu=1961-09-05&art.dataPubblicazioneGazzetta=1961-09-05&art.codiceRedazionale=061U0881)
-  
-  
-  
-  
-CONTRATTO COLLETTIVO 25 GIUGNO 1959, PER I BRACCIANTI AGRICOLI AVVENTIZI DELLA PROVINCIA DI REGGIO EMILIA   
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=061U088100100010110007&dgu=1961-09-05&art.dataPubblicazioneGazzetta=1961-09-05&art.codiceRedazionale=061U0881)
-  
-  
-  
-  
-CONTRATTO COLLETTIVO 1 OTTOBRE 1959, PER I SALARIATI FISSI DELLA   
-PROVINCIA DI REGGIO EMILIA   
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=061U088100100010110008&dgu=1961-09-05&art.dataPubblicazioneGazzetta=1961-09-05&art.codiceRedazionale=061U0881)
-  
+GRONCHI FANFANI - SULLO Visto, il Guardasigilli: GONELLA Registrato alla Corte dei conti, addi' 9 agosto 1961 Atti del Governo, registro n. 138, foglio n. 48. - DI PRETORO

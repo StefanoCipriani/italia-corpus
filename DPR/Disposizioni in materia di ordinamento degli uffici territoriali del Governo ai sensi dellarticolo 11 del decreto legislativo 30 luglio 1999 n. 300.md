@@ -1,93 +1,77 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 17 maggio 2001 n. 287
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 287
+data: 2001-05-17
+titolo: "Disposizioni in materia di ordinamento degli uffici territoriali del Governo, ai sensi dell'articolo 11 del decreto legislativo 30 luglio 1999, n. 300."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:2001-05-17;287
+codice_redazionale: 001G0346
+vigente: true
+---
 
+## Art. 1.
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 17 maggio 2001 n. 287
-=============================================================
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 3 APRILE 2006, N. 180))
 
-Disposizioni in materia di ordinamento degli uffici territoriali del Governo, ai sensi dell'articolo 11 del decreto legislativo 30 luglio 1999, n. 300.
--------------------------------------------------------------------------------------------------------------------------------------------------------
+## Art. 2.
 
-Art. 1
-------
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 3 APRILE 2006, N. 180))
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 3 APRILE 2006, N. 180](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2006-04-03;180)))
+## Art. 3.
 
-Art. 2
-------
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 3 APRILE 2006, N. 180))
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 3 APRILE 2006, N. 180](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2006-04-03;180)))
+## Art. 4.
 
-Art. 3
-------
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 3 APRILE 2006, N. 180))
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 3 APRILE 2006, N. 180](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2006-04-03;180)))
+## Art. 5.
 
-Art. 4
-------
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 3 APRILE 2006, N. 180))
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 3 APRILE 2006, N. 180](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2006-04-03;180)))
+## Art. 6.
 
-Art. 5
-------
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 3 APRILE 2006, N. 180))
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 3 APRILE 2006, N. 180](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2006-04-03;180)))
+## Art. 7.
 
-Art. 6
-------
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 3 APRILE 2006, N. 180))
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 3 APRILE 2006, N. 180](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2006-04-03;180)))
+## Art. 8.
 
-Art. 7
-------
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 3 APRILE 2006, N. 180))
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 3 APRILE 2006, N. 180](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2006-04-03;180)))
+## Art. 9.
 
-Art. 8
-------
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 3 APRILE 2006, N. 180))
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 3 APRILE 2006, N. 180](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2006-04-03;180)))
+## Art. 10.
 
-Art. 9
-------
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 3 APRILE 2006, N. 180))
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 3 APRILE 2006, N. 180](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2006-04-03;180)))
+## Art. 11.
 
-Art. 10
--------
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 3 APRILE 2006, N. 180))
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 3 APRILE 2006, N. 180](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2006-04-03;180)))
+## Art. 12.
 
-Art. 11
--------
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 3 APRILE 2006, N. 180))
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 3 APRILE 2006, N. 180](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2006-04-03;180)))
+## Art. 13.
 
-Art. 12
--------
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 3 APRILE 2006, N. 180))
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 3 APRILE 2006, N. 180](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2006-04-03;180)))
+## Art. 14.
 
-Art. 13
--------
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 3 APRILE 2006, N. 180))
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 3 APRILE 2006, N. 180](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2006-04-03;180)))
+## Art. 15.
 
-Art. 14
--------
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 3 APRILE 2006, N. 180))
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 3 APRILE 2006, N. 180](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2006-04-03;180)))
+## Art. 16.
 
-Art. 15
--------
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 3 APRILE 2006, N. 180))
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 3 APRILE 2006, N. 180](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2006-04-03;180)))
+## Art. 17.
 
-Art. 16
--------
-
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 3 APRILE 2006, N. 180](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2006-04-03;180)))
-
-Art. 17
--------
-
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 3 APRILE 2006, N. 180](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2006-04-03;180)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 3 APRILE 2006, N. 180))

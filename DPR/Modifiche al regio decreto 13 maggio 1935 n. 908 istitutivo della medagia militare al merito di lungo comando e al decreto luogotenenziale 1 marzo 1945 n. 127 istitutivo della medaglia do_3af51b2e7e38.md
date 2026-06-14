@@ -1,18 +1,17 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 14 settembre 1957 n. 1110
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 1110
+data: 1957-09-14
+titolo: "Modifiche al regio decreto 13 maggio 1935, n. 908, istitutivo della medagia militare al merito di lungo comando e al decreto luogotenenziale 1 marzo 1945, n. 127, istitutivo della medaglia d'onore per lunga navigazione."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1957-09-14;1110
+codice_redazionale: 057U1110
+vigente: true
+---
 
+## Art. 1.
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 14 settembre 1957 n. 1110
-=================================================================
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 15 MARZO 2010, N. 66))
 
-Modifiche al regio decreto 13 maggio 1935, n. 908, istitutivo della medagia militare al merito di lungo comando e al decreto luogotenenziale 1 marzo 1945, n. 127, istitutivo della medaglia d'onore per lunga navigazione.
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+## Art. 2.
 
-Art. 1
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 15 MARZO 2010, N. 66](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-03-15;66)))
-
-Art. 2
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 15 MARZO 2010, N. 66](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-03-15;66)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 15 MARZO 2010, N. 66))

@@ -1,20 +1,20 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 gennaio 1962 n. 1046
-
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 gennaio 1962 n. 1046
-===============================================================
-
-Norme sul trattamento economico e normativo dei mezzadri delle province di Ancona e Macerata.
----------------------------------------------------------------------------------------------
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 1046
+data: 1962-01-02
+titolo: "Norme sul trattamento economico e normativo dei mezzadri delle province di Ancona e Macerata."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1962-01-02;1046
+codice_redazionale: 062U1046
+vigente: true
+---
 
 IL PRESIDENTE DELLA REPUBBLICA
-------------------------------
 
-Visto l'[art. 87, comma quinto, della Costituzione](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27~art87-com5);
+Visto l'[art. 87, comma quinto, della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87-com5);
 
-Vista la [legge 14 luglio 1959, n. 741](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1959-07-14;741), che delega il Governo ad emanare norme transitorie, per garantire minimi di trattamento economico e normativo ai lavoratori;
+Vista la [legge 14 luglio 1959, n. 741](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1959-07-14;741), che delega il Governo ad emanare norme transitorie, per garantire minimi di trattamento economico e normativo ai lavoratori;
 
-Vista la [legge 1 ottobre 1960, n. 1027](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1960-10-01;1027), recante modifiche alla predetta [legge 14 luglio 1959, n. 741](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1959-07-14;741);
+Vista la [legge 1 ottobre 1960, n. 1027](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1960-10-01;1027), recante modifiche alla predetta [legge 14 luglio 1959, n. 741](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1959-07-14;741);
 
 Visti gli accordi collettivi interconfederali 24 novembre 1954 e 9 novembre 1955, relativi alle controversie mezzadrili;
 
@@ -26,46 +26,18 @@ Vista la pubblicazione nell'apposito Bollettino, n. 1 della provincia di Ancona,
 
 Sentito il Consiglio dei Ministri;
 
-Sulla
------
+Sulla proposta del Ministro per il lavoro e la previdenza sociale; Decreta:
 
-proposta del Ministro per il lavoro e la previdenza sociale; Decreta:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-I rapporti costituiti per l'attivita' per la quale sono stati stipulati:  
-per la provincia di Ancona, l'accordo collettivo 15 marzo 1957, relativo alle aziende agricole a mezzadria;  
-per la provincia di Macerata, l'accordo collettivo 18 luglio 1956, aggiuntivo al capitolato generale di mezzadria;  
-sono regolati da norme giuridiche uniformi alle clausole degli accordi collettivi anzidetti, annessi al presente decreto, purche' compatibili con quelle concernenti la disciplina nazionale della categoria.  
-I minimi di trattamento economico e normativo cosi' stabiliti sono inderogabili nei confronti di tutti i mezzadri delle province di Ancona e Macerata.  
-  
+I rapporti costituiti per l'attivita' per la quale sono stati stipulati:
+ per la provincia di Ancona, l'accordo collettivo 15 marzo 1957, relativo alle aziende agricole a mezzadria;
+ per la provincia di Macerata, l'accordo collettivo 18 luglio 1956, aggiuntivo al capitolato generale di mezzadria;
+sono regolati da norme giuridiche uniformi alle clausole degli accordi collettivi anzidetti, annessi al presente decreto, purche' compatibili con quelle concernenti la disciplina nazionale della categoria.
+ I minimi di trattamento economico e normativo cosi' stabiliti sono inderogabili nei confronti di tutti i mezzadri delle province di Ancona e Macerata.
 
 Il presente decreto, munito del sigillo dello Stato sara' inserto nella Raccolta ufficiale delle leggi e dei decreti, della Repubblica italiana. E' fatto obbligo i chiunque spetti di osservarlo e di farlo osservare.
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 2 gennaio 1962
+Dato a Roma, addi' 2 gennaio 1962
 
-GRONCHI FANFANI - SULLO
-
-Visto, il Guardasigilli: BOSCO
-
-Registrato alla Corte dei conti, addi' 12 luglio 1962
-
-Atti del Governo, registro n. 153, foglio n. 56. - VILLA
-
-Accordo
-
-ACCORDO COLLETTIVO 15 MARZO 1957 PER LE AZIENDE AGRICOLE A MEZZADRIA DELLA PROVINCIA DI ANCONA, STIPULATO IN APPLICAZIONE DELL'ACCORDO NAZIONALE 20 LUGLIO 1956, PUNTO 50.   
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=062U104600100010110001&dgu=1962-08-04&art.dataPubblicazioneGazzetta=1962-08-04&art.codiceRedazionale=062U1046)
-  
-  
-ACCORDO COLLETTIVO 18 LUGLIO 1955, AGGIUNTIVO AL CAPITOLATO GENERALE DI MEZZADRIA 15 GENNAIO 1939 VIGENTE IN PROVINCIA DI MACERATA.   
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=062U104600100010110002&dgu=1962-08-04&art.dataPubblicazioneGazzetta=1962-08-04&art.codiceRedazionale=062U1046)
-  
+GRONCHI FANFANI - SULLO Visto, il Guardasigilli: BOSCO Registrato alla Corte dei conti, addi' 12 luglio 1962 Atti del Governo, registro n. 153, foglio n. 56. - VILLA

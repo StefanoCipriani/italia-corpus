@@ -1,19 +1,21 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 26 ottobre 1976 n. 1011
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 1011
+data: 1976-10-26
+titolo: "Approvazione del nuovo statuto dell'Accademia dei fisiocritici, in Siena."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1976-10-26;1011
+codice_redazionale: 076U1011
+vigente: true
+---
 
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 26 ottobre 1976 n. 1011
-===============================================================
-
-Approvazione del nuovo statuto dell'Accademia dei fisiocritici, in Siena.
--------------------------------------------------------------------------
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-1011. Decreto del Presidente della Repubblica 26 ottobre 1976, col quale, sulla proposta del Ministro per i beni culturali e ambientali, viene approvato il nuovo statuto dell'Accademia dei fisiocritici, in Siena.  
-  
-Visto, il Guardasigilli: BONIFACIO  
-Registrato alla Corte dei conti, addi' 22 febbraio 1977  
-Registro n. 3 Beni culturali, foglio n. 386
+1011.
+
+Decreto del Presidente della Repubblica 26 ottobre 1976, col quale, sulla proposta del Ministro per i beni culturali e ambientali, viene approvato il nuovo statuto dell'Accademia dei fisiocritici, in Siena.
+
+Visto, il Guardasigilli: BONIFACIO
+ Registrato alla Corte dei conti, addi' 22 febbraio 1977
+ Registro n. 3 Beni culturali, foglio n. 386

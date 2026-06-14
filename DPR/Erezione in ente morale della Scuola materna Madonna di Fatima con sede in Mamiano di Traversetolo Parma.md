@@ -1,19 +1,21 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 14 agosto 1964 n. 885
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 885
+data: 1964-08-14
+titolo: "Erezione in ente morale della Scuola materna \"Madonna di Fatima\", con sede in Mamiano di Traversetolo (Parma)."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1964-08-14;885
+codice_redazionale: 064U0885
+vigente: true
+---
 
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 14 agosto 1964 n. 885
-=============================================================
-
-Erezione in ente morale della Scuola materna "Madonna di Fatima", con sede in Mamiano di Traversetolo (Parma).
---------------------------------------------------------------------------------------------------------------
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-885. Decreto del Presidente della Repubblica 14 agosto 1964, col quale, sulla proposta del Ministro per l'interno, la Scuola materna "Madonna di Fatima", con sede in Mamiano di Traversetolo (Parma), viene eretta in ente morale e ne viene approvato lo statuto.  
-  
-Visto, il Guardasigilli: REALE  
-Registrato alla Corte dei conti, addi' 19 settembre 1964  
-Atti del Governo, registro n. 186, foglio n. 87. - DI PRETORO
+885.
+
+Decreto del Presidente della Repubblica 14 agosto 1964, col quale, sulla proposta del Ministro per l'interno, la Scuola materna "Madonna di Fatima", con sede in Mamiano di Traversetolo (Parma), viene eretta in ente morale e ne viene approvato lo statuto.
+
+Visto, il Guardasigilli: REALE
+ Registrato alla Corte dei conti, addi' 19 settembre 1964
+ Atti del Governo, registro n. 186, foglio n. 87. - DI PRETORO

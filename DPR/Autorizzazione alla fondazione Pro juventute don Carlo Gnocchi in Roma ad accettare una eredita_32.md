@@ -1,20 +1,22 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 12 febbraio 1985 n. 183
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 56
+data: 1985-01-10
+titolo: "Autorizzazione alla fondazione \"Pro juventute don Carlo Gnocchi\", in Roma, ad accettare una eredita'."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1985-01-10;56
+codice_redazionale: 085U0056
+vigente: true
+---
 
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 12 febbraio 1985 n. 183
-===============================================================
-
-Autorizzazione alla fondazione "Pro juventute don Carlo Gnocchi", in Roma, ad accettare una eredita'.
------------------------------------------------------------------------------------------------------
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-183. Decreto del Presidente della Repubblica 12 febbraio 1985, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la fondazione "Pro juventute don Carlo Gnocchi", in Roma, viene autorizzata ad accettare, col beneficio d'inventario, l'eredita', consistente in un immobile sito in Milano, corso Plebiscito n. 191, distinto nel nuovo catasto edilizio urbano alla partita n. 28130, foglio 356, mappale 449 sub 4, ed in beni mobili come da inventario, per un totale di L. 81.640.536 al netto delle passivita', disposta dalla sig.ra Luraschi Evelina ved. Levi a favore dell'istituto dei mutilatini di don Gnocchi, che si identifica con la fondazione medesima, come si evince dal verbale del consiglio di amministrazione della stessa in data 20 novembre 1982, con testamento olografo 10 dicembre 1976, pubblicato in data 14 dicembre 1982, numero 5981/933 di repertorio, a rogito dott.  
-Ulderico Brambilla, notaio in Milano, registrato a Milano in data 28 gennaio 1982 al n. 850.  
-  
-Visto, il Guardasigilli: MARTINAZZOLI  
-Registrato alla Corte dei conti, addi' 2 maggio 1985  
-Registro n. 4 Presidenza, foglio n. 85
+56.
+
+Decreto del Presidente della Repubblica 10 gennaio 1985, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la fondazione "Pro juventute don Carlo Gnocchi", in Roma, viene autorizzata ad accettare, col beneficio d'inventario, l'eredita', consistente in beni immobili siti nei comuni di Mendrisio e Balera (Canton Ticino) meglio descritti nella perizia redatta dal geom.
+Paolo Maddaloni in data 5 maggio 1977 e valutati per complessive L. 682.000.000, disposta dalla sig.ra Fumagalli Virginia Maria Carolina a favore dell'opera mutilatini di don Gnocchi, che si identifica con la fondazione "Pro juventute da Carlo Gnocchi", come si evince dal verbale del consiglio d'amministrazione della fondazione stessa in data 5 giugno 1976, con testamento olografo e codicillo del 14 giugno 1967, pubblicato in data 8 maggio 1968, n. 1720 di repertorio, a rogito dott. Waldo Riva, notaio in Lugano. 
+ 
+Visto, il Guardasigilli: MARTINAZZOLI 
+ Registrato alla Corte dei conti, addi' 25 febbraio 1985 
+ Registro n. 2 Presidenza, foglio n. 133

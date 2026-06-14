@@ -1,18 +1,20 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 19 maggio 1950 n. 804
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 804
+data: 1950-05-19
+titolo: "Riconoscimento della personalita' giuridica del Centro italiano di studi amministrativi, con sede in Roma."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1950-05-19;804
+codice_redazionale: 050U0804
+vigente: true
+---
 
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 19 maggio 1950 n. 804
-=============================================================
-
-Riconoscimento della personalita' giuridica del Centro italiano di studi amministrativi, con sede in Roma.
-----------------------------------------------------------------------------------------------------------
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-804. Decreto del Presidente della Repubblica 19 maggio 1950, col quale, sulla proposta del Ministro per la pubblica istruzione, viene riconosciuta la personalita' giuridica del Centro italiano di studi amministrativi, con sede in Roma.  
-  
-Visto, il Guardasigilli: PICCIONI  
-Registrato alla Corte dei conti, addi' 22 settembre 1950
+804.
+
+Decreto del Presidente della Repubblica 19 maggio 1950, col quale, sulla proposta del Ministro per la pubblica istruzione, viene riconosciuta la personalita' giuridica del Centro italiano di studi amministrativi, con sede in Roma.
+
+Visto, il Guardasigilli: PICCIONI
+ Registrato alla Corte dei conti, addi' 22 settembre 1950

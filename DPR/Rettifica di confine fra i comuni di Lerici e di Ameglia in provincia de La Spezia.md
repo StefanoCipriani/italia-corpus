@@ -1,14 +1,14 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 23 febbraio 1960 n. 356
-
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 23 febbraio 1960 n. 356
-===============================================================
-
-Rettifica di confine fra i comuni di Lerici e di Ameglia, in provincia de La Spezia.
-------------------------------------------------------------------------------------
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 356
+data: 1960-02-23
+titolo: "Rettifica di confine fra i comuni di Lerici e di Ameglia, in provincia de La Spezia."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1960-02-23;356
+codice_redazionale: 060U0356
+vigente: true
+---
 
 IL PRESIDENTE DELLA REPUBBLICA
-------------------------------
 
 Viste le deliberazioni del Consiglio comunale di Lerici in data 27 settembre 1956, n. 28, e del Consiglio comunale di Ameglia in data 5 maggio 1957, n. 18, con le quali e' stata chiesta una rettifica di confine fra quei Comuni;
 
@@ -18,35 +18,20 @@ Vista la deliberazione della Commissione straordinaria della provincia de La Spe
 
 Udito il parere espresso dalla prima Sezione del Consiglio di Stato, nell'adunanza del 24 novembre 1959, n. 1816;
 
-Visti gli articoli 32, capoverso, e 35 del testo unico della legge comunale e provinciale, approvato con [regio decreto 3 marzo 1934, n. 383](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-03-03;383);
+Visti gli articoli 32, capoverso, e 35 del testo unico della legge comunale e provinciale, approvato con [regio decreto 3 marzo 1934, n. 383](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20del%20testo%20unico%20della%20legge%20comunale%20e%20provinciale.%20034U0383.md);
 
-Sulla
------
+Sulla proposta del Presidente del Consiglio dei Ministri, Ministro Segretario di Stato per gli affari dello interno; Decreta:
 
-proposta del Presidente del Consiglio dei Ministri, Ministro Segretario di Stato per gli affari dello interno; Decreta:
+## Art. 1.
 
-Art. 1
-------
+Il confine fra i comuni di Lerici e di Ameglia, in provincia de La Spezia, e' rettificato secondo la linea risultante dalla pianta planimetrica e dalla relazione descrittiva, annesse al presente decreto.
 
-  
-Il confine fra i comuni di Lerici e di Ameglia, in provincia de La Spezia, e' rettificato secondo la linea risultante dalla pianta planimetrica e dalla relazione descrittiva, annesse al presente decreto.  
+## Art. 2.
 
-Art. 2
-------
-
-  
-Il Prefetto della provincia de La Spezia, sentita la Giunta provinciale amministrativa, provvedera' alla separazione patrimoniale ed al riparto delle attivita' e passivita' fra i comuni di Lerici e di Ameglia.  
-  
+Il Prefetto della provincia de La Spezia, sentita la Giunta provinciale amministrativa, provvedera' alla separazione patrimoniale ed al riparto delle attivita' e passivita' fra i comuni di Lerici e di Ameglia.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 23 febbraio 1960
+Dato a Roma, addi' 23 febbraio 1960
 
-GRONCHI SEGNI
-
-Visto, il Guardasigilli: GONELLA
-
-Registrato alla Corte dei conti, addi' 2 maggio 1960
-
-Atti del Governo, registro n. 126, foglio n. 25. - VILLA
+GRONCHI SEGNI Visto, il Guardasigilli: GONELLA Registrato alla Corte dei conti, addi' 2 maggio 1960 Atti del Governo, registro n. 126, foglio n. 25. - VILLA

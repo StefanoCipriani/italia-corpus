@@ -1,19 +1,21 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 10 marzo 1977 n. 220
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 220
+data: 1977-03-10
+titolo: "Riconoscimento della personalita' giuridica della casa religiosa denominata \"Convitto A. Gianelli\", in Tolmezzo, dell'istituto delle suore figlie di Maria SS.ma dell'Orto."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1977-03-10;220
+codice_redazionale: 077U0220
+vigente: true
+---
 
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 10 marzo 1977 n. 220
-============================================================
-
-Riconoscimento della personalita' giuridica della casa religiosa denominata "Convitto A. Gianelli", in Tolmezzo, dell'istituto delle suore figlie di Maria SS.ma dell'Orto.
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-220. Decreto del Presidente della Repubblica 10 marzo 1977, col quale, sulla proposta del Ministro per l'interno, viene riconosciuta la personalita' giuridica della casa religiosa denominata "Convitto A. Gianelli", in Tolmezzo (Udine), dell'istituto delle suore figlie di Maria SS.ma dell'Orto.  
-  
-Visto, il Guardasigilli: BONIFACIO  
-Registrato alla Corte dei conti, addi' 12 maggio 1977  
-Registro n. 11 Interno, foglio n. 55
+220.
+
+Decreto del Presidente della Repubblica 10 marzo 1977, col quale, sulla proposta del Ministro per l'interno, viene riconosciuta la personalita' giuridica della casa religiosa denominata "Convitto A. Gianelli", in Tolmezzo (Udine), dell'istituto delle suore figlie di Maria SS.ma dell'Orto.
+
+Visto, il Guardasigilli: BONIFACIO
+ Registrato alla Corte dei conti, addi' 12 maggio 1977
+ Registro n. 11 Interno, foglio n. 55

@@ -1,19 +1,21 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 24 marzo 1981 n. 303
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 303
+data: 1981-03-24
+titolo: "Riconoscimento, agli effetti civili, della unione delle parrocchie di S. Pietro e S. Nicolo', in Saponara."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1981-03-24;303
+codice_redazionale: 081U0303
+vigente: true
+---
 
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 24 marzo 1981 n. 303
-============================================================
-
-Riconoscimento, agli effetti civili, della unione delle parrocchie di S. Pietro e S. Nicolo', in Saponara.
-----------------------------------------------------------------------------------------------------------
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-303. Decreto del Presidente della Repubblica 24 marzo 1981, col quale, sulla proposta del Ministro dell'interno, viene riconosciuto, agli effetti civili, il decreto dell'ordinario diocesano di Messina 1 settembre 1978, integrato con dichiarazione 11 giugno 1979, relativo all'unione temporanea aeque principaliter delle parrocchie di S. Pietro, in frazione S. Pietro del comune di Saponara (Messina), e di S. Nicolo', nello stesso comune.  
-  
-Visto, il Guardasigilli: DARIDA  
-Registrato alla Corte dei conti, addi' 8 giugno 1981  
-Registro n. 10 Interno, foglio n. 145
+303.
+
+Decreto del Presidente della Repubblica 24 marzo 1981, col quale, sulla proposta del Ministro dell'interno, viene riconosciuto, agli effetti civili, il decreto dell'ordinario diocesano di Messina 1 settembre 1978, integrato con dichiarazione 11 giugno 1979, relativo all'unione temporanea aeque principaliter delle parrocchie di S. Pietro, in frazione S. Pietro del comune di Saponara (Messina), e di S. Nicolo', nello stesso comune.
+
+Visto, il Guardasigilli: DARIDA
+ Registrato alla Corte dei conti, addi' 8 giugno 1981
+ Registro n. 10 Interno, foglio n. 145

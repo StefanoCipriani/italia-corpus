@@ -1,19 +1,21 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 19 giugno 1957 n. 738
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 738
+data: 1957-06-19
+titolo: "Approvazione del nuovo statuto della Fondazione \"Ernesto Breda\", con sede in Milano."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1957-06-19;738
+codice_redazionale: 057U0738
+vigente: true
+---
 
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 19 giugno 1957 n. 738
-=============================================================
-
-Approvazione del nuovo statuto della Fondazione "Ernesto Breda", con sede in Milano.
-------------------------------------------------------------------------------------
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-738. Decreto del Presidente della Repubblica 19 giugno 1957, col quale, sulla proposta del Ministro per il lavoro e la previdenza sociale, viene approvato il nuovo statuto della Fondazione "Ernesto Breda", con sede in Milano.  
-  
-Visto, il Guardasigilli: GONELLA  
-Registrato alla Corte dei conti, addi' 23 agosto 1957  
-Atti del Governo, registro n. 107, foglio n. 60. - RELLEVA
+738.
+
+Decreto del Presidente della Repubblica 19 giugno 1957, col quale, sulla proposta del Ministro per il lavoro e la previdenza sociale, viene approvato il nuovo statuto della Fondazione "Ernesto Breda", con sede in Milano.
+
+Visto, il Guardasigilli: GONELLA
+ Registrato alla Corte dei conti, addi' 23 agosto 1957
+ Atti del Governo, registro n. 107, foglio n. 60. - RELLEVA

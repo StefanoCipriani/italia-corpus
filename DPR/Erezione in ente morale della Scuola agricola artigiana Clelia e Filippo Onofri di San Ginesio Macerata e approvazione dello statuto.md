@@ -1,19 +1,21 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 14 marzo 1952 n. 2393
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 2393
+data: 1952-03-14
+titolo: "Erezione in ente morale della Scuola agricola artigiana \"Clelia e Filippo Onofri\" di San Ginesio (Macerata) e approvazione dello statuto."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1952-03-14;2393
+codice_redazionale: 052U2393
+vigente: true
+---
 
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 14 marzo 1952 n. 2393
-=============================================================
-
-Erezione in ente morale della Scuola agricola artigiana "Clelia e Filippo Onofri" di San Ginesio (Macerata) e approvazione dello statuto.
------------------------------------------------------------------------------------------------------------------------------------------
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-2393. Decreto del Presidente della Repubblica 14 marzo 1952, col quale, sulla proposta del Ministro per la pubblica istruzione, la Scuola agricola artigiana "Clelia e Filippo Onofri" di San Ginesio (Macerata), viene eretta in ente morale e ne viene approvato il relativo statuto.  
-  
-Visto, il Guardasigilli: ZOLI  
-Registrato alla Corte dei conti, addi' 17 dicembre 1952  
-Atti del Governo, registro n. 64, foglio n. 28. - PALLA
+2393.
+
+Decreto del Presidente della Repubblica 14 marzo 1952, col quale, sulla proposta del Ministro per la pubblica istruzione, la Scuola agricola artigiana "Clelia e Filippo Onofri" di San Ginesio (Macerata), viene eretta in ente morale e ne viene approvato il relativo statuto.
+
+Visto, il Guardasigilli: ZOLI
+ Registrato alla Corte dei conti, addi' 17 dicembre 1952
+ Atti del Governo, registro n. 64, foglio n. 28. - PALLA

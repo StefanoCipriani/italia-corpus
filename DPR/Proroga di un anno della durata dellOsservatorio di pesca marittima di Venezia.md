@@ -1,36 +1,28 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 03 giugno 1949 n. 633
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 633
+data: 1949-06-03
+titolo: "Proroga di un anno della durata dell'Osservatorio di pesca marittima di Venezia."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1949-06-03;633
+codice_redazionale: 049U0633
+vigente: true
+---
 
+## Art. 1.
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 03 giugno 1949 n. 633
-=============================================================
+IL PRESIDENTE DELLA REPUBBLICA
 
-Proroga di un anno della durata dell'Osservatorio di pesca marittima di Venezia.
---------------------------------------------------------------------------------
+ Visto il testo unico sulla pesca, approvato con [regio decreto 8 ottobre 1931, n. 1604](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1931-10-08;1604);
+ Visto il [regio decreto 8 aprile 1939, n. 844](../Atti%20normativi%20abrogati%20%28in%20originale%29/Istituzione%20di%20un%20Osservatorio%20di%20pesca%20marittima%20in%20Venezia.%20039U0844.md), che istituisce l'Osservatorio di pesca marittima in Venezia;
+ Udito il parere del Consiglio di Stato emesso nell'adunanza del 23 febbraio 1949;
+ Sulla proposta del Ministro Segretario di Stato per l'agricoltura e per le foreste, di concerto col Ministro per il tesoro;
 
-Art. 1
-------
+ Decreta:
 
- IL PRESIDENTE DELLA REPUBBLICA  
-  
-Visto il testo unico sulla pesca, approvato con [regio decreto 8 ottobre 1931, n. 1604](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1931-10-08;1604);  
-Visto il [regio decreto 8 aprile 1939, n. 844](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-08;844), che istituisce l'Osservatorio di pesca marittima in Venezia;  
-Udito il parere del Consiglio di Stato emesso nell'adunanza del 23 febbraio 1949;  
-Sulla proposta del Ministro Segretario di Stato per l'agricoltura e per le foreste, di concerto col Ministro per il tesoro;  
-  
-Decreta:  
-  
-La durata dell'Osservatorio di pesca marittima di Venezia, prevista in anni dieci ai sensi dell'[art. 1 del regio decreto 8 aprile 1939, n. 844](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-08;844~art1), e' prorogata di un anno a decorrere dal 1 luglio 1949.  
-  
+ La durata dell'Osservatorio di pesca marittima di Venezia, prevista in anni dieci ai sensi dell'[art. 1 del regio decreto 8 aprile 1939, n. 844](../Atti%20normativi%20abrogati%20%28in%20originale%29/Istituzione%20di%20un%20Osservatorio%20di%20pesca%20marittima%20in%20Venezia.%20039U0844.md), e' prorogata di un anno a decorrere dal 1 luglio 1949.
 
 Il presente decreto, munito del sigillo dello Stato sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare come legge dello Stato.
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 3 giugno 1949
+Dato a Roma, addi' 3 giugno 1949
 
-EINAUDI SEGNI - PELLA
-
-Visto, il Guardasigilli: GRASSI
-
-Registrato alla Corte dei conti, addi' 8 settembre 1949
-
-Atti del Governo, registro n. 29, foglio n. 130 - FRASCA
+EINAUDI SEGNI - PELLA Visto, il Guardasigilli: GRASSI Registrato alla Corte dei conti, addi' 8 settembre 1949 Atti del Governo, registro n. 29, foglio n. 130 - FRASCA

@@ -1,19 +1,21 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 13 febbraio 1954 n. 460
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 460
+data: 1954-02-13
+titolo: "Erezione in ente morale della Cassa scolastica dell'Istituto tecnico commerciale statale ad indirizzo mercantile \"E. Guala\" di Bra (Cuneo)."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1954-02-13;460
+codice_redazionale: 054U0460
+vigente: true
+---
 
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 13 febbraio 1954 n. 460
-===============================================================
-
-Erezione in ente morale della Cassa scolastica dell'Istituto tecnico commerciale statale ad indirizzo mercantile "E. Guala" di Bra (Cuneo).
--------------------------------------------------------------------------------------------------------------------------------------------
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-460. Decreto del Presidente della Repubblica 13 febbraio 1954, col quale, sulla proposta del Ministro per la pubblica istruzione, la Cassa scolastica, dell'Istituto tecnico commerciale statale ad indirizzo mercantile "E. Guala" di Bra (Cuneo) viene eretta in ente morale e ne viene approvato lo statuto.  
-  
-Visto, il Guardasigilli: DE PIETRO  
-Registrato alla Corte dei conti, addi' 6 luglio 1954  
-Atti del Governo, registro n. 84, foglio n. 43. - CARLOMAGNO
+460.
+
+Decreto del Presidente della Repubblica 13 febbraio 1954, col quale, sulla proposta del Ministro per la pubblica istruzione, la Cassa scolastica, dell'Istituto tecnico commerciale statale ad indirizzo mercantile "E. Guala" di Bra (Cuneo) viene eretta in ente morale e ne viene approvato lo statuto.
+
+Visto, il Guardasigilli: DE PIETRO
+ Registrato alla Corte dei conti, addi' 6 luglio 1954
+ Atti del Governo, registro n. 84, foglio n. 43. - CARLOMAGNO

@@ -1,652 +1,665 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 13 febbraio 1964 n. 185
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 185
+data: 1964-02-13
+titolo: "Sicurezza degli impianti e protezione sanitaria dei lavoratori e delle popolazioni contro i pericoli delle radiazioni ionizzanti derivanti dall'impiego pacifico dell'energia nucleare."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1964-02-13;185
+codice_redazionale: 064U0185
+vigente: true
+---
 
+## NORME GENERALI
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 13 febbraio 1964 n. 185
-===============================================================
+CAPO I.
 
-Sicurezza degli impianti e protezione sanitaria dei lavoratori e delle popolazioni contro i pericoli delle radiazioni ionizzanti derivanti dall'impiego pacifico dell'energia nucleare.
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+### Art. 1.
 
-CAPO I CAPO I. NORME GENERALI
------------------------------
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 17 MARZO 1995, N. 230))
 
-### Art. 1
+### Art. 2.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 17 MARZO 1995, N. 230](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1995-03-17;230)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 17 MARZO 1995, N. 230))
 
-### Art. 2
+### Art. 3.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 17 MARZO 1995, N. 230](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1995-03-17;230)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 17 MARZO 1995, N. 230))
 
-### Art. 3
+## DEFINIZIONI
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 17 MARZO 1995, N. 230](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1995-03-17;230)))
+CAPO II
 
-CAPO II CAPO II DEFINIZIONI
----------------------------
+### Art. 4.
 
-### Art. 4
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 17 MARZO 1995, N. 230))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 17 MARZO 1995, N. 230](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1995-03-17;230)))
+### Art. 5.
 
-### Art. 5
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 17 MARZO 1995, N. 230))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 17 MARZO 1995, N. 230](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1995-03-17;230)))
+### Art. 6.
 
-### Art. 6
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 17 MARZO 1995, N. 230))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 17 MARZO 1995, N. 230](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1995-03-17;230)))
+### Art. 7.
 
-### Art. 7
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 17 MARZO 1995, N. 230))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 17 MARZO 1995, N. 230](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1995-03-17;230)))
+### Art. 8.
 
-### Art. 8
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 17 MARZO 1995, N. 230))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 17 MARZO 1995, N. 230](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1995-03-17;230)))
+### Art. 9.
 
-### Art. 9
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 17 MARZO 1995, N. 230))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 17 MARZO 1995, N. 230](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1995-03-17;230)))
+## ORGANI
 
-CAPO III CAPO III ORGANI
-------------------------
+CAPO III
 
-### Art. 10
+### Art. 10.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 17 MARZO 1995, N. 230](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1995-03-17;230)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 17 MARZO 1995, N. 230))
 
-### Art. 11
+### Art. 11.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 17 MARZO 1995, N. 230](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1995-03-17;230)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 17 MARZO 1995, N. 230))
 
-### Art. 12
+### Art. 12.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 17 MARZO 1995, N. 230](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1995-03-17;230)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 17 MARZO 1995, N. 230))
 
-### Art. 13
+### Art. 13.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 17 MARZO 1995, N. 230](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1995-03-17;230)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 17 MARZO 1995, N. 230))
 
-### Art. 14
+### Art. 14.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 17 MARZO 1995, N. 230](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1995-03-17;230)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 17 MARZO 1995, N. 230))
 
-CAPO IV CAPO IV NORME DI POLIZIA MINERARIA
-------------------------------------------
+## NORME DI POLIZIA MINERARIA
 
-### Art. 15
+CAPO IV
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 17 MARZO 1995, N. 230](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1995-03-17;230)))
+### Art. 15.
 
-### Art. 16
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 17 MARZO 1995, N. 230))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 17 MARZO 1995, N. 230](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1995-03-17;230)))
+### Art. 16.
 
-### Art. 17
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 17 MARZO 1995, N. 230))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 17 MARZO 1995, N. 230](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1995-03-17;230)))
+### Art. 17.
 
-### Art. 18
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 17 MARZO 1995, N. 230))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 17 MARZO 1995, N. 230](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1995-03-17;230)))
+### Art. 18.
 
-### Art. 19
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 17 MARZO 1995, N. 230))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 17 MARZO 1995, N. 230](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1995-03-17;230)))
+### Art. 19.
 
-### Art. 20
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 17 MARZO 1995, N. 230))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 17 MARZO 1995, N. 230](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1995-03-17;230)))
+### Art. 20.
 
-### Art. 21
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 17 MARZO 1995, N. 230))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 17 MARZO 1995, N. 230](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1995-03-17;230)))
+### Art. 21.
 
-### Art. 22
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 17 MARZO 1995, N. 230))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 17 MARZO 1995, N. 230](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1995-03-17;230)))
+### Art. 22.
 
-### Art. 23
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 17 MARZO 1995, N. 230))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 17 MARZO 1995, N. 230](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1995-03-17;230)))
+### Art. 23.
 
-### Art. 24
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 17 MARZO 1995, N. 230))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 17 MARZO 1995, N. 230](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1995-03-17;230)))
+### Art. 24.
 
-### Art. 25
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 17 MARZO 1995, N. 230))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 17 MARZO 1995, N. 230](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1995-03-17;230)))
+### Art. 25.
 
-### Art. 26
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 17 MARZO 1995, N. 230))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 17 MARZO 1995, N. 230](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1995-03-17;230)))
+### Art. 26.
 
-### Art. 27
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 17 MARZO 1995, N. 230))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 17 MARZO 1995, N. 230](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1995-03-17;230)))
+### Art. 27.
 
-### Art. 28
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 17 MARZO 1995, N. 230))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 17 MARZO 1995, N. 230](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1995-03-17;230)))
+### Art. 28.
 
-### Art. 29
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 17 MARZO 1995, N. 230))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 17 MARZO 1995, N. 230](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1995-03-17;230)))
+### Art. 29.
 
-CAPO V CAPO V DETENZIONE DI MATERIE FISSILI SPECIALI; MATERIE GREZZE; MINERALI E MATERIE RADIOATTIVE.
------------------------------------------------------------------------------------------------------
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 17 MARZO 1995, N. 230))
 
-### Art. 30
+## DETENZIONE DI MATERIE FISSILI SPECIALI; MATERIE GREZZE; MINERALI E MATERIE RADIOATTIVE.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 17 MARZO 1995, N. 230](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1995-03-17;230)))
+CAPO V
 
-### Art. 31
+### Art. 30.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 17 MARZO 1995, N. 230](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1995-03-17;230)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 17 MARZO 1995, N. 230))
 
-CAPO VI CAPO VI COMMERCIO DI MINERALI, MATERIE GREZZE E MATERIE RADIOATTIVE
----------------------------------------------------------------------------
+### Art. 31.
 
-### Art. 32
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 17 MARZO 1995, N. 230))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 17 MARZO 1995, N. 230](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1995-03-17;230)))
+## COMMERCIO DI MINERALI, MATERIE GREZZE E MATERIE RADIOATTIVE
 
-### Art. 33
+CAPO VI
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 17 MARZO 1995, N. 230](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1995-03-17;230)))
+### Art. 32.
 
-### Art. 34
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 17 MARZO 1995, N. 230))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 17 MARZO 1995, N. 230](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1995-03-17;230)))
+### Art. 33.
 
-### Art. 35
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 17 MARZO 1995, N. 230))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 17 MARZO 1995, N. 230](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1995-03-17;230)))
+### Art. 34.
 
-### Art. 36
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 17 MARZO 1995, N. 230))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 17 MARZO 1995, N. 230](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1995-03-17;230)))
+### Art. 35.
 
-CAPO VII CAPO VII IMPIANTI
---------------------------
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 17 MARZO 1995, N. 230))
 
-### Art. 37
+### Art. 36.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 17 MARZO 1995, N. 230](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1995-03-17;230)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 17 MARZO 1995, N. 230))
 
-### Art. 38
+## IMPIANTI
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 17 MARZO 1995, N. 230](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1995-03-17;230)))
+CAPO VII
 
-### Art. 39
+### Art. 37.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 17 MARZO 1995, N. 230](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1995-03-17;230)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 17 MARZO 1995, N. 230))
 
-### Art. 40
+### Art. 38.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 17 MARZO 1995, N. 230](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1995-03-17;230)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 17 MARZO 1995, N. 230))
 
-### Art. 41
+### Art. 39.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 17 MARZO 1995, N. 230](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1995-03-17;230)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 17 MARZO 1995, N. 230))
 
-### Art. 42
+### Art. 40.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 17 MARZO 1995, N. 230](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1995-03-17;230)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 17 MARZO 1995, N. 230))
 
-### Art. 43
+### Art. 41.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 17 MARZO 1995, N. 230](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1995-03-17;230)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 17 MARZO 1995, N. 230))
 
-### Art. 44
+### Art. 42.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 17 MARZO 1995, N. 230](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1995-03-17;230)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 17 MARZO 1995, N. 230))
 
-### Art. 45
+### Art. 43.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 17 MARZO 1995, N. 230](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1995-03-17;230)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 17 MARZO 1995, N. 230))
 
-### Art. 46
+### Art. 44.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 17 MARZO 1995, N. 230](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1995-03-17;230)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 17 MARZO 1995, N. 230))
 
-### Art. 47
+### Art. 45.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 17 MARZO 1995, N. 230](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1995-03-17;230)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 17 MARZO 1995, N. 230))
 
-### Art. 48
+### Art. 46.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 17 MARZO 1995, N. 230](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1995-03-17;230)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 17 MARZO 1995, N. 230))
 
-### Art. 49
+### Art. 47.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 17 MARZO 1995, N. 230](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1995-03-17;230)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 17 MARZO 1995, N. 230))
 
-### Art. 50
+### Art. 48.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 17 MARZO 1995, N. 230](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1995-03-17;230)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 17 MARZO 1995, N. 230))
 
-### Art. 51
+### Art. 49.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 17 MARZO 1995, N. 230](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1995-03-17;230)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 17 MARZO 1995, N. 230))
 
-### Art. 52
+### Art. 50.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 17 MARZO 1995, N. 230](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1995-03-17;230)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 17 MARZO 1995, N. 230))
 
-### Art. 53
+### Art. 51.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 17 MARZO 1995, N. 230](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1995-03-17;230)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 17 MARZO 1995, N. 230))
 
-### Art. 54
+### Art. 52.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 17 MARZO 1995, N. 230](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1995-03-17;230)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 17 MARZO 1995, N. 230))
 
-### Art. 55
+### Art. 53.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 17 MARZO 1995, N. 230](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1995-03-17;230)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 17 MARZO 1995, N. 230))
 
-### Art. 56
+### Art. 54.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 17 MARZO 1995, N. 230](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1995-03-17;230)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 17 MARZO 1995, N. 230))
 
-### Art. 57
+### Art. 55.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 17 MARZO 1995, N. 230](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1995-03-17;230)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 17 MARZO 1995, N. 230))
 
-### Art. 58
+### Art. 56.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 17 MARZO 1995, N. 230](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1995-03-17;230)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 17 MARZO 1995, N. 230))
 
-CAPO VIII CAPO VIII PROTEZIONE SANITARIA DEI LAVORATORI
--------------------------------------------------------
+### Art. 57.
 
-### Art. 59
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 17 MARZO 1995, N. 230))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 17 MARZO 1995, N. 230](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1995-03-17;230)))
+### Art. 58.
 
-### Art. 60
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 17 MARZO 1995, N. 230))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 17 MARZO 1995, N. 230](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1995-03-17;230)))
+## PROTEZIONE SANITARIA DEI LAVORATORI
 
-### Art. 61
+CAPO VIII
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 17 MARZO 1995, N. 230](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1995-03-17;230)))
+### Art. 59.
 
-### Art. 62
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 17 MARZO 1995, N. 230))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 17 MARZO 1995, N. 230](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1995-03-17;230)))
+### Art. 60.
 
-### Art. 63
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 17 MARZO 1995, N. 230))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 17 MARZO 1995, N. 230](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1995-03-17;230)))
+### Art. 61.
 
-### Art. 64
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 17 MARZO 1995, N. 230))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 17 MARZO 1995, N. 230](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1995-03-17;230)))
+### Art. 62.
 
-### Art. 65
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 17 MARZO 1995, N. 230))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 17 MARZO 1995, N. 230](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1995-03-17;230)))
+### Art. 63.
 
-### Art. 66
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 17 MARZO 1995, N. 230))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 17 MARZO 1995, N. 230](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1995-03-17;230)))
+### Art. 64.
 
-### Art. 67
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 17 MARZO 1995, N. 230))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 17 MARZO 1995, N. 230](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1995-03-17;230)))
+### Art. 65.
 
-### Art. 68
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 17 MARZO 1995, N. 230))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 17 MARZO 1995, N. 230](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1995-03-17;230)))
+### Art. 66.
 
-### Art. 69
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 17 MARZO 1995, N. 230))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 17 MARZO 1995, N. 230](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1995-03-17;230)))
+### Art. 67.
 
-### Art. 70
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 17 MARZO 1995, N. 230))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 17 MARZO 1995, N. 230](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1995-03-17;230)))
+### Art. 68.
 
-### Art. 71
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 17 MARZO 1995, N. 230))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 17 MARZO 1995, N. 230](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1995-03-17;230)))
+### Art. 69.
 
-### Art. 72
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 17 MARZO 1995, N. 230))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 17 MARZO 1995, N. 230](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1995-03-17;230)))
+### Art. 70.
 
-### Art. 73
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 17 MARZO 1995, N. 230))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 17 MARZO 1995, N. 230](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1995-03-17;230)))
+### Art. 71.
 
-### Art. 74
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 17 MARZO 1995, N. 230))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 17 MARZO 1995, N. 230](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1995-03-17;230)))
+### Art. 72.
 
-### Art. 75
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 17 MARZO 1995, N. 230))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 17 MARZO 1995, N. 230](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1995-03-17;230)))
+### Art. 73.
 
-### Art. 76
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 17 MARZO 1995, N. 230))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 17 MARZO 1995, N. 230](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1995-03-17;230)))
+### Art. 74.
 
-### Art. 77
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 17 MARZO 1995, N. 230))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 17 MARZO 1995, N. 230](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1995-03-17;230)))
+### Art. 75.
 
-### Art. 78
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 17 MARZO 1995, N. 230))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 17 MARZO 1995, N. 230](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1995-03-17;230)))
+### Art. 76.
 
-### Art. 79
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 17 MARZO 1995, N. 230))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 17 MARZO 1995, N. 230](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1995-03-17;230)))
+### Art. 77.
 
-### Art. 80
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 17 MARZO 1995, N. 230))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 17 MARZO 1995, N. 230](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1995-03-17;230)))
+### Art. 78.
 
-### Art. 81
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 17 MARZO 1995, N. 230))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 17 MARZO 1995, N. 230](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1995-03-17;230)))
+### Art. 79.
 
-### Art. 82
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 17 MARZO 1995, N. 230))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 17 MARZO 1995, N. 230](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1995-03-17;230)))
+### Art. 80.
 
-### Art. 83
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 17 MARZO 1995, N. 230))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 17 MARZO 1995, N. 230](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1995-03-17;230)))
+### Art. 81.
 
-### Art. 84
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 17 MARZO 1995, N. 230))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 17 MARZO 1995, N. 230](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1995-03-17;230)))
+### Art. 82.
 
-### Art. 85
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 17 MARZO 1995, N. 230))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 17 MARZO 1995, N. 230](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1995-03-17;230)))
+### Art. 83.
 
-### Art. 86
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 17 MARZO 1995, N. 230))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 17 MARZO 1995, N. 230](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1995-03-17;230)))
+### Art. 84.
 
-### Art. 87
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 17 MARZO 1995, N. 230))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 17 MARZO 1995, N. 230](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1995-03-17;230)))
+### Art. 85.
 
-CAPO IX CAPO IX PROTEZIONE SANITARIA DELLA POPOLAZIONE
-------------------------------------------------------
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 17 MARZO 1995, N. 230))
 
-### Art. 88
+### Art. 86.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 17 MARZO 1995, N. 230](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1995-03-17;230)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 17 MARZO 1995, N. 230))
 
-### Art. 89
+### Art. 87.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 17 MARZO 1995, N. 230](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1995-03-17;230)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 17 MARZO 1995, N. 230))
 
-### Art. 90
+## PROTEZIONE SANITARIA DELLA POPOLAZIONE
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 17 MARZO 1995, N. 230](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1995-03-17;230)))
+CAPO IX
 
-### Art. 91
+### Art. 88.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 17 MARZO 1995, N. 230](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1995-03-17;230)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 17 MARZO 1995, N. 230))
 
-### Art. 92
+### Art. 89.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 17 MARZO 1995, N. 230](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1995-03-17;230)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 17 MARZO 1995, N. 230))
 
-### Art. 93
+### Art. 90.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 17 MARZO 1995, N. 230](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1995-03-17;230)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 17 MARZO 1995, N. 230))
 
-### Art. 94
+### Art. 91.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 17 MARZO 1995, N. 230](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1995-03-17;230)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 17 MARZO 1995, N. 230))
 
-### Art. 95
+### Art. 92.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 17 MARZO 1995, N. 230](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1995-03-17;230)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 17 MARZO 1995, N. 230))
 
-### Art. 96
+### Art. 93.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 17 MARZO 1995, N. 230](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1995-03-17;230)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 17 MARZO 1995, N. 230))
 
-### Art. 97
+### Art. 94.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 17 MARZO 1995, N. 230](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1995-03-17;230)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 17 MARZO 1995, N. 230))
 
-### Art. 98
+### Art. 95.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 17 MARZO 1995, N. 230](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1995-03-17;230)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 17 MARZO 1995, N. 230))
 
-### Art. 99
+### Art. 96.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 17 MARZO 1995, N. 230](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1995-03-17;230)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 17 MARZO 1995, N. 230))
 
-### Art. 100
+### Art. 97.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 17 MARZO 1995, N. 230](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1995-03-17;230)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 17 MARZO 1995, N. 230))
 
-### Art. 101
+### Art. 98.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 17 MARZO 1995, N. 230](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1995-03-17;230)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 17 MARZO 1995, N. 230))
 
-### Art. 102
+### Art. 99.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 17 MARZO 1995, N. 230](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1995-03-17;230)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 17 MARZO 1995, N. 230))
 
-### Art. 103
+### Art. 100.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 17 MARZO 1995, N. 230](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1995-03-17;230)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 17 MARZO 1995, N. 230))
 
-### Art. 104
+### Art. 101.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 17 MARZO 1995, N. 230](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1995-03-17;230)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 17 MARZO 1995, N. 230))
 
-### Art. 105
+### Art. 102.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 17 MARZO 1995, N. 230](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1995-03-17;230)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 17 MARZO 1995, N. 230))
 
-### Art. 106
+### Art. 103.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 17 MARZO 1995, N. 230](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1995-03-17;230)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 17 MARZO 1995, N. 230))
 
-### Art. 107
+### Art. 104.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 17 MARZO 1995, N. 230](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1995-03-17;230)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 17 MARZO 1995, N. 230))
 
-### Art. 108
+### Art. 105.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 17 MARZO 1995, N. 230](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1995-03-17;230)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 17 MARZO 1995, N. 230))
 
-### Art. 109
+### Art. 106.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 17 MARZO 1995, N. 230](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1995-03-17;230)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 17 MARZO 1995, N. 230))
 
-### Art. 110
+### Art. 107.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 17 MARZO 1995, N. 230](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1995-03-17;230)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 17 MARZO 1995, N. 230))
 
-### Art. 111
+### Art. 108.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 17 MARZO 1995, N. 230](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1995-03-17;230)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 17 MARZO 1995, N. 230))
 
-CAPO X CAPO X STATO DI EMERGENZA NUCLEARE
------------------------------------------
+### Art. 109.
 
-### Art. 112
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 17 MARZO 1995, N. 230))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 17 MARZO 1995, N. 230](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1995-03-17;230)))
+### Art. 110.
 
-### Art. 113
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 17 MARZO 1995, N. 230))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 17 MARZO 1995, N. 230](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1995-03-17;230)))
+### Art. 111.
 
-### Art. 114
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 17 MARZO 1995, N. 230))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 17 MARZO 1995, N. 230](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1995-03-17;230)))
+## STATO DI EMERGENZA NUCLEARE
 
-### Art. 115
+CAPO X
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 17 MARZO 1995, N. 230](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1995-03-17;230)))
+### Art. 112.
 
-### Art. 116
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 17 MARZO 1995, N. 230))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 17 MARZO 1995, N. 230](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1995-03-17;230)))
+### Art. 113.
 
-### Art. 117
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 17 MARZO 1995, N. 230))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 17 MARZO 1995, N. 230](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1995-03-17;230)))
+### Art. 114.
 
-### Art. 118
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 17 MARZO 1995, N. 230))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 17 MARZO 1995, N. 230](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1995-03-17;230)))
+### Art. 115.
 
-### Art. 119
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 17 MARZO 1995, N. 230))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 17 MARZO 1995, N. 230](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1995-03-17;230)))
+### Art. 116.
 
-### Art. 120
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 17 MARZO 1995, N. 230))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 17 MARZO 1995, N. 230](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1995-03-17;230)))
+### Art. 117.
 
-### Art. 121
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 17 MARZO 1995, N. 230))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 17 MARZO 1995, N. 230](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1995-03-17;230)))
+### Art. 118.
 
-### Art. 122
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 17 MARZO 1995, N. 230))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 17 MARZO 1995, N. 230](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1995-03-17;230)))
+### Art. 119.
 
-CAPO XI CAPO XI NORME PENALI
-----------------------------
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 17 MARZO 1995, N. 230))
 
-### Art. 123
+### Art. 120.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 17 MARZO 1995, N. 230](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1995-03-17;230)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 17 MARZO 1995, N. 230))
 
-### Art. 124
+### Art. 121.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 17 MARZO 1995, N. 230](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1995-03-17;230)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 17 MARZO 1995, N. 230))
 
-### Art. 125
+### Art. 122.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 17 MARZO 1995, N. 230](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1995-03-17;230)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 17 MARZO 1995, N. 230))
 
-### Art. 126
+## NORME PENALI
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 17 MARZO 1995, N. 230](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1995-03-17;230)))
+CAPO XI
 
-### Art. 127
+### Art. 123.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 17 MARZO 1995, N. 230](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1995-03-17;230)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 17 MARZO 1995, N. 230))
 
-### Art. 128
+### Art. 124.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 17 MARZO 1995, N. 230](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1995-03-17;230)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 17 MARZO 1995, N. 230))
 
-### Art. 129
+### Art. 125.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 17 MARZO 1995, N. 230](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1995-03-17;230)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 17 MARZO 1995, N. 230))
 
-### Art. 130
+### Art. 126.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 17 MARZO 1995, N. 230](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1995-03-17;230)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 17 MARZO 1995, N. 230))
 
-### Art. 131
+### Art. 127.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 17 MARZO 1995, N. 230](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1995-03-17;230)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 17 MARZO 1995, N. 230))
 
-### Art. 132
+### Art. 128.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 17 MARZO 1995, N. 230](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1995-03-17;230)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 17 MARZO 1995, N. 230))
 
-### Art. 133
+### Art. 129.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 17 MARZO 1995, N. 230](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1995-03-17;230)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 17 MARZO 1995, N. 230))
 
-### Art. 134
+### Art. 130.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 17 MARZO 1995, N. 230](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1995-03-17;230)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 17 MARZO 1995, N. 230))
 
-### Art. 135
+### Art. 131.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 17 MARZO 1995, N. 230](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1995-03-17;230)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 17 MARZO 1995, N. 230))
 
-### Art. 136
+### Art. 132.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 17 MARZO 1995, N. 230](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1995-03-17;230)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 17 MARZO 1995, N. 230))
 
-### Art. 137
+### Art. 133.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 17 MARZO 1995, N. 230](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1995-03-17;230)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 17 MARZO 1995, N. 230))
 
-### Art. 138
+### Art. 134.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 17 MARZO 1995, N. 230](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1995-03-17;230)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 17 MARZO 1995, N. 230))
 
-### Art. 139
+### Art. 135.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 17 MARZO 1995, N. 230](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1995-03-17;230)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 17 MARZO 1995, N. 230))
 
-### Art. 140
+### Art. 136.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 17 MARZO 1995, N. 230](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1995-03-17;230)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 17 MARZO 1995, N. 230))
 
-### Art. 141
+### Art. 137.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 17 MARZO 1995, N. 230](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1995-03-17;230)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 17 MARZO 1995, N. 230))
 
-### Art. 142
+### Art. 138.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 17 MARZO 1995, N. 230](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1995-03-17;230)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 17 MARZO 1995, N. 230))
 
-### Art. 143
+### Art. 139.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 17 MARZO 1995, N. 230](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1995-03-17;230)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 17 MARZO 1995, N. 230))
 
-### Art. 144
+### Art. 140.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 17 MARZO 1995, N. 230](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1995-03-17;230)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 17 MARZO 1995, N. 230))
 
-### Art. 145
+### Art. 141.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 17 MARZO 1995, N. 230](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1995-03-17;230)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 17 MARZO 1995, N. 230))
 
-### Art. 146
+### Art. 142.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 17 MARZO 1995, N. 230](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1995-03-17;230)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 17 MARZO 1995, N. 230))
 
-### Art. 147
+### Art. 143.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 17 MARZO 1995, N. 230](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1995-03-17;230)))
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 17 MARZO 1995, N. 230))
 
-CAPO XII CAPO XII DISPOSIZIONI TRANSITORIE E FINALI
----------------------------------------------------
+### Art. 144.
 
-### Art. 148
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 17 MARZO 1995, N. 230))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 17 MARZO 1995, N. 230](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1995-03-17;230)))
+### Art. 145.
 
-### Art. 149
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 17 MARZO 1995, N. 230))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 17 MARZO 1995, N. 230](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1995-03-17;230)))
+### Art. 146.
 
-### Art. 150
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 17 MARZO 1995, N. 230))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 17 MARZO 1995, N. 230](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1995-03-17;230)))
+### Art. 147.
 
-### Art. 151
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 17 MARZO 1995, N. 230))
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 17 MARZO 1995, N. 230](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1995-03-17;230)))
+## DISPOSIZIONI TRANSITORIE E FINALI
 
-### Art. 152
+CAPO XII
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 17 MARZO 1995, N. 230](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1995-03-17;230)))
+### Art. 148.
+
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 17 MARZO 1995, N. 230))
+
+### Art. 149.
+
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 17 MARZO 1995, N. 230))
+
+### Art. 150.
+
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 17 MARZO 1995, N. 230))
+
+### Art. 151.
+
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 17 MARZO 1995, N. 230))
+
+### Art. 152.
+
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 17 MARZO 1995, N. 230))

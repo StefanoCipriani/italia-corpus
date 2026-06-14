@@ -1,19 +1,21 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 06 dicembre 1960 n. 1872
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 1872
+data: 1960-12-06
+titolo: "Erezione in ente morale del Ricovero per i vecchi poveri \"Luca Cini\", con sede nel comune di Greve (Firenze)."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1960-12-06;1872
+codice_redazionale: 060U1872
+vigente: true
+---
 
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 06 dicembre 1960 n. 1872
-================================================================
-
-Erezione in ente morale del Ricovero per i vecchi poveri "Luca Cini", con sede nel comune di Greve (Firenze).
--------------------------------------------------------------------------------------------------------------
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-1872. Decreto del Presidente della Repubblica 6 dicembre 1960, col quale, sulla proposta del Ministro per l'interno, il Ricovero per i vecchi poveri "Luca Cini", con sede nel comune di Greve (Firenze) viene e eretto in ente morale e ne viene approvato il relativo statuto organico.  
-  
-Visto, il Guardasigilli: GONELLA  
-Registrato alla Corte dei conti, addi' 28 febbraio 1961  
-Atti del Governo, registro n. 134, foglio n. 130. - VILLA
+1872.
+
+Decreto del Presidente della Repubblica 6 dicembre 1960, col quale, sulla proposta del Ministro per l'interno, il Ricovero per i vecchi poveri "Luca Cini", con sede nel comune di Greve (Firenze) viene e eretto in ente morale e ne viene approvato il relativo statuto organico.
+
+Visto, il Guardasigilli: GONELLA
+ Registrato alla Corte dei conti, addi' 28 febbraio 1961
+ Atti del Governo, registro n. 134, foglio n. 130. - VILLA

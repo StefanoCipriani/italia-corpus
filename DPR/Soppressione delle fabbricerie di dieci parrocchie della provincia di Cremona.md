@@ -1,19 +1,21 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 08 febbraio 1954 n. 289
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 289
+data: 1954-02-08
+titolo: "Soppressione delle fabbricerie di dieci parrocchie della provincia di Cremona."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1954-02-08;289
+codice_redazionale: 054U0289
+vigente: true
+---
 
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 08 febbraio 1954 n. 289
-===============================================================
-
-Soppressione delle fabbricerie di dieci parrocchie della provincia di Cremona.
-------------------------------------------------------------------------------
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-289. Decreto del Presidente della Repubblica 8 febbraio 1954, col quale, sulla proposta del Ministro per l'interno, vengono soppresse le fabbricerie di dieci parrocchie della provincia di Cremona.  
-  
-Visto, il Guardasigilli: DE PIETRO  
-Registrato alla Corte dei conti, addi' 4 giugno 1954  
-Atti del Governo, registro n. 83, foglio n. 105. - CARLOMAGNO
+289.
+
+Decreto del Presidente della Repubblica 8 febbraio 1954, col quale, sulla proposta del Ministro per l'interno, vengono soppresse le fabbricerie di dieci parrocchie della provincia di Cremona.
+
+Visto, il Guardasigilli: DE PIETRO
+ Registrato alla Corte dei conti, addi' 4 giugno 1954
+ Atti del Governo, registro n. 83, foglio n. 105. - CARLOMAGNO

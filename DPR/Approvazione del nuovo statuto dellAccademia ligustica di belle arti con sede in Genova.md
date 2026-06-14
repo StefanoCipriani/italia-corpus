@@ -1,19 +1,21 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 13 febbraio 1968 n. 534
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 534
+data: 1968-02-13
+titolo: "Approvazione del nuovo statuto dell'Accademia ligustica di belle arti, con sede in Genova."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1968-02-13;534
+codice_redazionale: 068U0534
+vigente: true
+---
 
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 13 febbraio 1968 n. 534
-===============================================================
-
-Approvazione del nuovo statuto dell'Accademia ligustica di belle arti, con sede in Genova.
-------------------------------------------------------------------------------------------
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-531. Decreto del Presidente della Repubblica 13 febbraio 1968, col quale, sulla proposta del Ministro per la pubblica istruzione, viene approvato il nuovo statuto dell'Accademia ligustica di belle arti, con sede in Genova.  
-  
-Visto, il Guardasigilli: REALE  
-Registrato alla Corte dei conti, addi' 26 aprile 1963  
-Atti del Governo, registro n. 219, foglio n. 65. - GRECO
+531.
+
+Decreto del Presidente della Repubblica 13 febbraio 1968, col quale, sulla proposta del Ministro per la pubblica istruzione, viene approvato il nuovo statuto dell'Accademia ligustica di belle arti, con sede in Genova.
+
+Visto, il Guardasigilli: REALE
+ Registrato alla Corte dei conti, addi' 26 aprile 1963
+ Atti del Governo, registro n. 219, foglio n. 65. - GRECO

@@ -1,19 +1,21 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 12 gennaio 1982 n. 173
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 173
+data: 1982-01-12
+titolo: "Modificazioni allo statuto dell'Unione italiana delle camere di commercio, industria, artigianato e agricoltura, in Roma."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1982-01-12;173
+codice_redazionale: 082U0173
+vigente: true
+---
 
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 12 gennaio 1982 n. 173
-==============================================================
-
-Modificazioni allo statuto dell'Unione italiana delle camere di commercio, industria, artigianato e agricoltura, in Roma.
--------------------------------------------------------------------------------------------------------------------------
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-173. Decreto del Presidente della Repubblica 12 gennaio 1982, col quale, sulla proposta del Ministro dell'industria, del commercio e dell'artigianato, viene approvata la modificazione all'art. 22 dello statuto dell'Unione italiana delle camere di commercio, industria, artigianato e agricoltura, in Roma, approvato con [decreto del Presidente della Repubblica 23 luglio 1968, n. 1066](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1968-07-23;1066).  
-  
-Visto, il Guardasigilli: DARIDA  
-Registrato alla Corte dei conti, addi' 3 marzo 1982  
-Registro n. 4 Industria, foglio n. 121
+173.
+
+Decreto del Presidente della Repubblica 12 gennaio 1982, col quale, sulla proposta del Ministro dell'industria, del commercio e dell'artigianato, viene approvata la modificazione all'art. 22 dello statuto dell'Unione italiana delle camere di commercio, industria, artigianato e agricoltura, in Roma, approvato con [decreto del Presidente della Repubblica 23 luglio 1968, n. 1066](Approvazione%20del%20nuovo%20statuto%20dellUnione%20italiana%20delle%20camere%20di%20commercio%20industria%20artigianato%20e%20agricoltura.md).
+
+Visto, il Guardasigilli: DARIDA
+ Registrato alla Corte dei conti, addi' 3 marzo 1982
+ Registro n. 4 Industria, foglio n. 121

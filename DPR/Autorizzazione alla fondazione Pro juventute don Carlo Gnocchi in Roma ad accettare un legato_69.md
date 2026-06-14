@@ -1,19 +1,21 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 27 giugno 1983 n. 508
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 1120
+data: 1982-12-16
+titolo: "Autorizzazione alla fondazione \"Pro juventute don Carlo Gnocchi\", in Roma, ad accettare un legato."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1982-12-16;1120
+codice_redazionale: 082U1120
+vigente: true
+---
 
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 27 giugno 1983 n. 508
-=============================================================
-
-Autorizzazione alla fondazione "Pro juventute don Carlo Gnocchi", in Roma, ad accettare un legato.
---------------------------------------------------------------------------------------------------
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-508. Decreto del Presidente della Repubblica 27 giugno 1983, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la fondazione "Pro juventute don Carlo Gnocchi", in Roma, viene autorizzata ad accettare il legato, consistente nella somma di L. 350.000.000, disposto dal sig. Cantoni Giovanni a favore dell'istituto "Don Carlo Gnocchi", che si identifica con la fondazione "Pro juventute don Carlo Gnocchi" come si evince dal verbale del consiglio di amministrazione della fondazione stessa in data 20 novembre 1981, con testamento olografo 28 luglio 1980, pubblicato in data 1 aprile 1981, n. 164398 di repertorio e n. 23083 di raccolta, a rogito dott. Alessandro Maffi, notaio in Milano, registrato a Milano il 10 aprile 1981 al n. 07614 M 71.  
-  
-Visto, il Guardasigilli: DARIDA  
-Registrato alla Corte dei conti, addi' 19 settembre 1983  
-Registro n. 7 Presidenza, foglio n. 330
+1120.
+
+Decreto del Presidente della Repubblica 16 dicembre 1982, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la fondazione "Pro juventute don Carlo Gnocchi", in Roma, viene autorizzata ad accettare il legato, consistente in titoli e saldo di libretti di conto corrente al portatore per un valore, al netto delle passivita', di L. 97.014.900, quota 1/4 - L. 24.253.725, disposto dalla sig.na De Martini Giovanna Maria a favore dei mutilatini di don Gnocchi con testamento olografo del 10 aprile 1980, pubblicato in data 19 gennaio 1981, n. 10221 di repertorio e n. 3365 di raccolta, a rogito dott. Morandi Vittorio, notaio in Alessandria, registrato ad Alessandria in data 6 febbraio 1981, al n. 549.
+
+Visto, il Guardasigilli: DARIDA
+ Registrato alla Corte dei conti, addi' 18 febbraio 1983
+ Registro n. 2 Presidenza, foglio n. 65

@@ -1,18 +1,20 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 29 settembre 1948 n. 1367
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 1367
+data: 1948-09-29
+titolo: "Dichiarazione formale dei fini della Confraternita del SS.mo Sacramento, in Albano Vercellese (Vercelli)."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1948-09-29;1367
+codice_redazionale: 048U1367
+vigente: true
+---
 
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 29 settembre 1948 n. 1367
-=================================================================
-
-Dichiarazione formale dei fini della Confraternita del SS.mo Sacramento, in Albano Vercellese (Vercelli).
----------------------------------------------------------------------------------------------------------
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-1367. Decreto del Presidente della Repubblica 28 settembre 1948, col quale, sulla proposta del Ministro per l'interno, viene provveduto all'accertamento dello scopo prevalente di culto nei riguardi della Confraternita del SS.mo Sacramento, in Albano Vercellese (Vercelli).  
-  
-Visto, il Guardasigilli: GRASSI  
-Registrato alla Corte dei conti, addi' 23 novembre 148
+1367.
+
+Decreto del Presidente della Repubblica 28 settembre 1948, col quale, sulla proposta del Ministro per l'interno, viene provveduto all'accertamento dello scopo prevalente di culto nei riguardi della Confraternita del SS.mo Sacramento, in Albano Vercellese (Vercelli).
+
+Visto, il Guardasigilli: GRASSI
+ Registrato alla Corte dei conti, addi' 23 novembre 148

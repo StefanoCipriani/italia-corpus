@@ -1,19 +1,21 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 07 ottobre 1960 n. 1440
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 1440
+data: 1960-10-07
+titolo: "Erezione in ente morale della Cassa scolastica della Scuola media statale di Gravina."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1960-10-07;1440
+codice_redazionale: 060U1440
+vigente: true
+---
 
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 07 ottobre 1960 n. 1440
-===============================================================
-
-Erezione in ente morale della Cassa scolastica della Scuola media statale di Gravina.
--------------------------------------------------------------------------------------
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-1440. Decreto del Presidente della Repubblica 7 ottobre 1960, col quale, sulla proposta del Ministro per la pubblica istruzione, la Cassa scolastica della Scuola media statale di Gravina viene eretta in ente morale e ne viene approvato lo statuto.  
-  
-Visto, il Guardasigilli: GONELLA  
-Registrato alla Corte dei conti, addi' 29 novembre 1960  
-Atti del Governo, registro n. 131, foglio n. 117. - VILLA
+1440.
+
+Decreto del Presidente della Repubblica 7 ottobre 1960, col quale, sulla proposta del Ministro per la pubblica istruzione, la Cassa scolastica della Scuola media statale di Gravina viene eretta in ente morale e ne viene approvato lo statuto.
+
+Visto, il Guardasigilli: GONELLA
+ Registrato alla Corte dei conti, addi' 29 novembre 1960
+ Atti del Governo, registro n. 131, foglio n. 117. - VILLA

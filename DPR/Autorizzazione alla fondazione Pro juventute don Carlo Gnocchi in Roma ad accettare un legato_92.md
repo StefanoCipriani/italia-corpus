@@ -1,19 +1,21 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 dicembre 1985 n. 959
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 564
+data: 1985-07-16
+titolo: "Autorizzazione alla fondazione \"Pro juventute don Carlo Gnocchi\", in Roma, ad accettare un legato."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1985-07-16;564
+codice_redazionale: 085U0564
+vigente: true
+---
 
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 dicembre 1985 n. 959
-===============================================================
-
-Autorizzazione alla fondazione "Pro juventute don Carlo Gnocchi", in Roma, ad accettare un legato.
---------------------------------------------------------------------------------------------------
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-959. Decreto del Presidente della Repubblica 31 dicembre 1985, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la fondazione "Pro juventute don Carlo Gnocchi", in Roma, viene autorizzata ad accettare il legato, consistente nella somma di L. 20.000.000, disposto dal sig. Bolchi Antonio, con testamento olografo del 29 dicembre 1981, pubblicato in data 8 febbraio 1982, n. 24492 di repertorio, a rogito dott. Luigi Augusto Miserocchi, notaio in Milano registrato a Milano, in data 10 febbraio 1982 al n. 03802.   
-  
-Visto, il Guardasigilli: MARTINAZZOLI   
-Registrato alla Corte dei conti, addi' 10 marzo 1986   
-Registro n. 2 Presidenza, foglio n. 381
+564.
+
+Decreto del Presidente della Repubblica 16 luglio 1985, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la fondazione "Pro juventute don Carlo Gnocchi", in Roma, viene autorizzata ad accettare il legato, consistente in un quarto della quota residua dell'assegnazione ad altri legatari del ricavato della vendita di un immobile sito in Roma, via Fratelli Ruspoli n. 2 ed annesso box ed altri beni mobili per un totale di L. 47.872.000, come risulta dal prospetto della consistenza, disposto dalla sig.ra Del Barba Maria con testamento olografo 23 luglio 1981, pubblicato il 12 maggio 1982, n. 75394 di repertorio e n. 9847 di raccolta, a rogito dottor Franco Ventura, notaio in Roma, registrato a Roma il 17 maggio 1982 al n. 419031.
+
+Visto, il Guardasigilli: MARTINAZZOLI
+ Registrato alla Corte dei conti, addi' 11 ottobre 1985
+ Registro n. 9 Presidenza, foglio n. 67

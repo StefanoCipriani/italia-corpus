@@ -1,19 +1,21 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 ottobre 1980 n. 908
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 772
+data: 1980-09-15
+titolo: "Autorizzazione alla fondazione \"Pro juventute don Carlo Gnocchi\", in Roma, ad accettare un legato."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1980-09-15;772
+codice_redazionale: 080U0772
+vigente: true
+---
 
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 ottobre 1980 n. 908
-==============================================================
-
-Autorizzazione alla fondazione "Pro juventute don Carlo Gnocchi", in Roma, ad accettare un legato.
---------------------------------------------------------------------------------------------------
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-908. Decreto del Presidente della Repubblica 30 ottobre 1980, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la fondazione "Pro juventute don Carlo Gnocchi", in Roma, viene autorizzata ad accettare il legato, consistente nella somma di lire 10.000.000, disposto a favore del centro pilota "Pro juventute a beneficio dei mutilatini di don Gnocchi" che si identifica nella fondazione "Pro juventute don Carlo Gnocchi", come ha fatto presente la fondazione medesima, dalla sig.ra Saltamerenda Jole in Sirtoli con testamento olografo 12 maggio 1972 pubblicato a rogito dott. Enrico Masini, notaio in Milano, in data 10 novembre 1978, n. 48578 di rep. e n. 13212 progress., registrato a Milano il 17 novembre 1978 al n. 19567, serie H.  
-  
-Visto, il Guardasigilli: SARTI  
-Registrato alla Corte dei conti, addi' 20 dicembre 1980  
-Registro n. 9 Presidenza, foglio n. 188
+772.
+
+Decreto del Presidente della Repubblica 15 settembre 1980, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la fondazione "Pro juventute don Carlo Gnocchi", in Roma, viene autorizzata ad accettare il legato, consistente nella somma di L. 10.000.000, disposto dalla sig.ra Ida Benetti con testamento olografo 8 gennaio 1969, pubblicato in data 30 dicembre 1975, n. 46652 di repertorio e n. 13274 di raccolta, a rogito dott. Giovanni Carraro, notaio in Schio (Vicenza), registrato a Schio in data 14 gennaio 1976, n. 84, vol. 210/1°.
+
+Visto, il Guardasigilli: MORLINO
+ Registrato alla Corte dei conti, addi' 12 novembre 1980
+ Registro n. 8 Presidenza, foglio n. 340

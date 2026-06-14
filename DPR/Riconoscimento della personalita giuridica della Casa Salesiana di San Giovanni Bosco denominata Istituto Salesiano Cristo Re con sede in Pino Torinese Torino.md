@@ -1,19 +1,21 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 09 dicembre 1962 n. 1921
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 1921
+data: 1962-12-09
+titolo: "Riconoscimento della personalita' giuridica della Casa Salesiana di San Giovanni Bosco, denominata \"Istituto Salesiano Cristo Re\", con sede in Pino Torinese (Torino)."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1962-12-09;1921
+codice_redazionale: 062U1921
+vigente: true
+---
 
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 09 dicembre 1962 n. 1921
-================================================================
-
-Riconoscimento della personalita' giuridica della Casa Salesiana di San Giovanni Bosco, denominata "Istituto Salesiano Cristo Re", con sede in Pino Torinese (Torino).
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-1121. Decreto del Presidente della Repubblica 9 dicembre 1962 col quale, sulla proposta del Ministro per l'interno, viene riconosciuta la personalita' giuridica della Casa Salesiana di San Giovanni Bosco, denominata "Istituto Salesiano Cristo Re", con sede in Pino Torinese (Torino).  
-  
-Visto, il Guardasigilli: BOSCO  
-Registrato alla Corte dei conti, addi' 18 gennaio 1963  
-Atti del Governo, registro n. 162, foglio n. 10. - VILLA
+1121.
+
+Decreto del Presidente della Repubblica 9 dicembre 1962 col quale, sulla proposta del Ministro per l'interno, viene riconosciuta la personalita' giuridica della Casa Salesiana di San Giovanni Bosco, denominata "Istituto Salesiano Cristo Re", con sede in Pino Torinese (Torino).
+
+Visto, il Guardasigilli: BOSCO
+ Registrato alla Corte dei conti, addi' 18 gennaio 1963
+ Atti del Governo, registro n. 162, foglio n. 10. - VILLA

@@ -1,20 +1,20 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 gennaio 1962 n. 390
-
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 gennaio 1962 n. 390
-==============================================================
-
-Norme sul trattamento economico e normativo dei lavoratori dipendenti dalle imprese esercenti frantoi oleari della provincia di Matera.
----------------------------------------------------------------------------------------------------------------------------------------
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 390
+data: 1962-01-02
+titolo: "Norme sul trattamento economico e normativo dei lavoratori dipendenti dalle imprese esercenti frantoi oleari della provincia di Matera."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1962-01-02;390
+codice_redazionale: 062U0390
+vigente: true
+---
 
 IL PRESIDENTE DELLA REPUBBLICA
-------------------------------
 
-Visto l'[art. 87, comma quinto, della Costituzione](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27~art87-com5);
+Visto l'[art. 87, comma quinto, della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87-com5);
 
-Vista la [legge 14 luglio 1959, n. 741](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1959-07-14;741), che delega il Governo ad emanare norme transitorie per garantire minimi di trattamento economico e normativo ai lavoratori;
+Vista la [legge 14 luglio 1959, n. 741](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1959-07-14;741), che delega il Governo ad emanare norme transitorie per garantire minimi di trattamento economico e normativo ai lavoratori;
 
-Vista la legge 1 ottobre, n. 1027, recante modifiche alla predetta [legge 14 luglio 1959, n. 741](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1959-07-14;741);
+Vista la legge 1 ottobre, n. 1027, recante modifiche alla predetta [legge 14 luglio 1959, n. 741](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1959-07-14;741);
 
 Visti, per la provincia di Matera:
 
@@ -28,49 +28,18 @@ Vista la pubblicazione nell'apposito Bollettino, n. 10 della provincia di Matera
 
 Sentito il Consiglio dei Ministri;
 
-Sulla
------
+Sulla proposta del Ministro per il lavoro e la previdenza sociale; Decreta:
 
-proposta del Ministro per il lavoro e la previdenza sociale; Decreta:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-I rapporti di lavoro costituiti per l'attivita' per la quale sono stati stipulati, per' la provincia di Matera:  
-- l'accordo collettivo 13 dicembre 1946, relativo agli operai dipendenti dai frantoi oleari industriali;  
-- l'accordo collettivo 28 gennaio 1948, relativo ai lavoratori addetti ai frantoi oleari industriali;  
-sono regolati da norme giuridiche uniformi alle clausole degli accordi anzidetti, annessi al presente decreto.  
-I minimi di trattamento economico e normativo cosi' stabiliti sono inderogabili nei confronti di tutti gli operai dipendenti dalle imprese esercenti frantoi oleari della provincia di Matera.  
-  
+I rapporti di lavoro costituiti per l'attivita' per la quale sono stati stipulati, per' la provincia di Matera:
+ - l'accordo collettivo 13 dicembre 1946, relativo agli operai dipendenti dai frantoi oleari industriali;
+ - l'accordo collettivo 28 gennaio 1948, relativo ai lavoratori addetti ai frantoi oleari industriali;
+sono regolati da norme giuridiche uniformi alle clausole degli accordi anzidetti, annessi al presente decreto.
+ I minimi di trattamento economico e normativo cosi' stabiliti sono inderogabili nei confronti di tutti gli operai dipendenti dalle imprese esercenti frantoi oleari della provincia di Matera.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 2 gennaio 1962
+Dato a Roma, addi' 2 gennaio 1962
 
-GRONCHI FANFANI - SULLO
-
-Visto, il Guardasigilli: BOSCO
-
-Registrato alla Corte dei conti, addi' 10 maggio 1962
-
-Atti del Governo, registro n. 147, foglio n. 80. - VILLA
-
-Allegato
-
-ACCORDO COLLETTIVO 13 DICEMBRE 1946 PER GLI OPERAI DIPENDENTI DAI FRANTOI OLEARI INDUSTRIALI DELLA PROVINCIA DI MATERA.   
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=062U039000100010110001&dgu=1962-06-14&art.dataPubblicazioneGazzetta=1962-06-14&art.codiceRedazionale=062U0390)
-  
-  
-  
-  
-  
-ACCORDO COLLETTIVO 28 GENNAIO 1948 PER I LAVORATORI ADDETTI AI FRANTOI OLEARI INDUSTRIALI DELLA PROVINCIA DI MATERA   
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=062U039000100010110002&dgu=1962-06-14&art.dataPubblicazioneGazzetta=1962-06-14&art.codiceRedazionale=062U0390)
-  
+GRONCHI FANFANI - SULLO Visto, il Guardasigilli: BOSCO Registrato alla Corte dei conti, addi' 10 maggio 1962 Atti del Governo, registro n. 147, foglio n. 80. - VILLA

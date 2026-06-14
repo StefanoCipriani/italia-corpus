@@ -1,81 +1,51 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 12 agosto 1951 n. 873
-
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 12 agosto 1951 n. 873
-=============================================================
-
-Trasferimento in proprieta' all'Opera per la valorizzazione della Sila di terreni di proprieta' di Bilotti Filippo fu Ferdinando, in comune di Aprigliano (Cosenza).
---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 873
+data: 1951-08-12
+titolo: "Trasferimento in proprieta' all'Opera per la valorizzazione della Sila di terreni di proprieta' di Bilotti Filippo fu Ferdinando, in comune di Aprigliano (Cosenza)."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1951-08-12;873
+codice_redazionale: 051U0873
+vigente: true
+---
 
 IL PRESIDENTE DELLA REPUBBLICA
-------------------------------
 
-Visti gli [articoli 77, comma primo](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27~art77-com1), ed [87, comma quinto, della Costituzione](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27~art87-com5) della Repubblica;
+Visti gli [articoli 77, comma primo](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_77-com1), ed [87, comma quinto, della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87-com5) della Repubblica;
 
-Vista la [legge 12 maggio 1950, n. 230, e l'art. 16](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1950-05-12;230~art16) della [legge 21 ottobre 1950, n. 841](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1950-10-21;841);
+Vista la [legge 12 maggio 1950, n. 230, e l'art. 16](../Atti%20normativi%20abrogati%20%28in%20originale%29/Provvedimenti%20per%20la%20colonizzazione%20dellAltopiano%20della%20Sila%20e%20dei%20territori%20jonici%20contermini.md) della [legge 21 ottobre 1950, n. 841](../Atti%20normativi%20abrogati%20%28in%20originale%29/Norme%20per%20la%20espropriazione%20bonifica%20trasformazione%20ed%20assegnazione%20dei%20terreni%20ai%20contadini.md);
 
-In virtu' della delegazione concessa con l'[art. 5 della legge 12 maggio 1950, n. 230](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1950-05-12;230~art5);
+In virtu' della delegazione concessa con l'[art. 5 della legge 12 maggio 1950, n. 230](../Atti%20normativi%20abrogati%20%28in%20originale%29/Provvedimenti%20per%20la%20colonizzazione%20dellAltopiano%20della%20Sila%20e%20dei%20territori%20jonici%20contermini.md);
 
-Udito il parere in data 13 giugno 1951, della Commissione parlamentare, nominata a norma dell'[art. 5 della legge 12 maggio 1950, n. 230](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1950-05-12;230~art5), la quale ha esaminato il piano particolareggiato di espropriazione, compilato dall'Opera per la valorizzazione della Sila, per i terreni ricadenti nel comune di Aprigliano (Cosenza), della superficie di Ha. 274.36.80, nei confronti di Bilotti Filippo fu Ferdinando;
+Udito il parere in data 13 giugno 1951, della Commissione parlamentare, nominata a norma dell'[art. 5 della legge 12 maggio 1950, n. 230](../Atti%20normativi%20abrogati%20%28in%20originale%29/Provvedimenti%20per%20la%20colonizzazione%20dellAltopiano%20della%20Sila%20e%20dei%20territori%20jonici%20contermini.md), la quale ha esaminato il piano particolareggiato di espropriazione, compilato dall'Opera per la valorizzazione della Sila, per i terreni ricadenti nel comune di Aprigliano (Cosenza), della superficie di Ha. 274.36.80, nei confronti di Bilotti Filippo fu Ferdinando;
 
 Sentito il Consiglio dei Ministri;
 
-Sulla
------
+Sulla proposta del Ministro Segretario di Stato per l'agricoltura e le foreste; Decreta:
 
-proposta del Ministro Segretario di Stato per l'agricoltura e le foreste; Decreta:
+## Art. 1.
 
-Art. 1
-------
+E' approvato il piano particolareggiato di espropriazione, compilato dall'Opera per la valorizzazione della Sila, per i terreni ricadenti nel comune di Aprigliano (Cosenza), della superficie di Ha. 274.36.80, nei confronti di Bilotti Filippo fu Ferdinando.
 
-  
-E' approvato il piano particolareggiato di espropriazione, compilato dall'Opera per la valorizzazione della Sila, per i terreni ricadenti nel comune di Aprigliano (Cosenza), della superficie di Ha. 274.36.80, nei confronti di Bilotti Filippo fu Ferdinando.  
+## Art. 2.
 
-Art. 2
-------
+E' ordinata la immediata occupazione, da parte dell'Opera per la valorizzazione della Sila, dei terreni di cui al precedente art. 1, confinanti:
+ il primo corpo, della superficie di Ha. 80.66.10, a nord, con la proprieta' Morelli Albino; ad est, con il vallone Chimenti-Macchione e torrente Piciaro; a sud, con la proprieta' eredi Sacchetta Arturo e Bilotti Filippo; ad ovest, con la comunale Colle del Tabaccaro-Isbarro;
+ il secondo corpo, della superficie di Ha. 100.66.30, a nord, con la proprieta' di Bilotti Filippo; ad est, con il torrente Piciaro e con la proprieta' di Bilotti Filippo; a sud, con la comunale Camarda-Caporosa; ad ovest, con la statale silana di Cariati, vallone Chimenti-Macchione;
+ il terzo corpo, della superficie di Ha. 40.54.70, a nord, con la comunale Camarda-Caporosa; ad est, con il torrente Piciaro; a sud, con la proprieta' di Bilotti Filippo; ad ovest, con quella degli eredi Sacchetta Arturo;
+ il quarto corpo, della superficie di Ha. 31.10.30, a nord-ovest, con la proprieta' di Bilotti Filippo; ad est, e sud-est, con la vicinale Piciaro; ad ovest, con il torrente omonimo;
+ il quinto corpo, della superficie di Ha. 19.99.00, a nord ed est, con la proprieta' di Bilotti Filippo; a sud, con la comunale Camarda-Caporosa; ad ovest, con la vicinale Piciaro;
+ il sesto corpo, della superficie di Ha. 1.40.40, a nord ed est, con il torrente Tassitano; a sud, con la comunale Camarda-Caporosa; ad ovest, con la proprieta' di Bilotti Filippo.
 
-  
-E' ordinata la immediata occupazione, da parte dell'Opera per la valorizzazione della Sila, dei terreni di cui al precedente art. 1, confinanti:  
-il primo corpo, della superficie di Ha. 80.66.10, a nord, con la proprieta' Morelli Albino; ad est, con il vallone Chimenti-Macchione e torrente Piciaro; a sud, con la proprieta' eredi Sacchetta Arturo e Bilotti Filippo; ad ovest, con la comunale Colle del Tabaccaro-Isbarro;  
-il secondo corpo, della superficie di Ha. 100.66.30, a nord, con la proprieta' di Bilotti Filippo; ad est, con il torrente Piciaro e con la proprieta' di Bilotti Filippo; a sud, con la comunale Camarda-Caporosa; ad ovest, con la statale silana di Cariati, vallone Chimenti-Macchione;  
-il terzo corpo, della superficie di Ha. 40.54.70, a nord, con la comunale Camarda-Caporosa; ad est, con il torrente Piciaro; a sud, con la proprieta' di Bilotti Filippo; ad ovest, con quella degli eredi Sacchetta Arturo;  
-il quarto corpo, della superficie di Ha. 31.10.30, a nord-ovest, con la proprieta' di Bilotti Filippo; ad est, e sud-est, con la vicinale Piciaro; ad ovest, con il torrente omonimo;  
-il quinto corpo, della superficie di Ha. 19.99.00, a nord ed est, con la proprieta' di Bilotti Filippo; a sud, con la comunale Camarda-Caporosa; ad ovest, con la vicinale Piciaro;  
-il sesto corpo, della superficie di Ha. 1.40.40, a nord ed est, con il torrente Tassitano; a sud, con la comunale Camarda-Caporosa; ad ovest, con la proprieta' di Bilotti Filippo.  
+## Art. 3.
 
-Art. 3
-------
+I terreni di cui sopra sono trasferiti in proprieta' all'Opera per la valorizzazione della Sila.
 
-  
-I terreni di cui sopra sono trasferiti in proprieta' all'Opera per la valorizzazione della Sila.  
+## Art. 4.
 
-Art. 4
-------
-
-  
-L'elenco dei terreni, compresi nel piano di espropriazione di cui all'art. 1, con l'indicazione dell'indennita' offerta, munito del visto del Ministro proponente, forma parte integrante del presente decreto, che entra in vigore il giorno stesso della sua pubblicazione nella Gazzetta Ufficiale della Repubblica italiana.  
-  
+L'elenco dei terreni, compresi nel piano di espropriazione di cui all'art. 1, con l'indicazione dell'indennita' offerta, munito del visto del Ministro proponente, forma parte integrante del presente decreto, che entra in vigore il giorno stesso della sua pubblicazione nella Gazzetta Ufficiale della Repubblica italiana.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di non osservare.
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 12 agosto 1951
+Dato a Roma, addi' 12 agosto 1951
 
-EINAUDI DE GASPERI - FANFANI
-
-Visto, il Guardasigilli: ZOLI
-
-Registrato alla Corte dei conti, addi' 13 settembre 1951
-
-Atti del Governo, registro n. 43, foglio n. 34. - CARLOMAGNO
-
-Elenco
-
- COMUNE DI APRIGLIANO (Cosenza)   
-Elenco dei terreni espropriati nei confronti di Bilotti Filippo fu Ferdinando a termini degli [articoli 1](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1950-05-12;230~art1) e [2 della legge 12 maggio 1950, n. 230](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1950-05-12;230~art2)
-  
-  
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=051U087300100010110001&dgu=1951-09-14&art.dataPubblicazioneGazzetta=1951-09-14&art.codiceRedazionale=051U0873)
-  
+EINAUDI DE GASPERI - FANFANI Visto, il Guardasigilli: ZOLI Registrato alla Corte dei conti, addi' 13 settembre 1951 Atti del Governo, registro n. 43, foglio n. 34. - CARLOMAGNO

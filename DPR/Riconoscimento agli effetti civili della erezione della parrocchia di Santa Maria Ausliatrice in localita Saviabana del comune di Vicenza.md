@@ -1,19 +1,21 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 14 luglio 1962 n. 1285
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 1285
+data: 1962-07-14
+titolo: "Riconoscimento, agli effetti civili, della erezione della parrocchia di Santa Maria Ausliatrice, in localita' Saviabana del comune di Vicenza."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1962-07-14;1285
+codice_redazionale: 062U1285
+vigente: true
+---
 
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 14 luglio 1962 n. 1285
-==============================================================
-
-Riconoscimento, agli effetti civili, della erezione della parrocchia di Santa Maria Ausliatrice, in localita' Saviabana del comune di Vicenza.
-----------------------------------------------------------------------------------------------------------------------------------------------
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-1285. Decreto del Presidente della Repubblica 14 luglio 1962, col quale, sulla proposta del Ministro per l'interno, viene riconosciuto, agli effetti civili, il decreto dell'Ordinario diocesano di Vicenza in data 17 dicembre 1956, relativo alla erezione della parrocchia di Santa Maria Ausiliatrice, in localita' Saviabona del comune di Vicenza.  
-  
-Visto, il Guardasigilli: BOSCO  
-Registrato alla Corte dei conti, addi' 24 agosto 1962  
-Atti del Governo, registro n. 158, foglio n. 37. - VILLA
+1285.
+
+Decreto del Presidente della Repubblica 14 luglio 1962, col quale, sulla proposta del Ministro per l'interno, viene riconosciuto, agli effetti civili, il decreto dell'Ordinario diocesano di Vicenza in data 17 dicembre 1956, relativo alla erezione della parrocchia di Santa Maria Ausiliatrice, in localita' Saviabona del comune di Vicenza.
+
+Visto, il Guardasigilli: BOSCO
+ Registrato alla Corte dei conti, addi' 24 agosto 1962
+ Atti del Governo, registro n. 158, foglio n. 37. - VILLA

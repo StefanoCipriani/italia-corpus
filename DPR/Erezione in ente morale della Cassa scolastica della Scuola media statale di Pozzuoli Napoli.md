@@ -1,19 +1,21 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 22 novembre 1953 n. 1185
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 1185
+data: 1953-11-22
+titolo: "Erezione in ente morale della Cassa scolastica della Scuola media statale di Pozzuoli (Napoli)."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1953-11-22;1185
+codice_redazionale: 053U1185
+vigente: true
+---
 
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 22 novembre 1953 n. 1185
-================================================================
-
-Erezione in ente morale della Cassa scolastica della Scuola media statale di Pozzuoli (Napoli).
------------------------------------------------------------------------------------------------
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-1185. Decreto del Presidente della Repubblica 22 novembre 1953, col quale, sulla proposta del Ministro per la pubblica istruzione, la Cassa scolastica della Scuola media statale di Pozzuoli (Napoli), viene eretta in ente morale e ne viene approvato lo statuto.  
-  
-Visto, il Guardasigilli: AZARA  
-Registrato alla Corte dei conti, addi' 20 aprile 1954  
-Atti del Governo, registro n. 82, foglio n. 132. - CARLOMAGNO
+1185.
+
+Decreto del Presidente della Repubblica 22 novembre 1953, col quale, sulla proposta del Ministro per la pubblica istruzione, la Cassa scolastica della Scuola media statale di Pozzuoli (Napoli), viene eretta in ente morale e ne viene approvato lo statuto.
+
+Visto, il Guardasigilli: AZARA
+ Registrato alla Corte dei conti, addi' 20 aprile 1954
+ Atti del Governo, registro n. 82, foglio n. 132. - CARLOMAGNO

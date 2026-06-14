@@ -1,19 +1,21 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 24 febbraio 1967 n. 338
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 338
+data: 1967-02-24
+titolo: "Modificazioni allo statuto della Fondazione Francesco Giordani, in Roma."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1967-02-24;338
+codice_redazionale: 067U0338
+vigente: true
+---
 
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 24 febbraio 1967 n. 338
-===============================================================
-
-Modificazioni allo statuto della Fondazione Francesco Giordani, in Roma.
-------------------------------------------------------------------------
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-337. Decreto del Presidente della Repubblica 24 febbraio 1967, col quale, sulla proposta del Ministro per la pubblica istruzione, viene approvata una modifica all'art. 8 dello statuto della Fondazione Francesco Giordani, in Roma.  
-  
-Visto, il Guardasigilli: REALE  
-Registrato alla Corte dei conti, addi' 27 maggio 1967  
-Atti del Governo, registro n. 211, foglio n. 61. - GRECO
+337.
+
+Decreto del Presidente della Repubblica 24 febbraio 1967, col quale, sulla proposta del Ministro per la pubblica istruzione, viene approvata una modifica all'art. 8 dello statuto della Fondazione Francesco Giordani, in Roma.
+
+Visto, il Guardasigilli: REALE
+ Registrato alla Corte dei conti, addi' 27 maggio 1967
+ Atti del Governo, registro n. 211, foglio n. 61. - GRECO

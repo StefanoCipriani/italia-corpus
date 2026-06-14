@@ -1,18 +1,17 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 18 maggio 1970 n. 467
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 467
+data: 1970-05-18
+titolo: "Determinazione dei comandi e dei reparti territoriali della guardia di finanza."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1970-05-18;467
+codice_redazionale: 070U0467
+vigente: true
+---
 
+## Art. 1.
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 18 maggio 1970 n. 467
-=============================================================
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 24 MAGGIO 1972, N. 311))
 
-Determinazione dei comandi e dei reparti territoriali della guardia di finanza.
--------------------------------------------------------------------------------
+## Art. 2.
 
-Art. 1
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 24 MAGGIO 1972, N. 311](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1972-05-24;311)))
-
-Art. 2
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 24 MAGGIO 1972, N. 311](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1972-05-24;311)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 24 MAGGIO 1972, N. 311))

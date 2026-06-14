@@ -1,19 +1,21 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 26 ottobre 1967 n. 1297
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 1297
+data: 1967-10-26
+titolo: "Erezione in ente morale della cassa scolastica della scuola media statale di Campli (Teramo)."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1967-10-26;1297
+codice_redazionale: 067U1297
+vigente: true
+---
 
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 26 ottobre 1967 n. 1297
-===============================================================
-
-Erezione in ente morale della cassa scolastica della scuola media statale di Campli (Teramo).
----------------------------------------------------------------------------------------------
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-1297. Decreto del Presidente della Repubblica 26 ottobre 1967, col quale, sulla proposta del Ministro per la pubblica istruzione, la cassa scolastica della scuola media statale di Campli (Teramo) viene eretta in ente morale e ne viene approvato lo statuto.  
-  
-Visto, il Guardasigilli: REALE  
-Registrato alla Corte dei conti, addi' 3 gennaio 1968  
-Atti del Governo, registro n. 216, foglio n. 100. - GRECO
+1297.
+
+Decreto del Presidente della Repubblica 26 ottobre 1967, col quale, sulla proposta del Ministro per la pubblica istruzione, la cassa scolastica della scuola media statale di Campli (Teramo) viene eretta in ente morale e ne viene approvato lo statuto.
+
+Visto, il Guardasigilli: REALE
+ Registrato alla Corte dei conti, addi' 3 gennaio 1968
+ Atti del Governo, registro n. 216, foglio n. 100. - GRECO

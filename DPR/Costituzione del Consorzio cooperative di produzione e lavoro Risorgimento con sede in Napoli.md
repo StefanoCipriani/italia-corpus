@@ -1,19 +1,21 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 10 maggio 1956 n. 1188
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 1188
+data: 1956-05-10
+titolo: "Costituzione del Consorzio cooperative di produzione e lavoro \"Risorgimento\", con sede in Napoli."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1956-05-10;1188
+codice_redazionale: 056U1188
+vigente: true
+---
 
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 10 maggio 1956 n. 1188
-==============================================================
-
-Costituzione del Consorzio cooperative di produzione e lavoro "Risorgimento", con sede in Napoli.
--------------------------------------------------------------------------------------------------
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-1188. Decreto del Presidente della Repubblica 10 maggio 1956, col quale, sulla proposta del Ministro per il lavoro e la previdenza sociale, di concerto con il Ministro per i lavori pubblici, viene costituito il Consorzio cooperative di produzione e lavoro "Risorgimento", con sede in Napoli e ne viene approvato lo statuto.  
-  
-Visto, il Guardasigilli: MORO  
-Registrato alla Corte dei conti, addi' 25 ottobre 1956  
-Atti del Governo, registro n. 101, foglio n. 72. - CARLOMAGNO
+1188.
+
+Decreto del Presidente della Repubblica 10 maggio 1956, col quale, sulla proposta del Ministro per il lavoro e la previdenza sociale, di concerto con il Ministro per i lavori pubblici, viene costituito il Consorzio cooperative di produzione e lavoro "Risorgimento", con sede in Napoli e ne viene approvato lo statuto.
+
+Visto, il Guardasigilli: MORO
+ Registrato alla Corte dei conti, addi' 25 ottobre 1956
+ Atti del Governo, registro n. 101, foglio n. 72. - CARLOMAGNO

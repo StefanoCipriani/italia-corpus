@@ -1,20 +1,20 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 gennaio 1962 n. 949
-
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 gennaio 1962 n. 949
-==============================================================
-
-Norme sul trattamento economico e normativo dei mezzadri delle province di Arezzo, Firenze, Grosseto, Livorno, Lucca, Pisa, Pistoia e dei comuni di Montignoso, Massa, Carrara e Fosdinovo.
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 949
+data: 1962-01-02
+titolo: "Norme sul trattamento economico e normativo dei mezzadri delle province di Arezzo, Firenze, Grosseto, Livorno, Lucca, Pisa, Pistoia e dei comuni di Montignoso, Massa, Carrara e Fosdinovo."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1962-01-02;949
+codice_redazionale: 062U0949
+vigente: true
+---
 
 IL PRESIDENTE DELLA REPUBBLICA
-------------------------------
 
-Visto l'[art. 87, comma quinto, della costituzione](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27~art87-com5);
+Visto l'[art. 87, comma quinto, della costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87-com5);
 
-Vista la [legge 14 luglio 1959, n. 741](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1959-07-14;741), che delega il Governo ad emanare norme transitorie per garantire minimi di trattamento economico e normativo ai lavoratori;
+Vista la [legge 14 luglio 1959, n. 741](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1959-07-14;741), che delega il Governo ad emanare norme transitorie per garantire minimi di trattamento economico e normativo ai lavoratori;
 
-Vista la [legge 1 ottobre 1960, n. 1027](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1960-10-01;1027), recante modifiche alla predetta [legge 14 luglio 1959, n. 741](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1959-07-14;741);
+Vista la [legge 1 ottobre 1960, n. 1027](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1960-10-01;1027), recante modifiche alla predetta [legge 14 luglio 1959, n. 741](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1959-07-14;741);
 
 Visti gli accordi collettivi interconfederali 24 novembre 1954 e 9 novembre 1955, relativi alle controversie mezzadrili;
 
@@ -104,275 +104,21 @@ Vista la pubblicazione nell'apposito Bollettino, n. 12 della provincia di Arezzo
 
 Sentito il Consiglio dei Ministri;
 
-Sulla
------
+Sulla proposta del Ministro per il lavoro e la previdenza sociale; Decreta:
 
-proposta del Ministro per il lavoro e la previdenza sociale; Decreta:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-I rapporti costituiti per l'attivita' per la quale sono stati stipulati:  
-per la provincia di Arezzo, l'accordo collettivo 28 settembre 1954, relativo al riparto tra concedente e colono delle spese di trasformazione dei trinciaforaggi funzionanti elettricamente nelle aziende agricole a mezzadria, l'accordo collettivo 24 giugno 1955, relativo alla determinazione dei compensi forfettari per macchine e attrezzi, nelle aziende agricole a mezzadria, l'accordo collettivo 10 ottobre 1956, relativo alla determinazione delle tariffe di motoaratura nelle aziende agricole a mezzadria, l'accordo collettivo 21 dicembre 1957, relativo agli allevamenti di bassa corte presso le aziende agricole a mezzadria, l'accordo collettivo 17 marzo 1958, relativo al rimborso del carburante nelle operazioni di trebbiatura da parte del mezzadro, nonche' alla ripartizione degli oneri derivanti dall'uso del pressapaglia nelle aziende agricole a mezzadria, l'accordo collettivo 30 luglio 1959, sull'uso della mietilega presso le aziende agricole a mezzadria, l'accordo collettivo 30 luglio 1959, relativo alla costituzione della commissione paritetica per la definizione amichevole delle controversie individuali fra concedenti e mezzadri e braccianti agricoli;  
-per la provincia di Firenze, l'accordo collettivo 25 luglio 1958, relativo alle spese di trebbiatura nelle aziende agricole a mezzadria, l'accordo collettivo 25 luglio 1958, relativo alle prestazioni di lavoro effettuate dal colono per conto del concedente, l'accordo collettivo 19 gennaio 1959, relativo alla determinazione dei compensi da corrispondere ai coloni per i piccoli e grossi arnesi, luce stalla, ecc. per la provincia di Grosseto, l'accordo collettivo 3 maggio 1945, relativo al pagamento delle spese delle macchine mietilegatrici e falciatrici nelle aziende agricole a mezzadria, l'accordo collettivo 29 marzo 1954, relativo alla corresponsione del compenso forfettario per i piccoli attrezzi immessi dal colono, l'accordo collettivo 17 settembre 1954, relativo alla corresponsione di compensi forfettari e pagamento, per la illuminazione stalla, per il carburante trebbiatura e per il motorino trincia-foraggi, nelle aziende agricole e mezzadria, l'accordo collettivo 28 giugno 1955, relativo alla corresponsione dei premi ai coloni per le colture industriali in terreni irrigui, l'accordo collettivo 17 luglio 1956, relativo alla determinazione delle tariffe di giogature eseguite dal colono per conto del concedente, l'accordo collettivo 28 agosto 1956, relativo alla corresponsione dei compensi forfettari per noleggio e riparazione dei carri agricoli e delle seminatrici di proprieta' del colono, l'accordo collettivo 4 settembre 1956, relativo alla corresponsione dei compensi forfettari per noleggio e riparazione di aratri in ferro, aratri in legno, falciatrici, erpici, rastrellone e trincia-foraggi di proprieta' del colono, l'accordo collettivo 18 settembre 1956, relativo alla corresponsione al colono del compenso forfettario per il trasporto d'acqua;  
-per la provincia di Livorno, i patti collettivi di lavoro 26 novembre 1954 e 7 febbraio 1956, relativi ai mezzadri;  
-per la provincia di Lucca, l'accordo collettivo 30 gennaio 1957, relativo alla sistemazione dei fabbricati rurali delle aziende agricole a mezzadria, l'accordo collettivo 30 gennaio 1957, relativo ai compensi forfettari al colono per piccoli attrezzi e luce stalla; per la provincia di Pisa, l'accordo collettivo 1 aprile 1958, relativo alla determinazione dei compensi per le prestazioni di lavoro effettuate dal colono per conto del concedente, l'accordo collettivo 26 giugno 1955, relativo alla spesa del pressapaglia nei lavori di trebbiatura presso le aziende agricole a mezzadria, l'accordo collettivo 6 aprile 1959, per la chiusura dei conti colonici, l'accordo collettivo 1 agosto 1959, recante modifiche all'accordo 1 aprile 1958 relativo ai compensi per le prestazioni di lavoro effettuate dal colono per conto del concedente;  
-per la provincia di Pistoia, gli accordi collettivi 6 marzo 1956, 17 aprile 1956 e 15 ottobre 1956, relativi alle aziende agricole a mezzadria per i comuni di Montignoso, Massa, Carrara, Fosdinovo, il contratto collettivo 16 settembre 1946, relativo alla conduzione dei fondi a mezzadria:  
-sono regolati da norme giuridiche uniformi alle clausole degli accordi collettivi, dei patti collettivi e del contratto collettivo anzidetti, annessi al presente decreto, purche' compatibili con quelle concernenti la disciplina nazionale della categoria.  
-I minimi di trattamento economico e normativo cosi' stabiliti sono inderogabili nei confronti di tutti i mezzadri delle province di Arezzo, Firenze, Grosseto, Lucca, Pisa, Pistoia e dei comuni di Montignoso, Massa, Carrara e Fosdinovo.  
-  
+I rapporti costituiti per l'attivita' per la quale sono stati stipulati:
+ per la provincia di Arezzo, l'accordo collettivo 28 settembre 1954, relativo al riparto tra concedente e colono delle spese di trasformazione dei trinciaforaggi funzionanti elettricamente nelle aziende agricole a mezzadria, l'accordo collettivo 24 giugno 1955, relativo alla determinazione dei compensi forfettari per macchine e attrezzi, nelle aziende agricole a mezzadria, l'accordo collettivo 10 ottobre 1956, relativo alla determinazione delle tariffe di motoaratura nelle aziende agricole a mezzadria, l'accordo collettivo 21 dicembre 1957, relativo agli allevamenti di bassa corte presso le aziende agricole a mezzadria, l'accordo collettivo 17 marzo 1958, relativo al rimborso del carburante nelle operazioni di trebbiatura da parte del mezzadro, nonche' alla ripartizione degli oneri derivanti dall'uso del pressapaglia nelle aziende agricole a mezzadria, l'accordo collettivo 30 luglio 1959, sull'uso della mietilega presso le aziende agricole a mezzadria, l'accordo collettivo 30 luglio 1959, relativo alla costituzione della commissione paritetica per la definizione amichevole delle controversie individuali fra concedenti e mezzadri e braccianti agricoli;
+ per la provincia di Firenze, l'accordo collettivo 25 luglio 1958, relativo alle spese di trebbiatura nelle aziende agricole a mezzadria, l'accordo collettivo 25 luglio 1958, relativo alle prestazioni di lavoro effettuate dal colono per conto del concedente, l'accordo collettivo 19 gennaio 1959, relativo alla determinazione dei compensi da corrispondere ai coloni per i piccoli e grossi arnesi, luce stalla, ecc. per la provincia di Grosseto, l'accordo collettivo 3 maggio 1945, relativo al pagamento delle spese delle macchine mietilegatrici e falciatrici nelle aziende agricole a mezzadria, l'accordo collettivo 29 marzo 1954, relativo alla corresponsione del compenso forfettario per i piccoli attrezzi immessi dal colono, l'accordo collettivo 17 settembre 1954, relativo alla corresponsione di compensi forfettari e pagamento, per la illuminazione stalla, per il carburante trebbiatura e per il motorino trincia-foraggi, nelle aziende agricole e mezzadria, l'accordo collettivo 28 giugno 1955, relativo alla corresponsione dei premi ai coloni per le colture industriali in terreni irrigui, l'accordo collettivo 17 luglio 1956, relativo alla determinazione delle tariffe di giogature eseguite dal colono per conto del concedente, l'accordo collettivo 28 agosto 1956, relativo alla corresponsione dei compensi forfettari per noleggio e riparazione dei carri agricoli e delle seminatrici di proprieta' del colono, l'accordo collettivo 4 settembre 1956, relativo alla corresponsione dei compensi forfettari per noleggio e riparazione di aratri in ferro, aratri in legno, falciatrici, erpici, rastrellone e trincia-foraggi di proprieta' del colono, l'accordo collettivo 18 settembre 1956, relativo alla corresponsione al colono del compenso forfettario per il trasporto d'acqua;
+ per la provincia di Livorno, i patti collettivi di lavoro 26 novembre 1954 e 7 febbraio 1956, relativi ai mezzadri;
+ per la provincia di Lucca, l'accordo collettivo 30 gennaio 1957, relativo alla sistemazione dei fabbricati rurali delle aziende agricole a mezzadria, l'accordo collettivo 30 gennaio 1957, relativo ai compensi forfettari al colono per piccoli attrezzi e luce stalla; per la provincia di Pisa, l'accordo collettivo 1 aprile 1958, relativo alla determinazione dei compensi per le prestazioni di lavoro effettuate dal colono per conto del concedente, l'accordo collettivo 26 giugno 1955, relativo alla spesa del pressapaglia nei lavori di trebbiatura presso le aziende agricole a mezzadria, l'accordo collettivo 6 aprile 1959, per la chiusura dei conti colonici, l'accordo collettivo 1 agosto 1959, recante modifiche all'accordo 1 aprile 1958 relativo ai compensi per le prestazioni di lavoro effettuate dal colono per conto del concedente;
+ per la provincia di Pistoia, gli accordi collettivi 6 marzo 1956, 17 aprile 1956 e 15 ottobre 1956, relativi alle aziende agricole a mezzadria per i comuni di Montignoso, Massa, Carrara, Fosdinovo, il contratto collettivo 16 settembre 1946, relativo alla conduzione dei fondi a mezzadria:
+sono regolati da norme giuridiche uniformi alle clausole degli accordi collettivi, dei patti collettivi e del contratto collettivo anzidetti, annessi al presente decreto, purche' compatibili con quelle concernenti la disciplina nazionale della categoria.
+ I minimi di trattamento economico e normativo cosi' stabiliti sono inderogabili nei confronti di tutti i mezzadri delle province di Arezzo, Firenze, Grosseto, Lucca, Pisa, Pistoia e dei comuni di Montignoso, Massa, Carrara e Fosdinovo.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 2 gennaio 1962
+Dato a Roma, addi' 2 gennaio 1962
 
-GRONCHI FANFANI - SULLO
-
-Visto, il Guardasigilli: BOSCO
-
-Registrato alla Corte dei conti, addi' 11 luglio 1962
-
-Atti del Governo, registro n. 153, foglio n. 7. - VILLA
-
-Accordi
-
-ACCORDO COLLETTIVO 28 SETTEMBRE 1954 PER IL RIPARTO TRA CONCEDENTI E COLONI DELLE SPESE DI TRASFORMAZIONE DEI TRINCIAFORAGGI FUNZIONANTI ELETTRICAMENTE NELLE AZIENDE AGRICOLE A MEZZADRIA NELLA PROVINCIA DI AREZZO.   
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=062U094900100010110001&dgu=1962-07-28&art.dataPubblicazioneGazzetta=1962-07-28&art.codiceRedazionale=062U0949)
-  
-  
-  
-  
-ACCORDO COLLETTIVO 24 GIUGNO 1955, RELATIVO ALLA DETERMINAZIONE DEI COMPENSI FORFETTARI PER MACCHINE E ATTREZZI DELLE AZIENDE AGRICOLE A MEZZADRIA DELLA PROVINCIA DI AREZZO, PER L'ANNO AGRARIO 1954-1955.   
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=062U094900100010110002&dgu=1962-07-28&art.dataPubblicazioneGazzetta=1962-07-28&art.codiceRedazionale=062U0949)
-  
-  
-  
-  
-ACCORDO COLLETTIVO 10 OTTOBRE 1956 RELATIVO ALLA DETERMINAZIONE DELLE TARIFFE DI MOTOARATURA NELLE AZIENDE AGRICOLE A MEZZADRIA DELLA PROVINCIA DI AREZZO.   
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=062U094900100010110003&dgu=1962-07-28&art.dataPubblicazioneGazzetta=1962-07-28&art.codiceRedazionale=062U0949)
-  
-  
-  
-  
-ACCORDO COLLETTIVO 21 DICEMBRE 1957 RELATIVO AGLI ALLEVAMENTI DI BASSA CORTE PRESSO LE AZIENDE AGRICOLE A MEZZADRIA DELLA PROVINCIA DI AREZZO.   
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=062U094900100010110004&dgu=1962-07-28&art.dataPubblicazioneGazzetta=1962-07-28&art.codiceRedazionale=062U0949)
-  
-  
-  
-  
-ACCORDO COLLETTIVO 17 MARZO 1958 RELATIVO AL RIMBORSO DEL CARBURANTE NELLE OPERAZIONI DI TREBBIATURA DA PARTE DEL MEZZADRO NONCHE'' ALLA RIPARTIZIONE DEGLI ONERI DERIVANTI DALL'USO DEL PRESSAPAGLIA, NELLE AZIENDE AGRICOLE A MEZZADRIA DELLA PROVINCIA DI AREZZO.   
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=062U094900100010110005&dgu=1962-07-28&art.dataPubblicazioneGazzetta=1962-07-28&art.codiceRedazionale=062U0949)
-  
-  
-  
-  
-ACCORDO COLLETTIVO 30 LUGLIO 1959 SULL'USO DELLA MIETILEGA PRESSO LE AZIENDE AGRICOLE A MEZZADRIA DELLA PROVINCIA DI AREZZO.   
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=062U094900100010110006&dgu=1962-07-28&art.dataPubblicazioneGazzetta=1962-07-28&art.codiceRedazionale=062U0949)
-  
-  
-  
-  
-ACCORDO COLLETTIVO 30 LUGLIO 1959 RELATIVO ALLA COSTITUZIONE DELLA COMMISSIONE PARITETICA PER LA DEFINIZIONE AMICHEVOLE DELLE CONTROVERSIE INDIVIDUALI FRA CONCEDENTI E MEZZADRI E BRACCIANTI AGRICOLI NELLA PROVINCIA DI AREZZO.   
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=062U094900100010110007&dgu=1962-07-28&art.dataPubblicazioneGazzetta=1962-07-28&art.codiceRedazionale=062U0949)
-  
-  
-  
-  
-ACCORDO COLLETTIVO 25 LUGLIO 1958 PER LE SPESE DI TREBBIATURA NELLE AZIENDE AGRICOLE A MEZZADRIA DELLA PROVINCIA DI FIRENZE   
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=062U094900100010110008&dgu=1962-07-28&art.dataPubblicazioneGazzetta=1962-07-28&art.codiceRedazionale=062U0949)
-  
-  
-  
-  
-ACCORDO COLLETTIVO 25 LUGLIO 1958 RELATIVO ALLE PRESTAZIONI DI LAVORO EFFETTUATE PER CONTO DEL CONCEDENTE NELLE AZIENDE AGRICOLE A MEZZADRIA DELLA PROVINCIA DI FIRENZE.   
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=062U094900100010110009&dgu=1962-07-28&art.dataPubblicazioneGazzetta=1962-07-28&art.codiceRedazionale=062U0949)
-  
-  
-  
-  
-ACCORDO COLLETTIVO 19 GENNAIO 1959 PER LA DETERMINAZIONE DEI COMPENSI DA CORRISPONDERSI I COLONI PER I PICCOLI E GROSSI ARNESI, LUCE STALLA ECC. DELLA PROVINCIA DI FIRENZE DA VALERE PER LA CHIUSURA DEI CONTI COLONICI DELL'ANNATA AGRARIA 1958-59.   
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=062U094900100010110010&dgu=1962-07-28&art.dataPubblicazioneGazzetta=1962-07-28&art.codiceRedazionale=062U0949)
-  
-  
-  
-  
-ACCORDO COLLETTIVO 3 MAGGIO 1945 PER IL PAGAMENTO DELLE SPESE DELLE MACCHINE MIETILEGATRICI FALCIATRICI NELLE AZIENDE AGRICOLE A MEZZADRIA DELLA PROVINCIA DI GROSSETO.   
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=062U094900100010110011&dgu=1962-07-28&art.dataPubblicazioneGazzetta=1962-07-28&art.codiceRedazionale=062U0949)
-  
-  
-  
-  
-ACCORDO COLLETTIVO 29 MARZO 1954 PER LA CORRESPONSIONE DEL COMPENSO FORFETTARIO DEI PICCOLI ATTREZZI IMMESSI DAL COLONO NELLE AZIENDE AGRICOLE A MEZZADRIA DELLA PROVINCIA DI GROSSETO.   
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=062U094900100010110012&dgu=1962-07-28&art.dataPubblicazioneGazzetta=1962-07-28&art.codiceRedazionale=062U0949)
-  
-  
-  
-  
-ACCORDO COLLETTIVO 17 SETTEMBRE 1954 PER LA CORRESPONSIONE DI COMPENSI FORFETTARI E PAGAMENTO, PER LA ILLUMINAZIONE STALLA, CARBURANTE TREBBIATURA, MOTORINO TRINCIAFORAGGI NELLE AZIENDE AGRICOLE A MEZZADRIA DELLA PROVINCIA DI GROSSETO.   
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=062U094900100010110013&dgu=1962-07-28&art.dataPubblicazioneGazzetta=1962-07-28&art.codiceRedazionale=062U0949)
-  
-  
-  
-  
-ACCORDO COLLETTIVO 28 GIUGNO 1955 RELATIVO ALLA CORRESPONSIONE DI PREMI Al COLONI PER LE COLTURE INDUSTRIALI IN TERRENI IRRIGUI NELLE AZIENDE AGRICOLE A MEZZADRIA DELLA PROVINCIA DI GROSSETO.   
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=062U094900100010110014&dgu=1962-07-28&art.dataPubblicazioneGazzetta=1962-07-28&art.codiceRedazionale=062U0949)
-  
-  
-  
-  
-ACCORDO COLLETTIVO 17 LUGLIO 1956 PER LA DETERMINAZIONE DELLE TARIFFE DI GIOGATURE ESEGUITE DAL COLONO PER CONTO DEL PROPRIETARIO DELLE AZIENDE AGRICOLE A MEZZADRIA DELLA PROVINCIA DI GROSSETO.   
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=062U094900100010110015&dgu=1962-07-28&art.dataPubblicazioneGazzetta=1962-07-28&art.codiceRedazionale=062U0949)
-  
-  
-  
-  
-ACCORDO COLLETTIVO 28 AGOSTO 1956 RELATIVO ALLA CORRESPONSIONE DEI COMPENSI FORFETTARI PER NOLEGGIO E RIPARAZIONE DEI CARRI AGRICOLI E DELLE SEMINATRICI DI PROPRIETA DEL COLONO NELLE AZIENDE AGRICOLE A MEZZADRIA DELLA PROVINCIA DI GROSSETO.   
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=062U094900100010110016&dgu=1962-07-28&art.dataPubblicazioneGazzetta=1962-07-28&art.codiceRedazionale=062U0949)
-  
-  
-  
-  
-ACCORDO COLLETTIVO 4 SETTEMBRE 1956, RELATIVO ALLA CORRESPONSIONE DI COMPENSI FORFETTARI PER NOLEGGIO E RIPARAZIONE DI ARATRI IN FERRO - ARATRI IN LEGNO - FALCIATRICI - ERPICI - RASTRELLONE TRINCIAFORAGGI DI PROPRIETA DEL COLONO NELLE AZIENDE AGRICOLE A MEZZADRIA DELLA PROVINCIA DI GROSSETO.   
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=062U094900100010110017&dgu=1962-07-28&art.dataPubblicazioneGazzetta=1962-07-28&art.codiceRedazionale=062U0949)
-  
-  
-  
-  
-ACCORDO COLLETTIVO 18 SETTEMBRE 1956 PER LA CORRESPONSIONE FORFETTARIA AL COLONO DEL COMPENSO TRASPORTO ACQUA NELLE AZIENDE AGRICOLE A MEZZADRIA DELLA PROVINCIA DI GROSSETO.   
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=062U094900100010110018&dgu=1962-07-28&art.dataPubblicazioneGazzetta=1962-07-28&art.codiceRedazionale=062U0949)
-  
-  
-  
-  
-PATTO COLLETTIVO DI LAVORO 26 NOVEMBRE 1954 PER I MEZZADRI DELLA PROVINCIA DI LIVORNO.   
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=062U094900100010110019&dgu=1962-07-28&art.dataPubblicazioneGazzetta=1962-07-28&art.codiceRedazionale=062U0949)
-  
-  
-  
-  
-PATTO COLLETTIVO DI LAVORO 7 FEBBRAIO 1956, PER I MEZZADRI DELLA PROVINCIA DI LIVORNO.   
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=062U094900100010110020&dgu=1962-07-28&art.dataPubblicazioneGazzetta=1962-07-28&art.codiceRedazionale=062U0949)
-  
-  
-  
-  
-ACCORDO COLLETTIVO 30 GENNAIO 1957, RELATIVO ALLA SISTEMAZIONE DEI FABBRICATI RURALI DELLE AZIENDE AGRICOLE A MEZZADRIA DELLA PROVINCIA DI LUCCA.   
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=062U094900100010110021&dgu=1962-07-28&art.dataPubblicazioneGazzetta=1962-07-28&art.codiceRedazionale=062U0949)
-  
-  
-  
-  
-ACCORDO COLLETTIVO 30 GENNAIO 1957, RELATIVO AI COMPENSI FORFETTARI AL COLONO PER I PICCOLI ATTREZZI E LUCE STALLA, NELLE AZIENDE AGRICOLE A MEZZADRIA DELLA PROVINCIA, DI LUCCA DA VALERE DALL'ANNATA AGRARIA 1956-57.   
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=062U094900100010110022&dgu=1962-07-28&art.dataPubblicazioneGazzetta=1962-07-28&art.codiceRedazionale=062U0949)
-  
-  
-  
-  
-ACCORDO COLLETTIVO 1 aprile 1958, RELATIVO ALLA DETERMINAZIONE DEI COMPENSI PER LE PRESTAZIONI DI LAVORO EFFETTUATE PER CONTO DEL CONCEDENTE DAI COLONI NELLE AZIENDE AGRICOLE A MEZZADRIA DELLA PROVINCIA DI PISA.   
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=062U094900100010110023&dgu=1962-07-28&art.dataPubblicazioneGazzetta=1962-07-28&art.codiceRedazionale=062U0949)
-  
-  
-  
-  
-ACCORDO COLLETTIVO 26 GIUGNO 1958 RELATIVO ALLA SPESA DEL PRESSAPAGLIA NEI LAVORI DI TREBBIATURA PRESSO LE AZIENDE AGRICOLE A MEZZADRIA DELLA PROVINCIA DI PISA.   
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=062U094900100010110024&dgu=1962-07-28&art.dataPubblicazioneGazzetta=1962-07-28&art.codiceRedazionale=062U0949)
-  
-  
-  
-  
-ACCORDO COLLETTIVO 6 APRILE 1959 PER LA CHIUSURA DEI CONTI COLONICI ANNATA 1958-59 NELLE AZIENDE AGRICOLE A MEZZADRIA DELLA PROVINCIA DI PISA.   
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=062U094900100010110025&dgu=1962-07-28&art.dataPubblicazioneGazzetta=1962-07-28&art.codiceRedazionale=062U0949)
-  
-  
-  
-  
-ACCORDO COLLETTIVO 1 agosto 1959, RECANTE MODIFICHE ALL'ACCORDO 1 aprile 1958, RELATIVO AI COMPENSI PER LE PRESTAZIONI DI LAVORO EFFETTUATE PER CONTO DEL CONCEDENTE DAI COLONI MEZZADRI DELLA PROVINCIA DI PISA.   
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=062U094900100010110026&dgu=1962-07-28&art.dataPubblicazioneGazzetta=1962-07-28&art.codiceRedazionale=062U0949)
-  
-  
-  
-  
-ACCORDO COLLETTIVO 6 MARZO 1956, PER LE AZIENDE AGRICOLE A MEZZADRIA DELLA PROVINCIA DI PISTOIA.   
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=062U094900100010110027&dgu=1962-07-28&art.dataPubblicazioneGazzetta=1962-07-28&art.codiceRedazionale=062U0949)
-  
-  
-  
-  
-ACCORDO COLLETTIVO 15 OTTOBRE 1956, PER LE AZIENDE AGRICOLE A MEZZADRIA DELLA PROVINCIA DI PISTOIA.   
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=062U094900100010110028&dgu=1962-07-28&art.dataPubblicazioneGazzetta=1962-07-28&art.codiceRedazionale=062U0949)
-  
-  
-  
-  
-ACCORDO COLLETTIVO 17 APRILE 1956, PER LE AZIENDE AGRICOLE A MEZZADRIA DELLA PROVINCIA DI PISTOIA.   
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=062U094900100010110029&dgu=1962-07-28&art.dataPubblicazioneGazzetta=1962-07-28&art.codiceRedazionale=062U0949)
-  
-  
-  
-  
-CONTRATTO COLLETTIVO 16 SETTEMBRE 1946 PER LA CONDUZIONE DEI FONDI A MEZZADRIA NEI COMUNI DI MONTIGNOSO - MASSA - CARRARA - FOSDINOVO.   
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=062U094900100010110030&dgu=1962-07-28&art.dataPubblicazioneGazzetta=1962-07-28&art.codiceRedazionale=062U0949)
-  
+GRONCHI FANFANI - SULLO Visto, il Guardasigilli: BOSCO Registrato alla Corte dei conti, addi' 11 luglio 1962 Atti del Governo, registro n. 153, foglio n. 7. - VILLA

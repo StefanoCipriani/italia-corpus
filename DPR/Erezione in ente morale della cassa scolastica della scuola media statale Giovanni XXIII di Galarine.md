@@ -1,19 +1,21 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 29 giugno 1968 n. 1362
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 1362
+data: 1968-06-29
+titolo: "Erezione in ente morale della cassa scolastica della scuola media statale \"Giovanni XXIII\" di Galarine."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1968-06-29;1362
+codice_redazionale: 068U1362
+vigente: true
+---
 
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 29 giugno 1968 n. 1362
-==============================================================
-
-Erezione in ente morale della cassa scolastica della scuola media statale "Giovanni XXIII" di Galarine.
--------------------------------------------------------------------------------------------------------
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-1362. Decreto del Presidente della Repubblica 29 giugno 1968, col quale, sulla proposta del Ministro per la pubblica istruzione, la cassa scolastica della scuola media statale "Giovanni XXIII", di Gaiarine (Treviso), viene eretta in ente morale e ne viene approvato lo statuto.  
-  
-Visto, il Guardasigilli: GONELLA  
-Registrato alla Corte dei conti, addi' 20 gennaio 1969  
-Atti del Governo, registro n. 224, foglio n. 162. - GRECO
+1362.
+
+Decreto del Presidente della Repubblica 29 giugno 1968, col quale, sulla proposta del Ministro per la pubblica istruzione, la cassa scolastica della scuola media statale "Giovanni XXIII", di Gaiarine (Treviso), viene eretta in ente morale e ne viene approvato lo statuto.
+
+Visto, il Guardasigilli: GONELLA
+ Registrato alla Corte dei conti, addi' 20 gennaio 1969
+ Atti del Governo, registro n. 224, foglio n. 162. - GRECO

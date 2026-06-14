@@ -1,19 +1,21 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 22 settembre 1981 n. 702
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 702
+data: 1981-09-22
+titolo: "Riconoscimento della personalita' giuridica della procura generalizia delle suore ancelle della Beata Maria Vergine Immacolata, in Roma."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1981-09-22;702
+codice_redazionale: 081U0702
+vigente: true
+---
 
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 22 settembre 1981 n. 702
-================================================================
-
-Riconoscimento della personalita' giuridica della procura generalizia delle suore ancelle della Beata Maria Vergine Immacolata, in Roma.
-----------------------------------------------------------------------------------------------------------------------------------------
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-702. Decreto del Presidente della Repubblica 22 settembre 1981, col quale, sulla proposta del Ministro dell'interno, viene riconosciuta la personalita' giuridica della procura generalizia delle suore ancelle della Beata Maria Vergine Immacolata, in Roma.  
-  
-Visto, il Guardasigilli: DARIDA  
-Registrato alla Corte dei conti, addi' 28 novembre 1981  
-Registro n. 18 Interno, foglio n. 139
+702.
+
+Decreto del Presidente della Repubblica 22 settembre 1981, col quale, sulla proposta del Ministro dell'interno, viene riconosciuta la personalita' giuridica della procura generalizia delle suore ancelle della Beata Maria Vergine Immacolata, in Roma.
+
+Visto, il Guardasigilli: DARIDA
+ Registrato alla Corte dei conti, addi' 28 novembre 1981
+ Registro n. 18 Interno, foglio n. 139

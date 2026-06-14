@@ -1,25 +1,22 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 11 ottobre 1984 n. 1075
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 399
+data: 1983-06-27
+titolo: "Autorizzazione alla Lega italiana per la lotta contro i tumori, in Roma, ad accettare un legato."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1983-06-27;399
+codice_redazionale: 083U0399
+vigente: true
+---
 
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 11 ottobre 1984 n. 1075
-===============================================================
-
-Autorizzazione alla Lega italiana per la lotta contro i tumori, in Roma, ad accettare un legato.
-------------------------------------------------------------------------------------------------
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-1075. Decreto del Presidente della Repubblica 11 ottobre 1984, col quale, sulla proposta del Ministro della sanita', la Lega italiana per la lotta contro i tumori, in Roma, viene autorizzata ad   
-accettare il legato, consistente in una quota-parte pari al 75%   
-dell'eredita' totale che ammonta a L. 30.000.000, che sara'   
-utilizzato per l'attuazione dei propri fini istituzionali, disposto   
-dalla sig.ra Maria Scalier ved. Sensoli con testamento olografo 11 luglio 1978, pubblicato in data 20 ottobre 1978, n. 334470 di   
-repertorio, a rogito dottor Carlo Emiliano Verde, notaio in Genova,   
-registrato a Genova in data 24 ottobre 1978 al n. 16450.   
-  
-Visto, il Guardasigilli: MARTINAZZOLI   
-Registrato alla Corte dei conti, addi' 14 febbraio 1985   
-Registro n. 2 Sanita', foglio n. 37
+399.
+
+Decreto del Presidente della Repubblica 27 giugno 1983, col quale, sulla proposta del Ministro della sanita', la Lega italiana per la lotta contro i tumori, in Roma, viene autorizzata ad accettare il legato, consistente in 7.500 azioni della "Immobiliare Rione Vittoria" S.p.a. e in 475 azioni della "Immobiliare Rione S.
+ Gottardo" S.p.a., entrambe in Milano, disposto in favore della sezione provinciale di Genova dalla sig.ra Emilia Barbesti con testamento pubblico 24 giugno 1979, pubblicato in data 13 maggio 1980 n. 345683 di repertorio, a rogito dott. Carlo Emiliano Verde, notaio in Genova, registrato a Genova in data 28 maggio 1980 al n. 11332.
+
+Visto, il Guardasigilli: MARTINAZZOLI
+ Registrato alla Corte dei conti, addi' 18 agosto 1983
+ Registro n. 6 Sanita', foglio n. 269

@@ -1,19 +1,21 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 14 febbraio 1966 n. 121
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 1309
+data: 1964-10-20
+titolo: "Autorizzazione all'Ente Nazionale Assistenza Lavoratori (E.N.A.L.) ad accettare una donazione."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1964-10-20;1309
+codice_redazionale: 064U1309
+vigente: true
+---
 
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 14 febbraio 1966 n. 121
-===============================================================
-
-Autorizzazione all'Ente Nazionale Assistenza Lavoratori (E.N.A.L.), ad accettare una donazione.
------------------------------------------------------------------------------------------------
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-121. Decreto del Presidente della Repubblica 14 febbraio 1966, col quale, sulla proposta del Presidente del Consiglio dei Ministri, l'Ente Nazionale Assistenza Lavoratori (E.N.A.L.), viene autorizzato ad accettare dal comune di Colli del Tronto (Ascoli Piceno) la donazione - disposta con atto a rogito signor Monti Guido, notaio in Spinetoli, in data 12 agosto 1939, rep. gen. 4183 - di un appezzamento di terreno della superficie di "tavole una, pari ad are dieci" sito nel Comune anzidetto.  
-  
-Visto, il Guardasigilli: REALE  
-Registrato alla Corte dei conti, addi' 18 marzo 1966  
-Atti del Governo, registro n. 202, foglio n. 51. - VILLA
+1309.
+
+Decreto del Presidente della Repubblica 20 ottobre 1964, col quale, sulla proposta del Presidente del Consiglio dei Ministri, l'Ente Nazionale Assistenza Lavoratori (E.N.A.L.), viene autorizzato ad accettare la donazione, disposta dal comune di Labico (Roma), con atto a rogito notaio dott. Orazio Trombetta di Roma, in data 5 ottobre 1960, repertorio n. 324, raccolta n. 138, avente per oggetto un appezzamento di terreno, sito in detto Comune, via Sassi Grossi, sul quale insiste parte della locale "Casa del Dopolavoro".
+
+Visto, il Guardasigilli: REALE
+ Registrato alla Corte dei conti, addi' 2 dicembre 1964
+ Atti del Governo, registro n. 188, foglio n. 152. - VILLA

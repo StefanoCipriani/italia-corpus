@@ -1,18 +1,20 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 22 gennaio 1948 n. 235
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 235
+data: 1948-01-22
+titolo: "Riconoscimento, agli effetti civili, della erezione della parrocchia di San Francesco d'Assisi, in localita' Chianacce del comune di Cortona (Arezzo)."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1948-01-22;235
+codice_redazionale: 048U0235
+vigente: true
+---
 
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 22 gennaio 1948 n. 235
-==============================================================
-
-Riconoscimento, agli effetti civili, della erezione della parrocchia di San Francesco d'Assisi, in localita' Chianacce del comune di Cortona (Arezzo).
-------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-235. Decreto del Presidente della. Repubblica 22 gennaio 1948, col quale, sulla proposta del Ministro per l'interno, viene riconosciuto, agli effetti civili, il decreto del Vescovo di Cortona in data 22 febbraio 1946, integrato con successivo decreto 18 agosto 1947, relativo all'erezione della parrocchia di San Francesco d'Assisi, in localita' Chianacce del comune di Cortona (Arezzo).  
-  
-Visto, il Guardasigilli: GRASSI  
-Registrato alla Corte dei conti, addi' 3 aprile 1948
+235.
+
+Decreto del Presidente della. Repubblica 22 gennaio 1948, col quale, sulla proposta del Ministro per l'interno, viene riconosciuto, agli effetti civili, il decreto del Vescovo di Cortona in data 22 febbraio 1946, integrato con successivo decreto 18 agosto 1947, relativo all'erezione della parrocchia di San Francesco d'Assisi, in localita' Chianacce del comune di Cortona (Arezzo).
+
+Visto, il Guardasigilli: GRASSI
+ Registrato alla Corte dei conti, addi' 3 aprile 1948

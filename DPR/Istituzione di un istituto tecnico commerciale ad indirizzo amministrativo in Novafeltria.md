@@ -1,19 +1,21 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 08 agosto 1979 n. 958
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 958
+data: 1979-08-08
+titolo: "Istituzione di un istituto tecnico commerciale ad indirizzo amministrativo in Novafeltria."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1979-08-08;958
+codice_redazionale: 079U0958
+vigente: true
+---
 
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 08 agosto 1979 n. 958
-=============================================================
-
-Istituzione di un istituto tecnico commerciale ad indirizzo amministrativo in Novafeltria.
-------------------------------------------------------------------------------------------
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-958. Decreto del Presidente della Repubblica 8 agosto 1979, col quale, sulla proposta del Ministro della pubblica istruzione, di concerto con i Ministri dello interno e del tesoro, viene istituito, a decorrere dall'inizio dell'anno scolastico 1979-80, un istituto tecnico commerciale ad indirizzo amministrativo in Novafeltria (Pesaro e Urbino) e ne viene approvata la tabella organica.  
-  
-Visto, il Guardasigilli: MORLINO  
-Registrato alla Corte dei conti, addi' 20 agosto 1980  
-Registro n. 78 Istruzione, foglio n. 17
+958.
+
+Decreto del Presidente della Repubblica 8 agosto 1979, col quale, sulla proposta del Ministro della pubblica istruzione, di concerto con i Ministri dello interno e del tesoro, viene istituito, a decorrere dall'inizio dell'anno scolastico 1979-80, un istituto tecnico commerciale ad indirizzo amministrativo in Novafeltria (Pesaro e Urbino) e ne viene approvata la tabella organica.
+
+Visto, il Guardasigilli: MORLINO
+ Registrato alla Corte dei conti, addi' 20 agosto 1980
+ Registro n. 78 Istruzione, foglio n. 17

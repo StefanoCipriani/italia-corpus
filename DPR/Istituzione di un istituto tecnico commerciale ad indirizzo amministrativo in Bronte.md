@@ -1,19 +1,21 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 09 settembre 1978 n. 967
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 967
+data: 1978-09-09
+titolo: "Istituzione di un istituto tecnico commerciale ad indirizzo amministrativo in Bronte."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1978-09-09;967
+codice_redazionale: 078U0967
+vigente: true
+---
 
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 09 settembre 1978 n. 967
-================================================================
-
-Istituzione di un istituto tecnico commerciale ad indirizzo amministrativo in Bronte.
--------------------------------------------------------------------------------------
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-967. Decreto del Presidente della Repubblica 9 settembre 1978, col quale, sulla proposta del Ministro della pubblica istruzione, di concerto con i Ministri dell'interno e del tesoro, viene istituito in Bronte (Catania), a decorrere dall'inizio dell'anno scolastico 1978-79, un istituto tecnico commerciale ad indirizzo amministrativo e ne viene approvata la tabella organica.  
-  
-Visto, il Guardasigilli: BONIFACIO  
-Registrato alla Corte dei conti, addi' 14 febbraio 1979  
-Registro n. 6 Istruzione, foglio n. 106
+967.
+
+Decreto del Presidente della Repubblica 9 settembre 1978, col quale, sulla proposta del Ministro della pubblica istruzione, di concerto con i Ministri dell'interno e del tesoro, viene istituito in Bronte (Catania), a decorrere dall'inizio dell'anno scolastico 1978-79, un istituto tecnico commerciale ad indirizzo amministrativo e ne viene approvata la tabella organica.
+
+Visto, il Guardasigilli: BONIFACIO
+ Registrato alla Corte dei conti, addi' 14 febbraio 1979
+ Registro n. 6 Istruzione, foglio n. 106

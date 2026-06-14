@@ -1,19 +1,21 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 26 agosto 1961 n. 1218
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 1218
+data: 1961-08-26
+titolo: "Erezione in ente morale della Fondazione \"Ezio Sogno Fortuna\", con sede in Aosta."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1961-08-26;1218
+codice_redazionale: 061U1218
+vigente: true
+---
 
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 26 agosto 1961 n. 1218
-==============================================================
-
-Erezione in ente morale della Fondazione "Ezio Sogno Fortuna", con sede in Aosta.
----------------------------------------------------------------------------------
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-1218. Decreto del Presidente della Repubblica 26 agosto 1961, col quale, sulla proposta del Ministro per la pubblica istruzione, la Fondazione "Ezio Sogno Fortuna" con sede in Aosta, viene eretta in ente morale e ne viene approvato lo statuto.  
-  
-Visto, il Guardasigilli: GONELLA  
-Registrato alla Corte dei conti, addi' 28 novembre 1961  
-Atti, del Governo, registro n. 142, foglio n. 50. - VILLA
+1218.
+
+Decreto del Presidente della Repubblica 26 agosto 1961, col quale, sulla proposta del Ministro per la pubblica istruzione, la Fondazione "Ezio Sogno Fortuna" con sede in Aosta, viene eretta in ente morale e ne viene approvato lo statuto.
+
+Visto, il Guardasigilli: GONELLA
+ Registrato alla Corte dei conti, addi' 28 novembre 1961
+ Atti, del Governo, registro n. 142, foglio n. 50. - VILLA

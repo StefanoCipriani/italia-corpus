@@ -1,19 +1,21 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 20 dicembre 1964 n. 1559
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 1559
+data: 1964-12-20
+titolo: "Riconoscimento della personalita' giuridica della Chiesa cattedrale e parrocchiale di San Settimio Martire, in Jesi (Ancona)."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1964-12-20;1559
+codice_redazionale: 064U1559
+vigente: true
+---
 
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 20 dicembre 1964 n. 1559
-================================================================
-
-Riconoscimento della personalita' giuridica della Chiesa cattedrale e parrocchiale di San Settimio Martire, in Jesi (Ancona).
------------------------------------------------------------------------------------------------------------------------------
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-1559. Decreto del Presidente della Repubblica 20 dicembre 19(4, col quale, sulla proposta del Ministro per l'interno, viene riconosciuta la personalita' giuridica della Chiesa cattedrale e parrocchiale di San Settimio Martire, in Jesi (Ancona).  
-  
-Visto, il Guardasigilli: REALE  
-Registrato alla Corte dei conti, addi' 21 gennaio 1965  
-Atti del Governo, registro n. 190, foglio n. 34. - VILLA
+1559.
+
+Decreto del Presidente della Repubblica 20 dicembre 19(4, col quale, sulla proposta del Ministro per l'interno, viene riconosciuta la personalita' giuridica della Chiesa cattedrale e parrocchiale di San Settimio Martire, in Jesi (Ancona).
+
+Visto, il Guardasigilli: REALE
+ Registrato alla Corte dei conti, addi' 21 gennaio 1965
+ Atti del Governo, registro n. 190, foglio n. 34. - VILLA

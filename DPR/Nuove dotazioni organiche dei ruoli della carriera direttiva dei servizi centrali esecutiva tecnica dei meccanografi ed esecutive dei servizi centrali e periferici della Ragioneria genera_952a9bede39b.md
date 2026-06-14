@@ -1,16 +1,16 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 26 aprile 1975 n. 300
-
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 26 aprile 1975 n. 300
-=============================================================
-
-Nuove dotazioni organiche dei ruoli della carriera direttiva dei servizi centrali, esecutiva tecnica dei meccanografi ed esecutive dei servizi centrali e periferici della Ragioneria generale dello Stato.
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 300
+data: 1975-04-26
+titolo: "Nuove dotazioni organiche dei ruoli della carriera direttiva dei servizi centrali, esecutiva tecnica dei meccanografi ed esecutive dei servizi centrali e periferici della Ragioneria generale dello Stato."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1975-04-26;300
+codice_redazionale: 075U0300
+vigente: true
+---
 
 IL PRESIDENTE DELLA REPUBBLICA
-------------------------------
 
-Visto l'[art. 17, quarto comma, della legge 28 ottobre 1970, n. 775](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1970-10-28;775~art17-com4), che consente, in relazione al mutare delle effettive esigenze di servizio, di poter modificare i ruoli organici delle amministrazioni dello Stato;
+Visto l'[art. 17, quarto comma, della legge 28 ottobre 1970, n. 775](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1970-10-28;775#art_17-com4), che consente, in relazione al mutare delle effettive esigenze di servizio, di poter modificare i ruoli organici delle amministrazioni dello Stato;
 
 Visto il decreto interministeriale 2 aprile 1971, registrato alla Corte dei conti, addi' 6 maggio successivo, registro n. 16, foglio n. 155, con il quale sono state stabilite le piante organiche e le qualifiche relative dei ruoli della Ragioneria generale dello Stato, con effetto dal 1 luglio 1970;
 
@@ -22,82 +22,22 @@ Considerata, inoltre, la necessita' di procedere, in relazione all'aumento della
 
 Sentito il Consiglio superiore della pubblica amministrazione;
 
-Sulla
------
+Sulla proposta del Presidente del Consiglio dei Ministri, di concerto con il Ministro per il tesoro; Decreta:
 
-proposta del Presidente del Consiglio dei Ministri, di concerto con il Ministro per il tesoro; Decreta:
+## Art. 1.
 
-Art. 1
-------
+Le nuove dotazioni organiche dei ruoli della carriera direttiva dei servizi centrali, esecutiva tecnica dei meccanografi ed esecutive dei servizi centrali e periferici della Ragioneria generale dello Stato, sono stabilite, rispettivamente, dalle tabelle A, B, C e D annesse al presente decreto.
 
-  
-Le nuove dotazioni organiche dei ruoli della carriera direttiva dei servizi centrali, esecutiva tecnica dei meccanografi ed esecutive dei servizi centrali e periferici della Ragioneria generale dello Stato, sono stabilite, rispettivamente, dalle tabelle A, B, C e D annesse al presente decreto.  
+## Art. 2.
 
-Art. 2
-------
+Entro trenta giorni decorrenti dal giorno successivo a quello di pubblicazione del presente decreto nella Gazzetta Ufficiale della Repubblica italiana, gli impiegati dei ruoli delle carriere esecutive dei servizi centrali della Ragioneria generale dello Stato e delle ragionerie provinciali dello Stato, che alla data di entrata in vigore del presente decreto esercitino compiti connessi con il sistema informativo della Ragioneria generale dello Stato ed abbiano frequentato favorevolmente gli appositi corsi di addestramento, potranno essere trasferiti, a domanda, nel ruolo della carriera esecutiva tecnica di cui alla tabella B annessa al presente decreto nel limite dei posti disponibili, con i criteri e le modalita' di cui all'art. 200 del testo unico approvato con [decreto del Presidente della Repubblica 10 gennaio 1957, n. 3](Testo%20unico%20delle%20disposizioni%20concernenti%20lo%20statuto%20degli%20impiegati%20civili%20dello%20Stato.md).
 
-  
-Entro trenta giorni decorrenti dal giorno successivo a quello di pubblicazione del presente decreto nella Gazzetta Ufficiale della Repubblica italiana, gli impiegati dei ruoli delle carriere esecutive dei servizi centrali della Ragioneria generale dello Stato e delle ragionerie provinciali dello Stato, che alla data di entrata in vigore del presente decreto esercitino compiti connessi con il sistema informativo della Ragioneria generale dello Stato ed abbiano frequentato favorevolmente gli appositi corsi di addestramento, potranno essere trasferiti, a domanda, nel ruolo della carriera esecutiva tecnica di cui alla tabella B annessa al presente decreto nel limite dei posti disponibili, con i criteri e le modalita' di cui all'art. 200 del testo unico approvato con [decreto del Presidente della Repubblica 10 gennaio 1957, n. 3](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1957-01-10;3).  
+## Art. 3.
 
-Art. 3
-------
-
-  
-Il presente decreto entra in vigore il giorno stesso della sua pubblicazione nella Gazzetta Ufficiale.  
-  
+Il presente decreto entra in vigore il giorno stesso della sua pubblicazione nella Gazzetta Ufficiale.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 26 aprile 1975
+Dato a Roma, addi' 26 aprile 1975
 
-LEONE MORO - COLOMBO
-
-Visto, il Guardasigilli: REALE
-
-Registrato alla Corte dei conti, addi' 15 luglio 1975
-
-Atti di Governo, registro n. 11, foglio n. 6
-
-Tabelle
-
- TABELLA A   
-  
-  
-RUOLO ORGANICO DEL PERSONALE DELLA CARRIERA DIRETTIVA DEI SERVIZI CENTRALI DELLA RAGIONERIA GENERALE DELLO STATO.   
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=075U030000100010110001&dgu=1975-07-21&art.dataPubblicazioneGazzetta=1975-07-21&art.codiceRedazionale=075U0300)
-  
-  
-  
-  
-TABELLA B   
-  
-RUOLO ORGANICO DEL PERSONALE DELLA CARRIERA ESECUTIVA TECNICA DEI MECCANOGRAFI DELLA RAGIONERIA GENERALE DELLO STATO.   
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=075U030000100010110002&dgu=1975-07-21&art.dataPubblicazioneGazzetta=1975-07-21&art.codiceRedazionale=075U0300)
-  
-  
-  
-  
-  
-TABELLA C   
-  
-RUOLO ORGANICO DEL PERSONALE DELLA CARRIERA ESECUTIVA DEI SERVIZI CENTRALI DELLA RAGIONERIA GENERALE DELLO STATO.   
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=075U030000100010110003&dgu=1975-07-21&art.dataPubblicazioneGazzetta=1975-07-21&art.codiceRedazionale=075U0300)
-  
-  
-  
-  
-  
-TABELLA D   
-  
-RUOLO ORGANICO DEL PERSONALE DELLA CARRIERA ESECUTIVA DELLE RAGIONERIE PROVINCIALI DELLO STATO.   
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=075U030000100010110004&dgu=1975-07-21&art.dataPubblicazioneGazzetta=1975-07-21&art.codiceRedazionale=075U0300)
-  
+LEONE MORO - COLOMBO Visto, il Guardasigilli: REALE Registrato alla Corte dei conti, addi' 15 luglio 1975 Atti di Governo, registro n. 11, foglio n. 6

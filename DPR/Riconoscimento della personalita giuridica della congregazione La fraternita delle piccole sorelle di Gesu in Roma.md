@@ -1,19 +1,21 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 03 dicembre 1980 n. 1020
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 1020
+data: 1980-12-03
+titolo: "Riconoscimento della personalita' giuridica della congregazione \"La fraternita delle piccole sorelle di Gesu'\", in Roma."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1980-12-03;1020
+codice_redazionale: 080U1020
+vigente: true
+---
 
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 03 dicembre 1980 n. 1020
-================================================================
-
-Riconoscimento della personalita' giuridica della congregazione "La fraternita delle piccole sorelle di Gesu'", in Roma.
-------------------------------------------------------------------------------------------------------------------------
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-1020. Decreto del Presidente della Repubblica 3 dicembre 1980, col quale, sulla proposta del Ministro dell'interno, viene riconosciuta la personalita' giuridica della congregazione "La fraternita' delle piccole sorelle di Gesu'", in Roma.  
-  
-Visto, il Guardasigilli: SARTI  
-Registrato alla Corte dei conti, addi' 26 gennaio 1981  
-Registro n. 2 Interno, foglio n. 287
+1020.
+
+Decreto del Presidente della Repubblica 3 dicembre 1980, col quale, sulla proposta del Ministro dell'interno, viene riconosciuta la personalita' giuridica della congregazione "La fraternita' delle piccole sorelle di Gesu'", in Roma.
+
+Visto, il Guardasigilli: SARTI
+ Registrato alla Corte dei conti, addi' 26 gennaio 1981
+ Registro n. 2 Interno, foglio n. 287

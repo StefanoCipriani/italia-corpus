@@ -1,19 +1,21 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 26 dicembre 1960 n. 1877
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 1877
+data: 1960-12-26
+titolo: "Erezione in ente morale della Cassa scolastica della Scuola statale di avviamento professionale a tipo industriale maschile e femminile di Pisa."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1960-12-26;1877
+codice_redazionale: 060U1877
+vigente: true
+---
 
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 26 dicembre 1960 n. 1877
-================================================================
-
-Erezione in ente morale della Cassa scolastica della Scuola statale di avviamento professionale a tipo industriale maschile e femminile di Pisa.
-------------------------------------------------------------------------------------------------------------------------------------------------
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-1877. Decreto del Presidente della Repubblica 26 dicembre 1960, col quale, sulla proposta del Ministro per la pubblica istruzione, la Cassa scolastica della Scuola statale di avviamento professionale a tipo industriale maschile e femminile di Marina di Pisa viene eretta in ente morale e ne viene approvato lo statuto.  
-  
-Visto, il Guardasigilli: GONELLA  
-Registrato alla Corte dei conti, addi' 28 febbraio 1961  
-Atti del Governo, registro n. 134, foglio n. 133. - VILLA
+1877.
+
+Decreto del Presidente della Repubblica 26 dicembre 1960, col quale, sulla proposta del Ministro per la pubblica istruzione, la Cassa scolastica della Scuola statale di avviamento professionale a tipo industriale maschile e femminile di Marina di Pisa viene eretta in ente morale e ne viene approvato lo statuto.
+
+Visto, il Guardasigilli: GONELLA
+ Registrato alla Corte dei conti, addi' 28 febbraio 1961
+ Atti del Governo, registro n. 134, foglio n. 133. - VILLA

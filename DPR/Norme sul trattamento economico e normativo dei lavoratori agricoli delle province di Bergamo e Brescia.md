@@ -1,20 +1,20 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 gennaio 1962 n. 1268
-
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 gennaio 1962 n. 1268
-===============================================================
-
-Norme sul trattamento economico e normativo dei lavoratori agricoli delle province di Bergamo e Brescia.
---------------------------------------------------------------------------------------------------------
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 1268
+data: 1962-01-02
+titolo: "Norme sul trattamento economico e normativo dei lavoratori agricoli delle province di Bergamo e Brescia."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1962-01-02;1268
+codice_redazionale: 062U1268
+vigente: true
+---
 
 IL PRESIDENTE DELLA REPUBBLICA
-------------------------------
 
-Visto l'[art. 87, comma quinto, della Costituzione](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27~art87-com5);
+Visto l'[art. 87, comma quinto, della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87-com5);
 
-Vista la [legge 14 luglio 1959, n. 741](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1959-07-14;741), che delega il Governo ad emanare norme transitorie per garantire minimi di trattamento economico e normativo al lavoratori;
+Vista la [legge 14 luglio 1959, n. 741](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1959-07-14;741), che delega il Governo ad emanare norme transitorie per garantire minimi di trattamento economico e normativo al lavoratori;
 
-Vista, la [legge 1 ottobre 1960, n. 1027](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1960-10-01;1027), recante modifiche alla predetta [legge 14 luglio 1959, n. 741](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1959-07-14;741);
+Vista, la [legge 1 ottobre 1960, n. 1027](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1960-10-01;1027), recante modifiche alla predetta [legge 14 luglio 1959, n. 741](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1959-07-14;741);
 
 Visto l'accordo nazionale 24 settembre 1952, per la scala mobile dei salariati agricoli;
 
@@ -38,77 +38,18 @@ Vista la pubblicazione nell'apposito Bollettino, n. 1 della provincia di Bergamo
 
 Sentito il Consiglio dei Ministri;
 
-Sulla
------
+Sulla proposta, del Ministro per il lavoro e la previdenza sociale; Decreta:
 
-proposta, del Ministro per il lavoro e la previdenza sociale; Decreta:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-I rapporti di lavoro costituiti per le attivita' per le quali sono stati stipulati:  
-- per la provincia di Bergamo, il contratto collettivo 18 ottobre 1956, relativo ai salariati agricoli con o senza spesa, il contratto collettivo 18 ottobre 1956 relativo ai braccianti avventizi, l'accordo collettivo 5 novembre 1959, relativo al prospetto generale per la liquidazione dei conti dei salariati, l'accordo collettivo 5 novembre 1959, relativo al prospetto generale per la liquidazione dei conti ai salariati senza spesa ed avventizi;  
-- per la provincia di Brescia, il contratto collettivo 18 dicembre 1958, relativo ai salariati fissi;  
-sono regolati da norme giuridiche uniformi alle clausole dei contratti e degli accordi anzidetti, annessi al presente decreto, purche' compatibili con quelle concernenti la disciplina nazionale della categoria.  
-I minimi di trattamento economico e normativo cosi' stabiliti sono inderogabili nei confronti di tutti i lavoratori considerati nel contratto e accordi annessi, dipendenti dalle imprese agricole delle province di Bergamo e, Brescia.  
-  
+I rapporti di lavoro costituiti per le attivita' per le quali sono stati stipulati:
+ - per la provincia di Bergamo, il contratto collettivo 18 ottobre 1956, relativo ai salariati agricoli con o senza spesa, il contratto collettivo 18 ottobre 1956 relativo ai braccianti avventizi, l'accordo collettivo 5 novembre 1959, relativo al prospetto generale per la liquidazione dei conti dei salariati, l'accordo collettivo 5 novembre 1959, relativo al prospetto generale per la liquidazione dei conti ai salariati senza spesa ed avventizi;
+ - per la provincia di Brescia, il contratto collettivo 18 dicembre 1958, relativo ai salariati fissi;
+sono regolati da norme giuridiche uniformi alle clausole dei contratti e degli accordi anzidetti, annessi al presente decreto, purche' compatibili con quelle concernenti la disciplina nazionale della categoria.
+ I minimi di trattamento economico e normativo cosi' stabiliti sono inderogabili nei confronti di tutti i lavoratori considerati nel contratto e accordi annessi, dipendenti dalle imprese agricole delle province di Bergamo e, Brescia.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 2 gennaio 1962
+Dato a Roma, addi' 2 gennaio 1962
 
-FANFANI - SULLO
-
-Visto, il Guardasigilli: BOSCO
-
-Registrato alla Corte dei Conti, addi' 3 agosto 1962
-
-Atti del Governo, registro n. 157, foglio n. 89 - VILLA
-
-Allegato
-
-CONTRATTO COLLETTIVO 18 OTTOBRE 1956, PER I SALARIATI AGRICOLI CON O SENZA SPESA, DELLA PROVINCIA DI BERGAMO.   
-  
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=062U126800100010110001&dgu=1962-08-25&art.dataPubblicazioneGazzetta=1962-08-25&art.codiceRedazionale=062U1268)
-  
-  
-  
-  
-CONTRATTO COLLETTIVO 18 OTTOBRE 1956 PER I BRACCIANTI AVVENTIZI DELLA PROVINCIA DI BERGAMO.   
-  
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=062U126800100010110002&dgu=1962-08-25&art.dataPubblicazioneGazzetta=1962-08-25&art.codiceRedazionale=062U1268)
-  
-  
-  
-  
-ACCORDO COLLETTIVO 5 NOVEMBRE 1959, RELATIVO AL PROSPETTO GENERALE PER LA LIQUIDAZIONE DEI CONTI DEI SALARIATI DELLA PROVINCIA DI BERGAMO PER L'ANNATA AGRARIA 1958-59.   
-  
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=062U126800100010110003&dgu=1962-08-25&art.dataPubblicazioneGazzetta=1962-08-25&art.codiceRedazionale=062U1268)
-  
-  
-  
-  
-ACCORDO COLLETTIVO 5 NOVEMBRE 1959, RELATIVO AL PROSPETTO GENERALE PER LA LIQUIDAZIONE DEI CONTI AI SALARIATI SENZA SPESA (GIA AVVENTIZI FISSI) ED AVVENTIZI (GIA AVVENTIZI OCCASIONALI) DELLA PROVINCIA DI BERGAMO PER L'ANNATA AGRARIA 1958-59.   
-  
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=062U126800100010110004&dgu=1962-08-25&art.dataPubblicazioneGazzetta=1962-08-25&art.codiceRedazionale=062U1268)
-  
-  
-  
-  
-CONTRATTO COLLETTIVO 18 DICEMBRE 1958 PER I SALARIATI FISSI ADDETTI ALLE AZIENDE AGRICOLE DELLA PROVINCIA DI BRESCIA.   
-  
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=062U126800100010110005&dgu=1962-08-25&art.dataPubblicazioneGazzetta=1962-08-25&art.codiceRedazionale=062U1268)
-  
+FANFANI - SULLO Visto, il Guardasigilli: BOSCO Registrato alla Corte dei Conti, addi' 3 agosto 1962 Atti del Governo, registro n. 157, foglio n. 89 - VILLA

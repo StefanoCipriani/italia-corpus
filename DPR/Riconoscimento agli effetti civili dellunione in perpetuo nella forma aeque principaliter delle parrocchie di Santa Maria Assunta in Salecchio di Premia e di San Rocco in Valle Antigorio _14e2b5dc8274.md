@@ -1,19 +1,21 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 29 maggio 1956 n. 822
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 822
+data: 1956-05-29
+titolo: "Riconoscimento, agli effetti civili, dell'unione in perpetuo, nella forma \"aeque principaliter\" delle parrocchie di Santa Maria Assunta, in Salecchio di Premia e di San Rocco, in Valle Antigorio di Premia (Novara)."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1956-05-29;822
+codice_redazionale: 056U0822
+vigente: true
+---
 
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 29 maggio 1956 n. 822
-=============================================================
-
-Riconoscimento, agli effetti civili, dell'unione in perpetuo, nella forma "aeque principaliter" delle parrocchie di Santa Maria Assunta, in Salecchio di Premia e di San Rocco, in Valle Antigorio di Premia (Novara).
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-822. Decreto del Presidente della Repubblica 29 maggio 1956, col quale, sulla proposta del Ministro per l'interno, viene riconosciuto, agli effetti civili, il decreto dell'Ordinario diocesano di Novara in data 1 luglio 1955, relativo all'unione in perpetuo, nella forma "aeque principaliter" delle parrocchie di Santa Maria Assunta, in Salecchio di Premia e di San Rocco, in Valle Antigorio, di Premia (Novara).  
-  
-Visto, il Guardasigilli: MORO  
-Registrato alla Corte dei conti, addi' 26 luglio 1936  
-Atti del Governo, registro n. 99, foglio n. 136. - CARLOMAGNO
+822.
+
+Decreto del Presidente della Repubblica 29 maggio 1956, col quale, sulla proposta del Ministro per l'interno, viene riconosciuto, agli effetti civili, il decreto dell'Ordinario diocesano di Novara in data 1 luglio 1955, relativo all'unione in perpetuo, nella forma "aeque principaliter" delle parrocchie di Santa Maria Assunta, in Salecchio di Premia e di San Rocco, in Valle Antigorio, di Premia (Novara).
+
+Visto, il Guardasigilli: MORO
+ Registrato alla Corte dei conti, addi' 26 luglio 1936
+ Atti del Governo, registro n. 99, foglio n. 136. - CARLOMAGNO

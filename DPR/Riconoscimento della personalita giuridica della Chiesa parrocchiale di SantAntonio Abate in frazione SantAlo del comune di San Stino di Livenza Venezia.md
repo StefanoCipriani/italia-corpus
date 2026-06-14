@@ -1,19 +1,21 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 26 marzo 1958 n. 452
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 452
+data: 1958-03-26
+titolo: "Riconoscimento della personalita' giuridica della Chiesa parrocchiale di Sant'Antonio Abate, in frazione Sant'Alo' del comune di San Stino di Livenza (Venezia)."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1958-03-26;452
+codice_redazionale: 058U0452
+vigente: true
+---
 
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 26 marzo 1958 n. 452
-============================================================
-
-Riconoscimento della personalita' giuridica della Chiesa parrocchiale di Sant'Antonio Abate, in frazione Sant'Alo' del comune di San Stino di Livenza (Venezia).
-----------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-452. Decreto del Presidente della Repubblica 26 marzo 1958, col quale, sulla proposta del Ministro per l'interno, viene riconosciuta la personalita' giuridici della Chiesa parrocchiale di Sant'Antonio Abate, in frazione Sant'Alo' del comune di San Stino di Livenza (Venezia).  
-  
-Visto, il Guardasigilli: GONELLA  
-Registrato alla Corte dei conti, addi' 29 aprile 1958  
-Atti del Governo, registro n. 112, foglio n. 67. - RELLEVA
+452.
+
+Decreto del Presidente della Repubblica 26 marzo 1958, col quale, sulla proposta del Ministro per l'interno, viene riconosciuta la personalita' giuridici della Chiesa parrocchiale di Sant'Antonio Abate, in frazione Sant'Alo' del comune di San Stino di Livenza (Venezia).
+
+Visto, il Guardasigilli: GONELLA
+ Registrato alla Corte dei conti, addi' 29 aprile 1958
+ Atti del Governo, registro n. 112, foglio n. 67. - RELLEVA

@@ -1,19 +1,21 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 04 maggio 1964 n. 533
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 533
+data: 1964-05-04
+titolo: "Erezione in ente morale della Cassa scolastica della Scuola media statale di Palanzano (Parma), gia' scuola di avviamento professionale."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1964-05-04;533
+codice_redazionale: 064U0533
+vigente: true
+---
 
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 04 maggio 1964 n. 533
-=============================================================
-
-Erezione in ente morale della Cassa scolastica della Scuola media statale di Palanzano (Parma), gia' scuola di avviamento professionale.
-----------------------------------------------------------------------------------------------------------------------------------------
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-533. Decreto del Presidente della Repubblica 4 maggio 1964, col quale, sulla proposta del Ministro per la pubblica istruzione la Cassa scolastica della Scuola media statale di Palanzano (Parma), gia' scuola di avviamento professionale, viene eretta in ente morale e ne viene approvato lo statuto.  
-  
-Visto, il Guardasigilli: REALE  
-Registrato alla Corte dei conti, addi' 6 luglio 1961  
-Atti del Governo, registro n. 181, foglio n. 95. - VILLA
+533.
+
+Decreto del Presidente della Repubblica 4 maggio 1964, col quale, sulla proposta del Ministro per la pubblica istruzione la Cassa scolastica della Scuola media statale di Palanzano (Parma), gia' scuola di avviamento professionale, viene eretta in ente morale e ne viene approvato lo statuto.
+
+Visto, il Guardasigilli: REALE
+ Registrato alla Corte dei conti, addi' 6 luglio 1961
+ Atti del Governo, registro n. 181, foglio n. 95. - VILLA

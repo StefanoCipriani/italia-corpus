@@ -1,19 +1,21 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 11 marzo 1968 n. 512
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 512
+data: 1968-03-11
+titolo: "Erezione in ente morale dell'asilo infantile, con sede in Quaregna."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1968-03-11;512
+codice_redazionale: 068U0512
+vigente: true
+---
 
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 11 marzo 1968 n. 512
-============================================================
-
-Erezione in ente morale dell'asilo infantile, con sede in Quaregna.
--------------------------------------------------------------------
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-512. Decreto del Presidente della Repubblica 11 marzo 1968, col quale, sulla proposta del Ministro per l'interno, l'asilo infantile, con sede in Quaregna (Vercelli), viene eretto in ente morale e ne viene approvato lo statuto.  
-  
-Visto, il Guardasigilli: REALE  
-Registrato alla Corte dei conti, addi' 16 aprile 1968  
-Atti del Governo, registro n. 219, foglio n. 12. - GRECO
+512.
+
+Decreto del Presidente della Repubblica 11 marzo 1968, col quale, sulla proposta del Ministro per l'interno, l'asilo infantile, con sede in Quaregna (Vercelli), viene eretto in ente morale e ne viene approvato lo statuto.
+
+Visto, il Guardasigilli: REALE
+ Registrato alla Corte dei conti, addi' 16 aprile 1968
+ Atti del Governo, registro n. 219, foglio n. 12. - GRECO

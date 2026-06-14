@@ -1,19 +1,21 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 17 gennaio 1956 n. 159
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 159
+data: 1956-01-17
+titolo: "Erezione in ente morale della Cassa scolastica della Scuola media statale di Frosinone."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1956-01-17;159
+codice_redazionale: 056U0159
+vigente: true
+---
 
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 17 gennaio 1956 n. 159
-==============================================================
-
-Erezione in ente morale della Cassa scolastica della Scuola media statale di Frosinone.
----------------------------------------------------------------------------------------
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-159. Decreto del Presidente della Repubblica 17 gennaio 1956, col quale, sulla proposta del ministro per la pubblica istruzione, la Cassa scolastica della Scuola media statale di Frosinone viene eretta in ente morale e ne viene approvato lo statuto.  
-  
-Visto, il Guardasigilli: MORO  
-Registrato alla Corte dei conti, addi' 15 marzo 1956  
-Atti del Governo, registro n. 96, foglio n. 129. - CARLOMAGNO
+159.
+
+Decreto del Presidente della Repubblica 17 gennaio 1956, col quale, sulla proposta del ministro per la pubblica istruzione, la Cassa scolastica della Scuola media statale di Frosinone viene eretta in ente morale e ne viene approvato lo statuto.
+
+Visto, il Guardasigilli: MORO
+ Registrato alla Corte dei conti, addi' 15 marzo 1956
+ Atti del Governo, registro n. 96, foglio n. 129. - CARLOMAGNO

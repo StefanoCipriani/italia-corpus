@@ -1,20 +1,22 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 29 settembre 1975 n. 580
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 578
+data: 1975-09-24
+titolo: "Autorizzazione alla fondazione \"Pro juventute don Carlo Gnocchi\", in Roma, ad accettare un legato."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1975-09-24;578
+codice_redazionale: 075U0578
+vigente: true
+---
 
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 29 settembre 1975 n. 580
-================================================================
-
-Autorizzazione alla fondazione "Pro juventute don Carlo Gnocchi", in Roma, ad accettare un legato.
---------------------------------------------------------------------------------------------------
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-580. Decreto del Presidente della Repubblica 29 settembre 1975, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la fondazione "Pro juventute don Carlo Gnocchi", in Roma, viene autorizzata ad accettare un legato consistente in obbligazioni "E.N.E.L." per il valore nominale di L. 1.000.000, disposto dalla sig.ra Maria Cecchini in favore dell'Istituto don Gnocchi, che si identifica con la fondazione "Pro juventute don Carlo Gnocchi", come ha fatto presente la fondazione medesima, con testamento olografo 2 marzo 1970, pubblicato in data 27 novembre 1973, n. 3311 di repertorio, n. 2400 di raccolta a rogito avv.  
-Domenico De Nigris notaio in Albano Laziale (Roma), e registrato ad Albano il 4 dicembre 1973, al n. 3286, mod. 3.  
-  
-Visto, il Guardasigilli: REALE  
-Registrato alla Corte dei conti, addi' 26 novembre 1975  
-Atti di Governo, registro n. 14, foglio n. 43
+578.
+
+Decreto del Presidente della Repubblica 24 settembre 1975, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la fondazione "Pro juventute don Carlo Gnocchi", in Roma, viene autorizzata ad accettare un legato, consistente in titoli azionari del valore presunto di L. 36.096.873, disposto dal sig.
+ Mario Bianchi con testamento pubblico 10 giugno 1972, registrato in data 28 giugno 1972, n. 55338 di repertorio, n. 5378 di raccolta, a rogito dott. Riccardo Morganti, notaio in Luino (Varese), registrato a Luino il 28 giugno 1972 al n. 404, vol. 725.
+
+Visto, il Guardasigilli: REALE
+ Registrato alla Corte dei conti, addi' 26 novembre 1975
+ Atti di Governo, registro n. 14, foglio n. 60

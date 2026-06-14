@@ -1,19 +1,21 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 14 aprile 1980 n. 214
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 214
+data: 1980-04-14
+titolo: "Riconoscimento della personalita' giuridica della chiesa parrocchiale di Maria Immacolata, in Parma."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1980-04-14;214
+codice_redazionale: 080U0214
+vigente: true
+---
 
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 14 aprile 1980 n. 214
-=============================================================
-
-Riconoscimento della personalita' giuridica della chiesa parrocchiale di Maria Immacolata, in Parma.
-----------------------------------------------------------------------------------------------------
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-214. Decreto del Presidente della Repubblica 14 aprile 1980, col quale, sulla proposta del Ministro dell'interno, viene riconosciuta la personalita' giuridica della chiesa parrocchiale di Maria Immacolata, in Parma.  
-  
-Visto, il Guardasigilli: MORLINO  
-Registrato alla Corte dei conti, addi' 31 maggio 1980  
-Registro n. 9 Interno, foglio n. 378
+214.
+
+Decreto del Presidente della Repubblica 14 aprile 1980, col quale, sulla proposta del Ministro dell'interno, viene riconosciuta la personalita' giuridica della chiesa parrocchiale di Maria Immacolata, in Parma.
+
+Visto, il Guardasigilli: MORLINO
+ Registrato alla Corte dei conti, addi' 31 maggio 1980
+ Registro n. 9 Interno, foglio n. 378

@@ -1,76 +1,47 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 14 maggio 1952 n. 494
-
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 14 maggio 1952 n. 494
-=============================================================
-
-Trasferimento in proprieta' all'Ente per lo sviluppo dell'irrigazione e la trasformazione fondiaria in Puglia e Lucania - Sezione speciale per la riforma fondiaria - di terreni di proprieta' di Macario Antonio di Giuseppe, in comune di Andria (Bari).
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 494
+data: 1952-05-14
+titolo: "Trasferimento in proprieta' all'Ente per lo sviluppo dell'irrigazione e la trasformazione fondiaria in Puglia e Lucania - Sezione speciale per la riforma fondiaria - di terreni di proprieta' di Macario Antonio di Giuseppe, in comune di Andria (Bari)."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1952-05-14;494
+codice_redazionale: 052U0494
+vigente: true
+---
 
 IL PRESIDENTE DELLA REPUBBLICA
-------------------------------
 
-Visti gli [articoli 77, comma primo](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27~art77-com1), ed [87, comma quinto, della Costituzione](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27~art87-com5) della Repubblica;
+Visti gli [articoli 77, comma primo](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_77-com1), ed [87, comma quinto, della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87-com5) della Repubblica;
 
-Viste le [leggi 12 maggio 1950, n. 230; 21 ottobre 1950, n. 841 e 18 maggio 1951, n. 333](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1951-05-18;333);
+Viste le [leggi 12 maggio 1950, n. 230; 21 ottobre 1950, n. 841 e 18 maggio 1951, n. 333](../Atti%20normativi%20abrogati%20%28in%20originale%29/Norme%20interpretative%20e%20integrative%20della%20legge%2021%20ottobre%201950%20n.%20841%20concernente%20lespropriazione%20la%20bonifica%20la%20trasformazione%20e%20lassegnazione%20dei%20terreni%20ai%20contadini.md);
 
-In virtu' della delegazione concessa dagli [articoli 5 della legge 12 maggio 1950, n. 230](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1950-05-12;230~art5), ed 1 e 2 della [legge 21 ottobre 1950, n. 841](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1950-10-21;841);
+In virtu' della delegazione concessa dagli [articoli 5 della legge 12 maggio 1950, n. 230](../Atti%20normativi%20abrogati%20%28in%20originale%29/Provvedimenti%20per%20la%20colonizzazione%20dellAltopiano%20della%20Sila%20e%20dei%20territori%20jonici%20contermini.md), ed 1 e 2 della [legge 21 ottobre 1950, n. 841](../Atti%20normativi%20abrogati%20%28in%20originale%29/Norme%20per%20la%20espropriazione%20bonifica%20trasformazione%20ed%20assegnazione%20dei%20terreni%20ai%20contadini.md);
 
 Visto il proprio decreto 7 febbraio 1951, n. 67;
 
-Udito il parere, in data 13 marzo 1952, espresso dalla Commissione parlamentare, nominata a norma degli [articoli 5 della legge 12 maggio 1950, n. 230](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1950-05-12;230~art5), ed 1 e 2 della [legge 21 ottobre 1950, n. 841](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1950-10-21;841), sul piano particolareggiato di espropriazione compilato dall'Ente per lo sviluppo dell'irrigazione e la trasformazione fondiaria in Puglia e Lucania - Sezione speciale per la riforma fondiaria - nei confronti di Macario Antonio di Giuseppe, per i terreni ricadenti nel comune di Andria (provincia di Bari);
+Udito il parere, in data 13 marzo 1952, espresso dalla Commissione parlamentare, nominata a norma degli [articoli 5 della legge 12 maggio 1950, n. 230](../Atti%20normativi%20abrogati%20%28in%20originale%29/Provvedimenti%20per%20la%20colonizzazione%20dellAltopiano%20della%20Sila%20e%20dei%20territori%20jonici%20contermini.md), ed 1 e 2 della [legge 21 ottobre 1950, n. 841](../Atti%20normativi%20abrogati%20%28in%20originale%29/Norme%20per%20la%20espropriazione%20bonifica%20trasformazione%20ed%20assegnazione%20dei%20terreni%20ai%20contadini.md), sul piano particolareggiato di espropriazione compilato dall'Ente per lo sviluppo dell'irrigazione e la trasformazione fondiaria in Puglia e Lucania - Sezione speciale per la riforma fondiaria - nei confronti di Macario Antonio di Giuseppe, per i terreni ricadenti nel comune di Andria (provincia di Bari);
 
 Sentito il Consiglio dei Ministri;
 
-Sulla
------
+Sulla proposta del Ministro Segretario di Stato per l'agricoltura e per le foreste; Decreta:
 
-proposta del Ministro Segretario di Stato per l'agricoltura e per le foreste; Decreta:
+## Art. 1.
 
-Art. 1
-------
+E' approvato il piano particolareggiato di espropriazione compilato dall'Ente per lo sviluppo dell'irrigazione e la trasformazione fondiaria in Puglia e Lucania - Sezione speciale per la riforma fondiaria - nei confronti di Macario Antonio di Giuseppe, relativo ai terreni ricadenti nel comune di Andria (provincia di Bari), per una superficie di ettari 243.17.20, specificamente descritti nell'elenco n. 1 allegato al presente decreto.
 
-  
-E' approvato il piano particolareggiato di espropriazione compilato dall'Ente per lo sviluppo dell'irrigazione e la trasformazione fondiaria in Puglia e Lucania - Sezione speciale per la riforma fondiaria - nei confronti di Macario Antonio di Giuseppe, relativo ai terreni ricadenti nel comune di Andria (provincia di Bari), per una superficie di ettari 243.17.20, specificamente descritti nell'elenco n. 1 allegato al presente decreto.  
+## Art. 2.
 
-Art. 2
-------
+I terreni indicati nel precedente articolo sono trasferiti in proprieta' all'Ente per lo sviluppo dell'irrigazione e la trasformazione fondiaria in Puglia e Lucania - Sezione speciale per la riforma fondiaria.
 
-  
-I terreni indicati nel precedente articolo sono trasferiti in proprieta' all'Ente per lo sviluppo dell'irrigazione e la trasformazione fondiaria in Puglia e Lucania - Sezione speciale per la riforma fondiaria.  
+## Art. 3.
 
-Art. 3
-------
+E' ordinata l'immediata occupazione, da parte dell'Ente predetto, dei terreni indicati nei precedenti articoli 1 e 2.
 
-  
-E' ordinata l'immediata occupazione, da parte dell'Ente predetto, dei terreni indicati nei precedenti articoli 1 e 2.  
+## Art. 4.
 
-Art. 4
-------
-
-  
-L'elenco dei terreni, con l'indicazione dell'indennita' di espropriazione offerta, munito del visto del Ministro proponente, forma parte integrante del presente decreto, che entra in vigore il giorno stesso della sua pubblicazione nella Gazzetta Ufficiale della Repubblica italiana.  
-  
+L'elenco dei terreni, con l'indicazione dell'indennita' di espropriazione offerta, munito del visto del Ministro proponente, forma parte integrante del presente decreto, che entra in vigore il giorno stesso della sua pubblicazione nella Gazzetta Ufficiale della Repubblica italiana.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 14 maggio 1952
+Dato a Roma, addi' 14 maggio 1952
 
-EINAUDI DE GASPERI - FANFANI
-
-Visto, il Guardasigilli: ZOLI
-
-Registrato alla Corte dei conti, addi' 21 maggio 1952
-
-Atti del Governo, registro n. 53, foglio n. 82. - CARLOMAGNO
-
-Allegato n. 1
-
- ALLEGATO N. 1   
-  
-Elenco dei terreni intestati alla ditta Macario Antonio di Giuseppe, in comune di Andria (provincia di Bari), trasferiti in proprieta' dell'Ente per lo sviluppo dell'irrigazione e la trasformazione fondiaria in Puglia e Lucania - Sezione speciale per la riforma fondiaria - a norma delle [leggi 12 maggio 1950, n. 230, 21 ottobre 1950, n. 841](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1950-10-21;841) e [decreto Presidenziale 7 febbraio 1951, n. 67](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-02-07;67).   
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=052U049400100010110001&dgu=1952-05-24&art.dataPubblicazioneGazzetta=1952-05-24&art.codiceRedazionale=052U0494)
-  
+EINAUDI DE GASPERI - FANFANI Visto, il Guardasigilli: ZOLI Registrato alla Corte dei conti, addi' 21 maggio 1952 Atti del Governo, registro n. 53, foglio n. 82. - CARLOMAGNO

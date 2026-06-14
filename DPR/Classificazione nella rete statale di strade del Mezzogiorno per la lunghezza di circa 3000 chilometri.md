@@ -1,16 +1,16 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 27 maggio 1953 n. 782
-
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 27 maggio 1953 n. 782
-=============================================================
-
-Classificazione nella rete statale di strade del Mezzogiorno per la lunghezza di circa 3000 chilometri.
--------------------------------------------------------------------------------------------------------
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 782
+data: 1953-05-27
+titolo: "Classificazione nella rete statale di strade del Mezzogiorno per la lunghezza di circa 3000 chilometri."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1953-05-27;782
+codice_redazionale: 053U0782
+vigente: true
+---
 
 IL PRESIDENTE DELLA REPUBBLICA
-------------------------------
 
-Visto l'[art. 3 del decreto legislativo 17 aprile 1948, n. 547](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1948-04-17;547~art3);
+Visto l'[art. 3 del decreto legislativo 17 aprile 1948, n. 547](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1948-04-17;547#art_3);
 
 Ritenuta l'opportunita' di classificare nella rete statale alcune strade del Mezzogiorno d'Italia;
 
@@ -20,55 +20,36 @@ Visto il voto 3 marzo 1953, n. 626, del Consiglio superiore dei lavori pubblici;
 
 Sentito il Consiglio dei Ministri;
 
-Sulla
------
+Sulla proposta del Ministro per i lavori pubblici, di concerto col Ministro per il tesoro; Decreta:
 
-proposta del Ministro per i lavori pubblici, di concerto col Ministro per il tesoro; Decreta:
+## Art. 1.
 
-Art. 1
-------
+Sono inserite nell'elenco delle strade statali con classifica dei relativi percorsi nella rete delle strade stesse, le seguenti nuove strade.
 
-  
-Sono inserite nell'elenco delle strade statali con classifica dei relativi percorsi nella rete delle strade stesse, le seguenti nuove strade.  
-  
-----> Parte di provvedimento in formato grafico <----  
+----> Parte di provvedimento in formato grafico <----
 
-Art. 2
-------
+## Art. 2.
 
-  
-Sono classificati nella rete delle strade statali ed inseriti nel relativo elenco, in prolungamento, come accanto indicato, di strade gia' iscritte nell'elenco medesimo, i nuovi percorsi di cui appresso:   
-----> Parte di provvedimento in formato grafico <----  
+Sono classificati nella rete delle strade statali ed inseriti nel relativo elenco, in prolungamento, come accanto indicato, di strade gia' iscritte nell'elenco medesimo, i nuovi percorsi di cui appresso: 
+ ----> Parte di provvedimento in formato grafico <----
 
-Art. 3
-------
+## Art. 3.
 
-  
-E' classificata nella rete statale la strada dall'innesto con la SS. n. 18 presso la stazione di Nocera Terinese, per Capo Suvero, all'innesto con la statale n. 18, presso la stazione di Francavilla Angitola.  
-Tale nuova strada e' inserita nel percorso della SS. n. 18 "Tirrena inferiore" in sostituzione dell'attuale corrispondente tracciato passante per Nicastro, in conseguenza di che l'indicazione di percorso dell'intera statale stessa rimane stabilita come segue:  
-Napoli-Torre Annunziata-Salerno-Battipaglia-Rutino-Vallo- Torre Orsaia-Sapri-Paola-Santa Eufemia-Vibo Valentia-Reggio Calabria.  
-La parte sostituita del tracciato della SS. n. 18, giusta il comma precedente continua a far parte della rete delle strade statali, rimanendo iscritta nel relativo elenco nei modi di cui appresso:  
-a) il tronco dal bivio presso la stazione di Nocera Terinese, per Nicastro, al bivio Calderaro, diviene diramazione della SS. n. 18 "Tirrena inferiore" la indicazione di percorso, quale dal secondo comma del presente articolo, va completata pertanto come segue: e diramazione dal bivio presso la stazione di Nocera Terinese, per Nicastro, al bivio Calderaro;  
-b) il tronco dal bivio Calderaro a quello presso la stazione di Francavilla Angitola viene aggiunto alla diramazione della SS. n. 19 "della Calabria" da questa staccantesi al bivio Pedadace, presso Tiriolo, con che tale diramazione avra' il percorso seguente: bivio Pedadace presso Tiriolo-bivio Calderaro innesto con la SS. n. 18 presso la stazione di Francavilla Angitola.  
+E' classificata nella rete statale la strada dall'innesto con la SS. n. 18 presso la stazione di Nocera Terinese, per Capo Suvero, all'innesto con la statale n. 18, presso la stazione di Francavilla Angitola.
+ Tale nuova strada e' inserita nel percorso della SS. n. 18 "Tirrena inferiore" in sostituzione dell'attuale corrispondente tracciato passante per Nicastro, in conseguenza di che l'indicazione di percorso dell'intera statale stessa rimane stabilita come segue:
+Napoli-Torre Annunziata-Salerno-Battipaglia-Rutino-Vallo- Torre Orsaia-Sapri-Paola-Santa Eufemia-Vibo Valentia-Reggio Calabria.
+ La parte sostituita del tracciato della SS. n. 18, giusta il comma precedente continua a far parte della rete delle strade statali, rimanendo iscritta nel relativo elenco nei modi di cui appresso:
+ a) il tronco dal bivio presso la stazione di Nocera Terinese, per Nicastro, al bivio Calderaro, diviene diramazione della SS. n. 18 "Tirrena inferiore" la indicazione di percorso, quale dal secondo comma del presente articolo, va completata pertanto come segue: e diramazione dal bivio presso la stazione di Nocera Terinese, per Nicastro, al bivio Calderaro;
+ b) il tronco dal bivio Calderaro a quello presso la stazione di Francavilla Angitola viene aggiunto alla diramazione della SS. n. 19 "della Calabria" da questa staccantesi al bivio Pedadace, presso Tiriolo, con che tale diramazione avra' il percorso seguente: bivio Pedadace presso Tiriolo-bivio Calderaro innesto con la SS. n. 18 presso la stazione di Francavilla Angitola.
 
-Art. 4
-------
+## Art. 4.
 
-  
-Sono classificati nella rete delle strade statali, ed inseriti nel relativo elenco in qualita' di diramazione, come accanto indicato, di strada gia' iscritte nell'elenco medesimo, i nuovi percorsi di cui appresso:  
-  
-----> Parte di provvedimento in formato grafico <----  
-  
+Sono classificati nella rete delle strade statali, ed inseriti nel relativo elenco in qualita' di diramazione, come accanto indicato, di strada gia' iscritte nell'elenco medesimo, i nuovi percorsi di cui appresso:
+
+----> Parte di provvedimento in formato grafico <----
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto
-------------------------------------------------------------------
 
-### nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 
-Dato a Roma, addi' 27 maggio 1953 EINAUDI DE GASPERI - ALDISIO - PELLA
-
-Visto, il Guardasigilli: GONELLA
-
-Registrato alla Corte dei conti, addi' 17 ottobre 1953
-
-Atti del Governo, registro n. 79, foglio n. 125. - PALLA
+Dato a Roma, addi' 27 maggio 1953 EINAUDI DE GASPERI - ALDISIO - PELLA Visto, il Guardasigilli: GONELLA Registrato alla Corte dei conti, addi' 17 ottobre 1953 Atti del Governo, registro n. 79, foglio n. 125. - PALLA

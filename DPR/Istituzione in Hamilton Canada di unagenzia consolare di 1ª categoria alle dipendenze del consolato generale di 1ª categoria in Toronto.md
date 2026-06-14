@@ -1,51 +1,35 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 11 dicembre 1968 n. 1680
-
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 11 dicembre 1968 n. 1680
-================================================================
-
-Istituzione in Hamilton (Canada) di un'agenzia consolare di 1ª categoria alle dipendenze del consolato generale di 1ª categoria in Toronto.
--------------------------------------------------------------------------------------------------------------------------------------------
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 1680
+data: 1968-12-11
+titolo: "Istituzione in Hamilton (Canada) di un'agenzia consolare di 1ª categoria alle dipendenze del consolato generale di 1ª categoria in Toronto."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1968-12-11;1680
+codice_redazionale: 068U1680
+vigente: true
+---
 
 IL PRESIDENTE DELLA REPUBBLICA
-------------------------------
 
-Visti gli [articoli 30](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1967-01-05;18~art30) e [42 del decreto del Presidente della Repubblica 5 gennaio 1967, n. 18](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1967-01-05;18~art42), sull'ordinamento dell'Amministrazione degli affari esteri;
+Visti gli [articoli 30](Ordinamento%20dellAmministrazione%20degli%20affari%20esteri.md) e [42 del decreto del Presidente della Repubblica 5 gennaio 1967, n. 18](Ordinamento%20dellAmministrazione%20degli%20affari%20esteri.md), sull'ordinamento dell'Amministrazione degli affari esteri;
 
 Udito il parere del consiglio di amministrazione del Ministero degli affari esteri;
 
-Sulla
------
+Sulla proposta del Ministro per gli affari esteri, di concerto con il Ministro per il tesoro; Decreta:
 
-proposta del Ministro per gli affari esteri, di concerto con il Ministro per il tesoro; Decreta:
+## Art. 1.
 
-Art. 1
-------
+Il vice consolato di 2ª categoria in Hamilton (Canada), alle dipendenze del consolato generale di 1ª categoria in Toronto, e' soppresso.
 
-  
-Il vice consolato di 2ª categoria in Hamilton (Canada), alle dipendenze del consolato generale di 1ª categoria in Toronto, e' soppresso.  
+## Art. 2.
 
-Art. 2
-------
+E' istituita in Hamilton (Canada) un'agenzia consolare di 1ª categoria, alle dipendenze del consolato generale di 1ª categoria in Toronto, con la seguente circoscrizione territoriale: le Contee di Wentworth, Brant, Halton, Waterloo e Wellington.
 
-  
-  
-E' istituita in Hamilton (Canada) un'agenzia consolare di 1ª categoria, alle dipendenze del consolato generale di 1ª categoria in Toronto, con la seguente circoscrizione territoriale: le Contee di Wentworth, Brant, Halton, Waterloo e Wellington.   
-
-Art. 3
-------
+## Art. 3.
 
 Il presente decreto ha effetto a decorrere dal 1° agosto
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 11 dicembre 1968
+Dato a Roma, addi' 11 dicembre 1968
 
-SARAGAT MEDICI - COLOMBO
-
-Visto, il Guardasigilli: GAVA
-
-Registrato alla Corte dei conti, addi' 11 settembre 1969
-
-Atti del Governo, registro n. 229, foglio n. 22. - CARUSO
+SARAGAT MEDICI - COLOMBO Visto, il Guardasigilli: GAVA Registrato alla Corte dei conti, addi' 11 settembre 1969 Atti del Governo, registro n. 229, foglio n. 22. - CARUSO

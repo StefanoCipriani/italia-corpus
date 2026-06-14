@@ -1,19 +1,21 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 06 giugno 1961 n. 626
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 626
+data: 1961-06-06
+titolo: "Riconoscimento della personalita' giuridica della Chiesa parrocchiale di Sant'Antonio, nel comune di Martina Franca (Taranto)."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1961-06-06;626
+codice_redazionale: 061U0626
+vigente: true
+---
 
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 06 giugno 1961 n. 626
-=============================================================
-
-Riconoscimento della personalita' giuridica della Chiesa parrocchiale di Sant'Antonio, nel comune di Martina Franca (Taranto).
-------------------------------------------------------------------------------------------------------------------------------
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-626. Decreto del Presidente della Repubblica 6 giugno 1961, col quale, sulla proposta del Ministro per l'interno, viene riconosciuta la personalita' giuridica della Chiesa parrocchiale di Sant'Antonio, nel comune di Martina Franca (Taranto).  
-  
-Visto, il Guardasigilli: GONELLA  
-Registrato alla Corte dei conti addi' 11 luglio 1961  
-Atti del Governo, registro n. 137, foglio n. 104. - VILLA
+626.
+
+Decreto del Presidente della Repubblica 6 giugno 1961, col quale, sulla proposta del Ministro per l'interno, viene riconosciuta la personalita' giuridica della Chiesa parrocchiale di Sant'Antonio, nel comune di Martina Franca (Taranto).
+
+Visto, il Guardasigilli: GONELLA
+ Registrato alla Corte dei conti addi' 11 luglio 1961
+ Atti del Governo, registro n. 137, foglio n. 104. - VILLA

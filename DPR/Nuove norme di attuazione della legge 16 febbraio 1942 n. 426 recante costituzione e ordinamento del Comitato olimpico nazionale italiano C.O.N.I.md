@@ -1,26 +1,26 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 marzo 1986 n. 157
-
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 marzo 1986 n. 157
-============================================================
-
-Nuove norme di attuazione della legge 16 febbraio 1942, n. 426, recante costituzione e ordinamento del Comitato olimpico nazionale italiano (C.O.N.I.).
--------------------------------------------------------------------------------------------------------------------------------------------------------
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 157
+data: 1986-03-28
+titolo: "Nuove norme di attuazione della legge 16 febbraio 1942, n. 426, recante costituzione e ordinamento del Comitato olimpico nazionale italiano (C.O.N.I.)."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1986-03-28;157
+codice_redazionale: 086U0157
+vigente: true
+---
 
 IL PRESIDENTE DELLA REPUBBLICA
-------------------------------
 
-Visto l'[art. 87, quinto comma, della Costituzione](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27~art87-com5);
+Visto l'[art. 87, quinto comma, della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87-com5);
 
-Vista la [legge 16 febbraio 1942, n. 426](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1942-02-16;426), e successive modificazioni, sulla costituzione e l'ordinamento del Comitato olimpico nazionale italiano (C.O.N.I.);
+Vista la [legge 16 febbraio 1942, n. 426](../Atti%20normativi%20abrogati%20%28in%20originale%29/Costituzione%20e%20ordinamento%20del%20Comitato%20olimpico%20nazionale%20italiano%20C.O.N.I..%20042U0426.md), e successive modificazioni, sulla costituzione e l'ordinamento del Comitato olimpico nazionale italiano (C.O.N.I.);
 
-Vista la [legge 31 luglio 1959, n. 617](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1959-07-31;617), istitutiva del Ministero del turismo e dello spettacolo, con la quale sono state trasferite al predetto Dicastero le funzioni esercitate dalla Presidenza del Consiglio dei Ministri nei confronti del C.O.N.I.;
+Vista la [legge 31 luglio 1959, n. 617](../Atti%20normativi%20abrogati%20%28in%20originale%29/Istituzione%20del%20Ministero%20del%20turismo%20e%20dello%20spettacolo.md), istitutiva del Ministero del turismo e dello spettacolo, con la quale sono state trasferite al predetto Dicastero le funzioni esercitate dalla Presidenza del Consiglio dei Ministri nei confronti del C.O.N.I.;
 
-Visto il [decreto del Presidente della Repubblica 2 agosto 1974, n. 530](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1974-08-02;530), recante norme di attuazione della predetta [legge 16 febbraio 1942, n. 426](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1942-02-16;426);
+Visto il [decreto del Presidente della Repubblica 2 agosto 1974, n. 530](Norme%20di%20attuazione%20della%20legge%2016%20febbraio%201942%20n.%20426%20sullistituzione%20e%20lordinamento%20del%20Comitato%20olimpico%20nazionale%20italiano.md), recante norme di attuazione della predetta [legge 16 febbraio 1942, n. 426](../Atti%20normativi%20abrogati%20%28in%20originale%29/Costituzione%20e%20ordinamento%20del%20Comitato%20olimpico%20nazionale%20italiano%20C.O.N.I..%20042U0426.md);
 
-Vista la [legge 20 marzo 1975, n. 70](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1975-03-20;70);
+Vista la [legge 20 marzo 1975, n. 70](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1975-03-20;70);
 
-Vista la [legge 23 marzo 1981, n. 91](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1981-03-23;91);
+Vista la [legge 23 marzo 1981, n. 91](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1981-03-23;91);
 
 Ritenuta la necessita' di modificare ed integrare le vigenti norme di attuazione, sulla base della piu' recente legislazione;
 
@@ -30,606 +30,706 @@ Vista la deliberazione del Consiglio dei Ministri, adottata nella riunione del 2
 
 Sulla proposta del Ministro del turismo e dello spettacolo, di concerto con il Ministro del tesoro;
 
-EMANA
------
+EMANA il seguente decreto:
 
-il seguente decreto:
+## ORDINAMENTO DEL COMITATO OLIMPICO NAZIONALE ITALIANO
 
-CAPO I Titolo I ORDINAMENTO DEL COMITATO OLIMPICO NAZIONALE ITALIANO
---------------------------------------------------------------------
+Titolo I
 
-### Art. 1
+### Art. 1. — Scopi del Comitato
 
-Scopi del Comitato
+1.
 
-1. Il Comitato olimpico nazionale italiano (C.O.N.I.), ha sede in Roma, ed e' posto sotto la vigilanza del Ministero del turismo e dello spettacolo.
+Il Comitato olimpico nazionale italiano (C.O.N.I.), ha sede in Roma, ed e' posto sotto la vigilanza del Ministero del turismo e dello spettacolo.
 
-2. Esso persegue le finalita' previste dalla [legge 16 febbraio 1942, n. 426](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1942-02-16;426), e successive modificazioni, in armonia con le deliberazioni e gli indirizzi del Comitato internazionale olimpico (C.I.O.).
+2.
 
-Note alle premesse:  
-- La [legge n. 70/1975](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1975;70) reca disposizioni sul riordinamento degli enti pubblici e del rapporto di lavoro del personale dipendente.  
-- La [legge n. 91/1981](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1981;91) reca norme in materia di rapporti tra societa' e sportivi professionisti.  
-  
-Nota all'art. 1:  
-Per l'argomento della [legge n. 426/1942](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1942;426), vedi nelle premesse.
+Esso persegue le finalita' previste dalla [legge 16 febbraio 1942, n. 426](../Atti%20normativi%20abrogati%20%28in%20originale%29/Costituzione%20e%20ordinamento%20del%20Comitato%20olimpico%20nazionale%20italiano%20C.O.N.I..%20042U0426.md), e successive modificazioni, in armonia con le deliberazioni e gli indirizzi del Comitato internazionale olimpico (C.I.O.).
 
-### Art. 2
+Note alle premesse:
+ - La [legge n. 70/1975](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1975;70) reca disposizioni sul riordinamento degli enti pubblici e del rapporto di lavoro del personale dipendente.
+ - La [legge n. 91/1981](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1981;91) reca norme in materia di rapporti tra societa' e sportivi professionisti.
 
-Organi
+ Nota all'art. 1:
+ Per l'argomento della [legge n. 426/1942](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1942;426), vedi nelle premesse.
 
-1. Sono organi del Comitato olimpico nazionale italiano:
+### Art. 2. — Organi
 
-a) il consiglio nazionale;
+1.
 
-b) la giunta esecutiva;
+Sono organi del Comitato olimpico nazionale italiano:
+                            a)
+                                il consiglio nazionale;
+                            b)
+                                la giunta esecutiva;
+                            c)
+                                il presidente;
+                            d)
+                                il segretario generale;
+                            e)
+                                il collegio dei revisori dei conti.
 
-c) il presidente;
+2.
 
-d) il segretario generale;
+Le federazioni sportive nazionali sono organi del Comitato relativamente all'esercizio delle attivita' sportive ricadenti nell'ambito di rispettiva competenza.
 
-e) il collegio dei revisori dei conti.
+3.
 
-2. Le federazioni sportive nazionali sono organi del Comitato relativamente all'esercizio delle attivita' sportive ricadenti nell'ambito di rispettiva competenza.
+L'organizzazione periferica del C.O.N.I. e' costituita:
+                            a)
+                                dai delegati regionali, che coordinano in sede regionale le attivita' dei comitati provinciali;
+                            b)
+                                dai comitati provinciali;
+                            c)
+                                dai fiduciari locali.
 
-3. L'organizzazione periferica del C.O.N.I. e' costituita:
+### Art. 3. — Requisiti per rivestire cariche
 
-a) dai delegati regionali, che coordinano in sede regionale le attivita' dei comitati provinciali;
+1.
 
-b) dai comitati provinciali;
+Le persone che rivestono cariche in seno agli organi del Comitato olimpico nazionale italiano devono avere i seguenti requisiti:
+                            a)
+                                essere cittadini italiani;
+                            b)
+                                non avere riportato condanne per delitto doloso;
+                            c)
+                                non essere stati assoggettati, da parte del Comitato olimpico nazionale italiano o di una federazione sportiva nazionale, a squalifiche o ad inibizioni complessivamente superiori ad un anno.
 
-c) dai fiduciari locali.
+### Art. 4. — Composizione del consiglio nazionale
 
-### Art. 3
+1.
 
-Requisiti per rivestire cariche
+Il consiglio nazionale e' composto dal presidente del Comitato, che lo presiede, e dai presidenti delle federazioni sportive nazionali. Vi esercita le funzioni di segretario il segretario generale del Comitato.
 
-1. Le persone che rivestono cariche in seno agli organi del Comitato olimpico nazionale italiano devono avere i seguenti requisiti:
+2.
 
-a) essere cittadini italiani;
+Il consiglio dura in carica quattro anni.
 
-b) non avere riportato condanne per delitto doloso;
+3.
 
-c) non essere stati assoggettati, da parte del Comitato olimpico nazionale italiano o di una federazione sportiva nazionale, a squalifiche o ad inibizioni complessivamente superiori ad un anno.
+Partecipano alle adunanze con diritto di voto, ai sensi dell'art. 24 dello statuto del Comitato internazionale olimpico, i membri italiani di questo Comitato.
 
-### Art. 4
+4.
 
-Composizione del consiglio nazionale
-
-1. Il consiglio nazionale e' composto dal presidente del Comitato, che lo presiede, e dai presidenti delle federazioni sportive nazionali. Vi esercita le funzioni di segretario il segretario generale del Comitato.
-
-2. Il consiglio dura in carica quattro anni.
-
-3. Partecipano alle adunanze con diritto di voto, ai sensi dell'art. 24 dello statuto del Comitato internazionale olimpico, i membri italiani di questo Comitato.
-
-4. Alle riunioni possono partecipare, senza diritto al voto, un rappresentante del Ministero del turismo e dello spettacolo e, ove siano invitati, un rappresentante del Ministero della pubblica istruzione ed uno del Ministero della difesa.
+Alle riunioni possono partecipare, senza diritto al voto, un rappresentante del Ministero del turismo e dello spettacolo e, ove siano invitati, un rappresentante del Ministero della pubblica istruzione ed uno del Ministero della difesa.
 
 ((
 
-4-bis. Il consiglio nazionale puo' nominare un presidente onorario e due membri onorari del CONI, scelti tra coloro che si sono particolarmente distinti nel mondo dello sport e tenendo anche conto dei criteri e delle modalita' determinati dal consiglio stesso, in armonia con le disposizioni del Comitato internazionale olimpico (C.I.O.) sulla composizione dei Comitati nazionali olimpici, i quali partecipano alle riunioni del consiglio nazionale senza diritto di voto.
+4-bis.
+
+Il consiglio nazionale puo' nominare un presidente onorario e due membri onorari del CONI, scelti tra coloro che si sono particolarmente distinti nel mondo dello sport e tenendo anche conto dei criteri e delle modalita' determinati dal consiglio stesso, in armonia con le disposizioni del Comitato internazionale olimpico (C.I.O.) sulla composizione dei Comitati nazionali olimpici, i quali partecipano alle riunioni del consiglio nazionale senza diritto di voto.
 
 ))
 
-### Art. 5
+### Art. 5. — Compiti del consiglio nazionale
 
-Compiti del consiglio nazionale
+1.
 
-1. Il consiglio nazionale:
+Il consiglio nazionale:
+                            a)
+                                designa il presidente;
+                            b)
+                                elegge nel suo seno due vice presidenti;
+                            c)
+                                elegge i sei membri della giunta esecutiva;
+                            d)
+                                nomina il segretario generale;
+                            e)
+                                stabilisce gli indirizzi generali dell'attivita' dell'ente e quelli per la diffusione dell'idea olimpica, anche in attuazione delle direttive del C.I.O.;
+                            f)
+                                delibera i bilanci preventivi, le relative variazioni ed i conti consuntivi dell'ente ed approva la relazione della giunta esecutiva sulla gestione dell'ente;
+                            g)
+                                delibera sull'ordinamento dei servizi, la consistenza degli organici e il regolamento organico del personale sulla base della normativa recata dalla [legge 20 marzo 1975, n. 70](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1975-03-20;70);
+                            h)
+                                delibera, ai sensi delle presenti norme, sulla costituzione di nuove federazioni sportive nazionali;
+                            i)
+                                approva, ove non sia diversamente disposto dalla legge, gli statuti delle federazioni sportive e stabilisce i criteri fondamentali ai quali il presidente deve attenersi per l'approvazione dei regolamenti interni delle federazioni stesse, previsti dall'art. 5, ultimo comma, della [legge 16 febbraio 1942, n. 426](../Atti%20normativi%20abrogati%20%28in%20originale%29/Costituzione%20e%20ordinamento%20del%20Comitato%20olimpico%20nazionale%20italiano%20C.O.N.I..%20042U0426.md);
+                            l)
+                                delibera sulle proposte di nomina, da parte degli organi competenti, dei commissari straordinari alle federazioni sportive nazionali per accertate gravi irregolarita' di gestione o di funzionamento sportivo degli organi federali;
+                            m)
+                                stabilisce, in armonia con l'ordinamento sportivo internazionale e nell'ambito di ciascuna federazione sportiva nazionale, criteri per la distinzione dell'attivita' sportiva dilettantistica da quella professionistica;
+                            n)
+                                riconosce, salvo delega alle federazioni sportive nazionali, le societa' sportive nonche', salvo delega alla giunta esecutiva, gli enti di promozione sportiva e le associazioni benemerite;
+                            o)
+                                stabilisce i principi, i criteri e le modalita' per i controlli da parte delle federazioni sportive nazionali sulle gestioni delle societa' sportive di cui all'[art. 12 della legge 23 marzo 1981, n. 91](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1981-03-23;91#art_12);
+                            p)
+                                delibera su ogni altro argomento che gli sia sottoposto dal presidente o dalla giunta e di cui sia stata richiesta l'iscrizione all'ordine del giorno da almeno dieci membri.
+
+2.
+
+Le deliberazioni di cui alle lettere f) e g) devono essere trasmesse al Ministero del turismo e dello spettacolo ed a quello del tesoro ai fini di quanto disposto al successivo art. 12.
+
+Note all'art. 5:
+ - Per l'argomento della [legge n. 70/1975](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1975;70), vedi nelle note alle premesse.
+ - Il testo vigente dell'ultimo comma dell'[art. 5 della legge n. 426/1942](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1942;426#art_5) (per l'argomento della legge vedi nelle premesse) e' il seguente:
+ "Le Federazioni sportive nazionali stabiliscono, con regolamenti interni, approvati dal presidente del Comitato olimpico nazionale italiano (C.O.N.I.), le norme tecniche ed amministrative per il loro funzionamento e le norme sportive per l'esercizio dello sport controllato".
+ - Il testo dell'[art. 12 della legge n. 91/1981](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1981;91#art_12) (per l'argomento della legge vedi nelle note alle premesse) cosi' dispone:
+ "Art. 12. (Nome sul controllo e sulla responsabilita' delle federazioni sportive nazionali). - Le societa' sportive di cui alla presente legge sono sottoposte all'approvazione ed ai controlli sulla gestione da parte delle federazioni sportive nazionali cui sono affiliate, per delega del C.O.N.I. e secondo modalita' approvate dal C.O.N.I.
+ Tutte le deliberazioni delle societa' concernenti esposizioni finanziarie, acquisto o vendita di beni immobili, o, comunque, tutti gli atti di straordinaria amministrazione, sono soggetti ad approvazione da parte delle federazioni sportive nazionali cui sono affiliate.
+ Nel caso di societa' affiliata a piu' federazioni sportive nazionali, l'approvazione ed i controlli sono effettuati dalla federazione competente per l'attivita' cui la deliberazione si riferisce.
+ In caso di mancata approvazione e' ammesso ricorso alla giunta esecutiva del C.O.N.I., che si pronuncia entro sessanta giorni dal ricevimento del ricorso".
 
-a) designa il presidente;
+### Art. 6. — Convocazione e deliberazione del consiglio nazionale
 
-b) elegge nel suo seno due vice presidenti;
+1.
 
-c) elegge i sei membri della giunta esecutiva;
+Il consiglio nazionale e' convocato dal presidente in seduta ordinaria almeno due volte l'anno per l'esame dei bilanci preventivo e consuntivo ed in seduta straordinaria ogni qualvolta il presidente stesso o la giunta esecutiva lo ritengano necessario, ovvero su richiesta motivata di almeno un terzo dei membri del consiglio nazionale aventi diritto a voto, entro quaranta giorni dalla richiesta stessa.
 
-d) nomina il segretario generale;
+2.
 
-e) stabilisce gli indirizzi generali dell'attivita' dell'ente e quelli per la diffusione dell'idea olimpica, anche in attuazione delle direttive del C.I.O.;
+L'avviso di convocazione e' fatto con lettera raccomandata, contenente l'ordine del giorno, da inviarsi, almeno venti giorni prima della data fissata per la riunione, a tutti i componenti del consiglio nazionale, ed e' comunicato ai componenti del collegio dei revisori ed al Ministero del turismo e dello spettacolo. Nel caso di convocazione straordinaria, su richiesta di un terzo dei membri, l'ordine del giorno deve specificare le proposte contenute nella richiesta.
 
-f) delibera i bilanci preventivi, le relative variazioni ed i conti consuntivi dell'ente ed approva la relazione della giunta esecutiva sulla gestione dell'ente;
+3.
 
-g) delibera sull'ordinamento dei servizi, la consistenza degli organici e il regolamento organico del personale sulla base della normativa recata dalla [legge 20 marzo 1975, n. 70](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1975-03-20;70);
+Salvo che non sia diversamente disposto, per la validita' delle riunioni del consiglio nazionale occorre la presenza della maggioranza assoluta dei componenti con diritto a voto.
 
-h) delibera, ai sensi delle presenti norme, sulla costituzione di nuove federazioni sportive nazionali;
+4.
 
-i) approva, ove non sia diversamente disposto dalla legge, gli statuti delle federazioni sportive e stabilisce i criteri fondamentali ai quali il presidente deve attenersi per l'approvazione dei regolamenti interni delle federazioni stesse, previsti dall'art. 5, ultimo comma, della [legge 16 febbraio 1942, n. 426](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1942-02-16;426);
+Le proposte di deliberazione sono approvate a maggioranza assoluta dei presenti all'adunanza con diritto a voto.
 
-l) delibera sulle proposte di nomina, da parte degli organi competenti, dei commissari straordinari alle federazioni sportive nazionali per accertate gravi irregolarita' di gestione o di funzionamento sportivo degli organi federali;
+### Art. 7. — Composizione della giunta esecutiva
 
-m) stabilisce, in armonia con l'ordinamento sportivo internazionale e nell'ambito di ciascuna federazione sportiva nazionale, criteri per la distinzione dell'attivita' sportiva dilettantistica da quella professionistica;
+1.
 
-n) riconosce, salvo delega alle federazioni sportive nazionali, le societa' sportive nonche', salvo delega alla giunta esecutiva, gli enti di promozione sportiva e le associazioni benemerite;
+La giunta esecutiva e' composta dal presidente del Comitato che la presiede, dai due vice presidenti, dai sei membri eletti dal consiglio nazionale e dal segretario generale che vi esplica le funzioni di segretario.
 
-o) stabilisce i principi, i criteri e le modalita' per i controlli da parte delle federazioni sportive nazionali sulle gestioni delle societa' sportive di cui all'[art. 12 della legge 23 marzo 1981, n. 91](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1981-03-23;91~art12);
+2.
 
-p) delibera su ogni altro argomento che gli sia sottoposto dal presidente o dalla giunta e di cui sia stata richiesta l'iscrizione all'ordine del giorno da almeno dieci membri.
+Partecipano, inoltre, con diritto di voto, alla giunta esecutiva, ai sensi dell'art. 24 dello statuto del Comitato internazionale olimpico, i membri italiani di detto Comitato.
 
-2. Le deliberazioni di cui alle lettere f) e g) devono essere trasmesse al Ministero del turismo e dello spettacolo ed a quello del tesoro ai fini di quanto disposto al successivo art. 12.
+3.
 
-Note all'art. 5:  
-- Per l'argomento della [legge n. 70/1975](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1975;70), vedi nelle note alle premesse.  
-- Il testo vigente dell'ultimo comma dell'[art. 5 della legge n. 426/1942](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1942;426~art5) (per l'argomento della legge vedi nelle premesse) e' il seguente:  
-"Le Federazioni sportive nazionali stabiliscono, con regolamenti interni, approvati dal presidente del Comitato olimpico nazionale italiano (C.O.N.I.), le norme tecniche ed amministrative per il loro funzionamento e le norme sportive per l'esercizio dello sport controllato".  
-- Il testo dell'[art. 12 della legge n. 91/1981](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1981;91~art12) (per l'argomento della legge vedi nelle note alle premesse) cosi' dispone:  
-"Art. 12. (Nome sul controllo e sulla responsabilita' delle federazioni sportive nazionali). - Le societa' sportive di cui alla presente legge sono sottoposte all'approvazione ed ai controlli sulla gestione da parte delle federazioni sportive nazionali cui sono affiliate, per delega del C.O.N.I. e secondo modalita' approvate dal C.O.N.I.  
-Tutte le deliberazioni delle societa' concernenti esposizioni finanziarie, acquisto o vendita di beni immobili, o, comunque, tutti gli atti di straordinaria amministrazione, sono soggetti ad approvazione da parte delle federazioni sportive nazionali cui sono affiliate.  
-Nel caso di societa' affiliata a piu' federazioni sportive nazionali, l'approvazione ed i controlli sono effettuati dalla federazione competente per l'attivita' cui la deliberazione si riferisce.  
-In caso di mancata approvazione e' ammesso ricorso alla giunta esecutiva del C.O.N.I., che si pronuncia entro sessanta giorni dal ricevimento del ricorso".
+La giunta dura in carica quattro anni.
 
-### Art. 6
+### Art. 8. — Requisiti di partecipazione alla giunta
 
-Convocazione e deliberazione del consiglio nazionale
+1.
 
-1. Il consiglio nazionale e' convocato dal presidente in seduta ordinaria almeno due volte l'anno per l'esame dei bilanci preventivo e consuntivo ed in seduta straordinaria ogni qualvolta il presidente stesso o la giunta esecutiva lo ritengano necessario, ovvero su richiesta motivata di almeno un terzo dei membri del consiglio nazionale aventi diritto a voto, entro quaranta giorni dalla richiesta stessa.
+Possono essere eletti componenti della giunta esecutiva coloro che siano stati, per almeno un biennio, membri elettivi dell'organo direttivo di una federazione sportiva o, per almeno sei anni consecutivi, delegati regionali o componenti dei comitati provinciali del C.O.N.I.
 
-2. L'avviso di convocazione e' fatto con lettera raccomandata, contenente l'ordine del giorno, da inviarsi, almeno venti giorni prima della data fissata per la riunione, a tutti i componenti del consiglio nazionale, ed e' comunicato ai componenti del collegio dei revisori ed al Ministero del turismo e dello spettacolo. Nel caso di convocazione straordinaria, su richiesta di un terzo dei membri, l'ordine del giorno deve specificare le proposte contenute nella richiesta.
+### Art. 9. — Compiti della giunta
 
-3. Salvo che non sia diversamente disposto, per la validita' delle riunioni del consiglio nazionale occorre la presenza della maggioranza assoluta dei componenti con diritto a voto.
+1.
 
-4. Le proposte di deliberazione sono approvate a maggioranza assoluta dei presenti all'adunanza con diritto a voto.
+La giunta esecutiva:
+                            a)
+                                provvede alla gestione amministrativa dell'ente secondo le direttive del consiglio nazionale;
+                            b)
+                                predispone il bilancio preventivo e il conto consuntivo;
+                            c)
+                                esercita il potere di controllo sui servizi ed uffici dell'ente e su tutte le federazioni sportive nazionali;
+                            d)
+                                approva i bilanci preventivi, le relative variazioni ed i conti consuntivi deliberati dalle federazioni sportive nazionali, da redigersi secondo uno schema-tipo;
+                            e)
+                                esamina gli statuti ed i regolamenti interni delle federazioni sportive nazionali e li propone, rispettivamente, all'approvazione del consiglio nazionale e del presidente;
+                            f)
+                                propone al consiglio nazionale il regolamento organico del personale, la consistenza dell'organico e l'ordinamento dei servizi;
+                            g)
+                                dispone ispezioni sulla gestione amministrativa e contabile e sull'attivita' tecnica delle federazioni sportive nazionali;
+                            h)
+                                formula le proposte sulla costituzione delle nuove federazioni sportive nazionali;
+                            i)
+                                nomina, su proposta del segretario generale, uno o piu' vice segretari generali, preposti a determinati settori dell'organizzazione;
+                            l)
+                                nomina i delegati regionali;
+                            m)
+                                nomina i presidenti ed i componenti dei comitati provinciali;
+                            n)
+                                nomina commissioni o gruppi di studio su materie attinenti lo sport e l'attivita' del C.O.N.I. e delle federazioni, determinando anche la misura dei compensi sulla base delle disposizioni che dovranno essere inserite nel regolamento sull'ordinamento dei servizi di cui all'art. 5, lettera g);
+                            o)
+                                adotta le deliberazioni di urgenza in sostituzione del consiglio nazionale e le sottopone alla sua ratifica nella prima riunione;
+                            p)
+                                si pronuncia sui ricorsi di cui all'art. 10, ultimo comma, e all'art. 12, ultimo comma, della [legge 23 marzo 1981, n. 91](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1981-03-23;91), entro sessanta giorni dal ricevimento del ricorso;
+                            q)
+                                delibera sulle azioni e sulla resistenza in giudizio dell'ente, nonche' su tutte le materie non espressamente riservate al consiglio nazionale e al presidente;
+                            r)
+                                autorizza la nomina dei fiduciari locali;
+                            s)
+                                quanto agli atti di cui alla lettera a) del presente articolo, stabilisce i limiti di valore dei provvedimenti adottabili in via d'urgenza dal presidente dell'ente anche ai sensi dell'art. 16.
 
-### Art. 7
+Nota all'art. 9:
+ L'ultimo comma dell'[art. 10 della legge n. 91/1981](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1981;91#art_10) (per l'argomento della legge vedi nelle note alle premesse) cosi' dispone:
+ "Avverso le decisioni della federazione sportiva nazionale e' ammesso ricorso alla giunta esecutiva del C.O.N.I., che si pronuncia entro sessanta giorni dal ricevimento del ricorso". Per il testo dell'ultimo comma dell'art. 12 della citata legge vedi nelle note all'art. 5.
 
-Composizione della giunta esecutiva
+### Art. 10. — Convocazione e deliberazione della giunta
 
-1. La giunta esecutiva e' composta dal presidente del Comitato che la presiede, dai due vice presidenti, dai sei membri eletti dal consiglio nazionale e dal segretario generale che vi esplica le funzioni di segretario.
+1.
 
-2. Partecipano, inoltre, con diritto di voto, alla giunta esecutiva, ai sensi dell'art. 24 dello statuto del Comitato internazionale olimpico, i membri italiani di detto Comitato.
+La giunta esecutiva e' convocata dal presidente, di norma una volta al mese ed ogni altra volta che lo stesso presidente lo ravvisi necessario, ovvero quando almeno quattro membri ne facciano richiesta.
 
-3. La giunta dura in carica quattro anni.
+2.
 
-### Art. 8
+Per la validita' delle riunioni occorre la presenza della maggioranza dei componenti con diritto a voto.
 
-Requisiti di partecipazione alla giunta
+3.
 
-1. Possono essere eletti componenti della giunta esecutiva coloro che siano stati, per almeno un biennio, membri elettivi dell'organo direttivo di una federazione sportiva o, per almeno sei anni consecutivi, delegati regionali o componenti dei comitati provinciali del C.O.N.I.
+Le proposte sono approvate a maggioranza assoluta dei presenti con diritto a voto.
 
-### Art. 9
+### Art. 11. — Rinnovazione delle cariche
 
-Compiti della giunta
+1.
 
-1. La giunta esecutiva:
+La giunta esecutiva, entro tre mesi dalla fine dell'anno in cui si sono svolti i giochi olimpici, convoca il consiglio nazionale affinche' questo provveda, nel periodo previsto dall'art. 14, alla designazione del presidente e alla rinnovazione delle cariche di vice presidente, di componente la giunta medesima ed alla nomina del segretario generale.
 
-a) provvede alla gestione amministrativa dell'ente secondo le direttive del consiglio nazionale;
+2.
 
-b) predispone il bilancio preventivo e il conto consuntivo;
+La giunta esecutiva, in caso di dimissioni del presidente convoca, entro sessanta giorni, il consiglio nazionale per la designazione del nuovo presidente.
 
-c) esercita il potere di controllo sui servizi ed uffici dell'ente e su tutte le federazioni sportive nazionali;
+3.
 
-d) approva i bilanci preventivi, le relative variazioni ed i conti consuntivi deliberati dalle federazioni sportive nazionali, da redigersi secondo uno schema-tipo;
+Il presidente o, in mancanza, il componente piu' anziano convoca, entro sessanta giorni, il consiglio nazionale per l'elezione della nuova giunta esecutiva nel caso di dimissioni della maggioranza dei componenti.
 
-e) esamina gli statuti ed i regolamenti interni delle federazioni sportive nazionali e li propone, rispettivamente, all'approvazione del consiglio nazionale e del presidente;
+4.
 
-f) propone al consiglio nazionale il regolamento organico del personale, la consistenza dell'organico e l'ordinamento dei servizi;
+Qualora nel corso del quadriennio un componente della giunta esecutiva venga, per dimissioni o qualsiasi altro motivo, a cessare dalla carica, il consiglio nazionale nella sua prima riunione provvede alla sua sostituzione.
 
-g) dispone ispezioni sulla gestione amministrativa e contabile e sull'attivita' tecnica delle federazioni sportive nazionali;
+5.
 
-h) formula le proposte sulla costituzione delle nuove federazioni sportive nazionali;
+Il nuovo eletto esplica le proprie funzioni sino ala rinnovazione generale delle cariche.
 
-i) nomina, su proposta del segretario generale, uno o piu' vice segretari generali, preposti a determinati settori dell'organizzazione;
+### Art. 12. — Controllo sulle deliberazioni
 
-l) nomina i delegati regionali;
+1.
 
-m) nomina i presidenti ed i componenti dei comitati provinciali;
+I verbali delle riunioni del consiglio nazionale e della giunta esecutiva, sottoscritti dal presidente e dal segretario generale, debbono essere approvati nella prima riunione successiva.
 
-n) nomina commissioni o gruppi di studio su materie attinenti lo sport e l'attivita' del C.O.N.I. e delle federazioni, determinando anche la misura dei compensi sulla base delle disposizioni che dovranno essere inserite nel regolamento sull'ordinamento dei servizi di cui all'art. 5, lettera g);
+2.
 
-o) adotta le deliberazioni di urgenza in sostituzione del consiglio nazionale e le sottopone alla sua ratifica nella prima riunione;
+Le deliberazioni del consiglio nazionale concernenti il regolamento organico del personale, la consistenza dell'organico e l'ordinamento dei servizi sono approvate secondo le modalita' stabilite dall'[art. 29 della legge 20 marzo 1975, n. 70](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1975-03-20;70#art_29).
 
-p) si pronuncia sui ricorsi di cui all'art. 10, ultimo comma, e all'art. 12, ultimo comma, della [legge 23 marzo 1981, n. 91](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1981-03-23;91), entro sessanta giorni dal ricevimento del ricorso;
+3.
 
-q) delibera sulle azioni e sulla resistenza in giudizio dell'ente, nonche' su tutte le materie non espressamente riservate al consiglio nazionale e al presidente;
+Le deliberazioni del consiglio nazionale concernenti i bilanci preventivi, le relative variazioni e i conti consuntivi sono sottoposte all'approvazione del Ministro del turismo e dello spettacolo. Si applicano le disposizioni dell'[art. 30 della legge 20 marzo 1975, n. 70](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1975-03-20;70#art_30).
 
-r) autorizza la nomina dei fiduciari locali;
+4.
 
-s) quanto agli atti di cui alla lettera a) del presente articolo, stabilisce i limiti di valore dei provvedimenti adottabili in via d'urgenza dal presidente dell'ente anche ai sensi dell'art. 16.
+Con il conto consuntivo e' trasmessa al Ministero del turismo e dello spettacolo una relazione sull'attivita' svolta e sull'andamento della gestione da allegare al bilancio annuale del Ministero del turismo e dello spettacolo, ai sensi dell'[art. 4 della legge 31 luglio 1959, n. 617](../Atti%20normativi%20abrogati%20%28in%20originale%29/Istituzione%20del%20Ministero%20del%20turismo%20e%20dello%20spettacolo.md).
 
-Nota all'art. 9:  
-L'ultimo comma dell'[art. 10 della legge n. 91/1981](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1981;91~art10) (per l'argomento della legge vedi nelle note alle premesse) cosi' dispone:  
-"Avverso le decisioni della federazione sportiva nazionale e' ammesso ricorso alla giunta esecutiva del C.O.N.I., che si pronuncia entro sessanta giorni dal ricevimento del ricorso". Per il testo dell'ultimo comma dell'art. 12 della citata legge vedi nelle note all'art. 5.
+5.
 
-### Art. 10
+Devono essere trasmesse al Ministero del turismo e dello spettacolo e, salvo che per motivi di urgenza siano dichiarate immediatamente eseguibili col voto espresso dalla meta' piu' uno dei componenti, divengono esecutive, se nel termine di venti giorni dal ricevimento non ne sia pronunciato dal Ministero l'annullamento per vizi di legittimita' le deliberazioni concernenti:
+                            a)
+                                i regolamenti interni;
+                            b)
+                                gli impegni pluriennali di spesa il cui importo superi complessivamente lire 1.000 milioni e gli impegni annuali superiori a lire 500 milioni;
+                            c)
+                                le collaborazioni e gli incarichi professionali, esclusi quelli attinenti alla ricerca scientifica, alle prestazioni tecnico-sportive per i centri di addestramento e i giochi della gioventu', alle pubblicazioni di carattere tecnico e sportivo, ai corsi e convegni;
+                            d)
+                                i compensi per la partecipazione a commissioni, comitati e gruppi di lavoro;
+                            e)
+                                l'indizione di concorsi per l'assunzione di personale;
+                            f)
+                                la nomina di commissioni o gruppi di studio su materie attinenti lo sport e l'attivita' del C.O.N.I. e delle federazioni.
 
-Convocazione e deliberazione della giunta
+Note all'art. 12:
+ - Il testo degli [articoli 29](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1975;70#art_29) e [30 della legge n. 70/1975](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1975;70#art_30) (per l'argomento della legge vedi nelle note alle premesse) e' il seguente:
+ "Art. 29. (Controllo sulle delibere degli enti). - Le delibere con cui gli enti adottano o modificano il regolamento organico, definiscono o modificano la consistenza organica di ciascuna qualifica, il numero dei dirigenti degli uffici e degli addetti agli uffici stessi, sono rimesse a mezzo di raccomandata per l'approvazione al Ministero cui compete la vigilanza sull'ente e al Ministero del tesoro. Alla stessa approvazione sono soggette le delibere con le quali si provvede ad aumentare o modificare gli stanziamenti relativi a spese generali e di personale in conformita' degli accordi sindacali approvati dal Governo.
+ Per le delibere di cui al primo comma dell'art. 25 e' richiesta, per la parte riguardante l'ordinamento dei servizi anche il concerto del Presidente del consiglio dei Ministri. A tal fine le suddette delibere sono rimesse, ai sensi del comma precedente, anche al Presidente del Consiglio dei Ministri.
+ Entro novanta giorni dalla data in cui la deliberazione risulta pervenuta, il Ministro cui compete la vigilanza, di concerto con il Ministro per il tesoro, l'approva o la restituisce all'ente con motivati rilievi per il riesame da parte dell'organo deliberante. Per i rilievi riguardanti vizi di legittimita' devono essere espressamente indicate le norme che si ritengono violate anche con riferimento ai principi generati dell'ordinamento giuridico.
+ I rilievi sono comunicati, per conoscenza, anche al presidente dell'organo interno di controllo dell'ente.
+ Trascorso il termine di novanta giorni la delibera non restituita diventa esecutiva.
+ Le delibere diventano comunque esecutive, qualora, nonostante i rilievi, siano motivatamente confermate con nuova deliberazione degli organi amministrativi dell'ente, sempreche' i rilievi mossi non attengano a vizi di legittimita' e alla consistenza degli organici.
+ Nel caso di ripetute e gravi inosservanze da parte dell'ente delle disposizioni contenute nel presente articolo, il Ministero vigilante puo' procedere allo scioglimento del consiglio di amministrazione dell'ente stesso, se direttamente competente, o, in caso diverso, proporne lo scioglimento.
+ "Art. 30. (Controllo sui bilanci di previsione). Gli enti disciplinati dalla presente legge sono tenuti ogni anno a compilare un bilancio di previsione ed un conto consuntivo, secondo norme uniformi di classificazione delle entrate e delle spese, da emanarsi con decreto del Presidente della Repubblica, su proposta del Ministro per il tesoro, previa deliberazione del Consiglio dei Ministri, entro sei mesi dall'entrata in vigore della presente legge.
+ Con lo stesso decreto sono approvate norme di amministrazioni e contabilita' degli enti pubblici.
+ Entro dieci giorni dalla delibera di approvazione ciascun ente provvede alla trasmissione al Ministero vigilante e al Ministero del tesoro del bilancio di previsione con allegata la pianta organica vigente comprendente la consistenza numerica del personale di ciascuna qualifica.
+ Restano ferme le norme in vigore sull'approvazione dei bilanci di previsione e dei conti consuntivi degli enti da parte dei Ministeri vigilanti.
+ Ogni anno entro il 31 del mese di luglio, ciascun Ministero trasmette al Parlamento una relazione sull'attivita' svolta, sui bilanci di previsione e sulla consistenza degli organici degli enti sottoposti alla sua vigilanza con allegati i bilanci di previsione stessi e le relative piante organiche e i conti consuntivi dell'esercizio precedente.
+ Tutti gli enti disciplinati dalla presente legge sono sottoposti al controllo della Corte dei conti, secondo le norme contenute nella [legge 21 marzo 1958, n. 259](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1958-03-21;259)".
+ - L'[art. 4 della legge n. 617/1959](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1959;617#art_4) (Istituzione del Ministero del turismo e dello spettacolo) dosi dispone:
+ "Art. 4. - Allo stato di previsione della spesa del Ministero del turismo e dello spettacolo da presentarsi al Parlamento saranno allegati la relazione annuale degli organi amministrativi del C.O.N.I. sull'attivita' svolta e sull'andamento della gestione, il bilancio dell'istituto per il credito sportivo con un elenco dei mutui concessi nell'anno, nonche' una relazione annuale del consiglio di amministrazione dell'E.N.I.T. sull'attivita' svolta e sull'andamento della gestione".
 
-1. La giunta esecutiva e' convocata dal presidente, di norma una volta al mese ed ogni altra volta che lo stesso presidente lo ravvisi necessario, ovvero quando almeno quattro membri ne facciano richiesta.
+### Art. 13. — Controllo sugli organi e amministrazione straordinaria
 
-2. Per la validita' delle riunioni occorre la presenza della maggioranza dei componenti con diritto a voto.
+1.
 
-3. Le proposte sono approvate a maggioranza assoluta dei presenti con diritto a voto.
+Il Ministro del turismo e dello spettacolo puo' disporre lo scioglimento della giunta esecutiva e la revoca del presidente per persistente inosservanza delle disposizioni di legge o di regolamento, per gravi irregolarita' amministrative e per omissione nell'esercizio delle loro funzioni, oltre che per accertate gravi deficienze amministrative tali da compromettere il normale funzionamento dell'ente.
 
-### Art. 11
+2.
 
-Rinnovazione delle cariche
+In tali casi e' nominato un commissario straordinario, fino alla ricostituzione degli organi di cui al comma 1 da effettuarsi entro il termine di quattro mesi.
 
-1. La giunta esecutiva, entro tre mesi dalla fine dell'anno in cui si sono svolti i giochi olimpici, convoca il consiglio nazionale affinche' questo provveda, nel periodo previsto dall'art. 14, alla designazione del presidente e alla rinnovazione delle cariche di vice presidente, di componente la giunta medesima ed alla nomina del segretario generale.
+### Art. 14. — Il presidente
 
-2. La giunta esecutiva, in caso di dimissioni del presidente convoca, entro sessanta giorni, il consiglio nazionale per la designazione del nuovo presidente.
+1.
 
-3. Il presidente o, in mancanza, il componente piu' anziano convoca, entro sessanta giorni, il consiglio nazionale per l'elezione della nuova giunta esecutiva nel caso di dimissioni della maggioranza dei componenti.
+Il presidente e' nominato, ogni quattro anni, con decreto del Ministro del turismo e dello spettacolo, su designazione del consiglio nazionale formulata entro sei mesi dalla fine dell'anno in cui si sono svolti i giochi olimpici.
 
-4. Qualora nel corso del quadriennio un componente della giunta esecutiva venga, per dimissioni o qualsiasi altro motivo, a cessare dalla carica, il consiglio nazionale nella sua prima riunione provvede alla sua sostituzione.
+### Art. 15. — Requisiti per la nomina
 
-5. Il nuovo eletto esplica le proprie funzioni sino ala rinnovazione generale delle cariche.
+1.
 
-### Art. 12
+Non puo' essere nominato alla carica di presidente chi non sia stato almeno per un biennio presidente o vice presidente di una federazione sportiva nazionale, oppure componente della giunta esecutiva del Comitato olimpico nazionale italiano.
 
-Controllo sulle deliberazioni
+2.
 
-1. I verbali delle riunioni del consiglio nazionale e della giunta esecutiva, sottoscritti dal presidente e dal segretario generale, debbono essere approvati nella prima riunione successiva.
+La carica di presidente e' incompatibile con altre cariche sportive in seno alle federazioni sportive nazionali.
 
-2. Le deliberazioni del consiglio nazionale concernenti il regolamento organico del personale, la consistenza dell'organico e l'ordinamento dei servizi sono approvate secondo le modalita' stabilite dall'[art. 29 della legge 20 marzo 1975, n. 70](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1975-03-20;70~art29).
+### Art. 16. — Compiti del presidente
 
-3. Le deliberazioni del consiglio nazionale concernenti i bilanci preventivi, le relative variazioni e i conti consuntivi sono sottoposte all'approvazione del Ministro del turismo e dello spettacolo. Si applicano le disposizioni dell'[art. 30 della legge 20 marzo 1975, n. 70](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1975-03-20;70~art30).
+1.
 
-4. Con il conto consuntivo e' trasmessa al Ministero del turismo e dello spettacolo una relazione sull'attivita' svolta e sull'andamento della gestione da allegare al bilancio annuale del Ministero del turismo e dello spettacolo, ai sensi dell'[art. 4 della legge 31 luglio 1959, n. 617](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1959-07-31;617~art4).
+Il presidente ha la rappresentanza legale dell'ente, anche nell'ambito delle organizzazioni sportive internazionali; convoca e presiede il consiglio nazionale e la giunta esecutiva e ne attua le deliberazioni; approva, previo parere della giunta esecutiva ed in armonia con i criteri fondamentali stabiliti dal consiglio nazionale, i regolamenti interni delle federazioni sportive nazionali e vigila sulla regolarita' delle elezioni dei rispettivi presidenti; adotta, nei casi di assoluta necessita' ed urgenza, i provvedimenti di competenza propria della giunta esecutiva nella materia indicata alla lettera a) dell'art. 9, nei limiti di valore fissato a norma della lettera s) del medesimo articolo, nonche' nelle materie indicate alle lettere c), g), l), m), q) ed r) dell'art. 9, e li sottopone alla ratifica della giunta stessa nella prima riunione successiva. I provvedimenti non presentati per la ratifica nel termine indicato perdono di diritto ogni effetto, ferma la responsabilita' personale del presidente.
 
-5. Devono essere trasmesse al Ministero del turismo e dello spettacolo e, salvo che per motivi di urgenza siano dichiarate immediatamente eseguibili col voto espresso dalla meta' piu' uno dei componenti, divengono esecutive, se nel termine di venti giorni dal ricevimento non ne sia pronunciato dal Ministero l'annullamento per vizi di legittimita' le deliberazioni concernenti:
+2.
 
-a) i regolamenti interni;
+Il presidente espleta inoltre i compiti previsti dall'ordinamento sportivo internazionale ed esercita le altre attribuzioni spettantigli in base alle presenti norme.
 
-b) gli impegni pluriennali di spesa il cui importo superi complessivamente lire 1.000 milioni e gli impegni annuali superiori a lire 500 milioni;
+3.
 
-c) le collaborazioni e gli incarichi professionali, esclusi quelli attinenti alla ricerca scientifica, alle prestazioni tecnico-sportive per i centri di addestramento e i giochi della gioventu', alle pubblicazioni di carattere tecnico e sportivo, ai corsi e convegni;
+In caso di assenza o di impedimento, il presidente e' sostituito dal vice presidente piu' anziano di carica o, a parita' di anzianita' di carica, dal piu' anziano di eta'.
 
-d) i compensi per la partecipazione a commissioni, comitati e gruppi di lavoro;
+### Art. 17. — Indennita' del presidente
 
-e) l'indizione di concorsi per l'assunzione di personale;
+1.
 
-f) la nomina di commissioni o gruppi di studio su materie attinenti lo sport e l'attivita' del C.O.N.I. e delle federazioni.
+Al presidente spetta una indennita' di carica e una medaglia di presenza per la partecipazione alle riunioni degli organi collegiali dell'ente, previsti per legge o regolamento, da determinare secondo le modalita' dell'[art. 11 della legge 24 gennaio 1978, n. 14](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-01-24;14#art_11).
 
-Note all'art. 12:  
-- Il testo degli [articoli 29](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1975;70~art29) e [30 della legge n. 70/1975](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1975;70~art30) (per l'argomento della legge vedi nelle note alle premesse) e' il seguente:  
-"Art. 29. (Controllo sulle delibere degli enti). - Le delibere con cui gli enti adottano o modificano il regolamento organico, definiscono o modificano la consistenza organica di ciascuna qualifica, il numero dei dirigenti degli uffici e degli addetti agli uffici stessi, sono rimesse a mezzo di raccomandata per l'approvazione al Ministero cui compete la vigilanza sull'ente e al Ministero del tesoro. Alla stessa approvazione sono soggette le delibere con le quali si provvede ad aumentare o modificare gli stanziamenti relativi a spese generali e di personale in conformita' degli accordi sindacali approvati dal Governo.  
-Per le delibere di cui al primo comma dell'art. 25 e' richiesta, per la parte riguardante l'ordinamento dei servizi anche il concerto del Presidente del consiglio dei Ministri. A tal fine le suddette delibere sono rimesse, ai sensi del comma precedente, anche al Presidente del Consiglio dei Ministri.  
-Entro novanta giorni dalla data in cui la deliberazione risulta pervenuta, il Ministro cui compete la vigilanza, di concerto con il Ministro per il tesoro, l'approva o la restituisce all'ente con motivati rilievi per il riesame da parte dell'organo deliberante. Per i rilievi riguardanti vizi di legittimita' devono essere espressamente indicate le norme che si ritengono violate anche con riferimento ai principi generati dell'ordinamento giuridico.  
-I rilievi sono comunicati, per conoscenza, anche al presidente dell'organo interno di controllo dell'ente.  
-Trascorso il termine di novanta giorni la delibera non restituita diventa esecutiva.  
-Le delibere diventano comunque esecutive, qualora, nonostante i rilievi, siano motivatamente confermate con nuova deliberazione degli organi amministrativi dell'ente, sempreche' i rilievi mossi non attengano a vizi di legittimita' e alla consistenza degli organici.  
-Nel caso di ripetute e gravi inosservanze da parte dell'ente delle disposizioni contenute nel presente articolo, il Ministero vigilante puo' procedere allo scioglimento del consiglio di amministrazione dell'ente stesso, se direttamente competente, o, in caso diverso, proporne lo scioglimento.  
-"Art. 30. (Controllo sui bilanci di previsione). Gli enti disciplinati dalla presente legge sono tenuti ogni anno a compilare un bilancio di previsione ed un conto consuntivo, secondo norme uniformi di classificazione delle entrate e delle spese, da emanarsi con decreto del Presidente della Repubblica, su proposta del Ministro per il tesoro, previa deliberazione del Consiglio dei Ministri, entro sei mesi dall'entrata in vigore della presente legge.  
-Con lo stesso decreto sono approvate norme di amministrazioni e contabilita' degli enti pubblici.  
-Entro dieci giorni dalla delibera di approvazione ciascun ente provvede alla trasmissione al Ministero vigilante e al Ministero del tesoro del bilancio di previsione con allegata la pianta organica vigente comprendente la consistenza numerica del personale di ciascuna qualifica.  
-Restano ferme le norme in vigore sull'approvazione dei bilanci di previsione e dei conti consuntivi degli enti da parte dei Ministeri vigilanti.  
-Ogni anno entro il 31 del mese di luglio, ciascun Ministero trasmette al Parlamento una relazione sull'attivita' svolta, sui bilanci di previsione e sulla consistenza degli organici degli enti sottoposti alla sua vigilanza con allegati i bilanci di previsione stessi e le relative piante organiche e i conti consuntivi dell'esercizio precedente.  
-Tutti gli enti disciplinati dalla presente legge sono sottoposti al controllo della Corte dei conti, secondo le norme contenute nella [legge 21 marzo 1958, n. 259](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1958-03-21;259)".  
-- L'[art. 4 della legge n. 617/1959](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1959;617~art4) (Istituzione del Ministero del turismo e dello spettacolo) dosi dispone:  
-"Art. 4. - Allo stato di previsione della spesa del Ministero del turismo e dello spettacolo da presentarsi al Parlamento saranno allegati la relazione annuale degli organi amministrativi del C.O.N.I. sull'attivita' svolta e sull'andamento della gestione, il bilancio dell'istituto per il credito sportivo con un elenco dei mutui concessi nell'anno, nonche' una relazione annuale del consiglio di amministrazione dell'E.N.I.T. sull'attivita' svolta e sull'andamento della gestione".
+Nota all'[art. 17](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978;14#art_17):
+ L'[art. 11 della legge n. 14/1978](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978;14#art_11) (Norme per il controllo parlamentare sulle nomine negli enti pubblici) prevede quanto segue:
+ "Le indennita' di carica previste per i presidenti ed i vicepresidenti degli enti ed istituti di cui all'art. 1 sono determinate con decreto dell'autorita' competente alla nomina, proposta a designazione. Tale decreto e' pubblicato nella Gazzetta Ufficiale".
 
-### Art. 13
+### Art. 18. — Il segretario generale
 
-Controllo sugli organi e amministrazione straordinaria
+1.
 
-1. Il Ministro del turismo e dello spettacolo puo' disporre lo scioglimento della giunta esecutiva e la revoca del presidente per persistente inosservanza delle disposizioni di legge o di regolamento, per gravi irregolarita' amministrative e per omissione nell'esercizio delle loro funzioni, oltre che per accertate gravi deficienze amministrative tali da compromettere il normale funzionamento dell'ente.
+Il segretario generale e' nominato dal consiglio nazionale su designazione della giunta esecutiva, che dovra' previamente accertare il possesso di adeguati requisiti tecnico-professionali da parte del designato; dura in carica per il periodo stabilito dagli articoli 7 e 11 del presente decreto ed il relativo trattamento giuridico ed economico e' regolato ai sensi degli [articoli 5](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1975-03-20;70#art_5) e [20 della legge 20 marzo 1975, n. 70](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1975-03-20;70#art_20).
 
-2. In tali casi e' nominato un commissario straordinario, fino alla ricostituzione degli organi di cui al comma 1 da effettuarsi entro il termine di quattro mesi.
+2.
 
-### Art. 14
+Potranno essere designati alla carica di segretario generale coloro che per l'attivita' svolta diano le piu' ampie garanzie di specifica competenza e capacita' professionale nel campo dello sport, in armonia con le norme e gli indirizzi del C.I.O.
 
-Il presidente
+Nota all'[art. 18](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1975;70#art_18):
+ Gli [articoli 5](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1975;70#art_5) e [20 della legge n. 70/1975](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1975;70#art_20) (per l'argomento della legge vedi nelle note alle premesse) cosi' dispongono:
+ "Art. 5. (Assunzioni). - Le assunzioni del personale dipendente dagli enti pubblici hanno luogo mediante pubblici concorsi, alla posizione iniziale di ciascuna qualifica di cui ai primi tre commi dello art. 16.
+ Il numero dei posti da mettere a concorso viene determinato annualmente dai singoli enti, nell'ambito dei posti vacanti, in sede di approvazione del bilancio di previsione.
+ Si applicano le norme di legge vigenti nella amministrazione dello Stato sui requisiti di assunzione, sulle assunzioni obbligatorie, sulle riserve di posti e sulle preferenze.
+ I concorsi consistono in una valutazione comparativa, espressa con una graduatoria della preparazione dimostrata dai candidati, i quali superino le prove scritte, orali e pratiche indicate dal bando di concorso e sostenute immediatamente o al termine di apposito corso di formazione professionale cui sono ammessi coloro i quali, in possesso dei necessari titoli e requisiti, abbiano superato prove attitudinali per l'accertamento della loro idoneita'.
+ Per le qualifiche previste alle lettere c) e d) dell'art. 16, l'espletamento dei concorsi richiede il superamento di prove prevalentemente pratiche.
+ I regolamenti degli enti specificano le norme sulla composizione e la nomina delle commissioni di esame e dei docenti dei corsi, sui criteri per l'ammissione ai medesimi, sulla formazione e utilizzazione delle graduatorie, sul periodo e la nomina in prova e su quella definitiva.
+ Il direttore generale, purche' in possesso di adeguati requisiti tecnico-professionali, e' assunto anche tra i funzionari dell'ente con contratto a tempo determinato della durata massima di cinque anni, rinnovabile".
+ Art. 20 (Direttore generale). - Con decreto del presidente del Consiglio, di concerto con i Ministri per il lavoro e la previdenza sociale e per il tesoro, sentite le federazioni sindacali di categoria maggiormente rappresentative sul piano nazionale, sara' stabilito il trattamento economico onnicomprensivo dei direttori generali degli enti pubblici contemplati dalla presente legge secondo tre livelli retributivi determinati in relazione all'importanza degli enti stessi e corrispondenti al trattamento economico onnicomprensivo spettante rispettivamente al dirigente generale B, al dirigente generale C e al dirigente superiore delle amministrazioni dello Stato.
+ Ai fini dell'applicazione del comma precedente, l'importanza a degli enti sara' desunta dal concorso dei seguenti elementi:
+ a) dimensione dell'organizzazione territoriale considerata unitariamente negli uffici periferici o negli enti federati, dalla natura dei compiti istituzionali svolti, nonche' dal numero degli assistiti, nel caso degli enti di assistenza;
+ b) numero dei dipendenti stabilmente e organicamente preposti ai servizi d'istituto;
+ c) volume delle entrate e delle uscite finanziarie di carattere ordinario.
+ I direttori generali, ove particolari esigenze di servizio lo richiedano, sono tenuti a protrarre le prestazioni giornaliere di servizio anche oltre l'orario ordinario, senza diritto al compenso per lavoro straordinario.
+ Nella prima applicazione della presente legge, il provvedimento di cui al primo comma e' emanato entro un mese dall'entrata in vigore della legge stessa".
 
-1. Il presidente e' nominato, ogni quattro anni, con decreto del Ministro del turismo e dello spettacolo, su designazione del consiglio nazionale formulata entro sei mesi dalla fine dell'anno in cui si sono svolti i giochi olimpici.
+### Art. 19. — Compiti del segretario generale
 
-### Art. 15
+1.
 
-Requisiti per la nomina
+Il segretario generale e' a capo dei servizi e degli uffici; cura la regolare tenuta dei verbali delle riunioni del consiglio nazionale e della giunta esecutiva, della quale e' anche segretario, e collabora col presidente all'attuazione delle rispettive deliberazioni; formula proposte alla giunta esecutiva su provvedimenti di competenza della stessa; espleta i compiti previsti dall'ordinamento sportivo nazionale ed internazionale.
 
-1. Non puo' essere nominato alla carica di presidente chi non sia stato almeno per un biennio presidente o vice presidente di una federazione sportiva nazionale, oppure componente della giunta esecutiva del Comitato olimpico nazionale italiano.
+### Art. 20. — Composizione del collegio dei revisori
 
-2. La carica di presidente e' incompatibile con altre cariche sportive in seno alle federazioni sportive nazionali.
+1.
 
-### Art. 16
+Il collegio dei revisori e' nominato, per la durata di un quadriennio, con decreto del Ministro del turismo e dello spettacolo ed e' costituito da tre membri effettivi e due supplenti designati come segue:
+                            a)
+                                due revisori effettivi, di cui uno con funzioni di presidente, e un revisore supplente designati dal Ministro del turismo e dello spettacolo;
+                            b)
+                                un revisore effettivo ed un supplente designati dal Ministro del tesoro, fra funzionari del Ministero appartenenti ai ruoli della Ragioneria generale dello Stato, con qualifica non inferiore a dirigente superiore.
 
-Compiti del presidente
+2.
 
-1. Il presidente ha la rappresentanza legale dell'ente, anche nell'ambito delle organizzazioni sportive internazionali; convoca e presiede il consiglio nazionale e la giunta esecutiva e ne attua le deliberazioni; approva, previo parere della giunta esecutiva ed in armonia con i criteri fondamentali stabiliti dal consiglio nazionale, i regolamenti interni delle federazioni sportive nazionali e vigila sulla regolarita' delle elezioni dei rispettivi presidenti; adotta, nei casi di assoluta necessita' ed urgenza, i provvedimenti di competenza propria della giunta esecutiva nella materia indicata alla lettera a) dell'art. 9, nei limiti di valore fissato a norma della lettera s) del medesimo articolo, nonche' nelle materie indicate alle lettere c), g), l), m), q) ed r) dell'art. 9, e li sottopone alla ratifica della giunta stessa nella prima riunione successiva. I provvedimenti non presentati per la ratifica nel termine indicato perdono di diritto ogni effetto, ferma la responsabilita' personale del presidente.
+Il collegio dei revisori, per le funzioni di cui all'[art. 8 della legge 22 dicembre 1951, n. 1379](../Atti%20normativi%20abrogati%20%28in%20originale%29/Istituzione%20di%20una%20imposta%20unica%20sui%20giuochi%20di%20abilita%20e%20sui%20concorsi%20pronostici%20disciplinati%20dal%20decreto%20legislativo%2014%20aprile%201948%20n.%20496.md), e' integrato da altri due membri designati uno dal Ministro del tesoro fra i funzionari della Ragioneria generale dello Stato, con qualifica non inferiore a dirigente superiore, e l'altro dal Ministro delle finanze.
 
-2. Il presidente espleta inoltre i compiti previsti dall'ordinamento sportivo internazionale ed esercita le altre attribuzioni spettantigli in base alle presenti norme.
+3.
 
-3. In caso di assenza o di impedimento, il presidente e' sostituito dal vice presidente piu' anziano di carica o, a parita' di anzianita' di carica, dal piu' anziano di eta'.
+Ai componenti del collegio dei revisori spetta una indennita' di carica da determinare dal Ministro del turismo e dello spettacolo, di concerto con il Ministro del tesoro.
 
-### Art. 17
+Nota all'art. 20:
+ Il testo dell'[art. 8 della legge n. 1379/1951](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1951;1379#art_8) (Istituzione di una imposta unica sui giuochi di abilita' e sui concorsi promonistici disciplinati dal [decreto legislativo 14 aprile 1948, n. 496](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1948-04-14;496)) e' il seguente:
+ "Art. 20. - Le gestioni delle attivita' di giuoco, riservate al Comitato olimpico nazionale italiano (C.O.N.I.) ed all'U.N.I.R.E., ai sensi dell'[art. 6 del decreto legislativo 14 aprile 1948, n. 496](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1948-04-14;496#art_6), sono sottoposte al controllo dei collegi sindacali dei rispettivi enti. A tal uopo, la composizione dei collegi medesimi sara' integrata con la nomina di due altri membri designati uno dal Ministro per il tesoro e l'altro dal Ministro per le finanze, aventi il compito specifico, coordinato con quello dei collegi e secondo le direttive dei rispettivi presidenti, della revisione delle gestioni relative alle attivita' di giuoco.
+ I due componenti suddetti dovranno riferire periodicamente sulle gestioni controllate ai rispettivi Ministri.
+ In allegato rispettivamente allo stato di previsione del Ministero del tesoro ed a quello del ministero dell'agricoltura e delle foreste, sara' ogni anno presentato al Parlamento una particolareggiata relazione degli organi di amministrazione del C.O.N.I. e dell'U.N.I.R.E., sulla attivita' svolta e sull'andamento delle rispettive gestioni".
 
-Indennita' del presidente
+### Art. 21. — Compiti del collegio dei revisori
 
-1. Al presidente spetta una indennita' di carica e una medaglia di presenza per la partecipazione alle riunioni degli organi collegiali dell'ente, previsti per legge o regolamento, da determinare secondo le modalita' dell'[art. 11 della legge 24 gennaio 1978, n. 14](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-01-24;14~art11).
+1.
 
-Nota all'[art. 17](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978;14~art17):  
-L'[art. 11 della legge n. 14/1978](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978;14~art11) (Norme per il controllo parlamentare sulle nomine negli enti pubblici) prevede quanto segue:  
-"Le indennita' di carica previste per i presidenti ed i vicepresidenti degli enti ed istituti di cui all'art. 1 sono determinate con decreto dell'autorita' competente alla nomina, proposta a designazione. Tale decreto e' pubblicato nella Gazzetta Ufficiale".
+Il collegio dei revisori:
+                            a)
+                                effettua il riscontro della gestione dell'ente ed accerta la regolare tenuta dei libri e delle scritture contabili;
+                            b)
+                                vigila sull'osservanza delle leggi e dei regolamenti;
+                            c)
+                                esamina i bilanci consuntivi e preventivi;
+                            d)
+                                effettua verifiche di cassa, dei valori e dei titoli;
+                            e)
+                                esercita, nella composizione integrata ai sensi dell'[art. 8 della legge 22 dicembre 1951, n. 1379](../Atti%20normativi%20abrogati%20%28in%20originale%29/Istituzione%20di%20una%20imposta%20unica%20sui%20giuochi%20di%20abilita%20e%20sui%20concorsi%20pronostici%20disciplinati%20dal%20decreto%20legislativo%2014%20aprile%201948%20n.%20496.md), il controllo sulle gestioni relative alle attivita' di gioco;
+                            f)
+                                redige la relazione da presentare, al termine di ciascun esercizio finanziario, al Ministero del turismo e dello spettacolo sulla gestione contabile del comitato.
 
-### Art. 18
+2.
 
-Il segretario generale
+I revisori hanno facolta' di assistere alle riunioni del consiglio nazionale ed a quelle della giunta esecutiva.
 
-1. Il segretario generale e' nominato dal consiglio nazionale su designazione della giunta esecutiva, che dovra' previamente accertare il possesso di adeguati requisiti tecnico-professionali da parte del designato; dura in carica per il periodo stabilito dagli articoli 7 e 11 del presente decreto ed il relativo trattamento giuridico ed economico e' regolato ai sensi degli [articoli 5](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1975-03-20;70~art5) e [20 della legge 20 marzo 1975, n. 70](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1975-03-20;70~art20).
+3.
 
-2. Potranno essere designati alla carica di segretario generale coloro che per l'attivita' svolta diano le piu' ampie garanzie di specifica competenza e capacita' professionale nel campo dello sport, in armonia con le norme e gli indirizzi del C.I.O.
+Le delibere adottate dal consiglio e dalla giunta devono, comunque, essere trasmesse al collegio dei revisori.
 
-Nota all'[art. 18](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1975;70~art18):  
-Gli [articoli 5](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1975;70~art5) e [20 della legge n. 70/1975](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1975;70~art20) (per l'argomento della legge vedi nelle note alle premesse) cosi' dispongono:  
-"Art. 5. (Assunzioni). - Le assunzioni del personale dipendente dagli enti pubblici hanno luogo mediante pubblici concorsi, alla posizione iniziale di ciascuna qualifica di cui ai primi tre commi dello art. 16.  
-Il numero dei posti da mettere a concorso viene determinato annualmente dai singoli enti, nell'ambito dei posti vacanti, in sede di approvazione del bilancio di previsione.  
-Si applicano le norme di legge vigenti nella amministrazione dello Stato sui requisiti di assunzione, sulle assunzioni obbligatorie, sulle riserve di posti e sulle preferenze.  
-I concorsi consistono in una valutazione comparativa, espressa con una graduatoria della preparazione dimostrata dai candidati, i quali superino le prove scritte, orali e pratiche indicate dal bando di concorso e sostenute immediatamente o al termine di apposito corso di formazione professionale cui sono ammessi coloro i quali, in possesso dei necessari titoli e requisiti, abbiano superato prove attitudinali per l'accertamento della loro idoneita'.  
-Per le qualifiche previste alle lettere c) e d) dell'art. 16, l'espletamento dei concorsi richiede il superamento di prove prevalentemente pratiche.  
-I regolamenti degli enti specificano le norme sulla composizione e la nomina delle commissioni di esame e dei docenti dei corsi, sui criteri per l'ammissione ai medesimi, sulla formazione e utilizzazione delle graduatorie, sul periodo e la nomina in prova e su quella definitiva.  
-Il direttore generale, purche' in possesso di adeguati requisiti tecnico-professionali, e' assunto anche tra i funzionari dell'ente con contratto a tempo determinato della durata massima di cinque anni, rinnovabile".  
-Art. 20 (Direttore generale). - Con decreto del presidente del Consiglio, di concerto con i Ministri per il lavoro e la previdenza sociale e per il tesoro, sentite le federazioni sindacali di categoria maggiormente rappresentative sul piano nazionale, sara' stabilito il trattamento economico onnicomprensivo dei direttori generali degli enti pubblici contemplati dalla presente legge secondo tre livelli retributivi determinati in relazione all'importanza degli enti stessi e corrispondenti al trattamento economico onnicomprensivo spettante rispettivamente al dirigente generale B, al dirigente generale C e al dirigente superiore delle amministrazioni dello Stato.  
-Ai fini dell'applicazione del comma precedente, l'importanza a degli enti sara' desunta dal concorso dei seguenti elementi:  
-a) dimensione dell'organizzazione territoriale considerata unitariamente negli uffici periferici o negli enti federati, dalla natura dei compiti istituzionali svolti, nonche' dal numero degli assistiti, nel caso degli enti di assistenza;  
-b) numero dei dipendenti stabilmente e organicamente preposti ai servizi d'istituto;  
-c) volume delle entrate e delle uscite finanziarie di carattere ordinario.  
-I direttori generali, ove particolari esigenze di servizio lo richiedano, sono tenuti a protrarre le prestazioni giornaliere di servizio anche oltre l'orario ordinario, senza diritto al compenso per lavoro straordinario.  
-Nella prima applicazione della presente legge, il provvedimento di cui al primo comma e' emanato entro un mese dall'entrata in vigore della legge stessa".
+Nota all'art. 21:
+ Per il testo dell'[art. 8 della legge n. 1379/1951](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1951;1379#art_8), vedi nella nota precedente.
 
-### Art. 19
+### Art. 22. — Compensi componenti organi collegiali
 
-Compiti del segretario generale
+1.
 
-1. Il segretario generale e' a capo dei servizi e degli uffici; cura la regolare tenuta dei verbali delle riunioni del consiglio nazionale e della giunta esecutiva, della quale e' anche segretario, e collabora col presidente all'attuazione delle rispettive deliberazioni; formula proposte alla giunta esecutiva su provvedimenti di competenza della stessa; espleta i compiti previsti dall'ordinamento sportivo nazionale ed internazionale.
+Ai vicepresidenti ed ai componenti degli organi collegiali spetta una indennita' di carica ed una medaglia di presenza per la partecipazione alle riunioni degli organi collegiali dell'ente, previsti per legge o regolamenti, da determinare ai sensi dell'[art. 32 della legge 20 marzo 1975, n. 70](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1975-03-20;70#art_32).
 
-### Art. 20
+Nota all'art. 22:
+ Il testo dell'[art. 32 della legge n. 70/1975](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1975;70#art_32) (per l'argomento della legge vedi nelle note alle premesse) e' il seguente:
+ "Art. 32. (Disposizioni sui membri dei consigli di amministrazione).
+ - I membri dei consigli di amministrazione degli enti pubblici previsti nella presente legge durano in carica per il tempo previsto nelle leggi istitutive, nei regolamenti o negli statuti e possono essere confermati una sola volta.
+ I membri dei consigli di amministrazione possono essere revocati con le stesse modalita' previste per la loro nomina.
+ Le indennita' di carica previste per gli amministratori sono determinate con decreto del Presidente della Repubblica, su proposta del Ministro che esercita la vigilanza, d'intesa con il Ministro per il tesoro, previa deliberazione del Consiglio dei Ministri. Tale decreto e' pubblicato nella Gazzetta Ufficiale.
+ Dei consigli di amministrazione non possono far parte a nessun titolo, i magistrati ordinari e quelli amministrativi e contabili".
 
-Composizione del collegio dei revisori
+### Art. 23. — Delegati regionali
 
-1. Il collegio dei revisori e' nominato, per la durata di un quadriennio, con decreto del Ministro del turismo e dello spettacolo ed e' costituito da tre membri effettivi e due supplenti designati come segue:
+1.
 
-a) due revisori effettivi, di cui uno con funzioni di presidente, e un revisore supplente designati dal Ministro del turismo e dello spettacolo;
+In ogni regione un delegato del Comitato olimpico nazionale italiano coordina e disciplina, secondo le direttive formulate dagli organi centrali del C.O.N.I., le attivita' esercitate dai comitati provinciali.
 
-b) un revisore effettivo ed un supplente designati dal Ministro del tesoro, fra funzionari del Ministero appartenenti ai ruoli della Ragioneria generale dello Stato, con qualifica non inferiore a dirigente superiore.
+2.
 
-2. Il collegio dei revisori, per le funzioni di cui all'[art. 8 della legge 22 dicembre 1951, n. 1379](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1951-12-22;1379~art8), e' integrato da altri due membri designati uno dal Ministro del tesoro fra i funzionari della Ragioneria generale dello Stato, con qualifica non inferiore a dirigente superiore, e l'altro dal Ministro delle finanze.
+Esso sovrintende, quale delegato del C.O.N.I. e nell'ambito degli indirizzi da questo formulati, alla realizzazione di iniziative tese alla promozione e alla diffusione dello sport.
 
-3. Ai componenti del collegio dei revisori spetta una indennita' di carica da determinare dal Ministro del turismo e dello spettacolo, di concerto con il Ministro del tesoro.
+3.
 
-Nota all'art. 20:  
-Il testo dell'[art. 8 della legge n. 1379/1951](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1951;1379~art8) (Istituzione di una imposta unica sui giuochi di abilita' e sui concorsi promonistici disciplinati dal [decreto legislativo 14 aprile 1948, n. 496](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1948-04-14;496)) e' il seguente:  
-"Art. 20. - Le gestioni delle attivita' di giuoco, riservate al Comitato olimpico nazionale italiano (C.O.N.I.) ed all'U.N.I.R.E., ai sensi dell'[art. 6 del decreto legislativo 14 aprile 1948, n. 496](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1948-04-14;496~art6), sono sottoposte al controllo dei collegi sindacali dei rispettivi enti. A tal uopo, la composizione dei collegi medesimi sara' integrata con la nomina di due altri membri designati uno dal Ministro per il tesoro e l'altro dal Ministro per le finanze, aventi il compito specifico, coordinato con quello dei collegi e secondo le direttive dei rispettivi presidenti, della revisione delle gestioni relative alle attivita' di giuoco.  
-I due componenti suddetti dovranno riferire periodicamente sulle gestioni controllate ai rispettivi Ministri.  
-In allegato rispettivamente allo stato di previsione del Ministero del tesoro ed a quello del ministero dell'agricoltura e delle foreste, sara' ogni anno presentato al Parlamento una particolareggiata relazione degli organi di amministrazione del C.O.N.I. e dell'U.N.I.R.E., sulla attivita' svolta e sull'andamento delle rispettive gestioni".
+Il delegato regionale ha altresi' funzioni di consultazione e di collegamento fra tutti gli organismi periferici del C.O.N.I. e delle federazioni sportive nazionali.
 
-### Art. 21
+### Art. 24. — Comitati provinciali
 
-Compiti del collegio dei revisori
+1.
 
-1. Il collegio dei revisori:
+In ogni provincia e' istituito un comitato provinciale con il compito di coordinare e disciplinare le attivita' sportive che si esercitano nell'ambito della provincia, nonche' di coordinare le iniziative delle rappresentanze provinciali delle federazioni sportive nazionali per promuovere e sostenere l'attivita' sportiva, in base agli indirizzi emanati dal C.O.N.I.
 
-a) effettua il riscontro della gestione dell'ente ed accerta la regolare tenuta dei libri e delle scritture contabili;
+2.
 
-b) vigila sull'osservanza delle leggi e dei regolamenti;
+Il comitato provinciale e' composto dal presidente, che lo presiede, dai presidenti dei comitati provinciali e dai delegati provinciali delle federazioni sportive nazionali.
 
-c) esamina i bilanci consuntivi e preventivi;
+3.
 
-d) effettua verifiche di cassa, dei valori e dei titoli;
+Nell'ambito del comitato provinciale la giunta provinciale e' composta dal presidente del comitato, che la presiede, da tre membri eletti dal comitato provinciale, nonche' dal rappresentante del C.O.N.I. per gli impianti sportivi.
 
-e) esercita, nella composizione integrata ai sensi dell'[art. 8 della legge 22 dicembre 1951, n. 1379](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1951-12-22;1379~art8), il controllo sulle gestioni relative alle attivita' di gioco;
+### Art. 25. — Fiduciari locali
 
-f) redige la relazione da presentare, al termine di ciascun esercizio finanziario, al Ministero del turismo e dello spettacolo sulla gestione contabile del comitato.
+1.
 
-2. I revisori hanno facolta' di assistere alle riunioni del consiglio nazionale ed a quelle della giunta esecutiva.
+Su preventiva autorizzazione della giunta esecutiva del C.O.N.I., possono essere nominati dal presidente del comitato provinciale, sentito il comitato stesso, fiduciari locali con il compito di mantenere i rapporti a livello locale con le societa' sportive e di collaborare con le stesse e con gli organismi sportivi provinciali, nonche' di assicurare i rapporti con l'amministrazione comunale e gli organi del decentramento amministrativo.
 
-3. Le delibere adottate dal consiglio e dalla giunta devono, comunque, essere trasmesse al collegio dei revisori.
+### Art. 26. — Funzionamento delle strutture dell'organizzazione periferica
 
-Nota all'art. 21:  
-Per il testo dell'[art. 8 della legge n. 1379/1951](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1951;1379~art8), vedi nella nota precedente.
+1.
 
-### Art. 22
+Le norme relative al funzionamento delle strutture della organizzazione periferica, ivi comprese quelle concernenti la durata degli incarichi, l'elettorato e le modalita' delle elezioni, i requisiti e le eventuali incompatibilita', oltre quanto previsto dal presente regolamento, sono stabilite dal consiglio nazionale del C.O.N.I.
 
-Compensi componenti organi collegiali
+2.
 
-1. Ai vicepresidenti ed ai componenti degli organi collegiali spetta una indennita' di carica ed una medaglia di presenza per la partecipazione alle riunioni degli organi collegiali dell'ente, previsti per legge o regolamenti, da determinare ai sensi dell'[art. 32 della legge 20 marzo 1975, n. 70](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1975-03-20;70~art32).
+Tutti gli incarichi relativi all'organizzazione periferica sono onorifici.
 
-Nota all'art. 22:  
-Il testo dell'[art. 32 della legge n. 70/1975](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1975;70~art32) (per l'argomento della legge vedi nelle note alle premesse) e' il seguente:  
-"Art. 32. (Disposizioni sui membri dei consigli di amministrazione).  
-- I membri dei consigli di amministrazione degli enti pubblici previsti nella presente legge durano in carica per il tempo previsto nelle leggi istitutive, nei regolamenti o negli statuti e possono essere confermati una sola volta.  
-I membri dei consigli di amministrazione possono essere revocati con le stesse modalita' previste per la loro nomina.  
-Le indennita' di carica previste per gli amministratori sono determinate con decreto del Presidente della Repubblica, su proposta del Ministro che esercita la vigilanza, d'intesa con il Ministro per il tesoro, previa deliberazione del Consiglio dei Ministri. Tale decreto e' pubblicato nella Gazzetta Ufficiale.  
-Dei consigli di amministrazione non possono far parte a nessun titolo, i magistrati ordinari e quelli amministrativi e contabili".
+## FEDERAZIONI SPORTIVE NAZIONALI
 
-### Art. 23
+Titolo II
 
-Delegati regionali
+### Art. 27. — Le federazioni sportive
 
-1. In ogni regione un delegato del Comitato olimpico nazionale italiano coordina e disciplina, secondo le direttive formulate dagli organi centrali del C.O.N.I., le attivita' esercitate dai comitati provinciali.
+1.
 
-2. Esso sovrintende, quale delegato del C.O.N.I. e nell'ambito degli indirizzi da questo formulati, alla realizzazione di iniziative tese alla promozione e alla diffusione dello sport.
+Le federazioni sportive nazionali sono le seguenti:
+ 1) Aeroclub d'Italia;
+ 2) Automobile club d'Italia;
+ 3) Federazione italiana di atletica leggera;
+ 4) Federazione italiana baseball e softball;
+ 5) Unione bocciofila italiana;
+ 6) Federazione italiana della caccia;
+ 7) Federazione italiana giuoco calcio;
+ 8) Federazione italiana canottaggio;
+ 9) Federazione ciclistica italiana;
+ 10) Federazione italiana cronometristi;
+ 11) Federazione ginnastica d'Italia;
+ 12) Federazione italiana golf;
+ 13) Federazione italiana gioco handball;
+ 14) Federazione italiana hockey e pattinaggio;
+ 15) Federazione italiana hockey su prato;
+ 16) Federazione italiana lotta, pesistica e judo;
+ 17) Federazione medico sportiva italiana;
+ 18) Federazione motociclistica italiana;
+ 19) Federazione italiana motonautica;
+ 20) Federazione italiana nuoto;
+ 21) Federazione italiana pallacanestro;
+ 22) Federazione italiana pallavolo;
+ 23) Federazione italiana pentathlon moderno;
+ 24) Federazione italiana pesca sportiva e attivita' subacque;
+ 25) Federazione pugilistica italiana;
+ 26) Federazione italiana rugby;
+ 27) Federazione italiana scherma;
+ 28) Federazione italiana sci nautico;
+ 29) Federazione italiana sport equestri;
+ 30) Federazione italiana sport del ghiaccio;
+ 31) Federazione italiana sport invernali;
+ 32) Federazione italiana tennis;
+ 33) Federazione italiana tennis-tavolo;
+ 34) Federazione italiana tiro con l'arco;
+ 35) Unione italiana tiro a segno;
+ 36) Federazione italiana tiro a volo;
+ 37) Federazione italiana vela.
 
-3. Il delegato regionale ha altresi' funzioni di consultazione e di collegamento fra tutti gli organismi periferici del C.O.N.I. e delle federazioni sportive nazionali.
+### Art. 28. — Sede delle federazioni
 
-### Art. 24
+1.
 
-Comitati provinciali
+Le federazioni sportive nazionali hanno sede in Roma.
 
-1. In ogni provincia e' istituito un comitato provinciale con il compito di coordinare e disciplinare le attivita' sportive che si esercitano nell'ambito della provincia, nonche' di coordinare le iniziative delle rappresentanze provinciali delle federazioni sportive nazionali per promuovere e sostenere l'attivita' sportiva, in base agli indirizzi emanati dal C.O.N.I.
+2.
 
-2. Il comitato provinciale e' composto dal presidente, che lo presiede, dai presidenti dei comitati provinciali e dai delegati provinciali delle federazioni sportive nazionali.
+Il consiglio nazionale, su proposta della giunta esecutiva, puo' autorizzare, temporaneamente, una sede diversa.
 
-3. Nell'ambito del comitato provinciale la giunta provinciale e' composta dal presidente del comitato, che la presiede, da tre membri eletti dal comitato provinciale, nonche' dal rappresentante del C.O.N.I. per gli impianti sportivi.
+### Art. 29. — Ordinamento delle federazioni
 
-### Art. 25
+1.
 
-Fiduciari locali
+Le federazioni sportive nazionali sono costituite dalle societa' e dagli organismi ad esse affiliati e sono rette da norme statutarie e regolamentari sulla base del principio di democrazia interna e in armonia con l'ordinamento sportivo nazionale ed internazionale.
 
-1. Su preventiva autorizzazione della giunta esecutiva del C.O.N.I., possono essere nominati dal presidente del comitato provinciale, sentito il comitato stesso, fiduciari locali con il compito di mantenere i rapporti a livello locale con le societa' sportive e di collaborare con le stesse e con gli organismi sportivi provinciali, nonche' di assicurare i rapporti con l'amministrazione comunale e gli organi del decentramento amministrativo.
+2.
 
-### Art. 26
+In armonia con l'[art. 14, secondo comma, della legge 23 marzo 1981, n. 91](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1981-03-23;91#art_14-com2), lo statuto deve contenere le norme generali attinenti all'ordinamento della federazione, alla quale e' riconosciuta l'autonomia tecnica, organizzativa e di gestione, sotto la vigilanza del C.O.N.I. I regolamenti contengono le norme tecniche ed amministrative attinenti al funzionamento della federazione ed all'esercizio dello sport o dell'attivita' sportiva da essa controllata.
 
-Funzionamento delle strutture dell'organizzazione periferica
+3.
 
-1. Le norme relative al funzionamento delle strutture della organizzazione periferica, ivi comprese quelle concernenti la durata degli incarichi, l'elettorato e le modalita' delle elezioni, i requisiti e le eventuali incompatibilita', oltre quanto previsto dal presente regolamento, sono stabilite dal consiglio nazionale del C.O.N.I.
+Gli statuti delle federazioni e le loro modifiche sono deliberati dalle assemblee e sono approvati, previo esame della giunta esecutiva del C.O.N.I., dal consiglio nazionale del C.O.N.I.
 
-2. Tutti gli incarichi relativi all'organizzazione periferica sono onorifici.
+4.
 
-CAPO II Titolo II FEDERAZIONI SPORTIVE NAZIONALI
-------------------------------------------------
+I regolamenti delle federazioni sono deliberati dal consiglio federale e sono approvati, previa pronuncia della giunta esecutiva del C.O.N.I. in armonia con i criteri fondamentali stabiliti dal consiglio nazionale del C.O.N.I., dal presidente del C.O.N.I. La predetta approvazione si intende avvenuta trascorsi novanta giorni dal deposito dei regolamenti presso la segreteria generale del C.O.N.I.
 
-### Art. 27
+5.
 
-Le federazioni sportive
+Dell'organo interno di controllo della federazione, composto, ove non diversamente disposto dalla legge, da cinque membri effettivi e tre supplenti, due membri effettivi ed un membro supplente sono designati dalla giunta esecutiva del C.O.N.I. I membri dell'organo interno di controllo assistono alle riunioni degli organi deliberanti della federazione.
 
-1. Le federazioni sportive nazionali sono le seguenti:  
-1) Aeroclub d'Italia;  
-2) Automobile club d'Italia;  
-3) Federazione italiana di atletica leggera;  
-4) Federazione italiana baseball e softball;  
-5) Unione bocciofila italiana;  
-6) Federazione italiana della caccia;  
-7) Federazione italiana giuoco calcio;  
-8) Federazione italiana canottaggio;  
-9) Federazione ciclistica italiana;  
-10) Federazione italiana cronometristi;  
-11) Federazione ginnastica d'Italia;  
-12) Federazione italiana golf;  
-13) Federazione italiana gioco handball;  
-14) Federazione italiana hockey e pattinaggio;  
-15) Federazione italiana hockey su prato;  
-16) Federazione italiana lotta, pesistica e judo;  
-17) Federazione medico sportiva italiana;  
-18) Federazione motociclistica italiana;  
-19) Federazione italiana motonautica;  
-20) Federazione italiana nuoto;  
-21) Federazione italiana pallacanestro;  
-22) Federazione italiana pallavolo;  
-23) Federazione italiana pentathlon moderno;  
-24) Federazione italiana pesca sportiva e attivita' subacque;  
-25) Federazione pugilistica italiana;  
-26) Federazione italiana rugby;  
-27) Federazione italiana scherma;  
-28) Federazione italiana sci nautico;  
-29) Federazione italiana sport equestri;  
-30) Federazione italiana sport del ghiaccio;  
-31) Federazione italiana sport invernali;  
-32) Federazione italiana tennis;  
-33) Federazione italiana tennis-tavolo;  
-34) Federazione italiana tiro con l'arco;  
-35) Unione italiana tiro a segno;  
-36) Federazione italiana tiro a volo;  
-37) Federazione italiana vela.
+6.
 
-### Art. 28
+L'esercizio finanziario delle federazioni ha la durata di un anno e coincide con l'anno solare. La gestione finanziaria delle federazioni si svolge in base al bilancio annuale di previsione e nel rispetto delle direttive emanate dal C.O.N.I. per la classificazione delle entrate e delle spese in bilancio e per i fondamentali adempimenti gestori, ivi compreso lo schema tipo di bilancio.
 
-Sede delle federazioni
+7.
 
-1. Le federazioni sportive nazionali hanno sede in Roma.
+Il bilancio preventivo, le relative variazioni ed il conto consuntivo sono deliberati dal competente organo della federazione ed approvati dalla giunta esecutiva del C.O.N.I.
 
-2. Il consiglio nazionale, su proposta della giunta esecutiva, puo' autorizzare, temporaneamente, una sede diversa.
+8.
 
-### Art. 29
+Le federazioni devono trasmettere al C.O.N.I. annualmente, entro il termine stabilito dalla giunta esecutiva, il bilancio preventivo ed entro il 15 marzo successivo, alla chiusura dell'esercizio finanziario, il conto consuntivo.
 
-Ordinamento delle federazioni
+9.
 
-1. Le federazioni sportive nazionali sono costituite dalle societa' e dagli organismi ad esse affiliati e sono rette da norme statutarie e regolamentari sulla base del principio di democrazia interna e in armonia con l'ordinamento sportivo nazionale ed internazionale.
+Il bilancio di previsione deve essere corredato, oltre che dalla relazione dell'organo di controllo, da apposita relazione del presidente federale, nella quale devono essere altresi' indicati la consistenza e lo stato del personale con rapporto di diritto privato ai sensi dell'[art. 14, quarto comma, della legge 23 marzo 1981, n. 91](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1981-03-23;91#art_14-com4).
 
-2. In armonia con l'[art. 14, secondo comma, della legge 23 marzo 1981, n. 91](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1981-03-23;91~art14-com2), lo statuto deve contenere le norme generali attinenti all'ordinamento della federazione, alla quale e' riconosciuta l'autonomia tecnica, organizzativa e di gestione, sotto la vigilanza del C.O.N.I. I regolamenti contengono le norme tecniche ed amministrative attinenti al funzionamento della federazione ed all'esercizio dello sport o dell'attivita' sportiva da essa controllata.
+10.
 
-3. Gli statuti delle federazioni e le loro modifiche sono deliberati dalle assemblee e sono approvati, previo esame della giunta esecutiva del C.O.N.I., dal consiglio nazionale del C.O.N.I.
+Il conto consuntivo, oltre che dalla relazione dell'organo interno di controllo contenente fra l'altro l'attestazione circa la corrispondenza delle risultanze di bilancio con le scritture contabili nonche' valutazioni in ordine alla regolarita' della gestione, deve essere corredato da una relazione illustrativa del presidente federale riguardante l'attivita' svolta e l'andamento della gestione, i fatti di rilievo verificatisi anche dopo la chiusura dell'esercizio, nonche' la consistenza, lo stato e la spesa relativi al personale eventualmente assunto con rapporto di diritto privato ai sensi dell'[art. 14, quarto comma, della legge 23 marzo 1981, n. 91](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1981-03-23;91#art_14-com4).
 
-4. I regolamenti delle federazioni sono deliberati dal consiglio federale e sono approvati, previa pronuncia della giunta esecutiva del C.O.N.I. in armonia con i criteri fondamentali stabiliti dal consiglio nazionale del C.O.N.I., dal presidente del C.O.N.I. La predetta approvazione si intende avvenuta trascorsi novanta giorni dal deposito dei regolamenti presso la segreteria generale del C.O.N.I.
+11.
 
-5. Dell'organo interno di controllo della federazione, composto, ove non diversamente disposto dalla legge, da cinque membri effettivi e tre supplenti, due membri effettivi ed un membro supplente sono designati dalla giunta esecutiva del C.O.N.I. I membri dell'organo interno di controllo assistono alle riunioni degli organi deliberanti della federazione.
+Le federazioni sportive nazionali possono riconoscere, per delega del consiglio nazionale del C.O.N.I., le societa' sportive ad esse affiliate.
 
-6. L'esercizio finanziario delle federazioni ha la durata di un anno e coincide con l'anno solare. La gestione finanziaria delle federazioni si svolge in base al bilancio annuale di previsione e nel rispetto delle direttive emanate dal C.O.N.I. per la classificazione delle entrate e delle spese in bilancio e per i fondamentali adempimenti gestori, ivi compreso lo schema tipo di bilancio.
+12.
 
-7. Il bilancio preventivo, le relative variazioni ed il conto consuntivo sono deliberati dal competente organo della federazione ed approvati dalla giunta esecutiva del C.O.N.I.
+Il segretario della federazione esercita, nell'ambito della stessa, le funzioni dirigenziali previste dalla [legge 20 marzo 1975, n. 70](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1975-03-20;70).
 
-8. Le federazioni devono trasmettere al C.O.N.I. annualmente, entro il termine stabilito dalla giunta esecutiva, il bilancio preventivo ed entro il 15 marzo successivo, alla chiusura dell'esercizio finanziario, il conto consuntivo.
+Nota all'[art. 29, comma 2](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1981;91#art_29-com2):
+ Il [secondo comma dell'art. 14, della legge n. 91/1981](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1981;91#art_14-com2) (Norme in materia di rapporti tra societa' e sportivi professionisti), prevede che alle federazioni sportive venga riconosciuta l'autonomia tecnica, organizzativa e di gestione, sotto la vigilanza del C.O.N.I.
 
-9. Il bilancio di previsione deve essere corredato, oltre che dalla relazione dell'organo di controllo, da apposita relazione del presidente federale, nella quale devono essere altresi' indicati la consistenza e lo stato del personale con rapporto di diritto privato ai sensi dell'[art. 14, quarto comma, della legge 23 marzo 1981, n. 91](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1981-03-23;91~art14-com4).
+ Nota all'art. 29, commi 9 e 10:
+ Si trascrive il [quarto comma dell'art. 14 della legge n. 91/1981](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1981;91#art_14-com4) (il secondo comma dello stesso articolo e' riportato nella nota precedente):
+ "Per le attivita' di carattere tecnico e sportivo e presso gli organi periferici le federazioni sportive nazionali possono avvalersi, laddove ne ravvisino l'esigenza, dell'opera di personale, assunto, pertanto, in base a rapporti di diritto privato. La spesa relativa gravera' sul bilancio delle federazioni sportive nazionali".
 
-10. Il conto consuntivo, oltre che dalla relazione dell'organo interno di controllo contenente fra l'altro l'attestazione circa la corrispondenza delle risultanze di bilancio con le scritture contabili nonche' valutazioni in ordine alla regolarita' della gestione, deve essere corredato da una relazione illustrativa del presidente federale riguardante l'attivita' svolta e l'andamento della gestione, i fatti di rilievo verificatisi anche dopo la chiusura dell'esercizio, nonche' la consistenza, lo stato e la spesa relativi al personale eventualmente assunto con rapporto di diritto privato ai sensi dell'[art. 14, quarto comma, della legge 23 marzo 1981, n. 91](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1981-03-23;91~art14-com4).
+ Nota all'art. 29, comma 12:
+ Per l'argomento della [legge n. 70/1975](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1975;70) vedi nelle note alle premesse.
 
-11. Le federazioni sportive nazionali possono riconoscere, per delega del consiglio nazionale del C.O.N.I., le societa' sportive ad esse affiliate.
+### Art. 30. — Costituzione di nuove federazioni sportive
 
-12. Il segretario della federazione esercita, nell'ambito della stessa, le funzioni dirigenziali previste dalla [legge 20 marzo 1975, n. 70](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1975-03-20;70).
+1.
 
-Nota all'[art. 29, comma 2](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1981;91~art29-com2):  
-Il [secondo comma dell'art. 14, della legge n. 91/1981](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1981;91~art14-com2) (Norme in materia di rapporti tra societa' e sportivi professionisti), prevede che alle federazioni sportive venga riconosciuta l'autonomia tecnica, organizzativa e di gestione, sotto la vigilanza del C.O.N.I.  
-  
-Nota all'art. 29, commi 9 e 10:  
-Si trascrive il [quarto comma dell'art. 14 della legge n. 91/1981](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1981;91~art14-com4) (il secondo comma dello stesso articolo e' riportato nella nota precedente):  
-"Per le attivita' di carattere tecnico e sportivo e presso gli organi periferici le federazioni sportive nazionali possono avvalersi, laddove ne ravvisino l'esigenza, dell'opera di personale, assunto, pertanto, in base a rapporti di diritto privato. La spesa relativa gravera' sul bilancio delle federazioni sportive nazionali".  
-  
-Nota all'art. 29, comma 12:  
-Per l'argomento della [legge n. 70/1975](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1975;70) vedi nelle note alle premesse.
+Puo' essere disposta, con deliberazione del consiglio nazionale da adottarsi con l'intervento di due terzi dei membri aventi diritto a voto, la costituzione di nuove federazioni sportive nazionali per sport non compresi nell'elenco di cui al precedente art. 27 o per attivita' sportive non ancora inquadrate, secondo quanto previsto dal Comitato internazionale olimpico (C.I.O.) in ordine alla composizione dei comitati nazionali olimpici.
 
-### Art. 30
+2.
 
-Costituzione di nuove federazioni sportive
+Per uno stesso sport puo' essere costituita una sola federazione.
 
-1. Puo' essere disposta, con deliberazione del consiglio nazionale da adottarsi con l'intervento di due terzi dei membri aventi diritto a voto, la costituzione di nuove federazioni sportive nazionali per sport non compresi nell'elenco di cui al precedente art. 27 o per attivita' sportive non ancora inquadrate, secondo quanto previsto dal Comitato internazionale olimpico (C.I.O.) in ordine alla composizione dei comitati nazionali olimpici.
+### Art. 31. — Esclusione delle federazioni sportive
 
-2. Per uno stesso sport puo' essere costituita una sola federazione.
+1.
 
-### Art. 31
+Con le stesse modalita' di cui all'art. 30, il consiglio nazionale puo' deliberare la perdita della qualita' di organo delle federazioni sportive che non siano ricomprese fra quelle indicate nel precedente art. 27.
 
-Esclusione delle federazioni sportive
+## LE SOCIETA' SPORTIVE
 
-1. Con le stesse modalita' di cui all'art. 30, il consiglio nazionale puo' deliberare la perdita della qualita' di organo delle federazioni sportive che non siano ricomprese fra quelle indicate nel precedente art. 27.
+Titolo III
 
-CAPO III Titolo III LE SOCIETA' SPORTIVE
-----------------------------------------
+### Art. 32. — Riconoscimento delle societa' sportive
 
-### Art. 32
+1.
 
-Riconoscimento delle societa' sportive
+Le societa', le associazioni e gli enti sportivi non hanno scopo di lucro e sono riconosciuti, ai fini sportivi, dal consiglio nazionale del Comitato olimpico nazionale italiano o, per delega, dalle federazioni sportive nazionali. Il riconoscimento delle societa' polisportive e' fatto per le singole specialita' dello sport praticato.
 
-1. Le societa', le associazioni e gli enti sportivi non hanno scopo di lucro e sono riconosciuti, ai fini sportivi, dal consiglio nazionale del Comitato olimpico nazionale italiano o, per delega, dalle federazioni sportive nazionali. Il riconoscimento delle societa' polisportive e' fatto per le singole specialita' dello sport praticato.
+2.
 
-2. Le organizzazioni polisportive d'importanza nazionale, che svolgano attivita' di diffusione e promozione, e le associazioni nazionali, che svolgano attivita' a vocazione sportiva di notevole rilievo, possono essere riconosciute dal consiglio nazionale del C.O.N.I. o, per delega, dalla giunta esecutiva, rispettivamente, enti di promozione sportiva e associazioni benemerite.
+Le organizzazioni polisportive d'importanza nazionale, che svolgano attivita' di diffusione e promozione, e le associazioni nazionali, che svolgano attivita' a vocazione sportiva di notevole rilievo, possono essere riconosciute dal consiglio nazionale del C.O.N.I. o, per delega, dalla giunta esecutiva, rispettivamente, enti di promozione sportiva e associazioni benemerite.
 
-### Art. 33
+### Art. 33. — Ordinamento delle societa' sportive
 
-Ordinamento delle societa' sportive
+1.
 
-1. Le societa', le associazioni e gli enti sportivi sono retti da uno statuto che deve essere approvato dall'organo che procede al riconoscimento, ai sensi del precedente art. 32.
+Le societa', le associazioni e gli enti sportivi sono retti da uno statuto che deve essere approvato dall'organo che procede al riconoscimento, ai sensi del precedente art. 32.
 
-2. Alla stessa approvazione sono sottoposte le eventuali modifiche allo statuto, nonche' i regolamenti interni.
+2.
 
-### Art. 34
+Alla stessa approvazione sono sottoposte le eventuali modifiche allo statuto, nonche' i regolamenti interni.
 
-Attivita' delle societa' sportive
+### Art. 34. — Attivita' delle societa' sportive
 
-1. Le societa', le associazioni e gli enti sportivi sono soggetti all'ordinamento sportivo ed esercitano le loro attivita' secondo le norme e le consuetudini sportive.
+1.
 
-CAPO IV Titolo IV GLI ATLETI E GLI UFFICIALI DI GARA
-----------------------------------------------------
+Le societa', le associazioni e gli enti sportivi sono soggetti all'ordinamento sportivo ed esercitano le loro attivita' secondo le norme e le consuetudini sportive.
 
-### Art. 35
+## GLI ATLETI E GLI UFFICIALI DI GARA
 
-Gli atleti
+Titolo IV
 
-1. Gli atleti sono inquadrati presso le societa', associazioni ed enti sportivi riconosciuti.
+### Art. 35. — Gli atleti
 
-2. L'atleta partecipa alle gare autorizzate sotto l'osservanza dei principi, dei regolamenti, degli usi e della lealta' sportiva.
+1.
 
-3. L'atleta non professionista deve praticare lo sport in conformita' alle regole del C.I.O. e della competente federazione internazionale.
+Gli atleti sono inquadrati presso le societa', associazioni ed enti sportivi riconosciuti.
 
-4. L'attivita' dell'atleta professionista e' disciplinata da norme regolamentari particolari emanate dalla federazione competente e secondo i principi dettati dalla rispettiva federazione internazionale.
+2.
 
-### Art. 36
+L'atleta partecipa alle gare autorizzate sotto l'osservanza dei principi, dei regolamenti, degli usi e della lealta' sportiva.
 
-Gli ufficiali di gara
+3.
 
-1. Gli ufficiali di gara partecipano, nella qualifica loro attribuita, allo svolgimento delle manifestazioni sportive per assicurarne la regolarita'.
+L'atleta non professionista deve praticare lo sport in conformita' alle regole del C.I.O. e della competente federazione internazionale.
 
-2. Gli ufficiali di gara possono essere riuniti in gruppi dalla competente federazione sportiva.
+4.
+
+L'attivita' dell'atleta professionista e' disciplinata da norme regolamentari particolari emanate dalla federazione competente e secondo i principi dettati dalla rispettiva federazione internazionale.
+
+### Art. 36. — Gli ufficiali di gara
+
+1.
+
+Gli ufficiali di gara partecipano, nella qualifica loro attribuita, allo svolgimento delle manifestazioni sportive per assicurarne la regolarita'.
+
+2.
+
+Gli ufficiali di gara possono essere riuniti in gruppi dalla competente federazione sportiva.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 28 marzo 1986
+Dato a Roma, addi' 28 marzo 1986
 
-COSSIGA
-
-CRAXI, Presidente del consiglio dei Ministri
-
-LAGORIO, Ministro del turismo e dello spettacolo
-
-GORIA, Ministro del tesoro
-
-Visto, il Guardasigilli: MARTINAZZOLI
-
-Registrato alla Corte dei conti, addi' 30 aprile 1986
-
-Atti di Governo, registro n. 60, foglio n. 24
+COSSIGA CRAXI, Presidente del consiglio dei Ministri LAGORIO, Ministro del turismo e dello spettacolo GORIA, Ministro del tesoro Visto, il Guardasigilli: MARTINAZZOLI Registrato alla Corte dei conti, addi' 30 aprile 1986 Atti di Governo, registro n. 60, foglio n. 24

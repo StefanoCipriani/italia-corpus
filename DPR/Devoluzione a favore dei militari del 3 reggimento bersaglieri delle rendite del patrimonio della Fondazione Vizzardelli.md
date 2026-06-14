@@ -1,18 +1,20 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 04 gennaio 1951 n. 86
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 86
+data: 1951-01-04
+titolo: "Devoluzione a favore dei militari del 3° reggimento bersaglieri, delle rendite del patrimonio della \"Fondazione Vizzardelli\"."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1951-01-04;86
+codice_redazionale: 051U0086
+vigente: true
+---
 
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 04 gennaio 1951 n. 86
-=============================================================
-
-Devoluzione a favore dei militari del 3° reggimento bersaglieri, delle rendite del patrimonio della "Fondazione Vizzardelli".
------------------------------------------------------------------------------------------------------------------------------
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-86. Decreto del Presidente della Repubblica 4 gennaio 1951, col quale, sulla proposta del Ministro per la difesa, le rendite del patrimonio della "Fondazione Vizzardelli" vengono devolute a favore dei militari del 3° reggimento bersaglieri, e viene approvato il nuovo statuto organico della Fondazione stessa.  
-  
-Visto, il Guardasigilli: PICCIONI  
-Registrato alla Corte dei conti, addi' 14 febbraio 1951
+86.
+
+Decreto del Presidente della Repubblica 4 gennaio 1951, col quale, sulla proposta del Ministro per la difesa, le rendite del patrimonio della "Fondazione Vizzardelli" vengono devolute a favore dei militari del 3° reggimento bersaglieri, e viene approvato il nuovo statuto organico della Fondazione stessa.
+
+Visto, il Guardasigilli: PICCIONI
+ Registrato alla Corte dei conti, addi' 14 febbraio 1951

@@ -1,19 +1,21 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 05 giugno 1958 n. 760
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 760
+data: 1958-06-05
+titolo: "Riconoscimento della personalita' giuridica della fondazione di religione denominata \"Regnum Christi\", con sede in Lucca."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1958-06-05;760
+codice_redazionale: 058U0760
+vigente: true
+---
 
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 05 giugno 1958 n. 760
-=============================================================
-
-Riconoscimento della personalita' giuridica della fondazione di religione denominata "Regnum Christi", con sede in Lucca.
--------------------------------------------------------------------------------------------------------------------------
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-760. Decreto del Presidente della Repubblica 5 giugno 1958, col quale, sulla proposta del Ministro per l'interno, viene riconosciuta la personalita' giuridica della fondazione di religione denominata "Regnum Christi", con sede in Lucca, e ne viene approvato lo statuto.  
-  
-Visto, il Guardasigilli: GONELLA  
-Registrato alla Corte dei conti, addi' 29 luglio 1958  
-Atti del Governo, registro n. 113, foglio n. 97. - RELLEVA
+760.
+
+Decreto del Presidente della Repubblica 5 giugno 1958, col quale, sulla proposta del Ministro per l'interno, viene riconosciuta la personalita' giuridica della fondazione di religione denominata "Regnum Christi", con sede in Lucca, e ne viene approvato lo statuto.
+
+Visto, il Guardasigilli: GONELLA
+ Registrato alla Corte dei conti, addi' 29 luglio 1958
+ Atti del Governo, registro n. 113, foglio n. 97. - RELLEVA

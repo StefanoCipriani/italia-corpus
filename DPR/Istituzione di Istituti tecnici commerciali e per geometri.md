@@ -1,26 +1,26 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 03 marzo 1967 n. 1106
-
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 03 marzo 1967 n. 1106
-=============================================================
-
-Istituzione di Istituti tecnici commerciali e per geometri.
------------------------------------------------------------
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 1106
+data: 1967-03-03
+titolo: "Istituzione di Istituti tecnici commerciali e per geometri."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1967-03-03;1106
+codice_redazionale: 067U1106
+vigente: true
+---
 
 IL PRESIDENTE DELLA REPUBBLICA
-------------------------------
 
-Vista la [legge 15 giugno 1931, n. 889](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1931-06-15;889), sul riordinamento dell'istruzione tecnica;
+Vista la [legge 15 giugno 1931, n. 889](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1931-06-15;889), sul riordinamento dell'istruzione tecnica;
 
-Visto il [regio decreto 3 marzo 1934, n. 383](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-03-03;383), che approva il testo unico della legge comunale e provinciale;
+Visto il [regio decreto 3 marzo 1934, n. 383](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20del%20testo%20unico%20della%20legge%20comunale%20e%20provinciale.%20034U0383.md), che approva il testo unico della legge comunale e provinciale;
 
-Visto l'[art. 9 del regio decreto-legge 21 settembre 1938, n. 2038](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1938-09-21;2038~art9), convertito nella [legge 2 giugno 1939, numero 739](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1939-06-02;739);
+Visto l'[art. 9 del regio decreto-legge 21 settembre 1938, n. 2038](../Atti%20normativi%20abrogati%20%28in%20originale%29/Istituzione%20soppressione%20e%20regificazione%20di%20istituti%20distruzione%20media%20tecnica%20e%20norme%20di%20carattere%20generale%20sullistituzione%20e%20sul%20funzionamento%20degli%20istituti%20medesimi.%20038U2038.md), convertito nella [legge 2 giugno 1939, numero 739](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20approvazione%20complessiva%20dei%20Regi%20decreti-legge%20emanati%20fino%20al%2010%20marzo%201939-XVII%20e%20convalida%20dei%20Regi%20decreti%20emanati%20fino%20alla%20data%20anzidetta%20per%20prelevazioni%20_8f817d3bee75.md);
 
-Visto il [decreto del Presidente della Repubblica 30 settembre 1961, n. 1222](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1961-09-30;1222), relativo agli orari ed ai programmi di insegnamento degli istituti tecnici;
+Visto il [decreto del Presidente della Repubblica 30 settembre 1961, n. 1222](Sostituzione%20degli%20orari%20e%20dei%20programmi%20di%20insegnamento%20negli%20Istituti%20tecnici.md), relativo agli orari ed ai programmi di insegnamento degli istituti tecnici;
 
-Vista la [legge 22 novembre 1961, n. 1282](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1961-11-22;1282), sul riordinamento dei servizi di vigilanza contabile e delle carriere del personale non insegnante delle scuole e degli istituti di istruzione tecnica e professionale e dei convitti annessi;
+Vista la [legge 22 novembre 1961, n. 1282](../Atti%20normativi%20abrogati%20%28in%20originale%29/Riordinamento%20dei%20servizi%20di%20vigilanza%20contabile%20e%20delle%20carriere%20del%20personale%20non%20insegnante%20delle%20scuole%20e%20degli%20Istituti%20di%20istruzione%20tecnica%20e%20professionale%20e%20dei%20Convitti%20annessi.md), sul riordinamento dei servizi di vigilanza contabile e delle carriere del personale non insegnante delle scuole e degli istituti di istruzione tecnica e professionale e dei convitti annessi;
 
-Visto il [decreto del Presidente della Repubblica 3 maggio 1964, n. 507](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1964-05-03;507), relativo ai raggruppamenti di materie per gli istituti tecnici commerciali e per geometri;
+Visto il [decreto del Presidente della Repubblica 3 maggio 1964, n. 507](Approvazione%20dei%20raggruppamenti%20di%20materie%20per%20gli%20Istituti%20tecnici%20commerciali%20e%20per%20geometri.md), relativo ai raggruppamenti di materie per gli istituti tecnici commerciali e per geometri;
 
 Visto il decreto interministeriale 14 agosto 1964, relativo alla costituzione delle cattedre negli istituti tecnici commerciali e per geometri;
 
@@ -28,325 +28,101 @@ Considerato che dal 1 ottobre 1966 funzionano di fatto gli istituti tecnici sott
 
 Ritenuta la necessita' di regolarizzare tale situazione di fatto;
 
-Sulla
------
+Sulla proposta del Ministro Segretario di Stato per la pubblica istruzione, di concerto con quelli per l'interno e per il tesoro; Decreta:
 
-proposta del Ministro Segretario di Stato per la pubblica istruzione, di concerto con quelli per l'interno e per il tesoro; Decreta:
+## Art. 1.
 
-Art. 1
-------
+A decorrere dal 10 ottobre 1966 vengono istituiti i seguenti Istituti tecnici commerciali, per geometri e commerciali e per geometri:
 
-  
-A decorrere dal 10 ottobre 1966 vengono istituiti i seguenti Istituti tecnici commerciali, per geometri e commerciali e per geometri:  
-  
-LOMBARDIA  
-  
-Brescia:  
-  
-Salo' - Aggiunta sezione per geometri all'Istituto tecnico commerciale ad indirizzo amministrativo;  
-Verolanuova - Istituto tecnico commerciale ad indirizzo amministrativo.  
-  
-Mantova:  
-  
-Suzzara - Istituto tecnico commerciale ad indirizzo amministrativo.  
-  
-Milano:  
-  
-Milano - Istituto tecnico per geometri.  
-  
-VENETO  
-  
-Venezia:  
-  
-Portogruaro - Istituto tecnico commerciale ad indirizzo amministrativo.  
-  
-LIGURIA  
-  
-La Spezia:  
-  
-La Spezia - Istituto tecnico per geometri.  
-  
-TOSCANA  
-  
-Arezzo:  
-  
-Arezzo - Istituto tecnico per geometri.  
-  
-MARCHE  
-  
-Ascoli Piceno:  
-  
-Amandola - Istituto tecnico commerciale ad indirizzo amministrativo.  
-  
-LAZIO  
-  
-Roma:  
-  
-Roma - Istituto tecnico commerciale ad indirizzo amministrativo e per geometri.  
-Roma - Istituto tecnico commerciale ad indirizzo amministrativo.  
-Roma - Istituto tecnico per geometri.  
-  
-CALABRIA  
-  
-Cosenza:  
-  
-Rossano Calabro - Istituto tecnico commerciale ad indirizzo amministrativo.  
-S. Marco Argentano - Istituto tecnico commerciale ad indirizzo amministrativo.  
-Trebisacce - Aggiunta sezione per geometri all'Istituto tecnico commerciale ad indirizzo amministrativo.  
-  
-SARDEGNA  
-  
-Cagliari:  
-  
-Muravera - Istituto tecnico commerciale ad indirizzo amministrativo e per geometri.  
+LOMBARDIA
 
-Art. 2
-------
+ Brescia:
 
-  
-I corsi completi, i posti di ruolo e quelli da conferirsi per incarico presso gli istituti di cui al precedente art. 1 sono indicati nelle tabelle I, II, III, IV, V, VI, VII, VIII, IX, X, XI, XII, XIII, XIV, XV, allegate al presente decreto, firmate, d'ordine del Presidente della Repubblica, dal Ministro per la pubblica istruzione e da quello per il tesoro.  
+ Salo' - Aggiunta sezione per geometri all'Istituto tecnico commerciale ad indirizzo amministrativo;
+ Verolanuova - Istituto tecnico commerciale ad indirizzo amministrativo.
 
-Art. 3
-------
+ Mantova:
 
-  
-A decorrere dal 1 ottobre 1966 sono soppresse le sezioni geometri presso i seguenti istituti:  
-1) Istituto tecnico commerciale ad indirizzo amministrativo e per geometri "Buonarroti" di Arezzo;  
-2) Istituto tecnico commerciale ad indirizzo amministrativo e per geometri "M. da Passano" di La Spezia;  
-3) Istituto tecnico commerciale ad indirizzo amministrativo e per geometri "Cattaneo" di Milano;  
-4) Istituto tecnico commerciale ad indirizzo amministrativo e per geometri "Sella" di Roma.  
-Nelle tabelle XVI, XVII, XVIII e XIX, annesse al presente decreto, firmate, d'ordine del Presidente della Repubblica, dal Ministro per la pubblica istruzione e da quello per il tesoro, sono indicati i corsi completi, i posti di ruolo e quelli da conferirsi per incarico presso i seguenti istituti:  
-1) Istituto tecnico commerciale ad indirizzo amministrativo "Buonarroti" di Arezzo;  
-2) Istituto tecnico commerciale ad indirizzo amministrativo "M. da Passano" di La Spezia;  
-3) Istituto tecnico commerciale ad indirizzo amministrativo "Cattaneo" di Milano;  
-4) Istituto tecnico commerciale ad indirizzo amministrativo "Sella" di Roma.  
+ Suzzara - Istituto tecnico commerciale ad indirizzo amministrativo.
 
-Art. 4
-------
+ Milano:
 
-  
-I contributi a carico dello Stato per il mantenimento degli istituti indicati nell'art. 1 e dell'istituto tecnico commerciale "Sella" di Roma sono fissati nella misura indicata nella tabella XX, annessa al presente decreto, firmata, d'ordine del Presidente della Repubblica, dal Ministro per la pubblica istruzione e da quello per il tesoro.  
+ Milano - Istituto tecnico per geometri.
 
-Art. 5
-------
+VENETO
 
-  
-La spesa derivante dall'attuazione del presente decreto (eccezion fatta per gli Istituti "Buonarroti" di Arezzo, "M. da Passano" di La Spezia e "Cattaneo" di Milano) gravera' sul cap. 2005, art. 1, dell'esercizio finanziario 1966 e sui capitoli corrispondenti degli esercizi successivi.  
-La spesa derivante dalla revisione dell'organico degli Istituti "Buonarroti" di Arezzo, "M. da Passano" di La Spezia e "Cattaneo" di Milano gravera' sul capitolo 2002 dell'esercizio finanziario 1966 e sui capitoli corrispondenti degli esercizi successivi.  
-  
+ Venezia:
+
+ Portogruaro - Istituto tecnico commerciale ad indirizzo amministrativo.
+
+LIGURIA
+
+ La Spezia:
+
+ La Spezia - Istituto tecnico per geometri.
+
+TOSCANA
+
+ Arezzo:
+
+ Arezzo - Istituto tecnico per geometri.
+
+MARCHE
+
+ Ascoli Piceno:
+
+ Amandola - Istituto tecnico commerciale ad indirizzo amministrativo.
+
+LAZIO
+
+ Roma:
+
+ Roma - Istituto tecnico commerciale ad indirizzo amministrativo e per geometri.
+ Roma - Istituto tecnico commerciale ad indirizzo amministrativo.
+ Roma - Istituto tecnico per geometri.
+
+CALABRIA
+
+ Cosenza:
+
+ Rossano Calabro - Istituto tecnico commerciale ad indirizzo amministrativo.
+ S. Marco Argentano - Istituto tecnico commerciale ad indirizzo amministrativo.
+ Trebisacce - Aggiunta sezione per geometri all'Istituto tecnico commerciale ad indirizzo amministrativo.
+
+SARDEGNA
+
+ Cagliari:
+
+ Muravera - Istituto tecnico commerciale ad indirizzo amministrativo e per geometri.
+
+## Art. 2.
+
+I corsi completi, i posti di ruolo e quelli da conferirsi per incarico presso gli istituti di cui al precedente art. 1 sono indicati nelle tabelle I, II, III, IV, V, VI, VII, VIII, IX, X, XI, XII, XIII, XIV, XV, allegate al presente decreto, firmate, d'ordine del Presidente della Repubblica, dal Ministro per la pubblica istruzione e da quello per il tesoro.
+
+## Art. 3.
+
+A decorrere dal 1 ottobre 1966 sono soppresse le sezioni geometri presso i seguenti istituti:
+ 1) Istituto tecnico commerciale ad indirizzo amministrativo e per geometri "Buonarroti" di Arezzo;
+ 2) Istituto tecnico commerciale ad indirizzo amministrativo e per geometri "M. da Passano" di La Spezia;
+ 3) Istituto tecnico commerciale ad indirizzo amministrativo e per geometri "Cattaneo" di Milano;
+ 4) Istituto tecnico commerciale ad indirizzo amministrativo e per geometri "Sella" di Roma.
+ Nelle tabelle XVI, XVII, XVIII e XIX, annesse al presente decreto, firmate, d'ordine del Presidente della Repubblica, dal Ministro per la pubblica istruzione e da quello per il tesoro, sono indicati i corsi completi, i posti di ruolo e quelli da conferirsi per incarico presso i seguenti istituti:
+ 1) Istituto tecnico commerciale ad indirizzo amministrativo "Buonarroti" di Arezzo;
+ 2) Istituto tecnico commerciale ad indirizzo amministrativo "M. da Passano" di La Spezia;
+ 3) Istituto tecnico commerciale ad indirizzo amministrativo "Cattaneo" di Milano;
+ 4) Istituto tecnico commerciale ad indirizzo amministrativo "Sella" di Roma.
+
+## Art. 4.
+
+I contributi a carico dello Stato per il mantenimento degli istituti indicati nell'art. 1 e dell'istituto tecnico commerciale "Sella" di Roma sono fissati nella misura indicata nella tabella XX, annessa al presente decreto, firmata, d'ordine del Presidente della Repubblica, dal Ministro per la pubblica istruzione e da quello per il tesoro.
+
+## Art. 5.
+
+La spesa derivante dall'attuazione del presente decreto (eccezion fatta per gli Istituti "Buonarroti" di Arezzo, "M. da Passano" di La Spezia e "Cattaneo" di Milano) gravera' sul cap. 2005, art. 1, dell'esercizio finanziario 1966 e sui capitoli corrispondenti degli esercizi successivi.
+ La spesa derivante dalla revisione dell'organico degli Istituti "Buonarroti" di Arezzo, "M. da Passano" di La Spezia e "Cattaneo" di Milano gravera' sul capitolo 2002 dell'esercizio finanziario 1966 e sui capitoli corrispondenti degli esercizi successivi.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 3 marzo 1967
+Dato a Roma, addi' 3 marzo 1967
 
-SARAGAT GUI - TAVIANI - COLOMBO
-
-Visto, il Guardasigilli: REALE
-
-Registrato alla Corte dei conti, addi' 13 novembre 1967
-
-Atti del Governo, registro n. 214, foglio n. 148. - GRECO
-
-Tabelle
-
- TABELLA I   
-  
-Tabella organica dell'Istituto tecnico commerciale e per geometri di Salo'   
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=067U110600100010110001&dgu=1967-12-04&art.dataPubblicazioneGazzetta=1967-12-04&art.codiceRedazionale=067U1106)
-  
-  
-  
-  
-TABELLA II   
-  
-Tabella organica dell'Istituto tecnico commerciale di Verolanuova   
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=067U110600100010110002&dgu=1967-12-04&art.dataPubblicazioneGazzetta=1967-12-04&art.codiceRedazionale=067U1106)
-  
-  
-  
-  
-TABELLA III   
-  
-Tabella organica dell'Istituto tecnico commerciale di Suzzara   
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=067U110600100010110003&dgu=1967-12-04&art.dataPubblicazioneGazzetta=1967-12-04&art.codiceRedazionale=067U1106)
-  
-  
-  
-  
-TABELLA IV   
-  
-Tabella organica dell'istituto tecnico per geometri di Milano   
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=067U110600100010110004&dgu=1967-12-04&art.dataPubblicazioneGazzetta=1967-12-04&art.codiceRedazionale=067U1106)
-  
-  
-  
-  
-TABELLA V   
-  
-Tabella organica dell'Istituto tecnico commerciale di Portogruaro   
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=067U110600100010110005&dgu=1967-12-04&art.dataPubblicazioneGazzetta=1967-12-04&art.codiceRedazionale=067U1106)
-  
-  
-  
-  
-TABELLA VI   
-  
-Tabella organica dell'Istituto tecnico per geometri di La Spezia   
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=067U110600100010110006&dgu=1967-12-04&art.dataPubblicazioneGazzetta=1967-12-04&art.codiceRedazionale=067U1106)
-  
-  
-  
-  
-TABELLA VII   
-  
-Tabella organica dell'Istituto tecnico per geometri di Arezzo   
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=067U110600100010110007&dgu=1967-12-04&art.dataPubblicazioneGazzetta=1967-12-04&art.codiceRedazionale=067U1106)
-  
-  
-  
-  
-TABELLA VIII   
-  
-Tabella organica dell'Istituto tecnico commerciale di Amandola   
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=067U110600100010110008&dgu=1967-12-04&art.dataPubblicazioneGazzetta=1967-12-04&art.codiceRedazionale=067U1106)
-  
-  
-  
-  
-TABELLA IX   
-  
-Tabella organica dell'Istituto tecnico commerciale e per geometri di Roma   
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=067U110600100010110009&dgu=1967-12-04&art.dataPubblicazioneGazzetta=1967-12-04&art.codiceRedazionale=067U1106)
-  
-  
-  
-  
-TABELLA X   
-  
-Tabella organica dell'Istituto tecnico commerciale di Roma   
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=067U110600100010110010&dgu=1967-12-04&art.dataPubblicazioneGazzetta=1967-12-04&art.codiceRedazionale=067U1106)
-  
-  
-  
-  
-TABELLA XI   
-  
-Tabella organica dell'Istituto tecnico per geometri di Roma   
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=067U110600100010110011&dgu=1967-12-04&art.dataPubblicazioneGazzetta=1967-12-04&art.codiceRedazionale=067U1106)
-  
-  
-  
-  
-TABELLA XII   
-  
-Tabella organica dell'Istituto tecnico commerciale di Rossano Calabro   
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=067U110600100010110012&dgu=1967-12-04&art.dataPubblicazioneGazzetta=1967-12-04&art.codiceRedazionale=067U1106)
-  
-  
-  
-  
-TABELLA XIII   
-  
-Tabella organica dell'istituto tecnico commerciale di S. Marco Argentano   
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=067U110600100010110013&dgu=1967-12-04&art.dataPubblicazioneGazzetta=1967-12-04&art.codiceRedazionale=067U1106)
-  
-  
-  
-  
-TABELLA XIV   
-  
-Tabella organica dell'Istituto tecnico commerciale e per geometri di Trebisacce   
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=067U110600100010110014&dgu=1967-12-04&art.dataPubblicazioneGazzetta=1967-12-04&art.codiceRedazionale=067U1106)
-  
-  
-  
-  
-TABELLA XV   
-  
-Tabella organica dell'Istituto tecnico commerciale e per geometri di Muravera   
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=067U110600100010110015&dgu=1967-12-04&art.dataPubblicazioneGazzetta=1967-12-04&art.codiceRedazionale=067U1106)
-  
-  
-  
-  
-TABELLA XVI   
-  
-Tabella organica dell'Istituto tecnico commerciale "Buonarroti" di Arezzo   
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=067U110600100010110016&dgu=1967-12-04&art.dataPubblicazioneGazzetta=1967-12-04&art.codiceRedazionale=067U1106)
-  
-  
-  
-  
-TABELLA XVII   
-  
-Tabella organica dell'Istituto tecnico commerciale "M. da Passano" di La Spezia   
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=067U110600100010110017&dgu=1967-12-04&art.dataPubblicazioneGazzetta=1967-12-04&art.codiceRedazionale=067U1106)
-  
-  
-  
-  
-TABELLA XVIII   
-  
-Tabella organica dell'Istituto tecnico commerciale "Cattaneo" di Milano   
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=067U110600100010110018&dgu=1967-12-04&art.dataPubblicazioneGazzetta=1967-12-04&art.codiceRedazionale=067U1106)
-  
-  
-  
-  
-TABELLA XIX   
-  
-Tabella organica dell'Istituto tecnico commerciale "Sella" di Roma   
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=067U110600100010110019&dgu=1967-12-04&art.dataPubblicazioneGazzetta=1967-12-04&art.codiceRedazionale=067U1106)
-  
-  
-  
-  
-TABELLA XX   
-  
-Tabella dei contributi per il funzionamento degli Istituti tecnici commerciali, per geometri e commerciali e per geometri statali istituiti dal 1 ottobre 1966.   
-  
-Istituto tecnico commerciale e per geometri di Salo . . L. 97.450.000 Istituto tecnico commerciale di Verolanuova . . . . . . L. 36.350.000 Istituto tecnico commerciale di Suzzara . . . . . . . . L. 36.350.000 Istituto tecnico per geometri di Milano. . . . . . . . L. 243.000.000 Istituto tecnico commerciale di Portogruaro . . . . . . L. 68.750.000 Istituto tecnico per geometri di La Spezia. . . . . . . L. 62.850.000 Istituto tecnico per geometri di Arezzo . . . . . . . . L. 62.850.000 Istituto tecnico commerciale di Amandola. . . . . . . . L. 36.350.000 Istituto tecnico commerciale e per geometri di Roma. . L. 221.800.000 Istituto tecnico commerciale di Roma. . . . . . . . . . L. 68.750.000 Istituto tecnico per geometri di Roma. . . . . . . . . L. 124.050.000 Istituto tecnico commerciale di Rossano Calabro . . . . L. 36.350.000 Istituto tecnico commerciale di S. Marco Argentano. . . L. 36.350.000 Istituto tecnico commerciale e per geometri di Trebisacce. L.   
-65.150.000   
-Istituto tecnico commerciale e per geometri di Muravera. L.   
-82.400.000   
-Istituto tecnico commerciale "Sella" di Roma . . . . . L. 163.700.000   
-  
-Visto, d'ordine del Presidente della Repubblica   
-Il Ministro per il tesoro Il Ministro per la pubblica istruzione COLOMBO GUI   
+SARAGAT GUI - TAVIANI - COLOMBO Visto, il Guardasigilli: REALE Registrato alla Corte dei conti, addi' 13 novembre 1967 Atti del Governo, registro n. 214, foglio n. 148. - GRECO

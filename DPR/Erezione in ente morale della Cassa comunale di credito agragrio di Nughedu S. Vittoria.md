@@ -1,19 +1,21 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 08 aprile 1976 n. 494
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 494
+data: 1976-04-08
+titolo: "Erezione in ente morale della Cassa comunale di credito agragrio di Nughedu S. Vittoria."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1976-04-08;494
+codice_redazionale: 076U0494
+vigente: true
+---
 
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 08 aprile 1976 n. 494
-=============================================================
-
-Erezione in ente morale della Cassa comunale di credito agragrio di Nughedu S. Vittoria.
-----------------------------------------------------------------------------------------
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-494. Decreto del Presidente della Repubblica 8 aprile 1976, col quale, sulla proposta del Ministro per il tesoro, la Cassa comunale di credito agrario di Nughedu S. Vittoria (Oristano), viene eretta in ente morale e ne viene approvato lo statuto.  
-  
-Visto, il Guardasigilli: BONIFACIO  
-Registrato alla Corte dei conti, addi' 15 luglio 1976  
-Atti di Governo, registro n. 7, foglio n. 78
+494.
+
+Decreto del Presidente della Repubblica 8 aprile 1976, col quale, sulla proposta del Ministro per il tesoro, la Cassa comunale di credito agrario di Nughedu S. Vittoria (Oristano), viene eretta in ente morale e ne viene approvato lo statuto.
+
+Visto, il Guardasigilli: BONIFACIO
+ Registrato alla Corte dei conti, addi' 15 luglio 1976
+ Atti di Governo, registro n. 7, foglio n. 78

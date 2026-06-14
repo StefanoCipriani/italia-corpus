@@ -1,19 +1,21 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 23 dicembre 1962 n. 1948
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 1948
+data: 1962-12-23
+titolo: "Erezione in ente morale dalla Cassa scolastica della Scuola di avviamento professionale a tipo industriale maschile e femminile di Forno di Canale (Belluno)."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1962-12-23;1948
+codice_redazionale: 062U1948
+vigente: true
+---
 
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 23 dicembre 1962 n. 1948
-================================================================
-
-Erezione in ente morale dalla Cassa scolastica della Scuola di avviamento professionale a tipo industriale maschile e femminile di Forno di Canale (Belluno).
--------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-1948. Decreto del Presidente della Repubblica 23 dicembre 1965, col quale, sulla proposta del Ministro per la pubblica istruzione, la Cassa scolastica della Scuola di avviamento professionale a tipo industriale maschile e femminile di Forno di Canale (Belluno) viene eretta in ente morale e ne viene approvato lo statuto.  
-  
-Visto, il Guardasigilli: BOSCO  
-Registrato alla Corte dei conti, addi', 4 febbraio 1963  
-Atti del Governo, registro n. 163, foglio n. 6. - VILLA
+1948.
+
+Decreto del Presidente della Repubblica 23 dicembre 1965, col quale, sulla proposta del Ministro per la pubblica istruzione, la Cassa scolastica della Scuola di avviamento professionale a tipo industriale maschile e femminile di Forno di Canale (Belluno) viene eretta in ente morale e ne viene approvato lo statuto.
+
+Visto, il Guardasigilli: BOSCO
+ Registrato alla Corte dei conti, addi', 4 febbraio 1963
+ Atti del Governo, registro n. 163, foglio n. 6. - VILLA

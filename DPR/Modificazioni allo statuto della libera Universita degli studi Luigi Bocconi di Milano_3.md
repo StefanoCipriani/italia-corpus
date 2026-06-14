@@ -1,22 +1,22 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 18 luglio 1968 n. 1679
-
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 18 luglio 1968 n. 1679
-==============================================================
-
-Modificazioni allo statuto della libera Universita' degli studi "Luigi Bocconi" di Milano.
-------------------------------------------------------------------------------------------
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 1679
+data: 1968-07-18
+titolo: "Modificazioni allo statuto della libera Universita' degli studi \"Luigi Bocconi\" di Milano."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1968-07-18;1679
+codice_redazionale: 068U1679
+vigente: true
+---
 
 IL PRESIDENTE DELLA REPUBBLICA
-------------------------------
 
-Veduto lo statuto della libera Universita' degli studi "Luigi Bocconi" di Milano, approvato con [regio decreto 8 marzo 1925, n. 547](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1925-03-08;547) e modificato con [regio decreto 2 dicembre 1928, n. 3108](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1928-12-02;3108), e successive modificazioni;
+Veduto lo statuto della libera Universita' degli studi "Luigi Bocconi" di Milano, approvato con [regio decreto 8 marzo 1925, n. 547](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1925-03-08;547) e modificato con [regio decreto 2 dicembre 1928, n. 3108](../Atti%20normativi%20abrogati%20%28in%20originale%29/Modificazione%20dellart.%207%20dello%20statuto%20dellUniversita%20commerciale%20%20Luigi%20Bocconi%20%20di%20Milano.%20028U3108.md), e successive modificazioni;
 
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20R.%20decreto-legge%2020%20giugno%201935-XIII%20n.%201071%20contenente%20modifiche%20ed%20aggiornamenti%20al%20testo%20unico%20delle%20leggi%20sullistruzione%20superiore.%20036U0073.md);
 
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
+Veduto il [regio decreto 30 settembre 1938, n. 1652](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disposizioni%20sullordinamento%20didattico%20universitario.%20038U1652.md), e successive modificazioni;
 
 Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;
 
@@ -56,48 +56,36 @@ SCAGLIA - COLOMBO
 
 Visto, il Guardasigilli: GAVA
 
-Registrato
-----------
+Registrato alla Corte dei conti, addi' 8 settembre 1969 Atti del Governo, registro n. 229, luglio n. 12. - CARUSO
 
-alla Corte dei conti, addi' 8 settembre 1969 Atti del Governo, registro n. 229, luglio n. 12. - CARUSO
+## Art. 1.
 
-Art. 1
-------
+IL PRESIDENTE DELLA REPUBBLICA
 
- IL PRESIDENTE DELLA REPUBBLICA  
-  
-Veduto lo statuto della libera Universita' degli studi "Luigi Bocconi" di Milano, approvato con [regio decreto 8 marzo 1925, n. 547](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1925-03-08;547) e modificato con [regio decreto 2 dicembre 1928, n. 3108](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1928-12-02;3108), e successive modificazioni;  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;  
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
-Sentito il parere del Consiglio superiore della pubblica istruzione;  
-Sulla proposta del Ministro per la pubblica istruzione, di concerto con quello per il tesoro;  
-  
-Decreta:  
-  
-Lo statuto della libera Universita' "Luigi Bocconi" di Milano, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
-  
-Dopo l'art. 7 e con il conseguente spostamento della successiva numerazione, sono aggiunti i seguenti nuovi articoli relativi alla istituzione del ruolo organico degli assistenti.  
-Art. 8. - Il ruolo organico degli assistenti e' costituito da ventidue, posti di cui quindici per la facolta' di economia e commercio e sette per la facolta' di lingue e letterature straniere.  
-Gli assistenti coadiuvano i professori nella ricerca scientifica e nella attivita' didattica, con particolare riguardo alle esercitazioni.  
-Art. 9. - La ripartizione dei posti di assistente di ruolo, fra le cattedre e gli istituti scientifici di ciascuna facolta', e' disposta con provvedimento del presidente del consiglio di amministrazione da emanare su proposta della facolta' interessata, sentito il parere del senato accademico.  
-Le modifiche al reparto dei posti hanno attuazione dall'inizio dell'anno accademico successivo a quello in cui venga emanato il relativo provvedimento.  
-Art. 10. - Agli assistenti di ruolo spetta il trattamento economico e di carriera che lo Stato attribuisce agli assistenti di ruolo delle universita' statali. Ai fini del trattamento di previdenza, ai predetti assistenti verranno applicate le vigenti e future disposizioni di legge in materia di assicurazione invalidita', vecchiaia e superstiti. Tale personale ha diritto, inoltre, alla cessazione del servizio ad una indennita' di buona uscita nella misura prevista per i dipendenti statali.  
-Per quanto si riferisce all'assistenza malattia, sara' provveduto come per legge.  
-In caso di trasferimento all'Universita' Bocconi di assistenti di ruolo appartenenti ad altri istituti universitari, saranno applicate le disposizioni vigenti in materia per gli assistenti di ruolo delle universita' statali.  
-  
+ Veduto lo statuto della libera Universita' degli studi "Luigi Bocconi" di Milano, approvato con [regio decreto 8 marzo 1925, n. 547](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1925-03-08;547) e modificato con [regio decreto 2 dicembre 1928, n. 3108](../Atti%20normativi%20abrogati%20%28in%20originale%29/Modificazione%20dellart.%207%20dello%20statuto%20dellUniversita%20commerciale%20%20Luigi%20Bocconi%20%20di%20Milano.%20028U3108.md), e successive modificazioni;
+ Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+ Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20R.%20decreto-legge%2020%20giugno%201935-XIII%20n.%201071%20contenente%20modifiche%20ed%20aggiornamenti%20al%20testo%20unico%20delle%20leggi%20sullistruzione%20superiore.%20036U0073.md);
+ Veduto il [regio decreto 30 settembre 1938, n. 1652](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disposizioni%20sullordinamento%20didattico%20universitario.%20038U1652.md), e successive modificazioni;
+ Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;
+ Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
+ Sentito il parere del Consiglio superiore della pubblica istruzione;
+ Sulla proposta del Ministro per la pubblica istruzione, di concerto con quello per il tesoro;
+
+ Decreta:
+
+ Lo statuto della libera Universita' "Luigi Bocconi" di Milano, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+
+ Dopo l'art. 7 e con il conseguente spostamento della successiva numerazione, sono aggiunti i seguenti nuovi articoli relativi alla istituzione del ruolo organico degli assistenti.
+ Art. 8. - Il ruolo organico degli assistenti e' costituito da ventidue, posti di cui quindici per la facolta' di economia e commercio e sette per la facolta' di lingue e letterature straniere.
+ Gli assistenti coadiuvano i professori nella ricerca scientifica e nella attivita' didattica, con particolare riguardo alle esercitazioni.
+ Art. 9. - La ripartizione dei posti di assistente di ruolo, fra le cattedre e gli istituti scientifici di ciascuna facolta', e' disposta con provvedimento del presidente del consiglio di amministrazione da emanare su proposta della facolta' interessata, sentito il parere del senato accademico.
+ Le modifiche al reparto dei posti hanno attuazione dall'inizio dell'anno accademico successivo a quello in cui venga emanato il relativo provvedimento.
+ Art. 10. - Agli assistenti di ruolo spetta il trattamento economico e di carriera che lo Stato attribuisce agli assistenti di ruolo delle universita' statali. Ai fini del trattamento di previdenza, ai predetti assistenti verranno applicate le vigenti e future disposizioni di legge in materia di assicurazione invalidita', vecchiaia e superstiti. Tale personale ha diritto, inoltre, alla cessazione del servizio ad una indennita' di buona uscita nella misura prevista per i dipendenti statali.
+ Per quanto si riferisce all'assistenza malattia, sara' provveduto come per legge.
+ In caso di trasferimento all'Universita' Bocconi di assistenti di ruolo appartenenti ad altri istituti universitari, saranno applicate le disposizioni vigenti in materia per gli assistenti di ruolo delle universita' statali.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 18 ottobre 1968
+Dato a Roma, addi' 18 ottobre 1968
 
-SARAGAT SCAGLIA - COLOMBO
-
-Visto, il Guardasigilli: GAVA
-
-Registrato alla Corte dei conti, addi' 8 settembre 1969
-
-Atti del Governo, registro n. 229, luglio n. 12. - CARUSO
+SARAGAT SCAGLIA - COLOMBO Visto, il Guardasigilli: GAVA Registrato alla Corte dei conti, addi' 8 settembre 1969 Atti del Governo, registro n. 229, luglio n. 12. - CARUSO

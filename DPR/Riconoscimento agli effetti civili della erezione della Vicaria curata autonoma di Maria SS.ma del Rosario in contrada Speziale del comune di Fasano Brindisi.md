@@ -1,18 +1,20 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 01 giugno 1948 n. 960
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 960
+data: 1948-06-01
+titolo: "Riconoscimento, agli effetti civili, della erezione della Vicaria curata autonoma di Maria SS.ma del Rosario, in contrada Speziale del comune di Fasano (Brindisi)."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1948-06-01;960
+codice_redazionale: 048U0960
+vigente: true
+---
 
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 01 giugno 1948 n. 960
-=============================================================
-
-Riconoscimento, agli effetti civili, della erezione della Vicaria curata autonoma di Maria SS.ma del Rosario, in contrada Speziale del comune di Fasano (Brindisi).
--------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-960. Decreto del Presidente della Repubblica 1 giugno 1948, col quale, sulla proposta del Ministro per d'interno, viene riconosciuto, agli effetti civili, il decreto del Vescovo di Monopoli, in data 24 novembre 1943, integrato con postilla di pari data, relativo all'erezione della Vicaria curata autonoma di Maria SS.ma del Rosario, in contrada Speziale del comune di Fasano (Brindisi).  
-  
-Visto, il Guardasigilli: GRASSI  
-Registrato alla Corte dei conti, addi' 28 giugno 1948
+960.
+
+Decreto del Presidente della Repubblica 1 giugno 1948, col quale, sulla proposta del Ministro per d'interno, viene riconosciuto, agli effetti civili, il decreto del Vescovo di Monopoli, in data 24 novembre 1943, integrato con postilla di pari data, relativo all'erezione della Vicaria curata autonoma di Maria SS.ma del Rosario, in contrada Speziale del comune di Fasano (Brindisi).
+
+Visto, il Guardasigilli: GRASSI
+ Registrato alla Corte dei conti, addi' 28 giugno 1948

@@ -1,13 +1,13 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 10 settembre 1969 n. 695
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 695
+data: 1969-09-10
+titolo: "Modificazioni allo statuto dell'Istituto universitario statale di Salerno."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1969-09-10;695
+codice_redazionale: 069U0695
+vigente: true
+---
 
+## Art. 1.
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 10 settembre 1969 n. 695
-================================================================
-
-Modificazioni allo statuto dell'Istituto universitario statale di Salerno.
---------------------------------------------------------------------------
-
-Art. 1
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 13 DICEMBRE 2010, N. 248](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2010-12-13;248)))
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))

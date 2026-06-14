@@ -1,19 +1,21 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 13 dicembre 1964 n. 1540
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 1540
+data: 1964-12-13
+titolo: "Erezione in ente morale della Cassa scolastica della Scuola media statale di Induno Olona (Varese)."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1964-12-13;1540
+codice_redazionale: 064U1540
+vigente: true
+---
 
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 13 dicembre 1964 n. 1540
-================================================================
-
-Erezione in ente morale della Cassa scolastica della Scuola media statale di Induno Olona (Varese).
----------------------------------------------------------------------------------------------------
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-1540. Decreto del Presidente della Repubblica 13 dicembre 1964, col quale, sulla proposta del Ministro per la pubblica istruzione, la Cassa scolastica della Scuola media statale di Induno Olona (Varese), viene eretta in ente morale e ne viene approvato lo statuto.  
-  
-Visto, il Guardasigilli: REALE  
-Registrato alla Corte dei conti, addi' 22 gennaio 1965  
-Atti del Governo, registro n. 190, foglio n. 45. - VILLA
+1540.
+
+Decreto del Presidente della Repubblica 13 dicembre 1964, col quale, sulla proposta del Ministro per la pubblica istruzione, la Cassa scolastica della Scuola media statale di Induno Olona (Varese), viene eretta in ente morale e ne viene approvato lo statuto.
+
+Visto, il Guardasigilli: REALE
+ Registrato alla Corte dei conti, addi' 22 gennaio 1965
+ Atti del Governo, registro n. 190, foglio n. 45. - VILLA

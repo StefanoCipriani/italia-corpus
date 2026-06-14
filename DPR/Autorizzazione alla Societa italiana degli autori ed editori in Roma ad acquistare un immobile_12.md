@@ -1,19 +1,21 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 17 maggio 1986 n. 548
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 108
+data: 1986-02-07
+titolo: "Autorizzazione alla Societa' italiana degli autori ed editori, in Roma, ad acquistare un immobile."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1986-02-07;108
+codice_redazionale: 086U0108
+vigente: true
+---
 
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 17 maggio 1986 n. 548
-=============================================================
-
-Autorizzazione alla Societa' italiana degli autori ed editori, in Roma, ad acquistare un immobile.
---------------------------------------------------------------------------------------------------
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-548. Decreto del Presidente della Repubblica 17 maggio 1986, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la Societa' italiana degli autori ed editori (SIAE), in Roma, viene autorizzata ad acquistare, al convenuto prezzo di L. 77.805.000, un immobile sito in Messina, via Longo isol. 381, comp. II del P.R., piano primo, interno n. 5, composto di un vano ed accessori, denunziato al nuovo catasto edilizio urbano in data 4 settembre 1979 con scheda n. 15123, valutato da perizia estimativa di parte L. 79.000.000, come da atto in data 21 dicembre 1979, n. 31030 di repertorio, a rogito dott. Antonino Campagna, notaio in Messina, registrato a Messina il 9 gennaio 1980 al n. 227.   
-  
-Visto, il Guardasigilli: ROGNONI   
-Registrato alla Corte dei conti, addi' 11 settembre 1986   
-Registro n. 9 Presidenza, foglio n. 29
+108.
+
+Decreto del Presidente della Repubblica 7 febbraio 1986, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la Societa' italiana degli autori ed editori, in Roma, viene autorizzata ad acquistare, al prezzo di L. 240.000.000, un immobile sito in Genova, via Fieschi n. 2, censito al nuovo catasto edilizio urbano alla partita n. 53883, foglio n. 97, mappale n. 409 sub 23, di proprieta' dei signori Gustavo ed Enrico Terracini, come da atto di compravendita 15 settembre 1982, n. 8653/3505 di repertorio, a rogito dott. Giorgio Figari, notaio in Genova, registrato a Genova in data 22 settembre 1982 al n. 15674, da adibire a sede regionale dell'ente. 
+ 
+Visto, il Guardasigilli: MARTINAZZOLI 
+ Registrato alla Corte dei conti, addi' 27 marzo 1986 
+ Registro n. 3 Presidenza, foglio n. 230.

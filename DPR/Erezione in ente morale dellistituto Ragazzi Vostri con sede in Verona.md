@@ -1,18 +1,20 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 19 maggio 1950 n. 1234
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 1234
+data: 1950-05-19
+titolo: "Erezione in ente morale dell'istituto \"Ragazzi Vostri\", con sede in Verona."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1950-05-19;1234
+codice_redazionale: 050U1234
+vigente: true
+---
 
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 19 maggio 1950 n. 1234
-==============================================================
-
-Erezione in ente morale dell'istituto "Ragazzi Vostri", con sede in Verona.
----------------------------------------------------------------------------
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-1234. Decreto del Presidente della Repubblica 19 maggio 1950, col quale, sulla proposta del Ministro per l'interno, l'Istituto "Ragazzi Vostri", con sede in Verona, viene eretto in ente morale e ne viene approvato lo statuto organico.  
-  
-Visto, il Guardasigilli: PICCIONI  
-Registrato alla Corte dei conti, addi' 26 febbraio 1951
+1234.
+
+Decreto del Presidente della Repubblica 19 maggio 1950, col quale, sulla proposta del Ministro per l'interno, l'Istituto "Ragazzi Vostri", con sede in Verona, viene eretto in ente morale e ne viene approvato lo statuto organico.
+
+Visto, il Guardasigilli: PICCIONI
+ Registrato alla Corte dei conti, addi' 26 febbraio 1951

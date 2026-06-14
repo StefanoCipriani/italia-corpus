@@ -1,76 +1,49 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 27 dicembre 1952 n. 3237
-
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 27 dicembre 1952 n. 3237
-================================================================
-
-Trasferimento in proprieta' all'Ente per la trasformazione fondiaria e agraria in Sardegna, di terreni di proprieta' della Societa' mineraria metallurgica "Pertusola", con sede in Genova, in comune di Lula (Nuoro).
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 3237
+data: 1952-12-27
+titolo: "Trasferimento in proprieta' all'Ente per la trasformazione fondiaria e agraria in Sardegna, di terreni di proprieta' della Societa' mineraria metallurgica \"Pertusola\", con sede in Genova, in comune di Lula (Nuoro)."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1952-12-27;3237
+codice_redazionale: 052U3237
+vigente: true
+---
 
 IL PRESIDENTE DELLA REPUBBLICA
-------------------------------
 
-Visti gli [articoli 77 comma primo](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27~art77-com1), ed [87, comma quinto, della Costituzione](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27~art87-com5) della Repubblica;
+Visti gli [articoli 77 comma primo](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_77-com1), ed [87, comma quinto, della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87-com5) della Repubblica;
 
-Viste le [leggi 12 maggio 1950, n. 230, 21 ottobre 1950, n. 841, 18 maggio 1951, n. 333, 2 aprile 1952, n. 339 e 16 agosto 1952, n. 1206](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1952-08-16;1206);
+Viste le [leggi 12 maggio 1950, n. 230, 21 ottobre 1950, n. 841, 18 maggio 1951, n. 333, 2 aprile 1952, n. 339 e 16 agosto 1952, n. 1206](../Atti%20normativi%20abrogati%20%28in%20originale%29/Interpretazione%20dellarticolo%204%20della%20legge%2021%20ottobre%201950%20n.%20841%20recante%20norme%20per%20la%20espropriazione%20bonifica%20trasformazione%20ed%20assegnazione%20dei%20terreni%20ai%20contadini.md);
 
-In virtu' della delegazione concessa dagli [articoli 5 della legge 12 maggio 1950, n. 230](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1950-05-12;230~art5), ed 1 e 2 della [legge 21 ottobre 1950, n. 841](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1950-10-21;841);
+In virtu' della delegazione concessa dagli [articoli 5 della legge 12 maggio 1950, n. 230](../Atti%20normativi%20abrogati%20%28in%20originale%29/Provvedimenti%20per%20la%20colonizzazione%20dellAltopiano%20della%20Sila%20e%20dei%20territori%20jonici%20contermini.md), ed 1 e 2 della [legge 21 ottobre 1950, n. 841](../Atti%20normativi%20abrogati%20%28in%20originale%29/Norme%20per%20la%20espropriazione%20bonifica%20trasformazione%20ed%20assegnazione%20dei%20terreni%20ai%20contadini.md);
 
 Visti i propri decreti 10 aprile 1951, n. 256 e 27 aprile 1951, n. 265);
 
 Visto il piano particolareggiato di espropriazione compilato dall'Ente per la trasformazione fondiaria ed agraria in Sardegna, nei confronti della Societa' mineraria metallurgica Pertusola, con sede in Genova, per i terreni ricadenti nel comune di Lula (provincia di Nuoro);
 
-Udito il parere, in data 13 novembre 1952, espresso dalla Commissione parlamentare nominata a norma degli [articoli 5 della legge 12 maggio 1950, n. 230](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1950-05-12;230~art5), ed 1 e 2 della, [legge 21 ottobre 1950, n. 841](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1950-10-21;841);
+Udito il parere, in data 13 novembre 1952, espresso dalla Commissione parlamentare nominata a norma degli [articoli 5 della legge 12 maggio 1950, n. 230](../Atti%20normativi%20abrogati%20%28in%20originale%29/Provvedimenti%20per%20la%20colonizzazione%20dellAltopiano%20della%20Sila%20e%20dei%20territori%20jonici%20contermini.md), ed 1 e 2 della, [legge 21 ottobre 1950, n. 841](../Atti%20normativi%20abrogati%20%28in%20originale%29/Norme%20per%20la%20espropriazione%20bonifica%20trasformazione%20ed%20assegnazione%20dei%20terreni%20ai%20contadini.md);
 
 Sentito il Consiglio del Ministri;
 
-Sulla
------
+Sulla proposta del Ministro Segretario di Stato per l'agricoltura e per le foreste; Decreta:
 
-proposta del Ministro Segretario di Stato per l'agricoltura e per le foreste; Decreta:
+## Art. 1.
 
-Art. 1
-------
+E' approvato il piano particolareggiato di espropriazione compilato dall'Ente per la trasformazione fondiaria ed agraria in Sardegna, nei confronti della Societa' mineraria metallurgica Pertusola, con sede in Genova, relativo ai terreni ricadenti nel comune di Lula (provincia di Nuoro), per una superficie di ettari 2.81.38, specificamente descritti nell'elenco n. 1 allegato al presente decreto.
 
-  
-E' approvato il piano particolareggiato di espropriazione compilato dall'Ente per la trasformazione fondiaria ed agraria in Sardegna, nei confronti della Societa' mineraria metallurgica Pertusola, con sede in Genova, relativo ai terreni ricadenti nel comune di Lula (provincia di Nuoro), per una superficie di ettari 2.81.38, specificamente descritti nell'elenco n. 1 allegato al presente decreto.  
+## Art. 2.
 
-Art. 2
-------
+I terreni indicati nel precedente articolo sono trasferiti in proprieta' all'Ente per la trasformazione fondiaria ed agraria, in Sardegna.
 
-  
-I terreni indicati nel precedente articolo sono trasferiti in proprieta' all'Ente per la trasformazione fondiaria ed agraria, in Sardegna.  
+## Art. 3.
 
-Art. 3
-------
+E' ordinata l'immediata occupazione, da parte dell'Ente predetto, dei terreni indicati nei precedenti articoli 1 e 2.
 
-  
-E' ordinata l'immediata occupazione, da parte dell'Ente predetto, dei terreni indicati nei precedenti articoli 1 e 2.  
+## Art. 4.
 
-Art. 4
-------
-
-  
-L'elenco dei terreni, con l'indicazione dell'indennita' di espropriazione offerta, munito del visto del Ministro proponente, forma parte integrante del presente decreto, che entra in vigore il giorno stesso della sua pubblicazione nella Gazzetta Ufficiale della Repubblica italiana.  
-  
+L'elenco dei terreni, con l'indicazione dell'indennita' di espropriazione offerta, munito del visto del Ministro proponente, forma parte integrante del presente decreto, che entra in vigore il giorno stesso della sua pubblicazione nella Gazzetta Ufficiale della Repubblica italiana.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 27 dicembre 1952
+Dato a Roma, addi' 27 dicembre 1952
 
-EINAUDI DE GASPERI - FANFANI
-
-Visto, il Guardasigilli: ZOLI
-
-Registrato alla Corte dei conti, addi' 15 gennaio 1953
-
-Atti del Governo, registro n. 72, foglio n. 107. - PALLA
-
-Allegato n. 1
-
-Elenco dei terreni intestati alla ditta Societa' mineraria metallurgica Pertusola, con sede in Genova, in comune di Lula (provincia di Nuoro), trasferiti in proprieta' dell'Ente per la trasformazione fondiaria ed agraria della Sardegna, a norma delle [leggi 12 maggio 1950, n. 230, 21 ottobre 1950, n. 841](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1950-10-21;841) e [decreto Presidenziale 27 Aprile 1951, n. 265](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-04-27;265).   
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=052U323700100010110001&dgu=1953-01-17&art.dataPubblicazioneGazzetta=1953-01-17&art.codiceRedazionale=052U3237)
-  
+EINAUDI DE GASPERI - FANFANI Visto, il Guardasigilli: ZOLI Registrato alla Corte dei conti, addi' 15 gennaio 1953 Atti del Governo, registro n. 72, foglio n. 107. - PALLA

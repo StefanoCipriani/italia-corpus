@@ -1,16 +1,16 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 26 luglio 1957 n. 780
-
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 26 luglio 1957 n. 780
-=============================================================
-
-Riconoscimento della personalita' giuridica al Fondo di previdenza per i dirigenti di aziende commerciali e di spedizione e trasporto, con sede in Roma.
---------------------------------------------------------------------------------------------------------------------------------------------------------
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 780
+data: 1957-07-26
+titolo: "Riconoscimento della personalita' giuridica al Fondo di previdenza per i dirigenti di aziende commerciali e di spedizione e trasporto, con sede in Roma."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1957-07-26;780
+codice_redazionale: 057U0780
+vigente: true
+---
 
 IL PRESIDENTE DELLA REPUBBLICA
-------------------------------
 
-Visto l'[art. 12 del Codice civile](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art12);
+Visto l'[art. 12 del Codice civile](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262#art_12);
 
 Vista la domanda in data 20 giugno 1956, con la quale il cavaliere del lavoro Mario Negri, presidente della Federazione nazionale dirigenti delle attivita' commerciali, ausiliarie, dei servizi e similari di pubblico interesse (gia' Associazione nazionale dirigenti aziende commerciali), con sede in Roma, via Nazionale n. 75, chiede il riconoscimento giuridico del Fondo di previdenza per i dirigenti di aziende commerciali e di spedizione e trasporto;
 
@@ -20,28 +20,14 @@ Vista la copia autentica dell'11 marzo 1957, dell'atto di modifica dello statuto
 
 Udito il parere del Consiglio di Stato;
 
-Sulla
------
+Sulla proposta del Ministro per il lavoro e la previdenza sociale; Decreta:
 
-proposta del Ministro per il lavoro e la previdenza sociale; Decreta:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-E' concesso il riconoscimento della personalita' giuridica al Fondo di previdenza per i dirigenti di aziende commerciali e di spedizione e trasporto, con sede in Roma, e ne e' approvato il relativo statuto, composto di 23 articoli nel testo annesso al presente decreto e vistato dal Ministro proponente.   
-  
+E' concesso il riconoscimento della personalita' giuridica al Fondo di previdenza per i dirigenti di aziende commerciali e di spedizione e trasporto, con sede in Roma, e ne e' approvato il relativo statuto, composto di 23 articoli nel testo annesso al presente decreto e vistato dal Ministro proponente.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica Italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 26 luglio 1957
+Dato a Roma, addi' 26 luglio 1957
 
-GRONCHI GUI
-
-Visto, il Guardasigilli: GONELLA
-
-Registrato alla Corte dei conti, addi' 30 agosto 1957
-
-Atti del Governo, registro n. 107, foglio n. 83. - RELLEVA
+GRONCHI GUI Visto, il Guardasigilli: GONELLA Registrato alla Corte dei conti, addi' 30 agosto 1957 Atti del Governo, registro n. 107, foglio n. 83. - RELLEVA

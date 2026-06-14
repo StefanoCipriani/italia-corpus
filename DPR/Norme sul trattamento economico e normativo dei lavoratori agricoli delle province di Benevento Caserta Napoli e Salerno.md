@@ -1,20 +1,20 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 27 giugno 1961 n. 912
-
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 27 giugno 1961 n. 912
-=============================================================
-
-Norme sul trattamento economico e normativo dei lavoratori agricoli delle province di Benevento, Caserta, Napoli e Salerno.
----------------------------------------------------------------------------------------------------------------------------
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 912
+data: 1961-06-27
+titolo: "Norme sul trattamento economico e normativo dei lavoratori agricoli delle province di Benevento, Caserta, Napoli e Salerno."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1961-06-27;912
+codice_redazionale: 061U0912
+vigente: true
+---
 
 IL PRESIDENTE DELLA REPUBBLICA
-------------------------------
 
-Visto l'[art. 87, comma quinto, della Costituzione](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27~art87-com5);
+Visto l'[art. 87, comma quinto, della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87-com5);
 
-Vista la [legge 14 luglio 1959, n. 741](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1959-07-14;741), che delega il Governo ad emanare norme transitorie per garantire minimi di trattamento economico e normativo ai lavoratori;
+Vista la [legge 14 luglio 1959, n. 741](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1959-07-14;741), che delega il Governo ad emanare norme transitorie per garantire minimi di trattamento economico e normativo ai lavoratori;
 
-Vista la [legge 1 ottobre 1960, n. 1027](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1960-10-01;1027) recante modifiche alla predetta [legge 14 luglio 1959, n. 741](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1959-07-14;741);
+Vista la [legge 1 ottobre 1960, n. 1027](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1960-10-01;1027) recante modifiche alla predetta [legge 14 luglio 1959, n. 741](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1959-07-14;741);
 
 Visto l'accordo nazionale di scala mobile 25 febbraio 1952 per i salari agricoli;
 
@@ -54,113 +54,20 @@ Vista la pubblicazione nell'apposito Bollettino, n. 3 della provincia di Beneven
 
 Sentito il Consiglio dei Ministri;
 
-Sulla
------
+Sulla proposta del Ministro per il lavoro e la previdenza sociale; Decreta:
 
-proposta del Ministro per il lavoro e la previdenza sociale; Decreta:
+## Articolo unico
 
-Articolo unico
---------------
-
-  
-I rapporti di lavoro costituiti per le attivita' per le quali sono stati stipulati:  
-- per la provincia di Benevento, il contratto collettivo 4 dicembre 1958 per i braccianti agricoli avventizi, il contratto collettivo 20 settembre 1955 per i salariati fissi, l'accordo salariale 16 giugno 1968 per i lavoratori addetti alla mietitura dei cereali e l'allegato contratto collettivo 10 febbraio 1954 per i braccianti agricoli avventizi;  
-- per la provincia di Caserta, il patto collettivo 20 luglio 1951 per i braccianti agricoli avventizi;  
-- per la provincia di Napoli, il contratto collettivo integrativo 28 giugno 1955, per i salariati fissi, il contratto collettivo integrativo 25 maggio 1959, per i braccianti agricoli avventizi;  
-- per la provincia di Salerno, il patto collettivo 27 marzo 1954 per i braccianti agricoli convenzionati, il contratto collettivo 11 giugno 1959 per gli addetti ai lavori di mietitura e trebbiatura, il contratto collettivo 30 settembre 1959 per i salariati fissi ed ausiliari, il patto collettivo 30 Settembre 1959 per i braccianti agricoli avventizi;  
-sono regolati da norme giuridiche uniformi alle clausole dei contratti, accordi e patti anzidetti, annessi al presente decreto, purche' compatibili con quelle concernenti la disciplina nazionale della categoria.  
-I minimi di trattamento economico e normativo cosi' stabiliti sono inderogabili nei confronti di tutti i lavoratori, considerati nei contratti, negli accordi e nei patti di cui al 1° comma, dipendenti dalle imprese agricole delle province di Benevento, Caserta, Napoli e Salerno.  
-  
+I rapporti di lavoro costituiti per le attivita' per le quali sono stati stipulati:
+ - per la provincia di Benevento, il contratto collettivo 4 dicembre 1958 per i braccianti agricoli avventizi, il contratto collettivo 20 settembre 1955 per i salariati fissi, l'accordo salariale 16 giugno 1968 per i lavoratori addetti alla mietitura dei cereali e l'allegato contratto collettivo 10 febbraio 1954 per i braccianti agricoli avventizi;
+ - per la provincia di Caserta, il patto collettivo 20 luglio 1951 per i braccianti agricoli avventizi;
+ - per la provincia di Napoli, il contratto collettivo integrativo 28 giugno 1955, per i salariati fissi, il contratto collettivo integrativo 25 maggio 1959, per i braccianti agricoli avventizi;
+ - per la provincia di Salerno, il patto collettivo 27 marzo 1954 per i braccianti agricoli convenzionati, il contratto collettivo 11 giugno 1959 per gli addetti ai lavori di mietitura e trebbiatura, il contratto collettivo 30 settembre 1959 per i salariati fissi ed ausiliari, il patto collettivo 30 Settembre 1959 per i braccianti agricoli avventizi;
+ sono regolati da norme giuridiche uniformi alle clausole dei contratti, accordi e patti anzidetti, annessi al presente decreto, purche' compatibili con quelle concernenti la disciplina nazionale della categoria.
+ I minimi di trattamento economico e normativo cosi' stabiliti sono inderogabili nei confronti di tutti i lavoratori, considerati nei contratti, negli accordi e nei patti di cui al 1° comma, dipendenti dalle imprese agricole delle province di Benevento, Caserta, Napoli e Salerno.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 27 giugno 1961
+Dato a Roma, addi' 27 giugno 1961
 
-GRONCHI FANFANI - SULLO
-
-Visto, il Guardasigilli: GONELLA
-
-Registrato alla Corte dei conti, addi' 19 agosto 1961
-
-Atti del Governo, registro n. 138, foglio n. 149. - VILLA
-
-Allegato
-
-CONTRATTO COLLETTIVO 4 DICEMBRE 1958, PER I BRACCIANTI AGRICOLI AVVENTIZI DELLA PROVINCIA DI BENEVENTO   
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=061U091200100010110001&dgu=1961-09-14&art.dataPubblicazioneGazzetta=1961-09-14&art.codiceRedazionale=061U0912)
-  
-  
-  
-  
-CONTRATTO COLLETTIVO 20 SETTEMBRE 1955, PER I SALARIATI FISSI IN AGRICOLTURA DELLA PROVINCIA DI BENEVENTO   
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=061U091200100010110002&dgu=1961-09-14&art.dataPubblicazioneGazzetta=1961-09-14&art.codiceRedazionale=061U0912)
-  
-  
-  
-  
-ACCORDO SALARIALE 16 GIUGNO 1958, PER I LAVORATORI ADDETTI ALLA MIETITURA DEI CEREALI NELLA PROVINCIA DI BENEVENTO DURANTE LA CAMPAGNA 1958   
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=061U091200100010110003&dgu=1961-09-14&art.dataPubblicazioneGazzetta=1961-09-14&art.codiceRedazionale=061U0912)
-  
-  
-  
-  
-PATTO COLLETTIVO 20 LUGLIO 1959, PER I BRACCIANTI AGRICOLI AVVENTIZI DELLA PROVINCIA DI CASERTA   
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=061U091200100010110004&dgu=1961-09-14&art.dataPubblicazioneGazzetta=1961-09-14&art.codiceRedazionale=061U0912)
-  
-  
-  
-  
-CONTRATTO COLLETTIVO INTEGRATIVO 28 GIUGNO 1955, PER I SALARIATI FISSI DELLA AGRICOLTURA DELLA PROVINCIA DI NAPOLI   
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=061U091200100010110005&dgu=1961-09-14&art.dataPubblicazioneGazzetta=1961-09-14&art.codiceRedazionale=061U0912)
-  
-  
-  
-  
-CONTRATTO COLLETTIVO INTEGRATIVO 25 MAGGIO 1959, PER I BRACCIANTI AGRICOLI AVVENTIZI DELLA PROVINCIA DI NAPOLI   
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=061U091200100010110006&dgu=1961-09-14&art.dataPubblicazioneGazzetta=1961-09-14&art.codiceRedazionale=061U0912)
-  
-  
-  
-  
-PATTO COLLETTIVO 27 MARZO 1954, PER I BRACCIANTI AGRICOLI CONVENZIONATI DELLA PROVINCIA DI SALERNO   
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=061U091200100010110007&dgu=1961-09-14&art.dataPubblicazioneGazzetta=1961-09-14&art.codiceRedazionale=061U0912)
-  
-  
-  
-  
-CONTRATTO COLLETTIVO 11 GIUGNO 1959, PER GLI ADDETTI ALLA MIETITURA E TREBBIATURA DELLA PROVINCIA DI SALERNO   
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=061U091200100010110008&dgu=1961-09-14&art.dataPubblicazioneGazzetta=1961-09-14&art.codiceRedazionale=061U0912)
-  
-  
-  
-  
-CONTRATTO COLLETTIVO 30 SETTEMBRE 1959, PER I SALARIATI FISSI ED AUSILIARI DIPENDENTI DALLE AZIENDE AGRICOLE DELLA PROVINCIA DI SALERNO   
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=061U091200100010110009&dgu=1961-09-14&art.dataPubblicazioneGazzetta=1961-09-14&art.codiceRedazionale=061U0912)
-  
-  
-  
-  
-PATTO COLLETTIVO 30 SETTEMBRE 1959 PER I BRACCIANTI AGRICOLI AVVENTIZI DELLA PROVINCIA DI SALERNO   
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=061U091200100010110010&dgu=1961-09-14&art.dataPubblicazioneGazzetta=1961-09-14&art.codiceRedazionale=061U0912)
-  
+GRONCHI FANFANI - SULLO Visto, il Guardasigilli: GONELLA Registrato alla Corte dei conti, addi' 19 agosto 1961 Atti del Governo, registro n. 138, foglio n. 149. - VILLA

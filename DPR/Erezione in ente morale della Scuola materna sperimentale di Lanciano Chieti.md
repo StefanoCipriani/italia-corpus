@@ -1,19 +1,21 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 10 novembre 1959 n. 1381
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 1381
+data: 1959-11-10
+titolo: "Erezione in ente morale della Scuola materna sperimentale di Lanciano (Chieti)."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1959-11-10;1381
+codice_redazionale: 059U1381
+vigente: true
+---
 
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 10 novembre 1959 n. 1381
-================================================================
-
-Erezione in ente morale della Scuola materna sperimentale di Lanciano (Chieti).
--------------------------------------------------------------------------------
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-1381. Decreto del Presidente della Repubblica 10 novembre 1959, col quale, sulla proposta del Ministro per la pubblica istruzione, la Scuola materna sperimentale di Lanciano (Chieti) viene eretta in ente morale e ne viene approvato lo statuto.  
-  
-Visto, il Guardasigilli: GONELLA  
-Registrato alla Corte dei conti, addi' 8 aprile 1960  
-Atti del Governo, registro n. 125, foglio n. 178. - VILLA
+1381.
+
+Decreto del Presidente della Repubblica 10 novembre 1959, col quale, sulla proposta del Ministro per la pubblica istruzione, la Scuola materna sperimentale di Lanciano (Chieti) viene eretta in ente morale e ne viene approvato lo statuto.
+
+Visto, il Guardasigilli: GONELLA
+ Registrato alla Corte dei conti, addi' 8 aprile 1960
+ Atti del Governo, registro n. 125, foglio n. 178. - VILLA

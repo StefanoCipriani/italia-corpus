@@ -1,19 +1,21 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 25 settembre 1960 n. 1438
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 1438
+data: 1960-09-25
+titolo: "Erezione in ente morale della Cassa scolastica della Scuola media statale \"F. Besso\" di Vignale Monferrato."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1960-09-25;1438
+codice_redazionale: 060U1438
+vigente: true
+---
 
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 25 settembre 1960 n. 1438
-=================================================================
-
-Erezione in ente morale della Cassa scolastica della Scuola media statale "F. Besso" di Vignale Monferrato.
------------------------------------------------------------------------------------------------------------
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-1438. Decreto del Presidente della Repubblica 25 settembre 1960, col quale, sulla proposta del Ministro per la pubblica istruzione, la Cassa scolastica della Scuola media statale "F. Besso" di Vignale Monferrato viene eretta in ente morale e ne viene approvato lo statuto.  
-  
-Visto, il Guardasigilli: GONELLA  
-Registrato alla Corte dei conti, addi' 29 novembre 1960  
-Atti del Governo, registro n. 131, foglio n. 119. - VILLA
+1438.
+
+Decreto del Presidente della Repubblica 25 settembre 1960, col quale, sulla proposta del Ministro per la pubblica istruzione, la Cassa scolastica della Scuola media statale "F. Besso" di Vignale Monferrato viene eretta in ente morale e ne viene approvato lo statuto.
+
+Visto, il Guardasigilli: GONELLA
+ Registrato alla Corte dei conti, addi' 29 novembre 1960
+ Atti del Governo, registro n. 131, foglio n. 119. - VILLA

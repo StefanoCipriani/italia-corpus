@@ -1,19 +1,21 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 12 marzo 1963 n. 507
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 507
+data: 1963-03-12
+titolo: "Estinzione dell'Opera pia \"Canavese\", con sede in Pamparato (Cuneo)."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1963-03-12;507
+codice_redazionale: 063U0507
+vigente: true
+---
 
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 12 marzo 1963 n. 507
-============================================================
-
-Estinzione dell'Opera pia "Canavese", con sede in Pamparato (Cuneo).
---------------------------------------------------------------------
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-507. Decreto del Presidente della Repubblica 12 marzo 1963, col quale, sulla proposta del Ministro per l'interno, l'Opera pia "Canavese", con sede in Pamparato (Cuneo), viene dichiarata estinta ed il residuo patrimonio e' devoluto all'Ente comunale assistenza locale.  
-  
-Visto, il Guardasigilli: BOSCO  
-Registrato alla Corte dei conti, addi' 8 aprile 1963  
-Atti del Governo, registro n. 167, foglio n. 91. - VILLA
+507.
+
+Decreto del Presidente della Repubblica 12 marzo 1963, col quale, sulla proposta del Ministro per l'interno, l'Opera pia "Canavese", con sede in Pamparato (Cuneo), viene dichiarata estinta ed il residuo patrimonio e' devoluto all'Ente comunale assistenza locale.
+
+Visto, il Guardasigilli: BOSCO
+ Registrato alla Corte dei conti, addi' 8 aprile 1963
+ Atti del Governo, registro n. 167, foglio n. 91. - VILLA

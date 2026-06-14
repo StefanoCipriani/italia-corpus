@@ -1,19 +1,21 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 08 agosto 1985 n. 818
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 559
+data: 1985-07-16
+titolo: "Autorizzazione alla fondazione \"Pro juventute don Carlo Gnocchi\", in Roma, ad accettare un legato."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1985-07-16;559
+codice_redazionale: 085U0559
+vigente: true
+---
 
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 08 agosto 1985 n. 818
-=============================================================
-
-Autorizzazione alla fondazione "Pro juventute don Carlo Gnocchi", in Roma, ad accettare un legato.
---------------------------------------------------------------------------------------------------
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-818. Decreto del Presidente della Repubblica 8 agosto 1985, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la fondazione "Pro juventute don Carlo Gnocchi", in Roma, viene autorizzata ad accettare il legato, consistente in beni mobili per L. 1.243.000, disposto dalla sig.na Croce Rosa a favore della fondazione "Don Carlo Gnocchi (poliomielitici)", che si identifica con la fondazione "Pro juventute don Carlo Gnocchi", come si evince dal verbale del consiglio di amministrazione della fondazione stessa in data 20 novembre 1981, con testamento olografo 8 febbraio 1975, pubblicato in data 30 aprile 1981, n. 3558 di repertorio e n. 212 di raccolta, a rogito dott. Nicola Maienza, notaio in Milano, registrato a Milano il 5 maggio 1981 al n. 11621.   
-  
-Visto, il Guardasigilli: MARTINAZZOLI   
-Registrato alla Corte dei conti, addi' 30 dicembre 1985   
-Registro n. 11 Presidenza, foglio n. 76
+559.
+
+Decreto del Presidente della Repubblica 16 luglio 1985, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la fondazione "Pro juventute don Carlo Gnocchi", in Roma, viene autorizzata ad accettare il legato, consistente nella somma di L. 2.000.000, disposto dal sig. Gallotti Attilio con testamento olografo 3 aprile 1977, pubblicato a rogito dott. Marco Serpi, notaio in Milano, il 9 febbraio 1978, n. 135245 di repertorio e n. 215113 di raccolta, registrato a Milano il 24 febbraio 1978 al n. 03523-71.
+
+Visto, il Guardasigilli: MARTINAZZOLI
+ Registrato alla Corte dei conti, addi' 11 ottobre 1985
+ Registro n. 9 Presidenza, foglio n. 68

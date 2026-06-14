@@ -1,19 +1,21 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 18 dicembre 1951 n. 1751
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 1751
+data: 1951-12-18
+titolo: "Autorizzazione all'Unione italiana dei ciechi ad acquistare un immobile."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1951-12-18;1751
+codice_redazionale: 051U1751
+vigente: true
+---
 
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 18 dicembre 1951 n. 1751
-================================================================
-
-Autorizzazione all'Unione italiana dei ciechi ad acquistare un immobile.
-------------------------------------------------------------------------
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-1751. Decreto del Presidente della Repubblica 18 dicembre 1951, col quale, sulla proposta del Presidente del Consiglio dei Ministri, l'Unione italiana dei ciechi viene autorizzata ad acquistare l'immobile sito in Roma, al viale Parioli n. 55 piano 2° per il prezzo di L. 8.600.000, da adibire a sede del servizio di assistenza e previdenza per i ciechi.  
-  
-Visto, il Guardasigilli: ZOLI  
-Registrato alla Corte dei conti, addi' 7 febbraio 1952  
-Atti del Governo, registro n. 50, foglio n. 15. - FRASCA
+1751.
+
+Decreto del Presidente della Repubblica 18 dicembre 1951, col quale, sulla proposta del Presidente del Consiglio dei Ministri, l'Unione italiana dei ciechi viene autorizzata ad acquistare l'immobile sito in Roma, al viale Parioli n. 55 piano 2° per il prezzo di L. 8.600.000, da adibire a sede del servizio di assistenza e previdenza per i ciechi.
+
+Visto, il Guardasigilli: ZOLI
+ Registrato alla Corte dei conti, addi' 7 febbraio 1952
+ Atti del Governo, registro n. 50, foglio n. 15. - FRASCA

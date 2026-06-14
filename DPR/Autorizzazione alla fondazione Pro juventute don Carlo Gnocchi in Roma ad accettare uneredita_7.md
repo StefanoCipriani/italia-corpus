@@ -1,19 +1,21 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 24 maggio 1976 n. 519
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 73
+data: 1976-01-30
+titolo: "Autorizzazione alla fondazione \"Pro juventute don Carlo Gnocchi\", in Roma, ad accettare un'eredita'."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1976-01-30;73
+codice_redazionale: 076U0073
+vigente: true
+---
 
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 24 maggio 1976 n. 519
-=============================================================
-
-Autorizzazione alla fondazione "Pro juventute don Carlo Gnocchi", in Roma, ad accettare un'eredita'.
-----------------------------------------------------------------------------------------------------
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-519. Decreto del Presidente della Repubblica 24 maggio 1976, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la fondazione "Pro juventute don Carlo Gnocchi", in Roma, viene autorizzata ad accettare, col beneficio d'inventario, l'eredita' disposta dal sig. Tomaso Pirini con testamento olografo 9 dicembre 1963, pubblicato a rogito dott. Sandro Angelini, notaio in Brescia, in data 30 luglio 1973, n. 20345 di repertorio, n. 2722 di raccolta, e registrato a Brescia il 1 agosto 1973, con il n. 4027-71-m in favore dell'istituto dei mutilati don Gnocchi di Milano, che si identifica con la fondazione "Pro juventute don Carlo Gnocchi", consistente nell'intero asse ereditario (eccezione fatta per il mobilio, biancheria e vestiario) per un valore di L. 19.516.105.  
-  
-Visto, il Guardasigilli: BONIFACIO  
-Registrato alla Corte dei conti, addi' 19 luglio 1976  
-Atti di Governo, registro n. 7, foglio n. 85
+73.
+
+Decreto del Presidente della Repubblica 30 gennaio 1976, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la fondazione "Pro juventute don Carlo Gnocchi", in Roma, viene autorizzata ad accettare, col beneficio d'inventario, l'eredita' disposta dalla signora Valera Maria Pierina in favore dell'Opera mutilatini don Gnocchi, che si identifica con la fondazione "Pro juventute don Carlo Gnocchi" come ha fatto presente la fondazione medesima, con testamento olografo 25 gennaio 1973 pubblicato a rogito dott. Mario Donati, notaio in Clusone (Bergamo), in data 31 luglio 1973, n. 16331 di repertorio, n. 5612 di raccolta, registrato a Clusone il 9 agosto 1973 con il n. 516, vol. 111-I, consistente in un fabbricato sito in Milano, via Chiesa Rossa n. 31, con annessi mq 70 di terreno del valore presunto di lire 5.000.000, censito al mappale n. 903, gg. 13 sub 1/2, di mq A 114.
+
+Visto, il Guardasigilli: BONIFACIO
+ Registrato alla Corte dei conti, addi' 13 marzo 1976
+ Atti di Governo, registro n. 4, foglio n. 12

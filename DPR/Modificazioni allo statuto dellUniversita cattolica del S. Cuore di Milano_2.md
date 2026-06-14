@@ -1,24 +1,24 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 14 ottobre 1968 n. 1563
-
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 14 ottobre 1968 n. 1563
-===============================================================
-
-Modificazioni allo statuto dell'Universita' cattolica del S. Cuore di Milano.
------------------------------------------------------------------------------
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 1563
+data: 1968-10-14
+titolo: "Modificazioni allo statuto dell'Universita' cattolica del S. Cuore di Milano."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1968-10-14;1563
+codice_redazionale: 068U1563
+vigente: true
+---
 
 IL PRESIDENTE DELLA REPUBBLICA
-------------------------------
 
-Veduto lo statuto della libera Universita' cattolica del S. Cuore di Milano, approvato con [regio decreto 20 aprile 1939, n. 1163](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1163) e modificato con [regio decreto 26 ottobre 1940, n. 2030](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-26;2030) e successive modificazioni;
+Veduto lo statuto della libera Universita' cattolica del S. Cuore di Milano, approvato con [regio decreto 20 aprile 1939, n. 1163](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20del%20nuovo%20statuto%20della%20Universita%20cattolica%20del%20Sacro%20Cuore%20di%20Milano.%20039U1163.md) e modificato con [regio decreto 26 ottobre 1940, n. 2030](../Atti%20normativi%20abrogati%20%28in%20originale%29/Modificazioni%20allo%20statuto%20della%20Universita%20cattolica%20del%20%20Sacro%20Cuore%20%20di%20Milano.%20040U2030.md) e successive modificazioni;
 
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20R.%20decreto-legge%2020%20giugno%201935-XIII%20n.%201071%20contenente%20modifiche%20ed%20aggiornamenti%20al%20testo%20unico%20delle%20leggi%20sullistruzione%20superiore.%20036U0073.md);
 
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652) e successive modificazioni;
+Veduto il [regio decreto 30 settembre 1938, n. 1652](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disposizioni%20sullordinamento%20didattico%20universitario.%20038U1652.md) e successive modificazioni;
 
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
+Veduta la [legge 11 aprile 1953, n. 312](../Atti%20normativi%20abrogati%20%28in%20originale%29/Libera%20inclusione%20di%20nuovi%20insegnamenti%20complementari%20negli%20statuti%20delle%20Universita%20e%20degli%20Istituti%20distruzione%20superiore.md);
 
 Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;
 
@@ -26,119 +26,24 @@ Riconosciuta la particolare necessita' di approvare la nuove modifiche proposte;
 
 Sentito il parere del Consiglio superiore della pubblica istruzione;
 
-Sulla
------
+Sulla proposta del Ministro per la pubblica istruzione, di concerto con il Ministro per il tesoro; Decreta:
 
-proposta del Ministro per la pubblica istruzione, di concerto con il Ministro per il tesoro; Decreta:
+## Art. 1.
 
-Art. 1
-------
+E' istituita, in seno all'Universita' cattolica del S. Cuore di Milano, la facolta' di scienze matematiche, fisiche e naturali, con sede in Brescia.
 
-  
-E' istituita, in seno all'Universita' cattolica del S. Cuore di Milano, la facolta' di scienze matematiche, fisiche e naturali, con sede in Brescia.  
+## Art. 2.
 
-Art. 2
-------
+Lo statuto dell'universita' predetta, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come dal testo annesso al presente decreto, vistato dal Ministro per la pubblica istruzione.
 
-  
-Lo statuto dell'universita' predetta, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come dal testo annesso al presente decreto, vistato dal Ministro per la pubblica istruzione.  
+## Art. 3.
 
-Art. 3
-------
-
-  
-Le attribuzioni che le vigenti disposizioni di legge e di regolamento demandano al consiglio di facolta' sono esercitate da un apposito comitato composto da tre professori di ruolo e fuori ruolo nominati dal rettore della predetta universita', sentito il consiglio di amministrazione della stessa Universita' cattolica del S. Cuore di Milano.  
-I professori di ruolo che, in base alle vigenti disposizioni verranno a far parte della predetta facolta', saranno aggregati al comitato anzidetto. Tale comitato cessera' dalle sue funzioni allorche' alla facolta' stessa risulteranno assegnati tre professori di ruolo.  
-In ogni caso detto comitato non potra' rimanere in carica oltre un triennio e, qualora allo scadere del triennio medesimo non risultino assegnati alla facolta' tre professori di ruolo, il rettore dell'Universita' cattolica provvedera' alla nomina di un nuovo comitato con le stesse modalita' indicate nel primo comma del presente articolo.  
-  
+Le attribuzioni che le vigenti disposizioni di legge e di regolamento demandano al consiglio di facolta' sono esercitate da un apposito comitato composto da tre professori di ruolo e fuori ruolo nominati dal rettore della predetta universita', sentito il consiglio di amministrazione della stessa Universita' cattolica del S. Cuore di Milano.
+ I professori di ruolo che, in base alle vigenti disposizioni verranno a far parte della predetta facolta', saranno aggregati al comitato anzidetto. Tale comitato cessera' dalle sue funzioni allorche' alla facolta' stessa risulteranno assegnati tre professori di ruolo.
+ In ogni caso detto comitato non potra' rimanere in carica oltre un triennio e, qualora allo scadere del triennio medesimo non risultino assegnati alla facolta' tre professori di ruolo, il rettore dell'Universita' cattolica provvedera' alla nomina di un nuovo comitato con le stesse modalita' indicate nel primo comma del presente articolo.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 14 ottobre 1968
+Dato a Roma, addi' 14 ottobre 1968
 
-SARAGAT SCAGLIA - COLOMBO
-
-Visto, il Guardasigilli: GAVA
-
-Registrato alla Corte dei conti, addi' 7 giugno 1969
-
-Atti del Governo, registro n. 227, foglio n. 27. - GRECO
-
-Allegato
-
-Testo delle modifiche allo statuto della libera Universita' cattolica del S. Cuore di Milano, relative alla istituzione della facolta' di scienze matematiche, fisiche e naturali.   
-  
-Art. 2. - E' modificato nel senso che all'elenco delle facolta' che costituiscono l'Universita' cattolica e' aggiunta la seguente:   
-"Facolta' di scienze matematiche, fisiche e naturali".   
-Art. 5. - E' modificato nel senso che viene aggiunto il seguente ultimo comma:   
-"Nella facolta' di scienze matematiche, fisiche e naturali: la laurea in matematica (indirizzo didattico); il biennio propedeutico di ingegneria.   
-Dopo l'art. 22, e con il conseguente spostamento della successiva numerazione e' inserito il seguente titolo IX con gli articoli 23 e 24 relativi al corso di laurea in matematica ed al biennio propedeutico di ingegneria.   
-  
-TITOLO IX   
-Facolta' di scienze matematiche, fisiche e naturali   
-  
-1) Laurea in matematica (indirizzo didattico).   
-Art. 23. - Titolo di ammissione al corso di laurea in matematica e' il diploma di maturita' classica o scientifica. Possono inoltre essere ammessi i diplomati degli istituiti tecnici industriali, agrari, nautici e per geometri ai sensi delle vigenti disposizioni di legge.   
-Gli insegnamenti del corso di laurea in matematica (indirizzo didattico) sono i seguenti:   
-Insegnamenti fondamentali:   
-1° Biennio:   
-Analisi matematica I   
-Geometria I   
-Algebra   
-Fisica generale I   
-Analisi matematica II   
-Geometria II   
-Fisica generale II   
-Meccanica razionale   
-2° Biennio:   
-Istituzioni di analisi superiore   
-Istituzioni di geometria superiore   
-Matematiche elementari da un punto di vista superiore   
-Matematiche complementari   
-Istituzioni di fisica matematica   
-Insegnamenti complementari:   
-Chimica con esercitazioni di laboratorio (per fisici)   
-Elaboratori elettronici   
-Fisica superiore   
-Istituzioni di fisica teorica   
-Logica matematica   
-Matematica finanziaria attuariale   
-Pedagogia delle scienze matematiche fisiche e naturali   
-Statistica matematica   
-Storia della matematica   
-Struttura della materia   
-2) Biennio propedeutico di ingegneria.   
-Art. 24. - Titolo di ammissione al corso di laurea in ingegneria e' il diploma di maturita' classica o scientifica. Possono inoltre essere ammessi i diplomati degli istituti tecnici industriali, nautici e per geometri, ai sensi delle vigenti disposizioni di legge.   
-Gli insegnamenti del biennio propedeutico di ingegneria sono i seguenti:   
-Insegnamenti fondamentali:   
-Analisi matematica I   
-Geometria I   
-Fisica I   
-Chimica   
-Disegno   
-Analisi matematica II   
-Geometria II   
-Meccanica razionale   
-Fisica II.   
-Il titolo I della parte V e' mutato come segue:   
-  
-Disposizioni comuni alle otto facolta'   
-  
-Nel titolo II - Disposizioni particolari per le varie facolta' - dopo l'art. 81 e con il conseguente spostamento della numerazione degli articoli successivi, e' inserito il seguente nuovo articolo.   
-Art. 82. - Per la laurea in matematica, ogni insegnamento comporta un esame. In particolare gli esami di analisi matematica I; geometria I, fisica generale I sono distinti da quelli di analisi matematica II, geometria II, fisica generale II. Potranno essere iscritti al secondo anno soltanto quegli studenti che abbiano superato almeno due degli esami di analisi matematica I, geometria I, Algebra.   
-I corsi e gli esami di analisi matematica I, geometria I e fisica generale I, sono rispettivamente propedeutici a quelli di analisi matematica II, geometrica II e fisica generale II.   
-Gli esami di analisi matematica I, geometria I, algebra, analisi matematica II, geometria II, meccanica razionale sono propedeutici agli esami del terzo anno.   
-Gli esami del primo biennio e del terzo anno sono propedeutici agli esami del quarto anno.   
-Nel secondo biennio lo studente deve scegliere due insegnamenti fra i complementari del proprio corso di laurea. Uno degli insegnamenti complementari dovra' essere ad indirizzo fisico.   
-Per essere ammesso all'esame di laurea lo studente dovra' aver superato tutti gli esami richiesti.   
-Ogni corso del primo biennio comporta un corso di esercitazioni che ne e' parte integrante.   
-La facolta' potra', qualora lo ritenga opportuno, stabilire un corso di esercitazioni per certi insegnamenti del terzo e quarto anno.   
-L'esame di laurea deve comprendere una esercitazione scritta e la discussione orale di due tesine.   
-Superato l'esame di laurea lo studente consegue il titolo di dottore in matematica.   
-La tabella n. 1 (art. 24) concernente i posti di ruolo dei professori e' modificata nel senso che viene fissato in cinque il numero dei posti di ruolo per la facolta' di scienze matematiche, fisiche e naturali.   
-  
-Visto, d'ordine del Presidente della Repubblica   
-  
-Il Ministro per la pubblica istruzione   
-SCAGLIA   
+SARAGAT SCAGLIA - COLOMBO Visto, il Guardasigilli: GAVA Registrato alla Corte dei conti, addi' 7 giugno 1969 Atti del Governo, registro n. 227, foglio n. 27. - GRECO

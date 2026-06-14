@@ -1,26 +1,25 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 05 giugno 1998 n. 177
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 91
+data: 1998-04-09
+titolo: "Esercizio temporaneo di funzioni del Presidente della Repubblica da parte del Presidente del Senato."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1998-04-09;91
+codice_redazionale: 098G0153
+vigente: true
+---
 
+IL PRESIDENTE DELLA REPUBBLICA
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 05 giugno 1998 n. 177
-=============================================================
+Visto l'[articolo 86, primo comma, della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_86-com1);
 
-Esercizio temporaneo di funzioni del Presidente della Repubblica da parte del Presidente del Senato.
-----------------------------------------------------------------------------------------------------
+Considerata la durata e la distanza dal territorio nazionale della missione ufficiale che il Presidente della Repubblica intraprendera' all'estero a decorrere dal 12 aprile 1998; Decreta:
 
-Entrata in vigore del decreto: 21-6-1998
+## Art. 1.
 
-Art. 1
-------
+Le funzioni del Presidente della Repubblica, non inerenti allo svolgimento della missione all'estero, sono esercitate, ai sensi dell'[articolo 86, primo comma, della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_86-com1), dal Presidente del Senato a decorrere dal 12 aprile 1998 e fino al rientro del Capo dello Stato nel territorio nazionale.
 
- Le funzioni del Presidente della Repubblica, non inerenti allo svolgimento della missione all'estero, sono esercitate, ai sensi dell'[articolo 86, primo comma, della Costituzione](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27~art86-com1), dal Presidente del Senato a decorrere dal 7 giugno 1998 e fino al rientro del Capo dello Stato nel territorio nazionale.  
+Il presente decreto, munito del sigillo dello Stato, sara' inserito nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di ossevarlo e di farlo osservare.
 
-Il presente decreto, munito del sigillo dello Stato, sara' inserito nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Roma, addi' 9 aprile 1998
 
-### Dato a Roma, addi' 5 giugno 1998
-
-SCALFARO
-
-Prodi, Presidente del Consiglio dei Ministri
-
-Visto, il Guardasigilli: Flick
+SCALFARO Prodi, Presidente del Consiglio dei Ministri Visto, il Guardasigilli: Flick

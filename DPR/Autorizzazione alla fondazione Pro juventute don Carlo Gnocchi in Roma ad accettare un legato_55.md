@@ -1,23 +1,22 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 26 febbraio 1982 n. 151
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 219
+data: 1982-02-08
+titolo: "Autorizzazione alla fondazione \"Pro juventute don Carlo Gnocchi\", in Roma, ad accettare un legato."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1982-02-08;219
+codice_redazionale: 082U0219
+vigente: true
+---
 
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 26 febbraio 1982 n. 151
-===============================================================
-
-Autorizzazione alla fondazione "Pro juventute don Carlo Gnocchi", in Roma, ad accettare un legato.
---------------------------------------------------------------------------------------------------
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-151. Decreto del Presidente della Repubblica 26 febbraio 1982, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la fondazione "Pro juventute don Carlo Gnocchi", in Roma, viene autorizzata ad accettare il legato disposto, a favore dei mutilatini di don Gnocchi, dalla sig.na Morandi Amalia con testamento olografo 10 luglio 1968, pubblicato a rogito dott. Elso Bucchini, notaio in Magenta (Milano) il 15 marzo 1979, n. 64249 di repertorio e n. 3921 di raccolta, registrato a Magenta il 26 marzo 1979 al n. 519, consistente:
+219.
 
-a) nella nuda proprieta' di un immobile sito in Magenta, via 4 Giugno n. 36, distinto nel nuovo catasto edilizio urbano alla partita 653, foglio 5, mappale 649 sub 1 ÷ 15, valore attribuito con perizia di parte L. 35.000.000;
+Decreto del Presidente della Repubblica 8 febbraio 1982, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la fondazione "Pro juventute don Carlo Gnocchi", in Roma, viene autorizzata ad accettare il legato di L. 5.000.000 disposto dalla sig.ra Quarti Amelia ved. Sfondrini con testamento pubblico 20 novembre 1975 a rogito dott. Albertario Francesco, notaio in Casorate Primo (Pavia), pubblicato in data 20 febbraio 1976, n. 12779/5485 di repertorio, a rogito dello stesso notaio, registrato a Pavia in data 9 marzo 1976 al n. 485. 
 
-b) appezzamento di terreno sito nel comune di Magenta, distinto nel nuovo catasto terreni alla partita 5089, foglio 21, mappale 25, valore attribuito con perizia di parte L. 15.000.000, quota 3/4 L. 11.250.000, totale L. 46.250.000, valori elevati dall'ufficio tecnico erariale di Milano come segue: punto a) L. 109.000.000, punto b), intero L. 136.000.000, quota 3/4 L. 102.000.000, totale L. 211.000.000.  
-  
-Visto, il Guardasigilli: DARIDA  
-Registrato alla Corte dei conti, addi' 31 marzo 1982  
-Registro n. 3 Presidenza, foglio n. 113
+ 
+Visto, il Guardasigilli: DARIDA 
+ Registrato alla Corte dei conti, addi' 23 aprile 1982 
+ Registro n. 9 Presidenza, foglio n. 323

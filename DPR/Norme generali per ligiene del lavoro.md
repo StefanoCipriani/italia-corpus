@@ -1,335 +1,339 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 19 marzo 1956 n. 303
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 303
+data: 1956-03-19
+titolo: "Norme generali per l'igiene del lavoro."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1956-03-19;303
+codice_redazionale: 056U0303
+vigente: true
+---
 
+## DISPOSIZIONI GENERALI  CAPO I CAMPO DI APPLICAZIONE
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 19 marzo 1956 n. 303
-============================================================
+TITOLO I
 
-Norme generali per l'igiene del lavoro.
----------------------------------------
+### Art. 1.
 
-CAPO I TITOLO I DISPOSIZIONI GENERALI CAPO I CAMPO DI APPLICAZIONE
-------------------------------------------------------------------
+((ARTICOLO ABROGATO DAL D.LGS. 9 APRILE 2008, N. 81))
 
-### Art. 1
+### Art. 2.
 
-((ARTICOLO ABROGATO DAL [D.LGS. 9 APRILE 2008, N. 81](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-04-09;81)))
+((ARTICOLO ABROGATO DAL D.LGS. 9 APRILE 2008, N. 81))
 
-### Art. 2
+### Art. 3.
 
-((ARTICOLO ABROGATO DAL [D.LGS. 9 APRILE 2008, N. 81](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-04-09;81)))
+((ARTICOLO ABROGATO DAL D.LGS. 9 APRILE 2008, N. 81))
 
-### Art. 3
+## OBBLIGHI DEI DATORI DI LAVORO, DEI DIRIGENTI, DEI PREPOSTI E DEI LAVORATORI
 
-((ARTICOLO ABROGATO DAL [D.LGS. 9 APRILE 2008, N. 81](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-04-09;81)))
+CAPO II
 
-CAPO II CAPO II OBBLIGHI DEI DATORI DI LAVORO, DEI DIRIGENTI, DEI PREPOSTI E DEI LAVORATORI
--------------------------------------------------------------------------------------------
+### Art. 4.
 
-### Art. 4
+((ARTICOLO ABROGATO DAL D.LGS. 9 APRILE 2008, N. 81))
 
-((ARTICOLO ABROGATO DAL [D.LGS. 9 APRILE 2008, N. 81](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-04-09;81)))
+### Art. 5.
 
-### Art. 5
+((ARTICOLO ABROGATO DAL D.LGS. 9 APRILE 2008, N. 81))
 
-((ARTICOLO ABROGATO DAL [D.LGS. 9 APRILE 2008, N. 81](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-04-09;81)))
+## ((DISPOSlZIONI PARTICOLARI))  CAPO I AMBIENTI DI LAVORO
 
-CAPO III TITOLO II ((DISPOSlZIONI PARTICOLARI)) CAPO I AMBIENTI DI LAVORO
--------------------------------------------------------------------------
+TITOLO II
 
-### Art. 6
+### Art. 6.
 
-((ARTICOLO ABROGATO DAL [D.LGS. 9 APRILE 2008, N. 81](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-04-09;81)))
+((ARTICOLO ABROGATO DAL D.LGS. 9 APRILE 2008, N. 81))
 
-### Art. 7
+### Art. 7.
 
-((ARTICOLO ABROGATO DAL [D.LGS. 9 APRILE 2008, N. 81](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-04-09;81)))
+((ARTICOLO ABROGATO DAL D.LGS. 9 APRILE 2008, N. 81))
 
-### Art. 8
+### Art. 8.
 
-((ARTICOLO ABROGATO DAL [D.LGS. 9 APRILE 2008, N. 81](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-04-09;81)))
+((ARTICOLO ABROGATO DAL D.LGS. 9 APRILE 2008, N. 81))
 
-### Art. 9
+### Art. 9.
 
-((ARTICOLO ABROGATO DAL [D.LGS. 9 APRILE 2008, N. 81](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-04-09;81)))
+((ARTICOLO ABROGATO DAL D.LGS. 9 APRILE 2008, N. 81))
 
-### Art. 10
+### Art. 10.
 
-((ARTICOLO ABROGATO DAL [D.LGS. 9 APRILE 2008, N. 81](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-04-09;81)))
+((ARTICOLO ABROGATO DAL D.LGS. 9 APRILE 2008, N. 81))
 
-### Art. 11
+### Art. 11.
 
-((ARTICOLO ABROGATO DAL [D.LGS. 9 APRILE 2008, N. 81](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-04-09;81)))
+((ARTICOLO ABROGATO DAL D.LGS. 9 APRILE 2008, N. 81))
 
-### Art. 12
+### Art. 12.
 
-((ARTICOLO ABROGATO DAL [D.LGS. 9 APRILE 2008, N. 81](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-04-09;81)))
+((ARTICOLO ABROGATO DAL D.LGS. 9 APRILE 2008, N. 81))
 
-### Art. 13
+### Art. 13.
 
-((ARTICOLO ABROGATO DAL [D.LGS. 9 APRILE 2008, N. 81](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-04-09;81)))
+((ARTICOLO ABROGATO DAL D.LGS. 9 APRILE 2008, N. 81))
 
-### Art. 14
+### Art. 14.
 
-((ARTICOLO ABROGATO DAL [D.LGS. 9 APRILE 2008, N. 81](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-04-09;81)))
+((ARTICOLO ABROGATO DAL D.LGS. 9 APRILE 2008, N. 81))
 
-### Art. 15
+### Art. 15.
 
-((ARTICOLO ABROGATO DAL [D.LGS. 9 APRILE 2008, N. 81](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-04-09;81)))
+((ARTICOLO ABROGATO DAL D.LGS. 9 APRILE 2008, N. 81))
 
-### Art. 16
+### Art. 16.
 
-((ARTICOLO ABROGATO DAL [D.LGS. 9 APRILE 2008, N. 81](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-04-09;81)))
+((ARTICOLO ABROGATO DAL D.LGS. 9 APRILE 2008, N. 81))
 
-### Art. 17
+### Art. 17.
 
-((ARTICOLO ABROGATO DAL [D.LGS. 9 APRILE 2008, N. 81](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-04-09;81)))
+((ARTICOLO ABROGATO DAL D.LGS. 9 APRILE 2008, N. 81))
 
-CAPO IV CAPO II DIFESA DAGLI AGENTI NOCIVI
-------------------------------------------
+## DIFESA DAGLI AGENTI NOCIVI
 
-### Art. 18
+CAPO II
 
-((ARTICOLO ABROGATO DAL [D.LGS. 9 APRILE 2008, N. 81](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-04-09;81)))
+### Art. 18.
 
-### Art. 19
+((ARTICOLO ABROGATO DAL D.LGS. 9 APRILE 2008, N. 81))
 
-((ARTICOLO ABROGATO DAL [D.LGS. 9 APRILE 2008, N. 81](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-04-09;81)))
+### Art. 19.
 
-### Art. 20
+((ARTICOLO ABROGATO DAL D.LGS. 9 APRILE 2008, N. 81))
 
-((ARTICOLO ABROGATO DAL [D.LGS. 9 APRILE 2008, N. 81](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-04-09;81)))
+### Art. 20.
 
-### Art. 21
+((ARTICOLO ABROGATO DAL D.LGS. 9 APRILE 2008, N. 81))
 
-((ARTICOLO ABROGATO DAL [D.LGS. 9 APRILE 2008, N. 81](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-04-09;81)))
+### Art. 21.
 
-### Art. 22
+((ARTICOLO ABROGATO DAL D.LGS. 9 APRILE 2008, N. 81))
 
-((ARTICOLO ABROGATO DAL [D.LGS. 9 APRILE 2008, N. 81](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-04-09;81)))
+### Art. 22.
 
-### Art. 23
+((ARTICOLO ABROGATO DAL D.LGS. 9 APRILE 2008, N. 81))
 
-((ARTICOLO ABROGATO DAL [D.LGS. 9 APRILE 2008, N. 81](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-04-09;81)))
+### Art. 23.
 
-### Art. 24
+((ARTICOLO ABROGATO DAL D.LGS. 9 APRILE 2008, N. 81))
 
-((IL [D.LGS. 9 APRILE 2008, N. 81](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-04-09;81) HA CONFERMATO L'ABROGAZIONE DEL PRESENTE ARTICOLO))  
+### Art. 24.
 
-### Art. 25
+((IL [D.LGS. 9 APRILE 2008, N. 81](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-04-09;81) HA CONFERMATO L'ABROGAZIONE DEL PRESENTE ARTICOLO))
 
-((ARTICOLO ABROGATO DAL [D.LGS. 9 APRILE 2008, N. 81](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-04-09;81)))
+### Art. 25.
 
-### Art. 26
+((ARTICOLO ABROGATO DAL D.LGS. 9 APRILE 2008, N. 81))
 
-((ARTICOLO ABROGATO DAL [D.LGS. 9 APRILE 2008, N. 81](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-04-09;81)))
+### Art. 26.
 
-CAPO V CAPO III SERVIZI SANITARI
---------------------------------
+((ARTICOLO ABROGATO DAL D.LGS. 9 APRILE 2008, N. 81))
 
-### Art. 27
+## SERVIZI SANITARI
 
-((ARTICOLO ABROGATO DAL [D.LGS. 9 APRILE 2008, N. 81](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-04-09;81)))
+CAPO III
 
-### Art. 28
+### Art. 27.
 
-((ARTICOLO ABROGATO DAL [D.LGS. 9 APRILE 2008, N. 81](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-04-09;81)))
+((ARTICOLO ABROGATO DAL D.LGS. 9 APRILE 2008, N. 81))
 
-### Art. 29
+### Art. 28.
 
-((ARTICOLO ABROGATO DAL [D.LGS. 9 APRILE 2008, N. 81](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-04-09;81)))
+((ARTICOLO ABROGATO DAL D.LGS. 9 APRILE 2008, N. 81))
 
-### Art. 30
+### Art. 29.
 
-((ARTICOLO ABROGATO DAL [D.LGS. 9 APRILE 2008, N. 81](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-04-09;81)))
+((ARTICOLO ABROGATO DAL D.LGS. 9 APRILE 2008, N. 81))
 
-### Art. 31
+### Art. 30.
 
-((ARTICOLO ABROGATO DAL [D.LGS. 9 APRILE 2008, N. 81](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-04-09;81)))
+((ARTICOLO ABROGATO DAL D.LGS. 9 APRILE 2008, N. 81))
 
-### Art. 32
+### Art. 31.
 
-((ARTICOLO ABROGATO DAL [D.LGS. 9 APRILE 2008, N. 81](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-04-09;81)))
+((ARTICOLO ABROGATO DAL D.LGS. 9 APRILE 2008, N. 81))
 
-### Art. 33
+### Art. 32.
 
-((ARTICOLO ABROGATO DAL [D.LGS. 9 APRILE 2008, N. 81](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-04-09;81)))
+((ARTICOLO ABROGATO DAL D.LGS. 9 APRILE 2008, N. 81))
 
-### Art. 34
+### Art. 33.
 
-((ARTICOLO ABROGATO DAL [D.LGS. 9 APRILE 2008, N. 81](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-04-09;81)))
+((ARTICOLO ABROGATO DAL D.LGS. 9 APRILE 2008, N. 81))
 
-### Art. 35
+### Art. 34.
 
-((ARTICOLO ABROGATO DAL [D.LGS. 9 APRILE 2008, N. 81](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-04-09;81)))
+((ARTICOLO ABROGATO DAL D.LGS. 9 APRILE 2008, N. 81))
 
-CAPO VI CAPO IV SERVIZI IGIENICO-ASSISTENZIALI
-----------------------------------------------
+### Art. 35.
 
-### Art. 36
+((ARTICOLO ABROGATO DAL D.LGS. 9 APRILE 2008, N. 81))
 
-((ARTICOLO ABROGATO DAL [D.LGS. 9 APRILE 2008, N. 81](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-04-09;81)))
+## SERVIZI IGIENICO-ASSISTENZIALI
 
-### Art. 37
+CAPO IV
 
-((ARTICOLO ABROGATO DAL [D.LGS. 9 APRILE 2008, N. 81](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-04-09;81)))
+### Art. 36.
 
-### Art. 38
+((ARTICOLO ABROGATO DAL D.LGS. 9 APRILE 2008, N. 81))
 
-((IL [D.LGS. 9 APRILE 2008, N. 81](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-04-09;81) HA CONFERMATO L'ABROGAZIONE DEL PRESENTE ARTICOLO))  
+### Art. 37.
 
-### Art. 39
+((ARTICOLO ABROGATO DAL D.LGS. 9 APRILE 2008, N. 81))
 
-((ARTICOLO ABROGATO DAL [D.LGS. 9 APRILE 2008, N. 81](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-04-09;81)))
+### Art. 38.
 
-### Art. 40
+((IL [D.LGS. 9 APRILE 2008, N. 81](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-04-09;81) HA CONFERMATO L'ABROGAZIONE DEL PRESENTE ARTICOLO))
 
-((ARTICOLO ABROGATO DAL [D.LGS. 9 APRILE 2008, N. 81](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-04-09;81)))
+### Art. 39.
 
-### Art. 41
+((ARTICOLO ABROGATO DAL D.LGS. 9 APRILE 2008, N. 81))
 
-((ARTICOLO ABROGATO DAL [D.LGS. 9 APRILE 2008, N. 81](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-04-09;81)))
+### Art. 40.
 
-### Art. 42
+((ARTICOLO ABROGATO DAL D.LGS. 9 APRILE 2008, N. 81))
 
-((ARTICOLO ABROGATO DAL [D.LGS. 9 APRILE 2008, N. 81](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-04-09;81)))
+### Art. 41.
 
-### Art. 43
+((ARTICOLO ABROGATO DAL D.LGS. 9 APRILE 2008, N. 81))
 
-((ARTICOLO ABROGATO DAL [D.LGS. 9 APRILE 2008, N. 81](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-04-09;81)))
+### Art. 42.
 
-### Art. 44
+((ARTICOLO ABROGATO DAL D.LGS. 9 APRILE 2008, N. 81))
 
-((ARTICOLO ABROGATO DAL [D.LGS. 9 APRILE 2008, N. 81](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-04-09;81)))
+### Art. 43.
 
-### Art. 45
+((ARTICOLO ABROGATO DAL D.LGS. 9 APRILE 2008, N. 81))
 
-((ARTICOLO ABROGATO DAL [D.LGS. 9 APRILE 2008, N. 81](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-04-09;81)))
+### Art. 44.
 
-### Art. 46
+((ARTICOLO ABROGATO DAL D.LGS. 9 APRILE 2008, N. 81))
 
-((ARTICOLO ABROGATO DAL [D.LGS. 9 APRILE 2008, N. 81](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-04-09;81)))
+### Art. 45.
 
-### Art. 47
+((ARTICOLO ABROGATO DAL D.LGS. 9 APRILE 2008, N. 81))
 
-((ARTICOLO ABROGATO DAL [D.LGS. 9 APRILE 2008, N. 81](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-04-09;81)))
+### Art. 46.
 
-CAPO VII CAPO V NUOVI IMPIANTI
-------------------------------
+((ARTICOLO ABROGATO DAL D.LGS. 9 APRILE 2008, N. 81))
 
-### Art. 48
+### Art. 47.
 
-((ARTICOLO ABROGATO DAL [D.LGS. 9 APRILE 2008, N. 81](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-04-09;81)))
+((ARTICOLO ABROGATO DAL D.LGS. 9 APRILE 2008, N. 81))
 
-CAPO VIII TITOLO III DISPOSIZIONI RELATIVE ALLE AZIENDE AGRICOLE CAPO UNICO
----------------------------------------------------------------------------
+## NUOVI IMPIANTI
 
-### Art. 49
+CAPO V
 
-((ARTICOLO ABROGATO DAL [D.LGS. 9 APRILE 2008, N. 81](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-04-09;81)))
+### Art. 48.
 
-### Art. 50
+((ARTICOLO ABROGATO DAL D.LGS. 9 APRILE 2008, N. 81))
 
-((ARTICOLO ABROGATO DAL [D.LGS. 9 APRILE 2008, N. 81](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-04-09;81)))
+## DISPOSIZIONI RELATIVE ALLE AZIENDE AGRICOLE  CAPO UNICO
 
-### Art. 51
+TITOLO III
 
-((ARTICOLO ABROGATO DAL [D.LGS. 9 APRILE 2008, N. 81](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-04-09;81)))
+### Art. 49.
 
-### Art. 52
+((ARTICOLO ABROGATO DAL D.LGS. 9 APRILE 2008, N. 81))
 
-((ARTICOLO ABROGATO DAL [D.LGS. 9 APRILE 2008, N. 81](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-04-09;81)))
+### Art. 50.
 
-### Art. 53
+((ARTICOLO ABROGATO DAL D.LGS. 9 APRILE 2008, N. 81))
 
-((ARTICOLO ABROGATO DAL [D.LGS. 9 APRILE 2008, N. 81](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-04-09;81)))
+### Art. 51.
 
-### Art. 54
+((ARTICOLO ABROGATO DAL D.LGS. 9 APRILE 2008, N. 81))
 
-((ARTICOLO ABROGATO DAL [D.LGS. 9 APRILE 2008, N. 81](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-04-09;81)))
+### Art. 52.
 
-### Art. 55
+((ARTICOLO ABROGATO DAL D.LGS. 9 APRILE 2008, N. 81))
 
-((ARTICOLO ABROGATO DAL [D.LGS. 9 APRILE 2008, N. 81](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-04-09;81)))
+### Art. 53.
 
-### Art. 56
+((ARTICOLO ABROGATO DAL D.LGS. 9 APRILE 2008, N. 81))
 
-((ARTICOLO ABROGATO DAL [D.LGS. 9 APRILE 2008, N. 81](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-04-09;81)))
+### Art. 54.
 
-### Art. 57
+((ARTICOLO ABROGATO DAL D.LGS. 9 APRILE 2008, N. 81))
 
-((ARTICOLO ABROGATO DAL [D.LGS. 9 APRILE 2008, N. 81](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-04-09;81)))
+### Art. 55.
 
-CAPO IX TITOLO IV NORME PENALI CAPO UNICO
------------------------------------------
+((ARTICOLO ABROGATO DAL D.LGS. 9 APRILE 2008, N. 81))
 
-### Art. 58
+### Art. 56.
 
-((ARTICOLO ABROGATO DAL [D.LGS. 9 APRILE 2008, N. 81](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-04-09;81)))
+((ARTICOLO ABROGATO DAL D.LGS. 9 APRILE 2008, N. 81))
 
-### Art. 59
+### Art. 57.
 
-((ARTICOLO ABROGATO DAL [D.LGS. 9 APRILE 2008, N. 81](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-04-09;81)))
+((ARTICOLO ABROGATO DAL D.LGS. 9 APRILE 2008, N. 81))
 
-### Art. 60
+## NORME PENALI  CAPO UNICO
 
-((ARTICOLO ABROGATO DAL [D.LGS. 9 APRILE 2008, N. 81](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-04-09;81)))
+TITOLO IV
 
-CAPO X TITOLO V DISPOSIZIONI TRANSITORIE E FINALI CAPO I DEROGHE
-----------------------------------------------------------------
+### Art. 58.
 
-### Art. 61
+((ARTICOLO ABROGATO DAL D.LGS. 9 APRILE 2008, N. 81))
 
-((ARTICOLO ABROGATO DAL [D.LGS. 9 APRILE 2008, N. 81](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-04-09;81)))
+### Art. 59.
 
-### Art. 62
+((ARTICOLO ABROGATO DAL D.LGS. 9 APRILE 2008, N. 81))
 
-((ARTICOLO ABROGATO DAL [D.LGS. 9 APRILE 2008, N. 81](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-04-09;81)))
+### Art. 60.
 
-CAPO XI CAPO II APPLICAZIONE DELLE NORME
-----------------------------------------
+((ARTICOLO ABROGATO DAL D.LGS. 9 APRILE 2008, N. 81))
 
-### Art. 63
+## DISPOSIZIONI TRANSITORIE E FINALI  CAPO I DEROGHE
 
-((ARTICOLO ABROGATO DAL [D.LGS. 9 APRILE 2008, N. 81](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-04-09;81)))
+TITOLO V
 
-### Art. 64
+### Art. 61.
 
-Ispezioni
+((ARTICOLO ABROGATO DAL D.LGS. 9 APRILE 2008, N. 81))
 
-  
-Gli ispettori del lavoro hanno facolta' di visitare, in qualsiasi momento ed in ogni parte, i luoghi di lavoro e le relative dipendenze, di sottoporre a visita medica il personale occupato, di prelevare campioni di materiali o prodotti ritenuti nocivi, e altresi' di chiedere al datore di lavoro, ai dirigenti, ai preposti ed ai lavoratori le informazioni che ritengano necessarie per l'adempimento del loro compito, in esse comprese quelle sui processi di lavorazione.  
-Gli ispettori del lavoro hanno facolta' di prendere visione, presso gli ospedali, ed eventualmente di chiedere copia, della documentazione clinica dei lavoratori ricoverati per malattie dovute a cause lavorative o presunte tali.  
-Gli ispettori del lavoro devono mantenere il segreto sopra i processi di lavorazione e sulle notizie e documenti dei quali vengono a conoscenza per ragioni di ufficio.  
+### Art. 62.
 
-### Art. 65
+((ARTICOLO ABROGATO DAL D.LGS. 9 APRILE 2008, N. 81))
 
-((ARTICOLO ABROGATO DAL [D.LGS. 9 APRILE 2008, N. 81](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-04-09;81)))
+## APPLICAZIONE DELLE NORME
 
-### Art. 66
+CAPO II
 
-((ARTICOLO ABROGATO DAL [D.LGS. 9 APRILE 2008, N. 81](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-04-09;81)))
+### Art. 63.
 
-### Art. 67
+((ARTICOLO ABROGATO DAL D.LGS. 9 APRILE 2008, N. 81))
 
-((ARTICOLO ABROGATO DAL [D.LGS. 9 APRILE 2008, N. 81](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-04-09;81)))
+### Art. 64. — Ispezioni
 
-### Art. 68
+Gli ispettori del lavoro hanno facolta' di visitare, in qualsiasi momento ed in ogni parte, i luoghi di lavoro e le relative dipendenze, di sottoporre a visita medica il personale occupato, di prelevare campioni di materiali o prodotti ritenuti nocivi, e altresi' di chiedere al datore di lavoro, ai dirigenti, ai preposti ed ai lavoratori le informazioni che ritengano necessarie per l'adempimento del loro compito, in esse comprese quelle sui processi di lavorazione.
+ Gli ispettori del lavoro hanno facolta' di prendere visione, presso gli ospedali, ed eventualmente di chiedere copia, della documentazione clinica dei lavoratori ricoverati per malattie dovute a cause lavorative o presunte tali.
+ Gli ispettori del lavoro devono mantenere il segreto sopra i processi di lavorazione e sulle notizie e documenti dei quali vengono a conoscenza per ragioni di ufficio.
 
-((ARTICOLO ABROGATO DAL [D.LGS. 9 APRILE 2008, N. 81](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-04-09;81)))
+### Art. 65.
 
-CAPO XII CAPO III DISPOSIZIONI FINALI
--------------------------------------
+((ARTICOLO ABROGATO DAL D.LGS. 9 APRILE 2008, N. 81))
 
-### Art. 69
+### Art. 66.
 
-((ARTICOLO ABROGATO DAL [D.LGS. 9 APRILE 2008, N. 81](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-04-09;81)))
+((ARTICOLO ABROGATO DAL D.LGS. 9 APRILE 2008, N. 81))
 
-### Art. 70
+### Art. 67.
 
-((ARTICOLO ABROGATO DAL [D.LGS. 9 APRILE 2008, N. 81](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-04-09;81)))
+((ARTICOLO ABROGATO DAL D.LGS. 9 APRILE 2008, N. 81))
 
-Tabella
+### Art. 68.
 
- Allegato   
+((ARTICOLO ABROGATO DAL D.LGS. 9 APRILE 2008, N. 81))
 
-((ALLEGATO ABROGATO DAL [D.LGS. 9 APRILE 2008, N. 81](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-04-09;81)))
+## DISPOSIZIONI FINALI
+
+CAPO III
+
+### Art. 69.
+
+((ARTICOLO ABROGATO DAL D.LGS. 9 APRILE 2008, N. 81))
+
+### Art. 70.
+
+((ARTICOLO ABROGATO DAL D.LGS. 9 APRILE 2008, N. 81))

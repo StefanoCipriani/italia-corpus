@@ -1,18 +1,18 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 14 febbraio 1974 n. 102
-
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 14 febbraio 1974 n. 102
-===============================================================
-
-Istituzione del posto di procuratore aggiunto nell'organico della procura della Repubblica di Venezia e aumento di una unita' delle piante organiche dei sostituti procuratori presso le procure della Repubblica di Pistoia e Rovigo.
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 102
+data: 1974-02-14
+titolo: "Istituzione del posto di procuratore aggiunto nell'organico della procura della Repubblica di Venezia e aumento di una unita' delle piante organiche dei sostituti procuratori presso le procure della Repubblica di Pistoia e Rovigo."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1974-02-14;102
+codice_redazionale: 074U0102
+vigente: true
+---
 
 IL PRESIDENTE DELLA REPUBBLICA
-------------------------------
 
-Vista la tabella C, allegata al [decreto del Presidente della Repubblica 31 dicembre 1966, n. 1185](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1966-12-31;1185), e successive variazioni, relativa alle piante organiche dei magistrati giudicanti e del pubblico ministero addetti ai tribunali;
+Vista la tabella C, allegata al [decreto del Presidente della Repubblica 31 dicembre 1966, n. 1185](Piante%20organiche%20dei%20magistrati%20addetti%20alle%20Corti%20di%20appello%20alle%20Procure%20generali%20presso%20le%20Corti%20di%20appello%20ai%20Tribunali%20alle%20Procure%20della%20Repubblica%20presso%20i%20Tribunali%20e%20alle%20Preture.md), e successive variazioni, relativa alle piante organiche dei magistrati giudicanti e del pubblico ministero addetti ai tribunali;
 
-Vista la tabella A, allegata alla [legge 22 dicembre 1973, n. 884](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1973-12-22;884), relativa ai tribunali ai quali sono addetti magistrati di Corte di cassazione in funzioni di presidente, procuratore della Repubblica e consigliere istruttore e magistrati di corte di appello in funzioni di procuratori aggiunti della Repubblica e di consiglieri istruttori aggiunti;
+Vista la tabella A, allegata alla [legge 22 dicembre 1973, n. 884](../Atti%20normativi%20abrogati%20%28in%20originale%29/Modificazioni%20alle%20norme%20sulla%20dirigenza%20degli%20uffici%20di%20istruzione%20presso%20i%20tribunali%20di%20Bari%20Bologna%20Catania%20Firenze%20Genova%20Milano%20Napoli%20Palermo%20Roma%20Torino%20Trieste%20e%20Venezia.md), relativa ai tribunali ai quali sono addetti magistrati di Corte di cassazione in funzioni di presidente, procuratore della Repubblica e consigliere istruttore e magistrati di corte di appello in funzioni di procuratori aggiunti della Repubblica e di consiglieri istruttori aggiunti;
 
 Ritenuta la necessita' di istituire nell'organico della procura della Repubblica presso il tribunale di Venezia il posto di procuratore aggiunto, previa soppressione di un posto di giudice nell'organico del tribunale di Bassano del Grappa;
 
@@ -22,57 +22,20 @@ Sentito il Consiglio superiore della magistratura ed in conformita' dei pareri e
 
 Ritenuto che, relativamente al parere espresso nella seduta del 3 maggio 1973, concernente la procura della Repubblica di Pistoia, a seguito di una piu' adeguata valutazione delle esigenze e tenuto conto degli indici di lavoro, appare opportuno ridurre di una unita' l'organico dei giudici del tribunale di Tortona e non quello di un ufficio del distretto della corte di appello di Firenze, come proposto dallo stesso Consiglio superiore;
 
-Visto l'art. 1, ultimo comma, della [legge 4 gennaio 1963, n. 1](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1963-01-04;1);
+Visto l'art. 1, ultimo comma, della [legge 4 gennaio 1963, n. 1](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1963-01-04;1);
 
-Sulla
------
+Sulla proposta del Ministro Segretario di Stato per la grazia e giustizia ed in parziale difformita' del parere espresso dal Consiglio superiore della magistratura; Decreta:
 
-proposta del Ministro Segretario di Stato per la grazia e giustizia ed in parziale difformita' del parere espresso dal Consiglio superiore della magistratura; Decreta:
+## Art. 1.
 
-Art. 1
-------
+La tabella A allegata alla [legge 22 dicembre 1973, n. 884](../Atti%20normativi%20abrogati%20%28in%20originale%29/Modificazioni%20alle%20norme%20sulla%20dirigenza%20degli%20uffici%20di%20istruzione%20presso%20i%20tribunali%20di%20Bari%20Bologna%20Catania%20Firenze%20Genova%20Milano%20Napoli%20Palermo%20Roma%20Torino%20Trieste%20e%20Venezia.md), e' modificata, per la parte relativa alla procura della Repubblica di Venezia come dalla tabella A annessa al presente decreto, vistata dal Ministro proponente.
 
-  
-La tabella A allegata alla [legge 22 dicembre 1973, n. 884](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1973-12-22;884), e' modificata, per la parte relativa alla procura della Repubblica di Venezia come dalla tabella A annessa al presente decreto, vistata dal Ministro proponente.  
+## Art. 2.
 
-Art. 2
-------
-
-  
-La tabella C allegata al [decreto del Presidente della Repubblica 31 dicembre 1966, n. 1185](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1966-12-31;1185), e successive variazioni, e' modificata, per la parte relativa agli uffici cui si riferisce come dalla tabella B annessa al presente decreto, vistata dal Ministro proponente.  
-  
+La tabella C allegata al [decreto del Presidente della Repubblica 31 dicembre 1966, n. 1185](Piante%20organiche%20dei%20magistrati%20addetti%20alle%20Corti%20di%20appello%20alle%20Procure%20generali%20presso%20le%20Corti%20di%20appello%20ai%20Tribunali%20alle%20Procure%20della%20Repubblica%20presso%20i%20Tribunali%20e%20alle%20Preture.md), e successive variazioni, e' modificata, per la parte relativa agli uffici cui si riferisce come dalla tabella B annessa al presente decreto, vistata dal Ministro proponente.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 14 febbraio 1974
+Dato a Roma, addi' 14 febbraio 1974
 
-LEONE ZAGARI
-
-Visto, il Guardasigilli: ZAGARI
-
-Registrato alla Corte dei conti, addi' 16 aprile 1974
-
-Atti di Governo, registro n. 2, foglio n. 87. - SCIARRETTA
-
-tabelle
-
- TABELLA A   
-  
-  
-TRIBUNALI AI QUALI SONO ADDETTI MAGISTRATI DI CORTE DI CASSAZIONE IN FUNZIONI DI PRESIDENTE, PROCURATORE DELLA REPUBBLICA E CONSIGLIERE ISTRUTTORE E MAGISTRATI DI CORTE DI APPELLO IN FUNZIONI DI PROCURATORI AGGIUNTI DELLA REPUBBLICA E DI CONSIGLIERI ISTRUTTORI AGGIUNTI.   
-  
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=074U010200100010110001&dgu=1974-04-19&art.dataPubblicazioneGazzetta=1974-04-19&art.codiceRedazionale=074U0102)
-  
-  
-  
-  
-  
-TABELLA B   
-  
-MAGISTRATI GIUDICANTI E DEL PUBBLICO MINISTERO ADDETTO AI TRIBUNALI   
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=074U010200100010110002&dgu=1974-04-19&art.dataPubblicazioneGazzetta=1974-04-19&art.codiceRedazionale=074U0102)
-  
+LEONE ZAGARI Visto, il Guardasigilli: ZAGARI Registrato alla Corte dei conti, addi' 16 aprile 1974 Atti di Governo, registro n. 2, foglio n. 87. - SCIARRETTA

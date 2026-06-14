@@ -1,19 +1,21 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 05 giugno 1961 n. 841
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 841
+data: 1961-06-05
+titolo: "Erezione in ente morale della Cassa scolastica della Scuola media statale \"G. Gabrieli\", di Calimera (Lecce)."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1961-06-05;841
+codice_redazionale: 061U0841
+vigente: true
+---
 
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 05 giugno 1961 n. 841
-=============================================================
-
-Erezione in ente morale della Cassa scolastica della Scuola media statale "G. Gabrieli", di Calimera (Lecce).
--------------------------------------------------------------------------------------------------------------
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-841. Decreto del Presidente della Repubblica 5 giugno 1961, col quale, sulla proposta del Ministro per la pubblica istruzione, la Cassa scolastica della Scuola media statale "G. Gabrieli", di Calimera (Lecce), viene eretta in ente morale e ne viene approvato lo statuto.  
-  
-Visto, il Guardasigilli: GONELLA  
-Registrato alla Corte dei conti, addi' 11 agosto 1961  
-Atti del Governo, registro n. 138, foglio n. 96. - DI PRETORO
+841.
+
+Decreto del Presidente della Repubblica 5 giugno 1961, col quale, sulla proposta del Ministro per la pubblica istruzione, la Cassa scolastica della Scuola media statale "G. Gabrieli", di Calimera (Lecce), viene eretta in ente morale e ne viene approvato lo statuto.
+
+Visto, il Guardasigilli: GONELLA
+ Registrato alla Corte dei conti, addi' 11 agosto 1961
+ Atti del Governo, registro n. 138, foglio n. 96. - DI PRETORO

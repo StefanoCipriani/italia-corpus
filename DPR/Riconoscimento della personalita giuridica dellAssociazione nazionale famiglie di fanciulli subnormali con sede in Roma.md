@@ -1,19 +1,21 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 18 dicembre 1964 n. 1542
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 1542
+data: 1964-12-18
+titolo: "Riconoscimento della personalita' giuridica dell'Associazione nazionale famiglie di fanciulli subnormali, con sede in Roma."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1964-12-18;1542
+codice_redazionale: 064U1542
+vigente: true
+---
 
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 18 dicembre 1964 n. 1542
-================================================================
-
-Riconoscimento della personalita' giuridica dell'Associazione nazionale famiglie di fanciulli subnormali, con sede in Roma.
----------------------------------------------------------------------------------------------------------------------------
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-1542. Decreto del Presidente della Repubblica 18 dicembre 1964, col quale, sulla proposta del Ministro per la sanita', viene riconosciuta la personalita' giuridica dell'Associazione nazionale famiglie di fanciulli subnormali, con sede in Roma, e ne viene approvato lo statuto.  
-  
-Visto, il Guardasigilli: REALE  
-Registrato alla Corte dei conti, addi' 22 gennaio 1965  
-Atti del Governo, registro n. 190, foglio n. 50. - VILLA
+1542.
+
+Decreto del Presidente della Repubblica 18 dicembre 1964, col quale, sulla proposta del Ministro per la sanita', viene riconosciuta la personalita' giuridica dell'Associazione nazionale famiglie di fanciulli subnormali, con sede in Roma, e ne viene approvato lo statuto.
+
+Visto, il Guardasigilli: REALE
+ Registrato alla Corte dei conti, addi' 22 gennaio 1965
+ Atti del Governo, registro n. 190, foglio n. 50. - VILLA

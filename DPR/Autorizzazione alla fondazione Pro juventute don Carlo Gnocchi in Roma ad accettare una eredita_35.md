@@ -1,19 +1,21 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 16 luglio 1985 n. 571
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 201
+data: 1985-03-18
+titolo: "Autorizzazione alla fondazione \"Pro juventute don Carlo Gnocchi\", in Roma, ad accettare una eredita'."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1985-03-18;201
+codice_redazionale: 085U0201
+vigente: true
+---
 
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 16 luglio 1985 n. 571
-=============================================================
-
-Autorizzazione alla fondazione "Pro juventute don Carlo Gnocchi", in Roma, ad accettare una eredita'.
------------------------------------------------------------------------------------------------------
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-571. Decreto del Presidente della Repubblica 16 luglio 1985, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la fondazione "Pro juventute don Carlo Gnocchi", in Roma, viene autorizzata ad accettare, col beneficio d'inventario, l'eredita', consistente in beni immobili e mobili dell'importo, dedotte le passivita', di L. 345.151.416, disposta dalla sig.ra Varrone Cornelia ved. Tomatis a favore dell'istituto mutilatini poliomielitici, viale Settimio Severo n. 65, Torino, che si identifica con la fondazione "Pro juventute don Carlo Gnocchi", come si evince dal verbale 20 novembre 1981 del consiglio di amministrazione della fondazione stessa, con testamento pubblico a rogito dott. Pierangelo Martucci, notaio in Torino, in data 27 luglio 1981 e dallo stesso pubblicato in data 30 settembre 1981, col n. 582/191 di repertorio, registrato a Torino il 2 ottobre 1981 al n. 0654.  
-  
-Visto, il Guardasigilli: MARTINAZZOLI  
-Registrato alla Corte dei conti, addi' 11 ottobre 1985  
-Registro n. 9 Presidenza, foglio n. 76
+201.
+
+Decreto del Presidente della Repubblica 18 marzo 1985, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la fondazione "Pro juventute don Carlo Gnocchi", in Roma, viene autorizzata ad accettare, col beneficio d'inventario, l'eredita', consistente in un appartamento sito in Milano, viale Lombardia n. 30, distinto nel nuovo catasto edilizio urbano alla partita 108292, foglio 274, particella 282, sub 3, valutato con perizia giurata L. 33.000.000 elevato dall'ufficio tecnico erariale di Milano a L. 51.000.000, disposta dalla sig.ra Russo Maria con testamento olografo 3 aprile 1979, pubblicato in data 13 giugno 1979, n. 30511/5756 di repertorio, a rogito dott. Ermanno Casero, notaio in Milano, registrato a Milano in data 28 giugno 1979 al n. 18245.
+
+Visto, il Guardasigilli: MARTINAZZOLI
+ Registrato alla Corte dei conti, addi' 14 maggio 1985
+ Registro n. 4 Presidenza, foglio n. 289

@@ -1,41 +1,28 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 27 gennaio 1973 n. 172
-
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 27 gennaio 1973 n. 172
-==============================================================
-
-Istituzione di un'ambasciata presso la Repubblica democratica tedesca.
-----------------------------------------------------------------------
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 172
+data: 1973-01-27
+titolo: "Istituzione di un'ambasciata presso la Repubblica democratica tedesca."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1973-01-27;172
+codice_redazionale: 073U0172
+vigente: true
+---
 
 IL PRESIDENTE DELLA REPUBBLICA
-------------------------------
 
-Visto il [decreto del Presidente della Repubblica 5 gennaio 1967, n. 18](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1967-01-05;18), sull'ordinamento dell'Amministrazione degli affari esteri;
+Visto il [decreto del Presidente della Repubblica 5 gennaio 1967, n. 18](Ordinamento%20dellAmministrazione%20degli%20affari%20esteri.md), sull'ordinamento dell'Amministrazione degli affari esteri;
 
 Sentito il Consiglio dei Ministri;
 
-Sulla
------
+Sulla proposta del Ministro per gli affari esteri, di concerto con il Ministro per il tesoro; Decreta:
 
-proposta del Ministro per gli affari esteri, di concerto con il Ministro per il tesoro; Decreta:
+## Articolo unico
 
-Articolo unico
---------------
-
-  
-E' istituita una ambasciata presso la Repubblica democratica tedesca.  
-Il presente decreto ha effetto a decorrere dal 1 febbraio 1973.  
-  
+E' istituita una ambasciata presso la Repubblica democratica tedesca.
+ Il presente decreto ha effetto a decorrere dal 1 febbraio 1973.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 27 gennaio 1973
+Dato a Roma, addi' 27 gennaio 1973
 
-LEONE ANDREOTTI - MEDICI - MALAGODI
-
-Visto, il Guardasigilli: GONELLA
-
-Registrato alla Corte dei conti, addi' 4 maggio 1973
-
-Atti di Governo, registro n. 258, foglio n. 7. - CARUSO
+LEONE ANDREOTTI - MEDICI - MALAGODI Visto, il Guardasigilli: GONELLA Registrato alla Corte dei conti, addi' 4 maggio 1973 Atti di Governo, registro n. 258, foglio n. 7. - CARUSO

@@ -1,19 +1,21 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 gennaio 1980 n. 137
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 137
+data: 1980-01-31
+titolo: "Riconoscimento, agli effetti civili, della unione delle parrocchie di S. Francesco d'Assisi e di S. Antonio, in Vito d'Asio."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1980-01-31;137
+codice_redazionale: 080U0137
+vigente: true
+---
 
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 gennaio 1980 n. 137
-==============================================================
-
-Riconoscimento, agli effetti civili, della unione delle parrocchie di S. Francesco d'Assisi e di S. Antonio, in Vito d'Asio.
-----------------------------------------------------------------------------------------------------------------------------
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-137. Decreto del Presidente della Repubblica 31 gennaio 1980, col quale, sulla proposta del Ministro dell'interno viene riconosciuto, agli effetti civili, il decreto dell'ordinario diocesano di Concordia-Pordenone 3 agosto 1978, relativo all'unione perpetua aeque principaliter delle parrocchie di S. Francesco d'Assisi, in frazione San Francesco del comune di Vito d'Asio (Pordenone), e di S. Antonio, in frazione Pielungo dello stesso comune.  
-  
-Visto, il Guardasigilli: MORLINO  
-Registrato alla Corte dei conti, addi' 10 aprile 1980  
-Registro n. 6 Interno, foglio n. 400
+137.
+
+Decreto del Presidente della Repubblica 31 gennaio 1980, col quale, sulla proposta del Ministro dell'interno viene riconosciuto, agli effetti civili, il decreto dell'ordinario diocesano di Concordia-Pordenone 3 agosto 1978, relativo all'unione perpetua aeque principaliter delle parrocchie di S. Francesco d'Assisi, in frazione San Francesco del comune di Vito d'Asio (Pordenone), e di S. Antonio, in frazione Pielungo dello stesso comune.
+
+Visto, il Guardasigilli: MORLINO
+ Registrato alla Corte dei conti, addi' 10 aprile 1980
+ Registro n. 6 Interno, foglio n. 400

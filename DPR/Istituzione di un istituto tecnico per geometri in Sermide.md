@@ -1,19 +1,21 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 20 agosto 1980 n. 1177
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 1177
+data: 1980-08-20
+titolo: "Istituzione di un istituto tecnico per geometri in Sermide."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1980-08-20;1177
+codice_redazionale: 080U1177
+vigente: true
+---
 
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 20 agosto 1980 n. 1177
-==============================================================
-
-Istituzione di un istituto tecnico per geometri in Sermide.
------------------------------------------------------------
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-1177. Decreto del Presidente della Repubblica 20 agosto 1980, col quale, sulla proposta del Ministro della pubblica istruzione, di concerto con i Ministri dell'interno e del tesoro, viene istituito in Sermide (Mantova), a decorrere dall'inizio dell'anno scolastico 1980-81, un istituto tecnico per geometri e ne viene approvata la tabella organica.  
-  
-Visto, il Guardasigilli: DARIDA  
-Registrato alla Corte dei conti, addi' 30 luglio 1981  
-Registro n. 73 Istruzione, foglio n. 279
+1177.
+
+Decreto del Presidente della Repubblica 20 agosto 1980, col quale, sulla proposta del Ministro della pubblica istruzione, di concerto con i Ministri dell'interno e del tesoro, viene istituito in Sermide (Mantova), a decorrere dall'inizio dell'anno scolastico 1980-81, un istituto tecnico per geometri e ne viene approvata la tabella organica.
+
+Visto, il Guardasigilli: DARIDA
+ Registrato alla Corte dei conti, addi' 30 luglio 1981
+ Registro n. 73 Istruzione, foglio n. 279

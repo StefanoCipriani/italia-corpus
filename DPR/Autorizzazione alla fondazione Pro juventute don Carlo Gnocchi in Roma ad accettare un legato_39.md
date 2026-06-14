@@ -1,19 +1,21 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 15 settembre 1980 n. 772
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 728
+data: 1980-09-05
+titolo: "Autorizzazione alla fondazione \"Pro juventute don Carlo Gnocchi\", in Roma, ad accettare un legato."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1980-09-05;728
+codice_redazionale: 080U0728
+vigente: true
+---
 
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 15 settembre 1980 n. 772
-================================================================
-
-Autorizzazione alla fondazione "Pro juventute don Carlo Gnocchi", in Roma, ad accettare un legato.
---------------------------------------------------------------------------------------------------
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-772. Decreto del Presidente della Repubblica 15 settembre 1980, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la fondazione "Pro juventute don Carlo Gnocchi", in Roma, viene autorizzata ad accettare il legato, consistente nella somma di L. 10.000.000, disposto dalla sig.ra Ida Benetti con testamento olografo 8 gennaio 1969, pubblicato in data 30 dicembre 1975, n. 46652 di repertorio e n. 13274 di raccolta, a rogito dott. Giovanni Carraro, notaio in Schio (Vicenza), registrato a Schio in data 14 gennaio 1976, n. 84, vol. 210/1°.  
-  
-Visto, il Guardasigilli: MORLINO  
-Registrato alla Corte dei conti, addi' 12 novembre 1980  
-Registro n. 8 Presidenza, foglio n. 340
+728.
+
+Decreto del Presidente della Repubblica 5 settembre 1980, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la fondazione "Pro juventute don Carlo Gnocchi", in Roma, viene autorizzata ad accettare il legato, consistente in un appartamento con cantina sito in Milano, via Vittadini n. 25, censito al nuovo catasto edilizio urbano alla partita 33026, foglio 527, mappale 82 sub 2, del valore attribuito di L. 20.500.000 e in beni mobili del valore attribuito di L. 972.500, disposto dalla sig.na Giovanna Morandi con testamento olografo 27 novembre 1969, pubblicato il 5 gennaio 1978, n. 46546 di repertorio e n. 13700 progr., a rogito dott. Enrico Masini, notaio in Milano, registrato a Milano il 13 gennaio 1978, n. 780, serie N.
+
+Visto, il Guardasigilli: MORLINO
+ Registrato alla Corte dei conti, addi' 27 ottobre 1980
+ Registro n. 8 Presidenza, foglio n. 202

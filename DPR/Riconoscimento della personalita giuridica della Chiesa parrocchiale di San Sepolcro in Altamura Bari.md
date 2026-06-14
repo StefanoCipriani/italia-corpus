@@ -1,19 +1,21 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 01 aprile 1965 n. 472
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 472
+data: 1965-04-01
+titolo: "Riconoscimento della personalita' giuridica della Chiesa parrocchiale di San Sepolcro, in Altamura (Bari)."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1965-04-01;472
+codice_redazionale: 065U0472
+vigente: true
+---
 
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 01 aprile 1965 n. 472
-=============================================================
-
-Riconoscimento della personalita' giuridica della Chiesa parrocchiale di San Sepolcro, in Altamura (Bari).
-----------------------------------------------------------------------------------------------------------
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-472. Decreto del Presidente della Repubblica 1 aprile 1965, col quale, sulla proposta del Ministro per l'interno, viene riconosciuta la personalita' giuridica della Chiesa parrocchiale di San Sepolcro, in Altamura (Bari).  
-  
-Visto, il Guardasigilli: REALE  
-Registrato alla Corte dei conti, addi' 15 maggio 1965  
-Atti del Governo, registro n. 193, foglio n. 83. - VILLA
+472.
+
+Decreto del Presidente della Repubblica 1 aprile 1965, col quale, sulla proposta del Ministro per l'interno, viene riconosciuta la personalita' giuridica della Chiesa parrocchiale di San Sepolcro, in Altamura (Bari).
+
+Visto, il Guardasigilli: REALE
+ Registrato alla Corte dei conti, addi' 15 maggio 1965
+ Atti del Governo, registro n. 193, foglio n. 83. - VILLA

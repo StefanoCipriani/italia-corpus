@@ -1,19 +1,21 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 14 gennaio 1959 n. 87
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 87
+data: 1959-01-14
+titolo: "Fusione dell'Opera Pia della Misericordia e dell'Istituto dei fanciulli ricoverati di San Domenico, ambedue con sede in Crema, in un unico ente denominato \"Opera Pia della Misericordia\"."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1959-01-14;87
+codice_redazionale: 059U0087
+vigente: true
+---
 
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 14 gennaio 1959 n. 87
-=============================================================
-
-Fusione dell'Opera Pia della Misericordia e dell'Istituto dei fanciulli ricoverati di San Domenico, ambedue con sede in Crema, in un unico ente denominato "Opera Pia della Misericordia".
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-87. Decreto del Presidente della Repubblica 14 gennaio 1959, col quale, sulla proposta del Ministro per l'interno, l'Opera Pia della Misericordia, e l'Istituto dei fanciulli ricoverati di San Domenico, ambedue con sede in Crema, vengono fusi in un unico ente denominato "Opera Pia della Misericordia", con sede in Crema, e ne viene approvato lo statuto organico.  
-  
-Visto, il Guardasigilli: GONELLA  
-Registrato alla Corte dei conti, addi' 14 marzo 1959  
-Atti del Governo, registro n. 117, foglio n. 14. - VILLA
+87.
+
+Decreto del Presidente della Repubblica 14 gennaio 1959, col quale, sulla proposta del Ministro per l'interno, l'Opera Pia della Misericordia, e l'Istituto dei fanciulli ricoverati di San Domenico, ambedue con sede in Crema, vengono fusi in un unico ente denominato "Opera Pia della Misericordia", con sede in Crema, e ne viene approvato lo statuto organico.
+
+Visto, il Guardasigilli: GONELLA
+ Registrato alla Corte dei conti, addi' 14 marzo 1959
+ Atti del Governo, registro n. 117, foglio n. 14. - VILLA

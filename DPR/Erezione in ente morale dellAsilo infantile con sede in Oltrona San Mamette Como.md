@@ -1,19 +1,21 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 11 febbraio 1952 n. 1980
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 1980
+data: 1952-02-11
+titolo: "Erezione in ente morale dell'Asilo infantile con sede in Oltrona San Mamette (Como)."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1952-02-11;1980
+codice_redazionale: 052U1980
+vigente: true
+---
 
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 11 febbraio 1952 n. 1980
-================================================================
-
-Erezione in ente morale dell'Asilo infantile con sede in Oltrona San Mamette (Como).
-------------------------------------------------------------------------------------
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-1980. Decreto del Presidente della Repubblica 11 febbraio 1952, col quale, sulla proposta del Ministro per l'interno, l'Asilo infantile con sede in Oltrona San Mamette (Como), viene eretto in ente morale e ne viene approvato il relativo statuto organico.  
-  
-Visto, il Guardasigilli: ZOLI  
-Registrato alla Corte dei conti, addi' 4 dicembre 1952  
-Atti del Governo, registro n. 62, foglio n. 32. - PALLA
+1980.
+
+Decreto del Presidente della Repubblica 11 febbraio 1952, col quale, sulla proposta del Ministro per l'interno, l'Asilo infantile con sede in Oltrona San Mamette (Como), viene eretto in ente morale e ne viene approvato il relativo statuto organico.
+
+Visto, il Guardasigilli: ZOLI
+ Registrato alla Corte dei conti, addi' 4 dicembre 1952
+ Atti del Governo, registro n. 62, foglio n. 32. - PALLA

@@ -1,19 +1,21 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 15 ottobre 1973 n. 888
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 888
+data: 1973-10-15
+titolo: "Approvazione del nuovo statuto dell'associazione provinciale allevatori di Foggia, con sede in Foggia."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1973-10-15;888
+codice_redazionale: 073U0888
+vigente: true
+---
 
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 15 ottobre 1973 n. 888
-==============================================================
-
-Approvazione del nuovo statuto dell'associazione provinciale allevatori di Foggia, con sede in Foggia.
-------------------------------------------------------------------------------------------------------
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-888. Decreto del Presidente della Repubblica 15 ottobre 1973, col quale, sulla proposta del Ministro per l'agricoltura e le foreste, viene approvato il nuovo statuto dell'associazione provinciale allevatori di Foggia, con sede in Foggia.  
-  
-Visto, il Guardasigilli: ZAGARI  
-Registrato alla Corte dei conti, addi' 27 dicembre 1973  
-Atti di Governo, registro n. 263, foglio n. 39. - CARUSO
+888.
+
+Decreto del Presidente della Repubblica 15 ottobre 1973, col quale, sulla proposta del Ministro per l'agricoltura e le foreste, viene approvato il nuovo statuto dell'associazione provinciale allevatori di Foggia, con sede in Foggia.
+
+Visto, il Guardasigilli: ZAGARI
+ Registrato alla Corte dei conti, addi' 27 dicembre 1973
+ Atti di Governo, registro n. 263, foglio n. 39. - CARUSO

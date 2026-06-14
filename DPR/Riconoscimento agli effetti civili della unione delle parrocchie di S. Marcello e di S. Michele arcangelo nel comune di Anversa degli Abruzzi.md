@@ -1,20 +1,22 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 01 agosto 1972 n. 577
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 577
+data: 1972-08-01
+titolo: "Riconoscimento, agli effetti civili, della unione delle parrocchie di S. Marcello e di S. Michele arcangelo, nel comune di Anversa degli Abruzzi."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1972-08-01;577
+codice_redazionale: 072U0577
+vigente: true
+---
 
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 01 agosto 1972 n. 577
-=============================================================
-
-Riconoscimento, agli effetti civili, della unione delle parrocchie di S. Marcello e di S. Michele arcangelo, nel comune di Anversa degli Abruzzi.
--------------------------------------------------------------------------------------------------------------------------------------------------
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-577. Decreto del Presidente della Repubblica 1 agosto 1972, col quale, sulla proposta del Ministro per l'interno, viene riconosciuto, agli effetti civili, il decreto dell'ordinario diocesano di Valva e Sulmona in data 1 novembre 1971, relativo alla unione temporanea "aeque principalis" delle parrocchie di S.  
-Marcello, in Anversa degli Abruzzi (L'Aquila), e di S. Michele arcangelo, in frazione Castrovalva dello stesso comune.   
-  
-Visto, il Guardasigilli: GONELLA   
-Registrato alla Corte dei conti, addi' 5 ottobre 1972   
-Atti del Governo, registro n. 251, foglio n. 69. - CARUSO
+577.
+
+Decreto del Presidente della Repubblica 1 agosto 1972, col quale, sulla proposta del Ministro per l'interno, viene riconosciuto, agli effetti civili, il decreto dell'ordinario diocesano di Valva e Sulmona in data 1 novembre 1971, relativo alla unione temporanea "aeque principalis" delle parrocchie di S.
+ Marcello, in Anversa degli Abruzzi (L'Aquila), e di S. Michele arcangelo, in frazione Castrovalva dello stesso comune. 
+ 
+Visto, il Guardasigilli: GONELLA 
+ Registrato alla Corte dei conti, addi' 5 ottobre 1972 
+ Atti del Governo, registro n. 251, foglio n. 69. - CARUSO

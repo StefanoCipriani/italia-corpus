@@ -1,19 +1,26 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 17 aprile 1985 n. 345
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 1007
+data: 1984-10-22
+titolo: "Autorizzazione alla fondazione \"Pro juventute don Carlo Gnocchi\", in Roma, ad accettare un legato."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1984-10-22;1007
+codice_redazionale: 084U1007
+vigente: true
+---
 
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 17 aprile 1985 n. 345
-=============================================================
-
-Autorizzazione alla fondazione "Pro juventute don Carlo Gnocchi", in Roma, ad accettare un legato.
---------------------------------------------------------------------------------------------------
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-345. Decreto del Presidente della Repubblica 17 aprile 1985, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la fondazione "Pro juventute don Carlo Gnocchi", in Roma, viene autorizzata ad accettare il legato, consistente nella quota di 1/3 di beni mobili del valore complessivo di L. 8.809.740: quota di 1/3 = L. 2.936.580, disposto dalla sig.ra Bissacco Emilia ved. Maso a favore dei "Mutilatini di don Gnocchi", che si identificano con la fondazione "Pro juventute don Carlo Gnocchi", come si evince dal verbale del consiglio di amministrazione della fondazione in data 16 ottobre 1984, con testamento pubblico 24 febbraio 1981 redatto a rogito dott. Luigi Tassitani, notaio in Castelfranco Veneto e dallo stesso pubblicato il 3 marzo 1983 con il n. 36383 di repertorio e n. 2698 di raccolta, registrato a Castelfranco Veneto in data 10 marzo 1983 al n. 271.  
-  
-Visto, il Guardasigilli: MARTINAZZOLI  
-Registrato alla Corte dei conti, addi' 4 luglio 1985  
-Registro n. 7 Presidenza, foglio n. 98
+1007.
+
+Decreto del Presidente della Repubblica 22 ottobre 1984, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la 
+ fondazione "Pro juventute don Carlo Gnocchi", in Roma, viene 
+ autorizzata ad accettare il legato, consistente nella somma di L.  35.000.000 con possibilita' di aumentare o diminuire tale importo  in funzione del successivo realizzo delle attivita' da parte degli  esecutori testamentari, disposto dalla sig.ra Gentili Andreina ved. 
+ Pagnani, con testamento olografo 1 aprile 1981 pubblicato in data 3 
+ dicembre 1981, n. 12044/2772 di repertorio, a rogito dott. Giuseppe 
+ Ottolenghi, notaio in Roma, registrato a Roma in data 21 dicembre  1981, al numero 48308/I.A. 
+ 
+Visto, il Guardasigilli: MARTINAZZOLI 
+ Registrato alla Corte dei conti, addi' 25 gennaio 1985 
+ Registro n. 1 Presidenza, foglio n. 180

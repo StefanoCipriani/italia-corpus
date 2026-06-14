@@ -1,19 +1,21 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 08 marzo 1971 n. 183
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 183
+data: 1971-03-08
+titolo: "Riconoscimento della personalita' giuridica della fondazione di religione \"Fraternita' magistrale\", in Pescara."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1971-03-08;183
+codice_redazionale: 071U0183
+vigente: true
+---
 
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 08 marzo 1971 n. 183
-============================================================
-
-Riconoscimento della personalita' giuridica della fondazione di religione "Fraternita' magistrale", in Pescara.
----------------------------------------------------------------------------------------------------------------
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-183. Decreto del Presidente della Repubblica 8 marzo 1971, col quale, sulla proposta del Ministro per l'interno, viene riconosciuta la personalita' giuridica ed approvato lo statuto della fondazione di religione "Fraternita' magistrale", in Pescara.  
-  
-Visto, il Guardasigilli: COLOMBO  
-Registrato alla Corte dei conti, addi' 21 aprile 1971  
-Atti del Governo, registro n. 241, foglio n. 152. - VALENTINI
+183.
+
+Decreto del Presidente della Repubblica 8 marzo 1971, col quale, sulla proposta del Ministro per l'interno, viene riconosciuta la personalita' giuridica ed approvato lo statuto della fondazione di religione "Fraternita' magistrale", in Pescara.
+
+Visto, il Guardasigilli: COLOMBO
+ Registrato alla Corte dei conti, addi' 21 aprile 1971
+ Atti del Governo, registro n. 241, foglio n. 152. - VALENTINI

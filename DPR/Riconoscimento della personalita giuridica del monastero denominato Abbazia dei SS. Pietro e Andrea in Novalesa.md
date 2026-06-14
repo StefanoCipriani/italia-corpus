@@ -1,20 +1,22 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 29 febbraio 1980 n. 189
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 189
+data: 1980-02-29
+titolo: "Riconoscimento della personalita' giuridica del monastero denominato \"Abbazia dei SS. Pietro e Andrea\", in Novalesa."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1980-02-29;189
+codice_redazionale: 080U0189
+vigente: true
+---
 
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 29 febbraio 1980 n. 189
-===============================================================
-
-Riconoscimento della personalita' giuridica del monastero denominato "Abbazia dei SS. Pietro e Andrea", in Novalesa.
---------------------------------------------------------------------------------------------------------------------
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-189. Decreto del Presidente della Repubblica 29 febbraio 1980, col quale, sulla proposta del Ministro dell'interno, viene riconosciuta la personalita' giuridica del monastero denominato "Abbazia dei SS.  
-Pietro e Andrea", in Novalesa (Torino).  
-  
-Visto, il Guardasigilli: MORLINO  
-Registrato alla Corte dei conti, addi' 13 maggio 1980  
-Registro n. 8 Interno, foglio n. 295
+189.
+
+Decreto del Presidente della Repubblica 29 febbraio 1980, col quale, sulla proposta del Ministro dell'interno, viene riconosciuta la personalita' giuridica del monastero denominato "Abbazia dei SS.
+ Pietro e Andrea", in Novalesa (Torino).
+
+Visto, il Guardasigilli: MORLINO
+ Registrato alla Corte dei conti, addi' 13 maggio 1980
+ Registro n. 8 Interno, foglio n. 295

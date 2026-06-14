@@ -1,19 +1,21 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 09 ottobre 1981 n. 722
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 547
+data: 1981-07-29
+titolo: "Autorizzazione alla fondazione \"Pro juventute don Carlo Gnocchi\", in Roma, ad accettare un legato."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1981-07-29;547
+codice_redazionale: 081U0547
+vigente: true
+---
 
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 09 ottobre 1981 n. 722
-==============================================================
-
-Autorizzazione alla fondazione "Pro juventute don Carlo Gnocchi", in Roma, ad accettare un legato.
---------------------------------------------------------------------------------------------------
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-722. Decreto del Presidente della Repubblica 9 ottobre 1981, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la fondazione "Pro juventute don Carlo Gnocchi", in Roma, viene autorizzata ad accettare il legato, consistente in un immobile sito in Torino, corso Siracusa n. 71, distinto nel nuovo catasto edilizio urbano alla partita 127999, foglio 84, mappale 820 sub 19, del valore attribuito di L. 11.500.000, elevato dall'ufficio tecnico erariale di Torino a L. 24.000.000, disposto dalla sig.na Teresa Anna Beltramo a favore della fondazione "Pro juventute don Carlo Gnocchi - Istituto mutilatini e poliomielitici", viale Settimio Severo, 65, Torino, che si identifica con la fondazione "Pro juventute don Carlo Gnocchi" come ha fatto presente lo stesso ente, con scheda testamentaria olografa del 10 marzo 1977, pubblicata a rogito dott. Giuseppe Savio, notaio in Torino, in data 5 maggio 1978, n. 15424 di repertorio e n. 7440 di raccolta, registrato a Torino il 22 maggio 1978 al n. 25276, vol. 41.  
-  
-Visto, il Guardasigilli: DARIDA  
-Registrato alla Corte dei conti, addi' 1 dicembre 1981  
-Registro n. 10 Presidenza, foglio n. 243
+547.
+
+Decreto del Presidente della Repubblica 29 luglio 1981, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la fondazione "Pro juventute don Carlo Gnocchi", in Roma, viene autorizzata ad accettare il legato, consistente in un appartamento sito in Voghera, via Papa Giovanni XXIII n. 7, gia' Vittorio Emanuele n. 7, iscritto nel nuovo catasto edilizio urbano alla partita 2427, foglio 46, mappale 52 sub 2, con giardino e piccoli orti distinti nel nuovo catasto terreni alla partita 11339, foglio 46, mappale 50, valore attribuito L. 34.000.000 ritenuto congruo dall'ufficio tecnico erariale di Pavia, disposto dalla sig.ra Paleari Maggiorina ved. Poggi a favore dell'istituto don Gnocchi di Salice Terme che si identifica con la fondazione "Pro juventute don Carlo Gnocchi", come ha fatto presente la medesima, con testamento olografo 26 giugno, pubblicato in data 29 maggio 1978, n. 46076/17490 di repertorio, a rogito dott. Muzio Battista, notaio in Voghera (Pavia), registrato a Voghera il 15 giugno 1978 al n. 2027.
+
+Visto, il Guardasigilli: DARIDA
+ Registrato alla Corte dei conti, addi' 25 settembre 1981
+ Registro n. 8 Presidenza, foglio n. 239

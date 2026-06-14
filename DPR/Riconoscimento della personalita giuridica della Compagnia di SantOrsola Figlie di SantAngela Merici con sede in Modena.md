@@ -1,19 +1,21 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 04 luglio 1956 n. 949
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 949
+data: 1956-07-04
+titolo: "Riconoscimento della personalita' giuridica della Compagnia di Sant'Orsola, Figlie di Sant'Angela Merici, con sede in Modena."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1956-07-04;949
+codice_redazionale: 056U0949
+vigente: true
+---
 
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 04 luglio 1956 n. 949
-=============================================================
-
-Riconoscimento della personalita' giuridica della Compagnia di Sant'Orsola, Figlie di Sant'Angela Merici, con sede in Modena.
------------------------------------------------------------------------------------------------------------------------------
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-949. Decreto del Presidente della Repubblica 4 luglio 1956, col quale, sulla proposta del Ministro per l'interno, viene riconosciuta la personalita' giuridica della Compagnia di Sant'Orsola, Figlie di Sant'Angela Merici, con sede in Modena.  
-  
-Visto, il Guardasigilli: MORO  
-Registrato alla Corte dei conti, addi' 13 agosto 1956  
-Atti del Governo, registro n. 100, foglio n. 51. - RELLEVA
+949.
+
+Decreto del Presidente della Repubblica 4 luglio 1956, col quale, sulla proposta del Ministro per l'interno, viene riconosciuta la personalita' giuridica della Compagnia di Sant'Orsola, Figlie di Sant'Angela Merici, con sede in Modena.
+
+Visto, il Guardasigilli: MORO
+ Registrato alla Corte dei conti, addi' 13 agosto 1956
+ Atti del Governo, registro n. 100, foglio n. 51. - RELLEVA

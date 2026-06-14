@@ -1,19 +1,21 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 29 gennaio 1976 n. 715
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 715
+data: 1976-01-29
+titolo: "Erezione in ente morale dell'associazione \"Istituto di studi per lo sviluppo economico\", in Napoli."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1976-01-29;715
+codice_redazionale: 076U0715
+vigente: true
+---
 
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 29 gennaio 1976 n. 715
-==============================================================
-
-Erezione in ente morale dell'associazione "Istituto di studi per lo sviluppo economico", in Napoli.
----------------------------------------------------------------------------------------------------
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-715. Decreto del Presidente della Repubblica 29 gennaio 1976, col quale, sulla proposta del Ministro per gli affari esteri, l'associazione "Istituto di studi per lo sviluppo economico" (I.S.V.E.), in Napoli, viene eretta in ente morale e ne viene approvato lo statuto.  
-  
-Visto, il Guardasigilli: BONIFACIO  
-Registrato alla Corte dei conti, addi' 23 ottobre 1976  
-Atti di Governo, registro n. 10, foglio n. 174
+715.
+
+Decreto del Presidente della Repubblica 29 gennaio 1976, col quale, sulla proposta del Ministro per gli affari esteri, l'associazione "Istituto di studi per lo sviluppo economico" (I.S.V.E.), in Napoli, viene eretta in ente morale e ne viene approvato lo statuto.
+
+Visto, il Guardasigilli: BONIFACIO
+ Registrato alla Corte dei conti, addi' 23 ottobre 1976
+ Atti di Governo, registro n. 10, foglio n. 174

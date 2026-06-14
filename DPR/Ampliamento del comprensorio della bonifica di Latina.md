@@ -1,20 +1,20 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 09 gennaio 1969 n. 217
-
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 09 gennaio 1969 n. 217
-==============================================================
-
-Ampliamento del comprensorio della bonifica di Latina.
-------------------------------------------------------
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 217
+data: 1969-01-09
+titolo: "Ampliamento del comprensorio della bonifica di Latina."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1969-01-09;217
+codice_redazionale: 069U0217
+vigente: true
+---
 
 IL PRESIDENTE DELLA REPUBBLICA
-------------------------------
 
-Visto il regio decreto 10 maggio 1934, registrato alla [Corte dei conti, il 12 giugno 1934](https://e-justice.europa.eu/ecli/ECLI::::) al registro n. 12, foglio n. 348, con il quale il Consorzio per la bonifica di Piscinara e il Consorzio n. 5 dell'Agro-Romano sono stati fusi in un solo consorzio con la denominazione di "Consorzio di bonifica Littoria", ora "Consorzio della bonifica di Latina";
+Visto il regio decreto 10 maggio 1934, registrato alla Corte dei conti, il 12 giugno 1934 al registro n. 12, foglio n. 348, con il quale il Consorzio per la bonifica di Piscinara e il Consorzio n. 5 dell'Agro-Romano sono stati fusi in un solo consorzio con la denominazione di "Consorzio di bonifica Littoria", ora "Consorzio della bonifica di Latina";
 
 Vista la domanda in data 10 settembre 1966 ed i relativi atti allegati presentati dal detto consorzio ed intesi ad ottenere l'ampliamento del proprio perimetro consortile (attualmente di ha. 110.000 circa) mediante la inclusione, di una zona estesa ha. 36.000 circa, ricadenti totalmente nei comuni di Labico, Valmontone, Artena, Colleferro, Segni, Gavignano, Montelanico, Gorga e parzialmente nei comuni di Cori e Velletri;
 
-Considerato che con il [decreto ministeriale 27 gennaio 1967, n. 4248](http://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.:decreto:1967-01-27;4248) e' stata disposta la pubblicazione della suindicata domanda e dei relativi allegati;
+Considerato che con il [decreto ministeriale 27 gennaio 1967, n. 4248](https://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.:decreto:1967-01-27;4248) e' stata disposta la pubblicazione della suindicata domanda e dei relativi allegati;
 
 che, a seguito della pubblicazione di tali atti e nei termini prescritti dal decreto ministeriale n. 4248, sono state presentate n.
 
@@ -74,32 +74,18 @@ che, ai sensi dell'art. 3 del citato regio decreto, il Ministero del tesoro con 
 
 Ritenuto pertanto che ricorrono le condizioni per far luogo alla occorrente classifica;
 
-Sulla
------
+Sulla proposta del Ministro Segretario di Stato per l'agricoltura e le foreste di concerto con il Ministro per i lavori pubblici e con il Ministro per il tesoro; Decreta:
 
-proposta del Ministro Segretario di Stato per l'agricoltura e le foreste di concerto con il Ministro per i lavori pubblici e con il Ministro per il tesoro; Decreta:
+## Art. 1.
 
-Art. 1
-------
+Per i motivi illustrati nelle premesse sono respinte tutte le opposizioni presentate in sede di pubblicazione degli atti, disposte con il [decreto ministeriale 27 gennaio 1967, n. 4248](https://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.:decreto:1967-01-27;4248).
 
-  
-  
-Per i motivi illustrati nelle premesse sono respinte tutte le opposizioni presentate in sede di pubblicazione degli atti, disposte con il [decreto ministeriale 27 gennaio 1967, n. 4248](http://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.:decreto:1967-01-27;4248).   
+## Art. 2.
 
-Art. 2
-------
-
-  
-Il comprensorio della bonifica di Latina e' ampliato, previa classifica, ai sensi e per gli effetti del [regio decreto 13 febbraio 1933, n. 215](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-02-13;215), in comprensorio di bonifica di seconda categoria, sulla zona limitrofa al comprensorio stesso e distinta con coloritura a fondo rosa, comprendente totalmente i comuni di Labico, Valmontone, Artena, Colleferro, Segni, Gavignano, Montelanico Gorga e parzialmente i comuni di Cori e Velletri, della estensione complessiva di ha. 35.000 circa e con esclusione della porzione in sinistra del fiume Sacco, contraddistinta da linee parallele a tinta azzurra sulla base della corografia in scala 1: 100.000, che, munita del visto del Ministro proponente, forma parte integrante del presente decreto.  
-  
+Il comprensorio della bonifica di Latina e' ampliato, previa classifica, ai sensi e per gli effetti del [regio decreto 13 febbraio 1933, n. 215](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-02-13;215), in comprensorio di bonifica di seconda categoria, sulla zona limitrofa al comprensorio stesso e distinta con coloritura a fondo rosa, comprendente totalmente i comuni di Labico, Valmontone, Artena, Colleferro, Segni, Gavignano, Montelanico Gorga e parzialmente i comuni di Cori e Velletri, della estensione complessiva di ha. 35.000 circa e con esclusione della porzione in sinistra del fiume Sacco, contraddistinta da linee parallele a tinta azzurra sulla base della corografia in scala 1: 100.000, che, munita del visto del Ministro proponente, forma parte integrante del presente decreto.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 9 gennaio 1969
+Dato a Roma, addi' 9 gennaio 1969
 
-SARAGAT VALSECCHI - MANCINI - COLOMBO
-
-Visto, il Guardasigilli: GAVA Registrata alla Corte dei conti addi' 9 maggio 1969
-
-Atti del Governo, registro n. 226, foglio n. 147. - GRECO
+SARAGAT VALSECCHI - MANCINI - COLOMBO Visto, il Guardasigilli: GAVA Registrata alla Corte dei conti addi' 9 maggio 1969 Atti del Governo, registro n. 226, foglio n. 147. - GRECO

@@ -1,13 +1,13 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 27 ottobre 1951 n. 1838
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 1838
+data: 1951-10-27
+titolo: "Modificazione all'art. 15 dello statuito del Circolo ufficiali delle Forze armate d'Italia, approvato con decreto luogotenenziale 2 novembre 1945, n. 900."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1951-10-27;1838
+codice_redazionale: 051U1838
+vigente: true
+---
 
+## Articolo unico.
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 27 ottobre 1951 n. 1838
-===============================================================
-
-Modificazione all'art. 15 dello statuito del Circolo ufficiali delle Forze armate d'Italia, approvato con decreto luogotenenziale 2 novembre 1945, n. 900.
-----------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Articolo unico
---------------
-
-((IL [D. LGS. 15 MARZO 2010, N. 66](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-03-15;66) HA CONFERMATO L'ABROGAZIONE DEL PRESENTE PROVVEDIMENTO))
+((IL D. LGS. 15 MARZO 2010, N. 66 HA CONFERMATO L'ABROGAZIONE DEL PRESENTE PROVVEDIMENTO))

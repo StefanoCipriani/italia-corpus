@@ -1,19 +1,31 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 26 marzo 1985 n. 203
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 1005
+data: 1984-10-22
+titolo: "Autorizzazione alla fondazione \"Pro juventute don Carlo Gnocchi\", in Roma, ad accettare un legato."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1984-10-22;1005
+codice_redazionale: 084U1005
+vigente: true
+---
 
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 26 marzo 1985 n. 203
-============================================================
-
-Autorizzazione alla fondazione "Pro juventute don Carlo Gnocchi", in Roma, ad accettare un legato.
---------------------------------------------------------------------------------------------------
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-203. Decreto del Presidente della Repubblica 26 marzo 1985, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la fondazione "Pro juventute don Carlo Gnocchi", in Roma, viene autorizzata ad accettare un legato, consistente in appezzamenti di terreno siti nel comune di Sassoferrato, distinti nel nuovo catasto terreni alla partita 2715, del valore peritato di L. 21.000.000, ritenuto congruo dall'ufficio tecnico erariale di Pesaro, disposto dalla sig.na Orciari Wanda a favore della fondazione "Don Gnocchi", che si identifica con la fondazione "Pro juventute don Carlo Gnocchi" come si evince dal verbale del consiglio di amministrazione della fondazione medesima del 20 novembre 1982, con testamento segreto 18 novembre 1972, pubblicato in data 4 maggio 1973, n. 405 di repertorio, a rogito dott. Virginio Reffi, notaio in S. Marino, ed ivi registrato in data 8 maggio 1973 al n. 1200.  
-  
-Visto, il Guardasigilli: MARTINAZZOLI  
-Registrato alla Corte dei conti, addi' 14 maggio 1985  
-Registro n. 4 Presidenza, foglio n. 291
+1005.
+
+Decreto del Presidente della Repubblica 22 ottobre 1984, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la 
+ fondazione "Pro juventute don Carlo Gnocchi", in Roma, viene 
+ autorizzata ad accettare il legato, consistente nella quota di 1/5  del 50% del valore di un appartamento sito in Milano, via Aselli n. 
+ 26, censito nel nuovo catasto edilizio urbano alla partita n. 
+ 33049, foglio n. 319, mappale n. 170 sub 11, e di beni mobili il 
+ tutto, detratte le passivita', pari a L. 12.666.664, disposto dalla 
+ sig.ra Giulia Vaccari ved. Morassutti con testamento pubblico 31 
+ giugno 1968, redatto dal notaio dott. Domenico Moretti e dallo 
+ stesso pubblicato in data 17 luglio 1981, n. 14396/26267 di 
+ repertorio e registrato a Milano in data 29 luglio 1981 al n. 
+ 20924. 
+ 
+Visto, il Guardasigilli: MARTINAZZOLI 
+ Registrato alla Corte dei conti, addi' 25 gennaio 1985 
+ Registro n. 1 Presidenza, foglio n. 181

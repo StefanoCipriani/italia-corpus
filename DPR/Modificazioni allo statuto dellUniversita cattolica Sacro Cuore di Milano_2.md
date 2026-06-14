@@ -1,45 +1,37 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 12 luglio 1977 n. 1208
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 1208
+data: 1977-07-12
+titolo: "Modificazioni allo statuto dell'Universita' cattolica \"Sacro Cuore\" di Milano."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1977-07-12;1208
+codice_redazionale: 077U1208
+vigente: true
+---
 
+## Art. 1.
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 12 luglio 1977 n. 1208
-==============================================================
+IL PRESIDENTE DELLA REPUBBLICA
 
-Modificazioni allo statuto dell'Universita' cattolica "Sacro Cuore" di Milano.
-------------------------------------------------------------------------------
+ Veduto lo statuto dell'Universita' cattolica "Sacro Cuore" di Milano, approvato con [regio decreto 20 aprile 1939, n. 1163](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20del%20nuovo%20statuto%20della%20Universita%20cattolica%20del%20Sacro%20Cuore%20di%20Milano.%20039U1163.md) e modificato con [regio decreto 26 ottobre 1940, n. 2030](../Atti%20normativi%20abrogati%20%28in%20originale%29/Modificazioni%20allo%20statuto%20della%20Universita%20cattolica%20del%20%20Sacro%20Cuore%20%20di%20Milano.%20040U2030.md), e successive modificazioni;
+ Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+ Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20R.%20decreto-legge%2020%20giugno%201935-XIII%20n.%201071%20contenente%20modifiche%20ed%20aggiornamenti%20al%20testo%20unico%20delle%20leggi%20sullistruzione%20superiore.%20036U0073.md);
+ Veduto il [regio decreto 30 settembre 1938, n. 1652](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disposizioni%20sullordinamento%20didattico%20universitario.%20038U1652.md), e successive modificazioni;
+ Veduta la [legge 11 aprile 1953, n. 312](../Atti%20normativi%20abrogati%20%28in%20originale%29/Libera%20inclusione%20di%20nuovi%20insegnamenti%20complementari%20negli%20statuti%20delle%20Universita%20e%20degli%20Istituti%20distruzione%20superiore.md);
+ Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
+ Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](https://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592#art_17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' cattolica "Sacro Cuore" di Milano e convalidati dal Consiglio superiore della pubblica istruzione;
+ Sentito il parere del Consiglio superiore della pubblica istruzione;
+ Sulla proposta del Ministro della pubblica istruzione di concerto con il Ministro del tesoro;
 
-Art. 1
-------
+ Decreta:
 
- IL PRESIDENTE DELLA REPUBBLICA  
-  
-Veduto lo statuto dell'Universita' cattolica "Sacro Cuore" di Milano, approvato con [regio decreto 20 aprile 1939, n. 1163](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1163) e modificato con [regio decreto 26 ottobre 1940, n. 2030](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-26;2030), e successive modificazioni;  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' cattolica "Sacro Cuore" di Milano e convalidati dal Consiglio superiore della pubblica istruzione;  
-Sentito il parere del Consiglio superiore della pubblica istruzione;  
-Sulla proposta del Ministro della pubblica istruzione di concerto con il Ministro del tesoro;  
-  
-Decreta:  
-  
-Lo statuto dell'Universita' cattolica "Sacro Cuore" di Milano, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
-  
-Il finanziamento per un posto di professore di ruolo, presso la facolta' di agraria, per l'insegnamento di industrie agrarie (enologia, caseificio, oleificio) di cui al [decreto del Presidente della Repubblica 29 gennaio 1977, n. 514](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1977-01-29;514), pubblicato nella Gazzetta Ufficiale 17 agosto 1977, n. 223, e' trasferito alla cattedra di enologia.  
-E' approvata e resa esecutiva la relativa annessa convenzione, stipulata a Milano il 7 novembre 1975, nonche' quella stipulata il 21 ottobre 1975.  
-La tabella I, per quanto riguarda l'organico dei professori di ruolo della predetta facolta', resta fissa a 7+3.  
-  
+ Lo statuto dell'Universita' cattolica "Sacro Cuore" di Milano, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+
+ Il finanziamento per un posto di professore di ruolo, presso la facolta' di agraria, per l'insegnamento di industrie agrarie (enologia, caseificio, oleificio) di cui al [decreto del Presidente della Repubblica 29 gennaio 1977, n. 514](Modificazioni%20allo%20statuto%20dellUniversita%20cattolica%20Sacro%20Cuore%20di%20Milano.md), pubblicato nella Gazzetta Ufficiale 17 agosto 1977, n. 223, e' trasferito alla cattedra di enologia.
+ E' approvata e resa esecutiva la relativa annessa convenzione, stipulata a Milano il 7 novembre 1975, nonche' quella stipulata il 21 ottobre 1975.
+ La tabella I, per quanto riguarda l'organico dei professori di ruolo della predetta facolta', resta fissa a 7+3.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e i decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 12 luglio 1977
+Dato a Roma, addi' 12 luglio 1977
 
-LEONE MALFATTI - STAMMATI
-
-Visto, il Guardasigilli: BONIFACIO
-
-Registrato alla Corte dei conti, addi' 27 giugno 1978
-
-Registro n. 67 Istruzione, foglio n. 352
+LEONE MALFATTI - STAMMATI Visto, il Guardasigilli: BONIFACIO Registrato alla Corte dei conti, addi' 27 giugno 1978 Registro n. 67 Istruzione, foglio n. 352

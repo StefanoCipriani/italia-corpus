@@ -1,18 +1,20 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 23 settembre 1949 n. 1157
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 1157
+data: 1949-09-23
+titolo: "Autorizzazione alla Cassa scolastica dell'Istituto tecnico commerciale \"Tito Acerbo\" di Pescara ad accettare una donazione."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1949-09-23;1157
+codice_redazionale: 049U1157
+vigente: true
+---
 
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 23 settembre 1949 n. 1157
-=================================================================
-
-Autorizzazione alla Cassa scolastica dell'Istituto tecnico commerciale "Tito Acerbo" di Pescara ad accettare una donazione.
----------------------------------------------------------------------------------------------------------------------------
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-1157. Decreto del Presidente della Repubblica 23 settembre 1949, col quale, sulla proposta del Ministro per la pubblica istruzione, la Cassa scolastica dell'Istituto tecnico commerciale "Tito Acerbo" di Pescara viene autorizzata ad accettare una donazione di nominali L. 200.000 disposta al fine dell'istituzione di due premi di studio intitolati al nome del dott. Gennaro Partenza,.  
-  
-Visto, il Guardasigilli: GRASSI  
-Registrato alla Corte dei conti, addi' 13 marzo 1950
+1157.
+
+Decreto del Presidente della Repubblica 23 settembre 1949, col quale, sulla proposta del Ministro per la pubblica istruzione, la Cassa scolastica dell'Istituto tecnico commerciale "Tito Acerbo" di Pescara viene autorizzata ad accettare una donazione di nominali L. 200.000 disposta al fine dell'istituzione di due premi di studio intitolati al nome del dott. Gennaro Partenza,.
+
+Visto, il Guardasigilli: GRASSI
+ Registrato alla Corte dei conti, addi' 13 marzo 1950

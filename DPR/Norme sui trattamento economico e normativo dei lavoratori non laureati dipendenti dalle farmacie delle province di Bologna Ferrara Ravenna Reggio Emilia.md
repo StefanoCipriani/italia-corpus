@@ -1,20 +1,20 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 26 dicembre 1961 n. 1736
-
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 26 dicembre 1961 n. 1736
-================================================================
-
-Norme sui trattamento economico e normativo dei lavoratori non laureati dipendenti dalle farmacie delle province di Bologna, Ferrara, Ravenna, Reggio Emilia.
--------------------------------------------------------------------------------------------------------------------------------------------------------------
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 1736
+data: 1961-12-26
+titolo: "Norme sui trattamento economico e normativo dei lavoratori non laureati dipendenti dalle farmacie delle province di Bologna, Ferrara, Ravenna, Reggio Emilia."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1961-12-26;1736
+codice_redazionale: 061U1736
+vigente: true
+---
 
 IL PRESIDENTE DELLA REPUBBLICA
-------------------------------
 
-Visto l'[art. 87, comma quinto, della Costituzione](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27~art87-com5);
+Visto l'[art. 87, comma quinto, della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87-com5);
 
-Vista la [legge 14 luglio 1959, n. 741](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1959-07-14;741), che delega il Governo ad emanare norme transitorie per garantire minimi di trattamento economico e normativo ai lavoratori;
+Vista la [legge 14 luglio 1959, n. 741](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1959-07-14;741), che delega il Governo ad emanare norme transitorie per garantire minimi di trattamento economico e normativo ai lavoratori;
 
-Vista la [legge 1 ottobre 1960, n. 1027](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1960-10-01;1027), recante modifiche alla, predetta, [legge 14 luglio 1959, n. 741](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1959-07-14;741);
+Vista la [legge 1 ottobre 1960, n. 1027](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1960-10-01;1027), recante modifiche alla, predetta, [legge 14 luglio 1959, n. 741](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1959-07-14;741);
 
 Visto, per la provincia di Bologna, il contratto collettivo 19 novembre 1957, stipulato tra l'Associazione fra i proprietari di Farmacie e la Federazione Provinciale Sindacati Addetti Commercio - C.I.S.L. -, la Federazione Provinciale Lavoratori del Commercio ed Aggregati - C.G.I.L. - al quale ha aderito, in data 28 luglio 1960, l'Unione italiana Dipendenti Aziende Commerciali Affini - U.I.L. -;
 
@@ -28,68 +28,18 @@ Vista la pubblicazione nell'apposito Bollettino, n. 5 della Provincia di Bologna
 
 Sentito il Consiglio dei Ministri;
 
-Sulla
------
+Sulla proposta del Ministro per il lavoro e la previdenza sociale; Decreta:
 
-proposta del Ministro per il lavoro e la previdenza sociale; Decreta:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-I rapporti di lavoro costituiti per l'attivita' per la quale sono stati stipulati, relativamente ai lavoratori non laureati dipendenti dalle farmacie:  
-per la provincia di Bologna, il contratto collettivo 19 novembre 1957;  
-per la provincia di Ferrara, il patto collettivo 5 febbraio 1959; per la provincia di Ravenna, il patto collettivo 4 dicembre 1958; per la provincia di Reggio Emilia, l'accordo collettivo 22 luglio 1958;  
-sono regolati da norme giuridiche uniformi alle clausole degli atti anzidetti, annessi al presente decreto.  
-I minimi di trattamento economico e normativo cosi' stabiliti sono inderogabili nei confronti di tutti i lavoratori non laureati di pendenti dalle farmacie delle province di Bologna, Ferrara, Ravenna, Reggio Emilia.  
-  
+I rapporti di lavoro costituiti per l'attivita' per la quale sono stati stipulati, relativamente ai lavoratori non laureati dipendenti dalle farmacie:
+ per la provincia di Bologna, il contratto collettivo 19 novembre 1957;
+ per la provincia di Ferrara, il patto collettivo 5 febbraio 1959; per la provincia di Ravenna, il patto collettivo 4 dicembre 1958; per la provincia di Reggio Emilia, l'accordo collettivo 22 luglio 1958;
+sono regolati da norme giuridiche uniformi alle clausole degli atti anzidetti, annessi al presente decreto.
+ I minimi di trattamento economico e normativo cosi' stabiliti sono inderogabili nei confronti di tutti i lavoratori non laureati di pendenti dalle farmacie delle province di Bologna, Ferrara, Ravenna, Reggio Emilia.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 26 dicembre 1961
+Dato a Roma, addi' 26 dicembre 1961
 
-GRONCHI FANFANI - SULLO
-
-Visto, il Guardasigilli: BOSCO
-
-Registrato alla Corte dei conti, addi' 27 aprile 1962
-
-Atti del Governo, registro n. 145, foglio n. 99. - VILLA
-
-Allegato
-
-CONTRATTO COLLETTIVO 19 NOVEMBRE 1957 PER I LAVORATORI NON LAUREATI DIPENDENTI DALLE FARMACIE DELLA PROVINCIA DI BOLOGNA.   
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=061U173600100010110001&dgu=1962-05-21&art.dataPubblicazioneGazzetta=1962-05-21&art.codiceRedazionale=061U1736)
-  
-  
-  
-  
-  
-PATTO COLLETTIVO 5 FEBBRAIO 1959 PER I LAVORATORI NON LAUREATI DIPENDENTI DA FARMACIE DELLA PROVINCIA DI FERRARA.   
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=061U173600100010110002&dgu=1962-05-21&art.dataPubblicazioneGazzetta=1962-05-21&art.codiceRedazionale=061U1736)
-  
-  
-  
-  
-  
-CONTRATTO COLLETTIVO 4 DICEMBRE 1958 PER IL PERSONALE NON LAUREATO DIPENDENTE DA FARMACIE DELLA PROVINCIA DI RAVENNA.   
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=061U173600100010110003&dgu=1962-05-21&art.dataPubblicazioneGazzetta=1962-05-21&art.codiceRedazionale=061U1736)
-  
-  
-  
-  
-  
-  
-ACCORDO COLLETTIVO 22 LUGLIO 1958 PER I LAVORATORI NON LAUREATI DIPENDENTI DALLE FARMACIE PRIVATE DELLA PROVINCIA DI REGGIO EMILIA.   
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=061U173600100010110004&dgu=1962-05-21&art.dataPubblicazioneGazzetta=1962-05-21&art.codiceRedazionale=061U1736)
-  
+GRONCHI FANFANI - SULLO Visto, il Guardasigilli: BOSCO Registrato alla Corte dei conti, addi' 27 aprile 1962 Atti del Governo, registro n. 145, foglio n. 99. - VILLA

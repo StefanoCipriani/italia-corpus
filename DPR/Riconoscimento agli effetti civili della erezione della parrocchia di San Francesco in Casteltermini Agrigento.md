@@ -1,18 +1,20 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 13 marzo 1950 n. 147
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 147
+data: 1950-03-13
+titolo: "Riconoscimento, agli effetti civili, della erezione della parrocchia di San Francesco, in Casteltermini (Agrigento)."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1950-03-13;147
+codice_redazionale: 050U0147
+vigente: true
+---
 
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 13 marzo 1950 n. 147
-============================================================
-
-Riconoscimento, agli effetti civili, della erezione della parrocchia di San Francesco, in Casteltermini (Agrigento).
---------------------------------------------------------------------------------------------------------------------
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-147. Decreto del Presidente della Repubblica 13 marzo 1950, col quale, sulla proposta del Ministro per l'interno, viene riconosciuto, agli effetti civili, il decreto del Vescovo di Agrigento in data 20 dicembre 1948, relativo all'erezione della parrocchia di San Francesco, in Casteltermini (Agrigento).  
-  
-Visto, il Guardasigilli: PICCIONI  
-Registrato alla Corte dei conti, addi' 7 aprile 1950
+147.
+
+Decreto del Presidente della Repubblica 13 marzo 1950, col quale, sulla proposta del Ministro per l'interno, viene riconosciuto, agli effetti civili, il decreto del Vescovo di Agrigento in data 20 dicembre 1948, relativo all'erezione della parrocchia di San Francesco, in Casteltermini (Agrigento).
+
+Visto, il Guardasigilli: PICCIONI
+ Registrato alla Corte dei conti, addi' 7 aprile 1950

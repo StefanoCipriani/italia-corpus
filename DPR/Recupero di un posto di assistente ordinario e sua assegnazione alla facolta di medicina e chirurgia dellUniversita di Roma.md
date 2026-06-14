@@ -1,20 +1,20 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 maggio 1978 n. 360
-
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 maggio 1978 n. 360
-=============================================================
-
-Recupero di un posto di assistente ordinario e sua assegnazione alla facolta' di medicina e chirurgia dell'Universita' di Roma.
--------------------------------------------------------------------------------------------------------------------------------
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 360
+data: 1978-05-30
+titolo: "Recupero di un posto di assistente ordinario e sua assegnazione alla facolta' di medicina e chirurgia dell'Universita' di Roma."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1978-05-30;360
+codice_redazionale: 078U0360
+vigente: true
+---
 
 IL PRESIDENTE DELLA REPUBBLICA
-------------------------------
 
-Visto il [decreto del Presidente della Repubblica 19 giugno 1961, n. 891](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1961-06-19;891), con cui fu assegnato un posto di assistente ordinario alla cattedra di filosofia del diritto della facolta' di giurisprudenza dell'Universita' di Trieste e il successivo [decreto del Presidente della Repubblica 6 febbraio 1971, n. 331](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1971-02-06;331), con cui il posto stesso fu trasferito alla cattedra omonima della facolta' di scienze politiche della stessa Universita';
+Visto il [decreto del Presidente della Repubblica 19 giugno 1961, n. 891](Ripartizione%20di%20posti%20di%20assistente%20ordinario%20per%20lanno%20accademico%201961-62.md), con cui fu assegnato un posto di assistente ordinario alla cattedra di filosofia del diritto della facolta' di giurisprudenza dell'Universita' di Trieste e il successivo [decreto del Presidente della Repubblica 6 febbraio 1971, n. 331](Modificazioni%20allo%20statuto%20dellUniversita%20degli%20studi%20di%20Trieste_24.md), con cui il posto stesso fu trasferito alla cattedra omonima della facolta' di scienze politiche della stessa Universita';
 
-Considerato che tale posto e' vacante dal 1 novembre 1971 per nomina a professore straordinario dell'ultimo assistente titolare prof. Arduino Agnelli e per la mancanza di idonei aventi titolo all'inquadramento ai sensi dell'[art. 3 della legge 30 novembre 1973, n. 766](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1973-11-30;766~art3);
+Considerato che tale posto e' vacante dal 1 novembre 1971 per nomina a professore straordinario dell'ultimo assistente titolare prof. Arduino Agnelli e per la mancanza di idonei aventi titolo all'inquadramento ai sensi dell'[art. 3 della legge 30 novembre 1973, n. 766](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%201%20ottobre%201973%20n.%20580%20recante%20misure%20urgenti%20per%20lUniversita.md);
 
-Considerato che non si e' provveduto alla copertura del posto nel termine fissato dall'ultimo comma dell'[art. 13 della legge 18 marzo 1950, n. 349](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1950-03-18;349~art13);
+Considerato che non si e' provveduto alla copertura del posto nel termine fissato dall'ultimo comma dell'[art. 13 della legge 18 marzo 1950, n. 349](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1950-03-18;349#art_13);
 
 Ritenuto che, per tale ragione sono venuti meno i motivi che a suo tempo determinarono l'assegnazione del posto stesso alla cattedra sopracitata;
 
@@ -22,33 +22,18 @@ Vista la nota 23 marzo 1978 con cui il titolare della cattedra in soprannumero d
 
 Ravvisata, pertanto, la necessita' e l'opportunita' di assegnare il posto in questione alla cattedra in soprannumero di medicina del lavoro della facolta' di medicina e chirurgia dell'Universita' di Roma;
 
-Sulla
------
+Sulla proposta del Ministro della pubblica istruzione; Decreta:
 
-proposta del Ministro della pubblica istruzione; Decreta:
+## Art. 1.
 
-Art. 1
-------
+Il posto di assistente ordinario gia' assegnato con [decreto del Presidente della Repubblica 19 giugno 1961, n. 891](Ripartizione%20di%20posti%20di%20assistente%20ordinario%20per%20lanno%20accademico%201961-62.md), alla cattedra di filosofia del diritto della facolta' di giurisprudenza dell'Universita' di Trieste, e, successivamente trasferito con [decreto del Presidente della Repubblica 6 febbraio 1971, n. 331](Modificazioni%20allo%20statuto%20dellUniversita%20degli%20studi%20di%20Trieste_24.md), alla cattedra omonima della facolta' di scienze politiche della stessa Universita', e' recuperato.
 
-  
-Il posto di assistente ordinario gia' assegnato con [decreto del Presidente della Repubblica 19 giugno 1961, n. 891](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1961-06-19;891), alla cattedra di filosofia del diritto della facolta' di giurisprudenza dell'Universita' di Trieste, e, successivamente trasferito con [decreto del Presidente della Repubblica 6 febbraio 1971, n. 331](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1971-02-06;331), alla cattedra omonima della facolta' di scienze politiche della stessa Universita', e' recuperato.  
+## Art. 2.
 
-Art. 2
-------
-
-  
-Il posto di cui all'art. 1 del presente decreto e' assegnato alla cattedra in soprannumero di medicina del lavoro della facolta' di medicina e chirurgia dell'Universita' di Roma.  
-  
+Il posto di cui all'art. 1 del presente decreto e' assegnato alla cattedra in soprannumero di medicina del lavoro della facolta' di medicina e chirurgia dell'Universita' di Roma.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 30 maggio 1978
+Dato a Roma, addi' 30 maggio 1978
 
-LEONE PEDINI
-
-Visto, il Guardasigilli: BONIFACIO
-
-Registrato alla Corte dei conti, addi' 30 giugno 1978
-
-Registro n. 73 Istruzione, foglio n. 101
+LEONE PEDINI Visto, il Guardasigilli: BONIFACIO Registrato alla Corte dei conti, addi' 30 giugno 1978 Registro n. 73 Istruzione, foglio n. 101

@@ -1,96 +1,73 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 21 giugno 1984 n. 689
-
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 21 giugno 1984 n. 689
-=============================================================
-
-Rettifica al decreto del Presidente della Repubblica 31 luglio 1981, n. 904, recante modificazioni allo statuto dell'Universita' degli studi di Ancona.
--------------------------------------------------------------------------------------------------------------------------------------------------------
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 689
+data: 1984-06-21
+titolo: "Rettifica al decreto del Presidente della Repubblica 31 luglio 1981, n. 904, recante modificazioni allo statuto dell'Universita' degli studi di Ancona."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1984-06-21;689
+codice_redazionale: 084U0689
+vigente: true
+---
 
 IL PRESIDENTE DELLA REPUBBLICA
-------------------------------
 
-Veduto lo statuto dell'Universita' di Ancona, approvato con [decreto del Presidente della Repubblica 4 ottobre 1971, n. 1330](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1971-10-04;1330), e successive modificazioni;
+Veduto lo statuto dell'Universita' di Ancona, approvato con [decreto del Presidente della Repubblica 4 ottobre 1971, n. 1330](Approvazione%20dello%20statuto%20dellUniversita%20degli%20studi%20di%20Ancona.md), e successive modificazioni;
 
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20R.%20decreto-legge%2020%20giugno%201935-XIII%20n.%201071%20contenente%20modifiche%20ed%20aggiornamenti%20al%20testo%20unico%20delle%20leggi%20sullistruzione%20superiore.%20036U0073.md);
 
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
+Veduto il [regio decreto 30 settembre 1938, n. 1652](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disposizioni%20sullordinamento%20didattico%20universitario.%20038U1652.md), e successive modificazioni;
 
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
+Veduta la [legge 11 aprile 1953, n. 312](../Atti%20normativi%20abrogati%20%28in%20originale%29/Libera%20inclusione%20di%20nuovi%20insegnamenti%20complementari%20negli%20statuti%20delle%20Universita%20e%20degli%20Istituti%20distruzione%20superiore.md);
 
-Veduto il [decreto del Presidente della Repubblica 31 luglio 1981, n. 904](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1981-07-31;904), di modifica dello statuto della Universita' degli studi di Ancona;
+Veduto il [decreto del Presidente della Repubblica 31 luglio 1981, n. 904](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1981-07-31;904), di modifica dello statuto della Universita' degli studi di Ancona;
 
-Veduta la rettorale 16 aprile 1982, n. 12770, con la quale si segnalano alcuni errori materiali commessi nella redazione del [decreto del Presidente della Repubblica 31 luglio 1981, n. 904](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1981-07-31;904);
+Veduta la rettorale 16 aprile 1982, n. 12770, con la quale si segnalano alcuni errori materiali commessi nella redazione del [decreto del Presidente della Repubblica 31 luglio 1981, n. 904](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1981-07-31;904);
 
-Riconosciuta la necessita' di provvedere a rettificare il [decreto del Presidente della Repubblica 31 luglio 1981, n. 904](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1981-07-31;904), sopra citato;
+Riconosciuta la necessita' di provvedere a rettificare il [decreto del Presidente della Repubblica 31 luglio 1981, n. 904](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1981-07-31;904), sopra citato;
 
-Sulla
------
+Sulla proposta del Ministro della pubblica istruzione; Decreta:
 
-proposta del Ministro della pubblica istruzione; Decreta:
+## Articolo unico
 
-Articolo unico
---------------
+Il [decreto del Presidente della Repubblica 31 luglio 1981, n. 904](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1981-07-31;904), citato nella premessa, concernente il riordinamento della facolta' di ingegneria dell'Universita' di Ancona, e' rettificato come segue: 
+ 
+ Art. 18, lettera a):
 
-  
-  
-Il [decreto del Presidente della Repubblica 31 luglio 1981, n. 904](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1981-07-31;904), citato nella premessa, concernente il riordinamento della facolta' di ingegneria dell'Universita' di Ancona, e' rettificato come segue:   
-  
-Art. 18, lettera a):   
-  
+da
+                                a
+                            Laurea in ingegneria civile
+                                Laurea in ingegneria civile (sezione edile)
 
-|  |  |
-| --- | --- |
-| da | a |
-| Laurea in ingegneria civile | Laurea in ingegneria civile (sezione edile) |
+Art. 19:
 
-  
-  
-  
-  
-Art. 19:   
-  
+da
+                                a
+                            * Tecnologia degli elementi costruttivi
+                                * Tecnologie degli elementi costruttivi
 
-|  |  |
-| --- | --- |
-| da | a |
-| \* Tecnologia degli elementi costruttivi | \* Tecnologie degli elementi costruttivi |
+Art. 22:
 
-  
-  
-  
-Art. 22:   
-  
+da
+                                a
+                            Costruzioni delle macchine
+                                Costruzioni di macchine
+                            Macchine II
+                                * Macchine II
+                            Tecnologia generale dei materiali
+                                Tecnologie generali dei materiali
 
-|  |  |
-| --- | --- |
-| da | a |
-| Costruzioni delle macchine | Costruzioni di macchine |
-| Macchine II | \* Macchine II |
-| Tecnologia generale dei materiali | Tecnologie generali dei materiali |
+Art. 23:
 
-  
-  
-Art. 23:   
-  
-
-|  |  |
-| --- | --- |
-| da | a |
-| Tecnologia degli elementi costruttivi | Tecnologie degli elementi costruttivi |
-| Strumentazione chimica e analisi chimica strutturale | Strumentazione chimica e analisi chimica strumentale |
+da
+                                a
+                            Tecnologia degli elementi costruttivi
+                                Tecnologie degli elementi costruttivi
+                            Strumentazione chimica e analisi chimica strutturale
+                                Strumentazione chimica e analisi chimica strumentale
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 21 giugno 1984
+Dato a Roma, addi' 21 giugno 1984
 
-PERTINI FALCUCCI
-
-Visto, il Guardasigilli: MARTINAZZOLI
-
-Registrato alla Corte dei conti, addi' 1 ottobre 1984
-
-Registro n. 58 Istruzione, foglio n. 296
+PERTINI FALCUCCI Visto, il Guardasigilli: MARTINAZZOLI Registrato alla Corte dei conti, addi' 1 ottobre 1984 Registro n. 58 Istruzione, foglio n. 296

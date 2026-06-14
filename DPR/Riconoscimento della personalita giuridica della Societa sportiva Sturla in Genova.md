@@ -1,19 +1,21 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 26 aprile 1978 n. 410
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 410
+data: 1978-04-26
+titolo: "Riconoscimento della personalita' giuridica della Societa' sportiva Sturla, in Genova."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1978-04-26;410
+codice_redazionale: 078U0410
+vigente: true
+---
 
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 26 aprile 1978 n. 410
-=============================================================
-
-Riconoscimento della personalita' giuridica della Societa' sportiva Sturla, in Genova.
---------------------------------------------------------------------------------------
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-410. Decreto del Presidente della Repubblica 26 aprile 1978, col quale, sulla proposta del Ministro del turismo e dello spettacolo, viene riconosciuta la personalita' giuridica ed approvato lo statuto della Societa' sportiva Sturla, in Genova.  
-  
-Visto, il Guardasigilli: BONIFACIO  
-Registrato alla Corte dei conti, addi' 27 luglio 1978  
-Registro n. 3 Turismo, foglio n. 219
+410.
+
+Decreto del Presidente della Repubblica 26 aprile 1978, col quale, sulla proposta del Ministro del turismo e dello spettacolo, viene riconosciuta la personalita' giuridica ed approvato lo statuto della Societa' sportiva Sturla, in Genova.
+
+Visto, il Guardasigilli: BONIFACIO
+ Registrato alla Corte dei conti, addi' 27 luglio 1978
+ Registro n. 3 Turismo, foglio n. 219

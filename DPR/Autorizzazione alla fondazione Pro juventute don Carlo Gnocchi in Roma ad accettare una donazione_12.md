@@ -1,19 +1,21 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 09 aprile 1986 n. 419
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 274
+data: 1986-03-10
+titolo: "Autorizzazione alla fondazione \"Pro juventute don Carlo Gnocchi\", in Roma, ad accettare una donazione."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1986-03-10;274
+codice_redazionale: 086U0274
+vigente: true
+---
 
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 09 aprile 1986 n. 419
-=============================================================
-
-Autorizzazione alla fondazione "Pro juventute don Carlo Gnocchi", in Roma, ad accettare una donazione.
-------------------------------------------------------------------------------------------------------
-
-Art. 1
-------
+## Art. 1.
 
 n.
 
-419. Decreto del Presidente della Repubblica 9 aprile 1986, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la fondazione "Pro juventute don Carlo Gnocchi", in Roma, viene autorizzata ad accettare la donazione, consistente nella nuda proprieta' di un appartamento sito in Milano alla via Graziano Imperatore n. 32/34 distinto nel nuovo catasto edilizio urbano alla partita n. 27688, foglio 75, mappale 11, valore della nuda proprieta' L. 4.500.000, disposta dalla sig.ra Cattaneo Giuseppina in Locatelli con atto 4 marzo 1980, n. 213527/6808 di repertorio, a rogito dott. Oscar De Magistris, notaio in Milano, registrato a Milano in data 13 maggio 1980 al n. 5907.  
-  
-Visto, il Guardasigilli: MARTINAZZOLI  
-Registrato alla Corte dei conti, addi' 12 luglio 1986  
-Registro n. 7 Presidenza, foglio n. 16
+274.
+
+Decreto del Presidente della Repubblica 10 marzo 1986, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la fondazione "Pro juventute don Carlo Gnocchi", in Roma, viene autorizzata ad accettare la donazione, consistente nella nuda proprieta' di un immobile sito in Domo (Pavia), distinto al nuovo catasto edilizio urbano alla partita 549, foglio 19, mappali 630, 631 e 483, del valore di L. 70.000.000, disposta dalle sorelle Perotti Pierina ed Emilia, con atto 20 ottobre 1982, n. 1856/1225 di repertorio, a rogito dott. Ulderico Brambilla, notaio in Milano, registrato a Milano in data 29 ottobre 1982 al n. 18628.
+
+Visto, il Guardasigilli: MARTINAZZOLI
+ Registrato alla Corte dei conti, addi' 6 giugno 1986
+ Registro n. 5 Presidenza, foglio n. 85

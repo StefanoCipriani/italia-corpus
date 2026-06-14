@@ -1,176 +1,169 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 23 ottobre 1956 n. 1202
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 1202
+data: 1956-10-23
+titolo: "Norme di attuazione e di coordinamento della legge 25 luglio 1956, n. 860, concernente la definizione e la disciplina delle imprese artigiane, con le altre norme legislative vigenti per l'artigianato."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1956-10-23;1202
+codice_redazionale: 056U1202
+vigente: true
+---
 
+## Degli albi delle imprese artigiane
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 23 ottobre 1956 n. 1202
-===============================================================
+CAPO I
 
-Norme di attuazione e di coordinamento della legge 25 luglio 1956, n. 860, concernente la definizione e la disciplina delle imprese artigiane, con le altre norme legislative vigenti per l'artigianato.
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+### Art. 1.
 
-CAPO I CAPO I Degli albi delle imprese artigiane
-------------------------------------------------
+((PROVVEDIMENTO ABROGATO DALLA L. 8 AGOSTO 1985, N. 443))
 
-### Art. 1
+### Art. 2.
 
-((PROVVEDIMENTO ABROGATO DALLA [L. 8 AGOSTO 1985, N. 443](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1985-08-08;443)))
+((PROVVEDIMENTO ABROGATO DALLA L. 8 AGOSTO 1985, N. 443))
 
-### Art. 2
+### Art. 3.
 
-((PROVVEDIMENTO ABROGATO DALLA [L. 8 AGOSTO 1985, N. 443](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1985-08-08;443)))
+((PROVVEDIMENTO ABROGATO DALLA L. 8 AGOSTO 1985, N. 443))
 
-### Art. 3
+### Art. 4.
 
-((PROVVEDIMENTO ABROGATO DALLA [L. 8 AGOSTO 1985, N. 443](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1985-08-08;443)))
+((PROVVEDIMENTO ABROGATO DALLA L. 8 AGOSTO 1985, N. 443))
 
-### Art. 4
+### Art. 5.
 
-((PROVVEDIMENTO ABROGATO DALLA [L. 8 AGOSTO 1985, N. 443](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1985-08-08;443)))
+((PROVVEDIMENTO ABROGATO DALLA L. 8 AGOSTO 1985, N. 443))
 
-### Art. 5
+### Art. 6.
 
-((PROVVEDIMENTO ABROGATO DALLA [L. 8 AGOSTO 1985, N. 443](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1985-08-08;443)))
+((PROVVEDIMENTO ABROGATO DALLA L. 8 AGOSTO 1985, N. 443))
 
-### Art. 6
+### Art. 7.
 
-((PROVVEDIMENTO ABROGATO DALLA [L. 8 AGOSTO 1985, N. 443](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1985-08-08;443)))
+((PROVVEDIMENTO ABROGATO DALLA L. 8 AGOSTO 1985, N. 443))
 
-### Art. 7
+### Art. 8.
 
-((PROVVEDIMENTO ABROGATO DALLA [L. 8 AGOSTO 1985, N. 443](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1985-08-08;443)))
+((PROVVEDIMENTO ABROGATO DALLA L. 8 AGOSTO 1985, N. 443))
 
-### Art. 8
+## Delle Commissioni regionali e provinciali dell'artigianato
 
-((PROVVEDIMENTO ABROGATO DALLA [L. 8 AGOSTO 1985, N. 443](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1985-08-08;443)))
+CAPO II
 
-CAPO II CAPO II Delle Commissioni regionali e provinciali dell'artigianato
---------------------------------------------------------------------------
+### Art. 9.
 
-### Art. 9
+((PROVVEDIMENTO ABROGATO DALLA L. 8 AGOSTO 1985, N. 443))
 
-((PROVVEDIMENTO ABROGATO DALLA [L. 8 AGOSTO 1985, N. 443](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1985-08-08;443)))
+### Art. 10.
 
-### Art. 10
+((PROVVEDIMENTO ABROGATO DALLA L. 8 AGOSTO 1985, N. 443))
 
-((PROVVEDIMENTO ABROGATO DALLA [L. 8 AGOSTO 1985, N. 443](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1985-08-08;443)))
+### Art. 11.
 
-### Art. 11
+((PROVVEDIMENTO ABROGATO DALLA L. 8 AGOSTO 1985, N. 443))
 
-((PROVVEDIMENTO ABROGATO DALLA [L. 8 AGOSTO 1985, N. 443](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1985-08-08;443)))
+### Art. 12.
 
-### Art. 12
+((PROVVEDIMENTO ABROGATO DALLA L. 8 AGOSTO 1985, N. 443))
 
-((PROVVEDIMENTO ABROGATO DALLA [L. 8 AGOSTO 1985, N. 443](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1985-08-08;443)))
+### Art. 13.
 
-### Art. 13
+((PROVVEDIMENTO ABROGATO DALLA L. 8 AGOSTO 1985, N. 443))
 
-((PROVVEDIMENTO ABROGATO DALLA [L. 8 AGOSTO 1985, N. 443](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1985-08-08;443)))
+### Art. 14.
 
-### Art. 14
+((PROVVEDIMENTO ABROGATO DALLA L. 8 AGOSTO 1985, N. 443))
 
-((PROVVEDIMENTO ABROGATO DALLA [L. 8 AGOSTO 1985, N. 443](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1985-08-08;443)))
+### Art. 15.
 
-### Art. 15
+((PROVVEDIMENTO ABROGATO DALLA L. 8 AGOSTO 1985, N. 443))
 
-((PROVVEDIMENTO ABROGATO DALLA [L. 8 AGOSTO 1985, N. 443](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1985-08-08;443)))
+## Del Comitato centrale dell'artigianato
 
-CAPO III CAPO III Del Comitato centrale dell'artigianato
---------------------------------------------------------
+CAPO III
 
-### Art. 16
+### Art. 16.
 
-((PROVVEDIMENTO ABROGATO DALLA [L. 8 AGOSTO 1985, N. 443](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1985-08-08;443)))
+((PROVVEDIMENTO ABROGATO DALLA L. 8 AGOSTO 1985, N. 443))
 
-### Art. 17
+### Art. 17.
 
-((PROVVEDIMENTO ABROGATO DALLA [L. 8 AGOSTO 1985, N. 443](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1985-08-08;443)))
+((PROVVEDIMENTO ABROGATO DALLA L. 8 AGOSTO 1985, N. 443))
 
-### Art. 18
+### Art. 18.
 
-((PROVVEDIMENTO ABROGATO DALLA [L. 8 AGOSTO 1985, N. 443](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1985-08-08;443)))
+((PROVVEDIMENTO ABROGATO DALLA L. 8 AGOSTO 1985, N. 443))
 
-CAPO IV CAPO IV Disposizioni transitorie
-----------------------------------------
+## Disposizioni transitorie
 
-### Art. 19
+CAPO IV
 
-((PROVVEDIMENTO ABROGATO DALLA [L. 8 AGOSTO 1985, N. 443](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1985-08-08;443)))
+### Art. 19.
 
-### Art. 20
+((PROVVEDIMENTO ABROGATO DALLA L. 8 AGOSTO 1985, N. 443))
 
-((PROVVEDIMENTO ABROGATO DALLA [L. 8 AGOSTO 1985, N. 443](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1985-08-08;443)))
+### Art. 20.
 
-### Art. 21
+((PROVVEDIMENTO ABROGATO DALLA L. 8 AGOSTO 1985, N. 443))
 
-((PROVVEDIMENTO ABROGATO DALLA [L. 8 AGOSTO 1985, N. 443](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1985-08-08;443)))
+### Art. 21.
 
-### Art. 22
+((PROVVEDIMENTO ABROGATO DALLA L. 8 AGOSTO 1985, N. 443))
 
-((PROVVEDIMENTO ABROGATO DALLA [L. 8 AGOSTO 1985, N. 443](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1985-08-08;443)))
+### Art. 22.
 
-### Art. 23
+((PROVVEDIMENTO ABROGATO DALLA L. 8 AGOSTO 1985, N. 443))
 
-((PROVVEDIMENTO ABROGATO DALLA [L. 8 AGOSTO 1985, N. 443](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1985-08-08;443)))
+### Art. 23.
 
-### Art. 24
+((PROVVEDIMENTO ABROGATO DALLA L. 8 AGOSTO 1985, N. 443))
 
-((PROVVEDIMENTO ABROGATO DALLA [L. 8 AGOSTO 1985, N. 443](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1985-08-08;443)))
+### Art. 24.
 
-### Art. 25
+((PROVVEDIMENTO ABROGATO DALLA L. 8 AGOSTO 1985, N. 443))
 
-((PROVVEDIMENTO ABROGATO DALLA [L. 8 AGOSTO 1985, N. 443](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1985-08-08;443)))
+### Art. 25.
 
-### Art. 26
+((PROVVEDIMENTO ABROGATO DALLA L. 8 AGOSTO 1985, N. 443))
 
-((PROVVEDIMENTO ABROGATO DALLA [L. 8 AGOSTO 1985, N. 443](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1985-08-08;443)))
+### Art. 26.
 
-### Art. 27
+((PROVVEDIMENTO ABROGATO DALLA L. 8 AGOSTO 1985, N. 443))
 
-((PROVVEDIMENTO ABROGATO DALLA [L. 8 AGOSTO 1985, N. 443](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1985-08-08;443)))
+### Art. 27.
 
-### Art. 28
+((PROVVEDIMENTO ABROGATO DALLA L. 8 AGOSTO 1985, N. 443))
 
-((PROVVEDIMENTO ABROGATO DALLA [L. 8 AGOSTO 1985, N. 443](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1985-08-08;443)))
+### Art. 28.
 
-### Art. 29
+((PROVVEDIMENTO ABROGATO DALLA L. 8 AGOSTO 1985, N. 443))
 
-((PROVVEDIMENTO ABROGATO DALLA [L. 8 AGOSTO 1985, N. 443](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1985-08-08;443)))
+### Art. 29.
 
-### Art. 30
+((PROVVEDIMENTO ABROGATO DALLA L. 8 AGOSTO 1985, N. 443))
 
-((PROVVEDIMENTO ABROGATO DALLA [L. 8 AGOSTO 1985, N. 443](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1985-08-08;443)))
+### Art. 30.
 
-### Art. 31
+((PROVVEDIMENTO ABROGATO DALLA L. 8 AGOSTO 1985, N. 443))
 
-((PROVVEDIMENTO ABROGATO DALLA [L. 8 AGOSTO 1985, N. 443](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1985-08-08;443)))
+### Art. 31.
 
-### Art. 32
+((PROVVEDIMENTO ABROGATO DALLA L. 8 AGOSTO 1985, N. 443))
 
-((PROVVEDIMENTO ABROGATO DALLA [L. 8 AGOSTO 1985, N. 443](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1985-08-08;443)))
+### Art. 32.
 
-### Art. 33
+((PROVVEDIMENTO ABROGATO DALLA L. 8 AGOSTO 1985, N. 443))
 
-((PROVVEDIMENTO ABROGATO DALLA [L. 8 AGOSTO 1985, N. 443](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1985-08-08;443)))
+### Art. 33.
 
-### Art. 34
+((PROVVEDIMENTO ABROGATO DALLA L. 8 AGOSTO 1985, N. 443))
 
-((PROVVEDIMENTO ABROGATO DALLA [L. 8 AGOSTO 1985, N. 443](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1985-08-08;443)))
+### Art. 34.
 
-### Art. 35
+((PROVVEDIMENTO ABROGATO DALLA L. 8 AGOSTO 1985, N. 443))
 
-((PROVVEDIMENTO ABROGATO DALLA [L. 8 AGOSTO 1985, N. 443](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1985-08-08;443)))
+### Art. 35.
 
-### Art. 36
+((PROVVEDIMENTO ABROGATO DALLA L. 8 AGOSTO 1985, N. 443))
 
-((PROVVEDIMENTO ABROGATO DALLA [L. 8 AGOSTO 1985, N. 443](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1985-08-08;443)))
+### Art. 36.
 
-Allegato
-
- Allegato   
-
-((PROVVEDIMENTO ABROGATO DALLA [L. 8 AGOSTO 1985, N. 443](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1985-08-08;443)))
-
-Allegato
-
- Allegato   
-
-((PROVVEDIMENTO ABROGATO DALLA [L. 8 AGOSTO 1985, N. 443](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1985-08-08;443)))
+((PROVVEDIMENTO ABROGATO DALLA L. 8 AGOSTO 1985, N. 443))

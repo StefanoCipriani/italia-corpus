@@ -1,45 +1,32 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 14 agosto 1968 n. 1121
-
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 14 agosto 1968 n. 1121
-==============================================================
-
-Modifica all'art. 12 del decreto del Presidente della Repubblica 28 luglio 1967, n. 851, recante norme in materia di tessere di riconoscimento rilasciate dalle amministrazioni dello Stato.
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 1121
+data: 1968-08-14
+titolo: "Modifica all'art. 12 del decreto del Presidente della Repubblica 28 luglio 1967, n. 851, recante norme in materia di tessere di riconoscimento rilasciate dalle amministrazioni dello Stato."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1968-08-14;1121
+codice_redazionale: 068U1121
+vigente: true
+---
 
 IL PRESIDENTE DELLA REPUBBLICA
-------------------------------
 
-Visto l'[art. 87, comma quinto, della Costituzione](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27~art87-com5);
+Visto l'[art. 87, comma quinto, della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87-com5);
 
-Visto il [decreto del Presidente della Repubblica 28 luglio 1967, n. 851](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1967-07-28;851), recante norme in materia di tessere di riconoscimento rilasciate dalle amministrazioni dello Stato;
+Visto il [decreto del Presidente della Repubblica 28 luglio 1967, n. 851](Norme%20in%20materia%20di%20tessere%20di%20riconoscimento%20rilasciate%20dalle%20Amministrazioni%20dello%20Stato.md), recante norme in materia di tessere di riconoscimento rilasciate dalle amministrazioni dello Stato;
 
 Udito il parere del Consiglio di Stato;
 
 Sentito il Consiglio dei Ministri;
 
-Sulla
------
+Sulla proposta del Presidente del Consiglio dei Ministri, di concerto con i Ministri per il tesoro e per i trasporti e l'aviazione civile; Decreta:
 
-proposta del Presidente del Consiglio dei Ministri, di concerto con i Ministri per il tesoro e per i trasporti e l'aviazione civile; Decreta:
+## Articolo unico
 
-Articolo unico
---------------
-
-  
-Il [primo comma dell'articolo 12 del decreto del Presidente della Repubblica 28 luglio 1967, n. 851](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1967-07-28;851~art12-com1), e' sostituito dal seguente:  
-"Le tessere ferroviarie rilasciate o rinnovate entro il 31 dicembre 1968 a norma delle disposizioni abrogate dal presente decreto restano valide sino alla loro scadenza".  
-  
+Il [primo comma dell'articolo 12 del decreto del Presidente della Repubblica 28 luglio 1967, n. 851](Norme%20in%20materia%20di%20tessere%20di%20riconoscimento%20rilasciate%20dalle%20Amministrazioni%20dello%20Stato.md), e' sostituito dal seguente:
+ "Le tessere ferroviarie rilasciate o rinnovate entro il 31 dicembre 1968 a norma delle disposizioni abrogate dal presente decreto restano valide sino alla loro scadenza".
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 14 agosto 1968
+Dato a Roma, addi' 14 agosto 1968
 
-SARAGAT LEONE - COLOMBO - SCALFARO
-
-Visto, il Guardasigilli: GONELLA
-
-Registrato alla Corte dei conti, addi' 25 ottobre 1968
-
-Atti del Governo, registro n. 223, foglio n. 50. - GRECO
+SARAGAT LEONE - COLOMBO - SCALFARO Visto, il Guardasigilli: GONELLA Registrato alla Corte dei conti, addi' 25 ottobre 1968 Atti del Governo, registro n. 223, foglio n. 50. - GRECO

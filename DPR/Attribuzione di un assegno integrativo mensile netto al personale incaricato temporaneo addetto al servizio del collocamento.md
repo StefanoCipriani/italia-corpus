@@ -1,71 +1,54 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 27 aprile 1955 n. 381
-
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 27 aprile 1955 n. 381
-=============================================================
-
-Attribuzione di un assegno integrativo mensile netto al personale incaricato temporaneo addetto al servizio del collocamento.
------------------------------------------------------------------------------------------------------------------------------
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 381
+data: 1955-04-27
+titolo: "Attribuzione di un assegno integrativo mensile netto al personale incaricato temporaneo addetto al servizio del collocamento."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1955-04-27;381
+codice_redazionale: 055U0381
+vigente: true
+---
 
 IL PRESIDENTE DELLA REPUBBLICA
-------------------------------
 
-Visto l'[art. 87, comma quinto, della Costituzione](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27~art87-com5);
+Visto l'[art. 87, comma quinto, della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87-com5);
 
-Visti gli [articoli 1](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1954-12-20;1181~art1), [3](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1954-12-20;1181~art3) e [6 della legge 20 dicembre 1954, n. 1181](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1954-12-20;1181~art6), concernente delega al Governo per l'emanazione delle norme relative al nuovo statuto degli impiegati civili e degli altri dipendenti dello Stato;
+Visti gli [articoli 1](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1954-12-20;1181#art_1), [3](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1954-12-20;1181#art_3) e [6 della legge 20 dicembre 1954, n. 1181](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1954-12-20;1181#art_6), concernente delega al Governo per l'emanazione delle norme relative al nuovo statuto degli impiegati civili e degli altri dipendenti dello Stato;
 
-Visto l'[art. 4 del decreto del Presidente della Repubblica 4 febbraio 1955, n. 23](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1955-02-04;23~art4);
+Visto l'[art. 4 del decreto del Presidente della Repubblica 4 febbraio 1955, n. 23](Attribuzione%20al%20personale%20statale%20in%20attivita%20di%20servizio%20ed%20in%20quiescenza%20di%20un%20assegno%20integrativo%20netto%20mensile.md);
 
-Udito il parere della Commissione parlamentare di cui all'[art. 3 della legge 20 dicembre 1954, n. 1181](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1954-12-20;1181~art3);
+Udito il parere della Commissione parlamentare di cui all'[art. 3 della legge 20 dicembre 1954, n. 1181](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1954-12-20;1181#art_3);
 
 Sentito il Consiglio dei Ministri;
 
-Sulla
------
+Sulla proposta del Presidente del Consiglio dei Ministri, di concerto con il Ministro per il tesoro; Decreta:
 
-proposta del Presidente del Consiglio dei Ministri, di concerto con il Ministro per il tesoro; Decreta:
+## Art. 1.
 
-Art. 1
-------
+Al personale incaricato temporaneo addetto al servizio del collocamento, di cui all'[art. 5 del decreto legislativo 15 aprile 1948, n. 381](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1948-04-15;381#art_5) e all'[art. 24 della legge 29 aprile 1949, n. 264](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1949-04-29;264#art_24), e' concesso, a, decorrere dal 1 gennaio 1954 e fino al 30 giugno 1955, in aggiunta alle competenze in vigore fissate dalla [legge 20 luglio 1952, n. 1015](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1952-07-20;1015), un assegno integrativo mensile, non cedibile e non pignorabile o sequestrabile, nella misura netta indicata, come appresso, per ciascun importo del compenso annuo lordo di cui alla tabella dell'art. 1 della stessa [legge 20 luglio 1952, n. 1015](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1952-07-20;1015):
+ Assegno integrativo
+ Compenso annuo lordo mensile netto
+ Lire Lire
+ --------- --------
 
-  
-Al personale incaricato temporaneo addetto al servizio del collocamento, di cui all'[art. 5 del decreto legislativo 15 aprile 1948, n. 381](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1948-04-15;381~art5) e all'[art. 24 della legge 29 aprile 1949, n. 264](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1949-04-29;264~art24), e' concesso, a, decorrere dal 1 gennaio 1954 e fino al 30 giugno 1955, in aggiunta alle competenze in vigore fissate dalla [legge 20 luglio 1952, n. 1015](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1952-07-20;1015), un assegno integrativo mensile, non cedibile e non pignorabile o sequestrabile, nella misura netta indicata, come appresso, per ciascun importo del compenso annuo lordo di cui alla tabella dell'art. 1 della stessa [legge 20 luglio 1952, n. 1015](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1952-07-20;1015):  
-Assegno integrativo  
-Compenso annuo lordo mensile netto  
-Lire Lire  
---------- --------  
-  
-120.000 2.500  
-180.000 2.750  
-216.000 3.250  
-240.000 3.750  
-264.000 4.250  
-300.000 4.500  
-360.000 5.000  
+ 120.000 2.500
+ 180.000 2.750
+ 216.000 3.250
+ 240.000 3.750
+ 264.000 4.250
+ 300.000 4.500
+ 360.000 5.000
 
-Art. 2
-------
+## Art. 2.
 
-  
-Sono estese all'assegno integrativo di cui al precedente articolo, in quanto applicabili, le disposizioni contenute negli [articoli 2](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1955-02-04;23~art2), [3](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1955-02-04;23~art3), [5](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1955-02-04;23~art5), [6](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1955-02-04;23~art6) e [14 del decreto del Presidente della Repubblica 4 febbraio 1955, n. 23](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1955-02-04;23~art14).  
-Sull'assegno stesso non gravano le ritenute previdenziali, assistenziali ed erariali.  
+Sono estese all'assegno integrativo di cui al precedente articolo, in quanto applicabili, le disposizioni contenute negli [articoli 2](Attribuzione%20al%20personale%20statale%20in%20attivita%20di%20servizio%20ed%20in%20quiescenza%20di%20un%20assegno%20integrativo%20netto%20mensile.md), [3](Attribuzione%20al%20personale%20statale%20in%20attivita%20di%20servizio%20ed%20in%20quiescenza%20di%20un%20assegno%20integrativo%20netto%20mensile.md), [5](Attribuzione%20al%20personale%20statale%20in%20attivita%20di%20servizio%20ed%20in%20quiescenza%20di%20un%20assegno%20integrativo%20netto%20mensile.md), [6](Attribuzione%20al%20personale%20statale%20in%20attivita%20di%20servizio%20ed%20in%20quiescenza%20di%20un%20assegno%20integrativo%20netto%20mensile.md) e [14 del decreto del Presidente della Repubblica 4 febbraio 1955, n. 23](Attribuzione%20al%20personale%20statale%20in%20attivita%20di%20servizio%20ed%20in%20quiescenza%20di%20un%20assegno%20integrativo%20netto%20mensile.md).
+ Sull'assegno stesso non gravano le ritenute previdenziali, assistenziali ed erariali.
 
-Art. 3
-------
+## Art. 3.
 
-  
-Il presente decreto entra in vigore il giorno successivo a quello della sua pubblicazione nella Gazzetta Ufficiali della. Repubblica italiana.  
-  
+Il presente decreto entra in vigore il giorno successivo a quello della sua pubblicazione nella Gazzetta Ufficiali della. Repubblica italiana.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 27 aprile 1955
+Dato a Roma, addi' 27 aprile 1955
 
-EINAUDI SCELBA - GAVA
-
-Visto, il Guardasigilli: DE PIETRO
-
-Registrato alla Corte dei conti, addi' 12 maggio 1955
-
-Atti del Governo, registro n. 90, foglio n. 160. - GRECO
+EINAUDI SCELBA - GAVA Visto, il Guardasigilli: DE PIETRO Registrato alla Corte dei conti, addi' 12 maggio 1955 Atti del Governo, registro n. 90, foglio n. 160. - GRECO

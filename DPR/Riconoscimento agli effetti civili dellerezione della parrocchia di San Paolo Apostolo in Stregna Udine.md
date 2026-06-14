@@ -1,19 +1,21 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 25 luglio 1956 n. 1039
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 1039
+data: 1956-07-25
+titolo: "Riconoscimento, agli effetti civili, dell'erezione della parrocchia di San Paolo Apostolo, in Stregna (Udine)."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1956-07-25;1039
+codice_redazionale: 056U1039
+vigente: true
+---
 
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 25 luglio 1956 n. 1039
-==============================================================
-
-Riconoscimento, agli effetti civili, dell'erezione della parrocchia di San Paolo Apostolo, in Stregna (Udine).
---------------------------------------------------------------------------------------------------------------
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-1039. Decreto del Presidente della Repubblica 25 luglio 1956, col quale, sulla proposta del Ministro per l'interno, viene riconosciuto, agli effetti civili, il decreto dell'Ordinario diocesano di Udine in data 5 dicembre 1955, integrato con dichiarazione di pari data relativo all'erezione della parrocchia di San Paolo Apostolo, in Stregna (Udine).  
-  
-Visto, il Guardasigilli: MORO  
-Registrato alla Corte dei conti, addi' 3 settembre 1956  
-Atti del Governo, registro n. 100, foglio n. 112. - CARLOMAGNO
+1039.
+
+Decreto del Presidente della Repubblica 25 luglio 1956, col quale, sulla proposta del Ministro per l'interno, viene riconosciuto, agli effetti civili, il decreto dell'Ordinario diocesano di Udine in data 5 dicembre 1955, integrato con dichiarazione di pari data relativo all'erezione della parrocchia di San Paolo Apostolo, in Stregna (Udine).
+
+Visto, il Guardasigilli: MORO
+ Registrato alla Corte dei conti, addi' 3 settembre 1956
+ Atti del Governo, registro n. 100, foglio n. 112. - CARLOMAGNO

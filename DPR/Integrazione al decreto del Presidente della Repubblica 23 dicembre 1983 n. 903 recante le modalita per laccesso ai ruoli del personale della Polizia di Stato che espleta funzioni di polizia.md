@@ -1,18 +1,18 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 25 giugno 1985 n. 419
-
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 25 giugno 1985 n. 419
-=============================================================
-
-Integrazione al decreto del Presidente della Repubblica 23 dicembre 1983, n. 903, recante le modalita' per l'accesso ai ruoli del personale della Polizia di Stato che espleta funzioni di polizia.
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 419
+data: 1985-06-25
+titolo: "Integrazione al decreto del Presidente della Repubblica 23 dicembre 1983, n. 903, recante le modalita' per l'accesso ai ruoli del personale della Polizia di Stato che espleta funzioni di polizia."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1985-06-25;419
+codice_redazionale: 085U0419
+vigente: true
+---
 
 IL PRESIDENTE DELLA REPUBBLICA
-------------------------------
 
-Visto l'[art. 87, comma quinto, della Costituzione](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27~art87-com5);
+Visto l'[art. 87, comma quinto, della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87-com5);
 
-Visto il [decreto del Presidente della Repubblica 23 dicembre 1983, n. 903](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1983-12-23;903), recante le modalita' per l'accesso ai ruoli del personale della Polizia di Stato che espleta funzioni di polizia;
+Visto il [decreto del Presidente della Repubblica 23 dicembre 1983, n. 903](Approvazione%20del%20regolamento%20per%20laccesso%20ai%20ruoli%20del%20personale%20della%20Polizia%20di%20Stato%20che%20espleta%20funzioni%20di%20polizia.md), recante le modalita' per l'accesso ai ruoli del personale della Polizia di Stato che espleta funzioni di polizia;
 
 Ritenuta la necessita' di integrare il predetto regolamento;
 
@@ -22,32 +22,15 @@ Vista la deliberazione del Consiglio dei Ministri adottata nella seduta del 21 g
 
 Sulla proposta del Ministro dell'interno;
 
-EMANA
------
+EMANA il seguente decreto:
 
-il seguente decreto:
+## Art. 1.
 
-Art. 1
-------
-
-  
-Al [decreto del Presidente della Repubblica 23 dicembre 1983, n. 903](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1983-12-23;903), e' aggiunto il seguente articolo:  
-"Art. 44 (Norme di carattere generale). - L'Amministrazione, in relazione al numero dei candidati ai concorsi di cui al presente decreto, puo' far precedere le prove di esame all'accertamento dei requisiti psicofisici e attitudinali".  
-  
+Al [decreto del Presidente della Repubblica 23 dicembre 1983, n. 903](Approvazione%20del%20regolamento%20per%20laccesso%20ai%20ruoli%20del%20personale%20della%20Polizia%20di%20Stato%20che%20espleta%20funzioni%20di%20polizia.md), e' aggiunto il seguente articolo:
+ "Art. 44 (Norme di carattere generale). - L'Amministrazione, in relazione al numero dei candidati ai concorsi di cui al presente decreto, puo' far precedere le prove di esame all'accertamento dei requisiti psicofisici e attitudinali".
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 25 giugno 1985
+Dato a Roma, addi' 25 giugno 1985
 
-PERTINI
-
-CRAXI, Presidente del Consiglio dei Ministri
-
-SCALFARO, Ministro dell'interno
-
-Visto, il Guardasigilli: MARTINAZZOLI
-
-Registrato alla Corte dei conti, addi' 10 agosto 1985
-
-Atti di Governo, registro n. 55, foglio n. 31
+PERTINI CRAXI, Presidente del Consiglio dei Ministri SCALFARO, Ministro dell'interno Visto, il Guardasigilli: MARTINAZZOLI Registrato alla Corte dei conti, addi' 10 agosto 1985 Atti di Governo, registro n. 55, foglio n. 31

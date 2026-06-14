@@ -1,35 +1,27 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 20 aprile 1951 n. 567
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 567
+data: 1951-04-20
+titolo: "Dichiarazione di monumento nazionale della Badia di Vallombrosa in Reggello (Firenze)."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1951-04-20;567
+codice_redazionale: 051U0567
+vigente: true
+---
 
+## Art. 1.
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 20 aprile 1951 n. 567
-=============================================================
+IL PRESIDENTE DELLA REPUBBLICA
 
-Dichiarazione di monumento nazionale della Badia di Vallombrosa in Reggello (Firenze).
---------------------------------------------------------------------------------------
+ Visto il provvedimento con il quale e' stato imposto il vincolo di importante interesse alla Badia di Vallombrosa, nel comune di Reggello (Firenze), ai sensi della, [legge 1 giugno 1939, n. 1089](../Atti%20normativi%20abrogati%20%28in%20originale%29/Tutela%20delle%20cose%20dinteresse%20artistico%20o%20storico.%20039U1089.md);
+ Considerata l'opportunita' che la predetta Badia sia additata al rispetto della Nazione per l'interesse storico-monumentale che si collega alla storia della Regola monastica Benedettina Vallombrosana;
+ Sulla proposta del Ministro Segretario di Stato per la pubblica istruzione;
 
-Art. 1
-------
+ Decreta:
 
- IL PRESIDENTE DELLA REPUBBLICA  
-  
-Visto il provvedimento con il quale e' stato imposto il vincolo di importante interesse alla Badia di Vallombrosa, nel comune di Reggello (Firenze), ai sensi della, [legge 1 giugno 1939, n. 1089](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1939-06-01;1089);  
-Considerata l'opportunita' che la predetta Badia sia additata al rispetto della Nazione per l'interesse storico-monumentale che si collega alla storia della Regola monastica Benedettina Vallombrosana;  
-Sulla proposta del Ministro Segretario di Stato per la pubblica istruzione;  
-  
-Decreta:  
-  
-La Badia di Vallombrosa e' dichiarata monumento nazionale.  
-  
+ La Badia di Vallombrosa e' dichiarata monumento nazionale.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 20 aprile 1951
+Dato a Roma, addi' 20 aprile 1951
 
-EINAUDI GONELLA
-
-Visto, il Guardasigilli: PICCIONI
-
-Registrato alla Corte dei conti, addi' 20 luglio 1951
-
-Atti del Governo, registro n. 40, foglio n. 41. - FRASCA
+EINAUDI GONELLA Visto, il Guardasigilli: PICCIONI Registrato alla Corte dei conti, addi' 20 luglio 1951 Atti del Governo, registro n. 40, foglio n. 41. - FRASCA

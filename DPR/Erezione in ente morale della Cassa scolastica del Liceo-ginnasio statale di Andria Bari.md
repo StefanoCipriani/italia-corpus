@@ -1,19 +1,21 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 22 gennaio 1955 n. 215
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 215
+data: 1955-01-22
+titolo: "Erezione in ente morale della Cassa scolastica del Liceo-ginnasio statale di Andria (Bari)."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1955-01-22;215
+codice_redazionale: 055U0215
+vigente: true
+---
 
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 22 gennaio 1955 n. 215
-==============================================================
-
-Erezione in ente morale della Cassa scolastica del Liceo-ginnasio statale di Andria (Bari).
--------------------------------------------------------------------------------------------
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-215. Decreto del Presidente della Repubblica 22 gennaio 1955, col quale, sulla proposta del Ministro per la pubblica istruzione, la Cassa scolastica del Liceo-ginnasio statale di Andria (Bari) viene eretta in ente morale e ne viene approvato lo statuto.  
-  
-Visto, il Guardasigilli: DE PIETRO  
-Registrato alla Corte dei conti, addi' 29 marzo 1955  
-Atti del Governo, registro n. 89, foglio n. 204. - CARLOMAGNO
+215.
+
+Decreto del Presidente della Repubblica 22 gennaio 1955, col quale, sulla proposta del Ministro per la pubblica istruzione, la Cassa scolastica del Liceo-ginnasio statale di Andria (Bari) viene eretta in ente morale e ne viene approvato lo statuto.
+
+Visto, il Guardasigilli: DE PIETRO
+ Registrato alla Corte dei conti, addi' 29 marzo 1955
+ Atti del Governo, registro n. 89, foglio n. 204. - CARLOMAGNO

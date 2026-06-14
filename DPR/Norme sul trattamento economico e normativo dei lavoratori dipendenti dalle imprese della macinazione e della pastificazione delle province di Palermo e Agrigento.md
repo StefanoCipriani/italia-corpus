@@ -1,20 +1,20 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 gennaio 1962 n. 847
-
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 gennaio 1962 n. 847
-==============================================================
-
-Norme sul trattamento economico e normativo dei lavoratori dipendenti dalle imprese della macinazione e della pastificazione delle province di Palermo e Agrigento.
--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 847
+data: 1962-01-02
+titolo: "Norme sul trattamento economico e normativo dei lavoratori dipendenti dalle imprese della macinazione e della pastificazione delle province di Palermo e Agrigento."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1962-01-02;847
+codice_redazionale: 062U0847
+vigente: true
+---
 
 IL PRESIDENTE DELLA REPUBBLICA
-------------------------------
 
-Visto l'[art. 87, comma quinto, della Costituzione](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27~art87-com5);
+Visto l'[art. 87, comma quinto, della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87-com5);
 
-Vista la [legge 14 luglio 1959, n. 741](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1959-07-14;741), che delega il Governo ad emanare norme transitorie per garantire minimi di trattamento economico e normativo ai lavoratori;
+Vista la [legge 14 luglio 1959, n. 741](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1959-07-14;741), che delega il Governo ad emanare norme transitorie per garantire minimi di trattamento economico e normativo ai lavoratori;
 
-Vista la [legge 1 ottobre 1960, n. 1027](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1960-10-01;1027), recante modifiche alla predetta [legge 14 luglio 1959, n. 741](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1959-07-14;741);
+Vista la [legge 1 ottobre 1960, n. 1027](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1960-10-01;1027), recante modifiche alla predetta [legge 14 luglio 1959, n. 741](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1959-07-14;741);
 
 Visto l'accordo collettivo 23 novembre 1954, relativo all'applicazione del conglobamento alla Regione Siciliana;
 
@@ -34,63 +34,17 @@ Vista la pubblicazione nell'apposito Bollettino, n. 2 della provincia di Palermo
 
 Sentito il Consiglio dei Ministri;
 
-Sulla
------
+Sulla proposta del Ministro per il lavoro e la previdenza sociale; Decreta:
 
-proposta del Ministro per il lavoro e la previdenza sociale; Decreta:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-I rapporti di lavoro costituiti per le attivita' per le quali sono stati stipulati:  
-- per la provincia di Palermo, l'accordo collettivo 2 ottobre 1959, relativo agli addetti all'industria della macinazione e della pastificazione;  
-- per la provincia di Agrigento, il contratto collettivo 16 settembre 1952, relativo ai lavoratori dipendenti dalle aziende esercenti l'industria della macinazione e della pastificazione, l'accordo collettivo 13 agosto 1956, relativo al rinnovo del predetto contratto collettivo 16 settembre 1952 e alla determinazione dei minimi di retribuzione per gli operai dipendenti da aziende esercenti molini e pastifici, l'accordo collettivo 11 gennaio 1958, relative alla proroga con modifiche del contratto collettivo 16 settembre 1952 per gli addetti all'industria della macinazione e della pastificazione, sono regolati da norme giuridiche uniformi alle clausole del contratto e degli accordi collettivi anzidetti, annessi al presente decreto, purche' compatibili con quelle concernenti la disciplina nazionale della categoria.  
-I minimi di trattamento economico e normativo cosi' stabiliti sono inderogabili nei confronti di tutti i lavoratori dipendenti dalle imprese della macinazione e della pastificazione delle province di Palermo e Agrigento.  
-  
+I rapporti di lavoro costituiti per le attivita' per le quali sono stati stipulati:
+ - per la provincia di Palermo, l'accordo collettivo 2 ottobre 1959, relativo agli addetti all'industria della macinazione e della pastificazione;
+ - per la provincia di Agrigento, il contratto collettivo 16 settembre 1952, relativo ai lavoratori dipendenti dalle aziende esercenti l'industria della macinazione e della pastificazione, l'accordo collettivo 13 agosto 1956, relativo al rinnovo del predetto contratto collettivo 16 settembre 1952 e alla determinazione dei minimi di retribuzione per gli operai dipendenti da aziende esercenti molini e pastifici, l'accordo collettivo 11 gennaio 1958, relative alla proroga con modifiche del contratto collettivo 16 settembre 1952 per gli addetti all'industria della macinazione e della pastificazione, sono regolati da norme giuridiche uniformi alle clausole del contratto e degli accordi collettivi anzidetti, annessi al presente decreto, purche' compatibili con quelle concernenti la disciplina nazionale della categoria.
+ I minimi di trattamento economico e normativo cosi' stabiliti sono inderogabili nei confronti di tutti i lavoratori dipendenti dalle imprese della macinazione e della pastificazione delle province di Palermo e Agrigento.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 2 gennaio 1962
+Dato a Roma, addi' 2 gennaio 1962
 
-GRONCHI FANFANI - SULLO
-
-Visto, il Guardasigilli: BOSCO
-
-Registrato alla Corte dei conti, addi' 13 giugno 1962
-
-Atti del Governo, registro n. 150, foglio n. 79. - VILLA
-
-Allegato
-
-ACCORDO COLLETTIVO 2 OTTOBRE 1959 PER GLI ADDETTI ALL'INDUSTRIA DELLA MACINAZIONE E DELLA PASTIFICAZIONE DELLA PROVINCIA DI PALERMO.   
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=062U084700100010110001&dgu=1962-07-20&art.dataPubblicazioneGazzetta=1962-07-20&art.codiceRedazionale=062U0847)
-  
-  
-  
-  
-CONTRATTO COLLETTIVO 16 SETTEMBRE 1952 PER I LAVORATORI DIPENDENTI DALLE AZIENDE ESERCENTI L'INDUSTRIA DELLA MACINAZIONE E DELLA PASTIFICAZIONE DELLA PROVINCIA DI AGRIGENTO.   
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=062U084700100010110002&dgu=1962-07-20&art.dataPubblicazioneGazzetta=1962-07-20&art.codiceRedazionale=062U0847)
-  
-  
-  
-  
-ACCORDO COLLETTIVO 13 AGOSTO 1956 PER IL RINNOVO DEL CONTRATTO COLLETTIVO 16 SETTEMBRE 1952 E LA DETERMINAZIONE DEI MINIMI DI RETRIBUZIONE PER GLI OPERAI DIPENDENTI DA AZIENDE ESERCENTI MOLINI E PASTIFICI DELLA PROVINCIA DI AGRIGENTO.   
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=062U084700100010110003&dgu=1962-07-20&art.dataPubblicazioneGazzetta=1962-07-20&art.codiceRedazionale=062U0847)
-  
-  
-  
-  
-ACCORDO COLLETTIVO 11 GENNAIO 1958 PER LA PROROGA CON MODIFICHE DEL CONTRATTO COLLETTIVO 16 SETTEMBRE 1952 PER GLI ADDETTI ALL'INDUSTRIA DELLA MACINAZIONE E DELLA PASTIFICAZIONE DELLA PROVINCIA DI AGRIGENTO.   
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=062U084700100010110004&dgu=1962-07-20&art.dataPubblicazioneGazzetta=1962-07-20&art.codiceRedazionale=062U0847)
-  
+GRONCHI FANFANI - SULLO Visto, il Guardasigilli: BOSCO Registrato alla Corte dei conti, addi' 13 giugno 1962 Atti del Governo, registro n. 150, foglio n. 79. - VILLA

@@ -1,19 +1,21 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 25 luglio 1952 n. 4573
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 4573
+data: 1952-07-25
+titolo: "Erezione in ente morale del Centro di studi per la storia dell'architettura, con sede in Roma."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1952-07-25;4573
+codice_redazionale: 052U4573
+vigente: true
+---
 
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 25 luglio 1952 n. 4573
-==============================================================
-
-Erezione in ente morale del Centro di studi per la storia dell'architettura, con sede in Roma.
-----------------------------------------------------------------------------------------------
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-4573. Decreto del Presidente della Repubblica 25 luglio 1952, col quale, sulla proposta del Ministro per la pubblica istruzione, il Centro di studi per la storia dell'architettura, con sede in Roma, viene eretto in ente morale e ne viene approvato lo statuto.  
-  
-Visto, il Guardasigilli: ZOLI  
-Registrato alla Corte dei conti, addi' 6 giugno 1953  
-Atti del Governo, registro n. 77, foglio n. 31. - PALLA
+4573.
+
+Decreto del Presidente della Repubblica 25 luglio 1952, col quale, sulla proposta del Ministro per la pubblica istruzione, il Centro di studi per la storia dell'architettura, con sede in Roma, viene eretto in ente morale e ne viene approvato lo statuto.
+
+Visto, il Guardasigilli: ZOLI
+ Registrato alla Corte dei conti, addi' 6 giugno 1953
+ Atti del Governo, registro n. 77, foglio n. 31. - PALLA

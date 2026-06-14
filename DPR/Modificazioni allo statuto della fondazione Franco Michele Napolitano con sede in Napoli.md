@@ -1,19 +1,21 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 18 dicembre 1973 n. 1089
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 1089
+data: 1973-12-18
+titolo: "Modificazioni allo statuto della fondazione \"Franco Michele Napolitano\", con sede in Napoli."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1973-12-18;1089
+codice_redazionale: 073U1089
+vigente: true
+---
 
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 18 dicembre 1973 n. 1089
-================================================================
-
-Modificazioni allo statuto della fondazione "Franco Michele Napolitano", con sede in Napoli.
---------------------------------------------------------------------------------------------
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-1089. Decreto del Presidente della Repubblica 18 dicembre 1973, col quale, sulla proposta del Ministro per la pubblica istruzione, vengono approvate ulteriori modificazioni allo statuto della fondazione "Franco Michele Napolitano", con sede in Napoli, approvato con [decreto del Presidente della Repubblica 14 novembre 1962, n. 276](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1962-11-14;276), e successive modificazioni.  
-  
-Visto, il Guardasigilli: ZAGARI  
-Registrato alla Corte dei conti, addi' 29 aprile 1974  
-Atti di Governo, registro n. 2, foglio n. 132. - SCIARRETTA
+1089.
+
+Decreto del Presidente della Repubblica 18 dicembre 1973, col quale, sulla proposta del Ministro per la pubblica istruzione, vengono approvate ulteriori modificazioni allo statuto della fondazione "Franco Michele Napolitano", con sede in Napoli, approvato con [decreto del Presidente della Repubblica 14 novembre 1962, n. 276](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1962-11-14;276), e successive modificazioni.
+
+Visto, il Guardasigilli: ZAGARI
+ Registrato alla Corte dei conti, addi' 29 aprile 1974
+ Atti di Governo, registro n. 2, foglio n. 132. - SCIARRETTA

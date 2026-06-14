@@ -1,19 +1,21 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 novembre 1967 n. 1360
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 1360
+data: 1967-11-30
+titolo: "Erezione in ente morale della cassa scolastica della scuola media statale \"Donatello\", di Firenze."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1967-11-30;1360
+codice_redazionale: 067U1360
+vigente: true
+---
 
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 novembre 1967 n. 1360
-================================================================
-
-Erezione in ente morale della cassa scolastica della scuola media statale "Donatello", di Firenze.
---------------------------------------------------------------------------------------------------
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-1360. Decreto del Presidente della Repubblica 30 novembre 1967, col quale, sulla proposta del Ministro per la pubblica istruzione, la cassa scolastica della scuola media statale "Donatello", di Firenze, viene eretta in ente morale e ne viene approvato lo statuto.  
-  
-Visto, il Guardasigilli: REALE  
-Registrato alla Corte dei conti, addi' 18 gennaio 1968  
-Atti del Governo, registro n. 216, foglio n. 163. - GRECO
+1360.
+
+Decreto del Presidente della Repubblica 30 novembre 1967, col quale, sulla proposta del Ministro per la pubblica istruzione, la cassa scolastica della scuola media statale "Donatello", di Firenze, viene eretta in ente morale e ne viene approvato lo statuto.
+
+Visto, il Guardasigilli: REALE
+ Registrato alla Corte dei conti, addi' 18 gennaio 1968
+ Atti del Governo, registro n. 216, foglio n. 163. - GRECO

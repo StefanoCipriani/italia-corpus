@@ -1,19 +1,21 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 18 gennaio 1960 n. 127
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 127
+data: 1960-01-18
+titolo: "Dichiarazione formale del fine di culto della Confraternita o Congregazione della dottrina cristiana, con sede in Savona, nell'antica Chiesa di San Giovanni Battista."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1960-01-18;127
+codice_redazionale: 060U0127
+vigente: true
+---
 
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 18 gennaio 1960 n. 127
-==============================================================
-
-Dichiarazione formale del fine di culto della Confraternita o Congregazione della dottrina cristiana, con sede in Savona, nell'antica Chiesa di San Giovanni Battista.
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-127. Decreto del Presidente della Repubblica 18 gennaio 1960, col quale, sulla proposta del Ministro per l'interno, viene provveduto alla dichiarazione formale del fine di culto della Confraternita o Congregazione della dottrina cristiana, con sede in Savona, nell'antica Chiesa di San Giovanni Battista.  
-  
-Visto, il Guardasigilli: GONELLA  
-Registrato alla Corte dei conti, addi' 29 febbraio 1960  
-Atti del Governo, registro n. 124, foglio n. 123. - VILLA
+127.
+
+Decreto del Presidente della Repubblica 18 gennaio 1960, col quale, sulla proposta del Ministro per l'interno, viene provveduto alla dichiarazione formale del fine di culto della Confraternita o Congregazione della dottrina cristiana, con sede in Savona, nell'antica Chiesa di San Giovanni Battista.
+
+Visto, il Guardasigilli: GONELLA
+ Registrato alla Corte dei conti, addi' 29 febbraio 1960
+ Atti del Governo, registro n. 124, foglio n. 123. - VILLA

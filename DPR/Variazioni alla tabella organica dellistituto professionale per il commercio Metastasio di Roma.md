@@ -1,82 +1,35 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 20 giugno 1961 n. 1871
-
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 20 giugno 1961 n. 1871
-==============================================================
-
-Variazioni alla tabella organica dell'istituto professionale per il commercio "Metastasio" di Roma.
----------------------------------------------------------------------------------------------------
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 1871
+data: 1961-06-20
+titolo: "Variazioni alla tabella organica dell'istituto professionale per il commercio \"Metastasio\" di Roma."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1961-06-20;1871
+codice_redazionale: 061U1871
+vigente: true
+---
 
 IL PRESIDENTE DELLA REPUBBLICA
-------------------------------
 
-Vista la [legge 15 giugno 1931, n. 889](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1931-06-15;889), sul riordinamento della istruzione media tecnica;
+Vista la [legge 15 giugno 1931, n. 889](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1931-06-15;889), sul riordinamento della istruzione media tecnica;
 
-Visto il [regio decreto 3 marzo 1934, n. 383](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-03-03;383), che approva il testo unico della legge comunale e provinciale;
+Visto il [regio decreto 3 marzo 1934, n. 383](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20del%20testo%20unico%20della%20legge%20comunale%20e%20provinciale.%20034U0383.md), che approva il testo unico della legge comunale e provinciale;
 
-Visto l'[art. 9 del regio decreto-legge 21 settembre 1938, n. 2038](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1938-09-21;2038~art9), convertito nella [legge 2 giugno 1939, n. 739](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1939-06-02;739);
+Visto l'[art. 9 del regio decreto-legge 21 settembre 1938, n. 2038](../Atti%20normativi%20abrogati%20%28in%20originale%29/Istituzione%20soppressione%20e%20regificazione%20di%20istituti%20distruzione%20media%20tecnica%20e%20norme%20di%20carattere%20generale%20sullistituzione%20e%20sul%20funzionamento%20degli%20istituti%20medesimi.%20038U2038.md), convertito nella [legge 2 giugno 1939, n. 739](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20approvazione%20complessiva%20dei%20Regi%20decreti-legge%20emanati%20fino%20al%2010%20marzo%201939-XVII%20e%20convalida%20dei%20Regi%20decreti%20emanati%20fino%20alla%20data%20anzidetta%20per%20prelevazioni%20_8f817d3bee75.md);
 
-Visto il [decreto del Presidente della Repubblica 29 settembre 1956, n. 1726](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1956-09-29;1726), con il quale e' stato istituito l'Istituto professionale per il commercio "P. Metastasio" di Roma;
+Visto il [decreto del Presidente della Repubblica 29 settembre 1956, n. 1726](Istituzione%20di%20un%20Istituto%20professionale%20per%20il%20commercio%20in%20Roma.md), con il quale e' stato istituito l'Istituto professionale per il commercio "P. Metastasio" di Roma;
 
 Considerato che per mero errore materiale nella tabella organica dell'Istituto venne prevista una cattedra in meno di insegnamento di ruolo e cioe' n. 6 anziche' n. 7 come calcolato;
 
 Considerato, pertanto, che si rende necessario modificare la tabella organica correggendo l'errore sopraddetto;
 
-Sulla
------
+Sulla proposta del Ministro Segretario di Stato per la pubblica istruzione, di concerto con quelli per l'interno e per il tesoro; Decreta:
 
-proposta del Ministro Segretario di Stato per la pubblica istruzione, di concerto con quelli per l'interno e per il tesoro; Decreta:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-La tabella organica annessa al [decreto del Presidente della Repubblica 29 settembre 1956, n. 1726](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1956-09-29;1726), viene sostituita da quella allegata al presente decreto.  
-  
+La tabella organica annessa al [decreto del Presidente della Repubblica 29 settembre 1956, n. 1726](Istituzione%20di%20un%20Istituto%20professionale%20per%20il%20commercio%20in%20Roma.md), viene sostituita da quella allegata al presente decreto.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 20 giugno 1961
+Dato a Roma, addi' 20 giugno 1961
 
-GRONCHI BOSCO - SCELBA - TAVIANI
-
-Visto, il Guardasigilli: BOSCO
-
-Registrato alla Corte dei conti, addi' 4 dicembre 1962
-
-Atti del Governo, registro n. 160, foglio n. 52. - VILLA
-
-Tabella
-
-Tabella organica dell'Istituto professionale per il commercio "Pietro Metastasio" di Roma   
-Numero   
-dei posti Qualifica   
-  
-Personale di ruolo   
-  
-1. Preside senza insegnamento (1ª categoria)....... 1   
-2. Cattedre di insegnamento (ruolo A).............. 7   
-3. Insegnanti tecnici pratici (1)..................   
-4. Segretario economo.............................. 1   
-5. Applicati....................................... 2   
-  
-Personale incaricato   
-  
-6. Incarichi di insegnamento per complessive   
-ore 230 settimanali............................. 16   
-7. Insegnanti tecnici pratici...................... 2   
-8. Applicati....................................... 1   
-9. Persone di servizio............................. 4   
-  
-(1) Il trattamento economico e di carriera e quello previsto   
-per gli insegnanti tecnici pratici degli Istituti tecnici.   
-  
-N.B. - Fermo restando il numero complessivo dei posti di ruolo e di quelli da affidare per incarico, le materie costituenti le cattedre di insegnamento e le qualifiche da attribuire al personale tecnico saranno determinate con decreto del Ministro per la pubblica istruzione.   
-  
-Visto, d'ordine del Presidente della Repubblica   
-Il Ministro per la pubblica istruzione   
-BOSCO   
-Il Ministro per il tesoro   
-TAVIANI   
+GRONCHI BOSCO - SCELBA - TAVIANI Visto, il Guardasigilli: BOSCO Registrato alla Corte dei conti, addi' 4 dicembre 1962 Atti del Governo, registro n. 160, foglio n. 52. - VILLA

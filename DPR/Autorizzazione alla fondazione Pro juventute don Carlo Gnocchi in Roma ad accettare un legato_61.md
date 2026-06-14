@@ -1,19 +1,22 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 agosto 1982 n. 780
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 223
+data: 1982-02-26
+titolo: "Autorizzazione alla fondazione \"Pro juventute don Carlo Gnocchi\", in Roma, ad accettare un legato."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1982-02-26;223
+codice_redazionale: 082U0223
+vigente: true
+---
 
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 agosto 1982 n. 780
-=============================================================
-
-Autorizzazione alla fondazione "Pro juventute don Carlo Gnocchi", in Roma, ad accettare un legato.
---------------------------------------------------------------------------------------------------
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-780. Decreto del Presidente della Repubblica 2 agosto 1982, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la fondazione "Pro juventute don Carlo Gnocchi", in Roma, viene autorizzata ad accettare il legato, consistente in obbligazioni I.R.I. 5,50% 1963-83 per nominali L. 1.000.000, disposto dalla sig.ra Righettini Maria Giovanna ved. Lucchette a favore della fondazione "Pro juventute", in Milano, che si identifica con la fondazione "Pro juventute don Carlo Gnocchi", come si evince dal verbale del consiglio di amministrazione della fondazione suddetta in data 28 novembre 1980, con testamento olografo 14 aprile 1976, pubblicato il 7 ottobre 1980, n. 11219 di repertorio e n. 1975 di raccolta, a rogito dott. Giuseppe Pedone, notaio in Milano, registrato a Milano il 13 ottobre 1980 al n. 20523/ M.   
-  
-Visto, il Guardasigilli: DARIDA   
-Registrato alla Corte dei conti, addi' 21 ottobre 1982   
-Registro n. 9 Presidenza, foglio n. 251
+223.
+
+Decreto del Presidente della Repubblica 26 febbraio 1982, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la fondazione "Pro juventute don Carlo Gnocchi", in Roma, viene autorizzata ad accettare il legato di L. 2.716.050 disposto dalla sig.na Pozzi Angela a favore dei "Mutilatini di don Gnocchi", che si identificano con la fondazione "Pro juventute don Carlo Gnocchi" come si evince dal verbale in data 24 novembre 1979 del consiglio di amministrazione della fondazione medesima, con testamento olografo 21 febbraio 1977, pubblicato a rogito dott. Francesco Boggia, notaio in Vercelli, con atto 22 febbraio 1979, n. 1089 di repertorio e n. 74 di raccolta, registrato a Vercelli il 5 marzo 1979 al n. 559. 
+
+ 
+Visto, il Guardasigilli: DARIDA 
+Registrato alla Corte dei Conti, addi' 23 aprile 1982 
+Registro, n. 3 Presidenza, foglio n. 324

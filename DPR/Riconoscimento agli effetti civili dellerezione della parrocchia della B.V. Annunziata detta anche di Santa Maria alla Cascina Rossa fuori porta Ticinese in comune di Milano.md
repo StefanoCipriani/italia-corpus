@@ -1,19 +1,21 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 09 aprile 1953 n. 456
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 456
+data: 1953-04-09
+titolo: "Riconoscimento, agli effetti civili, dell'erezione della parrocchia della B.V. Annunziata, detta anche di Santa Maria alla Cascina Rossa, fuori porta Ticinese in comune di Milano."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1953-04-09;456
+codice_redazionale: 053U0456
+vigente: true
+---
 
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 09 aprile 1953 n. 456
-=============================================================
-
-Riconoscimento, agli effetti civili, dell'erezione della parrocchia della B.V. Annunziata, detta anche di Santa Maria alla Cascina Rossa, fuori porta Ticinese in comune di Milano.
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-456. Decreto del Presidente della Repubblica 9 aprile 1953, col quale, sulla proposta del Ministro per l'interno, viene riconosciuto, agli effetti civili, il decreto dell'Arcivescovo di Milano in data 24 aprile 1925, integrato con successivi decreti 4 aprile 1934 e 19 giugno 1951, relativo alla erezione della parrocchia della B. V. Annunziata, detta anche di Santa Maria alla Cascina Rossa, fuori porta Ticinese in comune di Milano, e ne viene riconosciuta la personalita' giuridica.  
-  
-Visto, il Guardasigilli: ZOLI  
-Registrato allo Corte dei conti, addi' 15 giugno 1953  
-Atti del Governo, registro n 77, foglio n. 47. - PALLA
+456.
+
+Decreto del Presidente della Repubblica 9 aprile 1953, col quale, sulla proposta del Ministro per l'interno, viene riconosciuto, agli effetti civili, il decreto dell'Arcivescovo di Milano in data 24 aprile 1925, integrato con successivi decreti 4 aprile 1934 e 19 giugno 1951, relativo alla erezione della parrocchia della B. V. Annunziata, detta anche di Santa Maria alla Cascina Rossa, fuori porta Ticinese in comune di Milano, e ne viene riconosciuta la personalita' giuridica.
+
+Visto, il Guardasigilli: ZOLI
+ Registrato allo Corte dei conti, addi' 15 giugno 1953
+ Atti del Governo, registro n 77, foglio n. 47. - PALLA

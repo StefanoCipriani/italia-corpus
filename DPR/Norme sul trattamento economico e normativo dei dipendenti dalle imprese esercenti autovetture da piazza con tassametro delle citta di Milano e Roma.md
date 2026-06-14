@@ -1,20 +1,20 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 gennaio 1962 n. 561
-
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 gennaio 1962 n. 561
-==============================================================
-
-Norme sul trattamento economico e normativo dei dipendenti dalle imprese esercenti autovetture da piazza con tassametro delle citta' di Milano e Roma.
-------------------------------------------------------------------------------------------------------------------------------------------------------
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 561
+data: 1962-01-02
+titolo: "Norme sul trattamento economico e normativo dei dipendenti dalle imprese esercenti autovetture da piazza con tassametro delle citta' di Milano e Roma."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1962-01-02;561
+codice_redazionale: 062U0561
+vigente: true
+---
 
 IL PRESIDENTE DELLA REPUBBLICA
-------------------------------
 
-Visto l'[art. 87, comma quinto, della Costituzione](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27~art87-com5);
+Visto l'[art. 87, comma quinto, della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87-com5);
 
-Vista la [legge 14 luglio 1959, n. 741](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1959-07-14;741), che delega il Governo ad emanare norme transitorie per garantire minimi di trattamento economico e normativo ai lavoratori;
+Vista la [legge 14 luglio 1959, n. 741](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1959-07-14;741), che delega il Governo ad emanare norme transitorie per garantire minimi di trattamento economico e normativo ai lavoratori;
 
-Vista la [legge 1 ottobre 1960, n. 1027](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1960-10-01;1027), recante modifiche alla predetta [legge 14 luglio 1959, n. 741](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1959-07-14;741);
+Vista la [legge 1 ottobre 1960, n. 1027](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1960-10-01;1027), recante modifiche alla predetta [legge 14 luglio 1959, n. 741](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1959-07-14;741);
 
 Visto, per la citta' di Milano, il contratto collettivo 2 luglio 1957 per i dipendenti dalle imprese esercenti autovetture da piazza con tassametro, stipulato tra il Sindacato Lombardo Autotrasporti - Sezione Autopubbliche - dell'Associazione Industriale Lombarda e il Sindacato Autoferrotranvieri - C.G.I.L. -, il Sindacato Provinciale Autonomo Tassisti - U.I.L. -, la Federazione italiana Lavoratori Autotrasporti ed Ausiliari del Traffico - C.I.S.L. -, al quale ha aderito, in data 22 luglio 1960, l'Unione Provinciale del Lavoro - C.I.S.N.A.L. -;
 
@@ -28,58 +28,18 @@ Vista la pubblicazione nell'apposito Bollettino, n. 7 della provincia di Milano,
 
 Sentito il Consiglio dei Ministri;
 
-Silla
------
+Silla proposta del Ministro per il lavoro e la previdenza sociale; Decreta:
 
-proposta del Ministro per il lavoro e la previdenza sociale; Decreta:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-I rapporti di lavoro costituiti per l'attivita', per la quale sono stati stipulati, relativamente ai dipendenti dalle imprese esercenti autovetture da piazza con tassametro:  
-per la citta' di Milano, il contratto collettivo 2 luglio 1957;  
-per la citta' di Roma, il contratto collettivo 26 agosto 1954 e l'accordo collettivo 5 aprile 1957;  
-sono regolati da norme giuridiche uniformi alle clausole dei contratti e dell'accordo anzidetti, annessi al presente decreto.  
-I minimi di trattamento economico e normativo cosi' stabiliti sono inderogabili nei confronti di tutti i di pendenti dalle imprese esercenti autovetture da piazza con tassametro delle citta' di Milano e Roma.  
-  
+I rapporti di lavoro costituiti per l'attivita', per la quale sono stati stipulati, relativamente ai dipendenti dalle imprese esercenti autovetture da piazza con tassametro:
+ per la citta' di Milano, il contratto collettivo 2 luglio 1957;
+ per la citta' di Roma, il contratto collettivo 26 agosto 1954 e l'accordo collettivo 5 aprile 1957;
+sono regolati da norme giuridiche uniformi alle clausole dei contratti e dell'accordo anzidetti, annessi al presente decreto.
+ I minimi di trattamento economico e normativo cosi' stabiliti sono inderogabili nei confronti di tutti i di pendenti dalle imprese esercenti autovetture da piazza con tassametro delle citta' di Milano e Roma.
 
 Il presente decreto, munito del sigillo dello Stato sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo chiunque spetti di osservarlo e di farlo osservare.
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 2 gennaio 1962
+Dato a Roma, addi' 2 gennaio 1962
 
-GRONCHI FANFANI - SULLO
-
-Visto, il Guardasigilli: BOSCO
-
-Registrato alla Corte dei conti, addi' 6 giugno 1962
-
-Atti del Governo, registro n. 148, foglio n. 104. - VILLA
-
-Allegati
-
-CONTRATTO COLLETTIVO 2 LUGLIO 1957 PER I DIPENDENTI DALLE IMPRESE ESERCENTI AUTOVETTURE DA PIAZZA CON TASSAMETRO DELLA CITTADI MILANO.   
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=062U056100100010110001&dgu=1962-06-28&art.dataPubblicazioneGazzetta=1962-06-28&art.codiceRedazionale=062U0561)
-  
-  
-  
-  
-  
-CONTRATTO COLLETTIVO 26 AGOSTO 1954 PER I DIPENDENTI DALLE IMPRESE ESERCENTI AUTOVETTURE DA PIAZZA CON TASSAMETRO DELLA CITTADI ROMA.   
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=062U056100100010110002&dgu=1962-06-28&art.dataPubblicazioneGazzetta=1962-06-28&art.codiceRedazionale=062U0561)
-  
-  
-  
-  
-  
-ACCORDO COLLETTIVO 5 APRILE 1957 PER I DIPENDENTI DALLE IMPRESE ESERCENTI AUTOVETTURE DA PIAZZA CON TASSAMETRO DELLA CITTADI ROMA.   
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=062U056100100010110003&dgu=1962-06-28&art.dataPubblicazioneGazzetta=1962-06-28&art.codiceRedazionale=062U0561)
-  
+GRONCHI FANFANI - SULLO Visto, il Guardasigilli: BOSCO Registrato alla Corte dei conti, addi' 6 giugno 1962 Atti del Governo, registro n. 148, foglio n. 104. - VILLA

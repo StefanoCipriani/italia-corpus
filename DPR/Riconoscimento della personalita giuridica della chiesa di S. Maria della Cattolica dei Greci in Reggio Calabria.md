@@ -1,19 +1,21 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 10 marzo 1978 n. 174
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 174
+data: 1978-03-10
+titolo: "Riconoscimento della personalita' giuridica della chiesa di S. Maria della Cattolica dei Greci, in Reggio Calabria."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1978-03-10;174
+codice_redazionale: 078U0174
+vigente: true
+---
 
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 10 marzo 1978 n. 174
-============================================================
-
-Riconoscimento della personalita' giuridica della chiesa di S. Maria della Cattolica dei Greci, in Reggio Calabria.
--------------------------------------------------------------------------------------------------------------------
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-174. Decreto del Presidente della Repubblica 10 marzo 1978, col quale, sulla proposta del Ministro dell'interno, viene riconosciuta la personalita' giuridica della chiesa di S. Maria della Cattolica dei Greci, in Reggio Calabria.  
-  
-Visto, il Guardasigilli: BONIFACIO  
-Registrato alla Corte dei conti, addi' 8 maggio 1978  
-Registro n. 9 Interno, foglio n. 233
+174.
+
+Decreto del Presidente della Repubblica 10 marzo 1978, col quale, sulla proposta del Ministro dell'interno, viene riconosciuta la personalita' giuridica della chiesa di S. Maria della Cattolica dei Greci, in Reggio Calabria.
+
+Visto, il Guardasigilli: BONIFACIO
+ Registrato alla Corte dei conti, addi' 8 maggio 1978
+ Registro n. 9 Interno, foglio n. 233

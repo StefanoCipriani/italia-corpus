@@ -1,20 +1,20 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 gennaio 1962 n. 836
-
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 gennaio 1962 n. 836
-==============================================================
-
-Norme sul trattamento economico e normativo dei lavoratori dipendenti dalle imprese esercenti cinema e cinemateatri delle province di Como, Genova, Imperia, Latina, Messina, Milano, Pavia.
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 836
+data: 1962-01-02
+titolo: "Norme sul trattamento economico e normativo dei lavoratori dipendenti dalle imprese esercenti cinema e cinemateatri delle province di Como, Genova, Imperia, Latina, Messina, Milano, Pavia."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1962-01-02;836
+codice_redazionale: 062U0836
+vigente: true
+---
 
 IL PRESIDENTE DELLA REPUBBLICA
-------------------------------
 
-Visto l'[art. 87, comma quinto, della Costituzione](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27~art87-com5);
+Visto l'[art. 87, comma quinto, della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87-com5);
 
-Vista la [legge 14 luglio 1959, n. 741](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1959-07-14;741), che delega il Governo ad emanare norme transitorie per garantire minimi di trattamento economico e normativo ai lavoratori;
+Vista la [legge 14 luglio 1959, n. 741](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1959-07-14;741), che delega il Governo ad emanare norme transitorie per garantire minimi di trattamento economico e normativo ai lavoratori;
 
-Vista la [legge 1 ottobre 1960, n. 1027](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1960-10-01;1027), recante modifiche alla predetta [legge 14 luglio 1959, n. 741](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1959-07-14;741);
+Vista la [legge 1 ottobre 1960, n. 1027](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1960-10-01;1027), recante modifiche alla predetta [legge 14 luglio 1959, n. 741](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1959-07-14;741);
 
 Visti il contratto collettivo nazionale 13 marzo 1957 e l'accordo collettivo nazionale 12 agosto 1959, per i lavoratori dipendenti dalle imprese esercenti cinema e cinema-teatri;
 
@@ -42,101 +42,23 @@ Vista la pubblicazione nell'apposito Bollettino, n. 13 della provincia di Como, 
 
 Sentito il Consiglio dei Ministri;
 
-Sulla
------
+Sulla proposta del Ministro per il lavoro e la previdenza sociale; Decreta:
 
-proposta del Ministro per il lavoro e la previdenza sociale; Decreta:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-I rapporti di lavoro costituiti per le attivita' per le quali sono stati stipulati, relativamente ai dipendenti dagli esercizi cinematografici e cinema teatrali, i sottoindicati accordi collettivi integrativi, sono regolati da norme giuridiche uniformi alle clausole degli accordi stessi, annessi al presente decreto:  
-- per la provincia di Como, l'accordo collettivo 28 luglio 1960;  
-- per la provincia di Genova, gli accordi collettivi 26 febbraio 1955;  
-- per la provincia di Imperia, l'accordo collettivo 24 marzo 1960;  
-- per la provincia di Latina, l'accordo collettivo 30 luglio 1960;  
-- per la provincia di Messina, l'accordo collettivo 25 marzo 1960;  
-- per la provincia di Milano, l'accordo collettivo 31 marzo 1960;  
-- per la provincia di Pavia, l'accordo collettivo 25 maggio 1960.  
-Dette norme sono integrative di quelle concernenti la disciplina nazionale della categoria, purche' con esse compatibili.  
-I minimi di trattamento economico e normativo cosi' stabiliti sono inderogabili nei confronti di tutti i lavoratori dipendenti dalle imprese esercenti cinema e cinema-teatri delle province di Como, Genova, Imperia, Latina, Messina, Milano, Pavia.  
-  
+I rapporti di lavoro costituiti per le attivita' per le quali sono stati stipulati, relativamente ai dipendenti dagli esercizi cinematografici e cinema teatrali, i sottoindicati accordi collettivi integrativi, sono regolati da norme giuridiche uniformi alle clausole degli accordi stessi, annessi al presente decreto:
+ - per la provincia di Como, l'accordo collettivo 28 luglio 1960;
+ - per la provincia di Genova, gli accordi collettivi 26 febbraio 1955;
+ - per la provincia di Imperia, l'accordo collettivo 24 marzo 1960;
+ - per la provincia di Latina, l'accordo collettivo 30 luglio 1960;
+ - per la provincia di Messina, l'accordo collettivo 25 marzo 1960;
+ - per la provincia di Milano, l'accordo collettivo 31 marzo 1960;
+ - per la provincia di Pavia, l'accordo collettivo 25 maggio 1960.
+ Dette norme sono integrative di quelle concernenti la disciplina nazionale della categoria, purche' con esse compatibili.
+ I minimi di trattamento economico e normativo cosi' stabiliti sono inderogabili nei confronti di tutti i lavoratori dipendenti dalle imprese esercenti cinema e cinema-teatri delle province di Como, Genova, Imperia, Latina, Messina, Milano, Pavia.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 2 gennaio 1962
+Dato a Roma, addi' 2 gennaio 1962
 
-GRONCHI FANFANI - SULLO
-
-Visto, il Guardasigilli: BOSCO
-
-Registrato alla Corte dei conti, addi' 19 giugno 1962
-
-Atti del Governo, registro n. 151, foglio n. 42. - VILLA
-
-Allegato
-
-ACCORDO COLLETTIVO INTEGRATIVO 28 LUGLIO 1960 PER I DIPENDENTI DAGLI ESERCIZI CINEMATOGRAFICI E' CINEMA-TEATRALI DELLA PROVINCIA DI COMO.   
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=062U083600100010110001&dgu=1962-07-19&art.dataPubblicazioneGazzetta=1962-07-19&art.codiceRedazionale=062U0836)
-  
-  
-  
-  
-ACCORDO COLLETTIVO INTEGRATIVO 26 FEBBRAIO 1955 PER I DIPENDENTI DAI "PICCOLI ESERCIZI" CINEMATOGRAFICI DELLA PROVINCIA DI GENOVA.   
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=062U083600100010110002&dgu=1962-07-19&art.dataPubblicazioneGazzetta=1962-07-19&art.codiceRedazionale=062U0836)
-  
-  
-  
-  
-ACCORDO COLLETTIVO INTEGRATIVO 26 FEBBRAIO 1955 PER I DIPENDENTI DAGLI ESERCIZI CINEMATOGRAFICI DELLA PROVINCIA DI GENOVA (ESCLUSI GLI OPERAI DEI "PICCOLI ESERCIZI").   
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=062U083600100010110003&dgu=1962-07-19&art.dataPubblicazioneGazzetta=1962-07-19&art.codiceRedazionale=062U0836)
-  
-  
-  
-  
-ACCORDO COLLETTIVO INTEGRATIVO 24 MARZO 1960 PER I LAVORATORI DIPENDENTI DAGLI ESERCIZI CINEMATOGRAFICI E CINEMA-TEATRI DELLA PROVINCIA DI IMPERIA.   
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=062U083600100010110004&dgu=1962-07-19&art.dataPubblicazioneGazzetta=1962-07-19&art.codiceRedazionale=062U0836)
-  
-  
-  
-  
-ACCORDO COLLETTIVO INTEGRATIVO 30 LUGLIO 1960 PER I DIPENDENTI DAGLI ESERCIZI CINEMATOGRAFICI DELLA PROVINCIA DI LATINA.   
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=062U083600100010110005&dgu=1962-07-19&art.dataPubblicazioneGazzetta=1962-07-19&art.codiceRedazionale=062U0836)
-  
-  
-  
-  
-ACCORDO COLLETTIVO INTEGRATIVO 25 MARZO 1960 PER I DIPENDENTI DAGLI ESERCIZI CINEMATOGRAFICI DELLA PROVINCIA DI MESSINA.   
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=062U083600100010110006&dgu=1962-07-19&art.dataPubblicazioneGazzetta=1962-07-19&art.codiceRedazionale=062U0836)
-  
-  
-  
-  
-ACCORDO COLLETTIVO INTEGRATIVO 31 MARZO 1960 PER I DIPENDENTI DAGLI ESERCIZI CINEMATOGRAFICI E' CINEMA-TEATRALI DELLA PROVINCIA DI MILANO.   
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=062U083600100010110007&dgu=1962-07-19&art.dataPubblicazioneGazzetta=1962-07-19&art.codiceRedazionale=062U0836)
-  
-  
-  
-  
-  
-ACCORDO COLLETTIVO INTEGRATIVO 25 MAGGIO 1960 PER I DIPENDENTI DAGLI ESERCIZI CINEMATOGRAFICI E CINEMA-TEATRALI DELLA PROVINCIA DI PAVIA   
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=062U083600100010110008&dgu=1962-07-19&art.dataPubblicazioneGazzetta=1962-07-19&art.codiceRedazionale=062U0836)
-  
+GRONCHI FANFANI - SULLO Visto, il Guardasigilli: BOSCO Registrato alla Corte dei conti, addi' 19 giugno 1962 Atti del Governo, registro n. 151, foglio n. 42. - VILLA

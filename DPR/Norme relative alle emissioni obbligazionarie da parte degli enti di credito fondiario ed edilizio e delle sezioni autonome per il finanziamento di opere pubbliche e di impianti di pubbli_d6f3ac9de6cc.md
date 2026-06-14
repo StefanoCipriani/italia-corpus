@@ -1,139 +1,149 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 21 gennaio 1976 n. 7
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 7
+data: 1976-01-21
+titolo: "Norme relative alle emissioni obbligazionarie da parte degli enti di credito fondiario ed edilizio e delle sezioni autonome per il finanziamento di opere pubbliche e di impianti di pubblica utilita' e all'adeguamento del regime giuridico dell'organizzazione e dell'attivita' dei predetti enti e sezioni."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1976-01-21;7
+codice_redazionale: 076U0007
+vigente: true
+---
 
+## ENTI ED OPERAZIONI DI CREDITO FONDIARIO ED EDILIZIO
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 21 gennaio 1976 n. 7
-============================================================
+Titolo I
 
-Norme relative alle emissioni obbligazionarie da parte degli enti di credito fondiario ed edilizio e delle sezioni autonome per il finanziamento di opere pubbliche e di impianti di pubblica utilita' e all'adeguamento del regime giuridico dell'organizzazione e dell'attivita' dei predetti enti e sezioni.
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+### Art. 1.
 
-CAPO I Titolo I ENTI ED OPERAZIONI DI CREDITO FONDIARIO ED EDILIZIO
--------------------------------------------------------------------
+((PROVVEDIMENTO ABROGATO DALLA L. 6 GIUGNO 1991, N. 175))
 
-### Art. 1
+### Art. 2.
 
-((PROVVEDIMENTO ABROGATO DALLA [L. 6 GIUGNO 1991, N. 175](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1991-06-06;175)))
+((PROVVEDIMENTO ABROGATO DALLA L. 6 GIUGNO 1991, N. 175))
 
-### Art. 2
+### Art. 3.
 
-((PROVVEDIMENTO ABROGATO DALLA [L. 6 GIUGNO 1991, N. 175](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1991-06-06;175)))
+((PROVVEDIMENTO ABROGATO DALLA L. 6 GIUGNO 1991, N. 175))
 
-### Art. 3
+### Art. 4.
 
-((PROVVEDIMENTO ABROGATO DALLA [L. 6 GIUGNO 1991, N. 175](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1991-06-06;175)))
+((PROVVEDIMENTO ABROGATO DALLA L. 6 GIUGNO 1991, N. 175))
 
-### Art. 4
+### Art. 5.
 
-((PROVVEDIMENTO ABROGATO DALLA [L. 6 GIUGNO 1991, N. 175](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1991-06-06;175)))
+((PROVVEDIMENTO ABROGATO DALLA L. 6 GIUGNO 1991, N. 175))
 
-### Art. 5
+### Art. 6.
 
-((PROVVEDIMENTO ABROGATO DALLA [L. 6 GIUGNO 1991, N. 175](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1991-06-06;175)))
+((PROVVEDIMENTO ABROGATO DALLA L. 6 GIUGNO 1991, N. 175))
 
-### Art. 6
+### Art. 7.
 
-((PROVVEDIMENTO ABROGATO DALLA [L. 6 GIUGNO 1991, N. 175](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1991-06-06;175)))
+((PROVVEDIMENTO ABROGATO DALLA L. 6 GIUGNO 1991, N. 175))
 
-### Art. 7
+## EMISSIONE, CIRCOLAZIONE E SORTEGGIO DELLE OBBLIGAZIONI
 
-((PROVVEDIMENTO ABROGATO DALLA [L. 6 GIUGNO 1991, N. 175](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1991-06-06;175)))
+Titolo II
 
-CAPO II Titolo II EMISSIONE, CIRCOLAZIONE E SORTEGGIO DELLE OBBLIGAZIONI
-------------------------------------------------------------------------
+### Art. 8.
 
-### Art. 8
+((PROVVEDIMENTO ABROGATO DALLA L. 6 GIUGNO 1991, N. 175))
 
-((PROVVEDIMENTO ABROGATO DALLA [L. 6 GIUGNO 1991, N. 175](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1991-06-06;175)))
+### Art. 9.
 
-### Art. 9
+((PROVVEDIMENTO ABROGATO DALLA L. 6 GIUGNO 1991, N. 175))
 
-((PROVVEDIMENTO ABROGATO DALLA [L. 6 GIUGNO 1991, N. 175](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1991-06-06;175)))
+### Art. 10.
 
-### Art. 10
+((PROVVEDIMENTO ABROGATO DALLA L. 6 GIUGNO 1991, N. 175))
 
-((PROVVEDIMENTO ABROGATO DALLA [L. 6 GIUGNO 1991, N. 175](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1991-06-06;175)))
+### Art. 11.
 
-### Art. 11
+((PROVVEDIMENTO ABROGATO DALLA L. 6 GIUGNO 1991, N. 175))
 
-((PROVVEDIMENTO ABROGATO DALLA [L. 6 GIUGNO 1991, N. 175](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1991-06-06;175)))
+### Art. 12.
 
-### Art. 12
+((PROVVEDIMENTO ABROGATO DALLA L. 6 GIUGNO 1991, N. 175))
 
-((PROVVEDIMENTO ABROGATO DALLA [L. 6 GIUGNO 1991, N. 175](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1991-06-06;175)))
+### Art. 13.
 
-### Art. 13
+((PROVVEDIMENTO ABROGATO DALLA L. 6 GIUGNO 1991, N. 175))
 
-((PROVVEDIMENTO ABROGATO DALLA [L. 6 GIUGNO 1991, N. 175](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1991-06-06;175)))
+## INTERESSI DI MORA E PROCEDIMENTO ESECUTIVO
 
-CAPO III Titolo III INTERESSI DI MORA E PROCEDIMENTO ESECUTIVO
---------------------------------------------------------------
+Titolo III
 
-### Art. 14
+### Art. 14.
 
-((PROVVEDIMENTO ABROGATO DALLA [L. 6 GIUGNO 1991, N. 175](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1991-06-06;175)))
+((PROVVEDIMENTO ABROGATO DALLA L. 6 GIUGNO 1991, N. 175))
 
-### Art. 15
+### Art. 15.
 
-((PROVVEDIMENTO ABROGATO DALLA [L. 6 GIUGNO 1991, N. 175](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1991-06-06;175)))
+((PROVVEDIMENTO ABROGATO DALLA L. 6 GIUGNO 1991, N. 175))
 
-CAPO IV Titolo IV UTILI E RISERVE
----------------------------------
+## UTILI E RISERVE
 
-### Art. 16
+Titolo IV
 
-((PROVVEDIMENTO ABROGATO DALLA [L. 6 GIUGNO 1991, N. 175](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1991-06-06;175)))
+### Art. 16.
 
-CAPO V Titolo V VIGILANZA
--------------------------
+((PROVVEDIMENTO ABROGATO DALLA L. 6 GIUGNO 1991, N. 175))
 
-### Art. 17
+## VIGILANZA
 
-((PROVVEDIMENTO ABROGATO DALLA [L. 6 GIUGNO 1991, N. 175](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1991-06-06;175)))
+Titolo V
 
-CAPO VI Titolo VI DISPOSIZIONI VARIE
-------------------------------------
+### Art. 17.
 
-### Art. 18
+((PROVVEDIMENTO ABROGATO DALLA L. 6 GIUGNO 1991, N. 175))
 
-((PROVVEDIMENTO ABROGATO DALLA [L. 6 GIUGNO 1991, N. 175](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1991-06-06;175)))
+## DISPOSIZIONI VARIE
 
-### Art. 19
+Titolo VI
 
-((PROVVEDIMENTO ABROGATO DALLA [L. 6 GIUGNO 1991, N. 175](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1991-06-06;175)))
+### Art. 18.
 
-### Art. 20
+((PROVVEDIMENTO ABROGATO DALLA L. 6 GIUGNO 1991, N. 175))
 
-((PROVVEDIMENTO ABROGATO DALLA [L. 6 GIUGNO 1991, N. 175](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1991-06-06;175)))
+### Art. 19.
 
-### Art. 21
+((PROVVEDIMENTO ABROGATO DALLA L. 6 GIUGNO 1991, N. 175))
 
-((PROVVEDIMENTO ABROGATO DALLA [L. 6 GIUGNO 1991, N. 175](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1991-06-06;175)))
+### Art. 20.
 
-### Art. 22
+((PROVVEDIMENTO ABROGATO DALLA L. 6 GIUGNO 1991, N. 175))
 
-((PROVVEDIMENTO ABROGATO DALLA [L. 6 GIUGNO 1991, N. 175](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1991-06-06;175)))
+### Art. 21.
 
-CAPO VII Titolo VII OPERAZIONI DI CREDITO EDILIZIO
---------------------------------------------------
+((PROVVEDIMENTO ABROGATO DALLA L. 6 GIUGNO 1991, N. 175))
 
-### Art. 23
+### Art. 22.
 
-((PROVVEDIMENTO ABROGATO DALLA [L. 6 GIUGNO 1991, N. 175](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1991-06-06;175)))
+((PROVVEDIMENTO ABROGATO DALLA L. 6 GIUGNO 1991, N. 175))
 
-CAPO VIII Titolo VIII OPERAZIONI DI CREDITO ALLE OPERE PUBBLICHE
-----------------------------------------------------------------
+## OPERAZIONI DI CREDITO EDILIZIO
 
-### Art. 24
+Titolo VII
 
-((PROVVEDIMENTO ABROGATO DALLA [L. 6 GIUGNO 1991, N. 175](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1991-06-06;175)))
+### Art. 23.
 
-CAPO IX Titolo IX DISPOSIZIONI TRANSITORIE E FINALI
----------------------------------------------------
+((PROVVEDIMENTO ABROGATO DALLA L. 6 GIUGNO 1991, N. 175))
 
-### Art. 25
+## OPERAZIONI DI CREDITO ALLE OPERE PUBBLICHE
 
-((PROVVEDIMENTO ABROGATO DALLA [L. 6 GIUGNO 1991, N. 175](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1991-06-06;175)))
+Titolo VIII
 
-### Art. 26
+### Art. 24.
 
-((PROVVEDIMENTO ABROGATO DALLA [L. 6 GIUGNO 1991, N. 175](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1991-06-06;175)))
+((PROVVEDIMENTO ABROGATO DALLA L. 6 GIUGNO 1991, N. 175))
+
+## DISPOSIZIONI TRANSITORIE E FINALI
+
+Titolo IX
+
+### Art. 25.
+
+((PROVVEDIMENTO ABROGATO DALLA L. 6 GIUGNO 1991, N. 175))
+
+### Art. 26.
+
+((PROVVEDIMENTO ABROGATO DALLA L. 6 GIUGNO 1991, N. 175))

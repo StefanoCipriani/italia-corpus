@@ -1,19 +1,21 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 05 aprile 1961 n. 1069
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 1069
+data: 1961-04-05
+titolo: "Erezione in ente morale dell'Istituto italiano di preistoria e protostoria, con sede in Firenze."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1961-04-05;1069
+codice_redazionale: 061U1069
+vigente: true
+---
 
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 05 aprile 1961 n. 1069
-==============================================================
-
-Erezione in ente morale dell'Istituto italiano di preistoria e protostoria, con sede in Firenze.
-------------------------------------------------------------------------------------------------
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-1069. Decreto del Presidente della Repubblica 5 aprile 1961, con il quale, sulla proposta del Ministro per la pubblica istruzione, l'istituto italiano di preistoria e protostoria, con sede in Firenze, viene eretto in ente morale e ne viene approvato lo statuto.  
-  
-Visto, il Guardasigilli: GONELLA  
-Registrato alla Corte dei conti, addi' 13 ottobre 1961  
-Atti del Governo, registro n. 141, foglio n. 2. - VILLA
+1069.
+
+Decreto del Presidente della Repubblica 5 aprile 1961, con il quale, sulla proposta del Ministro per la pubblica istruzione, l'istituto italiano di preistoria e protostoria, con sede in Firenze, viene eretto in ente morale e ne viene approvato lo statuto.
+
+Visto, il Guardasigilli: GONELLA
+ Registrato alla Corte dei conti, addi' 13 ottobre 1961
+ Atti del Governo, registro n. 141, foglio n. 2. - VILLA

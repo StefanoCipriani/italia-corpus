@@ -1,19 +1,21 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 23 ottobre 1960 n. 1748
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 1748
+data: 1960-10-23
+titolo: "Erezione in ente morale della Casa del fanciullo \"Madonna del Carmine\", con sede nel comune di Borgo Val di Taro (Parma)."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1960-10-23;1748
+codice_redazionale: 060U1748
+vigente: true
+---
 
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 23 ottobre 1960 n. 1748
-===============================================================
-
-Erezione in ente morale della Casa del fanciullo "Madonna del Carmine", con sede nel comune di Borgo Val di Taro (Parma).
--------------------------------------------------------------------------------------------------------------------------
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-1748. Decreto del Presidente della Repubblica 23 ottobre 1960, col quale, sulla proposta del Ministro per l'interno, la Casa del fanciullo "Madonna del Carmine", con sede nel comune di Borgo Val di Taro (Parma), viene eretta in ente morale e ne viene approvato il relativo statuto organico.  
-  
-Visto, il Guardasigilli: GONELLA  
-Registrato alla Corte dei conti, addi' 23 gennaio 1961  
-Atti del Governo, registro n. 133, foglio n. 81. - VILLA
+1748.
+
+Decreto del Presidente della Repubblica 23 ottobre 1960, col quale, sulla proposta del Ministro per l'interno, la Casa del fanciullo "Madonna del Carmine", con sede nel comune di Borgo Val di Taro (Parma), viene eretta in ente morale e ne viene approvato il relativo statuto organico.
+
+Visto, il Guardasigilli: GONELLA
+ Registrato alla Corte dei conti, addi' 23 gennaio 1961
+ Atti del Governo, registro n. 133, foglio n. 81. - VILLA

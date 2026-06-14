@@ -1,14 +1,14 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 01 dicembre 1987 n. 518
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 518
+data: 1987-12-01
+titolo: "Determinazione delle date di inizio e di cessazione dell'ora legale per l'anno 1988."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1987-12-01;518
+codice_redazionale: 087U0518
+vigente: true
+---
 
+## Art. 1.
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 01 dicembre 1987 n. 518
-===============================================================
-
-Determinazione delle date di inizio e di cessazione dell'ora legale per l'anno 1988.
-------------------------------------------------------------------------------------
-
-Art. 1
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.L. 9 FEBBRAIO 2012, N. 5](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2012-02-09;5),   
-CONVERTITO CON MODIFICAZIONI DALLA [L. 4 APRILE 2012, N. 35](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2012-04-04;35)))
+((PROVVEDIMENTO ABROGATO DAL D.L. 9 FEBBRAIO 2012, N. 5, 
+ CONVERTITO CON MODIFICAZIONI DALLA L. 4 APRILE 2012, N. 35))

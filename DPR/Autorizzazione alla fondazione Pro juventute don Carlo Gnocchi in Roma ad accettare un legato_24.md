@@ -1,23 +1,21 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 01 agosto 1978 n. 623
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 447
+data: 1978-07-18
+titolo: "Autorizzazione alla fondazione \"Pro juventute don Carlo Gnocchi\", in Roma, ad accettare un legato."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1978-07-18;447
+codice_redazionale: 078U0447
+vigente: true
+---
 
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 01 agosto 1978 n. 623
-=============================================================
-
-Autorizzazione alla fondazione "Pro juventute don Carlo Gnocchi", in Roma, ad accettare un legato.
---------------------------------------------------------------------------------------------------
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-623. Decreto del Presidente della Repubblica 1 agosto 1978, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la fondazione "Pro juventute don Carlo Gnocchi", in Roma, viene autorizzata ad accettare il legato disposto dalla sig.na Miotti Maria con testamento olografo 3 marzo 1973, pubblicato a rogito notaio dott. Carlo D'Este in data 4 febbraio 1975, n. 7308 di repertorio e n. 3126 di raccolta, registrato a Rapallo il 17 febbraio 1975 al n. 261, vol. 180 mod. 1, consistente in beni immobili siti in Rapallo:
+447.
 
-a) appartamento sito in via Vespucci 22/9, riportato al nuovo catasto edilizio urbano alla partita 4485, foglio 35, mappale 429 sub 18 di vani 8;
+Decreto del Presidente della Repubblica 18 luglio 1978, col quale, sulla proposta del Presidente del Consiglio dei. Ministri, la fondazione "Pro juventute don Carlo Gnocchi", in Roma, viene autorizzata ad accettare il legato disposto dalla sig.ra Ghezzi Cornelia, con testamento olografo in data 3 ottobre 1975, pubblicato a rogito notaio dott. Ferruccio Brambilla l'11 marzo 1976 n. 25508/2813 di repertorio, registrato a Busto Arsizio il 29 marzo 1976 al n. 813, vol. 157 A.P. a favore dell'"Istituto piccoli mutilatini di don Gnocchi" che si identifica con la fondazione "Pro juventute don Carlo Gnocchi", come ha fatto presente la fondazione medesima, consistente in un appartamento sito in Milano, via Cucchiari n. 7, riportato al nuovo catasto edilizio urbano alla partita 102091, foglio 219, mappale 329 sub 34, per un valore presunto di lire 20.000.000.
 
-b) magazzino sito in via Vespucci 22/9, riportato nel nuovo catasto edilizio urbano alla partita 4485, foglio 35, mappale 429 sub 6, di mq. 14, il tutto per un valore complessivo di L. 17.000.000.  
-  
-Visto, il Guardasigilli: BONIFACIO  
-Registrato alla Corte dei conti, addi' 11 ottobre 1978  
-Registro n. 7 Presidenza, foglio n. 13
+Visto, il Guardasigilli: BONIFACIO
+ Registrato alla Corte dei conti, addi' 8 agosto 1978
+ Registro n. 6 Presidenza, foglio n. 43

@@ -1,52 +1,37 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 04 settembre 1960 n. 1625
-
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 04 settembre 1960 n. 1625
-=================================================================
-
-Modificazione della denominazione dell'Opera Nazionale di Assistenza all'Italia Redenta (O.N.A.I.R.) in quella di Opera Nazionale di Assistenza all'infanzia delle Regioni di Confine (O.N.A.I.R.C.).
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 1625
+data: 1960-09-04
+titolo: "Modificazione della denominazione dell'Opera Nazionale di Assistenza all'Italia Redenta (O.N.A.I.R.) in quella di Opera Nazionale di Assistenza all'infanzia delle Regioni di Confine (O.N.A.I.R.C.)."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1960-09-04;1625
+codice_redazionale: 060U1625
+vigente: true
+---
 
 IL PRESIDENTE DELLA REPUBBLICA
-------------------------------
 
-Visto il [regio decreto 23 ottobre 1924, n. 1803](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-10-23;1803), col quale l'Opera Nazionale di Assistenza all'Italia Redenta (O.N.A.I.R.) e' stata eretta in ente morale;
+Visto il [regio decreto 23 ottobre 1924, n. 1803](../Atti%20normativi%20abrogati%20%28in%20originale%29/Costituzione%20in%20Ente%20morale%20dellOpera%20nazionale%20di%20assistenza%20allItalia%20Redenta.%20024U1803.md), col quale l'Opera Nazionale di Assistenza all'Italia Redenta (O.N.A.I.R.) e' stata eretta in ente morale;
 
-Visto lo statuto dell'anzidetta Opera approvato con [decreto del Presidente della Repubblica 16 gennaio 1951, n. 1830](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-01-16;1830);
+Visto lo statuto dell'anzidetta Opera approvato con [decreto del Presidente della Repubblica 16 gennaio 1951, n. 1830](Approvazione%20dello%20statuto%20dellOpera%20nazionale%20di%20assistenza%20allItalia%20redenta.md);
 
 Vista la domanda presentata dal presidente della O.N.A.I.R. al fine di ottenere l'approvazione governativa delle modifiche al suindicato statuto deliberate dal Consiglio centrale dell'Ente nella seduta del 19 febbraio 1960;
 
-Visto l'[art. 16 del Codice civile](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art16) e l'art. 4 delle disposizioni per l'attuazione dello stesso Codice;
+Visto l'[art. 16 del Codice civile](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262#art_16) e l'art. 4 delle disposizioni per l'attuazione dello stesso Codice;
 
 Udito il parere del Consiglio di Stato;
 
-Sulla
------
+Sulla proposta del Presidente del Consiglio dei Ministri, di concerto coi Ministri per l'interno, per la pubblica istruzione e per il tesoro; Decreta:
 
-proposta del Presidente del Consiglio dei Ministri, di concerto coi Ministri per l'interno, per la pubblica istruzione e per il tesoro; Decreta:
+## Art. 1.
 
-Art. 1
-------
+La denominazione dell'Opera Nazionale di Assistenza all'Italia Redenta (O.N.A.I.R.) e' modificata in quella di Opera Nazionale di Assistenza all'Infanzia delle Regioni di Confine (O.N.A.I.R.C.).
 
-  
-La denominazione dell'Opera Nazionale di Assistenza all'Italia Redenta (O.N.A.I.R.) e' modificata in quella di Opera Nazionale di Assistenza all'Infanzia delle Regioni di Confine (O.N.A.I.R.C.).  
+## Art. 2.
 
-Art. 2
-------
-
-  
-Il termine del 31 agosto, stabilito con l'art. 7, comma terzo, dello statuto dell'Opera per la presentazione del bilancio preventivo alla Presidenza del Consiglio dei Ministri, e' spostato al 31 ottobre.  
-  
+Il termine del 31 agosto, stabilito con l'art. 7, comma terzo, dello statuto dell'Opera per la presentazione del bilancio preventivo alla Presidenza del Consiglio dei Ministri, e' spostato al 31 ottobre.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo o di farlo osservare.
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 4 settembre 1960
+Dato a Roma, addi' 4 settembre 1960
 
-GRONCHI FANFANI - SCELBA - BOSCO - TAVIANI
-
-Visto, il Guardasigilli: GONELLA
-
-Registrato alla Corte dei conti, addi' 30 dicembre 1960
-
-Atti del Governo, registro n. 132, foglio n. 145 - VILLA
+GRONCHI FANFANI - SCELBA - BOSCO - TAVIANI Visto, il Guardasigilli: GONELLA Registrato alla Corte dei conti, addi' 30 dicembre 1960 Atti del Governo, registro n. 132, foglio n. 145 - VILLA

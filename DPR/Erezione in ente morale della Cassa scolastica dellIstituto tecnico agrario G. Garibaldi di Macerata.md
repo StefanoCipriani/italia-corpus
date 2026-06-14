@@ -1,19 +1,21 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 10 dicembre 1959 n. 1362
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 1362
+data: 1959-12-10
+titolo: "Erezione in ente morale della Cassa scolastica dell'Istituto tecnico agrario \"G. Garibaldi\" di Macerata."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1959-12-10;1362
+codice_redazionale: 059U1362
+vigente: true
+---
 
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 10 dicembre 1959 n. 1362
-================================================================
-
-Erezione in ente morale della Cassa scolastica dell'Istituto tecnico agrario "G. Garibaldi" di Macerata.
---------------------------------------------------------------------------------------------------------
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-1362. Decreto del Presidente della Repubblica 10 dicembre 1959, col quale, sulla proposta del Ministro per la pubblica istruzione, la Cassa scolastica dell'Istituto tecnico agrario "G. Garibaldi" di Macerata, viene eretta in ente morale e ne viene approvato lo statuto.  
-  
-Visto, il Guardasigilli: GONELLA  
-Registrato alla Corte dei conti, addi' 14 marzo 1960  
-Atti del Governo, registro n. 125, foglio n. 52. - VILLA
+1362.
+
+Decreto del Presidente della Repubblica 10 dicembre 1959, col quale, sulla proposta del Ministro per la pubblica istruzione, la Cassa scolastica dell'Istituto tecnico agrario "G. Garibaldi" di Macerata, viene eretta in ente morale e ne viene approvato lo statuto.
+
+Visto, il Guardasigilli: GONELLA
+ Registrato alla Corte dei conti, addi' 14 marzo 1960
+ Atti del Governo, registro n. 125, foglio n. 52. - VILLA

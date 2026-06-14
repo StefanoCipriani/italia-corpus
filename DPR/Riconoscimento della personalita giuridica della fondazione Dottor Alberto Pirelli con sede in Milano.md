@@ -1,19 +1,21 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 22 giugno 1968 n. 935
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 935
+data: 1968-06-22
+titolo: "Riconoscimento della personalita' giuridica della fondazione \"Dottor Alberto Pirelli\", con sede in Milano."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1968-06-22;935
+codice_redazionale: 068U0935
+vigente: true
+---
 
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 22 giugno 1968 n. 935
-=============================================================
-
-Riconoscimento della personalita' giuridica della fondazione "Dottor Alberto Pirelli", con sede in Milano.
-----------------------------------------------------------------------------------------------------------
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-935. Decreto del Presidente della Repubblica 22 giugno 1968, col quale, sulla proposta del Ministro per la pubblica istruzione, viene riconosciuta la personalita' giuridica della fondazione "Dottor Alberto Pirelli", con sede in Milano, e ne viene approvato lo statuto.  
-  
-Visto, il Guardasigilli: GONELLA  
-Registrato alla Corte dei conti, addi' 27 agosto 1963  
-Atti del Governo, registro n. 222, foglio n. 102. - DI PRETORO
+935.
+
+Decreto del Presidente della Repubblica 22 giugno 1968, col quale, sulla proposta del Ministro per la pubblica istruzione, viene riconosciuta la personalita' giuridica della fondazione "Dottor Alberto Pirelli", con sede in Milano, e ne viene approvato lo statuto.
+
+Visto, il Guardasigilli: GONELLA
+ Registrato alla Corte dei conti, addi' 27 agosto 1963
+ Atti del Governo, registro n. 222, foglio n. 102. - DI PRETORO

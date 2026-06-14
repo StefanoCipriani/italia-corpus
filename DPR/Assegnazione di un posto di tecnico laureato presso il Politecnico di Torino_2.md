@@ -1,19 +1,21 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 20 gennaio 1984 n. 113
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 113
+data: 1984-01-20
+titolo: "Assegnazione di un posto di tecnico laureato presso il Politecnico di Torino."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1984-01-20;113
+codice_redazionale: 084U0113
+vigente: true
+---
 
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 20 gennaio 1984 n. 113
-==============================================================
-
-Assegnazione di un posto di tecnico laureato presso il Politecnico di Torino.
------------------------------------------------------------------------------
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-113. Decreto del Presidente della Repubblica 20 gennaio 1984, col quale, sulla proposta del Ministro della pubblica istruzione, un posto disponibile nel ruolo dei tecnici laureati viene assegnato all'istituto di critica dell'architettura e progettazione della facolta' di architettura del Politecnico di Torino.  
-  
-Visto, il Guardasigilli: MARTINAZZOLI  
-Registrato alla Corte dei conti, addi' 28 aprile 1984  
-Registro n. 25 Istruzione, foglio n. 209
+113.
+
+Decreto del Presidente della Repubblica 20 gennaio 1984, col quale, sulla proposta del Ministro della pubblica istruzione, un posto disponibile nel ruolo dei tecnici laureati viene assegnato all'istituto di critica dell'architettura e progettazione della facolta' di architettura del Politecnico di Torino.
+
+Visto, il Guardasigilli: MARTINAZZOLI
+ Registrato alla Corte dei conti, addi' 28 aprile 1984
+ Registro n. 25 Istruzione, foglio n. 209

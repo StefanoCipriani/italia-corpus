@@ -1,19 +1,21 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 aprile 1952 n. 917
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 917
+data: 1952-04-02
+titolo: "Autorizzazione all'Universita' degli studi di Pavia ad acquistare un'area antistante il Collegio Cairoli di Pavia."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1952-04-02;917
+codice_redazionale: 052U0917
+vigente: true
+---
 
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 aprile 1952 n. 917
-=============================================================
-
-Autorizzazione all'Universita' degli studi di Pavia ad acquistare un'area antistante il Collegio Cairoli di Pavia.
-------------------------------------------------------------------------------------------------------------------
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-917. Decreto del Presidente della Repubblica 2 aprile 1952, col quale, sulla proposta del Ministro per la pubblica istruzione, l'Universita' degli studi di Pavia viene autorizzata ad acquistare, per la somma di L. 8.150.000, un'area antistante il Collegio Cairoli di Pavia.  
-  
-Visto, il Guardasigilli: ZOLI  
-Registrato alla Corte dei conti, addi' 23 luglio 1952  
-Atti del Governo, registro n. 56, foglio n. 62. - CARLOMAGNO
+917.
+
+Decreto del Presidente della Repubblica 2 aprile 1952, col quale, sulla proposta del Ministro per la pubblica istruzione, l'Universita' degli studi di Pavia viene autorizzata ad acquistare, per la somma di L. 8.150.000, un'area antistante il Collegio Cairoli di Pavia.
+
+Visto, il Guardasigilli: ZOLI
+ Registrato alla Corte dei conti, addi' 23 luglio 1952
+ Atti del Governo, registro n. 56, foglio n. 62. - CARLOMAGNO

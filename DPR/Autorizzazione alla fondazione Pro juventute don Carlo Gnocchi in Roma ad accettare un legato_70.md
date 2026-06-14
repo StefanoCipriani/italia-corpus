@@ -1,19 +1,21 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 25 novembre 1983 n. 803
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 486
+data: 1983-06-27
+titolo: "Autorizzazione alla fondazione \"Pro juventute don Carlo Gnocchi\", in Roma, ad accettare un legato."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1983-06-27;486
+codice_redazionale: 083U0486
+vigente: true
+---
 
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 25 novembre 1983 n. 803
-===============================================================
-
-Autorizzazione alla fondazione "Pro juventute don Carlo Gnocchi", in Roma ad accettare un legato.
--------------------------------------------------------------------------------------------------
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-803. Decreto del Presidente della Repubblica 25 novembre 1983, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la fondazione "Pro juventute don Carlo Gnocchi", in Roma, viene autorizzata ad accettare il legato, consistente in un appartamento sito in Firenze, via Pacinotti n. 12, censito al nuovo catasto edilizio urbano alla partita 8393, foglio 81, mappale 110 sub 3, del valore dichiarato di L. 9.500.000 elevato a L. 14.000.000 dall'ufficio tecnico erariale di Firenze, disposto dalla sig.ra Eleonora Curetti vedova Taddei a favore dell'istituto mutilatini di don Gnocchi che si identifica con la fondazione "Pro Juventute don Carlo Gnocchi", come si evince dal verbale del consiglio di amministrazione della fondazione stessa in data 5 giugno 1976, con testamento pubblico 7 gennaio 1975, pubblicato in data 26 novembre 1975, n. 36896 di repertorio, a rogito dott. Ugolini Golini, notaio in Firenze, registrato a Firenze in data 1 dicembre 1975 al n. 7379.   
-  
-Visto, il Guardasigilli: MARTINAZZOLI   
-Registrato alla Corte dei conti, addi' 11 gennaio 1984   
-Registro n. 1 Presidenza, foglio n. 84
+486.
+
+Decreto del Presidente della Repubblica 27 giugno 1983, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la fondazione "Pro juventute don Carlo Gnocchi", in Roma, viene autorizzata ad accettare il legato, consistente in buoni del Tesoro per un valore di L. 3.500.000, disposto dalla sig.ra Barberis Elvira ved. Torre a favore dell'istituto "Pro juventute don Carlo Gnocchi - Centro poliomielitici", viale Settimio Severo, 65, Torino, che si identifica con la fondazione "Pro juventute don Carlo Gnocchi", come si evince dal verbale del consiglio di amministrazione della fondazione medesima in data 28 novembre 1980, con testamento olografo 1 maggio 1975, pubblicato l'8 ottobre 1980, n. 2607 di repertorio e n. 1806 di fascicolo, a rogito dott.ssa Fernanda Perosino, notaio in Torino, registrato a Torino il 28 ottobre 1980 al n. 47198.
+
+Visto, il Guardasigilli: DARIDA
+ Registrato alla Corte dei conti, addi' 8 settembre 1983
+ Registro n. 7 Presidenza, foglio n. 300

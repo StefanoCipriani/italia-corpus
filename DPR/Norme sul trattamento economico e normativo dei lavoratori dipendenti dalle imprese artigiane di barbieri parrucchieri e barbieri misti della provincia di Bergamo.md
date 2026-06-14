@@ -1,20 +1,20 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 11 settembre 1961 n. 1321
-
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 11 settembre 1961 n. 1321
-=================================================================
-
-Norme sul trattamento economico e normativo dei lavoratori dipendenti dalle imprese artigiane di barbieri, parrucchieri e barbieri misti della provincia di Bergamo.
---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 1321
+data: 1961-09-11
+titolo: "Norme sul trattamento economico e normativo dei lavoratori dipendenti dalle imprese artigiane di barbieri, parrucchieri e barbieri misti della provincia di Bergamo."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1961-09-11;1321
+codice_redazionale: 061U1321
+vigente: true
+---
 
 IL PRESIDENTE DELLA REPUBBLICA
-------------------------------
 
-Visto l'[art. 87, comma quinto, della Costituzione](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27~art87-com5);
+Visto l'[art. 87, comma quinto, della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87-com5);
 
-Vista la [legge 14 luglio 1959, n. 741](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1959-07-14;741), che delega il Governo ad emanare norme transitorie per garantire minimi di trattamento economico e normativo ai lavoratori;
+Vista la [legge 14 luglio 1959, n. 741](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1959-07-14;741), che delega il Governo ad emanare norme transitorie per garantire minimi di trattamento economico e normativo ai lavoratori;
 
-Vista la [legge 1 ottobre 1960, n. 1027](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1960-10-01;1027), recante modifiche alla predetta [legge 14 luglio 1959, n. 741](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1959-07-14;741);
+Vista la [legge 1 ottobre 1960, n. 1027](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1960-10-01;1027), recante modifiche alla predetta [legge 14 luglio 1959, n. 741](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1959-07-14;741);
 
 Visto il contratto collettivo nazionale 21 novembre 1947, per i dipendenti da aziende artigiane di barbieri e misti, parrucchieri per signora ed affini;
 
@@ -24,39 +24,16 @@ Vista la pubblicazione nell'apposito Bollettino, n. 1 della provincia di Bergamo
 
 Sentito il Consiglio dei Ministri;
 
-Sulla
------
+Sulla proposta del Ministro per i lavoro e la previdenza sociale; Decreta:
 
-proposta del Ministro per i lavoro e la previdenza sociale; Decreta:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-I rapporti di lavoro costituiti per le attivita' per le quali e' stato stipulato, per la provincia di Bergamo, l'accordo collettivo 22 settembre 1952, relativo ai lavoratori dipendenti da aziende artigiane di barbieri, parrucchieri e barbieri misti, sono regolati da norme giuridiche uniformi alle clausole dell'accordo anzidetto, annesso al presente decreto.  
-Dette norme sono integrative di quelle concernenti la disciplina nazionale della categoria, purche' con esse compatibili.  
-I minimi di trattamento economico e normativo cosi' stabiliti sono inderogabili nei confronti di tutti i lavoratori dipendenti dalle imprese artigiane di barbieri, parrucchieri e barbieri misti della provincia di Bergamo.  
-  
+I rapporti di lavoro costituiti per le attivita' per le quali e' stato stipulato, per la provincia di Bergamo, l'accordo collettivo 22 settembre 1952, relativo ai lavoratori dipendenti da aziende artigiane di barbieri, parrucchieri e barbieri misti, sono regolati da norme giuridiche uniformi alle clausole dell'accordo anzidetto, annesso al presente decreto.
+ Dette norme sono integrative di quelle concernenti la disciplina nazionale della categoria, purche' con esse compatibili.
+ I minimi di trattamento economico e normativo cosi' stabiliti sono inderogabili nei confronti di tutti i lavoratori dipendenti dalle imprese artigiane di barbieri, parrucchieri e barbieri misti della provincia di Bergamo.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 11 settembre 1961
+Dato a Roma, addi' 11 settembre 1961
 
-GRONCHI FANFANI - SULLO
-
-Visto, il Guardasigilli: GONELLA
-
-Registrato alla Corte dei conti, addi' 12 dicembre 1961
-
-Atti del Governo, registro n. 142, foglio n. 113. - VILLA
-
-Accordo Collettivo
-
-ACCORDO COLLETTIVO INTEGRATIVO 22 SETTEMBRE 1952 PER I DIPENDENTI DA AZIENDE DI BARBIERI, PARRUCCHIERI E BARBIERI MISTI DELLA PROVINCIA DI BERGAMO.   
-  
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=061U132100100010110001&dgu=1961-12-27&art.dataPubblicazioneGazzetta=1961-12-27&art.codiceRedazionale=061U1321)
-  
+GRONCHI FANFANI - SULLO Visto, il Guardasigilli: GONELLA Registrato alla Corte dei conti, addi' 12 dicembre 1961 Atti del Governo, registro n. 142, foglio n. 113. - VILLA

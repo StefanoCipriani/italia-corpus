@@ -1,19 +1,21 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 10 marzo 1964 n. 232
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 232
+data: 1964-03-10
+titolo: "Riconoscimento, agli effetti civili, dell'unione perpetua \"aeque principaliter\" della Parrocchia di San Parteniano, in frazione Schieti del comune di Urbino (Pesaro e Urbino), con la Parrocchia di San Giovanni Battista, sita nella stessa frazione dell'anzidetto Comune."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1964-03-10;232
+codice_redazionale: 064U0232
+vigente: true
+---
 
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 10 marzo 1964 n. 232
-============================================================
-
-Riconoscimento, agli effetti civili, dell'unione perpetua "aeque principaliter" della Parrocchia di San Parteniano, in frazione Schieti del comune di Urbino (Pesaro e Urbino), con la Parrocchia di San Giovanni Battista, sita nella stessa frazione dell'anzidetto Comune.
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-232. Decreto del Presidente della Repubblica 10 marzo 1964, col quale, sulla proposta del Ministro per l'interno, viene riconosciuto, agli effetti civili, il decreto dell'Ordinario diocesano di Urbino in data 25 marzo 1962, col quale viene disposta l'unione perpetua nella forma "aeque principaliter" della Parrocchia di San Parteniano, in frazione Schieti del comune di Urbino (Pesaro e Urbino), con la Parrocchia di San Giovanni Battista, sita nella stessa frazione dell'anzidetto Comune.  
-  
-Visto, il Guardasigilli: REALE  
-Registrato alla Corte dei conti, addi' 27 aprile 1964  
-Atti del Governo, registro n. 183, foglio n. 8. - VILLA
+232.
+
+Decreto del Presidente della Repubblica 10 marzo 1964, col quale, sulla proposta del Ministro per l'interno, viene riconosciuto, agli effetti civili, il decreto dell'Ordinario diocesano di Urbino in data 25 marzo 1962, col quale viene disposta l'unione perpetua nella forma "aeque principaliter" della Parrocchia di San Parteniano, in frazione Schieti del comune di Urbino (Pesaro e Urbino), con la Parrocchia di San Giovanni Battista, sita nella stessa frazione dell'anzidetto Comune.
+
+Visto, il Guardasigilli: REALE
+ Registrato alla Corte dei conti, addi' 27 aprile 1964
+ Atti del Governo, registro n. 183, foglio n. 8. - VILLA

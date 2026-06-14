@@ -1,19 +1,21 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 11 marzo 1968 n. 532
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 532
+data: 1968-03-11
+titolo: "Riconoscimento, agli effetti civili, della unione della parrocchia di S. Maria a Poneta con quella di S. Andrea a Vico d'Elsa, nel comune di Barberino d'Elsa."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1968-03-11;532
+codice_redazionale: 068U0532
+vigente: true
+---
 
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 11 marzo 1968 n. 532
-============================================================
-
-Riconoscimento, agli effetti civili, della unione della parrocchia di S. Maria a Poneta con quella di S. Andrea a Vico d'Elsa, nel comune di Barberino d'Elsa.
---------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-532. Decreto del Presidente della Repubblica 11 marzo 1968, col quale, sulla proposta del Ministro per l'interno, viene riconosciuto, agli effetti civili, il decreto dell'Ordinario diocesano di Firenze in data 25 agosto 1967, relativo alla unione provvisoria "aeque principalis" della parrocchia di S. Maria a Poneta con quella di S. Andrea a Vico d'Elsa, entrambe nel comune di Barberino d'Elsa (Firenze).  
-  
-Visto, il Guardasigilli: REALE  
-Registrato alla Corte dei conti, addi' 24 aprile 1968  
-Atti del Governo, registro n. 219, foglio n. 49. - GRECO
+532.
+
+Decreto del Presidente della Repubblica 11 marzo 1968, col quale, sulla proposta del Ministro per l'interno, viene riconosciuto, agli effetti civili, il decreto dell'Ordinario diocesano di Firenze in data 25 agosto 1967, relativo alla unione provvisoria "aeque principalis" della parrocchia di S. Maria a Poneta con quella di S. Andrea a Vico d'Elsa, entrambe nel comune di Barberino d'Elsa (Firenze).
+
+Visto, il Guardasigilli: REALE
+ Registrato alla Corte dei conti, addi' 24 aprile 1968
+ Atti del Governo, registro n. 219, foglio n. 49. - GRECO

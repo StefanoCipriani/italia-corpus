@@ -1,19 +1,21 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 24 novembre 1977 n. 1105
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 1105
+data: 1977-11-24
+titolo: "Approvazione del nuovo statuto dell'Associazione radio amatori italiani, in Milano."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1977-11-24;1105
+codice_redazionale: 077U1105
+vigente: true
+---
 
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 24 novembre 1977 n. 1105
-================================================================
-
-Approvazione del nuovo statuto dell'Associazione radio amatori italiani, in Milano.
------------------------------------------------------------------------------------
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-1105. Decreto del Presidente della Repubblica 24 novembre 1977, col quale, sulla proposta del Ministro per le poste e le telecomunicazioni, di concerto con i Ministri per l'interno, per i beni culturali e ambientali e per l'industria, il commercio e l'artigianato, viene approvato il nuovo statuto dell'Associazione radioamatori italiani (A.R.I.), in Milano, eretta in ente morale con [decreto del Presidente della Repubblica 10 gennaio 1950, n. 368](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1950-01-10;368).  
-  
-Visto, il Guardasigilli: BONIFACIO  
-Registrato alla Corte dei conti, addi' 24 febbraio 1978  
-Registro n. 10 Poste, foglio n. 236
+1105.
+
+Decreto del Presidente della Repubblica 24 novembre 1977, col quale, sulla proposta del Ministro per le poste e le telecomunicazioni, di concerto con i Ministri per l'interno, per i beni culturali e ambientali e per l'industria, il commercio e l'artigianato, viene approvato il nuovo statuto dell'Associazione radioamatori italiani (A.R.I.), in Milano, eretta in ente morale con [decreto del Presidente della Repubblica 10 gennaio 1950, n. 368](Erezione%20in%20ente%20morale%20dellAssociazione%20Radiotecnica%20italiana%20A.R.I.md).
+
+Visto, il Guardasigilli: BONIFACIO
+ Registrato alla Corte dei conti, addi' 24 febbraio 1978
+ Registro n. 10 Poste, foglio n. 236

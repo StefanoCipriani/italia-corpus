@@ -1,22 +1,22 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 27 dicembre 1972 n. 888
-
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 27 dicembre 1972 n. 888
-===============================================================
-
-Modificazioni alla tariffa dei dazi doganali di importazione.
--------------------------------------------------------------
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 888
+data: 1972-12-27
+titolo: "Modificazioni alla tariffa dei dazi doganali di importazione."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1972-12-27;888
+codice_redazionale: 072U0888
+vigente: true
+---
 
 IL PRESIDENTE DELLA REPUBBLICA
-------------------------------
 
-Visto il trattato che istituisce la Comunita' europea del carbone e dell'acciaio, approvato e reso esecutivo con [legge 25 giugno 1952, n. 766](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1952-06-25;766);
+Visto il trattato che istituisce la Comunita' europea del carbone e dell'acciaio, approvato e reso esecutivo con [legge 25 giugno 1952, n. 766](../DL%20e%20leggi%20di%20conversione/Ratifica%20ed%20esecuzione%20dei%20seguenti%20Accordi%20internazionali%20firmati%20a%20Parigi%20il%2018%20aprile%201951%20a%20Trattato%20che%20istituisce%20la%20Comunita%20europea%20del%20carbone%20e%20dellacciaio%20e%20relativi%20annessi%20b%20_535fd4357eb2.md);
 
-Visti i trattati che istituiscono la Comunita' economica dell'energia atomica e la Comunita' economica europea, approvati e resi esecutivi con [legge 14 ottobre 1957, n. 1203](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1957-10-14;1203);
+Visti i trattati che istituiscono la Comunita' economica dell'energia atomica e la Comunita' economica europea, approvati e resi esecutivi con [legge 14 ottobre 1957, n. 1203](../DL%20e%20leggi%20di%20conversione/Ratifica%20ed%20esecuzione%20dei%20seguenti%20Accordi%20internazionali%20firmati%20a%20Roma%20il%2025%20marzo%201957%20a%20Trattato%20che%20istituisce%20la%20Comunita%20europea%20dellenergia%20atomica%20ed%20Atti%20allegati%20b%20Trattato%20ch_fbe031fe6ef3.md);
 
-Visto il trattato che istituisce un Consiglio unico ed una commissione unica delle Comunita' europee, approvato e reso esecutivo con [legge 3 maggio 1966, n. 437](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1966-05-03;437);
+Visto il trattato che istituisce un Consiglio unico ed una commissione unica delle Comunita' europee, approvato e reso esecutivo con [legge 3 maggio 1966, n. 437](../DL%20e%20leggi%20di%20conversione/Ratifica%20ed%20esecuzione%20del%20Trattato%20che%20istituisce%20un%20Consiglio%20unico%20ed%20una%20Commissione%20unica%20delle%20Comunita%20europee%20e%20del%20Protocollo%20sui%20privilegi%20e%20le%20immunita%20con%20Atto%20finale%20e%20Decisi_79d6ad624059.md);
 
-Vista la tariffa dei dazi doganali di importazione approvata con [decreto del Presidente della Repubblica 26 giugno 1965, n. 723](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1965-06-26;723), e successive modificazioni;
+Vista la tariffa dei dazi doganali di importazione approvata con [decreto del Presidente della Repubblica 26 giugno 1965, n. 723](Approvazione%20della%20nuova%20tariffa%20dei%20dazi%20doganali%20dimportazione.md), e successive modificazioni;
 
 Visti gli atti emanati dagli organi delle Comunita' europee e, in particolare:
 
@@ -24,7 +24,7 @@ il regolamento (C.E.E.) n. 492/71, del Consiglio, del 1 marzo 1971, relativo all
 
 i regolamenti (C.E.E.) n. 1308/71, n. 1309/71, numero 1310/71, n. 1311/71, n. 1312/71, n. 1313/71 e numero 1314/71, del Consiglio, del 21 giugno 1971, relativi alla concessione di preferenze tariffarie per alcuni prodotti originari di paesi in via di sviluppo;
 
-le [decisioni 71/232](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:31971D0232)/C.E.C.A., 71/233/C.E.C.A., del 21 giugno 1971, dei rappresentanti dei governi degli Stati membri della C.E.C.A., riuniti in sede di Consiglio, relative alla concessione di preferenze tariffarie per taluni prodotti siderurgici originari di paesi in via di sviluppo;
+le decisioni 71/232/C.E.C.A., 71/233/C.E.C.A., del 21 giugno 1971, dei rappresentanti dei governi degli Stati membri della C.E.C.A., riuniti in sede di Consiglio, relative alla concessione di preferenze tariffarie per taluni prodotti siderurgici originari di paesi in via di sviluppo;
 
 il regolamento (C.E.E.) n. 1232/71, del Consiglio, del 7 giugno 1971, recante conclusione di un accordo interinale tra la Comunita' economica europea e la Turchia;
 
@@ -34,11 +34,11 @@ il regolamento (C.E.E.) n. 2793/71, del Consiglio, del 20 dicembre 1971, recante
 
 i regolamenti (C.E.E.) n. 2794/71, n. 2795/71, numero 2796/71, n. 2797/71, n. 2798/71, n. 2799/71 e numero 2800/71, del Consiglio, del 20 dicembre 1971, relativi alla concessione di preferenze tariffarie per alcuni prodotti originari di paesi in via di sviluppo;
 
-le [decisioni 71/403](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:31971D0403)/C.E.C.A. e 71/404/C.E.C.A., del 20 dicembre 1971, dei rappresentanti dei governi degli Stati membri della C.E.C.A., riuniti in sede di Consiglio, relative alla concessione di preferenze tariffarie per taluni prodotti siderurgici originari di paesi in via di sviluppo;
+le decisioni 71/403/C.E.C.A. e 71/404/C.E.C.A., del 20 dicembre 1971, dei rappresentanti dei governi degli Stati membri della C.E.C.A., riuniti in sede di Consiglio, relative alla concessione di preferenze tariffarie per taluni prodotti siderurgici originari di paesi in via di sviluppo;
 
 il regolamento (C.E.E.) n. 1/72, del Consiglio, del 20 dicembre 1971, che modifica il regolamento (C.E.E.) n. 950/68 relativo alla tariffa doganale comune;
 
-la [decisione 72/1](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:31972D0001)/C.E.C.A., del 20 dicembre 1971, dei rappresentanti dei governi degli Stati membri della C.E.C.A., riuniti in sede di Consiglio, relativa alla nomenclatura e alle aliquote dei dazi convenzionali di taluni prodotti;
+la decisione 72/1/C.E.C.A., del 20 dicembre 1971, dei rappresentanti dei governi degli Stati membri della C.E.C.A., riuniti in sede di Consiglio, relativa alla nomenclatura e alle aliquote dei dazi convenzionali di taluni prodotti;
 
 i regolamenti (C.E.E.) n. 1346/72 e n. 1347/72, del Consiglio, del 27 giugno 1972, che modificano il regolamento (C.E.E.) n. 950/68 relativo alla tariffa doganale comune;
 
@@ -46,196 +46,39 @@ il regolamento (C.E.E.) n. 1568/72, del Consiglio, del 20 luglio 1972, relativo 
 
 il regolamento (C.E.E.) n. 2046/72, del Consiglio, del 25 settembre 1972, che reca conclusione di un accordo interinale tra la Comunita' economica europea e la Repubblica d'Austria e che ne stabilisce le disposizioni d'applicazione;
 
-la [decisione 72/333](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:31972D0333)/C.E.C.A., del 20 luglio 1972, dei rappresentanti dei governi degli Stati membri della C.E.C.A., riuniti in sede di Consiglio, che istituisce preferenze tariffarie per i prodotti riguardanti tale Comunita' e originari dell'Austria;
+la decisione 72/333/C.E.C.A., del 20 luglio 1972, dei rappresentanti dei governi degli Stati membri della C.E.C.A., riuniti in sede di Consiglio, che istituisce preferenze tariffarie per i prodotti riguardanti tale Comunita' e originari dell'Austria;
 
-la [direttiva 71/235](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:31971L0235)/C.E.E., del Consiglio, del 21 giugno 1971, relativa all'armonizzazione delle disposizioni legislative, regolamentari e amministrative riguardanti le manipolazioni usuali che possono essere effettuate nei depositi doganali e nelle zone franche;
+la [direttiva 71/235](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1971;235)/C.E.E., del Consiglio, del 21 giugno 1971, relativa all'armonizzazione delle disposizioni legislative, regolamentari e amministrative riguardanti le manipolazioni usuali che possono essere effettuate nei depositi doganali e nelle zone franche;
 
-la seconda [direttiva 72/230](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:31972L0230)/C.E.E., del Consiglio, del 12 giugno 1972, relativa all'armonizzazione delle disposizioni legislative, regolamentari e amministrative riguardanti il regime delle imposte sulla cifra d'affari e delle altre imposizioni indirette interne applicabili al traffico internazionale di viaggiatori;
+la seconda [direttiva 72/230](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1972;230)/C.E.E., del Consiglio, del 12 giugno 1972, relativa all'armonizzazione delle disposizioni legislative, regolamentari e amministrative riguardanti il regime delle imposte sulla cifra d'affari e delle altre imposizioni indirette interne applicabili al traffico internazionale di viaggiatori;
 
-Vista la [legge 19 ottobre 1970, n. 802](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1970-10-19;802), che proroga la delega al Governo, prevista dall'[art. 3 della legge 1 febbraio 1965, n. 13](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1965-02-01;13~art3), ad apportare modificazioni alla detta tariffa dei dazi doganali d'importazione;
+Vista la [legge 19 ottobre 1970, n. 802](../Atti%20normativi%20abrogati%20%28in%20originale%29/Ulteriore%20proroga%20della%20delega%20al%20Governo%20ad%20apportare%20modificazioni%20alla%20tariffa%20dei%20dazi%20doganali%20dimportazione%20prevista%20dallarticolo%203%20della%20legge%201%20febbraio%201965%20n.%2013.md), che proroga la delega al Governo, prevista dall'[art. 3 della legge 1 febbraio 1965, n. 13](../Atti%20normativi%20abrogati%20%28in%20originale%29/Delega%20al%20Governo%20ad%20emanare%20una%20nuova%20tariffa%20dei%20dazi%20doganali.md), ad apportare modificazioni alla detta tariffa dei dazi doganali d'importazione;
 
-Sentita la Commissione parlamentare di cui all'[art. 4 della legge 1 febbraio 1965, n. 13](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1965-02-01;13~art4), confermata a norma dell'[art. 2 della legge 19 ottobre 1970, n. 802](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1970-10-19;802~art2);
+Sentita la Commissione parlamentare di cui all'[art. 4 della legge 1 febbraio 1965, n. 13](../Atti%20normativi%20abrogati%20%28in%20originale%29/Delega%20al%20Governo%20ad%20emanare%20una%20nuova%20tariffa%20dei%20dazi%20doganali.md), confermata a norma dell'[art. 2 della legge 19 ottobre 1970, n. 802](../Atti%20normativi%20abrogati%20%28in%20originale%29/Ulteriore%20proroga%20della%20delega%20al%20Governo%20ad%20apportare%20modificazioni%20alla%20tariffa%20dei%20dazi%20doganali%20dimportazione%20prevista%20dallarticolo%203%20della%20legge%201%20febbraio%201965%20n.%2013.md);
 
-Visti gli [articoli 76](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27~art76) e [87 della Costituzione](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27~art87);
+Visti gli [articoli 76](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_76) e [87 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87);
 
 Sentito il Consiglio dei Ministri;
 
-Sulla
------
+Sulla proposta del Ministro per le finanze; Decreta:
 
-proposta del Ministro per le finanze; Decreta:
+## Art. 1.
 
-Art. 1
-------
+La tariffa dei dazi doganali d'importazione, approvata con [decreto del Presidente della Repubblica 26 giugno 1965, n. 723](Approvazione%20della%20nuova%20tariffa%20dei%20dazi%20doganali%20dimportazione.md), e successive modificazioni, ed i relativi allegati nonche' le relative disposizioni preliminari, sono modificati come indicato nelle tabelle A, B, C, e relativi allegati, e D, annessi al presente decreto, firmati dal Ministro per le finanze.
+ Le decorrenze delle modificazioni di cui alle predette tabelle A e C e relativi allegati ed il periodo di validita', per quelle aventi efficacia temporanea, sono quelli stabiliti per ciascuna modificazione nelle tabelle medesime e relativi allegati.
+ Le modificazioni di cui alla predetta tabella B e relativi allegati decorrono dal 1 gennaio 1972, salvo che sia altrimenti disposto nella tabella medesima e relativi allegati.
+ La modificazione di cui al punto 1) della predetta tabella D decorre dal 1 gennaio 1973 e le modificazioni di cui ai punti 2) e 3) della tabella medesima decorrono dal 1 luglio 1972.
 
-  
-La tariffa dei dazi doganali d'importazione, approvata con [decreto del Presidente della Repubblica 26 giugno 1965, n. 723](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1965-06-26;723), e successive modificazioni, ed i relativi allegati nonche' le relative disposizioni preliminari, sono modificati come indicato nelle tabelle A, B, C, e relativi allegati, e D, annessi al presente decreto, firmati dal Ministro per le finanze.  
-Le decorrenze delle modificazioni di cui alle predette tabelle A e C e relativi allegati ed il periodo di validita', per quelle aventi efficacia temporanea, sono quelli stabiliti per ciascuna modificazione nelle tabelle medesime e relativi allegati.  
-Le modificazioni di cui alla predetta tabella B e relativi allegati decorrono dal 1 gennaio 1972, salvo che sia altrimenti disposto nella tabella medesima e relativi allegati.  
-La modificazione di cui al punto 1) della predetta tabella D decorre dal 1 gennaio 1973 e le modificazioni di cui ai punti 2) e 3) della tabella medesima decorrono dal 1 luglio 1972.  
+## Art. 2.
 
-Art. 2
-------
+A decorrere dal 1 novembre 1971 fino al 31 agosto 1973, all'importazione di vini di uve fresche della voce di tariffa numero ex 22.05, originari dell'Algeria e in provenienza dallo stesso Paese, si applicano dazi pari al sessanta per cento di quelli stabiliti per gli stessi prodotti in provenienza dagli altri Paesi terzi, subordinatamente alle condizioni da stabilirsi dal Ministero delle finanze.
 
-  
-A decorrere dal 1 novembre 1971 fino al 31 agosto 1973, all'importazione di vini di uve fresche della voce di tariffa numero ex 22.05, originari dell'Algeria e in provenienza dallo stesso Paese, si applicano dazi pari al sessanta per cento di quelli stabiliti per gli stessi prodotti in provenienza dagli altri Paesi terzi, subordinatamente alle condizioni da stabilirsi dal Ministero delle finanze.  
+## Art. 3.
 
-Art. 3
-------
-
-  
-Il presente decreto entra in vigore il giorno stesso della sua pubblicazione nella Gazzetta Ufficiale ed ha effetto a decorrere dalle date indicate nei precedenti articoli.  
-  
+Il presente decreto entra in vigore il giorno stesso della sua pubblicazione nella Gazzetta Ufficiale ed ha effetto a decorrere dalle date indicate nei precedenti articoli.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 27 dicembre 1972
+Dato a Roma, addi' 27 dicembre 1972
 
-LEONE ANDREOTTI - VALSECCHI
-
-Visto, il Guardasigilli: GONELLA
-
-Registrato alla Corte dei conti, addi' 3 gennaio 1973
-
-Atti di Governo, registro n. 254, foglio n. 72 - CARUSO
-
-Tabelle
-
- TABELLA A   
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=072U088800100010110001&dgu=1973-01-16&art.dataPubblicazioneGazzetta=1973-01-16&art.codiceRedazionale=072U0888)
-  
-  
-  
-  
-  
-  
-  
-ALLEGATI ALLA TABELLA A   
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=072U088800100010110002&dgu=1973-01-16&art.dataPubblicazioneGazzetta=1973-01-16&art.codiceRedazionale=072U0888)
-  
-  
-  
-  
-  
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=072U088800100010110003&dgu=1973-01-16&art.dataPubblicazioneGazzetta=1973-01-16&art.codiceRedazionale=072U0888)
-  
-  
-  
-  
-  
-  
-  
-  
-TABELLA B   
-  
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=072U088800100010110004&dgu=1973-01-16&art.dataPubblicazioneGazzetta=1973-01-16&art.codiceRedazionale=072U0888)
-  
-  
-  
-  
-  
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=072U088800100010110005&dgu=1973-01-16&art.dataPubblicazioneGazzetta=1973-01-16&art.codiceRedazionale=072U0888)
-  
-  
-  
-  
-  
-  
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=072U088800100010110006&dgu=1973-01-16&art.dataPubblicazioneGazzetta=1973-01-16&art.codiceRedazionale=072U0888)
-  
-  
-  
-  
-  
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=072U088800100010110007&dgu=1973-01-16&art.dataPubblicazioneGazzetta=1973-01-16&art.codiceRedazionale=072U0888)
-  
-  
-  
-  
-  
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=072U088800100010110008&dgu=1973-01-16&art.dataPubblicazioneGazzetta=1973-01-16&art.codiceRedazionale=072U0888)
-  
-  
-  
-  
-  
-  
-  
-  
-  
-ALLEGATI ALLA TABELLA B   
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=072U088800100010110009&dgu=1973-01-16&art.dataPubblicazioneGazzetta=1973-01-16&art.codiceRedazionale=072U0888)
-  
-  
-  
-  
-  
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=072U088800100010110010&dgu=1973-01-16&art.dataPubblicazioneGazzetta=1973-01-16&art.codiceRedazionale=072U0888)
-  
-  
-  
-  
-  
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=072U088800100010110011&dgu=1973-01-16&art.dataPubblicazioneGazzetta=1973-01-16&art.codiceRedazionale=072U0888)
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-TABELLA C   
-  
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=072U088800100010110012&dgu=1973-01-16&art.dataPubblicazioneGazzetta=1973-01-16&art.codiceRedazionale=072U0888)
-  
-  
-  
-  
-  
-  
-  
-ALLEGATI ALLA TABELLA C   
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=072U088800100010110013&dgu=1973-01-16&art.dataPubblicazioneGazzetta=1973-01-16&art.codiceRedazionale=072U0888)
-  
-  
-  
-  
-  
-  
-  
-TABELLA D   
-  
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=072U088800100010110014&dgu=1973-01-16&art.dataPubblicazioneGazzetta=1973-01-16&art.codiceRedazionale=072U0888)
-  
+LEONE ANDREOTTI - VALSECCHI Visto, il Guardasigilli: GONELLA Registrato alla Corte dei conti, addi' 3 gennaio 1973 Atti di Governo, registro n. 254, foglio n. 72 - CARUSO

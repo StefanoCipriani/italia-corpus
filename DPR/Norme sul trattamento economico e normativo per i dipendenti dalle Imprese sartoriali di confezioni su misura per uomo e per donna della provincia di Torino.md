@@ -1,20 +1,20 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 gennaio 1962 n. 347
-
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 gennaio 1962 n. 347
-==============================================================
-
-Norme sul trattamento economico e normativo per i dipendenti dalle Imprese sartoriali di confezioni su misura per uomo e per donna della provincia di Torino.
--------------------------------------------------------------------------------------------------------------------------------------------------------------
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 347
+data: 1962-01-02
+titolo: "Norme sul trattamento economico e normativo per i dipendenti dalle Imprese sartoriali di confezioni su misura per uomo e per donna della provincia di Torino."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1962-01-02;347
+codice_redazionale: 062U0347
+vigente: true
+---
 
 IL PRESIDENTE DELLA REPUBBLICA
-------------------------------
 
-Visto l'[art. 87, comma quinto, della Costituzione](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27~art87-com5);
+Visto l'[art. 87, comma quinto, della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87-com5);
 
-Vista la [legge 14 luglio 1959, n. 741](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1959-07-14;741), che delega il Governo ad emanare norme transitorie per garantire minimi di trattamento economico e normativo ai lavoratori;
+Vista la [legge 14 luglio 1959, n. 741](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1959-07-14;741), che delega il Governo ad emanare norme transitorie per garantire minimi di trattamento economico e normativo ai lavoratori;
 
-Vista la [legge 1 ottobre 1960, n. 1027](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1960-10-01;1027), recante modifiche alla predetta [legge 14 luglio 1959, n. 741](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1959-07-14;741);
+Vista la [legge 1 ottobre 1960, n. 1027](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1960-10-01;1027), recante modifiche alla predetta [legge 14 luglio 1959, n. 741](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1959-07-14;741);
 
 Visto l'accordo 2 aprile 1955, sul conglobamento delle retribuzioni nel settore delle aziende sartoriali di confezioni su misura per uomo e signora;
 
@@ -24,47 +24,15 @@ Vista la pubblicazione nell'apposito Bollettino, n. 17 e n. 12 della provincia d
 
 Sentito il Consiglio dei Ministri;
 
-Sulla
------
+Sulla proposta del Ministro per il lavoro e la previdenza sociale; Decreta:
 
-proposta del Ministro per il lavoro e la previdenza sociale; Decreta:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-I rapporti di lavoro costituiti per le attivita' per le quali sono stati stipulati, per la provincia di Torino, gli accordi collettivi 11 maggio 1955 e 1 ottobre 1955, relativi al conglobamento delle retribuzioni per i lavoratori dipendenti dalle aziende sartoriali di confezioni su misura per uomo e per donna, sono regolati da norme giuridiche uniformi alle clausole degli accordi anzidetti, annessi al presente decreto, purche' compatibili con quelle concernenti la relativa disciplina nazionale.  
-I minimi di trattamento economico e normativo cosi' stabiliti sono inderogabili nei confronti di tutti i lavoratori dipendenti dalle imprese sartoriali di confezioni su misura per uomo e per donna della provincia di Torino.  
-  
+I rapporti di lavoro costituiti per le attivita' per le quali sono stati stipulati, per la provincia di Torino, gli accordi collettivi 11 maggio 1955 e 1 ottobre 1955, relativi al conglobamento delle retribuzioni per i lavoratori dipendenti dalle aziende sartoriali di confezioni su misura per uomo e per donna, sono regolati da norme giuridiche uniformi alle clausole degli accordi anzidetti, annessi al presente decreto, purche' compatibili con quelle concernenti la relativa disciplina nazionale.
+ I minimi di trattamento economico e normativo cosi' stabiliti sono inderogabili nei confronti di tutti i lavoratori dipendenti dalle imprese sartoriali di confezioni su misura per uomo e per donna della provincia di Torino.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 2 gennaio 1962
+Dato a Roma, addi' 2 gennaio 1962
 
-GRONCHI FANFANI - SULLO
-
-Visto, il Guardasigilli: BOSCO
-
-Registrato alla Corte dei conti, addi' 14 maggio 1962
-
-Atti del Governo, registro n. 146, foglio n. 120. - VILLA
-
-Allegato
-
-  
-ACCORDO COLLETTIVO 11 MAGGIO 1955 SUL CONGLOBAMENTO DELLE RETRIBUZIONI PER I LAVORATORI DIPENDENTI DALLE AZIENDE SARTORIALI DI CONFEZIONI SU MISURA PER UOMO E DONNA DELLA PROVINCIA DI TORINO.   
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=062U034700100010110001&dgu=1962-06-11&art.dataPubblicazioneGazzetta=1962-06-11&art.codiceRedazionale=062U0347)
-  
-  
-  
-  
-  
-ACCORDO COLLETTIVO 1 ottobre 1955, SUL CONGLOBAMENTO DELLE RETRIBUZIONI PER I LAVORATORI DIPENDENTI DALLE AZIENDE SARTORIALI DI CONFEZIONI SU MISURA PER UOMO E PER SIGNORA DELLA PROVINCIA DI TORINO   
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=062U034700100010110002&dgu=1962-06-11&art.dataPubblicazioneGazzetta=1962-06-11&art.codiceRedazionale=062U0347)
-  
+GRONCHI FANFANI - SULLO Visto, il Guardasigilli: BOSCO Registrato alla Corte dei conti, addi' 14 maggio 1962 Atti del Governo, registro n. 146, foglio n. 120. - VILLA

@@ -1,19 +1,21 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 22 marzo 1960 n. 405
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 405
+data: 1960-03-22
+titolo: "Soppressione della Fabbriceria della Chiesa parrocchiale dei Santi Cornelio e Cipriano, in frazione San Cipriano del comune di Roncade (Treviso)."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1960-03-22;405
+codice_redazionale: 060U0405
+vigente: true
+---
 
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 22 marzo 1960 n. 405
-============================================================
-
-Soppressione della Fabbriceria della Chiesa parrocchiale dei Santi Cornelio e Cipriano, in frazione San Cipriano del comune di Roncade (Treviso).
--------------------------------------------------------------------------------------------------------------------------------------------------
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-405. Decreto del Presidente della Repubblica 22 marzo 1960, col quale, sulla proposta del Ministro per l'interno, viene soppressa la Fabbriceria della Chiesa parrocchiale dei Santi Cornelio e Cipriano, in frazione San Cipriano del comune di Roncade (Treviso).  
-  
-Visto, il Guardasigilli: GONELLA  
-Registrato alla Corte dei conti, addi' 2 maggio 1960  
-Atti del Governo, registro n. 126, foglio n. 22 - VILLA
+405.
+
+Decreto del Presidente della Repubblica 22 marzo 1960, col quale, sulla proposta del Ministro per l'interno, viene soppressa la Fabbriceria della Chiesa parrocchiale dei Santi Cornelio e Cipriano, in frazione San Cipriano del comune di Roncade (Treviso).
+
+Visto, il Guardasigilli: GONELLA
+ Registrato alla Corte dei conti, addi' 2 maggio 1960
+ Atti del Governo, registro n. 126, foglio n. 22 - VILLA

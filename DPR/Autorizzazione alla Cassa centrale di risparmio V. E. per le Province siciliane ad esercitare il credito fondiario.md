@@ -1,20 +1,20 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 20 maggio 1962 n. 956
-
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 20 maggio 1962 n. 956
-=============================================================
-
-Autorizzazione alla Cassa centrale di risparmio V. E. per le Province siciliane ad esercitare il credito fondiario.
--------------------------------------------------------------------------------------------------------------------
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 956
+data: 1962-05-20
+titolo: "Autorizzazione alla Cassa centrale di risparmio V. E. per le Province siciliane ad esercitare il credito fondiario."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1962-05-20;956
+codice_redazionale: 062U0956
+vigente: true
+---
 
 IL PRESIDENTE DELLA REPUBBLICA
-------------------------------
 
-Visti il [regio decreto-legge 12 marzo 1936, n. 375](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1936-03-12;375), e le successive modificazioni, nonche' il [decreto legislativo del Capo provvisorio dello Stato 17 luglio 1947, n. 691](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto.legislativo:1947-07-17;691);
+Visti il [regio decreto-legge 12 marzo 1936, n. 375](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1936-03-12;375), e le successive modificazioni, nonche' il [decreto legislativo del Capo provvisorio dello Stato 17 luglio 1947, n. 691](https://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto.legislativo:1947-07-17;691);
 
-Visti il testo unico delle leggi sul credito fondiario, approvato con [regio decreto 16 luglio 1905, n. 646](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1905-07-16;646), e le successive modificazioni;
+Visti il testo unico delle leggi sul credito fondiario, approvato con [regio decreto 16 luglio 1905, n. 646](../Atti%20normativi%20abrogati%20%28in%20originale%29/Che%20approva%20lannesso%20testo%20unico%20delle%20leggi%20sul%20credito%20fondiario.%20005U0646.md), e le successive modificazioni;
 
-Visti il regolamento per l'esecuzione del predetto testo unico, approvato con [regio decreto 5 maggio 1910, n. 472](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1910-05-05;472), e le successive modificazioni;
+Visti il regolamento per l'esecuzione del predetto testo unico, approvato con [regio decreto 5 maggio 1910, n. 472](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1910-05-05;472), e le successive modificazioni;
 
 Visto lo statuto della Cassa centrale di risparmio V. E. per le Province siciliane, con sede in Palermo, approvato con decreto del Presidente della Regione siciliana 28 febbraio 1958, n. 150;
 
@@ -28,39 +28,22 @@ D'intesa con la Regione siciliana;
 
 Udito il parere del Consiglio di Stato;
 
-Sulla
------
+Sulla proposta del Ministro per il tesoro; Decreta:
 
-proposta del Ministro per il tesoro; Decreta:
+## Art. 1.
 
-Art. 1
-------
+La Cassa centrale di risparmio V. E. per le Province siciliane, con sede in Palermo, e' autorizzata ad esercitare nel territorio delle Province in cui ha proprie filiali, il credito fondiario in conformita' delle disposizioni vigenti in materia.
 
-  
-La Cassa centrale di risparmio V. E. per le Province siciliane, con sede in Palermo, e' autorizzata ad esercitare nel territorio delle Province in cui ha proprie filiali, il credito fondiario in conformita' delle disposizioni vigenti in materia.  
+## Art. 2.
 
-Art. 2
-------
+Per l'espletamento delle operazioni di cui all'articolo precedente, la Cassa centrale di risparmio V. E. per le Province siciliane istituira' una separata gestione avente propria contabilita' e proprio bilancio.
 
-  
-Per l'espletamento delle operazioni di cui all'articolo precedente, la Cassa centrale di risparmio V. E. per le Province siciliane istituira' una separata gestione avente propria contabilita' e proprio bilancio.  
+## Art. 3.
 
-Art. 3
-------
-
-  
-La Cassa centrale di risparmio V. E. per le Province siciliane assegnera' alla gestione di credito fondiario un fondo di dotazione non inferiore a L. 500 milioni.  
-  
+La Cassa centrale di risparmio V. E. per le Province siciliane assegnera' alla gestione di credito fondiario un fondo di dotazione non inferiore a L. 500 milioni.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 20 maggio 1962
+Dato a Roma, addi' 20 maggio 1962
 
-SEGNI TREMELLONI
-
-Visto, il Guardasigilli: BOSCO
-
-Registrato alla Corte dei conti, addi' 20 luglio 1962
-
-Atti del Governo, registro n. 157, foglio n. 23. - VILLA
+SEGNI TREMELLONI Visto, il Guardasigilli: BOSCO Registrato alla Corte dei conti, addi' 20 luglio 1962 Atti del Governo, registro n. 157, foglio n. 23. - VILLA

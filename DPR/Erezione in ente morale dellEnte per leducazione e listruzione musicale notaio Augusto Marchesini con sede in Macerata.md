@@ -1,19 +1,21 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 23 maggio 1956 n. 576
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 576
+data: 1956-05-23
+titolo: "Erezione in ente morale dell'Ente per l'educazione e l'istruzione musicale notaio Augusto Marchesini, con sede in Macerata."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1956-05-23;576
+codice_redazionale: 056U0576
+vigente: true
+---
 
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 23 maggio 1956 n. 576
-=============================================================
-
-Erezione in ente morale dell'Ente per l'educazione e l'istruzione musicale notaio Augusto Marchesini, con sede in Macerata.
----------------------------------------------------------------------------------------------------------------------------
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-576. Decreto del Presidente della Repubblica 23 maggio 1956, col quale, sulla proposta del Ministro per l'interno, l'Ente per l'educazione e l'istruzione musicale notaio Augusto Marchesini, con sede in Macerata, viene eretto in ente morale e ne viene approvato il relativo statuto organico.  
-  
-Visto, il Guardasigilli: MORO  
-Registrato alla Corte dei conti, addi' 23 giugno 1956  
-Atti del Governo, registro n. 98, foglio n. 67. - CARLOMAGNO
+576.
+
+Decreto del Presidente della Repubblica 23 maggio 1956, col quale, sulla proposta del Ministro per l'interno, l'Ente per l'educazione e l'istruzione musicale notaio Augusto Marchesini, con sede in Macerata, viene eretto in ente morale e ne viene approvato il relativo statuto organico.
+
+Visto, il Guardasigilli: MORO
+ Registrato alla Corte dei conti, addi' 23 giugno 1956
+ Atti del Governo, registro n. 98, foglio n. 67. - CARLOMAGNO

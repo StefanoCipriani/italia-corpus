@@ -1,19 +1,21 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 06 marzo 1982 n. 227
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 153
+data: 1982-02-26
+titolo: "Autorizzazione alla fondazione \"Pro juventute don Carlo Gnocchi\", in Roma, ad accettare una eredita'."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1982-02-26;153
+codice_redazionale: 082U0153
+vigente: true
+---
 
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 06 marzo 1982 n. 227
-============================================================
-
-Autorizzazione alla fondazione "Pro juventute don Carlo Gnocchi", in Roma, ad accettare una eredita'.
------------------------------------------------------------------------------------------------------
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-227. Decreto del Presidente della Repubblica 6 marzo 1982, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la fondazione "Pro juventute don Carlo Gnocchi", in Roma, viene autorizzata ad accettare, col beneficio d'inventario, l'eredita', consistente in beni immobili, siti in Milano, per un valore, al netto delle passivita', di L. 45.969.409, disposta dalla sig.ra Cussotti Gabriella con testamento olografo 28 novembre 1972, pubblicato a rogito dott. Brambilla Ferruccio, notaio in Milano, il 19 aprile 1977, n. 28744/ 3296 di repertorio, registrato a Busto Arsizio (Varese) il 5 maggio 1977 al n. 1265.  
-  
-Visto, il Guardasigilli: DARIDA  
-Registrato alla Corte dei conti, addi' 23 aprile 1982  
-Registro n. 3 Presidenza, foglio n. 325
+153.
+
+Decreto del Presidente della Repubblica 26 febbraio 1982, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la fondazione "Pro juventute don Carlo Gnocchi", in Roma, viene autorizzata ad accettare, col beneficio d'inventario, l'eredita' di L. 2.817.168, devoluta a favore della fondazione stessa dalla pretura di Milano nel rispetto della volonta' della testatrice sig.ra Magagnoli Giuseppina che, con testamento olografo 14 maggio 1974 pubblicato a rogito dott. Gaetano Maria Arena, notaio in Milano, in data 3 giugno 1976, n. 63340 di repertorio e n. 7851 di raccolta, registrato a Milano il 4 giugno 1976 al n. 09068, aveva destinato i suoi beni in beneficenza ai minorati fisici.
+
+Visto, il Guardasigilli: DARIDA
+ Registrato alla Corte dei conti, addi' 31 marzo 1982
+ Registro n. 3 Presidenza, foglio n. 117

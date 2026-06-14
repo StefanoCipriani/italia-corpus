@@ -1,38 +1,30 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 17 gennaio 1951 n. 40
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 40
+data: 1951-01-17
+titolo: "Numero dei prefetti incaricati dell'esercizio delle funzioni ispettive."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1951-01-17;40
+codice_redazionale: 051U0040
+vigente: true
+---
 
+## Art. 1.
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 17 gennaio 1951 n. 40
-=============================================================
+IL PRESIDENTE DELLA REPUBBLICA
 
-Numero dei prefetti incaricati dell'esercizio delle funzioni ispettive.
------------------------------------------------------------------------
+ Visto il [regio decreto 11 novembre 1923, n. 2395](../Atti%20normativi%20abrogati%20%28in%20originale%29/Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md);
+ Visto il [regio decreto 30 dicembre 1923, n. 2960](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;2960);
+ Visto l'[art. 87, comma quinto, della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87-com5);
+ Udito il parere del Consiglio di Stato;
+ Sentito il Consiglio dei Ministri;
+ Sulla proposta del Ministro per l'interno;
 
-Art. 1
-------
+ Decreta:
 
- IL PRESIDENTE DELLA REPUBBLICA  
-  
-Visto il [regio decreto 11 novembre 1923, n. 2395](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-11;2395);  
-Visto il [regio decreto 30 dicembre 1923, n. 2960](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;2960);  
-Visto l'[art. 87, comma quinto, della Costituzione](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27~art87-com5);  
-Udito il parere del Consiglio di Stato;  
-Sentito il Consiglio dei Ministri;  
-Sulla proposta del Ministro per l'interno;  
-  
-Decreta:  
-  
-Il numero dei prefetti, incaricati dell'esercizio delle funzioni ispettive, non puo' essere superiore a diciotto.  
-  
+ Il numero dei prefetti, incaricati dell'esercizio delle funzioni ispettive, non puo' essere superiore a diciotto.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 17 gennaio 1951
+Dato a Roma, addi' 17 gennaio 1951
 
-EINAUDI DE GASPERI - SCELBA
-
-Visto, il Guardasigilli: PICCIONI
-
-Registrato alla Corte dei conti, addi' 8 febbraio 1951
-
-Atti del Governo, registro n. 37, foglio n. 101. - CARLOMAGNO
+EINAUDI DE GASPERI - SCELBA Visto, il Guardasigilli: PICCIONI Registrato alla Corte dei conti, addi' 8 febbraio 1951 Atti del Governo, registro n. 37, foglio n. 101. - CARLOMAGNO

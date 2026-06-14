@@ -1,20 +1,20 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 gennaio 1962 n. 611
-
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 gennaio 1962 n. 611
-==============================================================
-
-Norme sul trattamento economico e normativo dei lavoratori dipendenti dalle Imprese lattierio-casearie della provincia di Modena.
----------------------------------------------------------------------------------------------------------------------------------
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 611
+data: 1962-01-02
+titolo: "Norme sul trattamento economico e normativo dei lavoratori dipendenti dalle Imprese lattierio-casearie della provincia di Modena."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1962-01-02;611
+codice_redazionale: 062U0611
+vigente: true
+---
 
 IL PRESIDENTE DELLA REPUBBLICA
-------------------------------
 
-Visto l'[art. 87, comma quinto, della Costituzione](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27~art87-com5);
+Visto l'[art. 87, comma quinto, della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87-com5);
 
-Vista la [legge 14 luglio 1959, n. 741](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1959-07-14;741), che delega il Governo ad emanare norme transitorie per garantire minimi di trattamento economico e normativo ai lavoratori;
+Vista la [legge 14 luglio 1959, n. 741](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1959-07-14;741), che delega il Governo ad emanare norme transitorie per garantire minimi di trattamento economico e normativo ai lavoratori;
 
-Vista la [legge 1 ottobre 1960, n. 1027](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1960-10-01;1027), recante modifiche alla predetta [legge 14 luglio 1959, n. 741](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1959-07-14;741);
+Vista la [legge 1 ottobre 1960, n. 1027](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1960-10-01;1027), recante modifiche alla predetta [legge 14 luglio 1959, n. 741](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1959-07-14;741);
 
 Visto il contratto collettivo nazionale 9 dicembre 1957, per i lavoratori dipendenti dalle aziende esercenti l'attivita' lattiero-casearia;
 
@@ -24,38 +24,16 @@ Vista la pubblicazione nell'apposito Bollettino, n. 38 della provincia di Modena
 
 Sentito il Consiglio dei Ministri;
 
-Sulla
------
+Sulla proposta del Ministro per il lavoro e la previdenza sociale; Decreta:
 
-proposta del Ministro per il lavoro e la previdenza sociale; Decreta:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-I rapporti di lavoro costituiti per l'attivita' per la quale e' stato stipulato, per la provincia di Modena, l'accordo collettivo integrativo 29 gennaio 1960, relativo ai lavoratori dipendenti dalle aziende lattiero-casearie, sono regolati da norme giuridiche uniformi alle clausole dell'accordo anzidetto, annesso al presente decreto.  
-Dette norme sono integrative di quelle concernenti la disciplina nazionale della categoria, purche' con esse compatibili.  
-I minimi di trattamento economico e normativo cosi' stabiliti sono inderogabili nei confronti di tutti i lavoratori dipendenti dalle imprese lattiero-casearie della provincia di Modena.  
-  
+I rapporti di lavoro costituiti per l'attivita' per la quale e' stato stipulato, per la provincia di Modena, l'accordo collettivo integrativo 29 gennaio 1960, relativo ai lavoratori dipendenti dalle aziende lattiero-casearie, sono regolati da norme giuridiche uniformi alle clausole dell'accordo anzidetto, annesso al presente decreto.
+ Dette norme sono integrative di quelle concernenti la disciplina nazionale della categoria, purche' con esse compatibili.
+ I minimi di trattamento economico e normativo cosi' stabiliti sono inderogabili nei confronti di tutti i lavoratori dipendenti dalle imprese lattiero-casearie della provincia di Modena.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 2 gennaio 1962
+Dato a Roma, addi' 2 gennaio 1962
 
-GRONCHI FANFANI - SULLO
-
-Visto, il Guardasigilli: BOSCO
-
-Registrato alla Corte dei conti, addi' 6 giugno 1962
-
-Atti del Governo, registro n. 148, foglio n. 133. - VILLA
-
-Accordo collettivo
-
-ACCORDO COLLETTIVO INTEGRATIVO 29 GENNAIO 1960 PER I LAVORATORI DIPENDENTI DA AZIENDE LATTIERO-CASEARIE DELLA PROVINCIA DI MODENA.   
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=062U061100100010110001&dgu=1962-07-04&art.dataPubblicazioneGazzetta=1962-07-04&art.codiceRedazionale=062U0611)
-  
+GRONCHI FANFANI - SULLO Visto, il Guardasigilli: BOSCO Registrato alla Corte dei conti, addi' 6 giugno 1962 Atti del Governo, registro n. 148, foglio n. 133. - VILLA

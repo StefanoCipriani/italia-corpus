@@ -1,19 +1,21 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 20 marzo 1984 n. 147
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 975
+data: 1977-09-20
+titolo: "Autorizzazione all'Associazione volontari italiani del sangue, in Milano, ad accettare una donazione."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1977-09-20;975
+codice_redazionale: 077U0975
+vigente: true
+---
 
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 20 marzo 1984 n. 147
-============================================================
-
-Autorizzazione all'Associazione volontari italiani del sangue in Milano ad accettare una donazione.
----------------------------------------------------------------------------------------------------
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-147. Decreto del Presidente della Repubblica 20 marzo 1984, col quale, sulla proposta del Ministro della sanita', l'Associazione volontari italiani del sangue, in Milano, viene autorizzata ad accettare la donazione consistente in appezzamenti di terreno con fabbricato rurale da demolire siti in Dovera (Cremona), del periziato valore di L. 16.O00.000, disposta dal dott. Amilcare Rotta, a favore della sezione AVIS di Dovera, con atto 20 giugno 1979, n. 20438/3540 di repertorio, al rogito dott. Fausto Biotti, notaio in data 27 giugno 1979, n. 1484.  
-  
-Visto, il Guardasigilli: MARTINAZZOLI  
-Registrato alla Corte dei conti, addi' 8 maggio 1984;  
-Registro n. 3 Sanita', foglio n. 375
+975.
+
+Decreto del Presidente della Repubblica 20 settembre 1977, col quale, sulla proposta del Ministro per la sanita', l'associazione volontari italiani del sangue, in Milano, viene autorizzata ad accettare la donazione disposta dal sig. Vittorio Patrignani e consistente in un immobile, porzione di fabbricato urbano in Falconara Marittima (Ancona), ubicato in via Leonardo da Vinci n. 2, sorgente sull'area descritta alla partita 2966 del catasto terreni, distinta alla sezione A, foglio I con porzione della particella 1891, in corso di accatastamento alla partita 4775 del nuovo catasto edilizio urbano.
+
+Visto, il Guardasigilli: BONIFACIO
+ Registrato alla Corte dei conti, addi' 29 dicembre 1977
+ Registro n. 7 Sanita', foglio n. 154

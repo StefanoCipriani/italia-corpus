@@ -1,19 +1,21 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 05 settembre 1980 n. 725
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 725
+data: 1980-09-05
+titolo: "Riconoscimento della personalita' giuridica della chiesa parrocchiale del Sacro Cuore di Gesu', in Avola."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1980-09-05;725
+codice_redazionale: 080U0725
+vigente: true
+---
 
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 05 settembre 1980 n. 725
-================================================================
-
-Riconoscimento della personalita' giuridica della chiesa parrocchiale del Sacro Cuore di Gesu', in Avola.
----------------------------------------------------------------------------------------------------------
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-725. Decreto del Presidente della Repubblica 5 settembre 1980, col quale, sulla proposta del Ministro dell'interno, viene riconosciuta la personalita' giuridica della chiesa parrocchiale del Sacro Cuore di Gesu', in Avola (Siracusa).  
-  
-Visto, il Guardasigilli: MORLINO  
-Registrato alla Corte dei conti, addi' 28 ottobre 1980  
-Registro n. 17 Interno, foglio n. 309
+725.
+
+Decreto del Presidente della Repubblica 5 settembre 1980, col quale, sulla proposta del Ministro dell'interno, viene riconosciuta la personalita' giuridica della chiesa parrocchiale del Sacro Cuore di Gesu', in Avola (Siracusa).
+
+Visto, il Guardasigilli: MORLINO
+ Registrato alla Corte dei conti, addi' 28 ottobre 1980
+ Registro n. 17 Interno, foglio n. 309

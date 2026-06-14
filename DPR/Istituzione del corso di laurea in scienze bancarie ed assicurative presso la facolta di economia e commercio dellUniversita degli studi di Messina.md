@@ -1,26 +1,26 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 17 ottobre 1969 n. 768
-
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 17 ottobre 1969 n. 768
-==============================================================
-
-Istituzione del corso di laurea in scienze bancarie ed assicurative presso la facolta' di economia e commercio dell'Universita' degli studi di Messina.
--------------------------------------------------------------------------------------------------------------------------------------------------------
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 768
+data: 1969-10-17
+titolo: "Istituzione del corso di laurea in scienze bancarie ed assicurative presso la facolta' di economia e commercio dell'Universita' degli studi di Messina."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1969-10-17;768
+codice_redazionale: 069U0768
+vigente: true
+---
 
 IL PRESIDENTE DELLA REPUBBLICA
-------------------------------
 
-Veduto lo statuto dell'Universita' degli studi di Messilla, approvato con [regio decreto 20 aprile 1939, n. 1090](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1090) e modificato con [regio decreto 26 ottobre 1940, n. 1905](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-26;1905) e successive modificazioni;
+Veduto lo statuto dell'Universita' degli studi di Messilla, approvato con [regio decreto 20 aprile 1939, n. 1090](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20del%20nuovo%20statuto%20della%20Regia%20Universita%20di%20Messina.%20039U1090.md) e modificato con [regio decreto 26 ottobre 1940, n. 1905](../Atti%20normativi%20abrogati%20%28in%20originale%29/Modificazioni%20allo%20statuto%20della%20Regia%20universita%20di%20Messina.%20040U1905.md) e successive modificazioni;
 
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20R.%20decreto-legge%2020%20giugno%201935-XIII%20n.%201071%20contenente%20modifiche%20ed%20aggiornamenti%20al%20testo%20unico%20delle%20leggi%20sullistruzione%20superiore.%20036U0073.md);
 
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
+Veduto il [regio decreto 30 settembre 1938, n. 1652](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disposizioni%20sullordinamento%20didattico%20universitario.%20038U1652.md), e successive modificazioni;
 
-Veduta la [legge 11 aprile 1953; n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
+Veduta la [legge 11 aprile 1953; n. 312](../Atti%20normativi%20abrogati%20%28in%20originale%29/Libera%20inclusione%20di%20nuovi%20insegnamenti%20complementari%20negli%20statuti%20delle%20Universita%20e%20degli%20Istituti%20distruzione%20superiore.md);
 
-Veduta la [legge 25 luglio 1966, n. 602](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1966-07-25;602);
+Veduta la [legge 25 luglio 1966, n. 602](../Atti%20normativi%20abrogati%20%28in%20originale%29/Modifiche%20alla%20legge%2021%20luglio%201961%20n.%20685%20concernente%20lammissione%20dei%20diplomati%20degli%20istituti%20tecnici%20alle%20Facolta%20universitarie.md);
 
 Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' di Messina intesa ad ottenere la istituzione del corso di laurea in scienze bancarie ed assicurative presso la facolta' di economia e commercio;
 
@@ -28,102 +28,26 @@ Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
 
 Sentito il parere del Consiglio superiore della pubblica istruzione;
 
-Sulla
------
+Sulla proposta del Ministro per la pubblica istruzione; Decreta:
 
-proposta del Ministro per la pubblica istruzione; Decreta:
+## Art. 1.
 
-Art. 1
-------
+Presso la facolta' di economia e commercio puo' essere istituito il corso di laurea in scienze bancarie e assicurative.
+ Il titolo di studio per l'ammissione al predetto corso di laurea, la durata e l'ordinamento del corso medesimo sono stabiliti dalla tabella annessa al presente decreto firmato d'ordine nostro, dal Ministro per la pubblica istruzione.
+ All'elenco delle lauree e dei diplomi, di cui alla tabella la, annessa al [regio decreto 30 settembre 1938, n. 1652](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disposizioni%20sullordinamento%20didattico%20universitario.%20038U1652.md), e' aggiunta la laurea in scienze bancarie e assicurative.
+ la tabella 2ª, annessa al regio decreto n. 1652 e' integrata nel senso che la facolta' di economia e commercio rilascia anche la laurea in scienze bancarie e assicurative.
+ Dopo la tabella 8ª, annessa al citato regio decreto n. 1652, e' inserita, assumendo il numero VIII-ter, la tabella allegata al presente decreto (allegato A).
 
-  
-Presso la facolta' di economia e commercio puo' essere istituito il corso di laurea in scienze bancarie e assicurative.  
-Il titolo di studio per l'ammissione al predetto corso di laurea, la durata e l'ordinamento del corso medesimo sono stabiliti dalla tabella annessa al presente decreto firmato d'ordine nostro, dal Ministro per la pubblica istruzione.  
-All'elenco delle lauree e dei diplomi, di cui alla tabella la, annessa al [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e' aggiunta la laurea in scienze bancarie e assicurative.  
-la tabella 2ª, annessa al regio decreto n. 1652 e' integrata nel senso che la facolta' di economia e commercio rilascia anche la laurea in scienze bancarie e assicurative.  
-Dopo la tabella 8ª, annessa al citato regio decreto n. 1652, e' inserita, assumendo il numero VIII-ter, la tabella allegata al presente decreto (allegato A).  
+## Art. 2.
 
-Art. 2
-------
+A decorrere dall'anno accademico 1969-70 e' istituito presso la facolta' di economia e commercio dell'Universita' di Messina, il corso di laurea in scienze bancarie e assicurative.
 
-  
-  
-A decorrere dall'anno accademico 1969-70 e' istituito presso la facolta' di economia e commercio dell'Universita' di Messina, il corso di laurea in scienze bancarie e assicurative.   
+## Art. 3.
 
-Art. 3
-------
-
-  
-Lo statuto dell'Universita' degli studi di Messina, approvato e modificato con i decreti suindicati e' ulteriormente modificato nel senso che dopo l'art. 25, e con il conseguente spostamento della successiva numerazione, viene aggiunto l'art. 26 contenente le norme relative all'ordinamento del corso di studi per il conseguimento della laurea in scienze bancarie e assicurative secondo l'ordinamento riportato nell'annessa tabella.  
-  
+Lo statuto dell'Universita' degli studi di Messina, approvato e modificato con i decreti suindicati e' ulteriormente modificato nel senso che dopo l'art. 25, e con il conseguente spostamento della successiva numerazione, viene aggiunto l'art. 26 contenente le norme relative all'ordinamento del corso di studi per il conseguimento della laurea in scienze bancarie e assicurative secondo l'ordinamento riportato nell'annessa tabella.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 17 ottobre 1969
+Dato a Roma, addi' 17 ottobre 1969
 
-SARAGAT FERRARI AGGRADI
-
-Visto, il Guardasigilli: GAVA
-
-Registrato alla Corte dei conti, addi' 31 ottobre 1969
-
-Atti del Governo, registro n. 229, foglio n. 162. - CARUSO
-
-Tabella VIII ter
-
- TABELLA VIII-ter   
-  
-LAUREA IN SCIENZE BANCARIE E ASSICURATIVE   
-  
-Durata del corso: quattro anni.   
-Titoli di ammissione: diploma di maturita' classica, di maturita' scientifica, di abilitazione per i provenienti dagli istituti tecnici commerciali, industriali agrari, nautici, per geometri, per il turismo, per le diplomate degli istituti tecnici femminili, e per i periti aziendali e corrispondenti in lingue estere.   
-Sono insegnamenti fondamentali:   
-1) Economia politica (1);   
-2) Istituzioni di diritto privato;   
-3) Economia aziendale;   
-4) Matematica finanziaria ed attuariale;   
-5) Ragioneria generale;   
-6) Istituzioni di diritto pubblico;   
-7) Economia politica (2);   
-8) Statistica;   
-9) Ragioneria bancaria e assicurativa;   
-10) Politica economica e finanziaria;   
-11) Tecnica bancaria;   
-12) Diritto bancario;   
-13) Diritto assicurativo;   
-14) Statistica economica;   
-15) Tecnica bancaria dei crediti speciali;   
-16) Controlli pubblici nel settore creditizio e assicurativo;   
-17) Scienza delle finanze (e diritto tributario);   
-18) Lingua francese o spagnola (biennale);   
-19) Lingua inglese o tedesca (biennale).   
-Sono insegnamenti complementari:   
-1) Merceologia;   
-2) Diritto della borsa e dei cambi;   
-3) Organizzazione e tecnica di borsa;   
-4) Legislazione tecnica dei pubblici appalti;   
-5) Diritto industriale;   
-6) Diritto processuale civile;   
-7) Economia e finanza delle imprese di assicurazione;   
-8) Elaborati elettronici e servizi meccanografici;   
-9) Tecnica delle ricerche di mercato e della distribuzione generale;   
-10) Contabilita' nazionale;   
-11) Legislazione sociale;   
-12) Organizzazione economica internazionale;   
-13) Sociologia dell'economia e della industria;   
-14) Teoria e pratica degli insediamenti;   
-15) Altra lingua straniera a scelta.   
-Gli insegnamenti di economia politica I e II comportano un distinto esame alla fine di ciascun corso.   
-Gli insegnamenti biennali delle lingue estere comportano un unico esame alla fine del biennio per ciascuna lingua.   
-L'esame comprendera' una prova scritta ed una orale.   
-Non puo' essere ammesso alla prova orale di lingua straniera lo studente che non abbia ottenuto la sufficienza nella prova scritta.   
-Sono dichiarati propedeutici i seguenti insegnamenti:   
-a) economia politica (1); b) istituzioni di diritto privato; c) economia aziendale; d) ragioneria generale; e) istituzioni di diritto pubblico; f) economia politica (2); g) statistica. Gli insegnamenti propedeutici debbono precedere per l'esame gli altri insegnamenti come sopra indicati.   
-Per essere ammesso all'esame di laurea, lo studente deve avere seguito i corsi e superato gli esami di tutti gli insegnamenti fondamentali, e almeno due da lui scelti fra i complementari.   
-L'esame di laurea consiste nella discussione orale di una dissertazione scritta su un tema che rientri in uno degli insegnamenti fondamentali o complementari, impartiti nella facolta' escluse le lingue straniere.   
-  
-Visto, d'ordine del Presidente della Repubblica   
-Il Ministro per la pubblica istruzione   
-  
-FERRARI AGGRADI   
+SARAGAT FERRARI AGGRADI Visto, il Guardasigilli: GAVA Registrato alla Corte dei conti, addi' 31 ottobre 1969 Atti del Governo, registro n. 229, foglio n. 162. - CARUSO

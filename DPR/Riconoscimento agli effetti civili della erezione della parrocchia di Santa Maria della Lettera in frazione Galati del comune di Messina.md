@@ -1,18 +1,20 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 10 giugno 1948 n. 1071
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 1071
+data: 1948-06-10
+titolo: "Riconoscimento, agli effetti civili, della erezione della parrocchia di Santa Maria della Lettera, in frazione Galati del comune di Messina."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1948-06-10;1071
+codice_redazionale: 048U1071
+vigente: true
+---
 
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 10 giugno 1948 n. 1071
-==============================================================
-
-Riconoscimento, agli effetti civili, della erezione della parrocchia di Santa Maria della Lettera, in frazione Galati del comune di Messina.
---------------------------------------------------------------------------------------------------------------------------------------------
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-1071. Decreto del Presidente della Repubblica 10 giugno 1948, col quale, sulla proposta del Ministro per l'interno, viene riconosciuto, agli effetti civili, il decreto dell'Arcivescovo di Messina in data 25 marzo 1943, rettificato con postilla 1 gennaio 1946, relativo all'erezione della parrocchia di Santa Maria della Lettere, in frazione Galati del comune di Messina.  
-  
-Visto, il Guardasigilli: GRASSI  
-Registrato alla Corte dei conti, addi' 2 agosto 1948
+1071.
+
+Decreto del Presidente della Repubblica 10 giugno 1948, col quale, sulla proposta del Ministro per l'interno, viene riconosciuto, agli effetti civili, il decreto dell'Arcivescovo di Messina in data 25 marzo 1943, rettificato con postilla 1 gennaio 1946, relativo all'erezione della parrocchia di Santa Maria della Lettere, in frazione Galati del comune di Messina.
+
+Visto, il Guardasigilli: GRASSI
+ Registrato alla Corte dei conti, addi' 2 agosto 1948

@@ -1,38 +1,30 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 24 febbraio 1956 n. 313
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 313
+data: 1956-02-24
+titolo: "Revoca di dichiarazione di zona di endemia malarica per il comune di Turriaco (Gorizia)."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1956-02-24;313
+codice_redazionale: 056U0313
+vigente: true
+---
 
+## Art. 1.
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 24 febbraio 1956 n. 313
-===============================================================
+IL PRESIDENTE DELLA REPUBBLICA
 
-Revoca di dichiarazione di zona di endemia malarica per il comune di Turriaco (Gorizia).
-----------------------------------------------------------------------------------------
+ Visto l'[art. 313 del testo unico delle leggi sanitarie](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265#art_313), approvato con [regio decreto 27 luglio 1934, n. 1265](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265);
+ Visto l'art. 4 del regolamento per l'applicazione delle norme volte a diminuire le cause della malaria, approvato con [regio decreto 28 gennaio 1935, n. 93](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20del%20regolamento%20per%20lapplicazione%20delle%20norme%20volte%20a%20diminuire%20le%20cause%20della%20malaria.%20035U0093.md);
+ Visto il [decreto luogotenenziale 12 luglio 1945, numero 417](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1945-07-12;417), che ha istituito l'Alto Commissariato per l'igiene e la sanita' pubblica ed il [decreto legislativo luogotenenziale 31 luglio 1945, n. 446](../Atti%20normativi%20abrogati%20%28in%20originale%29/Ordinamento%20e%20attribuzioni%20dellAlto%20Commissariato%20per%20ligiene%20e%20la%20sanita%20pubblica.%20045U0446.md), concernente l'ordinamento e le attribuzioni di detto Alto Commissariato;
+ Visto il [regio decreto 25 gennaio 1925, n. 174](../Atti%20normativi%20abrogati%20%28in%20originale%29/Delimitazione%20delle%20zone%20malariche%20nella%20provincia%20di%20Trieste.%20025U0174.md), col quale fu, tra l'altro, dichiarata zona di endemia malarica il territorio del comune di Turriaco allora della provincia di Trieste ed ora della provincia di Gorizia;
+ Visto la proposta avanzata dal Prefetto di Gorizia, previo parere favorevole del Consiglio provinciale di sanita' di revoca totale della dichiarazione di zona malarica per il comune di Turriaco;
+ Sulla proposta del Presidente Consiglio dei Ministri;
 
-Art. 1
-------
+ Decreta:
 
- IL PRESIDENTE DELLA REPUBBLICA  
-  
-Visto l'[art. 313 del testo unico delle leggi sanitarie](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265~art313), approvato con [regio decreto 27 luglio 1934, n. 1265](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265);  
-Visto l'art. 4 del regolamento per l'applicazione delle norme volte a diminuire le cause della malaria, approvato con [regio decreto 28 gennaio 1935, n. 93](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1935-01-28;93);  
-Visto il [decreto luogotenenziale 12 luglio 1945, numero 417](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1945-07-12;417), che ha istituito l'Alto Commissariato per l'igiene e la sanita' pubblica ed il [decreto legislativo luogotenenziale 31 luglio 1945, n. 446](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1945-07-31;446), concernente l'ordinamento e le attribuzioni di detto Alto Commissariato;  
-Visto il [regio decreto 25 gennaio 1925, n. 174](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1925-01-25;174), col quale fu, tra l'altro, dichiarata zona di endemia malarica il territorio del comune di Turriaco allora della provincia di Trieste ed ora della provincia di Gorizia;  
-Visto la proposta avanzata dal Prefetto di Gorizia, previo parere favorevole del Consiglio provinciale di sanita' di revoca totale della dichiarazione di zona malarica per il comune di Turriaco;  
-Sulla proposta del Presidente Consiglio dei Ministri;  
-  
-Decreta:  
-  
-La dichiarazione di zona di endemia malarica fatta con il richiamato [regio decreto 25 gennaio 1925, n. 174](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1925-01-25;174), per il comune di Turriaco, e' revocata.  
-  
+ La dichiarazione di zona di endemia malarica fatta con il richiamato [regio decreto 25 gennaio 1925, n. 174](../Atti%20normativi%20abrogati%20%28in%20originale%29/Delimitazione%20delle%20zone%20malariche%20nella%20provincia%20di%20Trieste.%20025U0174.md), per il comune di Turriaco, e' revocata.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 24 febbraio 1956
+Dato a Roma, addi' 24 febbraio 1956
 
-GRONCHI SEGNI
-
-Visto, il Guardasigilli: MORO
-
-Registrato alla Corte dei conti, addi' 23 aprile 1956
-
-Atti del Governo, registro n. 97, foglio n. 74. - CARLOMAGNO
+GRONCHI SEGNI Visto, il Guardasigilli: MORO Registrato alla Corte dei conti, addi' 23 aprile 1956 Atti del Governo, registro n. 97, foglio n. 74. - CARLOMAGNO

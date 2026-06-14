@@ -1,18 +1,18 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 15 marzo 1979 n. 123
-
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 15 marzo 1979 n. 123
-============================================================
-
-Modificazioni alle piante organiche dei magistrati di alcuni uffici giudiziari.
--------------------------------------------------------------------------------
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 123
+data: 1979-03-15
+titolo: "Modificazioni alle piante organiche dei magistrati di alcuni uffici giudiziari."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1979-03-15;123
+codice_redazionale: 079U0123
+vigente: true
+---
 
 IL PRESIDENTE DELLA REPUBBLICA
-------------------------------
 
-Vista la tabella A relativa alla pianta organica dei magistrati giudicanti e del pubblico ministero addetti alla Corte di cassazione, allegata al [decreto presidenziale 9 marzo 1973, n. 184](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1973-03-09;184);
+Vista la tabella A relativa alla pianta organica dei magistrati giudicanti e del pubblico ministero addetti alla Corte di cassazione, allegata al [decreto presidenziale 9 marzo 1973, n. 184](Variazioni%20alle%20piante%20organiche%20dei%20magistrati%20di%20alcuni%20uffici%20giudiziari_2.md);
 
-Viste le tabelle B, C e D, relative alle piante organiche dei magistrati giudicanti e del pubblico ministero addetti alle corti di appello, ai tribunali ed alle preture, allegate al [decreto presidenziale 31 dicembre 1966, numero 1185](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1966-12-31;1185), e successive variazioni;
+Viste le tabelle B, C e D, relative alle piante organiche dei magistrati giudicanti e del pubblico ministero addetti alle corti di appello, ai tribunali ed alle preture, allegate al [decreto presidenziale 31 dicembre 1966, numero 1185](Piante%20organiche%20dei%20magistrati%20addetti%20alle%20Corti%20di%20appello%20alle%20Procure%20generali%20presso%20le%20Corti%20di%20appello%20ai%20Tribunali%20alle%20Procure%20della%20Repubblica%20presso%20i%20Tribunali%20e%20alle%20Preture.md), e successive variazioni;
 
 Considerata l'urgenza di potenziare l'organico dei magistrati dei seguenti uffici giudiziari per le unita' a fianco di ciascuno di essi indicate al fine di fronteggiare le accresciute esigenze di servizio: procura generale presso la Corte di cassazione: sostituti procuratori generali 2; procure generali presso le corti di appello di: Bologna - sostituti procuratori generali 1, Milano 1, Roma 1; Tribunali di:
 
@@ -24,103 +24,20 @@ Visto il parere espresso al riguardo dal Consiglio superiore della magistratura 
 
 Ritenuto peraltro che non puo' seguirsi integralmente la proposta dello stesso Consiglio superiore di non dare corso agli aumenti previsti in ragione di una unita' ciascuno, per gli uffici di sorveglianza di Cuneo, Napoli, Roma, Sassari e Palermo, poiche' a seguito di una piu' approfondita valutazione delle esigenze e tenuto conto degli indici di lavoro appare necessario incrementare gli organici dei menzionati uffici riducendo parimenti di una unita' ciascuno, quelli assegnati in aumento al tribunale di Monza ed alle procure della Repubblica di Milano e Torino rinviando, altresi', ad altra data l'aumento di una unita' ciascuno degli organici dei tribunali di Roma e Torino;
 
-Visto l'art. 1, ultimo comma, della [legge 4 gennaio 1963, n. 1](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1963-01-04;1);
+Visto l'art. 1, ultimo comma, della [legge 4 gennaio 1963, n. 1](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1963-01-04;1);
 
-Sulla
------
+Sulla proposta del Ministro di grazia e giustizia; Decreta:
 
-proposta del Ministro di grazia e giustizia; Decreta:
+## Art. 1.
 
-Art. 1
-------
+La tabella A allegata al [decreto presidenziale 9 marzo 1973, n. 184](Variazioni%20alle%20piante%20organiche%20dei%20magistrati%20di%20alcuni%20uffici%20giudiziari_2.md), relativa ai magistrati giudicanti e del pubblico ministero addetti alla Corte di cassazione e' sostituita dalla tabella A annessa al presente decreto, vistata dal Ministro proponente.
 
-  
-La tabella A allegata al [decreto presidenziale 9 marzo 1973, n. 184](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1973-03-09;184), relativa ai magistrati giudicanti e del pubblico ministero addetti alla Corte di cassazione e' sostituita dalla tabella A annessa al presente decreto, vistata dal Ministro proponente.  
+## Art. 2.
 
-Art. 2
-------
-
-  
-Le tabelle B, C e D allegate al [decreto presidenziale 31 dicembre 1966, n. 1185](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1966-12-31;1185), e successive variazioni, relative alle piante organiche dei magistrati giudicanti e del pubblico ministero addetti alle corti di appello, ai tribunali ed alle preture, sono modificate per la parte relativa agli uffici cui si riferiscono, come dalle tabelle B, C e D allegate al presente decreto, visitate dal Ministro proponente.  
-  
+Le tabelle B, C e D allegate al [decreto presidenziale 31 dicembre 1966, n. 1185](Piante%20organiche%20dei%20magistrati%20addetti%20alle%20Corti%20di%20appello%20alle%20Procure%20generali%20presso%20le%20Corti%20di%20appello%20ai%20Tribunali%20alle%20Procure%20della%20Repubblica%20presso%20i%20Tribunali%20e%20alle%20Preture.md), e successive variazioni, relative alle piante organiche dei magistrati giudicanti e del pubblico ministero addetti alle corti di appello, ai tribunali ed alle preture, sono modificate per la parte relativa agli uffici cui si riferiscono, come dalle tabelle B, C e D allegate al presente decreto, visitate dal Ministro proponente.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 15 marzo 1979
+Dato a Roma, addi' 15 marzo 1979
 
-PERTINI BONIFACIO
-
-Visto, il Guardasigilli: MORLINO
-
-Registrato alla Corte dei conti, addi' 12 aprile 1979
-
-Registro n. 11 Giustizia, foglio n. 387
-
-Tabelle
-
- TABELLA A   
-  
-MAGISTRATI GIUDICANTI E DEL PUBBLICO MINISTERO   
-ADDETTI ALLA CORTE DI CASSAZIONE   
-  
-Primo presidente. . . . . . . . . . . . . . . . . . . . . . . . . . 1 Presidente aggiunto . . . . . . . . . . . . . . . . . . . . . . . . 1   
-Presidenti di sezione e presidente supplente al Tribunale   
-superiore delle acque pubbliche. . . . . . . . . . . . . . . . . . 50 Consiglieri . . . . . . . . . . . . . . . . . . . . . . . . . . . 243 Procuratore generale. . . . . . . . . . . . . . . . . . . . . . . . 1 Avvocati generali . . . . . . . . . . . . . . . . . . . . . . . . . 6 Sostituti procuratori generali . . . . . . . . . . . . . . . . . . 37   
-  
-TRIBUNALE SUPERIORE DELLE ACQUE PUBBLICHE   
-  
-Presidente. . . . . . . . . . . . . . . . . . . . . . . . . . . . . 1   
-  
-Visto, il Ministro di grazia e giustizia   
-BONIFACIO   
-  
-TABELLA B   
-  
-MAGISTRATI GIUDICANTI E DEL PUBBLICO MINISTERO ADDETTI ALLE CORTI DI APPELLO   
-  
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=079U012300100010110001&dgu=1979-04-18&art.dataPubblicazioneGazzetta=1979-04-18&art.codiceRedazionale=079U0123)
-  
-  
-  
-  
-TABELLA C   
-  
-MAGISTRATI GIUDICANTI E DEL PUBBLICO MINISTERO ADDETTI AI TRIBUNALI   
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=079U012300100010110002&dgu=1979-04-18&art.dataPubblicazioneGazzetta=1979-04-18&art.codiceRedazionale=079U0123)
-  
-  
-  
-  
-TABELLA D   
-MAGISTRATI ADDETTI ALLE PRETURE   
-  
-
-|  |  |  |
-| --- | --- | --- |
-| SEDI | Magistrati di appello in funzioni di pretore | Magistrati di tribunale aggiunti giudiziaria ed uditori in funzioni di pretore |
-| (Omissis). |  |  |
-| Avellino | 1 | 7 |
-| Benevento | 1 | 5 |
-| Bergamo | 1 | 9 |
-| Cagliari | 3 | 16 |
-| Civitavecchia | - | 3 |
-| Erma | 1 | 1 |
-| Lodi | - | 3 |
-| Marsala | - | 3 |
-| Monza | - | 14 |
-| Orvicto | - | 1 |
-| Padova | 1 | 10 |
-| Pescia | - | 1 |
-| Trento | 1 | 3 |
-
-  
-  
-  
-  
-Visto, il Ministro di grazia e giustizia   
-BONIFACIO   
+PERTINI BONIFACIO Visto, il Guardasigilli: MORLINO Registrato alla Corte dei conti, addi' 12 aprile 1979 Registro n. 11 Giustizia, foglio n. 387

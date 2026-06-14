@@ -1,59 +1,39 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 21 luglio 1987 n. 341
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 962
+data: 1986-11-26
+titolo: "Modificazioni alle piante organiche dei magistrati di alcuni uffici giudiziari."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1986-11-26;962
+codice_redazionale: 086U0962
+vigente: true
+---
 
+## Art. 1.
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 21 luglio 1987 n. 341
-=============================================================
+IL PRESIDENTE DELLA REPUBBLICA
 
-Modificazioni alle piante organiche dei magistrati di alcuni uffici giudiziari.
--------------------------------------------------------------------------------
+ Vista la tabella C relativa alle piante organiche dei magistrati giudicanti e del pubblico ministero addetti ai tribunali ed alle procure della Repubblica, allegata al [decreto del Presidente della Repubblica 31 dicembre 1966, n. 1185](Piante%20organiche%20dei%20magistrati%20addetti%20alle%20Corti%20di%20appello%20alle%20Procure%20generali%20presso%20le%20Corti%20di%20appello%20ai%20Tribunali%20alle%20Procure%20della%20Repubblica%20presso%20i%20Tribunali%20e%20alle%20Preture.md), e successive variazioni;
+ Considerata la necessita', al fine di fronteggiare le accresciute esigenze di servizio, di potenziare le piante organiche dei magistrati dei seguenti uffici giudiziari, per il numero di unita' a fianco di ciascuno di essi indicato:
+ Tribunali:
+ Palmi - presidenti di sezione 1, giudici 1;
+ Reggio Calabria - giudici 2;
+ Procure della Repubblica presso i tribunali di:
+ Lamezia Terme - sostituti 1;
+ Paola - sostituti 1;
+ Trapani - sostituti 1;
+ Ritenuto che le unita' necessarie per i suddetti aumenti possono essere reperite presso i seguenti uffici giudiziari, le cui piante organiche vengono ridotte delle unita' a fianco di ciascuno indicate:
+ Tribunali:
+ giudici - Asti 1, Bari 1, Chieti 1, Lucera 1, Massa 1, Roma 1, Rossano 1;
+ Visti i pareri espressi al riguardo dal Consiglio superiore della magistratura nelle sedute del 18 dicembre 1985 e 3 giugno 1986;
+ Visto l'art. 1, ultimo comma, della [legge 4 gennaio 1963, n. 1](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1963-01-04;1);
+ Sulla proposta del Ministro di grazia e giustizia;
 
-Art. 1
-------
+ Decreta:
 
- IL PRESIDENTE DELLA REPUBBLICA  
-  
-Viste le tabelle C e D relative alle piante organiche dei magistrati giudicanti e del pubblico ministero addetti ai tribunali ed alle preture, allegate al [decreto del Presidente della Repubblica 31 dicembre 1966, n. 1185](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1966-12-31;1185) e successive variazioni;  
-Considerata la necessita', al fine di fronteggiare le accresciute esigenze di servizio, di aumentare di una unita' la pianta organica dei procuratori aggiunti della procura della Repubblica presso il tribunale di Palermo e di una unita' quella di presidenti di sezione del tribunale di Caltanissetta;  
-Ritenuto che per far fronte alle esigenze innanzi prospettate si puo' provvedere sopprimendo un posto di consigliere pretore del mandamento di Napoli ed un posto di pretore del mandamento di Roma;  
-Visto il parere espresso al riguardo dal Consiglio superiore della magistratura nella seduta del 18 giugno 1987;  
-Visto l'art. 1, ultimo comma, della [legge 4 gennaio 1963, n. 1](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1963-01-04;1);  
-Sulla proposta del Ministro di grazia e giustizia;  
-  
-Decreta:  
-  
-Le tabelle C e D relative alle piante organiche dei magistrati giudicanti e del pubblico ministero addetti ai tribunali ed alle preture, allegate al [decreto del Presidente della Repubblica 31 dicembre 1966, n. 1185](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1966-12-31;1185) e successive variazioni, sono modificate, per la parte concernente gli uffici cui si riferiscono, come dalle tabelle A e B allegate al presente decreto, vistate dal Ministro proponente.  
-  
+ La tabella C allegata al [decreto del Presidente della Repubblica 31 dicembre 1966, n. 1185](Piante%20organiche%20dei%20magistrati%20addetti%20alle%20Corti%20di%20appello%20alle%20Procure%20generali%20presso%20le%20Corti%20di%20appello%20ai%20Tribunali%20alle%20Procure%20della%20Repubblica%20presso%20i%20Tribunali%20e%20alle%20Preture.md), e successive variazioni, relativa alle piante organiche dei magistrati giudicanti e del pubblico ministero addetti ai tribunali ed alle procure della Repubblica, e' modificata, per la parte concernente gli uffici cui si riferisce, come dalla tabella A allegata al presente decreto, vistata dal Ministro proponente.
 
-Il presente decreto, munito del sigillo dello Stato, sara' inserito nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 
-### Dato a Roma, addi' 21 luglio 1987
+Dato a Roma, addi' 26 novembre 1986
 
-COSSIGA
-
-ROGNONI, Ministro di grazia e giustizia
-
-Visto, il Guardasigilli: ROGNONI
-
-Registrato alla Corte dei conti, addi' 6 agosto 1987
-
-Registro n. 35 Giustizia, foglio n. 20
-
-Tabella A
-
- TABELLA A   
-MAGISTRATI GIUDICANTI E DEL PUBBLICO MINISTERO ADDETTI AI TRIBUNALI   
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=087U034100100010110001&dgu=1987-08-17&art.dataPubblicazioneGazzetta=1987-08-17&art.codiceRedazionale=087U0341)
-  
-
-Tabella B
-
- TABELLA B   
-MAGISTRATI ADDETTI ALLE PRETURE   
-  
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=087U034100200010110001&dgu=1987-08-17&art.dataPubblicazioneGazzetta=1987-08-17&art.codiceRedazionale=087U0341)
-  
+COSSIGA ROGNONI, Ministro di grazia e giustizia Visto, il Guardasigilli: ROGNONI Registrato alla Corte dei conti, addi' 20 dicembre 1986 Registro n. 56 Giustizia, foglio n. 253

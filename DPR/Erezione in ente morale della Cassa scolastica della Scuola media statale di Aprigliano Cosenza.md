@@ -1,19 +1,21 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 06 giugno 1961 n. 811
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 811
+data: 1961-06-06
+titolo: "Erezione in ente morale della Cassa scolastica della Scuola media statale di Aprigliano (Cosenza)."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1961-06-06;811
+codice_redazionale: 061U0811
+vigente: true
+---
 
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 06 giugno 1961 n. 811
-=============================================================
-
-Erezione in ente morale della Cassa scolastica della Scuola media statale di Aprigliano (Cosenza).
---------------------------------------------------------------------------------------------------
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-811. Decreto del Presidente della Repubblica 6 giugno 1961, col quale, sulla proposta del Ministro per la pubblica istruzione, la Cassa scolastica della Scuola media statale di Aprigliano (Cosenza), viene eretta in ente morale e ne viene approvato lo statuto.  
-  
-Visto, il Guardasigilli: GONELLA  
-Registrato alla Corte dei conti, addi' 11 agosto 1961  
-Atti del Governo, registro n. 138, foglio n. 91. - DI PRETORO
+811.
+
+Decreto del Presidente della Repubblica 6 giugno 1961, col quale, sulla proposta del Ministro per la pubblica istruzione, la Cassa scolastica della Scuola media statale di Aprigliano (Cosenza), viene eretta in ente morale e ne viene approvato lo statuto.
+
+Visto, il Guardasigilli: GONELLA
+ Registrato alla Corte dei conti, addi' 11 agosto 1961
+ Atti del Governo, registro n. 138, foglio n. 91. - DI PRETORO

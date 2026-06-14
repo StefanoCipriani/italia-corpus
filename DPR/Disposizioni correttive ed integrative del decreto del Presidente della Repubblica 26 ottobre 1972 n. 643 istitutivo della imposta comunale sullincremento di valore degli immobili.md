@@ -1,63 +1,48 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 13 dicembre 1977 n. 959
-
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 13 dicembre 1977 n. 959
-===============================================================
-
-Disposizioni correttive ed integrative del decreto del Presidente della Repubblica 26 ottobre 1972, n. 643, istitutivo della imposta comunale sull'incremento di valore degli immobili.
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 959
+data: 1977-12-13
+titolo: "Disposizioni correttive ed integrative del decreto del Presidente della Repubblica 26 ottobre 1972, n. 643, istitutivo della imposta comunale sull'incremento di valore degli immobili."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1977-12-13;959
+codice_redazionale: 077U0959
+vigente: true
+---
 
 IL PRESIDENTE DELLA REPUBBLICA
-------------------------------
 
-Visto l'[art. 87, comma quinto, della Costituzione](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27~art87-com5);
+Visto l'[art. 87, comma quinto, della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87-com5);
 
-Vista la [legge 9 ottobre 1971, n. 825](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1971-10-09;825), concernente delega legislativa per la riforma tributaria;
+Vista la [legge 9 ottobre 1971, n. 825](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1971-10-09;825), concernente delega legislativa per la riforma tributaria;
 
-Vista la [legge 6 dicembre 1971, n. 1036](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1971-12-06;1036);
+Vista la [legge 6 dicembre 1971, n. 1036](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1971-12-06;1036);
 
-Visto il [decreto-legge 25 maggio 1972, n. 202](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1972-05-25;202), convertito, con modificazioni, nella [legge 24 luglio 1972, n. 321](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1972-07-24;321);
+Visto il [decreto-legge 25 maggio 1972, n. 202](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1972-05-25;202), convertito, con modificazioni, nella [legge 24 luglio 1972, n. 321](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2025%20maggio%201972%20n.%20202%20recante%20modifiche%20e%20integrazioni%20alla%20legge%206%20dicembre%201971%20n.%201036%20in%20materia%20di%20riforma%20tributaria.md);
 
-Visto l'[art. 2 della legge 14 agosto 1974, n. 354](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1974-08-14;354~art2);
+Visto l'[art. 2 della legge 14 agosto 1974, n. 354](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%206%20luglio%201974%20n.%20260%20concernente%20norme%20per%20la%20migliore%20realizzazione%20della%20perequazione%20tributaria%20e%20della%20repressione%20dellevasion_2db0f4f8413b.md);
 
-Visto l'[art. 30 della legge 2 dicembre 1975, n. 576](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1975-12-02;576~art30);
+Visto l'[art. 30 della legge 2 dicembre 1975, n. 576](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1975-12-02;576#art_30);
 
-Visto l'[art. 22 della legge 13 aprile 1977, n. 114](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1977-04-13;114~art22);
+Visto l'[art. 22 della legge 13 aprile 1977, n. 114](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1977-04-13;114#art_22);
 
-Ritenuta la necessita' di emanare, ai sensi dell'art. 17, secondo comma, della citata [legge 9 ottobre 1971, n. 825](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1971-10-09;825), norme integrative e correttive del [decreto del Presidente della Repubblica 26 ottobre 1972, n. 643](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1972-10-26;643), istitutivo dell'imposta comunale sull'incremento di valore degli immobili;
+Ritenuta la necessita' di emanare, ai sensi dell'art. 17, secondo comma, della citata [legge 9 ottobre 1971, n. 825](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1971-10-09;825), norme integrative e correttive del [decreto del Presidente della Repubblica 26 ottobre 1972, n. 643](Istituzione%20dellimposta%20comunale%20sullincremento%20di%20valore%20degli%20immobili.md), istitutivo dell'imposta comunale sull'incremento di valore degli immobili;
 
-Udito il parere della commissione parlamentare istituita a norma del richiamato [art. 17 della legge 9 ottobre 1971, n. 825](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1971-10-09;825~art17);
+Udito il parere della commissione parlamentare istituita a norma del richiamato [art. 17 della legge 9 ottobre 1971, n. 825](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1971-10-09;825#art_17);
 
 Sentito il Consiglio dei Ministri;
 
-Sulla
------
+Sulla proposta del Presidente del Consiglio dei Ministri, di concerto con i Ministri per le finanze, per l'interno, per il tesoro e per il bilancio e la programmazione economica; Decreta:
 
-proposta del Presidente del Consiglio dei Ministri, di concerto con i Ministri per le finanze, per l'interno, per il tesoro e per il bilancio e la programmazione economica; Decreta:
+## Art. 1.
 
-Art. 1
-------
+Nell'[art. 2 del decreto del Presidente della Repubblica 26 ottobre 1972, n. 643](Istituzione%20dellimposta%20comunale%20sullincremento%20di%20valore%20degli%20immobili.md), modificato con [decreto del Presidente della Repubblica 23 dicembre 1974, numero 688](Disposizioni%20integrative%20e%20correttive%20del%20decreto%20del%20Presidente%20della%20Repubblica%2026%20ottobre%201972%20n.%20643%20concernente%20istituzione%20dellimposta%20comunale%20sullincremento%20di%20valore%20degli%20immobili.md), e' aggiunto il seguente comma:
+ "L'imposta non si applica all'atto del trasferimento a seguito di espropriazione per pubblica utilita' o della cessione all'espropriante in caso di procedura espropriativa per pubblica utilita'".
 
-  
-Nell'[art. 2 del decreto del Presidente della Repubblica 26 ottobre 1972, n. 643](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1972-10-26;643~art2), modificato con [decreto del Presidente della Repubblica 23 dicembre 1974, numero 688](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1974-12-23;688), e' aggiunto il seguente comma:  
-"L'imposta non si applica all'atto del trasferimento a seguito di espropriazione per pubblica utilita' o della cessione all'espropriante in caso di procedura espropriativa per pubblica utilita'".  
+## Art. 2.
 
-Art. 2
-------
-
-  
-Il presente decreto entra in vigore il giorno successivo a quello della sua pubblicazione nella Gazzetta Ufficiale.  
-  
+Il presente decreto entra in vigore il giorno successivo a quello della sua pubblicazione nella Gazzetta Ufficiale.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 13 dicembre 1977
+Dato a Roma, addi' 13 dicembre 1977
 
-LEONE ANDREOTTI - PANDOLFI - COSSIGA - STAMMATI - MORLINO
-
-Visto, il Guardasigilli: BONIFACIO
-
-Registrato alla Corte dei conti, addi' 30 dicembre 1977
-
-Atti di Governo, registro n. 15, foglio n. 51
+LEONE ANDREOTTI - PANDOLFI - COSSIGA - STAMMATI - MORLINO Visto, il Guardasigilli: BONIFACIO Registrato alla Corte dei conti, addi' 30 dicembre 1977 Atti di Governo, registro n. 15, foglio n. 51

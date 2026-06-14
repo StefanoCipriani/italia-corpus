@@ -1,19 +1,21 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 20 agosto 1980 n. 1172
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 1172
+data: 1980-08-20
+titolo: "Istituzione di un istituto tecnico commerciale ad indirizzo amministrativo in Mesagne."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1980-08-20;1172
+codice_redazionale: 080U1172
+vigente: true
+---
 
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 20 agosto 1980 n. 1172
-==============================================================
-
-Istituzione di un istituto tecnico commerciale ad indirizzo amministrativo in Mesagne.
---------------------------------------------------------------------------------------
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-1172. Decreto del Presidente della Repubblica 20 agosto 1980, col quale, sulla proposta del Ministro della pubblica istruzione, di concerto con i Ministri dell'interno e del tesoro, viene istituito in Mesagne (Brindisi), a decorrere dall'inizio dell'anno scolastico 1980-81, un istituto tecnico commerciale ad indirizzo amministrativo e ne viene approvata la tabella organica.  
-  
-Visto, il Guardasigilli: DARIDA  
-Registrato alla Corte dei conti, addi' 30 luglio 1981  
-Registro n. 73 Istruzione, foglio n. 284
+1172.
+
+Decreto del Presidente della Repubblica 20 agosto 1980, col quale, sulla proposta del Ministro della pubblica istruzione, di concerto con i Ministri dell'interno e del tesoro, viene istituito in Mesagne (Brindisi), a decorrere dall'inizio dell'anno scolastico 1980-81, un istituto tecnico commerciale ad indirizzo amministrativo e ne viene approvata la tabella organica.
+
+Visto, il Guardasigilli: DARIDA
+ Registrato alla Corte dei conti, addi' 30 luglio 1981
+ Registro n. 73 Istruzione, foglio n. 284

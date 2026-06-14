@@ -1,19 +1,21 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 25 novembre 1964 n. 1424
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 1424
+data: 1964-11-25
+titolo: "Riconoscimento della personalita' giuridica dell'Associazione laicale denominata \"Istituto Missionario Ancelle dei Poveri\", con sede in Bologna."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1964-11-25;1424
+codice_redazionale: 064U1424
+vigente: true
+---
 
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 25 novembre 1964 n. 1424
-================================================================
-
-Riconoscimento della personalita' giuridica dell'Associazione laicale denominata "Istituto Missionario Ancelle dei Poveri", con sede in Bologna.
-------------------------------------------------------------------------------------------------------------------------------------------------
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-1424. Decreto del Presidente della Repubblica 25 novembre 1964, col quale, sulla, proposta del Ministro per l'interno, viene riconosciuta la personalita' giuridica dell'Associazione laicale, denominata "Istituto Missionario Ancelle dei Poveri", con sede in Bologna, e ne viene approvato lo statuto.  
-  
-Visto, il Guardasigilli: REALE  
-Registrato alla Corte dei conti, addi' 21 dicembre 1964  
-Atti del Governo, registro n. 189, foglio n. 21. - VILLA
+1424.
+
+Decreto del Presidente della Repubblica 25 novembre 1964, col quale, sulla, proposta del Ministro per l'interno, viene riconosciuta la personalita' giuridica dell'Associazione laicale, denominata "Istituto Missionario Ancelle dei Poveri", con sede in Bologna, e ne viene approvato lo statuto.
+
+Visto, il Guardasigilli: REALE
+ Registrato alla Corte dei conti, addi' 21 dicembre 1964
+ Atti del Governo, registro n. 189, foglio n. 21. - VILLA

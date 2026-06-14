@@ -1,19 +1,21 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 06 giugno 1961 n. 614
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 614
+data: 1961-06-06
+titolo: "Riconoscimento della personalita' giuridica della Chiesa parrocchiale di Santa Maria del Piano nel comune di Verbicaro (Cosenza)."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1961-06-06;614
+codice_redazionale: 061U0614
+vigente: true
+---
 
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 06 giugno 1961 n. 614
-=============================================================
-
-Riconoscimento della personalita' giuridica della Chiesa parrocchiale di Santa Maria del Piano nel comune di Verbicaro (Cosenza).
----------------------------------------------------------------------------------------------------------------------------------
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-614. Decreto del Presidente della Repubblica 6 giugno 1961, col quale, sulla proposta del Ministro per l'interno, viene riconosciuta la personalita' giuridica della Chiesa parrocchiale di Santa Maria del Piano nel comune di Verbicaro (Cosenza).  
-  
-Visto, il Guardasigilli: GONELLA  
-Registrato alla Corte dei conti, addi' 11 luglio 1961  
-Atti del Governo, registro n. 137, foglio n. 89. - VILLA
+614.
+
+Decreto del Presidente della Repubblica 6 giugno 1961, col quale, sulla proposta del Ministro per l'interno, viene riconosciuta la personalita' giuridica della Chiesa parrocchiale di Santa Maria del Piano nel comune di Verbicaro (Cosenza).
+
+Visto, il Guardasigilli: GONELLA
+ Registrato alla Corte dei conti, addi' 11 luglio 1961
+ Atti del Governo, registro n. 137, foglio n. 89. - VILLA

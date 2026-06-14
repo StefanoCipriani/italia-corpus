@@ -1,37 +1,29 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 18 novembre 1960 n. 1458
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 1458
+data: 1960-11-18
+titolo: "Modificazioni alla tabella che determina il numero e la residenza dei notai relativamente alla Corte d'appello di Brescia."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1960-11-18;1458
+codice_redazionale: 060U1458
+vigente: true
+---
 
+## Art. 1.
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 18 novembre 1960 n. 1458
-================================================================
+IL PRESIDENTE DELLA REPUBBLICA
 
-Modificazioni alla tabella che determina il numero e la residenza dei notai relativamente alla Corte d'appello di Brescia.
---------------------------------------------------------------------------------------------------------------------------
+ Visto l'[art. 4 della legge 16 febbraio 1913, n. 89](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1913-02-16;89#art_4);
+ Visto il [decreto presidenziale 18 gennaio 1954, n. 18](Revisione%20della%20tabella%20che%20determina%20il%20numero%20e%20la%20residenza%20dei%20notari.md), sulla revisione della tabella che determina il numero e la residenza dei notai;
+ Ritenuta la necessita' di elevare da. 18 a 21 il numero dei posti di notaio nel comune di Brescia;
+ Visti i pareri del Consiglio notarile e della Corte d'appello di Brescia;
+ Sulla proposta del Guardasigilli, Ministro Segretario di Stato per gli affari di grazia e giustizia;
 
-Art. 1
-------
+ Decreta:
 
- IL PRESIDENTE DELLA REPUBBLICA  
-  
-Visto l'[art. 4 della legge 16 febbraio 1913, n. 89](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1913-02-16;89~art4);  
-Visto il [decreto presidenziale 18 gennaio 1954, n. 18](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1954-01-18;18), sulla revisione della tabella che determina il numero e la residenza dei notai;  
-Ritenuta la necessita' di elevare da. 18 a 21 il numero dei posti di notaio nel comune di Brescia;  
-Visti i pareri del Consiglio notarile e della Corte d'appello di Brescia;  
-Sulla proposta del Guardasigilli, Ministro Segretario di Stato per gli affari di grazia e giustizia;  
-  
-Decreta:  
-  
-La tabella che determina il numero e la residenza dei notai, approvata con [decreto presidenziale 18 gennaio 1954, n. 18](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1954-01-18;18), e' modificata nel senso che e' aumentato a 21 il numero dei posti di notaio nel comune di Brescia.  
-  
+ La tabella che determina il numero e la residenza dei notai, approvata con [decreto presidenziale 18 gennaio 1954, n. 18](Revisione%20della%20tabella%20che%20determina%20il%20numero%20e%20la%20residenza%20dei%20notari.md), e' modificata nel senso che e' aumentato a 21 il numero dei posti di notaio nel comune di Brescia.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 18 novembre 1960
+Dato a Roma, addi' 18 novembre 1960
 
-GRONCHI GONELLA
-
-Visto, il Guardasigilli: GONELLA
-
-Registrato alla Corte dei conti, addi' 7 dicembre 1960
-
-Atti del Governo, registro n. 132, foglio n. 55. - VILLA
+GRONCHI GONELLA Visto, il Guardasigilli: GONELLA Registrato alla Corte dei conti, addi' 7 dicembre 1960 Atti del Governo, registro n. 132, foglio n. 55. - VILLA

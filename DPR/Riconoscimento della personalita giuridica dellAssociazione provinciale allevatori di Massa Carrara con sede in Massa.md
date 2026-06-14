@@ -1,19 +1,21 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 19 marzo 1959 n. 263
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 263
+data: 1959-03-19
+titolo: "Riconoscimento della personalita' giuridica dell'Associazione provinciale allevatori di Massa Carrara, con sede in Massa."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1959-03-19;263
+codice_redazionale: 059U0263
+vigente: true
+---
 
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 19 marzo 1959 n. 263
-============================================================
-
-Riconoscimento della personalita' giuridica dell'Associazione provinciale allevatori di Massa Carrara, con sede in Massa.
--------------------------------------------------------------------------------------------------------------------------
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-263. Decreto del Presidente della Repubblica 19 marzo 1959, col quale, sulla proposta del Ministro per l'agricoltura e per le foreste, viene riconosciuta la personalita' giuridica dell'Associazione provinciale allevatori di Massa Carrara, con sede in Massa, e ne viene approvato lo statuto.  
-  
-Visto, il Guardasigilli: GONELLA  
-Registrato alla Corte dei conti, addi' 12 maggio 1959  
-Atti del Governo, registro n. 118, foglio n. 112. - VILLA
+263.
+
+Decreto del Presidente della Repubblica 19 marzo 1959, col quale, sulla proposta del Ministro per l'agricoltura e per le foreste, viene riconosciuta la personalita' giuridica dell'Associazione provinciale allevatori di Massa Carrara, con sede in Massa, e ne viene approvato lo statuto.
+
+Visto, il Guardasigilli: GONELLA
+ Registrato alla Corte dei conti, addi' 12 maggio 1959
+ Atti del Governo, registro n. 118, foglio n. 112. - VILLA

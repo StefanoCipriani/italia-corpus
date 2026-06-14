@@ -1,19 +1,21 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 13 dicembre 1964 n. 1510
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 1510
+data: 1964-12-13
+titolo: "Erezione in ente morale della Cassa scolastica dell'istituto professionale di Stato per il commercio \"Antonello\" di Messina."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1964-12-13;1510
+codice_redazionale: 064U1510
+vigente: true
+---
 
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 13 dicembre 1964 n. 1510
-================================================================
-
-Erezione in ente morale della Cassa scolastica dell'istituto professionale di Stato per il commercio "Antonello" di Messina.
-----------------------------------------------------------------------------------------------------------------------------
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-1510. Decreto del Presidente della Repubblica 13 dicembre 1961, col quale, sulla proposta del Ministro per la pubblica istruzione, la Cassa scolastica dell'Istituto professionale di Stato per il commercio "Antonello" di Messina, viene eretta in ente morale e ne viene approvato lo statuto.  
-  
-Visto, il Guardasigilli: REALE  
-Registrato alla Corte dei conti, addi' 19 gennaio 1965  
-Atti del Governo, registro n. 193, foglio n. 22. - VILLA
+1510.
+
+Decreto del Presidente della Repubblica 13 dicembre 1961, col quale, sulla proposta del Ministro per la pubblica istruzione, la Cassa scolastica dell'Istituto professionale di Stato per il commercio "Antonello" di Messina, viene eretta in ente morale e ne viene approvato lo statuto.
+
+Visto, il Guardasigilli: REALE
+ Registrato alla Corte dei conti, addi' 19 gennaio 1965
+ Atti del Governo, registro n. 193, foglio n. 22. - VILLA

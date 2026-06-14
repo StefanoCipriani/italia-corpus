@@ -1,19 +1,21 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 14 novembre 1967 n. 1298
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 1298
+data: 1967-11-14
+titolo: "Erezione in ente morale della cassa scolastica della scuola media statale di Altavilla Irpina (Avellino)."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1967-11-14;1298
+codice_redazionale: 067U1298
+vigente: true
+---
 
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 14 novembre 1967 n. 1298
-================================================================
-
-Erezione in ente morale della cassa scolastica della scuola media statale di Altavilla Irpina (Avellino).
----------------------------------------------------------------------------------------------------------
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-1298. Decreto del Presidente della Repubblica 14 novembre 1967, col quale, sulla proposta del Ministro per la pubblica istruzione, la cassa scolastica della scuola media statale di Altavilla Irpina (Avellino) viene eretta in ente morale e ne viene approvato lo statuto.  
-  
-Visto, il Guardasigilli: REALE  
-Registrato alla Corte dei conti, addi' 3 gennaio 1968  
-Atti del Governo, registro n. 216, foglio n. 103. - GRECO
+1298.
+
+Decreto del Presidente della Repubblica 14 novembre 1967, col quale, sulla proposta del Ministro per la pubblica istruzione, la cassa scolastica della scuola media statale di Altavilla Irpina (Avellino) viene eretta in ente morale e ne viene approvato lo statuto.
+
+Visto, il Guardasigilli: REALE
+ Registrato alla Corte dei conti, addi' 3 gennaio 1968
+ Atti del Governo, registro n. 216, foglio n. 103. - GRECO

@@ -1,19 +1,21 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 14 ottobre 1970 n. 906
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 906
+data: 1970-10-14
+titolo: "Estinzione dell'opera pia \"Cagna\", con sede in S. Vittoria d'Alba."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1970-10-14;906
+codice_redazionale: 070U0906
+vigente: true
+---
 
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 14 ottobre 1970 n. 906
-==============================================================
-
-Estinzione dell'opera pia "Cagna", con sede in S. Vittoria d'Alba.
-------------------------------------------------------------------
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-906. Decreto del Presidente della Repubblica 14 ottobre 1970, col quale, sulla proposta del Ministro per l'interno, l'opera pia "Cagna", con sede in S. Vittoria d'Alba (Cuneo), viene dichiarata estinta ed il residuo patrimonio devoluto al locale ente comunale di assistenza.  
-  
-Visto, il Guardasigilli: REALE  
-Registrato alla Corte dei conti, addi' 28 novembre 1970  
-Atti del Governo, registro n. 238, foglio n. 152. - CARUSO
+906.
+
+Decreto del Presidente della Repubblica 14 ottobre 1970, col quale, sulla proposta del Ministro per l'interno, l'opera pia "Cagna", con sede in S. Vittoria d'Alba (Cuneo), viene dichiarata estinta ed il residuo patrimonio devoluto al locale ente comunale di assistenza.
+
+Visto, il Guardasigilli: REALE
+ Registrato alla Corte dei conti, addi' 28 novembre 1970
+ Atti del Governo, registro n. 238, foglio n. 152. - CARUSO

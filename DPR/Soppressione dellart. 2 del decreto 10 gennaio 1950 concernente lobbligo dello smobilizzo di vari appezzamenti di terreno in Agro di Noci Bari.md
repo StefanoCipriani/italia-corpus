@@ -1,18 +1,20 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 18 gennaio 1951 n. 197
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 197
+data: 1951-01-18
+titolo: "Soppressione dell'art. 2 del decreto 10 gennaio 1950, concernente l'obbligo dello smobilizzo di vari appezzamenti di terreno, in Agro di Noci (Bari)."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1951-01-18;197
+codice_redazionale: 051U0197
+vigente: true
+---
 
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 18 gennaio 1951 n. 197
-==============================================================
-
-Soppressione dell'art. 2 del decreto 10 gennaio 1950, concernente l'obbligo dello smobilizzo di vari appezzamenti di terreno, in Agro di Noci (Bari).
------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-197. Decreto del Presidente della Repubblica 18 gennaio 1951, col quale, sulla proposta del Ministro per l'interno, viene soppresso l'art. 2 del decreto 10 gennaio 1950, concernente l'obbligo dello smobilizzo di vari appezzamenti di terreno, in Agro di Noci (Bari), valutati L. 4.057.653.  
-  
-Visto, il Guardasigilli: PICCIONI  
-Registrato alla Corte dei conti, addi' 24 marzo 1951
+197.
+
+Decreto del Presidente della Repubblica 18 gennaio 1951, col quale, sulla proposta del Ministro per l'interno, viene soppresso l'art. 2 del decreto 10 gennaio 1950, concernente l'obbligo dello smobilizzo di vari appezzamenti di terreno, in Agro di Noci (Bari), valutati L. 4.057.653.
+
+Visto, il Guardasigilli: PICCIONI
+ Registrato alla Corte dei conti, addi' 24 marzo 1951

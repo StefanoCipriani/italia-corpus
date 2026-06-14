@@ -1,43 +1,37 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 27 maggio 1949 n. 515
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 515
+data: 1949-05-27
+titolo: "Norme concernenti la disciplina delle licenze straordinarie ai sottufficiali ed alle guardie del Corpo delle guardie di pubblica sicurezza ed il licenziamento del personale stesso per inabilita' fisica."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1949-05-27;515
+codice_redazionale: 049U0515
+vigente: true
+---
 
+## Art. 1.
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 27 maggio 1949 n. 515
-=============================================================
+((PROVVEDIMENTO ABROGATO DALLA L. 26 LUGLIO 1961, N. 709))
 
-Norme concernenti la disciplina delle licenze straordinarie ai sottufficiali ed alle guardie del Corpo delle guardie di pubblica sicurezza ed il licenziamento del personale stesso per inabilita' fisica.
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+## Art. 2.
 
-Art. 1
-------
+((PROVVEDIMENTO ABROGATO DALLA L. 26 LUGLIO 1961, N. 709))
 
-((PROVVEDIMENTO ABROGATO DALLA [L. 26 LUGLIO 1961, N. 709](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1961-07-26;709)))
+## Art. 3.
 
-Art. 2
-------
+((PROVVEDIMENTO ABROGATO DALLA L. 26 LUGLIO 1961, N. 709))
 
-((PROVVEDIMENTO ABROGATO DALLA [L. 26 LUGLIO 1961, N. 709](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1961-07-26;709)))
+## Art. 4.
 
-Art. 3
-------
+((PROVVEDIMENTO ABROGATO DALLA L. 26 LUGLIO 1961, N. 709))
 
-((PROVVEDIMENTO ABROGATO DALLA [L. 26 LUGLIO 1961, N. 709](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1961-07-26;709)))
+## Art. 5.
 
-Art. 4
-------
+((PROVVEDIMENTO ABROGATO DALLA L. 26 LUGLIO 1961, N. 709))
 
-((PROVVEDIMENTO ABROGATO DALLA [L. 26 LUGLIO 1961, N. 709](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1961-07-26;709)))
+## Art. 6.
 
-Art. 5
-------
+((PROVVEDIMENTO ABROGATO DALLA L. 26 LUGLIO 1961, N. 709))
 
-((PROVVEDIMENTO ABROGATO DALLA [L. 26 LUGLIO 1961, N. 709](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1961-07-26;709)))
+## Art. 7.
 
-Art. 6
-------
-
-((PROVVEDIMENTO ABROGATO DALLA [L. 26 LUGLIO 1961, N. 709](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1961-07-26;709)))
-
-Art. 7
-------
-
-((PROVVEDIMENTO ABROGATO DALLA [L. 26 LUGLIO 1961, N. 709](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1961-07-26;709)))
+((PROVVEDIMENTO ABROGATO DALLA L. 26 LUGLIO 1961, N. 709))

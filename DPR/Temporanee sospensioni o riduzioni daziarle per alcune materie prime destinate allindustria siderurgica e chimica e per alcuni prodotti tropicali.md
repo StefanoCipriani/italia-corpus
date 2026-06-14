@@ -1,74 +1,40 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 24 dicembre 1966 n. 1237
-
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 24 dicembre 1966 n. 1237
-================================================================
-
-Temporanee sospensioni o riduzioni daziarle per alcune materie prime destinate all'industria siderurgica e chimica, e per alcuni prodotti tropicali.
-----------------------------------------------------------------------------------------------------------------------------------------------------
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 1237
+data: 1966-12-24
+titolo: "Temporanee sospensioni o riduzioni daziarle per alcune materie prime destinate all'industria siderurgica e chimica, e per alcuni prodotti tropicali."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1966-12-24;1237
+codice_redazionale: 066U1237
+vigente: true
+---
 
 IL PRESIDENTE DELLA REPUBBLICA
-------------------------------
 
-Visto l'[art. 3 della legge 1 febbraio 1965, n. 13](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1965-02-01;13~art3);
+Visto l'[art. 3 della legge 1 febbraio 1965, n. 13](../Atti%20normativi%20abrogati%20%28in%20originale%29/Delega%20al%20Governo%20ad%20emanare%20una%20nuova%20tariffa%20dei%20dazi%20doganali.md);
 
-Vista la tariffa dei dazi doganali d'importazione approvata con [decreto del Presidente della Repubblica 26 giugno 1965, n. 723](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1965-06-26;723), e successive modificazioni;
+Vista la tariffa dei dazi doganali d'importazione approvata con [decreto del Presidente della Repubblica 26 giugno 1965, n. 723](Approvazione%20della%20nuova%20tariffa%20dei%20dazi%20doganali%20dimportazione.md), e successive modificazioni;
 
-Vista la [legge 25 giugno 1952, n. 766](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1952-06-25;766), che ratifica e da' esecuzione, tra l'altro, al Trattato che istituisce la Comunita' europea del carbone e dell'acciaio e relativi annessi;
+Vista la [legge 25 giugno 1952, n. 766](../DL%20e%20leggi%20di%20conversione/Ratifica%20ed%20esecuzione%20dei%20seguenti%20Accordi%20internazionali%20firmati%20a%20Parigi%20il%2018%20aprile%201951%20a%20Trattato%20che%20istituisce%20la%20Comunita%20europea%20del%20carbone%20e%20dellacciaio%20e%20relativi%20annessi%20b%20_535fd4357eb2.md), che ratifica e da' esecuzione, tra l'altro, al Trattato che istituisce la Comunita' europea del carbone e dell'acciaio e relativi annessi;
 
-Vista la [legge 14 ottobre 1957, n. 1203](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1957-10-14;1203), che ratifica e da' esecuzione ai seguenti Accordi internazionali firmati a Roma il 25 marzo 1957: Trattato che istituisce la Comunita' europea dell'energia atomica ed Atti allegati; Trattato che istituisce la Comunita' economica europea ed Atti allegati; Convenzione relativa ad alcune istituzioni comuni alle Comunita' europee;
+Vista la [legge 14 ottobre 1957, n. 1203](../DL%20e%20leggi%20di%20conversione/Ratifica%20ed%20esecuzione%20dei%20seguenti%20Accordi%20internazionali%20firmati%20a%20Roma%20il%2025%20marzo%201957%20a%20Trattato%20che%20istituisce%20la%20Comunita%20europea%20dellenergia%20atomica%20ed%20Atti%20allegati%20b%20Trattato%20ch_fbe031fe6ef3.md), che ratifica e da' esecuzione ai seguenti Accordi internazionali firmati a Roma il 25 marzo 1957: Trattato che istituisce la Comunita' europea dell'energia atomica ed Atti allegati; Trattato che istituisce la Comunita' economica europea ed Atti allegati; Convenzione relativa ad alcune istituzioni comuni alle Comunita' europee;
 
-Visti gli [articoli 76](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27~art76) e [87 della Costituzione](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27~art87);
+Visti gli [articoli 76](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_76) e [87 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87);
 
-Sentita la Commissione parlamentare, costituita a norma dell'[art. 4 della legge 10 febbraio 1965, n. 13](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1965-02-10;13~art4);
+Sentita la Commissione parlamentare, costituita a norma dell'[art. 4 della legge 10 febbraio 1965, n. 13](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1965-02-10;13#art_4);
 
 Sentito il Consiglio dei Ministri;
 
-Sulla
------
+Sulla proposta del Ministro per le finanze, di concerto con i Ministri per gli affari esteri, per il tesoro, per il bilancio, per l'agricoltura e foreste, per l'industria ed il commercio, per il commercio con l'estero e per la marina mercantile; Decreta:
 
-proposta del Ministro per le finanze, di concerto con i Ministri per gli affari esteri, per il tesoro, per il bilancio, per l'agricoltura e foreste, per l'industria ed il commercio, per il commercio con l'estero e per la marina mercantile; Decreta:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-Alla tariffa dei dazi doganali d'importazione approvata con il [decreto del Presidente della Repubblica 26 giugno 1965, n. 723](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1965-06-26;723) e successive modificazioni, sono apportate le ulteriori, seguenti modifiche:  
-1) per i prodotti compresi nell'annessa tabella A, provenienti da Paesi estranei alle Comunita' europee, si applica il regime daziario per ciascuno di essi indicato;  
-2) l'allegato secondo della tariffa, concernente l'elenco dei prodotti per i quali l'applicazione del dazio e' sospesa totalmente o parzialmente, e' sostituito da quello annesso al presente decreto.  
-Il presente decreto entra in vigore il giorno stesso della sua pubblicazione nella Gazzetta Ufficiale.  
-  
+Alla tariffa dei dazi doganali d'importazione approvata con il [decreto del Presidente della Repubblica 26 giugno 1965, n. 723](Approvazione%20della%20nuova%20tariffa%20dei%20dazi%20doganali%20dimportazione.md) e successive modificazioni, sono apportate le ulteriori, seguenti modifiche:
+ 1) per i prodotti compresi nell'annessa tabella A, provenienti da Paesi estranei alle Comunita' europee, si applica il regime daziario per ciascuno di essi indicato;
+ 2) l'allegato secondo della tariffa, concernente l'elenco dei prodotti per i quali l'applicazione del dazio e' sospesa totalmente o parzialmente, e' sostituito da quello annesso al presente decreto.
+ Il presente decreto entra in vigore il giorno stesso della sua pubblicazione nella Gazzetta Ufficiale.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale, delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 24 dicembre 1966
+Dato a Roma, addi' 24 dicembre 1966
 
-SARAGAT MORO - PRETI - FANFANI - COLOMBO - PIERACCINI - RESTIVO - ANDREOTTI - TOLLOY - NATALI
-
-Visto, il Guardasigilli: REALE
-
-Registrato alla Corte dei conti, addi' 19 gennaio 1967
-
-Atti del Governo, registro n. 208, foglio n. 2. - DI PRETORO
-
-Tabella A
-
- TABELLA A   
-  
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=066U123700100010110001&dgu=1967-01-24&art.dataPubblicazioneGazzetta=1967-01-24&art.codiceRedazionale=066U1237)
-  
-
-Allegato II
-
- ALLEGATO II   
-  
-ELENCO DEI PRODOTTI PER I QUALI L'APPLICAZIONE DEL DAZIO E SOSPESA TOTALMENTE 0 PARZIALMENTE ALLEGATO II   
-  
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=066U123700200010110001&dgu=1967-01-24&art.dataPubblicazioneGazzetta=1967-01-24&art.codiceRedazionale=066U1237)
-  
+SARAGAT MORO - PRETI - FANFANI - COLOMBO - PIERACCINI - RESTIVO - ANDREOTTI - TOLLOY - NATALI Visto, il Guardasigilli: REALE Registrato alla Corte dei conti, addi' 19 gennaio 1967 Atti del Governo, registro n. 208, foglio n. 2. - DI PRETORO

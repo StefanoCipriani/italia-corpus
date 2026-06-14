@@ -1,19 +1,21 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 16 dicembre 1982 n. 1117
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 415
+data: 1982-06-05
+titolo: "Autorizzazione alla fondazione \"Pro juventute don Carlo Gnocchi\", in Roma, ad accettare un legato."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1982-06-05;415
+codice_redazionale: 082U0415
+vigente: true
+---
 
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 16 dicembre 1982 n. 1117
-================================================================
-
-Autorizzazione alla fondazione "Pro juventute don Carlo Gnocchi", in Roma, ad accettare un legato.
---------------------------------------------------------------------------------------------------
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-1117. Decreto del Presidente della Repubblica 16 dicembre 1982, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la fondazione "Pro juventute don Carlo Gnocchi", in Roma, viene autorizzata ad accettare il legato, consistente in un appartamento sito in La Spezia, via Migliari, 35, distinto nel nuovo catasto edilizio urbano alla partita 15188, foglio 31, mappale 231, valore peritale L. 40.000.000 elevato dall'ufficio tecnico erariale di La Spezia a L. 58.000.000, disposto a favore dell'opera "don Gnocchi", che si identifica con la fondazione medesima come si evince dal verbale in data 28 novembre 1980 del consiglio di amministrazione, disposta dal sig. Pittaluga Gennaro con testamento olografo 5 settembre 1978, pubblicato in data 3 ottobre 1980, n. 22394/1512 di repertorio, a rogito dott.ssa Marialuisa Masetti, notaio in Cassano d'Adda, registrato a Milano in data 8 ottobre 1980, al n. A/4-23337/7M.  
-  
-Visto, il Guardasigilli: DARIDA  
-Registrato alla Corte dei conti, addi' 18 febbraio 1983  
-Registro n. 2 Presidenza, foglio n. 64
+415.
+
+Decreto del Presidente della Repubblica 5 giugno 1982, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la fondazione "Pro juventute don Carlo Gnocchi", in Roma, viene autorizzata ad accettare il legato, consistente nella somma di L. 500.000, disposto dalla sig.ra Baroni Regina Mercede, a favore dei mutilatini di don Gnocchi che si identificano con la fondazione predetta come si rileva dal verbale del consiglio di amministrazione nella riunione del 28 novembre 1980, con testamento olografo 1 marzo 1980, pubblicato in data 20 giugno 1980, n. 153 di repertorio e n. 63 di raccolta, a rogito dottore Giro De Vincenzo, notaio in Milano, registrato a Milano il 10 luglio 1980 al n. 16505.
+
+Visto, il Guardasigilli: DARIDA
+ Registrato alla Corte dei conti, addi' 30 giugno 1982
+ Registro n. 6 Presidenza, foglio n. 71

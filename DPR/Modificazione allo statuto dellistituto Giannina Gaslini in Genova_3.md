@@ -1,19 +1,21 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 03 luglio 1979 n. 562
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 562
+data: 1979-07-03
+titolo: "Modificazione allo statuto dell'istituto \"Giannina Gaslini\", in Genova."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1979-07-03;562
+codice_redazionale: 079U0562
+vigente: true
+---
 
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 03 luglio 1979 n. 562
-=============================================================
-
-Modificazione allo statuto dell'istituto "Giannina Gaslini", in Genova.
------------------------------------------------------------------------
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-562. Decreto del Presidente della Repubblica 3 luglio 1979, col quale, sulla proposta del Ministro della sanita', viene approvata la modificazione allo statuto dell'istituto "Giannina Gaslini", in Genova, consistente nell'aggiunta dell'art. 11-bis: istituzione del collegio dei revisori.  
-  
-Visto, il Guardasigilli: MORLINO  
-Registrato alla Corte dei conti, addi' 24 ottobre 1979  
-Registro n. 7 Sanita', foglio n. 189
+562.
+
+Decreto del Presidente della Repubblica 3 luglio 1979, col quale, sulla proposta del Ministro della sanita', viene approvata la modificazione allo statuto dell'istituto "Giannina Gaslini", in Genova, consistente nell'aggiunta dell'art. 11-bis: istituzione del collegio dei revisori.
+
+Visto, il Guardasigilli: MORLINO
+ Registrato alla Corte dei conti, addi' 24 ottobre 1979
+ Registro n. 7 Sanita', foglio n. 189

@@ -1,34 +1,26 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 15 settembre 1979 n. 748
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 748
+data: 1979-09-15
+titolo: "Conferimento all'Avvocatura dello Stato della rappresentanza e della difesa in giudizio della Sezione speciale per l'assicurazione del credito all'esportazione."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1979-09-15;748
+codice_redazionale: 079U0748
+vigente: true
+---
 
+## Art. 1.
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 15 settembre 1979 n. 748
-================================================================
+IL PRESIDENTE DELLA REPUBBLICA
 
-Conferimento all'Avvocatura dello Stato della rappresentanza e della difesa in giudizio della Sezione speciale per l'assicurazione del credito all'esportazione.
-----------------------------------------------------------------------------------------------------------------------------------------------------------------
+ Visto l'art. 43 del testo unico delle leggi e delle norme giuridiche sulla rappresentanza e difesa in giudizio dello Stato e sull'ordinamento dell'Avvocatura dello Stato, approvato con [regio decreto 30 ottobre 1933, n. 1611](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-10-30;1611), modificato dall'[art. 1 della legge 16 novembre 1939, n. 1889](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1939-11-16;1889#art_1);
+ Sulla proposta del Presidente del Consiglio dei Ministri, di concerto con i Ministri di grazia e giustizia e del tesoro;
 
-Art. 1
-------
+ Decreta:
 
- IL PRESIDENTE DELLA REPUBBLICA  
-  
-Visto l'art. 43 del testo unico delle leggi e delle norme giuridiche sulla rappresentanza e difesa in giudizio dello Stato e sull'ordinamento dell'Avvocatura dello Stato, approvato con [regio decreto 30 ottobre 1933, n. 1611](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-10-30;1611), modificato dall'[art. 1 della legge 16 novembre 1939, n. 1889](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1939-11-16;1889~art1);  
-Sulla proposta del Presidente del Consiglio dei Ministri, di concerto con i Ministri di grazia e giustizia e del tesoro;  
-  
-Decreta:  
-  
-L'Avvocatura dello Stato puo' assumere la rappresentanza e la difesa della Sezione speciale per l'assicurazione del credito all'esportazione (SACE) nei giudizi attivi e passivi avanti le autorita' giudiziarie, i collegi arbitrali e le giurisdizioni amministrative e speciali.  
-  
+ L'Avvocatura dello Stato puo' assumere la rappresentanza e la difesa della Sezione speciale per l'assicurazione del credito all'esportazione (SACE) nei giudizi attivi e passivi avanti le autorita' giudiziarie, i collegi arbitrali e le giurisdizioni amministrative e speciali.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 15 settembre 1979
+Dato a Roma, addi' 15 settembre 1979
 
-PERTINI COSSIGA - MORLINO - PANDOLFI
-
-Visto, il Guardasigilli: MORLINO
-
-Registrato alla Corte dei conti, addi' 11 gennaio 1980
-
-Registro n. 1 Presidenza, foglio n. 61
+PERTINI COSSIGA - MORLINO - PANDOLFI Visto, il Guardasigilli: MORLINO Registrato alla Corte dei conti, addi' 11 gennaio 1980 Registro n. 1 Presidenza, foglio n. 61

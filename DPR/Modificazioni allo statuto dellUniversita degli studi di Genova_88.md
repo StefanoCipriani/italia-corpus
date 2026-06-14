@@ -1,276 +1,33 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 18 giugno 1974 n. 900
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 900
+data: 1974-06-18
+titolo: "Modificazioni allo statuto dell'Universita' degli studi di Genova."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1974-06-18;900
+codice_redazionale: 074U0900
+vigente: true
+---
 
+## Art. 1.
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 18 giugno 1974 n. 900
-=============================================================
+IL PRESIDENTE DELLA REPUBBLICA
 
-Modificazioni allo statuto dell'Universita' degli studi di Genova.
-------------------------------------------------------------------
+ Veduto lo statuto dell'Universita' degli studi di Genova, approvato con [regio decreto 7 ottobre 1926, n. 2054](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20dello%20statuto%20della%20Regia%20universita%20di%20Genova.%20026U2054.md), e modificato con [regio decreto 13 ottobre 1927, n. 2846](../Atti%20normativi%20abrogati%20%28in%20originale%29/Modificazioni%20allo%20statuto%20della%20Regia%20universita%20di%20Genova.%20027U2846.md), e successive modificazioni;
+ Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+ Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20R.%20decreto-legge%2020%20giugno%201935-XIII%20n.%201071%20contenente%20modifiche%20ed%20aggiornamenti%20al%20testo%20unico%20delle%20leggi%20sullistruzione%20superiore.%20036U0073.md);
+ Veduto il [regio decreto 30 settembre 1938, n. 1652](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disposizioni%20sullordinamento%20didattico%20universitario.%20038U1652.md), e successive modificazioni;
+ Veduta la [legge 11 aprile 1953, n. 312](../Atti%20normativi%20abrogati%20%28in%20originale%29/Libera%20inclusione%20di%20nuovi%20insegnamenti%20complementari%20negli%20statuti%20delle%20Universita%20e%20degli%20Istituti%20distruzione%20superiore.md);
+ Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
+ Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
+ Sentito il parere del Consiglio superiore della pubblica istruzione;
+ Sulla proposta del Ministro per la pubblica istruzione;
 
-Art. 1
-------
+ Decreta:
 
- IL PRESIDENTE DELLA REPUBBLICA  
-  
-Veduto lo statuto dell'Universita' degli studi di Genova, approvato con [regio decreto 7 ottobre 1926, n. 2054](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-07;2054), e modificato con [regio decreto 13 ottobre 1927, n. 2846](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2846), e successive modificazioni;  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
-Sentito il parere del Consiglio superiore della pubblica istruzione;  
-Sulla proposta del Ministro per la pubblica istruzione;  
-  
-Decreta:  
-  
-Lo statuto dell'Universita' degli studi di Genova, approvato e modificato con i decreti sopraindicati, e' modificato nel senso che l'art. 48, concernente l'ordinamento del corso di laurea in storia e' abrogato e sostituito come dal testo annesso al presente decreto, vistato dal Ministro per la pubblica istruzione.  
-  
+ Lo statuto dell'Universita' degli studi di Genova, approvato e modificato con i decreti sopraindicati, e' modificato nel senso che l'art. 48, concernente l'ordinamento del corso di laurea in storia e' abrogato e sostituito come dal testo annesso al presente decreto, vistato dal Ministro per la pubblica istruzione.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 18 giugno 1974
+Dato a Roma, addi' 18 giugno 1974
 
-LEONE MALFATTI
-
-Visto, il Guardasigilli: ZAGARI
-
-Registrato alla Corte dei conti, addi' 15 aprile 1975
-
-Atti di Governo, registro n. 9, foglio n. 69
-
-Tabelle
-
- Laurea in storia   
-  
-Art. 48. - Durata del corso di studio: quattro anni.   
-Il corso di studi si distingue in cinque indirizzi:   
-A) Antico;   
-B) Medioevale;   
-C) Moderno;   
-D) Contemporaneo;   
-E) Orientale.   
-Sono titoli di ammissione:   
-a) il diploma di scuola media superiore di durata quinquennale;   
-b) il diploma rilasciato al termine dell'anno integrativo frequentato dopo il conseguimento del diploma di maturita' o di abilitazione magistrale. Quest'ultimo titolo non e' valido per l'indirizzo antico.   
-  
-A) Indirizzo antico:   
-  
-Sono insegnamenti fondamentali:   
-Storia greca;   
-Storia romana;   
-Storia del Mediterraneo antico orientale;   
-Epigrafia e antichita' greche;   
-Epigrafia e antichita' romane;   
-Papirologia;   
-Numismatica antica;   
-Archeologia;   
-Storia della filosofia antica;   
-Paleografia greca e latina;   
-Storia orientale antica.   
-Sono insegnamenti complementari:   
-Topografia antica;   
-Archeologia delle province romane;   
-Climatologia storica;   
-Ebraico;   
-Esegesi dalle fonti di storia greca e romana;   
-Esegesi delle fonti di diritto romano;   
-Etruscologia ed archeologia italica;   
-Filologia greca e latina;   
-Geologia e sedimentologia storica;   
-Istituzioni di diritto romano;   
-Paletnologia;   
-Letteratura cristiana antica;   
-Letteratura greca;   
-Letteratura latina;   
-Storia del cristianesimo antico;   
-Storia delle religioni del mondo classico;   
-Storia del diritto romano;   
-Storia dell'economia antica;   
-Storia del diritto greco;   
-Storia sociale del mondo antico;   
-Storia delle costituzioni del mondo antico;   
-Una storia regionale dell'antichita'.   
-  
-B) Indirizzo medioevale:   
-  
-Sono insegnamenti fondamentali:   
-Storia medioevale;   
-Paleografia latina e diplomatica;   
-Archivistica;   
-Letteratura latina medioevale;   
-Filologia romanza;   
-Storia bizantina;   
-Storia medioevale dell'Oriente europeo (oppure: storia e antichita' mussulmane);   
-Storia della filosofia medioevale;   
-Lettorato di latino;   
-Istituzioni medioevali;   
-Storia dei paesi islamici.   
-Sono insegnamenti complementari:   
-Archeologia medioevale;   
-Antichita' ed istituzioni medioevali;   
-Bibliografia e biblioteconomia;   
-Cronologia e cronografia;   
-Numismatica, sfragistica e araldica;   
-Linguistica, onomastica e toponomastica medioevali;   
-Epigrafia medioevale;   
-Filologia italiana;   
-Storia del diritto romano;   
-Storia del diritto italiano;   
-Storia del commercio e della navigazione;   
-Codicologia;   
-Pubblicistica e cronachistica medioevali;   
-Paleografia musicale;   
-Storia delle esplorazioni geografiche;   
-Storia e civilta' precolombiane dell'America;   
-Lingua e letteratura catalana;   
-Paleografia greca;   
-Esegesi delle fonti della storia medioevale;   
-Papirologia;   
-Istituzioni di diritto romano;   
-Geografia storica;   
-Storia dell'arte medioevale;   
-Letteratura umanistica;   
-Storia agraria medioevale;   
-Una storia regionale del medioevo;   
-Storia degli insediamenti tardo-antichi e medioevali.   
-  
-C) Indirizzo moderno:   
-  
-Sono insegnamenti fondamentali:   
-Storia moderna;   
-Storia degli antichi stati italiani;   
-Storia dei paesi afro-asiatici nell'eta' moderna;   
-Storia dei paesi slavi;   
-Storia americana;   
-Storia del Rinascimento;   
-Storia della filosofia moderna;   
-Storia del pensiero scientifico nell'eta' moderna;   
-Storia della letteratura italiana moderna;   
-Cinematica dei fatti economici e sociali;   
-Geografia politica ed economica.   
-Sono insegnamenti complementari (quelli indicati in gruppo possono essere scelti separatamente fuorche' sia indicato "oppure"):   
-Storia dell'eta' della riforma e della controriforma;   
-Storia dell'eta' dell'illuminismo;   
-Storia del Risorgimento;   
-Storia delle Chiese cristiane, diritto ecclesiastico o diritto canonico;   
-Storia delle istituzioni politiche, istituzioni di diritto pubblico;   
-Storia del diritto italiano;   
-Storia dei trattati e relazioni internazionali, diritto internazionale;   
-Una storia regionale nell'eta' moderna;   
-Filosofia della storia;   
-Storia della lingua italiana;   
-Statistica oppure calcolo delle probabilita', istituzioni di matematiche;   
-Storia delle matematiche, istituzioni di matematiche;   
-Storia della medicina, antropologia oppure genetica, oppure anatomia comparata, oppure istologia ed embriologia, oppure biologia generale;   
-Storia della dottrina chimico-inorganica;   
-Storia dell'urbanistica;   
-Storia della tecnica, elementi di macchine, oppure elettrotecnica, oppure arte mineraria, oppure idraulica, oppure tecnologie generali, oppure tecnica ed economia dei trasporti;   
-Cronologia e tecniche della misura del tempo;   
-Storia della geografia, oppure storia delle esplorazioni, geografia fisica;   
-Storia dell'agricoltura, ecologia;   
-Storia del commercio, oppure storia dell'industria, economia politica, merceologia;   
-Storia della moneta e della borsa, scienza delle finanze;   
-Storia navale, tecnologia della nave, oppure costruzioni navali, oppure architettura navale;   
-Storia dell'arte moderna;   
-  
-D) Indirizzo contemporaneo.   
-  
-Sono insegnamenti fondamentali:   
-Storia del Risorgimento;   
-Storia contemporanea;   
-Storia d'Italia nel secolo XX;   
-Metodologie sociologiche;   
-Filosofia della scienza;   
-Geografia politica;   
-Geografia economica;   
-Cinematica dei fatti economici e sociali;   
-Storia della filosofia contemporanea;   
-Storia delle innovazioni tecnologiche;   
-Letteratura italiana contemporanea.   
-Sono insegnamenti complementari (quelli indicati sulla stessa linea sono da scegliere preferibilmente congiunti fuorche' sia indicato "oppure"): - Storia dei paesi africani nel secolo XX;   
-Storia dei paesi dell'estremo oriente nel secolo XX;   
-Storia dei paesi del vicino oriente nel secolo XX;   
-Storia degli Stati Uniti d'America;   
-Storia dell'America centrale;   
-Storia dell'Unione Sovietica;   
-Storia dell'Inghilterra e del Commonwealth nel secolo XX;   
-Storia della Francia;   
-Storia della Spagna;   
-Storia della Germania;   
-Storia dei paesi scandinavi;   
-Storia delle istituzioni internazionali, diritto internazionale;   
-Storia dell'America meridionale;   
-Storia della fisica contemporanea, fisica;   
-Storia della matematica contemporanea;   
-Storia della medicina contemporanea;   
-Antropologia oppure genetica, oppure anatomia comparata, oppure istologia ed embriologia, oppure biologia generale;   
-Storia della chimica contemporanea, chimica generale;   
-Storia del giornalismo;   
-Storia sociale;   
-Storia della biologia;   
-Storia delle tecniche contemporanee, elementi di macchine oppure elettrotecnica, oppure arte mineraria, oppure idraulica, oppure tecnologia generale, oppure tecnica ed economia dei trasporti;   
-Statistica;   
-Storia della moneta, scienza delle finanze, economia politica;   
-Storia delle regioni italiane, istituzioni di diritto pubblico;   
-Storia militare;   
-Storia dell'aviazione;   
-Storia dei trasporti nei secoli XIX e XX;   
-Storia degli sports;   
-Storia della seconda guerra mondiale e dei movimenti partigiani;   
-Teoria dei futuribili;   
-Economia politica;   
-Istituzioni di matematica.   
-  
-E) Indirizzo orientale:   
-  
-Sono insegnamenti fondamentali:   
-Storia dei paesi afro-asiatici;   
-Storia e geografia dell'Asia orientale;   
-Storia religiosa dell'Oriente cristiano;   
-Islamistica;   
-Indologia;   
-Egittologia;   
-Iranistica;   
-Assirologia;   
-Archeologia orientale;   
-Filosofia dell'india e dell'Asia orientale;   
-Sanscrito.   
-Sono insegnamenti complementari:   
-Lingua e letteratura araba   
-Lingua e letteratura persiana;   
-Filologia semitica;   
-Lingua e letteratura armena;   
-Religioni dell'india e dell'estremo oriente;   
-Epigrafia semitica;   
-Lingua e letteratura turca;   
-Lingua e letteratura cinese;   
-Lingua e letteratura giapponese;   
-Ittitologia;   
-Storia dell'arte orientale;   
-Archeologia fenicio-punica;   
-Sinologia;   
-Ebraico;   
-Lingue antiche dell'Asia centrale;   
-Dialettologia araba;   
-Lingue arie moderne dell'india.   
-Per essere ammesso all'esame di laurea lo studente deve aver superato gli esami in tutti gli insegnamenti fondamentali e almeno in nove insegnamenti scelti tra quelli complementari oltre a due esami superati per gli insegnamenti scelti tra i seguenti:   
-Lingua e letteratura inglese;   
-Lingua e letteratura francese;   
-Lingua e letteratura tedesca;   
-Lingua e letteratura spagnola;   
-Lingua e letteratura russa.   
-E' opportuno che non piu' di tre esami in ciascuno indirizzo siano scelti fra gli insegnamenti di altri indirizzi o corsi di laurea e che le discipline indicate congiuntamente siano scelte assieme.   
-Almeno due esami complementari dovranno preferibilmente essere scelti fra gli insegnamenti seguenti:   
-Storia economica;   
-Storia delle dottrine politiche;   
-Storia delle dottrine economiche;   
-Teoria e storia della storiografia;   
-Storia della scienza e della tecnica.   
-L'esame di laurea in storia consiste nella discussione di una dissertazione scritta svolta dal candidato in uno degli insegnamenti relativi al corso di laurea ed in rapporto al carattere della laurea stessa e dell'indirizzo prescelto.   
-  
-Visto, d'ordine del Presidente della Repubblica   
-  
-Il Ministro per la pubblica istruzione   
-MALFATTI   
+LEONE MALFATTI Visto, il Guardasigilli: ZAGARI Registrato alla Corte dei conti, addi' 15 aprile 1975 Atti di Governo, registro n. 9, foglio n. 69

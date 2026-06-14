@@ -1,19 +1,21 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 08 agosto 1955 n. 887
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 887
+data: 1955-08-08
+titolo: "Riconoscimento della personalita' giuridica della Congregazione delle Suore Stabilite nella Carita' di Gesu' Buon Pastore, con sede in Firenze."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1955-08-08;887
+codice_redazionale: 055U0887
+vigente: true
+---
 
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 08 agosto 1955 n. 887
-=============================================================
-
-Riconoscimento della personalita' giuridica della Congregazione delle Suore Stabilite nella Carita' di Gesu' Buon Pastore, con sede in Firenze.
------------------------------------------------------------------------------------------------------------------------------------------------
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-887. Decreto del Presidente della Repubblica 8 agosto 1955, col quale, sulla proposta del Ministro per l'interno, viene riconosciuta la personalita' giuridica della Congregazione delle Suore Stabilite nella Carita' di Gesu Buon Pastore, con sede in Firenze.  
-  
-Visto, il Guardasigilli: MORO  
-Registrato alla Corte dei conti, addi' 8 ottobre 1955  
-Atti del Governo, registro n. 93, foglio n. 14. - E. GRECO
+887.
+
+Decreto del Presidente della Repubblica 8 agosto 1955, col quale, sulla proposta del Ministro per l'interno, viene riconosciuta la personalita' giuridica della Congregazione delle Suore Stabilite nella Carita' di Gesu Buon Pastore, con sede in Firenze.
+
+Visto, il Guardasigilli: MORO
+ Registrato alla Corte dei conti, addi' 8 ottobre 1955
+ Atti del Governo, registro n. 93, foglio n. 14. - E. GRECO

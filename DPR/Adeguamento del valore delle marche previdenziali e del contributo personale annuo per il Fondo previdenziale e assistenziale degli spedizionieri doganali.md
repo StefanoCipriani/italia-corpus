@@ -1,20 +1,17 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 12 dicembre 1986 n. 966
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 966
+data: 1986-12-12
+titolo: "Adeguamento del valore delle marche previdenziali e del contributo personale annuo per il Fondo previdenziale e assistenziale degli spedizionieri doganali."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1986-12-12;966
+codice_redazionale: 086U0966
+vigente: true
+---
 
+## Art. 1.
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 12 dicembre 1986 n. 966
-===============================================================
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 26 MARZO 2001, N. 107 )).
 
-Adeguamento del valore delle marche previdenziali e del contributo personale annuo per il Fondo previdenziale e assistenziale degli spedizionieri doganali.
------------------------------------------------------------------------------------------------------------------------------------------------------------
+## Art. 2.
 
-Art. 1
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 26 MARZO 2001, N. 107](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2001-03-26;107) ))
-
-.   
-
-Art. 2
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 26 MARZO 2001, N. 107](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2001-03-26;107) )).  
+((PROVVEDIMENTO ABROGATO DAL [D.P.R. 26 MARZO 2001, N. 107](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:2001-03-26;107) )).

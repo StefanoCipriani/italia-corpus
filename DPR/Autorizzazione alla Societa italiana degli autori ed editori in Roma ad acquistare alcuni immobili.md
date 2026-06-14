@@ -1,19 +1,22 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 17 maggio 1986 n. 552
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 976
+data: 1977-10-13
+titolo: "Autorizzazione alla Societa' italiana degli autori ed editori, in Roma, ad acquistare alcuni immobili."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1977-10-13;976
+codice_redazionale: 077U0976
+vigente: true
+---
 
+## Art. 1.
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 17 maggio 1986 n. 552
-=============================================================
+N.
 
-Autorizzazione alla Societa' italiana degli autori ed editori, in Roma, ad acquistare alcuni immobili.
-------------------------------------------------------------------------------------------------------
+976.
 
-Art. 1
-------
+Decreto del Presidente della Repubblica 13 ottobre 1977, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la Societa' italiana degli autori ed editori (S.I.A.E.), in Roma, viene autorizzata ad acquistare, al prezzo complessivo di L.
+ 650.000.000, gli immobili costituiti da due appartamenti al terzo piano (2° catastale) e da un locale scantinato del fabbricato sito in Roma, via Po n. 10, come da atto di compravendita 3 settembre 1975, n. 91346 di repertorio, a rogito avv. Francesco Varcasia, notaio in Roma.
 
-n.
-
-552. Decreto del Presidente della Repubblica 17 maggio 1986, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la Societa' italiana degli autori ed editori (SIAE), in Roma, viene autorizzata ad acquistare al complessivo prezzo di L. 110.000.000, due immobili siti in Aosta, via Challand, 19 e 27; prima unita' immobiliare con ingresso in via Challand, 19, piano 20, censita al nuovo catasto edilizio urbano alla partita n. 5975, foglio 40, mappale n. 222 sub 52; seconda unita' immobiliare con ingresso in via Challand, 27, piano 2°, censita al nuovo catasto edilizio urbano alla partita n. 3025, foglio 40, mappale 222 sub 51; una cantina distinta in catasto al foglio 40, mappale 222 sub 117, immobili valutati da perizia estimativa di parte in L. 121.600.000, come da atto in data 12 agosto 1982, n. 15784/4487 di repertorio, a rogito dott. Emilio Chanoux, notaio in Aosta.  
-  
-Visto, il Guardasigilli: ROGNONI  
-Registrato alla Corte dei conti, addi' 11 settembre 1986  
-Registro n. 9 Presidenza, foglio n. 30
+Visto, il Guardasigilli: BONIFACIO
+ Registrato alla Corte dei conti, addi' 28 dicembre 1977
+ Registro n. 9 Presidenza, foglio n. 283

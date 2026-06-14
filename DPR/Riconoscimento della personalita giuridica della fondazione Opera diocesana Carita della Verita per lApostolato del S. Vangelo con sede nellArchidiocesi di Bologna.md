@@ -1,18 +1,20 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 15 dicembre 1949 n. 1042
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 1042
+data: 1949-12-15
+titolo: "Riconoscimento della personalita' giuridica della fondazione Opera diocesana \"Carita' della Verita'\" per l'Apostolato del S. Vangelo, con sede nell'Archidiocesi di Bologna."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1949-12-15;1042
+codice_redazionale: 049U1042
+vigente: true
+---
 
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 15 dicembre 1949 n. 1042
-================================================================
-
-Riconoscimento della personalita' giuridica della fondazione Opera diocesana "Carita' della Verita'" per l'Apostolato del S. Vangelo, con sede nell'Archidiocesi di Bologna.
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-1042. Decreto del Presidente della Repubblica 15 dicembre 1949, col quale, sulla proposta del Ministro per l'interno, viene riconosciuta la personalita' giuridica della fondazione Opera diocesana "Carita' della Verita'" per l'Apostolato del S. Vangelo, con sede nell'Archidiocesi di Bologna, e ne viene approvato lo statuto.  
-  
-Visto, il Guardasigilli: GRASSI  
-Registrato alla Corte dei conti, addi' 18 gennaio 1950
+1042.
+
+Decreto del Presidente della Repubblica 15 dicembre 1949, col quale, sulla proposta del Ministro per l'interno, viene riconosciuta la personalita' giuridica della fondazione Opera diocesana "Carita' della Verita'" per l'Apostolato del S. Vangelo, con sede nell'Archidiocesi di Bologna, e ne viene approvato lo statuto.
+
+Visto, il Guardasigilli: GRASSI
+ Registrato alla Corte dei conti, addi' 18 gennaio 1950

@@ -1,14 +1,14 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 18 marzo 1963 n. 459
-
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 18 marzo 1963 n. 459
-============================================================
-
-Rettifica di confine fra i comuni di Settefrati e di Gallinaro in provincia di Frosinone.
------------------------------------------------------------------------------------------
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 459
+data: 1963-03-18
+titolo: "Rettifica di confine fra i comuni di Settefrati e di Gallinaro in provincia di Frosinone."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1963-03-18;459
+codice_redazionale: 063U0459
+vigente: true
+---
 
 IL PRESIDENTE DELLA REPUBBLICA
-------------------------------
 
 Viste le deliberazioni del Consiglio comunale di Settefrati in data 25 luglio 1951, n. 46, e 8 aprile 1962, n. 14, e del Consiglio comunale di Gallinaro in data 30 luglio 1954, n. 37, e 25 agosto 1962, n. 20, con le quali e' stata chiesta una rettifica di confine fra quei Comuni;
 
@@ -18,35 +18,20 @@ Vista, la deliberazione del Consiglio provinciale di Frosinone in data 21 settem
 
 Udito il parere espresso dalla Prima sezione del Consiglio di Stato nell'adunanza dell'8 gennaio 1963, numero 2830;
 
-Visti gli articoli 32, capoverso, e 35 del testo unico della legge comunale e provinciale, approvato con [regio decreto 3 marzo 1934, n. 383](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-03-03;383);
+Visti gli articoli 32, capoverso, e 35 del testo unico della legge comunale e provinciale, approvato con [regio decreto 3 marzo 1934, n. 383](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20del%20testo%20unico%20della%20legge%20comunale%20e%20provinciale.%20034U0383.md);
 
-Sulla
------
+Sulla proposta del Ministro Segretario di Stato per gli affari dell'interno; Decreta:
 
-proposta del Ministro Segretario di Stato per gli affari dell'interno; Decreta:
+## Art. 1.
 
-Art. 1
-------
+Il confine fra i comuni di Settefrati e di Gallinaro, in provincia di Frosinone, e' rettificato secondo la linea risultante dalla pianta planimetrica e dalla relazione descrittiva, annesse al presente decreto.
 
-  
-Il confine fra i comuni di Settefrati e di Gallinaro, in provincia di Frosinone, e' rettificato secondo la linea risultante dalla pianta planimetrica e dalla relazione descrittiva, annesse al presente decreto.  
+## Art. 2.
 
-Art. 2
-------
-
-  
-Il prefetto della provincia di Frosinone, sentita la Giunta provinciale amministrativa, provvedera' alla separazione patrimoniale ed al riparto delle attivita' o passivita' fra i comuni di Settefrati e di Gallinaro.  
-  
+Il prefetto della provincia di Frosinone, sentita la Giunta provinciale amministrativa, provvedera' alla separazione patrimoniale ed al riparto delle attivita' o passivita' fra i comuni di Settefrati e di Gallinaro.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 18 marzo 1963
+Dato a Roma, addi' 18 marzo 1963
 
-SEGNI TAVIANI
-
-Visto, il Guardasigilli: BOSCO
-
-Registrato alla Corte dei conti, addi' 9 aprile 1963
-
-Atti del Governo, registro n. 167, foglio n. 164. - VILLA
+SEGNI TAVIANI Visto, il Guardasigilli: BOSCO Registrato alla Corte dei conti, addi' 9 aprile 1963 Atti del Governo, registro n. 167, foglio n. 164. - VILLA

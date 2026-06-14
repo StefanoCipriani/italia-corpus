@@ -1,20 +1,20 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 gennaio 1962 n. 558
-
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 gennaio 1962 n. 558
-==============================================================
-
-Norme sul trattamento economico e normativo del personale salariato dipendente dagli alberghi, hotels meubles, pensioni e locande, nonche' ristoranti, caffe' e bars annessi, della Regione autonoma della Valle d'Aosta, delle province di Asti, Bergamo, Brescia, Como, Cuneo, Gorizia (con esclusione del comune di Grado), Imperia, Milano, Modena, Ravenna, Reggio Emilia, Rieti, Savona, Sondrio, Udine, Verona, Vicenza e dei comuni di Bellaria, Igea Marina, Rimini, Riccione e Cattolica (Forli).
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 558
+data: 1962-01-02
+titolo: "Norme sul trattamento economico e normativo del personale salariato dipendente dagli alberghi, hotels meubles, pensioni e locande, nonche' ristoranti, caffe' e bars annessi, della Regione autonoma della Valle d'Aosta, delle province di Asti, Bergamo, Brescia, Como, Cuneo, Gorizia (con esclusione del comune di Grado), Imperia, Milano, Modena, Ravenna, Reggio Emilia, Rieti, Savona, Sondrio, Udine, Verona, Vicenza e dei comuni di Bellaria, Igea Marina, Rimini, Riccione e Cattolica (Forli)."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1962-01-02;558
+codice_redazionale: 062U0558
+vigente: true
+---
 
 IL PRESIDENTE DELLA REPUBBLICA
-------------------------------
 
-Visto l'[art. 87, comma quinto, della Costituzione](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27~art87-com5);
+Visto l'[art. 87, comma quinto, della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87-com5);
 
-Vista la [legge 14 luglio 1959, n. 741](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1959-07-14;741), che delega il Governo ad emanare norme transitorie per garantire minimi di trattamento economico e normativo ai lavoratori;
+Vista la [legge 14 luglio 1959, n. 741](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1959-07-14;741), che delega il Governo ad emanare norme transitorie per garantire minimi di trattamento economico e normativo ai lavoratori;
 
-Vista la [legge 1 ottobre 1960, n. 1027](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1960-10-01;1027), recante modifiche alla predetta [legge 14 luglio 1959, n. 741](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1959-07-14;741);
+Vista la [legge 1 ottobre 1960, n. 1027](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1960-10-01;1027), recante modifiche alla predetta [legge 14 luglio 1959, n. 741](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1959-07-14;741);
 
 Visto il contratto collettivo nazionale di lavoro 22 settembre 1959, per il personale salariato dipendente dagli alberghi, hotels meubles, pensioni e locande, nonche' ristoranti, caffe' e bars annessi;
 
@@ -66,255 +66,54 @@ Vista la pubblicazione nell'apposito Bollettino, n. 2 di Aosta, in data 6 settem
 
 Sentito il Consiglio dei Ministri;
 
-Sulla
------
+Sulla proposta del Ministro per il lavoro e la previdenza sociale; Decreta:
 
-proposta del Ministro per il lavoro e la previdenza sociale; Decreta:
+## Articolo unico.
 
-Articolo unico
---------------
+I rapporti di lavoro costituiti per le attivita' per le quali sono stati stipulati i contratti e gli accordi collettivi sottoelencati sono regolati da norme giuridiche uniformi alle clausole dei contratti e degli accordi stessi, annessi al presente decreto, purche' compatibili con quelle concernenti la disciplina nazionale della categoria:
 
-  
-  
-I rapporti di lavoro costituiti per le attivita' per le quali sono stati stipulati i contratti e gli accordi collettivi sottoelencati sono regolati da norme giuridiche uniformi alle clausole dei contratti e degli accordi stessi, annessi al presente decreto, purche' compatibili con quelle concernenti la disciplina nazionale della categoria:  
-  
-per la Regione autonoma della Valle d'Aosta, contratto collettivo integrativo 18 luglio 1957, relativo a tutto il personale salariato dipendente dagli alberghi, hotels meubles, pensioni, locande e annessi ristoranti, taverne, caffe' e bars;  
-  
-per la provincia di Asti, accordo collettivo integrativo 27 ottobre 1952, relativo ai lavoratori d'albergo;  
-  
-per la provincia di Bergamo, contratto collettivo integrativo 2 luglio 1952, relativo al personale salariato dipendente dagli alberghi, hotels meubles, pensioni e locande, nonche' ristoranti, caffe' e bars annessi:  
-  
-per la provincia di Brescia, contratto collettivo 1 giugno 1960, relativo al personale salariato dipendente da alberghi, pensioni e locande;  
-  
-per la provincia di Como, contratto collettivo integrativo 30 settembre 1959, relativo ai lavoratori stipendiati e salariati dipendenti dagli alberghi, hotels meubles, pensioni e locande, nonche' ristoranti, caffe' e bars annessi;  
-  
-per la provincia di Cuneo, accordo collettivo integrativo 10 agosto 1950, relativo a tutto il personale salariato dipendente dagli alberghi, hotels meubles, pensioni e locande, nonche' ristoranti, caffe', bars e taverne annessi;  
-  
-per la provincia di Gorizia, con esclusione del comune di Grado, accordo collettivo integrativo 28 luglio 1955, relativo al lavoratori d'albergo;  
-  
-per la provincia di Imperia, con esclusione dei comuni di Sanremo ed Ospedaletti, accordo collettivo integrativo 30 settembre 1959, relativo ai lavoratori dipendenti da alberghi, pensioni e locande;  
-  
-per i comuni di Sanremo ed Ospedaletti della provincia di Imperia, accordo collettivo integrativo 30 settembre 1959, relativo ai lavoratori dipendenti da alberghi, pensioni e locande;  
-  
-per la provincia di Milano, contratto collettivo integrativo 30 settembre 1959, relativo ai lavoratori salariati dipendenti da alberghi, pensioni, locande ed esercizi similari;  
-  
-per la provincia di Modena, accordi collettivi 15 dicembre 1955 e 4 dicembre 1956, relativi ai dipendenti d'albergo;  
-  
-per la provincia di Ravenna, contratto collettivo integrativo 30 giugno 1960, relativo ai dipendenti da alberghi, pensioni e locande;   
-per la provincia di Reggio Emilia, contratto collettivo 27 settembre 1956, relativo al personale non impiegatizio dipendente da aziende alberghiere;  
-  
-per la provincia di Rieti, contratto collettivo integrativo 1 agosto 1957, relativo al personale salariato dipendente dagli alberghi, alberghi meubles, pensioni e locande, nonche' da ristoranti e bars annessi;  
-  
-per la provincia di Savona, accordo collettivo integrativo 1 ottobre 1959, relativo ai lavoratori dipendenti da alberghi, pensioni e locande;  
-  
-per la provincia di Sondrio, accordo collettivo integrativo 19 novembre 1954, relativo ai lavoratori di alberghi, pensioni e locande;  
-  
-per la provincia di Udine, contratto collettivo integrativo 16 maggio 1960, relativo ai personale non impiegatizio dipendente da aziende alberghiere;  
-  
-per la provincia di Verona, accordo collettivo integrativo 11 giugno 1957, relativo ai dipendenti da alberghi, pensioni e locande;   
-per la provincia di Vicenza, accordo collettivo integrativo 6 giugno 1951, relativo ai lavoratori alberghieri;  
-  
-per i comuni di Bellaria, Igea Marina, Rimini, Riccione e Cattolica della provincia di Forli', accordo collettivo integrativo 29 settembre 1959, relativo ai dipendenti delle pensioni alberghi e locande:  
-  
-I minimi di trattamento economico e normativo cosi' stabiliti sono inderogabili nei confronti di tutto il personale salariato dipendente dalle imprese esercenti le attivita' indicate dai contratti e dagli accordi collettivi di cui al primo comma, della Regione autonoma della Valle d'Aosta, delle province di Asti, Bergamo, Brescia, Como, Cuneo, Gorizia (con esclusione del comune di Grado), Imperia, Milano, Modena, Ravenna, Reggio Emilia, Rieti, Savona, Sondrio, Udine, Verona, Vicenza, e dei comuni di Bellaria, Igea Marina, Rimini, Riccione e Cattolica (Forli).  
-  
+ per la Regione autonoma della Valle d'Aosta, contratto collettivo integrativo 18 luglio 1957, relativo a tutto il personale salariato dipendente dagli alberghi, hotels meubles, pensioni, locande e annessi ristoranti, taverne, caffe' e bars;
+
+ per la provincia di Asti, accordo collettivo integrativo 27 ottobre 1952, relativo ai lavoratori d'albergo;
+
+ per la provincia di Bergamo, contratto collettivo integrativo 2 luglio 1952, relativo al personale salariato dipendente dagli alberghi, hotels meubles, pensioni e locande, nonche' ristoranti, caffe' e bars annessi:
+
+ per la provincia di Brescia, contratto collettivo 1 giugno 1960, relativo al personale salariato dipendente da alberghi, pensioni e locande;
+
+ per la provincia di Como, contratto collettivo integrativo 30 settembre 1959, relativo ai lavoratori stipendiati e salariati dipendenti dagli alberghi, hotels meubles, pensioni e locande, nonche' ristoranti, caffe' e bars annessi;
+
+ per la provincia di Cuneo, accordo collettivo integrativo 10 agosto 1950, relativo a tutto il personale salariato dipendente dagli alberghi, hotels meubles, pensioni e locande, nonche' ristoranti, caffe', bars e taverne annessi;
+
+ per la provincia di Gorizia, con esclusione del comune di Grado, accordo collettivo integrativo 28 luglio 1955, relativo al lavoratori d'albergo;
+
+ per la provincia di Imperia, con esclusione dei comuni di Sanremo ed Ospedaletti, accordo collettivo integrativo 30 settembre 1959, relativo ai lavoratori dipendenti da alberghi, pensioni e locande;
+
+ per i comuni di Sanremo ed Ospedaletti della provincia di Imperia, accordo collettivo integrativo 30 settembre 1959, relativo ai lavoratori dipendenti da alberghi, pensioni e locande;
+
+ per la provincia di Milano, contratto collettivo integrativo 30 settembre 1959, relativo ai lavoratori salariati dipendenti da alberghi, pensioni, locande ed esercizi similari;
+
+ per la provincia di Modena, accordi collettivi 15 dicembre 1955 e 4 dicembre 1956, relativi ai dipendenti d'albergo;
+
+ per la provincia di Ravenna, contratto collettivo integrativo 30 giugno 1960, relativo ai dipendenti da alberghi, pensioni e locande; 
+ per la provincia di Reggio Emilia, contratto collettivo 27 settembre 1956, relativo al personale non impiegatizio dipendente da aziende alberghiere;
+
+ per la provincia di Rieti, contratto collettivo integrativo 1 agosto 1957, relativo al personale salariato dipendente dagli alberghi, alberghi meubles, pensioni e locande, nonche' da ristoranti e bars annessi;
+
+ per la provincia di Savona, accordo collettivo integrativo 1 ottobre 1959, relativo ai lavoratori dipendenti da alberghi, pensioni e locande;
+
+ per la provincia di Sondrio, accordo collettivo integrativo 19 novembre 1954, relativo ai lavoratori di alberghi, pensioni e locande;
+
+ per la provincia di Udine, contratto collettivo integrativo 16 maggio 1960, relativo ai personale non impiegatizio dipendente da aziende alberghiere;
+
+ per la provincia di Verona, accordo collettivo integrativo 11 giugno 1957, relativo ai dipendenti da alberghi, pensioni e locande; 
+ per la provincia di Vicenza, accordo collettivo integrativo 6 giugno 1951, relativo ai lavoratori alberghieri;
+
+ per i comuni di Bellaria, Igea Marina, Rimini, Riccione e Cattolica della provincia di Forli', accordo collettivo integrativo 29 settembre 1959, relativo ai dipendenti delle pensioni alberghi e locande:
+
+ I minimi di trattamento economico e normativo cosi' stabiliti sono inderogabili nei confronti di tutto il personale salariato dipendente dalle imprese esercenti le attivita' indicate dai contratti e dagli accordi collettivi di cui al primo comma, della Regione autonoma della Valle d'Aosta, delle province di Asti, Bergamo, Brescia, Como, Cuneo, Gorizia (con esclusione del comune di Grado), Imperia, Milano, Modena, Ravenna, Reggio Emilia, Rieti, Savona, Sondrio, Udine, Verona, Vicenza, e dei comuni di Bellaria, Igea Marina, Rimini, Riccione e Cattolica (Forli).
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo o chiunque spetti di osservarlo e di farlo osservare.
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 2 gennaio 1962
+Dato a Roma, addi' 2 gennaio 1962
 
-GRONCHI FANFANI - SULLO
-
-Visto, il Guardasigilli: BOSCO
-
-Registrato alla Corte dei conti, addi' 6 giugno 1962
-
-Atti del Governo, registro n. 148, foglio n. 131. - VILLA
-
-Allegati
-
-CONTRATTO COLLETTIVO DI LAVORO 18 LUGLIO 1957, INTEGRATIVO DEL CONTRATTO COLLETTIVO NAZIONALE 18 DICEMBRE 1949 E DELL'ACCORDO COLLETTIVO NAZIONALE 11 AGOSTO 1953, PER IL PERSONALE SALARIATO DIPENDENTE DAGLI ALBERGHI, HOTELS MEUBLES, PENSIONI, LOCANDE ED ANNESSI RISTORANTI, TAVERNE, CAFFE E BARS DELLA REGIONE AUTONOMA DELLA VALLE D'AOSTA   
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=062U055800100010110001&dgu=1962-06-27&art.dataPubblicazioneGazzetta=1962-06-27&art.codiceRedazionale=062U0558)
-  
-  
-  
-  
-  
-ACCORDO COLLETTIVO 27 OTTOBRE 1952, INTEGRATIVO DEL CONTRATTO COLLETTIVO NAZIONALE DI LAVORO 18 FEBBRAIO 1949, PER I LAVORATORI D'ALBERGO DELLA PROVINCIA DI ASTI   
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=062U055800100010110002&dgu=1962-06-27&art.dataPubblicazioneGazzetta=1962-06-27&art.codiceRedazionale=062U0558)
-  
-  
-  
-  
-  
-CONTRATTO COLLETTIVO 2 LUGLIO 1952, INTEGRATIVO DEL CONTRATTO COLLETTIVO NAZIONALE DI LAVORO 18 DICEMBRE 1949 PER IL PERSONALE SALARIATO DIPENDENTE DAGLI ALBERGHI, HOTELS MEUBLES, PENSIONI E LOCANDE, NONCHE' RISTORANTI, CAFFE E BARS ANNESSI, DELLA PROVINCIA DI BERGAMO   
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=062U055800100010110003&dgu=1962-06-27&art.dataPubblicazioneGazzetta=1962-06-27&art.codiceRedazionale=062U0558)
-  
-  
-  
-  
-  
-CONTRATTO COLLETTIVO 1 GIUGNO 1960, INTEGRATIVO DEL CONTRATTO COLLETTIVO NAZIONALE 22 SETTEMBRE 1959, PER IL PERSONALE SALARIATO DIPENDENTE DA ALBERGHI, PENSIONI E LOCANDE DELLA PROVINCIA DI BRESCIA   
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=062U055800100010110004&dgu=1962-06-27&art.dataPubblicazioneGazzetta=1962-06-27&art.codiceRedazionale=062U0558)
-  
-  
-  
-  
-  
-CONTRATTO COLLETTIVO 30 SETTEMBRE 1959, INTEGRATIVO DEL CONTRATTO COLLETTIVO NAZIONALE DI LAVORO 22 SETTEMBRE 1959, PER I LAVORATORI STIPENDIATI E SALARIATI DIPENDENTI DAGLI ALBERGHI, HOTELS MEUBLES, PENSIONI E LOCANDE, NONCHE' RISTORANTI, CAFFE E BARS ANNESSI, DELLA PROVINCIA DI COMO   
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=062U055800100010110005&dgu=1962-06-27&art.dataPubblicazioneGazzetta=1962-06-27&art.codiceRedazionale=062U0558)
-  
-  
-  
-  
-  
-ACCORDO COLLETTIVO 10 AGOSTO 1950, INTEGRATIVO DEL CONTRATTO COLLETTIVO NAZIONALE DI LAVORO 18 DICEMBRE 1949, PER TUTTO IL PERSONALE SALARIATO DIPENDENTE DAGLI ALBERGHI, HOTELS MEUBLES, PENSIONI E LOCANDE, NONCHE', RISTORANTI, CAFFE, BARS E TAVERNE ANNESSI, DELLA PROVINCIA DI CUNEO   
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=062U055800100010110006&dgu=1962-06-27&art.dataPubblicazioneGazzetta=1962-06-27&art.codiceRedazionale=062U0558)
-  
-  
-  
-  
-  
-ACCORDO COLLETTIVO 28 LUGLIO 1955, INTEGRATIVO DEL CONTRATTO COLLETTIVO NAZIONALE DI LAVORO 18 DICEMBRE 1949, PER I LAVORATORI DI ALBERGO DELLA PROVINCIA DI GORIZIA (ESCLUSO IL COMUNE DI GRADO)   
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=062U055800100010110007&dgu=1962-06-27&art.dataPubblicazioneGazzetta=1962-06-27&art.codiceRedazionale=062U0558)
-  
-  
-  
-  
-  
-ACCORDO COLLETTIVO 30 SETTEMBRE 1959 INTEGRATIVO DEL CONTRATTO COLLETTIVO NAZIONALE 22 SETTEMBRE 1959, PER I LAVORATORI DIPENDENTI DAGLI ALBERGHI, PENSIONI E LOCANDE DELLA PROVINCIA DI IMPERIA AD ECCEZIONE DEI COMUNI DI SANREMO ED OSPEDALETTI   
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=062U055800100010110008&dgu=1962-06-27&art.dataPubblicazioneGazzetta=1962-06-27&art.codiceRedazionale=062U0558)
-  
-  
-  
-  
-  
-ACCORDO COLLETTIVO 30 SETTEMBRE 1959, INTEGRATIVO DEL CONTRATTO COLLETTIVO NAZIONALE 22 SETTEMBRE 1959 PER I LAVORATORI DIPENDENTI DA ALBERGHI, PENSIONI E LOCANDE DEI COMUNI DI SANREMO ED OSPEDALETTI   
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=062U055800100010110009&dgu=1962-06-27&art.dataPubblicazioneGazzetta=1962-06-27&art.codiceRedazionale=062U0558)
-  
-  
-  
-  
-  
-CONTRATTO COLLETTIVO 30 SETTEMBRE 1959, INTEGRATIVO DEL CONTRATTO COLLETTIVO NAZIONALE DI LAVORO 22 SETTEMBRE 1959, PER I LAVORATORI SALARIATI DIPENDENTI DA ALBERGHI, PENSIONI, LOCANDE ED ESERCIZI SIMILARI DELLA PROVINCIA DI MILANO   
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=062U055800100010110010&dgu=1962-06-27&art.dataPubblicazioneGazzetta=1962-06-27&art.codiceRedazionale=062U0558)
-  
-  
-  
-  
-  
-ACCORDO COLLETTIVO 15 DICEMBRE 1955, PER I DIPENDENTI D'ALBERGO DELLA PROVINCIA DI MODENA   
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=062U055800100010110011&dgu=1962-06-27&art.dataPubblicazioneGazzetta=1962-06-27&art.codiceRedazionale=062U0558)
-  
-  
-  
-  
-  
-ACCORDO COLLETTIVO 4 DICEMBRE 1956, PER I LAVORATORI D'ALBERGO DELLA PROVINCIA DI MODENA   
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=062U055800100010110012&dgu=1962-06-27&art.dataPubblicazioneGazzetta=1962-06-27&art.codiceRedazionale=062U0558)
-  
-  
-  
-  
-  
-CONTRATTO COLLETTIVO 30 GIUGNO 1960, INTEGRATIVO DEL CONTRATTO COLLETTIVO NAZIONALE DI LAVORO 22 SETTEMBRE 1959, PER I DIPENDENTI DA ALBERGHI, PENSIONI, E LOCANDE DELLA PROVINCIA DI RAVENNA   
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=062U055800100010110013&dgu=1962-06-27&art.dataPubblicazioneGazzetta=1962-06-27&art.codiceRedazionale=062U0558)
-  
-  
-  
-  
-  
-CONTRATTO COLLETTIVO DI LAVORO 27 SETTEMBRE 1956, PER IL PERSONALE NON IMPIEGATIZIO DIPENDENTE DA AZIENDE ALBERGHIERE DELLA PROVINCIA DI REGGIO EMILIA   
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=062U055800100010110014&dgu=1962-06-27&art.dataPubblicazioneGazzetta=1962-06-27&art.codiceRedazionale=062U0558)
-  
-  
-  
-  
-  
-CONTRATTO COLLETTIVO 1 AGOSTO 1957, INTEGRATIVO DEL CONTRATTO COLLETTIVO NAZIONALE DI LAVORO 15 NOVEMBRE 1955, PER IL PERSONALE SALARIATO DIPENDENTE DAGLI ALBERGHI, ALBERGHI MEUBLES, PENSIONI E LOCANDE, NONCHE' DA RISTORANTI E BARS ANNESSI DELLA PROVINCIA DI RIETI   
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=062U055800100010110015&dgu=1962-06-27&art.dataPubblicazioneGazzetta=1962-06-27&art.codiceRedazionale=062U0558)
-  
-  
-  
-  
-  
-ACCORDO COLLETTIVO 1 OTTOBRE 1959, INTEGRATIVO DEL CONTRATTO COLLETTIVO NAZIONALE 22 SETTEMBRE 1959, PER I LAVORATORI DIPENDENTI DA ALBERGHI PENSIONI E LOCANDE DELLA PROVINCIA DI SAVONA   
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=062U055800100010110016&dgu=1962-06-27&art.dataPubblicazioneGazzetta=1962-06-27&art.codiceRedazionale=062U0558)
-  
-  
-  
-  
-  
-ACCORDO COLLETTIVO 19 NOVEMBRE 1954, INTEGRATIVO DEL CONTRATTO COLLETTIVO NAZIONALE DI LAVORO 19 DICEMBRE 1949, PER I LAVORATORI DI ALBERGHI, PENSIONI E LOCANDE DELLA PROVINCIA DI SONDRIO   
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=062U055800100010110017&dgu=1962-06-27&art.dataPubblicazioneGazzetta=1962-06-27&art.codiceRedazionale=062U0558)
-  
-  
-  
-  
-  
-CONTRATTO COLLETTIVO 16 MAGGIO 1960, INTEGRATIVO DEL CONTRATTO COLLETTIVO NAZIONALE DI LAVORO 22 SETTEMBRE 1959, PER IL PERSONALE NON IMPIEGATIZIO DIPENDENTE DA AZIENDE ALBERGHIERE DELLA PROVINCIA DI UDINE   
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=062U055800100010110018&dgu=1962-06-27&art.dataPubblicazioneGazzetta=1962-06-27&art.codiceRedazionale=062U0558)
-  
-  
-  
-  
-  
-ACCORDO COLLETTIVO 11 GIUGNO 1957, INTEGRATIVO DEL CONTRATTO COLLETTIVO NAZIONALE DI LAVORO 18 DICEMBRE 1949, PER I DIPENDENTI DA ALBERGHI, PENSIONI, E LOCANDE DELLA PROVINCIA DI VERONA   
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=062U055800100010110019&dgu=1962-06-27&art.dataPubblicazioneGazzetta=1962-06-27&art.codiceRedazionale=062U0558)
-  
-  
-  
-  
-  
-ACCORDO COLLETTIVO 6 GIUGNO 1951, INTEGRATIVO DEL CONTRATTO COLLETTIVO NAZIONALE DI LAVORO 18 DICEMBRE 1949, PER I LAVORATORI ALBERGHIERI DELLA PROVINCIA DI VICENZA   
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=062U055800100010110020&dgu=1962-06-27&art.dataPubblicazioneGazzetta=1962-06-27&art.codiceRedazionale=062U0558)
-  
-  
-  
-  
-  
-ACCORDO COLLETTIVO 29 SETTEMBRE 1959, INTEGRATIVO DEL CONTRATTO COLLETTIVO NAZIONALE 22 SETTEMBRE 1959, PER I DIPENDENTI DEGLI ALBERGHI, PENSIONI, LOCANDE, DEI COMUNI DI BELLARIA, IGEA MARINA, RIMINI, RICCIONE E CATTOLICA   
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=062U055800100010110021&dgu=1962-06-27&art.dataPubblicazioneGazzetta=1962-06-27&art.codiceRedazionale=062U0558)
-  
+GRONCHI FANFANI - SULLO Visto, il Guardasigilli: BOSCO Registrato alla Corte dei conti, addi' 6 giugno 1962 Atti del Governo, registro n. 148, foglio n. 131. - VILLA

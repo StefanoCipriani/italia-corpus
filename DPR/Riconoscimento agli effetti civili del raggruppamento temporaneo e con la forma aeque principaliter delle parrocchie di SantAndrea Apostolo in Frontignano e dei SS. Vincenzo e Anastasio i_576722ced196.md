@@ -1,18 +1,20 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 01 dicembre 1948 n. 1609
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 1609
+data: 1948-12-01
+titolo: "Riconoscimento, agli effetti civili, del raggruppamento temporaneo e con la forma \"aeque principaliter\" delle parrocchie di Sant'Andrea Apostolo, in Frontignano, e dei SS. Vincenzo e Anastasio, in Bagnala, entrambe in comune di Murlo (Siena)."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1948-12-01;1609
+codice_redazionale: 048U1609
+vigente: true
+---
 
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 01 dicembre 1948 n. 1609
-================================================================
-
-Riconoscimento, agli effetti civili, del raggruppamento temporaneo e con la forma "aeque principaliter" delle parrocchie di Sant'Andrea Apostolo, in Frontignano, e dei SS. Vincenzo e Anastasio, in Bagnala, entrambe in comune di Murlo (Siena).
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-1609. Decreto del Presidente della Repubblica 1 dicembre 1948, col quale, sulla proposta del Ministro per l'interno, viene riconosciuto, agli effetti civili, il decreto dell'Arcivescovo di Siena in data 2 gennaio 1948, relativo al raggruppamento temporaneo e con la forma "aequo principaliter" delle parrocchie di Sant'Andrea Apostolo, in Frontignano, e dei SS. Vincenzo e Anastasio, in Bagnala, entrambe in comune di Murlo (Siena).  
-  
-Visto, il Guardasigilli: GRASSI  
-Registrato alla Corte dei conti, addi' 14 febbraio 1949
+1609.
+
+Decreto del Presidente della Repubblica 1 dicembre 1948, col quale, sulla proposta del Ministro per l'interno, viene riconosciuto, agli effetti civili, il decreto dell'Arcivescovo di Siena in data 2 gennaio 1948, relativo al raggruppamento temporaneo e con la forma "aequo principaliter" delle parrocchie di Sant'Andrea Apostolo, in Frontignano, e dei SS. Vincenzo e Anastasio, in Bagnala, entrambe in comune di Murlo (Siena).
+
+Visto, il Guardasigilli: GRASSI
+ Registrato alla Corte dei conti, addi' 14 febbraio 1949

@@ -1,19 +1,21 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 09 novembre 1956 n. 1483
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 1483
+data: 1956-11-09
+titolo: "Riconoscimento della personalita' giuridica della Chiesa parrocchiale di Maria SS.ma Immacolata, in frazione Nubia del comune di Paceco (Trapani)."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1956-11-09;1483
+codice_redazionale: 056U1483
+vigente: true
+---
 
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 09 novembre 1956 n. 1483
-================================================================
-
-Riconoscimento della personalita' giuridica della Chiesa parrocchiale di Maria SS.ma Immacolata, in frazione Nubia del comune di Paceco (Trapani).
---------------------------------------------------------------------------------------------------------------------------------------------------
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-1483. Decreto del Presidente della Repubblica 9 novembre 1956, col quale, sulla proposta del Ministro per l'interno, viene riconosciuta la personalita' giuridica della Chiesa parrocchiale di Maria SS.ma Immacolata, in frazione Nubia del comune di Paceco (Trapani).  
-  
-Visto, il Guardasigilli: MORO  
-Registrato alla Corte dei conti, addi' 20 dicembre 1956  
-Atti del Governo, registro n. 102, foglio n. 133. - CARLOMAGNO
+1483.
+
+Decreto del Presidente della Repubblica 9 novembre 1956, col quale, sulla proposta del Ministro per l'interno, viene riconosciuta la personalita' giuridica della Chiesa parrocchiale di Maria SS.ma Immacolata, in frazione Nubia del comune di Paceco (Trapani).
+
+Visto, il Guardasigilli: MORO
+ Registrato alla Corte dei conti, addi' 20 dicembre 1956
+ Atti del Governo, registro n. 102, foglio n. 133. - CARLOMAGNO

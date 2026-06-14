@@ -1,19 +1,21 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 03 dicembre 1962 n. 1816
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 1816
+data: 1962-12-03
+titolo: "Riconoscimento, agli effetti civili, della erezione della Parrocchia della B.V.M. della Salute, in localita' Roccadistrada del comune di Mareno di Piave (Treviso)."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1962-12-03;1816
+codice_redazionale: 062U1816
+vigente: true
+---
 
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 03 dicembre 1962 n. 1816
-================================================================
-
-Riconoscimento, agli effetti civili, della erezione della Parrocchia della B.V.M. della Salute, in localita' Roccadistrada del comune di Mareno di Piave (Treviso).
--------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-1816. Decreto del Presidente della Repubblica 3 dicembre 1962, col quale, sulla proposta del Ministro per l'interno, viene riconosciuto, agli effetti civili, il decreto dell'Ordinario diocesano di Vittorio Veneto in data 21 novembre 1961, integrato con dichiarazione del 17 marzo 1962, relativo alla erezione della Parrocchia della B.V.M. della Salute, in localita' Roccadistrada del comune di Mareno di Piave (Treviso).  
-  
-Visto, il Guardasigilli: BOSCO  
-Registrato alla Corte dei conti, addi' 9 gennaio 1963  
-Atti del governo, registro n. 161, foglio n. 68. - VILLA
+1816.
+
+Decreto del Presidente della Repubblica 3 dicembre 1962, col quale, sulla proposta del Ministro per l'interno, viene riconosciuto, agli effetti civili, il decreto dell'Ordinario diocesano di Vittorio Veneto in data 21 novembre 1961, integrato con dichiarazione del 17 marzo 1962, relativo alla erezione della Parrocchia della B.V.M. della Salute, in localita' Roccadistrada del comune di Mareno di Piave (Treviso).
+
+Visto, il Guardasigilli: BOSCO
+ Registrato alla Corte dei conti, addi' 9 gennaio 1963
+ Atti del governo, registro n. 161, foglio n. 68. - VILLA

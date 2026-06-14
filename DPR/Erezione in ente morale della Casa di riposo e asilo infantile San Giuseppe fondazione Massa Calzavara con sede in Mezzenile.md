@@ -1,19 +1,21 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 03 luglio 1969 n. 580
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 580
+data: 1969-07-03
+titolo: "Erezione in ente morale della \"Casa di riposo e asilo infantile San Giuseppe, fondazione Massa Calzavara\", con sede in Mezzenile."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1969-07-03;580
+codice_redazionale: 069U0580
+vigente: true
+---
 
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 03 luglio 1969 n. 580
-=============================================================
-
-Erezione in ente morale della "Casa di riposo e asilo infantile San Giuseppe, fondazione Massa Calzavara", con sede in Mezzenile.
----------------------------------------------------------------------------------------------------------------------------------
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-580. Decreto del Presidente della Repubblica 3 luglio 1969, col quale, sulla proposta del Ministro per l'interno, la "Casa di riposo e asilo infantile San Giuseppe, fondazione Massa Calzavara", con sede nel comune di Mezzenile (Torino), viene eretta in ente morale e ne viene approvato, con modificazione, lo statuto.  
-  
-Visto, il Guardasigilli: GAVA  
-Registrato alla Corte dei conti, addi' 29 agosto 1969  
-Atti del Governo, registro n. 228, foglio n. 229. - CARUSO
+580.
+
+Decreto del Presidente della Repubblica 3 luglio 1969, col quale, sulla proposta del Ministro per l'interno, la "Casa di riposo e asilo infantile San Giuseppe, fondazione Massa Calzavara", con sede nel comune di Mezzenile (Torino), viene eretta in ente morale e ne viene approvato, con modificazione, lo statuto.
+
+Visto, il Guardasigilli: GAVA
+ Registrato alla Corte dei conti, addi' 29 agosto 1969
+ Atti del Governo, registro n. 228, foglio n. 229. - CARUSO

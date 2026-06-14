@@ -1,18 +1,20 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 novembre 1948 n. 1599
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 1599
+data: 1948-11-02
+titolo: "Erezione in ente morale della Fondazione \"Mario Donati\", con sede in Milano."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1948-11-02;1599
+codice_redazionale: 048U1599
+vigente: true
+---
 
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 novembre 1948 n. 1599
-================================================================
-
-Erezione in ente morale della Fondazione "Mario Donati", con sede in Milano.
-----------------------------------------------------------------------------
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-1599. Decreto del Presidente della Repubblica 2 novembre 1948, col quale, sulla proposta del Ministro per la pubblica istruzione, la Fondazione "Mario Donati", istituita in Milano, viene eretto in ente morale e ne viene approvato il relativo statuto.  
-  
-Visto, il Guardasigilli: GRASSI  
-Registrato alla Corte dei conti, addi' 7 febbraio 1949
+1599.
+
+Decreto del Presidente della Repubblica 2 novembre 1948, col quale, sulla proposta del Ministro per la pubblica istruzione, la Fondazione "Mario Donati", istituita in Milano, viene eretto in ente morale e ne viene approvato il relativo statuto.
+
+Visto, il Guardasigilli: GRASSI
+ Registrato alla Corte dei conti, addi' 7 febbraio 1949

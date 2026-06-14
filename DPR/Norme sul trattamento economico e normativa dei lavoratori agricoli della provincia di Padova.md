@@ -1,18 +1,18 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 gennaio 1962 n. 1040
-
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 gennaio 1962 n. 1040
-===============================================================
-
-Norme sul trattamento economico e normativa dei lavoratori agricoli della provincia di Padova.
-----------------------------------------------------------------------------------------------
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 1040
+data: 1962-01-02
+titolo: "Norme sul trattamento economico e normativa dei lavoratori agricoli della provincia di Padova."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1962-01-02;1040
+codice_redazionale: 062U1040
+vigente: true
+---
 
 Relazione al Presidente della Repubblica in merito al decreto legislativo recante norme sul trattamento economico e normativo dei lavoratori agricoli della provincia di Padova.
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Signor Presidente,
 
-l'unito decreto legislativo, che mi onoro di sottoporLe, regola, in attuazione delle [leggi 14 luglio 1959, n. 741 e 1 ottobre 1960, n. 1027](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1960-10-01;1027), i rapporti di lavoro costituiti per le attivita' per le quali sono stati stipulati il contratto collettivo 17 marzo 1953 di cointeressenza globale per la provincia di Padova ed il contratto collettivo 12 novembre 1956 per i lavoratori agricoli semifissi della provincia di Padova.
+l'unito decreto legislativo, che mi onoro di sottoporLe, regola, in attuazione delle [leggi 14 luglio 1959, n. 741 e 1 ottobre 1960, n. 1027](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1960-10-01;1027), i rapporti di lavoro costituiti per le attivita' per le quali sono stati stipulati il contratto collettivo 17 marzo 1953 di cointeressenza globale per la provincia di Padova ed il contratto collettivo 12 novembre 1956 per i lavoratori agricoli semifissi della provincia di Padova.
 
 L'art. 17 del contratto collettivo 17 marzo 1953 prevede due le controversie eventualmente insorgenti dall'applicazione del contratto medesimo saranno decise in prima istanza dai rappresentanti mendamentali delle Associazioni sindacali ed in seconda istanza dalle Associazioni sindacali stesse.
 
@@ -26,11 +26,11 @@ Il Ministro: SULLO
 
 IL PRESIDENTE DELLA REPUBBLICA
 
-Visto l'[art. 87, comma quinto, della Costituzione](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27~art87-com5);
+Visto l'[art. 87, comma quinto, della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87-com5);
 
-Vista la [legge 14 luglio 1959, n. 741](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1959-07-14;741), che delega il Governo ad emanare norme transitorie per garantire minimi di trattamento economico e normativo ad lavoratori;
+Vista la [legge 14 luglio 1959, n. 741](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1959-07-14;741), che delega il Governo ad emanare norme transitorie per garantire minimi di trattamento economico e normativo ad lavoratori;
 
-Vista la [legge 1 ottobre 1960, n. 1027](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1960-10-01;1027), recante modifiche alla predetta [legge 14 luglio 1959, n. 741](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1959-07-14;741);
+Vista la [legge 1 ottobre 1960, n. 1027](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1960-10-01;1027), recante modifiche alla predetta [legge 14 luglio 1959, n. 741](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1959-07-14;741);
 
 Visto l'accordo collettivo nazionale 24 settembre 1952, per la scala mobile dei salari agricoli;
 
@@ -58,85 +58,15 @@ Vista la pubblicazione nell'apposito Bollettino, nn. 3 e 4 della provincia di Pa
 
 Sentito il Consiglio dei Ministri;
 
-Sulla
------
+Sulla proposta del Ministro per il lavoro e la previdenza sociale; Decreta:
 
-proposta del Ministro per il lavoro e la previdenza sociale; Decreta:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-I rapporti di lavoro costituiti per le attivita' per le quali sono stati stipulati, per la provincia di Padova, il contratto collettivo 17 marzo 1953, di cointeressenza globale, il contratto collettivo 12 novembre 1956, relativo ai lavoratori agricoli semifissi, il contratto collettivo integrativo 7 giugno 1957, per i braccianti agricoli avventizi, l'accordo collettivo 11 novembre 1958, relativo alle paghe medie dei lavoratori agricoli, l'accordo collettivo 12 giugno 1959, relativo alla determinazione della paga oraria da corrispondere agli operai addetti ai soli lavori di mietitura e trebbiatura, il contratto collettivo 1 ottobre 1959, relativo ai salariati fissi agricoli, l'accordo collettivo 1 ottobre 1959, relativo ai lavoratori agricoli avventizi semifissi, sono regolati da norme giuridiche uniformi alle clausole dei contratti e degli accordi anzidetti, annessi al presente decreto, purche' compatibili con quelle concernenti la disciplina nazionale della categoria.  
-I minimi di trattamento economico e normativo cosi' stabiliti sono inderogabili nei confronti di tutti i lavoratori agricoli considerati nei contratti e negli accordi di cui al primo comma, della provincia di Padova.  
-  
+I rapporti di lavoro costituiti per le attivita' per le quali sono stati stipulati, per la provincia di Padova, il contratto collettivo 17 marzo 1953, di cointeressenza globale, il contratto collettivo 12 novembre 1956, relativo ai lavoratori agricoli semifissi, il contratto collettivo integrativo 7 giugno 1957, per i braccianti agricoli avventizi, l'accordo collettivo 11 novembre 1958, relativo alle paghe medie dei lavoratori agricoli, l'accordo collettivo 12 giugno 1959, relativo alla determinazione della paga oraria da corrispondere agli operai addetti ai soli lavori di mietitura e trebbiatura, il contratto collettivo 1 ottobre 1959, relativo ai salariati fissi agricoli, l'accordo collettivo 1 ottobre 1959, relativo ai lavoratori agricoli avventizi semifissi, sono regolati da norme giuridiche uniformi alle clausole dei contratti e degli accordi anzidetti, annessi al presente decreto, purche' compatibili con quelle concernenti la disciplina nazionale della categoria.
+ I minimi di trattamento economico e normativo cosi' stabiliti sono inderogabili nei confronti di tutti i lavoratori agricoli considerati nei contratti e negli accordi di cui al primo comma, della provincia di Padova.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 2 gennaio 1962
+Dato a Roma, addi' 2 gennaio 1962
 
-GRONCHI FANFANI - SULLO
-
-Visto, il Guardasigilli: BOSCO
-
-Registrato alla Corte del conti, addi' 14 luglio 1962
-
-Atti del Governo, registro n. 155, foglio n. 5. - VILLA
-
-Allegato
-
-CONTRATTO COLLETTIVO 17 MARZO 1953, DI COINTERESSENZA GLOBALE PER LA PROVINCIA DI PADOVA.   
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=062U104000100010110001&dgu=1962-08-03&art.dataPubblicazioneGazzetta=1962-08-03&art.codiceRedazionale=062U1040)
-  
-  
-  
-  
-CONTRATTO COLLETTIVO 12 NOVEMBRE 1956, PER I LAVORATORI AGRICOLI SEMIFISSI DELLA PROVINCIA DI PADOVA.   
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=062U104000100010110002&dgu=1962-08-03&art.dataPubblicazioneGazzetta=1962-08-03&art.codiceRedazionale=062U1040)
-  
-  
-  
-  
-CONTRATTO COLLETTIVO INTEGRATIVO 7 GIUGNO 1957, PER I BRACCIANTI AGRICOLI AVVENTIZI DELLA PROVINCIA DI PADOVA.   
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=062U104000100010110003&dgu=1962-08-03&art.dataPubblicazioneGazzetta=1962-08-03&art.codiceRedazionale=062U1040)
-  
-  
-  
-  
-ACCORDO COLLETTIVO 11 NOVEMBRE 1958, PER LE PAGHE MEDIE DEI LAVORATORI AGRICOLI DELLA PROVINCIA DI PADOVA.   
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=062U104000100010110004&dgu=1962-08-03&art.dataPubblicazioneGazzetta=1962-08-03&art.codiceRedazionale=062U1040)
-  
-  
-  
-  
-ACCORDO COLLETTIVO 12 GIUGNO 1959, PER LA DETERMINAZIONE DELLA PAGA ORARIA DA CORRISPONDERE AGLI OPERAI ADDETTI AI SOLI LAVORI DI MIETITURA E TREBBIATURA DELLA PROVINCIA DI PADOVA.   
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=062U104000100010110005&dgu=1962-08-03&art.dataPubblicazioneGazzetta=1962-08-03&art.codiceRedazionale=062U1040)
-  
-  
-  
-  
-CONTRATTO COLLETTIVO 1 ottobre 1959, PER I SALARIATI FISSI AGRICOLI DELLA PROVINCIA DI PADOVA.   
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=062U104000100010110006&dgu=1962-08-03&art.dataPubblicazioneGazzetta=1962-08-03&art.codiceRedazionale=062U1040)
-  
-  
-  
-  
-ACCORDO COLLETTIVO 1 ottobre 1959, PER I LAVORATORI AGRICOLI AVVENTIZI E SEMIFISSI DELLA PROVINCIA DI PADOVA.   
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=062U104000100010110007&dgu=1962-08-03&art.dataPubblicazioneGazzetta=1962-08-03&art.codiceRedazionale=062U1040)
-  
+GRONCHI FANFANI - SULLO Visto, il Guardasigilli: BOSCO Registrato alla Corte del conti, addi' 14 luglio 1962 Atti del Governo, registro n. 155, foglio n. 5. - VILLA

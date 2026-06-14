@@ -1,19 +1,22 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 22 giugno 1979 n. 918
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 224
+data: 1977-02-10
+titolo: "Autorizzazione all'Istituto di patronato per l'assistenza sociale, in Roma, ad acquistare un immobile."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1977-02-10;224
+codice_redazionale: 077U0224
+vigente: true
+---
 
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 22 giugno 1979 n. 918
-=============================================================
-
-Autorizzazione all'Istituto di patronato per l'assistenza sociale, in Roma, ad acquistare un immobile.
-------------------------------------------------------------------------------------------------------
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-918. Decreto del Presidente della Repubblica 22 giugno 1979, col quale, sulla proposta del Ministro del lavoro e della previdenza sociale, l'Istituto di patronato, per l'assistenza sociale (IPAS), in Roma, viene autorizzato ad acquistare, al prezzo di L. 24.300.000, un appartamento al piano ammezzato del fabbricato sito in Como, via Varesina n. 1, censito al nuovo catasto edilizio urbano alla partita 1590, foglio 10, mappale 163 sub 10, di proprieta' del sig. Giuseppe De Vizzi, come da atto di promessa di vendita in data 23 dicembre 1976, da adibire a sede dell'ente.  
-  
-Visto, il Guardasigilli: MORLINO  
-Registrato alla Corte dei conti, addi' 3 giugno 1980  
-Registro n. 1 Lavoro, foglio n. 110
+224.
+
+Decreto del Presidente della Repubblica 10 febbraio 1977, col quale, sulla proposta del Ministro per il lavoro e la previdenza sociale, l'Istituto di patronato per l'assistenza sociale (I.P.A.S.), in Roma, viene autorizzato ad acquistare, al prezzo di L. 30.000.000, la porzione di immobile rappresentata da un appartamento al primo piano, un locale al seminterrato e una piccola rimessa dello stabile sito in Ascoli Piceno, via C. A.
+ Vecchi, 25, di proprieta' dei signori Giorgio Silenzi e Angela Fazzini, censito al catasto al foglio 169/ B, particella 1150 sub 16, pag. 22 e 18, come da rogito per notaio Nicola Villani del 26 febbraio 1975, n. 8861 di repertorio, da destinare a uffici.
+
+Visto, il Guardasigilli: BONIFACIO
+ Registrato alla Corte dei conti, addi' 16 maggio 1977
+ Registro n. 1 Lavoro, foglio n. 18

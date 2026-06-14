@@ -1,42 +1,34 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 ottobre 1975 n. 915
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 915
+data: 1975-10-30
+titolo: "Trasferimento di un posto di assistente ordinario dalla facolta' di medicina e chirurgia alla facolta' di scienze matematiche, fisiche e naturali dell'Universita' di Roma."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1975-10-30;915
+codice_redazionale: 075U0915
+vigente: true
+---
 
+## Art. 1.
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 ottobre 1975 n. 915
-==============================================================
+IL PRESIDENTE DELLA REPUBBLICA
 
-Trasferimento di un posto di assistente ordinario dalla facolta' di medicina e chirurgia alla facolta' di scienze matematiche, fisiche e naturali dell'Universita' di Roma.
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+ Visto l'[art. 2, comma quarto, del decreto legislativo 7 maggio 1948, n. 1172](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1948-05-07;1172#art_2-com4), ratificato, con modificazioni, con [legge 24 giugno 1950, n. 465](../DL%20e%20leggi%20di%20conversione/Ratifica%20con%20modificazioni%20del%20decreto%20legislativo%207%20maggio%201948%20n.%201172%20concernente%20listituzione%20di%20ruoli%20del%20personale%20assistente%20tecnico%20subalterno%20infermiere%20e%20portantino%20presentement_765b791e4325.md);
+ Visto l'[art. 18 della legge 24 febbraio 1967, n. 62](../Atti%20normativi%20abrogati%20%28in%20originale%29/Istituzione%20di%20nuove%20cattedre%20universitarie%20di%20nuovi%20posti%20di%20assistente%20universitario%20e%20nuova%20disciplina%20degli%20incarichi%20di%20insegnamento%20universitario%20e%20degli%20assistenti%20volontari.md);
+ Visto il [decreto del Presidente della Repubblica numero 1382 del 6 dicembre 1968](Ripartizione%20di%20novecentocinquanta%20posti%20di%20assistente%20ordinario%20per%20lanno%20accademico%201968-69.md), pubblicato nella Gazzetta Ufficiale del 3 febbraio 1969, n. 29, con il quale, tra gli altri, e' stato assegnato un posto di assistente ordinario alla prima cattedra di biologia e zoologia generale compresa la genetica delle razze della facolta' di medicina e chirurgia dell'Universita' di Roma;
+ Vista la motivata deliberazione adottata il 23 settembre 1975 dal consiglio della facolta' di medicina e chirurgia dell'Universita' di Roma, da cui si evince la necessita' di trasferire il posto di assistente, assegnato con [decreto del Presidente della Repubblica n. 1382 del 6 dicembre 1968](Ripartizione%20di%20novecentocinquanta%20posti%20di%20assistente%20ordinario%20per%20lanno%20accademico%201968-69.md), unitamente al titolare, dott.ssa Carmen Calenda Cimmino, alla cattedra di microbiologia della facolta' di scienze matematiche, fisiche e naturali della stessa Universita', affinche' indagini scientifiche gia' intraprese possano svilupparsi e proseguire piu' ampiamente nell'ambito di quest'ultima cattedra;
+ Vista la deliberazione del consiglio della facolta' di scienze matematiche, fisiche e naturali adottata l'8 ottobre 1975 con cui si ribadisce l'opportunita' del trasferimento considerato il nuovo apporto che potra' essere dato alle ricerche che gia' si svolgono presso la cattedra di microbiologia, con la disponibilita' di un altro posto di assistente;
+ Considerato che dalla deliberazione del consiglio della facolta' di scienze matematiche, fisiche e naturali, sopra menzionata, si evince il consenso dell'interessata;
+ Visto il parere favorevole del senato accademico espresso nella seduta del 21 ottobre 1975;
+ Ritenuto pertanto che per il superiore interesse degli studi e della ricerca sia opportuna la modificazione organica dei posti di assistente di ruolo proposta;
+ Sulla proposta del Ministro Segretario di Stato per la pubblica istruzione;
 
-Art. 1
-------
+ Decreta:
 
- IL PRESIDENTE DELLA REPUBBLICA  
-  
-Visto l'[art. 2, comma quarto, del decreto legislativo 7 maggio 1948, n. 1172](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1948-05-07;1172~art2-com4), ratificato, con modificazioni, con [legge 24 giugno 1950, n. 465](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1950-06-24;465);  
-Visto l'[art. 18 della legge 24 febbraio 1967, n. 62](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1967-02-24;62~art18);  
-Visto il [decreto del Presidente della Repubblica numero 1382 del 6 dicembre 1968](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1968-12-06;1382), pubblicato nella Gazzetta Ufficiale del 3 febbraio 1969, n. 29, con il quale, tra gli altri, e' stato assegnato un posto di assistente ordinario alla prima cattedra di biologia e zoologia generale compresa la genetica delle razze della facolta' di medicina e chirurgia dell'Universita' di Roma;  
-Vista la motivata deliberazione adottata il 23 settembre 1975 dal consiglio della facolta' di medicina e chirurgia dell'Universita' di Roma, da cui si evince la necessita' di trasferire il posto di assistente, assegnato con [decreto del Presidente della Repubblica n. 1382 del 6 dicembre 1968](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1968-12-06;1382), unitamente al titolare, dott.ssa Carmen Calenda Cimmino, alla cattedra di microbiologia della facolta' di scienze matematiche, fisiche e naturali della stessa Universita', affinche' indagini scientifiche gia' intraprese possano svilupparsi e proseguire piu' ampiamente nell'ambito di quest'ultima cattedra;  
-Vista la deliberazione del consiglio della facolta' di scienze matematiche, fisiche e naturali adottata l'8 ottobre 1975 con cui si ribadisce l'opportunita' del trasferimento considerato il nuovo apporto che potra' essere dato alle ricerche che gia' si svolgono presso la cattedra di microbiologia, con la disponibilita' di un altro posto di assistente;  
-Considerato che dalla deliberazione del consiglio della facolta' di scienze matematiche, fisiche e naturali, sopra menzionata, si evince il consenso dell'interessata;  
-Visto il parere favorevole del senato accademico espresso nella seduta del 21 ottobre 1975;  
-Ritenuto pertanto che per il superiore interesse degli studi e della ricerca sia opportuna la modificazione organica dei posti di assistente di ruolo proposta;  
-Sulla proposta del Ministro Segretario di Stato per la pubblica istruzione;  
-  
-Decreta:  
-  
-A decorrere dal 1 novembre 1975, il posto di assistente ordinario gia' assegnato alla cattedra di biologia e zoologia generale compresa la genetica delle razze della facolta' di medicina e chirurgia dell'Universita' di Roma con [decreto del Presidente della Repubblica numero 1382 del 6 dicembre 1968](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1968-12-06;1382), e' attribuito alla prima cattedra di microbiologia della facolta' di scienze matematiche, fisiche e naturali della stessa Universita'.  
-Dalla stessa data la dott.ssa Carmen Calenda Cimmino, attuale titolare del posto, e' trasferita alla cattedra di microbiologia della facolta' di scienze matematiche, fisiche e naturali della stessa Universita'.  
-  
+ A decorrere dal 1 novembre 1975, il posto di assistente ordinario gia' assegnato alla cattedra di biologia e zoologia generale compresa la genetica delle razze della facolta' di medicina e chirurgia dell'Universita' di Roma con [decreto del Presidente della Repubblica numero 1382 del 6 dicembre 1968](Ripartizione%20di%20novecentocinquanta%20posti%20di%20assistente%20ordinario%20per%20lanno%20accademico%201968-69.md), e' attribuito alla prima cattedra di microbiologia della facolta' di scienze matematiche, fisiche e naturali della stessa Universita'.
+ Dalla stessa data la dott.ssa Carmen Calenda Cimmino, attuale titolare del posto, e' trasferita alla cattedra di microbiologia della facolta' di scienze matematiche, fisiche e naturali della stessa Universita'.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 30 ottobre 1975
+Dato a Roma, addi' 30 ottobre 1975
 
-LEONE MALFATTI
-
-Visto, il Guardasigilli: REALE
-
-Registrato alla Corte dei conti, addi' 3 marzo 1976
-
-Atti di Governo, registro n. 3, foglio n. 53
+LEONE MALFATTI Visto, il Guardasigilli: REALE Registrato alla Corte dei conti, addi' 3 marzo 1976 Atti di Governo, registro n. 3, foglio n. 53

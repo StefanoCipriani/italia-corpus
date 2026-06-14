@@ -1,19 +1,21 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 25 luglio 1952 n. 4460
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 4460
+data: 1952-07-25
+titolo: "Approvazione del nuovo statuto dell'Opera nazionale Montessori, con sede centrale in Roma."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1952-07-25;4460
+codice_redazionale: 052U4460
+vigente: true
+---
 
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 25 luglio 1952 n. 4460
-==============================================================
-
-Approvazione del nuovo statuto dell'Opera nazionale Montessori, con sede centrale in Roma.
-------------------------------------------------------------------------------------------
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-4460. Decreto del Presidente della Repubblica 25 luglio 1952, col quale, sulla proposta del Ministro per la pubblica istruzione, viene approvato il nuovo statuto dell'Opera nazionale Montessori, con sede centrale in Roma.  
-  
-Visto, il Guardasigilli: ZOLI  
-Registrato alla Corte dei conti, addi' 31 gennaio 1953  
-Atti del Governo, registro n. 74, foglio n. 151. - CARLOMAGNO
+4460.
+
+Decreto del Presidente della Repubblica 25 luglio 1952, col quale, sulla proposta del Ministro per la pubblica istruzione, viene approvato il nuovo statuto dell'Opera nazionale Montessori, con sede centrale in Roma.
+
+Visto, il Guardasigilli: ZOLI
+ Registrato alla Corte dei conti, addi' 31 gennaio 1953
+ Atti del Governo, registro n. 74, foglio n. 151. - CARLOMAGNO

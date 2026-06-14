@@ -1,20 +1,20 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 gennaio 1962 n. 355
-
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 gennaio 1962 n. 355
-==============================================================
-
-Norme sul trattamento economico e normativo dei lavoratori dipendenti dalle imprese artigiane della provincia di Genova.
-------------------------------------------------------------------------------------------------------------------------
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 355
+data: 1962-01-02
+titolo: "Norme sul trattamento economico e normativo dei lavoratori dipendenti dalle imprese artigiane della provincia di Genova."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1962-01-02;355
+codice_redazionale: 062U0355
+vigente: true
+---
 
 IL PRESIDENTE DELLA REPUBBLICA
-------------------------------
 
-Visto l'[art. 87, comma quinto, della Costituzione](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27~art87-com5);
+Visto l'[art. 87, comma quinto, della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87-com5);
 
-Vista la [legge 11 luglio 1959, n. 741](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1959-07-11;741) che delega il Governo ad emanare norme transitorie per garantire minimi di trattamento economico e normativo ai lavoratori;
+Vista la [legge 11 luglio 1959, n. 741](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1959-07-11;741) che delega il Governo ad emanare norme transitorie per garantire minimi di trattamento economico e normativo ai lavoratori;
 
-Vista la [legge 1 ottobre 1960, n. 1027](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1960-10-01;1027), recante modifiche alla predetta [legge 14 luglio 1959, n. 741](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1959-07-14;741);
+Vista la [legge 1 ottobre 1960, n. 1027](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1960-10-01;1027), recante modifiche alla predetta [legge 14 luglio 1959, n. 741](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1959-07-14;741);
 
 Visti per la provincia di Genova:
 
@@ -54,219 +54,35 @@ Vista la pubblicazione nell'apposito Bollettino, n. 21 e 22 della provincia di G
 
 Sentito il Consiglio dei Ministri;
 
-Sulla
------
+Sulla proposta del Ministro per il lavoro e la previdenza sociale; Decreta:
 
-proposta del Ministro per il lavoro e la previdenza sociale; Decreta:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-I rapporti di lavoro costituiti per le attivita' artigiane per le quali sono stati stipulati, per la provincia di Genova:  
-- l'accordo collettivo 15 dicembre 1945 relativo allo adeguamento salariale per i dipendenti da aziende artigiane metalmeccaniche;  
-- l'accordo collettivo 15 dicembre 1945, relativo allo adeguamento salariale per i dipendenti da aziende artigiane ottoniere;  
-- l'accordo collettivo 31 dicembre 1945, relativo ai lavoranti orafi e gioiellieri;  
-- l'accordo collettivo 1 gennaio 1946, relativo allo adeguamento salariale per i dipendenti da aziende artigiane di vetri, specchi e cristalli;  
-- l'accordo collettivo 9 gennaio 1946, relativo ai lavoranti filigranisti;  
-- l'accordo collettivo 15 gennaio 1916, relativo allo adeguamento salariale per i dipendenti da aziende artigiane di fotografi;  
-- l'accordo collettivo 15 gennaio 1946, relativo allo adeguamento salariale per i dipendenti da aziende artigiane del marmo e della pietra;  
-- l'accordo collettivo 15 gennaio 1946, relativo allo adeguamento salariale per i dipendenti dalle aziende artigiane del legno ed affini;  
-- l'accordo collettivo 15 gennaio 1946, relativo allo adeguamento salariale per i dipendenti da aziende artigiane edili;  
-- l'accordo collettivo 20 gennaio 1946, relativo ai dipendenti da aziende artigiane di coloritori, verniciatori, decoratori ed affini;  
-- l'accordo collettivo 14 febbraio 1946, relativo ai dipendenti dalle aziende artigiane di tappezzieri in carta;  
-- l'accordo collettivo 4 marzo 1947, relativo all'adeguamento salariale per i dipendenti da aziende artigiane edili;  
-- l'accordo collettivo 20 marzo 1947, relativo al trasferimento della quota integrativa sulla paga base dei dipendenti da aziende artigiane tessili e dell'abbigliamento;  
-- l'accordo collettivo 18 giugno 1947, relativo al settore dell'abbigliamento artigiano;  
-- l'accordo collettivo 14 luglio 1947, relativo ai minimi orari per l'apprendistato delle aziende artigiane tessili;  
-- l'accordo collettivo 1 luglio 1947, relativo ai nuovi minimi orari per l'apprendistato delle aziende artigiane dell'abbigliamento;  
-- l'accordo collettivo 1 gennaio 1948, relativo ai dipendenti da aziende artigiane di attivita', varie (avorio, penne stilografiche, miniature, tartaruga, ecc.);  
-- l'accordo collettivo 20 dicembre 1949, relativo alle tariffe dei lavoranti cottimisti guantai dipendenti da imprese artigiane;  
-- l'accordo collettivo 25 febbraio 1958, relativo alla regolamentazione dell'indennita' di contingenza ai dipendenti dalle imprese artigiane;  
-sono regolati da norme giuridiche uniformi alle clausole degli accordi anzidetti, annessi al presente decreto purche' compatibili, per quanto riguarda le attivita' artigiane per le quali sono stati stipulati appositi contratti collettivi nazionali, con quelle concernenti la relativa disciplina nazionale di categoria.  
-I minimi di trattamento economico e normativo cosi' stabiliti sono inderogabili nei confronti di tutti i lavoratori dipendenti dalle imprese artigiane esercenti le attivita' indicate negli accordi di cui al primo comma, della provincia di Genova.  
-  
+I rapporti di lavoro costituiti per le attivita' artigiane per le quali sono stati stipulati, per la provincia di Genova:
+ - l'accordo collettivo 15 dicembre 1945 relativo allo adeguamento salariale per i dipendenti da aziende artigiane metalmeccaniche;
+ - l'accordo collettivo 15 dicembre 1945, relativo allo adeguamento salariale per i dipendenti da aziende artigiane ottoniere;
+ - l'accordo collettivo 31 dicembre 1945, relativo ai lavoranti orafi e gioiellieri;
+ - l'accordo collettivo 1 gennaio 1946, relativo allo adeguamento salariale per i dipendenti da aziende artigiane di vetri, specchi e cristalli;
+ - l'accordo collettivo 9 gennaio 1946, relativo ai lavoranti filigranisti;
+ - l'accordo collettivo 15 gennaio 1916, relativo allo adeguamento salariale per i dipendenti da aziende artigiane di fotografi;
+ - l'accordo collettivo 15 gennaio 1946, relativo allo adeguamento salariale per i dipendenti da aziende artigiane del marmo e della pietra;
+ - l'accordo collettivo 15 gennaio 1946, relativo allo adeguamento salariale per i dipendenti dalle aziende artigiane del legno ed affini;
+ - l'accordo collettivo 15 gennaio 1946, relativo allo adeguamento salariale per i dipendenti da aziende artigiane edili;
+ - l'accordo collettivo 20 gennaio 1946, relativo ai dipendenti da aziende artigiane di coloritori, verniciatori, decoratori ed affini;
+ - l'accordo collettivo 14 febbraio 1946, relativo ai dipendenti dalle aziende artigiane di tappezzieri in carta;
+ - l'accordo collettivo 4 marzo 1947, relativo all'adeguamento salariale per i dipendenti da aziende artigiane edili;
+ - l'accordo collettivo 20 marzo 1947, relativo al trasferimento della quota integrativa sulla paga base dei dipendenti da aziende artigiane tessili e dell'abbigliamento;
+ - l'accordo collettivo 18 giugno 1947, relativo al settore dell'abbigliamento artigiano;
+ - l'accordo collettivo 14 luglio 1947, relativo ai minimi orari per l'apprendistato delle aziende artigiane tessili;
+ - l'accordo collettivo 1 luglio 1947, relativo ai nuovi minimi orari per l'apprendistato delle aziende artigiane dell'abbigliamento;
+ - l'accordo collettivo 1 gennaio 1948, relativo ai dipendenti da aziende artigiane di attivita', varie (avorio, penne stilografiche, miniature, tartaruga, ecc.);
+ - l'accordo collettivo 20 dicembre 1949, relativo alle tariffe dei lavoranti cottimisti guantai dipendenti da imprese artigiane;
+ - l'accordo collettivo 25 febbraio 1958, relativo alla regolamentazione dell'indennita' di contingenza ai dipendenti dalle imprese artigiane;
+sono regolati da norme giuridiche uniformi alle clausole degli accordi anzidetti, annessi al presente decreto purche' compatibili, per quanto riguarda le attivita' artigiane per le quali sono stati stipulati appositi contratti collettivi nazionali, con quelle concernenti la relativa disciplina nazionale di categoria.
+ I minimi di trattamento economico e normativo cosi' stabiliti sono inderogabili nei confronti di tutti i lavoratori dipendenti dalle imprese artigiane esercenti le attivita' indicate negli accordi di cui al primo comma, della provincia di Genova.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 2 gennaio 1962
+Dato a Roma, addi' 2 gennaio 1962
 
-GRONCHI FANFANI - SULLO
-
-Visto, IL Guardasigilli: BOSCO
-
-Registrato alla Corte dei conti, addi' 18 maggio 1962
-
-Atti del Governo, registro n. 147, foglio n. 26. - VILLA
-
-Allegato
-
-ACCORDO COLLETTIVO 15 DICEMBRE 1945 PER L'ADEGUAMENTO SALARIALE PER I DIPENDENTI DA AZIENDE ARTIGIANE METALMECCANICHE DELLA PROVINCIA DI GENOVA.   
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=062U035500100010110001&dgu=1962-06-11&art.dataPubblicazioneGazzetta=1962-06-11&art.codiceRedazionale=062U0355)
-  
-  
-  
-  
-  
-  
-ACCORDO COLLETTIVO 15 DICEMBRE 1945 PER L'ADEGUAMENTO SALARIALE PER I DIPENDENTI DA AZIENDE ARTIGIANE OTTONIERE DELLA PROVINCIA DI GENOVA   
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=062U035500100010110002&dgu=1962-06-11&art.dataPubblicazioneGazzetta=1962-06-11&art.codiceRedazionale=062U0355)
-  
-  
-  
-  
-  
-ACCORDO COLLETTIVO 31 DICEMBRE 1945 PER L'AGGIORNAMENTO DEL CONTRATTO COLLETTIVO DEI LAVORANTI ORAFI E GIOIELLIERI ARTIGIANI   
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=062U035500100010110003&dgu=1962-06-11&art.dataPubblicazioneGazzetta=1962-06-11&art.codiceRedazionale=062U0355)
-  
-  
-  
-  
-  
-ACCORDO COLLETTIVO 1 gennaio 1946 PER L'ADEGUAMENTO SALARIALE PER I DIPENDENTI DA AZIENDE ARTIGIANE DI VETRI-SPECCHI-CRISTALLI DELLA PROVINCIA DI GENOVA   
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=062U035500100010110004&dgu=1962-06-11&art.dataPubblicazioneGazzetta=1962-06-11&art.codiceRedazionale=062U0355)
-  
-  
-  
-  
-  
-ACCORDO COLLETTIVO 9 GENNAIO 1946 PER L'AGGIORNAMENTO DEL CONTRATTO COLLETTIVO DEI LAVORANTI FILIGRANISTI DELLA PROVINCIA DI GENOVA   
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=062U035500100010110005&dgu=1962-06-11&art.dataPubblicazioneGazzetta=1962-06-11&art.codiceRedazionale=062U0355)
-  
-  
-  
-  
-  
-ACCORDO COLLETTIVO 15 GENNAIO 1946 PER L'ADEGUAMENTO SALARIALE PER I DIPENDENTI DA AZIENDE ARTIGIANE DI FOTOGRAFI DELLA PROVINCIA DI GENOVA   
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=062U035500100010110006&dgu=1962-06-11&art.dataPubblicazioneGazzetta=1962-06-11&art.codiceRedazionale=062U0355)
-  
-  
-  
-  
-  
-ACCORDO COLLETTIVO 15 GENNAIO 1946 PER L'ADEGUAMENTO SALARIALE PER I DIPENDENTI DA AZIENDE ARTIGIANE DEL MARMO E DELLA PIETRA DELLA PROVINCIA DI GENOVA   
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=062U035500100010110007&dgu=1962-06-11&art.dataPubblicazioneGazzetta=1962-06-11&art.codiceRedazionale=062U0355)
-  
-  
-  
-  
-  
-ACCORDO COLLETTIVO 15 GENNAIO 1946 PER L'ADEGUAMENTO SALARIALE PER I DIPENDENTI DALLE AZIENDE ARTIGIANE DEL LEGNO ED AFFINI DELLA PROVINCIA DI GENOVA   
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=062U035500100010110008&dgu=1962-06-11&art.dataPubblicazioneGazzetta=1962-06-11&art.codiceRedazionale=062U0355)
-  
-  
-  
-  
-  
-ACCORDO COLLETTIVO 15 GENNAIO 1946 RELATIVO ALL'ADEGUAMENTO SALARIALE PER I DIPENDENTI DA AZIENDE ARTIGIANE EDILI DELLA PROVINCIA DI GENOVA   
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=062U035500100010110009&dgu=1962-06-11&art.dataPubblicazioneGazzetta=1962-06-11&art.codiceRedazionale=062U0355)
-  
-  
-  
-  
-  
-ACCORDO COLLETTIVO 20 GENNAIO 1946 PER I DIPENDENTI DA AZIENDE ARTIGIANE DI COLORITORI - VERNICIATORI - DECORATORI ED AFFINI DELLA PROVINCIA DI GENOVA   
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=062U035500100010110010&dgu=1962-06-11&art.dataPubblicazioneGazzetta=1962-06-11&art.codiceRedazionale=062U0355)
-  
-  
-  
-  
-  
-ACCORDO COLLETTIVO 14 FEBBRAIO 1946 PER I DIPENDENTI DALLE AZIENDE ARTIGIANE DI TAPPEZZIERI IN CARTA DELLA PROVINCIA DI GENOVA   
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=062U035500100010110011&dgu=1962-06-11&art.dataPubblicazioneGazzetta=1962-06-11&art.codiceRedazionale=062U0355)
-  
-  
-  
-  
-  
-ACCORDO COLLETTIVO 4 MARZO 1947 PER L'ADEGUAMENTO SALARIALE PER I DIPENDENTI DA AZIENDE ARTIGIANE EDILI DELLA PROVINCIA DI GENOVA   
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=062U035500100010110012&dgu=1962-06-11&art.dataPubblicazioneGazzetta=1962-06-11&art.codiceRedazionale=062U0355)
-  
-  
-  
-  
-  
-ACCORDO 20 MARZO 1947 PER IL TRASFERIMENTO DELLA QUOTA INTEGRATIVA SULLA PAGA BASE DEI DIPENDENTI DA AZIENDE ARTIGIANE TESSILI E DELL'ABBIGLIAMENTO DELLA PROVINCIA DI GENOVA   
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=062U035500100010110013&dgu=1962-06-11&art.dataPubblicazioneGazzetta=1962-06-11&art.codiceRedazionale=062U0355)
-  
-  
-  
-  
-  
-ACCORDO COLLETTIVO 18 GIUGNO 1947 PER IL SETTORE DELL'ABBIGLIAMENTO ARTIGIANO DELLA PROVINCIA DI GENOVA   
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=062U035500100010110014&dgu=1962-06-11&art.dataPubblicazioneGazzetta=1962-06-11&art.codiceRedazionale=062U0355)
-  
-  
-  
-  
-  
-ACCORDO COLLETTIVO 14 LUGLIO 1947 RELATIVO AI NUOVI MINIMI ORARI PER L'APPRENDISTATO DELLE AZIENDE ARTIGIANE TESSILI   
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=062U035500100010110015&dgu=1962-06-11&art.dataPubblicazioneGazzetta=1962-06-11&art.codiceRedazionale=062U0355)
-  
-  
-  
-  
-  
-ACCORDO COLLETTIVO 14 LUGLIO 1947 RELATIVO Al NUOVI MINIMI ORARI PER L'APPRENDISTATO DELLE AZIENDE ARTIGIANE DELL'ABBIGLIAMENTO   
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=062U035500100010110016&dgu=1962-06-11&art.dataPubblicazioneGazzetta=1962-06-11&art.codiceRedazionale=062U0355)
-  
-  
-  
-  
-  
-ACCORDO COLLETTIVO 1 gennaio 1948 PER I DIPENDENTI DA AZIENDE ARTIGIANE DI ATTIVITA' VARIE (AVORIO, PENNE STILOGRAFICHE, MINIATURE, TARTARUGA, ECC.) DELLA PROVINCIA DI GENOVA   
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=062U035500100010110017&dgu=1962-06-11&art.dataPubblicazioneGazzetta=1962-06-11&art.codiceRedazionale=062U0355)
-  
-  
-  
-  
-  
-ACCORDO COLLETTIVO 20 DICEMBRE 1949 PER LE TARIFFE DEI LAVORANTI COTTIMISTI GUANTAI DIPENDENTI DA AZIENDE ARTIGIANE DELLA PROVINCIA DI GENOVA   
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=062U035500100010110018&dgu=1962-06-11&art.dataPubblicazioneGazzetta=1962-06-11&art.codiceRedazionale=062U0355)
-  
-  
-  
-  
-  
-ACCORDO COLLETTIVO 25 FEBBRAIO 1958 PER LA REGOLAMENTAZIONE DELL'INDENNITA' DI CONTINGENZA Al DIPENDENTI DA IMPRESE ARTIGIANE DELLA PROVINCIA DI GENOVA   
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=062U035500100010110019&dgu=1962-06-11&art.dataPubblicazioneGazzetta=1962-06-11&art.codiceRedazionale=062U0355)
-  
+GRONCHI FANFANI - SULLO Visto, IL Guardasigilli: BOSCO Registrato alla Corte dei conti, addi' 18 maggio 1962 Atti del Governo, registro n. 147, foglio n. 26. - VILLA

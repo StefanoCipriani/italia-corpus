@@ -1,19 +1,21 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 settembre 1959 n. 915
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 915
+data: 1959-09-02
+titolo: "Soppressione della Fabbriceria della Chiesa parrocchiale di Santa Maria Assunta, in frazione Cavrie' del comune di San Biagio di Callalta (Treviso)."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1959-09-02;915
+codice_redazionale: 059U0915
+vigente: true
+---
 
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 settembre 1959 n. 915
-================================================================
-
-Soppressione della Fabbriceria della Chiesa parrocchiale di Santa Maria Assunta, in frazione Cavrie' del comune di San Biagio di Callalta (Treviso).
-----------------------------------------------------------------------------------------------------------------------------------------------------
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-915. Decreto del Presidente della Repubblica 2 settembre 1959, col quale, sulla proposta del Ministro per l'interno, viene soppressa la Fabbriceria della Chiesa parrocchiale di Santa Maria Assunta, in frazione Cavrie' del comune di San Biagio di Callalta (Treviso).  
-  
-Visto, il Guardasigilli: GONELLA  
-Registrato alla Corte dei conti, addi' 26 ottobre 1959  
-Atti del Governo, registro n. 121, foglio n. 110. - RELLEVA
+915.
+
+Decreto del Presidente della Repubblica 2 settembre 1959, col quale, sulla proposta del Ministro per l'interno, viene soppressa la Fabbriceria della Chiesa parrocchiale di Santa Maria Assunta, in frazione Cavrie' del comune di San Biagio di Callalta (Treviso).
+
+Visto, il Guardasigilli: GONELLA
+ Registrato alla Corte dei conti, addi' 26 ottobre 1959
+ Atti del Governo, registro n. 121, foglio n. 110. - RELLEVA

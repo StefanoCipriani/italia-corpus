@@ -1,20 +1,20 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 gennaio 1962 n. 692
-
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 gennaio 1962 n. 692
-==============================================================
-
-Norme sul trattamento economico e normativo per i lavoratori dipendenti dalle aziende artigiane delle province di Milano, Novara e Savona.
-------------------------------------------------------------------------------------------------------------------------------------------
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 692
+data: 1962-01-02
+titolo: "Norme sul trattamento economico e normativo per i lavoratori dipendenti dalle aziende artigiane delle province di Milano, Novara e Savona."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1962-01-02;692
+codice_redazionale: 062U0692
+vigente: true
+---
 
 IL PRESIDENTE DELLA REPUBBLICA
-------------------------------
 
-Visto l'[art. 87, comma quinto, della Costituzione](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27~art87-com5);
+Visto l'[art. 87, comma quinto, della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87-com5);
 
-Vista la [legge 14 luglio 1959, n. 741](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1959-07-14;741), che delega il Governo ad emanare norme transitorie per garantire minimi di trattamento economico e normativo ai lavoratori;
+Vista la [legge 14 luglio 1959, n. 741](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1959-07-14;741), che delega il Governo ad emanare norme transitorie per garantire minimi di trattamento economico e normativo ai lavoratori;
 
-Vista la [legge 1 ottobre 1960, n. 1027](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1960-10-01;1027), recante modifiche alla predetta [legge 14 luglio 1959, n. 741](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1959-07-14;741);
+Vista la [legge 1 ottobre 1960, n. 1027](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1960-10-01;1027), recante modifiche alla predetta [legge 14 luglio 1959, n. 741](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1959-07-14;741);
 
 Visto, per la provincia di Milano, l'accordo collettivo 2 aprile 1960, relativo alla misura della gratifica natalizia per i dipendenti dalle aziende artigiane, stipulato tra l'Unione Provinciale Artigiani, l'Associazione Provinciale Artigiani, l'Unione Artigiani di Monza e Brianza, la Consociazione Artigiana di Legnano e Zona, l'Associazione Artigiani di Lissone e la Camera Confederale del Lavoro - C.G.I.L. -, l'Unione Sindacale Provinciale - C.I.S.L. -, l'Unione italiana del Lavoro;
 
@@ -34,73 +34,19 @@ Vista la pubblicazione nell'apposito Bollettino, n. 40 della provincia di Milano
 
 Sentito il Consiglio dei Ministri;
 
-Sulla
------
+Sulla proposta del Ministro per il lavoro e la previdenza sociale; Decreta:
 
-proposta del Ministro per il lavoro e la previdenza sociale; Decreta:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-I rapporti di lavoro costituiti per le attivita' artigiane per le quali sono stati stipulati:  
-- per la provincia di Milano, l'accordo collettivo 2 aprile 1960, relativo alla misura della gratifica natalizia per i dipendenti dalle aziende artigiane;  
-- per la provincia di Novara, l'accordo collettivo 30 marzo 1960, relativo al trattamento economico spettante ai lavoratori dipendenti dalle aziende artigiane per ferie, gratifica natalizia, indennita' di licenziamento, indennita' di anzianita' per dimissioni, l'accordo collettivo 31 marzo 1960, relativo all'indennita' di contingenza da corrispondere agli operai dipendenti dalle aziende artigiane;  
-- per la provincia di Savona, l'accordo collettivo 26 novembre 1946, relativo ai dipendenti dalle aziende artigiane del ferro e dei metalli, e l'accordo collettivo 24 marzo 1948, relativo ai dipendenti dalle aziende artigiane di verniciatori e decoratori;  
-sono regolati da norme giuridiche uniformi alle clausole degli accordi collettivi sopra indicati, annessi al presente decreto.  
-I minimi di trattamento economico e normativo cosi' stabiliti sono inderogabili nei confronti di tutti i lavoratori dipendenti dalle imprese artigiane esercenti le attivita' considerate negli accordi collettivi di cui al primo comma, delle province di Milano, Novara e Savona.  
-  
+I rapporti di lavoro costituiti per le attivita' artigiane per le quali sono stati stipulati:
+ - per la provincia di Milano, l'accordo collettivo 2 aprile 1960, relativo alla misura della gratifica natalizia per i dipendenti dalle aziende artigiane;
+ - per la provincia di Novara, l'accordo collettivo 30 marzo 1960, relativo al trattamento economico spettante ai lavoratori dipendenti dalle aziende artigiane per ferie, gratifica natalizia, indennita' di licenziamento, indennita' di anzianita' per dimissioni, l'accordo collettivo 31 marzo 1960, relativo all'indennita' di contingenza da corrispondere agli operai dipendenti dalle aziende artigiane;
+ - per la provincia di Savona, l'accordo collettivo 26 novembre 1946, relativo ai dipendenti dalle aziende artigiane del ferro e dei metalli, e l'accordo collettivo 24 marzo 1948, relativo ai dipendenti dalle aziende artigiane di verniciatori e decoratori;
+ sono regolati da norme giuridiche uniformi alle clausole degli accordi collettivi sopra indicati, annessi al presente decreto.
+ I minimi di trattamento economico e normativo cosi' stabiliti sono inderogabili nei confronti di tutti i lavoratori dipendenti dalle imprese artigiane esercenti le attivita' considerate negli accordi collettivi di cui al primo comma, delle province di Milano, Novara e Savona.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 2 gennaio 1962
+Dato a Roma, addi' 2 gennaio 1962
 
-GRONCHI FANFANI - SULLO
-
-Visto, il Guardasigilli: BOSCO
-
-Registrato alla Corte dei conti, addi' 9 giugno 1962
-
-Atti del Governo, registro n. 149, foglio n. 39. - VILLA
-
-Accordi
-
-ACCORDO COLLETTIVO 2 APRILE 1960 SULLA MISURA DELLA GRATIFICA NATALIZIA PER I DIPENDENTI DA AZIENDE ARTIGIANE DELLA PROVINCIA DI MILANO.   
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=062U069200100010110001&dgu=1962-07-09&art.dataPubblicazioneGazzetta=1962-07-09&art.codiceRedazionale=062U0692)
-  
-  
-  
-  
-  
-ACCORDO COLLETTIVO 30 MARZO 1960 SUL TRATTAMENTO ECONOMICO SPETTANTE AI LAVORATORI DIPENDENTI DALLE AZIENDE ARTIGIANE PER FERIE, GRATIFICA NATALIZIA, INDENNITA' DI LICENZIAMENTO INDENNITA' DI ANZIANITA' PER DIMISSIONI NELLA PROVINCIA DI NOVARA.   
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=062U069200100010110002&dgu=1962-07-09&art.dataPubblicazioneGazzetta=1962-07-09&art.codiceRedazionale=062U0692)
-  
-  
-  
-ACCORDO COLLETTIVO 31 MARZO 1960 PER L'INDENNITA' DI CONTINGENZA DA CORRISPONDERE AGLI OPERAI DIPENDENTI DALLE AZIENDE ARTIGIANE DELLA PROVINCIA DI NOVARA.   
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=062U069200100010110003&dgu=1962-07-09&art.dataPubblicazioneGazzetta=1962-07-09&art.codiceRedazionale=062U0692)
-  
-  
-  
-  
-  
-ACCORDO COLLETTIVO 26 NOVEMBRE 1946 PER I DIPENDENTI DALLE AZIENDE ARTIGIANE DEL FERRO E DEI METALLI DELLA PROVINCIA DI SAVONA.   
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=062U069200100010110004&dgu=1962-07-09&art.dataPubblicazioneGazzetta=1962-07-09&art.codiceRedazionale=062U0692)
-  
-  
-  
-ACCORDO COLLETTIVO 24 MARZO 1948 PER I DIPENDENTI DALLE AZIENDE ARTIGIANE DEI DECORATORI E VERNICIATORI DELLA PROVINCIA DI SAVONA.   
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=062U069200100010110005&dgu=1962-07-09&art.dataPubblicazioneGazzetta=1962-07-09&art.codiceRedazionale=062U0692)
-  
+GRONCHI FANFANI - SULLO Visto, il Guardasigilli: BOSCO Registrato alla Corte dei conti, addi' 9 giugno 1962 Atti del Governo, registro n. 149, foglio n. 39. - VILLA

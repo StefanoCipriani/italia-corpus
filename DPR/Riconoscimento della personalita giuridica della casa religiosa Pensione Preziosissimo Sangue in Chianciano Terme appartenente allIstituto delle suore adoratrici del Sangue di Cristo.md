@@ -1,19 +1,21 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 08 luglio 1978 n. 537
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 537
+data: 1978-07-08
+titolo: "Riconoscimento della personalita' giuridica della casa religiosa \"Pensione Preziosissimo Sangue\", in Chianciano Terme, appartenente all'Istituto delle suore adoratrici del Sangue di Cristo."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1978-07-08;537
+codice_redazionale: 078U0537
+vigente: true
+---
 
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 08 luglio 1978 n. 537
-=============================================================
-
-Riconoscimento della personalita' giuridica della casa religiosa "Pensione Preziosissimo Sangue", in Chianciano Terme, appartenente all'Istituto delle suore adoratrici del Sangue di Cristo.
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-537. Decreto del Presidente della Repubblica 8 luglio 1978, col quale, sulla proposta del Ministro dell'interno, viene riconosciuta la personalita' giuridica della casa religiosa "Pensione Preziosissimo Sangue", in Chianciano Terme (Siena), appartenente all'istituto delle suore adoratrici del Sangue di Cristo.  
-  
-Visto, il Guardasigilli: BONIFACIO  
-Registrato alla Corte dei conti, addi' 11 settembre 1978  
-Registro n. 16 Interno, foglio n. 310
+537.
+
+Decreto del Presidente della Repubblica 8 luglio 1978, col quale, sulla proposta del Ministro dell'interno, viene riconosciuta la personalita' giuridica della casa religiosa "Pensione Preziosissimo Sangue", in Chianciano Terme (Siena), appartenente all'istituto delle suore adoratrici del Sangue di Cristo.
+
+Visto, il Guardasigilli: BONIFACIO
+ Registrato alla Corte dei conti, addi' 11 settembre 1978
+ Registro n. 16 Interno, foglio n. 310

@@ -1,19 +1,21 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 04 agosto 1986 n. 617
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 617
+data: 1986-08-04
+titolo: "Pareggiamento della scuola di chitarra istituita presso l'istituto musicale comunale pareggiato \"Antonio Tonelli\" di Carpi."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1986-08-04;617
+codice_redazionale: 086U0617
+vigente: true
+---
 
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 04 agosto 1986 n. 617
-=============================================================
-
-Pareggiamento della scuola di chitarra istituita presso l'istituto musicale comunale pareggiato "Antonio Tonelli" di Carpi.
----------------------------------------------------------------------------------------------------------------------------
-
-Art. 1
-------
+## Art. 1.
 
 n.
 
-617. Decreto del Presidente della Repubblica 4 agosto 1986, col quale, sulla proposta del Ministro della pubblica istruzione, la scuola di chitarra, istituita presso l'istituto musicale comunale pareggiato "Antonio Tonelli" di Carpi (Modena), via S. Bernardino da Siena n. 10, gestito dal comune di Carpi, viene pareggiata, ai sensi del [regio decreto 15 maggio 1930, n. 1170](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-05-15;1170), ai conservatori di musica statali, con decorrenza giuridica dall'anno scolastico 1986-87.  
-  
-Visto, il Guardasigilli: ROGNONI  
-Registrato alla Corte dei conti, addi' 25 settembre 1986  
-Registro n. 72 Istruzione, foglio n. 139
+617.
+
+Decreto del Presidente della Repubblica 4 agosto 1986, col quale, sulla proposta del Ministro della pubblica istruzione, la scuola di chitarra, istituita presso l'istituto musicale comunale pareggiato "Antonio Tonelli" di Carpi (Modena), via S. Bernardino da Siena n. 10, gestito dal comune di Carpi, viene pareggiata, ai sensi del [regio decreto 15 maggio 1930, n. 1170](../Atti%20normativi%20abrogati%20%28in%20originale%29/Norme%20per%20il%20pareggiamento%20degli%20Istituti%20musicali.%20030U1170.md), ai conservatori di musica statali, con decorrenza giuridica dall'anno scolastico 1986-87.
+
+Visto, il Guardasigilli: ROGNONI
+ Registrato alla Corte dei conti, addi' 25 settembre 1986
+ Registro n. 72 Istruzione, foglio n. 139

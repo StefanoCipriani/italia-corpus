@@ -1,20 +1,22 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 maggio 1985 n. 391
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 391
+data: 1985-05-30
+titolo: "Riconoscimento, agli effetti civili, della modifica del territorio della parrocchia di S. Michele arcangelo, in Falconara Albanese."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1985-05-30;391
+codice_redazionale: 085U0391
+vigente: true
+---
 
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 maggio 1985 n. 391
-=============================================================
-
-Riconoscimento, agli effetti civili, della modifica del territorio della parrocchia di S. Michele arcangelo, in Falconara Albanese.
------------------------------------------------------------------------------------------------------------------------------------
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-391. Decreto del Presidente della Repubblica 30 maggio 1985, col quale, sulla proposta del Ministro dell'interno, viene riconosciuto, agli effetti civili, il decreto dell'amministratore apostolico di Lungro 29 giugno 1983, relativo alla incorporazione della contrada "Torremezzo" nel territorio della parrocchia di S.  
-Michele arcangelo, in Falconara Albanese (Cosenza), che viene separata dall'archidiocesi di Cosenza ed annessa all'eparchia di Lungro.  
-  
-Visto, il Guardasigilli: MARTINAZZOLI  
-Registrato alla Corte dei conti, addi' 18 luglio 1985  
-Registro n. 27 Interno, foglio n. 247
+391.
+
+Decreto del Presidente della Repubblica 30 maggio 1985, col quale, sulla proposta del Ministro dell'interno, viene riconosciuto, agli effetti civili, il decreto dell'amministratore apostolico di Lungro 29 giugno 1983, relativo alla incorporazione della contrada "Torremezzo" nel territorio della parrocchia di S.
+ Michele arcangelo, in Falconara Albanese (Cosenza), che viene separata dall'archidiocesi di Cosenza ed annessa all'eparchia di Lungro.
+
+Visto, il Guardasigilli: MARTINAZZOLI
+ Registrato alla Corte dei conti, addi' 18 luglio 1985
+ Registro n. 27 Interno, foglio n. 247

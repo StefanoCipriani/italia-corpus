@@ -1,19 +1,21 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 10 luglio 1984 n. 652
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 652
+data: 1984-07-10
+titolo: "Riconoscimento, agli effetti civili, della erezione della parrocchia di \"S. Maria delle Grazie\", in Lucera."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1984-07-10;652
+codice_redazionale: 084U0652
+vigente: true
+---
 
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 10 luglio 1984 n. 652
-=============================================================
-
-Riconoscimento, agli effetti civili, della erezione della parrocchia di "S. Maria delle Grazie", in Lucera.
------------------------------------------------------------------------------------------------------------
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-652. Decreto del Presidente della Repubblica 10 luglio 1984, col quale, sulla proposta del Ministro dell'interno, viene riconosciuto, agli effetti civili, il decreto dell'ordinario diocesano di Lucera 15 settembre 1983, integrato con due dichiarazioni del 4 ottobre 1983, relativo alla erezione della parrocchia di "S. Maria delle Grazie", in Lucera (Foggia).  
-  
-Visto, il Guardasigilli: MARTINAZZOLI  
-Registrato alla Corte dei conti, addi' 29 settembre 1984  
-Registro n. 32 Interno, foglio n. 43
+652.
+
+Decreto del Presidente della Repubblica 10 luglio 1984, col quale, sulla proposta del Ministro dell'interno, viene riconosciuto, agli effetti civili, il decreto dell'ordinario diocesano di Lucera 15 settembre 1983, integrato con due dichiarazioni del 4 ottobre 1983, relativo alla erezione della parrocchia di "S. Maria delle Grazie", in Lucera (Foggia).
+
+Visto, il Guardasigilli: MARTINAZZOLI
+ Registrato alla Corte dei conti, addi' 29 settembre 1984
+ Registro n. 32 Interno, foglio n. 43

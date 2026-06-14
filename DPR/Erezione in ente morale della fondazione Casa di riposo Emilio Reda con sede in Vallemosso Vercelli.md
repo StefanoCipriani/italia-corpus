@@ -1,19 +1,21 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 21 marzo 1957 n. 342
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 342
+data: 1957-03-21
+titolo: "Erezione in ente morale della fondazione \"Casa di riposo Emilio Reda\", con sede in Vallemosso (Vercelli)."
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1957-03-21;342
+codice_redazionale: 057U0342
+vigente: true
+---
 
-
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 21 marzo 1957 n. 342
-============================================================
-
-Erezione in ente morale della fondazione "Casa di riposo Emilio Reda", con sede in Vallemosso (Vercelli).
----------------------------------------------------------------------------------------------------------
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-342. Decreto del Presidente della Repubblica 21 marzo 1957, col quale, sulla proposta del Ministro per l'interno, la fondazione "Casa di riposo Emilio Reda", con sede in Vallemosso (Vercelli), viene eretta in ente morale e ne viene approvato lo statuto organico.   
-  
-Visto, il Guardasigilli: MORO   
-Registrato alla Corte dei conti, addi' 20 maggio 1957   
-Atti del Governo, registro n. 105, foglio n. 129. - CARLOMAGNO
+342.
+
+Decreto del Presidente della Repubblica 21 marzo 1957, col quale, sulla proposta del Ministro per l'interno, la fondazione "Casa di riposo Emilio Reda", con sede in Vallemosso (Vercelli), viene eretta in ente morale e ne viene approvato lo statuto organico. 
+ 
+Visto, il Guardasigilli: MORO 
+ Registrato alla Corte dei conti, addi' 20 maggio 1957 
+ Atti del Governo, registro n. 105, foglio n. 129. - CARLOMAGNO
